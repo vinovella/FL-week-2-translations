@@ -358,3 +358,11 @@ translate russian strings:
     old "Menu"
     new "Menu"
 
+# TODO: Translation updated at 2020-07-30 07:28
+
+translate russian strings:
+
+    # game/code/screens/screens.rpy:660
+    old "(set a name before saving your progress)"
+    new "(set a name before saving your progress)"
+

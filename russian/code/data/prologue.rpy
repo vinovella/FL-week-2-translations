@@ -110,3 +110,11 @@ translate russian strings:
     old "Anything (but just for points)"
     new "Anything (but just for points)"
 
+# TODO: Translation updated at 2020-07-30 07:28
+
+translate russian strings:
+
+    # game/code/data/prologue.rpy:32
+    old "Scat"
+    new "Scat"
+

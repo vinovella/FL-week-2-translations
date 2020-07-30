@@ -132,3 +132,65 @@ translate russian knockknock_a3fe61f9:
     # "Knock knock"
     "Knock knock"
 
+# TODO: Translation updated at 2020-07-30 07:27
+
+# game/code/labels.rpy:132
+translate russian coming_next_19d946e7:
+
+    # sy "Hey Daisy!"
+    sy "Hey Daisy!"
+
+# game/code/labels.rpy:136
+translate russian coming_next_f51b448d:
+
+    # dd "Yes sweety?"
+    dd "Yes sweety?"
+
+# game/code/labels.rpy:140
+translate russian coming_next_cc767eb3:
+
+    # sy "Do you think he will wait?"
+    sy "Do you think he will wait?"
+
+# game/code/labels.rpy:144
+translate russian coming_next_41e42ee3:
+
+    # dd "Who?"
+    dd "Who?"
+
+# game/code/labels.rpy:148
+translate russian coming_next_d98a7c41:
+
+    # sy "Him! The one behind this screen!"
+    sy "Him! The one behind this screen!"
+
+# game/code/labels.rpy:151
+translate russian coming_next_9d34f57d:
+
+    # dd "Wait for what?"
+    dd "Wait for what?"
+
+# game/code/labels.rpy:155
+translate russian coming_next_8e181c56:
+
+    # sy "Wait for the next game update?"
+    sy "Wait for the next game update?"
+
+# game/code/labels.rpy:158
+translate russian coming_next_57289a79:
+
+    # dd "Oh my dear! Don't you worry!"
+    dd "Oh my dear! Don't you worry!"
+
+# game/code/labels.rpy:161
+translate russian coming_next_15bd04e6:
+
+    # dd "He loves you!"
+    dd "He loves you!"
+
+# game/code/labels.rpy:164
+translate russian coming_next_c98f9c86:
+
+    # dd "And I'm sure he will be happy to play more once the week-2 will be realeased in 2021!"
+    dd "And I'm sure he will be happy to play more once the week-2 will be realeased in 2021!"
+
