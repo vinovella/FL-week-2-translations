@@ -10,7 +10,7 @@ translate italian d08s02_09bbae53:
 translate italian d08s02_9292edbd:
 
     # sy "Yeah, but the Kardassians are unrecognizable without a thick layer..."
-    sy "Certo, ma i Kardassians sono irriconoscibili senza uno strato consistente..."
+    sy "Certo, ma i Kardashians sono irriconoscibili senza uno strato consistente..."
 
 # game/code/d08/d08s02.rpy:10
 translate italian d08s02_802e8351:
@@ -88,7 +88,7 @@ translate italian d08s02_9f904d03:
 translate italian d08s02_aa573f2e:
 
     # arj "Well, don't practice on me! I prefer you being honest."
-    arj "Bene, non esercitarti con me! Preferisco che tu sia onesto."
+    arj "Non provarci a farlo con me! Preferisco che tu sia onesto."
 
 # game/code/d08/d08s02.rpy:34
 translate italian d08s02_62ab079c:
@@ -184,7 +184,7 @@ translate italian d08s02_2352cce5:
 translate italian d08s02_14ff7ff7:
 
     # sy "No, like if it was a girl, she might start with a large cucumber in her vag..."
-    sy "No, se fosse una ragazza, potrebbe cominciare con una grande zucchina nella sua vagina..."
+    sy "No, nel caso di una ragazza, lei potrebbe cominciare con una grande zucchina nella sua vagina..."
 
 # game/code/d08/d08s02.rpy:62
 translate italian d08s02_7cb49289:
@@ -298,7 +298,7 @@ translate italian d08s02_c122e1f8:
 translate italian d08s02_e55c617e:
 
     # mc "Nope, not listening to this."
-    mc "No, non ti sto più ascoltando."
+    mc "Non ti sto più ascoltando."
 
 # game/code/d08/d08s02.rpy:95
 translate italian d08s02_f1b59e15:
@@ -328,7 +328,7 @@ translate italian d08s02_9e8acfc2:
 translate italian d08s02_16e06539:
 
     # sy "Okay, but I'm asking about you. There was a lot of guys shoving-"
-    sy "Ok, ma io sto chiedendo informazioni su di te. C'erano un sacco di ragazzi che-"
+    sy "Ok, ma io sto chiedendo informazioni su di te. C'erano un sacco di foto di ragazzi che-"
 
 # game/code/d08/d08s02.rpy:102
 translate italian d08s02_83b8a4b5:
@@ -364,7 +364,7 @@ translate italian d08s02_60652925:
 translate italian d08s02_e3837dd8:
 
     # sy "Straight porn, group sex, lesbians..."
-    sy "Etero, Orgie, Lesbico..."
+    sy "Etero, Orgie, Lesbo..."
 
 # game/code/d08/d08s02.rpy:113
 translate italian d08s02_db058ec7:
@@ -388,7 +388,7 @@ translate italian d08s02_bc9c825c:
 translate italian d08s02_8a0761fa:
 
     # mc "Dammit."
-    mc "Diavolo."
+    mc "Maledizione."
 
 # game/code/d08/d08s02.rpy:119
 translate italian d08s02_d30d9e9c:
@@ -442,7 +442,7 @@ translate italian d08s02_3d890773:
 translate italian d08s02_453decdb:
 
     # arj "That wasn't kinky. They were just oblivious to anyone else around them."
-    arj "Non era strano. Solo che non si accorgevano più di nulla mentre lo facevano."
+    arj "Non era strano. Era come se fossero in una bolla quando lo facevano."
 
 # game/code/d08/d08s02.rpy:132
 translate italian d08s02_6a30bcdc:
@@ -460,7 +460,7 @@ translate italian d08s02_a8f52312:
 translate italian d08s02_71152dd8:
 
     # mc "Oh for the love of-"
-    mc "Oh per dio-"
+    mc "Oh, per d-"
 
 # game/code/d08/d08s02.rpy:137
 translate italian d08s02_945e046c:
@@ -532,7 +532,7 @@ translate italian d08s02_e5d30663:
 translate italian d08s02_8569eb29:
 
     # mct "Pete said, \"Dude - total failure. No luggage. Talk later.\" {w}Well, fuck..."
-    mct "Pete ha detto, \"Amico - Fallimento totale. Niente valigia. Dopo parliamo.\" {w}Beh, cazzo..."
+    mct "Pete ha detto, \"Amico - Fallimento totale. Niente valigia. Dopo parliamo.\" {w}cazzo..."
 
 # game/code/d08/d08s02.rpy:158
 translate italian d08s02_84cbc12d:
