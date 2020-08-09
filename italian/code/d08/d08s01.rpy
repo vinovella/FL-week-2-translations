@@ -4,7 +4,7 @@
 translate italian d08s01_a38e2739:
 
     # "Day 8"
-    "Giorno 8"
+    "8° giorno"
 
 # game/code/d08/d08s01.rpy:20
 translate italian d08s01_423607e1:
@@ -16,7 +16,7 @@ translate italian d08s01_423607e1:
 translate italian d08s01_f24b841d:
 
     # arj "Pssst... [mcname]... er.. Master? It is morning."
-    arj "Pssst... [mcname]... er.. Padrone? It is morning."
+    arj "Pssst... [mcname]... er.. Padrone? È mattino."
 
 # game/code/d08/d08s01.rpy:29
 translate italian d08s01_32ff21e3:
@@ -28,7 +28,7 @@ translate italian d08s01_32ff21e3:
 translate italian d08s01_edff960a:
 
     # mc "Huh? Oh, hey AmRose. What's up?"
-    mc "Huh? Oh, hey AmRose. Cosa c'è?"
+    mc "Eh? Oh, ehi AmRose. Cosa c'è?"
 
 # game/code/d08/d08s01.rpy:33
 translate italian d08s01_c58616dc:
@@ -40,7 +40,7 @@ translate italian d08s01_c58616dc:
 translate italian d08s01_05500ff6:
 
     # mc "Huh?"
-    mc "Huh?"
+    mc "Eh?"
 
 # game/code/d08/d08s01.rpy:35
 translate italian d08s01_abc1875e:
@@ -292,7 +292,7 @@ translate italian d08s01_bathe_131eebe5:
 translate italian d08s01_bathe_92bd92c2:
 
     # sy "Don't worry. It's okay. I understand. She's gorgeous."
-    sy "Non preoccuparti. Non c'è problema. Ti capisco. È molto bella."
+    sy "Non preoccuparti. Non c'è nessun problema. Ti capisco. È molto bella."
 
 # game/code/d08/d08s01.rpy:173
 translate italian d08s01_bathe_9f8f6e75:
@@ -406,7 +406,7 @@ translate italian d08s01_bathe_26901e33:
 translate italian d08s01_bathe_0c5d2dcb:
 
     # sy "Cum if you agree."
-    sy "Vieni se accetti."
+    sy "Vieni se accetti l'offerta."
 
 # game/code/d08/d08s01.rpy:226
 translate italian d08s01_bathe_232c3f6d:
@@ -430,7 +430,7 @@ translate italian strings:
 
     # game/code/d08/d08s01.rpy:87
     old "Kick Stacy out"
-    new "Caccia Stacy"
+    new "Cacci Stacy"
 
     # game/code/d08/d08s01.rpy:87
     old "Let Stacy bathe with you"
