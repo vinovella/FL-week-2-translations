@@ -358,169 +358,169 @@ translate italian d08s03_9e4cf501:
 translate italian d08s03_415e490a:
 
     # mc "Alright, I'm gonna go chat with Kevin."
-    mc "Alright, I'm gonna go chat with Kevin."
+    mc "D'accordo, vado a parlare con Kevin."
 
 # game/code/d08/d08s03.rpy:143
 translate italian d08s03_0c48932e:
 
     # mct "Weird. Maria is staring at me with those crazy stalker eyes."
-    mct "Weird. Maria is staring at me with those crazy stalker eyes."
+    mct "Strano. Maria mi sta fissando come una stalker."
 
 # game/code/d08/d08s03.rpy:147
 translate italian d08s03_ea9b9792:
 
     # arj "Don't be a stranger."
-    arj "Don't be a stranger."
+    arj "A presto."
 
 # game/code/d08/d08s03.rpy:152
 translate italian d08s03_87200cb2:
 
     # mc "Hey Kev, how was your weekend?"
-    mc "Hey Kev, how was your weekend?"
+    mc "Ehi Kev, com'è andato il tuo fine settimana?"
 
 # game/code/d08/d08s03.rpy:153
 translate italian d08s03_2d975032:
 
     # kb "A-maz-ing. You wouldn't even believe what I got up to yesterday if I told you."
-    kb "A-maz-ing. You wouldn't even believe what I got up to yesterday if I told you."
+    kb "Stu-pen-do. Non ci crederesti se ti dicessi cosa ho fatto ieri."
 
 # game/code/d08/d08s03.rpy:154
 translate italian d08s03_9a1c051d:
 
     # mct "Considering what I learned about him last week... {w}Yeah, he's probably right."
-    mct "Considering what I learned about him last week... {w}Yeah, he's probably right."
+    mct "Considerando cosa ho scoperto su di lui la scorsa settimana... {w}Si, probabilmente ha ragione."
 
 # game/code/d08/d08s03.rpy:156
 translate italian d08s03_12d3c264:
 
     # kb "What about you, [mcname]? Good weekend?"
-    kb "What about you, [mcname]? Good weekend?"
+    kb "E tu invece, [mcname]? Bel weekend?"
 
 # game/code/d08/d08s03.rpy:157
 translate italian d08s03_d5222758:
 
     # mc "Great weekend. You might not believe it."
-    mc "Great weekend. You might not believe it."
+    mc "Weekend epico. Potresti non credermi."
 
 # game/code/d08/d08s03.rpy:158
 translate italian d08s03_573312da:
 
     # kb "Try me."
-    kb "Try me."
+    kb "Sentiamo."
 
 # game/code/d08/d08s03.rpy:160
 translate italian d08s03_b7f9c574:
 
     # mc "Lydia and I had our first date on Saturday."
-    mc "Lydia and I had our first date on Saturday."
+    mc "Lydia ed io abbiamo avuto il nostro primo appuntamento sabato."
 
 # game/code/d08/d08s03.rpy:161
 translate italian d08s03_92e7f101:
 
     # kb "You mean her concert at the coffee shop, where she jumped off the stage and kissed you in front of everyone?"
-    kb "You mean her concert at the coffee shop, where she jumped off the stage and kissed you in front of everyone?"
+    kb "Intendi il suo concerto al bar, quello in cui è saltata giù dal palco e ti ha baciato davanti a tutti?"
 
 # game/code/d08/d08s03.rpy:162
 translate italian d08s03_5c829999:
 
     # mc "Exactly. It was so amazing."
-    mc "Exactly. It was so amazing."
+    mc "Esattamente. È stato fantastico."
 
 # game/code/d08/d08s03.rpy:163
 translate italian d08s03_61320ef8:
 
     # mc "She's got this perfect voice and afterwards we just sat there talking for hours..."
-    mc "She's got this perfect voice and afterwards we just sat there talking for hours..."
+    mc "Lei ha una voce sublime e abbiamo parlato per ore..."
 
 # game/code/d08/d08s03.rpy:165
 translate italian d08s03_bdaffafe:
 
     # kb "I know, dude. I was there."
-    kb "I know, dude. I was there."
+    kb "Lo so, amico. Io c'ero."
 
 # game/code/d08/d08s03.rpy:166
 translate italian d08s03_7234564e:
 
     # mc "Oh, shit. That's right. {w}I kinda forgot anyone else was there."
-    mc "Oh, shit. That's right. {w}I kinda forgot anyone else was there."
+    mc "Oh, merda. Hai ragione. {w}Mi sono dimenticato di chi era lì."
 
 # game/code/d08/d08s03.rpy:167
 translate italian d08s03_457ae91c:
 
     # mc "It felt like she was singing just for me."
-    mc "It felt like she was singing just for me."
+    mc "Mi sembrava stesse cantando solo per me."
 
 # game/code/d08/d08s03.rpy:169
 translate italian d08s03_43c3ded7:
 
     # kb "Yeah, but the room was full of people."
-    kb "Yeah, but the room was full of people."
+    kb "Si, ma la stanza era piena di gente."
 
 # game/code/d08/d08s03.rpy:175
 translate italian d08s03_53c693da:
 
     # mct "What the hell? Does she want something from me?"
-    mct "What the hell? Does she want something from me?"
+    mct "Ma che cazzo? Per caso vuole qualcosa da me?"
 
 # game/code/d08/d08s03.rpy:177
 translate italian d08s03_4b062766:
 
     # mc "Fine. So, yeah, then yesterday I was at the beach."
-    mc "Fine. So, yeah, then yesterday I was at the beach."
+    mc "Bene. Mentre ieri sono stato alla spiaggia."
 
 # game/code/d08/d08s03.rpy:178
 translate italian d08s03_e104beb9:
 
     # kb "For that kayaking competition? How was it?"
-    kb "For that kayaking competition? How was it?"
+    kb "Per la gara di kayak? Com'era?"
 
 # game/code/d08/d08s03.rpy:179
 translate italian d08s03_f658d5bd:
 
     # mc "Let's just say that I didn't see any of the kayaking."
-    mc "Let's just say that I didn't see any of the kayaking."
+    mc "Diciamo soltanto che non ho visto neanche un kayak ieri."
 
 # game/code/d08/d08s03.rpy:181
 translate italian d08s03_848aa8ff:
 
     # kb "Nice. {w}Ah, shit. Looks like the lecture is about to start."
-    kb "Nice. {w}Ah, shit. Looks like the lecture is about to start."
+    kb "Bene. {w}Ah, merda. Sembra che la lezione stia per cominciare."
 
 # game/code/d08/d08s03.rpy:182
 translate italian d08s03_a6be913e:
 
     # mc "So?"
-    mc "So?"
+    mc "Quindi?"
 
 # game/code/d08/d08s03.rpy:184
 translate italian d08s03_db230f4d:
 
     # kb "Seriously, we both need to buckle up..."
-    kb "Seriously, we both need to buckle up..."
+    kb "Seriamente, dobbiamo metterci sotto..."
 
 # game/code/d08/d08s03.rpy:185
 translate italian d08s03_be86f2ed:
 
     # mc "...buckle in?"
-    mc "...buckle in?"
+    mc "...metterci sotto?"
 
 # game/code/d08/d08s03.rpy:187
 translate italian d08s03_b706c3fc:
 
     # kb "We both need to buckle something and pay attention if we're going to be ready for finals."
-    kb "We both need to buckle something and pay attention if we're going to be ready for finals."
+    kb "Dobbiamo stare attenti per essere pronti per gli esami."
 
 # game/code/d08/d08s03.rpy:188
 translate italian d08s03_a42ad403:
 
     # mc "Yeah, I guess you're right."
-    mc "Yeah, I guess you're right."
+    mc "Si, credo tu abbia ragione."
 
 # game/code/d08/d08s03.rpy:193
 translate italian d08s03_51142325:
 
     # rn "Today, class, we will be discussing the history of..."
-    rn "Today, class, we will be discussing the history of..."
+    rn "Oggi, ragazzi, parleremo della storia di..."
 
 # game/code/d08/d08s03.rpy:194
 translate italian d08s03_1d9b9f55:
@@ -532,127 +532,127 @@ translate italian d08s03_1d9b9f55:
 translate italian d08s03_ed7c6e73:
 
     # mct "Is Maria looking at me again, or has she been staring at me this whole time?"
-    mct "Is Maria looking at me again, or has she been staring at me this whole time?"
+    mct "Maria mi sta ancora fissando, o mi ha continuato a fissare per tutto il tempo?"
 
 # game/code/d08/d08s03.rpy:207
 translate italian d08s03_c24affd4:
 
     # mct "Huh. It's a message from Squizzle."
-    mct "Huh. It's a message from Squizzle."
+    mct "Huh. Un messaggio da parte di Squizzle."
 
 # game/code/d08/d08s03.rpy:208
 translate italian d08s03_665c43c1:
 
     # mct "I wonder why Min isn't just texting me - she knows who I am."
-    mct "I wonder why Min isn't just texting me - she knows who I am."
+    mct "Mi chiedo perchè Min non stia usando gli SMS - sa chi sono."
 
 # game/code/d08/d08s03.rpy:209
 translate italian d08s03_cdb4c145:
 
     # mct "Oh, right. She's got that whole thing where Squizzle can do things Min never would."
-    mct "Oh, right. She's got that whole thing where Squizzle can do things Min never would."
+    mct "Oh, giusto. Squizzle fa cose che Min non farebbe mai."
 
 # game/code/d08/d08s03.rpy:215
 translate italian d08s03_9426416c:
 
     # mct "Squizzle can get her pussy eaten out without cheating on her boyfriend."
-    mct "Squizzle can get her pussy eaten out without cheating on her boyfriend."
+    mct "Squizzle può farsi leccare la figa senza aver tradito il suo ragazzo."
 
 # game/code/d08/d08s03.rpy:221
 translate italian d08s03_bd242c3d:
 
     # mct "Squizzle and I can strip naked and swap pee without cheating on her boyfriend."
-    mct "Squizzle and I can strip naked and swap pee without cheating on her boyfriend."
+    mct "Squizzle ed io possiamo andare in giro nudi e bere la nostra pipì a vicenda senza tradire il suo ragazzo."
 
 # game/code/d08/d08s03.rpy:227
 translate italian d08s03_12871f42:
 
     # mct "Squizzle can have my dick in her mouth without cheating on her boyfriend."
-    mct "Squizzle can have my dick in her mouth without cheating on her boyfriend."
+    mct "Squizzle può avere il mio cazzo in bocca senza tradire il suo ragazzo."
 
 # game/code/d08/d08s03.rpy:233
 translate italian d08s03_30440b27:
 
     # mct "Squizzle can tongue fuck my mouth while we sloppily swap mouthfuls of piss without cheating on her boyfriend."
-    mct "Squizzle can tongue fuck my mouth while we sloppily swap mouthfuls of piss without cheating on her boyfriend."
+    mct "Squizzle può limonare con me mentre ha la bocca piena della mia pipì senza tradire il suo ragazzo."
 
 # game/code/d08/d08s03.rpy:235
 translate italian d08s03_afccbe42:
 
     # mct "Squizzle could probably... {w}anyway, let's see what she wants."
-    mct "Squizzle could probably... {w}anyway, let's see what she wants."
+    mct "Squizzle potrebbe... {w}In ogni caso, vediamo cosa vuole."
 
 # game/code/d08/d08s03.rpy:236
 translate italian d08s03_f3b91237:
 
     # mct "Oh, she wants me to meet her after class... {w}in the Men's Room?!"
-    mct "Oh, she wants me to meet her after class... {w}in the Men's Room?!"
+    mct "Oh, vuole incontrarmi dopo lezione... {w}nel bagno dei ragazzi?!"
 
 # game/code/d08/d08s03.rpy:237
 translate italian d08s03_030896a6:
 
     # mct "This has to be related to the pissing, doesn't it?"
-    mct "This has to be related to the pissing, doesn't it?"
+    mct "Deve avere a che fare con la pipì, o no?"
 
 # game/code/d08/d08s03.rpy:238
 translate italian d08s03_a0c15eb0:
 
     # mct "Hmm. I'm supposed to be her pee guru. Her master of urination."
-    mct "Hmm. I'm supposed to be her pee guru. Her master of urination."
+    mct "Hmm. Io dovrei essere il suo guru del piscio. Il suo maestro di urinazione."
 
 # game/code/d08/d08s03.rpy:239
 translate italian d08s03_5ce36734:
 
     # mct "I doubt that I can find a watersports course curriculum online."
-    mct "I doubt that I can find a watersports course curriculum online."
+    mct "Dubito di poter trovare un corso di pisciate online."
 
 # game/code/d08/d08s03.rpy:243
 translate italian d08s03_e1fde363:
 
     # rn "Excuse me - did I miss something?"
-    rn "Excuse me - did I miss something?"
+        rn "Mi scusi - non ha capito bene qualcosa?"
 
 # game/code/d08/d08s03.rpy:245
 translate italian d08s03_8e21e123:
 
     # rn "Miss Jenkins. Amber-Rose, would you like to tell me why everyone in my class suddenly has their phones out?"
-    rn "Miss Jenkins. Amber-Rose, would you like to tell me why everyone in my class suddenly has their phones out?"
+    rn "Miss Jenkins. Amber-Rose, mi potresti dire perchè tutti stanno usando il telefono durante la mia lezione?"
 
 # game/code/d08/d08s03.rpy:247
 translate italian d08s03_ab0e4d14:
 
     # arj "No, sir. I'm sorry."
-    arj "No, sir. I'm sorry."
+    arj "No, Prof. Mi scusi."
 
 # game/code/d08/d08s03.rpy:249
 translate italian d08s03_b69f5a07:
 
     # rn "Very well. Mr. Bennet. Kevin, is there some urgent news? Maybe a terrorist attack?"
-    rn "Very well. Mr. Bennet. Kevin, is there some urgent news? Maybe a terrorist attack?"
+    rn "Benissimo. Mr. Bennet. Kevin, ci sono delle notizione straordinarie? Magari un'attacco terroristico?"
 
 # game/code/d08/d08s03.rpy:251
 translate italian d08s03_99f98c53:
 
     # kb "No, sir."
-    kb "No, sir."
+    kb "No, Prof."
 
 # game/code/d08/d08s03.rpy:253
 translate italian d08s03_609af294:
 
     # rn "Perhaps the building is on fire? Some celebrity spotted without their underwear?"
-    rn "Perhaps the building is on fire? Some celebrity spotted without their underwear?"
+    rn "Magari l'università va a fuoco? O hanno visto qualche celebrità senza le mutande?"
 
 # game/code/d08/d08s03.rpy:255
 translate italian d08s03_3e6aff8e:
 
     # kb "No. It's just... {w}It's nothing like that. Just some game."
-    kb "No. It's just... {w}It's nothing like that. Just some game."
+    kb "No. È solo che... {w}Non è nulla di tutto ciò. Solo un gioco."
 
 # game/code/d08/d08s03.rpy:257
 translate italian d08s03_d14c87d9:
 
     # rn "Any objections if I continue with class? Fine, good. Let's continue."
-    rn "Any objections if I continue with class? Fine, good. Let's continue."
+    rn "Qualche problema se continuo la lezione? Bene. Continiuamo."
 
 # game/code/d08/d08s03.rpy:258
 translate italian d08s03_d3a88b30:
