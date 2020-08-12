@@ -20,7 +20,7 @@ translate italian strings:
 
     # game/code/data/prologue.rpy:14
     old "The M.I.L.F."
-    new "The M.I.L.F."
+    new "La M.I.L.F."
 
     # game/code/data/prologue.rpy:14
     old "Charming Chloe"
@@ -109,4 +109,16 @@ translate italian strings:
     # game/code/data/prologue.rpy:32
     old "Scat"
     new "Scat"
+
+# TODO: Translation updated at 2020-08-10 14:27
+
+translate italian strings:
+
+    # game/code/data/prologue.rpy:16
+    old "The sister"
+    new "La sorella"
+
+    # game/code/data/prologue.rpy:16
+    old "The close childhood friend"
+    new "L'amica d'infanzia"
 

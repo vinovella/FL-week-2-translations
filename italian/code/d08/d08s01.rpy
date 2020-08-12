@@ -436,3 +436,53 @@ translate italian strings:
     old "Let Stacy bathe with you"
     new "Let Stacy bathe with you"
 
+# TODO: Translation updated at 2020-08-10 14:27
+
+# game/code/d08/d08s01.rpy:36
+translate italian d08s01_b602ab1e:
+
+    # arj "Stacy."
+    arj "Stacy."
+
+# game/code/d08/d08s01.rpy:41
+translate italian d08s01_7e8e1557:
+
+    # arj "I was trying to sneak out of bed and spend a little alone time with you, but your friend is awake."
+    arj "I was trying to sneak out of bed and spend a little alone time with you, but your friend is awake."
+
+# game/code/d08/d08s01.rpy:58
+translate italian d08s01_5ef05107:
+
+    # arj "You might want to get a shower before Stacy and I use up all the hot water."
+    arj "You might want to get a shower before Stacy and I use up all the hot water."
+
+# game/code/d08/d08s01.rpy:96
+translate italian d08s01_68bbf00d:
+
+    # mct "But this is not back home! AmRose is in the other room!"
+    mct "But this is not back home! AmRose is in the other room!"
+
+# game/code/d08/d08s01.rpy:98
+translate italian d08s01_11d1e060:
+
+    # mct "But this is too risky! AmRose is in the other room!"
+    mct "But this is too risky! AmRose is in the other room!"
+
+# game/code/d08/d08s01.rpy:103
+translate italian d08s01_96d7486d:
+
+    # mc "No, no! Wait your turn. I'll be quick."
+    mc "No, no! Wait your turn. I'll be quick."
+
+# game/code/d08/d08s01.rpy:115
+translate italian d08s01_solo_7c561514:
+
+    # mct "This is for the best."
+    mct "This is for the best."
+
+# game/code/d08/d08s01.rpy:192
+translate italian d08s01_bathe_3dc90035:
+
+    # mct "Oh! She is squeezing my balls!"
+    mct "Oh! She is squeezing my balls!"
+

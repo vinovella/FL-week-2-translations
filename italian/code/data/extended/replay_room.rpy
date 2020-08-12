@@ -298,23 +298,19 @@ translate italian strings:
     old "Enjoy the rimjob"
     new "Goditi la leccata"
 
-# TODO: Translation updated at 2020-07-30 07:39
-
-translate italian strings:
-
     # game/code/data/extended/replay_room.rpy:15
     old "Take a picture of Chloe"
-    new "Take a picture of Chloe"
+    new "Scatta una foto di Chloe"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Cum on AmRose"
-    new "Cum on AmRose"
+    new "Vieni su AmRose"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Keep watching"
-    new "Keep watching"
+    new "Continua a guardare"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Take a picture of AmRose's foot"
-    new "Take a picture of AmRose's foot"
+    new "Scatta una foto al piede di AmRose"
 

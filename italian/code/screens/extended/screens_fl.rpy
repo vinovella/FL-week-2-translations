@@ -17,3 +17,4 @@ translate italian strings:
     # game/code/screens/extended/screens_fl.rpy:23
     old "Bonus Content"
     new "Contenuti sepciali"
+

@@ -221,11 +221,8 @@ translate italian strings:
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 7: Evening"
     new "7° giorno: sera"
-# TODO: Translation updated at 2020-07-30 07:39
-
-translate italian strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Flirt with Vanessa"
-    new "Flirt with Vanessa"
+    new "Flirta con Vanessa"
 

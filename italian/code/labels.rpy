@@ -125,3 +125,9 @@ translate italian coming_next_c98f9c86:
 
     # dd "And I'm sure he will be happy to play more once the week-2 will be realeased in 2021!"
     dd "E sono certa che, quando la seconda settimana sarà pubblicata nel 2021, sarà felice di giocarla!"
+
+# game/code/labels.rpy:75
+translate italian end_2056bcfe:
+
+    # "Special thanks to: Theo Malt, scrumbles, Simfer, owlkc, JEFF72, FlashNewton, Wycd.Wsyd, Da Sechs, Bittersweet1987"
+    "Un ringraziamento speciale a: Theo Malt, scrumbles, Simfer, owlkc, JEFF72, FlashNewton, Wycd.Wsyd, Da Sechs, Bittersweet1987"

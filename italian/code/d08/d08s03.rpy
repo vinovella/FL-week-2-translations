@@ -1310,3 +1310,71 @@ translate italian strings:
     old "It was an accident"
     new "It was an accident"
 
+# TODO: Translation updated at 2020-08-10 14:27
+
+# game/code/d08/d08s03.rpy:41
+translate italian d08s03_20ef59dd:
+
+    # mes "Shhhhh. {w}Don't yell it out to everybody."
+    mes "Shhhhh. {w}Don't yell it out to everybody."
+
+# game/code/d08/d08s03.rpy:51
+translate italian d08s03_ee47e49d:
+
+    # mc "But if you're sure that I can get enough points for the Party, why not just invite me?"
+    mc "But if you're sure that I can get enough points for the Party, why not just invite me?"
+
+# game/code/d08/d08s03.rpy:143
+translate italian d08s03_254d4ec2:
+
+    # mct "Weird. Maria is staring at me with crazy stalker eyes."
+    mct "Weird. Maria is staring at me with crazy stalker eyes."
+
+# game/code/d08/d08s03.rpy:236
+translate italian d08s03_da13a8f7:
+
+    # mct "Oh, she wants me to meet her after class... {w}at the Men's Room?!"
+    mct "Oh, she wants me to meet her after class... {w}at the Men's Room?!"
+
+# game/code/d08/d08s03.rpy:265
+translate italian d08s03_c5c7c1f2:
+
+    # mct "Huh. Last Monday was cum. Today is a blowjob. I guess Mondays are for men."
+    mct "Huh. Last Monday was cum. Today is a blowjob. I guess Mondays are for men."
+
+# game/code/d08/d08s03.rpy:326
+translate italian d08s03_ab4411c4:
+
+    # mc "Take it out and feel it in your hand."
+    mc "Take it out and feel it in your hand."
+
+# game/code/d08/d08s03.rpy:375
+translate italian d08s03_58c7d629:
+
+    # mct "In the dream it felt like heaven. But in real life it just feels like she's never given head before..."
+    mct "In the dream it felt like heaven. But in real life it just feels like she's never given head before..."
+
+# game/code/d08/d08s03.rpy:380
+translate italian d08s03_a027693c:
+
+    # mct "She's even scraping my dick with her teeth a bit..."
+    mct "She's even scraping my dick with her teeth a bit..."
+
+# game/code/d08/d08s03.rpy:385
+translate italian d08s03_ad69a398:
+
+    # mct "But I have to give her an A for the effort! She is trying hard!"
+    mct "But I have to give her an A for the effort! She is trying hard!"
+
+# game/code/d08/d08s03.rpy:450
+translate italian d08s03_9e26a891:
+
+    # rn "Of course. Your classmate already mentioned it was a treatment for drug addiction."
+    rn "Of course. Your classmate already mentioned it was a treatment for drug addiction."
+
+# game/code/d08/d08s03.rpy:497
+translate italian d08s03_end_6bf3ab4e:
+
+    # mct "Alright, time to meet Squizzle at the toilet."
+    mct "Alright, time to meet Squizzle at the toilet."
+

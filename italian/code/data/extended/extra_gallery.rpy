@@ -134,19 +134,15 @@ translate italian strings:
     old "You have seen all the possible pictures that Maria can send"
     new "Hai visto tutto le foto che Maria potesse mandarti"
 
-# TODO: Translation updated at 2020-07-30 07:39
-
-translate italian strings:
-
     # game/code/data/extended/extra_gallery.rpy:15
     old "Enter with Eyes Down as ordered"
-    new "Enter with Eyes Down as ordered"
+    new "Entra con lo sguardo in basso come ordinato"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Contact URLittlePony"
-    new "Contact URLittlePony"
+    new "Contatta URLittlePony"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Make AmRose your secret girlfriend"
-    new "Make AmRose your secret girlfriend"
+    new "Accetta AmRose come fidanzata segreta"
 
