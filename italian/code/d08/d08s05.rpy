@@ -718,495 +718,495 @@ translate italian d08s05_dd_feb0aa65:
 translate italian d08s05_dw_6d1a5426:
 
     # mc "See that woman over there? That's Dahlia."
-    mc "See that woman over there? That's Dahlia."
+    mc "Vedi quella ragazza lì? Quella è Dahlia."
 
 # game/code/d08/d08s05.rpy:257
 translate italian d08s05_dw_0110ec89:
 
     # sy "You said she should be around her. I guess you were right."
-    sy "You said she should be around her. I guess you were right."
+    sy "Avevi detto che probabilmente stava in giro da queste parti. Pare che ci hai azzeccato."
 
 # game/code/d08/d08s05.rpy:264
 translate italian d08s05_dw_5d822aea:
 
     # mc "Yep. {w}Hey there, Dahlia!"
-    mc "Yep. {w}Hey there, Dahlia!"
+    mc "Già.{w} Ehi, Dahlia!"
 
 # game/code/d08/d08s05.rpy:265
 translate italian d08s05_dw_0a84f66d:
 
     # dw "Oh, if it isn't my least favorite slave."
-    dw "Oh, if it isn't my least favorite slave."
+    dw "Oh, guarda chi si vede: il mio schiavetto meno preferito."
 
 # game/code/d08/d08s05.rpy:267
 translate italian d08s05_dw_8ddece80:
 
     # sy "Did she just call you her slave?"
-    sy "Did she just call you her slave?"
+    sy "Ho capito bene? Ti ha chiamato \"schiavetto\"?"
 
 # game/code/d08/d08s05.rpy:268
 translate italian d08s05_dw_c2ae4ef3:
 
     # mc "Heh... um..."
-    mc "Heh... um..."
+    mc "Eh... uhm..."
 
 # game/code/d08/d08s05.rpy:269
 translate italian d08s05_dw_2fd7fd8a:
 
     # mct "This might not be as easy as I thought."
-    mct "This might not be as easy as I thought."
+    mct "Mi sa che non sarà una passeggiata come pensavo."
 
 # game/code/d08/d08s05.rpy:272
 translate italian d08s05_dw_61e5b595:
 
     # mc "Dahlia! {w}Have you met my sister, Stacy?"
-    mc "Dahlia! {w}Have you met my sister, Stacy?"
+    mc "Dahlia!{w} Ti presento mia sorella Stacy."
 
 # game/code/d08/d08s05.rpy:274
 translate italian d08s05_dw_f867e91d:
 
     # mc "Dahlia! {w}This is Stacy. Stacy, this is Dahlia."
-    mc "Dahlia! {w}This is Stacy. Stacy, this is Dahlia."
+    mc "Dahlia!{w} Lei è Stacy. Stacy, lei è Dahlia."
 
 # game/code/d08/d08s05.rpy:276
 translate italian d08s05_dw_90e89a47:
 
     # dw "Hi Stacy. Would you enjoy a little roleplay?"
-    dw "Hi Stacy. Would you enjoy a little roleplay?"
+    dw "Ciao, Stacy. Ti va di giocare di ruolo?"
 
 # game/code/d08/d08s05.rpy:278
 translate italian d08s05_dw_7e8b2165:
 
     # sy "Depends. Are you going to be the Dungeon Master or the Mistress?"
-    sy "Depends. Are you going to be the Dungeon Master or the Mistress?"
+    sy "Dipende. Che parte fai, la Dungeon Mistress o la Padrona {i}tout court{/i}?"
 
 # game/code/d08/d08s05.rpy:280
 translate italian d08s05_dw_e9f6f6e2:
 
     # dw "Very good. I like her."
-    dw "Very good. I like her."
+    dw "Bella risposta. Mi piace."
 
 # game/code/d08/d08s05.rpy:281
 translate italian d08s05_dw_d868b172:
 
     # mc "I'm... glad."
-    mc "I'm... glad."
+    mc "Mi... fa piacere."
 
 # game/code/d08/d08s05.rpy:283
 translate italian d08s05_dw_f61f66e0:
 
     # dw "Come now, don't tell me you've forgotten how to properly address me."
-    dw "Come now, don't tell me you've forgotten how to properly address me."
+    dw "Andiamo, non dirmi che ti sei dimenticato il modo con cui ti devi rivolgere a me."
 
 # game/code/d08/d08s05.rpy:285
 translate italian d08s05_dw_08f1b822:
 
     # mc "I'd love to play, but we're kinda in a hurry. Right, Stacy?"
-    mc "I'd love to play, but we're kinda in a hurry. Right, Stacy?"
+    mc "Mi piacerebbe molto giocare, ma andiamo un po' di fretta. Vero, Stacy?"
 
 # game/code/d08/d08s05.rpy:287
 translate italian d08s05_dw_e0798176:
 
     # sy "Oh no, this sounds like too much fun. I wish I had some popcorn."
-    sy "Oh no, this sounds like too much fun. I wish I had some popcorn."
+    sy "Oh, no: la cosa suona divertente. Se solo avessi dei popcorn."
 
 # game/code/d08/d08s05.rpy:289
 translate italian d08s05_dw_a8a9cf63:
 
     # dw "See? It's unanimous."
-    dw "See? It's unanimous."
+    dw "Vedi? La maggioranza vince."
 
 # game/code/d08/d08s05.rpy:291
 translate italian d08s05_dw_7458e4ba:
 
     # mc "But, I don't want-"
-    mc "But, I don't want-"
+    mc "Ma io non voglio..."
 
 # game/code/d08/d08s05.rpy:293
 translate italian d08s05_dw_5ee80470:
 
     # dw "No, no, no. Don't lie. You know you want to play."
-    dw "No, no, no. Don't lie. You know you want to play."
+    dw "No, no, no. Non mentire. So che anche tu lo vuoi."
 
 # game/code/d08/d08s05.rpy:295
 translate italian d08s05_dw_4b5ff222:
 
     # mc "*sigh* Yes, Mistress."
-    mc "*sigh* Yes, Mistress."
+    mc "*(sospira)* Sì, Padrona."
 
 # game/code/d08/d08s05.rpy:297
 translate italian d08s05_dw_cfc5fbfb:
 
     # dw "That's a good start. Now, do it properly. On your knees."
-    dw "That's a good start. Now, do it properly. On your knees."
+    dw "Come inizio non c'è male. Adesso rifallo, ma come si deve. In ginocchio."
 
 # game/code/d08/d08s05.rpy:301
 translate italian d08s05_dw_b5d6a09a:
 
     # mc "You can't mean for me to do this here... in public?"
-    mc "You can't mean for me to do this here... in public?"
+    mc "Andiamo, non vorrai mica farmelo fare qui, in pubblico?"
 
 # game/code/d08/d08s05.rpy:302
 translate italian d08s05_dw_9baeba78:
 
     # dw "Would you prefer that I make some noise and then spank you in front of a crowd?"
-    dw "Would you prefer that I make some noise and then spank you in front of a crowd?"
+    dw "Preferisci che mi metta a fare casino e ti sculacci davanti a tutti?"
 
 # game/code/d08/d08s05.rpy:303
 translate italian d08s05_dw_766fbcc4:
 
     # mc "What? No!"
-    mc "What? No!"
+    mc "Eh? No!"
 
 # game/code/d08/d08s05.rpy:305
 translate italian d08s05_dw_f49c51d0:
 
     # dw "Excuse me?"
-    dw "Excuse me?"
+    dw "Scusa?"
 
 # game/code/d08/d08s05.rpy:306
 translate italian d08s05_dw_07dcbcad:
 
     # mc "I mean, please, no. Please, don't do that, Mistress."
-    mc "I mean, please, no. Please, don't do that, Mistress."
+    mc "Volevo dire: no, per favore. La prego, Padrona, non lo faccia."
 
 # game/code/d08/d08s05.rpy:310
 translate italian d08s05_dw_2231a2cf:
 
     # mc "Yes, Mistress. Please forgive me, Mistress."
-    mc "Yes, Mistress. Please forgive me, Mistress."
+    mc "Sì, Padrona. La prego di perdonarmi, Padrona."
 
 # game/code/d08/d08s05.rpy:312
 translate italian d08s05_dw_8fe19cec:
 
     # dw "Better. Now kneel."
-    dw "Better. Now kneel."
+    dw "Meglio. Ora in ginocchio."
 
 # game/code/d08/d08s05.rpy:315
 translate italian d08s05_dw_e2f9c32f:
 
     # dw "Good, good. Are you enjoying yourself?"
-    dw "Good, good. Are you enjoying yourself?"
+    dw "Molto bene. E tu, ti stai divertendo?"
 
 # game/code/d08/d08s05.rpy:317
 translate italian d08s05_dw_ee2aaa9b:
 
     # sy "Oh my, yes. Does he do any tricks?"
-    sy "Oh my, yes. Does he do any tricks?"
+    sy "Oddio, sì. Che altro fa?"
 
 # game/code/d08/d08s05.rpy:319
 translate italian d08s05_dw_6bac721e:
 
     # dw "Stacy, was it? Did you want to be audience or participant?"
-    dw "Stacy, was it? Did you want to be audience or participant?"
+    dw "Stacy, giusto? Preferisci far parte del pubblico o partecipare?"
 
 # game/code/d08/d08s05.rpy:321
 translate italian d08s05_dw_549e8ea5:
 
     # dw "There's plenty of room here for another slave kneeling before me."
-    dw "There's plenty of room here for another slave kneeling before me."
+    dw "Qui c'è spazio a sufficienza per un'altra schiavetta che s'inchini di fronte a me."
 
 # game/code/d08/d08s05.rpy:327
 translate italian d08s05_dw_e2f543a6:
 
     # sy "Audience. Definitely audience."
-    sy "Audience. Definitely audience."
+    sy "Pubblico. Decisamente parte del pubblico."
 
 # game/code/d08/d08s05.rpy:329
 translate italian d08s05_dw_999e1c24:
 
     # dw "Good, then shhh."
-    dw "Good, then shhh."
+    dw "Ottimo. Allora: shhh."
 
 # game/code/d08/d08s05.rpy:331
 translate italian d08s05_dw_fbbb0f24:
 
     # dw "So, is my slave to keep me waiting? Tell your Mistress if you are enjoying yourself."
-    dw "So, is my slave to keep me waiting? Tell your Mistress if you are enjoying yourself."
+    dw "Allora, perché il mio schiavetto mi sta facendo aspettare? Rispondi alla tua Padrona: ti stai divertendo?"
 
 # game/code/d08/d08s05.rpy:333
 translate italian d08s05_dw_7fd3a623:
 
     # mc "Yes, Mistress."
-    mc "Yes, Mistress."
+    mc "Sì, Padrona."
 
 # game/code/d08/d08s05.rpy:334
 translate italian d08s05_dw_0965319c:
 
     # dw "I thought so."
-    dw "I thought so."
+    dw "Lo immaginavo."
 
 # game/code/d08/d08s05.rpy:336
 translate italian d08s05_dw_975ccae0:
 
     # dw "Hmm... there's something wrong here."
-    dw "Hmm... there's something wrong here."
+    dw "Mh... Però c'è qualcosa che non va."
 
 # game/code/d08/d08s05.rpy:337
 translate italian d08s05_dw_c414faf3:
 
     # dw "Yes, yes. Something is definitely not proper about this."
-    dw "Yes, yes. Something is definitely not proper about this."
+    dw "Sì, decisamente c'è qualcosa che non dovrebbe esserci."
 
 # game/code/d08/d08s05.rpy:339
 translate italian d08s05_dw_0ba25fbe:
 
     # dw "Oh, I know what it is! What you're wearing is completely inappropriate."
-    dw "Oh, I know what it is! What you're wearing is completely inappropriate."
+    dw "Ah, ho capito cosa! Il tuo abbigliamento è del tutto inappropriato."
 
 # game/code/d08/d08s05.rpy:340
 translate italian d08s05_dw_4433c6e6:
 
     # mc "I'm sorry, Mistress."
-    mc "I'm sorry, Mistress."
+    mc "Mi perdoni, Padrona."
 
 # game/code/d08/d08s05.rpy:342
 translate italian d08s05_dw_6ec54438:
 
     # dw "Hmm... Stacy, how should he correct his apparel?"
-    dw "Hmm... Stacy, how should he correct his apparel?"
+    dw "Uhm... Stacy, che dovrebbe fare per correggere il suo abbigliamento?"
 
 # game/code/d08/d08s05.rpy:344
 translate italian d08s05_dw_7eef1638:
 
     # sy "Oh, well... {w}Clearly he should be barefoot."
-    sy "Oh, well... {w}Clearly he should be barefoot."
+    sy "Vediamo...{w} Direi proprio che dovrebbe stare scalzo."
 
 # game/code/d08/d08s05.rpy:346
 translate italian d08s05_dw_ae3b6be8:
 
     # dw "Excellent suggestion."
-    dw "Excellent suggestion."
+    dw "Ottimo suggerimento."
 
 # game/code/d08/d08s05.rpy:348
 translate italian d08s05_dw_4cd8fefd:
 
     # dw "Slave, take off your shoes."
-    dw "Slave, take off your shoes."
+    dw "Schiavo, levati le scarpe."
 
 # game/code/d08/d08s05.rpy:349
 translate italian d08s05_dw_27bd83cd:
 
     # mct "At least this can't get much more embarrassing... can it?"
-    mct "At least this can't get much more embarrassing... can it?"
+    mct "Per lo meno la situazione non può diventare più imbarazzante di così. O no?"
 
 # game/code/d08/d08s05.rpy:350
 translate italian d08s05_dw_7fd3a623_1:
 
     # mc "Yes, Mistress."
-    mc "Yes, Mistress."
+    mc "Sì, Padrona."
 
 # game/code/d08/d08s05.rpy:354
 translate italian d08s05_dw_333e1ebd:
 
     # dw "Now slave, think back to our previous interactions. How should you be dressed in front of me?"
-    dw "Now slave, think back to our previous interactions. How should you be dressed in front of me?"
+    dw "E ora, schiavo, ripensa ai nostri precedenti incontri. Come dovresti essere vestito in mia presenza?"
 
 # game/code/d08/d08s05.rpy:355
 translate italian d08s05_dw_ba203ecd:
 
     # mct "What? She can't be serious."
-    mct "What? She can't be serious."
+    mct "Eh? Non può dire sul serio."
 
 # game/code/d08/d08s05.rpy:357
 translate italian d08s05_dw_2496bc44:
 
     # dw "I'm waiting..."
-    dw "I'm waiting..."
+    dw "Sto aspettando."
 
 # game/code/d08/d08s05.rpy:359
 translate italian d08s05_dw_7d0f621d:
 
     # mc "I'm unsure, Mistress."
-    mc "I'm unsure, Mistress."
+    mc "Non sono del tutto sicuro, Padrona."
 
 # game/code/d08/d08s05.rpy:361
 translate italian d08s05_dw_16fed8ed:
 
     # dw "I doubt that. Well, if you don't know then you may beg me to remind you."
-    dw "I doubt that. Well, if you don't know then you may beg me to remind you."
+    dw "Ne dubito. Ma se davvero non lo sai, puoi implorarmi di ricordartelo."
 
 # game/code/d08/d08s05.rpy:362
 translate italian d08s05_dw_522460b0:
 
     # mct "Oh crap. She wants me to beg her to tell me to strip naked right here in public while Stacy is watching?"
-    mct "Oh crap. She wants me to beg her to tell me to strip naked right here in public while Stacy is watching?"
+    mct "Merda. Non vorrà mica che le chieda di ordinarmi di spogliarmi, qui in pubblico e per giunta con Stacy che guarda?"
 
 # game/code/d08/d08s05.rpy:364
 translate italian d08s05_dw_80a5c16f:
 
     # mc "Umm..."
-    mc "Umm..."
+    mc "Ehm..."
 
 # game/code/d08/d08s05.rpy:366
 translate italian d08s05_dw_da6a3daa:
 
     # sy "I hate to interrupt. This is a lot of fun, but-"
-    sy "I hate to interrupt. This is a lot of fun, but-"
+    sy "Odio dovervi interrompere. È tutto molto divertente, ma..."
 
 # game/code/d08/d08s05.rpy:367
 translate italian d08s05_dw_662a103c:
 
     # dw "But what?"
-    dw "But what?"
+    dw "Ma cosa?"
 
 # game/code/d08/d08s05.rpy:369
 translate italian d08s05_dw_953507d0:
 
     # sy "We're actually here to get my stuff back. Do you know where we can find Samiya?"
-    sy "We're actually here to get my stuff back. Do you know where we can find Samiya?"
+    sy "Stiamo venuti qui sperando di recuperare la mia roba. Sai dove possiamo trovare Samiya?"
 
 # game/code/d08/d08s05.rpy:370
 translate italian d08s05_dw_4b0fc891:
 
     # dw "Ugh. Her, again?"
-    dw "Ugh. Her, again?"
+    dw "Argh. Ancora lei?"
 
 # game/code/d08/d08s05.rpy:372
 translate italian d08s05_dw_a0a7a5a7:
 
     # sy "She stole my luggage."
-    sy "She stole my luggage."
+    sy "Mi ha fregato la valigia."
 
 # game/code/d08/d08s05.rpy:374
 translate italian d08s05_dw_bda7583a:
 
     # dw "Whatever... {w}Fine. I'll tell you where you can find someone who will know where she is."
-    dw "Whatever... {w}Fine. I'll tell you where you can find someone who will know where she is."
+    dw "E sia...{w} Va bene. Vi dirò dove potete trovare qualcuno che sappia dov'è lei."
 
 # game/code/d08/d08s05.rpy:375
 translate italian d08s05_dw_b3e5d52d:
 
     # sy "Can't you just-"
-    sy "Can't you just-"
+    sy "Non puoi semplicemente..."
 
 # game/code/d08/d08s05.rpy:378
 translate italian d08s05_dw_317588c3:
 
     # mct "What the fuck??"
-    mct "What the fuck??"
+    mct "Che cazzo fa?!?"
 
 # game/code/d08/d08s05.rpy:380
 translate italian d08s05_dw_ebf64c4f:
 
     # dw "Well, first of all, I don't care where that bitch is these days. As long as she stays away from me."
-    dw "Well, first of all, I don't care where that bitch is these days. As long as she stays away from me."
+    dw "Allora, innanzitutto non mi frega nulla di dove sia quella stronza. Purché stia lontano da me."
 
 # game/code/d08/d08s05.rpy:381
 translate italian d08s05_dw_ae352a33:
 
     # dw "Second, I wouldn't tell you even if I knew where she was."
-    dw "Second, I wouldn't tell you even if I knew where she was."
+    dw "Secondo, anche se sapessi dov'è, non ve lo direi."
 
 # game/code/d08/d08s05.rpy:383
 translate italian d08s05_dw_74abaaf7:
 
     # sy "Why not?"
-    sy "Why not?"
+    sy "Perché no?"
 
 # game/code/d08/d08s05.rpy:385
 translate italian d08s05_dw_882f79fd:
 
     # dw "Don't you get it? She's bad news. Forget about your missing stuff and forget about finding her."
-    dw "Don't you get it? She's bad news. Forget about your missing stuff and forget about finding her."
+    dw "Ancora non ci sei arrivata? Perché vuol dire guai. Scordati della roba che ti ha fregato e dimenticati di lei."
 
 # game/code/d08/d08s05.rpy:387
 translate italian d08s05_dw_9581568c:
 
     # sy "Not gonna happen."
-    sy "Not gonna happen."
+    sy "Questo non esiste."
 
 # game/code/d08/d08s05.rpy:389
 translate italian d08s05_dw_44fd1839:
 
     # dw "Which brings us to what I am willing to tell you - if you two will listen."
-    dw "Which brings us to what I am willing to tell you - if you two will listen."
+    dw "Il che ci porta a quello che volevo dirvi... se solo mi lasciaste parlare."
 
 # game/code/d08/d08s05.rpy:391
 translate italian d08s05_dw_f4a296e2:
 
     # mc "Ugh.. Can I..."
-    mc "Ugh.. Can I..."
+    mc "Argh.. Posso..."
 
 # game/code/d08/d08s05.rpy:394
 translate italian d08s05_dw_dd5eddfc:
 
     # sy "I'm all ears!"
-    sy "I'm all ears!"
+    sy "Sono tutta orecchie!"
 
 # game/code/d08/d08s05.rpy:396
 translate italian d08s05_dw_2f9aed17:
 
     # dw "[mcname] should have met someone last week who would know Samiya's whereabouts."
-    dw "[mcname] should have met someone last week who would know Samiya's whereabouts."
+    dw "[mcname], la scorsa settimana, dovrebbe avere incontrato qualcuno che sa i movimenti di Samiya."
 
 # game/code/d08/d08s05.rpy:397
 translate italian d08s05_dw_c678c30c:
 
     # mct "I did?"
-    mct "I did?"
+    mct "Davvero?"
 
 # game/code/d08/d08s05.rpy:398
 translate italian d08s05_dw_d661b00b:
 
     # dw "If he has any brain he can remember Allison. The girl who was always at the pool..."
-    dw "If he has any brain he can remember Allison. The girl who was always at the pool..."
+    dw "Se ha un briciolo di cervello, dovrebbe ricordarsi di Allison. Era la ragazza che stava sempre nei pressi della piscina..."
 
 # game/code/d08/d08s05.rpy:400
 translate italian d08s05_dw_6d8d2ea3:
 
     # mc "Ugh... yeah..."
-    mc "Ugh... yeah..."
+    mc "Ah... sì..."
 
 # game/code/d08/d08s05.rpy:402
 translate italian d08s05_dw_9ebf841f:
 
     # sy "Any ideas where we could find her?"
-    sy "Any ideas where we could find her?"
+    sy "Hai idea di dove possa trovarla?"
 
 # game/code/d08/d08s05.rpy:404
 translate italian d08s05_dw_dbaf6043:
 
     # dw "Of course. She's always at the pool."
-    dw "Of course. She's always at the pool."
+    dw "Certo. In piscina, come sempre."
 
 # game/code/d08/d08s05.rpy:407
 translate italian d08s05_dw_73f71408:
 
     # mc "What the fuck was that?!"
-    mc "What the fuck was that?!"
+    mc "Che cazzo hai fatto prima?!?"
 
 # game/code/d08/d08s05.rpy:409
 translate italian d08s05_dw_f73ca9ad:
 
     # sy "We were getting information. It was your plan, wasn't it?"
-    sy "We were getting information. It was your plan, wasn't it?"
+    sy "Cercavo di ricavare qualche informazione. Non era questo il tuo piano dall'inizio?"
 
 # game/code/d08/d08s05.rpy:410
 translate italian d08s05_dw_8a87e0d1:
 
     # mc "You didn't need to sit on me!"
-    mc "You didn't need to sit on me!"
+    mc "E avevi bisogno di sederti sopra di me?!?"
 
 # game/code/d08/d08s05.rpy:412
 translate italian d08s05_dw_1e4b29aa:
 
     # sy "I was streamlining the process... it worked, right?"
-    sy "I was streamlining the process... it worked, right?"
+    sy "Su, stavo solo velocizzando la cosa.{w} Ha funzionato, no?"
 
 # game/code/d08/d08s05.rpy:413
 translate italian d08s05_dw_1d0e9828:
 
     # sy "Let's go find this Allison."
-    sy "Let's go find this Allison."
+    sy "Andiamo a trovare Allison."
 
 translate italian strings:
 
     # game/code/d08/d08s05.rpy:298
     old "In public?!?"
-    new "In public?!?"
+    new "In pubblico?!?"
 
     # game/code/d08/d08s05.rpy:298
     old "Yes, Mistress"
-    new "Yes, Mistress"
+    new "Sì, Padrona"
 
