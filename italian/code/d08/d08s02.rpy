@@ -454,7 +454,7 @@ translate italian d08s02_6a30bcdc:
 translate italian d08s02_a8f52312:
 
     # arj "Maybe five or six positions. Blowjob, cunni, missionary, doggy... "
-    arj "Forse cinque o sei posizioni. Blowjob, leccate di vagina, missionaria, pecorina... "
+    arj "Forse cinque o sei posizioni. Pompini, leccate di vagina, missionaria, pecorina... "
 
 # game/code/d08/d08s02.rpy:135
 translate italian d08s02_71152dd8:
