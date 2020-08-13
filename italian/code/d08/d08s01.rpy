@@ -160,13 +160,13 @@ translate italian d08s01_bbfb9223:
 translate italian d08s01_95ba79f5:
 
     # mc "No, go wait your turn. I'll be quick."
-    mc "Fa nulla, entra pure e aspetta il tuo turno. Faccio in fretta."
+    mc "Vai ad aspettare il tuo turno. Faccio in fretta."
 
 # game/code/d08/d08s01.rpy:103
 translate italian d08s01_solo_2eee624b:
 
     # mct "It is for the best."
-    mct "It is for the best."
+    mct "È per il nostro bene."
 
 # game/code/d08/d08s01.rpy:108
 translate italian d08s01_bathe_14b03a2d:
@@ -250,7 +250,7 @@ translate italian d08s01_bathe_b8bd9a8c:
 translate italian d08s01_bathe_84a25daa:
 
     # sy "You look good there. All toned and dripping."
-    sy "You look good there. All toned and dripping."
+    sy "Mi sembra tutto aposto qui. Tutto tonico e sgocciolante."
 
 # game/code/d08/d08s01.rpy:145
 translate italian d08s01_bathe_63a6d232:
