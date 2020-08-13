@@ -36,6 +36,12 @@ translate italian d08s01_c58616dc:
     # arj "Your sister."
     arj "Tua Sorella."
 
+# game/code/d08/d08s01.rpy:36
+translate italian d08s01_b602ab1e:
+
+    # arj "Stacy."
+    arj "Stacy."
+
 # game/code/d08/d08s01.rpy:34
 translate italian d08s01_05500ff6:
 
@@ -46,7 +52,13 @@ translate italian d08s01_05500ff6:
 translate italian d08s01_abc1875e:
 
     # arj "I was trying to sneak out of bed and spend a little alone time with you, but your sister is awake."
-    arj "Ho provato ad allontanarmi di soppiatto dal letto per spendere un po' di tempo con te, ma tua sorella è sveglia."
+    arj "Ho provato ad allontanarmi di soppiatto dal letto per passare un po' di tempo con te, ma tua sorella era sveglia."
+
+# game/code/d08/d08s01.rpy:41
+translate italian d08s01_7e8e1557:
+
+    # arj "I was trying to sneak out of bed and spend a little alone time with you, but your friend is awake."
+    arj "Ho provato ad allontanarmi di soppiatto dal letto per passare un po' di tempo con te, ma la tua amica era sveglia."
 
 # game/code/d08/d08s01.rpy:36
 translate italian d08s01_bc4fd44d:
@@ -90,11 +102,11 @@ translate italian d08s01_1a71f71e:
     # arj "Oh... {w}Okay. Breakfast it is!"
     arj "Oh... {w}Ok. Che colazione sia allora!"
 
-# game/code/d08/d08s01.rpy:49
-translate italian d08s01_0370dbe7:
+# game/code/d08/d08s01.rpy:58
+translate italian d08s01_5ef05107:
 
-    # arj "You might want to get a shower before your sister and I use up all the hot water."
-    arj "Potresti farti una doccia prima che io e tua sorella finiamo l'acqua calda."
+    # arj "You might want to get a shower before Stacy and I use up all the hot water."
+    arj "Potresti farti una doccia prima che Stacy e io finiamo l'acqua calda."
 
 # game/code/d08/d08s01.rpy:50
 translate italian d08s01_fafbfb54:
@@ -150,22 +162,28 @@ translate italian d08s01_5aa5acd8:
     # mct "She is doing it again!"
     mct "Lo sta facendo ancora!"
 
-# game/code/d08/d08s01.rpy:86
-translate italian d08s01_bbfb9223:
+# game/code/d08/d08s01.rpy:96
+translate italian d08s01_68bbf00d:
 
-    # mct "But now we are not back home! AmRose is close!"
-    mct "Ma ora non siamo più a casa! AmRose è qui vicino!"
+    # mct "But this is not back home! AmRose is in the other room!"
+    mct "Ma ora non siamo più a casa! AmRose è nell'altra stanza!"
 
-# game/code/d08/d08s01.rpy:91
-translate italian d08s01_95ba79f5:
+# game/code/d08/d08s01.rpy:98
+translate italian d08s01_11d1e060:
 
-    # mc "No, go wait your turn. I'll be quick."
-    mc "Vai ad aspettare il tuo turno. Faccio in fretta."
+    # mct "But this is too risky! AmRose is in the other room!"
+    mct "Ma questo è troppo rischioso! AmRose è nell'altra stanza!"
 
 # game/code/d08/d08s01.rpy:103
-translate italian d08s01_solo_2eee624b:
+translate italian d08s01_96d7486d:
 
-    # mct "It is for the best."
+    # mc "No, no! Wait your turn. I'll be quick."
+    mc "No, no! Aspetta il tuo turno. Faccio in fretta."
+
+# game/code/d08/d08s01.rpy:115
+translate italian d08s01_solo_7c561514:
+
+    # mct "This is for the best."
     mct "È per il nostro bene."
 
 # game/code/d08/d08s01.rpy:108
@@ -324,10 +342,10 @@ translate italian d08s01_bathe_1850262c:
     # sy "If you break her heart, well... {w}I'm sure you can imagine."
     sy "Se le rompi il cuore, Beh... {w}Sono sicura che tu possa immaginare cosa succederebbe."
 
-# game/code/d08/d08s01.rpy:180
-translate italian d08s01_bathe_8dc8bf2c:
+# game/code/d08/d08s01.rpy:192
+translate italian d08s01_bathe_3dc90035:
 
-    # mct "Oh! She is squizing my balls!"
+    # mct "Oh! She is squeezing my balls!"
     mct "Oh! Mi sta strizzando le palle!"
 
 # game/code/d08/d08s01.rpy:181
@@ -435,54 +453,4 @@ translate italian strings:
     # game/code/d08/d08s01.rpy:87
     old "Let Stacy bathe with you"
     new "Fai fare a Stacy la doccia con te"
-
-# TODO: Translation updated at 2020-08-10 14:27
-
-# game/code/d08/d08s01.rpy:36
-translate italian d08s01_b602ab1e:
-
-    # arj "Stacy."
-    arj "Stacy."
-
-# game/code/d08/d08s01.rpy:41
-translate italian d08s01_7e8e1557:
-
-    # arj "I was trying to sneak out of bed and spend a little alone time with you, but your friend is awake."
-    arj "I was trying to sneak out of bed and spend a little alone time with you, but your friend is awake."
-
-# game/code/d08/d08s01.rpy:58
-translate italian d08s01_5ef05107:
-
-    # arj "You might want to get a shower before Stacy and I use up all the hot water."
-    arj "You might want to get a shower before Stacy and I use up all the hot water."
-
-# game/code/d08/d08s01.rpy:96
-translate italian d08s01_68bbf00d:
-
-    # mct "But this is not back home! AmRose is in the other room!"
-    mct "But this is not back home! AmRose is in the other room!"
-
-# game/code/d08/d08s01.rpy:98
-translate italian d08s01_11d1e060:
-
-    # mct "But this is too risky! AmRose is in the other room!"
-    mct "But this is too risky! AmRose is in the other room!"
-
-# game/code/d08/d08s01.rpy:103
-translate italian d08s01_96d7486d:
-
-    # mc "No, no! Wait your turn. I'll be quick."
-    mc "No, no! Wait your turn. I'll be quick."
-
-# game/code/d08/d08s01.rpy:115
-translate italian d08s01_solo_7c561514:
-
-    # mct "This is for the best."
-    mct "This is for the best."
-
-# game/code/d08/d08s01.rpy:192
-translate italian d08s01_bathe_3dc90035:
-
-    # mct "Oh! She is squeezing my balls!"
-    mct "Oh! She is squeezing my balls!"
 

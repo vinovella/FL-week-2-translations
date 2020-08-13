@@ -1,15 +1,15 @@
 ﻿# TODO: Translation updated at 2020-07-30 07:39
 
 # game/code/d08/d08s02.rpy:7
-translate italian d08s02_09bbae53:
+translate italian d08s02_7ed15712:
 
-    # arj "I dunno. I always thought the perfect amount of make-up makes it look natural."
+    # arj "I dunno. I always thought the perfect amount makes it look natural."
     arj "Non lo so. Ho sempre pensato che la quantità giusta di trucco ti faccia sembrare naturale."
 
 # game/code/d08/d08s02.rpy:8
-translate italian d08s02_9292edbd:
+translate italian d08s02_38ca337f:
 
-    # sy "Yeah, but the Kardassians are unrecognizable without a thick layer..."
+    # sy "Yeah, but the Kardashians are unrecognizable without a thick layer..."
     sy "Certo, ma i Kardashians sono irriconoscibili senza uno strato consistente..."
 
 # game/code/d08/d08s02.rpy:10
@@ -34,7 +34,7 @@ translate italian d08s02_616fe7f8:
 translate italian d08s02_00eb977b:
 
     # arj "Ha! I don't believe it."
-    arj "Ha! Non ci credo."
+    arj "Ah! Non ci credo."
 
 # game/code/d08/d08s02.rpy:16
 translate italian d08s02_df3ed211:
@@ -88,13 +88,13 @@ translate italian d08s02_9f904d03:
 translate italian d08s02_aa573f2e:
 
     # arj "Well, don't practice on me! I prefer you being honest."
-    arj "Non provarci a farlo con me! Preferisco che tu sia onesto."
+    arj "Non provare a farlo con me! Preferisco che tu sia onesto."
 
 # game/code/d08/d08s02.rpy:34
 translate italian d08s02_62ab079c:
 
     # sy "Speaking of practicing, I wanted to ask you something about your porn box."
-    sy "Parlando di pratica, volevo chiedervi qualcosa sulla tua collezione porno."
+    sy "Parlando di pratica, volevo chiederti qualcosa sulla tua collezione porno."
 
 # game/code/d08/d08s02.rpy:35
 translate italian d08s02_3c06cb72:
@@ -133,16 +133,16 @@ translate italian d08s02_e82785ee:
     sy "Non te l'ho rubata. L'hai lasciata in camera tua, e io l'ho ritrovata."
 
 # game/code/d08/d08s02.rpy:46
-translate italian d08s02_7d99725e:
+translate italian d08s02_5d256f52:
 
-    # arj "Stacy the porn archeologist. I'm impressed."
+    # arj "Stacy - the porn archaeologist. I'm impressed."
     arj "Stacy l'archeologa dei porno. Sono impressionata."
 
 # game/code/d08/d08s02.rpy:48
 translate italian d08s02_965185e4:
 
     # sy "I wanted to ask you... what's with all the extreme object insertion porn?"
-    sy "Volevo chiedertelo... come mai hai così tanti porno che riguradano la penetrazione estrema?"
+    sy "Volevo chiedertelo... come mai hai così tanti porno che riguardano la penetrazione estrema?"
 
 # game/code/d08/d08s02.rpy:49
 translate italian d08s02_3c06cb72_1:
@@ -160,13 +160,19 @@ translate italian d08s02_5f97e86a:
 translate italian d08s02_4dceb393:
 
     # sy "You know, where girls or guys take massive objects and shove them inside themselves."
-    sy "Sai, qunado un ragazzo o una ragazza prendono oggetti enormi e se li ficcano dentro di loro."
+    sy "Sai, quando un ragazzo o una ragazza prendono oggetti enormi e se li ficcano dentro di loro."
 
 # game/code/d08/d08s02.rpy:55
 translate italian d08s02_eab76f21:
 
     # arj "I'm not familiar with this. How does it work?"
     arj "Non sono familiare con queste cose. Come funziona?"
+
+# game/code/d08/d08s02.rpy:61
+translate italian d08s02_e57e7d5e:
+
+    # mct "Aha... Sure. Not Familiar!"
+    mct "Ahah... Sì, certo, non ne è familiare affatto!"
 
 # game/code/d08/d08s02.rpy:57
 translate italian d08s02_064f115b:
@@ -208,7 +214,7 @@ translate italian d08s02_5a939688:
 translate italian d08s02_4d6f365a:
 
     # sy "Oh, that's just to get started. Then it usually goes to inflatable objects."
-    sy "Oh, Questo è solo l'inizio. poi di solito si passa agli oggetti gonfiabili."
+    sy "Oh, questo è solo l'inizio. Poi di solito si passa agli oggetti gonfiabili."
 
 # game/code/d08/d08s02.rpy:69
 translate italian d08s02_682c2874:
@@ -238,19 +244,19 @@ translate italian d08s02_61b989fa:
 translate italian d08s02_19c97984:
 
     # sy "Then it gets to the part I can't understand. Like softball bats."
-    sy "poi arriva la parte che non riesco a capire. come le palline da tennis."
+    sy "Poi arriva la parte che non riesco a capire. Come le palline da tennis."
 
 # game/code/d08/d08s02.rpy:79
 translate italian d08s02_4c5a51fd:
 
     # arj "Wow! I'm not sure if that's impressive or terrifying."
-    arj "Wow! non so se è impressionante o spaventoso."
+    arj "Wow! Non so se è impressionante o spaventoso."
 
 # game/code/d08/d08s02.rpy:81
 translate italian d08s02_019f8827:
 
     # sy "Yeah. I've heard that some of those porn stars can't even orgasm without something larger than a baseball bat inside them anymore."
-    sy "Si. ho sentito parlare di alcune pornostar che non riescono ad orgasmare senza qualcosa più largo di una pallina da tennis che li penetra."
+    sy "Si. Ho sentito parlare di alcune pornostar che non riescono ad orgasmare senza qualcosa più largo di una pallina da tennis che le penetri."
 
 # game/code/d08/d08s02.rpy:83
 translate italian d08s02_213757b7:
@@ -274,7 +280,7 @@ translate italian d08s02_0eb195e2:
 translate italian d08s02_809ed845:
 
     # arj "No, no. I had never even heard of it before-"
-    arj "No, no. Non ne avevo mai sentito parlare prima-"
+    arj "No, no. Non ne avevo mai sentito parlare prima..."
 
 # game/code/d08/d08s02.rpy:90
 translate italian d08s02_d8d8ed79:
@@ -328,7 +334,7 @@ translate italian d08s02_9e8acfc2:
 translate italian d08s02_16e06539:
 
     # sy "Okay, but I'm asking about you. There was a lot of guys shoving-"
-    sy "Ok, ma io sto chiedendo informazioni su di te. C'erano un sacco di foto di ragazzi che-"
+    sy "Ok, ma io sto chiedendo informazioni su di te. C'erano un sacco di foto di ragazzi che..."
 
 # game/code/d08/d08s02.rpy:102
 translate italian d08s02_83b8a4b5:
@@ -358,7 +364,7 @@ translate italian d08s02_33bab2a0:
 translate italian d08s02_60652925:
 
     # mc "Stacy! Don't say-"
-    mc "Stacy! Non provarci-"
+    mc "Stacy! Non provarci..."
 
 # game/code/d08/d08s02.rpy:111
 translate italian d08s02_e3837dd8:
@@ -370,7 +376,7 @@ translate italian d08s02_e3837dd8:
 translate italian d08s02_db058ec7:
 
     # sy "... tentacle sex anime, real actors swimming naked with octopuses..."
-    sy "... Pornografia Fantasy..."
+    sy "... pornografia fantasy..."
 
 # game/code/d08/d08s02.rpy:115
 translate italian d08s02_a6cfe648:
@@ -382,7 +388,7 @@ translate italian d08s02_a6cfe648:
 translate italian d08s02_bc9c825c:
 
     # arj "OMG! Hahahahahaha!"
-    arj "O mio dio! Hahahahahaha!"
+    arj "O mio dio! Ahahahahahah!"
 
 # game/code/d08/d08s02.rpy:118
 translate italian d08s02_8a0761fa:
@@ -400,7 +406,7 @@ translate italian d08s02_d30d9e9c:
 translate italian d08s02_c0f56dae:
 
     # arj "I'm sorry. I'm sorry. I shouldn't laugh. It's just-"
-    arj "Scusami. Mi spiace. Non dovrei ridere. È solo che-"
+    arj "Scusami. Mi spiace. Non dovrei ridere. È solo che..."
 
 # game/code/d08/d08s02.rpy:122
 translate italian d08s02_7c847d41:
@@ -430,7 +436,7 @@ translate italian d08s02_073631f4:
 translate italian d08s02_e9a7efb3:
 
     # mc "Can we just not-"
-    mc "Possiamo soltanto-"
+    mc "Possiamo soltanto..."
 
 # game/code/d08/d08s02.rpy:129
 translate italian d08s02_3d890773:
@@ -460,13 +466,13 @@ translate italian d08s02_a8f52312:
 translate italian d08s02_71152dd8:
 
     # mc "Oh for the love of-"
-    mc "Oh, per d-"
+    mc "Oh, per d.."
 
 # game/code/d08/d08s02.rpy:137
 translate italian d08s02_945e046c:
 
     # sy "There's like 5 different books on the Kama Sutra in his box!"
-    sy "C'èrano 5 libri del Kamasutra nella sua collezione!"
+    sy "C'erano 5 libri del Kamasutra nella sua collezione!"
 
 # game/code/d08/d08s02.rpy:138
 translate italian d08s02_1dca356a:
@@ -526,19 +532,19 @@ translate italian d08s02_15831298:
 translate italian d08s02_e5d30663:
 
     # mct "Oh, and I missed a text from Pete this morning."
-    mct "Oh, e non ho visto il messaggio che pete mi ha mandato stamattina."
+    mct "Oh, e non ho visto il messaggio che Pete mi ha mandato stamattina."
 
 # game/code/d08/d08s02.rpy:156
 translate italian d08s02_8569eb29:
 
     # mct "Pete said, \"Dude - total failure. No luggage. Talk later.\" {w}Well, fuck..."
-    mct "Pete ha detto, \"Amico - Fallimento totale. Niente valigia. Dopo parliamo.\" {w}cazzo..."
+    mct "Pete ha detto, \"Amico - Fallimento totale. Niente valigia. Dopo parliamo.\" {w}Cazzo..."
 
 # game/code/d08/d08s02.rpy:158
 translate italian d08s02_84cbc12d:
 
     # sy "Lydia - is that the virgin you're kinda dating?"
-    sy "Lydia - è la verginella con la quale ti frequenti?"
+    sy "Lydia... è la verginella con la quale ti frequenti?"
 
 # game/code/d08/d08s02.rpy:159
 translate italian d08s02_dcabad5a:
@@ -700,55 +706,17 @@ translate italian d08s02_0357c851:
 translate italian d08s02_77ad98b5:
 
     # arj "Speaking of which - you should go if you don't want to wear the same clothes as yesterday."
-    arj "Parlando delle lezioni - Dovresti andare a cambiarti se non vuoi usare gli stessi vestiti di ieri."
-
-# game/code/d08/d08s02.rpy:203
-translate italian d08s02_ce719ad3:
-
-    # mc "Oh, yeah. I need to swing by my dorm and get changed."
-    mc "Oh, hai ragione. Devo correre al mio dormitorio e cambiarmi."
-
-# game/code/d08/d08s02.rpy:204
-translate italian d08s02_41414d8e:
-
-    # arj "I'll see you at class."
-    arj "Ci vediamo a lezione."
-
-# TODO: Translation updated at 2020-08-10 14:27
-
-# game/code/d08/d08s02.rpy:7
-translate italian d08s02_7ed15712:
-
-    # arj "I dunno. I always thought the perfect amount makes it look natural."
-    arj "I dunno. I always thought the perfect amount makes it look natural."
-
-# game/code/d08/d08s02.rpy:8
-translate italian d08s02_38ca337f:
-
-    # sy "Yeah, but the Kardashians are unrecognizable without a thick layer..."
-    sy "Yeah, but the Kardashians are unrecognizable without a thick layer..."
-
-# game/code/d08/d08s02.rpy:46
-translate italian d08s02_5d256f52:
-
-    # arj "Stacy - the porn archaeologist. I'm impressed."
-    arj "Stacy - the porn archaeologist. I'm impressed."
-
-# game/code/d08/d08s02.rpy:61
-translate italian d08s02_e57e7d5e:
-
-    # mct "Aha... Sure. Not Familiar!"
-    mct "Aha... Sure. Not Familiar!"
+    arj "Parlando delle lezioni... dovresti andare a cambiarti se non vuoi usare gli stessi vestiti di ieri."
 
 # game/code/d08/d08s02.rpy:209
 translate italian d08s02_589db33a:
 
     # mc "Good thinking. I need to swing by my dorm and get changed."
-    mc "Good thinking. I need to swing by my dorm and get changed."
+    mc "Oh, hai ragione. Devo correre al mio dormitorio e cambiarmi."
 
 # game/code/d08/d08s02.rpy:210
 translate italian d08s02_d4dcfd6e:
 
     # arj "I'll see you in class."
-    arj "I'll see you in class."
+    arj "Ci vediamo a lezione."
 
