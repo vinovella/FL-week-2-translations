@@ -658,127 +658,127 @@ translate italian d08s03_d14c87d9:
 translate italian d08s03_d3a88b30:
 
     # rn "During the Battle of Columbus in 1865..."
-    rn "During the Battle of Columbus in 1865..."
+    rn "Durante la Battaglia di Colombo nel 1865..."
 
 # game/code/d08/d08s03.rpy:259
 translate italian d08s03_87048d51:
 
     # mct "Wow, that was uncomfortable."
-    mct "Wow, that was uncomfortable."
+    mct "Wow, è stato davvero imbarazzante."
 
 # game/code/d08/d08s03.rpy:261
 translate italian d08s03_84949172:
 
     # mct "Alright, let's see what everyone else was already looking at."
-    mct "Alright, let's see what everyone else was already looking at."
+    mct "Comunque, diamo un occhiata a quello che stavano guardando gli altri."
 
 # game/code/d08/d08s03.rpy:262
 translate italian d08s03_51214afc:
 
     # mct "Fetish Locator, of course. What's today's challenge?"
-    mct "Fetish Locator, of course. What's today's challenge?"
+    mct "Fetish Locator, ovviamente. Qual è la challenge di oggi?"
 
 # game/code/d08/d08s03.rpy:263
 translate italian d08s03_69e79a88:
 
     # fl "From pressing lips to deep throat, gulp it down or spit it out."
-    fl "From pressing lips to deep throat, gulp it down or spit it out."
+    fl "Dai baci fino alla gola profonda, sputa o ingoia."
 
 # game/code/d08/d08s03.rpy:264
 translate italian d08s03_018e5924:
 
     # fl "The daily challenge for today is Blow Job."
-    fl "The daily challenge for today is Blow Job."
+    fl "La challenge di oggi riguarda i pompini."
 
 # game/code/d08/d08s03.rpy:265
 translate italian d08s03_94bba934:
 
     # mct "Huh. Last Monday was cum. Today is a blow job. I guess Mondays are for men."
-    mct "Huh. Last Monday was cum. Today is a blow job. I guess Mondays are for men."
+    mct "Huh. Lo scorso lunedì erano le sborrate. Oggi i pompini. Mi sa che i lunedì sono dedicati agli uomini."
 
 # game/code/d08/d08s03.rpy:266
 translate italian d08s03_6a5b7574:
 
     # mct "Okay. Buckling down. Focusing on the lecture."
-    mct "Okay. Buckling down. Focusing on the lecture."
+    mct "Ok. Ora basta. Devo concentrarmi sul brano da leggere."
 
 # game/code/d08/d08s03.rpy:272
 translate italian d08s03_e3ebb20d:
 
     # mct "Is Maria still looking at me?"
-    mct "Is Maria still looking at me?"
+    mct "Maria mi sta fissando ancora?"
 
 # game/code/d08/d08s03.rpy:276
 translate italian d08s03_bd5eaa7b:
 
     # mct "Okay, this is just crazy. What the hell does she want?"
-    mct "Okay, this is just crazy. What the hell does she want?"
+    mct "Ok, adesso è troppo. Che cosa diavolo vuole da me?"
 
 # game/code/d08/d08s03.rpy:279
 translate italian d08s03_3240527e:
 
     # rn "*blah blah blah*... Wilson's Raid into Georgia...*blah blah blah*"
-    rn "*blah blah blah*... Wilson's Raid into Georgia...*blah blah blah*"
+    rn "*bla bla bla*... L'assalto di Wilson in Georgia...*bla bla bla*"
 
 # game/code/d08/d08s03.rpy:280
 translate italian d08s03_8907d4f5:
 
     # mc "You've been staring at me ever since you walked in..."
-    mc "You've been staring at me ever since you walked in..."
+    mc "Mi hai continuato a fissare per tutta la lezione..."
 
 # game/code/d08/d08s03.rpy:281
 translate italian d08s03_48438ce3:
 
     # mk "Sorry, sorry, sorry. Can you sit with me?"
-    mk "Sorry, sorry, sorry. Can you sit with me?"
+    mk "Scusa, mi spiace. Ti puoi sedere con me?"
 
 # game/code/d08/d08s03.rpy:283
 translate italian d08s03_9b10bfe5:
 
     # mc "I'm here now. What do you want?"
-    mc "I'm here now. What do you want?"
+    mc "Sono qui ora. Cosa vuoi?"
 
 # game/code/d08/d08s03.rpy:285
 translate italian d08s03_61d87077:
 
     # mk "I keep thinking about that event at the Party."
-    mk "I keep thinking about that event at the Party."
+    mk "Continuo a pensare a quell'evento del party."
 
 # game/code/d08/d08s03.rpy:286
 translate italian d08s03_dd56af82:
 
     # mc "Huh? Antony's magic show?"
-    mc "Huh? Antony's magic show?"
+    mc "Huh? Lo show di magia di Antony?"
 
 # game/code/d08/d08s03.rpy:288
 translate italian d08s03_dc7b255c:
 
     # mk "Yes. That dream we shared... you know, when you fucked me."
-    mk "Yes. That dream we shared... you know, when you fucked me."
+    mk "Si. Quel sogno che abbiamo vissuto assieme... Lo sai, quando mi hai scopata."
 
 # game/code/d08/d08s03.rpy:289
 translate italian d08s03_84f16542:
 
     # mc "Okay..."
-    mc "Okay..."
+    mc "Ok..."
 
 # game/code/d08/d08s03.rpy:290
 translate italian d08s03_144dbbdf:
 
     # mk "Before that, when I was sucking your cock... {w}it was just the best thing ever."
-    mk "Before that, when I was sucking your cock... {w}it was just the best thing ever."
+    mk "Ma prima di quello, mentre ti succhiavo il cazzo... {w}È stato uno dei momenti più belli della mia vita."
 
 # game/code/d08/d08s03.rpy:291
 translate italian d08s03_a03597fd:
 
     # mc "I've got some time this afternoon. Should I drop by-"
-    mc "I've got some time this afternoon. Should I drop by-"
+    mc "Ho del tempo libero oggi pomeriggio. Se vuoi passo-"
 
 # game/code/d08/d08s03.rpy:293
 translate italian d08s03_4172a42a:
 
     # mk "I want it now."
-    mk "I want it now."
+    mk "Lo voglio ora."
 
 # game/code/d08/d08s03.rpy:294
 translate italian d08s03_cc761816:
@@ -790,121 +790,121 @@ translate italian d08s03_cc761816:
 translate italian d08s03_060cdf91:
 
     # mk "Yes. Now."
-    mk "Yes. Now."
+    mk "Si. Ora."
 
 # game/code/d08/d08s03.rpy:297
 translate italian d08s03_76ab189f:
 
     # mc "Seriously? Right here, right now?"
-    mc "Seriously? Right here, right now?"
+    mc "Davvero? Qui, in messo a tutti?"
 
 # game/code/d08/d08s03.rpy:299
 translate italian d08s03_e1337149:
 
     # mk "I know we're in class, but I can't help it."
-    mk "I know we're in class, but I can't help it."
+    mk "So che siamo in classe, ma non ci posso fare nulla."
 
 # game/code/d08/d08s03.rpy:301
 translate italian d08s03_18a295dc:
 
     # mk "I just kept thinking about sucking your cock. {w}I need it."
-    mk "I just kept thinking about sucking your cock. {w}I need it."
+    mk "Continuo a pensare al tuo cazzo. {w}Ne ho bisogno."
 
 # game/code/d08/d08s03.rpy:302
 translate italian d08s03_37daaa62:
 
     # mct "Wow. I know it's wrong, but maybe I should have some fun with her."
-    mct "Wow. I know it's wrong, but maybe I should have some fun with her."
+    mct "Wow. So che è sbagliato, ma forse dovrei divertirmi un po' con lei."
 
 # game/code/d08/d08s03.rpy:305
 translate italian d08s03_ba026827:
 
     # mc "Maybe I can find someone to help you with that."
-    mc "Maybe I can find someone to help you with that."
+    mc "Magari posso trovare qualcuno che ti possa aiutare."
 
 # game/code/d08/d08s03.rpy:306
 translate italian d08s03_2479a251:
 
     # mc "Maybe the Professor would like-"
-    mc "Maybe the Professor would like-"
+    mc "Magari al professore piacerebbe-"
 
 # game/code/d08/d08s03.rpy:308
 translate italian d08s03_9efac0f9:
 
     # mk "No! {w}Shh... shit... no. I need {b}your{/b} cock."
-    mk "No! {w}Shh... shit... no. I need {b}your{/b} cock."
+    mk "No! {w}Shh... shit... no. Ho bisogno del {b}tuo{/b} cazzo."
 
 # game/code/d08/d08s03.rpy:311
 translate italian d08s03_6f90ed59:
 
     # mc "Fine. Take it out."
-    mc "Fine. Take it out."
+    mc "D'accordo. Eccoti servita."
 
 # game/code/d08/d08s03.rpy:316
 translate italian d08s03_b363fc51:
 
     # mc "Maria. Listen here. You think that you are missing out on something but that is not the case."
-    mc "Maria. Listen here. You think that you are missing out on something but that is not the case."
+    mc "Maria. Ascoltami. So che credi che ti manchi qualcosa, ma non è questo il caso."
 
 # game/code/d08/d08s03.rpy:317
 translate italian d08s03_36723146:
 
     # mc "We just had a crazy experience at the party, but that wasn't real."
-    mc "We just had a crazy experience at the party, but that wasn't real."
+    mc "Abbiamo avuto un'esperienza fantastica al party, ma non era reale."
 
 # game/code/d08/d08s03.rpy:318
 translate italian d08s03_9df17b07:
 
     # mc "I think you should calm down and finally decide what is that you actually want. Ok?"
-    mc "I think you should calm down and finally decide what is that you actually want. Ok?"
+    mc "Credo che tu debba calmarti e decidere cosa tu voglia davvero. Ok?"
 
 # game/code/d08/d08s03.rpy:320
 translate italian d08s03_61f1d479:
 
     # mk "Wow. I didn't expect this from you. You might be right."
-    mk "Wow. I didn't expect this from you. You might be right."
+    mk "Wow. Non me lo aspettavo da te. Potresti avere ragione."
 
 # game/code/d08/d08s03.rpy:321
 translate italian d08s03_5923e338:
 
     # mk "Thanks."
-    mk "Thanks."
+    mk "Grazie."
 
 # game/code/d08/d08s03.rpy:323
 translate italian d08s03_e37de9e5:
 
     # mk "What?"
-    mk "What?"
+    mk "Cosa?"
 
 # game/code/d08/d08s03.rpy:325
 translate italian d08s03_75469132:
 
     # mc "Use your hand. Unzip my pants, take it out, and feel it in your hand."
-    mc "Use your hand. Unzip my pants, take it out, and feel it in your hand."
+    mc "Usa la tua mano. Abbassa la zip dei pantaloni, tiralo fuori e sentilo nella tua mano."
 
 # game/code/d08/d08s03.rpy:327
 translate italian d08s03_76101272:
 
     # mk "I can't believe I'm doing this."
-    mk "I can't believe I'm doing this."
+    mk "Non posso crederci, lo sto facendo davvero."
 
 # game/code/d08/d08s03.rpy:328
 translate italian d08s03_f7339009:
 
     # mct "I can't believe she's doing this either!"
-    mct "I can't believe she's doing this either!"
+    mct "Non posso crederci neanch'io!"
 
 # game/code/d08/d08s03.rpy:330
 translate italian d08s03_7e59b137:
 
     # mc "That's it. Now give me a handjob."
-    mc "That's it. Now give me a handjob."
+    mc "Ecco qua. Ora fammi una sega."
 
 # game/code/d08/d08s03.rpy:331
 translate italian d08s03_71d54b6e:
 
     # mk "I don't... {w}How?"
-    mk "I don't... {w}How?"
+    mk "Ecco io... {w}Come?"
 
 # game/code/d08/d08s03.rpy:332
 translate italian d08s03_c1c99e06:
