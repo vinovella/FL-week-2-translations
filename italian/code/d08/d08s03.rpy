@@ -910,403 +910,403 @@ translate italian d08s03_71d54b6e:
 translate italian d08s03_c1c99e06:
 
     # mc "You've played with a dildo, right? You've fucked yourself with toys like that?"
-    mc "You've played with a dildo, right? You've fucked yourself with toys like that?"
+    mc "Hai già usato un dildo, giusto? Hai già usato dei sex toys?"
 
 # game/code/d08/d08s03.rpy:334
 translate italian d08s03_02916c9b:
 
     # mk "Uhhhh huh... Yes."
-    mk "Uhhhh huh... Yes."
+    mk "Uhhhh huh... Si."
 
 # game/code/d08/d08s03.rpy:336
 translate italian d08s03_cb1e089a:
 
     # mc "Just pretend that your hand is your cunt and stroke me off."
-    mc "Just pretend that your hand is your cunt and stroke me off."
+    mc "Fai finta che la tua mano sia la tua vagina e segami."
 
 # game/code/d08/d08s03.rpy:338
 translate italian d08s03_cd004a74:
 
     # mk "I don't know what that means..."
-    mk "I don't know what that means..."
+    mk "Beh, ecco non so cosa fare..."
 
 # game/code/d08/d08s03.rpy:340
 translate italian d08s03_0adc01c5:
 
     # mc "I think you do. You're already doing it."
-    mc "I think you do. You're already doing it."
+    mc "Credo che tu lo sappia invece. Lo stai già facendo."
 
 # game/code/d08/d08s03.rpy:341
 translate italian d08s03_374d8e06:
 
     # mk "What? {w}Oh, I guess I am."
-    mk "What? {w}Oh, I guess I am."
+    mk "Cosa? {w}Oh, credo di si."
 
 # game/code/d08/d08s03.rpy:342
 translate italian d08s03_40ca58e2:
 
     # mc "Don't just stroke the shaft. You have to work the tip too."
-    mc "Don't just stroke the shaft. You have to work the tip too."
+    mc "Non segarmi la stecca. Devi lavorare bene sulla cappella."
 
 # game/code/d08/d08s03.rpy:344
 translate italian d08s03_e8d3d303:
 
     # mc "Just pretend that it is a really large clit."
-    mc "Just pretend that it is a really large clit."
+    mc "Fai finta che sia un clitoride enorme."
 
 # game/code/d08/d08s03.rpy:346
 translate italian d08s03_dcf2226b:
 
     # mc "Work the tip of my cock with your hand like you would finger some sexy girl's clit."
-    mc "Work the tip of my cock with your hand like you would finger some sexy girl's clit."
+    mc "Toccami la cappella con la tua mano come se stessi sditalinando un clitoride."
 
 # game/code/d08/d08s03.rpy:347
 translate italian d08s03_06c05314:
 
     # mk "Uhhhhhuh... Yes, yes..."
-    mk "Uhhhhhuh... Yes, yes..."
+    mk "Uhhhhhuh... Si, si..."
 
 # game/code/d08/d08s03.rpy:348
 translate italian d08s03_72e19af2:
 
     # mc "That feels good. Now faster."
-    mc "That feels good. Now faster."
+    mc "È molto piacevole. Ora più veloce."
 
 # game/code/d08/d08s03.rpy:356
 translate italian d08s03_cb46ca00:
 
     # mk "Do... Do you like it?"
-    mk "Do... Do you like it?"
+    mk "Ti... Ti piace?"
 
 # game/code/d08/d08s03.rpy:357
 translate italian d08s03_9696be6f:
 
     # mc "Now, let's change things up a little."
-    mc "Now, let's change things up a little."
+    mc "Ora, cambiamo un po' le cose."
 
 # game/code/d08/d08s03.rpy:358
 translate italian d08s03_784cf9ff:
 
     # mk "What do you mean?"
-    mk "What do you mean?"
+    mk "Cosa intendi?"
 
 # game/code/d08/d08s03.rpy:359
 translate italian d08s03_daf5cfa4:
 
     # mc "Open your mouth, place it over my hard cock, and lick the tip while you stroke the shaft."
-    mc "Open your mouth, place it over my hard cock, and lick the tip while you stroke the shaft."
+    mc "Apri la tua bocca, mettila sopra il mio cazzo duro e lecca la cappella mentre mi seghi."
 
 # game/code/d08/d08s03.rpy:361
 translate italian d08s03_0062d401:
 
     # mk "Yesss... yess... okay."
-    mk "Yesss... yess... okay."
+    mk "Siii... Sii... ok."
 
 # game/code/d08/d08s03.rpy:363
 translate italian d08s03_2041a1f8:
 
     # mct "Wow! Is she really going to-"
-    mct "Wow! Is she really going to-"
+    mct "Wow! Lo sta davvero-"
 
 # game/code/d08/d08s03.rpy:369
 translate italian d08s03_1892ce08:
 
     # mct "Damn! This is not like in the dream..."
-    mct "Damn! This is not like in the dream..."
+    mct "Diamine! Questo non è come nel sogno..."
 
 # game/code/d08/d08s03.rpy:374
 translate italian d08s03_9ea61b67:
 
     # mct "In the dream it felt like heaven. But it actually feels like she never done a blowjob in her life..."
-    mct "In the dream it felt like heaven. But it actually feels like she never done a blowjob in her life..."
+    mct "Nel songo sembrava di stare in paradiso. Ma sembra che non abbia mai fatto un pompino nella sua vita..."
 
 # game/code/d08/d08s03.rpy:379
 translate italian d08s03_6f6efa65:
 
     # mct "She is scratching it with her teeth a bit..."
-    mct "She is scratching it with her teeth a bit..."
+    mct "Mi sta anche graffiando un pochino con i denti..."
 
 # game/code/d08/d08s03.rpy:384
 translate italian d08s03_47f4b4c8:
 
     # mct "But I have to give her for the effort! She is trying hard!"
-    mct "But I have to give her for the effort! She is trying hard!"
+    mct "Ma devo riconoscerle lo sforzo! È molto determinata!"
 
 # game/code/d08/d08s03.rpy:386
 translate italian d08s03_cdd613b4:
 
     # rn "blah blah blah saber wound to the chest blah blah blah"
-    rn "blah blah blah saber wound to the chest blah blah blah"
+    rn "bla bla bla fu ferito con una sciabola al petto bla bla bla"
 
 # game/code/d08/d08s03.rpy:392
 translate italian d08s03_601170d1:
 
     # mc "I'm about to cum."
-    mc "I'm about to cum."
+    mc "Sto per venire."
 
 # game/code/d08/d08s03.rpy:394
 translate italian d08s03_4d5c738d:
 
     # mc "Maria. I'm going to cum."
-    mc "Maria. I'm going to cum."
+    mc "Maria. Sto per venire."
 
 # game/code/d08/d08s03.rpy:396
 translate italian d08s03_2227ff25:
 
     # mct "Fuck it. I guess she wants me to cum in her mouth."
-    mct "Fuck it. I guess she wants me to cum in her mouth."
+    mct "Vaffanculo. Mi sa che vuole che le sborri in bocca."
 
 # game/code/d08/d08s03.rpy:402
 translate italian d08s03_1def35e7:
 
     # mct "Oh hell yes."
-    mct "Oh hell yes."
+    mct "Oh si cazzo."
 
 # game/code/d08/d08s03.rpy:407
 translate italian d08s03_283292cb:
 
     # mct "Holy shit - she's not stopping."
-    mct "Holy shit - she's not stopping."
+    mct "Porca puttana - Non si sta fermando."
 
 # game/code/d08/d08s03.rpy:410
 translate italian d08s03_b1c9f928:
 
     # rn "Achem!"
-    rn "Achem!"
+    rn "Ehem!"
 
 # game/code/d08/d08s03.rpy:417
 translate italian d08s03_bb989d63:
 
     # rn "Mr. Young. [mcname]."
-    rn "Mr. Young. [mcname]."
+    rn "Giovanotto [mcname]."
 
 # game/code/d08/d08s03.rpy:419
 translate italian d08s03_6934998d:
 
     # mc "Huh? Yes, sir?"
-    mc "Huh? Yes, sir?"
+    mc "uh? Si, prof?"
 
 # game/code/d08/d08s03.rpy:421
 translate italian d08s03_dd68f8a3:
 
     # rn "Why was it that Pemberton mixed up that first tonic of cocaine and caffeine?"
-    rn "Why was it that Pemberton mixed up that first tonic of cocaine and caffeine?"
+    rn "Perchè Pemberton ha mischiato della cocaina e della caffeina per la prima volta?"
 
 # game/code/d08/d08s03.rpy:423
 translate italian d08s03_cbf695c8:
 
     # mct "Shit... umm... I know this..."
-    mct "Shit... umm... I know this..."
+    mct "Merda... umm... La so..."
 
 # game/code/d08/d08s03.rpy:435
 translate italian d08s03_59df0524:
 
     # rn "That is correct. It's nice to see that someone did the reading."
-    rn "That is correct. It's nice to see that someone did the reading."
+    rn "Corretto. È bello vedere qualcuno che ha letto il brano."
 
 # game/code/d08/d08s03.rpy:437
 translate italian d08s03_cb1d5c9e:
 
     # rn "Not even close. Has anyone here actually done the reading?"
-    rn "Not even close. Has anyone here actually done the reading?"
+    rn "Neanche vicinamente. Qualcuno ha fatto la lettura?"
 
 # game/code/d08/d08s03.rpy:438
 translate italian d08s03_3c3bc6c8:
 
     # rn "Miss Eun-Soo. Min, do you know the correct answer?"
-    rn "Miss Eun-Soo. Min, do you know the correct answer?"
+    rn "Signorina Eun-Soo. Min, conosci la risposta corretta?"
 
 # game/code/d08/d08s03.rpy:440
 translate italian d08s03_f18f651f:
 
     # mes "Due to his injury he became addicted to morphine, and was trying to get clean."
-    mes "Due to his injury he became addicted to morphine, and was trying to get clean."
+    mes "Per via della sua ferita diventò dipendente dalla morfina e provò a trovare un rimedio alla dipendenza."
 
 # game/code/d08/d08s03.rpy:441
 translate italian d08s03_2501a982:
 
     # rn "Exactly what I've come to expect from you. That is correct."
-    rn "Exactly what I've come to expect from you. That is correct."
+    rn "Proprio quello che mi aspettavo da te. È corretto."
 
 # game/code/d08/d08s03.rpy:445
 translate italian d08s03_5f4aaeeb:
 
     # rn "Miss Kovalevich. Maria, is everything alright?"
-    rn "Miss Kovalevich. Maria, is everything alright?"
+    rn "Signorina Kovalevich. Maria, è tutto aposto?"
 
 # game/code/d08/d08s03.rpy:447
 translate italian d08s03_44d5e6fa:
 
     # mk "Yes, sir. I had just dropped my pen."
-    mk "Yes, sir. I had just dropped my pen."
+    mk "Si, prof. Mi è solo caduta la penna."
 
 # game/code/d08/d08s03.rpy:449
 translate italian d08s03_9a29d0fd:
 
     # rn "Of course. Your classmate already mentioned the use for treating drug addiction."
-    rn "Of course. Your classmate already mentioned the use for treating drug addiction."
+    rn "Certamente. Il tuo compagno di classe ha già menzionato l'uso della bevanda per risolvere la dipendenza da morfina."
 
 # game/code/d08/d08s03.rpy:450
 translate italian d08s03_d2097d76:
 
     # rn "What else was French Wine Coca used as a treatment for?"
-    rn "What else was French Wine Coca used as a treatment for?"
+    rn "Per cos'altro veniva usata?"
 
 # game/code/d08/d08s03.rpy:452
 translate italian d08s03_3a5fb0f1:
 
     # mk "Oh. {w}Depression, alcoholism, and neurasthenia."
-    mk "Oh. {w}Depression, alcoholism, and neurasthenia."
+    mk "Oh. {w}Depressione, alcolismo, and nevrastenia."
 
 # game/code/d08/d08s03.rpy:454
 translate italian d08s03_b7bed3c8:
 
     # rn "And would you remind us what the nickname for neurasthenia was?"
-    rn "And would you remind us what the nickname for neurasthenia was?"
+    rn "E ci ricorderesti qual era il nome dato alla nevrastenia?"
 
 # game/code/d08/d08s03.rpy:456
 translate italian d08s03_c67668e6:
 
     # mk "Yes, sir. It was called Americanitis."
-    mk "Yes, sir. It was called Americanitis."
+    mk "Certamente. La chiamavano americanite."
 
 # game/code/d08/d08s03.rpy:458
 translate italian d08s03_16986113:
 
     # rn "Very good. You may go back to finding your pen if you want."
-    rn "Very good. You may go back to finding your pen if you want."
+    rn "Molto bene. Ora puoi pure prendere la tua penna."
 
 # game/code/d08/d08s03.rpy:459
 translate italian d08s03_9cb414c8:
 
     # mct "Oh shit. Anyone who didn't notice what she was doing before..."
-    mct "Oh shit. Anyone who didn't notice what she was doing before..."
+    mct "Oh cazzo. Chiunque ha visto cosa stava facendo prima..."
 
 # game/code/d08/d08s03.rpy:461
 translate italian d08s03_7ae47b07:
 
     # mk "Shit shit shit shit shit..."
-    mk "Shit shit shit shit shit..."
+    mk "Merda Merda Merda Merda..."
 
 # game/code/d08/d08s03.rpy:462
 translate italian d08s03_acd30f0e:
 
     # mc "I think some people might have noticed us..."
-    mc "I think some people might have noticed us..."
+    mc "Credo che alcune persone ci abbiano visto..."
 
 # game/code/d08/d08s03.rpy:468
 translate italian d08s03_34764a38:
 
     # mk "Fuck fuck fuck fuck fuck..."
-    mk "Fuck fuck fuck fuck fuck..."
+    mk "Cazzo Cazzo Cazzo Cazzo..."
 
 # game/code/d08/d08s03.rpy:471
 translate italian d08s03_b592930e:
 
     # mct "Oh, fuck!"
-    mct "Oh, fuck!"
+    mct "Oh, cazzo!"
 
 # game/code/d08/d08s03.rpy:472
 translate italian d08s03_91ac509f:
 
     # mct "How many people just texted me?"
-    mct "How many people just texted me?"
+    mct "Quante persone mi hanno messaggiato?"
 
 # game/code/d08/d08s03.rpy:473
 translate italian d08s03_a6491393:
 
     # mct "\"How did you get a lesbian to suck your dick in class?\""
-    mct "\"How did you get a lesbian to suck your dick in class?\""
+    mct "\"Come sei riuscito a fartelo succhiare da una lesbica in classe?\""
 
 # game/code/d08/d08s03.rpy:475
 translate italian d08s03_31b58985:
 
     # mct "\"I thought she was a dyke!\""
-    mct "\"I thought she was a dyke!\""
+    mct "\"Credevo fosse lesbica!\""
 
 # game/code/d08/d08s03.rpy:476
 translate italian d08s03_a93d015c:
 
     # mct "\"Did you just turn her bisexual?\""
-    mct "\"Did you just turn her bisexual?\""
+    mct "\"L'hai fatta diventare bi?\""
 
 # game/code/d08/d08s03.rpy:477
 translate italian d08s03_f487f6e7:
 
     # mct "The list goes on and on..."
-    mct "The list goes on and on..."
+    mct "E la lista va avanti..."
 
 # game/code/d08/d08s03.rpy:479
 translate italian d08s03_322d7aba:
 
     # mk "*whispers* Fuck me sideways with a sledgehammer."
-    mk "*whispers* Fuck me sideways with a sledgehammer."
+    mk "*Sussura* Voglio ammazzarmi."
 
 # game/code/d08/d08s03.rpy:480
 translate italian d08s03_b68ac449:
 
     # mct "Oh shit, this has to be a thousand times worse for her."
-    mct "Oh shit, this has to be a thousand times worse for her."
+    mct "Oh, deve essere stato mille volte peggio per lei."
 
 # game/code/d08/d08s03.rpy:481
 translate italian d08s03_5a0d9fea:
 
     # mc "Maria, fuck. I'm so sorry. I didn't-"
-    mc "Maria, fuck. I'm so sorry. I didn't-"
+    mc "Maria, cazzo. Mi dispiace. Io non-"
 
 # game/code/d08/d08s03.rpy:482
 translate italian d08s03_bdb152de:
 
     # mk "Shh. Just... shhh."
-    mk "Shh. Just... shhh."
+    mk "Shh. Solo... shhh."
 
 # game/code/d08/d08s03.rpy:491
 translate italian d08s03_end_8bac5718:
 
     # "Some time later"
-    "Some time later"
+    "Un po' di tempo dopo"
 
 # game/code/d08/d08s03.rpy:493
 translate italian d08s03_end_2c1cb7ed:
 
     # rn "Alright, class. I think that is enough for today."
-    rn "Alright, class. I think that is enough for today."
+    rn "D'accordo, ragazzi. Per oggi ho finito."
 
 # game/code/d08/d08s03.rpy:496
 translate italian d08s03_end_56a49d16:
 
     # mct "Alright, time to meet Squizzle in the toilet."
-    mct "Alright, time to meet Squizzle in the toilet."
+    mct "Va bene, devo andare in bagno con Squizzle."
 
 # game/code/d08/d08s03.rpy:498
 translate italian d08s03_end_11796383:
 
     # mct "Alright, I should meet up with Stacy and start our Samiya hunt."
-    mct "Alright, I should meet up with Stacy and start our Samiya hunt."
+    mct "Va bene, Devo incontrarmi con Stacy e cercare Saniya."
 
 translate italian strings:
 
     # game/code/d08/d08s03.rpy:309
     old "Fine"
-    new "Fine"
+    new "Bene"
 
     # game/code/d08/d08s03.rpy:309
     old "You don't want it"
-    new "You don't want it"
+    new "Non lo volevi"
 
     # game/code/d08/d08s03.rpy:424
     old "He was creating an energy drink"
-    new "He was creating an energy drink"
+    new "Stava creando un energy drink"
 
     # game/code/d08/d08s03.rpy:424
     old "To sell an addictive drink to make lots of money"
-    new "To sell an addictive drink to make lots of money"
+    new "Per vendere una bevanda che crea dipendenza e fare un sacco di soldi"
 
     # game/code/d08/d08s03.rpy:424
     old "He was a morphine addict trying to get clean"
-    new "He was a morphine addict trying to get clean"
+    new "Era dipendente dalla morfina e stava provando a pulirsi"
 
     # game/code/d08/d08s03.rpy:424
     old "It was an accident"
-    new "It was an accident"
+    new "Era stato un incidente"
 
