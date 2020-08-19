@@ -526,7 +526,7 @@ translate italian d08s03_51142325:
 translate italian d08s03_1d9b9f55:
 
     # mct "blah blah blah"
-    mct "blah blah blah"
+    mct "bla bla bla"
 
 # game/code/d08/d08s03.rpy:202
 translate italian d08s03_ed7c6e73:
@@ -646,7 +646,7 @@ translate italian d08s03_609af294:
 translate italian d08s03_3e6aff8e:
 
     # kb "No. It's just... {w}It's nothing like that. Just some game."
-    kb "No. È solo che... {w}Non è nulla di tutto ciò. Solo un gioco."
+    kb "No. È solo che... {w}Non è nulla di tutto ciò. È solo un gioco."
 
 # game/code/d08/d08s03.rpy:257
 translate italian d08s03_d14c87d9:
@@ -796,7 +796,7 @@ translate italian d08s03_060cdf91:
 translate italian d08s03_76ab189f:
 
     # mc "Seriously? Right here, right now?"
-    mc "Davvero? Qui, in messo a tutti?"
+    mc "Davvero? Qui, in mezzo a tutti?"
 
 # game/code/d08/d08s03.rpy:299
 translate italian d08s03_e1337149:
@@ -832,7 +832,7 @@ translate italian d08s03_2479a251:
 translate italian d08s03_9efac0f9:
 
     # mk "No! {w}Shh... shit... no. I need {b}your{/b} cock."
-    mk "No! {w}Shh... shit... no. Ho bisogno del {b}tuo{/b} cazzo."
+    mk "No! {w}Shh... merda... no. Ho bisogno del {b}tuo{/b} cazzo."
 
 # game/code/d08/d08s03.rpy:311
 translate italian d08s03_6f90ed59:
@@ -1078,7 +1078,7 @@ translate italian d08s03_b1c9f928:
 translate italian d08s03_bb989d63:
 
     # rn "Mr. Young. [mcname]."
-    rn "Giovanotto [mcname]."
+    rn "Signor [mcname]."
 
 # game/code/d08/d08s03.rpy:419
 translate italian d08s03_6934998d:
@@ -1114,7 +1114,7 @@ translate italian d08s03_cb1d5c9e:
 translate italian d08s03_3c3bc6c8:
 
     # rn "Miss Eun-Soo. Min, do you know the correct answer?"
-    rn "Signorina Eun-Soo. Min, conosci la risposta corretta?"
+    rn "Signorina Eun-Soo. Min, conosce la risposta corretta?"
 
 # game/code/d08/d08s03.rpy:440
 translate italian d08s03_f18f651f:
@@ -1156,7 +1156,7 @@ translate italian d08s03_d2097d76:
 translate italian d08s03_3a5fb0f1:
 
     # mk "Oh. {w}Depression, alcoholism, and neurasthenia."
-    mk "Oh. {w}Depressione, alcolismo, and nevrastenia."
+    mk "Oh. {w}Depressione, alcolismo, e nevrastenia."
 
 # game/code/d08/d08s03.rpy:454
 translate italian d08s03_b7bed3c8:
@@ -1288,11 +1288,11 @@ translate italian strings:
 
     # game/code/d08/d08s03.rpy:309
     old "Fine"
-    new "Bene"
+    new "Va bene"
 
     # game/code/d08/d08s03.rpy:309
     old "You don't want it"
-    new "Non lo volevi"
+    new "Non lo vuoi"
 
     # game/code/d08/d08s03.rpy:424
     old "He was creating an energy drink"
