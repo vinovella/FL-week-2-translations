@@ -1,328 +1,186 @@
-﻿# TODO: Translation updated at 2020-07-05 22:44
+﻿# TODO: Translation updated at 2020-08-05 20:12
 
-# game/code/d08/prologue.rpy:56
+# game/code/d08/prologue.rpy:57
 translate russian prologue_fresh_start_4063ae17:
 
     # "Hi and welcome to Fetish Locator."
-    "Hi and welcome to Fetish Locator."
-
-# game/code/d08/prologue.rpy:57
-translate russian prologue_fresh_start_9fd8e864:
-
-    # "In the second chapter of this visual novel, you will keep playing as a young college student and you'll explore love, lust and sexual fetishes with the hottest women in town."
-    "In the second chapter of this visual novel, you will keep playing as a young college student and you'll explore love, lust and sexual fetishes with the hottest women in town."
-
-# game/code/d08/prologue.rpy:59
-translate russian prologue_fresh_start_b0824c02:
-
-    # "If you have already completed the first chapter, we invite you to open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/b6CNu2C}Discord{/a}."
-    "If you have already completed the first chapter, we invite you to open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/b6CNu2C}Discord{/a}."
-
-# game/code/d08/prologue.rpy:61
-translate russian prologue_fresh_start_67ebaee2:
-
-    # "If you have already completed the first chapter, we invite you to open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/b6CNu2C}Discord{/a} or on {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
-    "If you have already completed the first chapter, we invite you to open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/b6CNu2C}Discord{/a} or on {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
-
-# game/code/d08/prologue.rpy:62
-translate russian prologue_fresh_start_000c3b35:
-
-    # "Now the game will ask you some questions and it will try to determine your profile to the best.\nFor a better experience, we invite you to play the first chapter of Fetish Locator."
-    "Now the game will ask you some questions and it will try to determine your profile to the best.\nFor a better experience, we invite you to play the first chapter of Fetish Locator."
-
-# game/code/d08/prologue.rpy:76
-translate russian prologue_fresh_start_dc4e2cd1:
-
-    # "Here's your girlfriend Lydia and your friend Amber-Rose.\nLydia is calm, romantic and sweet as much as Amber-Rose is feisty and passionate.\nLet's know them better!"
-    "Here's your girlfriend Lydia and your friend Amber-Rose.\nLydia is calm, romantic and sweet as much as Amber-Rose is feisty and passionate.\nLet's know them better!"
-
-# game/code/d08/prologue.rpy:78
-translate russian prologue_fresh_start_2acd24b9:
-
-    # "Lydia is a great singer, like her parents.\nWhich gender do you think it fits her?"
-    "Lydia is a great singer, like her parents.\nWhich gender do you think it fits her?"
-
-# game/code/d08/prologue.rpy:86
-translate russian prologue_fresh_start_cbd04ca6:
-
-    # "What do you especially like of Lydia?"
-    "What do you especially like of Lydia?"
-
-# game/code/d08/prologue.rpy:97
-translate russian prologue_fresh_start_36fcdd97:
-
-    # "At the end of the first week your relationship with AmRose took an unexpected turn and now she is:"
-    "At the end of the first week your relationship with AmRose took an unexpected turn and now she is:"
-
-# game/code/d08/prologue.rpy:110
-translate russian prologue_fresh_start_40d3b443:
-
-    # "But they are not the only girls you met in the previous chapter."
-    "But they are not the only girls you met in the previous chapter."
-
-# game/code/d08/prologue.rpy:113
-translate russian prologue_fresh_start_d6460f68:
-
-    # "Yes, all of these beautiful girls can be your friends with benefits... and some of them even potential love interests."
-    "Yes, all of these beautiful girls can be your friends with benefits... and some of them even potential love interests."
-
-# game/code/d08/prologue.rpy:115
-translate russian prologue_fresh_start_2a86af9f:
-
-    # "Click on their portraits to select them."
-    "Click on their portraits to select them."
-
-# game/code/d08/prologue.rpy:117
-translate russian prologue_fresh_start_76076adf:
-
-    # "Stacy is going to move to your college and you have found a nice apartment for her. The owner is Lyssa (you are going to meet her next).\nWhat do you propose to her?"
-    "Stacy is going to move to your college and you have found a nice apartment for her. The owner is Lyssa (you are going to meet her next).\nWhat do you propose to her?"
-
-# game/code/d08/prologue.rpy:132
-translate russian prologue_fresh_start_fd47ca3c:
-
-    # "Great! But it doesn't ends here."
-    "Great! But it doesn't ends here."
-
-# game/code/d08/prologue.rpy:135
-translate russian prologue_fresh_start_12219e95:
-
-    # "Yeah, more girls for you. But: you cannot chose all of them. Only two are available (I know, life is unfair!).\nPlease read their description carefully, in order to avoid unwanted surprises ;)."
-    "Yeah, more girls for you. But: you cannot chose all of them. Only two are available (I know, life is unfair!).\nPlease read their description carefully, in order to avoid unwanted surprises ;)."
-
-# game/code/d08/prologue.rpy:137
-translate russian prologue_fresh_start_c5d398ac:
-
-    # "Select up to two girls and press Done."
-    "Select up to two girls and press Done."
-
-# game/code/d08/prologue.rpy:143
-translate russian prologue_fresh_start_fb4c3cc7:
-
-    # "I see you choose the beautiful Melyssa, or Lyssa.\nHow do you behave toward her?"
-    "I see you choose the beautiful Melyssa, or Lyssa.\nHow do you behave toward her?"
-
-# game/code/d08/prologue.rpy:156
-translate russian prologue_fresh_start_82ce5def:
-
-    # "And finally the last pair of girls!"
-    "And finally the last pair of girls!"
-
-# game/code/d08/prologue.rpy:159
-translate russian prologue_fresh_start_16f99d74:
-
-    # "Do you prefer a top or a bottom? (Or neither, if they aren't your cup of tea).\nAgain, you cannot choose all of them."
-    "Do you prefer a top or a bottom? (Or neither, if they aren't your cup of tea).\nAgain, you cannot choose all of them."
-
-# game/code/d08/prologue.rpy:161
-translate russian prologue_fresh_start_3cfb1e17:
-
-    # "Select up to one girl and press Done."
-    "Select up to one girl and press Done."
-
-# game/code/d08/prologue.rpy:164
-translate russian prologue_fresh_start_c70a78cc:
-
-    # "Into femdom, uh? OK, if your mistress ordered to adore her body right now, which part would you focus on?"
-    "Into femdom, uh? OK, if your mistress ordered to adore her body right now, which part would you focus on?"
-
-# game/code/d08/prologue.rpy:181
-translate russian prologue02_836cd6e3:
-
-    # "And now it's time to choose your fetishes. We kept the list as short as possible in order to re-create your profile. But don't worry if your favorite fetishs are not listed yet: Fetish Locator has only begun!"
-    "And now it's time to choose your fetishes. We kept the list as short as possible in order to re-create your profile. But don't worry if your favorite fetishs are not listed yet: Fetish Locator has only begun!"
-
-# game/code/d08/prologue.rpy:183
-translate russian prologue02_b96eab22:
-
-    # "Pick as many fetishes as you want."
-    "Pick as many fetishes as you want."
-
-# game/code/d08/prologue.rpy:190
-translate russian prologue02_e74d053b:
-
-    # "Great, you're ready for starting a new week on Fetish Locator!"
-    "Great, you're ready for starting a new week on Fetish Locator!"
-
-translate russian strings:
-
-    # game/code/d08/prologue.rpy:64
-    old "What is your name? (Default name - Mike)"
-    new "What is your name? (Default name - Mike)"
-
-    # game/code/d08/prologue.rpy:64
-    old "Mike"
-    new "Mike"
-
-    # game/code/d08/prologue.rpy:67
-    old "What is your nickname in Fetish Locator app?\nIf empty, the game will prepend \"Not_\" to your name: e.g. Not_Mike"
-    new "What is your nickname in Fetish Locator app?\nIf empty, the game will prepend \"Not_\" to your name: e.g. Not_Mike"
-
-    # game/code/d08/prologue.rpy:79
-    old "Classical arias"
-    new "Classical arias"
-
-    # game/code/d08/prologue.rpy:79
-    old "Modern Pop/Rock"
-    new "Modern Pop/Rock"
-
-    # game/code/d08/prologue.rpy:79
-    old "Her parents' songs"
-    new "Her parents' songs"
-
-    # game/code/d08/prologue.rpy:87
-    old "Her face"
-    new "Her face"
-
-    # game/code/d08/prologue.rpy:87
-    old "Her breasts"
-    new "Her breasts"
-
-    # game/code/d08/prologue.rpy:87
-    old "Her thighs"
-    new "Her thighs"
-
-    # game/code/d08/prologue.rpy:87
-    old "Her feet"
-    new "Her feet"
-
-    # game/code/d08/prologue.rpy:98
-    old "Your secret girlfriend"
-    new "Your secret girlfriend"
-
-    # game/code/d08/prologue.rpy:98
-    old "Your sexual slave"
-    new "Your sexual slave"
-
-    # game/code/d08/prologue.rpy:118
-    old "You cosign the contract, share the expenses and live there in autumn (when Stacy moves into the dorm)"
-    new "You cosign the contract, share the expenses and live there in autumn (when Stacy moves into the dorm)"
-
-    # game/code/d08/prologue.rpy:118
-    old "You convince Lyssa to give Stacy a lower rate as advertising"
-    new "You convince Lyssa to give Stacy a lower rate as advertising"
-
-    # game/code/d08/prologue.rpy:118
-    old "You appeal to Lyssa's pity, being Stacy just a poor college student"
-    new "You appeal to Lyssa's pity, being Stacy just a poor college student"
-
-    # game/code/d08/prologue.rpy:144
-    old "I am a gentleman (tips fedora)"
-    new "I am a gentleman (tips fedora)"
-
-    # game/code/d08/prologue.rpy:144
-    old "I want to dominate her"
-    new "I want to dominate her"
-
-    # game/code/d08/prologue.rpy:165
-    old "Her lovely tits"
-    new "Her lovely tits"
-
-    # game/code/d08/prologue.rpy:165
-    old "Her delicate pussy"
-    new "Her delicate pussy"
-
-    # game/code/d08/prologue.rpy:165
-    old "Her firm ass"
-    new "Her firm ass"
-
-# TODO: Translation updated at 2020-07-30 07:27
+    "Привет и добро пожаловать в Фетиш Локатор."
 
 # game/code/d08/prologue.rpy:58
 translate russian prologue_fresh_start_1b390ae3:
 
     # "In the second chapter of this visual novel, you will continue playing as a young college student and you'll explore love, lust and sexual fetishes with the hottest women in town."
-    "In the second chapter of this visual novel, you will continue playing as a young college student and you'll explore love, lust and sexual fetishes with the hottest women in town."
+    "Во второй главе этого визуального романа ты продолжишь играть в качестве молодого студента колледжа и будешь исследовать любовь, похоть и сексуальные фетиши с самыми горячими девушками в городе."
 
 # game/code/d08/prologue.rpy:61
 translate russian prologue_fresh_start_1aa77e92:
 
     # "We see that you have already completed the first chapter. If you want to keep playing with all your game progress intact, open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/b6CNu2C}Discord{/a}."
-    "We see that you have already completed the first chapter. If you want to keep playing with all your game progress intact, open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/b6CNu2C}Discord{/a}."
+    "Мы видим, что ты уже закончил первую главу. Если ты хочешь продолжить играть со всем твоим игровым прогрессом, открой меню и нажми кнопку \"Продолжить с недели [FLSS.week.prev]\" и загрузи сохранение.\nЕсли возникли какие-либо проблемы, пожалуйста, свяжись с нами на {a=https://discord.gg/b6CNu2C}Discord{/a}."
 
 # game/code/d08/prologue.rpy:63
 translate russian prologue_fresh_start_16da65c2:
 
     # "We see that you have already completed the first chapter. If you want to keep playing with all your game progress intact, open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/b6CNu2C}Discord{/a} or on {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
-    "We see that you have already completed the first chapter. If you want to keep playing with all your game progress intact, open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/b6CNu2C}Discord{/a} or on {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
+    "Мы видим, что ты уже закончил первую главу. Если ты хочешь продолжить играть со всем твоим игровым прогрессом, открой меню и нажми кнопку \"Продолжить с недели [FLSS.week.prev]\" и загрузи сохранение.\nЕсли возникли какие-либо проблемы, пожалуйста, свяжись с нами на {a=https://discord.gg/b6CNu2C}Discord{/a}. или на {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
 
 # game/code/d08/prologue.rpy:64
 translate russian prologue_fresh_start_56a763ee:
 
     # "Now the game will ask you some questions and it will configure your profile.\nFor a better experience, we invite you to play the first chapter of Fetish Locator."
-    "Now the game will ask you some questions and it will configure your profile.\nFor a better experience, we invite you to play the first chapter of Fetish Locator."
+    "Теперь игра задаст тебе несколько вопросов и настроит твой профиль.\nДля получения лучшего результата, мы приглашаем тебя самостоятельно сыграть первую главу Фетиш Локатора."
 
 # game/code/d08/prologue.rpy:78
 translate russian prologue_fresh_start_b5c6b797:
 
     # "Here's your girlfriend Lydia and your friend Amber-Rose.\nLydia is calm, romantic and sweet as much as Amber-Rose is feisty and passionate.\nLet's get to know them better!"
-    "Here's your girlfriend Lydia and your friend Amber-Rose.\nLydia is calm, romantic and sweet as much as Amber-Rose is feisty and passionate.\nLet's get to know them better!"
+    "Вот твоя девушка Лидия и твоя подруга Амбер-Роуз.\nЛидия спокойна, романтична и сладка, а Амбер-Роуз - вздорная и страстная.\nДавай узнаем их получше!"
+
+# game/code/d08/prologue.rpy:80
+translate russian prologue_fresh_start_cbd04ca6:
+
+    # "What do you especially like of Lydia?"
+    "Что тебе особенно нравится в Лидии?"
 
 # game/code/d08/prologue.rpy:90
 translate russian prologue_fresh_start_6907d43d:
 
     # "Lydia is a great singer, like her parents.\nWhich musical genre do you think it fits her better?"
-    "Lydia is a great singer, like her parents.\nWhich musical genre do you think it fits her better?"
+    "Лидия - великая певица, как и ее родители.\nКак ты думаешь, какой музыкальный жанр ей больше подходит?"
+
+# game/code/d08/prologue.rpy:99
+translate russian prologue_fresh_start_36fcdd97:
+
+    # "At the end of the first week your relationship with AmRose took an unexpected turn and now she is:"
+    "В конце первой недели твои отношения с АмРоуз приняли неожиданный оборот и теперь она:"
 
 # game/code/d08/prologue.rpy:118
 translate russian prologue_girls_set_1_30dd9679:
 
     # "In the first week the main character met several beautiful girls: some can be friends with benefits or even potential love interests.\n\nClick on their portraits to select them. When finished select Done."
-    "In the first week the main character met several beautiful girls: some can be friends with benefits or even potential love interests.\n\nClick on their portraits to select them. When finished select Done."
+    "В первую неделю главный герой познакомился с несколькими красивыми девушками: Некоторые из них могут быть друзьями с выгодой или даже потенциальными любовными интересами.\n\nНажми на их портреты, чтобы выбрать их. После завершения выбери \"Принять\"."
 
 # game/code/d08/prologue.rpy:121
 translate russian prologue_girls_set_1_done_922f3b6c:
 
     # "Stacy is going to move to your college and you have found a nice apartment for her. The owner is Lyssa (you are going to meet her next).\n\nWhat do you propose to her?"
-    "Stacy is going to move to your college and you have found a nice apartment for her. The owner is Lyssa (you are going to meet her next).\n\nWhat do you propose to her?"
+    "Стейси собирается приехать учится в твой колледж, а ты нашел для нее хорошую квартиру. Владелец - Лисса (ты встретишься с ней в следующий раз).\n\nЧто ты ей предложил?"
 
 # game/code/d08/prologue.rpy:140
 translate russian prologue_girls_set_2_60f2d9c0:
 
     # "More girls for you! But you cannot chose all of them.\nSelect up to two girls and press Done.\n\nPS: read their description carefully ;)"
-    "More girls for you! But you cannot chose all of them.\nSelect up to two girls and press Done.\n\nPS: read their description carefully ;)"
+    "Больше девушек для тебя! Но ты не можешь выбрать всех.\nВыбери до двух девушек и нажми \"Принять\".\n\nPS: внимательно прочитай их описание ;)"
 
 # game/code/d08/prologue.rpy:147
-translate russian prologue_girls_set_2_done_faf3f787:
+translate russian prologue_girls_set_2_done_f074e097:
 
-    # "I see you choose the beautiful Melissa " Lyssa " Harris.\nHow do you behave toward her?"
-    "I see you choose the beautiful Melissa " Lyssa " Harris.\nHow do you behave toward her?"
+    # "I see you choose the beautiful Melissa \"Lyssa\" Harris.\nHow do you behave toward her?"
+    "Я вижу, ты выбрал прекрасную Мелиссу \"Лиссу\" Харрис.\nКак ты ведешь себя по отношению к ней?"
 
 # game/code/d08/prologue.rpy:166
 translate russian prologue_girls_set_3_b8a39516:
 
     # "Last pair: do you prefer a top or a bottom? (Or neither, if they aren't your cup of tea)\nSelect up to one girl and press Done."
-    "Last pair: do you prefer a top or a bottom? (Or neither, if they aren't your cup of tea)\nSelect up to one girl and press Done."
+    "Последний вопрос: Ты предпочитаешь верх или низ? (Или ни то, ни другое, если это не твоя чашка чая)\nВыбери одну девушку и нажми \"Принять\"."
 
 # game/code/d08/prologue.rpy:170
 translate russian prologue_girls_set_3_done_7582b991:
 
     # "Into femdom, eh?\nOK, if your Mistress ordered to adore her body right now, which part would you focus on?"
-    "Into femdom, eh?\nOK, if your Mistress ordered to adore her body right now, which part would you focus on?"
+    "Женское доминирование, да?\nХорошо, если бы твоя Госпожа приказала обожать ее тело прямо сейчас, на какой части ты бы сосредоточился?"
 
 # game/code/d08/prologue.rpy:190
 translate russian prologue_fetishes_b6d29b2c:
 
     # "And now it's time to choose your fetishes.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many fetishes as you want and press Done."
-    "And now it's time to choose your fetishes.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many fetishes as you want and press Done."
+    "А теперь пришло время выбирать себе фетиши.\nНе волнуйся, если твой любимый фетиш не указан: Фетиш Локатор только начался!"
 
 # game/code/d08/prologue.rpy:198
 translate russian prologue_finalize_b8dc714d:
 
     # "Great! You're now ready to begin your second week playing Fetish Locator!"
-    "Great! You're now ready to begin your second week playing Fetish Locator!"
+    "Здорово! Теперь ты готов начать вторую неделю игры в Фетиш Локатор!"
 
 translate russian strings:
 
+    # game/code/d08/prologue.rpy:4
+    old "Mike"
+    new "Майк"
+
     # game/code/d08/prologue.rpy:5
     old "Not_"
-    new "Not_"
+    new "Не_"
+
+    # game/code/d08/prologue.rpy:66
+    old "What is your name? (Default name - Mike)"
+    new "Введите имя вашего персонажа:"
+
+    # game/code/d08/prologue.rpy:69
+    old "What is your nickname in Fetish Locator app?\nIf empty, the game will prepend \"Not_\" to your name: e.g. Not_Mike"
+    new "Как вы назовётесь в приложении Fetish Locator?\nЕсли оставить пустым, то игра будет добавлять \"Не_\" перед вашим именем: Например Не_Майк"
+
+    # game/code/d08/prologue.rpy:81
+    old "Her face"
+    new "Её лицо"
+
+    # game/code/d08/prologue.rpy:81
+    old "Her breasts"
+    new "Её грудь"
+
+    # game/code/d08/prologue.rpy:81
+    old "Her thighs"
+    new "Её бедра"
+
+    # game/code/d08/prologue.rpy:81
+    old "Her feet"
+    new "Её ноги"
+
+    # game/code/d08/prologue.rpy:91
+    old "Classical arias"
+    new "Классические арии"
+
+    # game/code/d08/prologue.rpy:91
+    old "Modern Pop/Rock"
+    new "Современный поп/рок"
+
+    # game/code/d08/prologue.rpy:91
+    old "Her parents' songs"
+    new "Песни её родителей"
+
+    # game/code/d08/prologue.rpy:100
+    old "Your secret girlfriend"
+    new "Твоя тайная подружка"
+
+    # game/code/d08/prologue.rpy:100
+    old "Your sexual slave"
+    new "Твоя сексуальная рабыня"
 
     # game/code/d08/prologue.rpy:122
     old "You co-sign the contract, share the expenses, and live there in autumn (after Stacy moves to a dorm)"
-    new "You co-sign the contract, share the expenses, and live there in autumn (after Stacy moves to a dorm)"
+    new "Ты подписываешь контракт, разделяешь расходы и живешь там осенью (после того, как Стейси переезжает в общежитие)"
 
     # game/code/d08/prologue.rpy:122
     old "You convince Lyssa to give Stacy a lower rate as a form of advertising"
-    new "You convince Lyssa to give Stacy a lower rate as a form of advertising"
+    new "Ты убеждаешь Лиссу дать Стейси более низкую цену в качестве рекламы"
+
+    # game/code/d08/prologue.rpy:148
+    old "I am a gentleman (tips fedora)"
+    new "Я джентльмен"
+
+    # game/code/d08/prologue.rpy:148
+    old "I want to dominate her"
+    new "Я хочу доминировать над ней"
+
+    # game/code/d08/prologue.rpy:171
+    old "Her lovely tits"
+    new "Ее прекрасные сиськи"
+
+    # game/code/d08/prologue.rpy:171
+    old "Her delicate pussy"
+    new "Ее нежная киска"
+
+    # game/code/d08/prologue.rpy:171
+    old "Her firm ass"
+    new "Ее упругая попка"
 
