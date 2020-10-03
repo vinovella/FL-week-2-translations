@@ -449,6 +449,46 @@ translate russian d08s01_bathe_b395490b:
 
     # sy "Let me just rinse this off... {w}then you can finish cleaning yourself."
     sy "Позволь мне смыть это... {w}потом ты тоже сможешь закончить мыться."
+    
+ 
+# Replay Label Translations #####################################################################
+
+# game/code/d08/d08s01.rpy:79
+translate russian replay_d08s01_8a7eb859:
+
+    # mct "Speak of the devil and she shall appear."
+    mct "Вспомни о чертовке, и она явится."
+
+# game/code/d08/d08s01.rpy:82
+translate russian replay_d08s01_f74029b7:
+
+    # sy "Oops! Sorry."
+    sy "Уупс! Извиняюсь."
+
+# game/code/d08/d08s01.rpy:93
+translate russian replay_d08s01_5aa5acd8:
+
+    # mct "She is doing it again!"
+    mct "Она снова это делает!"
+
+# game/code/d08/d08s01.rpy:96
+translate russian replay_d08s01_68bbf00d:
+
+    # mct "But this is not back home! AmRose is in the other room!"
+    mct "Но мы не дома! АмРоуз в соседней комнате!"
+
+# game/code/d08/d08s01.rpy:98
+translate russian replay_d08s01_11d1e060:
+
+    # mct "But this is too risky! AmRose is in the other room!"
+    mct "Но это слишком рискованно! АмРоуз в соседней комнате!"
+
+# game/code/d08/d08s01.rpy:103
+translate russian replay_d08s01_96d7486d:
+
+    # mc "No, no! Wait your turn. I'll be quick."
+    mc "Нет нет! Жди своей очереди. Я скоро."
+
 
 translate russian strings:
 
@@ -459,4 +499,3 @@ translate russian strings:
     # game/code/d08/d08s01.rpy:99
     old "Let Stacy bathe with you"
     new "Пусть Стейси искупается с тобой"
-
