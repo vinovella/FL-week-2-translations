@@ -1277,6 +1277,560 @@ translate russian d08s03_end_11796383:
 
     # mct "Alright, I should meet up with Stacy and start our Samiya hunt."
     mct "Ладно, я должен встретиться со Стейси и начать нашу охоту на Самию."
+    
+# Replay Label ######################################################################
+
+# game/code/d08/d08s03.rpy:272
+translate russian replay_d08s03_e3ebb20d:
+
+    # mct "Is Maria still looking at me?"
+    mct "Мария все еще смотрит на меня?"
+
+# game/code/d08/d08s03.rpy:276
+translate russian replay_d08s03_bd5eaa7b:
+
+    # mct "Okay, this is just crazy. What the hell does she want?"
+    mct "Ладно, это просто безумие. Какого черта она хочет?"
+
+# game/code/d08/d08s03.rpy:279
+translate russian replay_d08s03_3240527e:
+
+    # rn "*blah blah blah*... Wilson's Raid into Georgia...*blah blah blah*"
+    rn "*Бла бла бла*... Нападение Уилсона на Джорджию... *бла бла бла*."
+
+# game/code/d08/d08s03.rpy:280
+translate russian replay_d08s03_8907d4f5:
+
+    # mc "You've been staring at me ever since you walked in..."
+    mc "Ты пялишься на меня с тех пор, как вошла..."
+
+# game/code/d08/d08s03.rpy:281
+translate russian replay_d08s03_48438ce3:
+
+    # mk "Sorry, sorry, sorry. Can you sit with me?"
+    mk "Прости, прости, прости. Можешь посидеть со мной?"
+
+# game/code/d08/d08s03.rpy:283
+translate russian replay_d08s03_9b10bfe5:
+
+    # mc "I'm here now. What do you want?"
+    mc "Я здесь. Чего ты хочешь?"
+
+# game/code/d08/d08s03.rpy:285
+translate russian replay_d08s03_61d87077:
+
+    # mk "I keep thinking about that event at the Party."
+    mk "Я все думаю о том мероприятии на Вечеринке."
+
+# game/code/d08/d08s03.rpy:286
+translate russian replay_d08s03_dd56af82:
+
+    # mc "Huh? Antony's magic show?"
+    mc "Хм? Волшебное шоу Энтони?"
+
+# game/code/d08/d08s03.rpy:288
+translate russian replay_d08s03_dc7b255c:
+
+    # mk "Yes. That dream we shared... you know, when you fucked me."
+    mk "Да. То шоу, который мы разделяли... знаешь, когда ты трахал меня."
+
+# game/code/d08/d08s03.rpy:289
+translate russian replay_d08s03_84f16542:
+
+    # mc "Okay..."
+    mc "И..."
+
+# game/code/d08/d08s03.rpy:290
+translate russian replay_d08s03_144dbbdf:
+
+    # mk "Before that, when I was sucking your cock... {w}it was just the best thing ever."
+    mk "До этого, когда я сосала твой член... {w}это была просто лучшая вещь на свете."
+
+# game/code/d08/d08s03.rpy:291
+translate russian replay_d08s03_a03597fd:
+
+    # mc "I've got some time this afternoon. Should I drop by-"
+    mc "У меня есть немного времени сегодня днем. Может мне заскочить..."
+
+# game/code/d08/d08s03.rpy:293
+translate russian replay_d08s03_4172a42a:
+
+    # mk "I want it now."
+    mk "Я хочу этого сейчас."
+
+# game/code/d08/d08s03.rpy:294
+translate russian replay_d08s03_cc761816:
+
+    # mc "No..."
+    mc "Нет..."
+
+# game/code/d08/d08s03.rpy:296
+translate russian replay_d08s03_060cdf91:
+
+    # mk "Yes. Now."
+    mk "Да. Сейчас."
+
+# game/code/d08/d08s03.rpy:297
+translate russian replay_d08s03_76ab189f:
+
+    # mc "Seriously? Right here, right now?"
+    mc "Серьезно? Прямо здесь, прямо сейчас?"
+
+# game/code/d08/d08s03.rpy:299
+translate russian replay_d08s03_e1337149:
+
+    # mk "I know we're in class, but I can't help it."
+    mk "Я знаю, что мы в классе, но ничего не могу с собой поделать."
+
+# game/code/d08/d08s03.rpy:301
+translate russian replay_d08s03_18a295dc:
+
+    # mk "I just kept thinking about sucking your cock. {w}I need it."
+    mk "Я все время думаю о том, чтобы пососать твой член. {w}Мне это нужно."
+
+# game/code/d08/d08s03.rpy:302
+translate russian replay_d08s03_37daaa62:
+
+    # mct "Wow. I know it's wrong, but maybe I should have some fun with her."
+    mct "Вау. Я знаю, что это неправильно, но, может быть, мне стоит немного позабавиться с ней."
+
+# game/code/d08/d08s03.rpy:305
+translate russian replay_d08s03_ba026827:
+
+    # mc "Maybe I can find someone to help you with that."
+    mc "Может быть, я найду кого-нибудь, кто поможет тебе с этим."
+
+# game/code/d08/d08s03.rpy:306
+translate russian replay_d08s03_2479a251:
+
+    # mc "Maybe the Professor would like-"
+    mc "Может быть, профессор захочет..."
+
+# game/code/d08/d08s03.rpy:308
+translate russian replay_d08s03_9efac0f9:
+
+    # mk "No! {w}Shh... shit... no. I need {b}your{/b} cock."
+    mk "Нет! {w}Шшш... черт... нет. Мне нужен {b}твой{/b} член."
+
+# game/code/d08/d08s03.rpy:311
+translate russian replay_d08s03_6f90ed59:
+
+    # mc "Fine. Take it out."
+    mc "Хорошо. Вытащи его."
+
+# game/code/d08/d08s03.rpy:316
+translate russian replay_d08s03_b363fc51:
+
+    # mc "Maria. Listen here. You think that you are missing out on something but that is not the case."
+    mc "Мария. Слушай сюда. Ты думаешь, что упускаешь что-то, но это не так."
+
+# game/code/d08/d08s03.rpy:317
+translate russian replay_d08s03_36723146:
+
+    # mc "We just had a crazy experience at the party, but that wasn't real."
+    mc "У нас был сумасшедший опыт на вечеринке, но это было не по-настоящему."
+
+# game/code/d08/d08s03.rpy:318
+translate russian replay_d08s03_9df17b07:
+
+    # mc "I think you should calm down and finally decide what is that you actually want. Ok?"
+    mc "Думаю, тебе стоит успокоиться и наконец-то решить, чего ты на самом деле хочешь. Хорошо?"
+
+# game/code/d08/d08s03.rpy:320
+translate russian replay_d08s03_61f1d479:
+
+    # mk "Wow. I didn't expect this from you. You might be right."
+    mk "Вау. Я не ожидала этого от тебя. Возможно, ты прав."
+
+# game/code/d08/d08s03.rpy:324
+translate russian replay_d08s03_e37de9e5:
+
+    # mk "What?"
+    mk "Что?"
+
+# game/code/d08/d08s03.rpy:327
+translate russian replay_d08s03_ab4411c4:
+
+    # mc "Take it out and feel it in your hand."
+    mc "Вытащи его и почувствуй в руке."
+
+# game/code/d08/d08s03.rpy:329
+translate russian replay_d08s03_76101272:
+
+    # mk "I can't believe I'm doing this."
+    mk "Не могу поверить, что делаю это."
+
+# game/code/d08/d08s03.rpy:330
+translate russian replay_d08s03_f7339009:
+
+    # mct "I can't believe she's doing this either!"
+    mct "Я тоже не могу поверить, что она это делает!"
+
+# game/code/d08/d08s03.rpy:332
+translate russian replay_d08s03_7e59b137:
+
+    # mc "That's it. Now give me a handjob."
+    mc "Вот так. А теперь подрочи мне."
+
+# game/code/d08/d08s03.rpy:333
+translate russian replay_d08s03_71d54b6e:
+
+    # mk "I don't... {w}How?"
+    mk "Я не знаю... {w}Как?"
+
+# game/code/d08/d08s03.rpy:334
+translate russian replay_d08s03_c1c99e06:
+
+    # mc "You've played with a dildo, right? You've fucked yourself with toys like that?"
+    mc "Ты ведь играла с дилдо, да? Ты трахала себя такими игрушками?"
+
+# game/code/d08/d08s03.rpy:336
+translate russian replay_d08s03_02916c9b:
+
+    # mk "Uhhhh huh... Yes."
+    mk "Уххх, хм... Да."
+
+# game/code/d08/d08s03.rpy:338
+translate russian replay_d08s03_cb1e089a:
+
+    # mc "Just pretend that your hand is your cunt and stroke me off."
+    mc "Просто притворись, что твоя рука - твоя пизда, и подрочи меня."
+
+# game/code/d08/d08s03.rpy:340
+translate russian replay_d08s03_cd004a74:
+
+    # mk "I don't know what that means..."
+    mk "Я не знаю, что это значит..."
+
+# game/code/d08/d08s03.rpy:342
+translate russian replay_d08s03_0adc01c5:
+
+    # mc "I think you do. You're already doing it."
+    mc "Думаю знаешь. Ты уже это делаешь."
+
+# game/code/d08/d08s03.rpy:343
+translate russian replay_d08s03_374d8e06:
+
+    # mk "What? {w}Oh, I guess I am."
+    mk "Что? {w}Ох, наверное, так оно и есть."
+
+# game/code/d08/d08s03.rpy:344
+translate russian replay_d08s03_40ca58e2:
+
+    # mc "Don't just stroke the shaft. You have to work the tip too."
+    mc "Не надо просто тереть ствол. Ты также должна работать с головкой."
+
+# game/code/d08/d08s03.rpy:346
+translate russian replay_d08s03_e8d3d303:
+
+    # mc "Just pretend that it is a really large clit."
+    mc "Просто представь, что это большой клитор."
+
+# game/code/d08/d08s03.rpy:348
+translate russian replay_d08s03_dcf2226b:
+
+    # mc "Work the tip of my cock with your hand like you would finger some sexy girl's clit."
+    mc "Поработай над головкой моего члена своей рукой так, как будто бы ты пальцем поглаживаешь клитор какой-нибудь сексуальной девчонки."
+
+# game/code/d08/d08s03.rpy:349
+translate russian replay_d08s03_06c05314:
+
+    # mk "Uhhhhhuh... Yes, yes..."
+    mk "Уххххххух... Да, да..."
+
+# game/code/d08/d08s03.rpy:350
+translate russian replay_d08s03_72e19af2:
+
+    # mc "That feels good. Now faster."
+    mc "Приятное ощущение. Теперь быстрее."
+
+# game/code/d08/d08s03.rpy:358
+translate russian replay_d08s03_cb46ca00:
+
+    # mk "Do... Do you like it?"
+    mk "Так... Тебе нравится?"
+
+# game/code/d08/d08s03.rpy:359
+translate russian replay_d08s03_9696be6f:
+
+    # mc "Now, let's change things up a little."
+    mc "А теперь давай немного изменим ситуацию."
+
+# game/code/d08/d08s03.rpy:360
+translate russian replay_d08s03_784cf9ff:
+
+    # mk "What do you mean?"
+    mk "Что ты имеешь в виду?"
+
+# game/code/d08/d08s03.rpy:361
+translate russian replay_d08s03_daf5cfa4:
+
+    # mc "Open your mouth, place it over my hard cock, and lick the tip while you stroke the shaft."
+    mc "Открой рот, возьми в него мой твердый член и облизывай головку, пока дрочишь ствол."
+
+# game/code/d08/d08s03.rpy:363
+translate russian replay_d08s03_0062d401:
+
+    # mk "Yesss... yess... okay."
+    mk "Дааа... даа... Хорошо."
+
+# game/code/d08/d08s03.rpy:365
+translate russian replay_d08s03_2041a1f8:
+
+    # mct "Wow! Is she really going to-"
+    mct "Вау! Она действительно сделает это..."
+
+# game/code/d08/d08s03.rpy:371
+translate russian replay_d08s03_1892ce08:
+
+    # mct "Damn! This is not like in the dream..."
+    mct "Черт возьми! Это совсем не то, что было во сне..."
+
+# game/code/d08/d08s03.rpy:376
+translate russian replay_d08s03_58c7d629:
+
+    # mct "In the dream it felt like heaven. But in real life it just feels like she's never given head before..."
+    mct "Во сне это было похоже на рай. Но в реальной жизни кажется, что ей никогда раньше не давали в рот..."
+
+# game/code/d08/d08s03.rpy:381
+translate russian replay_d08s03_a027693c:
+
+    # mct "She's even scraping my dick with her teeth a bit..."
+    mct "Она даже немного царапает мне член зубами..."
+
+# game/code/d08/d08s03.rpy:386
+translate russian replay_d08s03_ad69a398:
+
+    # mct "But I have to give her an A for the effort! She is trying hard!"
+    mct "Но я должен отдать ей должное! Она очень старается!"
+
+# game/code/d08/d08s03.rpy:388
+translate russian replay_d08s03_cdd613b4:
+
+    # rn "blah blah blah saber wound to the chest blah blah blah"
+    rn "Бла бла бла сабельное ранение в грудь бла бла бла..."
+
+# game/code/d08/d08s03.rpy:394
+translate russian replay_d08s03_601170d1:
+
+    # mc "I'm about to cum."
+    mc "Я вот-вот кончу."
+
+# game/code/d08/d08s03.rpy:396
+translate russian replay_d08s03_4d5c738d:
+
+    # mc "Maria. I'm going to cum."
+    mc "Мария. Я сейчас кончу."
+
+# game/code/d08/d08s03.rpy:398
+translate russian replay_d08s03_2227ff25:
+
+    # mct "Fuck it. I guess she wants me to cum in her mouth."
+    mct "Да похуй. Наверное, она хочет, чтобы я кончил ей в рот."
+
+# game/code/d08/d08s03.rpy:404
+translate russian replay_d08s03_1def35e7:
+
+    # mct "Oh hell yes."
+    mct "Ох, черт возьми, да."
+
+# game/code/d08/d08s03.rpy:409
+translate russian replay_d08s03_283292cb:
+
+    # mct "Holy shit - she's not stopping."
+    mct "Срань господня - она не останавливается."
+
+# game/code/d08/d08s03.rpy:412
+translate russian replay_d08s03_b1c9f928:
+
+    # rn "Achem!"
+    rn "Кхм!"
+
+# game/code/d08/d08s03.rpy:419
+translate russian replay_d08s03_bb989d63:
+
+    # rn "Mr. Young. [mcname]."
+    rn "Мистер Янг. [mcname]."
+
+# game/code/d08/d08s03.rpy:421
+translate russian replay_d08s03_6934998d:
+
+    # mc "Huh? Yes, sir?"
+    mc "Что? Да, сэр?"
+
+# game/code/d08/d08s03.rpy:423
+translate russian replay_d08s03_dd68f8a3:
+
+    # rn "Why was it that Pemberton mixed up that first tonic of cocaine and caffeine?"
+    rn "Почему Пембертон смешал первый тоник из кокаина и кофеина?"
+
+# game/code/d08/d08s03.rpy:425
+translate russian replay_d08s03_cbf695c8:
+
+    # mct "Shit... umm... I know this..."
+    mct "Черт... эмм... Я же знаю это..."
+
+# game/code/d08/d08s03.rpy:437
+translate russian replay_d08s03_59df0524:
+
+    # rn "That is correct. It's nice to see that someone did the reading."
+    rn "Верно. Приятно видеть, что хоть кто-то читает."
+
+# game/code/d08/d08s03.rpy:439
+translate russian replay_d08s03_cb1d5c9e:
+
+    # rn "Not even close. Has anyone here actually done the reading?"
+    rn "Даже не близко. Кто-нибудь здесь вообще читал?"
+
+# game/code/d08/d08s03.rpy:440
+translate russian replay_d08s03_3c3bc6c8:
+
+    # rn "Miss Eun-Soo. Min, do you know the correct answer?"
+    rn "Мисс Ен-Су. Мин, ты знаешь правильный ответ?"
+
+# game/code/d08/d08s03.rpy:442
+translate russian replay_d08s03_f18f651f:
+
+    # mes "Due to his injury he became addicted to morphine, and was trying to get clean."
+    mes "Из-за травмы он стал зависимым от морфия и пытался очиститься."
+
+# game/code/d08/d08s03.rpy:443
+translate russian replay_d08s03_2501a982:
+
+    # rn "Exactly what I've come to expect from you. That is correct."
+    rn "Именно такой ответ я и ожидал. Это верно."
+
+# game/code/d08/d08s03.rpy:447
+translate russian replay_d08s03_5f4aaeeb:
+
+    # rn "Miss Kovalevich. Maria, is everything alright?"
+    rn "Мисс Ковалевич. Мария, с вами все в порядке?"
+
+# game/code/d08/d08s03.rpy:449
+translate russian replay_d08s03_44d5e6fa:
+
+    # mk "Yes, sir. I had just dropped my pen."
+    mk "Да, сэр. Я просто уронила ручку."
+
+# game/code/d08/d08s03.rpy:451
+translate russian replay_d08s03_9e26a891:
+
+    # rn "Of course. Your classmate already mentioned it was a treatment for drug addiction."
+    rn "Конечно. тут уже упоминалось, что это было лечение от наркомании."
+
+# game/code/d08/d08s03.rpy:452
+translate russian replay_d08s03_d2097d76:
+
+    # rn "What else was French Wine Coca used as a treatment for?"
+    rn "От чего еще использовалась французская винная Кока?"
+
+# game/code/d08/d08s03.rpy:454
+translate russian replay_d08s03_3a5fb0f1:
+
+    # mk "Oh. {w}Depression, alcoholism, and neurasthenia."
+    mk "Ох. {w}От депрессии, алкоголизма и неврастении."
+
+# game/code/d08/d08s03.rpy:456
+translate russian replay_d08s03_b7bed3c8:
+
+    # rn "And would you remind us what the nickname for neurasthenia was?"
+    rn "И не могли бы вы напомнить нам, как называлась неврастения?"
+
+# game/code/d08/d08s03.rpy:458
+translate russian replay_d08s03_c67668e6:
+
+    # mk "Yes, sir. It was called Americanitis."
+    mk "Да, сэр. Она называлась Американитус."
+
+# game/code/d08/d08s03.rpy:460
+translate russian replay_d08s03_16986113:
+
+    # rn "Very good. You may go back to finding your pen if you want."
+    rn "Отлично. Можете вернуться к поиску своей ручки."
+
+# game/code/d08/d08s03.rpy:461
+translate russian replay_d08s03_9cb414c8:
+
+    # mct "Oh shit. Anyone who didn't notice what she was doing before..."
+    mct "Вот дерьмо. Раньше никто не обращал внимания, что она делала..."
+
+# game/code/d08/d08s03.rpy:463
+translate russian replay_d08s03_7ae47b07:
+
+    # mk "Shit shit shit shit shit..."
+    mk "Черт черт черт черт черт..."
+
+# game/code/d08/d08s03.rpy:464
+translate russian replay_d08s03_acd30f0e:
+
+    # mc "I think some people might have noticed us..."
+    mc "Думаю, что некоторые могли заметить нас..."
+
+# game/code/d08/d08s03.rpy:470
+translate russian replay_d08s03_34764a38:
+
+    # mk "Fuck fuck fuck fuck fuck..."
+    mk "Черт черт черт черт черт..."
+
+# game/code/d08/d08s03.rpy:473
+translate russian replay_d08s03_b592930e:
+
+    # mct "Oh, fuck!"
+    mct "Ох. черт!"
+
+# game/code/d08/d08s03.rpy:474
+translate russian replay_d08s03_91ac509f:
+
+    # mct "How many people just texted me?"
+    mct "Сколько людей только что написали мне?"
+
+# game/code/d08/d08s03.rpy:475
+translate russian replay_d08s03_a6491393:
+
+    # mct "\"How did you get a lesbian to suck your dick in class?\""
+    mct "\"Как ты заставил лесбиянку сосать твой член в классе?\""
+
+# game/code/d08/d08s03.rpy:477
+translate russian replay_d08s03_31b58985:
+
+    # mct "\"I thought she was a dyke!\""
+    mct "\"Я думал, что она лесбиянка!\""
+
+# game/code/d08/d08s03.rpy:478
+translate russian replay_d08s03_a93d015c:
+
+    # mct "\"Did you just turn her bisexual?\""
+    mct "\"Ты только что превратил ее в бисексуалку?\""
+
+# game/code/d08/d08s03.rpy:479
+translate russian replay_d08s03_f487f6e7:
+
+    # mct "The list goes on and on..."
+    mct "Список продолжается и продолжается..."
+
+# game/code/d08/d08s03.rpy:481
+translate russian replay_d08s03_322d7aba:
+
+    # mk "*whispers* Fuck me sideways with a sledgehammer."
+    mk "*шепчет* Трахни меня боком кувалдой."
+
+# game/code/d08/d08s03.rpy:482
+translate russian replay_d08s03_b68ac449:
+
+    # mct "Oh shit, this has to be a thousand times worse for her."
+    mct "Вот дерьмо, это должно быть в тысячу раз хуже для нее."
+
+# game/code/d08/d08s03.rpy:483
+translate russian replay_d08s03_5a0d9fea:
+
+    # mc "Maria, fuck. I'm so sorry. I didn't-"
+    mc "Мария, черт. Мне так жаль. Я не..."
+
+# game/code/d08/d08s03.rpy:484
+translate russian replay_d08s03_bdb152de:
+
+    # mk "Shh. Just... shhh."
+    mk "Шшш. Просто... шшшш."
 
 translate russian strings:
 
@@ -1303,4 +1857,3 @@ translate russian strings:
     # game/code/d08/d08s03.rpy:425
     old "It was an accident"
     new "Это был несчастный случай"
-
