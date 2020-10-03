@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-07-30 07:39
+# TODO: Translation updated at 2020-07-30 07:39
 
 # game/code/d08/d08s01.rpy:16
 translate italian d08s01_a38e2739:
@@ -444,6 +444,45 @@ translate italian d08s01_bathe_b395490b:
     # sy "Let me just rinse this off... {w}then you can finish cleaning yourself."
     sy "Fammi giusto sciacquare... {w}Poi puoi finire di lavarti da solo."
 
+# Replay Fixes #################################################################
+
+# game/code/d08/d08s01.rpy:79
+translate italian replay_d08s01_8a7eb859:
+
+    # mct "Speak of the devil and she shall appear."
+    mct "Parli del diavolo e spuntano le corna."
+
+# game/code/d08/d08s01.rpy:82
+translate italian replay_d08s01_f74029b7:
+
+    # sy "Oops! Sorry."
+    sy "Oops! Scusa."
+
+# game/code/d08/d08s01.rpy:93
+translate italian replay_d08s01_5aa5acd8:
+
+    # mct "She is doing it again!"
+    mct "Lo sta facendo ancora!"
+
+# game/code/d08/d08s01.rpy:96
+translate italian replay_d08s01_68bbf00d:
+
+    # mct "But this is not back home! AmRose is in the other room!"
+    mct "Ma ora non siamo più a casa! AmRose è nell'altra stanza!"
+
+# game/code/d08/d08s01.rpy:98
+translate italian replay_d08s01_11d1e060:
+
+    # mct "But this is too risky! AmRose is in the other room!"
+    mct "Ma questo è troppo rischioso! AmRose è nell'altra stanza!"
+
+# game/code/d08/d08s01.rpy:103
+translate italian replay_d08s01_96d7486d:
+
+    # mc "No, no! Wait your turn. I'll be quick."
+    mc "No, no! Aspetta il tuo turno. Faccio in fretta."
+
+
 translate italian strings:
 
     # game/code/d08/d08s01.rpy:87
@@ -453,4 +492,3 @@ translate italian strings:
     # game/code/d08/d08s01.rpy:87
     old "Let Stacy bathe with you"
     new "Fai fare a Stacy la doccia con te"
-
