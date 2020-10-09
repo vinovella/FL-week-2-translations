@@ -4,97 +4,97 @@
 translate italian d08s04_01cc8f65:
 
     # "10:30 AM"
-    "10:30 AM"
+    "10:30"
 
 # game/code/d08/d08s04.rpy:35
 translate italian d08s04_5c054653:
 
     # mct "I didn't notice because of the flood of messages, but I have more points now..."
-    mct "I didn't notice because of the flood of messages, but I have more points now..."
+    mct "Non l'avevo notato per via del mare dei messaggi, ma ora ho più punti..."
 
 # game/code/d08/d08s04.rpy:36
 translate italian d08s04_9dcd6406:
 
     # mct "I didn't take any pictures... Neither did Maria... Did someone else took a photo of her giving me a head in the class?"
-    mct "I didn't take any pictures... Neither did Maria... Did someone else took a photo of her giving me a head in the class?"
+    mct "Non ho fatto nessuna foto... e neanche Maria ne ha fatta nessuna... Magari qualcun altro ha scattato una foto mentre mi spompinava?"
 
 # game/code/d08/d08s04.rpy:49
 translate italian d08s04_8a677757:
 
     # mct "On one side it is good to get points... But on the other side it is more and more creepy..."
-    mct "On one side it is good to get points... But on the other side it is more and more creepy..."
+    mct "La cosa buona è che ho più punti... La cosa cattiva è che diventa sempre più inquietante..."
 
 # game/code/d08/d08s04.rpy:52
 translate italian d08s04_b99020ae:
 
     # mct "It sucks that I again need to earn those damn points..."
-    mct "It sucks that I again need to earn those damn points..."
+    mct "È una rottura dover guadagnare ancora punti..."
 
 # game/code/d08/d08s04.rpy:53
 translate italian d08s04_f2ee813a:
 
     # mct "Need to meet Hana and ask about the codes."
-    mct "Need to meet Hana and ask about the codes."
+    mct "Ho bisogno di incontrare Hana e chiedergli dei codici."
 
 # game/code/d08/d08s04.rpy:54
 translate italian d08s04_5de9c360:
 
     # mct "I don't believe that Pete is behind this. But the faster we can clear his name, the better."
-    mct "I don't believe that Pete is behind this. But the faster we can clear his name, the better."
+    mct "Non credo che ci sia Pete dietro a tutto questo. Ma se riusciamo a provare che non c'entra nulla è meglio."
 
 # game/code/d08/d08s04.rpy:55
 translate italian d08s04_f9dd0c8b:
 
     # mct "After all Hana is the only one who is interested in figuring out this situation."
-    mct "After all Hana is the only one who is interested in figuring out this situation."
+    mct "Dopo tutto Hana è l'unica ad essere interessata a capire cosa sta succedendo."
 
 # game/code/d08/d08s04.rpy:76
 translate italian d08s04_a7b4d81c:
 
     # mc "Oh, hey Min. I was just going to look for you."
-    mc "Oh, hey Min. I was just going to look for you."
+    mc "Oh, ehi Min. Ti stavo cercando."
 
 # game/code/d08/d08s04.rpy:78
 translate italian d08s04_5fa6c898:
 
     # mes "It's Squizzle, remember?"
-    mes "It's Squizzle, remember?"
+    mes "Sono Squizzle, ti ricordi?"
 
 # game/code/d08/d08s04.rpy:79
 translate italian d08s04_578aac98:
 
     # mc "Right, right. I keep forgetting."
-    mc "Right, right. I keep forgetting."
+    mc "Giusto, giusto. Continuo a dimenticarmene."
 
 # game/code/d08/d08s04.rpy:81
 translate italian d08s04_9d5dff17:
 
     # mesfl "Well, don't forget again. It's important to me."
-    mesfl "Well, don't forget again. It's important to me."
+    mesfl "Bene, non dimenticarti ancora. È molto importamente per me."
 
 # game/code/d08/d08s04.rpy:88
 translate italian d08s04_5910c349:
 
     # mc "Ok, Squizzle! Are you ready for pee training?"
-    mc "Ok, Squizzle! Are you ready for pee training?"
+    mc "Ok, Squizzle! Sei pronta al tuo addestramento alle pisciate?"
 
 # game/code/d08/d08s04.rpy:89
 translate italian d08s04_98ad4579:
 
     # mesfl "Yes!"
-    mesfl "Yes!"
+    mesfl "Certo!"
 
 # game/code/d08/d08s04.rpy:92
 translate italian d08s04_e59544ae:
 
     # mc "Did you follow my instructions yesterday?"
-    mc "Did you follow my instructions yesterday?"
+    mc "Hai seguito le mie istruzioni ieri?"
 
 # game/code/d08/d08s04.rpy:93
 translate italian d08s04_ca657a99:
 
     # mesfl "Well I didn't cum without pee in my mouth. But not because there was pee, but because I just didn't cum..."
-    mesfl "Well I didn't cum without pee in my mouth. But not because there was pee, but because I just didn't cum..."
+    mesfl "Beh, non sono venuta senza piscio in bocca. But not because there was pee, but because I just didn't cum..."
 
 # game/code/d08/d08s04.rpy:95
 translate italian d08s04_46bbeb2a:
