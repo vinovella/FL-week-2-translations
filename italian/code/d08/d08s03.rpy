@@ -610,7 +610,7 @@ translate italian d08s03_5ce36734:
 translate italian d08s03_e1fde363:
 
     # rn "Excuse me - did I miss something?"
-        rn "Mi scusi - non ha capito bene qualcosa?"
+    rn "Mi scusi - non ha capito bene qualcosa?"
 
 # game/code/d08/d08s03.rpy:245
 translate italian d08s03_8e21e123:
@@ -1377,3 +1377,559 @@ translate italian d08s03_end_6bf3ab4e:
 
     # mct "Alright, time to meet Squizzle at the toilet."
     mct "Alright, time to meet Squizzle at the toilet."
+    
+    
+# Replay Label Lines ###################################################################################
+
+
+# game/code/d08/d08s03.rpy:272
+translate italian replay_d08s03_e3ebb20d:
+
+    # mct "Is Maria still looking at me?"
+    mct "Is Maria still looking at me?"
+
+# game/code/d08/d08s03.rpy:276
+translate italian replay_d08s03_bd5eaa7b:
+
+    # mct "Okay, this is just crazy. What the hell does she want?"
+    mct "Okay, this is just crazy. What the hell does she want?"
+
+# game/code/d08/d08s03.rpy:279
+translate italian replay_d08s03_3240527e:
+
+    # rn "*blah blah blah*... Wilson's Raid into Georgia...*blah blah blah*"
+    rn "*blah blah blah*... Wilson's Raid into Georgia...*blah blah blah*"
+
+# game/code/d08/d08s03.rpy:280
+translate italian replay_d08s03_8907d4f5:
+
+    # mc "You've been staring at me ever since you walked in..."
+    mc "You've been staring at me ever since you walked in..."
+
+# game/code/d08/d08s03.rpy:281
+translate italian replay_d08s03_48438ce3:
+
+    # mk "Sorry, sorry, sorry. Can you sit with me?"
+    mk "Sorry, sorry, sorry. Can you sit with me?"
+
+# game/code/d08/d08s03.rpy:283
+translate italian replay_d08s03_9b10bfe5:
+
+    # mc "I'm here now. What do you want?"
+    mc "I'm here now. What do you want?"
+
+# game/code/d08/d08s03.rpy:285
+translate italian replay_d08s03_61d87077:
+
+    # mk "I keep thinking about that event at the Party."
+    mk "I keep thinking about that event at the Party."
+
+# game/code/d08/d08s03.rpy:286
+translate italian replay_d08s03_dd56af82:
+
+    # mc "Huh? Antony's magic show?"
+    mc "Huh? Antony's magic show?"
+
+# game/code/d08/d08s03.rpy:288
+translate italian replay_d08s03_dc7b255c:
+
+    # mk "Yes. That dream we shared... you know, when you fucked me."
+    mk "Yes. That dream we shared... you know, when you fucked me."
+
+# game/code/d08/d08s03.rpy:289
+translate italian replay_d08s03_84f16542:
+
+    # mc "Okay..."
+    mc "Okay..."
+
+# game/code/d08/d08s03.rpy:290
+translate italian replay_d08s03_144dbbdf:
+
+    # mk "Before that, when I was sucking your cock... {w}it was just the best thing ever."
+    mk "Before that, when I was sucking your cock... {w}it was just the best thing ever."
+
+# game/code/d08/d08s03.rpy:291
+translate italian replay_d08s03_a03597fd:
+
+    # mc "I've got some time this afternoon. Should I drop by-"
+    mc "I've got some time this afternoon. Should I drop by-"
+
+# game/code/d08/d08s03.rpy:293
+translate italian replay_d08s03_4172a42a:
+
+    # mk "I want it now."
+    mk "I want it now."
+
+# game/code/d08/d08s03.rpy:294
+translate italian replay_d08s03_cc761816:
+
+    # mc "No..."
+    mc "No..."
+
+# game/code/d08/d08s03.rpy:296
+translate italian replay_d08s03_060cdf91:
+
+    # mk "Yes. Now."
+    mk "Yes. Now."
+
+# game/code/d08/d08s03.rpy:297
+translate italian replay_d08s03_76ab189f:
+
+    # mc "Seriously? Right here, right now?"
+    mc "Seriously? Right here, right now?"
+
+# game/code/d08/d08s03.rpy:299
+translate italian replay_d08s03_e1337149:
+
+    # mk "I know we're in class, but I can't help it."
+    mk "I know we're in class, but I can't help it."
+
+# game/code/d08/d08s03.rpy:301
+translate italian replay_d08s03_18a295dc:
+
+    # mk "I just kept thinking about sucking your cock. {w}I need it."
+    mk "I just kept thinking about sucking your cock. {w}I need it."
+
+# game/code/d08/d08s03.rpy:302
+translate italian replay_d08s03_37daaa62:
+
+    # mct "Wow. I know it's wrong, but maybe I should have some fun with her."
+    mct "Wow. I know it's wrong, but maybe I should have some fun with her."
+
+# game/code/d08/d08s03.rpy:305
+translate italian replay_d08s03_ba026827:
+
+    # mc "Maybe I can find someone to help you with that."
+    mc "Maybe I can find someone to help you with that."
+
+# game/code/d08/d08s03.rpy:306
+translate italian replay_d08s03_2479a251:
+
+    # mc "Maybe the Professor would like-"
+    mc "Maybe the Professor would like-"
+
+# game/code/d08/d08s03.rpy:308
+translate italian replay_d08s03_9efac0f9:
+
+    # mk "No! {w}Shh... shit... no. I need {b}your{/b} cock."
+    mk "No! {w}Shh... shit... no. I need {b}your{/b} cock."
+
+# game/code/d08/d08s03.rpy:311
+translate italian replay_d08s03_6f90ed59:
+
+    # mc "Fine. Take it out."
+    mc "Fine. Take it out."
+
+# game/code/d08/d08s03.rpy:316
+translate italian replay_d08s03_b363fc51:
+
+    # mc "Maria. Listen here. You think that you are missing out on something but that is not the case."
+    mc "Maria. Listen here. You think that you are missing out on something but that is not the case."
+
+# game/code/d08/d08s03.rpy:317
+translate italian replay_d08s03_36723146:
+
+    # mc "We just had a crazy experience at the party, but that wasn't real."
+    mc "We just had a crazy experience at the party, but that wasn't real."
+
+# game/code/d08/d08s03.rpy:318
+translate italian replay_d08s03_9df17b07:
+
+    # mc "I think you should calm down and finally decide what is that you actually want. Ok?"
+    mc "I think you should calm down and finally decide what is that you actually want. Ok?"
+
+# game/code/d08/d08s03.rpy:320
+translate italian replay_d08s03_61f1d479:
+
+    # mk "Wow. I didn't expect this from you. You might be right."
+    mk "Wow. I didn't expect this from you. You might be right."
+
+# game/code/d08/d08s03.rpy:324
+translate italian replay_d08s03_e37de9e5:
+
+    # mk "What?"
+    mk "What?"
+
+# game/code/d08/d08s03.rpy:327
+translate italian replay_d08s03_ab4411c4:
+
+    # mc "Take it out and feel it in your hand."
+    mc "Take it out and feel it in your hand."
+
+# game/code/d08/d08s03.rpy:329
+translate italian replay_d08s03_76101272:
+
+    # mk "I can't believe I'm doing this."
+    mk "I can't believe I'm doing this."
+
+# game/code/d08/d08s03.rpy:330
+translate italian replay_d08s03_f7339009:
+
+    # mct "I can't believe she's doing this either!"
+    mct "I can't believe she's doing this either!"
+
+# game/code/d08/d08s03.rpy:332
+translate italian replay_d08s03_7e59b137:
+
+    # mc "That's it. Now give me a handjob."
+    mc "That's it. Now give me a handjob."
+
+# game/code/d08/d08s03.rpy:333
+translate italian replay_d08s03_71d54b6e:
+
+    # mk "I don't... {w}How?"
+    mk "I don't... {w}How?"
+
+# game/code/d08/d08s03.rpy:334
+translate italian replay_d08s03_c1c99e06:
+
+    # mc "You've played with a dildo, right? You've fucked yourself with toys like that?"
+    mc "You've played with a dildo, right? You've fucked yourself with toys like that?"
+
+# game/code/d08/d08s03.rpy:336
+translate italian replay_d08s03_02916c9b:
+
+    # mk "Uhhhh huh... Yes."
+    mk "Uhhhh huh... Yes."
+
+# game/code/d08/d08s03.rpy:338
+translate italian replay_d08s03_cb1e089a:
+
+    # mc "Just pretend that your hand is your cunt and stroke me off."
+    mc "Just pretend that your hand is your cunt and stroke me off."
+
+# game/code/d08/d08s03.rpy:340
+translate italian replay_d08s03_cd004a74:
+
+    # mk "I don't know what that means..."
+    mk "I don't know what that means..."
+
+# game/code/d08/d08s03.rpy:342
+translate italian replay_d08s03_0adc01c5:
+
+    # mc "I think you do. You're already doing it."
+    mc "I think you do. You're already doing it."
+
+# game/code/d08/d08s03.rpy:343
+translate italian replay_d08s03_374d8e06:
+
+    # mk "What? {w}Oh, I guess I am."
+    mk "What? {w}Oh, I guess I am."
+
+# game/code/d08/d08s03.rpy:344
+translate italian replay_d08s03_40ca58e2:
+
+    # mc "Don't just stroke the shaft. You have to work the tip too."
+    mc "Don't just stroke the shaft. You have to work the tip too."
+
+# game/code/d08/d08s03.rpy:346
+translate italian replay_d08s03_e8d3d303:
+
+    # mc "Just pretend that it is a really large clit."
+    mc "Just pretend that it is a really large clit."
+
+# game/code/d08/d08s03.rpy:348
+translate italian replay_d08s03_dcf2226b:
+
+    # mc "Work the tip of my cock with your hand like you would finger some sexy girl's clit."
+    mc "Work the tip of my cock with your hand like you would finger some sexy girl's clit."
+
+# game/code/d08/d08s03.rpy:349
+translate italian replay_d08s03_06c05314:
+
+    # mk "Uhhhhhuh... Yes, yes..."
+    mk "Uhhhhhuh... Yes, yes..."
+
+# game/code/d08/d08s03.rpy:350
+translate italian replay_d08s03_72e19af2:
+
+    # mc "That feels good. Now faster."
+    mc "That feels good. Now faster."
+
+# game/code/d08/d08s03.rpy:358
+translate italian replay_d08s03_cb46ca00:
+
+    # mk "Do... Do you like it?"
+    mk "Do... Do you like it?"
+
+# game/code/d08/d08s03.rpy:359
+translate italian replay_d08s03_9696be6f:
+
+    # mc "Now, let's change things up a little."
+    mc "Now, let's change things up a little."
+
+# game/code/d08/d08s03.rpy:360
+translate italian replay_d08s03_784cf9ff:
+
+    # mk "What do you mean?"
+    mk "What do you mean?"
+
+# game/code/d08/d08s03.rpy:361
+translate italian replay_d08s03_daf5cfa4:
+
+    # mc "Open your mouth, place it over my hard cock, and lick the tip while you stroke the shaft."
+    mc "Open your mouth, place it over my hard cock, and lick the tip while you stroke the shaft."
+
+# game/code/d08/d08s03.rpy:363
+translate italian replay_d08s03_0062d401:
+
+    # mk "Yesss... yess... okay."
+    mk "Yesss... yess... okay."
+
+# game/code/d08/d08s03.rpy:365
+translate italian replay_d08s03_2041a1f8:
+
+    # mct "Wow! Is she really going to-"
+    mct "Wow! Is she really going to-"
+
+# game/code/d08/d08s03.rpy:371
+translate italian replay_d08s03_1892ce08:
+
+    # mct "Damn! This is not like in the dream..."
+    mct "Damn! This is not like in the dream..."
+
+# game/code/d08/d08s03.rpy:376
+translate italian replay_d08s03_58c7d629:
+
+    # mct "In the dream it felt like heaven. But in real life it just feels like she's never given head before..."
+    mct "In the dream it felt like heaven. But in real life it just feels like she's never given head before..."
+
+# game/code/d08/d08s03.rpy:381
+translate italian replay_d08s03_a027693c:
+
+    # mct "She's even scraping my dick with her teeth a bit..."
+    mct "She's even scraping my dick with her teeth a bit..."
+
+# game/code/d08/d08s03.rpy:386
+translate italian replay_d08s03_ad69a398:
+
+    # mct "But I have to give her an A for the effort! She is trying hard!"
+    mct "But I have to give her an A for the effort! She is trying hard!"
+
+# game/code/d08/d08s03.rpy:388
+translate italian replay_d08s03_cdd613b4:
+
+    # rn "blah blah blah saber wound to the chest blah blah blah"
+    rn "blah blah blah saber wound to the chest blah blah blah"
+
+# game/code/d08/d08s03.rpy:394
+translate italian replay_d08s03_601170d1:
+
+    # mc "I'm about to cum."
+    mc "I'm about to cum."
+
+# game/code/d08/d08s03.rpy:396
+translate italian replay_d08s03_4d5c738d:
+
+    # mc "Maria. I'm going to cum."
+    mc "Maria. I'm going to cum."
+
+# game/code/d08/d08s03.rpy:398
+translate italian replay_d08s03_2227ff25:
+
+    # mct "Fuck it. I guess she wants me to cum in her mouth."
+    mct "Fuck it. I guess she wants me to cum in her mouth."
+
+# game/code/d08/d08s03.rpy:404
+translate italian replay_d08s03_1def35e7:
+
+    # mct "Oh hell yes."
+    mct "Oh hell yes."
+
+# game/code/d08/d08s03.rpy:409
+translate italian replay_d08s03_283292cb:
+
+    # mct "Holy shit - she's not stopping."
+    mct "Holy shit - she's not stopping."
+
+# game/code/d08/d08s03.rpy:412
+translate italian replay_d08s03_b1c9f928:
+
+    # rn "Achem!"
+    rn "Achem!"
+
+# game/code/d08/d08s03.rpy:419
+translate italian replay_d08s03_bb989d63:
+
+    # rn "Mr. Young. [mcname]."
+    rn "Mr. Young. [mcname]."
+
+# game/code/d08/d08s03.rpy:421
+translate italian replay_d08s03_6934998d:
+
+    # mc "Huh? Yes, sir?"
+    mc "Huh? Yes, sir?"
+
+# game/code/d08/d08s03.rpy:423
+translate italian replay_d08s03_dd68f8a3:
+
+    # rn "Why was it that Pemberton mixed up that first tonic of cocaine and caffeine?"
+    rn "Why was it that Pemberton mixed up that first tonic of cocaine and caffeine?"
+
+# game/code/d08/d08s03.rpy:425
+translate italian replay_d08s03_cbf695c8:
+
+    # mct "Shit... umm... I know this..."
+    mct "Shit... umm... I know this..."
+
+# game/code/d08/d08s03.rpy:437
+translate italian replay_d08s03_59df0524:
+
+    # rn "That is correct. It's nice to see that someone did the reading."
+    rn "That is correct. It's nice to see that someone did the reading."
+
+# game/code/d08/d08s03.rpy:439
+translate italian replay_d08s03_cb1d5c9e:
+
+    # rn "Not even close. Has anyone here actually done the reading?"
+    rn "Not even close. Has anyone here actually done the reading?"
+
+# game/code/d08/d08s03.rpy:440
+translate italian replay_d08s03_3c3bc6c8:
+
+    # rn "Miss Eun-Soo. Min, do you know the correct answer?"
+    rn "Miss Eun-Soo. Min, do you know the correct answer?"
+
+# game/code/d08/d08s03.rpy:442
+translate italian replay_d08s03_f18f651f:
+
+    # mes "Due to his injury he became addicted to morphine, and was trying to get clean."
+    mes "Due to his injury he became addicted to morphine, and was trying to get clean."
+
+# game/code/d08/d08s03.rpy:443
+translate italian replay_d08s03_2501a982:
+
+    # rn "Exactly what I've come to expect from you. That is correct."
+    rn "Exactly what I've come to expect from you. That is correct."
+
+# game/code/d08/d08s03.rpy:447
+translate italian replay_d08s03_5f4aaeeb:
+
+    # rn "Miss Kovalevich. Maria, is everything alright?"
+    rn "Miss Kovalevich. Maria, is everything alright?"
+
+# game/code/d08/d08s03.rpy:449
+translate italian replay_d08s03_44d5e6fa:
+
+    # mk "Yes, sir. I had just dropped my pen."
+    mk "Yes, sir. I had just dropped my pen."
+
+# game/code/d08/d08s03.rpy:451
+translate italian replay_d08s03_9e26a891:
+
+    # rn "Of course. Your classmate already mentioned it was a treatment for drug addiction."
+    rn "Of course. Your classmate already mentioned it was a treatment for drug addiction."
+
+# game/code/d08/d08s03.rpy:452
+translate italian replay_d08s03_d2097d76:
+
+    # rn "What else was French Wine Coca used as a treatment for?"
+    rn "What else was French Wine Coca used as a treatment for?"
+
+# game/code/d08/d08s03.rpy:454
+translate italian replay_d08s03_3a5fb0f1:
+
+    # mk "Oh. {w}Depression, alcoholism, and neurasthenia."
+    mk "Oh. {w}Depression, alcoholism, and neurasthenia."
+
+# game/code/d08/d08s03.rpy:456
+translate italian replay_d08s03_b7bed3c8:
+
+    # rn "And would you remind us what the nickname for neurasthenia was?"
+    rn "And would you remind us what the nickname for neurasthenia was?"
+
+# game/code/d08/d08s03.rpy:458
+translate italian replay_d08s03_c67668e6:
+
+    # mk "Yes, sir. It was called Americanitis."
+    mk "Yes, sir. It was called Americanitis."
+
+# game/code/d08/d08s03.rpy:460
+translate italian replay_d08s03_16986113:
+
+    # rn "Very good. You may go back to finding your pen if you want."
+    rn "Very good. You may go back to finding your pen if you want."
+
+# game/code/d08/d08s03.rpy:461
+translate italian replay_d08s03_9cb414c8:
+
+    # mct "Oh shit. Anyone who didn't notice what she was doing before..."
+    mct "Oh shit. Anyone who didn't notice what she was doing before..."
+
+# game/code/d08/d08s03.rpy:463
+translate italian replay_d08s03_7ae47b07:
+
+    # mk "Shit shit shit shit shit..."
+    mk "Shit shit shit shit shit..."
+
+# game/code/d08/d08s03.rpy:464
+translate italian replay_d08s03_acd30f0e:
+
+    # mc "I think some people might have noticed us..."
+    mc "I think some people might have noticed us..."
+
+# game/code/d08/d08s03.rpy:470
+translate italian replay_d08s03_34764a38:
+
+    # mk "Fuck fuck fuck fuck fuck..."
+    mk "Fuck fuck fuck fuck fuck..."
+
+# game/code/d08/d08s03.rpy:473
+translate italian replay_d08s03_b592930e:
+
+    # mct "Oh, fuck!"
+    mct "Oh, fuck!"
+
+# game/code/d08/d08s03.rpy:474
+translate italian replay_d08s03_91ac509f:
+
+    # mct "How many people just texted me?"
+    mct "How many people just texted me?"
+
+# game/code/d08/d08s03.rpy:475
+translate italian replay_d08s03_a6491393:
+
+    # mct "\"How did you get a lesbian to suck your dick in class?\""
+    mct "\"How did you get a lesbian to suck your dick in class?\""
+
+# game/code/d08/d08s03.rpy:477
+translate italian replay_d08s03_31b58985:
+
+    # mct "\"I thought she was a dyke!\""
+    mct "\"I thought she was a dyke!\""
+
+# game/code/d08/d08s03.rpy:478
+translate italian replay_d08s03_a93d015c:
+
+    # mct "\"Did you just turn her bisexual?\""
+    mct "\"Did you just turn her bisexual?\""
+
+# game/code/d08/d08s03.rpy:479
+translate italian replay_d08s03_f487f6e7:
+
+    # mct "The list goes on and on..."
+    mct "The list goes on and on..."
+
+# game/code/d08/d08s03.rpy:481
+translate italian replay_d08s03_322d7aba:
+
+    # mk "*whispers* Fuck me sideways with a sledgehammer."
+    mk "*whispers* Fuck me sideways with a sledgehammer."
+
+# game/code/d08/d08s03.rpy:482
+translate italian replay_d08s03_b68ac449:
+
+    # mct "Oh shit, this has to be a thousand times worse for her."
+    mct "Oh shit, this has to be a thousand times worse for her."
+
+# game/code/d08/d08s03.rpy:483
+translate italian replay_d08s03_5a0d9fea:
+
+    # mc "Maria, fuck. I'm so sorry. I didn't-"
+    mc "Maria, fuck. I'm so sorry. I didn't-"
+
+# game/code/d08/d08s03.rpy:484
+translate italian replay_d08s03_bdb152de:
+
+    # mk "Shh. Just... shhh."
+    mk "Shh. Just... shhh."
