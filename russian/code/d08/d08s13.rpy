@@ -538,7 +538,7 @@ translate russian d08s13_good_6599dc52:
 translate russian d08s13_good_391e9a18:
 
     # nk "Scrumbles."
-    nk "Скрамблз. \n\n\n\n{size=-10}{i}(Прим пер.): Scrumbles - никнейм одного из разработчиков игры.{/i}{/size}"
+    nk "Скрамблз."
 
 # game/code/d08/d08s13.rpy:220
 translate russian d08s13_good_05500ff6:
