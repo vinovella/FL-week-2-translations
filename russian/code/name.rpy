@@ -84,6 +84,18 @@ translate russian strings:
     old "Shontae"
     new "Шонтаэ"
 
+    old "Judge"
+    new "Судья"
+
+    old "Mr. Melville"
+    new "Мистер Мелвилл"
+
+    old "Oliver"
+    new "Оливер"
+
+    old "Woman"
+    new "Женщина"
+
     old "HairyHarry"
     new "ВолосатыйГарри"
 
@@ -134,6 +146,9 @@ translate russian strings:
 
     old "Developer"
     new "Разработчик"
+
+    old "Fetish Locator"
+    new "Фетиш Локатор"
 
     old "Fetish Locator Retention"
     new "Программа удержания Фетиш-Локатора"
