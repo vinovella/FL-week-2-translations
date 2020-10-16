@@ -184,3 +184,34 @@ translate russian strings:
     old "Her firm ass"
     new "Ее упругая попка"
 
+# TODO: Translation updated at 2020-09-30 18:34
+
+# game/code/d08/prologue.rpy:114
+translate russian prologue_girls_set_1_3502c4fc:
+
+    # "In the first week you met several beautiful girls: some can be friends with benefits or even potential love interests.\n\nClick on their portraits to select them. When finished press \"Done\"."
+    "В первую неделю ты познакомился с несколькими красивыми девушками: Некоторые из них могут быть друзьями с выгодой или даже потенциальными любовными интересами.\n\nНажми на их портреты, чтобы выбрать их. После завершения выбери \"Принять\"."
+
+# game/code/d08/prologue.rpy:132
+translate russian prologue_girls_set_2_cd61a75b:
+
+    # "More girls for you! But you cannot choose all of them.\nSelect one or two girls, then press \"Done\".\n\nPS: read their description carefully ;)"
+    "Больше девушек для тебя! Но ты не можешь выбрать всех.\nВыбери одну или двух девушек и нажми \"Принять\".\n\nPS: внимательно прочитай их описание ;)"
+
+# game/code/d08/prologue.rpy:139
+translate russian prologue_girls_set_2_done_61fc0900:
+
+    # "We see you chose the beautiful Melissa \"Lyssa\" Harris.\nHow do you behave toward her?"
+    "Я вижу, ты выбрал прекрасную Мелиссу \"Лиссу\" Харрис.\nКак ты ведешь себя по отношению к ней?"
+
+# game/code/d08/prologue.rpy:154
+translate russian prologue_girls_set_3_746b6a7f:
+
+    # "Last pair: do you prefer a top or a bottom? (Or neither, if they aren't your cup of tea)\nSelect up to one girl and press \"Done\"."
+    "Последний вопрос: Ты предпочитаешь верх или низ? (Или ни то, ни другое, если это не твоя чашка чая)\nВыбери одну девушку и нажми \"Принять\"."
+
+# game/code/d08/prologue.rpy:175
+translate russian prologue_fetishes_4cc3c0e4:
+
+    # "And now it's time to choose your fetishes.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many fetishes as you want and press \"Done\"."
+    "А теперь пришло время выбирать себе фетиши.\nНе волнуйся, если твой любимый фетиш не указан: Фетиш Локатор только начался!"
