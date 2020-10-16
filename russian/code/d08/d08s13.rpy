@@ -1,1109 +1,1109 @@
-# TODO: Translation updated at 2020-09-30 18:34
+# TODO: Translation updated at 2020-10-16 14:58
 
 # game/code/d08/d08s13.rpy:72
 translate russian d08s13_1b5ba849:
 
     # mct "Time to visit Nora!"
-    mct "Пора навестить Нору!"
+    mct "Time to visit Nora!"
 
 # game/code/d08/d08s13.rpy:82
 translate russian d08s13_bad_6e9977d0:
 
     # mc "Hey Nora."
-    mc "Привет, Нора."
+    mc "Hey Nora."
 
 # game/code/d08/d08s13.rpy:84
 translate russian d08s13_bad_47a8a55d:
 
     # nk "[mcname]. I was wondering if I would see you tonight."
-    nk "[mcname]. Я хотела узнать, увижу ли я тебя сегодня вечером."
+    nk "[mcname]. I was wondering if I would see you tonight."
 
 # game/code/d08/d08s13.rpy:85
 translate russian d08s13_bad_57af39fb:
 
     # nk "You should know... I talked to Polly."
-    nk "Ты должен знать... Я поговорила с Полли."
+    nk "You should know... I talked to Polly."
 
 # game/code/d08/d08s13.rpy:86
 translate russian d08s13_bad_ee87e6f3:
 
     # mc "Oh?"
-    mc "Что?"
+    mc "Oh?"
 
 # game/code/d08/d08s13.rpy:88
 translate russian d08s13_bad_7211a50a:
 
     # nk "Yeah, and she told me everything."
-    nk "Да, и она мне все рассказала."
+    nk "Yeah, and she told me everything."
 
 # game/code/d08/d08s13.rpy:89
 translate russian d08s13_bad_40f800f2:
 
     # mc "That's interesting."
-    mc "Это интересно."
+    mc "That's interesting."
 
 # game/code/d08/d08s13.rpy:91
 translate russian d08s13_bad_53e698df:
 
     # nk "It was very interesting. Here I was thinking that you betrayed me only twice, but then I find out you betrayed me at least three times."
-    nk "Это было очень интересно. Я думала, что ты предал меня только дважды, но потом я узнала, что ты предал меня по крайней мере три раза."
+    nk "It was very interesting. Here I was thinking that you betrayed me only twice, but then I find out you betrayed me at least three times."
 
 # game/code/d08/d08s13.rpy:92
 translate russian d08s13_bad_8a340642:
 
     # mc "What does that mean?"
-    mc "Что это значит?"
+    mc "What does that mean?"
 
 # game/code/d08/d08s13.rpy:93
 translate russian d08s13_bad_44d0f07b:
 
     # nk "The second time that you betrayed me was when you came inside me without permission."
-    nk "Во второй раз ты предал меня, когда кончил в меня без разрешения."
+    nk "The second time that you betrayed me was when you came inside me without permission."
 
 # game/code/d08/d08s13.rpy:94
 translate russian d08s13_bad_dab16e60:
 
     # mc "I admit, that was a shitty thing to do, but..."
-    mc "Я признаю, что это было дерьмово, но..."
+    mc "I admit, that was a shitty thing to do, but..."
 
 # game/code/d08/d08s13.rpy:95
 translate russian d08s13_bad_8600a4d6:
 
     # nk "But nothing. I trusted you, and you fucked me over. I'm not on the pill."
-    nk "Никаких но. Я доверяла тебе, а ты меня подставил. Я не принимаю таблетки."
+    nk "But nothing. I trusted you, and you fucked me over. I'm not on the pill."
 
 # game/code/d08/d08s13.rpy:96
 translate russian d08s13_bad_c7997e0b:
 
     # mc "I didn't know that."
-    mc "Я этого не знал."
+    mc "I didn't know that."
 
 # game/code/d08/d08s13.rpy:98
 translate russian d08s13_bad_3fb3a4f1:
 
     # nk "You didn't ask."
-    nk "А ты и не спрашивал."
+    nk "You didn't ask."
 
 # game/code/d08/d08s13.rpy:99
 translate russian d08s13_bad_e3d6fe75:
 
     # nk "Then you took a photo of my dripping creampie without permission. That was the third betrayal."
-    nk "А потом ты сфотографировал как вытекает из меня сперма, без разрешения. Это было уже третье предательство."
+    nk "Then you took a photo of my dripping creampie without permission. That was the third betrayal."
 
 # game/code/d08/d08s13.rpy:100
 translate russian d08s13_bad_956dc698:
 
     # mc "I didn't..."
-    mc "Я не..."
+    mc "I didn't..."
 
 # game/code/d08/d08s13.rpy:101
 translate russian d08s13_bad_04b89c8c:
 
     # nk "You saw an opportunity to score some points and you took advantage of me."
-    nk "Ты увидел возможность набрать несколько очков и воспользовался этим."
+    nk "You saw an opportunity to score some points and you took advantage of me."
 
 # game/code/d08/d08s13.rpy:102
 translate russian d08s13_bad_4df952bc:
 
     # mc "I wouldn't say..."
-    mc "Я бы не сказал..."
+    mc "I wouldn't say..."
 
 # game/code/d08/d08s13.rpy:104
 translate russian d08s13_bad_6fb0f751:
 
     # nk "Shut your fucking mouth.{w} Do you even remember what the first betrayal was?"
-    nk "Закрой свой гребаный рот. {w}Ты хоть помнишь, каким было первое предательство?"
+    nk "Shut your fucking mouth.{w} Do you even remember what the first betrayal was?"
 
 # game/code/d08/d08s13.rpy:105
 translate russian d08s13_bad_fca52711:
 
     # mc "No."
-    mc "Нет."
+    mc "No."
 
 # game/code/d08/d08s13.rpy:106
 translate russian d08s13_bad_a155200a:
 
     # nk "That's the one that Polly told me about. You know... my blind date."
-    nk "Это та, о чём мне рассказала Полли. Знаешь... то свидание вслепую."
+    nk "That's the one that Polly told me about. You know... my blind date."
 
 # game/code/d08/d08s13.rpy:110
 translate russian d08s13_bad_48e127d5:
 
     # nk "She told me that she had explicitly told you that I wasn't interested in her, so you schemed together to trick me into letting her have her way with me."
-    nk "Она рассказала мне, что недвусмысленно говорила тебе, что я не заинтересована в ней, поэтому вы вместе замыслили обмануть меня, чтобы позволить ей делать со мной все, что она захочет."
+    nk "She told me that she had explicitly told you that I wasn't interested in her, so you schemed together to trick me into letting her have her way with me."
 
 # game/code/d08/d08s13.rpy:112
 translate russian d08s13_bad_924a0fba:
 
     # nk "In spite of all that, I'm going to do you a favor."
-    nk "Несмотря на все это, я собираюсь сделать тебе одолжение."
+    nk "In spite of all that, I'm going to do you a favor."
 
 # game/code/d08/d08s13.rpy:113
 translate russian d08s13_bad_c17ef8ec:
 
     # mc "What's that?"
-    mc "Какое?"
+    mc "What's that?"
 
 # game/code/d08/d08s13.rpy:114
 translate russian d08s13_bad_b80b0bdd:
 
     # nk "I'm not going to tell Lydia what a pile of shit you are."
-    nk "Я не буду говорить Лидии, какая ты куча дерьма."
+    nk "I'm not going to tell Lydia what a pile of shit you are."
 
 # game/code/d08/d08s13.rpy:115
 translate russian d08s13_bad_da7eeebc:
 
     # mc "Thanks for that."
-    mc "Спасибо и на этом."
+    mc "Thanks for that."
 
 # game/code/d08/d08s13.rpy:116
 translate russian d08s13_bad_5b4dd44c:
 
     # nk "In fact... I'm not going to tell anyone else about any of this. Not for you, but because I don't want myself or my business associated with you."
-    nk "На самом деле... Я никому об этом не расскажу. Это не для тебя, а потому что я не хочу, чтобы меня или мой бизнес ассоциировали с тобой."
+    nk "In fact... I'm not going to tell anyone else about any of this. Not for you, but because I don't want myself or my business associated with you."
 
 # game/code/d08/d08s13.rpy:118
 translate russian d08s13_bad_8342f3c1:
 
     # nk "We're not friends. I don't trust you. I don't want to see you in here ever again."
-    nk "Мы не друзья. Я тебе не доверяю. Я больше не хочу тебя здесь видеть."
+    nk "We're not friends. I don't trust you. I don't want to see you in here ever again."
 
 # game/code/d08/d08s13.rpy:119
 translate russian d08s13_bad_4c6d584d:
 
     # mc "I can do that."
-    mc "Я могу это устроить."
+    mc "I can do that."
 
 # game/code/d08/d08s13.rpy:121
 translate russian d08s13_bad_4e037cfe:
 
     # nk "Now, if you'll please leave, I have some cleaning up to do."
-    nk "А теперь, пожалуйста, уходи, мне нужно здесь прибраться."
+    nk "Now, if you'll please leave, I have some cleaning up to do."
 
 # game/code/d08/d08s13.rpy:123
 translate russian d08s13_bad_7ac29dd3:
 
     # nk "Hey [mcname]! One last thing!"
-    nk "Эй [mcname]! Ещё кое-что!"
+    nk "Hey [mcname]! One last thing!"
 
 # game/code/d08/d08s13.rpy:124
 translate russian d08s13_bad_9faa223e:
 
     # nk "Before you go, answer me something."
-    nk "Прежде чем ты уйдешь, ответь мне на один вопрос."
+    nk "Before you go, answer me something."
 
 # game/code/d08/d08s13.rpy:125
 translate russian d08s13_bad_d878b941:
 
     # mc "Sure... anything."
-    mc "Конечно... что угодно."
+    mc "Sure... anything."
 
 # game/code/d08/d08s13.rpy:126
 translate russian d08s13_bad_e9fdbe40:
 
     # nk "You creampied me without protection or pill. I'm sure I'm not pregnant, but I gotta ask... what if you had knocked me up?"
-    nk "Ты меня подставил, кончив в меня без презерватива и таблеток. Я уверена, что не беременна, но должна спросить... А что, если бы ты меня сделал беременной?"
+    nk "You creampied me without protection or pill. I'm sure I'm not pregnant, but I gotta ask... what if you had knocked me up?"
 
 # game/code/d08/d08s13.rpy:127
 translate russian d08s13_bad_64e977d7:
 
     # mc "Huh. I hadn't really thought about it."
-    mc "Хм. На самом деле я об этом не думал."
+    mc "Huh. I hadn't really thought about it."
 
 # game/code/d08/d08s13.rpy:129
 translate russian d08s13_bad_725d55c4:
 
     # nk "Think about it now.{w} What if you had knocked me up?"
-    nk "Подумай об этом сейчас. {w}Что, если бы ты меня сделал беременной?"
+    nk "Think about it now.{w} What if you had knocked me up?"
 
-# game/code/d08/d08s13.rpy:137
+# game/code/d08/d08s13.rpy:138
 translate russian d08s13_bad_056ae71d:
 
     # nk "Good to know."
-    nk "Хорошо это знать."
+    nk "Good to know."
 
-# game/code/d08/d08s13.rpy:138
+# game/code/d08/d08s13.rpy:139
 translate russian d08s13_bad_49bea9e8:
 
     # mc "Alright, I guess I'll see you around... or not."
-    mc "Ладно, думаю, мы еще увидимся... или нет."
+    mc "Alright, I guess I'll see you around... or not."
 
-# game/code/d08/d08s13.rpy:140
+# game/code/d08/d08s13.rpy:141
 translate russian d08s13_bad_38c1c13f:
 
     # nk "Not.{w} Definitely not."
-    nk "Нет. {w}Определенно нет."
+    nk "Not.{w} Definitely not."
 
-# game/code/d08/d08s13.rpy:141
+# game/code/d08/d08s13.rpy:142
 translate russian d08s13_bad_5630f8f2:
 
     # mc "Yeah, okay."
-    mc "Да, хорошо."
+    mc "Yeah, okay."
 
-# game/code/d08/d08s13.rpy:145
+# game/code/d08/d08s13.rpy:146
 translate russian d08s13_bad_d11f678e:
 
     # mc "Hey Polly, I guess..."
-    mc "Привет, Полли, наверное..."
+    mc "Hey Polly, I guess..."
 
-# game/code/d08/d08s13.rpy:147
+# game/code/d08/d08s13.rpy:148
 translate russian d08s13_bad_52318bd1:
 
     # pw "WHAT THE FUCK IS WRONG WITH YOU!?!?"
-    pw "ДА ЧТО С ТОБОЙ ТАКОЕ, ЧЕРТ ВОЗЬМИ!?!?"
+    pw "WHAT THE FUCK IS WRONG WITH YOU!?!?"
 
-# game/code/d08/d08s13.rpy:148
+# game/code/d08/d08s13.rpy:149
 translate russian d08s13_bad_7e604e7b:
 
     # mc "I'm sorry, I just..."
-    mc "Прости, я просто..."
+    mc "I'm sorry, I just..."
 
-# game/code/d08/d08s13.rpy:150
+# game/code/d08/d08s13.rpy:151
 translate russian d08s13_bad_4fe9e3d9:
 
     # pw "YOU RUINED EVERYTHING!!!"
-    pw "ТЫ ВСЕ ИСПОРТИЛ!!!"
+    pw "YOU RUINED EVERYTHING!!!"
 
-# game/code/d08/d08s13.rpy:151
+# game/code/d08/d08s13.rpy:152
 translate russian d08s13_bad_b2472b88:
 
     # mc "I didn't mean..."
-    mc "Я не это имел в виду..."
+    mc "I didn't mean..."
 
-# game/code/d08/d08s13.rpy:152
+# game/code/d08/d08s13.rpy:153
 translate russian d08s13_bad_ab25b77a:
 
     # pw "FUCK OFF! FUCK YOURSELF!! AND STAY THE FUCK AWAY FROM ME!!!"
-    pw "ОТВАЛИ! ПОШЕЛ ТЫ К ЧЕРТУ!! И ДЕРЖИСЬ ОТ МЕНЯ ПОДАЛЬШЕ!!!"
+    pw "FUCK OFF! FUCK YOURSELF!! AND STAY THE FUCK AWAY FROM ME!!!"
 
-# game/code/d08/d08s13.rpy:160
+# game/code/d08/d08s13.rpy:163
 translate russian d08s13_good_6e9977d0:
 
     # mc "Hey Nora."
-    mc "Привет, Нора."
+    mc "Hey Nora."
 
-# game/code/d08/d08s13.rpy:162
+# game/code/d08/d08s13.rpy:165
 translate russian d08s13_good_47a8a55d:
 
     # nk "[mcname]. I was wondering if I would see you tonight."
-    nk "[mcname]. Я хотела узнать, увижу ли я тебя сегодня вечером."
+    nk "[mcname]. I was wondering if I would see you tonight."
 
-# game/code/d08/d08s13.rpy:163
+# game/code/d08/d08s13.rpy:166
 translate russian d08s13_good_6f8a850c:
 
     # nk "I would offer you a drink, but I'm all out."
-    nk "Я бы предложила тебе выпить, но у меня все кончилось."
+    nk "I would offer you a drink, but I'm all out."
 
-# game/code/d08/d08s13.rpy:164
+# game/code/d08/d08s13.rpy:167
 translate russian d08s13_good_ef364f55:
 
     # mc "No chance at one of those terrific lattes?"
-    mc "Нет никакого шанса на одно потрясающее латте?"
+    mc "No chance at one of those terrific lattes?"
 
-# game/code/d08/d08s13.rpy:165
+# game/code/d08/d08s13.rpy:168
 translate russian d08s13_good_b9595d94:
 
     # nk "Afraid not. I'm sold out of everything until tomorrow's delivery arrives."
-    nk "Боюсь, что нет. У меня все распродано до завтрашней доставки."
+    nk "Afraid not. I'm sold out of everything until tomorrow's delivery arrives."
 
-# game/code/d08/d08s13.rpy:166
+# game/code/d08/d08s13.rpy:169
 translate russian d08s13_good_7a80a7c6:
 
     # mc "Good for you!"
-    mc "Неплохо!"
+    mc "Good for you!"
 
-# game/code/d08/d08s13.rpy:168
+# game/code/d08/d08s13.rpy:171
 translate russian d08s13_good_ebd20eeb:
 
     # nk "Yeah, I guess I've got you to thank for that."
-    nk "Да, наверное, я должна поблагодарить тебя за это."
+    nk "Yeah, I guess I've got you to thank for that."
 
-# game/code/d08/d08s13.rpy:169
+# game/code/d08/d08s13.rpy:172
 translate russian d08s13_good_86607bf1:
 
     # mc "So, I guess we can just get down to business."
-    mc "Так что, думаю, теперь мы можем перейти к делу."
+    mc "So, I guess we can just get down to business."
 
-# game/code/d08/d08s13.rpy:170
+# game/code/d08/d08s13.rpy:173
 translate russian d08s13_good_09c28ec4:
 
     # nk "Indeed."
-    nk "Конечно."
+    nk "Indeed."
 
-# game/code/d08/d08s13.rpy:171
+# game/code/d08/d08s13.rpy:174
 translate russian d08s13_good_168c14c0:
 
     # mc "If you want to... {w}Is everything alright? You seem kinda weird tonight."
-    mc "Если ты не против... {w}Все в порядке? Ты выглядишь как-то странно."
+    mc "If you want to... {w}Is everything alright? You seem kinda weird tonight."
 
-# game/code/d08/d08s13.rpy:172
+# game/code/d08/d08s13.rpy:175
 translate russian d08s13_good_459dc244:
 
     # nk "Well, you know... {w}it's the third blind date."
-    nk "Ну, знаешь... {w}это третье свидание вслепую."
+    nk "Well, you know... {w}it's the third blind date."
 
-# game/code/d08/d08s13.rpy:173
+# game/code/d08/d08s13.rpy:176
 translate russian d08s13_good_a70f0f27:
 
     # mc "Yeah, so?"
-    mc "Да, и что?"
+    mc "Yeah, so?"
 
-# game/code/d08/d08s13.rpy:175
+# game/code/d08/d08s13.rpy:178
 translate russian d08s13_good_7062e275:
 
     # nk "You know what the third date means."
-    nk "Ты же знаешь, что означает третье свидание."
+    nk "You know what the third date means."
 
-# game/code/d08/d08s13.rpy:176
+# game/code/d08/d08s13.rpy:179
 translate russian d08s13_good_0822e077:
 
     # mc "Oh, you think..."
-    mc "Ох, ты думаешь..."
+    mc "Oh, you think..."
 
-# game/code/d08/d08s13.rpy:177
+# game/code/d08/d08s13.rpy:180
 translate russian d08s13_good_ded0a03c:
 
     # nk "I've never had sex with someone that I didn't know."
-    nk "У меня никогда не было секса с кем-то, кого я не знала."
+    nk "I've never had sex with someone that I didn't know."
 
-# game/code/d08/d08s13.rpy:178
+# game/code/d08/d08s13.rpy:181
 translate russian d08s13_good_96e2b4de:
 
     # mc "Well, I wouldn't worry too much about that."
-    mc "Ну, об этом я бы особо не беспокоился."
+    mc "Well, I wouldn't worry too much about that."
 
-# game/code/d08/d08s13.rpy:179
+# game/code/d08/d08s13.rpy:182
 translate russian d08s13_good_880fc799:
 
     # nk "You know the kids in here keep talking about that Fetish Locator app."
-    nk "Знаешь, студенты здесь постоянно говорят о приложении Фетиш Локатор."
+    nk "You know the kids in here keep talking about that Fetish Locator app."
 
-# game/code/d08/d08s13.rpy:180
+# game/code/d08/d08s13.rpy:183
 translate russian d08s13_good_a31340dd:
 
     # mc "Really?"
-    mc "Действительно?"
+    mc "Really?"
 
-# game/code/d08/d08s13.rpy:182
+# game/code/d08/d08s13.rpy:185
 translate russian d08s13_good_75131eef:
 
     # nk "Yeah, you wouldn't believe some of the things..."
-    nk "Да, ты не поверишь, какие тут происходят интересные вещи..."
+    nk "Yeah, you wouldn't believe some of the things..."
 
-# game/code/d08/d08s13.rpy:183
+# game/code/d08/d08s13.rpy:186
 translate russian d08s13_good_b2aba0e3:
 
     # mc "Like what?"
-    mc "Например?"
+    mc "Like what?"
 
-# game/code/d08/d08s13.rpy:184
+# game/code/d08/d08s13.rpy:187
 translate russian d08s13_good_10f23c83:
 
     # nk "Well, yesterday there was a weird amount of spanking in my shop."
-    nk "Ну, вчера здесь было большое количество шлепков."
+    nk "Well, yesterday there was a weird amount of spanking in my shop."
 
-# game/code/d08/d08s13.rpy:185
+# game/code/d08/d08s13.rpy:188
 translate russian d08s13_good_3e1cb133:
 
     # mc "Did anyone try to..."
-    mc "Кто-нибудь пытался..."
+    mc "Did anyone try to..."
 
-# game/code/d08/d08s13.rpy:186
+# game/code/d08/d08s13.rpy:189
 translate russian d08s13_good_7d0f425e:
 
     # nk "That's how I found out about it. A couple of nerds asked if they could spank me for points."
-    nk "Так я об этом и узнала. Пара ботаников спросили, могут ли они отшлепать меня за очки."
+    nk "That's how I found out about it. A couple of nerds asked if they could spank me for points."
 
-# game/code/d08/d08s13.rpy:187
+# game/code/d08/d08s13.rpy:190
 translate russian d08s13_good_43393439:
 
     # mc "Did you?"
-    mc "А ты?"
+    mc "Did you?"
 
-# game/code/d08/d08s13.rpy:188
+# game/code/d08/d08s13.rpy:191
 translate russian d08s13_good_f0d1939d:
 
     # nk "I didn't even consider it. I was too busy to think about that kinda thing."
-    nk "Я даже не задумывалась об этом. Я слишком занята, чтобы думать об всяких глупостях."
+    nk "I didn't even consider it. I was too busy to think about that kinda thing."
 
-# game/code/d08/d08s13.rpy:189
+# game/code/d08/d08s13.rpy:192
 translate russian d08s13_good_3717aeb9:
 
     # mc "Probably wouldn't be too good for business."
-    mc "Вероятно, это было бы не слишком хорошо для бизнеса."
+    mc "Probably wouldn't be too good for business."
 
-# game/code/d08/d08s13.rpy:191
+# game/code/d08/d08s13.rpy:194
 translate russian d08s13_good_eefe5415:
 
     # nk "That too.{w} Today I found a girl trying to suck off a guy at one of the tables."
-    nk "И это тоже. {w}Сегодня я поймала девушку, пытающуюся отсосать у парня за одним из столиков."
+    nk "That too.{w} Today I found a girl trying to suck off a guy at one of the tables."
 
-# game/code/d08/d08s13.rpy:192
+# game/code/d08/d08s13.rpy:195
 translate russian d08s13_good_f7800da2:
 
     # mc "Seriously? These tables wouldn't hide anything."
-    mc "Серьезно? За этими столиками невозможно-же спрятаться."
+    mc "Seriously? These tables wouldn't hide anything."
 
-# game/code/d08/d08s13.rpy:193
+# game/code/d08/d08s13.rpy:196
 translate russian d08s13_good_99f74c0b:
 
     # nk "I know. They said today's challenge is blowjobs. I told them to at least go to the bathroom!"
-    nk "Я знаю. Они заявили, что сегодняшнее задание - это минет. Я сказала им, чтобы они делали это хотя бы в туалете!"
+    nk "I know. They said today's challenge is blowjobs. I told them to at least go to the bathroom!"
 
-# game/code/d08/d08s13.rpy:194
+# game/code/d08/d08s13.rpy:197
 translate russian d08s13_good_41b5f399:
 
     # mc "Some people."
-    mc "Странные люди."
+    mc "Some people."
 
-# game/code/d08/d08s13.rpy:195
+# game/code/d08/d08s13.rpy:198
 translate russian d08s13_good_63c777b1:
 
     # nk "There must have been five couples that snuck into the bathroom together today."
-    nk "Сегодня в туалет одновременно пробрались, наверное, пять пар."
+    nk "There must have been five couples that snuck into the bathroom together today."
 
-# game/code/d08/d08s13.rpy:196
+# game/code/d08/d08s13.rpy:199
 translate russian d08s13_good_83dbd5f3:
 
     # mc "What's the point of that? The meter high club?"
-    mc "Какой в этом смысл?"
+    mc "What's the point of that? The meter high club?"
 
-# game/code/d08/d08s13.rpy:198
+# game/code/d08/d08s13.rpy:201
 translate russian d08s13_good_acfeceaa:
 
     # nk "Alright, I guess it's time that I got changed."
-    nk "Ладно, думаю, мне пора переодеться."
+    nk "Alright, I guess it's time that I got changed."
 
-# game/code/d08/d08s13.rpy:202
+# game/code/d08/d08s13.rpy:205
 translate russian d08s13_good_d87a1e31:
 
     # nk "How do I look?"
-    nk "Как я выгляжу?"
+    nk "How do I look?"
 
-# game/code/d08/d08s13.rpy:204
+# game/code/d08/d08s13.rpy:207
 translate russian d08s13_good_f5b95335:
 
     # mc "Damn! Hot and Fresh, just like you!"
-    mc "Чёрт! Горячая и свежая!"
+    mc "Damn! Hot and Fresh, just like you!"
 
-# game/code/d08/d08s13.rpy:205
+# game/code/d08/d08s13.rpy:208
 translate russian d08s13_good_067d6c90:
 
     # nk "Ha! Thanks..."
-    nk "Ха! Спасибо..."
+    nk "Ha! Thanks..."
 
-# game/code/d08/d08s13.rpy:207
+# game/code/d08/d08s13.rpy:210
 translate russian d08s13_good_2452af63:
 
     # mc "So, tonight is going to be a little bit different."
-    mc "Так что сегодня все будет немного по-другому."
+    mc "So, tonight is going to be a little bit different."
 
-# game/code/d08/d08s13.rpy:208
+# game/code/d08/d08s13.rpy:211
 translate russian d08s13_good_3a6ba69b:
 
     # nk "Well, it is the third date."
-    nk "Ну, это уже третье свидание."
+    nk "Well, it is the third date."
 
-# game/code/d08/d08s13.rpy:210
+# game/code/d08/d08s13.rpy:213
 translate russian d08s13_good_15d65548:
 
     # mc "Not like that, as far as I know, but I am supposed to tie you up a little."
-    mc "Не так, насколько я знаю, но я должен тебя заковать."
+    mc "Not like that, as far as I know, but I am supposed to tie you up a little."
 
-# game/code/d08/d08s13.rpy:214
+# game/code/d08/d08s13.rpy:217
 translate russian d08s13_good_9e7f8494:
 
     # nk "Kinky. I love it."
-    nk "Извращенец. Но мне нравится."
+    nk "Kinky. I love it."
 
-# game/code/d08/d08s13.rpy:215
+# game/code/d08/d08s13.rpy:218
 translate russian d08s13_good_b5c49d2a:
 
     # mc "Alright, I'm just going to bind your arms behind your back, if that's okay with you."
-    mc "Ладно, я просто скую тебе руки за спиной, если ты не против."
+    mc "Alright, I'm just going to bind your arms behind your back, if that's okay with you."
 
-# game/code/d08/d08s13.rpy:216
+# game/code/d08/d08s13.rpy:219
 translate russian d08s13_good_09e15fe8:
 
     # nk "Go ahead."
-    nk "Вперед."
+    nk "Go ahead."
 
-# game/code/d08/d08s13.rpy:218
+# game/code/d08/d08s13.rpy:221
 translate russian d08s13_good_6599dc52:
 
     # mc "You are still going to be blindfolded, so I guess we should talk about your safe word."
-    mc "У тебя по прежнему будут завязаны глаза, так что, думаю, нам стоит договориться о стоп-слове."
+    mc "You are still going to be blindfolded, so I guess we should talk about your safe word."
 
-# game/code/d08/d08s13.rpy:219
+# game/code/d08/d08s13.rpy:222
 translate russian d08s13_good_391e9a18:
 
     # nk "Scrumbles."
-    nk "Скрамблз. \n\n\n\n{size=-10}{i}(Прим пер.): Scrumbles - никнейм одного из разработчиков игры.{/i}{/size}"
+    nk "Scrumbles."
 
-# game/code/d08/d08s13.rpy:220
+# game/code/d08/d08s13.rpy:223
 translate russian d08s13_good_05500ff6:
 
     # mc "Huh?"
-    mc "Что?"
+    mc "Huh?"
 
-# game/code/d08/d08s13.rpy:221
+# game/code/d08/d08s13.rpy:224
 translate russian d08s13_good_182ce646:
 
     # nk "My safe word is Scrumbles."
-    nk "Мое стоп-слово Скрамблз."
+    nk "My safe word is Scrumbles."
 
-# game/code/d08/d08s13.rpy:222
+# game/code/d08/d08s13.rpy:225
 translate russian d08s13_good_0e959ed4:
 
     # mc "Nice. Easy to remember."
-    mc "Неплохо. Легко запоминающееся."
+    mc "Nice. Easy to remember."
 
-# game/code/d08/d08s13.rpy:223
+# game/code/d08/d08s13.rpy:226
 translate russian d08s13_good_5fd0c4b2:
 
     # nk "Scrumbles is absolutely unforgettable."
-    nk "Скрамблз - абсолютно незабываемо."
+    nk "Scrumbles is absolutely unforgettable."
 
-# game/code/d08/d08s13.rpy:225
+# game/code/d08/d08s13.rpy:228
 translate russian d08s13_good_f5ec0da6:
 
     # mc "Sounds like a story I'd like to hear sometime. Any questions or concerns before we get started."
-    mc "Звучит как история, которую я хотел бы когда-нибудь услышать. Есть вопросы или пожелания, прежде чем мы начнем?"
+    mc "Sounds like a story I'd like to hear sometime. Any questions or concerns before we get started."
 
-# game/code/d08/d08s13.rpy:226
+# game/code/d08/d08s13.rpy:229
 translate russian d08s13_good_bd03378a:
 
     # nk "You're not my blind date, are you?"
-    nk "Ведь это не ты - тот с кем у меня свидание вслепую, правда?"
+    nk "You're not my blind date, are you?"
 
-# game/code/d08/d08s13.rpy:227
+# game/code/d08/d08s13.rpy:230
 translate russian d08s13_good_8fbf7722:
 
     # mc "Nope. Never have been."
-    mc "Нет. И никогда им не был."
+    mc "Nope. Never have been."
 
-# game/code/d08/d08s13.rpy:228
+# game/code/d08/d08s13.rpy:231
 translate russian d08s13_good_9302c712:
 
     # nk "Okay. Will I see my blind date tonight?"
-    nk "Окей. Увижу ли я сегодня моего партнера по свиданию вслепую?"
+    nk "Okay. Will I see my blind date tonight?"
 
-# game/code/d08/d08s13.rpy:229
+# game/code/d08/d08s13.rpy:232
 translate russian d08s13_good_379def79:
 
     # mc "Nope. You'll remain blindfolded... as far as I know."
-    mc "Нет. Ты останешься с завязанными глазами... насколько я знаю."
+    mc "Nope. You'll remain blindfolded... as far as I know."
 
-# game/code/d08/d08s13.rpy:230
+# game/code/d08/d08s13.rpy:233
 translate russian d08s13_good_7445519d:
 
     # nk "Fair enough. Make sure he knows not to cum inside me. I'm not on the pill."
-    nk "Честный ответ. Убедись, что он знает, что нельзя кончать в меня. Я не принимаю таблетки."
+    nk "Fair enough. Make sure he knows not to cum inside me. I'm not on the pill."
 
-# game/code/d08/d08s13.rpy:232
+# game/code/d08/d08s13.rpy:235
 translate russian d08s13_good_8a3cc682:
 
     # mc "I will definitely mention it, but only if it seems relevant."
-    mc "Я обязательно упомяну об этом, но только если это понадобится."
+    mc "I will definitely mention it, but only if it seems relevant."
 
-# game/code/d08/d08s13.rpy:233
+# game/code/d08/d08s13.rpy:236
 translate russian d08s13_good_efe5def7:
 
     # nk "You don't think..."
-    nk "Ты не думаешь..."
+    nk "You don't think..."
 
-# game/code/d08/d08s13.rpy:234
+# game/code/d08/d08s13.rpy:237
 translate russian d08s13_good_88aff48a:
 
     # mc "Third date might be traditional, but your blind dates aren't very traditional."
-    mc "Третье свидание может быть традиционным, но твоё свидание вслепую не очень традиционно."
+    mc "Third date might be traditional, but your blind dates aren't very traditional."
 
-# game/code/d08/d08s13.rpy:235
+# game/code/d08/d08s13.rpy:238
 translate russian d08s13_good_a135b623:
 
     # nk "I guess that's true, but..."
-    nk "Наверное, это так, но..."
+    nk "I guess that's true, but..."
 
-# game/code/d08/d08s13.rpy:236
+# game/code/d08/d08s13.rpy:239
 translate russian d08s13_good_8492471e:
 
     # mc "If that happens tonight, I would be extremely surprised."
-    mc "Если это случится сегодня, то я буду крайне удивлен."
+    mc "If that happens tonight, I would be extremely surprised."
 
-# game/code/d08/d08s13.rpy:237
+# game/code/d08/d08s13.rpy:240
 translate russian d08s13_good_bb23bfe6:
 
     # nk "Huh. Okay."
-    nk "Хм. Ладно."
+    nk "Huh. Okay."
 
-# game/code/d08/d08s13.rpy:239
+# game/code/d08/d08s13.rpy:242
 translate russian d08s13_good_7c4609ae:
 
     # mc "Alright, I'm going to blindfold you now."
-    mc "Ладно, сейчас я завяжу тебе глаза."
+    mc "Alright, I'm going to blindfold you now."
 
-# game/code/d08/d08s13.rpy:240
+# game/code/d08/d08s13.rpy:243
 translate russian d08s13_good_b707cc0d:
 
     # nk "I trust you."
-    nk "Я тебе доверяю."
+    nk "I trust you."
 
-# game/code/d08/d08s13.rpy:242
+# game/code/d08/d08s13.rpy:245
 translate russian d08s13_good_2f02183f:
 
     # nk "Oh! If I can't speak, my safe word is three grunts in a row."
-    nk "О! А если я не смогу говорить, то мое стоп-слово - это три хрюканья подряд."
+    nk "Oh! If I can't speak, my safe word is three grunts in a row."
 
-# game/code/d08/d08s13.rpy:243
+# game/code/d08/d08s13.rpy:246
 translate russian d08s13_good_5fb021fa:
 
     # mc "I hadn't even thought of that. Good to know."
-    mc "Я даже не подумал об этом. Хорошо, буду знать."
+    mc "I hadn't even thought of that. Good to know."
 
-# game/code/d08/d08s13.rpy:244
+# game/code/d08/d08s13.rpy:247
 translate russian d08s13_good_4938d1ff:
 
     # nk "Well, you know, if I'm gagged or gagging..."
-    nk "Ну, знаешь, если я буду с кляпом на рту или с кляпом во рту..."
+    nk "Well, you know, if I'm gagged or gagging..."
 
-# game/code/d08/d08s13.rpy:246
+# game/code/d08/d08s13.rpy:249
 translate russian d08s13_good_ad394c00:
 
     # mc "I can imagine. Let me just signal your date."
-    mc "Могу себе представить. Ладно, я подам сигнал о начале твоего свидания."
+    mc "I can imagine. Let me just signal your date."
 
-# game/code/d08/d08s13.rpy:252
+# game/code/d08/d08s13.rpy:255
 translate russian d08s13_good_deeb53d4:
 
     # nk "[mcname]? Is anyone there?"
-    nk "[mcname]? Есть тут кто-нибудь?"
+    nk "[mcname]? Is anyone there?"
 
-# game/code/d08/d08s13.rpy:254
+# game/code/d08/d08s13.rpy:257
 translate russian d08s13_good_c36ee90c:
 
     # mc "I'm still here, and so is your date."
-    mc "Я все еще здесь, и твой кавалер тоже."
+    mc "I'm still here, and so is your date."
 
-# game/code/d08/d08s13.rpy:255
+# game/code/d08/d08s13.rpy:258
 translate russian d08s13_good_4a005e06:
 
     # nk "You sound so far away, where is my..."
-    nk "Твой голос далеко, а где..."
+    nk "You sound so far away, where is my..."
 
-# game/code/d08/d08s13.rpy:259
+# game/code/d08/d08s13.rpy:262
 translate russian d08s13_good_12d74fb8:
 
     # nk "Oh..!"
-    nk "Ох...!"
+    nk "Oh..!"
 
-# game/code/d08/d08s13.rpy:265
+# game/code/d08/d08s13.rpy:268
 translate russian d08s13_good_1b63aa25:
 
     # nk "You're driving me wild. Please..."
-    nk "Ты сводишь меня с ума. Пожалуйста..."
+    nk "You're driving me wild. Please..."
 
-# game/code/d08/d08s13.rpy:269
+# game/code/d08/d08s13.rpy:272
 translate russian d08s13_good_510fdab2:
 
     # nk "Please... please let me..."
-    nk "Пожалуйста... пожалуйста, позволь мне..."
+    nk "Please... please let me..."
 
-# game/code/d08/d08s13.rpy:277
+# game/code/d08/d08s13.rpy:280
 translate russian d08s13_good_697a07cf:
 
     # nk "Mmmmm..."
-    nk "Ммммм..."
+    nk "Mmmmm..."
 
-# game/code/d08/d08s13.rpy:279
+# game/code/d08/d08s13.rpy:282
 translate russian d08s13_good_093552f8:
 
     # nk "Please let me do something for you this time."
-    nk "Пожалуйста, позволь мне сделать что-нибудь для тебя в этот раз."
+    nk "Please let me do something for you this time."
 
-# game/code/d08/d08s13.rpy:281
+# game/code/d08/d08s13.rpy:284
 translate russian d08s13_good_bb32039b:
 
     # nk "Please... please let me suck your cock."
-    nk "Пожалуйста... пожалуйста, позволь мне отсосать у тебя."
+    nk "Please... please let me suck your cock."
 
-# game/code/d08/d08s13.rpy:282
+# game/code/d08/d08s13.rpy:285
 translate russian d08s13_good_4740d846:
 
     # nk "I want it. Please. You must be hard by now."
-    nk "Я хочу его. Пожалуйста. Ты, наверное, уже возбуждён."
+    nk "I want it. Please. You must be hard by now."
 
-# game/code/d08/d08s13.rpy:284
+# game/code/d08/d08s13.rpy:287
 translate russian d08s13_good_522cbe58:
 
     # mct "Damn... I'm hard right now and I'm not even the one touching her."
-    mct "Чёрт... У меня уже встаёт, хотя я даже не прикасался к ней."
+    mct "Damn... I'm hard right now and I'm not even the one touching her."
 
-# game/code/d08/d08s13.rpy:288
+# game/code/d08/d08s13.rpy:291
 translate russian d08s13_good_07276dd3:
 
     # nk "I want to suck your hard massive throbbing dick."
-    nk "Я хочу пососать твой твердый огромный член."
+    nk "I want to suck your hard massive throbbing dick."
 
-# game/code/d08/d08s13.rpy:290
+# game/code/d08/d08s13.rpy:293
 translate russian d08s13_good_bdbbc247:
 
     # nk "Mmmm yes, I want to feel it. Please please fuck my throat."
-    nk "Мммм да, я хочу прочувствовать его весь. Пожалуйста, пожалуйста, трахни меня в горло."
+    nk "Mmmm yes, I want to feel it. Please please fuck my throat."
 
-# game/code/d08/d08s13.rpy:292
+# game/code/d08/d08s13.rpy:295
 translate russian d08s13_good_77e51390:
 
     # mct "I think... huh."
-    mct "Я думаю... хм."
+    mct "I think... huh."
 
-# game/code/d08/d08s13.rpy:294
+# game/code/d08/d08s13.rpy:297
 translate russian d08s13_good_0ee8a712:
 
     # mc "Nora, I don't think your blind date is ready to receive oral from you just yet."
-    mc "Нора, я не думаю, что твое свидание вслепую уже подошло к стадии орального секса."
+    mc "Nora, I don't think your blind date is ready to receive oral from you just yet."
 
-# game/code/d08/d08s13.rpy:295
+# game/code/d08/d08s13.rpy:298
 translate russian d08s13_good_7135ef2e:
 
     # nk "Oh."
-    nk "Ох."
+    nk "Oh."
 
-# game/code/d08/d08s13.rpy:297
+# game/code/d08/d08s13.rpy:300
 translate russian d08s13_good_d8516f9e:
 
     # mc "However, I think they're suggesting another possibility."
-    mc "Однако я думаю, что есть другая возможность."
+    mc "However, I think they're suggesting another possibility."
 
-# game/code/d08/d08s13.rpy:303
+# game/code/d08/d08s13.rpy:306
 translate russian d08s13_good_f806ffa2:
 
     # mc "I think your date wants to see what my cock would look like in your mouth."
-    mc "Думаю, что твой кавалер хочет посмотреть, как будет выглядеть мой член у тебя во рту."
+    mc "I think your date wants to see what my cock would look like in your mouth."
 
-# game/code/d08/d08s13.rpy:304
+# game/code/d08/d08s13.rpy:307
 translate russian d08s13_good_b02f0623:
 
     # nk "Okay. If that's what you want."
-    nk "Окей. Если ты этого хочешь."
+    nk "Okay. If that's what you want."
 
-# game/code/d08/d08s13.rpy:306
+# game/code/d08/d08s13.rpy:309
 translate russian d08s13_good_579399f5:
 
     # mc "Both of you are okay with this?"
-    mc "Вы оба согласны с этим?"
+    mc "Both of you are okay with this?"
 
-# game/code/d08/d08s13.rpy:307
+# game/code/d08/d08s13.rpy:310
 translate russian d08s13_good_ae362559:
 
     # nk "Yes. Come closer."
-    nk "Да. Подойди ближе."
+    nk "Yes. Come closer."
 
-# game/code/d08/d08s13.rpy:309
+# game/code/d08/d08s13.rpy:312
 translate russian d08s13_good_bc4f7606:
 
     # mct "This is so weird, but I'm not going to overthink it."
-    mct "Это так странно, но я не собираюсь отказываться."
+    mct "This is so weird, but I'm not going to overthink it."
 
-# game/code/d08/d08s13.rpy:310
+# game/code/d08/d08s13.rpy:313
 translate russian d08s13_good_4bcbfe2b:
 
     # mc "I'm right here. My penis is just in front of your face... if you want it."
-    mc "Я здесь. Мой пенис прямо перед твоим лицом... если хочешь."
+    mc "I'm right here. My penis is just in front of your face... if you want it."
 
-# game/code/d08/d08s13.rpy:312
+# game/code/d08/d08s13.rpy:315
 translate russian d08s13_good_6b30a806:
 
     # nk "Yesss"
-    nk "Дааа."
+    nk "Yesss"
 
-# game/code/d08/d08s13.rpy:314
+# game/code/d08/d08s13.rpy:317
 translate russian d08s13_good_e5ebc67a:
 
     # nk "Mmmmmm"
-    nk "Мммммм."
+    nk "Mmmmmm"
 
-# game/code/d08/d08s13.rpy:316
+# game/code/d08/d08s13.rpy:319
 translate russian d08s13_good_95d53ee7:
 
     # nk "Mmm?"
-    nk "Ммм?"
+    nk "Mmm?"
 
-# game/code/d08/d08s13.rpy:320
+# game/code/d08/d08s13.rpy:323
 translate russian d08s13_good_6fcbc0b0:
 
     # nk "Mmmmph!"
-    nk "Ммммф?"
+    nk "Mmmmph!"
 
-# game/code/d08/d08s13.rpy:325
+# game/code/d08/d08s13.rpy:328
 translate russian d08s13_good_697a07cf_1:
 
     # nk "Mmmmm..."
-    nk "Ммммм..."
+    nk "Mmmmm..."
 
-# game/code/d08/d08s13.rpy:330
+# game/code/d08/d08s13.rpy:333
 translate russian d08s13_good_95c7633a:
 
     # mc "Are you okay?"
-    mc "Ты в порядке?"
+    mc "Are you okay?"
 
-# game/code/d08/d08s13.rpy:331
+# game/code/d08/d08s13.rpy:334
 translate russian d08s13_good_73f940e7:
 
     # nk "I feel tits against my back! {w}She's a woman?"
-    nk "Я чувствую сиськи на моей спине! {w}Она женщина?"
+    nk "I feel tits against my back! {w}She's a woman?"
 
-# game/code/d08/d08s13.rpy:333
+# game/code/d08/d08s13.rpy:336
 translate russian d08s13_good_a8f56c49:
 
     # mc "Your blind date? Yes, didn't I mention that before?"
-    mc "Твой кавалер? Да, разве я не упоминал об этом?"
+    mc "Your blind date? Yes, didn't I mention that before?"
 
-# game/code/d08/d08s13.rpy:334
+# game/code/d08/d08s13.rpy:337
 translate russian d08s13_good_c7445d83:
 
     # nk "No, you hadn't mentioned that!"
-    nk "Нет, ты не упоминал об этом!"
+    nk "No, you hadn't mentioned that!"
 
-# game/code/d08/d08s13.rpy:335
+# game/code/d08/d08s13.rpy:338
 translate russian d08s13_good_78efd70b:
 
     # mc "Is that a problem? Should we stop or continue?"
-    mc "Разве это проблема? Остановимся или продолжим?"
+    mc "Is that a problem? Should we stop or continue?"
 
-# game/code/d08/d08s13.rpy:336
+# game/code/d08/d08s13.rpy:339
 translate russian d08s13_good_6a960cd4:
 
     # nk "..."
     nk "..."
 
-# game/code/d08/d08s13.rpy:338
+# game/code/d08/d08s13.rpy:341
 translate russian d08s13_good_3985f243:
 
     # nk "Please continue. I was just surprised. That's all."
-    nk "Давайте продолжим. Я просто удивилась."
+    nk "Please continue. I was just surprised. That's all."
 
-# game/code/d08/d08s13.rpy:339
+# game/code/d08/d08s13.rpy:342
 translate russian d08s13_good_02bcda90:
 
     # nk "Please. I want this. Continue."
-    nk "Пожалуйста. Я хочу этого. Продолжайте."
+    nk "Please. I want this. Continue."
 
-# game/code/d08/d08s13.rpy:340
+# game/code/d08/d08s13.rpy:343
 translate russian d08s13_good_6711bd1e:
 
     # mc "Okay, I'm going to put my cock back in your mouth now."
-    mc "Ладно, сейчас я снова засуну свой член тебе в рот."
+    mc "Okay, I'm going to put my cock back in your mouth now."
 
-# game/code/d08/d08s13.rpy:341
+# game/code/d08/d08s13.rpy:344
 translate russian d08s13_good_eeaa4545:
 
     # nk "Yes! Fuck my face like the dirty trickster you both are."
-    nk "Да! Трахни меня в горло, как грязный обманщик, которыми вы оба являетесь."
+    nk "Yes! Fuck my face like the dirty trickster you both are."
 
-# game/code/d08/d08s13.rpy:369
+# game/code/d08/d08s13.rpy:372
 translate russian d08s13_good_ef1a7cbb:
 
     # mc "I'm about to cum..."
-    mc "Я вот-вот кончу..."
+    mc "I'm about to cum..."
 
-# game/code/d08/d08s13.rpy:371
+# game/code/d08/d08s13.rpy:374
 translate russian d08s13_good_fd56395c:
 
     # nk "ME TOO!!"
-    nk "Я ТОЖЕ!!"
+    nk "ME TOO!!"
 
-# game/code/d08/d08s13.rpy:374
+# game/code/d08/d08s13.rpy:377
 translate russian d08s13_good_efb8a03b:
 
     # mc "Where do you want it?"
-    mc "Куда мне кончить?"
+    mc "Where do you want it?"
 
-# game/code/d08/d08s13.rpy:375
+# game/code/d08/d08s13.rpy:378
 translate russian d08s13_good_98bd8d90:
 
     # nk "HER CHOICE!"
-    nk "НА ЕЁ ВЫБОР!"
+    nk "HER CHOICE!"
 
-# game/code/d08/d08s13.rpy:377
+# game/code/d08/d08s13.rpy:380
 translate russian d08s13_good_cd20e68f:
 
     # nk "MMMmmmmphh!!!"
-    nk "МММммммфф!!!"
+    nk "MMMmmmmphh!!!"
 
-# game/code/d08/d08s13.rpy:378
+# game/code/d08/d08s13.rpy:381
 translate russian d08s13_good_dadd708b:
 
     # mc "OH YESSSS"
-    mc "ОХ ДААА!"
+    mc "OH YESSSS"
 
-# game/code/d08/d08s13.rpy:381
+# game/code/d08/d08s13.rpy:384
 translate russian d08s13_good_ab357c82:
 
     # nk "(gulp)"
-    nk "(глоток)."
+    nk "(gulp)"
 
-# game/code/d08/d08s13.rpy:384
+# game/code/d08/d08s13.rpy:387
 translate russian d08s13_good_ab357c82_1:
 
     # nk "(gulp)"
-    nk "(глоток).."
+    nk "(gulp)"
 
-# game/code/d08/d08s13.rpy:387
+# game/code/d08/d08s13.rpy:390
 translate russian d08s13_good_ab357c82_2:
 
     # nk "(gulp)"
-    nk "(глоток)..."
+    nk "(gulp)"
 
-# game/code/d08/d08s13.rpy:391
+# game/code/d08/d08s13.rpy:395
 translate russian d08s13_good_a39054f1:
 
     # mc "Damn that felt good."
-    mc "Черт возьми, это было приятно."
+    mc "Damn that felt good."
 
-# game/code/d08/d08s13.rpy:392
+# game/code/d08/d08s13.rpy:396
 translate russian d08s13_good_77c7f2a3:
 
     # nk "You're telling me."
-    nk "Это ты мне говоришь?"
+    nk "You're telling me."
 
-# game/code/d08/d08s13.rpy:394
+# game/code/d08/d08s13.rpy:398
 translate russian d08s13_good_af6eb2f7:
 
     # nk "Wait? What about my date?"
-    nk "Подожди! А как же моя партнерша?"
+    nk "Wait? What about my date?"
 
-# game/code/d08/d08s13.rpy:395
+# game/code/d08/d08s13.rpy:399
 translate russian d08s13_good_ca232e4f:
 
     # mc "You don't get to see her tonight."
-    mc "Ты не увидишь ее этим вечером."
+    mc "You don't get to see her tonight."
 
-# game/code/d08/d08s13.rpy:397
+# game/code/d08/d08s13.rpy:401
 translate russian d08s13_good_073b2c04:
 
     # nk "No, I mean. You came; I came; but she didn't..."
-    nk "Нет, я не это имею в виду. Ты кончил, я кончила, а она нет..."
+    nk "No, I mean. You came; I came; but she didn't..."
 
-# game/code/d08/d08s13.rpy:398
+# game/code/d08/d08s13.rpy:402
 translate russian d08s13_good_a6c45db0:
 
     # mc "Maybe next time. She is very satisfied for now."
-    mc "Может быть, в следующий раз. Сейчас она очень довольна."
+    mc "Maybe next time. She is very satisfied for now."
 
-# game/code/d08/d08s13.rpy:399
+# game/code/d08/d08s13.rpy:403
 translate russian d08s13_good_38370fbd:
 
     # nk "Oh, okay.{w} It was lovely meeting you!"
-    nk "Ох, ладно. {w}Было приятно провести время с вами!"
+    nk "Oh, okay.{w} It was lovely meeting you!"
 
-# game/code/d08/d08s13.rpy:401
+# game/code/d08/d08s13.rpy:405
 translate russian d08s13_good_90e17638:
 
     # mc "Alright, I guess I can remove your bindings and blindfold now."
-    mc "Ладно, думаю, теперь я могу снять с тебя наручники и развязать глаза."
+    mc "Alright, I guess I can remove your bindings and blindfold now."
 
-# game/code/d08/d08s13.rpy:402
+# game/code/d08/d08s13.rpy:406
 translate russian d08s13_good_41836f1c:
 
     # nk "Aww... do you have to?"
-    nk "Оуу... а тебе обязательно это делать?"
+    nk "Aww... do you have to?"
 
-# game/code/d08/d08s13.rpy:403
+# game/code/d08/d08s13.rpy:407
 translate russian d08s13_good_59f0b332:
 
     # nk "I want to imagine that she's still here... and maybe she still wants to do things to me."
-    nk "Я хочу думать, что она все еще здесь... и возможно, она все еще хочет сделать что-то со мной."
+    nk "I want to imagine that she's still here... and maybe she still wants to do things to me."
 
-# game/code/d08/d08s13.rpy:404
+# game/code/d08/d08s13.rpy:408
 translate russian d08s13_good_5c121301:
 
     # mc "Dirty girl."
-    mc "Грязная девчонка."
+    mc "Dirty girl."
 
-# game/code/d08/d08s13.rpy:406
+# game/code/d08/d08s13.rpy:410
 translate russian d08s13_good_fdeff862:
 
     # nk "Thank you both so much for a wonderful evening."
-    nk "Большое спасибо вам обоим за чудесный вечер."
+    nk "Thank you both so much for a wonderful evening."
 
-# game/code/d08/d08s13.rpy:407
+# game/code/d08/d08s13.rpy:411
 translate russian d08s13_good_bc666b09:
 
     # mc "Anytime."
-    mc "Обращайся в любое время."
+    mc "Anytime."
 
-# game/code/d08/d08s13.rpy:409
+# game/code/d08/d08s13.rpy:413
 translate russian d08s13_good_e34099e6:
 
     # nk "Hey [mcname]! One last question!"
-    nk "Эй [mcname]! Последний вопрос!"
+    nk "Hey [mcname]! One last question!"
 
-# game/code/d08/d08s13.rpy:410
+# game/code/d08/d08s13.rpy:414
 translate russian d08s13_good_12ba8acd:
 
     # mc "Sure. Go ahead."
-    mc "Конечно. Спрашивай."
+    mc "Sure. Go ahead."
 
-# game/code/d08/d08s13.rpy:412
+# game/code/d08/d08s13.rpy:416
 translate russian d08s13_good_606278d2:
 
     # nk "Was it Lydia?"
-    nk "Это была Лидия?"
+    nk "Was it Lydia?"
 
-# game/code/d08/d08s13.rpy:413
+# game/code/d08/d08s13.rpy:417
 translate russian d08s13_good_4cbc3a26:
 
     # mc "HA!{w} No, no. It definitely wasn't Lydia."
-    mc "ХА! {w}Нет. Это определенно была не Лидия."
+    mc "HA!{w} No, no. It definitely wasn't Lydia."
 
-# game/code/d08/d08s13.rpy:415
+# game/code/d08/d08s13.rpy:419
 translate russian d08s13_good_0965e5ed:
 
     # nk "Damn. Okay. I'll believe you."
-    nk "Черт. Ладно. Я тебе поверю."
+    nk "Damn. Okay. I'll believe you."
 
-# game/code/d08/d08s13.rpy:416
+# game/code/d08/d08s13.rpy:420
 translate russian d08s13_good_7ea6a3fb:
 
     # mc "Have a great night."
-    mc "Желаю тебе хорошо провести вечер."
+    mc "Have a great night."
 
-# game/code/d08/d08s13.rpy:418
+# game/code/d08/d08s13.rpy:422
 translate russian d08s13_good_02356c2b:
 
     # nk "You too!"
-    nk "Тебе тоже!"
+    nk "You too!"
 
-# game/code/d08/d08s13.rpy:426
+# game/code/d08/d08s13.rpy:432
 translate russian d08s13_good_17a3ec1f:
 
     # fl "You got [d08s13_points] points!"
-    fl "Вы получили [d08s13_points] очков!"
+    fl "You got [d08s13_points] points!"
 
-# game/code/d08/d08s13.rpy:430
+# game/code/d08/d08s13.rpy:436
 translate russian d08s13_good_43610b8c:
 
     # mct "Again points without any photos sent..."
-    mct "Опять очки без отправки фотографий..."
+    mct "Again points without any photos sent..."
 
-# game/code/d08/d08s13.rpy:432
+# game/code/d08/d08s13.rpy:438
 translate russian d08s13_good_6ca743fc:
 
     # mct "Wtf? I didn't make any pictures and got points! How is this fucking possible?!"
-    mct "Что за хрень? Я не делал никаких фотографий и всё равно получил очки! Как это, блядь, возможно?!"
+    mct "Wtf? I didn't make any pictures and got points! How is this fucking possible?!"
 
-# game/code/d08/d08s13.rpy:433
+# game/code/d08/d08s13.rpy:439
 translate russian d08s13_good_bdd863d8:
 
     # mct "This app is getting creepy..."
-    mct "Это приложение меня пугает..."
+    mct "This app is getting creepy..."
 
 translate russian strings:
 
     # game/code/d08/d08s13.rpy:130
     old "Well, I guess I would be a dad"
-    new "Ну, думаю, что я был бы отцом"
+    new "Well, I guess I would be a dad"
 
     # game/code/d08/d08s13.rpy:130
     old "We would have to decide what to do about that"
-    new "Мы должны решить, что с этим делать"
+    new "We would have to decide what to do about that"
