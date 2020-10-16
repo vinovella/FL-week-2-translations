@@ -33,6 +33,21 @@ translate russian d08s05_62eb5652:
 # game/code/d08/d08s05.rpy:14
 translate russian d08s05_938b7516:
 
+# TODO: Translation updated at 2020-09-30 18:34
+
+# game/code/d08/d08s05.rpy:87
+translate russian d08s05_dd_320ef5c0:
+
+    # sy "We're looking for Samiya, or Dahlia to help us finding Samiya."
+    sy "Мы ищем Самию, или Далию, которая может помочь нам найти ее."
+
+# game/code/d08/d08s05.rpy:182
+translate russian d08s05_dd_1512a6e1:
+
+    # dd "Not that night. Samiya and I and a couple guys went over to the gym-"
+    dd "Но не в ту ночь. Мы с Самией и парой парней пошли в спортзал..."
+
+
     # sy "We wouldn't have come all this way if I wasn't."
     sy "Иначе мы бы не проделали весь этот путь."
 
