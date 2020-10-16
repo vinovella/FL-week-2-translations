@@ -1141,4 +1141,3 @@ translate russian strings:
     # renpy/common/_errorhandling.rpym:687
     old "Copies the errors.txt file to the clipboard as Markdown for Discord."
     new "Копирует файл errors.txt в буфер обмена для передачи в Discord."
-
