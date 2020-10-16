@@ -468,3 +468,10 @@ translate russian d08s06_ca44a1f9:
     # sy "Oh yeah, your lunch \"date\"."
     sy "Ах, да. Твое \"свидание\" за ланчем."
 
+# TODO: Translation updated at 2020-09-30 18:34
+
+# game/code/d08/d08s06.rpy:131
+translate russian d08s06_0be38e4b:
+
+    # sa "Didn't you say that you are friends?"
+    sa "Разве вы не говорили, что вы её друзья?"
