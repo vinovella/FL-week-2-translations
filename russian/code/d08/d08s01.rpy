@@ -499,3 +499,12 @@ translate russian strings:
     # game/code/d08/d08s01.rpy:99
     old "Let Stacy bathe with you"
     new "Пусть Стейси искупается с тобой"
+    
+# TODO: Translation updated at 2020-09-30 18:34
+
+# game/code/d08/d08s01.rpy:194
+translate russian d08s01_bathe_b4583873:
+
+    # sy "You want AmRose to be happy... {w}and so do I."
+    sy "Ты должен сделать всё, чтобы АмРоуз была счастлива... {w}и я тоже."
+
