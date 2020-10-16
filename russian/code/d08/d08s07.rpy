@@ -934,3 +934,22 @@ translate russian strings:
     old "You're both beautiful"
     new "Вы обе прекрасны"
 
+# TODO: Translation updated at 2020-09-30 18:34
+
+# game/code/d08/d08s07.rpy:170
+translate russian d08s07_482ca548:
+
+    # mes "It is my diet! I only drink this! You can eat all your food!"
+    mes "Это моя диета! Она подходит только для меня! Ты должна найти свою диету!"
+
+# game/code/d08/d08s07.rpy:197
+translate russian d08s07_cf82b4db:
+
+    # mc "{i}When do you finish your work?{/i}"
+    mc "{i}Когда ты заканчиваешь свою работу?{/i}"
+
+# game/code/d08/d08s07.rpy:252
+translate russian d08s07_9aa5dd7c:
+
+    # mc "Last week was awesome. I had a lot of fun, but best of all... I got to talk with you."
+    mc "Прошлая неделя была потрясающей. Мне было очень весело, но больше всего... мне понравилось разговаривать с тобой."
