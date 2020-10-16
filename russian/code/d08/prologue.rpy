@@ -214,4 +214,4 @@ translate russian prologue_girls_set_3_746b6a7f:
 translate russian prologue_fetishes_4cc3c0e4:
 
     # "And now it's time to choose your fetishes.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many fetishes as you want and press \"Done\"."
-    "А теперь пришло время выбирать себе фетиши.\nНе волнуйся, если твой любимый фетиш не указан: Фетиш Локатор только начался!"
+    "А теперь пришло время выбирать себе фетиши.\nНе волнуйся, если твой любимый фетиш не указан: Фетиш Локатор только начался!\nВыбери все которые тебе повкусу и нажми \"Готово\"."
