@@ -683,3 +683,29 @@ translate russian d08s10_606e2d02:
 
     # mc "Sure."
     mc "Конечно."
+    
+# Missing lines #####################################################################
+
+# game/code/d08/d08s10.rpy:101
+translate russian d08s10_e9da2bc5:
+
+    # aw "They're absolutely against anything related to the adult industry."
+    aw "Они категорически против всего, что связано с индустрией для взрослых."
+
+# game/code/d08/d08s10.rpy:102
+translate russian d08s10_f89f0990:
+
+    # aw "We haven't spoken since they found out that I was working as a stripper."
+    aw "Мы больше не разговаривали с тех пор, как они узнали, что я работаю стриптизершей."
+
+# game/code/d08/d08s10.rpy:105
+translate russian d08s10_3f4d58b2:
+
+    # aw "Yea. I guess they just can't understand that I actually enjoy it. I don't do it just for the money."
+    aw "Да. Наверное, они просто не могут понять, что мне это действительно нравится. Я делаю это не только ради денег."
+
+# game/code/d08/d08s10.rpy:107
+translate russian d08s10_7e7e0845:
+
+    # sy "Maybe you didn't explain it well enough so that they would get how you feel about this?"
+    sy "Может быть, ты недостаточно хорошо объяснила им, чтобы они поняли, что ты думаешь по этому поводу?"
