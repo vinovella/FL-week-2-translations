@@ -693,3 +693,11 @@ translate russian strings:
     # game/code/d08/d08s12.rpy:389
     old "It is your turn now"
     new "Теперь твоя очередь"
+    
+#################################################################
+
+# game/code/d08/d08s12.rpy:121
+translate russian d08s12_8ad73aa8:
+
+    # mc "Wow! Someone is already excited!"
+    mc "Вау! Кто-то уже вышел!"
