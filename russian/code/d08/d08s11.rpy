@@ -779,3 +779,29 @@ translate russian d08s11_802969c8:
 
     # op "Oh... okay..."
     op "... Ладно..."
+
+#################################################################
+
+# game/code/d08/d08s11.rpy:48
+translate russian d08s11_208eee58:
+
+    # mh "Mr. Melville, are you familiar with the term Homo sapiens?"
+    mh "Мистер Мелвилл, вы знакомы с термином Хомо Сапиенс?"
+
+# game/code/d08/d08s11.rpy:54
+translate russian d08s11_331e7425:
+
+    # mh "Would you consider the quote \"unholy offspring of a bear, a goat, three wolves, and a tiger as part of a satanic orgy\" unquote to be a Homo sapiens?"
+    mh "Не считаете ли вы, цитирую: \"Нечестивое потомство медведя, козы, трех волков и тигра родившееся в результате сатанинской оргии\" Хомо Сапиенсом?"
+
+# game/code/d08/d08s11.rpy:64
+translate russian d08s11_d5536153:
+
+    # mh "Are you, yourself, a Homo sapiens?"
+    mh "А вы сами - Хомо Сапиенс?"
+
+# game/code/d08/d08s11.rpy:134
+translate russian d08s11_82fa1be9:
+
+    # mh "When was the last time you fellated baby cows while tap dancing and wearing lederhosen?"
+    mh "Когда вы в последний раз совершали феляцию в отношении телят, танцуя чечетку и надев ледерхозе?"
