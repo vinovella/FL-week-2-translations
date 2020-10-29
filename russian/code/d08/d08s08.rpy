@@ -468,3 +468,16 @@ translate russian d08s08_2fff4bf6:
     # mc "Take it easy, and hey...{w} Thanks for trying."
     mc "Успокойся, и эй... {w}Спасибо за попытку."
 
+################################################################################
+
+# game/code/d08/d08s08.rpy:70
+translate russian d08s08_faa87c46:
+
+    # mc "And my chair doesn't spin! So I had to use yours..."
+    mc "А мой стул не вращается! Так что мне пришлось воспользоваться твоим..."
+
+# game/code/d08/d08s08.rpy:147
+translate russian d08s08_75967bc9:
+
+    # mc "No, no. You know the expression...{w} never mind."
+    mc "Нет-нет. Ты же знаешь это выражение... {w}Ладно, неважно."
