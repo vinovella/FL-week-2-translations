@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-11-01 14:23
+﻿# TODO: Translation updated at 2020-11-01 14:31
 
 # game/code/data/extended/labels.rpy:2
 translate spanish extended_game_over_5d5a9fa8:

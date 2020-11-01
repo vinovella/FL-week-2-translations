@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-11-01 14:23
+﻿# TODO: Translation updated at 2020-11-01 14:31
 
 # game/code/labels.rpy:37
 translate spanish end_of_week_302f1a70:
