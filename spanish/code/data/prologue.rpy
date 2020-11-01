@@ -4,91 +4,91 @@ translate spanish strings:
 
     # game/code/data/prologue.rpy:16
     old "Scintillating Stacy"
-    new "Scintillating Stacy"
+    new "La brillante Stacy"
 
     # game/code/data/prologue.rpy:16
     old "The sister"
-    new "The sister"
+    new "La hermana menor"
 
     # game/code/data/prologue.rpy:16
     old "The close childhood friend"
-    new "The close childhood friend"
+    new "La amiga íntima de la infancia"
 
     # game/code/data/prologue.rpy:16
     old "Playful Polly"
-    new "Playful Polly"
+    new "La juguetona Polly"
 
     # game/code/data/prologue.rpy:16
     old "The pink-haired pansexual exhibitionist"
-    new "The pink-haired pansexual exhibitionist"
+    new "La exhibicionista pansexual de pelo rosado"
 
     # game/code/data/prologue.rpy:16
     old "Voluptuous Vanessa"
-    new "Voluptuous Vanessa"
+    new "La Voluptuosa Vanessa"
 
     # game/code/data/prologue.rpy:16
     old "The M.I.L.F."
-    new "The M.I.L.F."
+    new "La MILF"
 
     # game/code/data/prologue.rpy:16
     old "Charming Chloe"
-    new "Charming Chloe"
+    new "La Encantadora Chloe"
 
     # game/code/data/prologue.rpy:16
     old "The village bicycle"
-    new "The village bicycle"
+    new "La bicicleta del pueblo"
 
     # game/code/data/prologue.rpy:16
     old "Jovial Jessie"
-    new "Jovial Jessie"
+    new "La jovial Jessie"
 
     # game/code/data/prologue.rpy:16
     old "The cosplayer extraordinaire"
-    new "The cosplayer extraordinaire"
+    new "Una cosplayer extraordinaria"
 
     # game/code/data/prologue.rpy:16
     old "Magnificent Min"
-    new "Magnificent Min"
+    new "La magnífica Min"
 
     # game/code/data/prologue.rpy:16
     old "Obsessed with winning & watersports"
-    new "Obsessed with winning & watersports"
+    new "Obsesionado con ganar y los deportes acuáticos"
 
     # game/code/data/prologue.rpy:16
     old "Lovely Lyssa"
-    new "Lovely Lyssa"
+    new "La encantadora Lyssa"
 
     # game/code/data/prologue.rpy:16
     old "The sexy lawyer with a secret surprise"
-    new "The sexy lawyer with a secret surprise"
+    new "La sexy abogada con una sorpresa secreta"
 
     # game/code/data/prologue.rpy:16
     old "Maidenly Maria"
-    new "Maidenly Maria"
+    new "La doncella María"
 
     # game/code/data/prologue.rpy:16
     old "The creep stalker lesbian"
-    new "The creep stalker lesbian"
+    new "La espeluznante lesbiana acosadora"
 
     # game/code/data/prologue.rpy:16
     old "Delicious Daisy"
-    new "Delicious Daisy"
+    new "La deliciosa Daisy"
 
     # game/code/data/prologue.rpy:16
     old "The submissive free spirit"
-    new "The submissive free spirit"
+    new "La espíritu libre y sumisa"
 
     # game/code/data/prologue.rpy:16
     old "Dazzling Dahlia"
-    new "Dazzling Dahlia"
+    new "La deslumbrante Dahlia"
 
     # game/code/data/prologue.rpy:16
     old "The dominatrix"
-    new "The dominatrix"
+    new "La dominatrix"
 
     # game/code/data/prologue.rpy:34
     old "Cumshot"
-    new "Cumshot"
+    new "Corrida"
 
     # game/code/data/prologue.rpy:34
     old "Creampie"
@@ -100,15 +100,15 @@ translate spanish strings:
 
     # game/code/data/prologue.rpy:34
     old "Watersports"
-    new "Watersports"
+    new "Deportes Acuáticos"
 
     # game/code/data/prologue.rpy:34
     old "Footfetish"
-    new "Footfetish"
+    new "Fetiche de Pies"
 
     # game/code/data/prologue.rpy:34
     old "Anal play"
-    new "Anal play"
+    new "Placer Anal"
 
     # game/code/data/prologue.rpy:34
     old "Pegging"
