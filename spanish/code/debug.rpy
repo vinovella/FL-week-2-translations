@@ -1,0 +1,8 @@
+﻿# TODO: Translation updated at 2020-11-01 14:23
+
+translate spanish strings:
+
+    # game/code/debug.rpy:31
+    old "%Y%m%d_%H%M%S"
+    new "%Y%m%d_%H%M%S"
+
