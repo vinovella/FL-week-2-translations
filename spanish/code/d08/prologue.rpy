@@ -33,7 +33,7 @@ translate spanish prologue_fresh_start_56a763ee:
 translate spanish prologue_fresh_start_b5c6b797:
 
     # "Here's your girlfriend Lydia and your friend Amber-Rose.\nLydia is calm, romantic and sweet as much as Amber-Rose is feisty and passionate.\nLet's get to know them better!"
-    "Aquí están tu novia Lydia y tu amiga Amber-Rose. Lydia es tranquila, romántica y dulce tanto como Amber-Rose es luchadora y apasionada.\n¡Conozcámoslas mejor!"
+    "Aquí están tu novia Lydia y tu amiga Amber-Rose.\nLydia es tranquila, romántica y dulce tanto como Amber-Rose es luchadora y apasionada.\n¡Conozcámoslas mejor!"
 
 # game/code/d08/prologue.rpy:80
 translate spanish prologue_fresh_start_cbd04ca6:
@@ -93,7 +93,7 @@ translate spanish prologue_girls_set_3_done_7582b991:
 translate spanish prologue_fetishes_4cc3c0e4:
 
     # "And now it's time to choose your fetishes.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many fetishes as you want and press \"Done\"."
-    "Y ahora es el momento de elegir tus fetiches.\nNo te preocupes si tu perversión favorita no está en la lista: ¡Fetish Locator acaba de empezar! Escoge tantos fetiches como quieras y pulsa \"Hecho\"."
+    "Y ahora es el momento de elegir tus fetiches.\nNo te preocupes si tu perversión favorita no está en la lista: ¡Fetish Locator acaba de empezar!\nEscoge tantos fetiches como quieras y pulsa \"Hecho\"."
 
 # game/code/d08/prologue.rpy:183
 translate spanish prologue_finalize_b8dc714d:
