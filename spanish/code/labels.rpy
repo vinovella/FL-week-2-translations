@@ -4,7 +4,7 @@
 translate spanish end_of_week_302f1a70:
 
     # "Your first week on {i}Fetish Locator{/i} ends here.{w}\nSave now to be able to start day 8 without losing all your progress.{w}\nIf you are playing several paths create separate saves and give them different names."
-    "Tu primera semana en {i}Fetish Locator{/i} termina aquí. {w}\nguarda ahora para poder empezar el día 8 sin perder todo tu progreso.{w}\nSi estás jugando en varias rutas, cree guardados separados y dale diferentes nombres."
+    "Tu primera semana en {i}Fetish Locator{/i} termina aquí.{w}\nguarda ahora para poder empezar el día 8 sin perder todo tu progreso.{w}\nSi estás jugando en varias rutas, cree guardados separados y dale diferentes nombres."
 
 # game/code/labels.rpy:38
 translate spanish end_of_week_f457ab7a:
@@ -28,7 +28,7 @@ translate spanish failed_mp_cd72322d:
 translate spanish failed_mp_d50e830d:
 
     # "On most devices you can set the permissions on the setting tab:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nFor any issue, please contact us on {a=https://www.patreon.com/fetishlocator}Patreon{/a} or on {a=https://discord.gg/b6CNu2C}Discord{/a}."
-    "En la mayoría de los dispositivos puedes establecer los permisos en la pestaña de configuración:\nconfiguración -> Aplicaciones -> Fetish Locator -> Permisos -> Almacenamiento.\NPara cualquier asunto, por favor contáctanos en {a=https://www.patreon.com/fetishlocator}Patreon{/a} o en {a=https://discord.gg/b6CNu2C}Discord{/a}."
+    "En la mayoría de los dispositivos puedes establecer los permisos en la pestaña de configuración:\nconfiguración -> Aplicaciones -> Fetish Locator -> Permisos -> Almacenamiento.\nPara cualquier asunto, por favor contáctanos en {a=https://www.patreon.com/fetishlocator}Patreon{/a} o en {a=https://discord.gg/b6CNu2C}Discord{/a}."
 
 # game/code/labels.rpy:55
 translate spanish game_over_dbc7b4ac:
