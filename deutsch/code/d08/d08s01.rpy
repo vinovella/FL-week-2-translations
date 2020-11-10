@@ -436,3 +436,77 @@ translate deutsch strings:
     old "Let Stacy bathe with you"
     new "Let Stacy bathe with you"
 
+# TODO: Translation updated at 2020-11-10 12:16
+
+# game/code/d08/d08s01.rpy:36
+translate deutsch d08s01_b602ab1e:
+
+    # arj "Stacy."
+    arj "Stacy."
+
+# game/code/d08/d08s01.rpy:41
+translate deutsch d08s01_7e8e1557:
+
+    # arj "I was trying to sneak out of bed and spend a little alone time with you, but your friend is awake."
+    arj "I was trying to sneak out of bed and spend a little alone time with you, but your friend is awake."
+
+# game/code/d08/d08s01.rpy:58
+translate deutsch d08s01_5ef05107:
+
+    # arj "You might want to get a shower before Stacy and I use up all the hot water."
+    arj "You might want to get a shower before Stacy and I use up all the hot water."
+
+# game/code/d08/d08s01.rpy:82
+translate deutsch replay_d08s01_8a7eb859:
+
+    # mct "Speak of the devil and she shall appear."
+    mct "Speak of the devil and she shall appear."
+
+# game/code/d08/d08s01.rpy:85
+translate deutsch replay_d08s01_f74029b7:
+
+    # sy "Oops! Sorry."
+    sy "Oops! Sorry."
+
+# game/code/d08/d08s01.rpy:96
+translate deutsch replay_d08s01_5aa5acd8:
+
+    # mct "She is doing it again!"
+    mct "She is doing it again!"
+
+# game/code/d08/d08s01.rpy:99
+translate deutsch replay_d08s01_68bbf00d:
+
+    # mct "But this is not back home! AmRose is in the other room!"
+    mct "But this is not back home! AmRose is in the other room!"
+
+# game/code/d08/d08s01.rpy:101
+translate deutsch replay_d08s01_11d1e060:
+
+    # mct "But this is too risky! AmRose is in the other room!"
+    mct "But this is too risky! AmRose is in the other room!"
+
+# game/code/d08/d08s01.rpy:106
+translate deutsch replay_d08s01_96d7486d:
+
+    # mc "No, no! Wait your turn. I'll be quick."
+    mc "No, no! Wait your turn. I'll be quick."
+
+# game/code/d08/d08s01.rpy:118
+translate deutsch d08s01_solo_7c561514:
+
+    # mct "This is for the best."
+    mct "This is for the best."
+
+# game/code/d08/d08s01.rpy:196
+translate deutsch d08s01_bathe_3dc90035:
+
+    # mct "Oh! She is squeezing my balls!"
+    mct "Oh! She is squeezing my balls!"
+
+# game/code/d08/d08s01.rpy:198
+translate deutsch d08s01_bathe_b4583873:
+
+    # sy "You want AmRose to be happy... {w}and so do I."
+    sy "You want AmRose to be happy... {w}and so do I."
+

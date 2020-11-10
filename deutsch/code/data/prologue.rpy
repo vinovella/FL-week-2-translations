@@ -110,3 +110,15 @@ translate deutsch strings:
     old "Scat"
     new "Scat"
 
+# TODO: Translation updated at 2020-11-10 12:16
+
+translate deutsch strings:
+
+    # game/code/data/prologue.rpy:16
+    old "The sister"
+    new "The sister"
+
+    # game/code/data/prologue.rpy:16
+    old "The close childhood friend"
+    new "The close childhood friend"
+

@@ -714,3 +714,41 @@ translate deutsch d08s02_41414d8e:
     # arj "I'll see you at class."
     arj "I'll see you at class."
 
+# TODO: Translation updated at 2020-11-10 12:16
+
+# game/code/d08/d08s02.rpy:7
+translate deutsch d08s02_7ed15712:
+
+    # arj "I dunno. I always thought the perfect amount makes it look natural."
+    arj "I dunno. I always thought the perfect amount makes it look natural."
+
+# game/code/d08/d08s02.rpy:8
+translate deutsch d08s02_38ca337f:
+
+    # sy "Yeah, but the Kardashians are unrecognizable without a thick layer..."
+    sy "Yeah, but the Kardashians are unrecognizable without a thick layer..."
+
+# game/code/d08/d08s02.rpy:46
+translate deutsch d08s02_5d256f52:
+
+    # arj "Stacy - the porn archaeologist. I'm impressed."
+    arj "Stacy - the porn archaeologist. I'm impressed."
+
+# game/code/d08/d08s02.rpy:61
+translate deutsch d08s02_e57e7d5e:
+
+    # mct "Aha... Sure. Not Familiar!"
+    mct "Aha... Sure. Not Familiar!"
+
+# game/code/d08/d08s02.rpy:209
+translate deutsch d08s02_589db33a:
+
+    # mc "Good thinking. I need to swing by my dorm and get changed."
+    mc "Good thinking. I need to swing by my dorm and get changed."
+
+# game/code/d08/d08s02.rpy:210
+translate deutsch d08s02_d4dcfd6e:
+
+    # arj "I'll see you in class."
+    arj "I'll see you in class."
+

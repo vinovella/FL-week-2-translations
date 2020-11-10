@@ -137,3 +137,11 @@ translate deutsch buzz_4377a2f7:
     # "Bzzzzz" with hpunch
     "Bzzzzz" with hpunch
 
+# TODO: Translation updated at 2020-11-10 12:16
+
+# game/code/labels.rpy:75
+translate deutsch end_2056bcfe:
+
+    # "Special thanks to: Theo Malt, scrumbles, Simfer, owlkc, JEFF72, FlashNewton, Wycd.Wsyd, Da Sechs, Bittersweet1987"
+    "Special thanks to: Theo Malt, scrumbles, Simfer, owlkc, JEFF72, FlashNewton, Wycd.Wsyd, Da Sechs, Bittersweet1987"
+

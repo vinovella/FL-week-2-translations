@@ -176,3 +176,35 @@ translate deutsch strings:
     old "Her firm ass"
     new "Her firm ass"
 
+# TODO: Translation updated at 2020-11-10 12:16
+
+# game/code/d08/prologue.rpy:114
+translate deutsch prologue_girls_set_1_3502c4fc:
+
+    # "In the first week you met several beautiful girls: some can be friends with benefits or even potential love interests.\n\nClick on their portraits to select them. When finished press \"Done\"."
+    "In the first week you met several beautiful girls: some can be friends with benefits or even potential love interests.\n\nClick on their portraits to select them. When finished press \"Done\"."
+
+# game/code/d08/prologue.rpy:132
+translate deutsch prologue_girls_set_2_cd61a75b:
+
+    # "More girls for you! But you cannot choose all of them.\nSelect one or two girls, then press \"Done\".\n\nPS: read their description carefully ;)"
+    "More girls for you! But you cannot choose all of them.\nSelect one or two girls, then press \"Done\".\n\nPS: read their description carefully ;)"
+
+# game/code/d08/prologue.rpy:139
+translate deutsch prologue_girls_set_2_done_61fc0900:
+
+    # "We see you chose the beautiful Melissa \"Lyssa\" Harris.\nHow do you behave toward her?"
+    "We see you chose the beautiful Melissa \"Lyssa\" Harris.\nHow do you behave toward her?"
+
+# game/code/d08/prologue.rpy:154
+translate deutsch prologue_girls_set_3_746b6a7f:
+
+    # "Last pair: do you prefer a top or a bottom? (Or neither, if they aren't your cup of tea)\nSelect up to one girl and press \"Done\"."
+    "Last pair: do you prefer a top or a bottom? (Or neither, if they aren't your cup of tea)\nSelect up to one girl and press \"Done\"."
+
+# game/code/d08/prologue.rpy:175
+translate deutsch prologue_fetishes_4cc3c0e4:
+
+    # "And now it's time to choose your fetishes.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many fetishes as you want and press \"Done\"."
+    "And now it's time to choose your fetishes.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many fetishes as you want and press \"Done\"."
+
