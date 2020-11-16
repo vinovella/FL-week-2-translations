@@ -94,7 +94,7 @@ translate deutsch d08s01_1a71f71e:
 translate deutsch d08s01_0370dbe7:
 
     # arj "You might want to get a shower before your sister and I use up all the hot water."
-    arj "You might want to get a shower before your sister and I use up all the hot water."
+    arj "Du solltest vielleicht duschen gehen bevor deine Schwester und ich das ganze heiße Wasser aufbrauchen."
 
 # game/code/d08/d08s01.rpy:50
 translate deutsch d08s01_fafbfb54:
