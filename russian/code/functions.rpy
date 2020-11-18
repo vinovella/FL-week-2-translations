@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-08-05 20:12
+﻿# TODO: Translation updated at 2020-11-04 21:11
 
 translate russian strings:
 
@@ -21,3 +21,4 @@ translate russian strings:
     # game/code/functions.rpy:124
     old "The game will try to replay the scene\naccording to your current playthrough"
     new "Повтор будет воспроизведен как в вашем последнем прохождении"
+

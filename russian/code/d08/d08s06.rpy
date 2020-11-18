@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-08-05 20:12
+﻿# TODO: Translation updated at 2020-11-04 21:11
 
 # game/code/d08/d08s06.rpy:9
 translate russian d08s06_026f7b87:
@@ -433,16 +433,16 @@ translate russian d08s06_09518e22:
     mc "Мне просто нужно знать, как найти ее комнату."
 
 # game/code/d08/d08s06.rpy:131
-translate russian d08s06_206bd4ad:
+translate russian d08s06_0be38e4b:
 
-    # sa "Didn't you said you are friends?"
-    sa "Разве вы не сказали, что вы её друзья?"
+    # sa "Didn't you say that you are friends?"
+    sa "Разве вы не говорили, что вы её друзья?"
 
 # game/code/d08/d08s06.rpy:132
 translate russian d08s06_1d0397f7:
 
     # mc "We are. Just not that close. Yet."
-    mc "Так и есть. Только не такие близкие. Еще..."
+    mc "Так и есть. Только ненастолько близкие. Еще..."
 
 # game/code/d08/d08s06.rpy:139
 translate russian d08s06_5f5f8b96:
@@ -456,22 +456,15 @@ translate russian d08s06_c7b3473a:
     # mc "Thanks! We'll try to figure out what's going on with her family for you."
     mc "Спасибо! Мы попытаемся выяснить, что происходит с ее семьей для тебя."
 
-# game/code/d08/d08s06.rpy:158
+# game/code/d08/d08s06.rpy:159
 translate russian d08s06_13b6ff08:
 
     # mc "Alright. Well, let's get back to our campus."
     mc "Хорошо. Что ж, давай вернемся в наш кампус."
 
-# game/code/d08/d08s06.rpy:159
+# game/code/d08/d08s06.rpy:160
 translate russian d08s06_ca44a1f9:
 
     # sy "Oh yeah, your lunch \"date\"."
     sy "Ах, да. Твое \"свидание\" за ланчем."
 
-# TODO: Translation updated at 2020-09-30 18:34
-
-# game/code/d08/d08s06.rpy:131
-translate russian d08s06_0be38e4b:
-
-    # sa "Didn't you say that you are friends?"
-    sa "Разве вы не говорили, что вы её друзья?"

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-08-05 20:12
+﻿# TODO: Translation updated at 2020-11-04 21:11
 
 # game/code/labels.rpy:37
 translate russian end_of_week_302f1a70:

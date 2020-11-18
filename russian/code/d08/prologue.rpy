@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-08-05 20:12
+﻿# TODO: Translation updated at 2020-11-04 21:11
 
 # game/code/d08/prologue.rpy:57
 translate russian prologue_fresh_start_4063ae17:
@@ -54,49 +54,49 @@ translate russian prologue_fresh_start_36fcdd97:
     # "At the end of the first week your relationship with AmRose took an unexpected turn and now she is:"
     "В конце первой недели твои отношения с АмРоуз приняли неожиданный оборот и теперь она:"
 
-# game/code/d08/prologue.rpy:118
-translate russian prologue_girls_set_1_30dd9679:
+# game/code/d08/prologue.rpy:114
+translate russian prologue_girls_set_1_3502c4fc:
 
-    # "In the first week the main character met several beautiful girls: some can be friends with benefits or even potential love interests.\n\nClick on their portraits to select them. When finished select Done."
-    "В первую неделю главный герой познакомился с несколькими красивыми девушками: Некоторые из них могут быть друзьями с выгодой или даже потенциальными любовными интересами.\n\nНажми на их портреты, чтобы выбрать их. После завершения выбери \"Принять\"."
+    # "In the first week you met several beautiful girls: some can be friends with benefits or even potential love interests.\n\nClick on their portraits to select them. When finished press \"Done\"."
+    "В первую неделю ты познакомился с несколькими красивыми девушками: Некоторые из них могут быть друзьями с выгодой или даже потенциальными любовными интересами.\n\nНажми на их портреты, чтобы выбрать их. После завершения нажми \"Принять\"."
 
-# game/code/d08/prologue.rpy:121
+# game/code/d08/prologue.rpy:117
 translate russian prologue_girls_set_1_done_922f3b6c:
 
     # "Stacy is going to move to your college and you have found a nice apartment for her. The owner is Lyssa (you are going to meet her next).\n\nWhat do you propose to her?"
     "Стейси собирается приехать учится в твой колледж, а ты нашел для нее хорошую квартиру. Владелец - Лисса (ты встретишься с ней в следующий раз).\n\nЧто ты ей предложил?"
 
-# game/code/d08/prologue.rpy:140
-translate russian prologue_girls_set_2_60f2d9c0:
+# game/code/d08/prologue.rpy:132
+translate russian prologue_girls_set_2_cd61a75b:
 
-    # "More girls for you! But you cannot chose all of them.\nSelect up to two girls and press Done.\n\nPS: read their description carefully ;)"
-    "Больше девушек для тебя! Но ты не можешь выбрать всех.\nВыбери до двух девушек и нажми \"Принять\".\n\nPS: внимательно прочитай их описание ;)"
+    # "More girls for you! But you cannot choose all of them.\nSelect one or two girls, then press \"Done\".\n\nPS: read their description carefully ;)"
+    "Больше девушек для тебя! Но ты не можешь выбрать всех.\nВыбери одну или двух девушек и нажми \"Принять\".\n\nPS: внимательно прочитай их описание ;)"
 
-# game/code/d08/prologue.rpy:147
-translate russian prologue_girls_set_2_done_f074e097:
+# game/code/d08/prologue.rpy:139
+translate russian prologue_girls_set_2_done_61fc0900:
 
-    # "I see you choose the beautiful Melissa \"Lyssa\" Harris.\nHow do you behave toward her?"
-    "Я вижу, ты выбрал прекрасную Мелиссу \"Лиссу\" Харрис.\nКак ты ведешь себя по отношению к ней?"
+    # "We see you chose the beautiful Melissa \"Lyssa\" Harris.\nHow do you behave toward her?"
+    "Мы видим, что ты выбрал прекрасную Мелиссу \"Лиссу\" Харрис.\nКак ты ведешь себя по отношению к ней?"
 
-# game/code/d08/prologue.rpy:166
-translate russian prologue_girls_set_3_b8a39516:
+# game/code/d08/prologue.rpy:154
+translate russian prologue_girls_set_3_746b6a7f:
 
-    # "Last pair: do you prefer a top or a bottom? (Or neither, if they aren't your cup of tea)\nSelect up to one girl and press Done."
+    # "Last pair: do you prefer a top or a bottom? (Or neither, if they aren't your cup of tea)\nSelect up to one girl and press \"Done\"."
     "Последний вопрос: Ты предпочитаешь верх или низ? (Или ни то, ни другое, если это не твоя чашка чая)\nВыбери одну девушку и нажми \"Принять\"."
 
-# game/code/d08/prologue.rpy:170
+# game/code/d08/prologue.rpy:158
 translate russian prologue_girls_set_3_done_7582b991:
 
     # "Into femdom, eh?\nOK, if your Mistress ordered to adore her body right now, which part would you focus on?"
     "Женское доминирование, да?\nХорошо, если бы твоя Госпожа приказала обожать ее тело прямо сейчас, на какой части ты бы сосредоточился?"
 
-# game/code/d08/prologue.rpy:190
-translate russian prologue_fetishes_b6d29b2c:
+# game/code/d08/prologue.rpy:175
+translate russian prologue_fetishes_4cc3c0e4:
 
-    # "And now it's time to choose your fetishes.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many fetishes as you want and press Done."
-    "А теперь пришло время выбирать себе фетиши.\nНе волнуйся, если твой любимый фетиш не указан: Фетиш Локатор только начался!"
+    # "And now it's time to choose your fetishes.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many fetishes as you want and press \"Done\"."
+    "А теперь пришло время выбирать себе фетиши.\nНе волнуйся, если твой любимый фетиш не указан: Фетиш Локатор только начался!\nВыбери столько фетишей, сколько захочешь, и нажми кнопку \"Принять\"."
 
-# game/code/d08/prologue.rpy:198
+# game/code/d08/prologue.rpy:183
 translate russian prologue_finalize_b8dc714d:
 
     # "Great! You're now ready to begin your second week playing Fetish Locator!"
@@ -156,62 +156,31 @@ translate russian strings:
     old "Your sexual slave"
     new "Твоя сексуальная рабыня"
 
-    # game/code/d08/prologue.rpy:122
+    # game/code/d08/prologue.rpy:118
     old "You co-sign the contract, share the expenses, and live there in autumn (after Stacy moves to a dorm)"
     new "Ты подписываешь контракт, разделяешь расходы и живешь там осенью (после того, как Стейси переезжает в общежитие)"
 
-    # game/code/d08/prologue.rpy:122
+    # game/code/d08/prologue.rpy:118
     old "You convince Lyssa to give Stacy a lower rate as a form of advertising"
     new "Ты убеждаешь Лиссу дать Стейси более низкую цену в качестве рекламы"
 
-    # game/code/d08/prologue.rpy:148
+    # game/code/d08/prologue.rpy:140
     old "I am a gentleman (tips fedora)"
     new "Я джентльмен"
 
-    # game/code/d08/prologue.rpy:148
+    # game/code/d08/prologue.rpy:140
     old "I want to dominate her"
     new "Я хочу доминировать над ней"
 
-    # game/code/d08/prologue.rpy:171
+    # game/code/d08/prologue.rpy:159
     old "Her lovely tits"
     new "Ее прекрасные сиськи"
 
-    # game/code/d08/prologue.rpy:171
+    # game/code/d08/prologue.rpy:159
     old "Her delicate pussy"
     new "Ее нежная киска"
 
-    # game/code/d08/prologue.rpy:171
+    # game/code/d08/prologue.rpy:159
     old "Her firm ass"
     new "Ее упругая попка"
 
-# TODO: Translation updated at 2020-09-30 18:34
-
-# game/code/d08/prologue.rpy:114
-translate russian prologue_girls_set_1_3502c4fc:
-
-    # "In the first week you met several beautiful girls: some can be friends with benefits or even potential love interests.\n\nClick on their portraits to select them. When finished press \"Done\"."
-    "В первую неделю ты познакомился с несколькими красивыми девушками: Некоторые из них могут быть друзьями с выгодой или даже потенциальными любовными интересами.\n\nНажми на их портреты, чтобы выбрать их. После завершения выбери \"Принять\"."
-
-# game/code/d08/prologue.rpy:132
-translate russian prologue_girls_set_2_cd61a75b:
-
-    # "More girls for you! But you cannot choose all of them.\nSelect one or two girls, then press \"Done\".\n\nPS: read their description carefully ;)"
-    "Больше девушек для тебя! Но ты не можешь выбрать всех.\nВыбери одну или двух девушек и нажми \"Принять\".\n\nPS: внимательно прочитай их описание ;)"
-
-# game/code/d08/prologue.rpy:139
-translate russian prologue_girls_set_2_done_61fc0900:
-
-    # "We see you chose the beautiful Melissa \"Lyssa\" Harris.\nHow do you behave toward her?"
-    "Я вижу, ты выбрал прекрасную Мелиссу \"Лиссу\" Харрис.\nКак ты ведешь себя по отношению к ней?"
-
-# game/code/d08/prologue.rpy:154
-translate russian prologue_girls_set_3_746b6a7f:
-
-    # "Last pair: do you prefer a top or a bottom? (Or neither, if they aren't your cup of tea)\nSelect up to one girl and press \"Done\"."
-    "Последний вопрос: Ты предпочитаешь верх или низ? (Или ни то, ни другое, если это не твоя чашка чая)\nВыбери одну девушку и нажми \"Принять\"."
-
-# game/code/d08/prologue.rpy:175
-translate russian prologue_fetishes_4cc3c0e4:
-
-    # "And now it's time to choose your fetishes.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many fetishes as you want and press \"Done\"."
-    "А теперь пришло время выбирать себе фетиши.\nНе волнуйся, если твой любимый фетиш не указан: Фетиш Локатор только начался!\nВыбери все которые тебе повкусу и нажми \"Готово\"."

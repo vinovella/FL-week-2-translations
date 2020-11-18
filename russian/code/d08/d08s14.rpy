@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2020-09-30 18:34
+﻿# TODO: Translation updated at 2020-11-04 21:11
 
 # game/code/d08/d08s14.rpy:4
 translate russian d08s14_2bbdcd9b:
@@ -600,779 +600,773 @@ translate russian d08s14_d1adc5db:
     # mc "Yes, it would bother me..."
     mc "Да, это будет беспокоить меня..."
 
-# game/code/d08/d08s14.rpy:167
+# game/code/d08/d08s14.rpy:168
 translate russian d08s14_fdf5e0a2:
 
     # mc "... but not for the reasons you're thinking of. I'm just not sure it's safe."
     mc "... но не по тем причинам, о которых ты думаешь. Я просто не уверен, что это безопасно."
 
-# game/code/d08/d08s14.rpy:168
+# game/code/d08/d08s14.rpy:169
 translate russian d08s14_4871923e:
 
     # lc "What do you mean?"
     lc "Что ты имеешь в виду?"
 
-# game/code/d08/d08s14.rpy:169
+# game/code/d08/d08s14.rpy:170
 translate russian d08s14_813903a4:
 
     # mc "I don't know. I just get that feeling."
     mc "Я не знаю. Просто у меня такое чувство."
 
-# game/code/d08/d08s14.rpy:171
+# game/code/d08/d08s14.rpy:172
 translate russian d08s14_f8edf044:
 
     # lc "But you played that game to get to the Party?"
     lc "Но ты же играл в эту игру, чтобы попасть на вечеринку?"
 
-# game/code/d08/d08s14.rpy:172
+# game/code/d08/d08s14.rpy:173
 translate russian d08s14_d607285a:
 
     # mc "Yes, but...{w} well, some friends of mine said you would be there."
     mc "Да, но... {w}ну, кое-кто из моих друзей сказал, что ты будешь там."
 
-# game/code/d08/d08s14.rpy:173
+# game/code/d08/d08s14.rpy:174
 translate russian d08s14_afbdb479:
 
     # lc "And you've played that game after the Party? Please, be honest with me."
     lc "А ты играл в эту игру после вечеринки? Пожалуйста, будь честен со мной."
 
-# game/code/d08/d08s14.rpy:175
+# game/code/d08/d08s14.rpy:176
 translate russian d08s14_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/code/d08/d08s14.rpy:177
+# game/code/d08/d08s14.rpy:178
 translate russian d08s14_9d6c41d4:
 
     # mc "Yes.{w} Do you hate me?"
     mc "Да. {w}Ты меня ненавидишь?"
 
-# game/code/d08/d08s14.rpy:179
+# game/code/d08/d08s14.rpy:180
 translate russian d08s14_8e1e0071:
 
     # lc "No! That's what I'm saying. I want you to tell me about that side of your life like you would anything else."
     lc "Нет! Об этом я и говорила. Я хочу, чтобы ты рассказывал мне об этой стороне своей жизни, как и обо всем остальном."
 
-# game/code/d08/d08s14.rpy:181
+# game/code/d08/d08s14.rpy:182
 translate russian d08s14_873c76f5:
 
     # mc "This is weird...{w} Is this some sort of test or a trap or something?"
     mc "Это странно... {w}Это что, испытание, ловушка или что-то в этом роде?"
 
-# game/code/d08/d08s14.rpy:183
+# game/code/d08/d08s14.rpy:184
 translate russian d08s14_816ea7d3:
 
     # mct "Crap! Did I say that out loud?"
     mct "Вот дерьмо! Неужели я сказал это вслух?"
 
-# game/code/d08/d08s14.rpy:185
+# game/code/d08/d08s14.rpy:186
 translate russian d08s14_d7bc24e6:
 
     # lc "I just want us to be honest with each other. I don't want you to feel like you need to hide things from me, or run around behind my back."
     lc "Я просто хочу, чтобы мы были честны друг с другом. Я не хочу, чтобы ты чувствовал, что тебе нужно что-то скрывать от меня или делать это за моей спиной."
 
-# game/code/d08/d08s14.rpy:187
+# game/code/d08/d08s14.rpy:188
 translate russian d08s14_26d6403b:
 
     # mct "Yep, I had said that out loud."
     mct "Да, я сказал это вслух."
 
-# game/code/d08/d08s14.rpy:189
+# game/code/d08/d08s14.rpy:190
 translate russian d08s14_085cda0d:
 
     # mc "Okay, okay... just give me a minute."
     mc "Ладно, ладно... дай мне минутку."
 
-# game/code/d08/d08s14.rpy:191
+# game/code/d08/d08s14.rpy:192
 translate russian d08s14_4e48c7a2:
 
     # lc "Let's just start with something easy. Tell me something that you did to earn points in that app."
     lc "Давай начнем с чего-нибудь легкого. Расскажи мне хоть что-нибудь, что ты делал, чтобы заработать очки в этом приложении."
 
-# game/code/d08/d08s14.rpy:192
+# game/code/d08/d08s14.rpy:193
 translate russian d08s14_cd60b427:
 
     # mc "Anything?"
     mc "Хоть что-нибудь?"
 
-# game/code/d08/d08s14.rpy:193
+# game/code/d08/d08s14.rpy:194
 translate russian d08s14_d54f21f4:
 
     # lc "Whatever comes to mind."
     lc "Любое, что придет в голову."
 
-# game/code/d08/d08s14.rpy:195
+# game/code/d08/d08s14.rpy:196
 translate russian d08s14_5e29bc93:
 
     # lc "Or maybe you can tell me about one of the events you participated in during that Party last week."
     lc "Или, может быть, расскажешь мне об одном из событий, в которых ты участвовал во время той вечеринки на прошлой неделе."
 
-# game/code/d08/d08s14.rpy:197
+# game/code/d08/d08s14.rpy:198
 translate russian d08s14_b3494483:
 
     # mct "Hmmm..."
     mct "Хммм..."
 
-# game/code/d08/d08s14.rpy:198
+# game/code/d08/d08s14.rpy:199
 translate russian d08s14_e888fdd1:
 
     # mct "Something small to test her reaction..."
     mct "Что-нибудь незначительное, чтобы проверить ее реакцию..."
 
-# game/code/d08/d08s14.rpy:200
+# game/code/d08/d08s14.rpy:201
 translate russian d08s14_41f14e35:
 
     # mc "Alright, so last week, there was a Fetish Locator cum challenge."
     mc "Ладно, на прошлой неделе, было задание Фетиш Локатора по сперме."
 
-# game/code/d08/d08s14.rpy:201
+# game/code/d08/d08s14.rpy:202
 translate russian d08s14_d63a9907:
 
     # lc "A cum challenge? Like, you had to make someone else cum?"
     lc "Задание по сперме? Типа, тебе пришлось помочь кому-то кончить?"
 
-# game/code/d08/d08s14.rpy:202
+# game/code/d08/d08s14.rpy:203
 translate russian d08s14_cf9df8c9:
 
     # mc "No... well, if you were a girl, I guess. But it was just about taking pictures of male spoo."
     mc "Нет... ну, это пришлось бы делать девушкам, я думаю. Но речь шла только о том, чтобы сфотографировать мужскую сперму."
 
-# game/code/d08/d08s14.rpy:203
+# game/code/d08/d08s14.rpy:204
 translate russian d08s14_457f534c:
 
     # lc "Oh, ew, but okay."
     lc "Ох, фу, но ладно, продолжай."
 
-# game/code/d08/d08s14.rpy:204
+# game/code/d08/d08s14.rpy:205
 translate russian d08s14_24e7c60c:
 
     # mc "Like this one girl that I know... she gave head to a guy and had him cum on her so she could take a picture of it."
     mc "Одна девушка, которую я знаю... подставила свою грудь парню и попросила его кончить на нее, чтобы она могла сфотографировать это."
 
-# game/code/d08/d08s14.rpy:206
+# game/code/d08/d08s14.rpy:207
 translate russian d08s14_500dc95c:
 
     # lc "She told you that?"
     lc "Она сама тебе это рассказала?"
 
-# game/code/d08/d08s14.rpy:207
+# game/code/d08/d08s14.rpy:208
 translate russian d08s14_59b8a071:
 
     # mc "No, no. I just happened to be there."
     mc "Нет, нет. Я просто случайно оказался там."
 
-# game/code/d08/d08s14.rpy:209
+# game/code/d08/d08s14.rpy:210
 translate russian d08s14_59b61d69:
 
     # lc "Were you the guy?"
     lc "Так это ты был тем парнем?"
 
-# game/code/d08/d08s14.rpy:210
+# game/code/d08/d08s14.rpy:211
 translate russian d08s14_cd8e870f:
 
     # mc "No. I was just in the room at the time."
     mc "Нет. Я был с ними в комнате в это время."
 
-# game/code/d08/d08s14.rpy:212
+# game/code/d08/d08s14.rpy:213
 translate russian d08s14_4264e0fc:
 
     # lc "Wow. That's something... so what did you do for that day?"
     lc "Вау. Это нечто... Так что ты делал в тот день?"
 
-# game/code/d08/d08s14.rpy:213
+# game/code/d08/d08s14.rpy:214
 translate russian d08s14_a3b71dbe:
 
     # mc "Me? I just jerked off."
     mc "Я? Я только подрочил."
 
-# game/code/d08/d08s14.rpy:214
+# game/code/d08/d08s14.rpy:215
 translate russian d08s14_405b0b36:
 
     # lc "That's it?"
     lc "И все?"
 
-# game/code/d08/d08s14.rpy:216
+# game/code/d08/d08s14.rpy:217
 translate russian d08s14_767041f4:
 
     # mc "Well, yeah. I was trying all day to figure out ways to score points, but didn't come up with anything."
     mc "Ну, да. Я весь день пытался придумать, как заработать очки, но ничего не придумал."
 
-# game/code/d08/d08s14.rpy:217
+# game/code/d08/d08s14.rpy:218
 translate russian d08s14_8aa12f51:
 
     # mc "Then that evening there was a blitz challenge."
     mc "Потом в тот вечер было блиц-задание."
 
-# game/code/d08/d08s14.rpy:218
+# game/code/d08/d08s14.rpy:219
 translate russian d08s14_f85dfd95:
 
     # lc "What's that?"
     lc "Что это?"
 
-# game/code/d08/d08s14.rpy:219
+# game/code/d08/d08s14.rpy:220
 translate russian d08s14_3ea7a42e:
 
     # mc "It was a timed event... everyone had 69 seconds to take a picture of some jizz."
     mc "Это было приуроченное событие... у каждого было 69 секунд, чтобы найти и сфотографировать сперму."
 
-# game/code/d08/d08s14.rpy:221
+# game/code/d08/d08s14.rpy:222
 translate russian d08s14_eb1ad691:
 
     # lc "So you just dropped trow and jerked off in 69 seconds?"
     lc "Значит, ты просто скинул штаны и дрочил 69 секунд?"
 
-# game/code/d08/d08s14.rpy:222
+# game/code/d08/d08s14.rpy:223
 translate russian d08s14_b156be0f:
 
     # mc "Kinda. I didn't cum fast enough to win the challenge."
     mc "Типа того. Но я не успел кончить достаточно быстро, чтобы выиграть соревнование."
 
-# game/code/d08/d08s14.rpy:223
+# game/code/d08/d08s14.rpy:224
 translate russian d08s14_b64fa191:
 
     # lc "But you got some points, right?"
     lc "Но ты же заработал хоть немного очков, верно?"
 
-# game/code/d08/d08s14.rpy:227
+# game/code/d08/d08s14.rpy:228
 translate russian d08s14_4984e080:
 
     # mc "No... I couldn't think of anything to get hard."
     mc "Нет... Я не смог придумать ничего возбуждающего."
 
-# game/code/d08/d08s14.rpy:231
+# game/code/d08/d08s14.rpy:232
 translate russian d08s14_d754e274:
 
     # mc "Yeah, I got a few points cumming on my desk."
     mc "Да, я смог заработать несколько очков кончив на свой стол."
 
-# game/code/d08/d08s14.rpy:232
+# game/code/d08/d08s14.rpy:233
 translate russian d08s14_56a345a8:
 
     # lc "On your desk?"
     lc "На свой стол?"
 
-# game/code/d08/d08s14.rpy:233
+# game/code/d08/d08s14.rpy:234
 translate russian d08s14_e5dbfb6e:
 
     # mc "I cleaned up afterwards."
     mc "Я прибрался после этого."
 
-# game/code/d08/d08s14.rpy:234
+# game/code/d08/d08s14.rpy:235
 translate russian d08s14_71898acb:
 
     # lc "What were you thinking about?"
     lc "О чем ты думал в тот момент?"
 
-# game/code/d08/d08s14.rpy:238
+# game/code/d08/d08s14.rpy:239
 translate russian d08s14_d36d79bf:
 
     # mc "Promise not to be upset with me?"
     mc "Обещаешь не обижатся?"
 
-# game/code/d08/d08s14.rpy:239
+# game/code/d08/d08s14.rpy:240
 translate russian d08s14_f87ef98f:
 
     # lc "What? Why would I be upset?"
     lc "Что? С чего бы мне обижатся?"
 
-# game/code/d08/d08s14.rpy:240
+# game/code/d08/d08s14.rpy:241
 translate russian d08s14_c533e989:
 
     # mc "Well... I was thinking about you."
     mc "Ну... Я думал о тебе."
 
-# game/code/d08/d08s14.rpy:242
+# game/code/d08/d08s14.rpy:243
 translate russian d08s14_452e51d3:
 
     # lc "You didn't even know me yet!"
     lc "Ты даже не знал меня!"
 
-# game/code/d08/d08s14.rpy:243
+# game/code/d08/d08s14.rpy:244
 translate russian d08s14_b11e0ada:
 
     # mc "True, but I had seen you around campus."
     mc "Верно, но я видел тебя в кампусе."
 
-# game/code/d08/d08s14.rpy:244
+# game/code/d08/d08s14.rpy:245
 translate russian d08s14_b5b999e7:
 
     # lc "Well, I appreciate your honesty."
     lc "Что ж, я ценю твою честность."
 
-# game/code/d08/d08s14.rpy:246
+# game/code/d08/d08s14.rpy:247
 translate russian d08s14_b14815c5:
 
     # mc "I'm sorry... does that freak you out?"
     mc "Прости... тебя это напугало?"
 
-# game/code/d08/d08s14.rpy:248
+# game/code/d08/d08s14.rpy:249
 translate russian d08s14_8aecd598:
 
     # lc "No, no. I'm sure you're not the first one, but it makes me more certain that you need physical satisfaction somewhere else."
     lc "Нет, нет. Я уверена, что ты не первый, но это делает меня более уверенной, что тебе нужно физическое удовлетворение где-то в другом месте."
 
-# game/code/d08/d08s14.rpy:252
+# game/code/d08/d08s14.rpy:253
 translate russian d08s14_9fa8cf19:
 
     # mc "Earlier that day I happened to see a couple doing the challenge."
     mc "Чуть раньше в тот же день я случайно видел пару, которая выполняла это задание."
 
-# game/code/d08/d08s14.rpy:253
+# game/code/d08/d08s14.rpy:254
 translate russian d08s14_25c22dc5:
 
     # lc "You mean that girl who got cum on her tits?"
     lc "Ты имеешь в виду ту девушку, которая получила сперму на свои сиськи?"
 
-# game/code/d08/d08s14.rpy:254
+# game/code/d08/d08s14.rpy:255
 translate russian d08s14_bf84cef9:
 
     # mc "Um, no. A different couple. She gave this guy a handjob during class."
     mc "Эм, нет. Другую пару. Она подрочила своему парню во время урока."
 
-# game/code/d08/d08s14.rpy:256
+# game/code/d08/d08s14.rpy:257
 translate russian d08s14_c8d4294b:
 
     # lc "Oh, Min told me about that."
     lc "О, Мин рассказывала мне об этом."
 
-# game/code/d08/d08s14.rpy:258
+# game/code/d08/d08s14.rpy:259
 translate russian d08s14_63a46a74:
 
     # lc "Wait... you jerked off thinking about Min & Antony?"
     lc "Подожди... ты дрочил, думая о Мин и Энтони?"
 
-# game/code/d08/d08s14.rpy:260
+# game/code/d08/d08s14.rpy:261
 translate russian d08s14_4f2543b0:
 
     # mc "Not about them specifically... just about the thing they did."
     mc "Не о них конкретно... а о том, что они делали."
 
-# game/code/d08/d08s14.rpy:261
+# game/code/d08/d08s14.rpy:262
 translate russian d08s14_8f0029d8:
 
     # lc "Uh huh. Sure."
     lc "А. Конечно."
 
-# game/code/d08/d08s14.rpy:262
+# game/code/d08/d08s14.rpy:263
 translate russian d08s14_aea48dd1:
 
     # mc "You wanted to know, so I told you."
     mc "Ты хотела знать, и я тебе рассказал."
 
-# game/code/d08/d08s14.rpy:264
+# game/code/d08/d08s14.rpy:265
 translate russian d08s14_b1af4c2c:
 
     # lc "You're right. I appreciate your honesty, even if you jerk off thinking about my best friend."
     lc "Да, ты прав. Я ценю твою честность, даже если ты дрочишь, думая о моей лучшей подруге."
 
-# game/code/d08/d08s14.rpy:268
+# game/code/d08/d08s14.rpy:269
 translate russian d08s14_de7e848d:
 
     # mc "Well, I was thinking about those people I saw in the toilet earlier that day."
     mc "Ну, я думал о тех людях, которых видел в туалете тем утром."
 
-# game/code/d08/d08s14.rpy:269
+# game/code/d08/d08s14.rpy:270
 translate russian d08s14_ff765414:
 
     # lc "Who?"
     lc "Кто это?"
 
-# game/code/d08/d08s14.rpy:270
+# game/code/d08/d08s14.rpy:271
 translate russian d08s14_27bd37c8:
 
     # mc "I don't want to tell you their names."
     mc "Я не хочу называть их имена."
 
-# game/code/d08/d08s14.rpy:272
+# game/code/d08/d08s14.rpy:273
 translate russian d08s14_6aa8a93b:
 
     # lc "No, I mean, what people in the toilet?"
     lc "Нет, я хотела спросить, что они делали в туалете?"
 
-# game/code/d08/d08s14.rpy:273
+# game/code/d08/d08s14.rpy:274
 translate russian d08s14_91395c54:
 
     # mc "Oh! The blowjob that I was telling you about a minute ago."
     mc "О! Это тот самый минет, о котором я тебе рассказывал минуту назад."
 
-# game/code/d08/d08s14.rpy:274
+# game/code/d08/d08s14.rpy:275
 translate russian d08s14_8ba08faa:
 
     # lc "The one who came on her tits?"
     lc "Там где кончили ей на сиськи?"
 
-# game/code/d08/d08s14.rpy:276
+# game/code/d08/d08s14.rpy:277
 translate russian d08s14_78b77d9c:
 
     # mc "Yeah. That happened in the toilet. I was just remembering that."
     mc "Да. Это случилось в туалете. Я просто вспомнил об этом."
 
-# game/code/d08/d08s14.rpy:280
+# game/code/d08/d08s14.rpy:281
 translate russian d08s14_5c3e1aa3:
 
     # mc "Yeah, I got some points."
     mc "Да, у меня есть несколько очков."
 
-# game/code/d08/d08s14.rpy:281
+# game/code/d08/d08s14.rpy:282
 translate russian d08s14_0e3db184:
 
     # lc "So... tell me how."
     lc "Тогда... расскажи мне, как."
 
-# game/code/d08/d08s14.rpy:282
+# game/code/d08/d08s14.rpy:283
 translate russian d08s14_2987695c:
 
     # mc "Okay, but you gotta understand, I'm trusting you on this."
     mc "Хорошо, но ты должна понять, я доверяю тебе в этом."
 
-# game/code/d08/d08s14.rpy:284
+# game/code/d08/d08s14.rpy:285
 translate russian d08s14_6cd5c564:
 
     # lc "I promise not to tell anyone else about it."
     lc "Я обещаю больше никому об этом не рассказывать."
 
-# game/code/d08/d08s14.rpy:285
+# game/code/d08/d08s14.rpy:286
 translate russian d08s14_3e09330c:
 
     # mc "Not even Min?"
     mc "Даже Мин?"
 
-# game/code/d08/d08s14.rpy:287
+# game/code/d08/d08s14.rpy:288
 translate russian d08s14_4addd406:
 
     # lc "Why, does it involve Min?"
     lc "А что, это касается Мин?"
 
-# game/code/d08/d08s14.rpy:288
+# game/code/d08/d08s14.rpy:289
 translate russian d08s14_9ad619e5:
 
     # mc "No! I just know that you two tell each other everything."
     mc "Нет! Я просто знаю, что вы все друг другу рассказываете."
 
-# game/code/d08/d08s14.rpy:289
+# game/code/d08/d08s14.rpy:290
 translate russian d08s14_a7d85d7e:
 
     # lc "Okay, not even Min."
     lc "Ладно, не расскажу даже Мин."
 
-# game/code/d08/d08s14.rpy:291
+# game/code/d08/d08s14.rpy:292
 translate russian d08s14_076fc7e6:
 
     # mc "So, that evening I was hanging out with a friend of mine and watching a movie."
     mc "В тот вечер я тусовался кое с кем и мы смотрели фильм."
 
-# game/code/d08/d08s14.rpy:292
+# game/code/d08/d08s14.rpy:293
 translate russian d08s14_678b7b83:
 
     # lc "Male friend or female friend?"
     lc "Мы - это кто?"
 
-# game/code/d08/d08s14.rpy:293
+# game/code/d08/d08s14.rpy:294
 translate russian d08s14_e9708151:
 
     # mc "Female friend. It was a terrific movie, but she fell asleep anyway."
     mc "Я с подругой. Это был потрясающий фильм, но она все равно заснула."
 
-# game/code/d08/d08s14.rpy:295
+# game/code/d08/d08s14.rpy:296
 translate russian d08s14_8a81a357:
 
     # lc "Oh, really?"
     lc "Ох, правда?"
 
-# game/code/d08/d08s14.rpy:296
+# game/code/d08/d08s14.rpy:297
 translate russian d08s14_d94287a8:
 
     # mc "Yeah... why?"
     mc "Да... а что?"
 
-# game/code/d08/d08s14.rpy:297
+# game/code/d08/d08s14.rpy:298
 translate russian d08s14_005fab60:
 
     # lc "Tell you in a minute. Please continue."
     lc "Расскажу тебе через минуту. Пожалуйста, продолжай."
 
-# game/code/d08/d08s14.rpy:299
+# game/code/d08/d08s14.rpy:300
 translate russian d08s14_39cfc677:
 
     # mc "So, she was sound asleep when the blitz challenge happened."
     mc "Итак, она крепко спала, когда пришло блиц-задание."
 
-# game/code/d08/d08s14.rpy:300
+# game/code/d08/d08s14.rpy:301
 translate russian d08s14_56753b50:
 
     # mc "Ugh, I can't believe I'm telling anyone this."
     mc "Ух, не могу поверить, что я это рассказываю."
 
-# game/code/d08/d08s14.rpy:302
+# game/code/d08/d08s14.rpy:303
 translate russian d08s14_ec654f3d:
 
     # lc "You can trust me. What did you do to her?"
     lc "Ты можешь мне доверять. Что ты с ней сделал?"
 
-# game/code/d08/d08s14.rpy:303
+# game/code/d08/d08s14.rpy:304
 translate russian d08s14_a34542d9:
 
     # mc "What? Nothing. No, I just jerked off in the same room while she was sleeping."
     mc "Что? Ничего. Нет, я просто подрочил в той же комнате, пока она спала."
 
-# game/code/d08/d08s14.rpy:305
+# game/code/d08/d08s14.rpy:306
 translate russian d08s14_1a41a6fa:
 
     # lc "You didn't fuck her mouth or use her hand to jerk you off or anything like that?"
     lc "Ты не трахнул ее в рот или не использовал ее руку, чтобы подрочить себе?"
 
-# game/code/d08/d08s14.rpy:306
+# game/code/d08/d08s14.rpy:307
 translate russian d08s14_391e2685:
 
     # mc "What?! No!"
     mc "Что?! Нет!"
 
-# game/code/d08/d08s14.rpy:307
+# game/code/d08/d08s14.rpy:308
 translate russian d08s14_d3f383f0:
 
     # lc "I'm sorry. Of course you wouldn't ever do anything like that."
     lc "Извини. Конечно, ты никогда бы не сделал ничего подобного."
 
-# game/code/d08/d08s14.rpy:308
+# game/code/d08/d08s14.rpy:309
 translate russian d08s14_5babdc3a:
 
     # mc "Why would you even say that?"
     mc "Почему ты так говоришь?"
 
-# game/code/d08/d08s14.rpy:310
+# game/code/d08/d08s14.rpy:311
 translate russian d08s14_adae36dd:
 
     # lc "Okay, it's my turn to tell you a secret."
     lc "Ладно, теперь моя очередь открыть тебе секрет."
 
-# game/code/d08/d08s14.rpy:311
+# game/code/d08/d08s14.rpy:312
 translate russian d08s14_a49ed4f8:
 
     # mc "Okay."
     mc "Ладно."
 
-# game/code/d08/d08s14.rpy:312
+# game/code/d08/d08s14.rpy:313
 translate russian d08s14_3bed173e:
 
     # lc "You know that \"sleep sex\" porn?"
     lc "Ты знаешь такое порно \"секс во сне\"?"
 
-# game/code/d08/d08s14.rpy:314
+# game/code/d08/d08s14.rpy:315
 translate russian d08s14_dd29bdce:
 
     # mc "Um, yeah. Where guys have sex with their girlfriends or whatever while the girl pretends to be asleep?"
     mc "Эм, да. Где парни занимаются сексом со своими подружками, пока те притворяется спящими?"
 
-# game/code/d08/d08s14.rpy:315
+# game/code/d08/d08s14.rpy:316
 translate russian d08s14_10bdbab7:
 
     # lc "Exactly."
     lc "Именно так."
 
-# game/code/d08/d08s14.rpy:317
+# game/code/d08/d08s14.rpy:318
 translate russian d08s14_c42b05ac:
 
     # mc "And?"
     mc "И?"
 
-# game/code/d08/d08s14.rpy:319
+# game/code/d08/d08s14.rpy:320
 translate russian d08s14_11f54918:
 
     # lc "Well... that's kinda hot."
     lc "Ну... это довольно горячо."
 
-# game/code/d08/d08s14.rpy:321
+# game/code/d08/d08s14.rpy:322
 translate russian d08s14_80f46570:
 
     # lc "I mean, I wouldn't want anyone to do that to me, but just the idea of it... the fantasy... ya'know?"
     lc "Я имею в виду, что не хотела, чтобы кто-то делал это со мной, но сама мысль об этом... фантазия... понимаешь?"
 
-# game/code/d08/d08s14.rpy:322
+# game/code/d08/d08s14.rpy:323
 translate russian d08s14_da3faa75:
 
     # mc "Wait, you watch porn?"
     mc "Подожди, ты смотришь порно?"
 
-# game/code/d08/d08s14.rpy:324
+# game/code/d08/d08s14.rpy:325
 translate russian d08s14_bbf6940f:
 
     # lc "Um... maybe?"
     lc "Эм... возможно?"
 
-# game/code/d08/d08s14.rpy:325
+# game/code/d08/d08s14.rpy:326
 translate russian d08s14_d8990863:
 
     # mc "I thought we were being honest with each other here."
     mc "Я думал, что мы должны быть честны друг с другом."
 
-# game/code/d08/d08s14.rpy:326
+# game/code/d08/d08s14.rpy:327
 translate russian d08s14_eca8a51b:
 
     # lc "Okay, yes. I watch porn. I don't know what other people do with it, but I like to watch it sometimes."
     lc "Ладно, да. Я смотрю порно. Я не знаю, что другие люди делают с ним, но мне нравится иногда смотреть его."
 
-# game/code/d08/d08s14.rpy:328
+# game/code/d08/d08s14.rpy:329
 translate russian d08s14_1c14b8b5:
 
     # mc "Do you mind if I ask?"
     mc "Ты не возражаешь, если я спрошу?"
 
-# game/code/d08/d08s14.rpy:329
+# game/code/d08/d08s14.rpy:330
 translate russian d08s14_b9245508:
 
     # lc "Depends on what you ask."
     lc "Зависит от того, что ты спросишь."
 
-# game/code/d08/d08s14.rpy:330
+# game/code/d08/d08s14.rpy:331
 translate russian d08s14_4a2886da:
 
     # mc "Do you jill off watching it?"
     mc "Ты играешь с собой, когда смотришь его?"
 
-# game/code/d08/d08s14.rpy:332
+# game/code/d08/d08s14.rpy:333
 translate russian d08s14_78d3b0ec:
 
     # lc "Are you asking me if I masturbate?"
     lc "Ты спрашиваешь меня, мастурбирую ли я?"
 
-# game/code/d08/d08s14.rpy:333
+# game/code/d08/d08s14.rpy:334
 translate russian d08s14_6ff565c9:
 
     # mc "Why not? I just described to you how I jerked off for points."
     mc "Почему бы и нет? Я только что рассказывал тебе, как я дрочил ради очков."
 
-# game/code/d08/d08s14.rpy:335
+# game/code/d08/d08s14.rpy:336
 translate russian d08s14_d5bc542c:
 
     # lc "Okay, you've got a point there."
     lc "Ладно, ты прав."
 
-# game/code/d08/d08s14.rpy:336
+# game/code/d08/d08s14.rpy:337
 translate russian d08s14_b7127e8e:
 
     # lc "Give me a second..."
     lc "Дай мне секунду..."
 
-# game/code/d08/d08s14.rpy:337
+# game/code/d08/d08s14.rpy:338
 translate russian d08s14_5a3c258d:
 
     # lc "I'm not sure how to say this... I've never told anyone before..."
     lc "Я не знаю, как это сказать... Я никогда никому не говорила..."
 
-# game/code/d08/d08s14.rpy:339
+# game/code/d08/d08s14.rpy:340
 translate russian d08s14_0bc8d14d:
 
     # mc "Sorry, sorry. It's okay. You don't have to tell me."
     mc "Извини. Всё в порядке. Ты не обязана мне рассказывать."
 
-# game/code/d08/d08s14.rpy:341
+# game/code/d08/d08s14.rpy:342
 translate russian d08s14_9aec71af:
 
     # mct "But dammit I really really want to know now!"
     mct "Но, черт возьми, я действительно хочу это услышать!"
 
-# game/code/d08/d08s14.rpy:343
+# game/code/d08/d08s14.rpy:344
 translate russian d08s14_2ca7fc59:
 
     # lc "I've... touched myself, but I don't think I've ever had an orgasm."
     lc "Я... дотрагиваюсь до себя, но не думаю, что у меня когда-нибудь был оргазм."
 
-# game/code/d08/d08s14.rpy:344
+# game/code/d08/d08s14.rpy:345
 translate russian d08s14_9c755f05:
 
     # mc "Wow.{w} Thank you for trusting me enough to tell me that."
     mc "Вау. {w}Спасибо, что доверяешь мне настолько, что рассказала это."
 
-# game/code/d08/d08s14.rpy:346
+# game/code/d08/d08s14.rpy:347
 translate russian d08s14_cd9ab661:
 
     # lc "What do you think?"
     lc "А ты как думаешь?"
 
-# game/code/d08/d08s14.rpy:348
+# game/code/d08/d08s14.rpy:349
 translate russian d08s14_4f6e4de0:
 
     # mc "I mean, if you don't think you've ever had an orgasm... you probably haven't."
     mc "Ну, если ты думаешь, что никогда не испытывала оргазма... то, скорее всего, так и есть."
 
-# game/code/d08/d08s14.rpy:349
+# game/code/d08/d08s14.rpy:350
 translate russian d08s14_99a0ebc8:
 
     # lc "Do you think less of me?"
     lc "Теперь ты думаешь обо мне хуже?"
 
-# game/code/d08/d08s14.rpy:351
+# game/code/d08/d08s14.rpy:352
 translate russian d08s14_bb021530:
 
     # mc "Not in the slightest. If anything I lo...{w} I like you even more."
     mc "Ни в малейшей степени. Во всяком случае, я лю... {w}Ты мне нравишься еще больше."
 
-# game/code/d08/d08s14.rpy:352
+# game/code/d08/d08s14.rpy:353
 translate russian d08s14_39489d75:
 
     # lc "What does that mean?"
     lc "Что это значит?"
 
-# game/code/d08/d08s14.rpy:354
+# game/code/d08/d08s14.rpy:355
 translate russian d08s14_d5f79f88:
 
     # mc "I mean, that must have been really difficult to admit. I'm really honored that you feel safe enough to tell me that."
     mc "Я имею в виду, что это было действительно трудно сказать. Для меня большая честь, что ты чувствуешь ко мне доверие, чтобы рассказать мне это."
 
-# game/code/d08/d08s14.rpy:356
+# game/code/d08/d08s14.rpy:357
 translate russian d08s14_1ea58e63:
 
     # lc "Yeah. I guess so."
     lc "Да. Я тоже так думаю."
 
-# game/code/d08/d08s14.rpy:359
+# game/code/d08/d08s14.rpy:360
 translate russian d08s14_5eed6bad:
 
     # lc "Can you tell me something else? Maybe not Fetish Locator stuff, just about you."
     lc "Ты можешь рассказать мне что-нибудь еще? Не обязательно связанное с Фетиш Локатором, а просто о себе."
 
-# game/code/d08/d08s14.rpy:360
+# game/code/d08/d08s14.rpy:361
 translate russian d08s14_6470cf44:
 
     # mc "Like sex stuff, or can it be anything."
     mc "Связанное с сексом, или про что угодно."
 
-# game/code/d08/d08s14.rpy:362
+# game/code/d08/d08s14.rpy:363
 translate russian d08s14_08672ae2:
 
     # lc "It could be anything, but I'd like to hear the sex stuff."
     lc "Ты можешь рассказать о чем угодно, но я хотела бы послушать о сексе."
 
-# game/code/d08/d08s14.rpy:364
+# game/code/d08/d08s14.rpy:365
 translate russian d08s14_727d5898:
 
     # mc "Huh. Give me a minute..."
     mc "Хм. Дай мне минутку..."
 
-# game/code/d08/d08s14.rpy:366
+# game/code/d08/d08s14.rpy:367
 translate russian d08s14_8330deb6:
 
     # mct "What the hell can I say?"
     mct "Что, черт возьми, мне ей рассказать?"
 
-# game/code/d08/d08s14.rpy:368
+# game/code/d08/d08s14.rpy:369
 translate russian d08s14_b9b9c494:
 
     # mc "Okay, so I met Karen during Freshmen orientation..."
     mc "Ладно, я встретил Карен во время собрания для первокурсников..."
 
-# game/code/d08/d08s14.rpy:370
+# game/code/d08/d08s14.rpy:371
 translate russian d08s14_89bf14e6:
 
     # lc "Go on!"
     lc "Продолжай!"
-
-# game/code/d08/d08s14.rpy:372
-translate russian d08s14_e24e1a2c:
-
-    # "Save game here"
-    "Это конец текущей версии игры. Пожалуйста, сохраните игру здесь."
 
 translate russian strings:
 
@@ -1383,3 +1377,4 @@ translate russian strings:
     # game/code/d08/d08s14.rpy:152
     old "Yes, but..."
     new "Да, но..."
+

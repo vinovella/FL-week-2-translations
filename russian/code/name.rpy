@@ -84,17 +84,8 @@ translate russian strings:
     old "Shontae"
     new "Шонтаэ"
 
-    old "Judge"
-    new "Судья"
-
-    old "Mr. Melville"
-    new "Мистер Мелвилл"
-
-    old "Oliver"
-    new "Оливер"
-
-    old "Woman"
-    new "Женщина"
+    old "Samiya"
+    new "Самия"
 
     old "HairyHarry"
     new "ВолосатыйГарри"
@@ -126,6 +117,15 @@ translate russian strings:
     old "Amber-Rose"
     new "Амбер-Роуз"
 
+    old "Mr. Melville"
+    new "мистер Мелвилл"
+
+    old "Store Manager"
+    new "Менеджер магазина"
+
+    old "Innocent Bystander"
+    new "Простодушный свидетель"
+
     old "Girl voice"
     new "Женский голос"
 
@@ -147,11 +147,11 @@ translate russian strings:
     old "Developer"
     new "Разработчик"
 
-    old "Fetish Locator"
-    new "Фетиш Локатор"
-
     old "Fetish Locator Retention"
     new "Программа удержания Фетиш-Локатора"
 
     old "What is your name in Fetish Locator app?"
-    new "Как вы назовётесь в приложении Fetish Locator?"
+    new "Как вы назовётесь в приложении Фетиш Локатор?"
+
+    old "Fetish Locator"
+    new "Фетиш Локатор"

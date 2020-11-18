@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-08-05 20:12
+﻿# TODO: Translation updated at 2020-11-04 21:11
 
 # game/code/d08/d08s05.rpy:5
 translate russian d08s05_06a950b5:
@@ -223,9 +223,9 @@ translate russian d08s05_dd_6c0f74f9:
     mc "Ну, не совсем ради тебя."
 
 # game/code/d08/d08s05.rpy:87
-translate russian d08s05_dd_19e3d80a:
+translate russian d08s05_dd_320ef5c0:
 
-    # sy "We're looking for Samiya. Or Dahlia, who can help us finding her."
+    # sy "We're looking for Samiya, or Dahlia to help us finding Samiya."
     sy "Мы ищем Самию. Или Далию, которая может помочь нам найти ее."
 
 # game/code/d08/d08s05.rpy:88
@@ -571,9 +571,9 @@ translate russian d08s05_dd_00765a01:
     mc "Не совсем, но конечно."
 
 # game/code/d08/d08s05.rpy:182
-translate russian d08s05_dd_a8a37161:
+translate russian d08s05_dd_1512a6e1:
 
-    # dd "Not that night. Samiya and I and a couple guys went over to the the gym-"
+    # dd "Not that night. Samiya and I and a couple guys went over to the gym-"
     dd "Но не в ту ночь. Мы с Самией и парой парней пошли в спортзал..."
 
 # game/code/d08/d08s05.rpy:183
@@ -714,487 +714,487 @@ translate russian d08s05_dd_feb0aa65:
     # sy "Ok, let's go find another girl..."
     sy "Ладно, давай найдем эту девушку..."
 
-# game/code/d08/d08s05.rpy:255
+# game/code/d08/d08s05.rpy:256
 translate russian d08s05_dw_6d1a5426:
 
     # mc "See that woman over there? That's Dahlia."
     mc "Видишь вон ту девушку? Это Далия."
 
-# game/code/d08/d08s05.rpy:257
+# game/code/d08/d08s05.rpy:258
 translate russian d08s05_dw_0110ec89:
 
     # sy "You said she should be around her. I guess you were right."
     sy "Ты говорил, что она должна быть рядом. Думаю, ты был прав."
 
-# game/code/d08/d08s05.rpy:264
+# game/code/d08/d08s05.rpy:265
 translate russian d08s05_dw_5d822aea:
 
     # mc "Yep. {w}Hey there, Dahlia!"
     mc "Ага. {w}Привет, Далия!"
 
-# game/code/d08/d08s05.rpy:265
+# game/code/d08/d08s05.rpy:266
 translate russian d08s05_dw_0a84f66d:
 
     # dw "Oh, if it isn't my least favorite slave."
     dw "О, это же мой самый любимый раб."
 
-# game/code/d08/d08s05.rpy:267
+# game/code/d08/d08s05.rpy:268
 translate russian d08s05_dw_8ddece80:
 
     # sy "Did she just call you her slave?"
     sy "Она только что назвала тебя своим рабом?"
 
-# game/code/d08/d08s05.rpy:268
+# game/code/d08/d08s05.rpy:269
 translate russian d08s05_dw_c2ae4ef3:
 
     # mc "Heh... um..."
     mc "Хех... эм..."
 
-# game/code/d08/d08s05.rpy:269
+# game/code/d08/d08s05.rpy:270
 translate russian d08s05_dw_2fd7fd8a:
 
     # mct "This might not be as easy as I thought."
     mct "Это будет не так просто, как я думал."
 
-# game/code/d08/d08s05.rpy:272
+# game/code/d08/d08s05.rpy:273
 translate russian d08s05_dw_61e5b595:
 
     # mc "Dahlia! {w}Have you met my sister, Stacy?"
     mc "Далия! {w}Ты не знакома с моей сестрой, Стейси?"
 
-# game/code/d08/d08s05.rpy:274
+# game/code/d08/d08s05.rpy:275
 translate russian d08s05_dw_f867e91d:
 
     # mc "Dahlia! {w}This is Stacy. Stacy, this is Dahlia."
     mc "Далия! {w}Это Стейси. Стейси, это Далия."
 
-# game/code/d08/d08s05.rpy:276
+# game/code/d08/d08s05.rpy:277
 translate russian d08s05_dw_90e89a47:
 
     # dw "Hi Stacy. Would you enjoy a little roleplay?"
     dw "Привет, Стейси. Не хочешь немного поиграть в ролевые игры?"
 
-# game/code/d08/d08s05.rpy:278
+# game/code/d08/d08s05.rpy:279
 translate russian d08s05_dw_7e8b2165:
 
     # sy "Depends. Are you going to be the Dungeon Master or the Mistress?"
     sy "Зависит от того: Ты будешь Хозяйкой Подземелья или Госпожой?"
 
-# game/code/d08/d08s05.rpy:280
+# game/code/d08/d08s05.rpy:281
 translate russian d08s05_dw_e9f6f6e2:
 
     # dw "Very good. I like her."
     dw "Очень хорошо. Она мне нравится."
 
-# game/code/d08/d08s05.rpy:281
+# game/code/d08/d08s05.rpy:282
 translate russian d08s05_dw_d868b172:
 
     # mc "I'm... glad."
     mc "Я... рад."
 
-# game/code/d08/d08s05.rpy:283
+# game/code/d08/d08s05.rpy:284
 translate russian d08s05_dw_f61f66e0:
 
     # dw "Come now, don't tell me you've forgotten how to properly address me."
     dw "Только не говори, что забыл, как правильно обращаться ко мне."
 
-# game/code/d08/d08s05.rpy:285
+# game/code/d08/d08s05.rpy:286
 translate russian d08s05_dw_08f1b822:
 
     # mc "I'd love to play, but we're kinda in a hurry. Right, Stacy?"
     mc "Я бы с удовольствием поиграл, но мы немного торопимся. Верно, Стейси?"
 
-# game/code/d08/d08s05.rpy:287
+# game/code/d08/d08s05.rpy:288
 translate russian d08s05_dw_e0798176:
 
     # sy "Oh no, this sounds like too much fun. I wish I had some popcorn."
     sy "О нет, это звучит слишком весело. Жаль, что у меня нет попкорна."
 
-# game/code/d08/d08s05.rpy:289
+# game/code/d08/d08s05.rpy:290
 translate russian d08s05_dw_a8a9cf63:
 
     # dw "See? It's unanimous."
     dw "Видишь? Единогласно."
 
-# game/code/d08/d08s05.rpy:291
+# game/code/d08/d08s05.rpy:292
 translate russian d08s05_dw_7458e4ba:
 
     # mc "But, I don't want-"
     mc "Но я не хочу ... "
 
-# game/code/d08/d08s05.rpy:293
+# game/code/d08/d08s05.rpy:294
 translate russian d08s05_dw_5ee80470:
 
     # dw "No, no, no. Don't lie. You know you want to play."
     dw "Нет, нет, нет. Не ври. Ты же знаешь, что хочешь играть."
 
-# game/code/d08/d08s05.rpy:295
+# game/code/d08/d08s05.rpy:296
 translate russian d08s05_dw_4b5ff222:
 
     # mc "*sigh* Yes, Mistress."
     mc "*вздох* да, Госпожа."
 
-# game/code/d08/d08s05.rpy:297
+# game/code/d08/d08s05.rpy:298
 translate russian d08s05_dw_cfc5fbfb:
 
     # dw "That's a good start. Now, do it properly. On your knees."
     dw "Это хорошее начало. А теперь сделай это как следует. На колени."
 
-# game/code/d08/d08s05.rpy:301
+# game/code/d08/d08s05.rpy:302
 translate russian d08s05_dw_b5d6a09a:
 
     # mc "You can't mean for me to do this here... in public?"
     mc "Ты хочешь, чтобы я сделал это здесь... на публике?"
 
-# game/code/d08/d08s05.rpy:302
+# game/code/d08/d08s05.rpy:303
 translate russian d08s05_dw_9baeba78:
 
     # dw "Would you prefer that I make some noise and then spank you in front of a crowd?"
     dw "Ты бы предпочел, чтобы я поругала, а потом отшлепала тебя перед всеми?"
 
-# game/code/d08/d08s05.rpy:303
+# game/code/d08/d08s05.rpy:304
 translate russian d08s05_dw_766fbcc4:
 
     # mc "What? No!"
     mc "Что? Нет!"
 
-# game/code/d08/d08s05.rpy:305
+# game/code/d08/d08s05.rpy:306
 translate russian d08s05_dw_f49c51d0:
 
     # dw "Excuse me?"
     dw "Прошу прощения?"
 
-# game/code/d08/d08s05.rpy:306
+# game/code/d08/d08s05.rpy:307
 translate russian d08s05_dw_07dcbcad:
 
     # mc "I mean, please, no. Please, don't do that, Mistress."
     mc "То есть, пожалуйста, нет. Пожалуйста, не делайте этого, Госпожа."
 
-# game/code/d08/d08s05.rpy:310
+# game/code/d08/d08s05.rpy:311
 translate russian d08s05_dw_2231a2cf:
 
     # mc "Yes, Mistress. Please forgive me, Mistress."
     mc "Да, Госпожа. Пожалуйста, простите меня, Госпожа."
 
-# game/code/d08/d08s05.rpy:312
+# game/code/d08/d08s05.rpy:313
 translate russian d08s05_dw_8fe19cec:
 
     # dw "Better. Now kneel."
     dw "Уже лучше. А теперь встань на колени."
 
-# game/code/d08/d08s05.rpy:315
+# game/code/d08/d08s05.rpy:316
 translate russian d08s05_dw_e2f9c32f:
 
     # dw "Good, good. Are you enjoying yourself?"
     dw "Хорошо, очень хорошо. Тебе это нравится?"
 
-# game/code/d08/d08s05.rpy:317
+# game/code/d08/d08s05.rpy:318
 translate russian d08s05_dw_ee2aaa9b:
 
     # sy "Oh my, yes. Does he do any tricks?"
     sy "О боже, да. Он умеет делать какие-нибудь фокусы?"
 
-# game/code/d08/d08s05.rpy:319
+# game/code/d08/d08s05.rpy:320
 translate russian d08s05_dw_6bac721e:
 
     # dw "Stacy, was it? Did you want to be audience or participant?"
     dw "Стейси, правильно? Ты хотела бы быть зрителем или участником?"
 
-# game/code/d08/d08s05.rpy:321
+# game/code/d08/d08s05.rpy:322
 translate russian d08s05_dw_549e8ea5:
 
     # dw "There's plenty of room here for another slave kneeling before me."
     dw "Здесь достаточно места для еще одного раба, стоящего на коленях передо мной."
 
-# game/code/d08/d08s05.rpy:327
+# game/code/d08/d08s05.rpy:328
 translate russian d08s05_dw_e2f543a6:
 
     # sy "Audience. Definitely audience."
     sy "Зрителем. Определенно зрителем."
 
-# game/code/d08/d08s05.rpy:329
+# game/code/d08/d08s05.rpy:330
 translate russian d08s05_dw_999e1c24:
 
     # dw "Good, then shhh."
     dw "Хорошо, тогда шшш."
 
-# game/code/d08/d08s05.rpy:331
+# game/code/d08/d08s05.rpy:332
 translate russian d08s05_dw_fbbb0f24:
 
     # dw "So, is my slave to keep me waiting? Tell your Mistress if you are enjoying yourself."
     dw "Итак, мой раб заставит меня ждать? Скажи своей Госпоже, если тебе это нравится."
 
-# game/code/d08/d08s05.rpy:333
+# game/code/d08/d08s05.rpy:334
 translate russian d08s05_dw_7fd3a623:
 
     # mc "Yes, Mistress."
     mc "Да, Госпожа."
 
-# game/code/d08/d08s05.rpy:334
+# game/code/d08/d08s05.rpy:335
 translate russian d08s05_dw_0965319c:
 
     # dw "I thought so."
     dw "Я так и думала."
 
-# game/code/d08/d08s05.rpy:336
+# game/code/d08/d08s05.rpy:337
 translate russian d08s05_dw_975ccae0:
 
     # dw "Hmm... there's something wrong here."
     dw "Хмм... здесь что-то не так."
 
-# game/code/d08/d08s05.rpy:337
+# game/code/d08/d08s05.rpy:338
 translate russian d08s05_dw_c414faf3:
 
     # dw "Yes, yes. Something is definitely not proper about this."
     dw "Да, да. Что-то здесь определенно не так."
 
-# game/code/d08/d08s05.rpy:339
+# game/code/d08/d08s05.rpy:340
 translate russian d08s05_dw_0ba25fbe:
 
     # dw "Oh, I know what it is! What you're wearing is completely inappropriate."
     dw "О, я поняла, что не так! То, что на тебе надето, совершенно неуместно."
 
-# game/code/d08/d08s05.rpy:340
+# game/code/d08/d08s05.rpy:341
 translate russian d08s05_dw_4433c6e6:
 
     # mc "I'm sorry, Mistress."
     mc "Простите, Госпожа."
 
-# game/code/d08/d08s05.rpy:342
+# game/code/d08/d08s05.rpy:343
 translate russian d08s05_dw_6ec54438:
 
     # dw "Hmm... Stacy, how should he correct his apparel?"
     dw "Хмм... Стейси, как он должен исправить свою одежду?"
 
-# game/code/d08/d08s05.rpy:344
+# game/code/d08/d08s05.rpy:345
 translate russian d08s05_dw_7eef1638:
 
     # sy "Oh, well... {w}Clearly he should be barefoot."
     sy "Ну... {w}Очевидно, что он должен быть бос."
 
-# game/code/d08/d08s05.rpy:346
+# game/code/d08/d08s05.rpy:347
 translate russian d08s05_dw_ae3b6be8:
 
     # dw "Excellent suggestion."
     dw "Отличное предложение."
 
-# game/code/d08/d08s05.rpy:348
+# game/code/d08/d08s05.rpy:349
 translate russian d08s05_dw_4cd8fefd:
 
     # dw "Slave, take off your shoes."
     dw "Раб, сними обувь."
 
-# game/code/d08/d08s05.rpy:349
+# game/code/d08/d08s05.rpy:350
 translate russian d08s05_dw_27bd83cd:
 
     # mct "At least this can't get much more embarrassing... can it?"
     mct "По крайней мере, это не должно быть неловко... Правда?"
 
-# game/code/d08/d08s05.rpy:350
+# game/code/d08/d08s05.rpy:351
 translate russian d08s05_dw_7fd3a623_1:
 
     # mc "Yes, Mistress."
     mc "Да, Госпожа."
 
-# game/code/d08/d08s05.rpy:354
+# game/code/d08/d08s05.rpy:356
 translate russian d08s05_dw_333e1ebd:
 
     # dw "Now slave, think back to our previous interactions. How should you be dressed in front of me?"
     dw "А теперь, раб, вспомни нашу предыдущую встречу. Как ты должен быть одет передо мной?"
 
-# game/code/d08/d08s05.rpy:355
+# game/code/d08/d08s05.rpy:357
 translate russian d08s05_dw_ba203ecd:
 
     # mct "What? She can't be serious."
     mct "Что? Она это не серьезно."
 
-# game/code/d08/d08s05.rpy:357
+# game/code/d08/d08s05.rpy:359
 translate russian d08s05_dw_2496bc44:
 
     # dw "I'm waiting..."
     dw "Я жду..."
 
-# game/code/d08/d08s05.rpy:359
+# game/code/d08/d08s05.rpy:361
 translate russian d08s05_dw_7d0f621d:
 
     # mc "I'm unsure, Mistress."
     mc "Я не уверен, Госпожа."
 
-# game/code/d08/d08s05.rpy:361
+# game/code/d08/d08s05.rpy:363
 translate russian d08s05_dw_16fed8ed:
 
     # dw "I doubt that. Well, if you don't know then you may beg me to remind you."
     dw "Я в этом сомневаюсь. Ну, если ты не помнишь, то можешь попросить меня напомнить тебе."
 
-# game/code/d08/d08s05.rpy:362
+# game/code/d08/d08s05.rpy:364
 translate russian d08s05_dw_522460b0:
 
     # mct "Oh crap. She wants me to beg her to tell me to strip naked right here in public while Stacy is watching?"
     mct "Вот дерьмо. Она хочет, чтобы я умолял ее разрешить мне раздеться догола прямо здесь, на публике, перед Стейси?"
 
-# game/code/d08/d08s05.rpy:364
+# game/code/d08/d08s05.rpy:366
 translate russian d08s05_dw_80a5c16f:
 
     # mc "Umm..."
     mc "Эмм..."
 
-# game/code/d08/d08s05.rpy:366
+# game/code/d08/d08s05.rpy:368
 translate russian d08s05_dw_da6a3daa:
 
     # sy "I hate to interrupt. This is a lot of fun, but-"
     sy "Я не хочу прерывать вас. Это очень весело, но ..."
 
-# game/code/d08/d08s05.rpy:367
+# game/code/d08/d08s05.rpy:369
 translate russian d08s05_dw_662a103c:
 
     # dw "But what?"
     dw "Но что?"
 
-# game/code/d08/d08s05.rpy:369
+# game/code/d08/d08s05.rpy:371
 translate russian d08s05_dw_953507d0:
 
     # sy "We're actually here to get my stuff back. Do you know where we can find Samiya?"
     sy "Вообще-то мы здесь, чтобы забрать мои вещи. Ты не знаешь, где мы можем найти Самию?"
 
-# game/code/d08/d08s05.rpy:370
+# game/code/d08/d08s05.rpy:372
 translate russian d08s05_dw_4b0fc891:
 
     # dw "Ugh. Her, again?"
     dw "Агх. Опять она?"
 
-# game/code/d08/d08s05.rpy:372
+# game/code/d08/d08s05.rpy:374
 translate russian d08s05_dw_a0a7a5a7:
 
     # sy "She stole my luggage."
     sy "Она украла мой багаж."
 
-# game/code/d08/d08s05.rpy:374
+# game/code/d08/d08s05.rpy:376
 translate russian d08s05_dw_bda7583a:
 
     # dw "Whatever... {w}Fine. I'll tell you where you can find someone who will know where she is."
     dw "Неважно... {w}Ладно. Я скажу, где вы можете найти кого-нибудь, кто будет знать, где она."
 
-# game/code/d08/d08s05.rpy:375
+# game/code/d08/d08s05.rpy:377
 translate russian d08s05_dw_b3e5d52d:
 
     # sy "Can't you just-"
     sy "Разве ты не можешь просто..."
 
-# game/code/d08/d08s05.rpy:378
+# game/code/d08/d08s05.rpy:380
 translate russian d08s05_dw_317588c3:
 
     # mct "What the fuck??"
     mct "Какого хрена??"
 
-# game/code/d08/d08s05.rpy:380
+# game/code/d08/d08s05.rpy:382
 translate russian d08s05_dw_ebf64c4f:
 
     # dw "Well, first of all, I don't care where that bitch is these days. As long as she stays away from me."
     dw "Ну, во-первых, мне все равно, где сейчас эта сука. Пока она держится от меня подальше."
 
-# game/code/d08/d08s05.rpy:381
+# game/code/d08/d08s05.rpy:383
 translate russian d08s05_dw_ae352a33:
 
     # dw "Second, I wouldn't tell you even if I knew where she was."
     dw "Во-вторых, я не сказала бы вам, даже если бы знала, где она."
 
-# game/code/d08/d08s05.rpy:383
+# game/code/d08/d08s05.rpy:385
 translate russian d08s05_dw_74abaaf7:
 
     # sy "Why not?"
     sy "Почему нет?"
 
-# game/code/d08/d08s05.rpy:385
+# game/code/d08/d08s05.rpy:387
 translate russian d08s05_dw_882f79fd:
 
     # dw "Don't you get it? She's bad news. Forget about your missing stuff and forget about finding her."
     dw "Ты что, не понимаешь? Она - плохая новость. Забудь о своих пропавших вещах и забудь о том, чтобы найти ее."
 
-# game/code/d08/d08s05.rpy:387
+# game/code/d08/d08s05.rpy:389
 translate russian d08s05_dw_9581568c:
 
     # sy "Not gonna happen."
     sy "Этого не случится."
 
-# game/code/d08/d08s05.rpy:389
+# game/code/d08/d08s05.rpy:391
 translate russian d08s05_dw_44fd1839:
 
     # dw "Which brings us to what I am willing to tell you - if you two will listen."
     dw "И это подводит нас к тому, что я хочу вам сказать - если вы будете слушать."
 
-# game/code/d08/d08s05.rpy:391
+# game/code/d08/d08s05.rpy:393
 translate russian d08s05_dw_f4a296e2:
 
     # mc "Ugh.. Can I..."
     mc "Агх... Могу я..."
 
-# game/code/d08/d08s05.rpy:394
+# game/code/d08/d08s05.rpy:396
 translate russian d08s05_dw_dd5eddfc:
 
     # sy "I'm all ears!"
     sy "Я вся внимание!"
 
-# game/code/d08/d08s05.rpy:396
+# game/code/d08/d08s05.rpy:398
 translate russian d08s05_dw_2f9aed17:
 
     # dw "[mcname] should have met someone last week who would know Samiya's whereabouts."
     dw "[mcname] должен был встретиться на прошлой неделе с кем-нибудь, кто бы знал, где находится Самия."
 
-# game/code/d08/d08s05.rpy:397
+# game/code/d08/d08s05.rpy:399
 translate russian d08s05_dw_c678c30c:
 
     # mct "I did?"
     mct "С кем это?"
 
-# game/code/d08/d08s05.rpy:398
+# game/code/d08/d08s05.rpy:400
 translate russian d08s05_dw_d661b00b:
 
     # dw "If he has any brain he can remember Allison. The girl who was always at the pool..."
     dw "Если у него есть мозги, то он может вспомнить Эллисон. Девушку, которая всегда находится у бассейна..."
 
-# game/code/d08/d08s05.rpy:400
+# game/code/d08/d08s05.rpy:402
 translate russian d08s05_dw_6d8d2ea3:
 
     # mc "Ugh... yeah..."
     mc "Агх... Да..."
 
-# game/code/d08/d08s05.rpy:402
+# game/code/d08/d08s05.rpy:404
 translate russian d08s05_dw_9ebf841f:
 
     # sy "Any ideas where we could find her?"
     sy "Есть идеи, где мы могли бы ее найти?"
 
-# game/code/d08/d08s05.rpy:404
+# game/code/d08/d08s05.rpy:406
 translate russian d08s05_dw_dbaf6043:
 
     # dw "Of course. She's always at the pool."
     dw "Конечно. Она всегда у бассейна."
 
-# game/code/d08/d08s05.rpy:407
+# game/code/d08/d08s05.rpy:409
 translate russian d08s05_dw_73f71408:
 
     # mc "What the fuck was that?!"
     mc "Какого хрена это было?!"
 
-# game/code/d08/d08s05.rpy:409
+# game/code/d08/d08s05.rpy:411
 translate russian d08s05_dw_f73ca9ad:
 
     # sy "We were getting information. It was your plan, wasn't it?"
     sy "Мы получали информацию. Это же был твой план, верно?"
 
-# game/code/d08/d08s05.rpy:410
+# game/code/d08/d08s05.rpy:412
 translate russian d08s05_dw_8a87e0d1:
 
     # mc "You didn't need to sit on me!"
     mc "Тебе не нужно было садиться на меня!"
 
-# game/code/d08/d08s05.rpy:412
+# game/code/d08/d08s05.rpy:414
 translate russian d08s05_dw_1e4b29aa:
 
     # sy "I was streamlining the process... it worked, right?"
     sy "Я упростила этот процесс... это же сработало, верно?"
 
-# game/code/d08/d08s05.rpy:413
+# game/code/d08/d08s05.rpy:415
 translate russian d08s05_dw_1d0e9828:
 
     # sy "Let's go find this Allison."
@@ -1202,24 +1202,11 @@ translate russian d08s05_dw_1d0e9828:
 
 translate russian strings:
 
-    # game/code/d08/d08s05.rpy:298
+    # game/code/d08/d08s05.rpy:299
     old "In public?!?"
     new "На публике?!?"
 
-    # game/code/d08/d08s05.rpy:298
+    # game/code/d08/d08s05.rpy:299
     old "Yes, Mistress"
     new "Да, Госпожа"
 
-# TODO: Translation updated at 2020-09-30 18:34
-
-# game/code/d08/d08s05.rpy:87
-translate russian d08s05_dd_320ef5c0:
-
-    # sy "We're looking for Samiya, or Dahlia to help us finding Samiya."
-    sy "Мы ищем Самию, или Далию, которая может помочь нам найти ее."
-
-# game/code/d08/d08s05.rpy:182
-translate russian d08s05_dd_1512a6e1:
-
-    # dd "Not that night. Samiya and I and a couple guys went over to the gym-"
-    dd "Но не в ту ночь. Мы с Самией и парой парней пошли в спортзал..."

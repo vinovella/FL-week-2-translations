@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-08-05 20:12
+﻿# TODO: Translation updated at 2020-11-04 21:11
 
 # game/code/d08/d08s01.rpy:16
 translate russian d08s01_a38e2739:
@@ -120,391 +120,343 @@ translate russian d08s01_fafbfb54:
     # mc "Good thinking."
     mc "Хорошая мысль."
 
-# game/code/d08/d08s01.rpy:67
+# game/code/d08/d08s01.rpy:70
 translate russian d08s01_912d6106:
 
     # mct "What was that all about?"
     mct "Что это было?"
 
-# game/code/d08/d08s01.rpy:70
+# game/code/d08/d08s01.rpy:73
 translate russian d08s01_a4b8fb55:
 
     # mct "Oh, damn. I could have told her to blow me before breakfast."
     mct "Ох, черт. Я мог бы предложить ей отсосать у меня до завтрака."
 
-# game/code/d08/d08s01.rpy:72
+# game/code/d08/d08s01.rpy:75
 translate russian d08s01_c54b27e8:
 
     # mct "Oh, damn. I bet I could've gotten a quickie if I suggested it."
     mct "Ох, черт. Держу пари, что мог бы получить быстрый секс, если бы предложил его."
 
-# game/code/d08/d08s01.rpy:73
+# game/code/d08/d08s01.rpy:76
 translate russian d08s01_fb42a35d:
 
     # mct "I could probably go in the kitchen and get some before she starts cooking..."
     mct "Я, наверное, мог бы пойти на кухню и наверстать упущенное, до того, как она начнёт готовить..."
 
-# game/code/d08/d08s01.rpy:74
+# game/code/d08/d08s01.rpy:77
 translate russian d08s01_af3d94dd:
 
     # mct "Nah, too risky with Stacy around."
     mct "Нет, слишком рискованно. Стейси рядом."
 
-# game/code/d08/d08s01.rpy:79
-translate russian d08s01_8a7eb859:
-
-    # mct "Speak of the devil and she shall appear."
-    mct "Вспомни о чертовке, и она явится."
-
 # game/code/d08/d08s01.rpy:82
-translate russian d08s01_f74029b7:
-
-    # sy "Oops! Sorry."
-    sy "Уупс! Извиняюсь."
-
-# game/code/d08/d08s01.rpy:93
-translate russian d08s01_5aa5acd8:
-
-    # mct "She is doing it again!"
-    mct "Она снова это делает!"
-
-# game/code/d08/d08s01.rpy:96
-translate russian d08s01_68bbf00d:
-
-    # mct "But this is not back home! AmRose is in the other room!"
-    mct "Но мы не дома! АмРоуз в соседней комнате!"
-
-# game/code/d08/d08s01.rpy:98
-translate russian d08s01_11d1e060:
-
-    # mct "But this is too risky! AmRose is in the other room!"
-    mct "Но это слишком рискованно! АмРоуз в соседней комнате!"
-
-# game/code/d08/d08s01.rpy:103
-translate russian d08s01_96d7486d:
-
-    # mc "No, no! Wait your turn. I'll be quick."
-    mc "Нет нет! Жди своей очереди. Я скоро."
-
-# game/code/d08/d08s01.rpy:115
-translate russian d08s01_solo_7c561514:
-
-    # mct "This is for the best."
-    mct "Так будет лучше."
-
-# game/code/d08/d08s01.rpy:120
-translate russian d08s01_bathe_14b03a2d:
-
-    # mct "Well the door is closed..."
-    mct "Дверь закрыта..."
-
-# game/code/d08/d08s01.rpy:121
-translate russian d08s01_bathe_bea510d1:
-
-    # mct "It's not like we've never bathed together before."
-    mct "Не то чтобы мы никогда раньше не купались вместе."
-
-# game/code/d08/d08s01.rpy:125
-translate russian d08s01_bathe_69dc8a6b:
-
-    # mct "Damn. This is really happening."
-    mct "Черт. Это действительно происходит."
-
-# game/code/d08/d08s01.rpy:127
-translate russian d08s01_bathe_a7af89fd:
-
-    # mct "I don't want to stop her..."
-    mct "Я не хочу ее останавливать..."
-
-# game/code/d08/d08s01.rpy:129
-translate russian d08s01_bathe_17459a78:
-
-    # mct "But I'm worried about AmRose seeing this..."
-    mct "Но я беспокоюсь, что АмРоуз поймает нас..."
-
-# game/code/d08/d08s01.rpy:131
-translate russian d08s01_bathe_9e97433f:
-
-    # mct "What is this hungry look?"
-    mct "Что это за голодный взгляд?"
-
-# game/code/d08/d08s01.rpy:133
-translate russian d08s01_bathe_58227b87:
-
-    # sy "Well, are you going to help me into the bath?"
-    sy "Ну, так ты поможешь мне залезть в ванну?"
-
-# game/code/d08/d08s01.rpy:135
-translate russian d08s01_bathe_8dfc4064:
-
-    # mc "Umm... yeah."
-    mc "Эмм... да."
-
-# game/code/d08/d08s01.rpy:139
-translate russian d08s01_bathe_3e7f35e6:
-
-    # mc "Careful, it's wet and slippery."
-    mc "Осторожно, тут мокро и скользко."
-
-# game/code/d08/d08s01.rpy:141
-translate russian d08s01_bathe_11503db8:
-
-    # sy "I bet it is."
-    sy "Не сомневаюсь."
-
-# game/code/d08/d08s01.rpy:147
-translate russian d08s01_bathe_d8d80034:
-
-    # mct "How did she get so sexy?"
-    mct "Как она стала такой сексуальной?"
-
-# game/code/d08/d08s01.rpy:150
-translate russian d08s01_bathe_6d4e0429:
-
-    # mct "She is even hotter with the water running down her body."
-    mct "От воды, стекающей по ее телу, она становится еще горячее."
-
-# game/code/d08/d08s01.rpy:153
-translate russian d08s01_bathe_b8bd9a8c:
-
-    # mct "I can't believe what I am seeing. {w}How is this even possible?"
-    mct "Я не могу поверить в то, что вижу. {w}Как такое вообще возможно?"
-
-# game/code/d08/d08s01.rpy:155
-translate russian d08s01_bathe_84a25daa:
-
-    # sy "You look good there. All toned and dripping."
-    sy "Ты хорошо выглядишь. Весь подтянутый и мокрый."
-
-# game/code/d08/d08s01.rpy:157
-translate russian d08s01_bathe_63a6d232:
-
-    # sy "Let me give you a hand."
-    sy "Позволь мне помочь тебе."
-
-# game/code/d08/d08s01.rpy:163
-translate russian d08s01_bathe_50eaf5b5:
-
-    # sy "Feels good doesn't it?"
-    sy "Приятно, правда?"
-
-# game/code/d08/d08s01.rpy:176
-translate russian d08s01_bathe_c7260dc8:
-
-    # sy "You know, there's something I've been meaning to tell you."
-    sy "Знаешь, я хотела тебе кое-что сказать."
-
-# game/code/d08/d08s01.rpy:179
-translate russian d08s01_bathe_a3fb7535:
-
-    # sy "I couldn't help noticing..."
-    sy "Я не могла не заметить..."
-
-# game/code/d08/d08s01.rpy:181
-translate russian d08s01_bathe_dc26bdcb:
-
-    # sy "I couldn't help noticing you fucking AmRose yesterday."
-    sy "Я не могла не заметить, как ты вчера трахал АмРоуз."
-
-# game/code/d08/d08s01.rpy:182
-translate russian d08s01_bathe_131eebe5:
-
-    # sy "Shh... don't say anything... just listen."
-    sy "Тшш... ничего не говори... просто слушай."
-
-# game/code/d08/d08s01.rpy:184
-translate russian d08s01_bathe_92bd92c2:
-
-    # sy "Don't worry. It's okay. I understand. She's gorgeous."
-    sy "Не беспокойся. Все нормально. Я понимаю. Она великолепна."
-
-# game/code/d08/d08s01.rpy:185
-translate russian d08s01_bathe_9f8f6e75:
-
-    # sy "AmRose is a wonderful woman and a good friend."
-    sy "АмРоуз - замечательная девушка и хорошая подруга."
-
-# game/code/d08/d08s01.rpy:187
-translate russian d08s01_bathe_22f718c8:
-
-    # sy "I really like her. She's like the sister I never had."
-    sy "Она мне очень нравится. Она как сестра, которой у меня никогда не было."
-
-# game/code/d08/d08s01.rpy:188
-translate russian d08s01_bathe_28cdfc68:
-
-    # sy "So don't even think about hurting her."
-    sy "Так что даже не думай о том, чтобы причинить ей боль."
-
-# game/code/d08/d08s01.rpy:189
-translate russian d08s01_bathe_e5a4cd9b:
-
-    # sy "She has strong feelings for you."
-    sy "У неё сильное чувство к тебе."
-
-# game/code/d08/d08s01.rpy:191
-translate russian d08s01_bathe_1850262c:
-
-    # sy "If you break her heart, well... {w}I'm sure you can imagine."
-    sy "Если ты разобьешь ей сердце, то тогда... {w}Уверена, ты можешь себе это представить."
-
-# game/code/d08/d08s01.rpy:192
-translate russian d08s01_bathe_3dc90035:
-
-    # mct "Oh! She is squeezing my balls!"
-    mct "Ох! Она сжимает мне яйца!"
-
-# game/code/d08/d08s01.rpy:193
-translate russian d08s01_bathe_dd0a5092:
-
-    # sy "You don't want to disappoint me."
-    sy "Ты же не хочешь меня разочаровать."
-
-# game/code/d08/d08s01.rpy:194
-translate russian d08s01_bathe_1951595e:
-
-    # sy "You want to AmRose to be happy... {w}and so do I."
-    sy "Ты должен сделать всё, чтобы АмРоуз была счастлива... {w}и я тоже."
-
-# game/code/d08/d08s01.rpy:197
-translate russian d08s01_bathe_47bbd1e5:
-
-    # sy "Let me show you a little sample of how happy you can be."
-    sy "Позволь мне показать тебе маленький пример того, как ты можешь быть счастлив."
-
-# game/code/d08/d08s01.rpy:199
-translate russian d08s01_bathe_0c7f7b66:
-
-    # sy "I know you liked spying on me in the bathroom."
-    sy "Я знаю, что тебе нравится шпионить за мной в ванной."
-
-# game/code/d08/d08s01.rpy:201
-translate russian d08s01_bathe_bfaa8011:
-
-    # sy "You liked watching me pee."
-    sy "Тебе нравится смотреть, как я писаю."
-
-# game/code/d08/d08s01.rpy:203
-translate russian d08s01_bathe_b5b13864:
-
-    # sy "You must have wanted to be this close to me when I did it."
-    sy "Наверное ты хотел бы быть поближе ко мне, когда я это делала."
-
-# game/code/d08/d08s01.rpy:205
-translate russian d08s01_bathe_2373ed51:
-
-    # sy "Maybe you even wanted me to pee on you."
-    sy "Может, ты даже хотел, чтобы я на тебя пописала."
-
-# game/code/d08/d08s01.rpy:207
-translate russian d08s01_bathe_a2cb4da4:
-
-    # sy "Pee on your hot, hard, throbbing cock."
-    sy "Писала на твой горячий, твердый, пульсирующий член."
-
-# game/code/d08/d08s01.rpy:211
-translate russian d08s01_bathe_92d6aae4:
-
-    # sy "Just like this."
-    sy "Вот так."
-
-# game/code/d08/d08s01.rpy:215
-translate russian d08s01_bathe_015d20de:
-
-    # mct "Wow!"
-    mct "Воу!"
-
-# game/code/d08/d08s01.rpy:219
-translate russian d08s01_bathe_5a870419:
-
-    # sy "Tasty."
-    sy "Вкусно."
-
-# game/code/d08/d08s01.rpy:233
-translate russian d08s01_bathe_26901e33:
-
-    # sy "Do you understand? Your job is to keep AmRose very happy."
-    sy "Ты меня понял? Твоя задача что-бы АмРоуз была довольна."
-
-# game/code/d08/d08s01.rpy:235
-translate russian d08s01_bathe_0c5d2dcb:
-
-    # sy "Cum if you agree."
-    sy "Кончай, если согласен."
-
-# game/code/d08/d08s01.rpy:238
-translate russian d08s01_bathe_232c3f6d:
-
-    # mc "O-o-oh!"
-    mc "О-о-ох!"
-
-# game/code/d08/d08s01.rpy:240
-translate russian d08s01_bathe_fb970540:
-
-    # sy "Tsh-h-h! Not so loud!"
-    sy "Тш-ш-ш! Не так громко!"
-
-# game/code/d08/d08s01.rpy:248
-translate russian d08s01_bathe_b395490b:
-
-    # sy "Let me just rinse this off... {w}then you can finish cleaning yourself."
-    sy "Позволь мне смыть это... {w}потом ты тоже сможешь закончить мыться."
-    
- 
-# Replay Label Translations #####################################################################
-
-# game/code/d08/d08s01.rpy:79
 translate russian replay_d08s01_8a7eb859:
 
     # mct "Speak of the devil and she shall appear."
     mct "Вспомни о чертовке, и она явится."
 
-# game/code/d08/d08s01.rpy:82
+# game/code/d08/d08s01.rpy:85
 translate russian replay_d08s01_f74029b7:
 
     # sy "Oops! Sorry."
     sy "Уупс! Извиняюсь."
 
-# game/code/d08/d08s01.rpy:93
+# game/code/d08/d08s01.rpy:96
 translate russian replay_d08s01_5aa5acd8:
 
     # mct "She is doing it again!"
     mct "Она снова это делает!"
 
-# game/code/d08/d08s01.rpy:96
+# game/code/d08/d08s01.rpy:99
 translate russian replay_d08s01_68bbf00d:
 
     # mct "But this is not back home! AmRose is in the other room!"
     mct "Но мы не дома! АмРоуз в соседней комнате!"
 
-# game/code/d08/d08s01.rpy:98
+# game/code/d08/d08s01.rpy:101
 translate russian replay_d08s01_11d1e060:
 
     # mct "But this is too risky! AmRose is in the other room!"
     mct "Но это слишком рискованно! АмРоуз в соседней комнате!"
 
-# game/code/d08/d08s01.rpy:103
+# game/code/d08/d08s01.rpy:106
 translate russian replay_d08s01_96d7486d:
 
     # mc "No, no! Wait your turn. I'll be quick."
     mc "Нет нет! Жди своей очереди. Я скоро."
 
+# game/code/d08/d08s01.rpy:118
+translate russian d08s01_solo_7c561514:
 
-translate russian strings:
+    # mct "This is for the best."
+    mct "Так будет лучше."
 
-    # game/code/d08/d08s01.rpy:99
-    old "Kick Stacy out"
-    new "Прогнать Стейси"
+# game/code/d08/d08s01.rpy:124
+translate russian d08s01_bathe_14b03a2d:
 
-    # game/code/d08/d08s01.rpy:99
-    old "Let Stacy bathe with you"
-    new "Пусть Стейси искупается с тобой"
-    
-# TODO: Translation updated at 2020-09-30 18:34
+    # mct "Well the door is closed..."
+    mct "Дверь закрыта..."
 
-# game/code/d08/d08s01.rpy:194
+# game/code/d08/d08s01.rpy:125
+translate russian d08s01_bathe_bea510d1:
+
+    # mct "It's not like we've never bathed together before."
+    mct "Не то чтобы мы никогда раньше не купались вместе."
+
+# game/code/d08/d08s01.rpy:129
+translate russian d08s01_bathe_69dc8a6b:
+
+    # mct "Damn. This is really happening."
+    mct "Черт. Это действительно происходит."
+
+# game/code/d08/d08s01.rpy:131
+translate russian d08s01_bathe_a7af89fd:
+
+    # mct "I don't want to stop her..."
+    mct "Я не хочу ее останавливать..."
+
+# game/code/d08/d08s01.rpy:133
+translate russian d08s01_bathe_17459a78:
+
+    # mct "But I'm worried about AmRose seeing this..."
+    mct "Но я беспокоюсь, что АмРоуз поймает нас..."
+
+# game/code/d08/d08s01.rpy:135
+translate russian d08s01_bathe_9e97433f:
+
+    # mct "What is this hungry look?"
+    mct "Что это за голодный взгляд?"
+
+# game/code/d08/d08s01.rpy:137
+translate russian d08s01_bathe_58227b87:
+
+    # sy "Well, are you going to help me into the bath?"
+    sy "Ну, так ты поможешь мне залезть в ванну?"
+
+# game/code/d08/d08s01.rpy:139
+translate russian d08s01_bathe_8dfc4064:
+
+    # mc "Umm... yeah."
+    mc "Эмм... да."
+
+# game/code/d08/d08s01.rpy:143
+translate russian d08s01_bathe_3e7f35e6:
+
+    # mc "Careful, it's wet and slippery."
+    mc "Осторожно, тут мокро и скользко."
+
+# game/code/d08/d08s01.rpy:145
+translate russian d08s01_bathe_11503db8:
+
+    # sy "I bet it is."
+    sy "Не сомневаюсь."
+
+# game/code/d08/d08s01.rpy:151
+translate russian d08s01_bathe_d8d80034:
+
+    # mct "How did she get so sexy?"
+    mct "Как она стала такой сексуальной?"
+
+# game/code/d08/d08s01.rpy:154
+translate russian d08s01_bathe_6d4e0429:
+
+    # mct "She is even hotter with the water running down her body."
+    mct "От воды, стекающей по ее телу, она становится еще горячее."
+
+# game/code/d08/d08s01.rpy:157
+translate russian d08s01_bathe_b8bd9a8c:
+
+    # mct "I can't believe what I am seeing. {w}How is this even possible?"
+    mct "Я не могу поверить в то, что вижу. {w}Как такое вообще возможно?"
+
+# game/code/d08/d08s01.rpy:159
+translate russian d08s01_bathe_84a25daa:
+
+    # sy "You look good there. All toned and dripping."
+    sy "Ты хорошо выглядишь. Весь подтянутый и мокрый."
+
+# game/code/d08/d08s01.rpy:161
+translate russian d08s01_bathe_63a6d232:
+
+    # sy "Let me give you a hand."
+    sy "Позволь мне помочь тебе."
+
+# game/code/d08/d08s01.rpy:167
+translate russian d08s01_bathe_50eaf5b5:
+
+    # sy "Feels good doesn't it?"
+    sy "Приятно, правда?"
+
+# game/code/d08/d08s01.rpy:180
+translate russian d08s01_bathe_c7260dc8:
+
+    # sy "You know, there's something I've been meaning to tell you."
+    sy "Знаешь, я хотела тебе кое-что сказать."
+
+# game/code/d08/d08s01.rpy:183
+translate russian d08s01_bathe_a3fb7535:
+
+    # sy "I couldn't help noticing..."
+    sy "Я не могла не заметить..."
+
+# game/code/d08/d08s01.rpy:185
+translate russian d08s01_bathe_dc26bdcb:
+
+    # sy "I couldn't help noticing you fucking AmRose yesterday."
+    sy "Я не могла не заметить, как ты вчера трахал АмРоуз."
+
+# game/code/d08/d08s01.rpy:186
+translate russian d08s01_bathe_131eebe5:
+
+    # sy "Shh... don't say anything... just listen."
+    sy "Тшш... ничего не говори... просто слушай."
+
+# game/code/d08/d08s01.rpy:188
+translate russian d08s01_bathe_92bd92c2:
+
+    # sy "Don't worry. It's okay. I understand. She's gorgeous."
+    sy "Не беспокойся. Все нормально. Я понимаю. Она великолепна."
+
+# game/code/d08/d08s01.rpy:189
+translate russian d08s01_bathe_9f8f6e75:
+
+    # sy "AmRose is a wonderful woman and a good friend."
+    sy "АмРоуз - замечательная девушка и хорошая подруга."
+
+# game/code/d08/d08s01.rpy:191
+translate russian d08s01_bathe_22f718c8:
+
+    # sy "I really like her. She's like the sister I never had."
+    sy "Она мне очень нравится. Она как сестра, которой у меня никогда не было."
+
+# game/code/d08/d08s01.rpy:192
+translate russian d08s01_bathe_28cdfc68:
+
+    # sy "So don't even think about hurting her."
+    sy "Так что даже не думай о том, чтобы причинить ей боль."
+
+# game/code/d08/d08s01.rpy:193
+translate russian d08s01_bathe_e5a4cd9b:
+
+    # sy "She has strong feelings for you."
+    sy "У неё сильное чувство к тебе."
+
+# game/code/d08/d08s01.rpy:195
+translate russian d08s01_bathe_1850262c:
+
+    # sy "If you break her heart, well... {w}I'm sure you can imagine."
+    sy "Если ты разобьешь ей сердце, то тогда... {w}Уверена, ты можешь себе это представить."
+
+# game/code/d08/d08s01.rpy:196
+translate russian d08s01_bathe_3dc90035:
+
+    # mct "Oh! She is squeezing my balls!"
+    mct "Ох! Она сжимает мне яйца!"
+
+# game/code/d08/d08s01.rpy:197
+translate russian d08s01_bathe_dd0a5092:
+
+    # sy "You don't want to disappoint me."
+    sy "Ты же не хочешь меня разочаровать."
+
+# game/code/d08/d08s01.rpy:198
 translate russian d08s01_bathe_b4583873:
 
     # sy "You want AmRose to be happy... {w}and so do I."
     sy "Ты должен сделать всё, чтобы АмРоуз была счастлива... {w}и я тоже."
+
+# game/code/d08/d08s01.rpy:201
+translate russian d08s01_bathe_47bbd1e5:
+
+    # sy "Let me show you a little sample of how happy you can be."
+    sy "Позволь мне показать тебе маленький пример того, как ты можешь быть счастлив."
+
+# game/code/d08/d08s01.rpy:203
+translate russian d08s01_bathe_0c7f7b66:
+
+    # sy "I know you liked spying on me in the bathroom."
+    sy "Я знаю, что тебе нравится шпионить за мной в ванной."
+
+# game/code/d08/d08s01.rpy:205
+translate russian d08s01_bathe_bfaa8011:
+
+    # sy "You liked watching me pee."
+    sy "Тебе нравится смотреть, как я писаю."
+
+# game/code/d08/d08s01.rpy:207
+translate russian d08s01_bathe_b5b13864:
+
+    # sy "You must have wanted to be this close to me when I did it."
+    sy "Наверное ты хотел бы быть поближе ко мне, когда я это делала."
+
+# game/code/d08/d08s01.rpy:209
+translate russian d08s01_bathe_2373ed51:
+
+    # sy "Maybe you even wanted me to pee on you."
+    sy "Может, ты даже хотел, чтобы я на тебя пописала."
+
+# game/code/d08/d08s01.rpy:211
+translate russian d08s01_bathe_a2cb4da4:
+
+    # sy "Pee on your hot, hard, throbbing cock."
+    sy "Писала на твой горячий, твердый, пульсирующий член."
+
+# game/code/d08/d08s01.rpy:215
+translate russian d08s01_bathe_92d6aae4:
+
+    # sy "Just like this."
+    sy "Вот так."
+
+# game/code/d08/d08s01.rpy:219
+translate russian d08s01_bathe_015d20de:
+
+    # mct "Wow!"
+    mct "Воу!"
+
+# game/code/d08/d08s01.rpy:223
+translate russian d08s01_bathe_5a870419:
+
+    # sy "Tasty."
+    sy "Вкусно."
+
+# game/code/d08/d08s01.rpy:237
+translate russian d08s01_bathe_26901e33:
+
+    # sy "Do you understand? Your job is to keep AmRose very happy."
+    sy "Ты меня понял? Твоя задача что-бы АмРоуз была довольна."
+
+# game/code/d08/d08s01.rpy:239
+translate russian d08s01_bathe_0c5d2dcb:
+
+    # sy "Cum if you agree."
+    sy "Кончай, если согласен."
+
+# game/code/d08/d08s01.rpy:242
+translate russian d08s01_bathe_232c3f6d:
+
+    # mc "O-o-oh!"
+    mc "О-о-ох!"
+
+# game/code/d08/d08s01.rpy:244
+translate russian d08s01_bathe_fb970540:
+
+    # sy "Tsh-h-h! Not so loud!"
+    sy "Тш-ш-ш! Не так громко!"
+
+# game/code/d08/d08s01.rpy:253
+translate russian d08s01_bathe_b395490b:
+
+    # sy "Let me just rinse this off... {w}then you can finish cleaning yourself."
+    sy "Позволь мне смыть это... {w}потом ты тоже сможешь закончить мыться."
+
+translate russian strings:
+
+    # game/code/d08/d08s01.rpy:102
+    old "Kick Stacy out"
+    new "Прогнать Стейси"
+
+    # game/code/d08/d08s01.rpy:102
+    old "Let Stacy bathe with you"
+    new "Пусть Стейси искупается с тобой"
 
