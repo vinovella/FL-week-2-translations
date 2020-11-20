@@ -328,13 +328,13 @@ translate deutsch d08s02_9e8acfc2:
 translate deutsch d08s02_16e06539:
 
     # sy "Okay, but I'm asking about you. There was a lot of guys shoving-"
-    sy "Okay, aber ich frage über dich. Da waren einige Jungs dabei sich Dinge zu schieben-
+    sy "Okay, aber ich frage über dich. Da waren einige Jungs dabei sich Dinge zu schieben-"
 
 # game/code/d08/d08s02.rpy:102
 translate deutsch d08s02_83b8a4b5:
 
     # mc "Nope! Nope! Nope!"
-    mc "Nein! Nein! Nein!
+    mc "Nein! Nein! Nein!"
 
 # game/code/d08/d08s02.rpy:104
 translate deutsch d08s02_1263dd0d:
