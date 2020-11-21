@@ -786,7 +786,7 @@ translate russian strings:
 
     # game/code/d09/d09s05.rpy:193
     old "Fuck that bitch"
-    new "К черту эту сучку"
+    new "Трахнуть эту сучку"
 
     # game/code/d09/d09s05.rpy:376
     old "Fuck, I'm getting close."
