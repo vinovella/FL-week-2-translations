@@ -208,7 +208,7 @@ translate deutsch d08s02_5a939688:
 translate deutsch d08s02_4d6f365a:
 
     # sy "Oh, that's just to get started. Then it usually goes to inflatable objects."
-    sy "Oh, das ist nur der Anfang. Normalerweise get es nun zu aufblasbaren Objecten über.
+    sy "Oh, das ist nur der Anfang. Normalerweise get es nun zu aufblasbaren Objecten über."
 
 # game/code/d08/d08s02.rpy:69
 translate deutsch d08s02_682c2874:
@@ -751,4 +751,3 @@ translate deutsch d08s02_d4dcfd6e:
 
     # arj "I'll see you in class."
     arj "Ich sehe dich im Unterricht."
-
