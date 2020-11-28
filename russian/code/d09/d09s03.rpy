@@ -1134,6 +1134,74 @@ translate russian replay_d09s03_f3383e9d:
     # mct "Now I have to run for this strange task... {w}Call boy... {w}I guess there is no turning back."
     mct "Теперь я должен бежать за этим странным заданием... {w}Мальчик по вызову... {w}Думаю, что пути назад нет."
 
+## Substitution translations ###################################################
+
+# game/code/d09/d09s03.rpy:325
+translate russian replay_d09s03_315e5def:
+
+    # mc "So, when I was a kid, I had this [d09s03_pet!t] and we were inseparable."
+    mc "Так вот, когда я был ребенком, у меня был [d09s03_pet!t] и мы были неразлучны."
+
+# game/code/d09/d09s03.rpy:327
+translate russian replay_d09s03_161f6ecc:
+
+    # mc "Every night, my [d09s03_pet!t] and I would climb into bed together and [d09s03_verb!t]!"
+    mc "Каждую ночь, мой [d09s03_pet!t] и я залезали вместе в мою постель и [d09s03_verb!t]!"
+
+# game/code/d09/d09s03.rpy:337
+translate russian replay_d09s03_c39bc40d:
+
+    # lc "...{w} You and your [d09s03_pet!t] would [d09s03_verb!t] on your bed every night?"
+    lc "...{w} И часто ты и твой [d09s03_pet!t] [d09s03_verb!t] на твоей кровати?"
+
+# game/code/d09/d09s03.rpy:345
+translate russian replay_d09s03_abfb037f:
+
+    # mc "I wasn't supposed to go into the forest alone, but I would cheat by bringing my [d09s03_pet!t] with me."
+    mc "Мне нельзя было ходить в лес в одиночку, но я хитрил, устроив так, чтобы мой [d09s03_pet!t] ходил со мной."
+
+# game/code/d09/d09s03.rpy:347
+translate russian replay_d09s03_c7a83ce4:
+
+    # mc "Next thing I knew my [d09s03_pet!t] was frantically digging a hole in the ground. It must have been at least a couple feet deep."
+    mc "Следующее, что я помню, что мой [d09s03_pet!t] стал лихорадочно копать яму в земле. И выкопал её не меньше полуметра глубиной."
+
+# game/code/d09/d09s03.rpy:354
+translate russian replay_d09s03_5256147b:
+
+    # mc "Sort of. It was just an old cardboard box, filled with [d09s03_object!t]."
+    mc "Если бы. Это была просто старая картонная коробка, в которой лежали [d09s03_object!t]."
+
+# game/code/d09/d09s03.rpy:360
+translate russian replay_d09s03_30ccb6cb:
+
+    # mc "It was a box full of [d09s03_object!t] and I was just a little kid.{w} This was my first experience with that kinda stuff."
+    mc "Это была коробка, в которой лежали [d09s03_object!t], а я был всего лишь маленьким ребенком. {w}Это был мой первый клад."
+
+# game/code/d09/d09s03.rpy:374
+translate russian replay_d09s03_922484ca:
+
+    # mc "We knew more kids would want to check out our treasure of [d09s03_object!t] and didn't want everyone crowding into the treehouse, so we cleared off a nearby patch of ground."
+    mc "Мы знали, что остальные дети тоже захотят посмотреть на наше сокровище [d09s03_object!t] и не хотели, чтобы все толпились в домике на дереве, поэтому мы расчистили участок земли снизу."
+
+# game/code/d09/d09s03.rpy:380
+translate russian replay_d09s03_b02f9f89:
+
+    # mc "And of course, pretty soon word got around and there were always a few of us \"playing\" in the woods looking at [d09s03_object!t]..."
+    mc "И, конечно же, довольно скоро пошли слухи, и частенько некоторые из нас, \"играя\" в лесу, рассматривали [d09s03_object!t]..."
+
+# game/code/d09/d09s03.rpy:394
+translate russian replay_d09s03_4483d594:
+
+    # mc "Maybe. The treehouse survived it, but the box of [d09s03_object!t] didn't. It somehow got knocked over in the wind and the contents were scattered all over the forest."
+    mc "Возможно. Домик на дереве пережил это, но коробка в которой хранились [d09s03_object!t] - нет. Она каким-то образом опрокинулась от ветра, и содержимое разлетелось по всему лесу."
+
+# game/code/d09/d09s03.rpy:395
+translate russian replay_d09s03_a805dba6:
+
+    # mc "And I do mean all over. Like the distance of a football field at least... [d09s03_object!t], all wet and soggy, covered in dirt and torn to shreds... they covered the forest floor like pornographic leaves."
+    mc "И я имею в виду весь лес. По крайней мере, площадь с футбольное поле... [d09s03_object!t], все мокрые, покрытые грязью и разорванные в клочья... они покрывали лесную подстилку, как опавшие листья."
+
 translate russian strings:
 
     # game/code/d09/d09s03.rpy:273
@@ -1184,3 +1252,38 @@ translate russian strings:
     old "Box of Soiled Condoms"
     new "Коробка использованных презервативов"
 
+    # game/code/d09/d09s03.rpy:276
+    old "dog"
+    new "пёс"
+
+    # game/code/d09/d09s03.rpy:280
+    old "horse"
+    new "конь"
+
+    # game/code/d09/d09s03.rpy:284
+    old "dragon"
+    new "дракон"
+
+    # game/code/d09/d09s03.rpy:291
+    old "cuddle"
+    new "обнимались"
+
+    # game/code/d09/d09s03.rpy:295
+    old "dance"
+    new "танцевали"
+
+    # game/code/d09/d09s03.rpy:299
+    old "fuck"
+    new "трахались"
+
+    # game/code/d09/d09s03.rpy:306
+    old "adult magazines"
+    new "порножурналы"
+
+    # game/code/d09/d09s03.rpy:310
+    old "used panties"
+    new "грязные трусы"
+
+    # game/code/d09/d09s03.rpy:314
+    old "soiled condoms"
+    new "использованные презервативы"
