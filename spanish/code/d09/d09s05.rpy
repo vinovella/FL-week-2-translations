@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-11-01 14:31
+﻿# TODO: Translation updated at 2020-11-29 22:08
 
 # game/code/d09/d09s05.rpy:37
 translate spanish d09s05_57f407bc:
@@ -571,10 +571,10 @@ translate spanish d09s05_fucks_abaefc7f:
     mc "You know how they saying that the girl's best friend is gold?"
 
 # game/code/d09/d09s05.rpy:293
-translate spanish d09s05_fucks_455afd57:
+translate spanish d09s05_fucks_02b7770f:
 
-    # sb "Diamonds {w}Diamonds are the best...{w}"
-    sb "Diamonds {w}Diamonds are the best...{w}"
+    # sb "Diamonds.{w}.. Diamonds are the best."
+    sb "Diamonds.{w}.. Diamonds are the best."
 
 # game/code/d09/d09s05.rpy:297
 translate spanish d09s05_fucks_a71d1eb8:

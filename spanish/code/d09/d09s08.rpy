@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-11-01 14:31
+﻿# TODO: Translation updated at 2020-11-29 22:08
 
 # game/code/d09/d09s08.rpy:4
 translate spanish d09s08_339cfe9f:
@@ -665,10 +665,4 @@ translate spanish d09s08_a20cefa7:
 
     # "..."
     "..."
-
-# game/code/d09/d09s08.rpy:169
-translate spanish d09s08_6071ee19:
-
-    # "Save game here."
-    "Save game here."
 
