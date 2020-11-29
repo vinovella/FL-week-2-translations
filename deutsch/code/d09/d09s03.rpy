@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-11-10 12:16
+﻿# TODO: Translation updated at 2020-11-29 22:04
 
 # game/code/d09/d09s03.rpy:52
 translate deutsch d09s03_79966fa3:
@@ -649,10 +649,10 @@ translate deutsch replay_d09s03_5ea45204:
     lc "Okay... hit me with your best shot."
 
 # game/code/d09/d09s03.rpy:325
-translate deutsch replay_d09s03_3cbb8d9e:
+translate deutsch replay_d09s03_315e5def:
 
-    # mc "So, when I was a kid, I had this [d09s03_pet] and we were inseparable."
-    mc "So, when I was a kid, I had this [d09s03_pet] and we were inseparable."
+    # mc "So, when I was a kid, I had this [d09s03_pet!t] and we were inseparable."
+    mc "So, when I was a kid, I had this [d09s03_pet!t] and we were inseparable."
 
 # game/code/d09/d09s03.rpy:326
 translate deutsch replay_d09s03_03c62655:
@@ -661,10 +661,10 @@ translate deutsch replay_d09s03_03c62655:
     mc "We would run and play and just have a great time."
 
 # game/code/d09/d09s03.rpy:327
-translate deutsch replay_d09s03_4e17cc2c:
+translate deutsch replay_d09s03_161f6ecc:
 
-    # mc "Every night, my [d09s03_pet] and I would climb into bed together and [d09s03_verb]!"
-    mc "Every night, my [d09s03_pet] and I would climb into bed together and [d09s03_verb]!"
+    # mc "Every night, my [d09s03_pet!t] and I would climb into bed together and [d09s03_verb!t]!"
+    mc "Every night, my [d09s03_pet!t] and I would climb into bed together and [d09s03_verb!t]!"
 
 # game/code/d09/d09s03.rpy:331
 translate deutsch replay_d09s03_19f574ef:
@@ -679,10 +679,10 @@ translate deutsch replay_d09s03_2181fbc7:
     lc "Aww, that's so sweet."
 
 # game/code/d09/d09s03.rpy:337
-translate deutsch replay_d09s03_767c8cde:
+translate deutsch replay_d09s03_c39bc40d:
 
-    # lc "...{w} You and your [d09s03_pet] would [d09s03_verb] on your bed every night?"
-    lc "...{w} You and your [d09s03_pet] would [d09s03_verb] on your bed every night?"
+    # lc "...{w} You and your [d09s03_pet!t] would [d09s03_verb!t] on your bed every night?"
+    lc "...{w} You and your [d09s03_pet!t] would [d09s03_verb!t] on your bed every night?"
 
 # game/code/d09/d09s03.rpy:339
 translate deutsch replay_d09s03_af566bc7:
@@ -703,10 +703,10 @@ translate deutsch replay_d09s03_3bd52983:
     mc "The house I grew up in was in the suburbs, but only like a block away was the edge of a forest."
 
 # game/code/d09/d09s03.rpy:345
-translate deutsch replay_d09s03_82c04f7d:
+translate deutsch replay_d09s03_abfb037f:
 
-    # mc "I wasn't supposed to go into the forest alone, but I would cheat by bringing my [d09s03_pet] with me."
-    mc "I wasn't supposed to go into the forest alone, but I would cheat by bringing my [d09s03_pet] with me."
+    # mc "I wasn't supposed to go into the forest alone, but I would cheat by bringing my [d09s03_pet!t] with me."
+    mc "I wasn't supposed to go into the forest alone, but I would cheat by bringing my [d09s03_pet!t] with me."
 
 # game/code/d09/d09s03.rpy:346
 translate deutsch replay_d09s03_24258dd8:
@@ -715,10 +715,10 @@ translate deutsch replay_d09s03_24258dd8:
     mc "One day while we were walking in the woods, suddenly she smelled something and all I could do was keep up."
 
 # game/code/d09/d09s03.rpy:347
-translate deutsch replay_d09s03_d66a7cc5:
+translate deutsch replay_d09s03_c7a83ce4:
 
-    # mc "Next thing I knew my [d09s03_pet] was frantically digging a hole in the ground. It must have been at least a couple feet deep."
-    mc "Next thing I knew my [d09s03_pet] was frantically digging a hole in the ground. It must have been at least a couple feet deep."
+    # mc "Next thing I knew my [d09s03_pet!t] was frantically digging a hole in the ground. It must have been at least a couple feet deep."
+    mc "Next thing I knew my [d09s03_pet!t] was frantically digging a hole in the ground. It must have been at least a couple feet deep."
 
 # game/code/d09/d09s03.rpy:348
 translate deutsch replay_d09s03_54c1e44f:
@@ -745,10 +745,10 @@ translate deutsch replay_d09s03_89287b87:
     lc "Buried treasure?"
 
 # game/code/d09/d09s03.rpy:354
-translate deutsch replay_d09s03_45f0a527:
+translate deutsch replay_d09s03_5256147b:
 
-    # mc "Sort of. It was just an old cardboard box, filled with [d09s03_object]."
-    mc "Sort of. It was just an old cardboard box, filled with [d09s03_object]."
+    # mc "Sort of. It was just an old cardboard box, filled with [d09s03_object!t]."
+    mc "Sort of. It was just an old cardboard box, filled with [d09s03_object!t]."
 
 # game/code/d09/d09s03.rpy:355
 translate deutsch replay_d09s03_7591f9b5:
@@ -769,10 +769,10 @@ translate deutsch replay_d09s03_738a3d14:
     lc "Why would you do that?"
 
 # game/code/d09/d09s03.rpy:360
-translate deutsch replay_d09s03_819d670e:
+translate deutsch replay_d09s03_30ccb6cb:
 
-    # mc "It was a box full of [d09s03_object] and I was just a little kid.{w} This was my first experience with that kinda stuff."
-    mc "It was a box full of [d09s03_object] and I was just a little kid.{w} This was my first experience with that kinda stuff."
+    # mc "It was a box full of [d09s03_object!t] and I was just a little kid.{w} This was my first experience with that kinda stuff."
+    mc "It was a box full of [d09s03_object!t] and I was just a little kid.{w} This was my first experience with that kinda stuff."
 
 # game/code/d09/d09s03.rpy:361
 translate deutsch replay_d09s03_1dd280be:
@@ -811,10 +811,10 @@ translate deutsch replay_d09s03_5f75ce82:
     mc "It wasn't really a treehouse... it was just a bunch of twigs and tree limbs we found laying around, that we wove together into some sort of structure."
 
 # game/code/d09/d09s03.rpy:374
-translate deutsch replay_d09s03_9f23306d:
+translate deutsch replay_d09s03_922484ca:
 
-    # mc "We knew more kids would want to check out our treasure of [d09s03_object] and didn't want everyone crowding into the treehouse, so we cleared off a nearby patch of ground."
-    mc "We knew more kids would want to check out our treasure of [d09s03_object] and didn't want everyone crowding into the treehouse, so we cleared off a nearby patch of ground."
+    # mc "We knew more kids would want to check out our treasure of [d09s03_object!t] and didn't want everyone crowding into the treehouse, so we cleared off a nearby patch of ground."
+    mc "We knew more kids would want to check out our treasure of [d09s03_object!t] and didn't want everyone crowding into the treehouse, so we cleared off a nearby patch of ground."
 
 # game/code/d09/d09s03.rpy:379
 translate deutsch replay_d09s03_98daf7d3:
@@ -823,10 +823,10 @@ translate deutsch replay_d09s03_98daf7d3:
     mc "And we build a foxhole with a little wall to prevent anyone seeing us from the road or their backyard."
 
 # game/code/d09/d09s03.rpy:380
-translate deutsch replay_d09s03_a097c2f0:
+translate deutsch replay_d09s03_b02f9f89:
 
-    # mc "And of course, pretty soon word got around and there were always a few of us \"playing\" in the woods looking at [d09s03_object]..."
-    mc "And of course, pretty soon word got around and there were always a few of us \"playing\" in the woods looking at [d09s03_object]..."
+    # mc "And of course, pretty soon word got around and there were always a few of us \"playing\" in the woods looking at [d09s03_object!t]..."
+    mc "And of course, pretty soon word got around and there were always a few of us \"playing\" in the woods looking at [d09s03_object!t]..."
 
 # game/code/d09/d09s03.rpy:383
 translate deutsch replay_d09s03_9da7b9fc:
@@ -871,16 +871,16 @@ translate deutsch replay_d09s03_6bf6bb9f:
     lc "Maybe improvements to the electricity infrastructure?"
 
 # game/code/d09/d09s03.rpy:394
-translate deutsch replay_d09s03_a2a42ce8:
+translate deutsch replay_d09s03_4483d594:
 
-    # mc "Maybe. The treehouse survived it, but the box of [d09s03_object] didn't. It somehow got knocked over in the wind and the contents were scattered all over the forest."
-    mc "Maybe. The treehouse survived it, but the box of [d09s03_object] didn't. It somehow got knocked over in the wind and the contents were scattered all over the forest."
+    # mc "Maybe. The treehouse survived it, but the box of [d09s03_object!t] didn't. It somehow got knocked over in the wind and the contents were scattered all over the forest."
+    mc "Maybe. The treehouse survived it, but the box of [d09s03_object!t] didn't. It somehow got knocked over in the wind and the contents were scattered all over the forest."
 
 # game/code/d09/d09s03.rpy:395
-translate deutsch replay_d09s03_dfbf69bb:
+translate deutsch replay_d09s03_a805dba6:
 
-    # mc "And I do mean all over. Like the distance of a football field at least... [d09s03_object], all wet and soggy, covered in dirt and torn to shreds... they covered the forest floor like pornographic leaves."
-    mc "And I do mean all over. Like the distance of a football field at least... [d09s03_object], all wet and soggy, covered in dirt and torn to shreds... they covered the forest floor like pornographic leaves."
+    # mc "And I do mean all over. Like the distance of a football field at least... [d09s03_object!t], all wet and soggy, covered in dirt and torn to shreds... they covered the forest floor like pornographic leaves."
+    mc "And I do mean all over. Like the distance of a football field at least... [d09s03_object!t], all wet and soggy, covered in dirt and torn to shreds... they covered the forest floor like pornographic leaves."
 
 # game/code/d09/d09s03.rpy:396
 translate deutsch replay_d09s03_36058333:
@@ -1152,6 +1152,18 @@ translate deutsch strings:
     old "Dragon"
     new "Dragon"
 
+    # game/code/d09/d09s03.rpy:276
+    old "dog"
+    new "dog"
+
+    # game/code/d09/d09s03.rpy:280
+    old "horse"
+    new "horse"
+
+    # game/code/d09/d09s03.rpy:284
+    old "dragon"
+    new "dragon"
+
     # game/code/d09/d09s03.rpy:288
     old "Select a Verb"
     new "Select a Verb"
@@ -1168,6 +1180,18 @@ translate deutsch strings:
     old "Fuck"
     new "Fuck"
 
+    # game/code/d09/d09s03.rpy:291
+    old "cuddle"
+    new "cuddle"
+
+    # game/code/d09/d09s03.rpy:295
+    old "dance"
+    new "dance"
+
+    # game/code/d09/d09s03.rpy:299
+    old "fuck"
+    new "fuck"
+
     # game/code/d09/d09s03.rpy:303
     old "Choose a Box"
     new "Choose a Box"
@@ -1183,4 +1207,16 @@ translate deutsch strings:
     # game/code/d09/d09s03.rpy:303
     old "Box of Soiled Condoms"
     new "Box of Soiled Condoms"
+
+    # game/code/d09/d09s03.rpy:306
+    old "adult magazines"
+    new "adult magazines"
+
+    # game/code/d09/d09s03.rpy:310
+    old "used panties"
+    new "used panties"
+
+    # game/code/d09/d09s03.rpy:314
+    old "soiled condoms"
+    new "soiled condoms"
 
