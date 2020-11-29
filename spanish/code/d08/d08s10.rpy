@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-11-01 14:31
+﻿# TODO: Translation updated at 2020-11-29 22:08
 
 # game/code/d08/d08s10.rpy:3
 translate spanish d08s10_56849fdc:
