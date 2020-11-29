@@ -571,11 +571,11 @@ translate russian d09s05_fucks_abaefc7f:
     mc "Знаешь, как говорят, что лучший друг девушки - золото?"
 
 # game/code/d09/d09s05.rpy:293
-translate russian d09s05_fucks_455afd57:
+translate russian d09s05_fucks_02b7770f:
 
-    # sb "Diamonds {w}Diamonds are the best...{w}"
-    sb "Бриллианты. {w}Бриллианты - лучшие друзья..."
-
+    # sb "Diamonds.{w}.. Diamonds are the best."
+    sb "Бриллианты.{w}.. Бриллианты - лучшие друзья."
+    
 # game/code/d09/d09s05.rpy:297
 translate russian d09s05_fucks_a71d1eb8:
 
