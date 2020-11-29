@@ -412,7 +412,7 @@ translate spanish d08s01_bathe_92d6aae4:
 translate spanish d08s01_bathe_015d20de:
 
     # mct "Wow!"
-    mct "¿Guau!"
+    mct "¡Guau!"
 
 # game/code/d08/d08s01.rpy:223
 translate spanish d08s01_bathe_5a870419:
