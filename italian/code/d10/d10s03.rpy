@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-11-29 21:58
+﻿# TODO: Translation updated at 2020-11-30 13:03
 
 # game/code/d10/d10s03.rpy:26
 translate italian d10s03_68b91133:
@@ -109,10 +109,10 @@ translate italian d10s03_bf7f7c99:
     sb "It's 'cause of that two pump chump I had to go find some decent dick at 1 in the fucking morning."
 
 # game/code/d10/d10s03.rpy:49
-translate italian d10s03_51033f9b:
+translate italian d10s03_940b5dfb:
 
-    # sb "What are you smiling? What's so funny?"
-    sb "What are you smiling? What's so funny?"
+    # sb "Why are you smiling? What's so funny?"
+    sb "Why are you smiling? What's so funny?"
 
 # game/code/d10/d10s03.rpy:50
 translate italian d10s03_36c28553:
