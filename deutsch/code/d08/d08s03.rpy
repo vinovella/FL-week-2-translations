@@ -1323,7 +1323,7 @@ translate deutsch d08s03_ee47e49d:
 
     # mc "But if you're sure that I can get enough points for the Party, why not just invite me?"
     mc "Aber wenn ihr bereits denkt das ich es selbst verdienen werde, warum nicht einfach eine Einladung?"
-    
+
 # game/code/d08/d08s03.rpy:140
 translate deutsch d08s03_254d4ec2:
 
@@ -1341,8 +1341,8 @@ translate deutsch d08s03_da13a8f7:
 translate deutsch d08s03_c5c7c1f2:
 
     # mct "Huh. Last Monday was cum. Today is a blowjob. I guess Mondays are for men."
-     mct "Huh. Letzten Montag war es Sperma. Heute ist es Blow Job. Ich ahne das Montage für Kerle sind."
-     
+    mct "Huh. Letzten Montag war es Sperma. Heute ist es Blow Job. Ich ahne das Montage für Kerle sind."
+
 # game/code/d08/d08s03.rpy:269
 translate deutsch replay_d08s03_e3ebb20d:
 
@@ -1360,7 +1360,7 @@ translate deutsch replay_d08s03_3240527e:
 
     # rn "*blah blah blah*... Wilson's Raid into Georgia...*blah blah blah*"
     rn "*blah blah blah*... Wilson's Überfall auf Georgia...*blah blah blah*"
-    
+
 # game/code/d08/d08s03.rpy:277
 translate deutsch replay_d08s03_8907d4f5:
 
@@ -1408,7 +1408,7 @@ translate deutsch replay_d08s03_144dbbdf:
 
     # mk "Before that, when I was sucking your cock... {w}it was just the best thing ever."
     mk "Ja. Den Traum den wir geteilt haben... du weißt schon, wo du mich gefickt hast."
-    
+
 # game/code/d08/d08s03.rpy:288
 translate deutsch replay_d08s03_a03597fd:
 
@@ -1497,7 +1497,7 @@ translate deutsch replay_d08s03_36723146:
 translate deutsch replay_d08s03_9df17b07:
 
     # mc "I think you should calm down and finally decide what is that you actually want. Ok?"
-    mc  "Ich denke du solltest dich erstmal beruhigen und dann endgültig entscheiden was du willst. Ok?"
+    mc "Ich denke du solltest dich erstmal beruhigen und dann endgültig entscheiden was du willst. Ok?"
 
 # game/code/d08/d08s03.rpy:317
 translate deutsch replay_d08s03_61f1d479:
@@ -1516,7 +1516,6 @@ translate deutsch replay_d08s03_ab4411c4:
 
     # mc "Take it out and feel it in your hand."
     mc "Nimm ihn raus, und fühle ihn mit deiner Hand."
-
 
 # game/code/d08/d08s03.rpy:327
 translate deutsch replay_d08s03_76101272:
@@ -1732,7 +1731,7 @@ translate deutsch replay_d08s03_dd68f8a3:
 translate deutsch replay_d08s03_cbf695c8:
 
     # mct "Shit... umm... I know this..."
-    "Scheisse... umm... Ich weiß das..."
+    mct "Scheisse... umm... Ich weiß das..."
 
 # game/code/d08/d08s03.rpy:435
 translate deutsch replay_d08s03_59df0524:
@@ -1883,7 +1882,7 @@ translate deutsch replay_d08s03_b68ac449:
 
     # mct "Oh shit, this has to be a thousand times worse for her."
     mct "Oh scheisse, das muss für sie tausendmal schlimmer sein."
-    
+
 # game/code/d08/d08s03.rpy:481
 translate deutsch replay_d08s03_5a0d9fea:
 
