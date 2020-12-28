@@ -142,7 +142,7 @@ translate deutsch d09s01_70cc201d:
 translate deutsch d09s01_ec9db6c5:
 
     # mct "I wonder why the challenge of the day is being posted so early."
-    mct "Ich frage mich, warum die Herausforderung des Tages so früh gepostet wird"
+    mct "Ich frage mich, warum die Herausforderung des Tages so früh gepostet wird."
 
 # game/code/d09/d09s01.rpy:53
 translate deutsch d09s01_939dbfc5:
@@ -154,7 +154,7 @@ translate deutsch d09s01_939dbfc5:
 translate deutsch d09s01_f1b0a377:
 
     # mct "I've never tried using a vibrator on my dick."
-    mct "Ich habe noch nie versucht, einen Vibrator an meinem Schwanz zu benutzen.."
+    mct "Ich habe noch nie versucht, einen Vibrator an meinem Schwanz zu benutzen."
 
 # game/code/d09/d09s01.rpy:56
 translate deutsch d09s01_2f6041c8:
