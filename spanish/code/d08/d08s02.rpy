@@ -82,13 +82,13 @@ translate spanish d08s02_e6c50c5b:
 translate spanish d08s02_9f904d03:
 
     # mc "Maybe I just need more practice."
-    mc "Quizás solo necesito más práctica"
+    mc "Quizás solo necesito más práctica."
 
 # game/code/d08/d08s02.rpy:30
 translate spanish d08s02_aa573f2e:
 
     # arj "Well, don't practice on me! I prefer you being honest."
-    arj "Bueno, ¡no practiques conmigo! Prefiero que seas honesto.."
+    arj "Bueno, ¡no practiques conmigo! Prefiero que seas honesto."
 
 # game/code/d08/d08s02.rpy:34
 translate spanish d08s02_62ab079c:
@@ -442,7 +442,7 @@ translate spanish d08s02_e9a7efb3:
 translate spanish d08s02_3d890773:
 
     # sy "Well, aside from letting you watch."
-    sy "Bueno, además de dejarte mirar.."
+    sy "Bueno, además de dejarte mirar."
 
 # game/code/d08/d08s02.rpy:137
 translate spanish d08s02_453decdb:
