@@ -28,7 +28,7 @@ translate spanish d08s04_8a677757:
 translate spanish d08s04_292fdcff:
 
     # mct "It sucks that I need to earn those damn points again..."
-    mct ""Apesta que necesite ganar esos malditos puntos de nuevo..."
+    mct "Apesta que necesite ganar esos malditos puntos de nuevo..."
 
 # game/code/d08/d08s04.rpy:48
 translate spanish d08s04_6beac8e5:
@@ -208,7 +208,7 @@ translate spanish replay_d08s04_eb99664f:
 translate spanish replay_d08s04_04270dba:
 
     # mesfl "I thought the challenge would be to drink your pee. Not my own..."
-    mesfl "Pensé que el desafío sería beber tu orina. No la mía...""
+    mesfl "Pensé que el desafío sería beber tu orina. No la mía..."
 
 # game/code/d08/d08s04.rpy:121
 translate spanish replay_d08s04_d0c9df34:
@@ -478,7 +478,7 @@ translate spanish replay_d08s04_ab0c83ee:
 translate spanish replay_d08s04_82e34cfd:
 
     # mc "I want photos. Show me that you're drinking regularly and staying healthy."
-    mc "Quiero fotos. Muéstrame que estás bebiendo regularmente y manteniéndote saludable"
+    mc "Quiero fotos. Muéstrame que estás bebiendo regularmente y manteniéndote saludable."
 
 # game/code/d08/d08s04.rpy:237
 translate spanish replay_d08s04_8c296cef:
