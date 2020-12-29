@@ -328,7 +328,7 @@ translate spanish d08s03_120b18d2:
 translate spanish d08s03_58aba63d:
 
     # mc "Good to know. Thanks."
-    mc "Es bueno saberlo. Gracias"
+    mc "Es bueno saberlo. Gracias."
 
 # game/code/d08/d08s03.rpy:120
 translate spanish d08s03_72b9536c:
@@ -508,7 +508,7 @@ translate spanish d08s03_be86f2ed:
 translate spanish d08s03_b706c3fc:
 
     # kb "We both need to buckle something and pay attention if we're going to be ready for finals."
-    kb "Ambos tenemos que abrocharnos algo y prestar atención si vamos a estar listos para los examenes finales"
+    kb "Ambos tenemos que abrocharnos algo y prestar atención si vamos a estar listos para los examenes finales."
 
 # game/code/d08/d08s03.rpy:185
 translate spanish d08s03_a42ad403:
@@ -940,7 +940,7 @@ translate spanish replay_d08s03_374d8e06:
 translate spanish replay_d08s03_40ca58e2:
 
     # mc "Don't just stroke the shaft. You have to work the tip too."
-    mc "No sólo aprietes la mitad. Tienes que trabajar en la punta también"
+    mc "No sólo aprietes la mitad. Tienes que trabajar en la punta también."
 
 # game/code/d08/d08s03.rpy:344
 translate spanish replay_d08s03_e8d3d303:
@@ -1114,7 +1114,7 @@ translate spanish replay_d08s03_3c3bc6c8:
 translate spanish replay_d08s03_f18f651f:
 
     # mes "Due to his injury he became addicted to morphine, and was trying to get clean."
-    mes "Debido a su lesión se volvió adicto a la morfina, y estaba tratando de limpiarse"
+    mes "Debido a su lesión se volvió adicto a la morfina, y estaba tratando de limpiarse."
 
 # game/code/d08/d08s03.rpy:441
 translate spanish replay_d08s03_2501a982:
