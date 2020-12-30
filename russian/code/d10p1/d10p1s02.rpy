@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-12-30 22:44
+﻿# TODO: Translation updated at 2020-12-30 22:51
 
 # game/code/d10p1/d10p1s02.rpy:35
 translate russian d10p1s02_a9c5b073:
@@ -462,296 +462,296 @@ translate russian d10p1s02_a5589ad2:
     # mc "...Well, that's a good point. {w}Sure, why not?"
     mc "...Well, that's a good point. {w}Sure, why not?"
 
-# game/code/d10p1/d10p1s02.rpy:148
-translate russian d10p1s02_6c0d68ca:
+# game/code/d10p1/d10p1s02.rpy:150
+translate russian replay_d10p1s02_6c0d68ca:
 
     # aw "Great! Hm..."
     aw "Great! Hm..."
 
-# game/code/d10p1/d10p1s02.rpy:150
-translate russian d10p1s02_70b629c2:
+# game/code/d10p1/d10p1s02.rpy:152
+translate russian replay_d10p1s02_70b629c2:
 
     # aw "Alright. How about this? "
     aw "Alright. How about this? "
 
-# game/code/d10p1/d10p1s02.rpy:151
-translate russian d10p1s02_6c27e7b8:
+# game/code/d10p1/d10p1s02.rpy:153
+translate russian replay_d10p1s02_6c27e7b8:
 
     # aw "You go on that step and I'll be one below you. You can try and get me off from behind me."
     aw "You go on that step and I'll be one below you. You can try and get me off from behind me."
 
-# game/code/d10p1/d10p1s02.rpy:152
-translate russian d10p1s02_606e2d02:
+# game/code/d10p1/d10p1s02.rpy:154
+translate russian replay_d10p1s02_606e2d02:
 
     # mc "Sure."
     mc "Sure."
 
-# game/code/d10p1/d10p1s02.rpy:154
-translate russian d10p1s02_c2dfb196:
+# game/code/d10p1/d10p1s02.rpy:156
+translate russian replay_d10p1s02_c2dfb196:
 
     # mc "Wait, how exactly am I supposed to...y'know—"
     mc "Wait, how exactly am I supposed to...y'know—"
 
-# game/code/d10p1/d10p1s02.rpy:155
-translate russian d10p1s02_af78c9ee:
+# game/code/d10p1/d10p1s02.rpy:157
+translate russian replay_d10p1s02_af78c9ee:
 
     # aw "You {i}have{/i} gotten off a woman before, right?"
     aw "You {i}have{/i} gotten off a woman before, right?"
 
-# game/code/d10p1/d10p1s02.rpy:156
-translate russian d10p1s02_4860c3ce:
+# game/code/d10p1/d10p1s02.rpy:158
+translate russian replay_d10p1s02_4860c3ce:
 
     # mc "I— Wha—? Of course I have! {w}I just...I just wanted to know what the boundaries were."
     mc "I— Wha—? Of course I have! {w}I just...I just wanted to know what the boundaries were."
 
-# game/code/d10p1/d10p1s02.rpy:158
-translate russian d10p1s02_f1002963:
+# game/code/d10p1/d10p1s02.rpy:160
+translate russian replay_d10p1s02_f1002963:
 
     # aw "Ah... Well, how about you do your thing and I tell you if you cross them?"
     aw "Ah... Well, how about you do your thing and I tell you if you cross them?"
 
-# game/code/d10p1/d10p1s02.rpy:159
-translate russian d10p1s02_fdaca743:
+# game/code/d10p1/d10p1s02.rpy:161
+translate russian replay_d10p1s02_fdaca743:
 
     # mc "Sure. That works, I guess."
     mc "Sure. That works, I guess."
 
-# game/code/d10p1/d10p1s02.rpy:167
-translate russian d10p1s02_3a949fed:
+# game/code/d10p1/d10p1s02.rpy:169
+translate russian replay_d10p1s02_3a949fed:
 
     # aw "Ahh..."
     aw "Ahh..."
 
-# game/code/d10p1/d10p1s02.rpy:168
-translate russian d10p1s02_1eaaeb2e:
+# game/code/d10p1/d10p1s02.rpy:170
+translate russian replay_d10p1s02_1eaaeb2e:
 
     # mc "Wait, did you jus—"
     mc "Wait, did you jus—"
 
-# game/code/d10p1/d10p1s02.rpy:169
-translate russian d10p1s02_aa25011d_1:
+# game/code/d10p1/d10p1s02.rpy:171
+translate russian replay_d10p1s02_aa25011d:
 
     # aw "Yep."
     aw "Yep."
 
-# game/code/d10p1/d10p1s02.rpy:171
-translate russian d10p1s02_6a8ac4ff:
+# game/code/d10p1/d10p1s02.rpy:173
+translate russian replay_d10p1s02_6a8ac4ff:
 
     # mc "Just from—"
     mc "Just from—"
 
-# game/code/d10p1/d10p1s02.rpy:172
-translate russian d10p1s02_aa25011d_2:
+# game/code/d10p1/d10p1s02.rpy:174
+translate russian replay_d10p1s02_aa25011d_1:
 
     # aw "Yep."
     aw "Yep."
 
-# game/code/d10p1/d10p1s02.rpy:174
-translate russian d10p1s02_698d7569:
+# game/code/d10p1/d10p1s02.rpy:176
+translate russian replay_d10p1s02_698d7569:
 
     # mc "Wow."
     mc "Wow."
 
-# game/code/d10p1/d10p1s02.rpy:175
-translate russian d10p1s02_146a39ee:
+# game/code/d10p1/d10p1s02.rpy:177
+translate russian replay_d10p1s02_146a39ee:
 
     # aw "Told you."
     aw "Told you."
 
-# game/code/d10p1/d10p1s02.rpy:177
-translate russian d10p1s02_640e1f21:
+# game/code/d10p1/d10p1s02.rpy:179
+translate russian replay_d10p1s02_640e1f21:
 
     # mc "No panties, huh?"
     mc "No panties, huh?"
 
-# game/code/d10p1/d10p1s02.rpy:178
-translate russian d10p1s02_ab218d07:
+# game/code/d10p1/d10p1s02.rpy:180
+translate russian replay_d10p1s02_ab218d07:
 
     # aw "What's the point?"
     aw "What's the point?"
 
-# game/code/d10p1/d10p1s02.rpy:179
-translate russian d10p1s02_1f426f2d_1:
+# game/code/d10p1/d10p1s02.rpy:181
+translate russian replay_d10p1s02_1f426f2d:
 
     # mc "True."
     mc "True."
 
-# game/code/d10p1/d10p1s02.rpy:189
-translate russian d10p1s02_d86f86ab:
+# game/code/d10p1/d10p1s02.rpy:191
+translate russian replay_d10p1s02_d86f86ab:
 
     # mc "Wait, what are you doing?"
     mc "Wait, what are you doing?"
 
-# game/code/d10p1/d10p1s02.rpy:191
-translate russian d10p1s02_23e9966b:
+# game/code/d10p1/d10p1s02.rpy:193
+translate russian replay_d10p1s02_23e9966b:
 
     # aw "It's not very fair for me to be the only one getting off here, right? So I wanna jerk you off as well."
     aw "It's not very fair for me to be the only one getting off here, right? So I wanna jerk you off as well."
 
-# game/code/d10p1/d10p1s02.rpy:194
-translate russian d10p1s02_7299eefb:
+# game/code/d10p1/d10p1s02.rpy:196
+translate russian replay_d10p1s02_7299eefb:
 
     # aw "I've never jerked off a guy like this before anyway, so I wanna see what it's like."
     aw "I've never jerked off a guy like this before anyway, so I wanna see what it's like."
 
-# game/code/d10p1/d10p1s02.rpy:208
-translate russian d10p1s02_5248d153:
+# game/code/d10p1/d10p1s02.rpy:210
+translate russian replay_d10p1s02_5248d153:
 
     # cb "Oh, I, uhm, sorry!"
     cb "Oh, I, uhm, sorry!"
 
-# game/code/d10p1/d10p1s02.rpy:212
-translate russian d10p1s02_aed94228:
+# game/code/d10p1/d10p1s02.rpy:214
+translate russian replay_d10p1s02_aed94228:
 
     # mc "Was that—"
     mc "Was that—"
 
-# game/code/d10p1/d10p1s02.rpy:213
-translate russian d10p1s02_f7ba44bc:
+# game/code/d10p1/d10p1s02.rpy:215
+translate russian replay_d10p1s02_f7ba44bc:
 
     # aw "Forget about her. I told you."
     aw "Forget about her. I told you."
 
-# game/code/d10p1/d10p1s02.rpy:214
-translate russian d10p1s02_b12907fb:
+# game/code/d10p1/d10p1s02.rpy:216
+translate russian replay_d10p1s02_b12907fb:
 
     # mc "Alright..."
     mc "Alright..."
 
-# game/code/d10p1/d10p1s02.rpy:237
-translate russian d10p1s02_a7f6081e:
+# game/code/d10p1/d10p1s02.rpy:239
+translate russian replay_d10p1s02_a7f6081e:
 
     # aw "Wow, that was...yeah. Thank you."
     aw "Wow, that was...yeah. Thank you."
 
-# game/code/d10p1/d10p1s02.rpy:238
-translate russian d10p1s02_551b8412:
+# game/code/d10p1/d10p1s02.rpy:240
+translate russian replay_d10p1s02_551b8412:
 
     # mc "Same here."
     mc "Same here."
 
-# game/code/d10p1/d10p1s02.rpy:241
-translate russian d10p1s02_d6b4322d:
+# game/code/d10p1/d10p1s02.rpy:243
+translate russian replay_d10p1s02_d6b4322d:
 
     # mc "Wait, is that...is that a butt plug?"
     mc "Wait, is that...is that a butt plug?"
 
-# game/code/d10p1/d10p1s02.rpy:242
-translate russian d10p1s02_34092cce:
+# game/code/d10p1/d10p1s02.rpy:244
+translate russian replay_d10p1s02_34092cce:
 
     # aw "Huh? Oh, yeah. Forgot that thing was even there."
     aw "Huh? Oh, yeah. Forgot that thing was even there."
 
-# game/code/d10p1/d10p1s02.rpy:243
-translate russian d10p1s02_fcb5400b:
+# game/code/d10p1/d10p1s02.rpy:245
+translate russian replay_d10p1s02_fcb5400b:
 
     # mc "You just wear it around like that?"
     mc "You just wear it around like that?"
 
-# game/code/d10p1/d10p1s02.rpy:244
-translate russian d10p1s02_a1d9c805:
+# game/code/d10p1/d10p1s02.rpy:246
+translate russian replay_d10p1s02_a1d9c805:
 
     # aw "Yeah."
     aw "Yeah."
 
-# game/code/d10p1/d10p1s02.rpy:246
-translate russian d10p1s02_0a8c782b:
+# game/code/d10p1/d10p1s02.rpy:248
+translate russian replay_d10p1s02_0a8c782b:
 
     # mc "It's not uncomfortable?"
     mc "It's not uncomfortable?"
 
-# game/code/d10p1/d10p1s02.rpy:247
-translate russian d10p1s02_c66393db:
+# game/code/d10p1/d10p1s02.rpy:249
+translate russian replay_d10p1s02_c66393db:
 
     # aw "Well, it is, kinda, but you get used to it."
     aw "Well, it is, kinda, but you get used to it."
 
-# game/code/d10p1/d10p1s02.rpy:249
-translate russian d10p1s02_79878977:
+# game/code/d10p1/d10p1s02.rpy:251
+translate russian replay_d10p1s02_79878977:
 
     # mc "So why wear it? "
     mc "So why wear it? "
 
-# game/code/d10p1/d10p1s02.rpy:250
-translate russian d10p1s02_cb6e27e7:
+# game/code/d10p1/d10p1s02.rpy:252
+translate russian replay_d10p1s02_cb6e27e7:
 
     # aw "I just like wearing it sometimes."
     aw "I just like wearing it sometimes."
 
-# game/code/d10p1/d10p1s02.rpy:251
-translate russian d10p1s02_3ad64ee8:
+# game/code/d10p1/d10p1s02.rpy:253
+translate russian replay_d10p1s02_3ad64ee8:
 
     # mc "Huh, that's a good enough reason as any I suppose."
     mc "Huh, that's a good enough reason as any I suppose."
 
-# game/code/d10p1/d10p1s02.rpy:253
-translate russian d10p1s02_6c56ac43:
+# game/code/d10p1/d10p1s02.rpy:255
+translate russian replay_d10p1s02_6c56ac43:
 
     # aw "And it helps get me off as well. Like right now for example."
     aw "And it helps get me off as well. Like right now for example."
 
-# game/code/d10p1/d10p1s02.rpy:254
-translate russian d10p1s02_0fd86965:
+# game/code/d10p1/d10p1s02.rpy:256
+translate russian replay_d10p1s02_0fd86965:
 
     # mc "Cool. {w}It looks hot, by the way."
     mc "Cool. {w}It looks hot, by the way."
 
-# game/code/d10p1/d10p1s02.rpy:255
-translate russian d10p1s02_2834e9a9:
+# game/code/d10p1/d10p1s02.rpy:257
+translate russian replay_d10p1s02_2834e9a9:
 
     # aw "Thank you! "
     aw "Thank you! "
 
-# game/code/d10p1/d10p1s02.rpy:256
-translate russian d10p1s02_0d83c812:
+# game/code/d10p1/d10p1s02.rpy:258
+translate russian replay_d10p1s02_0d83c812:
 
     # aw "Oh, uh, mind getting me some tissues, [mcname]? You kinda Pollocked my back there."
     aw "Oh, uh, mind getting me some tissues, [mcname]? You kinda Pollocked my back there."
 
-# game/code/d10p1/d10p1s02.rpy:258
-translate russian d10p1s02_4325d4e8:
+# game/code/d10p1/d10p1s02.rpy:260
+translate russian replay_d10p1s02_4325d4e8:
 
     # mc "Oh, sorry. Here lemme jus..."
     mc "Oh, sorry. Here lemme jus..."
 
-# game/code/d10p1/d10p1s02.rpy:264
-translate russian d10p1s02_af3c9270:
+# game/code/d10p1/d10p1s02.rpy:266
+translate russian replay_d10p1s02_af3c9270:
 
     # aw "Thanks. Guess I finally got some cum on my back, eh?"
     aw "Thanks. Guess I finally got some cum on my back, eh?"
 
-# game/code/d10p1/d10p1s02.rpy:265
-translate russian d10p1s02_b77688dd:
+# game/code/d10p1/d10p1s02.rpy:267
+translate russian replay_d10p1s02_b77688dd:
 
     # mc "Told you you'd find a guy to help you out with that."
     mc "Told you you'd find a guy to help you out with that."
 
-# game/code/d10p1/d10p1s02.rpy:267
-translate russian d10p1s02_86bcda89:
+# game/code/d10p1/d10p1s02.rpy:269
+translate russian replay_d10p1s02_86bcda89:
 
     # aw "I should probably go get cleaned up a little for real. No offense, but I don't want to spend the whole party smelling like semen."
     aw "I should probably go get cleaned up a little for real. No offense, but I don't want to spend the whole party smelling like semen."
 
-# game/code/d10p1/d10p1s02.rpy:268
-translate russian d10p1s02_f325e5eb:
+# game/code/d10p1/d10p1s02.rpy:270
+translate russian replay_d10p1s02_f325e5eb:
 
     # mc "None taken, and I understand."
     mc "None taken, and I understand."
 
-# game/code/d10p1/d10p1s02.rpy:270
-translate russian d10p1s02_5d927d17:
+# game/code/d10p1/d10p1s02.rpy:272
+translate russian replay_d10p1s02_5d927d17:
 
     # mc "It was uhm...fun meeting you. {w}Can't wait to see you at the main event."
     mc "It was uhm...fun meeting you. {w}Can't wait to see you at the main event."
 
-# game/code/d10p1/d10p1s02.rpy:271
-translate russian d10p1s02_de01b574:
+# game/code/d10p1/d10p1s02.rpy:273
+translate russian replay_d10p1s02_de01b574:
 
     # aw "Oh? That confident, huh? I like it. I'm sure a guy like you can get close to the top spot.{w} Don't count on beating me though."
     aw "Oh? That confident, huh? I like it. I'm sure a guy like you can get close to the top spot.{w} Don't count on beating me though."
 
-# game/code/d10p1/d10p1s02.rpy:272
-translate russian d10p1s02_596b4c4a:
+# game/code/d10p1/d10p1s02.rpy:274
+translate russian replay_d10p1s02_596b4c4a:
 
     # mc "We'll see."
     mc "We'll see."
