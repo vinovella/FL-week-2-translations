@@ -25,9 +25,9 @@ translate russian d08s12_46664b36:
     mh "Не говори ни слова."
 
 # game/code/d08/d08s12.rpy:51
-translate russian d08s12_05ab2f49:
+translate russian d08s12_ebccab4c:
 
-    # mh "Get undressed. I need you... now!"
+    # mh "Get undressed. I need you...now!"
     mh "Раздевайся. Ты мне нужен... прямо сейчас!"
 
 # game/code/d08/d08s12.rpy:53
@@ -121,9 +121,9 @@ translate russian d08s12_8207ae96:
     mc "Круто. Ладно, теперь я понимаю."
 
 # game/code/d08/d08s12.rpy:84
-translate russian d08s12_f16a294c:
+translate russian d08s12_631dfe01:
 
-    # mc "So now I can do what ever I want to you?"
+    # mc "So now I can do whatever I want to you?"
     mc "Значит теперь я могу делать с тобой все, что захочу?"
 
 # game/code/d08/d08s12.rpy:85
@@ -133,9 +133,9 @@ translate russian d08s12_eff2bc0a:
     mh "О да, мистер! Я вся в твоём распоряжении!"
 
 # game/code/d08/d08s12.rpy:87
-translate russian d08s12_66e18091:
+translate russian d08s12_f3097708:
 
-    # mc "Wow! Did you just got hard from that?"
+    # mc "Wow! Did you just get hard from that?"
     mc "Вау! Ты от этого так сильно возбудилась?"
 
 # game/code/d08/d08s12.rpy:90
@@ -151,10 +151,10 @@ translate russian d08s12_3f302219:
     mc "Тебя возбуждает то, что ты в моей власти, а я могу сделать с тобой всё что угодно?"
 
 # game/code/d08/d08s12.rpy:93
-translate russian d08s12_f6787a06:
+translate russian d08s12_bb4d6582:
 
-    # mh "My dick is going to tear my skirt - does that answer your question!?"
-    mh "Мой член сейчас разорвёт мне юбку - это достаточный ответ на твой вопрос!?"
+    # mh "My dick is going to tear my skirt! Does that answer your question!?"
+    mh "Мой член сейчас разорвёт мне юбку! это достаточный ответ на твой вопрос!?"
 
 # game/code/d08/d08s12.rpy:94
 translate russian d08s12_8bc120ae:
@@ -181,10 +181,10 @@ translate russian d08s12_c87df3ea:
     mh "Могу я подрочить свой член для тебя?"
 
 # game/code/d08/d08s12.rpy:113
-translate russian d08s12_819581fc:
+translate russian d08s12_155346cc:
 
-    # mh "I need you! Come here!"
-    mh "Ты мне нужен! Иди сюда!"
+    # mh "Come here! I need you!"
+    mh "Иди сюда! Ты мне нужен!"
 
 # game/code/d08/d08s12.rpy:115
 translate russian d08s12_06dd257f:
@@ -348,10 +348,10 @@ translate russian d08s12_deny_57bd43f0:
     # mh "Yes, sir!"
     mh "Да, сэр!"
 
-# game/code/d08/d08s12.rpy:203
-translate russian d08s12_deny_fe68738b:
+# game/code/d08/d08s12.rpy:206
+translate russian d08s12_deny_95675b15:
 
-    # mc "Na-a-ah! No touching your self!"
+    # mc "Na-a-ah! No touching yourself!"
     mc "Не-е-ет! Не трогай себя!"
 
 # game/code/d08/d08s12.rpy:205
@@ -444,17 +444,23 @@ translate russian d08s12_mh_bj_2e715e01_2:
     # "(gulp)"
     "(глоток)..."
 
-# game/code/d08/d08s12.rpy:289
-translate russian d08s12_mh_bj_ee0c1f60:
+# game/code/d08/d08s12.rpy:280
+translate russian d08s12_mh_bj_ffa62260:
 
-    # mh "I love it sir!"
+    # mc "Ahhh..."
+    mc "Ahhh..."
+
+# game/code/d08/d08s12.rpy:296
+translate russian d08s12_mh_bj_c04d767b:
+
+    # mh "I love it, sir!"
     mh "Мне это нравится, сэр!"
 
-# game/code/d08/d08s12.rpy:290
-translate russian d08s12_mh_bj_1c9696bf:
+# game/code/d08/d08s12.rpy:297
+translate russian d08s12_mh_bj_87e26eb2:
 
-    # mc "Good girl!"
-    mc "Хорошая девочка!"
+    # mc "Good girl."
+    mc "Хорошая девочка."
 
 # game/code/d08/d08s12.rpy:292
 translate russian d08s12_mh_bj_98845e2c:
@@ -492,17 +498,23 @@ translate russian d08s12_mc_hj_7dd3877f:
     # mh "A-a-ah!!"
     mh "А-а-ах!!"
 
+# game/code/d08/d08s12.rpy:340
+translate russian d08s12_mc_hj_188a2ddc:
+
+    # mh "Ahhh..."
+    mh "Ahhh..."
+
 # game/code/d08/d08s12.rpy:362
 translate russian d08s12_lyssa_cum_d61ecf80:
 
     # mh "O-o-oh! Baby! I'm..."
     mh "О-о-ох! Детка! Я..."
 
-# game/code/d08/d08s12.rpy:365
-translate russian d08s12_lyssa_cum_864fb67c:
+# game/code/d08/d08s12.rpy:372
+translate russian d08s12_lyssa_cum_d8852cec:
 
-    # mh "Cumming!!"
-    mh "Кончаю!!"
+    # mh "Cumming!!!"
+    mh "Кончаю!!!"
 
 # game/code/d08/d08s12.rpy:371
 translate russian d08s12_lyssa_cum_a4fcb7ef:
@@ -624,10 +636,10 @@ translate russian d08s12_end_ce533a29:
     # mct "Oh, I got points again without even making pictures... Does the app just listen?"
     mct "О, я снова получил очки, даже не делая фотографий... За мной продолжают следить через приложение?"
 
-# game/code/d08/d08s12.rpy:424
-translate russian d08s12_end_734ff176:
+# game/code/d08/d08s12.rpy:432
+translate russian d08s12_end_1497012c:
 
-    # mct "Wtf? I didn't make any pictures and got points!"
+    # mct "Wtf? I didn't take any pictures and got points!"
     mct "Что за хрень? Я не делал фотографий и всё равно получил очки!"
 
 # game/code/d08/d08s12.rpy:425
@@ -654,10 +666,10 @@ translate russian d08s12_end_177b5a66:
     # op "Oh, Wow! Sorry!"
     op "Ох, вау! Извините!"
 
-# game/code/d08/d08s12.rpy:432
-translate russian d08s12_end_68c7687e:
+# game/code/d08/d08s12.rpy:440
+translate russian d08s12_end_83a0bcf1:
 
-    # mc "Um... just a minute?{w} I'm leaving asap."
+    # mc "Um... just a minute?{w} I'm leaving ASAP."
     mc "Эм... минутку. {w}Я сейчас выйду."
 
 translate russian strings:
@@ -693,4 +705,3 @@ translate russian strings:
     # game/code/d08/d08s12.rpy:393
     old "It is your turn now"
     new "Теперь твоя очередь"
-
