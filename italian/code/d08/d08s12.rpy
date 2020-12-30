@@ -25,10 +25,10 @@ translate italian d08s12_46664b36:
     mh "Non dire una parola."
 
 # game/code/d08/d08s12.rpy:51
-translate italian d08s12_05ab2f49:
+translate italian d08s12_ebccab4c:
 
-    # mh "Get undressed. I need you... now!"
-    mh "Spogliati. Ti voglio... ora!"
+    # mh "Get undressed. I need you...now!"
+    mh "Spogliati. Ti voglio...ora!"
 
 # game/code/d08/d08s12.rpy:53
 translate italian d08s12_59e95539:
@@ -121,9 +121,9 @@ translate italian d08s12_8207ae96:
     mc "D'accordo. Okay, adesso capisco."
 
 # game/code/d08/d08s12.rpy:84
-translate italian d08s12_f16a294c:
+translate italian d08s12_631dfe01:
 
-    # mc "So now I can do what ever I want to you?"
+    # mc "So now I can do whatever I want to you?"
     mc "Quindi ora posso farti tutto quello che voglio?"
 
 # game/code/d08/d08s12.rpy:85
@@ -133,9 +133,9 @@ translate italian d08s12_eff2bc0a:
     mh "Sissignore! Sono tutta vostra!"
 
 # game/code/d08/d08s12.rpy:87
-translate italian d08s12_66e18091:
+translate italian d08s12_f3097708:
 
-    # mc "Wow! Did you just got hard from that?"
+    # mc "Wow! Did you just get hard from that?"
     mc "Wow! Ti sei eccitata al solo pensiero?"
 
 # game/code/d08/d08s12.rpy:90
@@ -151,9 +151,9 @@ translate italian d08s12_3f302219:
     mc "Ti eccita saperti in mio potere e che posso farti qualunque cosa?"
 
 # game/code/d08/d08s12.rpy:93
-translate italian d08s12_f6787a06:
+translate italian d08s12_bb4d6582:
 
-    # mh "My dick is going to tear my skirt - does that answer your question!?"
+    # mh "My dick is going to tear my skirt! Does that answer your question!?"
     mh "Il mio pisello mi sta lacerando la gonna. È una risposta sufficiente?"
 
 # game/code/d08/d08s12.rpy:94
@@ -181,10 +181,10 @@ translate italian d08s12_c87df3ea:
     mh "Posso segarmi, oggi?"
 
 # game/code/d08/d08s12.rpy:113
-translate italian d08s12_819581fc:
+translate italian d08s12_155346cc:
 
-    # mh "I need you! Come here!"
-    mh "Ti voglio! Vieni qui!"
+    # mh "Come here! I need you!"
+    mh "Vieni qui! Ti voglio!"
 
 # game/code/d08/d08s12.rpy:115
 translate italian d08s12_06dd257f:
@@ -348,10 +348,10 @@ translate italian d08s12_deny_57bd43f0:
     # mh "Yes, sir!"
     mh "Sissignore!"
 
-# game/code/d08/d08s12.rpy:203
-translate italian d08s12_deny_fe68738b:
+# game/code/d08/d08s12.rpy:206
+translate italian d08s12_deny_95675b15:
 
-    # mc "Na-a-ah! No touching your self!"
+    # mc "Na-a-ah! No touching yourself!"
     mc "None! Non toccarti in alcun modo!"
 
 # game/code/d08/d08s12.rpy:205
@@ -426,6 +426,12 @@ translate italian d08s12_mh_bj_232c3f6d:
     # mc "O-o-oh!"
     mc "O-o-oh!"
 
+# game/code/d08/d08s12.rpy:280
+translate italian d08s12_mh_bj_ffa62260:
+
+    # mc "Ahhh..."
+    mc "Ahhh..."
+
 # game/code/d08/d08s12.rpy:282
 translate italian d08s12_mh_bj_2e715e01:
 
@@ -444,17 +450,17 @@ translate italian d08s12_mh_bj_2e715e01_2:
     # "(gulp)"
     "(gulp)"
 
-# game/code/d08/d08s12.rpy:289
-translate italian d08s12_mh_bj_ee0c1f60:
+# game/code/d08/d08s12.rpy:296
+translate italian d08s12_mh_bj_c04d767b:
 
-    # mh "I love it sir!"
+    # mh "I love it, sir!"
     mh "Lo adoro, padrone!"
 
-# game/code/d08/d08s12.rpy:290
-translate italian d08s12_mh_bj_1c9696bf:
+# game/code/d08/d08s12.rpy:297
+translate italian d08s12_mh_bj_87e26eb2:
 
-    # mc "Good girl!"
-    mc "Brava ragazza!"
+    # mc "Good girl."
+    mc "Brava ragazza."
 
 # game/code/d08/d08s12.rpy:292
 translate italian d08s12_mh_bj_98845e2c:
@@ -492,17 +498,23 @@ translate italian d08s12_mc_hj_7dd3877f:
     # mh "A-a-ah!!"
     mh "A-a-ah!!"
 
+# game/code/d08/d08s12.rpy:340
+translate italian d08s12_mc_hj_188a2ddc:
+
+    # mh "Ahhh..."
+    mh "Ahhh..."
+
 # game/code/d08/d08s12.rpy:362
 translate italian d08s12_lyssa_cum_d61ecf80:
 
     # mh "O-o-oh! Baby! I'm..."
     mh "O-o-oh! Baby! Sto per..."
 
-# game/code/d08/d08s12.rpy:365
-translate italian d08s12_lyssa_cum_864fb67c:
+# game/code/d08/d08s12.rpy:372
+translate italian d08s12_lyssa_cum_d8852cec:
 
-    # mh "Cumming!!"
-    mh "Vengo!!"
+    # mh "Cumming!!!"
+    mh "Vengo!!!"
 
 # game/code/d08/d08s12.rpy:371
 translate italian d08s12_lyssa_cum_a4fcb7ef:
@@ -624,10 +636,10 @@ translate italian d08s12_end_ce533a29:
     # mct "Oh, I got points again without even making pictures... Does the app just listen?"
     mct "Oh, ho ricevuto dei punti senza nemmeno scattare una foto... Ma allora la app mi ha solo ascoltato?"
 
-# game/code/d08/d08s12.rpy:424
-translate italian d08s12_end_734ff176:
+# game/code/d08/d08s12.rpy:432
+translate italian d08s12_end_1497012c:
 
-    # mct "Wtf? I didn't make any pictures and got points!"
+    # mct "Wtf? I didn't take any pictures and got points!"
     mct "Porca miseria! Ho ricevuto dei punti senza nemmeno fare una foto!"
 
 # game/code/d08/d08s12.rpy:425
@@ -654,10 +666,10 @@ translate italian d08s12_end_177b5a66:
     # op "Oh, Wow! Sorry!"
     op "Oh, wow! Chiedo scusa!"
 
-# game/code/d08/d08s12.rpy:432
-translate italian d08s12_end_68c7687e:
+# game/code/d08/d08s12.rpy:440
+translate italian d08s12_end_83a0bcf1:
 
-    # mc "Um... just a minute?{w} I'm leaving asap."
+    # mc "Um... just a minute?{w} I'm leaving ASAP."
     mc "Ehm... solo un minuto?{w} Me ne vado quanto prima."
 
 translate italian strings:
@@ -693,4 +705,3 @@ translate italian strings:
     # game/code/d08/d08s12.rpy:393
     old "It is your turn now"
     new "Adesso tocca a te"
-
