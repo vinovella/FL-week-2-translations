@@ -829,9 +829,9 @@ translate italian d08s12_end_6c907290:
     mh "Senti, vorrei tanto restare: ma purtroppo ora devo scappare, ho un impegno."
 
 # game/code/d08/d08s12.rpy:417
-translate italian d08s12_end_6c5544fb:
+translate italian d08s12_end_f71c5abf:
 
-    # mh "Heh, I can't wait to see you again!."
+    # mh "Heh, I can't wait to see you again!"
     mh "Eh, non vedo l'ora di rivederti!"
 
 # game/code/d08/d08s12.rpy:418
