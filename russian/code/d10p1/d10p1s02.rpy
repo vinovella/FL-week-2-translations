@@ -4,7 +4,7 @@
 translate russian d10p1s02_a9c5b073:
 
     # mc "Hey, Alison. Y'know, I was actually wondering if I was gonna bump into you or not."
-    mc " Привет, Эллисон. Знаешь, я думал, встречу ли тебя здесь или нет."
+    mc "Привет, Эллисон. Знаешь, я думал, встречу ли тебя здесь или нет."
 
 # game/code/d10p1/d10p1s02.rpy:37
 translate russian d10p1s02_88b4c06c:
