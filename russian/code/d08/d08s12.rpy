@@ -671,6 +671,174 @@ translate russian d08s12_end_83a0bcf1:
 
     # mc "Um... just a minute?{w} I'm leaving ASAP."
     mc "Эм... минутку. {w}Я сейчас выйду."
+    
+# game/code/d08/d08s12.rpy:91
+translate russian d08s12_ad3ee5ca:
+
+    # mc "Does it excite you to know that I can be doing anything to you?"
+    mc "Does it excite you to know that I can be doing anything to you?"
+
+# game/code/d08/d08s12.rpy:115
+translate russian d08s12_aa0e2e7d:
+
+    # mh "God, it feels like I'm burning!"
+    mh "Боже, я как будто горю!"
+
+# game/code/d08/d08s12.rpy:149
+translate russian d08s12_1cb7a1fc:
+
+    # mh "{i}God{/i}, your touch feels electric!"
+    mh "{i}Боже{i/}, твое прикосновение словно бьёт током!"
+
+# game/code/d08/d08s12.rpy:151
+translate russian d08s12_447601f0:
+
+    # mc "It looks like it might explode from the tension!"
+    mc "Похоже, он скоро взорвётся от напряжения!"
+
+# game/code/d08/d08s12.rpy:153
+translate russian d08s12_aa2dc97a:
+
+    # mh "*Moans* It just might when you touch it."
+    mh "*Стонет* Это случиться, когда ты прикоснёшься к нему."
+
+# game/code/d08/d08s12.rpy:166
+translate russian d08s12_pre_mc_action_1614da67:
+
+    # mct "Am I really gonna do this? I barely even know what the hell I'm supposed to be doing!"
+    mct "Я действительно хочу это сделать? Я даже не знаю, что, черт возьми, я должен делать!"
+
+# game/code/d08/d08s12.rpy:169
+translate russian d08s12_pre_mc_action_b17e9733:
+
+    # mh "Hey, it's alright. Your touch feels amazing! But I understand if you're not ready—"
+    mh "Эй, все в порядке. Твои прикосновение просто потрясающие! Но я пойму, если ты не готов..."
+
+# game/code/d08/d08s12.rpy:171
+translate russian d08s12_pre_mc_action_72a01c1a:
+
+    # mc "No, no, it's fine. I wanna do this...for you."
+    mc "Нет, нет, все в порядке. Я хочу сделать это... для тебя."
+
+# game/code/d08/d08s12.rpy:189
+translate russian d08s12_deny_da75052f:
+
+    # mc "I love seeing your engorged penis standing at attention and begging to be touched!"
+    mc "Мне нравится видеть твой возбуждённый пенис, стоящий по стойке смирно и умоляющий о прикосновении!"
+
+# game/code/d08/d08s12.rpy:194
+translate russian d08s12_deny_8d2212ba:
+
+    # mh "Y-yes, sir."
+    mh "Д-да, сэр."
+
+# game/code/d08/d08s12.rpy:196
+translate russian d08s12_deny_944d9051:
+
+    # mc "I want you to kneel. Get on your knees and kneel."
+    mc "Я хочу, чтобы ты встала на колени."
+
+# game/code/d08/d08s12.rpy:202
+translate russian d08s12_deny_9c619ea3:
+
+    # mc "What are you looking at? Get to work!"
+    mc "На что ты смотришь? За работу!"
+
+# game/code/d08/d08s12.rpy:211
+translate russian d08s12_deny_6980c05a:
+
+    # mh "Please, sir, jus—"
+    mh "Пожалуйста, сэр..."
+
+# game/code/d08/d08s12.rpy:214
+translate russian d08s12_deny_07662e23:
+
+    # mh "Master. Please! Please may I stroke it?"
+    mh "Господин. Пожалуйста! Пожалуйста, можно мне подрочить его?"
+
+# game/code/d08/d08s12.rpy:215
+translate russian d08s12_deny_8b37064c:
+
+    # mc "Nope... Be a good girl and make me cum."
+    mc "Нет... Будь хорошей девочкой и заставь меня кончить."
+
+# game/code/d08/d08s12.rpy:216
+translate russian d08s12_deny_e9e9d431:
+
+    # mc "I'll think about it after that."
+    mc "Я подумаю об этом после этого."
+
+# game/code/d08/d08s12.rpy:225
+translate russian d08s12_mh_bj_2748c963:
+
+    # mc "Show me how well you can suck me."
+    mc "Покажи мне, как хорошо ты умеешь сосать."
+
+# game/code/d08/d08s12.rpy:227
+translate russian d08s12_mh_bj_ec8379d7:
+
+    # mh "Yes, master! I'll do my best!"
+    mh "Да, господин! Я сделаю все, что в моих силах!"
+
+# game/code/d08/d08s12.rpy:231
+translate russian d08s12_mh_bj_65ed2b87:
+
+    # mh "I'll do my best!"
+    mh "Я постараюсь!"
+
+# game/code/d08/d08s12.rpy:315
+translate russian d08s12_mh_bj_efcab3a7:
+
+    # mh "I can barely wait for the next time!"
+    mh "Не могу дождаться следующего раза!"
+
+# game/code/d08/d08s12.rpy:369
+translate russian d08s12_lyssa_cum_80414faf:
+
+    # mh "Baby, Baby! I'm..."
+    mh "Детка, детка! Я..."
+
+# game/code/d08/d08s12.rpy:392
+translate russian d08s12_lyssa_cum_b525b5d5:
+
+    # mc "Did you uh...did you like it?"
+    mc "Тебе... тебе понравилось?"
+
+# game/code/d08/d08s12.rpy:394
+translate russian d08s12_lyssa_cum_ee9cb140:
+
+    # mh "It was amazing! I loved it! Thank you for doing it."
+    mh "Это было потрясающе! Мне очень понравилось! Спасибо, что сделал это."
+
+# game/code/d08/d08s12.rpy:396
+translate russian d08s12_lyssa_cum_7bfd435d:
+
+    # mh "I think that's enough for this time. Who knows? Maybe you'll enjoy sampling it yourself someday!"
+    mh "Думаю, на этот раз хватит. Кто знает? Может, когда-нибудь тебе самому захочется попробовать!"
+
+# game/code/d08/d08s12.rpy:397
+translate russian d08s12_lyssa_cum_e215dda4:
+
+    # mc "...Maybe. Today has had enough new experiences for me."
+    mc "...Может быть. Сегодня у меня достаточно новых впечатлений."
+
+# game/code/d08/d08s12.rpy:412
+translate russian d08s12_end_6c907290:
+
+    # mh "Hey, I don't really wanna leave right now, but I gotta run for a thing."
+    mh "Хей, я не хочу уходить, но мне нужно бежать кое-куда."
+
+# game/code/d08/d08s12.rpy:417
+translate russian d08s12_end_f71c5abf:
+
+    # mh "Heh, I can't wait to see you again!"
+    mh "Не могу дождаться, когда увижу тебя снова!"
+
+# game/code/d08/d08s12.rpy:418
+translate russian d08s12_end_0b11053a:
+
+    # mh "The door will lock on your way out. by the way."
+    mh "Кстати. Закрой дверь когда будешь уходить."
 
 translate russian strings:
 
