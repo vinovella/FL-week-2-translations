@@ -19,9 +19,9 @@ translate russian d10s05_f0ee8f65:
     sy "Что это за место? Здесь всё выглядит... обычным."
 
 # game/code/d10/d10s05.rpy:11
-translate russian d10s05_77356cf8:
+translate russian d10s05_f714dc5b:
 
-    # arj "That's the charm of it. It really doesn't look like a fetish clothing shop, does it? {i}Well{i}, that's because it isn't one."
+    # arj "That's the charm of it. It really doesn't look like a fetish clothing shop, does it? {i}Well{/i}, that's because it isn't one."
     arj "В этом вся прелесть. В этом весь шарм. Это действительно не похоже на магазин фетиш-одежды, не так ли? {i}Ну{/i}, это потому, что это не он."
 
 # game/code/d10/d10s05.rpy:13
