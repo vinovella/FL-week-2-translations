@@ -19,10 +19,10 @@ translate italian d10s05_f0ee8f65:
     sy "Che negozio è? Non sembra nulla di... eccezionale."
 
 # game/code/d10/d10s05.rpy:11
-translate italian d10s05_77356cf8:
+translate italian d10s05_f714dc5b:
 
-    # arj "That's the charm of it. It really doesn't look like a fetish clothing shop, does it? {i}Well{i}, that's because it isn't one."
-    arj "È questo il bello. Non pare affatto un negozio di abbigliamento fetish, vero? {i}Beh{i}, perché non lo è."
+    # arj "That's the charm of it. It really doesn't look like a fetish clothing shop, does it? {i}Well{/i}, that's because it isn't one."
+    arj "È questo il bello. Non pare affatto un negozio di abbigliamento fetish, vero? {i}Beh{/i}, perché non lo è."
 
 # game/code/d10/d10s05.rpy:13
 translate italian d10s05_1f1b5d28:
