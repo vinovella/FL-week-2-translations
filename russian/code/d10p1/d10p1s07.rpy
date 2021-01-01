@@ -34,7 +34,7 @@ translate russian d10p1s07_17fc1db1:
 translate russian d10p1s07_1b1444a7:
 
     # mct "...and Stacy is supposed to be following AmRose around..."
-    mct "... а Стейси, которая должна повсюду следовать за АмРоуз...?"
+    mct "... а Стейси, которая должна повсюду следовать за АмРоуз..."
 
 # game/code/d10p1/d10p1s07.rpy:14
 translate russian d10p1s07_d62f8a3d:
