@@ -16,7 +16,7 @@ translate spanish d08s04_5c054653:
 translate spanish d08s04_947e6559:
 
     # mct "I didn't take any pictures... Neither did Maria... Did someone else take a photo of her giving me a head during class?"
-    mct "No tomé ninguna foto... María tampoco... ¿Alguien más tomó una foto de ella dándome una cabeza durante la clase?"
+    mct "No tomé ninguna foto... María tampoco... ¿Alguien más tomó una foto de ella dándome una mamada durante la clase?"
 
 # game/code/d08/d08s04.rpy:44
 translate spanish d08s04_8a677757:
@@ -94,7 +94,7 @@ translate spanish replay_d08s04_e59544ae:
 translate spanish replay_d08s04_4887193b:
 
     # mesfl "Well, I didn't cum without pee in my mouth. But not because there was pee; I just didn't cum..."
-    mesfl "Bueno, yo no me vengo sin que orinen en mi boca. Pero no porque hubiera orina; Simplemente no me corro..."
+    mesfl "Bueno, yo no me vengo sin orina en mi boca. Pero no porque fuera orina; Simplemente no me corro..."
 
 # game/code/d08/d08s04.rpy:91
 translate spanish replay_d08s04_49cb6cdc:
