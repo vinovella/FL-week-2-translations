@@ -16,13 +16,13 @@ translate spanish d08s05_0c829b89:
 translate spanish d08s05_f25d77a6:
 
     # mc "It is nice, but our college will look better on your resume after we graduate."
-    mc "Es agradable, pero nuestro instituto se verá mejor en tu currículum después de graduarnos.."
+    mc "Es agradable, pero nuestro instituto se verá mejor en tu currículum después de graduarnos."
 
 # game/code/d08/d08s05.rpy:11
 translate spanish d08s05_7bfd3d68:
 
     # sy "So, now that we're here... {w}What's the plan?"
-    sy "Entonces, ya estamos aquí...  {w}¿Cual es el plan?"
+    sy "Entonces, ya estamos aquí... {w}¿Cual es el plan?"
 
 # game/code/d08/d08s05.rpy:12
 translate spanish d08s05_62eb5652:
@@ -274,7 +274,7 @@ translate spanish d08s05_dd_b292b593:
 translate spanish d08s05_dd_02c7b059:
 
     # dd "Well, yeah. Sorta."
-    dd "Bueno, sí. Más o menos.."
+    dd "Bueno, sí. Más o menos."
 
 # game/code/d08/d08s05.rpy:101
 translate spanish d08s05_dd_1d7fc9ca:
@@ -376,7 +376,7 @@ translate spanish d08s05_dd_f1f628d2:
 translate spanish d08s05_dd_560e2665:
 
     # dd "Like, we weren't bad girls, but we weren't trying to be Prom Queen or anything."
-    dd "Como, no éramos chicas malas, pero no estábamos tratando de ser las Reinas del Baile ni nada"
+    dd "Como, no éramos chicas malas, pero no estábamos tratando de ser las Reinas del Baile ni nada."
 
 # game/code/d08/d08s05.rpy:133
 translate spanish d08s05_dd_757d136e:
@@ -514,7 +514,7 @@ translate spanish d08s05_dd_fbe676e7:
 translate spanish d08s05_dd_978f9da2:
 
     # dd "He goes through the whole story, from how he got picked for Prom King and how after he fucked that B-word and just went on and on..."
-    dd "Pasa por toda la historia, de cómo fue elegido para el Rey del Baile después cómo se cogío a esa de nombre con B y simplemente siguío y siguío......"
+    dd "Pasa por toda la historia, de cómo fue elegido para el Rey del Baile después cómo se cogío a esa de nombre con B y simplemente siguío y siguío..."
 
 # game/code/d08/d08s05.rpy:169
 translate spanish d08s05_dd_d1d905d4:
@@ -910,7 +910,7 @@ translate spanish d08s05_dw_549e8ea5:
 translate spanish d08s05_dw_e2f543a6:
 
     # sy "Audience. Definitely audience."
-    sy "público. Definitivamente público."
+    sy "Público. Definitivamente público."
 
 # game/code/d08/d08s05.rpy:330
 translate spanish d08s05_dw_999e1c24:
@@ -1108,7 +1108,7 @@ translate spanish d08s05_dw_74abaaf7:
 translate spanish d08s05_dw_882f79fd:
 
     # dw "Don't you get it? She's bad news. Forget about your missing stuff and forget about finding her."
-    dw "¿No lo entiendes? Ella es una mala noticia. Olvídate de tus cosas perdidas y olvídate de encontrarla"
+    dw "¿No lo entiendes? Ella es una mala noticia. Olvídate de tus cosas perdidas y olvídate de encontrarla."
 
 # game/code/d08/d08s05.rpy:389
 translate spanish d08s05_dw_9581568c:
