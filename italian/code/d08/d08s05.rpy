@@ -1210,3 +1210,17 @@ translate italian strings:
     old "Yes, Mistress"
     new "Sì, Padrona"
 
+# TODO: Translation updated at 2021-01-19 00:11
+
+# game/code/d08/d08s05.rpy:87
+translate italian d08s05_dd_320ef5c0:
+
+    # sy "We're looking for Samiya, or Dahlia to help us finding Samiya."
+    sy "We're looking for Samiya, or Dahlia to help us finding Samiya."
+
+# game/code/d08/d08s05.rpy:182
+translate italian d08s05_dd_1512a6e1:
+
+    # dd "Not that night. Samiya and I and a couple guys went over to the gym-"
+    dd "Not that night. Samiya and I and a couple guys went over to the gym-"
+

@@ -873,3 +873,35 @@ translate italian strings:
     # game/code/d08/d08s12.rpy:393
     old "It is your turn now"
     new "Adesso tocca a te"
+# TODO: Translation updated at 2021-01-19 00:11
+
+# game/code/d08/d08s12.rpy:191
+translate italian d08s12_deny_b5e3f444:
+
+    # mc "You'd love it if you could touch it right now, wouldn't you?"
+    mc "You'd love it if you could touch it right now, wouldn't you?"
+
+# game/code/d08/d08s12.rpy:192
+translate italian d08s12_deny_fb7cae0f:
+
+    # mc "Let it be there! I don't permit you to touch it."
+    mc "Let it be there! I don't permit you to touch it."
+
+# game/code/d08/d08s12.rpy:208
+translate italian d08s12_deny_a5a94f12:
+
+    # mc "You are not allowed to jerk-off."
+    mc "You are not allowed to jerk-off."
+
+# game/code/d08/d08s12.rpy:209
+translate italian d08s12_deny_b3c6b384:
+
+    # mc "Don't make me repeat myself."
+    mc "Don't make me repeat myself."
+
+# game/code/d08/d08s12.rpy:417
+translate italian d08s12_end_6c5544fb:
+
+    # mh "Heh, I can't wait to see you again!."
+    mh "Heh, I can't wait to see you again!."
+

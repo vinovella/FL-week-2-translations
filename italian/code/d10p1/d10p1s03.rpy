@@ -1231,10 +1231,5 @@ translate italian strings:
     new "Should I help him out?"
 
     # game/code/d10p1/d10p1s03.rpy:333
-    old "Help"
-    new "Help"
-
-    # game/code/d10p1/d10p1s03.rpy:333
     old "Don't"
     new "Don't"
-

@@ -492,3 +492,17 @@ translate italian strings:
     # game/code/d08/d08s01.rpy:87
     old "Let Stacy bathe with you"
     new "Fai fare a Stacy la doccia con te"
+# TODO: Translation updated at 2021-01-19 00:11
+
+# game/code/d08/d08s01.rpy:56
+translate italian d08s01_0370dbe7:
+
+    # arj "You might want to get a shower before your sister and I use up all the hot water."
+    arj "You might want to get a shower before your sister and I use up all the hot water."
+
+# game/code/d08/d08s01.rpy:198
+translate italian d08s01_bathe_b4583873:
+
+    # sy "You want AmRose to be happy... {w}and so do I."
+    sy "You want AmRose to be happy... {w}and so do I."
+

@@ -934,3 +934,23 @@ translate italian strings:
     old "You're both beautiful"
     new "Siete entrambe bellissime"
 
+# TODO: Translation updated at 2021-01-19 00:11
+
+# game/code/d08/d08s07.rpy:172
+translate italian d08s07_482ca548:
+
+    # mes "It is my diet! I only drink this! You can eat all your food!"
+    mes "It is my diet! I only drink this! You can eat all your food!"
+
+# game/code/d08/d08s07.rpy:199
+translate italian d08s07_cf82b4db:
+
+    # mc "{i}When do you finish your work?{/i}"
+    mc "{i}When do you finish your work?{/i}"
+
+# game/code/d08/d08s07.rpy:254
+translate italian d08s07_9aa5dd7c:
+
+    # mc "Last week was awesome. I had a lot of fun, but best of all... I got to talk with you."
+    mc "Last week was awesome. I had a lot of fun, but best of all... I got to talk with you."
+

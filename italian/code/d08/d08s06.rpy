@@ -468,3 +468,11 @@ translate italian d08s06_ca44a1f9:
     # sy "Oh yeah, your lunch \"date\"."
     sy "Ah, sì, il nostro \"appuntamento\" a pranzo."
 
+# TODO: Translation updated at 2021-01-19 00:11
+
+# game/code/d08/d08s06.rpy:131
+translate italian d08s06_0be38e4b:
+
+    # sa "Didn't you say that you are friends?"
+    sa "Didn't you say that you are friends?"
+
