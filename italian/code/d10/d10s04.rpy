@@ -1045,9 +1045,9 @@ translate italian replay_d10s04_ec5792d5:
     mh "Sempre che tu non voglia presentare una controprova."
 
 # game/code/d10/d10s04.rpy:376
-translate italian replay_d10s04_1baeadd0:
+translate italian replay_d10s04_6e7a6c20:
 
-    # mh "Although you might make to much noise if my co-consul tore your arguments apart."
+    # mh "Although you might make too much noise if my co-counsel tore your arguments apart."
     mh "Ma temo che potresti fare fin troppo rumore, se il mio collega facesse a pezzi la tua obiezione."
 
 # game/code/d10/d10s04.rpy:378
@@ -1395,12 +1395,4 @@ translate italian strings:
     # game/code/d10/d10s04.rpy:400
     old "Not my thing"
     new "Non fa per me"
-
-# TODO: Translation updated at 2021-01-19 00:11
-
-# game/code/d10/d10s04.rpy:376
-translate italian replay_d10s04_512fe1dd:
-
-    # mh "Although you might make too much noise if my co-consul tore your arguments apart."
-    mh "Although you might make too much noise if my co-consul tore your arguments apart."
-
+    
