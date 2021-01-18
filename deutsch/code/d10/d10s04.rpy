@@ -1045,10 +1045,10 @@ translate deutsch replay_d10s04_ec5792d5:
     mh "Unless you want to present your rebuttal."
 
 # game/code/d10/d10s04.rpy:376
-translate deutsch replay_d10s04_1baeadd0:
+translate spanish replay_d10s04_6e7a6c20:
 
-    # mh "Although you might make to much noise if my co-consul tore your arguments apart."
-    mh "Although you might make to much noise if my co-consul tore your arguments apart."
+    # mh "Although you might make too much noise if my co-counsel tore your arguments apart."
+    mh "Although you might make too much noise if my co-counsel tore your arguments apart."
 
 # game/code/d10/d10s04.rpy:378
 translate deutsch replay_d10s04_baa587ba:
@@ -1395,12 +1395,3 @@ translate deutsch strings:
     # game/code/d10/d10s04.rpy:400
     old "Not my thing"
     new "Not my thing"
-
-# TODO: Translation updated at 2021-01-19 00:10
-
-# game/code/d10/d10s04.rpy:376
-translate deutsch replay_d10s04_512fe1dd:
-
-    # mh "Although you might make too much noise if my co-consul tore your arguments apart."
-    mh "Although you might make too much noise if my co-consul tore your arguments apart."
-
