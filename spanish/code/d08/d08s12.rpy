@@ -706,3 +706,17 @@ translate spanish strings:
     old "It is your turn now"
     new "It is your turn now"
 
+# TODO: Translation updated at 2021-01-19 00:12
+
+# game/code/d08/d08s12.rpy:166
+translate spanish d08s12_pre_mc_action_1614da67:
+
+    # mct "Am I really gonna do this? I barely even know what the hell I'm supposed to be doing!"
+    mct "Am I really gonna do this? I barely even know what the hell I'm supposed to be doing!"
+
+# game/code/d08/d08s12.rpy:215
+translate spanish d08s12_deny_8b37064c:
+
+    # mc "Nope... Be a good girl and make me cum."
+    mc "Nope... Be a good girl and make me cum."
+
