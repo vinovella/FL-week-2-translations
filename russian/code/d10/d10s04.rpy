@@ -1396,3 +1396,11 @@ translate russian strings:
     old "Not my thing"
     new "Не мое дело"
 
+# TODO: Translation updated at 2021-01-19 00:11
+
+# game/code/d10/d10s04.rpy:376
+translate russian replay_d10s04_512fe1dd:
+
+    # mh "Although you might make too much noise if my co-consul tore your arguments apart."
+    mh "Although you might make too much noise if my co-consul tore your arguments apart."
+

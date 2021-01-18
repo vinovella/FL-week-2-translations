@@ -638,3 +638,11 @@ translate russian strings:
     old "Let's go"
     new "Поехали"
 
+# TODO: Translation updated at 2021-01-19 00:11
+
+# game/code/d10/d10s03.rpy:49
+translate russian d10s03_940b5dfb:
+
+    # sb "Why are you smiling? What's so funny?"
+    sb "Why are you smiling? What's so funny?"
+

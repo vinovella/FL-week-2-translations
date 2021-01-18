@@ -755,3 +755,17 @@ translate russian replay_d10p1s02_596b4c4a:
 
     # mc "We'll see."
     mc "Поживем-увидим."
+# TODO: Translation updated at 2021-01-19 00:11
+
+# game/code/d10p1/d10p1s02.rpy:171
+translate russian replay_d10p1s02_aa25011d:
+
+    # aw "Yep."
+    aw "Yep."
+
+# game/code/d10p1/d10p1s02.rpy:181
+translate russian replay_d10p1s02_1f426f2d:
+
+    # mc "True."
+    mc "True."
+

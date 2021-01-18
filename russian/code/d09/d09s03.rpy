@@ -1287,3 +1287,23 @@ translate russian strings:
     # game/code/d09/d09s03.rpy:314
     old "soiled condoms"
     new "использованные презервативы"
+# TODO: Translation updated at 2021-01-19 00:11
+
+# game/code/d09/d09s03.rpy:108
+translate russian d09s03_607f7c5b:
+
+    # lc "Excusez-moi, je dois poudrer mon nez."
+    lc "Excusez-moi, je dois poudrer mon nez."
+
+# game/code/d09/d09s03.rpy:223
+translate russian replay_d09s03_d7fc0734:
+
+    # lc "I'm totally fine! What were we talking about?"
+    lc "I'm totally fine! What were we talking about?"
+
+# game/code/d09/d09s03.rpy:476
+translate russian replay_d09s03_dd9fdea2:
+
+    # lc "Have you ever considered painting abstract art or avant-garde poetry contests?"
+    lc "Have you ever considered painting abstract art or avant-garde poetry contests?"
+
