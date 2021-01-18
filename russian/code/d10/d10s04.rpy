@@ -1045,11 +1045,11 @@ translate russian replay_d10s04_ec5792d5:
     mh "Если только ты не хочешь представить свой довод."
 
 # game/code/d10/d10s04.rpy:376
-translate russian replay_d10s04_1baeadd0:
+translate russian replay_d10s04_6e7a6c20:
 
-    # mh "Although you might make to much noise if my co-consul tore your arguments apart."
+    # mh "Although you might make too much noise if my co-counsel tore your arguments apart."
     mh "Хотя ты можешь наделать много шума, если мой консул разорвет твои аргументы на части."
-
+    
 # game/code/d10/d10s04.rpy:378
 translate russian replay_d10s04_baa587ba:
 
