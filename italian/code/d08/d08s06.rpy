@@ -474,5 +474,4 @@ translate italian d08s06_ca44a1f9:
 translate italian d08s06_0be38e4b:
 
     # sa "Didn't you say that you are friends?"
-    sa "Didn't you say that you are friends?"
-
+    sa "Ma non avevate detto di essere suoi amici?"

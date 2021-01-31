@@ -1216,11 +1216,10 @@ translate italian strings:
 translate italian d08s05_dd_320ef5c0:
 
     # sy "We're looking for Samiya, or Dahlia to help us finding Samiya."
-    sy "We're looking for Samiya, or Dahlia to help us finding Samiya."
+    sy "Stiamo cercando Samiya. O Dahlia, sperando che ci aiuti a trovarla."
 
 # game/code/d08/d08s05.rpy:182
 translate italian d08s05_dd_1512a6e1:
 
     # dd "Not that night. Samiya and I and a couple guys went over to the gym-"
-    dd "Not that night. Samiya and I and a couple guys went over to the gym-"
-
+    dd "Beh, non quella notte. Samiya ed io andiamo alla palestra con un paio di ragazzi..."

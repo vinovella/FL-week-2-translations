@@ -671,7 +671,7 @@ translate italian d08s12_end_83a0bcf1:
 
     # mc "Um... just a minute?{w} I'm leaving ASAP."
     mc "Ehm... solo un minuto?{w} Me ne vado quanto prima."
-    
+
 # game/code/d08/d08s12.rpy:91
 translate italian d08s12_ad3ee5ca:
 
@@ -873,35 +873,35 @@ translate italian strings:
     # game/code/d08/d08s12.rpy:393
     old "It is your turn now"
     new "Adesso tocca a te"
+    
 # TODO: Translation updated at 2021-01-19 00:11
 
 # game/code/d08/d08s12.rpy:191
 translate italian d08s12_deny_b5e3f444:
 
     # mc "You'd love it if you could touch it right now, wouldn't you?"
-    mc "You'd love it if you could touch it right now, wouldn't you?"
+    mc "Ti piacerebbe potertelo toccare, vero?"
 
 # game/code/d08/d08s12.rpy:192
 translate italian d08s12_deny_fb7cae0f:
 
     # mc "Let it be there! I don't permit you to touch it."
-    mc "Let it be there! I don't permit you to touch it."
+    mc "Sta bene così! Non ti permetto nemmeno di sfiorarlo!"
 
 # game/code/d08/d08s12.rpy:208
 translate italian d08s12_deny_a5a94f12:
 
     # mc "You are not allowed to jerk-off."
-    mc "You are not allowed to jerk-off."
+    mc "Non ti è permesso segarti!"
 
 # game/code/d08/d08s12.rpy:209
 translate italian d08s12_deny_b3c6b384:
 
     # mc "Don't make me repeat myself."
-    mc "Don't make me repeat myself."
+    mc "Non costringermi a ripetermi."
 
 # game/code/d08/d08s12.rpy:417
 translate italian d08s12_end_6c5544fb:
 
     # mh "Heh, I can't wait to see you again!."
-    mh "Heh, I can't wait to see you again!."
-
+    mh "Eh, non vedo l'ora di rivederti!"

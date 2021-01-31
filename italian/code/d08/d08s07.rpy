@@ -940,17 +940,16 @@ translate italian strings:
 translate italian d08s07_482ca548:
 
     # mes "It is my diet! I only drink this! You can eat all your food!"
-    mes "It is my diet! I only drink this! You can eat all your food!"
+    mes "Mi serve per la dieta! Ho solo questa per pranzo! Tu puoi mangiare tutto quello che vuoi!"
 
 # game/code/d08/d08s07.rpy:199
 translate italian d08s07_cf82b4db:
 
     # mc "{i}When do you finish your work?{/i}"
-    mc "{i}When do you finish your work?{/i}"
+    mc "{i}Quando finisci di lavorare?{/i}"
 
 # game/code/d08/d08s07.rpy:254
 translate italian d08s07_9aa5dd7c:
 
     # mc "Last week was awesome. I had a lot of fun, but best of all... I got to talk with you."
-    mc "Last week was awesome. I had a lot of fun, but best of all... I got to talk with you."
-
+    mc "La scorsa settimana è stata fantastica. Mi sono divertito un mondo, ma soprattutto... sono riuscito a parlare con te."
