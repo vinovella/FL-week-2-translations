@@ -775,5 +775,4 @@ translate russian replay_d10p1s02_1f426f2d:
 translate russian d10p1s02_216924c4:
 
     # mc "Hey, Allison. Y'know, I was actually wondering if I was gonna bump into you or not."
-    mc "Hey, Allison. Y'know, I was actually wondering if I was gonna bump into you or not."
-
+    mc "Привет, Эллисон. Знаешь, я думал, встречу ли тебя здесь или нет."
