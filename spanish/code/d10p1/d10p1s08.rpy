@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-01-19 00:12
+﻿# TODO: Translation updated at 2021-02-11 22:49
 
 # game/code/d10p1/d10p1s08.rpy:11
 translate spanish d10p1s08_18d67b2a:
