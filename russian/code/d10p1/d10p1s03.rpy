@@ -1240,9 +1240,9 @@ translate russian strings:
 
     # game/code/d10p1/d10p1s03.rpy:333
     old "Help him"
-    new "Help him"
+    new "Помоги ему"
 
     # game/code/d10p1/d10p1s03.rpy:333
     old "Don't help him"
-    new "Don't help him"
+    new "Не помогай ему"
 
