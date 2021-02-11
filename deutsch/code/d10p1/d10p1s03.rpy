@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-01-19 00:10
+﻿# TODO: Translation updated at 2021-02-11 22:50
 
 # game/code/d10p1/d10p1s03.rpy:8
 translate deutsch d10p1s03_2a4fa63e:
@@ -1231,6 +1231,10 @@ translate deutsch strings:
     new "Should I help him out?"
 
     # game/code/d10p1/d10p1s03.rpy:333
-    old "Don't"
-    new "Don't"
+    old "Help him"
+    new "Help him"
+
+    # game/code/d10p1/d10p1s03.rpy:333
+    old "Don't help him"
+    new "Don't help him"
 

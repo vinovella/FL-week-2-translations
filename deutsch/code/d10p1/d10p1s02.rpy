@@ -1,10 +1,10 @@
-﻿# TODO: Translation updated at 2021-01-19 00:10
+﻿# TODO: Translation updated at 2021-02-11 22:50
 
 # game/code/d10p1/d10p1s02.rpy:35
-translate deutsch d10p1s02_a9c5b073:
+translate deutsch d10p1s02_216924c4:
 
-    # mc "Hey, Alison. Y'know, I was actually wondering if I was gonna bump into you or not."
-    mc "Hey, Alison. Y'know, I was actually wondering if I was gonna bump into you or not."
+    # mc "Hey, Allison. Y'know, I was actually wondering if I was gonna bump into you or not."
+    mc "Hey, Allison. Y'know, I was actually wondering if I was gonna bump into you or not."
 
 # game/code/d10p1/d10p1s02.rpy:37
 translate deutsch d10p1s02_88b4c06c:
