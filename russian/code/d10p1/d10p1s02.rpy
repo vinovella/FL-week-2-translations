@@ -769,3 +769,11 @@ translate russian replay_d10p1s02_1f426f2d:
     # mc "True."
     mc "True."
 
+# TODO: Translation updated at 2021-02-11 22:52
+
+# game/code/d10p1/d10p1s02.rpy:35
+translate russian d10p1s02_216924c4:
+
+    # mc "Hey, Allison. Y'know, I was actually wondering if I was gonna bump into you or not."
+    mc "Hey, Allison. Y'know, I was actually wondering if I was gonna bump into you or not."
+

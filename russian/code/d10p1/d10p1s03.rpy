@@ -1234,3 +1234,15 @@ translate russian strings:
     old "Don't"
     new "Нет"
 
+# TODO: Translation updated at 2021-02-11 22:52
+
+translate russian strings:
+
+    # game/code/d10p1/d10p1s03.rpy:333
+    old "Help him"
+    new "Help him"
+
+    # game/code/d10p1/d10p1s03.rpy:333
+    old "Don't help him"
+    new "Don't help him"
+
