@@ -15,8 +15,8 @@ translate chinese d08s01_423607e1:
 # game/code/d08/d08s01.rpy:35
 translate chinese d08s01_f24b841d:
 
-    # arj "Pssst... [mcname]……呃……主人？都早上啦。"
-    arj "嘘……[mcname]... er.. Master? It is morning."
+    # arj "Pssst... [mcname]... er.. Master? It is morning."
+    arj "嘘……[mcname]……呃……主人？都早上啦。"
 
 # game/code/d08/d08s01.rpy:37
 translate chinese d08s01_32ff21e3:
