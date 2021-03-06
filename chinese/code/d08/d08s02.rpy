@@ -328,7 +328,7 @@ translate chinese d08s02_8862ea91:
 translate chinese d08s02_9e8acfc2:
 
     # mc "No, I've never met a girl who was into that sort of thing."
-    mc "没，我从没见过哪个女孩喜欢这种事。。"
+    mc "没，我从没见过哪个女孩喜欢这种事。"
 
 # game/code/d08/d08s02.rpy:133
 translate chinese d08s02_16e06539:
