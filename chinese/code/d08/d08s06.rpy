@@ -58,7 +58,7 @@ translate chinese d08s06_4ae3a6a8:
 translate chinese d08s06_a762c957:
 
     # mc "Yep. Anyway, let's go talk to her."
-    mc "是的。总之，我们去找她谈谈吧。"
+    mc "没错。总之，我们去找她谈谈吧。"
 
 # game/code/d08/d08s06.rpy:37
 translate chinese d08s06_1b59d494:
@@ -154,13 +154,13 @@ translate chinese d08s06_f1926523:
 translate chinese d08s06_c8ff4e25:
 
     # sa "She probably said that. I'm saying different."
-    sa "她自己可能这么说。我的看法不同。"
+    sa "她自己可能这么说。我可不这么看。"
 
 # game/code/d08/d08s06.rpy:68
 translate chinese d08s06_b6a1daaa:
 
     # mc "So, you're her coach? I didn't think she'd need a swim coach."
-    mc "所以，你是她的教练？我觉得她不需要游泳教练。"
+    mc "所以，你是她教练？我以为她不需要游泳教练。"
 
 # game/code/d08/d08s06.rpy:70
 translate chinese d08s06_f1b13a35:
@@ -226,13 +226,13 @@ translate chinese d08s06_ebd7bb17:
 translate chinese d08s06_50320392:
 
     # sa "Allison has a ton of talent, but no motivation to push herself to win."
-    sa "艾莉森很有天赋，但没有动力激励自己获胜。"
+    sa "艾莉森很有天赋，但没有动力去激励自己获胜。"
 
 # game/code/d08/d08s06.rpy:88
 translate chinese d08s06_5a122a58:
 
     # sy "But she won yesterday. She blew everyone away at the kayak competition."
-    sy "但她昨天就赢了。她在皮划艇比赛中让所有人都大吃一惊。"
+    sy "但她昨天就赢了啊。她在皮划艇比赛中让所有人都大吃一惊。"
 
 # game/code/d08/d08s06.rpy:90
 translate chinese d08s06_7feb5c0d:
@@ -268,13 +268,13 @@ translate chinese d08s06_d5ae2301:
 translate chinese d08s06_4cd714a8:
 
     # sa "Allison wasn't really competing yesterday. She was just \"having fun\"."
-    sa "艾莉森昨天并没有真正意义上参加比赛。她只是在\"找乐子\"。"
+    sa "艾莉森昨天并不是真正意义上参加比赛。她只是在\"找乐子\"。"
 
 # game/code/d08/d08s06.rpy:101
 translate chinese d08s06_ab8112cc:
 
     # sy "What's wrong with having fun? You said that like it was profanity."
-    sy "玩得开心有什么不好？你说得好像这是亵渎一样。"
+    sy "玩得开心有什么不好？你说得好像这很不敬一样。"
 
 # game/code/d08/d08s06.rpy:102
 translate chinese d08s06_f50f4a6c:
@@ -400,7 +400,7 @@ translate chinese d08s06_0d925675:
 translate chinese d08s06_251e0c2a:
 
     # sa "I won't interrupt her training. It's hard enough trying to keep her on a schedule."
-    sa "我不会中断她的训练。要让她按部就班地学习已经够难的了。"
+    sa "我不会中断她的训练。要让她按部就班地练习已经够难的了。"
 
 # game/code/d08/d08s06.rpy:138
 translate chinese d08s06_cb3704d9:
@@ -418,7 +418,7 @@ translate chinese d08s06_efc9022a:
 translate chinese d08s06_258e9ff8:
 
     # sa "Ah, well, it's nothing you couldn't know anyway. Allison should have wrapped up her classes and such by 4pm today."
-    sa "啊，好吧，反正你也没什么不知道的。艾莉森应该今天下午4点会上完课。"
+    sa "啊，好吧，反正你也没什么不知道的。艾莉森今天下午4点应该会上完课。"
 
 # game/code/d08/d08s06.rpy:142
 translate chinese d08s06_e34a34bc:
