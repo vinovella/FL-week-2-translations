@@ -286,7 +286,7 @@ translate chinese replay_d08s04_25e96f6a:
 translate chinese replay_d08s04_32ad81e4:
 
     # mesfl "Fine. Give me a minute."
-    mesfl "好吧。给我一分钟。
+    mesfl "好吧。给我一分钟。"
 
 # game/code/d08/d08s04.rpy:169
 translate chinese replay_d08s04_659f7335:
