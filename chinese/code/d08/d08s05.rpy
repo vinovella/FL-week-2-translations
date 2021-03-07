@@ -16,7 +16,7 @@ translate chinese d08s05_0c829b89:
 translate chinese d08s05_f25d77a6:
 
     # mc "It is nice, but our college will look better on your resume after we graduate."
-    mc "这大学不错，不过我们学校毕业后，你的简历上会更好看。"
+    mc "这大学不错，不过从我们学校毕业后，你简历上会更好看。"
 
 # game/code/d08/d08s05.rpy:16
 translate chinese d08s05_7bfd3d68:
@@ -322,7 +322,7 @@ translate chinese d08s05_dd_ff251ef7:
 translate chinese d08s05_dd_3859fa41:
 
     # dd "Meanwhile I was there, friends with both of them, and just like \"Ugh, you're as bad as Batman and the Joker. Just fuck already!\""
-    dd "与此同时我也在那里，和他们两个都是朋友，就感觉，\"呃，你们俩就跟蝙蝠侠和小丑一样麻烦。开干就是！\""
+    dd "与此同时我也在，和她们两个都是朋友，就感觉，\"呃，你们俩就跟蝙蝠侠和小丑一样麻烦。开干就是！\""
 
 # game/code/d08/d08s05.rpy:132
 translate chinese d08s05_dd_24fb4913:
@@ -442,7 +442,7 @@ translate chinese d08s05_dd_d7e1eca5:
 translate chinese d08s05_dd_19729ae1:
 
     # dd "Right, so she becomes Prom Queen."
-    dd "对，反正她最后成了舞会皇后。."
+    dd "对，反正她最后成了舞会皇后。"
 
 # game/code/d08/d08s05.rpy:171
 translate chinese d08s05_dd_d58a287d:
@@ -532,7 +532,7 @@ translate chinese d08s05_dd_d1d905d4:
 translate chinese d08s05_dd_3f3e8c36:
 
     # dd "Samiya walked up to his drunk ass and asked him what happened to his girlfriend."
-    dd "萨米亚走到那醉鬼身边，问他女朋友怎么回事。"
+    dd "萨米亚走到那醉鬼身边，问他女朋友算怎么回事。"
 
 # game/code/d08/d08s05.rpy:195
 translate chinese d08s05_dd_5bc70cfb:
