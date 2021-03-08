@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-02-18 10:53
+﻿# TODO: Translation updated at 2021-03-09 01:26
 
 translate russian strings:
 
@@ -7,8 +7,8 @@ translate russian strings:
     new "Give up!"
 
     # game/code/d10p2/d10p2_screens.rpy:11
-    old "Stop Searching"
-    new "Stop Searching"
+    old "Stop searching"
+    new "Stop searching"
 
     # game/code/d10p2/d10p2_screens.rpy:15
     old "Skip"
@@ -178,7 +178,7 @@ translate russian strings:
     old "Cowgirl"
     new "Cowgirl"
 
-    # game/code/d10p2/d10p2_screens.rpy:947
+    # game/code/d10p2/d10p2_screens.rpy:951
     old "Continue to the final scene"
     new "Continue to the final scene"
 

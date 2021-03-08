@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-02-18 10:53
+﻿# TODO: Translation updated at 2021-03-09 01:26
 
 # game/code/d10p2/d10p2s10.rpy:4
 translate russian d10p2s10_d0cc5f7f:
@@ -269,10 +269,4 @@ translate russian d10p2s10_c69e04a5:
 
     # arj "I'll join you."
     arj "I'll join you."
-
-# game/code/d10p2/d10p2s10.rpy:100
-translate russian d10p2s10_d48347b0:
-
-    # "Save your game here ;)"
-    "Save your game here ;)"
 

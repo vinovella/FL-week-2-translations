@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-02-18 10:53
+﻿# TODO: Translation updated at 2021-03-09 01:26
 
 # game/code/d10p2/d10p2s04-dw.rpy:46
 translate russian d10p2s04_dw_dbf77d44:
@@ -199,10 +199,10 @@ translate russian d10p2s04_dw_afbfd2e0:
     mc "I didn't want to be a sub for her."
 
 # game/code/d10p2/d10p2s04-dw.rpy:171
-translate russian d10p2s04_dw_db4aa35f:
+translate russian d10p2s04_dw_9d601e3e:
 
-    # mesfl "Oh, alright. That makes more sense.."
-    mesfl "Oh, alright. That makes more sense.."
+    # mesfl "Oh, alright. That makes more sense."
+    mesfl "Oh, alright. That makes more sense."
 
 # game/code/d10p2/d10p2s04-dw.rpy:172
 translate russian d10p2s04_dw_d328eead:
@@ -211,10 +211,10 @@ translate russian d10p2s04_dw_d328eead:
     mesfl "I'll keep an eye out for her then."
 
 # game/code/d10p2/d10p2s04-dw.rpy:174
-translate russian d10p2s04_dw_3f867640:
+translate russian d10p2s04_dw_bb0eeaf4:
 
-    # mc "Thank you"
-    mc "Thank you"
+    # mc "Thank you."
+    mc "Thank you."
 
 # game/code/d10p2/d10p2s04-dw.rpy:176
 translate russian d10p2s04_dw_9bdba415:
@@ -511,10 +511,10 @@ translate russian d10p2s04_dw_e493466d:
     dw "Good. Now say \"Aa.\""
 
 # game/code/d10p2/d10p2s04-dw.rpy:337
-translate russian d10p2s04_dw_38e389d4:
+translate russian d10p2s04_dw_8bb496d2:
 
-    # dw "Is that really it? "
-    dw "Is that really it? "
+    # dw "Is that really it?"
+    dw "Is that really it?"
 
 # game/code/d10p2/d10p2s04-dw.rpy:338
 translate russian d10p2s04_dw_db181894:
@@ -607,10 +607,10 @@ translate russian d10p2s04_dwmc_dickslap_df52f281:
     dw "And you call yourself a man."
 
 # game/code/d10p2/d10p2s04-dw.rpy:416
-translate russian d10p2s04_dwmc_dickslap_9f5766f1:
+translate russian d10p2s04_dwmc_dickslap_88062e8b:
 
-    # dw "Look at this thing"
-    dw "Look at this thing"
+    # dw "Look at this thing."
+    dw "Look at this thing."
 
 # game/code/d10p2/d10p2s04-dw.rpy:420
 translate russian d10p2s04_dwmc_dickslap_06efbc8f:
