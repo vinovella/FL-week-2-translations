@@ -11,8 +11,8 @@ translate italian strings:
     new "Smetti di cercare"
 
     # game/code/d10p2/d10p2_screens.rpy:15
-    old "Skip"
-    new "Salti"
+    old "Skip{#d10p2s05}"
+    new "Salti{#d10p2s05}"
 
     # game/code/d10p2/d10p2_screens.rpy:20
     old "Skip the free roam"
