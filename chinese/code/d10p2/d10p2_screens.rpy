@@ -7,8 +7,8 @@ translate chinese strings:
     new "Give up!"
 
     # game/code/d10p2/d10p2_screens.rpy:11
-    old "Stop Searching"
-    new "Stop Searching"
+    old "Stop searching"
+    new "Stop searching"
 
     # game/code/d10p2/d10p2_screens.rpy:15
     old "Skip"
