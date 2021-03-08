@@ -1,10 +1,10 @@
 ﻿# TODO: Translation updated at 2020-12-30 22:51
 
 # game/code/d10p1/d10p1s02.rpy:35
-translate italian d10p1s02_a9c5b073:
+translate italian d10p1s02_216924c4:
 
-    # mc "Hey, Alison. Y'know, I was actually wondering if I was gonna bump into you or not."
-    mc "Ciao, Alison. Mi stavo proprio chiedendo se ti avrei vista o no."
+    # mc "Hey, Allison. Y'know, I was actually wondering if I was gonna bump into you or not."
+    mc "Ciao, Allison. Mi stavo proprio chiedendo se ti avrei vista o no."
 
 # game/code/d10p1/d10p1s02.rpy:37
 translate italian d10p1s02_88b4c06c:
@@ -755,4 +755,3 @@ translate italian replay_d10p1s02_596b4c4a:
 
     # mc "We'll see."
     mc "Vedremo."
-
