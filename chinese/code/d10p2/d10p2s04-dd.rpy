@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-03-09 01:17
+﻿# TODO: Translation updated at 2021-03-09 02:01
 
 # game/code/d10p2/d10p2s04-dd.rpy:112
 translate chinese d10p2s04_dd_2cc05c46:
@@ -469,10 +469,10 @@ translate chinese d10p2s04_dd_43248f2b:
     mc "I think that's enough for now."
 
 # game/code/d10p2/d10p2s04-dd.rpy:303
-translate chinese d10p2s04_dd_edae23c5:
+translate chinese d10p2s04_dd_d3ab7d9e:
 
-    # mc "How about we do something else."
-    mc "How about we do something else."
+    # mc "How about we do something else?"
+    mc "How about we do something else?"
 
 # game/code/d10p2/d10p2s04-dd.rpy:305
 translate chinese d10p2s04_dd_7bf6cd10:

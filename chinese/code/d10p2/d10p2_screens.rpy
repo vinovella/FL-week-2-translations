@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-03-09 01:17
+﻿# TODO: Translation updated at 2021-03-09 02:01
 
 translate chinese strings:
 
@@ -12,7 +12,7 @@ translate chinese strings:
 
     # game/code/d10p2/d10p2_screens.rpy:15
     old "Skip{#d10p2s05}"
-    new "Salti{#d10p2s05}"
+    new "Skip{#d10p2s05}"
 
     # game/code/d10p2/d10p2_screens.rpy:20
     old "Skip the free roam"
