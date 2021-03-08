@@ -7,7 +7,7 @@ translate italian strings:
     new "Ti arrendi"
 
     # game/code/d10p2/d10p2_screens.rpy:11
-    old "Stop Searching"
+    old "Stop searching"
     new "Smetti di cercare"
 
     # game/code/d10p2/d10p2_screens.rpy:15
