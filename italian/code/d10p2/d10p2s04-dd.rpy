@@ -192,10 +192,10 @@ translate italian d10p2s04_dd_96f6ea80:
     # mc "Yeah, but Squizzle's just outside."
     mc "Sì, ma Squizzle è qui fuori."
 
-# game/code/d10p2/d10p2s04-dd.rpy:199
-translate italian d10p2s04_dd_f1e6113e:
+# game/code/d10p2/d10p2s04-dd.rpy:192
+translate italian d10p2s04_dd_21c16306:
 
-    # mc "All you need to do is say your safeword if you don't like what's happening and she'll probably barge in here carrying a battleaxe just wishing a motherfucker would."
+    # mc "All you need to do is say your safe word if you don't like what's happening and she'll probably barge in here carrying a battleaxe just wishing a motherfucker would."
     mc "Qualora succedesse qualcosa non di tuo gradimento, ti basterebbe pronunciare la tua parola di sicurezza e allora vedresti Squizzle fare irruzione brandendo un'ascia bipenne e scagliandosi contro il malcapitato."
 
 # game/code/d10p2/d10p2s04-dd.rpy:202
@@ -294,10 +294,10 @@ translate italian d10p2s04_dd_4aec8a23:
     # dd "Why are you speaking all posh all of a sudden?"
     dd "Perché tutto d'un tratto ti sei messo a parlare con tono snob?"
 
-# game/code/d10p2/d10p2s04-dd.rpy:258
-translate italian d10p2s04_dd_88e2d429:
+# game/code/d10p2/d10p2s04-dd.rpy:238
+translate italian d10p2s04_dd_12a21b40:
 
-    # mc "I dunno, just go with it"
+    # mc "I dunno, just go with it."
     mc "Così, stai al gioco."
 
 # game/code/d10p2/d10p2s04-dd.rpy:261
@@ -468,10 +468,10 @@ translate italian d10p2s04_dd_43248f2b:
     # mc "I think that's enough for now."
     mc "Credo che ora sia abbastanza."
 
-# game/code/d10p2/d10p2s04-dd.rpy:327
-translate italian d10p2s04_dd_5ed29663:
+# game/code/d10p2/d10p2s04-dd.rpy:303
+translate italian d10p2s04_dd_d3ab7d9e:
 
-    # mc "How about we do something else"
+    # mc "How about we do something else?"
     mc "Che ne dici di fare altro?"
 
 # game/code/d10p2/d10p2s04-dd.rpy:331
@@ -624,10 +624,10 @@ translate italian d10p2s04_dd_bc946c4d:
     # dd "Do it, baby. Fucking cover me."
     dd "Vieni, tesoro. Ricoprimi tutta."
 
-# game/code/d10p2/d10p2s04-dd.rpy:405
-translate italian d10p2s04_dd_61534df9:
+# game/code/d10p2/d10p2s04-dd.rpy:369
+translate italian d10p2s04_dd_08f4d903:
 
-    # dd "God, I can feel it all over me"
+    # dd "God, I can feel it all over me."
     dd "Dio, lo sento tutto addosso a me."
 
 # game/code/d10p2/d10p2s04-dd.rpy:406
@@ -960,11 +960,11 @@ translate italian d10p2s04_dd_006b44ff:
     # mc "I don't want you to escape now."
     mc "Non voglio che tu mi scappi proprio ora."
 
-# game/code/d10p2/d10p2s04-dd.rpy:654
-translate italian d10p2s04_dd_4e5bb240:
+# game/code/d10p2/d10p2s04-dd.rpy:562
+translate italian d10p2s04_dd_9392547f:
 
-    # dd "Smort. You can't ever truly trust your prisoners, no matter how sexy they are."
-    dd "Idiota. Mai fidarsi dei prigionieri, per quanto siano sexy."
+    # dd "Smart. You can't ever truly trust your prisoners, no matter how sexy they are."
+    dd "Inteligente. Mai fidarsi dei prigionieri, per quanto siano sexy."
 
 # game/code/d10p2/d10p2s04-dd.rpy:657
 translate italian d10p2s04_dd_ffd63fc6:
@@ -1086,10 +1086,10 @@ translate italian d10p2s04_dd_11c32863_1:
     # mc "Let me get you out of there."
     mc "Lascia che ti liberi."
 
-# game/code/d10p2/d10p2s04-dd.rpy:753
-translate italian d10p2s04_dd_15a6a74d:
+# game/code/d10p2/d10p2s04-dd.rpy:638
+translate italian d10p2s04_dd_485eb729:
 
-    # dd "Fuck my mouse at last!!"
+    # dd "Fuck my mouth at last!!"
     dd "Almeno scopami in bocca!!"
 
 # game/code/d10p2/d10p2s04-dd.rpy:771
@@ -1224,10 +1224,10 @@ translate italian d10p2s04_minmc_dw_dd_endtalk_ecdb9b87:
     # dd "I wasn't really into not knowing who it was though."
     dd "Non è che la cosa mi attraesse davvero, visto che non sapevo che partner avrei avuto."
 
-# game/code/d10p2/d10p2s04-dd.rpy:853
-translate italian d10p2s04_minmc_dw_dd_endtalk_9716eaba:
+# game/code/d10p2/d10p2s04-dd.rpy:739
+translate italian d10p2s04_minmc_dw_dd_endtalk_6d8ec4a2:
 
-    # dd "I'm just not into doing this sorta stuff with strangers I guess"
+    # dd "I'm just not into doing this sorta stuff with strangers I guess."
     dd "Immagino che fare queste cose con gli sconosciuti non faccia per me."
 
 # game/code/d10p2/d10p2s04-dd.rpy:855
@@ -1675,4 +1675,3 @@ translate italian strings:
     # game/code/d10p2/d10p2s04-dd.rpy:710
     old "Hold even more"
     new "Ti trattieni ulteriormente"
-

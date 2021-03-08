@@ -199,9 +199,9 @@ translate italian d10p2s04_dw_afbfd2e0:
     mc "Non mi andava di sottomettermi proprio a lei."
 
 # game/code/d10p2/d10p2s04-dw.rpy:171
-translate italian d10p2s04_dw_db4aa35f:
+translate italian d10p2s04_dw_9d601e3e:
 
-    # mesfl "Oh, alright. That makes more sense.."
+    # mesfl "Oh, alright. That makes more sense."
     mesfl "Oh, va bene. La cosa ha una sua logica."
 
 # game/code/d10p2/d10p2s04-dw.rpy:172
@@ -211,9 +211,9 @@ translate italian d10p2s04_dw_d328eead:
     mesfl "La terrò d'occhio allora."
 
 # game/code/d10p2/d10p2s04-dw.rpy:174
-translate italian d10p2s04_dw_3f867640:
+translate italian d10p2s04_dw_bb0eeaf4:
 
-    # mc "Thank you"
+    # mc "Thank you."
     mc "Grazie."
 
 # game/code/d10p2/d10p2s04-dw.rpy:176
@@ -511,9 +511,9 @@ translate italian d10p2s04_dw_e493466d:
     dw "Bene. Ora dì: \"Aaah.\""
 
 # game/code/d10p2/d10p2s04-dw.rpy:337
-translate italian d10p2s04_dw_38e389d4:
+translate italian d10p2s04_dw_8bb496d2:
 
-    # dw "Is that really it? "
+    # dw "Is that really it?"
     dw "Sul serio?"
 
 # game/code/d10p2/d10p2s04-dw.rpy:338
@@ -607,9 +607,9 @@ translate italian d10p2s04_dwmc_dickslap_df52f281:
     dw "E oseresti definirti un uomo."
 
 # game/code/d10p2/d10p2s04-dw.rpy:416
-translate italian d10p2s04_dwmc_dickslap_9f5766f1:
+translate italian d10p2s04_dwmc_dickslap_88062e8b:
 
-    # dw "Look at this thing"
+    # dw "Look at this thing."
     dw "Ma guarda quel cosetto moscio."
 
 # game/code/d10p2/d10p2s04-dw.rpy:420
@@ -1187,4 +1187,3 @@ translate italian strings:
     # game/code/d10p2/d10p2s04-dw.rpy:549
     old "Hold stronger"
     new "Resisti ulteriormente"
-
