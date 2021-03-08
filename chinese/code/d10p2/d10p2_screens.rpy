@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-03-02 23:31
+﻿# TODO: Translation updated at 2021-03-09 01:17
 
 translate chinese strings:
 
@@ -178,7 +178,7 @@ translate chinese strings:
     old "Cowgirl"
     new "Cowgirl"
 
-    # game/code/d10p2/d10p2_screens.rpy:947
+    # game/code/d10p2/d10p2_screens.rpy:951
     old "Continue to the final scene"
     new "Continue to the final scene"
 
