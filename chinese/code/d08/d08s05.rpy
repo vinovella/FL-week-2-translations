@@ -1042,7 +1042,7 @@ translate chinese d08s05_dw_522460b0:
 translate chinese d08s05_dw_80a5c16f:
 
     # mc "Umm..."
-    mc "呃……."
+    mc "呃……"
 
 # game/code/d08/d08s05.rpy:431
 translate chinese d08s05_dw_da6a3daa:
