@@ -4,7 +4,7 @@
 translate chinese d08s10_56849fdc:
 
     # "3:30 PM"
-    "下午3:30 "
+    "下午三点半"
 
 # game/code/d08/d08s10.rpy:6
 translate chinese d08s10_f366e04b:
@@ -106,7 +106,7 @@ translate chinese d08s10_9f0f5ea7:
 translate chinese d08s10_00cdce25:
 
     # mc "Stacy just a couple days ago came to town, and unfortunately her luggage was stolen on the first night here by Samiya."
-    mc "史黛西几天前刚来到镇上，不幸的是，她行李在来的第一晚就被萨米亚偷走了。"
+    mc "史黛西几天前刚来到市里，不幸的是，她行李在来的第一晚就被萨米亚偷走了。"
 
 # game/code/d08/d08s10.rpy:64
 translate chinese d08s10_e980596d:
@@ -130,7 +130,7 @@ translate chinese d08s10_0f4af75c:
 translate chinese d08s10_8bf8565f:
 
     # aw "I just got a note from Samiya that she found a bikini for me and I decided to wear it on my stream..."
-    aw "我刚收到萨米亚的便条，说她给我找了一件比基尼，我决定在我的节目中穿上它……"
+    aw "我刚收到萨米亚的便条，说她给我找了一件比基尼，我决定直播时穿上它……"
 
 # game/code/d08/d08s10.rpy:76
 translate chinese d08s10_87568044:
@@ -154,7 +154,7 @@ translate chinese d08s10_bcb48e84:
 translate chinese d08s10_9a6005db:
 
     # aw "I'm sorry. Does nudity bother you?"
-    aw "哦抱歉。我这样让你困扰了吗？"
+    aw "哦抱歉。我这样给你带来困扰了吗？"
 
 # game/code/d08/d08s10.rpy:88
 translate chinese d08s10_97fffee4:
@@ -214,13 +214,13 @@ translate chinese d08s10_a4ab24de:
 translate chinese d08s10_635fac8c:
 
     # sy "Wow! You were a stripper?!"
-    sy "哇！你曾经是脱衣舞娘?!"
+    sy "哇！你曾经是脱衣舞女?!"
 
 # game/code/d08/d08s10.rpy:111
 translate chinese d08s10_d7f498aa:
 
     # aw "Yes. For a short time. Actually, both me and Samiya. We challenged each other and worked in the same gentlemen's club for about a year."
-    aw "是，时间很短。其实，我和萨米亚都是。我们互相挑战，在男人光临的俱乐部工作了一年左右。"
+    aw "是，时间很短。其实我和萨米亚都做过。我们互相挑战，在男人光临的俱乐部工作了一年左右。"
 
 # game/code/d08/d08s10.rpy:112
 translate chinese d08s10_77bb2b65:
@@ -244,7 +244,7 @@ translate chinese d08s10_76522f0b:
 translate chinese d08s10_8644dcb5:
 
     # aw "We haven't spoken since I told her that I was working as a stripper."
-    aw "自从我告诉她我在做脱衣舞娘之后，我们就再也没有说过话了。"
+    aw "自从我告诉她我在做脱衣舞女之后，我们就再也没有说过话了。"
 
 # game/code/d08/d08s10.rpy:119
 translate chinese d08s10_12f77d00:
@@ -256,7 +256,7 @@ translate chinese d08s10_12f77d00:
 translate chinese d08s10_b64fcbca:
 
     # aw "Yea. I guess she just can't understand that I actually enjoy it. I don't do it just for the money."
-    aw "是啊，她应该就是不能理解我其实很享受。我不是为了钱才做的。"
+    aw "是啊，她应该就是不能理解我其实很享受吧。我不是为了钱才做的。"
 
 # game/code/d08/d08s10.rpy:125
 translate chinese d08s10_f0a094b2:
@@ -286,19 +286,19 @@ translate chinese d08s10_e9da2bc5:
 translate chinese d08s10_f89f0990:
 
     # aw "We haven't spoken since they found out that I was working as a stripper."
-    aw "自从他们发现我在做脱衣舞娘后，我们就再也没有说过话。"
+    aw "自从他们发现我在做脱衣舞女后，我们就再也没有说过话。"
 
 # game/code/d08/d08s10.rpy:131
 translate chinese d08s10_269507d9:
 
     # sy "That's a bit sad. I know how hard it can be when someone close isn't supporting your decisions."
-    sy "这还挺难过的。我知道当亲近的人不支持你的决定时有多难。"
+    sy "这还挺难过的。我知道亲人不支持你的感觉有多难受。"
 
 # game/code/d08/d08s10.rpy:134
 translate chinese d08s10_3f4d58b2:
 
     # aw "Yea. I guess they just can't understand that I actually enjoy it. I don't do it just for the money."
-    aw "是啊，他们应该就是不能理解我其实很享受。我不是为了钱才做的。"
+    aw "是啊，他们应该就是不能理解我其实很享受吧。我不是为了钱才做的。"
 
 # game/code/d08/d08s10.rpy:137
 translate chinese d08s10_7e7e0845:
@@ -322,13 +322,13 @@ translate chinese d08s10_ae45905f:
 translate chinese d08s10_6f84b3da:
 
     # sy "Sad to hear... {w}Did Samiya also switch to webcams after the strip club?"
-    sy "很遗憾……{w}萨米亚在脱衣舞俱乐部之后也改做网络直播了吗？"
+    sy "很遗憾……{w}那萨米亚在脱衣舞俱乐部之后也改做网络直播了吗？"
 
 # game/code/d08/d08s10.rpy:145
 translate chinese d08s10_85dbea56:
 
     # aw "Oh no. She went a little bit further."
-    aw "哦，不。她走得更远一些。"
+    aw "哦，不。她步子迈得更远些。"
 
 # game/code/d08/d08s10.rpy:146
 translate chinese d08s10_af6836ed:
@@ -364,7 +364,7 @@ translate chinese d08s10_991aa510:
 translate chinese d08s10_2401430e:
 
     # aw "Ah yea. Well, after the strip club she started working as an escort."
-    aw "啊，对。好吧，在脱衣舞俱乐部之后，她开始陪人了。"
+    aw "啊对。好吧，在脱衣舞俱乐部之后，她开始陪人了。"
 
 # game/code/d08/d08s10.rpy:156
 translate chinese d08s10_73658b0f:
@@ -376,7 +376,7 @@ translate chinese d08s10_73658b0f:
 translate chinese d08s10_2f4703ea:
 
     # aw "I definitely wouldn't call her that. At least not in her face, if you don't want to see your stuff shredded to pieces."
-    aw "我绝对不会这么叫她。如果你不想看见自己的东西被撕成碎片的话，至少不要当着她的面这么叫。"
+    aw "我绝对不会这么叫她。如果你不想看见自己的东西被撕成碎片的话，至少不要当她的面这么叫。"
 
 # game/code/d08/d08s10.rpy:159
 translate chinese d08s10_14a20c78:
@@ -424,19 +424,19 @@ translate chinese d08s10_be3edc74:
 translate chinese d08s10_bd71a999:
 
     # aw "Maybe it was a mutual attraction. Or she was horny after a dull client. You'd have to ask her about that."
-    aw "也许是相互吸引。或者她在接到一个无聊的客户后色心大起。你得问问她。"
+    aw "也许是相互吸引吧。或者她在接到无聊的客户后色心大起呢。你得问问她。"
 
 # game/code/d08/d08s10.rpy:171
 translate chinese d08s10_4dbba726:
 
     # sy "Would love to! Any idea how we can find her? Or maybe you have seen my luggage?"
-    sy "我也想啊！有什么办法可以找到她吗? 或者你有见过我的行李？"
+    sy "我也想啊！有什么办法可以找到她吗？或者你有见过我的行李？"
 
 # game/code/d08/d08s10.rpy:174
 translate chinese d08s10_d71bd943:
 
     # aw "No, sorry, haven't seen any luggage. She just left the bikini with a note for me."
-    aw "没有，对不起，没有看到任何行李。她只留给我一件比基尼和一张纸条。"
+    aw "没有，对不起了，没看到任何行李。她只留给我一件比基尼和一张纸条。"
 
 # game/code/d08/d08s10.rpy:176
 translate chinese d08s10_37d35488:
@@ -460,7 +460,7 @@ translate chinese d08s10_3688606f:
 translate chinese d08s10_00663e42:
 
     # mc "No, but we didn't actually see her."
-    mc "没有，但我们实际上并没有亲眼看到她那。"
+    mc "没有，但我们实际上并没有亲眼看到她拿。"
 
 # game/code/d08/d08s10.rpy:186
 translate chinese d08s10_0af96d0a:
@@ -484,7 +484,7 @@ translate chinese d08s10_3b1e781d:
 translate chinese d08s10_1492e670:
 
     # mc "Yes, I would like to meet with you to discuss some things."
-    mc "是的，我想和你见面讨论一些事情。"
+    mc "是的，有点事情我想和你见面谈谈。"
 
 # game/code/d08/d08s10.rpy:194
 translate chinese d08s10_8852e77f:
@@ -658,7 +658,7 @@ translate chinese d08s10_05439293:
 translate chinese d08s10_0a95bb21:
 
     # sy "Two sexy ladies trying on clothes..."
-    sy "两位性感的女士在试衣服……"
+    sy "到时候可有两位性感的女士在试衣服……"
 
 # game/code/d08/d08s10.rpy:241
 translate chinese d08s10_e843e1e3:
