@@ -46,7 +46,7 @@ translate chinese d08s11_b119aa85:
 translate chinese d08s11_223bdd53:
 
     # mc "Excuse me. Are you following this case?"
-    mc "打扰一下。您在关注这个案子吗？"
+    mc "打扰一下。你在关注这个案子吗？"
 
 # game/code/d08/d08s11.rpy:33
 translate chinese d08s11_57c8a37e:
@@ -130,7 +130,7 @@ translate chinese d08s11_c370ea31:
 translate chinese d08s11_9d797aff:
 
     # ceo "I couldn't tell you the dictionary definition, but sure, I'm familiar with Homo sapiens."
-    ceo "我说不出来字典上的定义，但肯定的是，我知道智人这个词。"
+    ceo "我说不出来字典上的定义，但可以肯定的是，我知道智人这个词。"
 
 # game/code/d08/d08s11.rpy:57
 translate chinese d08s11_331e7425:
@@ -202,13 +202,13 @@ translate chinese d08s11_267a8274:
 translate chinese d08s11_ce982e29:
 
     # peon "Douchebro's book. It's 900 pages about Mister Moneybags... all about how he's the reincarnation of an ancient evil, raises demons from sex orgies, casually sacrifices virgins in his office, etc."
-    peon "那二货的书。有900页是写那个大款的……都是关于他怎么是古代恶魔转世，从性爱狂欢中招来恶魔，在办公室随意献祭处女等等。"
+    peon "那二货的书。有900页都是写那个大款的……都是关于他怎么是古代恶魔转世，从性爱狂欢中招来恶魔，在办公室随意献祭处女等等。"
 
 # game/code/d08/d08s11.rpy:84
 translate chinese d08s11_3ca73872:
 
     # peon "Mister Moneybags is suing Douchebro for defamation and libel... trying to get the book unpublished or something."
-    peon "大款正在起诉那二货诽谤和中伤……想让这本书没法出版什么的。"
+    peon "大款正在起诉那二货诽谤和中伤……想让这书没法出版之类的。"
 
 # game/code/d08/d08s11.rpy:86
 translate chinese d08s11_fd69eb40:
@@ -568,7 +568,7 @@ translate chinese d08s11_5062f140:
 translate chinese d08s11_cb67ccba:
 
     # mh "So, when you publicly testify... on the record and under oath... about the defendant's mental state you have some reason to be believed?"
-    mh "所以，当您公开作证时……...在有记录在案并您也宣誓的情况下...关于被告的精神状态，您的言论可以相信吗?”"
+    mh "所以，当您公开作证时……在有记录在案并您也宣誓的情况下……关于被告的精神状态，您的言论可以相信吗？"
 
 # game/code/d08/d08s11.rpy:202
 translate chinese d08s11_b2b072ac:
@@ -634,7 +634,7 @@ translate chinese d08s11_680ede0c:
 translate chinese d08s11_aed5f9c2:
 
     # peon "She not only proved that the defendant's book was covered as parody or satire..."
-    peon "她不仅证明了被告的书是被污蔑为无中生有、以及是部讽刺作品……"
+    peon "她不仅证明了被告的书可以作为戏仿或讽刺作品受到法律保护……"
 
 # game/code/d08/d08s11.rpy:224
 translate chinese d08s11_e1dfe628:
@@ -646,7 +646,7 @@ translate chinese d08s11_e1dfe628:
 translate chinese d08s11_1a073c24:
 
     # peon "Yes. The subject of the book is a respected public figure deserving of ridicule, and no reasonable person would believe it."
-    peon "是的，书的主人公是个受人尊敬的公众人物，他现在值得被嘲笑，凡是有理智的人都不会相信他。"
+    peon "是的，书的主人公是位受人尊敬的公众人物，他成了人们嘲笑的牺牲品，但没有哪个明智的人会相信书中的内容。"
 
 # game/code/d08/d08s11.rpy:226
 translate chinese d08s11_2689b56d:
@@ -670,7 +670,7 @@ translate chinese d08s11_35b0dd06:
 translate chinese d08s11_223b23ed:
 
     # peon "It's a cornerstone of our freedoms... the right to humiliate pompous asses as long as they're famous enough and the lies are absurd enough."
-    peon "这是我们自由的基石……只要那些自大的人够有名，谎言够荒唐，就有侮辱他们的权利。"
+    peon "这是我们自由的基石啊……只要那些自大的人够有名，谎言够荒唐，就有羞辱他们的权利。"
 
 # game/code/d08/d08s11.rpy:232
 translate chinese d08s11_579bbec2:
