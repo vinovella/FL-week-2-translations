@@ -64,13 +64,13 @@ translate chinese d08s12_1d633005:
 translate chinese d08s12_a37c2f42:
 
     # mc "Weren't you scared of someone related to your work discovering your penis? And now we are at your work!"
-    mc "你就不怕和工作有关的人发现你的老二吗？我们现在就在你工作的地方！"
+    mc "你就不怕工作上的人发现你有老二吗？我们现在就在你工作的地方啊！"
 
 # game/code/d08/d08s12.rpy:69
 translate chinese d08s12_d216c43e:
 
     # mh "Oh sweet boy! I don't care if people know what is between my legs! I'm pretty sure most of my colleagues know who I am."
-    mh "哦，可爱的宝贝！我才不管别人知道我两腿之间有什么！我敢肯定，我的大多数同事都知道我是谁。"
+    mh "哦，可爱的宝贝！我才不管别人瞎猜我两腿间有什么！我敢肯定，我的大多数同事都知道我是谁。"
 
 # game/code/d08/d08s12.rpy:71
 translate chinese d08s12_b6282b98:
@@ -106,7 +106,7 @@ translate chinese d08s12_48347db5:
 translate chinese d08s12_357e51a0:
 
     # mc "I'm not complaining... I'm just confused."
-    mc "我没有在抱怨……只是很困惑。"
+    mc "我没有在抱怨……只是很费解。"
 
 # game/code/d08/d08s12.rpy:86
 translate chinese d08s12_a06e304d:
@@ -634,7 +634,7 @@ translate chinese d08s12_end_86a2d04c:
 translate chinese d08s12_end_ce533a29:
 
     # mct "Oh, I got points again without even making pictures... Does the app just listen?"
-    mct "哦，我连照片都没拍就又得了点数……。这软件是会监听吗？"
+    mct "哦，我连照片都没拍就又得了点数……这软件是会监听吗？"
 
 # game/code/d08/d08s12.rpy:515
 translate chinese d08s12_end_1497012c:
