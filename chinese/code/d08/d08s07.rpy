@@ -238,7 +238,7 @@ translate chinese d08s07_efc476ce:
 translate chinese d08s07_aa5d6a1f:
 
     # mes "Aww{w}, for real this time. He's a sweetie."
-    mes "呀{w}}，这次是真的。他真是个小甜心。"
+    mes "呀{w}，这次是真的。他真是个小甜心。"
 
 # game/code/d08/d08s07.rpy:103
 translate chinese d08s07_a8746d83:
@@ -436,7 +436,7 @@ translate chinese d08s07_e974179c:
 translate chinese d08s07_fc127c96:
 
     # mes "... and?"
-    mes "而且？"
+    mes "……而且？"
 
 # game/code/d08/d08s07.rpy:158
 translate chinese d08s07_8b042b2e:
@@ -712,7 +712,7 @@ translate chinese d08s07_0584bc85:
 translate chinese d08s07_006875da:
 
     # mes "You know you don't need to earn points or anything. You're my best friend-"
-    mes 你知道你不需要赚点数什么的。你是我最好的朋友--"
+    mes "你知道你不需要赚点数什么的。你是我最好的朋友--"
 
 # game/code/d08/d08s07.rpy:269
 translate chinese d08s07_0d03a43d:
