@@ -40,13 +40,13 @@ translate chinese d08s13_bad_7211a50a:
 translate chinese d08s13_bad_40f800f2:
 
     # mc "That's interesting."
-    mc "很有趣。"
+    mc "有意思。"
 
 # game/code/d08/d08s13.rpy:96
 translate chinese d08s13_bad_53e698df:
 
     # nk "It was very interesting. Here I was thinking that you betrayed me only twice, but then I find out you betrayed me at least three times."
-    nk "是很有趣。我还以为你只背叛了我两次，但后来发现你至少背叛了我三次。"
+    nk "是很有意思。我还以为你只背叛了我两次，但后来发现你至少背叛了我三次。"
 
 # game/code/d08/d08s13.rpy:97
 translate chinese d08s13_bad_8a340642:
@@ -58,7 +58,7 @@ translate chinese d08s13_bad_8a340642:
 translate chinese d08s13_bad_44d0f07b:
 
     # nk "The second time that you betrayed me was when you came inside me without permission."
-    nk "你第二次背叛我，是你擅自进我体内。"
+    nk "你第二次背叛我，是你未经允许就进我体内。"
 
 # game/code/d08/d08s13.rpy:99
 translate chinese d08s13_bad_dab16e60:
@@ -88,7 +88,7 @@ translate chinese d08s13_bad_3fb3a4f1:
 translate chinese d08s13_bad_e3d6fe75:
 
     # nk "Then you took a photo of my dripping creampie without permission. That was the third betrayal."
-    nk "然后你未经允许就拍了我高潮的照片。那是第三次。"
+    nk "然后你擅自拍了我高潮的照片。那是第三次。"
 
 # game/code/d08/d08s13.rpy:107
 translate chinese d08s13_bad_956dc698:
@@ -106,7 +106,7 @@ translate chinese d08s13_bad_04b89c8c:
 translate chinese d08s13_bad_4df952bc:
 
     # mc "I wouldn't say..."
-    mc "我不会说……"
+    mc "我不觉得……"
 
 # game/code/d08/d08s13.rpy:112
 translate chinese d08s13_bad_6fb0f751:
@@ -160,13 +160,13 @@ translate chinese d08s13_bad_da7eeebc:
 translate chinese d08s13_bad_5b4dd44c:
 
     # nk "In fact... I'm not going to tell anyone else about any of this. Not for you, but because I don't want myself or my business associated with you."
-    nk "事实上……我不会把这件事告诉任何人的。可不是为了你，而是因为我不想让自己或我的生意跟你扯上关系。"
+    nk "事实上……我不会把这件事告诉任何人的。但不是为了你，而是因为我不想让自己或我的生意跟你扯上丁点关系。"
 
 # game/code/d08/d08s13.rpy:127
 translate chinese d08s13_bad_8342f3c1:
 
     # nk "We're not friends. I don't trust you. I don't want to see you in here ever again."
-    nk "我们不是朋友。我不信任你。我再也不想在这里见到你了。"
+    nk "我们不是朋友。我也不相信你。我再也不想在这里见到你了。"
 
 # game/code/d08/d08s13.rpy:128
 translate chinese d08s13_bad_4c6d584d:
@@ -196,7 +196,7 @@ translate chinese d08s13_bad_9faa223e:
 translate chinese d08s13_bad_d878b941:
 
     # mc "Sure... anything."
-    mc "当然……有问必答。"
+    mc "你问……什么都行。"
 
 # game/code/d08/d08s13.rpy:136
 translate chinese d08s13_bad_e9fdbe40:
@@ -334,7 +334,7 @@ translate chinese d08s13_good_09c28ec4:
 translate chinese d08s13_good_168c14c0:
 
     # mc "If you want to... {w}Is everything alright? You seem kinda weird tonight."
-    mc "如果你想……{w}一切还好吗？你今晚好像有点奇怪。"
+    mc "如果你想……{w}都还好吗？你今晚好像有点奇怪。"
 
 # game/code/d08/d08s13.rpy:199
 translate chinese d08s13_good_459dc244:
@@ -388,7 +388,7 @@ translate chinese d08s13_good_a31340dd:
 translate chinese d08s13_good_75131eef:
 
     # nk "Yeah, you wouldn't believe some of the things..."
-    nk "是啊，说出来你都不会相信……"
+    nk "是啊，说出来你都不会信……"
 
 # game/code/d08/d08s13.rpy:213
 translate chinese d08s13_good_b2aba0e3:
@@ -436,7 +436,7 @@ translate chinese d08s13_good_3717aeb9:
 translate chinese d08s13_good_eefe5415:
 
     # nk "That too.{w} Today I found a girl trying to suck off a guy at one of the tables."
-    nk "那也是。{w}今天我发现有个女孩想在其中一桌给个男人口交。"
+    nk "也是。{w}今天我发现有个女孩想在其中一桌给个男人口交。"
 
 # game/code/d08/d08s13.rpy:224
 translate chinese d08s13_good_f7800da2:
@@ -466,7 +466,7 @@ translate chinese d08s13_good_63c777b1:
 translate chinese d08s13_good_83dbd5f3:
 
     # mc "What's the point of that? The meter high club?"
-    mc "什么意思？搞米高会？"
+    mc "有什么意义呢？都要搞野战吗？"
 
 # game/code/d08/d08s13.rpy:232
 translate chinese d08s13_good_acfeceaa:
@@ -538,7 +538,7 @@ translate chinese d08s13_good_6599dc52:
 translate chinese d08s13_good_391e9a18:
 
     # nk "Scrumbles."
-    nk "Scrumbles."
+    nk "紧急起飞。"
 
 # game/code/d08/d08s13.rpy:260
 translate chinese d08s13_good_05500ff6:
@@ -550,7 +550,7 @@ translate chinese d08s13_good_05500ff6:
 translate chinese d08s13_good_182ce646:
 
     # nk "My safe word is Scrumbles."
-    nk "我的安全词是Scrumbles."
+    nk "我的安全词是紧急起飞。"
 
 # game/code/d08/d08s13.rpy:262
 translate chinese d08s13_good_0e959ed4:
@@ -562,13 +562,13 @@ translate chinese d08s13_good_0e959ed4:
 translate chinese d08s13_good_5fd0c4b2:
 
     # nk "Scrumbles is absolutely unforgettable."
-    nk "Scrumbles绝对令人难忘。"
+    nk "紧急起飞绝对令人难忘。"
 
 # game/code/d08/d08s13.rpy:266
 translate chinese d08s13_good_f5ec0da6:
 
     # mc "Sounds like a story I'd like to hear sometime. Any questions or concerns before we get started."
-    mc "听起来这还有个故事，有时间我也想听一听。在开始之前，有什么问题或顾虑吗？"
+    mc "听起来背后还有个故事，有时间我也想听一听。在开始之前，还有什么问题或顾虑吗？"
 
 # game/code/d08/d08s13.rpy:267
 translate chinese d08s13_good_bd03378a:
@@ -604,7 +604,7 @@ translate chinese d08s13_good_7445519d:
 translate chinese d08s13_good_8a3cc682:
 
     # mc "I will definitely mention it, but only if it seems relevant."
-    mc "我一定会说的，但只有看起来对方快射的时候。"
+    mc "我一定会说，但只有看起来对方快射的时候再说。"
 
 # game/code/d08/d08s13.rpy:275
 translate chinese d08s13_good_efe5def7:
@@ -622,13 +622,13 @@ translate chinese d08s13_good_88aff48a:
 translate chinese d08s13_good_a135b623:
 
     # nk "I guess that's true, but..."
-    nk "也许是真的，但是……"
+    nk "的确如此，但是……"
 
 # game/code/d08/d08s13.rpy:278
 translate chinese d08s13_good_8492471e:
 
     # mc "If that happens tonight, I would be extremely surprised."
-    mc "如果今晚真的发生了，我会很惊讶的。"
+    mc "如果今晚真发生这种情况了，我会很惊讶的。"
 
 # game/code/d08/d08s13.rpy:279
 translate chinese d08s13_good_bb23bfe6:
@@ -658,7 +658,7 @@ translate chinese d08s13_good_2f02183f:
 translate chinese d08s13_good_5fb021fa:
 
     # mc "I hadn't even thought of that. Good to know."
-    mc "我都没有想到这一点。知道就行了。"
+    mc "我都没有想到这一点。还好你提前说了。"
 
 # game/code/d08/d08s13.rpy:289
 translate chinese d08s13_good_4938d1ff:
@@ -772,13 +772,13 @@ translate chinese d08s13_good_7135ef2e:
 translate chinese d08s13_good_d8516f9e:
 
     # mc "However, I think they're suggesting another possibility."
-    mc "不过，我想他在暗示另一种可能性。"
+    mc "不过，我想她在暗示另一种可能性。"
 
 # game/code/d08/d08s13.rpy:357
 translate chinese d08s13_good_f806ffa2:
 
     # mc "I think your date wants to see what my cock would look like in your mouth."
-    mc "我想你的相亲对象想看我的鸡巴在你嘴里会是什么样子。"
+    mc "我觉得你的相亲对象想看我的鸡巴在你嘴里会是什么样子。"
 
 # game/code/d08/d08s13.rpy:358
 translate chinese d08s13_good_b02f0623:
@@ -1000,7 +1000,7 @@ translate chinese d08s13_good_38370fbd:
 translate chinese d08s13_good_90e17638:
 
     # mc "Alright, I guess I can remove your bindings and blindfold now."
-    mc "好吧，现在应该可以给你摘掉绑带和眼罩了。"
+    mc "好了，现在应该可以给你摘掉绑带和眼罩了。"
 
 # game/code/d08/d08s13.rpy:491
 translate chinese d08s13_good_41836f1c:
@@ -1024,7 +1024,7 @@ translate chinese d08s13_good_5c121301:
 translate chinese d08s13_good_fdeff862:
 
     # nk "Thank you both so much for a wonderful evening."
-    nk "非常感谢你们俩，给了我一个这么美妙的夜晚。"
+    nk "真是很感谢你们俩，给了我一个这么美妙的夜晚。"
 
 # game/code/d08/d08s13.rpy:498
 translate chinese d08s13_good_bc666b09:
