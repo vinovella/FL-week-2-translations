@@ -10,7 +10,7 @@ translate chinese d08s08_e8de1932:
 translate chinese d08s08_04c732d3:
 
     # mct "What am I going to tell Lydia?"
-    mct "我要怎么跟莉迪亚说呢？?"
+    mct "我要怎么跟莉迪亚说呢？"
 
 # game/code/d08/d08s08.rpy:11
 translate chinese d08s08_79de6eca:
