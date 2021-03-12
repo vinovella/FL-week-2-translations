@@ -76,13 +76,13 @@ translate chinese prologue_girls_set_2_cd61a75b:
 translate chinese prologue_girls_set_2_done_61fc0900:
 
     # "We see you chose the beautiful Melissa \"Lyssa\" Harris.\nHow do you behave toward her?"
-    "我们看到你选择了美丽的梅丽莎\"丽莎\"·哈里斯。\n你对她怎么样？"
+    "我们看到你选择了漂亮的梅丽莎\"丽莎\"·哈里斯。\n你对她怎么看？"
 
 # game/code/d08/prologue.rpy:156
 translate chinese prologue_girls_set_3_746b6a7f:
 
     # "Last pair: do you prefer a top or a bottom? (Or neither, if they aren't your cup of tea)\nSelect up to one girl and press \"Done\"."
-    "最后两个问题：你喜欢在上面还是下面？(或者两者都不喜欢，都不是你的菜)\n最多选择一个女孩，然后按\"完成\"。"
+    "最后的问题：你喜欢主导还是顺从？(或者两者都不喜欢，都不是你的菜)\n最多选择一个女孩，然后按\"完成\"。"
 
 # game/code/d08/prologue.rpy:160
 translate chinese prologue_girls_set_3_done_7582b991:
