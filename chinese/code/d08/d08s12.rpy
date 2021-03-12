@@ -148,7 +148,7 @@ translate chinese d08s12_dcae0c21:
 translate chinese d08s12_ad3ee5ca:
 
     # mc "Does it excite you to know that I can be doing anything to you?"
-    mc "知道我可以对你为所欲为，你是不是很性奋？
+    mc "知道我可以对你为所欲为，你是不是很性奋？"
 
 # game/code/d08/d08s12.rpy:106
 translate chinese d08s12_bb4d6582:
