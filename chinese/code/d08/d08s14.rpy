@@ -22,7 +22,7 @@ translate chinese d08s14_483455c9:
 translate chinese d08s14_15ec28ca:
 
     # mct "Oh crap! I still need to talk to Lydia about the Party and... fuck!"
-    mct "啊糟了！我还得跟莉迪亚谈谈派对的事……靠！"
+    mct "啊糟了！我还得跟莉迪亚谈派对的事……靠！"
 
 # game/code/d08/d08s14.rpy:14
 translate chinese d08s14_683fd61e:
@@ -124,7 +124,7 @@ translate chinese d08s14_1bb2926b:
 translate chinese d08s14_9296a42a:
 
     # mc "Yeah, yeah. Exactly. I mean, I'm kinda used to it, but it's nice to hear your voice."
-    mc "嗯嗯。没错。我是说，我还挺习惯的，不过能听到你的声音还是很高兴的。”"
+    mc "嗯嗯。没错。我是说，我倒是挺习惯，不过能听到你的声音还是很高兴的。"
 
 # game/code/d08/d08s14.rpy:49
 translate chinese d08s14_aca01c9a:
@@ -148,7 +148,7 @@ translate chinese d08s14_9f46f640:
 translate chinese d08s14_fadb9955:
 
     # mc "Yeah, I guess we need to talk about some things."
-    mc "好啊，我想我们也需要谈谈的。"
+    mc "好啊，我想我们也需要谈谈。"
 
 # game/code/d08/d08s14.rpy:55
 translate chinese d08s14_691e1d3f:
@@ -160,13 +160,13 @@ translate chinese d08s14_691e1d3f:
 translate chinese d08s14_bcf9b8d1:
 
     # mc "Sure, go ahead."
-    mc "当然，说吧。"
+    mc "当然可以，你说吧。"
 
 # game/code/d08/d08s14.rpy:58
 translate chinese d08s14_9cfb7b0e:
 
     # lc "So... I like you.{w} Like, I really like you.{w} A lot."
-    lc "所以……我喜欢你。{w}就是，我真的很喜欢你。{w}非常喜欢。"
+    lc "所以……我喜欢你。{w}就是，呃，我真的很喜欢你。{w}非常喜欢。"
 
 # game/code/d08/d08s14.rpy:59
 translate chinese d08s14_a504c51f:
@@ -286,13 +286,13 @@ translate chinese d08s14_216b9803:
 translate chinese d08s14_9a63b394:
 
     # lc "I'm afraid that I might make you lie to me, and cause distrust, and ruin everything that's good between us."
-    lc "我怕我会让你对我撒谎，引起不信任，毁掉我们之间的一切。"
+    lc "我怕我会逼得你对我撒谎，引起不信任，毁掉我们之间的一切。"
 
 # game/code/d08/d08s14.rpy:91
 translate chinese d08s14_d19976cd:
 
     # mc "I understand the words you are saying, but I think I'm missing the meaning."
-    mc "你说的话我都听清楚了，但我不懂你的意思。"
+    mc "你的话我都听清楚了，但我不懂你的意思。"
 
 # game/code/d08/d08s14.rpy:93
 translate chinese d08s14_9b3411c2:
@@ -310,7 +310,7 @@ translate chinese d08s14_ea99eb97:
 translate chinese d08s14_3e57100c:
 
     # lc "That's sweet, but I've got a line of ex-boyfriends that must call me names behind my back. I'm sure you must have heard them all."
-    lc "你真好，不过我有一群前男友，他们肯定在背后骂我。。我相信你一定都听过了。"
+    lc "你真好，不过我有一群前男友，他们肯定都在背后骂我。我相信你一定都听说了。"
 
 # game/code/d08/d08s14.rpy:98
 translate chinese d08s14_b91f2ead:
@@ -322,7 +322,7 @@ translate chinese d08s14_b91f2ead:
 translate chinese d08s14_1c4feadb:
 
     # mc "I don't think I've heard anything like that."
-    mc "我想我从没听过这样的话。"
+    mc "我好像从没听过这样的话。"
 
 # game/code/d08/d08s14.rpy:102
 translate chinese d08s14_0d711ec6:
@@ -340,7 +340,7 @@ translate chinese d08s14_e4e85d26:
 translate chinese d08s14_e83ddf23:
 
     # mc "What? No... I've never heard anything like that."
-    mc "什么？不，我从没听过这样的话。"
+    mc "什么？没啊……我从没听过这样的话。"
 
 # game/code/d08/d08s14.rpy:107
 translate chinese d08s14_99d59feb:
@@ -364,13 +364,13 @@ translate chinese d08s14_f9d5c70a:
 translate chinese d08s14_752c03f9:
 
     # lc "Oh, yeah. Jerome.{w} He was never my boyfriend... he was just a friend who happened to be male."
-    lc "哦对了。杰罗姆。{w}他从来都不是我男朋友……只是一个男性朋友。"
+    lc "哦对了。杰罗姆。{w}他从来都不是我男朋友……只是个男性朋友。"
 
 # game/code/d08/d08s14.rpy:114
 translate chinese d08s14_b967bda0:
 
     # lc "Yet, even he apparently expected something physical from me."
-    lc "但是，即使是他，显然也想碰我的身子。"
+    lc "但是，即使是他，显然也想要碰我。"
 
 # game/code/d08/d08s14.rpy:115
 translate chinese d08s14_2917ddf2:
@@ -406,7 +406,7 @@ translate chinese d08s14_8d469bfe:
 translate chinese d08s14_1948fd41:
 
     # lc "Which is fine... that doesn't bother me. I need you to know that."
-    lc "这样很好……我不介意的。我想让你知道这一点。"
+    lc "这样很好……我不介意的。我只想让你知道这一点。"
 
 # game/code/d08/d08s14.rpy:123
 translate chinese d08s14_7da50f10:
@@ -418,13 +418,13 @@ translate chinese d08s14_7da50f10:
 translate chinese d08s14_8c50e41c:
 
     # lc "You're a guy.{w} Strike that... You are a Man."
-    lc "你是个男人。{w} 上吧……你是个男人。"
+    lc "你是男生啊。{w}不是……你是个男人。"
 
 # game/code/d08/d08s14.rpy:127
 translate chinese d08s14_af788747:
 
     # mc "Thank you?"
-    mc "那……谢谢你了？"
+    mc "呃……谢谢你？"
 
 # game/code/d08/d08s14.rpy:128
 translate chinese d08s14_6d8b6bdf:
@@ -454,7 +454,7 @@ translate chinese d08s14_acb1d4c6:
 translate chinese d08s14_3188695b:
 
     # lc "I don't want it to be a choice. I want to share an emotional & mental relationship with you, but I want you to continue exploring the other stuff...{w} with other people."
-    lc "我不想你需要做选择。我希望我们在情感与精神上能有共通，但同时我也希望你能继续探索其他东西……{w}与其他人一起。"
+    lc "我不想你需要做选择。我希望我们在情感和精神上能有共通，但同时我也希望你能继续探索其他东西……{w}与其他人一起。"
 
 # game/code/d08/d08s14.rpy:134
 translate chinese d08s14_bc9eef2a:
@@ -478,7 +478,7 @@ translate chinese d08s14_f62c81b6:
 translate chinese d08s14_e5f695cd:
 
     # lc "I want you to be physically satisfied, even if that involves other people... at least until I am ready to explore that stuff with you."
-    lc "我希望你在身体上能得到满足，即便这涉及到其他人……至少在我准备好和你一起探索这些东西之前。"
+    lc "我希望你在生理上能得到满足，即便这涉及到其他人……至少在我准备好和你一起探索这些东西之前。"
 
 # game/code/d08/d08s14.rpy:139
 translate chinese d08s14_55310c42:
@@ -502,13 +502,13 @@ translate chinese d08s14_05500ff6_1:
 translate chinese d08s14_5a4cc994:
 
     # lc "I want you to be able... and willing... to talk to me about that other stuff. Even if we can't do it together."
-    lc "我希望你能……并且愿意……和我聊那方面的事情。即使我不能和你一起参与。"
+    lc "我希望你能……并且愿意……和我聊那方面的事。即使我不能和你一起参与。"
 
 # game/code/d08/d08s14.rpy:146
 translate chinese d08s14_6bd19203:
 
     # mct "She wants me to fuck other people and tell her about it? This has to be some kind of test."
-    mct "她想让我和别人做爱，然后再跟她描述？这肯定是什么考验吧。"
+    mct "她想让我和别人做爱，然后再描述给她听？这肯定是什么考验吧。"
 
 # game/code/d08/d08s14.rpy:148
 translate chinese d08s14_15f7106d:
@@ -538,13 +538,13 @@ translate chinese d08s14_fc2e6c9f:
 translate chinese d08s14_dc4c1eae:
 
     # lc "For points... in that app?"
-    lc "为了那个软件……拿到点数？"
+    lc "为了在那个软件上……拿到点数？"
 
 # game/code/d08/d08s14.rpy:156
 translate chinese d08s14_0311181c:
 
     # mct "Shit! Lydia knows about the app! Fuck, fuck, fuck... I can't let Fetish Locator blackmail her too!"
-    mct "该死！莉迪亚知道那个软件! 靠，靠，靠……我不能让性趣探测器也勒索她！"
+    mct "该死！莉迪亚知道那个软件！靠，靠，靠……我不能让性趣探测器也勒索她！"
 
 # game/code/d08/d08s14.rpy:158
 translate chinese d08s14_f2b6ae51:
@@ -574,7 +574,7 @@ translate chinese d08s14_6abdd460:
 translate chinese d08s14_0424c680:
 
     # lc "Would it bother you if I had been playing that game? If I had gotten to that Party on points rather than by invite?"
-    lc "如果我也在玩那款游戏，你会介意吗？如果我是凭分数而不是邀请去参加那个派对呢？"
+    lc "如果我也在玩那款游戏，你会介意吗？如果我是凭点数而不是邀请去参加那个派对呢？"
 
 # game/code/d08/d08s14.rpy:173
 translate chinese d08s14_950a2e9a:
@@ -658,7 +658,7 @@ translate chinese d08s14_8e1e0071:
 translate chinese d08s14_873c76f5:
 
     # mc "This is weird...{w} Is this some sort of test or a trap or something?"
-    mc "这很奇怪……{w}是考验，还是什么陷阱吗？"
+    mc "这很奇怪……{w}不会是考验，或是什么陷阱吧？"
 
 # game/code/d08/d08s14.rpy:204
 translate chinese d08s14_816ea7d3:
@@ -670,25 +670,25 @@ translate chinese d08s14_816ea7d3:
 translate chinese d08s14_d7bc24e6:
 
     # lc "I just want us to be honest with each other. I don't want you to feel like you need to hide things from me, or run around behind my back."
-    lc "我只是希望我们能坦诚相待。我不想让你觉得你要对我隐瞒什么，或者背着我和别人厮混。"
+    lc "我只希望我们对彼此都能诚实。我不想让你觉得你要对我隐瞒什么，或者必须背着我和别人厮混。"
 
 # game/code/d08/d08s14.rpy:208
 translate chinese d08s14_26d6403b:
 
     # mct "Yep, I had said that out loud."
-    mct "好吧，我是说出来了。"
+    mct "好吧，看来我是说出来了。"
 
 # game/code/d08/d08s14.rpy:210
 translate chinese d08s14_085cda0d:
 
     # mc "Okay, okay... just give me a minute."
-    mc "好吧，好吧……给我一分钟。"
+    mc "好吧，好吧……给我点时间。"
 
 # game/code/d08/d08s14.rpy:212
 translate chinese d08s14_4e48c7a2:
 
     # lc "Let's just start with something easy. Tell me something that you did to earn points in that app."
-    lc "我们就从简单的开始吧。告诉我你是如何在软件中获得点数的。"
+    lc "我们就从简单的开始说吧。告诉我你是怎么在软件中获得点数的。"
 
 # game/code/d08/d08s14.rpy:213
 translate chinese d08s14_cd60b427:
@@ -706,7 +706,7 @@ translate chinese d08s14_d54f21f4:
 translate chinese d08s14_5e29bc93:
 
     # lc "Or maybe you can tell me about one of the events you participated in during that Party last week."
-    lc "或者你可以告诉我上周你在派对上参加的一个活动。"
+    lc "或者你可以告诉我上周你在派对上参加了什么活动。"
 
 # game/code/d08/d08s14.rpy:220
 translate chinese d08s14_b3494483:
@@ -736,7 +736,7 @@ translate chinese d08s14_d63a9907:
 translate chinese d08s14_cf9df8c9:
 
     # mc "No... well, if you were a girl, I guess. But it was just about taking pictures of male spoo."
-    mc "不是……呃，如果用户是女孩的话，那就是。但它只是给男生下面的家伙拍照的挑战。"
+    mc "不是……呃，如果用户是女孩的话，那就是。但这个挑战只是给男生下面的家伙拍照。"
 
 # game/code/d08/d08s14.rpy:226
 translate chinese d08s14_457f534c:
@@ -994,7 +994,7 @@ translate chinese d08s14_6aa8a93b:
 translate chinese d08s14_91395c54:
 
     # mc "Oh! The blowjob that I was telling you about a minute ago."
-    mc "哦！就是我刚才跟你说的那个吹箫的人。"
+    mc "哦！就是我刚才跟你说的那个口交的人。"
 
 # game/code/d08/d08s14.rpy:304
 translate chinese d08s14_8ba08faa:
