@@ -10,7 +10,7 @@ translate chinese d09s01_2910aaa3:
 translate chinese d09s01_74bc0fd8:
 
     # mc "Good morning, me. Sleep well?"
-    mc "早上好，我。睡得好吗？"
+    mc "早上好啊，[mcname]。睡得好吗？"
 
 # game/code/d09/d09s01.rpy:11
 translate chinese d09s01_0c6c2c41:
@@ -34,7 +34,7 @@ translate chinese d09s01_1aa24ed9:
 translate chinese d09s01_a58d4994:
 
     # mc "But before I know it I'm floating in a room filled with water and trying to take a few last gasps of air before..."
-    mc "但我还没来得及探寻自己焦躁的原因，就已经漂浮在满是水的房间里了，我试着吸最后几口气，然后……"
+    mc "但我还没来得及找到自己焦躁的原因，人就已经漂在满是水的房间里了。我试着吸最后几口气，然后……"
 
 # game/code/d09/d09s01.rpy:15
 translate chinese d09s01_51ab4180:
@@ -58,7 +58,7 @@ translate chinese d09s01_4cf2d1b7:
 translate chinese d09s01_412b3d09:
 
     # mct "Let's see, which password to try next..."
-    mct "我来看看接下来要尝试哪个密码……"
+    mct "我来看看接下来要试哪个密码……"
 
 # game/code/d09/d09s01.rpy:25
 translate chinese d09s01_2858cd33:
@@ -208,7 +208,7 @@ translate chinese d09s01_24404a72:
 translate chinese d09s01_24c9d171:
 
     # mct "But first things first. Stacy's luggage."
-    mct "但事有轻重缓急。得先找斯泰西的行李。"
+    mct "但事有轻重缓急。得先找史黛西的行李。"
 
 # game/code/d09/d09s01.rpy:80
 translate chinese d09s01_02f62bc7:
@@ -220,7 +220,7 @@ translate chinese d09s01_02f62bc7:
 translate chinese d09s01_61e6906b:
 
     # mct "It's weird. I've fucked...how many chicks now? But something about actually paying for sex, let alone paying {i}this{/i} much, is... odd."
-    mct "真奇怪。我已经干了……多少个妹子了？但真正为性买单，更何况是支付{i}这么{/i}多，还真是……挺少见。"
+    mct "真奇怪。我干了有……多少个妹子了？但真正为性买单，更何况是支付{i}这么{/i}多，还真是……挺少见。"
 
 # game/code/d09/d09s01.rpy:83
 translate chinese d09s01_df2d2a72:
