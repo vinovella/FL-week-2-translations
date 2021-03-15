@@ -76,7 +76,7 @@ translate chinese d09s03_50e522dc:
 translate chinese d09s03_b4b69a4f:
 
     # "After an exceptionally pleasant meal."
-    "吃了一顿特别愉快的饭。"
+    "吃了一顿相当愉快的饭。"
 
 # game/code/d09/d09s03.rpy:86
 translate chinese d09s03_6dfc0e82:
@@ -136,7 +136,7 @@ translate chinese d09s03_8110a01d:
 translate chinese d09s03_7c75e95b:
 
     # lc "They're wealthy. I'm just a useless trust fund kiddie until I make a name for myself."
-    lc "是他们很有钱。在我成名之前，我只是个有着信托基金的无名小孩罢了。"
+    lc "是他们很有钱。在我成名之前，我就是个有着信托基金的无名小孩罢了。"
 
 # game/code/d09/d09s03.rpy:106
 translate chinese d09s03_2d0ecf0e:
@@ -214,7 +214,7 @@ translate chinese d09s03_05500ff6:
 translate chinese d09s03_3a0d12d2:
 
     # lc "The digestif is catching up to me. I must visit the refresher."
-    lc "酒劲上来了，我要去缓一下。"
+    lc "酒喝多了，我要去缓一下。"
 
 # game/code/d09/d09s03.rpy:134
 translate chinese d09s03_22e6d123:
@@ -232,13 +232,13 @@ translate chinese d09s03_dc175f2e:
 translate chinese d09s03_fda4f6a7:
 
     # mc "*chuckle* Have fun."
-    mc "*咯咯笑* 玩的开心点。"
+    mc "*咯咯笑* 那玩的开心点。"
 
 # game/code/d09/d09s03.rpy:143
 translate chinese d09s03_bf0ad310:
 
     # lc "Thank you."
-    lc "谢谢你。"
+    lc "谢啦。"
 
 # game/code/d09/d09s03.rpy:146
 translate chinese d09s03_0c9d7621:
@@ -364,7 +364,7 @@ translate chinese d09s03_66b8bdb1:
 translate chinese d09s03_76924a7f:
 
     # arj "The rational part of me says to leave it alone and let you two do your thing..."
-    arj "理智的我说，别掺手，让你们两个去……"
+    arj "理智的我说，别掺手，随你们两个去……"
 
 # game/code/d09/d09s03.rpy:196
 translate chinese d09s03_c2101aa4:
@@ -418,7 +418,7 @@ translate chinese replay_d09s03_4c900d01:
 translate chinese replay_d09s03_bfb293c3:
 
     # arj "What???{w} Oh shit oh shit oh shit."
-    arj "什么？???{w}哦该死，该死，该死。"
+    arj "什么???{w}哦该死，该死，该死。"
 
 # game/code/d09/d09s03.rpy:220
 translate chinese replay_d09s03_fe98d218:
@@ -460,7 +460,7 @@ translate chinese replay_d09s03_5ca3596d:
 translate chinese replay_d09s03_ebae5473:
 
     # mc "*whisper* Slave! Listen to me!"
-    mc "*耳语* 奴隶! 听我说！"
+    mc "*耳语* 奴隶！听我说！"
 
 # game/code/d09/d09s03.rpy:234
 translate chinese replay_d09s03_c50a4aed:
@@ -550,7 +550,7 @@ translate chinese replay_d09s03_5dd9e348:
 translate chinese replay_d09s03_d7fc0734:
 
     # lc "I'm totally fine! What were we talking about?"
-    lc "我完全没问题! 我们刚才说什么来着？"
+    lc "我完全没问题！我们刚才说什么来着？"
 
 # game/code/d09/d09s03.rpy:300
 translate chinese replay_d09s03_1b4faa7d:
@@ -622,7 +622,7 @@ translate chinese replay_d09s03_bd7716bb:
 translate chinese replay_d09s03_0fc5bc9d:
 
     # mc "Okay, a story it is. Let me think for just a second..."
-    mc "好了好了，就讲个故事。让我想想……"
+    mc "好了好了，那就讲个故事。让我想想……"
 
 # game/code/d09/d09s03.rpy:380
 translate chinese replay_d09s03_1fbf5754:
@@ -670,7 +670,7 @@ translate chinese replay_d09s03_161f6ecc:
 translate chinese replay_d09s03_19f574ef:
 
     # lc "...{w}...{w}... What!?"
-    lc "……{w}……{w}什么!?"
+    lc "……{w}……{w}……什么!?"
 
 # game/code/d09/d09s03.rpy:401
 translate chinese replay_d09s03_2181fbc7:
@@ -694,7 +694,7 @@ translate chinese replay_d09s03_af566bc7:
 translate chinese replay_d09s03_849d4e0d:
 
     # lc "I can't even imagine where this story is going."
-    lc "我都无法想象这个故事的走向。"
+    lc "我都无法想象这故事的走向。"
 
 # game/code/d09/d09s03.rpy:415
 translate chinese replay_d09s03_3bd52983:
@@ -724,7 +724,7 @@ translate chinese replay_d09s03_c7a83ce4:
 translate chinese replay_d09s03_54c1e44f:
 
     # mc "Then she found what she was looking for and looked up at me with this proud grin."
-    mc "然后她找到了要找的东西，带着骄傲的笑容抬头看着我。”"
+    mc "然后她找到了要找的东西，带着骄傲的笑容抬头看着我。"
 
 # game/code/d09/d09s03.rpy:424
 translate chinese replay_d09s03_970ea76c:
@@ -754,7 +754,7 @@ translate chinese replay_d09s03_5256147b:
 translate chinese replay_d09s03_7591f9b5:
 
     # mc "I'd never seen anything like that before. I was just a kid, but I knew what I was looking at when I saw it."
-    mc "我从来没见过这样的东西。我当时只是个孩子，但我一看到它就知道自己在看什么。"
+    mc "我从来没见过这样的东西。我当时只是个孩子，但我一看到它就知道怎么回事。"
 
 # game/code/d09/d09s03.rpy:430
 translate chinese replay_d09s03_0a63f09c:
@@ -772,7 +772,7 @@ translate chinese replay_d09s03_738a3d14:
 translate chinese replay_d09s03_30ccb6cb:
 
     # mc "It was a box full of [d09s03_object!t] and I was just a little kid.{w} This was my first experience with that kinda stuff."
-    mc "那个盒子装满了[d09s03_object!t]，而我只是个小孩子哎。{w}我可是第一次接触这种东西。"
+    mc "那盒子里装满了[d09s03_object!t]，而我只是个小孩子哎。{w}我可是第一次接触这种东西。"
 
 # game/code/d09/d09s03.rpy:437
 translate chinese replay_d09s03_1dd280be:
@@ -832,7 +832,7 @@ translate chinese replay_d09s03_b02f9f89:
 translate chinese replay_d09s03_9da7b9fc:
 
     # mc "I mean, we were just kids. We didn't know how to masturbate or anything like that. We just liked looking at these things."
-    mc "我是说，我们当时还只是孩子。我们不知道怎么手淫之类的。但就是喜欢看这些东西。"
+    mc "我是说，我们当时还只是孩子。我们不清楚怎么手淫之类的。但就是喜欢看这些东西。"
 
 # game/code/d09/d09s03.rpy:461
 translate chinese replay_d09s03_65729dd1:
@@ -844,19 +844,19 @@ translate chinese replay_d09s03_65729dd1:
 translate chinese replay_d09s03_c45e770c:
 
     # mc "It made it through most of the summer, and survived some minor rain, but then one night there was a hell of a thunderstorm."
-    mc "它挺过了大半个夏天，也挺过了几场小雨，但有一天晚上下了一场雷雨。"
+    mc "那盒子挺过了大半个夏天，也挺过了几场小雨，但有一天晚上下了一场雷雨。"
 
 # game/code/d09/d09s03.rpy:463
 translate chinese replay_d09s03_3e2f7ebc:
 
     # mc "Like the kind where we all sat home playing board games by candlelight."
-    mc "就我们只能在家，就着烛光玩棋盘游戏的那种暴雨。"
+    mc "就是我们只能在家，就着烛光玩棋盘游戏的那种暴雨。"
 
 # game/code/d09/d09s03.rpy:465
 translate chinese replay_d09s03_3442f570:
 
     # lc "Huh. You know... I remember quite a few power outages like that when I was a kid, but nothing like that as a teenager or an adult."
-    lc 呵，你知道吗……我记得小时候停过不少这样的电，但十几岁或成年后就没有这样的事了。"
+    lc "呵，你知道吗……我记得小时候停过不少这样的电，但十几岁或成年后就没有这样的事了。"
 
 # game/code/d09/d09s03.rpy:468
 translate chinese replay_d09s03_4bf39568:
@@ -976,7 +976,7 @@ translate chinese replay_d09s03_6c12bac9:
 translate chinese replay_d09s03_cf01fdc7:
 
     # lc "Are you trying for a cheesy Transylvanian accent?"
-    lc "你是想学蹩脚的特兰西瓦尼亚口音吗？"
+    lc "你是想学蹩脚的绅士口音吗？"
 
 # game/code/d09/d09s03.rpy:520
 translate chinese replay_d09s03_7eb713e6:
@@ -994,13 +994,13 @@ translate chinese replay_d09s03_8c7c3e51:
 translate chinese replay_d09s03_7573b941:
 
     # fl "You got [d09s03_points] points!"
-    fl "你得到了[d09s03_points]点！"
+    fl "你得到了[d09s03_points]点数！"
 
 # game/code/d09/d09s03.rpy:539
 translate chinese replay_d09s03_8a529267:
 
     # mc "Anyway, yeah, so that was what I was remembering."
-    mc "总之，嗯哼，我只记住了这件事。"
+    mc "总之，嗯，我只记住了这件事。"
 
 # game/code/d09/d09s03.rpy:540
 translate chinese replay_d09s03_e1b2241e:
@@ -1012,7 +1012,7 @@ translate chinese replay_d09s03_e1b2241e:
 translate chinese replay_d09s03_0db5cf2d:
 
     # mc "I don't know. It's like a half forgotten memory from when I was a little kid."
-    mc "我也不知道。感觉就是小时候一段忘得差不多的记忆。"
+    mc "我也不知道。感觉就是小时候一段忘得差不多的记忆吧。"
 
 # game/code/d09/d09s03.rpy:543
 translate chinese replay_d09s03_66734d9d:
@@ -1126,13 +1126,13 @@ translate chinese replay_d09s03_97a53fd1:
 translate chinese replay_d09s03_d5ff7835:
 
     # mct "Now I have to run back to Samiya's place. I hope this show of hers isn't anything special..."
-    mct "现在我得跑回萨米亚那里了。希望她的这场演出没搞什么幺蛾子……"
+    mct "现在我得跑回萨米亚那里了。希望她的这场表演没搞什么幺蛾子……"
 
 # game/code/d09/d09s03.rpy:584
 translate chinese replay_d09s03_f3383e9d:
 
     # mct "Now I have to run for this strange task... {w}Call boy... {w}I guess there is no turning back."
-    mct "现在我得赶去做这个奇怪的任务了……{w}应召牛郎……{w}我想已经没有回头路了。"
+    mct "现在我得赶去做这个奇怪的任务了……{w}应召牛郎……{w}我想自己已经没有回头路了。"
 
 translate chinese strings:
 
