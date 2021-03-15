@@ -4,7 +4,7 @@
 translate chinese d09s02_d3bd4739:
 
     # "After a short travel by public transport..."
-    "在乘坐交通工具的短暂旅行后……"
+    "乘坐交通工具，通过一段短暂旅程后……"
 
 # game/code/d09/d09s02.rpy:25
 translate chinese d09s02_8813c6f4:
@@ -70,7 +70,7 @@ translate chinese d09s02_fa45f281:
 translate chinese d09s02_8281dd72:
 
     # mct "Interesting place. Doesn't really look lived-in; seems to be pretty rundown actually."
-    mct "这地方挺有意思的。看起来不像是有人住的；实际上感觉很破旧。"
+    mct "这地方挺有意思的。看起来不像是有人住的；但实际上感觉很破旧。"
 
 # game/code/d09/d09s02.rpy:55
 translate chinese d09s02_9908df1a:
@@ -226,7 +226,7 @@ translate chinese d09s02_fun_33463185:
 translate chinese d09s02_fun_1eb7e556:
 
     # mct "You know, it's my fault. I should've known. Might as well get {i}something{/i} out of this then."
-    mct "你知道，这是我的错。我早该知道的。那还不如从中得到{i}点好处{/i}呢。"
+    mct "你知道，这是我的错。我早该搞清楚的。那还不如从中得到点{i}好处{/i}呢。"
 
 # game/code/d09/d09s02.rpy:116
 translate chinese d09s02_fun_a645e116:
@@ -292,7 +292,7 @@ translate chinese d09s02_fun_1e979772:
 translate chinese d09s02_fun_928167b3:
 
     # sb "Oh! It's a vibrator, of a sort. Twist the bottom to turn it on."
-    sb "哦！这是个振动器，算是吧。转动底部就能打开。"
+    sb "哦！这是个振动器，算是吧。转动底部就能打开的。"
 
 # game/code/d09/d09s02.rpy:144
 translate chinese d09s02_fun_66db3942:
@@ -418,7 +418,7 @@ translate chinese d09s02_luggage_10c0e199:
 translate chinese d09s02_luggage_37b96121:
 
     # mct "Well, you can call it money invested well! {w}Not really..."
-    mct "嗯，可以说是钱投得好！{w}不是……"
+    mct "嗯，可以说钱花的值了！{w}不是……"
 
 # game/code/d09/d09s02.rpy:251
 translate chinese d09s02_luggage_1858cd76:
@@ -460,7 +460,7 @@ translate chinese d09s02_luggage_958fd9b6:
 translate chinese d09s02_luggage_99046ced:
 
     # sb "You aren't a cop or something, are you?"
-    sb "你不是警察什么的吧？"
+    sb "你不是什么警察吧？"
 
 # game/code/d09/d09s02.rpy:264
 translate chinese d09s02_luggage_f0c9b00c:
@@ -592,7 +592,7 @@ translate chinese d09s02_luggage_15164332:
 translate chinese d09s02_luggage_e52d2726:
 
     # sb "I didn't see you too well, but I managed to get a glance."
-    sb "我没怎么看清你的脸，但还是有看了一眼。"
+    sb "我之前没怎么看清你的脸，但还是有看了一眼。"
 
 # game/code/d09/d09s02.rpy:305
 translate chinese d09s02_luggage_25ac08a9:
@@ -676,7 +676,7 @@ translate chinese d09s02_luggage_1a3ce239:
 translate chinese d09s02_luggage_23de970e:
 
     # sb "And then you came here and was like, \"Welp, might as well get my money's worth\"?"
-    sb "然后你就来了，心想：\"好吧，不如让我的钱物有所值\"？"
+    sb "然后你来到这，心想：\"好吧，不如让我的钱物有所值\"？"
 
 # game/code/d09/d09s02.rpy:333
 translate chinese d09s02_luggage_a87a337b:
@@ -754,7 +754,7 @@ translate chinese d09s02_luggage_70c56421:
 translate chinese d09s02_luggage_735d1be1:
 
     # sb "Well, I'm sorry, but I can't give it to you."
-    sb "嗯，对不起，但我不能给你。"
+    sb "呃，对不起，但我不能给你。"
 
 # game/code/d09/d09s02.rpy:356
 translate chinese d09s02_luggage_8611f061:
@@ -832,7 +832,7 @@ translate chinese d09s02_luggage_2b35b6fe:
 translate chinese d09s02_luggage_533ba221:
 
     # mc "I can probably find some decent clothes for cheap in some thrift stores. Maybe go dumpster diving in the rich people neighborhoods. Could probably find some decent stuff there. Stacy wouldn't notice the difference, right?"
-    mc "我也许能在旧货店找到便宜的好衣服。或者去富人区翻垃圾桶，也许能在那找到些像样的东西。史黛西不会注意到其中的区别，对吧？”"
+    mc "我也许能在旧货店找到便宜的好衣服。或者去富人区翻垃圾桶，也许能在那找到些像样的东西。史黛西应该看不出来有什么区别，对吧？"
 
 # game/code/d09/d09s02.rpy:385
 translate chinese d09s02_luggage_a5f364c6:
@@ -886,7 +886,7 @@ translate chinese d09s02_luggage_dc175690:
 translate chinese d09s02_luggage_234b953a:
 
     # sb "{i}You{/i}, have to pull a little prank on a hot M.I.L.F for me, and I have just the one in mind."
-    sb "{i}你{/i}，得帮我在个性感少妇身上搞个小恶作剧，我就想到了一个。"
+    sb "{i}你{/i}，得帮我在一个性感少妇身上搞个小恶作剧，我就想到了一个。"
 
 # game/code/d09/d09s02.rpy:417
 translate chinese d09s02_luggage_0aa8076c:
@@ -904,7 +904,7 @@ translate chinese d09s02_luggage_9721eb8c:
 translate chinese d09s02_luggage_c604c6c5:
 
     # mc "Well, I'm not sure if I \"know\" her, but I {i}have{/i} met her."
-    mc "呃，我不确定自己算不算\"认识\" 她，但我{i}见过{/i}她。"
+    mc "呃，我不确定自己算不算\"认识\" 她，但我有{i}见过{/i}她。"
 
 # game/code/d09/d09s02.rpy:424
 translate chinese d09s02_luggage_a70d4618:
@@ -946,7 +946,7 @@ translate chinese d09s02_luggage_c27264d5:
 translate chinese d09s02_luggage_bb59a71a:
 
     # sb "So, I thought you could be it. You don't look too bad, I'd say pretty handsome even, and I'm sure you'd enjoy some more...mature action, right?"
-    sb "所以，我觉得你可以试试看。你看起来还不错，甚至可以说相当帅我相信你也会喜欢更……成人的动作吧？"
+    sb "所以，我觉得你可以试试看。你看起来还不错，甚至可以说相当帅。我相信你也会喜欢更……成人的动作吧？"
 
 # game/code/d09/d09s02.rpy:444
 translate chinese d09s02_luggage_1085199c:
@@ -1000,7 +1000,7 @@ translate chinese d09s02_luggage_d282cb20:
 translate chinese d09s02_luggage_0bc9c5fb:
 
     # sb "Well... Assistant, boy-toy, bitch-boy, you know the deal. Finer details will come later."
-    sb "嗯……助理啊，小男友，小贱人，你知道该怎么做。更多细节以后再说。"
+    sb "嗯……助理啊，小男友，小贱人，你知道该怎么做。其他细节以后再说。"
 
 # game/code/d09/d09s02.rpy:465
 translate chinese d09s02_luggage_68632e9a:
@@ -1102,7 +1102,7 @@ translate chinese d09s02_choice_eeb3cedb_1:
 translate chinese d09s02_choice_dc8d0fbc_1:
 
     # sb "Ey, that's what I like to hear."
-    sb "哎，我就喜欢听这个"
+    sb "哎，我就喜欢听这个。"
 
 # game/code/d09/d09s02.rpy:513
 translate chinese d09s02_choice_19e09761_1:
@@ -1170,7 +1170,7 @@ translate chinese strings:
 
     # game/code/d09/d09s02.rpy:470
     old "Tonight! On \"Prank a M.I.L.F.\""
-    new "今晚！选\"搞性感少妇的恶作剧\""
+    new "今晚！选\"恶搞性感少妇\""
 
     # game/code/d09/d09s02.rpy:470
     old "Be a gigolo for a night"
