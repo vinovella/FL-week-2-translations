@@ -106,7 +106,7 @@ translate chinese d09s04_411e8c05:
 translate chinese d09s04_169c84e9:
 
     # mc "And I can't just forcefully undress a woman in the middle of the day in a packed store and just walk away all willy-nilly without getting tackled by 5 - 6 guys before I lay one foot in front of the other."
-    mc "而且我也不能大白天在人满为患的商店里强行脱掉一个女人的衣服，然后没事人一样走开吧，这样在我跑掉之前，还不先被5、6个男人给抓住了？"
+    mc "而且我也不能大白天在人满为患的商店里强行脱掉一个女人的衣服，然后没事人一样走开吧。这样在我跑掉之前，还不先被5、6个男人给抓住了？"
 
 # game/code/d09/d09s04.rpy:60
 translate chinese d09s04_b15242d2:
@@ -154,7 +154,7 @@ translate chinese d09s04_41da771c:
 translate chinese d09s04_7cfe6739:
 
     # mc "Actually, I've been meaning to ask you this. What exactly are you getting from this again?"
-    mc "其实，我一直想问你这个问题。这样做你又能得到什么?"
+    mc "其实，我一直想问你这个问题。这样做你又能得到什么？"
 
 # game/code/d09/d09s04.rpy:78
 translate chinese d09s04_6791f652:
@@ -208,7 +208,7 @@ translate chinese replay_d09s04_8025d5a5:
 translate chinese replay_d09s04_d08db075:
 
     # vw "Really now? Good for you. I swear, less and less kids these days even know how to cook. It's all ramen and whatnot. That stuff's really bad for you know. I read about it somewhere."
-    vw "真的吗？那你很棒哎。我敢说，现在越来越少的孩子会做饭了。都是吃些拉面之类的。那东西对身体不好的，我在哪里读到过。"
+    vw "真的吗？那你很棒哎。我敢说，现在会做饭的孩子越来越少了。都是吃些拉面之类的。我在哪里读到过，那东西对身体不好的。"
 
 # game/code/d09/d09s04.rpy:100
 translate chinese replay_d09s04_89211be3:
@@ -292,7 +292,7 @@ translate chinese replay_d09s04_e7113e40:
 translate chinese replay_d09s04_ef50cec3:
 
     # mc "Or better yet, show me."
-    mc "或者这样吧，给我看看。"
+    mc "或者你有什么更好的想法吗。"
 
 # game/code/d09/d09s04.rpy:139
 translate chinese replay_d09s04_2de05056:
@@ -598,7 +598,7 @@ translate chinese replay_d09s04_0d26ee44:
 translate chinese replay_d09s04_c87bc9b1:
 
     # "Store Manager" "That is some top shelf M.I.L.F, dude! {w}Good for you."
-    "店长" "那可真是个顶级性感少妇啊，哥们儿！{w}好样的。"
+    "店长" "那可真是个顶级尤物啊，哥们儿！{w}好样的。"
 
 # game/code/d09/d09s04.rpy:326
 translate chinese replay_d09s04_f4d4703f:
@@ -634,7 +634,7 @@ translate chinese replay_d09s04_ac214db4:
 translate chinese replay_d09s04_d21932a6:
 
     # "Store Manager" "I'm sure a player like you has a stable of smoking hot M.I.L.F.'s—"
-    "店长" "我相信像你这样的玩家一定有很多稳定的性感热辣少妇吧--"
+    "店长" "我相信像你这样的玩家一定有很多上门的性感热辣少妇吧--"
 
 # game/code/d09/d09s04.rpy:338
 translate chinese replay_d09s04_709a0d2d:
@@ -658,7 +658,7 @@ translate chinese replay_d09s04_a9c82ec4:
 translate chinese replay_d09s04_92975eb5:
 
     # "Store Manager" "Oh, okay."
-    "店长" "哦，好的。"
+    "店长" "哦，好吧。"
 
 # game/code/d09/d09s04.rpy:344
 translate chinese replay_d09s04_310bfe5c:
@@ -670,13 +670,13 @@ translate chinese replay_d09s04_310bfe5c:
 translate chinese replay_d09s04_56f59087:
 
     # "Store Manager" "Yes! Of course! Thank you! Come again!"
-    "店长" "好的！当然了！。谢谢你！再来啊!"
+    "店长" "好呀！当然了！谢谢你！再来啊!"
 
 # game/code/d09/d09s04.rpy:355
 translate chinese replay_d09s04_f7c446ab:
 
     # fl "You got [d09s04_points] points."
-    fl "你得到了[d09s04_points] points."
+    fl "你得到了[d09s04_points]点数。"
 
 # game/code/d09/d09s04.rpy:356
 translate chinese replay_d09s04_e4163433:
