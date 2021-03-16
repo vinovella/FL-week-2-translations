@@ -364,7 +364,7 @@ translate chinese replay_d09s05_46984ea3:
 translate chinese replay_d09s05_890248c7:
 
     # ceo "Come here."
-    ceo "到这来。"
+    ceo "过来。"
 
 # game/code/d09/d09s05.rpy:215
 translate chinese replay_d09s05_00d99e2e:
@@ -382,25 +382,25 @@ translate chinese replay_d09s05_d1510d5e:
 translate chinese replay_d09s05_3e65d91d:
 
     # ceo "You, boy. What should I call you?"
-    ceo "You, boy. What should I call you?"
+    ceo "你，孩子。我该怎么称呼你呢？"
 
 # game/code/d09/d09s05.rpy:227
 translate chinese replay_d09s05_831c5cc4:
 
     # mc "...[mcname]."
-    mc "...[mcname]."
+    mc "……[mcname]。"
 
 # game/code/d09/d09s05.rpy:228
 translate chinese replay_d09s05_285334ab:
 
     # ceo "[mcname], you're a good sissy. Very good indeed. But tell me..."
-    ceo "[mcname], you're a good sissy. Very good indeed. But tell me..."
+    ceo "[mcname]，你娘娘腔做的不错。确实很好。但是告诉我……"
 
 # game/code/d09/d09s05.rpy:231
 translate chinese replay_d09s05_46432ae5:
 
     # ceo "You're pretending aren't you? And hey, that's alright. Being a sissy isn't for everybody. But you have to be honest with me."
-    ceo "You're pretending aren't you? And hey, that's alright. Being a sissy isn't for everybody. But you have to be honest with me."
+    ceo "你是装的吧？嘿，没关系的。不是人人都适合做娘娘腔。但你得跟我说实话。"
 
 # game/code/d09/d09s05.rpy:232
 translate chinese replay_d09s05_2b35b6fe_1:
@@ -412,13 +412,13 @@ translate chinese replay_d09s05_2b35b6fe_1:
 translate chinese replay_d09s05_4911dfaf:
 
     # ceo "Tell you what. This is what I'll do."
-    ceo "Tell you what. This is what I'll do."
+    ceo "听我说，我们这么办。"
 
 # game/code/d09/d09s05.rpy:236
 translate chinese replay_d09s05_ac0dc4d5:
 
     # ceo "{i}You{/i}, can either take control and put this little bitch sucking my fingers in her place, {i}or{/i} you can be a good little sissy and let her do what she pleases with you."
-    ceo "{i}You{/i}, can either take control and put this little bitch sucking my fingers in her place, {i}or{/i} you can be a good little sissy and let her do what she pleases with you."
+    ceo "{i}你{/i}，要么来掌控这里，让这个小贱人舔我的手指，{i}要么{/i}你就做个乖巧的小娘们，让她对你为所欲为。"
 
 # game/code/d09/d09s05.rpy:237
 translate chinese replay_d09s05_2b35b6fe_2:
@@ -430,373 +430,373 @@ translate chinese replay_d09s05_2b35b6fe_2:
 translate chinese replay_d09s05_f4f632ae:
 
     # ceo "I'm a man of my word. There's no hidden agenda here. You can choose whatever you want. I benefit either way, so I don't rightly care."
-    ceo "I'm a man of my word. There's no hidden agenda here. You can choose whatever you want. I benefit either way, so I don't rightly care."
+    ceo "我说话算话。这里没什么隐情。你可以随便选。无论哪种对我都有利，所以我并不在乎。"
 
 # game/code/d09/d09s05.rpy:257
 translate chinese d09s05_fucked_82e55831:
 
     # mc "I...I can be a sissy."
-    mc "I...I can be a sissy."
+    mc "我……我可以做个娘娘腔。"
 
 # game/code/d09/d09s05.rpy:260
 translate chinese d09s05_fucked_f9e1de33:
 
     # ceo "...Really now? Color me surprised. Samiya."
-    ceo "...Really now? Color me surprised. Samiya."
+    ceo "……真的吗？我倒是挺惊讶。萨米亚。"
 
 # game/code/d09/d09s05.rpy:264
 translate chinese d09s05_fucked_fbd62c10:
 
     # sb "Yes, Mr. Melville?"
-    sb "Yes, Mr. Melville?"
+    sb "我在，梅尔维尔先生？"
 
 # game/code/d09/d09s05.rpy:265
 translate chinese d09s05_fucked_171b49f2:
 
     # ceo "You heard him. Get to work."
-    ceo "You heard him. Get to work."
+    ceo "你听到他说的了。去干活吧。"
 
 # game/code/d09/d09s05.rpy:267
 translate chinese d09s05_fucked_e9bd92c8:
 
     # sb "Oh, with pleasure, Mr. Melville."
-    sb "Oh, with pleasure, Mr. Melville."
+    sb "哦，我很乐意，梅尔维尔先生。"
 
 # game/code/d09/d09s05.rpy:269
 translate chinese d09s05_fucked_290dcde1:
 
     # sb "Come on now. Get on the bed, horsie. I'm gonna have some fun \"riding\" you."
-    sb "Come on now. Get on the bed, horsie. I'm gonna have some fun \"riding\" you."
+    sb "来吧。到床上去，小马驹。我要\"骑着\"你找点乐子。"
 
 # game/code/d09/d09s05.rpy:274
 translate chinese d09s05_fucked_bbc28d01:
 
     # sb "Come on, horsie! You've got a tongue, don't you? Use it!"
-    sb "Come on, horsie! You've got a tongue, don't you? Use it!"
+    sb "来啊，小马驹！你不是有舌头吗？用起来！"
 
 # game/code/d09/d09s05.rpy:285
 translate chinese d09s05_fucked_386eec18:
 
     # sb "I want you to clean me {i}good{/i}."
-    sb "I want you to clean me {i}good{/i}."
+    sb "我要你把我洗得{i}干干净净{/i}。"
 
 # game/code/d09/d09s05.rpy:293
 translate chinese d09s05_fucked_2219670f:
 
     # sb "*Moans*"
-    sb "*Moans*"
+    sb "*呻吟声*"
 
 # game/code/d09/d09s05.rpy:295
 translate chinese d09s05_fucked_20e23667:
 
     # sb "Oooh, yeah, fuck. Everything else about you might be a little underwhelming, but at least you know how to use that dirty little tongue of yours decently."
-    sb "Oooh, yeah, fuck. Everything else about you might be a little underwhelming, but at least you know how to use that dirty little tongue of yours decently."
+    sb "啊啊，没错，妈的。你其他方面可能都不怎么样，但至少你知道怎么好好地用你那肮脏的小舌头。"
 
 # game/code/d09/d09s05.rpy:299
 translate chinese d09s05_fucked_5e27c775:
 
     # sb "Aw, look at that! Isn't that cute, Mr. Melville? Looks like you were right! [mcname] is a natural sissy."
-    sb "Aw, look at that! Isn't that cute, Mr. Melville? Looks like you were right! [mcname] is a natural sissy."
+    sb "啊，看啊！是不是很可爱，梅尔维尔先生? 看来你是对的！[mcname]是个天生的娘娘腔。"
 
 # game/code/d09/d09s05.rpy:306
 translate chinese d09s05_fucked_87d10429:
 
     # sb "Fuck, I'm getting close."
-    sb "Fuck, I'm getting close."
+    sb "操，我快来了。"
 
 # game/code/d09/d09s05.rpy:318
 translate chinese d09s05_fucked_f088a78a:
 
     # sb "Oh, oh yeeah."
-    sb "Oh, oh yeeah."
+    sb "哦哦--啊-嗯。"
 
 # game/code/d09/d09s05.rpy:320
 translate chinese d09s05_fucked_07b23071:
 
     # sb "*Heaves*"
-    sb "*Heaves*"
+    sb "*喘气*"
 
 # game/code/d09/d09s05.rpy:340
 translate chinese d09s05_fucks_b7ad11b2:
 
     # mc "You know what? I think I'm gonna take up on your offer."
-    mc "You know what? I think I'm gonna take up on your offer."
+    mc "你知道吗？我想接受你的提议。"
 
 # game/code/d09/d09s05.rpy:343
 translate chinese d09s05_fucks_0473c5f9:
 
     # mc "I'd like to have some fun with her."
-    mc "I'd like to have some fun with her."
+    mc "我挺想和她一起找点乐子。"
 
 # game/code/d09/d09s05.rpy:345
 translate chinese d09s05_fucks_15b638c4:
 
     # ceo "Well, you heard him, slut."
-    ceo "Well, you heard him, slut."
+    ceo "行啊，你听到他说的了，荡妇。"
 
 # game/code/d09/d09s05.rpy:347
 translate chinese d09s05_fucks_76b397a0:
 
     # sb "Of course, Mr. Melville."
-    sb "Of course, Mr. Melville."
+    sb "是，梅尔维尔先生。"
 
 # game/code/d09/d09s05.rpy:349
 translate chinese d09s05_fucks_44e8fd60:
 
     # sb "So, [mcname], what do you wa—"
-    sb "So, [mcname], what do you wa—"
+    sb "那么，[mcname]你想怎--"
 
 # game/code/d09/d09s05.rpy:352
 translate chinese d09s05_fucks_f54670ba:
 
     # mc "Get on the bed."
-    mc "Get on the bed."
+    mc "到床上去。"
 
 # game/code/d09/d09s05.rpy:354
 translate chinese d09s05_fucks_7a3f5b9b:
 
     # mc "But before we start."
-    mc "But before we start."
+    mc "但在我们开始之前。"
 
 # game/code/d09/d09s05.rpy:357
 translate chinese d09s05_fucks_3456a650:
 
     # mc "I have a little something for you."
-    mc "I have a little something for you."
+    mc "我有个小东西给你。"
 
 # game/code/d09/d09s05.rpy:360
 translate chinese d09s05_fucks_abaefc7f:
 
     # mc "You know how they saying that the girl's best friend is gold?"
-    mc "You know how they saying that the girl's best friend is gold?"
+    mc "你知道有句话叫，黄金是女人最好的朋友吗？"
 
 # game/code/d09/d09s05.rpy:368
 translate chinese d09s05_fucks_02b7770f:
 
     # sb "Diamonds.{w}.. Diamonds are the best."
-    sb "Diamonds.{w}.. Diamonds are the best."
+    sb "钻石……{w}钻石是最好的朋友。"
 
 # game/code/d09/d09s05.rpy:372
 translate chinese d09s05_fucks_a71d1eb8:
 
     # sb "Not doing that."
-    sb "Not doing that."
+    sb "不要这样。"
 
 # game/code/d09/d09s05.rpy:375
 translate chinese d09s05_fucks_b6434a88:
 
     # ceo "Bitch! Do what you're told!"
-    ceo "Bitch! Do what you're told!"
+    ceo "贱人！叫你怎么做就怎么做！"
 
 # game/code/d09/d09s05.rpy:378
 translate chinese d09s05_fucks_5fa531f8:
 
     # sb "But I don't..."
-    sb "But I don't..."
+    sb "可我不……"
 
 # game/code/d09/d09s05.rpy:379
 translate chinese d09s05_fucks_87361c34:
 
     # ceo "I {i}pay{/i} you!"
-    ceo "I {i}pay{/i} you!"
+    ceo "是我{i}付钱{/i}给你！"
 
 # game/code/d09/d09s05.rpy:382
 translate chinese d09s05_fucks_673b12c0:
 
     # sb "Enjoy it while you can..."
-    sb "Enjoy it while you can..."
+    sb "趁你还能享受……"
 
 # game/code/d09/d09s05.rpy:384
 translate chinese d09s05_fucks_c4977a56:
 
     # mc "I'll surely do!"
-    mc "I'll surely do!"
+    mc "我一定会的！"
 
 # game/code/d09/d09s05.rpy:386
 translate chinese d09s05_fucks_ecf7f29b:
 
     # mc "Open your mouth!"
-    mc "Open your mouth!"
+    mc "张嘴！"
 
 # game/code/d09/d09s05.rpy:388
 translate chinese d09s05_fucks_c18a143c:
 
     # mc "The candy is coming!"
-    mc "The candy is coming!"
+    mc "美味的糖果要来了！"
 
 # game/code/d09/d09s05.rpy:393
 translate chinese d09s05_fucks_74ed38be:
 
     # sb "M-m-mhf!"
-    sb "M-m-mhf!"
+    sb "唔-唔-呃！"
 
 # game/code/d09/d09s05.rpy:397
 translate chinese d09s05_fucks_bc76d2f6:
 
     # mc "You look great! Now it's time to fuck!"
-    mc "You look great! Now it's time to fuck!"
+    mc "你看起来棒极了！现在该开干了！"
 
 # game/code/d09/d09s05.rpy:405
 translate chinese d09s05_fucks_cff70bfb:
 
     # sb "Aaah!"
-    sb "Aaah!"
+    sb "啊！"
 
 # game/code/d09/d09s05.rpy:408
 translate chinese d09s05_fucks_e15bbd20:
 
     # sb "M-m-mh-h-hf!"
-    sb "M-m-mh-h-hf!"
+    sb "唔-唔-啊！"
 
 # game/code/d09/d09s05.rpy:418
 translate chinese d09s05_fucks_5b20c5be:
 
     # mc "You know if you would be able to speak you could've said me now \"I was right!\""
-    mc "You know if you would be able to speak you could've said me now \"I was right!\""
+    mc "你知道，如果你现在能说话，你现在就可以怪我\"我就说吧！\""
 
 # game/code/d09/d09s05.rpy:429
 translate chinese d09s05_fucks_b42a3e42:
 
     # mc "I mean about the enema. You were absolutely right that it was necessary!"
-    mc "I mean about the enema. You were absolutely right that it was necessary!"
+    mc "我是说灌肠的事。你说它很必要，说的很对嘛！"
 
 # game/code/d09/d09s05.rpy:440
 translate chinese d09s05_fucks_48581434:
 
     # mc "What are you enjoying more? The dick in your pussy or the taste of the plug from my butt?"
-    mc "What are you enjoying more? The dick in your pussy or the taste of the plug from my butt?"
+    mc "你更喜欢哪个？是你小穴里的鸡巴还是我菊花的味道？"
 
 # game/code/d09/d09s05.rpy:483
 translate chinese d09s05_fucks_e6fbf8f7:
 
     # sb "Oooh, god, I can feel it inside me. It's {i}so{/i} hot."
-    sb "Oooh, god, I can feel it inside me. It's {i}so{/i} hot."
+    sb "哦，天啊，我能感到它在我体内。{i}真的好{/i}棒啊。"
 
 # game/code/d09/d09s05.rpy:493
 translate chinese d09s05_fucks_c9a2fb48:
 
     # sb "*Heaves* Thank you."
-    sb "*Heaves* Thank you."
+    sb "*喘气* 谢谢你。"
 
 # game/code/d09/d09s05.rpy:505
 translate chinese d09s05_end_6401c851:
 
     # ceo "Well done."
-    ceo "Well done."
+    ceo "干得好。"
 
 # game/code/d09/d09s05.rpy:506
 translate chinese d09s05_end_a9a9c1dc:
 
     # ceo "I'll send you a bonus tomorrow, Samiya."
-    ceo "I'll send you a bonus tomorrow, Samiya."
+    ceo "明天我给你发奖金，萨米亚。"
 
 # game/code/d09/d09s05.rpy:508
 translate chinese d09s05_end_94ef67b8:
 
     # sb "Thank you, Mr. Melville."
-    sb "Thank you, Mr. Melville."
+    sb "谢谢你，梅尔维尔先生。"
 
 # game/code/d09/d09s05.rpy:509
 translate chinese d09s05_end_3549e37e:
 
     # ceo "Maybe you'll finally be able to move out of this shithole."
-    ceo "Maybe you'll finally be able to move out of this shithole."
+    ceo "也许你终于可以搬出这个鬼地方了。"
 
 # game/code/d09/d09s05.rpy:514
 translate chinese d09s05_end_da63b76e:
 
     # sb "Good boy. I like it when men do what I tell them without too much fuss."
-    sb "Good boy. I like it when men do what I tell them without too much fuss."
+    sb "好孩子。我喜欢男人对我言听计从，不大惊小怪很好。"
 
 # game/code/d09/d09s05.rpy:517
 translate chinese d09s05_end_ffab9922:
 
     # mc "Please don't tell me all that was just for this."
-    mc "Please don't tell me all that was just for this."
+    mc "别告诉我费这么大劲就只换来一句这个。"
 
 # game/code/d09/d09s05.rpy:520
 translate chinese d09s05_end_db8a74b1:
 
     # sb "Jeez, have some fun! Don't be a worrywart. You don't want that pretty face to get all wrinkled up now do you?"
-    sb "Jeez, have some fun! Don't be a worrywart. You don't want that pretty face to get all wrinkled up now do you?"
+    sb "哎呀，玩得开心点吧！不要杞人忧天啦。你应该不想让那张漂亮脸蛋变得皱巴巴的吧？"
 
 # game/code/d09/d09s05.rpy:521
 translate chinese d09s05_end_136c0ad1:
 
     # sb "And I said I'll get you the luggage."
-    sb "And I said I'll get you the luggage."
+    sb "我说了我会帮你拿行李的。"
 
 # game/code/d09/d09s05.rpy:523
 translate chinese d09s05_end_5a0bbf84:
 
     # sb "I'll send you a text tomorrow, so chill."
-    sb "I'll send you a text tomorrow, so chill."
+    sb "我明天给你发短信，你就放心吧。"
 
 # game/code/d09/d09s05.rpy:524
 translate chinese d09s05_end_814f1c85:
 
     # sb "Now get out of here. I got shit to do. And as much fun as it is having a hot piece of ass prancing around, I need to be alone for a bit."
-    sb "Now get out of here. I got shit to do. And as much fun as it is having a hot piece of ass prancing around, I need to be alone for a bit."
+    sb "现在你可以滚蛋了。我还有事要做。虽然顶着个火辣的屁股到处乱晃很有趣，但我需要一个人静一静。"
 
 # game/code/d09/d09s05.rpy:529
 translate chinese d09s05_end_8c499776:
 
     # mc "So... What about Stacy's luggage?"
-    mc "So... What about Stacy's luggage?"
+    mc "所以……史黛西的行李呢？"
 
 # game/code/d09/d09s05.rpy:531
 translate chinese d09s05_end_3e6c6c1e:
 
     # sb "You really think you've earned it?"
-    sb "You really think you've earned it?"
+    sb "你真以为你赚到了？"
 
 # game/code/d09/d09s05.rpy:534
 translate chinese d09s05_end_feff4f24:
 
     # sb "Check your text messages tomorrow, and get the fuck out of here."
-    sb "Check your text messages tomorrow, and get the fuck out of here."
+    sb "明天看看你的短信，现在你赶紧给我滚蛋。"
 
 # game/code/d09/d09s05.rpy:536
 translate chinese d09s05_end_95d96455:
 
     # mct "Fuck."
-    mct "Fuck."
+    mct "操。"
 
 # game/code/d09/d09s05.rpy:544
 translate chinese d09s05_end_3ed93b19:
 
     # fl "You got [d09s05_points] points."
-    fl "You got [d09s05_points] points."
+    fl "你得到了[d09s05_points]点数。"
 
 # game/code/d09/d09s05.rpy:545
 translate chinese d09s05_end_514af8aa:
 
     # mct "At least I'm progressing with points."
-    mct "At least I'm progressing with points."
+    mct "至少我的点数在增加。"
 
 translate chinese strings:
 
     # game/code/d09/d09s05.rpy:242
     old "What should I do?"
-    new "What should I do?"
+    new "我该怎么做？"
 
     # game/code/d09/d09s05.rpy:242
     old "Be a sissy, sissy"
-    new "Be a sissy, sissy"
+    new "做个娘娘腔，小娘们儿"
 
     # game/code/d09/d09s05.rpy:242
     old "Fuck that bitch"
-    new "Fuck that bitch"
+    new "操那个婊子"
 
     # game/code/d09/d09s05.rpy:472
     old "Fuck, I'm getting close."
-    new "Fuck, I'm getting close."
+    new "操，我要来了。"
 
     # game/code/d09/d09s05.rpy:472
     old "Cum inside that whore"
-    new "Cum inside that whore"
+    new "射这婊子里面"
 
     # game/code/d09/d09s05.rpy:472
     old "Cover the whore"
-    new "Cover the whore"
+    new "射这婊子身上"
 
