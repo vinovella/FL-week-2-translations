@@ -10,7 +10,7 @@ translate chinese d09s08_339cfe9f:
 translate chinese d09s08_b2fe1f75:
 
     # mct "Maybe I should be the one to call Lydia tonight."
-    mct "也许今晚该由我给莉迪亚打电话。"
+    mct "也许今晚该由我来给莉迪亚打电话。"
 
 # game/code/d09/d09s08.rpy:14
 translate chinese d09s08_dcaa0c3f:
@@ -22,7 +22,7 @@ translate chinese d09s08_dcaa0c3f:
 translate chinese d09s08_aee4f278:
 
     # mc "Hey, beautiful. Good things, I hope."
-    mc "哈喽，美女。我希望是好事吧。"
+    mc "哈喽，美女。我希望你想我是好事吧。"
 
 # game/code/d09/d09s08.rpy:16
 translate chinese d09s08_8cc631b8:
@@ -160,7 +160,7 @@ translate chinese d09s08_a158eefa:
 translate chinese d09s08_2d4bdcef:
 
     # mh "Cool. Give me a call tomorrow and we can meet there - fill out the contract, hand over the keys, etc."
-    mh "好。那明天给我打电话，我们在那见面--填合同，交钥匙之类的。"
+    mh "好。那明天给我打电话，我们到时候在那见面--填合同，交钥匙之类的。"
 
 # game/code/d09/d09s08.rpy:59
 translate chinese d09s08_c6a52e0b:
@@ -178,7 +178,7 @@ translate chinese d09s08_d54c5a02:
 translate chinese d09s08_99422566:
 
     # mc "Huh? Two months rent?"
-    mc "啊，两个月的租金？"
+    mc "啊？两个月的租金？"
 
 # game/code/d09/d09s08.rpy:64
 translate chinese d09s08_d0913a86:
@@ -472,7 +472,7 @@ translate chinese d09s08_ad1eaa57:
 translate chinese d09s08_f8131968:
 
     # lc "But, at the same time I know myself. I know that if you told me you were going to fuck someone I would just get filled up with jealousy."
-    lc "但是，同时我也了解自己。我知道，如果你告诉我你要和别人上床，我只会充满嫉妒。"
+    lc "但是，同时我也了解我自己。我知道，如果你告诉我你要和别人上床，我只会充满嫉妒。"
 
 # game/code/d09/d09s08.rpy:157
 translate chinese d09s08_0b630021:
