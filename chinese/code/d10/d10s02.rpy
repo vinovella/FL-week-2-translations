@@ -130,7 +130,7 @@ translate chinese d10s02_d8afc7c7:
 translate chinese d10s02_07ac449c:
 
     # mct "Last time I saw her she sucked my cock in front of the whole class."
-    mct "上次我见到她，她当着全班的面给我口交。"
+    mct "上次我见到她，她还当着全班的面给我口交。"
 
 # game/code/d10/d10s02.rpy:44
 translate chinese d10s02_ddfe5204:
