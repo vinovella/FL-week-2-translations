@@ -118,7 +118,7 @@ translate chinese d10s02_4e68a7d1:
 translate chinese d10s02_f32a3e3c:
 
     # mc "Clothed female. Nude male. I was just about to shower."
-    mc "呵，裸体男面对一位穿戴整齐的女士，你说呢。我正准备洗澡呢。"
+    mc "呵，裸体男面对一位穿着衣服的女士，你说呢。我正准备洗澡呢。"
 
 # game/code/d10/d10s02.rpy:42
 translate chinese d10s02_d8afc7c7:
@@ -202,7 +202,7 @@ translate chinese d10s02_2b5a8205:
 translate chinese d10s02_95257152:
 
     # mc "I was wondering about that. {w}Ya'know, after what happened the other day."
-    mc "我正在想着呢。{w}你懂吧，就那天之后。"
+    mc "我正想着呢。{w}你懂吧，就那天之后。"
 
 # game/code/d10/d10s02.rpy:68
 translate chinese d10s02_13225513:
@@ -262,7 +262,7 @@ translate chinese d10s02_14f69c20:
 translate chinese d10s02_46fba101:
 
     # mc "I would say it was your defining trait."
-    mc "我想说这是你的决定性特征。"
+    mc "我会说这是你的决定性特征。"
 
 # game/code/d10/d10s02.rpy:87
 translate chinese d10s02_8cc76770:
@@ -424,7 +424,7 @@ translate chinese d10s02_1df1e72c:
 translate chinese d10s02_2c25907b:
 
     # mk "I've got a lot of bad habits to unlearn. I need to try to be a better person."
-    mk "我有很多坏习惯需要改掉。我要努力成为一个更好的人。"
+    mk "我有很多坏习惯需要改掉。我要努力成为更好的人。"
 
 # game/code/d10/d10s02.rpy:130
 translate chinese d10s02_ca799b43:
@@ -454,7 +454,7 @@ translate chinese d10s02_bc92c19b:
 translate chinese d10s02_5ec601c5:
 
     # mk "I'm definitely not ready for that. {w}I might go to the Party tonight, but definitely not that event."
-    mk "我肯定还没准备好。{w}}我可能会去参加今晚的派对，但绝对不会参加那个活动。"
+    mk "我肯定还没准备好。{w}我可能会去参加今晚的派对，但绝对不会参加那个活动。"
 
 # game/code/d10/d10s02.rpy:138
 translate chinese d10s02_e43dc817:
@@ -484,7 +484,7 @@ translate chinese d10s02_warning_1791daf4:
 translate chinese d10s02_warning_c92d1130:
 
     # mc "I was just thinking about how much access Fetish Locator has to our devices."
-    mc "我只是在想，性趣探测器对我们的手机有多大的访问权限。"
+    mc "我只是在想，性趣探测器有多大的权限可以访问我们的手机。"
 
 # game/code/d10/d10s02.rpy:156
 translate chinese d10s02_warning_b2e6ad87:
@@ -496,7 +496,7 @@ translate chinese d10s02_warning_b2e6ad87:
 translate chinese d10s02_warning_868ce79a:
 
     # mc "Half the time I earn points without even realizing it was taking photos - and I'm pretty sure it listens to my conversations."
-    mc "我没拍照下就获得点数的情况几乎占了一半--我敢肯定它能监听我的对话。"
+    mc "我没拍照就获得点数的情况几乎占了一半--我敢肯定它能监听我的对话。"
 
 # game/code/d10/d10s02.rpy:160
 translate chinese d10s02_warning_3701dec0:
@@ -616,7 +616,7 @@ translate chinese d10s02_for_points_29e9fe0b:
 translate chinese d10s02_for_points_fc9ba782:
 
     # mk "Lesbian going down on a guy while the whole class watched? Tons of points."
-    mk "女同在全班同学的注视下给一个男人口交？点数不要太多好嘛。"
+    mk "一个拉拉在全班同学的注视下给男人口交？点数不要太多好嘛。"
 
 # game/code/d10/d10s02.rpy:195
 translate chinese d10s02_for_points_6714a429:
@@ -670,7 +670,7 @@ translate chinese d10s02_for_points_aa8f9493:
 translate chinese d10s02_for_points_965c41c1:
 
     # mk "Anything we would do would involve going back to where our phones are..."
-    mk "Anything we would do would involve going back to where our phones are..."
+    mk "不管我们做什么，都要去拿手机……"
 
 # game/code/d10/d10s02.rpy:209
 translate chinese d10s02_for_points_073bf7c2:
@@ -766,7 +766,7 @@ translate chinese d10s02_end_b13dfa65:
 translate chinese d10s02_end_f4464b53:
 
     # mc "So, not so militant about intergender play?"
-    mc "所以，对男女之间的游戏没那么激进了？"
+    mc "所以，你对男女之间的游戏没那么激进了？"
 
 # game/code/d10/d10s02.rpy:244
 translate chinese d10s02_end_f35928c6:
@@ -808,7 +808,7 @@ translate chinese d10s02_end_09c99df5:
 translate chinese d10s02_end_519c2d95:
 
     # mk "I don't think it would feel anywhere near as good as being with a girl, but maybe someday my curiosity will get to me."
-    mk "我不认为那感觉会胜过和女孩在一起, 但保不定哪一天我的好奇心就会占上风了呢。"
+    mk "我不认为那感觉会胜过和女孩在一起，但保不定哪一天我的好奇心就占上风了呢。"
 
 # game/code/d10/d10s02.rpy:255
 translate chinese d10s02_end_964fcade:
@@ -838,7 +838,7 @@ translate chinese d10s02_end_424dadf4:
 translate chinese d10s02_end_81141d6e:
 
     # mk "Anyway. It'll probably never be an issue. There are other options, but if I ever do decide to put a real penis in me again..."
-    mk "不管怎么说吧。这永远不再是个问题了。我还有其他选择，但如果我日后想感受真正的肉棒在体内的感觉……"
+    mk "不管怎么说吧。反正这不再是个问题了。我还有其他选择，但如果我日后想感受真正的肉棒在体内的感觉……"
 
 # game/code/d10/d10s02.rpy:264
 translate chinese d10s02_end_79e9e188:
@@ -904,7 +904,7 @@ translate chinese d10s02_end_5923e338:
 translate chinese d10s02_end_cdd54cb0:
 
     # mc "Let's get out of here before we're all pruney."
-    mc "在我们都变软之前赶紧离开这吧。"
+    mc "现在，在我们皮肤都变皱之前赶紧离开这吧。"
 
 # game/code/d10/d10s02.rpy:283
 translate chinese d10s02_end_c44f91e3:
