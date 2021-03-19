@@ -76,7 +76,7 @@ translate chinese d10s01_a5e7c3dc:
 translate chinese d10s01_833955e6:
 
     # mct "I am having a lot of fun. On the one hand this app is great for my sex life."
-    mct "我玩得很开心。一方面这个应用对我的性生活很有帮助。"
+    mct "我玩得很开心。一方面这个软件对我的性生活很有帮助。"
 
 # game/code/d10/d10s01.rpy:31
 translate chinese d10s01_904ed367:
@@ -100,7 +100,7 @@ translate chinese d10s01_d49216cf:
 translate chinese d10s01_aedd82bd:
 
     # mct "Can I just enjoy what I'm doing, even though I'm being forced to do it?"
-    mct "即使我是被强迫的，我就不能享受所做的事吗？"
+    mct "即使我是被强迫的，我就不能从中学会享受吗？"
 
 # game/code/d10/d10s01.rpy:40
 translate chinese d10s01_2dfc5eb7:
