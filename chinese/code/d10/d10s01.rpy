@@ -130,19 +130,19 @@ translate chinese d10s01_06a67988:
 translate chinese d10s01_a9e0ee93:
 
     # mct "Alright, so today's Fetish is... {w}Outercourse?"
-    mct "好吧，今日性癖是……{w}Outercourse?"
+    mct "好吧，今日性癖是……{w}非插入式性爱？"
 
 # game/code/d10/d10s01.rpy:46
 translate chinese d10s01_0eec42b0:
 
     # mct "Boobjobs, thighjobs, grinding, lapdances... {w}I guess that could be fun."
-    mct "胸、丰大腿、磨蹭、大腿舞……{w}我想这可能很有趣。"
+    mct "乳交、腿交、摩擦、跳膝上舞……{w}我觉得会很有趣。"
 
 # game/code/d10/d10s01.rpy:49
 translate chinese d10s01_e4dcf492:
 
     # mct "Pete is out cold. {w}This is kinda stupid, but at least he won't walk in on me by surprise."
-    mct "皮特昏过去了。{w}有点傻，但至少他不会突然走进来撞见我了。"
+    mct "皮特睡死过去了。{w}这虽有点蠢，但至少他不会突然走进来撞见我了。"
 
 # game/code/d10/d10s01.rpy:52
 translate chinese d10s01_c4040c42:
@@ -220,7 +220,7 @@ translate chinese d10s01_8f637bd1:
 translate chinese d10s01_edd119a8:
 
     # mc "Well, I didn't think you would want to wait to hear this."
-    mc "好吧，我没想到你会想等着听这个。"
+    mc "呃，我觉得你会想尽快听到这个的。"
 
 # game/code/d10/d10s01.rpy:74
 translate chinese d10s01_997779d4:
@@ -232,7 +232,7 @@ translate chinese d10s01_997779d4:
 translate chinese d10s01_5feffd2e:
 
     # mc "Yes, yes! {w}Calm down - you're going to wake AmRose."
-    mc "是的，是的！{w}冷静点--你会吵醒爱洛丝的。"
+    mc "是啊，是啊！{w}冷静点--你会吵醒爱洛丝的。"
 
 # game/code/d10/d10s01.rpy:77
 translate chinese d10s01_9dd9b6ee:
@@ -250,7 +250,7 @@ translate chinese d10s01_40921b7b:
 translate chinese d10s01_1ac40f5e:
 
     # mc "See you then. You can go back to sleep now."
-    mc "那再见了。你可以回去睡觉了。"
+    mc "那再见吧。你可以回去睡觉了。"
 
 # game/code/d10/d10s01.rpy:82
 translate chinese d10s01_f1fb4a66:
