@@ -4,463 +4,463 @@
 translate chinese d10s04_0d4d03ce:
 
     # "After a short walk to the location sent by Lyssa"
-    "After a short walk to the location sent by Lyssa"
+    "走了一小段路，到了丽莎信息中说的地方"
 
 # game/code/d10/d10s04.rpy:82
 translate chinese d10s04_7bdf11d5:
 
     # "After a short walk to the location sent by Vanessa"
-    "After a short walk to the location sent by Vanessa"
+    "走了一小段路，到了瓦妮莎信息中说的地方"
 
 # game/code/d10/d10s04.rpy:84
 translate chinese d10s04_5ad93678:
 
     # mc "Hey Vanessa. Mind if I come in?"
-    mc "Hey Vanessa. Mind if I come in?"
+    mc "嘿，瓦妮莎。我可以进来吗？"
 
 # game/code/d10/d10s04.rpy:86
 translate chinese d10s04_801e3361:
 
     # vw "Welcome [mcname]. Of course, I was hoping to see you."
-    vw "Welcome [mcname]. Of course, I was hoping to see you."
+    vw "[mcname]啊，欢迎欢迎。快进来吧，我正想见到你呢。"
 
 # game/code/d10/d10s04.rpy:88
 translate chinese d10s04_6f96b443:
 
     # vw "What's with the luggage? I thought it was your..."
-    vw "What's with the luggage? I thought it was your..."
+    vw "这行李怎么回事？我以为是你……"
 
 # game/code/d10/d10s04.rpy:91
 translate chinese d10s04_e3415ada:
 
     # mc "Sister. Stacy is my sister."
-    mc "Sister. Stacy is my sister."
+    mc "妹妹的。史黛西是我妹妹。"
 
 # game/code/d10/d10s04.rpy:93
 translate chinese d10s04_57ce7edf:
 
     # mc "Friend. Stacy is my friend."
-    mc "Friend. Stacy is my friend."
+    mc "朋友的。史黛西是我朋友。"
 
 # game/code/d10/d10s04.rpy:94
 translate chinese d10s04_63301109:
 
     # vw "Yes - I thought that Stacy was moving in today."
-    vw "Yes - I thought that Stacy was moving in today."
+    vw "嗯嗯--我想着是史黛西今天要搬进来。"
 
 # game/code/d10/d10s04.rpy:96
 translate chinese d10s04_9494bf49:
 
     # mc "Correct. Her luggage was lost earlier this week. I got it back for her."
-    mc "Correct. Her luggage was lost earlier this week. I got it back for her."
+    mc "没错。她行李这周早先时候给搞丢了。我帮她找回来了。"
 
 # game/code/d10/d10s04.rpy:98
 translate chinese d10s04_695bc6dd:
 
     # vw "Oh, nice. Well, don't be a stranger. Come on in!"
-    vw "Oh, nice. Well, don't be a stranger. Come on in!"
+    vw "哦，那就好。好了，别见外了。进来吧！"
 
 # game/code/d10/d10s04.rpy:103
 translate chinese d10s04_6abbae4f:
 
     # vw "Hey, can we talk a minute? Something happened yesterday."
-    vw "Hey, can we talk a minute? Something happened yesterday."
+    vw "嘿，我们能谈谈吗？昨天发生了点事。"
 
 # game/code/d10/d10s04.rpy:104
 translate chinese d10s04_10523e59:
 
     # mc "Sure. Are you okay?"
-    mc "Sure. Are you okay?"
+    mc "当然，你还好吗？"
 
 # game/code/d10/d10s04.rpy:105
 translate chinese d10s04_8f014988:
 
     # vw "Yeah, yeah. It just got me thinking."
-    vw "Yeah, yeah. It just got me thinking."
+    vw "嗯，我人没事。只是脑子不禁在想东西。"
 
 # game/code/d10/d10s04.rpy:107
 translate chinese d10s04_8c3b5748:
 
     # vw "So, I was in the store yesterday and got kinda hot, so I went to the bathroom."
-    vw "So, I was in the store yesterday and got kinda hot, so I went to the bathroom."
+    vw "所以，昨天我本来在店里，突然觉得有点兴奋，就去了洗手间。"
 
 # game/code/d10/d10s04.rpy:108
 translate chinese d10s04_a7fbd990:
 
     # mc "Because you were hot?"
-    mc "Because you were hot?"
+    mc "因为你的兴奋？"
 
 # game/code/d10/d10s04.rpy:109
 translate chinese d10s04_9ce5a9b0:
 
     # vw "Hot and bothered."
-    vw "Hot and bothered."
+    vw "又激动又烦躁。"
 
 # game/code/d10/d10s04.rpy:110
 translate chinese d10s04_f0322620:
 
     # mc "Oh! {w}In a public toilet?"
-    mc "Oh! {w}In a public toilet?"
+    mc "哦！{w}在公共厕所吗？"
 
 # game/code/d10/d10s04.rpy:112
 translate chinese d10s04_672ebc19:
 
     # vw "Well, in the ladies room at the store. It wasn't a porta-john or something."
-    vw "Well, in the ladies room at the store. It wasn't a porta-john or something."
+    vw "嗯，在店里的女厕所里。不像简易厕所之类的地方。"
 
 # game/code/d10/d10s04.rpy:113
 translate chinese d10s04_0cd1477e:
 
     # mc "Still."
-    mc "Still."
+    mc "但总归是厕所对吧。"
 
 # game/code/d10/d10s04.rpy:114
 translate chinese d10s04_7456a197:
 
     # vw "It was perfectly clean. {w}Anyway, so I got in there and undressed."
-    vw "It was perfectly clean. {w}Anyway, so I got in there and undressed."
+    vw "非常干净的。{w}总之，我就进去了，脱了衣服。"
 
 # game/code/d10/d10s04.rpy:115
 translate chinese d10s04_77b9e678:
 
     # mc "As one does when-"
-    mc "As one does when-"
+    mc "是人在厕所都会--"
 
 # game/code/d10/d10s04.rpy:117
 translate chinese d10s04_1a526bff:
 
     # vw "Will you just listen? {w}I'm just getting warmed up when another woman comes in the bathroom."
-    vw "Will you just listen? {w}I'm just getting warmed up when another woman comes in the bathroom."
+    vw "你听我说好吗？{w}我性趣刚上来，洗手间里又进来一个女人。"
 
 # game/code/d10/d10s04.rpy:118
 translate chinese d10s04_2ec74fac:
 
     # mc "She came, or she walked into-"
-    mc "She came, or she walked into-"
+    mc "她进去了，还是说她走进了--"
 
 # game/code/d10/d10s04.rpy:120
 translate chinese d10s04_49c7f0db:
 
     # vw "She burst in, stole my clothes, and ran out!"
-    vw "She burst in, stole my clothes, and ran out!"
+    vw "她突然闯进来，偷了我的衣服，然后跑了出去！"
 
 # game/code/d10/d10s04.rpy:121
 translate chinese d10s04_21e673d7:
 
     # mc "Woah!"
-    mc "Woah!"
+    mc "哇！"
 
 # game/code/d10/d10s04.rpy:123
 translate chinese d10s04_ecd83e23:
 
     # vw "I know, right? {w}Fucking bitch. Next time I see her-"
-    vw "I know, right? {w}Fucking bitch. Next time I see her-"
+    vw "是吧？{w}妈的这个婊子。下次我见到她--"
 
 # game/code/d10/d10s04.rpy:124
 translate chinese d10s04_4d1b4aa7:
 
     # mc "Do you know who she was?"
-    mc "Do you know who she was?"
+    mc "你知道她是谁吗？"
 
 # game/code/d10/d10s04.rpy:126
 translate chinese d10s04_dde90f1b:
 
     # vw "Yeah, some stripper named Samiya. I promise you she hasn't seen the last of me."
-    vw "Yeah, some stripper named Samiya. I promise you she hasn't seen the last of me."
+    vw "知道，一个叫萨米亚的脱衣舞女。我向你保证，她还没看到我厉害的那一面呢。"
 
 # game/code/d10/d10s04.rpy:127
 translate chinese d10s04_998f66ed:
 
     # mc "Weird, because it sounds like she saw all of you."
-    mc "Weird, because it sounds like she saw all of you."
+    mc "奇怪了，因为听起来她好像把你看光了。"
 
 # game/code/d10/d10s04.rpy:128
 translate chinese d10s04_db141c2a:
 
     # vw "Ha ha. Very funny."
-    vw "Ha ha. Very funny."
+    vw "哈哈。很搞笑。"
 
 # game/code/d10/d10s04.rpy:129
 translate chinese d10s04_e3ea0d60:
 
     # mc "Sorry, I'll let you finish."
-    mc "Sorry, I'll let you finish."
+    mc "对不起，我让你说完。"
 
 # game/code/d10/d10s04.rpy:131
 translate chinese d10s04_673cbe2e:
 
     # vw "So, I'm sitting there in the ladies room bareass naked and I got to thinking."
-    vw "So, I'm sitting there in the ladies room bareass naked and I got to thinking."
+    vw "所以，我就光着屁股坐在女厕所里，开始思考。"
 
 # game/code/d10/d10s04.rpy:132
 translate chinese d10s04_c357468c:
 
     # vw "I figured I would have to deal with the clothing situation eventually, but I was still hot and naked and..."
-    vw "I figured I would have to deal with the clothing situation eventually, but I was still hot and naked and..."
+    vw "我想我最终还是要解决衣服的问题，但我劲头正盛，还一丝不挂，而且……"
 
 # game/code/d10/d10s04.rpy:133
 translate chinese d10s04_71b9e9fc:
 
     # vw "Anyway, so I got myself all warmed up again and just when I was about to release there was a knock at the door."
-    vw "Anyway, so I got myself all warmed up again and just when I was about to release there was a knock at the door."
+    vw "不管怎么说，我重燃了欲火，就在准备释放的时候，有人敲门了。"
 
 # game/code/d10/d10s04.rpy:134
 translate chinese d10s04_b0fee093:
 
     # mc "That sounds frustrating."
-    mc "That sounds frustrating."
+    mc "这也太令人沮丧了吧。"
 
 # game/code/d10/d10s04.rpy:136
 translate chinese d10s04_856ba74e:
 
     # vw "You have no idea. Anyway, it was the store manager coming to check if I was alright and needed anything."
-    vw "You have no idea. Anyway, it was the store manager coming to check if I was alright and needed anything."
+    vw "你都体会不到。总之，是店长来检查我是否没事，需不需要什么东西。"
 
 # game/code/d10/d10s04.rpy:137
 translate chinese d10s04_58fdbb1a:
 
     # mc "Was this a grocery or a hardware store or?"
-    mc "Was this a grocery or a hardware store or?"
+    mc "这是杂货店还是五金店还是什么？"
 
 # game/code/d10/d10s04.rpy:138
 translate chinese d10s04_3fd65ed3:
 
     # vw "Luckily it was a clothing store. That bitch had stolen my clothes, but at least she left me my purse."
-    vw "Luckily it was a clothing store. That bitch had stolen my clothes, but at least she left me my purse."
+    vw "幸好是服装店。那个婊子偷了我的衣服，但至少她把钱包留给了我。"
 
 # game/code/d10/d10s04.rpy:139
 translate chinese d10s04_054c5ee0:
 
     # mc "I see."
-    mc "I see."
+    mc "明白了。"
 
 # game/code/d10/d10s04.rpy:141
 translate chinese d10s04_800df51b:
 
     # vw "I explained my situation to the manager as best as I could, and he agreed to pick out some clothing that I could buy..."
-    vw "I explained my situation to the manager as best as I could, and he agreed to pick out some clothing that I could buy..."
+    vw "我尽可能地向店长解释了我的情况，他同意帮我挑点可以买的衣服……"
 
 # game/code/d10/d10s04.rpy:142
 translate chinese d10s04_741780f2:
 
     # mc "But he wanted something in return?"
-    mc "But he wanted something in return?"
+    mc "但他想要回报是吗？"
 
 # game/code/d10/d10s04.rpy:143
 translate chinese d10s04_0386d7fd:
 
     # vw "Yep. He didn't say it, but he hinted around that I should jerk him off."
-    vw "Yep. He didn't say it, but he hinted around that I should jerk him off."
+    vw "没错。他没说出来，但有暗示我该给他打飞机。"
 
 # game/code/d10/d10s04.rpy:144
 translate chinese d10s04_43393439:
 
     # mc "Did you?"
-    mc "Did you?"
+    mc "你做了吗？"
 
 # game/code/d10/d10s04.rpy:146
 translate chinese d10s04_59f7e088:
 
     # vw "Of course not! What kind of woman do you think I am?"
-    vw "Of course not! What kind of woman do you think I am?"
+    vw "当然没有！你以为我是什么人啊？"
 
 # game/code/d10/d10s04.rpy:147
 translate chinese d10s04_493b3a12:
 
     # mc "One that was in a desperate situation and needed clothes?"
-    mc "One that was in a desperate situation and needed clothes?"
+    mc "一个走投无路，需要衣服的女人？"
 
 # game/code/d10/d10s04.rpy:148
 translate chinese d10s04_4a651f4b:
 
     # vw "Bah. I had my phone. I could have called someone like you to help me out."
-    vw "Bah. I had my phone. I could have called someone like you to help me out."
+    vw "呸。我有手机。我可以叫你这样的人帮我啊。"
 
 # game/code/d10/d10s04.rpy:150
 translate chinese d10s04_2d8a7c65:
 
     # mc "So, what did you do?"
-    mc "So, what did you do?"
+    mc "所以呢，你做了什么？"
 
 # game/code/d10/d10s04.rpy:151
 translate chinese d10s04_f7dd03dd:
 
     # vw "I just let him jerk off while he looked at me. Then he brought me some clothes."
-    vw "I just let him jerk off while he looked at me. Then he brought me some clothes."
+    vw "我就让他在旁边看我，他自己打了个飞机。然后他给我拿了一些衣服。"
 
 # game/code/d10/d10s04.rpy:152
 translate chinese d10s04_9e791118:
 
     # mc "Did he at least give you a discount on the clothing?"
-    mc "Did he at least give you a discount on the clothing?"
+    mc "他卖衣服至少要给你打折吧?"
 
 # game/code/d10/d10s04.rpy:154
 translate chinese d10s04_1f9efbd8:
 
     # vw "40%% off. Employee special."
-    vw "40%% off. Employee special."
+    vw "四折。员工特价。"
 
 # game/code/d10/d10s04.rpy:155
 translate chinese d10s04_566beecf:
 
     # mc "Nice deal. {w}Still, it sounds like a stressful experience."
-    mc "Nice deal. {w}Still, it sounds like a stressful experience."
+    mc "这交易不错。{w}不过，听起来好像压力很大。"
 
 # game/code/d10/d10s04.rpy:157
 translate chinese d10s04_40511e6c:
 
     # "*knock knock*"
-    "*knock knock*"
+    "*敲门*"
 
 # game/code/d10/d10s04.rpy:159
 translate chinese d10s04_c7d50b36:
 
     # vw "Oh look. Here comes your landlord."
-    vw "Oh look. Here comes your landlord."
+    vw "哦看，你房东来了。"
 
 # game/code/d10/d10s04.rpy:162
 translate chinese d10s04_42bd3d24:
 
     # vw "Hey, can we talk a minute. About what happened yesterday?"
-    vw "Hey, can we talk a minute. About what happened yesterday?"
+    vw "嘿，我们能不能谈一下，关于昨天发生的事？"
 
 # game/code/d10/d10s04.rpy:163
 translate chinese d10s04_9cd26ef6:
 
     # mc "Sure. I'm sorry about that. We both kinda got carried away."
-    mc "Sure. I'm sorry about that. We both kinda got carried away."
+    mc "当然，我很抱歉。我们都有点忘乎所以了。"
 
 # game/code/d10/d10s04.rpy:165
 translate chinese d10s04_577e9da8:
 
     # vw "I know I'm supposed to feel embarrassed and all that, but really..."
-    vw "I know I'm supposed to feel embarrassed and all that, but really..."
+    vw "我知道自己应该感到尴尬的，但说实话……"
 
 # game/code/d10/d10s04.rpy:166
 translate chinese d10s04_f41029aa:
 
     # vw "It was kinda hot."
-    vw "It was kinda hot."
+    vw "还挺性感的。"
 
 # game/code/d10/d10s04.rpy:167
 translate chinese d10s04_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "什么？"
 
 # game/code/d10/d10s04.rpy:169
 translate chinese d10s04_7cbc5af4:
 
     # vw "Getting caught like that. Exposed in public. {w}It was thrilling."
-    vw "Getting caught like that. Exposed in public. {w}It was thrilling."
+    vw "就这样被抓啊。当众暴露。{w}很刺激。"
 
 # game/code/d10/d10s04.rpy:170
 translate chinese d10s04_698d7569:
 
     # mc "Wow."
-    mc "Wow."
+    mc "哇。"
 
 # game/code/d10/d10s04.rpy:172
 translate chinese d10s04_81ae9735:
 
     # vw "I'd like to do more stuff like that... {w}maybe in a slightly safer environment..."
-    vw "I'd like to do more stuff like that... {w}maybe in a slightly safer environment..."
+    vw "我还想再多来点这样的经历……{w}也许在个稍微安全一点的环境中……"
 
 # game/code/d10/d10s04.rpy:173
 translate chinese d10s04_037fbf31:
 
     # vw "Do you think you could arrange something like that for us?"
-    vw "Do you think you could arrange something like that for us?"
+    vw "你觉得可以再为我们俩安排一次这样的机会吗？"
 
 # game/code/d10/d10s04.rpy:174
 translate chinese d10s04_37c39ee1:
 
     # mc "Um, sure. I'll put some thought into it."
-    mc "Um, sure. I'll put some thought into it."
+    mc "呃，当然可以。我会好好考虑的。"
 
 # game/code/d10/d10s04.rpy:176
 translate chinese d10s04_bc74de18:
 
     # vw "Thanks. {w}I want it to feel dangerous, but not be dangerous, understand?"
-    vw "Thanks. {w}I want it to feel dangerous, but not be dangerous, understand?"
+    vw "谢谢。{w}我希望最好是能让人感觉危险，但不是真的危险，你懂吗？"
 
 # game/code/d10/d10s04.rpy:177
 translate chinese d10s04_1e242248:
 
     # mc "Do you mind if we get caught?"
-    mc "Do you mind if we get caught?"
+    mc "你介意我们被抓吗？"
 
 # game/code/d10/d10s04.rpy:179
 translate chinese d10s04_50afc553:
 
     # vw "I'm hoping for it. {w}Just not arrested or worse."
-    vw "I'm hoping for it. {w}Just not arrested or worse."
+    vw "我倒是希望如此。{w}只要不被逮捕或更惨就好。"
 
 # game/code/d10/d10s04.rpy:181
 translate chinese d10s04_40511e6c_1:
 
     # "*knock knock*"
-    "*knock knock*"
+    "*敲门*"
 
 # game/code/d10/d10s04.rpy:183
 translate chinese d10s04_c7d50b36_1:
 
     # vw "Oh look. Here comes your landlord."
-    vw "Oh look. Here comes your landlord."
+    vw "哦看，你房东来了。"
 
 # game/code/d10/d10s04.rpy:186
 translate chinese d10s04_c8b0e594:
 
     # vw "Let me show you around the-"
-    vw "Let me show you around the-"
+    vw "让我带你参观一下--"
 
 # game/code/d10/d10s04.rpy:188
 translate chinese d10s04_40511e6c_2:
 
     # "*knock knock*"
-    "*knock knock*"
+    "*敲门*"
 
 # game/code/d10/d10s04.rpy:190
 translate chinese d10s04_c7d50b36_2:
 
     # vw "Oh look. Here comes your landlord."
-    vw "Oh look. Here comes your landlord."
+    vw "哦看，你房东来了。"
 
 # game/code/d10/d10s04.rpy:193
 translate chinese d10s04_23ac770c:
 
     # mc "How do you know that it's Lyssa?"
-    mc "How do you know that it's Lyssa?"
+    mc "你怎么知道是丽莎？"
 
 # game/code/d10/d10s04.rpy:194
 translate chinese d10s04_c11af91b:
 
     # vw "Lots of experience."
-    vw "Lots of experience."
+    vw "我经验丰富啊。"
 
 # game/code/d10/d10s04.rpy:196
 translate chinese d10s04_f539263a:
 
     # vw "Harris! You look younger each time I see you."
-    vw "Harris! You look younger each time I see you."
+    vw "哈里斯！我每次见到你，你都显得更年轻了。"
 
 # game/code/d10/d10s04.rpy:197
 translate chinese d10s04_a4630ee5:
 
     # mh "Vanessa! As lovely as always."
-    mh "Vanessa! As lovely as always."
+    mh "瓦妮莎！你真是一如既往的可爱。"
 
 # game/code/d10/d10s04.rpy:199
 translate chinese d10s04_bd5286b2:
 
     # mh "Hey [mcname]!"
-    mh "Hey [mcname]!"
+    mh "嘿[mcname]！"
 
 # game/code/d10/d10s04.rpy:200
 translate chinese d10s04_0456c338:
 
     # mc "Heya Lyssa! Good to see you."
-    mc "Heya Lyssa! Good to see you."
+    mc "嘿丽莎！很高兴见到你。"
 
 # game/code/d10/d10s04.rpy:202
 translate chinese d10s04_9a20e6ed:
