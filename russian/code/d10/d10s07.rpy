@@ -318,10 +318,10 @@ translate russian d10s07_93bb8cb4:
     # arj "Oh my... Will you have to do something like that?..."
     arj "О боже... Тебе тоже придется делать что-то подобное?..."
 
-# game/code/d10/d10s07.rpy:101
-translate russian d10s07_34e56ffc:
+# game/code/d10/d10s07.rpy:131
+translate russian d10s07_09f8f56f:
 
-    # mc "No idea... {w}Hopefully I won't have to get assfucked by Anthony."
+    # mc "No idea... {w}Hopefully I won't have to get assfucked by Antony."
     mc "Без понятия... {w}Надеюсь, Энтони не будет трахать меня в зад."
 
 # game/code/d10/d10s07.rpy:103
