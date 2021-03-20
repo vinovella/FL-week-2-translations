@@ -318,10 +318,10 @@ translate italian d10s07_93bb8cb4:
     # arj "Oh my... Will you have to do something like that?..."
     arj "Oh, mio... Non dovrai mica fare qualcosa di simile?!?"
 
-# game/code/d10/d10s07.rpy:101
-translate italian d10s07_34e56ffc:
+# game/code/d10/d10s07.rpy:131
+translate italian d10s07_09f8f56f:
 
-    # mc "No idea... {w}Hopefully I won't have to get assfucked by Anthony."
+    # mc "No idea... {w}Hopefully I won't have to get assfucked by Antony."
     mc "Ancora non lo so... Spero solo di non dover dare il culo a Antony!"
 
 # game/code/d10/d10s07.rpy:103
