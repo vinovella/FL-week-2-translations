@@ -532,7 +532,7 @@ translate chinese d10s05_replay_492dabb3:
 translate chinese d10s05_replay_c95e99bc:
 
     # sy "Why not? If you and AmRose can go, why can't I?"
-    sy "为什么不行？如果你和爱洛丝都能去，为什么我不能?”"
+    sy "为什么不行？如果你和爱洛丝都能去，为什么我不能?"
 
 # game/code/d10/d10s05.rpy:164
 translate chinese d10s05_replay_80e505d9:
