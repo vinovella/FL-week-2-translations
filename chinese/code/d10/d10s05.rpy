@@ -268,7 +268,7 @@ translate chinese d10s05_ee527b89:
 translate chinese d10s05_40b9eeb4:
 
     # arj "Says here that it's -\n\n{size=26}\"Madewithallnaturalingredientsfreerangeglutenfreenutfreeknowntocausecancerinthestateofcalifornia...\"{/size}"
-    arj "这里说它--\n\n{size=26}\"全部由天然成分制成，无麸质，无坚果，已知在加州无致癌风险……\"{/size}"
+    arj "这里说它--\"全部由天然成分制成，无麸质，无坚果，已知在加州无致癌风险……\""
 
 # game/code/d10/d10s05.rpy:76
 translate chinese d10s05_a53b37b1:
