@@ -652,7 +652,7 @@ translate chinese d08s07_5edadef7:
 translate chinese d08s07_fdd667a1:
 
     # mes "Your boyfriend was just trying to distract me."
-    mes 你男朋友只是想让我分心。"
+    mes "你男朋友只是想让我分心。"
 
 # game/code/d08/d08s07.rpy:248
 translate chinese d08s07_e2ceba09:
@@ -927,4 +927,3 @@ translate chinese strings:
     # game/code/d08/d08s07.rpy:88
     old "You're both beautiful"
     new "你们两个都很漂亮"
-

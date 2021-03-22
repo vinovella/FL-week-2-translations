@@ -238,7 +238,7 @@ translate chinese d08s13_bad_38c1c13f:
 translate chinese d08s13_bad_5630f8f2:
 
     # mc "Yeah, okay."
-    mc 啊，好吧。"
+    mc "啊，好吧。"
 
 # game/code/d08/d08s13.rpy:161
 translate chinese d08s13_bad_d11f678e:
@@ -1107,4 +1107,3 @@ translate chinese strings:
     # game/code/d08/d08s13.rpy:141
     old "We would have to decide what to do about that"
     new "我们必须考虑下怎么处理这个问题"
-

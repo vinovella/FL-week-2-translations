@@ -100,7 +100,7 @@ translate chinese d09s05_050a2f60:
 translate chinese d09s05_95214561:
 
     # sb "{i}Exactly.{/i}"
-    sb "{i}嗯哼。/i}"
+    sb "{i}嗯哼。{/i}"
 
 # game/code/d09/d09s05.rpy:69
 translate chinese d09s05_40511e6c:
@@ -799,4 +799,3 @@ translate chinese strings:
     # game/code/d09/d09s05.rpy:472
     old "Cover the whore"
     new "射这婊子身上"
-
