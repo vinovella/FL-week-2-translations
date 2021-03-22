@@ -22,7 +22,7 @@ translate chinese d10s06_70a6f907:
 translate chinese d10s06_53d89f87:
 
     # nk "I missed ya' ugly mug."
-    nk "我真想念你的丑丑的脸。"
+    nk "我真想念你那丑丑的脸。"
 
 # game/code/d10/d10s06.rpy:14
 translate chinese d10s06_d84e1b4d:
@@ -40,7 +40,7 @@ translate chinese d10s06_64c3a576:
 translate chinese d10s06_76a88bce:
 
     # mc "Really? Perish the thought."
-    mc "真的吗？打消念头吧。"
+    mc "我讽刺你吗？才没啊，想什么呢。"
 
 # game/code/d10/d10s06.rpy:19
 translate chinese d10s06_bc9e70b7:
@@ -52,7 +52,7 @@ translate chinese d10s06_bc9e70b7:
 translate chinese d10s06_b349536b:
 
     # mc "Oh, yeah, sorry. Am, this is Nora. Nora, AmRose."
-    mc "哦，是的，对不起。爱洛丝，这是诺拉。诺拉，这是爱洛丝。"
+    mc "哦对，对不起。爱洛丝，这是诺拉。诺拉，这是爱洛丝。"
 
 # game/code/d10/d10s06.rpy:22
 translate chinese d10s06_9e04144e:
@@ -112,7 +112,7 @@ translate chinese d10s06_41bfbbb5:
 translate chinese d10s06_c3ca19dc:
 
     # nk "You got me. But I can't always have you for myself either. I need some outside eye-candy to tide me over when you're not around."
-    nk "你知道我什么意思。我也不能永远拥有你啊。你不在的时候，我需要外面的一些花瓶来帮我渡过难关。"
+    nk "你知道我什么意思。我也不能永远拥有你啊。你不在的时候，我需要外面来点甜点来帮我渡过难关啊。"
 
 # game/code/d10/d10s06.rpy:39
 translate chinese d10s06_c8cf7512:
@@ -298,7 +298,7 @@ translate chinese d10s06_e4e17269:
 translate chinese d10s06_c2734c44:
 
     # arj "Oh, who— Woah, this is really good."
-    arj "哦，是谁--谁想的这主意，真不错。"
+    arj "哦？是谁--谁想的这主意，真不错。"
 
 # game/code/d10/d10s06.rpy:83
 translate chinese d10s06_38cf5d59:
