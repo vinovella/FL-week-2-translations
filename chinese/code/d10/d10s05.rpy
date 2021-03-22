@@ -88,7 +88,7 @@ translate chinese d10s05_30fadbe2:
 translate chinese d10s05_7f5d804e:
 
     # arj "Honestly, this place is great. Get this, the employees don't bother you here!"
-    arj "说实话，这地方很不错。明白了吧，这里的员工不会打扰你的！"
+    arj "说实话，这地方很不错。记住这点就行，这里的员工不会打扰你的！"
 
 # game/code/d10/d10s05.rpy:28
 translate chinese d10s05_84273d2d:
@@ -106,7 +106,7 @@ translate chinese d10s05_9fe69540:
 translate chinese d10s05_8118f02e:
 
     # arj "Or it could mean that they finally realized that no one wants to be bothered while they're picking something."
-    arj "也可以说他们终于意识到，没有顾客在挑选东西的时候愿意被打扰。"
+    arj "也可以说他们终于意识到，没有顾客喜欢在挑选东西的时候被打扰。"
 
 # game/code/d10/d10s05.rpy:33
 translate chinese d10s05_dcd482f6:
@@ -118,7 +118,7 @@ translate chinese d10s05_dcd482f6:
 translate chinese d10s05_75b13580:
 
     # mc "Maybe you just have very antisocial friends?"
-    mc "也许是你朋友都不怎么合群?"
+    mc "也许是你朋友都不怎么合群？"
 
 # game/code/d10/d10s05.rpy:36
 translate chinese d10s05_b213e10a:
@@ -136,7 +136,7 @@ translate chinese d10s05_7967b1e2:
 translate chinese d10s05_c84a8ae8:
 
     # mc "I'm not messing with her! I'm making some very good points here."
-    mc "我没有惹她！我只是提出了自己精彩的观点罢了。"
+    mc "我没惹她！我只是提出自己精彩的观点罢了。"
 
 # game/code/d10/d10s05.rpy:40
 translate chinese d10s05_bd5ab4ea:
@@ -154,7 +154,7 @@ translate chinese d10s05_c85f18c5:
 translate chinese d10s05_bde6a889:
 
     # mc "Well... I mean... There ya' go! That's what I mean by killer counter-argument!"
-    mc "呃…… 我的意思是……就是你这样！这就是我所谓的杀手锏！"
+    mc "呃……我的意思是……就是你这样！这就是我所谓的杀手锏！"
 
 # game/code/d10/d10s05.rpy:45
 translate chinese d10s05_ec745f43:
@@ -196,7 +196,7 @@ translate chinese d10s05_f650e03f:
 translate chinese d10s05_07a0cc00:
 
     # mc "In that case, I could've just come here and gotten something without having to bother you two. Not that I'm complaining, of course."
-    mc "这样的话，我可以自己来这里买东西，也就不用麻烦你们两个了。当然，我不是在抱怨。"
+    mc "这样的话，我可以自己来这里买的，也就不用麻烦你们两个了。当然，我不是在抱怨。"
 
 # game/code/d10/d10s05.rpy:56
 translate chinese d10s05_4cec53b5:
@@ -268,7 +268,7 @@ translate chinese d10s05_ee527b89:
 translate chinese d10s05_40b9eeb4:
 
     # arj "Says here that it's -\n\n{size=26}\"Madewithallnaturalingredientsfreerangeglutenfreenutfreeknowntocausecancerinthestateofcalifornia...\"{/size}"
-    arj "Says here that it's -\n\n{size=26}\"Madewithallnaturalingredientsfreerangeglutenfreenutfreeknowntocausecancerinthestateofcalifornia...\"{/size}"
+    arj "这里说它--\n\n{size=26}\"全部由天然成分制成，无麸质，无坚果，已知在加州无致癌风险……\"{/size}"
 
 # game/code/d10/d10s05.rpy:76
 translate chinese d10s05_a53b37b1:
@@ -280,7 +280,7 @@ translate chinese d10s05_a53b37b1:
 translate chinese d10s05_813176bd:
 
     # arj "Maybe it was founded by somebody named Bruno?"
-    arj "也许是一个叫布鲁诺的人创立的？"
+    arj "也许是个叫布鲁诺的人创立的？"
 
 # game/code/d10/d10s05.rpy:80
 translate chinese d10s05_86addca0:
@@ -292,7 +292,7 @@ translate chinese d10s05_86addca0:
 translate chinese d10s05_0ea7c3e0:
 
     # arj "If Caline Kalin can put his name on underwear, I don't know why poor ol' Bruno can't put his name on this."
-    arj "如果卡琳-卡林能把自己的名字写在内衣上，我不知道为什么可怜的老布鲁诺不能把自己的名字写在这上面。"
+    arj "如果卡灵·卡林能用他自己的名字出售内衣，那我觉得这位布鲁诺将自己的名字写在这上面也无可厚非。"
 
 # game/code/d10/d10s05.rpy:84
 translate chinese d10s05_55f815fd:
@@ -304,13 +304,13 @@ translate chinese d10s05_55f815fd:
 translate chinese d10s05_f9a3b9a3:
 
     # sy "Though, on Caline Kalin's case, one would think he'd make extreme mountain climbing gear instead."
-    sy "不过，就Caline Kalin的情况而言，人们会认为他反而会做极限登山装备。"
+    sy "不过就卡灵·卡林的情况而言，人们反而会以为他要做极限登山装备。"
 
 # game/code/d10/d10s05.rpy:88
 translate chinese d10s05_362276a4:
 
     # arj "Caline Kalin's climbing gear!"
-    arj "Caline Kalin的登山装备！"
+    arj "哈，卡灵·卡林做登山装备！"
 
 # game/code/d10/d10s05.rpy:91
 translate chinese d10s05_b4dd2c87:
@@ -322,7 +322,7 @@ translate chinese d10s05_b4dd2c87:
 translate chinese d10s05_22bc8768:
 
     # sy "That looks pretty cool."
-    sy "看起来挺酷的。"
+    sy "看起来挺不错。"
 
 # game/code/d10/d10s05.rpy:94
 translate chinese d10s05_347fd61c:
@@ -334,7 +334,7 @@ translate chinese d10s05_347fd61c:
 translate chinese d10s05_5c07cd10:
 
     # mc "Seriously? Is this what you two think I should wear to the party?"
-    mc "认真的？你们俩觉得我该穿这个去参加聚会？"
+    mc "认真的？你们俩觉得我该穿这个去参加派对？"
 
 # game/code/d10/d10s05.rpy:96
 translate chinese d10s05_7cf35f29:
@@ -400,7 +400,7 @@ translate chinese d10s05_fac7628a:
 translate chinese d10s05_ed235f64:
 
     # mct "I haven't exactly had time to work out or anything lately what with all the Fetish Locator stuff."
-    mct "最近我还真没时间去锻炼什么的，都是些性趣探测器之类的东西。"
+    mct "最近我还真没时间去锻炼，都在搞性趣探测器之类的东西。"
 
 # game/code/d10/d10s05.rpy:119
 translate chinese d10s05_e97a46c1:
@@ -418,7 +418,7 @@ translate chinese d10s05_replay_2e3c518b:
 translate chinese d10s05_replay_7677a71b:
 
     # sy "Would you like me to oil you up for your competition, Mister Muscle Man?"
-    sy "肌肉男先生，要不要我给你加油，让你参加比赛？"
+    sy "肌肉男先生，要不要我给你加加油，让你参加比赛啊？"
 
 # game/code/d10/d10s05.rpy:132
 translate chinese d10s05_replay_7a1c514c:
@@ -430,7 +430,7 @@ translate chinese d10s05_replay_7a1c514c:
 translate chinese d10s05_replay_b2b759c8:
 
     # sy "Relax, nobody saw me coming in and I didn't see any obvious cameras."
-    sy "别紧张，没人看到我进来，我也没看到任何明显的摄像头。"
+    sy "别紧张，没人看到我进来，我也没看到哪里有明显的摄像头。"
 
 # game/code/d10/d10s05.rpy:135
 translate chinese d10s05_replay_4769afa3:
@@ -442,13 +442,13 @@ translate chinese d10s05_replay_4769afa3:
 translate chinese d10s05_replay_10880304:
 
     # sy "They're gonna have bigger problems than us sneaking in here if they have hidden cameras near the changing area."
-    sy "如果更衣区附近装了隐藏摄像头，那她们的麻烦就比我们偷偷溜进来更大了。"
+    sy "如果更衣区附近装了隐藏摄像头，那他们的麻烦就比我们偷偷溜进来更大了。"
 
 # game/code/d10/d10s05.rpy:138
 translate chinese d10s05_replay_570f40bb:
 
     # mc "What about AmRose? Won't she wonder where you've gone?"
-    mc "那爱洛丝呢？她不会怀疑你去了哪里吗？"
+    mc "爱洛丝呢？她不会怀疑你去了哪里吗？"
 
 # game/code/d10/d10s05.rpy:142
 translate chinese d10s05_replay_e015decc:
@@ -520,7 +520,7 @@ translate chinese d10s05_replay_11455b53:
 translate chinese d10s05_replay_71ca7ce8:
 
     # sy "I want to go to the party with you two. It sounds fun."
-    sy "我想和你们两个一起去参加聚会。听起来很有趣。"
+    sy "我想和你们两个一起去参加派对。听起来很有趣。"
 
 # game/code/d10/d10s05.rpy:161
 translate chinese d10s05_replay_492dabb3:
@@ -532,7 +532,7 @@ translate chinese d10s05_replay_492dabb3:
 translate chinese d10s05_replay_c95e99bc:
 
     # sy "Why not? If you and AmRose can go, why can't I?"
-    sy "为什么不行？如果你和爱洛丝都能去，为什么我不能?"
+    sy "为什么不行？如果你和爱洛丝都能去，为什么我不能？"
 
 # game/code/d10/d10s05.rpy:164
 translate chinese d10s05_replay_80e505d9:
@@ -568,7 +568,7 @@ translate chinese d10s05_replay_69c5dbde:
 translate chinese d10s05_replay_d1cf065e:
 
     # mc "Stacy, if it was any ordinary party, I'd totally be for it, but not this one. And I can't tell you why either. I'm sorry."
-    mc "史黛西，如果是普通的派对，我完全支持，但这次不行。而且我也不能告诉你原因。我很抱歉。"
+    mc "史黛西，如果是普通的派对，我完全支持，但这次不行。而且我也不能告诉你原因。很抱歉。"
 
 # game/code/d10/d10s05.rpy:175
 translate chinese d10s05_replay_2af86f2b:
@@ -598,7 +598,7 @@ translate chinese d10s05_replay_9938916a:
 translate chinese d10s05_replay_d516ba3a:
 
     # ir "For fucks sake, Hana!"
-    ir "真的求求你了，哈娜！"
+    ir "妈的我求求你了，哈娜！"
 
 # game/code/d10/d10s05.rpy:183
 translate chinese d10s05_replay_7dc7e123:
@@ -742,7 +742,7 @@ translate chinese d10s05_replay_2a077dba:
 translate chinese d10s05_replay_d516ba3a_1:
 
     # ir "For fucks sake, Hana!"
-    ir "真的求求你了，哈娜！"
+    ir "妈的我求求你了，哈娜！"
 
 # game/code/d10/d10s05.rpy:226
 translate chinese d10s05_replay_7dc7e123_1:
@@ -1018,13 +1018,13 @@ translate chinese d10s05_replay_5dbdf822:
 translate chinese d10s05_replay_8e042165:
 
     # mc "Well, I'm not gonna stalk the girl around all night and helicopter parent her, but if I see something, sure I guess."
-    mc "好吧，我可不会哈娜整晚跟踪她，也不会事事干涉她，但如果我看到什么的话，倒是可以保护她。"
+    mc "好吧，我可不会花整晚跟踪她，也不会事事干涉她，但如果我看到什么的话，倒是可以保护她。"
 
 # game/code/d10/d10s05.rpy:311
 translate chinese d10s05_replay_41dae5b4:
 
     # hr "That's fine. Just, make sure that she's safe and doesn't get into anything that she can't handle. She's... prickly, at times."
-    hr "那就好。只要确保她的安全，别惹上什么她处理不了的事情。她有时会……很挑剔。"
+    hr "那就好。只要确保她的安全，别惹上什么她处理不了的事。她有时会……很容易发火。"
 
 # game/code/d10/d10s05.rpy:312
 translate chinese d10s05_replay_3df311b7:
@@ -1114,7 +1114,7 @@ translate chinese d10s05_replay_e93e4ce9:
 translate chinese d10s05_replay_473709e8:
 
     # ir "Who is he anyway? Do I know him?"
-    ir "他到底是谁？我认识他吗？"
+    ir "他到底是谁？我认识吗？"
 
 # game/code/d10/d10s05.rpy:336
 translate chinese d10s05_replay_d6a064cf:
@@ -1168,13 +1168,13 @@ translate chinese d10s05_replay_b9aa47c5:
 translate chinese d10s05_replay_3c369a6b:
 
     # sy "...I couldn't believe it. It just went on and on up in there. Coming out, it was like a human-sized version of that magic trick where you pull a mile of handkerchief from your hand."
-    sy "...I couldn't believe it. It just went on and on up in there. Coming out, it was like a human-sized version of that magic trick where you pull a mile of handkerchief from your hand."
+    sy "……一直不断地深入，没停过。出来的时候，就像魔术师表演的那种可以从手里拉出一公里长的手帕那样神奇。"
 
 # game/code/d10/d10s05.rpy:349
 translate chinese d10s05_replay_29944307:
 
     # arj "Wow, how can the human body even do that?"
-    arj "哇，人体怎么能做到这一点的?"
+    arj "哇，人体怎么能做到这一点的？"
 
 # game/code/d10/d10s05.rpy:351
 translate chinese d10s05_replay_161c2eee:
@@ -1186,7 +1186,7 @@ translate chinese d10s05_replay_161c2eee:
 translate chinese d10s05_replay_55ba978a:
 
     # sy "No idea. I wanted to look away, but I couldn't. It was like I was transfixed. And I still haven't even gotten through his whole collection yet!"
-    sy "不知道。我想移开视线，但做不到啊。我好像被定住了。我还没看完他的全部收藏呢！"
+    sy "不知道。我想移开视线，但做不到啊。好像被定住了一样。我还没看完他的全部收藏呢！"
 
 # game/code/d10/d10s05.rpy:353
 translate chinese d10s05_replay_5e8fc26b:
@@ -1198,7 +1198,7 @@ translate chinese d10s05_replay_5e8fc26b:
 translate chinese d10s05_replay_56d99367:
 
     # arj "He might look like a normal enough guy on the outside, but he's a real degenerate when the lights are off, huh?"
-    arj "他可能外表看起来是个正常人，但灯一关他就堕落了，对吧?"
+    arj "他可能外表看起来是个正常人，但灯一关人就堕落了，对吧？"
 
 # game/code/d10/d10s05.rpy:356
 translate chinese d10s05_replay_24e0ee82:
@@ -1222,13 +1222,13 @@ translate chinese d10s05_replay_645ee322:
 translate chinese d10s05_replay_2d15a8a8:
 
     # sy "Having seen some of the stuff in there, I'm sure you'd love it if we double-teamed you."
-    sy "我已经看过里面的东西了，我相信我们联合起来，你一定会喜欢的。"
+    sy "我已经看过里面的东西了，我相信如果我们联合起来，你一定会喜欢的。"
 
 # game/code/d10/d10s05.rpy:362
 translate chinese d10s05_replay_d279fb9c:
 
     # mc "This is very unfair, y'know. I'm sure I'd find some very interesting stuff if I had a look at your porn collections."
-    mc "这很不公平，你知道吗？如果我看过你的色情收藏，我肯定也会发现好玩的东西的。"
+    mc "这很不公平，你知道吗？如果我看过你收藏的黄片，我肯定也会发现好玩的东西的。"
 
 # game/code/d10/d10s05.rpy:363
 translate chinese d10s05_replay_14bb84b3:
@@ -1300,7 +1300,7 @@ translate chinese d10s05_replay_e248f645:
 translate chinese d10s05_replay_9d2e92e0:
 
     # sy "Actually, I think I'm just gonna go back to my apartment. There's still a lot of stuff that needs to be done there, and I'm itching to get right into it."
-    sy "事实上，我还是回我公寓去吧。那儿还有很多东西要处理，我想马上就开始动手。"
+    sy "事实上，我还是回我公寓去吧。那儿还有很多东西要处理，我想尽快回去。"
 
 # game/code/d10/d10s05.rpy:379
 translate chinese d10s05_replay_a7d4b58c:
@@ -1318,7 +1318,7 @@ translate chinese d10s05_replay_89ff9325:
 translate chinese d10s05_replay_e130d642:
 
     # sy "Yeah, you two go on ahead. My place is only a hop and skip away from here anyway. Oh, and Am, make sure to give me live updates on all the juiciest bits of the party!"
-    sy "是啊，你们两个先去吧。反正我的地方离这很近。哦对了阿姆，记得给我转播派对上的精彩部分！"
+    sy "是啊，你们两个先去吧。反正我的地方离这很近。哦对了小爱，记得给我转播派对上的精彩瞬间！"
 
 # game/code/d10/d10s05.rpy:384
 translate chinese d10s05_replay_a599dae6:
@@ -1366,7 +1366,7 @@ translate chinese d10s05_replay_a1ad1b96:
 translate chinese d10s05_replay_4281c3dc:
 
     # mc "Yeah, it's the first time she's been out on her own, and knowing her, she probably spent countless hours going through \"What you should do when you rent your first apartment!\" articles and is now going to do them."
-    mc "是啊，这是她第一次独自出门。据我对她的了解，她可能哈娜了无数个小时去看 第一次租房时应该注意什么！这种文章，现在才开始真正动手。"
+    mc "是啊，这是她第一次独自出门。据我对她的了解，她可能花了无数个小时去看\"第一次租房时应该注意什么！\"这种文章，然后现在才开始真正动手。"
 
 # game/code/d10/d10s05.rpy:404
 translate chinese d10s05_replay_b69d0ed5:
@@ -1384,7 +1384,7 @@ translate chinese d10s05_replay_48dab64f:
 translate chinese d10s05_replay_ec6ff410:
 
     # mc "Anyway, coffee?"
-    mc "总之，去喝咖啡？"
+    mc "不说她了，我们去喝咖啡？"
 
 # game/code/d10/d10s05.rpy:409
 translate chinese d10s05_replay_69fd61bb:
