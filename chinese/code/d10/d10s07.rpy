@@ -58,7 +58,7 @@ translate chinese d10s07_356acec4:
 translate chinese d10s07_574a13f3:
 
     # mc "No, I think everyone came except for me. Probably just bad luck."
-    mc "也不是，我想除了我之外，大家可能都享受高潮了。可能是我运气不好吧。"
+    mc "也不是，我想除了我之外，大家可能都享受高潮了。只是我运气不好吧。"
 
 # game/code/d10/d10s07.rpy:27
 translate chinese d10s07_8ddb965e:
@@ -70,7 +70,7 @@ translate chinese d10s07_8ddb965e:
 translate chinese d10s07_716f6c35:
 
     # arj "All of them at once. I'm about as terrified of what might happen as I am thrilled at being pushed out there to doing... {w}Whatever I might have to do."
-    arj "同时都有。我对即将发生的事既感到恐惧，又对被逼着去做……感到兴奋。{w}不管今晚我要做什么。"
+    arj "感觉都有。我对即将发生的事既感到恐惧，又对被迫去做……感到兴奋。{w}不管今晚我要做什么。"
 
 # game/code/d10/d10s07.rpy:31
 translate chinese d10s07_b9bfb19d:
@@ -82,7 +82,7 @@ translate chinese d10s07_b9bfb19d:
 translate chinese d10s07_5780cf1c:
 
     # mc "If you find yourself in over-your-head or needing help, find me."
-    mc "如果有什么你觉得无法理解或需要帮助的，来找我。"
+    mc "如果有什么你觉得无法理解或需要帮助的，就来找我。"
 
 # game/code/d10/d10s07.rpy:35
 translate chinese d10s07_18533cf4:
@@ -148,13 +148,13 @@ translate chinese d10s07_6e955937:
 translate chinese d10s07_e544eff7:
 
     # mc "If you find yourself struggling with your duties, just remember that you're mine."
-    mc "如果你发现自己在为自己的职责而挣扎，只要记住你是我的人。"
+    mc "如果你为自己该做什么而犹豫不定，只要记住你是我的人。"
 
 # game/code/d10/d10s07.rpy:53
 translate chinese d10s07_ad09ff19:
 
     # mc "You'll do everything perfectly because you don't want to embarrass me."
-    mc "你会把每件事都做得很完美，因为你不想让我难堪。"
+    mc "你每件事都会做得很完美，因为你不想让我难堪。"
 
 # game/code/d10/d10s07.rpy:54
 translate chinese d10s07_30ab9f82:
@@ -196,7 +196,7 @@ translate chinese d10s07_5e1e1fb9:
 translate chinese d10s07_28b8987d:
 
     # arj "It's a good idea. I'll do that."
-    arj "这是个好主意。我会照做的。"
+    arj "这个提议不错。我会照做的。"
 
 # game/code/d10/d10s07.rpy:65
 translate chinese d10s07_35186331:
@@ -208,7 +208,7 @@ translate chinese d10s07_35186331:
 translate chinese d10s07_bec98df3:
 
     # mct "Last week was fascinating, but this week's Party has me nervous."
-    mct "上周的活动很吸引人，不过这周的派对让我很紧张。"
+    mct "上周的活动很吸引人，不过我很紧张这周的派对。"
 
 # game/code/d10/d10s07.rpy:68
 translate chinese d10s07_d4ee84ca:
@@ -244,7 +244,7 @@ translate chinese d10s07_b0b77813:
 translate chinese d10s07_a57c82f5:
 
     # arj "Naked, wet, and waiting for you?"
-    arj "光着身子，湿漉漉的，等着你吗？"
+    arj "光着身子，浑身湿漉漉的等着你吗？"
 
 # game/code/d10/d10s07.rpy:81
 translate chinese d10s07_f36e5aec:
@@ -268,25 +268,25 @@ translate chinese d10s07_113cf047:
 translate chinese d10s07_bdb9fd89:
 
     # mc "You earned enough points to go to this thing, didn't you?"
-    mc "你赚了足够的点数去参加这个活动，对吧?"
+    mc "你的点数已经足够去参加派对了，对吧？"
 
 # game/code/d10/d10s07.rpy:88
 translate chinese d10s07_9b6bbbfe:
 
     # arj "I don't need any points nor an invite. I have to work there."
-    arj "我不需要任何积点数，也不需要邀请函。我必须去那里工作的。"
+    arj "我不需要任何点数，也不需要邀请函。我必须去那里工作的。"
 
 # game/code/d10/d10s07.rpy:90
 translate chinese d10s07_d12f5f9c:
 
     # mc "Oh. Part of my instructions were to get an invite for myself."
-    mc "哦，给我的指示里有说要自己争取邀请函。"
+    mc "这样啊，但给我的指示里有说要自己争取邀请函。"
 
 # game/code/d10/d10s07.rpy:92
 translate chinese d10s07_a89145b3:
 
     # arj "Weird. I just assumed you would be serving drinks or something like me."
-    arj "真奇怪。我以为你会像我一样到时候端着饮料之类的。"
+    arj "真奇怪。我以为你会像我一样到时候会端着饮料之类的。"
 
 # game/code/d10/d10s07.rpy:93
 translate chinese d10s07_bfddc60e:
@@ -298,7 +298,7 @@ translate chinese d10s07_bfddc60e:
 translate chinese d10s07_2d86e078:
 
     # mc "I have to participate in the main event..."
-    mc "我必须参加主活动……"
+    mc "说我必须参加主活动……"
 
 # game/code/d10/d10s07.rpy:97
 translate chinese d10s07_4e7280bf:
@@ -310,19 +310,19 @@ translate chinese d10s07_4e7280bf:
 translate chinese d10s07_579aab55:
 
     # mc "I have no idea what it will be this week, but last week Min was assfucked by Antony in front of everyone as a main event."
-    mc "我不知道这周会是什么，但上周主活动时，敏被安东尼当着大家的面肏了屁股。"
+    mc "我不知道这周会是什么，但上周主活动时，明被安东尼当着大家的面肏了屁股。"
 
 # game/code/d10/d10s07.rpy:100
 translate chinese d10s07_93bb8cb4:
 
     # arj "Oh my... Will you have to do something like that?..."
-    arj "哦天…… 你会不会也要做这样的事？……"
+    arj "哦天……你会不会也要做这样的事？……"
 
 # game/code/d10/d10s07.rpy:131
 translate chinese d10s07_09f8f56f:
 
     # mc "No idea... {w}Hopefully I won't have to get assfucked by Antony."
-    mc "不知道……{w}希望我不用被安东尼上吧。"
+    mc "不知道……{w}希望我不用被安东尼给上了吧。"
 
 # game/code/d10/d10s07.rpy:103
 translate chinese d10s07_1ef9a628:
@@ -346,7 +346,7 @@ translate chinese d10s07_8334e8fa:
 translate chinese d10s07_06e92e33:
 
     # mc "They cost 50 points. I only have [fl_points], so I'll need to earn [d10s07_points_needed] more."
-    mc "要50个点数。我只有[fl_points]点，所以还需要[d10s07_points_needed]点。"
+    mc "需要50个点数。我只有[fl_points]点，所以还需要[d10s07_points_needed]点。"
 
 # game/code/d10/d10s07.rpy:110
 translate chinese d10s07_4d25d684:
@@ -382,7 +382,7 @@ translate chinese d10s07_d1f3583e:
 translate chinese d10s07_c914fd54:
 
     # mc "I just figured that you-"
-    mc "我只是觉得你--
+    mc "我只是觉得你--"
 
 # game/code/d10/d10s07.rpy:122
 translate chinese d10s07_3f2982de:
@@ -394,19 +394,19 @@ translate chinese d10s07_3f2982de:
 translate chinese d10s07_83fc1b16:
 
     # mc "I'm not asking something. I'm just saying you must have gotten a lot of points for those camgirl sessions last week."
-    mc "我不是要问什么。只是说你上周那些直播视频一定有很多点数。"
+    mc "我不是要问什么。只是想说你上周那些直播视频一定有很多点数。"
 
 # game/code/d10/d10s07.rpy:126
 translate chinese d10s07_40ceab31:
 
     # arj "Oh, yeah. Yeah. That would make sense."
-    arj "哦，嗯嗯。没错。那就说得通了。"
+    arj "啊，对对。没错。你说得有道理。"
 
 # game/code/d10/d10s07.rpy:128
 translate chinese d10s07_c9be2db3:
 
     # mc "Now you've got me wondering..."
-    mc "现在你倒是让我在想……"
+    mc "现在你倒是让我不禁在想……"
 
 # game/code/d10/d10s07.rpy:130
 translate chinese d10s07_3291c4b7:
@@ -418,19 +418,19 @@ translate chinese d10s07_3291c4b7:
 translate chinese d10s07_dcea32d2:
 
     # mct "Now I'm pretty sure I don't believe her."
-    mct "现在我相当确定她的话不可信。"
+    mct "我现在相当确定她的话不可信。"
 
 # game/code/d10/d10s07.rpy:134
 translate chinese d10s07_21db13dd:
 
     # arj "Alright, well. I guess I am clean enough."
-    arj "现在好了。我应该已经够干净了。"
+    arj "好了。我应该已经够干净了。"
 
 # game/code/d10/d10s07.rpy:137
 translate chinese d10s07_68824110:
 
     # mc "Now we can get ready for this shindig."
-    mc "现在我们可以为稍后的派对做准备了。"
+    mc "那我们可以为稍后的派对做准备了。"
 
 # game/code/d10/d10s07.rpy:139
 translate chinese d10s07_7e116f76:
@@ -442,13 +442,13 @@ translate chinese d10s07_7e116f76:
 translate chinese d10s07_23e53b43:
 
     # mc "Gah! I look like I'm going to the The Blue Oyster."
-    mc "哈！我看起来像是要去蓝牡蛎餐厅。"
+    mc "哈！我看起来像是要去蓝牡蛎男同酒吧。"
 
 # game/code/d10/d10s07.rpy:153
 translate chinese d10s07_6031d704:
 
     # arj "Ha! {w}You might discover the best \"Salad\" bar in town!"
-    arj "哈哈！{w}你可能会发现城里最好的\"Salad\" bar in town!"
+    arj "哈哈！{w}你可能会发现城里最好的\"小甜心\" ！"
 
 # game/code/d10/d10s07.rpy:155
 translate chinese d10s07_98274296:
@@ -496,7 +496,7 @@ translate chinese d10s07_0fe433cb:
 translate chinese d10s07_56dbef88:
 
     # arj "Um, good. {w}Is there anything else I should know about tonight?"
-    arj "嗯，那就好。{w}关于今晚还有什么我应该知道的吗？"
+    arj "嗯，那就好。{w}关于今晚还有什么我应该注意的吗？"
 
 # game/code/d10/d10s07.rpy:167
 translate chinese d10s07_9ce7b311:
@@ -526,7 +526,7 @@ translate chinese d10s07_07cae94a:
 translate chinese d10s07_940a0e0d:
 
     # arj "I have sent you [d10s07_points_needed] points."
-    arj "我已经给你发了[d10s07_points_needed] points."
+    arj "我已经给你发了[d10s07_points_needed]点。"
 
 # game/code/d10/d10s07.rpy:179
 translate chinese d10s07_48b721a7:
