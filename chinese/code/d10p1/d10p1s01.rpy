@@ -4,487 +4,487 @@
 translate chinese d10p1s01_27b48bcf:
 
     # "A short walk to Min's house"
-    "A short walk to Min's house"
+    "走了一小段路，到达明家里"
 
 # game/code/d10p1/d10p1s01.rpy:11
 translate chinese d10p1s01_e842f754:
 
     # mc "We're here."
-    mc "We're here."
+    mc "我们到了。"
 
 # game/code/d10p1/d10p1s01.rpy:12
 translate chinese d10p1s01_0ce0d444:
 
     # arj "*nervously* Yay..."
-    arj "*nervously* Yay..."
+    arj "*很紧张* 耶……"
 
 # game/code/d10p1/d10p1s01.rpy:14
 translate chinese d10p1s01_a9c45db1:
 
     # mesfl "Party Time!"
-    mesfl "Party Time!"
+    mesfl "派对时间！"
 
 # game/code/d10p1/d10p1s01.rpy:18
 translate chinese d10p1s01_4e1d671e:
 
     # mc "Hey Squizzle!"
-    mc "Hey Squizzle!"
+    mc "嘿，斯奎兹！"
 
 # game/code/d10p1/d10p1s01.rpy:19
 translate chinese d10p1s01_1cbe095c:
 
     # mesfl "[mclogin], ErikaRed - Welcome to the Party!"
-    mesfl "[mclogin], ErikaRed - Welcome to the Party!"
+    mesfl "[mclogin]，红色埃里卡--欢迎来到派对！"
 
 # game/code/d10p1/d10p1s01.rpy:21
 translate chinese d10p1s01_abcbafa0:
 
     # arj "Hi Min! This place looks awesome!"
-    arj "Hi Min! This place looks awesome!"
+    arj "你好啊明！这地方看起来棒极了!"
 
 # game/code/d10p1/d10p1s01.rpy:23
 translate chinese d10p1s01_4c935e09:
 
     # mesfl "Thank you, but I'm Squizzle."
-    mesfl "Thank you, but I'm Squizzle."
+    mesfl "谢谢了 ，但我是斯奎兹。"
 
 # game/code/d10p1/d10p1s01.rpy:24
 translate chinese d10p1s01_113cf047:
 
     # arj "Huh?"
-    arj "Huh?"
+    arj "啊？"
 
 # game/code/d10p1/d10p1s01.rpy:26
 translate chinese d10p1s01_d6c4fbca:
 
     # mc "Most people use their Fetish names here."
-    mc "Most people use their Fetish names here."
+    mc "这里大多数人都用他们软件里的名字。"
 
 # game/code/d10p1/d10p1s01.rpy:27
 translate chinese d10p1s01_e784665c:
 
     # mc "This is Squizzle; you're ErikaRed."
-    mc "This is Squizzle; you're ErikaRed."
+    mc "她是斯奎兹，你是红色埃里卡。"
 
 # game/code/d10p1/d10p1s01.rpy:28
 translate chinese d10p1s01_268fd8f6:
 
     # arjfl "Oh, okay."
-    arjfl "Oh, okay."
+    arjfl "哦，这样啊。"
 
 # game/code/d10p1/d10p1s01.rpy:30
 translate chinese d10p1s01_29ea27ac:
 
     # mesfl "And he is [mclogin]."
-    mesfl "And he is [mclogin]."
+    mesfl "而他是[mclogin]。"
 
 # game/code/d10p1/d10p1s01.rpy:31
 translate chinese d10p1s01_07b483f2:
 
     # mc "I prefer to just go by [mcname], but..."
-    mc "I prefer to just go by [mcname], but..."
+    mc "我更喜欢用[mcname]，但是……"
 
 # game/code/d10p1/d10p1s01.rpy:32
 translate chinese d10p1s01_01edd8b0:
 
     # mesfl "Nope. It says [mclogin] right here."
-    mesfl "Nope. It says [mclogin] right here."
+    mesfl "不行，这里写着[mclogin]。"
 
 # game/code/d10p1/d10p1s01.rpy:33
 translate chinese d10p1s01_a780415d:
 
     # mc "Sure, but... {w}nevermind."
-    mc "Sure, but... {w}nevermind."
+    mc "是啊，不过……{w}哎，无所谓了。"
 
 # game/code/d10p1/d10p1s01.rpy:35
 translate chinese d10p1s01_eea9b6c5:
 
     # mesfl "Let's see. I have you both down for black Fetish Trackers tonight."
-    mesfl "Let's see. I have you both down for black Fetish Trackers tonight."
+    mesfl "让我看看。今晚我给你俩准备了黑色的情趣追踪器。"
 
 # game/code/d10p1/d10p1s01.rpy:36
 translate chinese d10p1s01_5d688307:
 
     # arjfl "Fitness trackers?"
-    arjfl "Fitness trackers?"
+    arjfl "健身追踪器？"
 
 # game/code/d10p1/d10p1s01.rpy:38
 translate chinese d10p1s01_75f8dae5:
 
     # mesfl "Fetish Trackers. {w}They measure your number of steps, heart rate, orgasms-"
-    mesfl "Fetish Trackers. {w}They measure your number of steps, heart rate, orgasms-"
+    mesfl "情趣追踪器。{w}可以测量你的步数、心率、高潮--"
 
 # game/code/d10p1/d10p1s01.rpy:39
 translate chinese d10p1s01_782646cf:
 
     # mc "Orgasms?"
-    mc "Orgasms?"
+    mc "测高潮？"
 
 # game/code/d10p1/d10p1s01.rpy:41
 translate chinese d10p1s01_f0ed2804:
 
     # mesfl "Oxygen levels, blood pressure, sleep quality... {w}All the bells and whistles."
-    mesfl "Oxygen levels, blood pressure, sleep quality... {w}All the bells and whistles."
+    mesfl "氧气水平啊，血压啊，睡眠质量啊……{{w}还有其他东西。"
 
 # game/code/d10p1/d10p1s01.rpy:42
 translate chinese d10p1s01_e5c0723c:
 
     # mesfl "[mclogin], you were here before. Can you explain the rules to ErikaRed while I pair your devices?"
-    mesfl "[mclogin], you were here before. Can you explain the rules to ErikaRed while I pair your devices?"
+    mesfl "[mclogin]，你以前来过这的。我为你们连接设备时，你能给埃里卡德解释下规则吗？"
 
 # game/code/d10p1/d10p1s01.rpy:44
 translate chinese d10p1s01_68c5df9d:
 
     # mc "Um, sure. As far as I remember."
-    mc "Um, sure. As far as I remember."
+    mc "嗯，当然可以。我记得是这样的。"
 
 # game/code/d10p1/d10p1s01.rpy:45
 translate chinese d10p1s01_adb6833d:
 
     # mc "Some people go by aliases, others use their real names."
-    mc "Some people go by aliases, others use their real names."
+    mc "有些人用化名，有些人用真名。"
 
 # game/code/d10p1/d10p1s01.rpy:47
 translate chinese d10p1s01_5f50d0c2:
 
     # mesfl "So it is best to introduce yourself and allow others to introduce themselves to you."
-    mesfl "So it is best to introduce yourself and allow others to introduce themselves to you."
+    mesfl "所以最好是先介绍自己，然后让别人再自我介绍。"
 
 # game/code/d10p1/d10p1s01.rpy:48
 translate chinese d10p1s01_0f557602:
 
     # arjfl "I see."
-    arjfl "I see."
+    arjfl "我明白了。"
 
 # game/code/d10p1/d10p1s01.rpy:50
 translate chinese d10p1s01_4a215412:
 
     # mc "Let's see. What else? {w}Oh! Clothing is optional, but always keep your mask on."
-    mc "Let's see. What else? {w}Oh! Clothing is optional, but always keep your mask on."
+    mc "让我想想。还有什么？{w}哦！穿什么无所谓，但一定要戴上面具。"
 
 # game/code/d10p1/d10p1s01.rpy:51
 translate chinese d10p1s01_798b90bc:
 
     # arjfl "Really?"
-    arjfl "Really?"
+    arjfl "真的吗？"
 
 # game/code/d10p1/d10p1s01.rpy:52
 translate chinese d10p1s01_890ac7fb:
 
     # mesfl "Really."
-    mesfl "Really."
+    mesfl "嗯哼。"
 
 # game/code/d10p1/d10p1s01.rpy:53
 translate chinese d10p1s01_986a18b8:
 
     # arjfl "Wow, that's... Okay."
-    arjfl "Wow, that's... Okay."
+    arjfl "哇，这么……好吧"
 
 # game/code/d10p1/d10p1s01.rpy:54
 translate chinese d10p1s01_4327fbf8:
 
     # mc "Am I forgetting anything?"
-    mc "Am I forgetting anything?"
+    mc "我是不是忘了什么？"
 
 # game/code/d10p1/d10p1s01.rpy:56
 translate chinese d10p1s01_dd575473:
 
     # mesfl "Yes. The most important rule of them all."
-    mesfl "Yes. The most important rule of them all."
+    mesfl "没错。还是最重要的规则呢。"
 
 # game/code/d10p1/d10p1s01.rpy:57
 translate chinese d10p1s01_3a7256c3:
 
     # mc "Oh, right!"
-    mc "Oh, right!"
+    mc "哦，想起来了！"
 
 # game/code/d10p1/d10p1s01.rpy:58
 translate chinese d10p1s01_f1282f88:
 
     # mc "Don't be a dick."
-    mc "Don't be a dick."
+    mc "别做个混蛋。"
 
 # game/code/d10p1/d10p1s01.rpy:59
 translate chinese d10p1s01_d333ffe1:
 
     # arjfl "Ha!"
-    arjfl "Ha!"
+    arjfl "哈！"
 
 # game/code/d10p1/d10p1s01.rpy:61
 translate chinese d10p1s01_33329805:
 
     # mesfl "Not exactly how I would phrase it, but..."
-    mesfl "Not exactly how I would phrase it, but..."
+    mesfl "换我不会这么说，但是……"
 
 # game/code/d10p1/d10p1s01.rpy:62
 translate chinese d10p1s01_6259245d:
 
     # mc "That's what Mr.D1cky told me last week."
-    mc "That's what Mr.D1cky told me last week."
+    mc "迪克先生上周就这么告诉我的。"
 
 # game/code/d10p1/d10p1s01.rpy:63
 translate chinese d10p1s01_bf701b9e:
 
     # mesfl "Of course he did."
-    mesfl "Of course he did."
+    mesfl "那怪不得了。"
 
 # game/code/d10p1/d10p1s01.rpy:65
 translate chinese d10p1s01_c16118e6:
 
     # arjfl "Who's Mr.D1cky?"
-    arjfl "Who's Mr.D1cky?"
+    arjfl "迪克先生是谁？"
 
 # game/code/d10p1/d10p1s01.rpy:66
 translate chinese d10p1s01_0e876c95:
 
     # mc "Squizzle's cohost. The guy who-"
-    mc "Squizzle's cohost. The guy who-"
+    mc "斯奎兹的搭档。他--"
 
 # game/code/d10p1/d10p1s01.rpy:67
 translate chinese d10p1s01_268fd8f6_1:
 
     # arjfl "Oh, okay."
-    arjfl "Oh, okay."
+    arjfl "哦，知道了。"
 
 # game/code/d10p1/d10p1s01.rpy:68
 translate chinese d10p1s01_33c68717:
 
     # mesfl "Let me rephrase that last rule slightly from what my counterpart told you last week."
-    mesfl "Let me rephrase that last rule slightly from what my counterpart told you last week."
+    mesfl "我来把上周我搭档告诉你的最后一条规则稍微重新表述下。"
 
 # game/code/d10p1/d10p1s01.rpy:70
 translate chinese d10p1s01_62ba59f4:
 
     # mesfl "Tonight's events are all about respect and consent."
-    mesfl "Tonight's events are all about respect and consent."
+    mesfl "今晚所有活动都基于互相尊重和共同许可的基础上。"
 
 # game/code/d10p1/d10p1s01.rpy:71
 translate chinese d10p1s01_84faec87:
 
     # mesfl "Show respect to others, and ensure their consent in all activities."
-    mesfl "Show respect to others, and ensure their consent in all activities."
+    mesfl "必须尊重他人，并且不管做什么，都要确保对方愿意加入。"
 
 # game/code/d10p1/d10p1s01.rpy:72
 translate chinese d10p1s01_4dd885ab:
 
     # arjfl "That is much better."
-    arjfl "That is much better."
+    arjfl "这样说就好多了。"
 
 # game/code/d10p1/d10p1s01.rpy:73
 translate chinese d10p1s01_a1d16746:
 
     # mc "Yeah, I guess that is much clearer."
-    mc "Yeah, I guess that is much clearer."
+    mc "没错，我也觉得这样就清楚多了。"
 
 # game/code/d10p1/d10p1s01.rpy:75
 translate chinese d10p1s01_cbe43492:
 
     # arjfl "Wait a sec- You're Squizzle?!"
-    arjfl "Wait a sec- You're Squizzle?!"
+    arjfl "等一下--你是斯奎兹?!"
 
 # game/code/d10p1/d10p1s01.rpy:76
 translate chinese d10p1s01_dc5c0dbb:
 
     # mesfl "Yes."
-    mesfl "Yes."
+    mesfl "是啊。"
 
 # game/code/d10p1/d10p1s01.rpy:77
 translate chinese d10p1s01_2e06ef89:
 
     # arjfl "You Bitch!"
-    arjfl "You Bitch!"
+    arjfl "你这个婊子！"
 
 # game/code/d10p1/d10p1s01.rpy:79
 translate chinese d10p1s01_91535561:
 
     # mesfl "Excuse me?"
-    mesfl "Excuse me?"
+    mesfl "什么鬼？"
 
 # game/code/d10p1/d10p1s01.rpy:81
 translate chinese d10p1s01_9d47e974:
 
     # mc "AmRose?! What the fuck?"
-    mc "AmRose?! What the fuck?"
+    mc "爱洛丝?! 你干什么？"
 
 # game/code/d10p1/d10p1s01.rpy:83
 translate chinese d10p1s01_cbb7da0f:
 
     # arjfl "Sorry, sorry. I didn't mean that."
-    arjfl "Sorry, sorry. I didn't mean that."
+    arjfl "对不起，对不起。我不是那个意思。"
 
 # game/code/d10p1/d10p1s01.rpy:84
 translate chinese d10p1s01_5694fa99:
 
     # mesfl "Go on."
-    mesfl "Go on."
+    mesfl "继续说。"
 
 # game/code/d10p1/d10p1s01.rpy:85
 translate chinese d10p1s01_e54512a2:
 
     # arjfl "No, no. It's nothing. It's just...{w} You're Squizzle."
-    arjfl "No, no. It's nothing. It's just...{w} You're Squizzle."
+    arjfl "不，不。没什么的。只是……{w}原来你是斯奎兹。"
 
 # game/code/d10p1/d10p1s01.rpy:89
 translate chinese d10p1s01_dc5c0dbb_1:
 
     # mesfl "Yes."
-    mesfl "Yes."
+    mesfl "我是啊。"
 
 # game/code/d10p1/d10p1s01.rpy:90
 translate chinese d10p1s01_4f4fd3a4:
 
     # arjfl "You're the one that keeps winning every fucking challenge."
-    arjfl "You're the one that keeps winning every fucking challenge."
+    arjfl "你就是那个每次挑战都能赢的人。"
 
 # game/code/d10p1/d10p1s01.rpy:91
 translate chinese d10p1s01_23cf215e:
 
     # mesfl "Well, not all of them."
-    mesfl "Well, not all of them."
+    mesfl "嗯，也没有每次都赢。"
 
 # game/code/d10p1/d10p1s01.rpy:93
 translate chinese d10p1s01_691cf7f0:
 
     # mc "And they're not all about fucking."
-    mc "And they're not all about fucking."
+    mc "而且也不是所有的挑战都是关于做爱的。"
 
 # game/code/d10p1/d10p1s01.rpy:94
 translate chinese d10p1s01_054b9f72:
 
     # mesfl "That's not funny."
-    mesfl "That's not funny."
+    mesfl "这一点都不好笑。"
 
 # game/code/d10p1/d10p1s01.rpy:95
 translate chinese d10p1s01_dc0ff26a:
 
     # mc "Sorry."
-    mc "Sorry."
+    mc "对不起。"
 
 # game/code/d10p1/d10p1s01.rpy:96
 translate chinese d10p1s01_2721d4f3:
 
     # arjfl "I just mean... {w}Damn it. Every time I thought I was certain to win..."
-    arjfl "I just mean... {w}Damn it. Every time I thought I was certain to win..."
+    arjfl "我只是说……{w}妈的。每次我都以为我一定会赢……"
 
 # game/code/d10p1/d10p1s01.rpy:98
 translate chinese d10p1s01_103f343f:
 
     # mesfl "Oh, I see."
-    mesfl "Oh, I see."
+    mesfl "哦，我明白了。"
 
 # game/code/d10p1/d10p1s01.rpy:99
 translate chinese d10p1s01_f3308ba7:
 
     # arjfl "Yeah."
-    arjfl "Yeah."
+    arjfl "是啊。"
 
 # game/code/d10p1/d10p1s01.rpy:100
 translate chinese d10p1s01_b3a061e6:
 
     # mesfl "Well, I guess you'll just have to step up your game."
-    mesfl "Well, I guess you'll just have to step up your game."
+    mesfl "好吧，我想你是需要提高你的游戏水平。"
 
 # game/code/d10p1/d10p1s01.rpy:102
 translate chinese d10p1s01_bc5d41ce:
 
     # mc "Squizzle?! What the hell?"
-    mc "Squizzle?! What the hell?"
+    mc "嘿，斯奎兹！说什么呢？"
 
 # game/code/d10p1/d10p1s01.rpy:103
 translate chinese d10p1s01_c17d0644:
 
     # mesfl "What? You expect me to apologize for doing well?"
-    mesfl "What? You expect me to apologize for doing well?"
+    mesfl "怎么，难不成你还指望我因为做得好而道歉吗？"
 
 # game/code/d10p1/d10p1s01.rpy:105
 translate chinese d10p1s01_4a54c6f3:
 
     # mc "No, but-"
-    mc "No, but-"
+    mc "不是，但是--"
 
 # game/code/d10p1/d10p1s01.rpy:106
 translate chinese d10p1s01_54dfd22a:
 
     # arjfl "Yeah, I mean you don't have to be..."
-    arjfl "Yeah, I mean you don't have to be..."
+    arjfl "是啊，你不必……"
 
 # game/code/d10p1/d10p1s01.rpy:108
 translate chinese d10p1s01_68482a54:
 
     # mesfl "What? Are you going to call me a bitch again?"
-    mesfl "What? Are you going to call me a bitch again?"
+    mesfl "怎么？你又要骂我是婊子吗？"
 
 # game/code/d10p1/d10p1s01.rpy:112
 translate chinese d10p1s01_aea12ebe:
 
     # mesfl "Anyway. This is a Fetish Tracker. Among other things, it will track the number of orgasms you experience tonight."
-    mesfl "Anyway. This is a Fetish Tracker. Among other things, it will track the number of orgasms you experience tonight."
+    mesfl "总之。这是个情趣追踪器。除了我刚说的功能外，它还会追踪你今晚经历的高潮次数。"
 
 # game/code/d10p1/d10p1s01.rpy:113
 translate chinese d10p1s01_63db9bb4:
 
     # mesfl "The number of orgasms you experience will determine who participates in the main event at the end of the night."
-    mesfl "The number of orgasms you experience will determine who participates in the main event at the end of the night."
+    mesfl "而玩家经历的高潮次数将决定谁在晚上结束时可以参加主活动。"
 
 # game/code/d10p1/d10p1s01.rpy:114
 translate chinese d10p1s01_c2138384:
 
     # mc "I see. The people with the most orgasms..."
-    mc "I see. The people with the most orgasms..."
+    mc "我明白了。高潮次数最多的人……"
 
 # game/code/d10p1/d10p1s01.rpy:116
 translate chinese d10p1s01_81c58366:
 
     # mesfl "Exactly. Also, there will be prizes awarded, and each big O creates one ticket for entry in the lottery."
-    mesfl "Exactly. Also, there will be prizes awarded, and each big O creates one ticket for entry in the lottery."
+    mesfl "没错。另外还会有奖品，每个大写的O就代表一张以待最后抽奖的彩票。"
 
 # game/code/d10p1/d10p1s01.rpy:117
 translate chinese d10p1s01_e89a8462:
 
     # arjfl "So, all the winners..."
-    arjfl "So, all the winners..."
+    arjfl "也就是说，所有获胜者……"
 
 # game/code/d10p1/d10p1s01.rpy:118
 translate chinese d10p1s01_29b08038:
 
     # mesfl "Will most likely be those who got the most out of the evening's activities."
-    mesfl "Will most likely be those who got the most out of the evening's activities."
+    mesfl "最有可能是那些从今晚活动中获益最多的人。"
 
 # game/code/d10p1/d10p1s01.rpy:120
 translate chinese d10p1s01_2732990d:
 
     # mesfl "Of course, there are also special prizes, like highest BPM or most calories burned."
-    mesfl "Of course, there are also special prizes, like highest BPM or most calories burned."
+    mesfl "当然，还有一些特殊奖项，比如最快心率，以及最多卡路里消耗奖。"
 
 # game/code/d10p1/d10p1s01.rpy:121
 translate chinese d10p1s01_f6df9295:
 
     # mc "Seems like the winners of the main event would win those as well."
-    mc "Seems like the winners of the main event would win those as well."
+    mc "感觉主活动的冠军也会赢得这些奖。"
 
 # game/code/d10p1/d10p1s01.rpy:122
 translate chinese d10p1s01_38e10af8:
 
     # mesfl "It is one prize per person, and there's a hierarchy..."
-    mesfl "It is one prize per person, and there's a hierarchy..."
+    mesfl "每人只能一个奖，而且奖项还有主次之分……"
 
 # game/code/d10p1/d10p1s01.rpy:123
 translate chinese d10p1s01_a52ce348:
 
     # arjfl "Sounds like it is well thought out."
-    arjfl "Sounds like it is well thought out."
+    arjfl "考虑得这么详细嘛。"
 
 # game/code/d10p1/d10p1s01.rpy:126
 translate chinese d10p1s01_11ec28c6:
 
     # mesfl "Right, so, next I need to log your safe words."
-    mesfl "Right, so, next I need to log your safe words."
+    mesfl "好了，那接下来我要记录你们的安全词。"
 
 # game/code/d10p1/d10p1s01.rpy:127
 translate chinese d10p1s01_fe9698d7:
 
     # mc "Safewords? We didn't have those last week."
-    mc "Safewords? We didn't have those last week."
+    mc "安全词？我们上周没有这些啊。"
 
 # game/code/d10p1/d10p1s01.rpy:128
 translate chinese d10p1s01_52c2fcbd:
