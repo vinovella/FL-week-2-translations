@@ -874,7 +874,7 @@ translate chinese d10p1s01_897c2ff8:
 translate chinese d10p1s01_53ed4c98:
 
     # mesfl "The bar and bartender are one floor upstairs."
-    mesfl "酒吧和酒保在楼上一层。"
+    mesfl "酒吧和调酒师在楼上一层。"
 
 # game/code/d10p1/d10p1s01.rpy:240
 translate chinese d10p1s01_17f6797e:
@@ -1030,13 +1030,13 @@ translate chinese d10p1s01_372b72c4:
 translate chinese d10p1s01_c2a59c5a:
 
     # mc "Hmm... {w}She is probably the bartender."
-    mc "嗯……{w}她可能是酒保。"
+    mc "嗯……{w}她可能是调酒师。"
 
 # game/code/d10p1/d10p1s01.rpy:289
 translate chinese d10p1s01_81c5fcf7:
 
     # arjfl "Oh, um... {w}Hi! Are you the bartender?"
-    arjfl "哦，呃……{w}嗨！你是酒保吗？"
+    arjfl "哦，呃……{w}嗨！你是调酒师吗？"
 
 # game/code/d10p1/d10p1s01.rpy:291
 translate chinese d10p1s01_80fe0554:
