@@ -184,7 +184,7 @@ translate chinese d10p1s02_058cdec0:
 translate chinese d10p1s02_4aad109d:
 
     # mc "I mean, I couldn't just stand by and not offer my condolences after hearing of such a brutal assault."
-    mc "我的意思是，在听到你被受这么残忍的对待后，我不能就袖手旁观，不闻不问吧。"
+    mc "我的意思是，在听到你被这么残忍的对待后，我不能就袖手旁观，不闻不问吧。"
 
 # game/code/d10p1/d10p1s02.rpy:83
 translate chinese d10p1s02_3b7ede9a:
@@ -262,7 +262,7 @@ translate chinese d10p1s02_7ed659f5:
 translate chinese d10p1s02_31251cce:
 
     # aw "If that's not your cup of tea, you can also be a sissy. Or a fake transgender woman. Or a real transgender woman if that's who you are, I don't judge."
-    aw "如果你不喜欢这样的话，你也可以做个娘娘腔。或者是假的变性女人。再或者是真的变性女人，假如你是这样的人，我不会做评价的。"
+    aw "如果你不喜欢这样的话，也可以选择做个娘娘腔。或者是假的变性女人。再或者是真的变性女人，假如你是这样的人，我不会做评价的。"
 
 # game/code/d10p1/d10p1s02.rpy:102
 translate chinese d10p1s02_a385d7f5:
@@ -334,7 +334,7 @@ translate chinese d10p1s02_ecf33e86:
 translate chinese d10p1s02_dfa440c0:
 
     # aw "Well, yeah, people {i}here{/i} are into that shit. They're used to it, so they don't really judge. Try talking about this sorta stuff with a normal person."
-    aw "嗯，是啊，{i}这里的{/i}人都喜欢那玩意儿。他们因为已经习惯了，所以不会怎么去评价。你去和正常人聊这种东西试试看。"
+    aw "嗯，是啊，{i}这里的{/i}人都喜欢那玩意儿。因为他们已经习惯了，所以不会怎么去评价。你去和正常人聊这种东西试试看。"
 
 # game/code/d10p1/d10p1s02.rpy:119
 translate chinese d10p1s02_a06801b0:
@@ -454,13 +454,13 @@ translate chinese d10p1s02_51a9adcf:
 translate chinese d10p1s02_d2cacc93:
 
     # aw "Why not? And so what? If they want to go somewhere, we let them. This {i}is{/i} a fetish party after all, they must've expected to see some action here and there. So why not here?"
-    aw "为什么不行？而且那又怎样呢？如果他们想去哪里，就让他们去呗。这{i}毕竟是{/i}个性趣派对，他们肯定明白会看到什么东西的。那为什么不在这里呢？"
+    aw "为什么不行？而且那又怎样呢？如果他们想去哪里，就让他们去呗。这{i}毕竟是{/i}个性趣派对，他们肯定明白会看到什么东西的。那何不就在这开干呢？"
 
 # game/code/d10p1/d10p1s02.rpy:146
 translate chinese d10p1s02_a5589ad2:
 
     # mc "...Well, that's a good point. {w}Sure, why not?"
-    mc "……嗯，说得不错。{w}也是，为什么这里不行呢？"
+    mc "……嗯，说得不错。{w}也是，为什么不在这里呢？"
 
 # game/code/d10p1/d10p1s02.rpy:150
 translate chinese replay_d10p1s02_6c0d68ca:
@@ -718,7 +718,7 @@ translate chinese replay_d10p1s02_4325d4e8:
 translate chinese replay_d10p1s02_af3c9270:
 
     # aw "Thanks. Guess I finally got some cum on my back, eh?"
-    aw "谢谢。看来终于有人在我背后高潮了，嗯？"
+    aw "谢谢。看来终于轮到有人在我背后高潮了，嗯？"
 
 # game/code/d10p1/d10p1s02.rpy:267
 translate chinese replay_d10p1s02_b77688dd:
