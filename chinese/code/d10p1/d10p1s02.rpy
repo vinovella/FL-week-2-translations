@@ -598,7 +598,7 @@ translate chinese replay_d10p1s02_7299eefb:
 translate chinese replay_d10p1s02_5248d153:
 
     # cb "Oh, I, uhm, sorry!"
-    cb " 哦，我，呃，对不起！"
+    cb "哦，我，呃，对不起！"
 
 # game/code/d10p1/d10p1s02.rpy:214
 translate chinese replay_d10p1s02_aed94228:
