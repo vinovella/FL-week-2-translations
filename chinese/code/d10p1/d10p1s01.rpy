@@ -544,7 +544,7 @@ translate chinese d10p1s01_c6be8562:
 translate chinese d10p1s01_7288b39c:
 
     # mesfl "Oh? Like that character in Teen Wolf?"
-    mesfl "哦？ 像《十八岁之狼》里的那个角色？"
+    mesfl "哦？像《十八岁之狼》里的那个角色？"
 
 # game/code/d10p1/d10p1s01.rpy:141
 translate chinese d10p1s01_556b0b48:
@@ -646,7 +646,7 @@ translate chinese d10p1s01_b87b392f:
 translate chinese d10p1s01_bc618bd7:
 
     # arjfl "Um, is anything else expected of me this evening?"
-    arjfl "呃 ，今晚还有什么需要我做的吗？"
+    arjfl "呃，今晚还有什么需要我做的吗？"
 
 # game/code/d10p1/d10p1s01.rpy:164
 translate chinese d10p1s01_38bc1fb9:
@@ -892,7 +892,7 @@ translate chinese d10p1s01_2a1a8f43:
 translate chinese d10p1s01_9a1cd338:
 
     # arjfl "Oh sure, it's all serving drinks and safe words for now..."
-    arjfl "哦，当然了，现在还只是上饮料和安全词……
+    arjfl "哦，当然了，现在还只是上饮料和安全词……"
 
 # game/code/d10p1/d10p1s01.rpy:251
 translate chinese d10p1s01_2d66de35:
