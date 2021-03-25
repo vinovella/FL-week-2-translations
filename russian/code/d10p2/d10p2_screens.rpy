@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-03-09 01:26
+﻿# TODO: Translation updated at 2021-03-26 00:50
 
 translate russian strings:
 
@@ -11,8 +11,8 @@ translate russian strings:
     new "Stop searching"
 
     # game/code/d10p2/d10p2_screens.rpy:15
-    old "Skip"
-    new "Skip"
+    old "Skip{#d10p2s05}"
+    new "Skip{#d10p2s05}"
 
     # game/code/d10p2/d10p2_screens.rpy:20
     old "Skip the free roam"
