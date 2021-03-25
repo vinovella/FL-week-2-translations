@@ -82,7 +82,7 @@ translate chinese d10p1s03_30633c33:
 translate chinese d10p1s03_ad02b196:
 
     # mc "How about \"Injunction\"? Or maybe \"Objection!\"?"
-    mc "\"禁令\"怎么样？或者\"反对！\"行不？"
+    mc "你觉得\"禁令\"怎么样？或者\"反对！\"行不？"
 
 # game/code/d10p1/d10p1s03.rpy:43
 translate chinese d10p1s03_225ad5f9:
@@ -106,7 +106,7 @@ translate chinese d10p1s03_5fe5057f:
 translate chinese d10p1s03_5099b30a:
 
     # mh "What {i}is{/i} this anyway? Fitness tracker?"
-    mh "这{i}到底{/i}是什么？？健身追踪器？"
+    mh "这{i}到底{/i}是什么？健身追踪器吗？"
 
 # game/code/d10p1/d10p1s03.rpy:50
 translate chinese d10p1s03_2d8c54a2:
@@ -130,7 +130,7 @@ translate chinese d10p1s03_9b92ce64:
 translate chinese d10p1s03_2f534521:
 
     # mh "Thank you. I think so too. It's honestly kinda crazy to think that I can even afford something like this these days."
-    mh "谢谢你。我也这么认为。老实说，现在一想到我还能买得起这样的东西，就觉得有点疯狂。"
+    mh "谢谢你。我也这么认为。老实说，现在一想到我竟然能买得起这样的东西，就觉得有点疯狂。"
 
 # game/code/d10p1/d10p1s03.rpy:58
 translate chinese d10p1s03_0cff88d8:
@@ -154,13 +154,13 @@ translate chinese d10p1s03_bde33e9c:
 translate chinese d10p1s03_f9c63d43:
 
     # mh "Yep. Turns out, it's surprisingly hard to get something like this made."
-    mh "是啊，事实证明，要想做这样的东西竟然很难。"
+    mh "是啊，事实证明，订做这样的东西真的很难。"
 
 # game/code/d10p1/d10p1s03.rpy:66
 translate chinese d10p1s03_13e47b11:
 
     # mh "My half-starving collage self would probably have a heart attack if she heard that I spent that much on a dress for a party."
-    mh "我那贫寒交迫的大学时代的自己，如果听说现在的我花了那么多钱就为了买一件派对穿的裙子，估计会心脏病发作吧。"
+    mh "如果换做是大学时代贫寒交迫的那个我，要是听说现在的我花了那么多钱就为了买一件派对穿的裙子，估计会心脏病发作吧。"
 
 # game/code/d10p1/d10p1s03.rpy:68
 translate chinese d10p1s03_a5df7ecc:
@@ -190,7 +190,7 @@ translate chinese d10p1s03_12725267:
 translate chinese d10p1s03_7ae98621:
 
     # mc "Honestly, after I saw your case with that Mr. Moneybags that you absolutely annihilated, I just about thought that you'd get recruited by the Devil."
-    mc "说实话，在我看到你全程碾压那个大款的案子之后，我就差点以为你会被魔鬼招安了。"
+    mc "说实话，在我看到你全程碾压那个大款的案子之后，我差点就以为你会被魔鬼招走，给他干活呢。"
 
 # game/code/d10p1/d10p1s03.rpy:76
 translate chinese d10p1s03_da004acd:
@@ -220,7 +220,7 @@ translate chinese d10p1s03_baac6b57:
 translate chinese d10p1s03_4eef7533:
 
     # mc "You wouldn't believe what I've seen. Let's just say that most of what that book said about him just might be true."
-    mc "说来你也许你不信。只能说，那本书上关于他的大部分描述可能都是真的。"
+    mc "说来你也许不信。我想说，那本书上关于他的大部分描述可能都是真的。"
 
 # game/code/d10p1/d10p1s03.rpy:86
 translate chinese d10p1s03_690dd988:
@@ -232,19 +232,19 @@ translate chinese d10p1s03_690dd988:
 translate chinese d10p1s03_b6d56f98:
 
     # mct "Oh...crap. Might've messed up a little telling her about that."
-    mct "哦……糟糕。跟她说这事可能会有点麻烦。"
+    mct "哦……糟糕。这事告诉她可能会有点麻烦。"
 
 # game/code/d10p1/d10p1s03.rpy:89
 translate chinese d10p1s03_dafaca6d:
 
     # mc "It's just...a friend of mine is in the \"escorting\" business, and she told me some interesting things about him."
-    mc "只是……我一个朋友是做\"小姐"那一行的嘛，她有跟我说一些关于他的趣事。"
+    mc "只是……我一个朋友是做\"小姐\" 那一行的嘛，她有跟我说一些关于他的趣事。"
 
 # game/code/d10p1/d10p1s03.rpy:91
 translate chinese d10p1s03_8eba44e0:
 
     # mh "Oh, yeah. Those rich douchebags are always up to some crazy stuff. {w}I guess after you've experienced everything a normal person can only dream of, you crave stuff a little more...\"out there.\""
-    mh "哦，是啊。那些有钱的人渣尽是做些疯狂的事。{w}想他们是拥有了普通人梦寐以求的一切之后，就会更渴望\"别的东西\"……"
+    mh "哦，是啊。那些有钱的人渣尽是做些疯狂的事。{w}想必他们是拥有了普通人梦寐以求的一切之后，就会更渴望\"别的东西\"吧……"
 
 # game/code/d10p1/d10p1s03.rpy:92
 translate chinese d10p1s03_03f92c12:
@@ -262,19 +262,19 @@ translate chinese d10p1s03_d9acb304:
 translate chinese d10p1s03_d7d0256e:
 
     # mh "You look like Batman's younger cousin, Batlad."
-    mh "你看起来像蝙蝠侠的小表妹，蝙蝠姐。"
+    mh "你看起来像蝙蝠侠的小表弟，年轻版蝙蝠侠。"
 
 # game/code/d10p1/d10p1s03.rpy:97
 translate chinese d10p1s03_0f3df541:
 
     # mc "Right!? Honestly, I think I look like I'm about ready to go to a German gay orgy."
-    mc "对吧!? 老实说，我也觉得自己看起来就像要去参加德国同志狂欢会一样。"
+    mc "对吧!? 老实说，我也觉得自己看起来就像要去参加同志狂欢会一样。"
 
 # game/code/d10p1/d10p1s03.rpy:99
 translate chinese d10p1s03_e0252dc9:
 
     # mh "Ha! I mean, it looks good. I think you look good in it. {i}But{/i}, it does look a little goofy."
-    mh "哈！我是说，看起来还不错。我觉得你穿起来很好看。{i}但是{/i}，它看起来确实有点傻。"
+    mh "哈！我是说，看起来还不错啊。我觉得你穿起来很好看。{i}只不过{/i}，它看起来确实有点傻。"
 
 # game/code/d10p1/d10p1s03.rpy:101
 translate chinese d10p1s03_cc3c687a:
@@ -382,7 +382,7 @@ translate chinese d10p1s03_f5844c67:
 translate chinese d10p1s03_6d2cffbc:
 
     # mh "Thanks, Squizzle."
-    mh "谢谢你，斯奎兹 。"
+    mh "谢谢你，斯奎兹。"
 
 # game/code/d10p1/d10p1s03.rpy:142
 translate chinese d10p1s03_5099b30a_1:
@@ -412,13 +412,13 @@ translate chinese d10p1s03_0d66c2b9:
 translate chinese d10p1s03_e949ae2f:
 
     # mc "Really? Thanks. Honestly, I think I look like I'm about ready to go to a German gay orgy, but if you think it looks good, then it looks good I guess."
-    mc "真的吗？谢啦。老实说，我觉得自己看起来就像要去参加德国同志狂欢一样，但如果你觉得不错，那我想应该就是看起来不错。"
+    mc "真的吗？谢啦。老实说，我觉得自己看起来就像要去参加同志狂欢一样，但如果你觉得不错，那我想我也能接受。"
 
 # game/code/d10p1/d10p1s03.rpy:152
 translate chinese d10p1s03_90c5ad27:
 
     # mh "Well, from a certain view it might look like that, but I think it fits you."
-    mh "嗯，从某种角度看可能的确是这样，但我觉得它适合你。"
+    mh "嗯，从某种角度看确实是像你说的那样，但我觉得它很适合你。"
 
 # game/code/d10p1/d10p1s03.rpy:154
 translate chinese d10p1s03_b96d5156:
@@ -460,7 +460,7 @@ translate chinese d10p1s03_ae637277:
 translate chinese d10p1s03_a4a0b9ae:
 
     # dd "Lyssa, right? I think I met you last time as well, but I have a really crappy memory."
-    dd "你是丽莎，对吧？我上次好像也见过你，但我的记性真的很差。"
+    dd "你是丽莎，对吧？我上次好像也见过你，但我记性真的很差。"
 
 # game/code/d10p1/d10p1s03.rpy:169
 translate chinese d10p1s03_4dcdfd08:
@@ -478,7 +478,7 @@ translate chinese d10p1s03_ffce4833:
 translate chinese d10p1s03_bb0d2977:
 
     # dd "Love the dress, by the way. The way it hugs those curves is {i}fine{/i}."
-    dd "对了，我很喜欢你的裙子。曲线设计的{i}很棒{/i}。"
+    dd "对了，我很喜欢你的裙子。把你的曲线{i}完美{/i}展现出来了。"
 
 # game/code/d10p1/d10p1s03.rpy:173
 translate chinese d10p1s03_ee29d6a3:
@@ -502,7 +502,7 @@ translate chinese d10p1s03_2062984f:
 translate chinese d10p1s03_a7cacf61:
 
     # mc "Yeah... Tell me about it. Who'd've thought that skimpy clothes wouldn't be very insulating?"
-    mc "是啊……可不是嘛。谁能想到这么暴露的衣服不怎么保暖呢？"
+    mc "是啊……可不是嘛。谁能想到这么轻薄的衣服不怎么保暖呢？"
 
 # game/code/d10p1/d10p1s03.rpy:182
 translate chinese d10p1s03_bb2cd00f:
@@ -514,7 +514,7 @@ translate chinese d10p1s03_bb2cd00f:
 translate chinese d10p1s03_358d546b:
 
     # mc "I could get used to this."
-    mc "我会上瘾的。"
+    mc "我会习惯这个的。"
 
 # game/code/d10p1/d10p1s03.rpy:192
 translate chinese d10p1s03_cd7a96d0:
@@ -550,25 +550,25 @@ translate chinese d10p1s03_ecb40e7d:
 translate chinese d10p1s03_2b223a48:
 
     # dd "Looked like it was something a bit more than that, boyo, but alright."
-    dd "看起来明显不止于此啊，伙计，不过还好。"
+    dd "看起来明显不止于此啊，伙计，不过如果你愿意把它看做只是个亲亲的话，随你。"
 
 # game/code/d10p1/d10p1s03.rpy:204
 translate chinese d10p1s03_35447d22:
 
     # mc "You're at a fetish party wearing that costume and you think that a kiss is weird?"
-    mc "你穿着这身衣服参加恋物癖派对，却觉得接吻很奇怪？"
+    mc "你穿着这身衣服参加性趣派对，却觉得接吻很奇怪？"
 
 # game/code/d10p1/d10p1s03.rpy:206
 translate chinese d10p1s03_d0009695:
 
     # dd "Didn't say weird. But come on, anyone with a functional pair of eyes could see that there was something more there. Shit, even one functioning eye would do."
-    dd "没说奇怪。但拜托，只要眼睛正常的人都能看出来这举动里面肯定有事。妈的，哪怕是一只眼睛正常也行。"
+    dd "没说奇怪。但拜托，只要眼睛正常的人都能看出来这绝不只是个亲亲。妈的，哪怕是一只眼睛正常也能看出来啊。"
 
 # game/code/d10p1/d10p1s03.rpy:208
 translate chinese d10p1s03_c68afd25:
 
     # mc "Honestly, I'm not exactly sure what it is either, but I {i}am{/i} happy about where it's going."
-    mc "老实说，我也不清楚是什么意思，但我{i}的确{/i}对接下来的发展走向感到高兴。"
+    mc "老实说，我也不清楚是什么意思，但我{i}的确{/i}很期待接下来的发展走向。"
 
 # game/code/d10p1/d10p1s03.rpy:210
 translate chinese d10p1s03_3f09f30d:
@@ -586,7 +586,7 @@ translate chinese d10p1s03_1959afd2:
 translate chinese d10p1s03_99dc04c0:
 
     # dd "Aw, well, if you two ever need a plus one for something, I'm your girl."
-    dd "啊，好吧，如果你们两个还需要伴的话，我就是你们的新女友了。"
+    dd "啊，好吧，如果你们两个还需要伴的话，我就是你们的新女伴了。"
 
 # game/code/d10p1/d10p1s03.rpy:216
 translate chinese d10p1s03_f3b49da1:
@@ -610,7 +610,7 @@ translate chinese d10p1s03_5791a19e:
 translate chinese d10p1s03_06955e9a:
 
     # dd "I know, right? {w}I wanted to get \"LATEX DOLL DAISY\" on it, but it didn't really work out."
-    dd "我就知道，没错吧？{w}想在上面写上\"乳胶娃娃黛西\" ，但没能成功。"
+    dd "我就知道，没错吧？{w}我本来想在上面写上\"乳胶娃娃黛西\" ，但没能成功。"
 
 # game/code/d10p1/d10p1s03.rpy:223
 translate chinese d10p1s03_9bb39001:
@@ -622,7 +622,7 @@ translate chinese d10p1s03_9bb39001:
 translate chinese d10p1s03_50eba4e4:
 
     # dd "Anyway. I'm gonna go see if I can talk some other people up as well."
-    dd "不管怎样， 我要去看看能不能也说服其他人。"
+    dd "不管怎样，我要去看看能不能勾搭上其他人。"
 
 # game/code/d10p1/d10p1s03.rpy:227
 translate chinese d10p1s03_0df85c65:
@@ -634,7 +634,7 @@ translate chinese d10p1s03_0df85c65:
 translate chinese d10p1s03_94183ee9:
 
     # dd "And lemme know if you ever get yourself into more... \"drinking competitions.\""
-    dd "如果你有机会参加更多的……\"喝酒比赛\"的时候，告诉我一声哈。"
+    dd "如果你今晚还会参加……\"喝东西挑战\"的话，一定要跟我说一声哈。"
 
 # game/code/d10p1/d10p1s03.rpy:231
 translate chinese d10p1s03_57a5abb7:
@@ -646,7 +646,7 @@ translate chinese d10p1s03_57a5abb7:
 translate chinese d10p1s03_a379f5cd:
 
     # dd "Later, gator."
-    dd "再见啦，鳄鱼。"
+    dd "再见啦，漂亮鸡巴先生。"
 
 # game/code/d10p1/d10p1s03.rpy:234
 translate chinese d10p1s03_0419d335:
@@ -670,7 +670,7 @@ translate chinese d10p1s03_2bdd03f8:
 translate chinese d10p1s03_59e95aff:
 
     # mesfl "That doesn't matter.{w} You need a mask, {i}some{/i} sorta mask, or you're not entering."
-    mesfl "那不重要。{w}你需要一个面具，{i}某种程度{/i}上的一个面具。否则你就别想进来。"
+    mesfl "那不重要。{w}你需要一个面具，至少{i}某种程度{/i}要是个面具。否则你就别想进来。"
 
 # game/code/d10p1/d10p1s03.rpy:246
 translate chinese d10p1s03_c1f9730e:
@@ -688,13 +688,13 @@ translate chinese d10p1s03_ccaaf390:
 translate chinese d10p1s03_0e6535f4:
 
     # mct "That is! That's the dude that was following Lyssa around during her case."
-    mct "没错! 就是在丽莎跟进案子期间跟着她的那个老兄。"
+    mct "没错！就是在丽莎跟进案子期间跟着她的那个老兄。"
 
 # game/code/d10p1/d10p1s03.rpy:254
 translate chinese d10p1s03_69839838:
 
     # mct "What was his name again? Oliver something I think."
-    mct "他叫什么名字？奥利弗什么的吧。"
+    mct "他叫什么名字？奥利弗什么的？"
 
 # game/code/d10p1/d10p1s03.rpy:255
 translate chinese d10p1s03_65d0de4e:
@@ -706,7 +706,7 @@ translate chinese d10p1s03_65d0de4e:
 translate chinese d10p1s03_ffdb5cef:
 
     # mct "Eh, I don't want to get tangled up in more Fetish Locator stuff."
-    mct "呃，我不想再被性趣探测器这种事纠缠了。"
+    mct "呃，性趣探测器方面我的事已经够多了，我不想再被这种事纠缠了。"
 
 # game/code/d10p1/d10p1s03.rpy:264
 translate chinese d10p1s03_ac139bc0:
@@ -736,7 +736,7 @@ translate chinese d10p1s03_773cb598:
 translate chinese d10p1s03_83a83eaa:
 
     # op "Can you please explain this to her? The glasses should count! They cover about as much and sometimes even more than some of the other masks I've seen here."
-    op "你能不能跟她解释一下？眼镜应该算数! 它比我在这里看到的其他一些面具遮盖力差不多，甚至比有的面具更强。"
+    op "你能不能跟她解释一下？眼镜应该算数！它和我刚看到其他人戴的面具遮盖力差不多，甚至比有的面具更强。"
 
 # game/code/d10p1/d10p1s03.rpy:281
 translate chinese d10p1s03_b4867282:
@@ -754,7 +754,7 @@ translate chinese d10p1s03_2a2bb6cf:
 translate chinese d10p1s03_8db11bb6:
 
     # mc "That...would probably work. And it's a fetish party, you going shirtless would probably be encouraged!"
-    mc "这……应该可以。而且这是个性趣派对，你不穿衣服还可能会受到鼓励呢！"
+    mc "这……应该可以。而且这是个性趣派对，你不穿衣服可能还会有人赞你呢！"
 
 # game/code/d10p1/d10p1s03.rpy:286
 translate chinese d10p1s03_fb713d22:
@@ -844,13 +844,13 @@ translate chinese d10p1s03_ca1324b9:
 translate chinese d10p1s03_24353198:
 
     # mc "Why wouldn't want her to know that you're here? She's your boss, not your mother. If she can go to places like this, why can't you?"
-    mc "你为什么不想让她知道你在这？她是你老板，又不是你妈妈。既然她能来这样的地方，你为什么不能？"
+    mc "你为什么不想让她知道你在这？她是你老板，又不是你妈。既然她能来这样的地方，你为什么不能？"
 
 # game/code/d10p1/d10p1s03.rpy:310
 translate chinese d10p1s03_bbe51fc4:
 
     # mc "Wait, you {i}are{/i} at least 18, right?"
-    mc "等等，你{i}are{/i}至少18岁了吧？"
+    mc "等等，你{i}起码{/i}满18岁了吧？"
 
 # game/code/d10p1/d10p1s03.rpy:311
 translate chinese d10p1s03_af7078aa:
@@ -880,13 +880,13 @@ translate chinese d10p1s03_ff0a60aa:
 translate chinese d10p1s03_55ea36d9:
 
     # mc "Anyway, why wouldn't Lyssa want you here?"
-    mc "不管怎样，丽莎为什么不想让你来呢？"
+    mc "总之，丽莎为什么不想让你来呢？"
 
 # game/code/d10p1/d10p1s03.rpy:319
 translate chinese d10p1s03_0e091403:
 
     # op "Well, it's not like she wouldn't want me here, it's just that... I don't know, I just don't want her to know that I'm here with her."
-    op "嗯，也不是她不想让我来这，只是……..我说不上来，我只是不想让她知道我也在这。"
+    op "嗯，也不是她不想让我来这，只是……我说不上来，我只是不想让她知道我也在这。"
 
 # game/code/d10p1/d10p1s03.rpy:320
 translate chinese d10p1s03_d3d65c6c:
@@ -916,7 +916,7 @@ translate chinese d10p1s03_f0fdf90a:
 translate chinese d10p1s03_0123072c:
 
     # op "She's confident, she's smart, she's...she's just {i}herself{/i}. And she doesn't care what other people think or say."
-    op "她很自信，很聪明，她……她可以自由做{i}自己{/i}完全不在乎别人怎么想，怎么说。"
+    op "她很自信，很聪明，她……她可以自由做{i}自己{/i}，完全不在乎别人怎么想，怎么说。"
 
 # game/code/d10p1/d10p1s03.rpy:329
 translate chinese d10p1s03_d49279e5:
@@ -928,7 +928,7 @@ translate chinese d10p1s03_d49279e5:
 translate chinese d10p1s03_74edd4cd:
 
     # op "So, I dunno. I just, I was free today and I knew that she was going to the party, so...I thought I'd see what it was about as well."
-    op "所以，哎，不知道了。我只是今天有空，也知道她要来参加聚会，所以……我也想来看看是怎么回事。"
+    op "所以，哎，不知道了。我只是今天有空，也知道她要来参加派对，所以……我也想来看看是怎么回事。"
 
 # game/code/d10p1/d10p1s03.rpy:332
 translate chinese d10p1s03_3868503d:
@@ -940,7 +940,7 @@ translate chinese d10p1s03_3868503d:
 translate chinese d10p1s03_1e2692a9:
 
     # mc "*Sigh* Here."
-    mc "*叹气* 这儿。"
+    mc "*叹气* 给你。"
 
 # game/code/d10p1/d10p1s03.rpy:341
 translate chinese d10p1s03_5369f23f:
@@ -952,7 +952,7 @@ translate chinese d10p1s03_5369f23f:
 translate chinese d10p1s03_2efc4cf2:
 
     # mc "Yep. That's my old mask. {w}You can have it."
-    mc "对，是我的旧面具。{w}它就给你了。"
+    mc "对，是我的旧面具。{w}就给你吧。"
 
 # game/code/d10p1/d10p1s03.rpy:345
 translate chinese d10p1s03_a36bddc6:
@@ -982,7 +982,7 @@ translate chinese d10p1s03_1dc49860:
 translate chinese d10p1s03_4c518291:
 
     # op "Yeah... So... how do these parties work? Do I just go around and talk to people until something happens?"
-    op "是啊……那……这聚会要怎么玩啊？我是不是应该四处走走，跟别人聊聊，直到有什么事发生？
+    op "是啊……那……这派对要怎么玩啊？我是不是应该四处走走，跟别人聊聊，直到有什么事发生？"
 
 # game/code/d10p1/d10p1s03.rpy:355
 translate chinese d10p1s03_8bc37b69:
@@ -1012,7 +1012,7 @@ translate chinese d10p1s03_dfd42eee:
 translate chinese d10p1s03_928c6c95:
 
     # mc "Come on, let's go inside. It's freezing out here. Feel like my tits are just about ready to pierce steel."
-    mc "走吧，我们进去吧。外面好冷啊。感觉我奶头都快要穿透钢铁了。"
+    mc "走吧，我们进去吧。外面好冷啊。感觉我奶头都快要穿透钢筋了。"
 
 # game/code/d10p1/d10p1s03.rpy:363
 translate chinese d10p1s03_cad5d4a6:
@@ -1030,19 +1030,19 @@ translate chinese d10p1s03_83e768e8:
 translate chinese d10p1s03_8ef5b754:
 
     # op "I'm in!"
-    op "奶--？哦，呃，对不起，你说的对，我们进去吧。"
+    op "我上道了嘿！"
 
 # game/code/d10p1/d10p1s03.rpy:369
 translate chinese d10p1s03_66b1e61e:
 
     # mc "Squizzle explained everything you need to know, so just make yourself comfortable."
-    mc "斯奎兹已经向你解释了所有需要注意的地方，所以你就随意吧。"
+    mc "斯奎兹已经跟你解释过所有需要注意的地方，所以你就随意吧。"
 
 # game/code/d10p1/d10p1s03.rpy:371
 translate chinese d10p1s03_e500b8bc:
 
     # op "Oh... Uhm, I think I'll just hang around somewhere then."
-    op "哦……呃，那我就在某个地方转转吧。"
+    op "哦……呃，那我就随便转转吧。"
 
 # game/code/d10p1/d10p1s03.rpy:373
 translate chinese d10p1s03_6e9f17f4:
@@ -1054,7 +1054,7 @@ translate chinese d10p1s03_6e9f17f4:
 translate chinese d10p1s03_336c7ccf:
 
     # op "Oh, uh, no, it's fine. I've bothered you enough. I think I can find my way around from here."
-    op "哦，呃，不用了，没关系的。我已经够麻烦你了。我应该能从这里找到路。"
+    op "哦，呃，不用了，没关系的。我已经够麻烦你了。从现在开始，我自己应该可以的。"
 
 # game/code/d10p1/d10p1s03.rpy:375
 translate chinese d10p1s03_3656a527:
@@ -1090,13 +1090,13 @@ translate chinese d10p1s03_505452aa:
 translate chinese d10p1s03_82e8b2ce:
 
     # mc "See you around, Oliver."
-    mc "再见啦，奥利弗。"
+    mc "待会儿见啊，奥利弗。"
 
 # game/code/d10p1/d10p1s03.rpy:384
 translate chinese d10p1s03_b4c2d08a:
 
     # op "You too!"
-    op "再见！"
+    op "待会儿见！"
 
 # game/code/d10p1/d10p1s03.rpy:392
 translate chinese d10p1s03_f8b34bb9:
@@ -1120,7 +1120,7 @@ translate chinese d10p1s03_a27cf4b2:
 translate chinese d10p1s03_31947fed:
 
     # mc "Sorry. I left my emergency sewing kit at home."
-    mc "对不起，我把我的应急缝纫包忘在家里了。"
+    mc "抱歉了，我把针线盒忘在家里了。"
 
 # game/code/d10p1/d10p1s03.rpy:399
 translate chinese d10p1s03_a33bd600:
@@ -1186,7 +1186,7 @@ translate chinese d10p1s03_0563bbae:
 translate chinese d10p1s03_bb5dfcb5:
 
     # dd "Nah, not right now."
-    dd "不，现在不行。"
+    dd "不，现在不去。"
 
 # game/code/d10p1/d10p1s03.rpy:421
 translate chinese d10p1s03_cd174fee:
@@ -1204,7 +1204,7 @@ translate chinese d10p1s03_a40b2e58_1:
 translate chinese d10p1s03_5d6d40c9:
 
     # dd "Lemme know if you ever get yourself into more... \"drinking competitions\"."
-    dd "如果你还需要喝酒比赛的话，就来找我。\"drinking competitions\"."
+    dd "如果你今晚还参加\"喝东西挑战\"的话，一定要跟我说一声哈。"
 
 # game/code/d10p1/d10p1s03.rpy:427
 translate chinese d10p1s03_57a5abb7_1:
@@ -1220,7 +1220,7 @@ translate chinese strings:
 
     # game/code/d10p1/d10p1s03.rpy:257
     old "Don't bother"
-    new "不要打扰"
+    new "别找事了"
 
     # game/code/d10p1/d10p1s03.rpy:257
     old "See what's going on"
