@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-03-26 12:10
+﻿# TODO: Translation updated at 2021-03-26 20:42
 
 # game/code/labels.rpy:44
 translate chinese end_of_week_302f1a70:
@@ -151,10 +151,10 @@ translate chinese coming_next_9ce1e5cd:
     dd "They love you!"
 
 # game/code/labels.rpy:168
-translate chinese coming_next_3b3db561:
+translate chinese coming_next_de7eb1b3:
 
-    # dd "And I'm sure they'll be more than happy to play once week-2 will be realeased in 2021!"
-    dd "And I'm sure they'll be more than happy to play once week-2 will be realeased in 2021!"
+    # dd "And I'm sure they'll be more than happy to play once week-2 will be released in 2021!"
+    dd "And I'm sure they'll be more than happy to play once week-2 will be released in 2021!"
 
 # game/code/labels.rpy:209
 translate chinese buzz_4377a2f7:
