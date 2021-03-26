@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-03-02 23:31
+﻿# TODO: Translation updated at 2021-03-26 12:10
 
 # game/code/labels.rpy:44
 translate chinese end_of_week_302f1a70:
@@ -37,22 +37,22 @@ translate chinese game_over_dbc7b4ac:
     "Seems like you reached game over. Try to play again and use more fetishes and/or different choices."
 
 # game/code/labels.rpy:90
-translate chinese support_me_19d946e7:
+translate chinese support_me_993b3326:
 
-    # sy "Hey Daisy!"
-    sy "Hey Daisy!"
+    # sy "Hey, Daisy!"
+    sy "Hey, Daisy!"
 
 # game/code/labels.rpy:94
-translate chinese support_me_f51b448d:
+translate chinese support_me_3710a879:
 
-    # dd "Yes sweety?"
-    dd "Yes sweety?"
+    # dd "Yes, sweety?"
+    dd "Yes, sweety?"
 
 # game/code/labels.rpy:98
-translate chinese support_me_4708c011:
+translate chinese support_me_d9b46b90:
 
-    # sy "Do you think he knows?"
-    sy "Do you think he knows?"
+    # sy "Do you think they know?"
+    sy "Do you think they know?"
 
 # game/code/labels.rpy:102
 translate chinese support_me_41e42ee3:
@@ -61,22 +61,22 @@ translate chinese support_me_41e42ee3:
     dd "Who?"
 
 # game/code/labels.rpy:106
-translate chinese support_me_d98a7c41:
+translate chinese support_me_779a284a:
 
-    # sy "Him! The one behind this screen!"
-    sy "Him! The one behind this screen!"
+    # sy "Them! The one behind this screen!"
+    sy "Them! The one behind this screen!"
 
 # game/code/labels.rpy:109
-translate chinese support_me_588733f4:
+translate chinese support_me_002a4473:
 
-    # dd "Knows what?"
-    dd "Knows what?"
+    # dd "Know what?"
+    dd "Know what?"
 
 # game/code/labels.rpy:113
-translate chinese support_me_8900d108:
+translate chinese support_me_a481faf7:
 
-    # sy "Do you think he knows how important his support is to me?"
-    sy "Do you think he knows how important his support is to me?"
+    # sy "Do you think they know how important their support is to me?"
+    sy "Do you think they know how important their support is to me?"
 
 # game/code/labels.rpy:116
 translate chinese support_me_57289a79:
@@ -85,16 +85,16 @@ translate chinese support_me_57289a79:
     dd "Oh my dear! Don't you worry!"
 
 # game/code/labels.rpy:119
-translate chinese support_me_15bd04e6:
+translate chinese support_me_9ce1e5cd:
 
-    # dd "He loves you!"
-    dd "He loves you!"
+    # dd "They love you!"
+    dd "They love you!"
 
 # game/code/labels.rpy:122
-translate chinese support_me_45c4fd11:
+translate chinese support_me_9581c39d:
 
-    # dd "And I'm sure he knows that even a little support means a great deal to you!"
-    dd "And I'm sure he knows that even a little support means a great deal to you!"
+    # dd "And I'm sure they know that even a little support means a great deal to you!"
+    dd "And I'm sure they know that even a little support means a great deal to you!"
 
 # game/code/labels.rpy:136
 translate chinese coming_next_993b3326:
@@ -156,13 +156,13 @@ translate chinese coming_next_3b3db561:
     # dd "And I'm sure they'll be more than happy to play once week-2 will be realeased in 2021!"
     dd "And I'm sure they'll be more than happy to play once week-2 will be realeased in 2021!"
 
-# game/code/labels.rpy:196
+# game/code/labels.rpy:209
 translate chinese buzz_4377a2f7:
 
     # "Bzzzzz" with hpunch
     "Bzzzzz" with hpunch
 
-# game/code/labels.rpy:201
+# game/code/labels.rpy:214
 translate chinese knockknock_a3fe61f9:
 
     # "Knock knock"
