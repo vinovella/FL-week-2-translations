@@ -285,8 +285,8 @@ translate russian coming_next_9ce1e5cd:
     dd "They love you!"
 
 # game/code/labels.rpy:168
-translate russian coming_next_3b3db561:
+translate russian coming_next_de7eb1b3:
 
-    # dd "And I'm sure they'll be more than happy to play once week-2 will be realeased in 2021!"
-    dd "And I'm sure they'll be more than happy to play once week-2 will be realeased in 2021!"
+    # dd "And I'm sure they'll be more than happy to play once week-2 will be released in 2021!"
+    dd "And I'm sure they'll be more than happy to play once week-2 will be released in 2021!"
 
