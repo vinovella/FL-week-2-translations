@@ -172,7 +172,7 @@ translate chinese d10p1s07_5ee76e8c:
 translate chinese d10p1s07_30de2d60:
 
     # mc "That didn't come out right. {w}I just mean that she's young and immature."
-    mc "这话说得不对。{{w}我只是说她还年轻，还不成熟。"
+    mc "这话说得不对。{w}我只是说她还年轻，还不成熟。"
 
 # game/code/d10p1/d10p1s07.rpy:48
 translate chinese d10p1s07_2278c7f0:
