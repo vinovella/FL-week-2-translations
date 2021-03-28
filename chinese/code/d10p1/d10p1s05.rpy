@@ -172,7 +172,7 @@ translate chinese d10p1s05_5693a819:
 translate chinese d10p1s05_f2d1840d:
 
     # cl "Although, you might say I felt more than just her presence deep inside me..."
-    cl ""虽然，你可以说在我内心深处，相比于她，我更在乎的是我自己的存在……"
+    cl "虽然，你可以说在我内心深处，相比于她，我更在乎的是我自己的存在……"
 
 # game/code/d10p1/d10p1s05.rpy:107
 translate chinese d10p1s05_cbe7f073:
@@ -364,7 +364,7 @@ translate chinese d10p1s05_replay_203397c4:
 translate chinese d10p1s05_replay_814b4faa:
 
     # cl "My secret of secrets is hidden away awaiting the touch of my only beloved, but there is a loophole."
-    cl "我那不为人知的秘密，等待着我唯一心爱的人的唤醒，但还有一个漏洞。
+    cl "我那不为人知的秘密，等待着我唯一心爱的人的唤醒，但还有一个漏洞。"
 
 # game/code/d10p1/d10p1s05.rpy:162
 translate chinese d10p1s05_replay_38d0e822:
