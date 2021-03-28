@@ -64,7 +64,7 @@ translate chinese d10p1s07_820f677a:
 translate chinese d10p1s07_950b9b36:
 
     # mc "I don't see my fucking sister."
-    mc " 我没看到我那该死的妹妹！"
+    mc "我没看到我那该死的妹妹！"
 
 # game/code/d10p1/d10p1s07.rpy:22
 translate chinese d10p1s07_84c81437:
@@ -76,7 +76,7 @@ translate chinese d10p1s07_84c81437:
 translate chinese d10p1s07_37d534cf:
 
     # arjfl "Oh, yeah. Stacy-"
-    arjfl "哦，是的。史黛西--"
+    arjfl "哦，是嘛。史黛西--"
 
 # game/code/d10p1/d10p1s07.rpy:25
 translate chinese d10p1s07_7c927b78:
@@ -112,7 +112,7 @@ translate chinese d10p1s07_c4890b1a:
 translate chinese d10p1s07_1bf6b1d3:
 
     # mc "Fine. Whenever you're ready to tell me, I'll be here pounding scotch."
-    mc "好吧。只要你准备好告诉我了，我就会在这里尽情地喝苏格兰威士忌。"
+    mc "好吧。我等你什么时候准备好告诉我，我就在这里尽情喝威士忌。"
 
 # game/code/d10p1/d10p1s07.rpy:34
 translate chinese d10p1s07_dfb01463:
@@ -142,13 +142,13 @@ translate chinese d10p1s07_5b84776c:
 translate chinese d10p1s07_6a61c7f4:
 
     # mc "Stacy has no place at a Party like this, but you told me you would escort her and keep her out of trouble."
-    mc "史黛西在这样的派对上没有地位，但你告诉我你会看着她，不让她惹麻烦。"
+    mc "史黛西根本不应该参加这样的派对，但你告诉我你会看着她，不让她惹麻烦。"
 
 # game/code/d10p1/d10p1s07.rpy:41
 translate chinese d10p1s07_8198d06f:
 
     # arjfl "She's not going to do anything she doesn't want. There are safety-"
-    arjfl "她不会做任何她不想做的事。有安全--"
+    arjfl "她不会碰任何她不想做的事的。有安全--"
 
 # game/code/d10p1/d10p1s07.rpy:42
 translate chinese d10p1s07_d4b80a61:
@@ -232,7 +232,7 @@ translate chinese d10p1s07_58bb9d64:
 translate chinese d10p1s07_3cd0446a:
 
     # arjfl "Considering the way she failed out, Karen probably regrets her entire freshman year."
-    arjfl "考虑到她失败的方式，凯伦可能会后悔整个大一学年。"
+    arjfl "考虑到她后面很糟糕，凯伦可能会后悔整个大一学年吧。"
 
 # game/code/d10p1/d10p1s07.rpy:62
 translate chinese d10p1s07_47be1ef0:
@@ -244,13 +244,13 @@ translate chinese d10p1s07_47be1ef0:
 translate chinese d10p1s07_94f0695b:
 
     # arjfl "For her to hook up with some guy that treats her as a cumrag because he doesn't know any better?"
-    arjfl "让她勾搭上一个视她为废物的男人，因为他不知道更好的东西？"
+    arjfl "你是说让她勾搭上一个视她为废物的男人，因为她就好这一口？"
 
 # game/code/d10p1/d10p1s07.rpy:65
 translate chinese d10p1s07_20ed5c19:
 
     # mc "For fucks' sake, AmRose."
-    mc "靠，怎么就说不通呢，爱洛丝。"
+    mc "靠，怎么就说不通呢，爱洛丝！"
 
 # game/code/d10p1/d10p1s07.rpy:66
 translate chinese d10p1s07_363c589a:
@@ -304,7 +304,7 @@ translate chinese d10p1s07_dec41406:
 translate chinese d10p1s07_15042ac0:
 
     # arjfl "But you can't stop her from doing stupid shit that she wants to do."
-    arjfl "但你不能阻止她做她想做的蠢事。"
+    arjfl "但你不能干涉她去做她想做的事。"
 
 # game/code/d10p1/d10p1s07.rpy:77
 translate chinese d10p1s07_50cf5f91:
@@ -340,7 +340,7 @@ translate chinese d10p1s07_f66f6736:
 translate chinese d10p1s07_ac00b0ba:
 
     # arjfl "And one last hint. {w}She's not in this very room dancing around that stripper pole."
-    arjfl "潘多拉房间到底是什么东西？{w}她不在这个房间里围着那个脱衣舞女跳舞。"
+    arjfl "最后一个提示。{w}她也没在这个房间里围着那个钢管跳舞。"
 
 # game/code/d10p1/d10p1s07.rpy:86
 translate chinese d10p1s07_268e35dc:
