@@ -58,13 +58,13 @@ translate chinese d10p1s06_c7ac1552:
 translate chinese d10p1s06_8d418061:
 
     # mct "She doesn't need to know I'm looking for Stacy."
-    mct "她不需要知道我在找史黛西。"
+    mct "她没必要知道我是在找史黛西。"
 
 # game/code/d10p1/d10p1s06.rpy:40
 translate chinese d10p1s06_8f4d9ae3:
 
     # irfl "I actually checked it out a bit before coming here. It's really cozy. Even the freezing-ass wind doesn't feel too bad."
-    irfl "我在来这里之前已经看过了。这里真的很舒服。即使是刺骨的寒风也不会让人觉得很糟。"
+    irfl "没错，我来这里时已经看过了。这里真的很舒服。即使是刺骨的寒风也不会让人觉得很糟。"
 
 # game/code/d10p1/d10p1s06.rpy:41
 translate chinese d10p1s06_47384cf7:
@@ -82,13 +82,13 @@ translate chinese d10p1s06_c679c7c6:
 translate chinese d10p1s06_c54fb455:
 
     # mc "Heh, more so if this was a normal party. {w}I'd bet more than half the women here would probably be down to flash their tits if you asked nicely enough."
-    mc "呵，如果这是个正常的聚会，那就更不用说了。{w}如果要求地客气点，这里一半以上的女人可能都会露胸。"
+    mc "呵，如果这是个正常的聚会，那就更不用说了。{w}我敢打赌，如果要求地客气点，这里一半以上的女人可能都愿意露胸。"
 
 # game/code/d10p1/d10p1s06.rpy:45
 translate chinese d10p1s06_bc01e6a2:
 
     # mc "So it kinda loses that thrill a bit. {w}Not that getting flashed by a pair of nice tits is ever {i}not{/i} fun."
-    mc "所以那种刺激感反而有所下降了。{w}并不是说眼前一对漂亮的奶子一闪而过就永远{i}没有{/i}乐趣。"
+    mc "所以那种刺激感反而有所下降了。{w}当然也并不是说眼前有白花花的奶子就永远{i}没有{/i}乐趣了。"
 
 # game/code/d10p1/d10p1s06.rpy:47
 translate chinese d10p1s06_23b35e01:
@@ -106,7 +106,7 @@ translate chinese d10p1s06_af29dfbe:
 translate chinese d10p1s06_60bf28e5:
 
     # irfl "Well, don't let me keep you then. I'm sure there are tons of girls running over themselves to flash you."
-    irfl "好吧，那我就不耽误你了。我敢肯定会有无数的女孩跑过来给你看。"
+    irfl "好吧，那我就不耽误你了。我敢肯定会有无数的女孩愿意跑过来给你看。"
 
 # game/code/d10p1/d10p1s06.rpy:50
 translate chinese d10p1s06_8e67e622:
@@ -124,13 +124,13 @@ translate chinese d10p1s06_c2810b49:
 translate chinese d10p1s06_78088978:
 
     # mc "Yeah... Y'know, I really want to shout out my name for some reason right now."
-    mc "是啊……你知道，我现在真想喊出我的名字，没什么原因。"
+    mc "是啊……你知道，也没什么原因，但我现在真想喊出我的名字。"
 
 # game/code/d10p1/d10p1s06.rpy:54
 translate chinese d10p1s06_d070388f:
 
     # mc "Anyway, I better get going. Later, SuperNova."
-    mc "不管怎样，我得走了。再见，超诺娃。"
+    mc "不管怎样，我得走了。再见啦，超诺娃。"
 
 # game/code/d10p1/d10p1s06.rpy:56
 translate chinese d10p1s06_d885e5e5:
@@ -148,7 +148,7 @@ translate chinese d10p1s06_3656a527:
 translate chinese d10p1s06_1bf2ce4e:
 
     # ir "Yeah. I mean, I wasn't {i}too{/i} into anybody knowing my name here, but it's not like this dinky little thing will protect my identity."
-    ir "是啊，我是说，我其实不{i}怎么{/i}喜欢别人在这里知道我的名字，但这东西又不能保护我的身份。"
+    ir "确定啊。我是说，我其实不{i}怎么{/i}喜欢别人在这里知道我的名字，但这东西又不能保护我的身份。"
 
 # game/code/d10p1/d10p1s06.rpy:60
 translate chinese d10p1s06_3fd5220a:
@@ -160,7 +160,7 @@ translate chinese d10p1s06_3fd5220a:
 translate chinese d10p1s06_12d8f1eb:
 
     # ir "But most of the people here seem decent enough, so who cares?"
-    ir "不过这里大多数人看起来都很体面，所以谁会在乎呢？"
+    ir "不过这里大多数人看起来都很体面，所以应该没人要找我吧？"
 
 # game/code/d10p1/d10p1s06.rpy:64
 translate chinese d10p1s06_e200d8eb:
@@ -196,7 +196,7 @@ translate chinese d10p1s06_309fcd75:
 translate chinese d10p1s06_113397f2:
 
     # mc "Squizy's running a pretty tight ship, so I doubt anything {i}bad{/i} would happen, but people seem to get a lot more assholey around the people serving them."
-    mc "斯奎兹的管理相当严格，所以我不认为会发生什么{i}不好的事{/i}，但感觉大家对身边的服务人员都变得更混蛋了。"
+    mc "斯奎兹的管理相当严格，所以我不认为会发生什么{i}不好的事{/i}，但感觉现在的人对自己身边真正需要的人却变得更混蛋了。"
 
 # game/code/d10p1/d10p1s06.rpy:74
 translate chinese d10p1s06_98b91328:
@@ -208,13 +208,13 @@ translate chinese d10p1s06_98b91328:
 translate chinese d10p1s06_461ece48:
 
     # ir "But man, their faces when you tell them to stick it up their collective asses, is just..."
-    ir "但是，当你告诉他们要挺住，他们的脸就……"
+    ir "但是，当我告诉他们去他的自以为是时，你没看到他们的脸……"
 
 # game/code/d10p1/d10p1s06.rpy:77
 translate chinese d10p1s06_4d125c49:
 
     # ir "My boss hates them as well, so I get free rein to just go wild. I love it."
-    ir "我老板也讨厌他们，所以我可以随心所欲地放纵自己，我喜欢这样。"
+    ir "我老板也讨厌他们，所以我可以随心所欲地放纵自己。我喜欢这样。"
 
 # game/code/d10p1/d10p1s06.rpy:78
 translate chinese d10p1s06_08a67d40:
@@ -226,7 +226,7 @@ translate chinese d10p1s06_08a67d40:
 translate chinese d10p1s06_8c882fb3:
 
     # ir "It is. {w}Oh, jeez. Sorry. You were trying to leave and then I dragged you into another conversation."
-    ir "是的。{w}哦,老天。对不起啊，你想离开来着，结果我又把你拖进了另一个话题。"
+    ir "是不错。{w}哦，老天。对不起啊，你想离开来着，结果我又跟你聊起了另一个话题。"
 
 # game/code/d10p1/d10p1s06.rpy:81
 translate chinese d10p1s06_228e2917:
@@ -238,7 +238,7 @@ translate chinese d10p1s06_228e2917:
 translate chinese d10p1s06_4cee5ab5:
 
     # ir "...{i}Exactly{/i}. It's not like you come across girls {i}this{/i} cute every day, right? {w}So would you mind helping me ou—?"
-    ir "……{i}没错{/i}。你又不是每天都能碰到{i}我这么{/i}可爱的女孩，对吧？{w}那你能不能帮我--？"
+    ir "……{i}没错{/i}。毕竟你不是每天都能碰到{i}我这么{/i}可爱的女孩，对吧？{w}那你能不能帮我--？"
 
 # game/code/d10p1/d10p1s06.rpy:83
 translate chinese d10p1s06_71e9a5f2:
@@ -292,7 +292,7 @@ translate chinese replay_d10p1s06_a62ad5f9:
 translate chinese replay_d10p1s06_28452cf4:
 
     # mc "What's going on!? Why's your dick out?"
-    mc "怎么了!? 你鸡巴怎么露出来了？"
+    mc "怎么了吗!? 你鸡巴怎么露出来了？"
 
 # game/code/d10p1/d10p1s06.rpy:111
 translate chinese replay_d10p1s06_296e54b2:
@@ -436,7 +436,7 @@ translate chinese d10p1s06_watch_79dd0e86:
 translate chinese d10p1s06_watch_bad95faa:
 
     # mc "Uhm, Antony is really going at it, huh? Is Chloe alright with this?"
-    mc "呃，安东尼真的要动手了，嗯？克洛伊没问题吧？"
+    mc "呃，看来安东尼真的要上手了，嗯？克洛伊没事吧？"
 
 # game/code/d10p1/d10p1s06.rpy:201
 translate chinese d10p1s06_watch_eedd5a47:
@@ -460,13 +460,13 @@ translate chinese d10p1s06_watch_b12907fb:
 translate chinese d10p1s06_watch_0445b8c4:
 
     # mct "Wow, they are...really going at it."
-    mct "哇，他们……真的要去了。"
+    mct "哇，他们……真的要来了。"
 
 # game/code/d10p1/d10p1s06.rpy:209
 translate chinese d10p1s06_watch_b7cb925c:
 
     # mct "Well... Chloe seems to be fine with it at least. "
-    mct "嗯... 至少克洛伊看起来没什么意见。"
+    mct "嗯……至少克洛伊看起来没什么意见。"
 
 # game/code/d10p1/d10p1s06.rpy:210
 translate chinese d10p1s06_watch_f25641de:
@@ -490,13 +490,13 @@ translate chinese d10p1s06_watch_582deb0f:
 translate chinese d10p1s06_watch_bdc869c8:
 
     # am "Louder, you fat whore!"
-    am "大声点，你这个婊子！"
+    am "大声点，你个死婊子！"
 
 # game/code/d10p1/d10p1s06.rpy:227
 translate chinese d10p1s06_watch_f3ffe386:
 
     # cb "I want you to cum down my throat! Please! I need it!"
-    cb "我要你射到我的喉咙里! 求你了！我很想要！"
+    cb "我要你射到我的喉咙里！求你了！我很想要！"
 
 # game/code/d10p1/d10p1s06.rpy:235
 translate chinese d10p1s06_watch_8f0330f5:
@@ -556,7 +556,7 @@ translate chinese d10p1s06_watch_again_4dafe15c:
 translate chinese d10p1s06_watch_again_484629fc:
 
     # cb "Hey! *Coughs* Help me out here! Where *Coughs* are you going!?"
-    cb "喂！ *咳嗽* 你得帮我啊！*Coughs* 你要去哪里!?"
+    cb "喂！ *咳嗽* 你得帮我啊！*咳嗽* 你要去哪里!?"
 
 # game/code/d10p1/d10p1s06.rpy:283
 translate chinese d10p1s06_watch_again_c7aee2da:
