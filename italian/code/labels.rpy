@@ -218,3 +218,14 @@ translate italian coming_next_de7eb1b3:
     # dd "And I'm sure they'll be more than happy to play once week-2 will be released in 2021!"
     dd "E sono certa che, quando la seconda settimana uscirà nel 2021, sarà più che felice di giocarla!"
 
+# game/code/labels.rpy:158
+translate italian coming_next_9d34f57d:
+
+    # dd "Wait for what?"
+    dd "Aspetterà cosa?"
+    
+# game/code/labels.rpy:165
+translate italian coming_next_57289a79:
+
+    # dd "Oh my dear! Don't you worry!"
+    dd "Oh gioia! Non preoccuparti!"
