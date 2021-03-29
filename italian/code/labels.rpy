@@ -131,101 +131,90 @@ translate italian end_2056bcfe:
 
     # "Special thanks to: Theo Malt, scrumbles, Simfer, owlkc, JEFF72, FlashNewton, Wycd.Wsyd, Da Sechs, Bittersweet1987"
     "Un ringraziamento speciale a: Theo Malt, scrumbles, Simfer, owlkc, JEFF72, FlashNewton, Wycd.Wsyd, Da Sechs, Bittersweet1987"
-# TODO: Translation updated at 2021-03-26 12:17
 
-# game/code/labels.rpy:90
+# TODO: Translation updated at 2021-03-26 21:05
+
+# game/code/labels.rpy:96
 translate italian support_me_993b3326:
 
     # sy "Hey, Daisy!"
-    sy "Hey, Daisy!"
+    sy "Ehi, Daisy!"
 
-# game/code/labels.rpy:94
+# game/code/labels.rpy:100
 translate italian support_me_3710a879:
 
     # dd "Yes, sweety?"
-    dd "Yes, sweety?"
+    dd "Sì, tesoro?"
 
-# game/code/labels.rpy:98
+# game/code/labels.rpy:104
 translate italian support_me_d9b46b90:
 
     # sy "Do you think they know?"
-    sy "Do you think they know?"
+    sy "Pensi che lo sappia?"
 
-# game/code/labels.rpy:106
+# game/code/labels.rpy:112
 translate italian support_me_779a284a:
 
     # sy "Them! The one behind this screen!"
-    sy "Them! The one behind this screen!"
+    sy "Della persona dietro lo schermo!"
 
-# game/code/labels.rpy:109
-translate italian support_me_002a4473:
-
-    # dd "Know what?"
-    dd "Know what?"
-
-# game/code/labels.rpy:113
+# game/code/labels.rpy:119
 translate italian support_me_a481faf7:
 
     # sy "Do you think they know how important their support is to me?"
-    sy "Do you think they know how important their support is to me?"
+    sy "Pensi che sappia quanto sia importante per me il suo aiuto?"
 
-# game/code/labels.rpy:119
+# game/code/labels.rpy:125
 translate italian support_me_9ce1e5cd:
 
     # dd "They love you!"
-    dd "They love you!"
+    dd "Ti adora!"
 
-# game/code/labels.rpy:122
+# game/code/labels.rpy:128
 translate italian support_me_9581c39d:
 
     # dd "And I'm sure they know that even a little support means a great deal to you!"
-    dd "And I'm sure they know that even a little support means a great deal to you!"
+    dd "E sono certa che sappia quanto sia prezioso, per te, anche il più piccolo sostegno!"
 
-# game/code/labels.rpy:136
+# game/code/labels.rpy:142
 translate italian coming_next_993b3326:
 
     # sy "Hey, Daisy!"
-    sy "Hey, Daisy!"
+    sy "Ehi, Daisy!"
 
-# game/code/labels.rpy:140
+# game/code/labels.rpy:146
 translate italian coming_next_3710a879:
 
     # dd "Yes, sweety?"
-    dd "Yes, sweety?"
+    dd "Sì, tesoro?"
 
-# game/code/labels.rpy:144
+# game/code/labels.rpy:150
 translate italian coming_next_54ac3011:
 
     # sy "Do you think they will wait?"
-    sy "Do you think they will wait?"
+    sy "Pensi che aspetterà?"
 
-# game/code/labels.rpy:152
+# game/code/labels.rpy:158
 translate italian coming_next_779a284a:
 
     # sy "Them! The one behind this screen!"
-    sy "Them! The one behind this screen!"
+    sy "Della persona dietro lo schermo!"
 
-# game/code/labels.rpy:159
+# game/code/labels.rpy:165
 translate italian coming_next_20f6580c:
 
     # sy "Wait for the next game update, silly."
-    sy "Wait for the next game update, silly."
+    sy "Su, dico il prossimo episodio del gioco."
 
-# game/code/labels.rpy:162
-translate italian coming_next_61d845dd:
-
-    # dd "Oh, my dear! Don't you worry!"
-    dd "Oh, my dear! Don't you worry!"
-
-# game/code/labels.rpy:165
+# game/code/labels.rpy:171
 translate italian coming_next_9ce1e5cd:
 
     # dd "They love you!"
-    dd "They love you!"
+    dd "Ti adora!"
 
-# game/code/labels.rpy:168
+# game/code/labels.rpy:174
 translate italian coming_next_de7eb1b3:
 
     # dd "And I'm sure they'll be more than happy to play once week-2 will be released in 2021!"
-    dd "And I'm sure they'll be more than happy to play once week-2 will be released in 2021!"
+    dd "E sono certa che, quando la seconda settimana uscirà nel 2021, sarà più che felice di giocarla!"
 
