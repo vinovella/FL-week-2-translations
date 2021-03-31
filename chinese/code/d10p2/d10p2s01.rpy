@@ -16,13 +16,13 @@ translate chinese d10p2s01_81b3b0ab:
 translate chinese d10p2s01_15111b24:
 
     # mc "Yes. {w}Where were you?"
-    mc "没错。{w}你在哪呢？"
+    mc "没错。{w}你在哪呆着呢？"
 
 # game/code/d10p2/d10p2s01.rpy:61
 translate chinese d10p2s01_c10d8e8c:
 
     # sy "Bio break."
-    sy "生物休息。"
+    sy "生理休息呢。"
 
 # game/code/d10p2/d10p2s01.rpy:62
 translate chinese d10p2s01_bbeeb44e:
@@ -34,7 +34,7 @@ translate chinese d10p2s01_bbeeb44e:
 translate chinese d10p2s01_c630a4e6:
 
     # arjfl "She was powdering her nose."
-    arjfl "她在给鼻子上粉。"
+    arjfl "她在给鼻子扑粉。"
 
 # game/code/d10p2/d10p2s01.rpy:64
 translate chinese d10p2s01_bc4fd44d:
@@ -46,19 +46,19 @@ translate chinese d10p2s01_bc4fd44d:
 translate chinese d10p2s01_7fbf05eb:
 
     # irfl "Refreshing in the refresher."
-    irfl "Refreshing in the refresher."
+    irfl "去自己缓了一下。"
 
 # game/code/d10p2/d10p2s01.rpy:67
 translate chinese d10p2s01_52556d99:
 
     # sy "Answering the call of nature."
-    sy "响应大自然的召唤。"
+    sy "回应大自然的召唤。"
 
 # game/code/d10p2/d10p2s01.rpy:68
 translate chinese d10p2s01_e5544801:
 
     # mc "I get it."
-    mc "我明白了。"
+    mc "哦，我明白了。"
 
 # game/code/d10p2/d10p2s01.rpy:70
 translate chinese d10p2s01_6feb6100:
@@ -76,7 +76,7 @@ translate chinese d10p2s01_5f7222d0:
 translate chinese d10p2s01_e0ea0e63:
 
     # sy "You three are all wearing black trackers. Why is my tracker blue?"
-    sy "你们三个戴着的都是黑色追踪器。为什么我的追踪器是蓝色的？"
+    sy "你们三个戴的都是黑色追踪器。为什么我的是蓝色的？"
 
 # game/code/d10p2/d10p2s01.rpy:75
 translate chinese d10p2s01_79809f16:
@@ -190,7 +190,7 @@ translate chinese replay_d10p2s01_a1e2b100:
 translate chinese replay_d10p2s01_b9047ae5:
 
     # mc "I want you to know that I'm not mad at you."
-    mc "我想让你知道，我没生你的气。
+    mc "我想让你知道，我没生你的气。"
 
 # game/code/d10p2/d10p2s01.rpy:168
 translate chinese replay_d10p2s01_8e069de8:
@@ -214,13 +214,13 @@ translate chinese replay_d10p2s01_1f19eee0:
 translate chinese replay_d10p2s01_73deb4bb:
 
     # mc "Still, your actions have consequences."
-    mc "不过，你的行为还是有后果的。"
+    mc "不过，你的行为还是要承担后果的。"
 
 # game/code/d10p2/d10p2s01.rpy:176
 translate chinese replay_d10p2s01_4e29f529:
 
     # mc "This isn't really a punishment.{w} It's just a way you can be nice and make it up to me."
-    mc "这并不是真正的惩罚。{w} 只是你可以对我好一点，补偿我的一种方式。"
+    mc "这并不是真正的惩罚。{w}只是你可以对我好一点，补偿我的一种方式。"
 
 # game/code/d10p2/d10p2s01.rpy:179
 translate chinese replay_d10p2s01_f6452c6e:
@@ -238,7 +238,7 @@ translate chinese replay_d10p2s01_01ecec14:
 translate chinese replay_d10p2s01_5197e1e3:
 
     # mc "So do I."
-    mc "我也是。"
+    mc "我也希望如此。"
 
 # game/code/d10p2/d10p2s01.rpy:184
 translate chinese replay_d10p2s01_39beab30:
@@ -274,13 +274,13 @@ translate chinese replay_d10p2s01_76bf39dd:
 translate chinese replay_d10p2s01_5549b1ae:
 
     # mc "Right, right. {w}Obviously I meant ErikaRed."
-    mc "对，对。{w}当然，我说的是红色埃里卡。"
+    mc "对，对。{w}当然，我说的就是红色埃里卡。"
 
 # game/code/d10p2/d10p2s01.rpy:202
 translate chinese replay_d10p2s01_0a1564c1:
 
     # mct "Ah. This is the Life."
-    mct "啊，这就是生活。"
+    mct "啊，这就是生活啊。"
 
 # game/code/d10p2/d10p2s01.rpy:206
 translate chinese replay_d10p2s01_b8904bb3:
@@ -292,13 +292,13 @@ translate chinese replay_d10p2s01_b8904bb3:
 translate chinese replay_d10p2s01_e32fa69a:
 
     # mc "Hey Terrell. What can I do for you?"
-    mc "嘿，特雷尔。我能为你做什么？"
+    mc "嘿，特雷尔。我能为你做什么吗？"
 
 # game/code/d10p2/d10p2s01.rpy:210
 translate chinese replay_d10p2s01_bc74a8ad:
 
     # tr "Um, uh... {w}It looks like you're busy."
-    tr "嗯，呃……{w}看来你很忙。"
+    tr "嗯，呃……{w}看来你很忙吧。"
 
 # game/code/d10p2/d10p2s01.rpy:212
 translate chinese replay_d10p2s01_e4f8604b:
@@ -316,7 +316,7 @@ translate chinese replay_d10p2s01_29045c5b:
 translate chinese replay_d10p2s01_c63ab54b:
 
     # mct "Just kicking back, sipping my drink, having a conversation while AmRose sucks my dick..."
-    mct "就在爱洛丝给我口交的时候，我们可以踢踢球，喝喝饮料，聊聊天……"
+    mct "就在爱洛丝给我口交的时候，我们可以放松下，喝喝饮料，聊聊天……"
 
 # game/code/d10p2/d10p2s01.rpy:221
 translate chinese replay_d10p2s01_7ae3411c:
@@ -328,7 +328,7 @@ translate chinese replay_d10p2s01_7ae3411c:
 translate chinese replay_d10p2s01_9c9d823e:
 
     # mc "It's a good time for me. What about you, ErikaRed? Do you mind if Terrell and I shoot the shit while you work?"
-    mc "对我来说这是个好时机。红色埃里卡你呢？你介意在你工作的时候，我和特雷尔拍拍屁股走人吗？"
+    mc "对我来说这是个好时机。红色埃里卡你呢？你介意在你干活的时候，我和特雷尔先逛会儿吗？"
 
 # game/code/d10p2/d10p2s01.rpy:227
 translate chinese replay_d10p2s01_343b485e:
@@ -400,7 +400,7 @@ translate chinese replay_d10p2s01_209d1fbe:
 translate chinese replay_d10p2s01_8278dce4:
 
     # mct "Huh. Maria was pretty crazy and suggestible for about a week there."
-    mct "呵，玛丽亚在那里的一个星期里，很疯狂，很容易受到暗示。"
+    mct "呵，玛丽亚上周可是很疯狂呢，耳根很软。"
 
 # game/code/d10p2/d10p2s01.rpy:249
 translate chinese replay_d10p2s01_bea91a5f:
@@ -412,13 +412,13 @@ translate chinese replay_d10p2s01_bea91a5f:
 translate chinese replay_d10p2s01_c6e83769:
 
     # mct "But Maria seems to be coming to her senses and..."
-    mct "但玛利亚好像已经清醒过来了，而且……"
+    mct "但玛丽亚好像已经清醒过来了，而且……"
 
 # game/code/d10p2/d10p2s01.rpy:251
 translate chinese replay_d10p2s01_c6f3c262:
 
     # mct "Although, she did still decide to strip naked and shower with me when she told me she was coming to her senses."
-    mct "不过，当她告诉我她恢复了理智时，还是决定脱光衣服和我一起洗澡了。”"
+    mct "不过，当她告诉我她恢复了理智时，还是决定脱光衣服和我一起洗澡了。"
 
 # game/code/d10p2/d10p2s01.rpy:253
 translate chinese replay_d10p2s01_eb5ad3a1:
@@ -448,7 +448,7 @@ translate chinese replay_d10p2s01_9adf5502:
 translate chinese replay_d10p2s01_d2d8848b:
 
     # tr "I can imagine. I've tried talking her up and trying to... ya'know."
-    tr "我能想象。我试过劝她，想……你知道的。"
+    tr "我能想象得到。我试过劝她的，想……你知道的。"
 
 # game/code/d10p2/d10p2s01.rpy:260
 translate chinese replay_d10p2s01_7a6d6edf:
@@ -556,13 +556,13 @@ translate chinese replay_d10p2s01_690ed523:
 translate chinese replay_d10p2s01_1999dada:
 
     # tr "Cool! You're the best! {w}Do you think you could talk to her tonight?"
-    tr "好啊！你最棒了！{w}你今晚能和她谈谈吗？"
+    tr "好啊！你最棒了！{w}你看今晚能和她谈谈吗？"
 
 # game/code/d10p2/d10p2s01.rpy:292
 translate chinese replay_d10p2s01_84ab5901:
 
     # mc "Woah, woah, woah! {w}I said I'd think about it and MAYBE after I think about it I'll talk to her. I'm not agreeing to anything yet."
-    mc "喔，喔，喔！{w}我说我会考虑一下，也许考虑后我会和她谈谈。我还什么都没同意呢。"
+    mc "喔，喔，喔！{w}我说我会考虑一下，也许考虑完了我会和她谈谈。我还什么都没同意呢。"
 
 # game/code/d10p2/d10p2s01.rpy:293
 translate chinese replay_d10p2s01_2a2ae341:
@@ -592,7 +592,7 @@ translate chinese replay_d10p2s01_9bfaaf14:
 translate chinese replay_d10p2s01_63093fcb:
 
     # tr "Heh, um, no... {w}No thanks."
-    tr "嘿，嗯，不了。{w}不用了，谢谢。"
+    tr "嘿，呃，不了。{w}不用了，谢谢。"
 
 # game/code/d10p2/d10p2s01.rpy:305
 translate chinese replay_d10p2s01_2b2349b4:
@@ -718,7 +718,7 @@ translate chinese replay_d10p2s01_b2b78069:
 translate chinese replay_d10p2s01_5bc8d254:
 
     # arjfl "I don't know. I do kinda want to show off to everyone that you've marked me as yours."
-    arjfl "我不知道。我确实想向大家炫耀，你已经把我标记为你的人了。"
+    arjfl "我不知道。我确实想向大家炫耀，你已经把我收归为你的人了。"
 
 # game/code/d10p2/d10p2s01.rpy:363
 translate chinese replay_d10p2s01_07eef455:
@@ -748,7 +748,7 @@ translate chinese strings:
 
     # game/code/d10p2/d10p2s01.rpy:124
     old "Magic & Mysticism"
-    new "魔法与神秘主义"
+    new "魔法与神秘学"
 
     # game/code/d10p2/d10p2s01.rpy:124
     old "Pandora Room"
@@ -756,7 +756,7 @@ translate chinese strings:
 
     # game/code/d10p2/d10p2s01.rpy:124
     old "Proximity Event"
-    new "Proximity Event"
+    new "近距离活动"
 
     # game/code/d10p2/d10p2s01.rpy:124
     old "Horseback Riding Event"
