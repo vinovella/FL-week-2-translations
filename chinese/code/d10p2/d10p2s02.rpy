@@ -52,19 +52,19 @@ translate chinese d10p2s02_f70a6396:
 translate chinese d10p2s02_29a87e2d:
 
     # "{color=#374980}???{/color}" "Pumping deep with some kind of liquid."
-    "{color=#374980}???{/color}" "随着某种液体深深抽打着。"
+    "{color=#374980}???{/color}" "然后不管是哪种液体，我都想给你洗个澡。"
 
 # game/code/d10p2/d10p2s02.rpy:20
 translate chinese d10p2s02_0aab0a84:
 
     # irfl "You must be a real charmer with the ladies."
-    irfl "女士一定都觉得你很有魅力吧。"
+    irfl "呵呵，女士们一定都觉得你很有魅力吧。"
 
 # game/code/d10p2/d10p2s02.rpy:21
 translate chinese d10p2s02_0c7356f6:
 
     # irfl "I'm going to do you a favor. {w}I'm going to let you walk away right now before I break something."
-    irfl "我要帮你一个忙。{w}在我弄坏东西之前，我会让你先走开。"
+    irfl "我要帮你个忙。{w}在我还没动手之前，你可以先离开。"
 
 # game/code/d10p2/d10p2s02.rpy:23
 translate chinese d10p2s02_38176240:
@@ -76,7 +76,7 @@ translate chinese d10p2s02_38176240:
 translate chinese d10p2s02_4742fbc9:
 
     # "{color=#374980}???{/color}" "I'm going to do you a favor, and let you cum before I get started."
-    "{color=#374980}???{/color}" "我来帮你个忙，在我开始之前，我会让你先高潮。"
+    "{color=#374980}???{/color}" "不如我来帮你个忙，在我开始之前，我会让你先高潮。"
 
 # game/code/d10p2/d10p2s02.rpy:26
 translate chinese d10p2s02_c9dad38c:
@@ -130,7 +130,7 @@ translate chinese d10p2s02_be59095b:
 translate chinese d10p2s02_20ff0610:
 
     # "{color=#374980}???{/color}" "I've never felt a pussy that was so dripping wet as yours is right now."
-    "{color=#374980}???{/color}" "我从来没觉得哪个小穴有像你现在这样湿漉漉的。"
+    "{color=#374980}???{/color}" "我从来没觉得哪个小穴有像你现在这样这么多水。"
 
 # game/code/d10p2/d10p2s02.rpy:39
 translate chinese d10p2s02_63dd4e71:
@@ -154,7 +154,7 @@ translate chinese d10p2s02_53796b42:
 translate chinese d10p2s02_2fa3fcbf:
 
     # mct "Should I beat this guys ass or wait a little longer?" nointeract
-    mct "我是该揍这家伙一顿还是再等一会儿?" nointeract
+    mct "我是该揍这家伙一顿还是再等一会儿？" nointeract
 
 # game/code/d10p2/d10p2s02.rpy:56
 translate chinese d10p2s01_intervene_a9af5f58:
@@ -196,31 +196,31 @@ translate chinese d10p2s01_intervene_91d8a70c:
 translate chinese d10p2s01_intervene_827731e3:
 
     # irfl "Yeah. No thanks to you."
-    irfl "没事。我不会说谢谢的。"
+    irfl "我没事。但不是因为你。"
 
 # game/code/d10p2/d10p2s02.rpy:69
 translate chinese d10p2s01_intervene_d3fdf7c0:
 
     # mc "Huh? What do you mean?"
-    mc "呵，你什么意思？"
+    mc "哈？你什么意思？"
 
 # game/code/d10p2/d10p2s02.rpy:70
 translate chinese d10p2s01_intervene_afa073d8:
 
     # irfl "Just fuck off unless you want a drink."
-    irfl "除非你想喝酒，不然就滚蛋吧。"
+    irfl "除非你想喝酒，不然赶紧滚蛋。"
 
 # game/code/d10p2/d10p2s02.rpy:72
 translate chinese d10p2s01_intervene_2b7d2e32:
 
     # mc "Um, sure. Do you have any Stoli?"
-    mc "嗯，当然。有伏特加吗？"
+    mc "呃，我当然要喝啊。有伏特加吗？"
 
 # game/code/d10p2/d10p2s02.rpy:74
 translate chinese d10p2s01_intervene_1d40ff77:
 
     # irfl "If you want a drink go to the correct side of the bar."
-    irfl "如果你想喝酒，就去吧台该喝酒的那一边。"
+    irfl "如果你想喝酒，就该在吧台该喝酒的那一边呆着。"
 
 # game/code/d10p2/d10p2s02.rpy:75
 translate chinese d10p2s01_intervene_9b230d62:
@@ -244,7 +244,7 @@ translate chinese d10p2s01_intervene_39de93f9:
 translate chinese d10p2s01_intervene_ec88fd23:
 
     # irfl "Fuck off. {w}What's your beverage?"
-    irfl "滚开。{w}你喝什么饮料？"
+    irfl "滚吧。{w}你要喝什么？"
 
 # game/code/d10p2/d10p2s02.rpy:83
 translate chinese d10p2s01_intervene_2065a7f6:
@@ -256,7 +256,7 @@ translate chinese d10p2s01_intervene_2065a7f6:
 translate chinese d10p2s01_intervene_71e826ad:
 
     # irfl "Original recipe or the modern equivalent?"
-    irfl "原汁原味还是现代版的？"
+    irfl "原味版的还是现代版的？"
 
 # game/code/d10p2/d10p2s02.rpy:87
 translate chinese d10p2s01_intervene_b688999f:
@@ -268,7 +268,7 @@ translate chinese d10p2s01_intervene_b688999f:
 translate chinese d10p2s01_intervene_59bf7922:
 
     # irfl "Either way you're shit out of luck."
-    irfl "无论是哪一种，你都是走狗屎运。"
+    irfl "呵，无论是哪一种，你都是走狗屎运。"
 
 # game/code/d10p2/d10p2s02.rpy:91
 translate chinese d10p2s01_intervene_c5059461:
@@ -322,19 +322,19 @@ translate chinese d10p2s01_intervene_acff4c12:
 translate chinese d10p2s01_intervene_8b72cdde:
 
     # mc "Rode in like a knight in one of those storybooks."
-    mc "像故事书里的骑士一样骑着马进来了。"
+    mc "我本想像故事书里的骑士骑着马进来一样，来个英雄出场呢。"
 
 # game/code/d10p2/d10p2s02.rpy:112
 translate chinese d10p2s01_intervene_28aa6083:
 
     # irfl "Rescued the damsel in distress?"
-    irfl "拯救了遇险的少女？"
+    irfl "怎么，要拯救遇险的少女？"
 
 # game/code/d10p2/d10p2s02.rpy:114
 translate chinese d10p2s01_intervene_6e6867d5:
 
     # mc "Exactly. Like Luke and Han saving the Princess."
-    mc "没错。就像卢克和汉拯救公主一样。"
+    mc "没错。就像卢克和韩拯救公主一样。"
 
 # game/code/d10p2/d10p2s02.rpy:116
 translate chinese d10p2s01_intervene_f958a248:
@@ -364,7 +364,7 @@ translate chinese d10p2s01_intervene_679c1e25:
 translate chinese d10p2s01_intervene_b5bcbf82:
 
     # irfl "I dunno. {w}You might be okay."
-    irfl "我不知道。{w}你应该会没事的吧。"
+    irfl "说不准。{w}你应该会没事的吧。"
 
 # game/code/d10p2/d10p2s02.rpy:127
 translate chinese d10p2s01_intervene_ece910e5:
@@ -382,7 +382,7 @@ translate chinese d10p2s01_intervene_43bf6d27:
 translate chinese d10p2s01_intervene_6f9537d7:
 
     # mc "Serious as a heart attack. You would have broken more than his heart if I hadn't stepped in and gotten involved."
-    mc "跟有人心脏病发作一样严重。如果不是我出面参与，你要破坏的就不止是他的心了。"
+    mc "我是说跟有人心脏病发作一样严重。如果不是我出面干涉，你要破坏的就不止是他的心了。"
 
 # game/code/d10p2/d10p2s02.rpy:133
 translate chinese d10p2s01_intervene_0f042d6f:
@@ -418,7 +418,7 @@ translate chinese d10p2s01_watch_d029d58f:
 translate chinese d10p2s01_watch_3247af26:
 
     # "{color=#374980}???{/color}" "My fuckin' arm! Let go!"
-    "{color=#374980}???{/color}" "靠，我的胳膊!！放手！"
+    "{color=#374980}???{/color}" "靠，我的胳膊！放手！"
 
 # game/code/d10p2/d10p2s02.rpy:149
 translate chinese d10p2s01_watch_6a464a83:
@@ -430,19 +430,19 @@ translate chinese d10p2s01_watch_6a464a83:
 translate chinese d10p2s01_watch_c61e0bdd:
 
     # irfl "Option 1: I break your arm."
-    irfl "选项一：我打断你的手臂。"
+    irfl "选项一：我打断你胳膊。"
 
 # game/code/d10p2/d10p2s02.rpy:153
 translate chinese d10p2s01_watch_cc193bf3:
 
     # irfl "Option 2: I break your wrist."
-    irfl "选项二：我打断你的手腕。"
+    irfl "选项二：我打断你手腕。"
 
 # game/code/d10p2/d10p2s02.rpy:155
 translate chinese d10p2s01_watch_ec270053:
 
     # irfl "Option 3: I break your fingers."
-    irfl "选项三： 我折断你的手指"
+    irfl "选项三： 我折断你手指。"
 
 # game/code/d10p2/d10p2s02.rpy:157
 translate chinese d10p2s01_watch_ff07fd79:
@@ -460,13 +460,13 @@ translate chinese d10p2s01_watch_dc415646:
 translate chinese d10p2s01_watch_02dd6f61:
 
     # irfl "You have chosen option four."
-    irfl "你已经选择了第四个选项。"
+    irfl "你已经选了第四个选项。"
 
 # game/code/d10p2/d10p2s02.rpy:163
 translate chinese d10p2s01_watch_43dfe615:
 
     # "*SNAP POP*"
-    "*咔嚓断裂*"
+    "*咔嚓断裂声*"
 
 # game/code/d10p2/d10p2s02.rpy:167
 translate chinese d10p2s01_watch_4ecfcb1b:
@@ -490,7 +490,7 @@ translate chinese d10p2s01_watch_3b01f811:
 translate chinese d10p2s01_watch_988aec13:
 
     # irfl "You want some more?"
-    irfl "你还要吗？"
+    irfl "你嫌不够啊，再来点？"
 
 # game/code/d10p2/d10p2s02.rpy:174
 translate chinese d10p2s01_watch_3fbde455:
@@ -508,7 +508,7 @@ translate chinese d10p2s01_watch_d974a0b8:
 translate chinese d10p2s01_watch_ae5c39e5:
 
     # irfl "Nothing much. {w}I dislocated his wrist, thumb, and two fingers."
-    irfl "没什么。{w}我把他的手腕、拇指和两个手指都脱臼了。"
+    irfl "代价都差不多。{w}我把他的手腕、拇指和两个手指都打脱臼了。"
 
 # game/code/d10p2/d10p2s02.rpy:178
 translate chinese d10p2s01_watch_f4d49f10:
@@ -526,13 +526,13 @@ translate chinese d10p2s01_watch_3c84e996:
 translate chinese d10p2s01_watch_3ab06e34:
 
     # mc "Not at all. Fucker earned every bit of that."
-    mc "一点也不。这都是他应得的。"
+    mc "一点也不觉得啊。这都是他应得的。"
 
 # game/code/d10p2/d10p2s02.rpy:183
 translate chinese d10p2s01_watch_e0649255:
 
     # irfl "And what about you? {w}You just like to watch?"
-    irfl "那你呢？{w}你就喜欢看着吗？"
+    irfl "那你呢？{w}你就喜欢干看着吗？"
 
 # game/code/d10p2/d10p2s02.rpy:184
 translate chinese d10p2s01_watch_05500ff6:
@@ -544,13 +544,13 @@ translate chinese d10p2s01_watch_05500ff6:
 translate chinese d10p2s01_watch_557c0d5e:
 
     # irfl "Poor little girl getting her twat fingered against her will and you just stand there watching?"
-    irfl "可怜的小姑娘不情愿的被人顶着她的下面，而你只是站在那里看着？"
+    irfl "可怜的小姑娘不情愿的被人揩油，而你只是站在那里看着？"
 
 # game/code/d10p2/d10p2s02.rpy:187
 translate chinese d10p2s01_watch_acda7c71:
 
     # mc "You seemed to have everything under control."
-    mc "你好像一切都在掌控之中啊。"
+    mc "问题是你当时非常胸有成竹的样子啊。"
 
 # game/code/d10p2/d10p2s02.rpy:189
 translate chinese d10p2s01_watch_c9573e97:
@@ -562,7 +562,7 @@ translate chinese d10p2s01_watch_c9573e97:
 translate chinese d10p2s01_watch_f42664c6:
 
     # mc "You aren't pissed that I took a back seat?"
-    mc "我一直在旁边观看，你不生气吗?？"
+    mc "我一直没过来插手，你不生气吗？"
 
 # game/code/d10p2/d10p2s02.rpy:193
 translate chinese d10p2s01_watch_820d9fba:
@@ -598,7 +598,7 @@ translate chinese d10p2s01_watch_816330c8:
 translate chinese d10p2s01_watch_33b372a9:
 
     # mc "I look forward to enjoying the benefits of your knowledge."
-    mc "那我就期待享受你知识的好处。"
+    mc "那我就期待一会儿行家提供的美酒了。"
 
 # game/code/d10p2/d10p2s02.rpy:209
 translate chinese d10p2s01_end_a7174c62:
@@ -616,13 +616,13 @@ translate chinese d10p2s01_end_6bb3ef10:
 translate chinese d10p2s01_end_4d1d4185:
 
     # irfl "Fucker got behind the bar and fingered me while I told him to fuck off."
-    irfl "这混蛋跑到吧台后面，在我叫他滚的时候用手指着我。"
+    irfl "这混蛋跑到吧台后面，在我叫他滚的时候还在摸我。"
 
 # game/code/d10p2/d10p2s02.rpy:214
 translate chinese d10p2s01_end_b627dc1f:
 
     # mesfl "Who was it? What was he wearing?"
-    mesfl "那人是谁？他穿了什么？"
+    mesfl "那人是谁？他穿了什么衣服？"
 
 # game/code/d10p2/d10p2s02.rpy:216
 translate chinese d10p2s01_end_17c4690e:
@@ -646,7 +646,7 @@ translate chinese d10p2s01_end_81b964e8:
 translate chinese d10p2s01_end_947da040:
 
     # mct "Shit. Lydia said that Min would overreact if she knew what Jerome did last week."
-    mct "靠。莉迪亚说过，如果敏知道杰罗姆上周的所作所为，她反应会很激烈的。"
+    mct "靠。莉迪亚说过，如果明知道杰罗姆上周的所作所为，她反应会很激烈的。"
 
 # game/code/d10p2/d10p2s02.rpy:222
 translate chinese d10p2s01_end_ee3b28c3:
@@ -658,7 +658,7 @@ translate chinese d10p2s01_end_ee3b28c3:
 translate chinese d10p2s01_end_72e0eeb7:
 
     # mesfl "Yes.{w}.. Jerome."
-    mesfl "是他……{w}杰罗姆。"
+    mesfl "就是他……{w}杰罗姆。"
 
 # game/code/d10p2/d10p2s02.rpy:226
 translate chinese d10p2s01_end_38a6fc25:
@@ -676,13 +676,13 @@ translate chinese d10p2s01_end_8a019f0f:
 translate chinese d10p2s01_end_459f105a:
 
     # irfl "Looks like someone is going to find out the worst ways an anal hook can be used."
-    irfl "看来有人要找出肛门钩最糟糕的使用方法了。"
+    irfl "看来有人要发挥肛门钩最糟糕的使用方法了。"
 
 # game/code/d10p2/d10p2s02.rpy:232
 translate chinese d10p2s01_end_05e3be0d:
 
     # mc "You couldn't see her eyes."
-    mc "你看不到她的眼睛。"
+    mc "你没看她眼神。"
 
 # game/code/d10p2/d10p2s02.rpy:234
 translate chinese d10p2s01_end_233dfe3c:
@@ -712,7 +712,7 @@ translate chinese d10p2s01_end_dc9a27a5:
 translate chinese d10p2s01_end_0f20687d:
 
     # irfl "For real?"
-    irfl "真的吗？"
+    irfl "你说真的？"
 
 # game/code/d10p2/d10p2s02.rpy:244
 translate chinese d10p2s01_end_69c25b65:
@@ -766,13 +766,13 @@ translate chinese d10p2s01_end_d6374bad:
 translate chinese d10p2s01_end_cb6ea19e:
 
     # irfl "Times like this demand a glass of straight bourbon."
-    irfl "这种时候需要来杯纯正的波本威士忌。"
+    irfl "这种时候就需要来杯纯正的波本威士忌。"
 
 # game/code/d10p2/d10p2s02.rpy:265
 translate chinese d10p2s01_end_a5047747:
 
     # mc "I am standing right here."
-    mc "我就站在这呢。"
+    mc "嘿，我就站在这呢。"
 
 # game/code/d10p2/d10p2s02.rpy:267
 translate chinese d10p2s01_end_70ca1abd:
@@ -802,13 +802,13 @@ translate chinese d10p2s01_end_76f8d18a:
 translate chinese d10p2s01_end_253c92a0:
 
     # mc "And you don't want to share?"
-    mc "你不想分享吗?"
+    mc "你不想分享一下吗？"
 
 # game/code/d10p2/d10p2s02.rpy:276
 translate chinese d10p2s01_end_4e80e348:
 
     # irfl "Refresh my memory{w} - which one of us got molested?"
-    irfl "你来提醒我一下，{w}我们是谁被骚扰了?"
+    irfl "你来提醒我一下--{w}我们到底是谁被骚扰了？"
 
 # game/code/d10p2/d10p2s02.rpy:277
 translate chinese d10p2s01_end_8de90664:
@@ -826,13 +826,13 @@ translate chinese d10p2s01_end_bdc713ec:
 translate chinese d10p2s01_end_58f6decd:
 
     # mc "I... {w}I guess I'll just leave you to it."
-    mc "我……{w}我还是不打扰你了。
+    mc "我……{w}我还是不打扰你了。"
 
 # game/code/d10p2/d10p2s02.rpy:284
 translate chinese d10p2s01_end_b2d86e39:
 
     # irfl "You sure you don't just like watching women get harassed?"
-    irfl "你确定你不喜欢看女人被骚扰吗?"
+    irfl "你确定你不喜欢看女人被骚扰吗？"
 
 # game/code/d10p2/d10p2s02.rpy:286
 translate chinese d10p2s01_end_0a73aa7b:
@@ -844,7 +844,7 @@ translate chinese d10p2s01_end_0a73aa7b:
 translate chinese d10p2s01_end_66ccc53e:
 
     # mc "Even though you hurt him bad {w}and Squizzle is probably going to end him..."
-    mc "尽管你把他伤得很重{w}，而Squizzle也很可能要了结他……"
+    mc "尽管你把他伤得很重{w}，而斯奎兹也很可能要了结他……"
 
 # game/code/d10p2/d10p2s02.rpy:289
 translate chinese d10p2s01_end_8d8db5cd:
@@ -856,7 +856,7 @@ translate chinese d10p2s01_end_8d8db5cd:
 translate chinese d10p2s01_end_1422b0d5:
 
     # irfl "Top shelf. Best in the house. Just for you."
-    irfl "这可是上等的 。这房子里最好的了。专门为你准备的。"
+    irfl "这可是上等的。这房子里最好的了。专门为你准备的。"
 
 # game/code/d10p2/d10p2s02.rpy:295
 translate chinese d10p2s01_end_9bf7899e:
@@ -874,7 +874,7 @@ translate chinese d10p2s01_end_1f779ffb:
 translate chinese d10p2s01_end_ebfd5839:
 
     # irfl "Rotten Little Bastard - Coosa Cut Bourbon."
-    irfl "腐烂的小混蛋--正宗波本威士忌。"
+    irfl "要放腐烂的小东西--正宗波本威士忌。"
 
 # game/code/d10p2/d10p2s02.rpy:299
 translate chinese d10p2s01_end_61a50450:
@@ -898,11 +898,11 @@ translate chinese strings:
 
     # game/code/d10p2/d10p2s02.rpy:44
     old "Intervene"
-    new "干预其中"
+    new "出面干涉"
 
     # game/code/d10p2/d10p2s02.rpy:44
     old "Just Watch"
-    new "只在旁观看"
+    new "袖手旁观"
 
     # game/code/d10p2/d10p2s02.rpy:106
     old "Came to your rescue"
