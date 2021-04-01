@@ -796,7 +796,7 @@ translate chinese d10p2s01_end_4c5aa766:
 translate chinese d10p2s01_end_76f8d18a:
 
     # irfl "Heh.{w} This isn't for guests. I swiped it from her private stock"
-    irfl "哈。{w}这不是给客人的。是我从她私人库存里偷来的"
+    irfl "哈。{w}这不是给客人的。是我从她私人库存里偷来的。"
 
 # game/code/d10p2/d10p2s02.rpy:274
 translate chinese d10p2s01_end_253c92a0:
