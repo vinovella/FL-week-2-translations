@@ -40,7 +40,7 @@ translate chinese d10p2s03_2f801461:
 translate chinese d10p2s03_eb51ab78:
 
     # amfl "Are you ready to defy that which holds you bound to this realm and venture out into a realm of the beyond?"
-    amfl "你准备好反抗那将你束缚在这个领域的东西，并冒险进入一个超越的领域了吗？"
+    amfl "你准备好摆脱这个世界的束缚，冒险进入未知领域了吗？"
 
 # game/code/d10p2/d10p2s03.rpy:58
 translate chinese d10p2s03_4614cc15:
@@ -58,7 +58,7 @@ translate chinese d10p2s03_132071d7:
 translate chinese d10p2s03_6b4c36c5:
 
     # amfl "That's not for you to understand."
-    amfl "你不会明白的。"
+    amfl "你不会懂的。"
 
 # game/code/d10p2/d10p2s03.rpy:62
 translate chinese d10p2s03_1a85f7d5:
@@ -124,7 +124,7 @@ translate chinese d10p2s03_000a051e:
 translate chinese d10p2s03_dbf8ba02:
 
     # amfl "Release your hold on this world."
-    amfl "释放你对这个世界的控制。"
+    amfl "放松你与这个世界的连接。"
 
 # game/code/d10p2/d10p2s03.rpy:81
 translate chinese d10p2s03_4e7876f4:
@@ -136,49 +136,49 @@ translate chinese d10p2s03_4e7876f4:
 translate chinese d10p2s03_29a7f001:
 
     # mct "What the fuuu..."
-    mct "什么……"
+    mct "什么鬼呃--"
 
 # game/code/d10p2/d10p2s03.rpy:85
 translate chinese d10p2s03_dbd8fb21:
 
     # mct "...uuu..."
-    mct "...uuu..."
+    mct "--呃--"
 
 # game/code/d10p2/d10p2s03.rpy:87
 translate chinese d10p2s03_dbd8fb21_1:
 
     # mct "...uuu..."
-    mct "...uuu..."
+    mct "--呃--"
 
 # game/code/d10p2/d10p2s03.rpy:89
 translate chinese d10p2s03_dbd8fb21_2:
 
     # mct "...uuu..."
-    mct "...uuu..."
+    mct "--呃--"
 
 # game/code/d10p2/d10p2s03.rpy:91
 translate chinese d10p2s03_dbd8fb21_3:
 
     # mct "...uuu..."
-    mct "...uuu..."
+    mct "--呃--"
 
 # game/code/d10p2/d10p2s03.rpy:93
 translate chinese d10p2s03_dbd8fb21_4:
 
     # mct "...uuu..."
-    mct "...uuu..."
+    mct "--呃--"
 
 # game/code/d10p2/d10p2s03.rpy:113
 translate chinese d10p2s03_dbd8fb21_5:
 
     # mct "...uuu..."
-    mct "...uuu..."
+    mct "--呃--"
 
 # game/code/d10p2/d10p2s03.rpy:115
 translate chinese d10p2s03_2099d686:
 
     # mct "...uuuck!?"
-    mct "...uuuck!?"
+    mct "--鬼啊!?"
 
 # game/code/d10p2/d10p2s03.rpy:121
 translate chinese d10p2s03_6b40ae3a:
@@ -220,7 +220,7 @@ translate chinese d10p2s03_22cc9567:
 translate chinese d10p2s03_bbb487f2:
 
     # tm "Honestly? No clue. I {i}think{/i} we were shrunk or something, I don't know."
-    tm "说实话？我也没有头绪。我{i}觉得{/i}我们被缩小了还是什么，说不上来。"
+    tm "说实话吗？我也没有头绪。我{i}觉得{/i}我们被缩小了还是什么，说不上来。"
 
 # game/code/d10p2/d10p2s03.rpy:139
 translate chinese d10p2s03_42ae86c3:
@@ -286,7 +286,7 @@ translate chinese d10p2s03_e932f8dd:
 translate chinese d10p2s03_ba1c1dc1:
 
     # tm "Oh, baby, yes! Right there!"
-    tm "哦，宝贝儿，就是这样! 就在那里！"
+    tm "哦，宝贝儿，就是这样！就在那里！"
 
 # game/code/d10p2/d10p2s03.rpy:168
 translate chinese d10p2s03_de4da4e4:
@@ -322,7 +322,7 @@ translate chinese d10p2s03_53d3cd71:
 translate chinese d10p2s03_5b6951ee:
 
     # tm "God... I can feel you all the way..."
-    tm "天啊……我能感觉到你的全部……"
+    tm "天啊……我能感觉到你整个都在我里面……"
 
 # game/code/d10p2/d10p2s03.rpy:189
 translate chinese d10p2s03_156642a9:
@@ -346,13 +346,13 @@ translate chinese d10p2s03_9cdd96d9:
 translate chinese d10p2s03_1abc4bd9:
 
     # tm "Must've been backed up, huh?"
-    tm "一定是被堵住了，嗯？"
+    tm "你早就提枪上膛了吧，嗯？"
 
 # game/code/d10p2/d10p2s03.rpy:206
 translate chinese d10p2s03_8f16add8:
 
     # tm "I'm covered!"
-    tm "我得到了精液！"
+    tm "我浑身都是哎！"
 
 # game/code/d10p2/d10p2s03.rpy:208
 translate chinese d10p2s03_9d306309:
@@ -394,13 +394,13 @@ translate chinese d10p2s03_0a972ed9:
 translate chinese d10p2s03_ca7e65c6:
 
     # tm "What was that?"
-    tm "你问那是什么？"
+    tm "怎么了？"
 
 # game/code/d10p2/d10p2s03.rpy:232
 translate chinese d10p2s03_668d52f4:
 
     # tm "Oops, sorry. Missed a bit."
-    tm "哎呀，对不起。漏掉了一点。"
+    tm "哎呀，对不起。还剩一点。"
 
 # game/code/d10p2/d10p2s03.rpy:234
 translate chinese d10p2s03_ac9640b6:
