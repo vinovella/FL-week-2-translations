@@ -28,7 +28,7 @@ translate chinese d10p2s04_dd_8c9dfa6a:
 translate chinese d10p2s04_dd_0d980fc2:
 
     # mesfl "Not a fan of whoever is in there I'm guessing?"
-    mesfl "我猜你不喜欢里面的人吧？"
+    mesfl "我猜你是不喜欢里面的人吧？"
 
 # game/code/d10p2/d10p2s04-dd.rpy:127
 translate chinese d10p2s04_dd_c1c95d6f:
@@ -82,7 +82,7 @@ translate chinese d10p2s04_dd_1f9e35fe:
 translate chinese d10p2s04_dd_91fd55e8:
 
     # dd "So, you know, you wouldn't be mad if I—"
-    dd "所以，你不会生气的吧？即使我……"
+    dd "所以，你不会生气的吧？即使我--"
 
 # game/code/d10p2/d10p2s04-dd.rpy:164
 translate chinese d10p2s04_dd_aca5d234:
@@ -100,13 +100,13 @@ translate chinese d10p2s04_dd_796d479a:
 translate chinese d10p2s04_dd_ad0e1a08:
 
     # mc "Right on the first go. Nice seeing you here."
-    mc "一听就知道啦。很高兴在这里见到你。"
+    mc "一下就听出来啦。很高兴在这里见到你。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:170
 translate chinese d10p2s04_dd_e03f8f27:
 
     # dd "*Sigh* Oh thank God."
-    dd "*Sigh* 哦，谢天谢地。"
+    dd "*叹气* 哦，谢天谢地。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:171
 translate chinese d10p2s04_dd_9194e4dd:
@@ -136,13 +136,13 @@ translate chinese d10p2s04_dd_a21c43f5:
 translate chinese d10p2s04_dd_16288300:
 
     # dd "It's just that I came in here thinking that this might be fun, but uh..."
-    dd "只是我进来的时候以为这会很有趣，但是……"
+    dd "只是我进来的时候以为这会很好玩，但是……"
 
 # game/code/d10p2/d10p2s04-dd.rpy:179
 translate chinese d10p2s04_dd_8d6ccde8:
 
     # dd "Being strapped here waiting for something to happen made me think, and uhm... Yeah."
-    dd "被绑在这里就干等着，让我觉得，呃……就这样了。"
+    dd "绑在这里就只能被动地等着，让我觉得，呃……就这样了。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:181
 translate chinese d10p2s04_dd_b0ca01c4:
@@ -154,13 +154,13 @@ translate chinese d10p2s04_dd_b0ca01c4:
 translate chinese d10p2s04_dd_4c6b116b:
 
     # dd "Yeah... I don't have a lot of experience with actual BDSM stuff."
-    dd "是的，我对实际的BDSM没多少经验。"
+    dd "是啊……实际上我对BDSM没多少经验。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:184
 translate chinese d10p2s04_dd_e5c16aba:
 
     # dd "So diving headfirst into this {i}probably{/i} isn't the greatest idea I've had."
-    dd "所以一头扎进这里面，可能不是个好主意。{i}probably{/i} isn't the greatest idea I've had."
+    dd "所以一头闯进来，{i}可能{/i}不是个好主意。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:185
 translate chinese d10p2s04_dd_47ce2cb9:
@@ -178,7 +178,7 @@ translate chinese d10p2s04_dd_b228d90a:
 translate chinese d10p2s04_dd_81fdd5e1:
 
     # mc "\"For the most part?\""
-    mc "\"大多数情况下？\""
+    mc "\"大多数时候？\""
 
 # game/code/d10p2/d10p2s04-dd.rpy:189
 translate chinese d10p2s04_dd_bf9cae10:
@@ -190,13 +190,13 @@ translate chinese d10p2s04_dd_bf9cae10:
 translate chinese d10p2s04_dd_96f6ea80:
 
     # mc "Yeah, but Squizzle's just outside."
-    mc "了解，但斯奎兹就在外面。"
+    mc "了解，但斯奎兹就在外面啊。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:192
 translate chinese d10p2s04_dd_21c16306:
 
     # mc "All you need to do is say your safe word if you don't like what's happening and she'll probably barge in here carrying a battleaxe just wishing a motherfucker would."
-    mc "如果有哪个瞬间你不喜欢的话，只需要说出你的安全词，她可能就会带着战斧闯进来，恐怕还要希望有个混蛋会这么做。"
+    mc "如果发生了什么你不喜欢的话，只需要说出你的安全词，她可能就会带着战斧闯进来，把那个混蛋打的屁滚尿流。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:194
 translate chinese d10p2s04_dd_4aceaa99:
@@ -208,7 +208,7 @@ translate chinese d10p2s04_dd_4aceaa99:
 translate chinese d10p2s04_dd_f8bde0c4:
 
     # mc "Hm... So many options."
-    mc "嗯……这么多选择。"
+    mc "嗯……这么多选择啊。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:198
 translate chinese d10p2s04_dd_b4d747de:
@@ -220,13 +220,13 @@ translate chinese d10p2s04_dd_b4d747de:
 translate chinese d10p2s04_dd_1fa328fc:
 
     # mc "I'm in a spanking mood. And you can pick what I'll use."
-    mc "我正想打屁股呢。你可以选择我来用什么。"
+    mc "我正想打屁股呢。我可以让你选我要用的工具。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:202
 translate chinese d10p2s04_dd_708e9439:
 
     # dd "I dunno, man. Dealer's choice."
-    dd "我选不出来啊，伙计。"
+    dd "我选不出来啊，施虐的人来选吧。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:204
 translate chinese d10p2s04_dd_c1e21195:
@@ -244,13 +244,13 @@ translate chinese d10p2s04_dd_1ac07a93:
 translate chinese d10p2s04_dd_71b7dc74:
 
     # mc "I guess you'll just have to wait and see. Or feel, in this case."
-    mc "我想你只能等着瞧了。或者说在这种情况下，只能慢慢感受了。"
+    mc "你只有等着瞧的份。或者说在这种情况下，你只能等过会慢慢感受了。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:223
 translate chinese d10p2s04_dd_44faa513:
 
     # mc "You know what? I think I'm just gonna go with the ol' reliable and use my hand."
-    mc "你知道吗？我想我还是用我的手吧。"
+    mc "你知道吗？我想我还是走传统那一路，靠我的手吧。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:224
 translate chinese d10p2s04_dd_ae7b44df:
@@ -268,13 +268,13 @@ translate chinese d10p2s04_dd_92aba49b:
 translate chinese d10p2s04_dd_fe1667d9:
 
     # dd "What is it? What did you pick?"
-    dd "是什么？你选了什么？"
+    dd "什么啊？你选了什么？"
 
 # game/code/d10p2/d10p2s04-dd.rpy:234
 translate chinese d10p2s04_dd_3ce4410b:
 
     # mc "...A paddle."
-    mc "……一个桨。"
+    mc "……一个球拍。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:235
 translate chinese d10p2s04_dd_28a91139:
@@ -286,7 +286,7 @@ translate chinese d10p2s04_dd_28a91139:
 translate chinese d10p2s04_dd_e990b4a4:
 
     # mc "Well... Let's just say it is a paddle of...prodigious size."
-    mc "嗯……我们只能说这个桨……大小惊人。"
+    mc "嗯……我们只能说这个球拍……大小惊人。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:237
 translate chinese d10p2s04_dd_4aec8a23:
@@ -316,7 +316,7 @@ translate chinese d10p2s04_dd_7265daa3:
 translate chinese d10p2s04_dd_17e61a09:
 
     # mc "Oh, ho, ho. I almost feel sorry for your ass."
-    mc 哦嗬嗬。我都要为你的屁股难过了。"
+    mc "哦嗬嗬。我都要为你的屁股难过了。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:248
 translate chinese d10p2s04_dd_e0711a20:
@@ -328,7 +328,7 @@ translate chinese d10p2s04_dd_e0711a20:
 translate chinese d10p2s04_dd_325cf6fa:
 
     # mc "Oh, you know, just some sticks."
-    mc "哦，你知道，就一些棍子。"
+    mc "哦，没什么，就一些棍子。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:251
 translate chinese d10p2s04_dd_79a31e9b:
@@ -340,25 +340,25 @@ translate chinese d10p2s04_dd_79a31e9b:
 translate chinese d10p2s04_dd_9580692b:
 
     # dd "Fuck. Maybe I should've picked instead of being a smartass."
-    dd "操。也许应该我来选的，而不是耍小聪明。"
+    dd "操。也许应该我来选的，早知道就不耍小聪明了。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:253
 translate chinese d10p2s04_dd_d2e553a0:
 
     # dd "What were my options anyway?"
-    dd "我有什么选择呢？
+    dd "我都有什么选择呢？"
 
 # game/code/d10p2/d10p2s04-dd.rpy:254
 translate chinese d10p2s04_dd_b27b1784:
 
     # mc "Hand, paddle, and this."
-    mc "有手，有桨，还有这个。"
+    mc "有手，有球拍，还有这个。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:255
 translate chinese d10p2s04_dd_c1933cd6:
 
     # dd "I could've gotten away with just your hand!? Fuck!"
-    dd "我本可以用你的手逃脱!? 操！"
+    dd "我本来只用你的手就可以的!? 操！"
 
 # game/code/d10p2/d10p2s04-dd.rpy:256
 translate chinese d10p2s04_dd_3ad7de10:
@@ -400,13 +400,13 @@ translate chinese d10p2s04_dd_ccce34cc:
 translate chinese d10p2s04_dd_46492726:
 
     # dd "No, no, it's fine. I'm just playing along."
-    dd "不，不，没关系。我只是玩玩而已。"
+    dd "不，不，没关系。我这也是玩玩而已。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:268
 translate chinese d10p2s04_dd_979d0919:
 
     # mc "Ah, alright. It's just that I can't exactly gauge your reactions from your ass sadly."
-    mc "啊,好吧。只是我不能从你的屁股上判断你的反应很遗憾。"
+    mc "啊，好吧。只是很遗憾，我不能从你屁股上判断你反应如何。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:269
 translate chinese d10p2s04_dd_9f589531:
@@ -448,19 +448,19 @@ translate chinese d10p2s04_dd_77b080bf:
 translate chinese d10p2s04_dd_18556c09:
 
     # dd "What the hell is that thing!? I can feel it in my spine!"
-    dd "那到底是什么东西！？我的脊椎都能感觉到!"
+    dd "那到底是什么东西！？我的脊椎都能感觉到！"
 
 # game/code/d10p2/d10p2s04-dd.rpy:296
 translate chinese d10p2s04_dd_3a09b5b6:
 
     # dd "*Dramatic whimpering*"
-    dd "*戏剧性的呜咽*"
+    dd "*夸张的呜咽*"
 
 # game/code/d10p2/d10p2s04-dd.rpy:300
 translate chinese d10p2s04_dd_46c81d36:
 
     # dd "I don't think I'll be able to walk for a month!"
-    dd "我想我一个月都走不动了!"
+    dd "我想我一个月都走不动了！"
 
 # game/code/d10p2/d10p2s04-dd.rpy:302
 translate chinese d10p2s04_dd_43248f2b:
@@ -478,19 +478,19 @@ translate chinese d10p2s04_dd_d3ab7d9e:
 translate chinese d10p2s04_dd_7bf6cd10:
 
     # dd "Yeah, that'd be great."
-    dd "行行行，那太好了。"
+    dd "行，那太好了。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:308
 translate chinese d10p2s04_dd_8f5c128f:
 
     # dd "You have one mean hand, heh."
-    dd "你有一个卑鄙的手，呵。"
+    dd "呵，你手真要命。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:310
 translate chinese d10p2s04_dd_78f2ae67:
 
     # dd "You have one mean swing, heh."
-    dd "你有一个卑鄙的摆动，嘿。"
+    dd "呵，你摆动地真要命。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:312
 translate chinese d10p2s04_dd_789759c6:
@@ -508,13 +508,13 @@ translate chinese d10p2s04_dd_2b58bf41:
 translate chinese d10p2s04_dd_cc2419f6:
 
     # dd "...{i}Maybe.{/i}"
-    dd "...{i}也许吧。{/i}"
+    dd "……{i}也许吧。{/i}"
 
 # game/code/d10p2/d10p2s04-dd.rpy:316
 translate chinese d10p2s04_dd_a19d2ac7:
 
     # mc "Hm..."
-    mc "Hm..."
+    mc "嗯……"
 
 # game/code/d10p2/d10p2s04-dd.rpy:318
 translate chinese d10p2s04_dd_7b143051:
@@ -526,7 +526,7 @@ translate chinese d10p2s04_dd_7b143051:
 translate chinese d10p2s04_dd_c43f38ef:
 
     # mc "So many amazing looking ways to torture you."
-    mc "这么多看起来很神奇的方法来折磨你。"
+    mc "有很多看上去很新奇的方法来折磨你啊。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:320
 translate chinese d10p2s04_dd_f5fc5e4c:
@@ -538,25 +538,25 @@ translate chinese d10p2s04_dd_f5fc5e4c:
 translate chinese d10p2s04_dd_ebc49767:
 
     # dd "Slow down, cowboy. We've got time."
-    dd "嘿，慢慢来，牛仔。我们还有时间。"
+    dd "嘿，慢慢来，小牛仔。我们有的是时间。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:323
 translate chinese d10p2s04_dd_c8c513ff:
 
     # dd "I'm sure we'll get another chance to do all the diabolical shit you're thinking of later on."
-    dd "我相信我们以后还会有机会做你想做的那些邪恶的事。"
+    dd "我相信我们以后还会有机会来试这些玩意的。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:324
 translate chinese d10p2s04_dd_4b2a224a:
 
     # dd "But at the same time. Hurry up and pick something already!"
-    dd "但是现在，赶快选一个吧!"
+    dd "但是现在，赶快选一个吧！"
 
 # game/code/d10p2/d10p2s04-dd.rpy:325
 translate chinese d10p2s04_dd_20a555f4:
 
     # dd "I'm horny as fuck here, and all you're doing is teasing me!"
-    dd "我饥渴得要命，而你却在取笑我！"
+    dd "我饥渴得要命，而你却在挑逗我！"
 
 # game/code/d10p2/d10p2s04-dd.rpy:327
 translate chinese d10p2s04_dd_bf08d2e2:
@@ -574,19 +574,19 @@ translate chinese d10p2s04_dd_8913147b:
 translate chinese d10p2s04_dd_45e4c203:
 
     # mc "Hm... I dunno. I'm not feeling it."
-    mc "我不知道啊。我现在没感觉。"
+    mc "嗯……我不知道啊。我现在没感觉。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:331
 translate chinese d10p2s04_dd_6c646709:
 
     # dd "{i}Gaaawd{/i}, fine! [mcname], will you please fuck me?"
-    dd "{i}Gaaawd{/i}，很好！[mcname]，你能操我吗？"
+    dd "{i}唉呦{/i}，行了！[mcname]，你能操我吗？"
 
 # game/code/d10p2/d10p2s04-dd.rpy:332
 translate chinese d10p2s04_dd_0ca933e1:
 
     # mc "Not doing it."
-    mc "我不干。"
+    mc "我不要。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:333
 translate chinese d10p2s04_dd_8b79e367:
@@ -646,7 +646,7 @@ translate chinese d10p2s04_dd_fdb808e5:
 translate chinese d10p2s04_dd_075e7c16:
 
     # dd "Fill me up!"
-    dd "填满我！"
+    dd "填满我吧！"
 
 # game/code/d10p2/d10p2s04-dd.rpy:379
 translate chinese d10p2s04_dd_a09b6886:
@@ -682,7 +682,7 @@ translate chinese d10p2s04_dd_a564adb8:
 translate chinese d10p2s04_dd_075c3383:
 
     # dd "There, done. Spotless."
-    dd "好了。完成了。一尘不染。"
+    dd "好了。完事了。看，一尘不染吧。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:399
 translate chinese d10p2s04_dd_11c32863:
@@ -718,7 +718,7 @@ translate chinese d10p2s04_dd_5a78bf42:
 translate chinese d10p2s04_dd_1cc4851f:
 
     # dd "No, why?"
-    dd "没有，为什么问这个？
+    dd "没有，为什么问这个？"
 
 # game/code/d10p2/d10p2s04-dd.rpy:417
 translate chinese d10p2s04_dd_903396b3:
@@ -760,13 +760,13 @@ translate chinese d10p2s04_dd_ed74b330:
 translate chinese d10p2s04_dd_aa000278:
 
     # mc "Now I have access to these beauties."
-    mc "现在我可以接近这些美女了。"
+    mc "现在我可以好好把玩这些宝贝儿了。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:432
 translate chinese d10p2s04_dd_bb7a7613:
 
     # dd "And that's another thing. That seat thing I was bound to is {i}not{/i} fucking comfortable if you have big tits. They really need a cutout or something."
-    dd "那是另一回事。{i}not{/i} fucking comfortable if you have big tits. 他们真的需要搞个镂空什么的。"
+    dd "那是另一回事了。对奶子大的人来说，这样绑着{i}并不{/i}怎么舒服。他们真的需要改成镂空或者什么的。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:434
 translate chinese d10p2s04_dd_81646ac3:
@@ -784,13 +784,13 @@ translate chinese d10p2s04_dd_17710731:
 translate chinese d10p2s04_dd_d5df9e06:
 
     # dd "Uh-uh."
-    dd "Uh-uh."
+    dd "嗯-嗯，不要。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:444
 translate chinese d10p2s04_dd_c249ea0c:
 
     # mc "Well that just makes me wanna do it even more."
-    mc "那只会让我更想做这件事。"
+    mc "这样只会让我更加想做这件事。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:445
 translate chinese d10p2s04_dd_165023df:
@@ -820,7 +820,7 @@ translate chinese d10p2s04_dd_43248f2b_1:
 translate chinese d10p2s04_dd_0efa76c8:
 
     # dd "My tits are sensitive, man! I'll slap {i}your{/i} tits if you ever try to paddle mine again."
-    dd "我的乳房很敏感的，伙计！如果你再敢打我的咪咪，我就打你的。"
+    dd "我的乳房很敏感的，伙计！如果你再敢打我的咪咪，我就打{i}你的{/i}。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:461
 translate chinese d10p2s04_dd_46f1afbc:
@@ -838,7 +838,7 @@ translate chinese d10p2s04_dd_e55a82b8:
 translate chinese d10p2s04_dd_83fa573a:
 
     # dd "My tits are sensitive! I'll slap {i}your{/i} tits if you ever try to paddle mine."
-    dd "我乳房很敏感的！如果你再敢打我的咪咪，我就打你的。"
+    dd "我乳房很敏感的！如果你再敢打我的咪咪，我就打{i}你的{/i}。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:468
 translate chinese d10p2s04_dd_a35d69c8:
@@ -856,19 +856,19 @@ translate chinese d10p2s04_dd_6cf7da9c:
 translate chinese d10p2s04_dd_8b89b4a4:
 
     # dd "What? You're just gonna fuck me? Pffft."
-    dd "什么，你就这么干我？ Pffft."
+    dd "什么？你就这么干我？ 噗--"
 
 # game/code/d10p2/d10p2s04-dd.rpy:476
 translate chinese d10p2s04_dd_3013c1e7:
 
     # dd "*Inhales* This...one's...new."
-    dd "*吸气* This...one's...new."
+    dd "*吸气* 这样……挺……新鲜。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:498
 translate chinese d10p2s04_dd_675c8f0c:
 
     # mc "Where?"
-    mc "射哪里？"
+    mc "要在哪里？"
 
 # game/code/d10p2/d10p2s04-dd.rpy:499
 translate chinese d10p2s04_dd_b1906e51:
@@ -892,7 +892,7 @@ translate chinese d10p2s04_dd_f8edddd9_1:
 translate chinese d10p2s04_dd_17379567:
 
     # dd "Okay... {i}That{/i} was great!"
-    dd "好吧……{i}刚真是太棒了！{/i} was great!"
+    dd "好吧……{i}刚{/i}真是太棒了！"
 
 # game/code/d10p2/d10p2s04-dd.rpy:530
 translate chinese d10p2s04_dd_8991d7de:
@@ -904,7 +904,7 @@ translate chinese d10p2s04_dd_8991d7de:
 translate chinese d10p2s04_dd_46a4ecef:
 
     # dd "I dunno, maybe. I hate being choked usually, but that was different."
-    dd "我也不知道，也许吧。我通常很讨厌被掐住的，但这次不一样。"
+    dd "我也不知道，也许吧。我通常很讨厌这样窒息的感觉，但这次不一样。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:534
 translate chinese d10p2s04_dd_14a72362:
@@ -934,31 +934,31 @@ translate chinese d10p2s04_dd_0df525df:
 translate chinese d10p2s04_dd_1e5000e2:
 
     # mc "This is nice, but I think I want to turn you around."
-    mc "这是很好的，但我想把你转过来。"
+    mc "一切都很好，但我想把你转过来。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:554
 translate chinese d10p2s04_dd_f0f6c063:
 
     # dd "Oh thank fuck. My tits are getting squished here. And these nipple covers ain't helping."
-    dd "哦，谢谢你妈的。我的奶子要被压扁了。这些乳头罩也没用。"
+    dd "哦靠，谢谢了。我奶子要被压扁了。这些乳贴也没用。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:556
 translate chinese d10p2s04_dd_290d361f:
 
     # mc "But I can't cuff you on your back..."
-    mc "但我不能把你铐在你的背上……"
+    mc "但我不能从后面给你铐上……"
 
 # game/code/d10p2/d10p2s04-dd.rpy:558
 translate chinese d10p2s04_dd_a9abf627:
 
     # dd "Do you need to?"
-    dd "你需要吗？"
+    dd "需要这样吗？"
 
 # game/code/d10p2/d10p2s04-dd.rpy:560
 translate chinese d10p2s04_dd_006b44ff:
 
     # mc "I don't want you to escape now."
-    mc "我可不想让你现在逃跑。
+    mc "我可不想让你现在逃跑。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:562
 translate chinese d10p2s04_dd_9392547f:
@@ -970,7 +970,7 @@ translate chinese d10p2s04_dd_9392547f:
 translate chinese d10p2s04_dd_ffd63fc6:
 
     # dd "But I'm running late for my appointment, Mister Guard Man, and I'll—"
-    dd "但我约会要迟到了，警卫先生，我……"
+    dd "但我约会要迟到了，警卫先生，我--"
 
 # game/code/d10p2/d10p2s04-dd.rpy:565
 translate chinese d10p2s04_dd_f39634b7:
@@ -982,7 +982,7 @@ translate chinese d10p2s04_dd_f39634b7:
 translate chinese d10p2s04_dd_26177977:
 
     # dd "I'm trying to roleplay here, not win an Oscar for best ad-lib performance."
-    dd "我在玩角色扮演啊，又不是拿奥斯卡最佳即兴表演奖。"
+    dd "我在玩角色扮演啊，又不是要拿奥斯卡最佳即兴表演奖。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:568
 translate chinese d10p2s04_dd_00715895:
@@ -1000,13 +1000,13 @@ translate chinese d10p2s04_dd_bd6ea9fe:
 translate chinese d10p2s04_dd_a93396fc:
 
     # dd "So I'm willing to do {i}{b}anything{/b}{/i} to get out of here, Mister Guard Man."
-    dd "所以只要能离开这里，让我做什么都可以，警卫先生。{i}{b}anything{/b}{/i} to get out of here, Mister Guard Man."
+    dd "所以只要能离开这里，让我做{i}{b}什么都可以{/b}{/i}，警卫先生。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:573
 translate chinese d10p2s04_dd_463625ef:
 
     # mc "\"Anything\"?"
-    mc "\"什么都可以吗？\"?"
+    mc "\"什么都可以吗\"?"
 
 # game/code/d10p2/d10p2s04-dd.rpy:574
 translate chinese d10p2s04_dd_aee11050:
@@ -1036,7 +1036,7 @@ translate chinese d10p2s04_dd_0ab0f2cb:
 translate chinese d10p2s04_dd_2aa9e65f:
 
     # dd "Faster!"
-    dd "快一点！"
+    dd "再快点！"
 
 # game/code/d10p2/d10p2s04-dd.rpy:602
 translate chinese d10p2s04_dd_bafdd082_1:
@@ -1090,13 +1090,13 @@ translate chinese d10p2s04_dd_11c32863_1:
 translate chinese d10p2s04_dd_485eb729:
 
     # dd "Fuck my mouth at last!!"
-    dd "最后，再操我的嘴！!!"
+    dd "至少操下我的嘴!!"
 
 # game/code/d10p2/d10p2s04-dd.rpy:669
 translate chinese d10p2s04_dd_6308abe3:
 
     # mc "I'm gonna—"
-    mc "我要……"
+    mc "我要--"
 
 # game/code/d10p2/d10p2s04-dd.rpy:670
 translate chinese d10p2s04_dd_cfd59e63:
@@ -1168,7 +1168,7 @@ translate chinese d10p2s04_ddmc_end_21fcf20f:
 translate chinese d10p2s04_ddmc_end_45a482a2:
 
     # dd "Except for paddles. You don't get any paddles anymore."
-    dd "除了桨。你再也不能用电击棒了。"
+    dd "除了球拍。你再也不能用球拍了。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:716
 translate chinese d10p2s04_ddmc_end_7e753d54:
@@ -1186,7 +1186,7 @@ translate chinese d10p2s04_ddmc_end_54845d5b:
 translate chinese d10p2s04_ddmc_end_d644d16f:
 
     # mc "A good ol' spank is just what's needed to get you going."
-    mc "你需要的只是一顿痛打。"
+    mc "你正需要一顿好打来给你助力。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:723
 translate chinese d10p2s04_ddmc_end_287ec19a:
@@ -1222,7 +1222,7 @@ translate chinese d10p2s04_minmc_dw_dd_endtalk_551b8412:
 translate chinese d10p2s04_minmc_dw_dd_endtalk_ecdb9b87:
 
     # dd "I wasn't really into not knowing who it was though."
-    dd "不过对不了解对方是谁的情况，我并不感冒。"
+    dd "我不是很感冒这个，因为都不知道会和谁搭档。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:739
 translate chinese d10p2s04_minmc_dw_dd_endtalk_6d8ec4a2:
@@ -1234,7 +1234,7 @@ translate chinese d10p2s04_minmc_dw_dd_endtalk_6d8ec4a2:
 translate chinese d10p2s04_minmc_dw_dd_endtalk_03d6efb2:
 
     # mesfl "Yeah... The more I think about it, the more I dislike it."
-    mesfl "是啊……我越想越不喜欢。"
+    mesfl "是啊……我想得越多，就越不喜欢。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:742
 translate chinese d10p2s04_minmc_dw_dd_endtalk_ae15a75f:
@@ -1258,7 +1258,7 @@ translate chinese d10p2s04_minmc_dw_dd_endtalk_6198c386:
 translate chinese d10p2s04_minmc_dw_dd_endtalk_27d946d1:
 
     # mesfl "Yeah... You wouldn't believe how expensive those things can get."
-    mesfl "是啊……你不会相信这些东西有多贵。"
+    mesfl "是啊……你都不会相信这些东西有多贵。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:750
 translate chinese d10p2s04_minmc_dw_dd_endtalk_6aade0c3:
@@ -1336,7 +1336,7 @@ translate chinese d10p2s04_minmc_dw_dd_endtalk_dfd9b715:
 translate chinese d10p2s04_minmc_dw_dd_endtalk_84e8295b:
 
     # dd "Sorry, it's just I feel a little light...he—head—"
-    dd "对不起，我只是觉得头有点轻……"
+    dd "对不起，我只是觉得头……有点轻--"
 
 # game/code/d10p2/d10p2s04-dd.rpy:788
 translate chinese d10p2s04_minmc_dw_dd_endtalk_c05d4c32:
@@ -1378,7 +1378,7 @@ translate chinese d10p2s04_minmc_dw_dd_endtalk_8b0ccff2:
 translate chinese d10p2s04_minmc_dw_dd_endtalk_d4edbc70:
 
     # mc "Are you feeling alright?"
-    mc "是吗？该死。"
+    mc "你感觉好点了吗？"
 
 # game/code/d10p2/d10p2s04-dd.rpy:802
 translate chinese d10p2s04_minmc_dw_dd_endtalk_22e61e20:
@@ -1432,7 +1432,7 @@ translate chinese d10p2s04_minmc_dw_dd_endtalk_4ad36442:
 translate chinese d10p2s04_minmc_dw_dd_endtalk_b819f7b6:
 
     # mc "First at the beach and now this?"
-    mc "先前是在海滩，现在又来了？"
+    mc "先前是在海滩，现在是在这里？"
 
 # game/code/d10p2/d10p2s04-dd.rpy:816
 translate chinese d10p2s04_minmc_dw_dd_endtalk_0512519d:
@@ -1456,7 +1456,7 @@ translate chinese d10p2s04_minmc_dw_dd_endtalk_d9adb6d4:
 translate chinese d10p2s04_minmc_dw_dd_endtalk_ac4a1868:
 
     # mc "You're passing out randomly, not that {i}fine{/i}."
-    mc "你是随意晕倒的，不是那个{i}fine{/i}."
+    mc "你现在的情况是随时都会晕倒，很明显不可能感觉{i}很好{/i}。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:821
 translate chinese d10p2s04_minmc_dw_dd_endtalk_fa6a24af:
@@ -1498,13 +1498,13 @@ translate chinese d10p2s04_minmc_dw_dd_endtalk_9a117ed7:
 translate chinese d10p2s04_minmc_dw_dd_endtalk_825cedf6:
 
     # mc "Just randomly like that?"
-    mc "就这样随机的？"
+    mc "就这样不知道什么时候就晕倒了？"
 
 # game/code/d10p2/d10p2s04-dd.rpy:832
 translate chinese d10p2s04_minmc_dw_dd_endtalk_bbf9d782:
 
     # dd "Well... It's usually when I do or see something intense, I don't know."
-    dd "嗯……通常是当我做或看到一些激烈的事情时，我也不知道。"
+    dd "嗯……通常是我做或看到一些激烈的事时就这样，我也不知道。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:834
 translate chinese d10p2s04_minmc_dw_dd_endtalk_a7946848:
@@ -1540,7 +1540,7 @@ translate chinese d10p2s04_minmc_dw_dd_endtalk_ba9120f7:
 translate chinese d10p2s04_minmc_dw_dd_endtalk_24f6369b:
 
     # mc "Well, we can find out for real tomorrow then."
-    mc "好吧，那我们明天就能知道了。"
+    mc "好吧，反正我们明天就能知道了。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:843
 translate chinese d10p2s04_minmc_dw_dd_endtalk_a505a71b:
@@ -1564,7 +1564,7 @@ translate chinese d10p2s04_minmc_dw_dd_endtalk_a976bbad:
 translate chinese d10p2s04_minmc_dw_dd_endtalk_fe549669:
 
     # dd "Can we go get that drink now?"
-    dd "我们现在能去喝一杯吗？"
+    dd "我们现在能去喝一杯了吗？"
 
 # game/code/d10p2/d10p2s04-dd.rpy:848
 translate chinese d10p2s04_minmc_dw_dd_endtalk_4b7a857b:
@@ -1582,7 +1582,7 @@ translate chinese d10p2s04_minmc_dw_dd_endtalk_ed080b9a:
 translate chinese d10p2s04_minmc_dw_dd_endtalk_dc812a88:
 
     # mc "You said it happens when you do something intense, right?"
-    mc "你说过当你做一些紧张的事情时就会这样，对吧？"
+    mc "你说过当你做些激烈的事时就会这样，对吧？"
 
 # game/code/d10p2/d10p2s04-dd.rpy:851
 translate chinese d10p2s04_minmc_dw_dd_endtalk_f01897e4:
@@ -1594,7 +1594,7 @@ translate chinese d10p2s04_minmc_dw_dd_endtalk_f01897e4:
 translate chinese d10p2s04_minmc_dw_dd_endtalk_7f130512:
 
     # mc "Daisy."
-    mc "Daisy."
+    mc "黛西。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:853
 translate chinese d10p2s04_minmc_dw_dd_endtalk_06067d88:
@@ -1606,7 +1606,7 @@ translate chinese d10p2s04_minmc_dw_dd_endtalk_06067d88:
 translate chinese d10p2s04_minmc_dw_dd_endtalk_2fbca3c9:
 
     # mc "Great. See? That wasn't so hard. {w}Now let's go get that drink."
-    mc "太好了。你看，这并不难的。现在我们去拿饮料吧。{w}Now let's go get that drink."
+    mc "太好了。你看，这并不难的。{w}现在我们去拿饮料吧。"
 
 # game/code/d10p2/d10p2s04-dd.rpy:856
 translate chinese d10p2s04_minmc_dw_dd_endtalk_37ba6bd5:
@@ -1618,7 +1618,7 @@ translate chinese strings:
 
     # game/code/d10p2/d10p2s04-dd.rpy:117
     old "Bail"
-    new "Bail"
+    new "放弃"
 
     # game/code/d10p2/d10p2s04-dd.rpy:117
     old "Go check up on her"
@@ -1634,7 +1634,7 @@ translate chinese strings:
 
     # game/code/d10p2/d10p2s04-dd.rpy:211
     old "Use a paddle"
-    new "用桨"
+    new "用球拍"
 
     # game/code/d10p2/d10p2s04-dd.rpy:211
     old "Use the sticks"
