@@ -22,19 +22,19 @@ translate chinese d10p2s04_afb1e15a:
 translate chinese d10p2s04_92442bef:
 
     # mesfl "Alas, no. The evil inside here is another kind entirely."
-    mesfl "唉，不会。这里面的邪恶完全是另一种。"
+    mesfl "唉，不会。这里面的邪恶完全是另一层面的啦。"
 
 # game/code/d10p2/d10p2s04.rpy:41
 translate chinese d10p2s04_3b823a15:
 
     # mc "BDSM?"
-    mc "BDSM?"
+    mc "BDSM吗？"
 
 # game/code/d10p2/d10p2s04.rpy:44
 translate chinese d10p2s04_228887e9:
 
     # mesfl "Oh... But I can't say. This for you to find out."
-    mesfl "哦…但我不能说。这得由你自己去发现了。"
+    mesfl "哦……但我不能说。这得由你自己去发现了。"
 
 # game/code/d10p2/d10p2s04.rpy:47
 translate chinese d10p2s04_6e952abf:
@@ -46,7 +46,7 @@ translate chinese d10p2s04_6e952abf:
 translate chinese d10p2s04_5b6a3189:
 
     # mesfl "Anyway. Yeah. It's a dice roll BDSM dungeon."
-    mesfl "总之呢，这是个掷骰子的BDSM地牢。"
+    mesfl "总之呢，这是个随机性的BDSM地牢。"
 
 # game/code/d10p2/d10p2s04.rpy:49
 translate chinese d10p2s04_ba43c0cd:
@@ -58,7 +58,7 @@ translate chinese d10p2s04_ba43c0cd:
 translate chinese d10p2s04_eb712fbd:
 
     # mesfl "The gist of it is that you'll be a Sub if you enter the room and there's no one in there."
-    mesfl "要点是，如果你进入一个房间，里面却没有人，你就会成为一名受虐者。"
+    mesfl "要点是，如果你进了房间，里面却没有人，那你就要当受虐者。"
 
 # game/code/d10p2/d10p2s04.rpy:53
 translate chinese d10p2s04_63356051:
@@ -124,7 +124,7 @@ translate chinese d10p2s04_e63adc7d:
 translate chinese d10p2s04_2b96066f:
 
     # mesfl "You have 11 minutes inside. Starting when both the Dom and the Sub enter."
-    mesfl "在里面的时限为11分钟。从DOM和Sub都进去时开始计时。"
+    mesfl "在里面的时限为11分钟。从施虐者和受虐者都进去时开始计时。"
 
 # game/code/d10p2/d10p2s04.rpy:71
 translate chinese d10p2s04_823e9dca:
@@ -136,7 +136,7 @@ translate chinese d10p2s04_823e9dca:
 translate chinese d10p2s04_45fcd48f:
 
     # mesfl "There are plenty of people here that might also want to use the room. I don't want people spending hours in there."
-    mesfl "这里有很多人可能也想使用这个房间。我不希望有人在里面呆上几个小时。"
+    mesfl "这里有很多人可能也想使用这个房间啊。我不希望有人在里面呆上几个小时。"
 
 # game/code/d10p2/d10p2s04.rpy:74
 translate chinese d10p2s04_f266f2cb:
@@ -166,7 +166,7 @@ translate chinese d10p2s04_aa239ac6:
 translate chinese d10p2s04_87dcfb89:
 
     # mc "Easy enough. I don't exactly get into conversations about BDSM on the daily."
-    mc "这个很容易。我每天都不怎么谈论BDSM。"
+    mc "这个很容易。我每天都不怎么谈论BDSM的。"
 
 # game/code/d10p2/d10p2s04.rpy:83
 translate chinese d10p2s04_706ae4c4:
@@ -214,11 +214,11 @@ translate chinese d10p2s04_bbe8bae9:
 translate chinese d10p2s04_e1d78855:
 
     # mesfl "{i}That{/i} is for you to find out."
-    mesfl "{i}那{/i}是你要去发现的。"
+    mesfl "{i}那{/i}要由你来发现了。"
 
 # game/code/d10p2/d10p2s04.rpy:96
 translate chinese d10p2s04_5a122271:
 
     # mc "Welp, I got nothing to lose."
-    mc "好吧，我没什么可失去的。"
+    mc "好吧，我也没什么可失去的。"
 
