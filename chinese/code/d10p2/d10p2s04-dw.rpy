@@ -28,7 +28,7 @@ translate chinese d10p2s04_dw_76ab5ad6:
 translate chinese d10p2s04_dw_22a7f619:
 
     # mc "Hm, it's alright. I'm fine with that...I think."
-    mc "嗯，没关系。我想……我没问题的。"
+    mc "呃，没关系。我想……我没问题的。"
 
 # game/code/d10p2/d10p2s04-dw.rpy:57
 translate chinese d10p2s04_dw_d80c2b5c:
@@ -46,7 +46,7 @@ translate chinese d10p2s04_dw_3484a003:
 translate chinese d10p2s04_dw_15ea08e9:
 
     # mesfl "I need to make sure that you are bound and ready for the next person that comes in here."
-    mesfl "我要确保你被绑起来，并且准备好迎接下一个进来的人。"
+    mesfl "我要确保你被绑好了，然后下一个人才能进来。"
 
 # game/code/d10p2/d10p2s04-dw.rpy:62
 translate chinese d10p2s04_dw_bfd624c3:
@@ -112,19 +112,19 @@ translate chinese d10p2s04_dw_7ad9bac7:
 translate chinese d10p2s04_dw_4e85cb4d:
 
     # mc "Hello?"
-    mc "喂？"
+    mc "哈喽？"
 
 # game/code/d10p2/d10p2s04-dw.rpy:125
 translate chinese d10p2s04_dw_f476ba79:
 
     # dw "Well, well, well, isn't this nice?"
-    dw "哈，哈，哈，这不是很好吗？"
+    dw "哈，哈，哈，这么巧的吗？"
 
 # game/code/d10p2/d10p2s04-dw.rpy:126
 translate chinese d10p2s04_dw_2ac2c61e:
 
     # dw "My favorite little plaything is here as well."
-    dw "我最喜欢的小玩具也在这里啊。"
+    dw "我最喜欢的小玩物也在这里啊。"
 
 # game/code/d10p2/d10p2s04-dw.rpy:130
 translate chinese d10p2s04_dw_6bf81e7b:
@@ -220,7 +220,7 @@ translate chinese d10p2s04_dw_bb0eeaf4:
 translate chinese d10p2s04_dw_9bdba415:
 
     # mesfl "Sorry you didn't get to experience the room."
-    mesfl "对不起，你没能体验一下这个房间。"
+    mesfl "对不起啊，你没能体验一下这个房间。"
 
 # game/code/d10p2/d10p2s04-dw.rpy:177
 translate chinese d10p2s04_dw_ae31ede1:
@@ -232,7 +232,7 @@ translate chinese d10p2s04_dw_ae31ede1:
 translate chinese d10p2s04_dw_08dc91cf:
 
     # mc "I think I'm gonna go see what else is there to do."
-    mc "我想我要去看看还有什么别的可以做的。"
+    mc "我想我要去看看还有别的什么可以做的。"
 
 # game/code/d10p2/d10p2s04-dw.rpy:183
 translate chinese d10p2s04_dw_2e806df9:
@@ -286,7 +286,7 @@ translate chinese d10p2s04_dw_31eff69d:
 translate chinese d10p2s04_dw_e89997a1:
 
     # dw "You better not. You're nothing to me."
-    dw "最好不要哦。你对我来说什么都不是。"
+    dw "最好不要哦。你对我来说可什么都不是。"
 
 # game/code/d10p2/d10p2s04-dw.rpy:203
 translate chinese d10p2s04_dw_c9e438ac:
@@ -304,7 +304,7 @@ translate chinese d10p2s04_dw_d9493875:
 translate chinese d10p2s04_dw_1f1991d0:
 
     # mc "Y—yes, mistress."
-    mc "明--明白了，主人。"
+    mc "明-明白了，主人。"
 
 # game/code/d10p2/d10p2s04-dw.rpy:209
 translate chinese d10p2s04_dw_7292cd86:
@@ -340,7 +340,7 @@ translate chinese d10p2s04_dw_31eff69d_1:
 translate chinese d10p2s04_dw_abf17486:
 
     # dw "I remember telling you very clearly that I will be called \"Mistress\" at all times."
-    dw "我记得我跟你说得很清楚，你要一直称我为主人。\"Mistress\" at all times."
+    dw "我记得我跟你说得很清楚，你要一直称我为\"主人\"。"
 
 # game/code/d10p2/d10p2s04-dw.rpy:230
 translate chinese d10p2s04_dw_71732c46:
@@ -370,7 +370,7 @@ translate chinese d10p2s04_dw_0cb741b8:
 translate chinese d10p2s04_dw_888cab55:
 
     # dw "Why—"
-    dw "为什么……"
+    dw "为什么-"
 
 # game/code/d10p2/d10p2s04-dw.rpy:244
 translate chinese d10p2s04_dw_70b07974:
@@ -430,7 +430,7 @@ translate chinese d10p2s04_dw_ed3bcf3e:
 translate chinese d10p2s04_dw_7ebc9581:
 
     # dw "Tell me, have you ever had a dick inside you?"
-    dw "告诉我，你曾经有过鸡巴在你体内吗？"
+    dw "告诉我，你有没有含过鸡巴？"
 
 # game/code/d10p2/d10p2s04-dw.rpy:302
 translate chinese d10p2s04_dw_03ffb3f7:
@@ -472,19 +472,19 @@ translate chinese d10p2s04_dw_9c98cc46:
 translate chinese d10p2s04_dw_56055f6f:
 
     # dw "This'll be a bit easier than I hoped I guess."
-    dw "我猜会比我想的要容易一点。"
+    dw "那我猜，应该会比我想的要容易一点了。"
 
 # game/code/d10p2/d10p2s04-dw.rpy:312
 translate chinese d10p2s04_dw_cfb40a80:
 
     # mc "No, Mistress."
-    mc "不，主人。"
+    mc "没有，主人。"
 
 # game/code/d10p2/d10p2s04-dw.rpy:317
 translate chinese d10p2s04_dw_ba522918:
 
     # dw "I want you to take this in as far as it'll go, am I understood?"
-    dw "我希望你能尽可能地接受这个，明白了吗？"
+    dw "我希望你把这东西尽可能深地往嘴里塞，明白了吗？"
 
 # game/code/d10p2/d10p2s04-dw.rpy:320
 translate chinese d10p2s04_dw_2b35b6fe:
@@ -508,19 +508,19 @@ translate chinese d10p2s04_dw_dee957ac:
 translate chinese d10p2s04_dw_e493466d:
 
     # dw "Good. Now say \"Aa.\""
-    dw "很好，现在张嘴啊。\"Aa.\""
+    dw "很好，现在张嘴\"啊。\""
 
 # game/code/d10p2/d10p2s04-dw.rpy:337
 translate chinese d10p2s04_dw_8bb496d2:
 
     # dw "Is that really it?"
-    dw "真的是这样吗？"
+    dw "就这样？"
 
 # game/code/d10p2/d10p2s04-dw.rpy:338
 translate chinese d10p2s04_dw_db181894:
 
     # dw "I thought you'd take more in you considering that you have some experience."
-    dw "考虑到你有一些经验，我以为你会接受更多。"
+    dw "考虑到你是有经验的，我以为你会含得更深。"
 
 # game/code/d10p2/d10p2s04-dw.rpy:339
 translate chinese d10p2s04_dw_3daac224:
@@ -532,7 +532,7 @@ translate chinese d10p2s04_dw_3daac224:
 translate chinese d10p2s04_dw_28778810:
 
     # dw "Not that bad for a first try I suppose. "
-    dw "我想第一次尝试还不错。"
+    dw "我觉得第一次尝试还不错。"
 
 # game/code/d10p2/d10p2s04-dw.rpy:342
 translate chinese d10p2s04_dw_06a96800:
@@ -586,19 +586,19 @@ translate chinese d10p2s04_dwmc_dickslap_37cf726c:
 translate chinese d10p2s04_dwmc_dickslap_a4298254:
 
     # dw "You couldn't even take that simple thing in, but you had the audacity to get hard."
-    dw "你连这么简单的东西都接受不了，但你还有胆量硬起来。"
+    dw "你连这么个简单玩意都hold不住，竟然还有脸硬起来。"
 
 # game/code/d10p2/d10p2s04-dw.rpy:409
 translate chinese d10p2s04_dwmc_dickslap_8499a712:
 
     # dw "I don't appreciate failure, pet."
-    dw "小宠物，我从不欣赏失败的。"
+    dw "小宠物，我最讨厌失败了。"
 
 # game/code/d10p2/d10p2s04-dw.rpy:410
 translate chinese d10p2s04_dwmc_dickslap_9af42df9:
 
     # dw "You're gonna see what happens to people that don't obey me to a T."
-    dw "你会看到不服从我的人会有什么下场"
+    dw "你会看到不服从我的人会有什么下场。"
 
 # game/code/d10p2/d10p2s04-dw.rpy:413
 translate chinese d10p2s04_dwmc_dickslap_df52f281:
@@ -622,7 +622,7 @@ translate chinese d10p2s04_dwmc_dickslap_06efbc8f:
 translate chinese d10p2s04_dwmc_dickslap_4b0fda76:
 
     # dw "Turning you into a eunuch will be doing you a favor."
-    dw "把你变成太监，就是帮你的忙。"
+    dw "把你变成太监，就是帮你的忙了。"
 
 # game/code/d10p2/d10p2s04-dw.rpy:423
 translate chinese d10p2s04_dwmc_dickslap_f45fe333:
@@ -634,25 +634,25 @@ translate chinese d10p2s04_dwmc_dickslap_f45fe333:
 translate chinese d10p2s04_dwmc_dickslap_cfb40a80:
 
     # mc "No, Mistress."
-    mc "不，主人。"
+    mc "不想，主人。"
 
 # game/code/d10p2/d10p2s04-dw.rpy:428
 translate chinese d10p2s04_dwmc_dickslap_4132689d:
 
     # dw "Then you do what I fucking tell you!"
-    dw "那你他妈就照我说的去做！"
+    dw "那你TM就照我说的去做啊！"
 
 # game/code/d10p2/d10p2s04-dw.rpy:429
 translate chinese d10p2s04_dwmc_dickslap_8499a712_1:
 
     # dw "I don't appreciate failure, pet."
-    dw "小宠物，我从不欣赏失败的。"
+    dw "小宠物，我最讨厌失败了。"
 
 # game/code/d10p2/d10p2s04-dw.rpy:430
 translate chinese d10p2s04_dwmc_dickslap_9af42df9_1:
 
     # dw "You're gonna see what happens to people that don't obey me to a T."
-    dw "你会看到不服从我的人会有什么下场"
+    dw "你会看到不服从我的人会有什么下场。"
 
 # game/code/d10p2/d10p2s04-dw.rpy:435
 translate chinese d10p2s04_dwmc_dickslap_2c4d5d97:
@@ -682,13 +682,13 @@ translate chinese d10p2s04_dwmc_dickslap_7f1d462f:
 translate chinese d10p2s04_dwmc_dickslap_ea46bf5e:
 
     # dw "Oh? Are you crying, pet?"
-    dw "哦，你在哭吗，小宠物？"
+    dw "哦？你是在哭吗，小宠物？"
 
 # game/code/d10p2/d10p2s04-dw.rpy:480
 translate chinese d10p2s04_dwmc_dickslap_5da156af:
 
     # dw "This wouldn't have happened if you had just done as I said."
-    dw "如果你刚才按我说的做，就不会发生这种事了。"
+    dw "如果你刚才有按我说的做，就不会发生这种事了。"
 
 # game/code/d10p2/d10p2s04-dw.rpy:481
 translate chinese d10p2s04_dwmc_dickslap_5e1cba94:
@@ -736,7 +736,7 @@ translate chinese d10p2s04_dwmc_dickslap_9566cc04:
 translate chinese d10p2s04_dwmc_dickslap_b386a7ab:
 
     # dw "You're twitching. "
-    dw "哦，你在抽搐。"
+    dw "哦，你在抽搐啊。"
 
 # game/code/d10p2/d10p2s04-dw.rpy:506
 translate chinese d10p2s04_dwmc_dickslap_1f74aecd:
@@ -766,7 +766,7 @@ translate chinese d10p2s04_dwmc_dickslap_e5d87735:
 translate chinese d10p2s04_dwmc_dickslap_765ddc92:
 
     # dw "Hm, good."
-    dw "嗯，行。"
+    dw "嗯，也行。"
 
 # game/code/d10p2/d10p2s04-dw.rpy:515
 translate chinese d10p2s04_dwmc_dickslap_0de5ced9:
@@ -796,7 +796,7 @@ translate chinese d10p2s04_dwmc_dickslap_8d49635c:
 translate chinese d10p2s04_dwmc_dickslap_10026784:
 
     # dw "Already?"
-    dw "已经开始了？"
+    dw "这就开始了？"
 
 # game/code/d10p2/d10p2s04-dw.rpy:538
 translate chinese d10p2s04_dwmc_dickslap_a9afdb2a:
@@ -814,7 +814,7 @@ translate chinese d10p2s04_dwmc_dickslap_8d49635c_1:
 translate chinese d10p2s04_dwmc_dickslap_353944c3:
 
     # dw "Hmh, you lasted a little longer than I expected."
-    dw "嗯，你比我预想的坚持的时间要长一些。"
+    dw "嗯，你比我预想的坚持的还要久一些。"
 
 # game/code/d10p2/d10p2s04-dw.rpy:561
 translate chinese d10p2s04_dwmc_dickslap_2d66482d:
@@ -856,13 +856,13 @@ translate chinese d10p2s04_dwmc_end_986b73a4:
 translate chinese d10p2s04_dwmc_end_5f30d071:
 
     # dw "Look at the mess you've made."
-    dw "看你弄得这么乱。"
+    dw "看你搞得一团糟。"
 
 # game/code/d10p2/d10p2s04-dw.rpy:597
 translate chinese d10p2s04_dwmc_end_73bfec23:
 
     # dw "I'm sure what's her face out there will help you. {w}I have better places to be."
-    dw "我相信在外面的她会帮你的。{w}我有更好的地方要去。"
+    dw "我相信外面的女孩会帮你的。{w}而我有更好的地方要去。"
 
 # game/code/d10p2/d10p2s04-dw.rpy:599
 translate chinese d10p2s04_dwmc_end_dc0f44e7:
@@ -886,7 +886,7 @@ translate chinese d10p2s04_dwmc_end_89e30b4c:
 translate chinese d10p2s04_dwmc_end_424f0a67:
 
     # mct "How the hell am I gonna get out!?"
-    mct "我他妈的怎么出去!?"
+    mct "我他妈怎么出去!?"
 
 # game/code/d10p2/d10p2s04-dw.rpy:610
 translate chinese d10p2s04_dwmc_end_b084c50b:
@@ -898,19 +898,19 @@ translate chinese d10p2s04_dwmc_end_b084c50b:
 translate chinese d10p2s04_dwmc_end_b86a4431:
 
     # mesfl "Do you need some help?"
-    mesfl "你需要帮助吗？"
+    mesfl "需要帮忙吗？"
 
 # game/code/d10p2/d10p2s04-dw.rpy:613
 translate chinese d10p2s04_dwmc_end_ebc6bc94:
 
     # mesfl "[mclogin]? You alright?"
-    mesfl "[mclogin]？ 你没事吧？"
+    mesfl "[mclogin]？你没事吧？"
 
 # game/code/d10p2/d10p2s04-dw.rpy:616
 translate chinese d10p2s04_dwmc_end_50f098c2:
 
     # mc "Yeah. Just, could use some help getting out of here."
-    mc "嗯。只是，可能需要帮助才能离开这里。"
+    mc "还好。只是，我可能需要帮助才能离开这里。"
 
 # game/code/d10p2/d10p2s04-dw.rpy:618
 translate chinese d10p2s04_dwmc_end_f0e8be13:
@@ -922,7 +922,7 @@ translate chinese d10p2s04_dwmc_end_f0e8be13:
 translate chinese d10p2s04_dwmc_end_fca52711:
 
     # mc "No."
-    mc "没有。"
+    mc "没。"
 
 # game/code/d10p2/d10p2s04-dw.rpy:621
 translate chinese d10p2s04_dwmc_end_33861e56:
@@ -946,19 +946,19 @@ translate chinese d10p2s04_dwmc_end_fa45f281:
 translate chinese d10p2s04_dwmc_end_a43cb2f5:
 
     # mesfl "I'll let you get dressed."
-    mesfl "我让你穿衣服吧。"
+    mesfl "我先让你穿衣服吧。"
 
 # game/code/d10p2/d10p2s04-dw.rpy:636
 translate chinese d10p2s04_dwmc_end_3d779447:
 
     # mesfl "I'll uh, I'll let you get cleaned up a bit."
-    mesfl "我，我让你洗个澡吧。"
+    mesfl "我，我先让你洗个澡吧。"
 
 # game/code/d10p2/d10p2s04-dw.rpy:638
 translate chinese d10p2s04_dwmc_end_4555d42b:
 
     # mc "Yeah... Thanks."
-    mc "好的…谢谢。"
+    mc "好……谢谢。"
 
 # game/code/d10p2/d10p2s04-dw.rpy:646
 translate chinese d10p2s04_dw_talk_min_outside_5eaf9030:
@@ -994,7 +994,7 @@ translate chinese d10p2s04_dw_talk_min_outside_5125667f:
 translate chinese d10p2s04_dw_talk_min_outside_6d35dcd0:
 
     # mct "I hope Mistres— Uh, Dahlia... I hope she isn't too mad."
-    mct "我希望主人——呃，黛丽娅……我希望她不会太生气。"
+    mct "我希望主人--呃，黛丽娅……我希望她不会太生气。"
 
 # game/code/d10p2/d10p2s04-dw.rpy:659
 translate chinese d10p2s04_dw_talk_min_outside_f37e2aab:
@@ -1006,7 +1006,7 @@ translate chinese d10p2s04_dw_talk_min_outside_f37e2aab:
 translate chinese d10p2s04_dw_talk_min_outside_e7bcb7df:
 
     # mesfl "Where's my vibrator?"
-    mesfl "我振动棒呢？"
+    mesfl "咦，我振动棒呢？"
 
 # game/code/d10p2/d10p2s04-dw.rpy:668
 translate chinese d10p2s04_dw_talk_min_outside_af265c15:
@@ -1024,7 +1024,7 @@ translate chinese d10p2s04_dw_talk_min_outside_3bdc40ec:
 translate chinese d10p2s04_dw_talk_min_outside_899d816b:
 
     # mesfl "I'm sorry that you didn't have a good time in there."
-    mesfl "我很抱歉你在那里玩得不开心。"
+    mesfl "很抱歉你在那里玩得不开心。"
 
 # game/code/d10p2/d10p2s04-dw.rpy:674
 translate chinese d10p2s04_dw_talk_min_outside_f211005a:
@@ -1066,7 +1066,7 @@ translate chinese d10p2s04_dw_talk_min_outside_5125667f_1:
 translate chinese d10p2s04_dw_talk_min_outside_6d35dcd0_1:
 
     # mct "I hope Mistres— Uh, Dahlia... I hope she isn't too mad."
-    mct "我希望主人——呃，黛丽娅……我希望她不会太生气。"
+    mct "我希望主人--呃，黛丽娅……我希望她不会太生气。"
 
 # game/code/d10p2/d10p2s04-dw.rpy:688
 translate chinese d10p2s04_dw_talk_min_outside_8d4d54d6:
@@ -1102,7 +1102,7 @@ translate chinese d10p2s04_dwmcmin_safeword_6a13c3e3:
 translate chinese d10p2s04_dwmcmin_safeword_c18af217:
 
     # dw "Now you've done it."
-    dw "现在你做到了。"
+    dw "很好，现在你做到了。"
 
 # game/code/d10p2/d10p2s04-dw.rpy:708
 translate chinese d10p2s04_dwmcmin_safeword_6aebfdbc:
@@ -1132,7 +1132,7 @@ translate chinese d10p2s04_dwmcmin_safeword_4b2e58bc:
 translate chinese d10p2s04_dwmcmin_safeword_20f1b09a:
 
     # mesfl "Here, let me get you out of there."
-    mesfl "来，让我把你弄出来。"
+    mesfl "来，我来把你弄出来。"
 
 # game/code/d10p2/d10p2s04-dw.rpy:724
 translate chinese d10p2s04_dwmcmin_safeword_fa45f281:
@@ -1158,15 +1158,15 @@ translate chinese strings:
 
     # game/code/d10p2/d10p2s04-dw.rpy:252
     old "Let go; get hard"
-    new "放手，使劲"
+    new "屈服；让自己硬起来"
 
     # game/code/d10p2/d10p2s04-dw.rpy:252
     old "Control yourself; don't"
-    new "控制自己，不要"
+    new "不要，试着控制自己"
 
     # game/code/d10p2/d10p2s04-dw.rpy:363
     old "Try to take it all in"
-    new "试着把所有的事情都看在眼里"
+    new "试着全部吞进去"
 
     # game/code/d10p2/d10p2s04-dw.rpy:363
     old "Give up"
