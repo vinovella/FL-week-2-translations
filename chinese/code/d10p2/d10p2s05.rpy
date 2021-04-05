@@ -22,19 +22,19 @@ translate chinese d10p2s05_4d6ee40c:
 translate chinese d10p2s05_2acb222c:
 
     # fl "You will not be informed about who your partner will be. You will have to go out in search of them."
-    fl "你将不会被告知你的伴侣是谁。你得出去寻找对方。"
+    fl "你将不会被告知伴侣的身份。你得出去寻找对方。"
 
 # game/code/d10p2/d10p2s05.rpy:68
 translate chinese d10p2s05_8a32419e:
 
     # fl "Your tracker will vibrate more intensely as you get closer to your partner."
-    fl "你越靠近你的伴侣，你的追踪器就会振动地越强烈。"
+    fl "越靠近你的伴侣，追踪器就会振动地越强烈。"
 
 # game/code/d10p2/d10p2s05.rpy:69
 translate chinese d10p2s05_57540a63:
 
     # fl "Good luck, [mclogin]."
-    fl "祝你好运，[mclogin]."
+    fl "祝你好运，[mclogin]。"
 
 # game/code/d10p2/d10p2s05.rpy:77
 translate chinese d10p2s05_bde11749:
@@ -64,7 +64,7 @@ translate chinese d10p2s05_pandora_room_dc37e4eb:
 translate chinese d10p2s05_fr_am_2ed25125:
 
     # mct "A brooding Antony and nothing else."
-    mct "一个忧郁的安东尼，仅此而已。"
+    mct "这只有一个忧郁的安东尼，仅此而已。"
 
 # game/code/d10p2/d10p2s05.rpy:212
 translate chinese d10p2s05_fr_dd_aw_0be263f7:
@@ -154,7 +154,7 @@ translate chinese d10p2s05_fr_cb_kb_b56a9721:
 translate chinese d10p2s05_fr_cb_kb_return_0a1476bc:
 
     # mct "Doesn't seem like it's Chloe."
-    mct "看来不是克洛伊"
+    mct "看来不是克洛伊。"
 
 # game/code/d10p2/d10p2s05.rpy:305
 translate chinese d10p2s05_fr_cb_kb_return_b56a9721:
@@ -166,7 +166,7 @@ translate chinese d10p2s05_fr_cb_kb_return_b56a9721:
 translate chinese d10p2s05_fr_cl_chat_f0fefa6e:
 
     # mct "Is she...?"
-    mct "她是不是……？"
+    mct "是她吗……？"
 
 # game/code/d10p2/d10p2s05.rpy:315
 translate chinese d10p2s05_fr_cl_chat_7884c2dd:
@@ -190,13 +190,13 @@ translate chinese d10p2s05_fr_cl_chat_669664cb:
 translate chinese d10p2s05_fr_cl_chat_a458071f:
 
     # cl "What are you doing up here, {i}master{/i}?"
-    cl "你在上面做什么，{i}大师{/i}？"
+    cl "你在这儿做什么，{i}大师{/i}？"
 
 # game/code/d10p2/d10p2s05.rpy:323
 translate chinese d10p2s05_fr_cl_chat_1cbec7b6:
 
     # mc "...Doing this proximity thing. You?"
-    mc "……在做这个接近的事情。你呢？"
+    mc "……在做这个近距离活动。你呢？"
 
 # game/code/d10p2/d10p2s05.rpy:325
 translate chinese d10p2s05_fr_cl_chat_1a74a5d3:
@@ -220,13 +220,13 @@ translate chinese d10p2s05_fr_cl_chat_825b7334:
 translate chinese d10p2s05_fr_cl_chat_b4d816c9:
 
     # cl "So what are you doing up here?"
-    cl "那你在这上面做什么？
+    cl "那你在这儿做什么？"
 
 # game/code/d10p2/d10p2s05.rpy:330
 translate chinese d10p2s05_fr_cl_chat_2750dc40:
 
     # mc "Doing this proximity thing. You?"
-    mc "做这个接近的事情。你呢？"
+    mc "做这个近距离活动。你呢？"
 
 # game/code/d10p2/d10p2s05.rpy:333
 translate chinese d10p2s05_fr_cl_chat_ae409746:
@@ -238,25 +238,25 @@ translate chinese d10p2s05_fr_cl_chat_ae409746:
 translate chinese d10p2s05_fr_cl_chat_d8783e6e:
 
     # cl "What's the \"proximity thing\"?"
-    cl "什么是\"proximity thing\"?"
+    cl "\"近距离活动\"是什么？"
 
 # game/code/d10p2/d10p2s05.rpy:335
 translate chinese d10p2s05_fr_cl_chat_13c2b920:
 
     # mc "You get assigned someone random and you have to find them within 20 minutes and have a double orgasm with them."
-    mc "你会被随机分配一个人，必须在20分钟内找到对方，然后和那人一起享受双倍的高潮。"
+    mc "你会被系统随机分配给一个人，必须在20分钟内找到对方，然后和那人一起享受双倍高潮。"
 
 # game/code/d10p2/d10p2s05.rpy:337
 translate chinese d10p2s05_fr_cl_chat_5a57fd0a:
 
     # cl "Sounds interesting. I might hop in."
-    cl "听起来很有趣。我可能会加入。"
+    cl "听起来很有趣。我可能会一起加入。"
 
 # game/code/d10p2/d10p2s05.rpy:338
 translate chinese d10p2s05_fr_cl_chat_2c4035f5:
 
     # mc "Go for it. But I gotta run. Timer doesn't stop till I find my partner."
-    mc "好啊，但我得走了。这计时器可不会停，直到我找到搭档为止。"
+    mc "好啊，但我得走了。这计时器可是一直在走，直到我找到搭档为止。"
 
 # game/code/d10p2/d10p2s05.rpy:339
 translate chinese d10p2s05_fr_cl_chat_a856ba42:
@@ -292,7 +292,7 @@ translate chinese d10p2s05_fr_op_chat_93e17cbc:
 translate chinese d10p2s05_fr_painting_6b2b6b75:
 
     # mct "That's pretty cool. Wonder if I can get a print for myself?"
-    mct "太酷了。不知道我能不能给自己弄个指纹？"
+    mct "太酷了。不知道我能自己也模仿一下吗？"
 
 # game/code/d10p2/d10p2s05.rpy:370
 translate chinese d10p2s05_sy_chat_681c0a83:
@@ -304,7 +304,7 @@ translate chinese d10p2s05_sy_chat_681c0a83:
 translate chinese d10p2s05_give_up_16b3dc27:
 
     # mct "There's no use. I'll never find them."
-    mct "没有用的。我永远也找不到它们了。"
+    mct "没有用的。我永远也找不到那个搭档了。"
 
 # game/code/d10p2/d10p2s05.rpy:381
 translate chinese d10p2s05_give_up_9ab0441d:
@@ -322,7 +322,7 @@ translate chinese d10p2s05_give_up_52c9c205:
 translate chinese d10p2s05_fr_end_55ed74ca:
 
     # mct "Great... So it's either Lyssa or Min."
-    mct "太好了……。所以不是莱莎就是敏。"
+    mct "太好了……所以不是丽莎就是明。"
 
 # game/code/d10p2/d10p2s05.rpy:393
 translate chinese d10p2s05_fr_end_d92edcd4:
@@ -346,7 +346,7 @@ translate chinese d10p2s05_fr_end_fdbba088:
 translate chinese d10p2s05_fr_end_553958bb:
 
     # mc "What is going on?"
-    mc "这是怎么回事？"
+    mc "怎么了嘛？"
 
 # game/code/d10p2/d10p2s05.rpy:408
 translate chinese d10p2s05_fr_end_76359310:
@@ -370,7 +370,7 @@ translate chinese d10p2s05_fr_end_7ea11328:
 translate chinese d10p2s05_fr_end_975d93c7:
 
     # mesfl "I guess that is the proximity event. [mclogin], are you looking for your partner?"
-    mesfl "我想这就是近距离事件吧。[mclogin]，你是在找你的搭档吗？"
+    mesfl "大概是因为近距离活动吧。[mclogin]，你是在找你的搭档吗？"
 
 # game/code/d10p2/d10p2s05.rpy:413
 translate chinese d10p2s05_fr_end_b180829a:
@@ -382,13 +382,13 @@ translate chinese d10p2s05_fr_end_b180829a:
 translate chinese d10p2s05_fr_end_b338d017:
 
     # mh "...Proximity event?"
-    mh "……接近事件？"
+    mh "……近距离活动？"
 
 # game/code/d10p2/d10p2s05.rpy:417
 translate chinese d10p2s05_fr_end_3cbb285e:
 
     # mesfl "Random partner, 20 minutes, both have to orgasm. Proximity Event in a nutshell."
-    mesfl "随机伴侣，20分钟为限，双方必须都达到高潮。简而言之，就是接近事件。"
+    mesfl "找随机伴侣，20分钟为限，双方必须都达到高潮。简而言之，这就是近距离活动。"
 
 # game/code/d10p2/d10p2s05.rpy:419
 translate chinese d10p2s05_fr_end_760ad89f:
@@ -400,13 +400,13 @@ translate chinese d10p2s05_fr_end_760ad89f:
 translate chinese replay_d10p2s05_3fd8e5e4:
 
     # mh "So what do you want to do, how does this work?"
-    mh "那你想怎么做，这个要怎么用？"
+    mh "你想怎么做，另外这个要怎么用？"
 
 # game/code/d10p2/d10p2s05.rpy:440
 translate chinese replay_d10p2s05_f425f8fd:
 
     # mc "Like Squizzle said, we need to make each other cum in 20 minutes."
-    mc "就像Squizzle说的，我们要在20分钟内让对方高潮。"
+    mc "就像斯奎兹说的，我们要在20分钟内让对方高潮。"
 
 # game/code/d10p2/d10p2s05.rpy:442
 translate chinese replay_d10p2s05_3ea03779:
@@ -472,7 +472,7 @@ translate chinese replay_d10p2s05_f272b6df:
 translate chinese replay_d10p2s05_e57afe98:
 
     # mh "Did we win? {w}What does it say?"
-    mh "我们赢了吗？{w}我们赢了吗？"
+    mh "我们赢了吗？{w}软件怎么说？"
 
 # game/code/d10p2/d10p2s05.rpy:481
 translate chinese replay_d10p2s05_72894bdb:
@@ -484,13 +484,13 @@ translate chinese replay_d10p2s05_72894bdb:
 translate chinese replay_d10p2s05_2313fda2:
 
     # mc "It says we won... But how? You didn't cum!"
-    mc "它说我们赢了……。但是怎么赢的？你没射啊！"
+    mc "它说我们赢了……但是怎么赢的？你没射啊！"
 
 # game/code/d10p2/d10p2s05.rpy:485
 translate chinese replay_d10p2s05_82310c3e:
 
     # mh "I did!"
-    mh "我射了！
+    mh "我射了！"
 
 # game/code/d10p2/d10p2s05.rpy:486
 translate chinese replay_d10p2s05_213133ae:
@@ -514,7 +514,7 @@ translate chinese replay_d10p2s05_8db86a34:
 translate chinese replay_d10p2s05_26c93eb6:
 
     # mh "That will be my secret."
-    mh "这是我的秘密哦。"
+    mh "那就是我的秘密啦。"
 
 # game/code/d10p2/d10p2s05.rpy:497
 translate chinese replay_d10p2s05_28a95b50:
@@ -604,7 +604,7 @@ translate chinese replay_d10p2s05_7a4af0ef:
 translate chinese replay_d10p2s05_d73c2166:
 
     # mc "Oh you do."
-    mc "嗯，你有。"
+    mc "哈，你就是有。"
 
 # game/code/d10p2/d10p2s05.rpy:527
 translate chinese replay_d10p2s05_9af06648:
@@ -646,7 +646,7 @@ translate chinese replay_d10p2s05_41ede43a:
 translate chinese replay_d10p2s05_7c820176:
 
     # mh "Oh! Yes, master!"
-    mh "哦，好的，主人！"
+    mh "哦！好嘞，主人！"
 
 # game/code/d10p2/d10p2s05.rpy:539
 translate chinese replay_d10p2s05_72068500:
@@ -682,7 +682,7 @@ translate chinese replay_d10p2s05_148a5509:
 translate chinese replay_d10p2s05_439bbbec:
 
     # mc "I'm ready to go to the next step! Are you?"
-    mc "我已经准备好进入下一步了! 你呢？"
+    mc "我准备好进入下一步了！你呢？"
 
 # game/code/d10p2/d10p2s05.rpy:555
 translate chinese replay_d10p2s05_4547ff34:
@@ -730,7 +730,7 @@ translate chinese replay_d10p2s05_af2c1e35:
 translate chinese replay_d10p2s05_d8a57309:
 
     # mc "Right now, right here, I want you."
-    mc "就此时此刻，我想要你。"
+    mc "就此时此刻，我想要了你。"
 
 # game/code/d10p2/d10p2s05.rpy:572
 translate chinese replay_d10p2s05_78222b89:
@@ -802,7 +802,7 @@ translate chinese replay_d10p2s05_776540c5:
 translate chinese replay_d10p2s05_e7e2b355:
 
     # mh "It can't wait to be stretched by you!"
-    mh "它已经等不及想要被你拉长了！"
+    mh "它已经等不及想要被你撑大了！"
 
 # game/code/d10p2/d10p2s05.rpy:609
 translate chinese replay_d10p2s05_dcd935c5:
@@ -844,13 +844,13 @@ translate chinese replay_d10p2s05_d9590eed:
 translate chinese replay_d10p2s05_3bd00545:
 
     # mc "Oh my! Your ass feels amazing!"
-    mc "哦，天哪！你的屁股感觉好极了！"
+    mc "哈我天！你屁股感觉真不错！"
 
 # game/code/d10p2/d10p2s05.rpy:625
 translate chinese replay_d10p2s05_1bb47070:
 
     # mh "Your... {w} Dick... {w} Even better!"
-    mh "你的……{w} 鸡巴……{w}甚至更好！"
+    mh "你的……{w}鸡巴……{w}甚至更好！"
 
 # game/code/d10p2/d10p2s05.rpy:631
 translate chinese replay_d10p2s05_b007b238:
@@ -898,19 +898,19 @@ translate chinese replay_d10p2s05_74fc6761:
 translate chinese replay_d10p2s05_4860fa18:
 
     # mc "Where do you—"
-    mc "你想在哪……"
+    mc "你想在哪--"
 
 # game/code/d10p2/d10p2s05.rpy:690
 translate chinese replay_d10p2s05_5f74942c:
 
     # mh "Wherever you want."
-    mh "你想在哪就在哪"
+    mh "你想在哪就在哪。"
 
 # game/code/d10p2/d10p2s05.rpy:694
 translate chinese replay_d10p2s05_7ad288c5:
 
     # mc "Your ass is getting a treat!"
-    mc "你的屁股会得到好处的！"
+    mc "你的屁股要吃点好吃的了！"
 
 # game/code/d10p2/d10p2s05.rpy:695
 translate chinese replay_d10p2s05_b64a2483:
@@ -940,7 +940,7 @@ translate chinese replay_d10p2s05_1586f599:
 translate chinese replay_d10p2s05_04b1c3a4:
 
     # mh "Thank you for that."
-    mh "谢谢你"
+    mh "谢谢你。"
 
 # game/code/d10p2/d10p2s05.rpy:722
 translate chinese replay_d10p2s05_823a982d:
@@ -952,7 +952,7 @@ translate chinese replay_d10p2s05_823a982d:
 translate chinese replay_d10p2s05_d8ae21f4:
 
     # mh "{i}That{/i}."
-    mh "{i}那个{/i}。"
+    mh "{i}那个{/i}啊。"
 
 # game/code/d10p2/d10p2s05.rpy:725
 translate chinese replay_d10p2s05_0f88ef6c:
@@ -994,25 +994,25 @@ translate chinese replay_d10p2s05_4cdcd26c:
 translate chinese replay_d10p2s05_39e66900:
 
     # fl "Proximity Event complete."
-    fl "近距离事件完成。"
+    fl "近距离活动完成。"
 
 # game/code/d10p2/d10p2s05.rpy:738
 translate chinese replay_d10p2s05_3c00b544:
 
     # fl "Congratulations, [mclogin]."
-    fl "恭喜你，[mclogin]."
+    fl "恭喜你，[mclogin]。"
 
 # game/code/d10p2/d10p2s05.rpy:740
 translate chinese replay_d10p2s05_dc9e8b9f:
 
     # mc "Okay. Thank God. We did it in time!"
-    mc "好了。感谢上帝，我们及时完成了！"
+    mc "好了。谢天谢地，我们及时完成了！"
 
 # game/code/d10p2/d10p2s05.rpy:742
 translate chinese replay_d10p2s05_bef12c5a:
 
     # mh "I think I'd count that as a win even if the machines didn't."
-    mh "我想就算是机器这里没有成功，我也会把这算是一场胜利。"
+    mh "我想就算是软件说我们没有成功，我自己也会把这算是一场胜利。"
 
 # game/code/d10p2/d10p2s05.rpy:743
 translate chinese replay_d10p2s05_e39d918d:
@@ -1030,7 +1030,7 @@ translate chinese replay_d10p2s05_9ca0c70f:
 translate chinese replay_d10p2s05_46a4a754:
 
     # mh "No, it's fine. I will wait here for Squizzle with my mask."
-    mh "不，没事。我就在这里等Squizzle给我拿面具。"
+    mh "不用，没事的。我就在这里等斯奎兹给我拿面具。"
 
 # game/code/d10p2/d10p2s05.rpy:748
 translate chinese replay_d10p2s05_6651ab87:
@@ -1042,7 +1042,7 @@ translate chinese replay_d10p2s05_6651ab87:
 translate chinese replay_d10p2s05_2420d524:
 
     # mh "See you later."
-    mh "再见啊。"
+    mh "待会见啦。"
 
 translate chinese strings:
 
@@ -1056,7 +1056,7 @@ translate chinese strings:
 
     # game/code/d10p2/d10p2s05.rpy:435
     old "Go for it"
-    new "去吧"
+    new "大胆尝试"
 
     # game/code/d10p2/d10p2s05.rpy:435
     old "Reject her"
