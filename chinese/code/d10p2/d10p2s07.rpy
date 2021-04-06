@@ -4,7 +4,7 @@
 translate chinese d10p2s07_b7b7542f:
 
     # mct "Mi... Squizzle told me to go 2-nd floor bedroom..."
-    mct "明……斯奎兹让我去二楼卧室……"
+    mct "明……哦，是斯奎兹让我去二楼卧室……"
 
 # game/code/d10p2/d10p2s07.rpy:6
 translate chinese d10p2s07_08f2922a:
@@ -28,7 +28,7 @@ translate chinese d10p2s07_2aa117b6:
 translate chinese d10p2s07_f857cff3:
 
     # aw "I don't know if you'd call it \"dating\", but yeah, we used to do stuff together."
-    aw "我不知道那算不算\"约会\"，不过也可以这么说，我们以前经常一起做一些事情。"
+    aw "我不知道那算不算\"约会\"，不过也可以这么说，我们以前经常在一起。"
 
 # game/code/d10p2/d10p2s07.rpy:17
 translate chinese d10p2s07_d1c8ab6c:
@@ -40,7 +40,7 @@ translate chinese d10p2s07_d1c8ab6c:
 translate chinese d10p2s07_fe22efca:
 
     # aw "A physical relationship, sure. Lyssa needed a fuckbuddy, and I was always D.T.F."
-    aw "哦，当然是肉体关系。丽莎需要个炮友，而我一直都在。"
+    aw "哦，当然是肉体关系。丽莎需要个炮友，而我一直都随叫随到。"
 
 # game/code/d10p2/d10p2s07.rpy:20
 translate chinese d10p2s07_ffe7c7f6:
@@ -52,7 +52,7 @@ translate chinese d10p2s07_ffe7c7f6:
 translate chinese d10p2s07_d94e4566:
 
     # aw "Well, I'm always down to fuck her.{w} Actually, I'm almost always down to fuck, but it really depends on the person."
-    aw "好吧，我总是很乐于和她做爱。{w}其实，我好像一直都是跟她搞得，但真的要看人。"
+    aw "好吧，我总是很乐于做爱的。{w}其实，我好像一直都在对外开放我的身体，但这真的要看人。"
 
 # game/code/d10p2/d10p2s07.rpy:23
 translate chinese d10p2s07_6de3ad40:
@@ -70,13 +70,13 @@ translate chinese d10p2s07_717001ba:
 translate chinese d10p2s07_7305baba:
 
     # mc "Is that why you two were never romantic? She just didn't have the time?"
-    mc "这就是你们俩没谈恋爱的原因吗?只是因为她没有时间？"
+    mc "这就是你们俩没谈恋爱的原因吗？只是因为她没有时间？"
 
 # game/code/d10p2/d10p2s07.rpy:27
 translate chinese d10p2s07_699ac2b2:
 
     # aw "Well, that and the plumbing."
-    aw "嗯，还有水管的事。"
+    aw "呃，还有"排水渠"的原因。"
 
 # game/code/d10p2/d10p2s07.rpy:29
 translate chinese d10p2s07_05500ff6:
@@ -118,7 +118,7 @@ translate chinese d10p2s07_9b3d0e08:
 translate chinese d10p2s07_5bb223f0:
 
     # aw "What Lyssa and I had was basically like 30 one-night-stands that slowly turned into a friendship."
-    aw "我和丽莎的关系基本上是30次一夜情，慢慢变成了友谊。"
+    aw "我和丽莎的关系基本上是发生30次一夜情，才慢慢变成了友谊的。"
 
 # game/code/d10p2/d10p2s07.rpy:42
 translate chinese d10p2s07_bd00b9da:
@@ -136,7 +136,7 @@ translate chinese d10p2s07_3214c10d:
 translate chinese d10p2s07_f2569d96:
 
     # mc "Netflix and popcorn?"
-    mc "Netflix和爆米花？"
+    mc "一起追剧吃爆米花吗？"
 
 # game/code/d10p2/d10p2s07.rpy:47
 translate chinese d10p2s07_e21f7721:
@@ -148,7 +148,7 @@ translate chinese d10p2s07_e21f7721:
 translate chinese d10p2s07_cc2f422e:
 
     # aw "Second, even if I wanted to I don't have the right plumbing to pursue Lyssa romantically."
-    aw "其次，即使我想，我也没有合适的管道去追求丽莎。"
+    aw "其次，即使我想，我也没有合适的"排水渠"去追求丽莎。"
 
 # game/code/d10p2/d10p2s07.rpy:50
 translate chinese d10p2s07_8a340642:
@@ -184,7 +184,7 @@ translate chinese d10p2s07_3bc69c2c:
 translate chinese d10p2s07_21c4a84e:
 
     # aw "... while in private she wants to have bruised knees from sucking her husband's cock and letting him fuck her ass anytime he wants."
-    aw "而私底下，她却想吸丈夫的鸡巴直至不惜膝盖淤青，让男人随时操她的屁股。"
+    aw "而私底下，她却想吸丈夫的鸡巴直至不惜膝盖淤青，还想时刻准备好让男人操她屁股。"
 
 # game/code/d10p2/d10p2s07.rpy:60
 translate chinese d10p2s07_16753499:
@@ -226,7 +226,7 @@ translate chinese d10p2s07_5dedf76b:
 translate chinese d10p2s07_d4451d95:
 
     # aw "Not as far as I can remember. It's just my impression."
-    aw "我记不清楚了。这只是我的印象。"
+    aw "我记不清楚了。但我印象里是这样。"
 
 # game/code/d10p2/d10p2s07.rpy:70
 translate chinese d10p2s07_8c45047a:
@@ -238,19 +238,19 @@ translate chinese d10p2s07_8c45047a:
 translate chinese d10p2s07_ae5adbbd:
 
     # aw "We got to talking, having fun, and became friends rather than just fucking."
-    aw "我们开始聊天，玩得很开心，成为了朋友，而不仅仅是做爱。"
+    aw "我们开始聊天，玩得很开心，最后没有做爱，而是成了朋友。"
 
 # game/code/d10p2/d10p2s07.rpy:72
 translate chinese d10p2s07_a75cd861:
 
     # aw "Once that happened... {w}Well, we've never taken those sexy outfits off each other."
-    aw "一旦发生这种情况…… {w}好吧，我们从没把那些性感的衣服从对方身上脱下来过。"
+    aw "一旦这种情况发生了…… {w}好吧，我们从没把那些性感的衣服从对方身上脱下来过。"
 
 # game/code/d10p2/d10p2s07.rpy:73
 translate chinese d10p2s07_80652ecb:
 
     # mc "Huh. {w}How do you feel about that?"
-    mc "呵，{w}你觉得怎么样？"
+    mc "呵，{w}那你是怎么想的？"
 
 # game/code/d10p2/d10p2s07.rpy:75
 translate chinese d10p2s07_0df2618b:
@@ -262,7 +262,7 @@ translate chinese d10p2s07_0df2618b:
 translate chinese d10p2s07_2486b9f5:
 
     # aw "What it was is over, and something new has taken its place. {w}Neither better nor worse, just different."
-    aw "以前的事情已经过去了，取而代之的是新的东西。{w}没有更好也没有更坏，只是不同了而已。"
+    aw "以前的事情已经过去了，现在要朝前看。{w}没有更好也没有更坏，只是单纯不同了而已。"
 
 # game/code/d10p2/d10p2s07.rpy:77
 translate chinese d10p2s07_859f381f:
@@ -274,7 +274,7 @@ translate chinese d10p2s07_859f381f:
 translate chinese d10p2s07_9da21074:
 
     # aw "Did that answer your concern?"
-    aw "这回答了你的问题吗?"
+    aw "这算回答了你的问题吗？"
 
 # game/code/d10p2/d10p2s07.rpy:80
 translate chinese d10p2s07_0b81e0c5:
@@ -298,7 +298,7 @@ translate chinese d10p2s07_99c097c5:
 translate chinese d10p2s07_5c3d3258:
 
     # mc "Squizzle told me to meet you here, but I'm not sure why."
-    mc "斯奎兹叫我来这里见你，但我不知道为什么。"
+    mc "斯奎兹叫我来这里见你，但我不知道为什么哎。"
 
 # game/code/d10p2/d10p2s07.rpy:89
 translate chinese d10p2s07_d8e5c245:
@@ -310,13 +310,13 @@ translate chinese d10p2s07_d8e5c245:
 translate chinese d10p2s07_28fc3cea:
 
     # mc "Huh? {w}I mean, hell yes... {w}I'm just confused."
-    mc "啊？{w}我是说，我当然愿意……{w}只是还有点困惑。"
+    mc "啊？{w}我是说，我当然愿意……{w}只是还不太明白。"
 
 # game/code/d10p2/d10p2s07.rpy:92
 translate chinese d10p2s07_d485a445:
 
     # aw "We won the contest, silly! You & I are performing the main event!"
-    aw "我们赢了比赛啊，傻瓜! 你和我的表演可是主活动的重头戏！"
+    aw "我们赢了比赛啊，傻瓜！你和我的表演可是主活动的重头戏！"
 
 # game/code/d10p2/d10p2s07.rpy:94
 translate chinese d10p2s07_e97abbe2:
@@ -358,25 +358,25 @@ translate chinese d10p2s07_cad731fe:
 translate chinese d10p2s07_b667a6a5:
 
     # mc "Congrats! {w}Hmm, I doubt I came more than any other guy, though."
-    mc "恭喜你了! {w}呃，不过我怀疑自己有比其他所有男人来的都多嘛。"
+    mc "恭喜你了！{w}呃，不过我怀疑自己有比其他所有男人来的都多嘛。"
 
 # game/code/d10p2/d10p2s07.rpy:108
 translate chinese d10p2s07_34971ded:
 
     # aw "Well, it was a tie. I was allowed to break the tie by choosing the guy I wanted to perform with..."
-    aw "嗯哼，这是个平局。他们允许我选择一个我想一起表演的人来打破平局……"
+    aw "嗯哼，这是个平局。他们允许我选个想一起表演的人来打破平局……"
 
 # game/code/d10p2/d10p2s07.rpy:109
 translate chinese d10p2s07_20126545:
 
     # mc "You chose me? {w}Why?"
-    mc "你选择了我？{w}为什么？"
+    mc "所以你选了我？{w}为什么？"
 
 # game/code/d10p2/d10p2s07.rpy:110
 translate chinese d10p2s07_a46a9088:
 
     # aw "Don't sell yourself short, sexy. {w}You're hot as fuck, and I want to get screwed by you tonight."
-    aw "别小看自己了，性感先生。{w}你性感得要命好嘛，今晚我想被你干。"
+    aw "别小看自己了啊，性感先生。{w}你性感得要命好嘛，今晚我想被你干的。"
 
 # game/code/d10p2/d10p2s07.rpy:113
 translate chinese d10p2s07_066ac5f7:
@@ -400,7 +400,7 @@ translate chinese d10p2s07_be633724:
 translate chinese d10p2s07_d413636d:
 
     # aw "Ha! I wish!{w} Nah, nobody will be able to see us up there except the Party guests."
-    aw "哈！我倒希望如此！{{w}没啦，除了党的客人，没有人能看到我们。"
+    aw "哈！我倒希望如此！{{w}没啦，除了派对的客人，没有人能看到我们。"
 
 # game/code/d10p2/d10p2s07.rpy:119
 translate chinese d10p2s07_29ded0a3:
@@ -412,13 +412,13 @@ translate chinese d10p2s07_29ded0a3:
 translate chinese d10p2s07_c0630f9c:
 
     # aw "Discussing what we're going to do, getting oiled & lubed, ya'know... basic planning & prep."
-    aw "讨论下我们要做什么，上油和润滑，你知道的……就一些基本的计划和准备。"
+    aw "讨论下我们要做什么，上油啊，润滑啊，你知道的……就一些基本的计划和准备。"
 
 # game/code/d10p2/d10p2s07.rpy:123
 translate chinese d10p2s07_e94f3e75:
 
     # mc "Oiled & lubed? {w}Wait, you're not planning on pegging me, are you?!"
-    mc "上油和润滑？{w}等等，你不会是打算钉我吧?!"
+    mc "上油？润滑？{w}等等，你不会是打算从后面上我吧?!"
 
 # game/code/d10p2/d10p2s07.rpy:124
 translate chinese d10p2s07_2b32b51f:
@@ -430,7 +430,7 @@ translate chinese d10p2s07_2b32b51f:
 translate chinese d10p2s07_4918e594:
 
     # mc "Nope! Definitely not!"
-    mc "不! 绝对不想!"
+    mc "不！绝对不想！"
 
 # game/code/d10p2/d10p2s07.rpy:129
 translate chinese d10p2s07_573972eb:
@@ -442,7 +442,7 @@ translate chinese d10p2s07_573972eb:
 translate chinese d10p2s07_841bb39c:
 
     # aw "That's fine."
-    aw "那就好。"
+    aw "行啊。"
 
 # game/code/d10p2/d10p2s07.rpy:132
 translate chinese d10p2s07_f4bfb45f:
@@ -454,37 +454,37 @@ translate chinese d10p2s07_f4bfb45f:
 translate chinese d10p2s07_6998b1a5:
 
     # mc "I mean, I'm as experimental as the next guy, but definitely don't want to try that in front of an audience!"
-    mc "我是说，我和其他人一样具有实验性，但我绝对不想在观众面前这么做!"
+    mc "我是说，我当然也和其他人一样喜欢实验，但我绝对不想在观众面前这么做！"
 
 # game/code/d10p2/d10p2s07.rpy:136
 translate chinese d10p2s07_1bbf8248:
 
     # aw "Sure, sure. {w}Would you like to hear what I do have in mind?"
-    aw "当然，也可以。{w}你想听听我有什么想法吗？"
+    aw "当然，那也可以。{w}你想听听我的想法吗？"
 
 # game/code/d10p2/d10p2s07.rpy:137
 translate chinese d10p2s07_aaed0a93:
 
     # mc "As long as it doesn't involve putting anything up my thief hole."
-    mc "只要不涉及把任何东西放进我的贼洞里就好。"
+    mc "只要不碰我下面的洞就好。"
 
 # game/code/d10p2/d10p2s07.rpy:139
 translate chinese d10p2s07_b5be729e:
 
     # aw "Relax, this is going to be fun for both of us. Neither of us is going to do anything they aren't interested in doing."
-    aw "别紧张，这对我们俩来说都会很有趣的。我们俩都不会做任何他们不感兴趣的事。"
+    aw "别紧张，这对我们俩来说都会很有趣的。我们谁都不会做任何他们不感兴趣的事。"
 
 # game/code/d10p2/d10p2s07.rpy:146
 translate chinese d10p2s07_e87f3ed9:
 
     # aw "When we enter, we will both be wearing just our masks - although maybe I should be wearing high heels."
-    aw "等我们进去的时候，我们都只戴着面具--虽然也许我该穿上高跟鞋。"
+    aw "等我们进去的时候，我们都只戴着面具--虽然我可能要穿上高跟鞋。"
 
 # game/code/d10p2/d10p2s07.rpy:147
 translate chinese d10p2s07_e8648018:
 
     # mc "I like where this is going so far."
-    mc "我喜欢现在的进展。"
+    mc "我喜欢现在的走向。"
 
 # game/code/d10p2/d10p2s07.rpy:149
 translate chinese d10p2s07_498c040f:
@@ -502,7 +502,7 @@ translate chinese d10p2s07_04fd2c72:
 translate chinese d10p2s07_3b70e269:
 
     # aw "Good. So, you play the dominant male; I play your submissive slut."
-    aw "很好。所以你扮演的是主导的男性，我演的是你那顺从的荡妇。"
+    aw "很好。所以你扮演的是主导的男性角色，我演的是你那顺从的荡妇。"
 
 # game/code/d10p2/d10p2s07.rpy:152
 translate chinese d10p2s07_8af37878:
@@ -526,13 +526,13 @@ translate chinese d10p2s07_2e31bb32:
 translate chinese d10p2s07_1c467b6e:
 
     # mc "Got it. No creampies. {w}Do we need condoms?"
-    mc "知道了。不要体内射精对吧。{{w}我们需要避孕套吗？"
+    mc "知道了。不要体内射精对吧。{w}我们需要避孕套吗？"
 
 # game/code/d10p2/d10p2s07.rpy:159
 translate chinese d10p2s07_168723dc:
 
     # aw "No, it's not about that. {w}It just plays better for the audience. They'll want to see you ejaculate."
-    aw "不，不是这个问题。{w}只是为了观众的观感更好。他们会想看到你射的。"
+    aw "不，不是这个问题。{w}只是为了观众有更好的观感。他们会想看到你射的。"
 
 # game/code/d10p2/d10p2s07.rpy:160
 translate chinese d10p2s07_7e1955a7:
@@ -544,13 +544,13 @@ translate chinese d10p2s07_7e1955a7:
 translate chinese d10p2s07_209352df:
 
     # aw "Have you ever performed in front of people before?"
-    aw "你以前有在人前表演过吗?"
+    aw "你以前有在人前表演过吗？"
 
 # game/code/d10p2/d10p2s07.rpy:164
 translate chinese d10p2s07_b26fce90:
 
     # mc "Kinda. I wasn't really aware of it at the time. I was just fucking someone and didn't notice someone else was in the room."
-    mc "算是吧。我当时并没意识到这一点。就只是在和别人做爱，并没注意到房间里还有别人。"
+    mc "算有过吧。我当时并没意识到这一点。就只是在和别人做爱，并没注意到房间里还有别人。"
 
 # game/code/d10p2/d10p2s07.rpy:165
 translate chinese d10p2s07_5867839d:
@@ -580,13 +580,13 @@ translate chinese d10p2s07_4bf06118:
 translate chinese d10p2s07_6ac379f5:
 
     # aw "Exactly. {w}There's that electric feeling. Your skin gets warm and blood rushes everywhere."
-    aw "没错。{w}有一种触电的感觉。你的皮肤会变暖，血液到处涌动。"
+    aw "没错。{w}有一种触电的感觉。你的皮肤会升温，然后血液在全身涌动。"
 
 # game/code/d10p2/d10p2s07.rpy:172
 translate chinese d10p2s07_cb69e669:
 
     # mc "A lot of people feel nervous or sick from that."
-    mc "很多人都会因此而感到紧张或恶心。
+    mc "很多人都对这个感到紧张或恶心哎。"
 
 # game/code/d10p2/d10p2s07.rpy:174
 translate chinese d10p2s07_5c5edf49:
@@ -598,7 +598,7 @@ translate chinese d10p2s07_5c5edf49:
 translate chinese d10p2s07_3050430a:
 
     # mc "I can see that. {w}So, what should I do between the time that I present you to the audience and when I jerk off on your tits?"
-    mc "我看得出来。{w}从我把你介绍给观众到我在你咪咪上打飞机这段时间我该做什么呢?"
+    mc "我看得出来。{w}那，从我把你介绍给观众到我在你咪咪上打飞机这段时间，我该做什么呢？"
 
 # game/code/d10p2/d10p2s07.rpy:177
 translate chinese d10p2s07_1a9216d8:
@@ -622,13 +622,13 @@ translate chinese d10p2s07_de206c09:
 translate chinese d10p2s07_1f2dbeba:
 
     # mc "Not professionally, but yeah. I've gone clubbing or whatever."
-    mc "不是专业的，但也算跳过。我有去泡吧什么的。"
+    mc "不是专业的，但也算跳过。有去泡过吧什么的。"
 
 # game/code/d10p2/d10p2s07.rpy:182
 translate chinese d10p2s07_43ff938a:
 
     # aw "So, this will be like a dance. You know what the man does while dancing?"
-    aw "所以，这就像跳舞一样。你知道跳舞时男人会做什么吗？"
+    aw "所以，这就像跳舞一样。你知道跳舞时男舞伴会做什么吗？"
 
 # game/code/d10p2/d10p2s07.rpy:183
 translate chinese d10p2s07_20075280:
@@ -658,7 +658,7 @@ translate chinese d10p2s07_ff57599d:
 translate chinese d10p2s07_66ba84de:
 
     # aw "Do what gives you pleasure, and let me worry about making it look good to the audience."
-    aw "做你喜欢做的事，让我来操心如何让观众觉得好看。"
+    aw "你就做你喜欢做的事，我来操心怎么让观众觉得好看。"
 
 # game/code/d10p2/d10p2s07.rpy:193
 translate chinese d10p2s07_c3694256:
@@ -688,13 +688,13 @@ translate chinese d10p2s07_4cc780f4:
 translate chinese d10p2s07_da42a5a0:
 
     # mc "Oh, thanks. {w}I doubt that I'll need to do that, but I'll keep that in mind."
-    mc "哦，谢谢。{w}我怀疑我是否需要这样做，但我会记住这点的。"
+    mc "哦，谢谢。{w}我怀疑到时可能不需要这样做，但我会记住这点的。"
 
 # game/code/d10p2/d10p2s07.rpy:200
 translate chinese d10p2s07_73dba87a:
 
     # mc "Do you mind if I ask, why is that your safeword anyway?"
-    mc "你介意我问一下，为什么那是你的保险箱吗？"
+    mc "你介意我问一下，为什么那是你的安全词吗？"
 
 # game/code/d10p2/d10p2s07.rpy:202
 translate chinese d10p2s07_6776cdbc:
@@ -706,7 +706,7 @@ translate chinese d10p2s07_6776cdbc:
 translate chinese d10p2s07_e1fefc02:
 
     # mct "Huh, I might be able to learn a bit more about her family... and those family problems affecting her."
-    mct "哈，我也许能多了解一些她的家庭……还有那些影响她的家庭问题。"
+    mct "哈，我也许能多了解一些她的家庭……还有那些影响她训练的家庭问题。"
 
 # game/code/d10p2/d10p2s07.rpy:204
 translate chinese d10p2s07_c99d89db:
@@ -718,13 +718,13 @@ translate chinese d10p2s07_c99d89db:
 translate chinese d10p2s07_ac662ce2:
 
     # aw "I always had a ton of energy and why move slowly when you can go fast?"
-    aw "我总是精力充沛。当你能跑得很快的时候，为什么要很慢呢?"
+    aw "我总是精力充沛。当你能跑得很快的时候，为什么要很慢呢？"
 
 # game/code/d10p2/d10p2s07.rpy:207
 translate chinese d10p2s07_0f256e6a:
 
     # mc "I guess that explains why you're such a good athlete."
-    mc "我想这就解释了为什么你是这么好的运动员。"
+    mc "我想这就解释了为什么你作为运动员这么优秀。"
 
 # game/code/d10p2/d10p2s07.rpy:209
 translate chinese d10p2s07_ef1a5c50:
@@ -784,7 +784,7 @@ translate chinese d10p2s07_489cb874:
 translate chinese d10p2s07_bf49ebbb:
 
     # mc "So, with your safe word... {w}It's kinda like he's still looking out for you if you get in trouble?"
-    mc "所以，你这个安全词……{w}这有点像你遇到麻烦他还会照顾你的感觉？"
+    mc "所以，你这个安全词……{w}有点像你遇到麻烦他还会照顾你的感觉？"
 
 # game/code/d10p2/d10p2s07.rpy:224
 translate chinese d10p2s07_4e5cf066:
