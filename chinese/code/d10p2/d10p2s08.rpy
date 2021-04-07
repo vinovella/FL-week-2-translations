@@ -10,19 +10,19 @@ translate chinese d10p2s08_42ace476:
 translate chinese d10p2s08_b991534f:
 
     # mct "Either things are different for women, or she expects me to have a 24/7 erection."
-    mct "要不就是女人的构造不一样，要不就是她希望我全天候24小时都能勃起。"
+    mct "要不就是女人的构造不一样，要不就是她希望我24小时全天候都能勃起。"
 
 # game/code/d10p2/d10p2s08.rpy:28
 translate chinese d10p2s08_b4551764:
 
     # mct "Maybe things will be easier{w} - or get harder -{w} when she gets here."
-    mct "也许等她来了，{w}事情会变得更简单-{w}-呃，或是变得更难。"
+    mct "也许等她来了，{w}事情会变得更简单-{w}-呃，也有可能变得更糟。"
 
 # game/code/d10p2/d10p2s08.rpy:31
 translate chinese d10p2s08_3808941a:
 
     # mct "Who could be calling me now?!{w} Lydia?!"
-    mct "现在谁会给我打电话呢?!{w}莉迪亚?!"
+    mct "现在谁会给我打电话啊?!{w}莉迪亚?!"
 
 # game/code/d10p2/d10p2s08.rpy:33
 translate chinese d10p2s08_5bcf96b6:
@@ -34,7 +34,7 @@ translate chinese d10p2s08_5bcf96b6:
 translate chinese d10p2s08_a84ac6dd:
 
     # mc "Hey gorgeous, what's up?"
-    mc "嘿，美女，怎么了？"
+    mc "嘿，美女，怎么了吗？"
 
 # game/code/d10p2/d10p2s08.rpy:36
 translate chinese d10p2s08_ce641ccb:
@@ -82,7 +82,7 @@ translate chinese d10p2s08_90c7f5f7:
 translate chinese d10p2s08_81dd9aa8:
 
     # mc "It's been a really wild night - much more interesting than last week."
-    mc "今天的夜晚真是疯狂--比上周有趣多了。"
+    mc "今天晚上真是疯狂--比上周有趣多了。"
 
 # game/code/d10p2/d10p2s08.rpy:49
 translate chinese d10p2s08_59a866a8:
@@ -118,13 +118,13 @@ translate chinese d10p2s08_bbd740a6:
 translate chinese d10p2s08_59943ab1:
 
     # mc "It's all good. I remember the rules."
-    mc "一切都好着呢。我记得我们的规则。"
+    mc "别担心，我记得我们的规则。"
 
 # game/code/d10p2/d10p2s08.rpy:58
 translate chinese d10p2s08_b34b4690:
 
     # lc "Me too. {w}I'm a little conflicted about them, though."
-    lc "我也是。{w}不过我还是有点矛盾啦。"
+    lc "我也是。{w}不过我还是有点矛盾。"
 
 # game/code/d10p2/d10p2s08.rpy:59
 translate chinese d10p2s08_35ab8f09:
@@ -160,19 +160,19 @@ translate chinese d10p2s08_43090e47:
 translate chinese d10p2s08_0bace671:
 
     # lc "I don't know. Should I be?"
-    lc "我说不上来。我该吃醋吗？"
+    lc "我说不上来。该吃醋吗？"
 
 # game/code/d10p2/d10p2s08.rpy:67
 translate chinese d10p2s08_6d696924:
 
     # mc "Who cares whether you should be this or should be that?"
-    mc "谁管你是应该这样还是应该那样？"
+    mc "谁管你是应该吃醋还是不该吃醋？"
 
 # game/code/d10p2/d10p2s08.rpy:68
 translate chinese d10p2s08_4ac5680d:
 
     # lc "I don't know. You?"
-    lc "我不知道。你呢？"
+    lc "我不知道。你？"
 
 # game/code/d10p2/d10p2s08.rpy:69
 translate chinese d10p2s08_50b680f2:
@@ -238,7 +238,7 @@ translate chinese d10p2s08_44e2aeeb:
 translate chinese d10p2s08_427fad1e:
 
     # mc "First of all, I couldn't think less of you or our relationship - and I don't mean that the way it sounds."
-    mc "首先，我不能低估你或我们的关系--我的意思不是听起来那样。"
+    mc "首先，我对你或对我们的关系的看法不会变的--我不是那个意思。"
 
 # game/code/d10p2/d10p2s08.rpy:83
 translate chinese d10p2s08_16cf56e7:
@@ -250,13 +250,13 @@ translate chinese d10p2s08_16cf56e7:
 translate chinese d10p2s08_4177c4fa:
 
     # mc "You are perfect to me; and you are perfect for me. There is no part of me with second guesses."
-    mc "你对我来说是完美的；你对我来说也是完美的。我全身上下绝没有二心。"
+    mc "你很完美；对我来说也绝对完美。这一点上我从未动摇过。"
 
 # game/code/d10p2/d10p2s08.rpy:86
 translate chinese d10p2s08_846ab252:
 
     # mc "I literally, physically, emotionally, and in all other ways... {w}I am incapable of thinking that you could possibly be anything less than perfect for me."
-    mc "我从字面上、身体上、情感上以及其他各方面……{w}都无法想到你对我来说可能是不完美的。"
+    mc "我绞尽脑汁也想不出你有哪一点不完美，{w}不管是字面上、身体上，还是情感上以及其他各方面……我都会这么说。"
 
 # game/code/d10p2/d10p2s08.rpy:87
 translate chinese d10p2s08_8515f081:
