@@ -1012,7 +1012,7 @@ translate chinese d10p2s08_mh_part1_cf0ff015:
 translate chinese d10p2s08_tm_part1_5a6f512e:
 
     # mc "So, like last week Mr.D1cky did his \"Magic and Mysticism\" thing."
-    mc "所以，和上周一样，迪克先生又施展了他的 魔法和神秘学。\"Magic and Mysticism\" thing."
+    mc "所以，和上周一样，迪克先生又施展了他的\"魔法和神秘学\"表演。"
 
 # game/code/d10p2/d10p2s08.rpy:326
 translate chinese d10p2s08_tm_part1_ec817ce3:
@@ -1024,7 +1024,7 @@ translate chinese d10p2s08_tm_part1_ec817ce3:
 translate chinese d10p2s08_tm_part1_7abb1758:
 
     # mc "It is definitely not card tricks. It's some sort of phenomena."
-    mc "这绝对不是纸牌戏法。而是某种现象。"
+    mc "这绝对不是纸牌戏法，而是某种现象。"
 
 # game/code/d10p2/d10p2s08.rpy:329
 translate chinese d10p2s08_tm_part1_6abf0f80:
@@ -1066,7 +1066,7 @@ translate chinese d10p2s08_tm_part1_e9dad22d:
 translate chinese d10p2s08_tm_part1_59836a33:
 
     # lc "You said, \"phenomena\". Sounds like \"Mah Nà Mah Nà!\", ya'know?"
-    lc "你说了啊，现象。听起来像\"phenomena\". Sounds like \"Mah Nà Mah Nà!\", ya'know?"
+    lc "你提到了\"现象\"嘛。听起来很像\"Mah Nà Mah Nà!\"，知道吗？"
 
 # game/code/d10p2/d10p2s08.rpy:343
 translate chinese d10p2s08_dw_part1_4d2fd69f:
@@ -1078,19 +1078,19 @@ translate chinese d10p2s08_dw_part1_4d2fd69f:
 translate chinese d10p2s08_dw_part1_1518d02d:
 
     # lc "Yes. {w}Why do you ask?"
-    lc "Yes. {w}当然了，为什么这么问？"
+    lc "当然了，{w}为什么这么问？"
 
 # game/code/d10p2/d10p2s08.rpy:346
 translate chinese d10p2s08_dw_part1_ba8cd015:
 
     # mc "I mean, if I were tell you something personal about myself-"
-    mc "我是说，如果我告诉你一些关于我自己的私事……"
+    mc "我是说，如果我告诉你一件关于我自己的私事……"
 
 # game/code/d10p2/d10p2s08.rpy:347
 translate chinese d10p2s08_dw_part1_3672310f:
 
     # mc "-something that maybe didn't make me seem like a great guy..."
-    mc "有些事情，可能让我看起来不像个好人……"
+    mc "这件事，可能让我看起来不像个好人……"
 
 # game/code/d10p2/d10p2s08.rpy:349
 translate chinese d10p2s08_dw_part1_1d130707:
@@ -1108,13 +1108,13 @@ translate chinese d10p2s08_dw_part1_513204ac:
 translate chinese d10p2s08_dw_part1_38ee88b2:
 
     # lc "I don't understand. What are you trying to tell me?"
-    lc "我不明白。你想告诉我什么？"
+    lc "我不明白。你想跟我说什么？"
 
 # game/code/d10p2/d10p2s08.rpy:353
 translate chinese d10p2s08_dw_part1_b7ae6748:
 
     # mc "Well, sometimes I like to take the lead, and sometimes I prefer to be in the passenger seat."
-    mc "嗯，有时候我喜欢做主角，有时候我喜欢坐在副驾驶座上。"
+    mc "嗯，有时候我喜欢领先，有时候又我喜欢坐在副驾驶上。"
 
 # game/code/d10p2/d10p2s08.rpy:355
 translate chinese d10p2s08_dw_part1_24434e2c:
@@ -1144,7 +1144,7 @@ translate chinese d10p2s08_dw_part1_265cc565:
 translate chinese d10p2s08_dw_part1_864e84b0:
 
     # lc "Wow! That's so interesting! Is it just by girls? Or just by guys? Or both individually or together?"
-    lc "哇！太有意思了。是只被女生支配吗？ 还是由男生来？还是你都试过或者你有3P过？"
+    lc "哇！太有意思了。是只被女生支配吗？还是由男生来？还是你都试过或者你有3P过？"
 
 # game/code/d10p2/d10p2s08.rpy:362
 translate chinese d10p2s08_dw_part1_3703ee8f:
@@ -1174,7 +1174,7 @@ translate chinese d10p2s08_dd_part1_0d65bbef:
 translate chinese d10p2s08_dd_part1_92989312:
 
     # lc "What does that mean? Sounds disgusting."
-    lc "什么意思？听起来很恶心。"
+    lc "什么意思？听起来很有点恶心。"
 
 # game/code/d10p2/d10p2s08.rpy:373
 translate chinese d10p2s08_dd_part1_39e6f156:
@@ -1186,13 +1186,13 @@ translate chinese d10p2s08_dd_part1_39e6f156:
 translate chinese d10p2s08_dd_part1_aed8461a:
 
     # lc "Do you roll dice or spin a wheel or something?"
-    lc "你们是掷骰子还是转轮子什么的？"
+    lc "你们是掷骰子还是玩转盘来决定的吗？"
 
 # game/code/d10p2/d10p2s08.rpy:376
 translate chinese d10p2s08_dd_part1_345c8999:
 
     # mc "First one in gets tied up; second one in plays with the first one. Then they both leave."
-    mc "第一个进去的人被绑起来；第二个进去的人负责主导。完事后两人都要离开。"
+    mc "第一个进去的人会被绑起来；第二个进去的人负责主导。完事后两人都要离开。"
 
 # game/code/d10p2/d10p2s08.rpy:378
 translate chinese d10p2s08_dd_part1_1043f62e:
@@ -1204,7 +1204,7 @@ translate chinese d10p2s08_dd_part1_1043f62e:
 translate chinese d10p2s08_dd_part1_0f330b56:
 
     # mc "Were you thinking it was some sort of gambling? Like strip poker?"
-    mc "你是不是以为会是某种赌博？就像脱衣扑克一样？"
+    mc "你是不是以为跟某种赌博差不多？像那种脱衣扑克的戏码？"
 
 # game/code/d10p2/d10p2s08.rpy:381
 translate chinese d10p2s08_dd_part1_5dae87c9:
@@ -1222,7 +1222,7 @@ translate chinese d10p2s08_dd_part1_a6be913e:
 translate chinese d10p2s08_dd_part1_99e6d468:
 
     # lc "So, like, at a sex party... room full of unprotected sex, with the chances of STDs or pregnancy?"
-    lc "所以，就像，在性派对上……满屋子都是没有保护措施的性行为，有没有可能染上性病或怀孕？"
+    lc "所以，就像，呃，在性派对上……满屋子都是没有保护措施的性行为，有没有可能染上性病或怀孕？"
 
 # game/code/d10p2/d10p2s08.rpy:385
 translate chinese d10p2s08_dd_part1_6322f5f0:
@@ -1240,7 +1240,7 @@ translate chinese d10p2s08_dd_part1_4fa50cda:
 translate chinese d10p2s08_jf_part1_4f295302:
 
     # mc "This story is going to get really weird in a hurry."
-    mc "这个故事很快就会变得非常奇怪。"
+    mc "我要先警告你，这个故事很快就会变得非常奇怪。"
 
 # game/code/d10p2/d10p2s08.rpy:393
 translate chinese d10p2s08_jf_part1_ba801f8c:
@@ -1252,19 +1252,19 @@ translate chinese d10p2s08_jf_part1_ba801f8c:
 translate chinese d10p2s08_jf_part1_0e936e3d:
 
     # mc "Like cosplay and sports."
-    mc "比如cosplay和运动。"
+    mc "比如，涉及到cosplay和运动。"
 
 # game/code/d10p2/d10p2s08.rpy:396
 translate chinese d10p2s08_jf_part1_8d23e65c:
 
     # lc "So, like with furries?"
-    lc "So, like with furries?"
+    lc "有多奇怪？像人扮成人形犬那样吗？"
 
 # game/code/d10p2/d10p2s08.rpy:397
 translate chinese d10p2s08_jf_part1_26047041:
 
     # mc "No. I mean, maybe. I don't know much about furries."
-    mc "不，我是说，也许吧。我对皮草人了解不多。"
+    mc "不是，呃，不过也许吧。我对人形犬了解不多。"
 
 # game/code/d10p2/d10p2s08.rpy:399
 translate chinese d10p2s08_jf_part1_4f6bf2e4:
@@ -1282,19 +1282,19 @@ translate chinese d10p2s08_jf_part1_45955286:
 translate chinese d10p2s08_jf_part1_27502924:
 
     # lc "... yet when it comes to furries, somehow they're the weird sex that everyone thinks it is okay to make jokes about?"
-    lc "……然而说到毛皮人，不知为何他们是怪异的性别，每个人都认为可以开玩笑？"
+    lc "……然而说到人形犬，不知道怎么就大家都认为可以开他们的玩笑，因为他们性别怪异吗？"
 
 # game/code/d10p2/d10p2s08.rpy:403
 translate chinese d10p2s08_jf_part1_7fb2c81d:
 
     # lc "Is it hypocrisy or is there something that makes it okay-"
-    lc "是虚伪还是有什么东西让它可以……-"
+    lc "这种现象盛行是因为虚伪吗，还是有什么东西让它可以-"
 
 # game/code/d10p2/d10p2s08.rpy:408
 translate chinese d10p2s08_arj_part1_cd5e75a8:
 
     # mc "So, I was out on the balcony-"
-    mc "所以，我当时在阳台上……"
+    mc "所以，我当时在阳台上--"
 
 # game/code/d10p2/d10p2s08.rpy:409
 translate chinese d10p2s08_arj_part1_25ad8d34:
@@ -1306,25 +1306,25 @@ translate chinese d10p2s08_arj_part1_25ad8d34:
 translate chinese d10p2s08_arj_part1_c3f678ef:
 
     # mc "-with some girl."
-    mc "和某个女孩在一起"
+    mc "--和一个女孩在一起。"
 
 # game/code/d10p2/d10p2s08.rpy:412
 translate chinese d10p2s08_arj_part1_90525e85:
 
     # lc "Just some girl?"
-    lc "某个女孩吗？"
+    lc "一个女孩吗？"
 
 # game/code/d10p2/d10p2s08.rpy:413
 translate chinese d10p2s08_arj_part1_5255321b:
 
     # mc "Well, you know how it is. Pseudonyms and masks and all that."
-    mc "嗯，你知道这个情况的。有假名，还有面具什么的。"
+    mc "嗯，你知道这个情况的。有假名字啊，还有面具什么的。"
 
 # game/code/d10p2/d10p2s08.rpy:414
 translate chinese d10p2s08_arj_part1_b723e723:
 
     # lc "Are you sure she was a girl?"
-    lc "你确定她是个女孩？"
+    lc "你确定那人是个女孩？"
 
 # game/code/d10p2/d10p2s08.rpy:416
 translate chinese d10p2s08_arj_part1_e453702d:
@@ -1354,7 +1354,7 @@ translate chinese d10p2s08_arj_part1_e53c735e:
 translate chinese d10p2s08_arj_part1_7174a36b:
 
     # mc "Yeah, I was just thinking...{w} I want to tell you something really hot."
-    mc "是啊，我只是在想……{w}我想告诉你一件很火辣的事情。"
+    mc "是啊，我只是在想……{w}我想告诉你一件很火辣的事。"
 
 # game/code/d10p2/d10p2s08.rpy:424
 translate chinese d10p2s08_arj_part1_30897b74:
@@ -1384,25 +1384,25 @@ translate chinese d10p2s08_part2_b2b9e19d:
 translate chinese d10p2s08_part2_f39c71a0:
 
     # lc "I'm... {w}emotional."
-    lc "我……{w}我……有点情绪化。"
+    lc "我……{w}有点情绪化。"
 
 # game/code/d10p2/d10p2s08.rpy:437
 translate chinese d10p2s08_part2_10029a1a:
 
     # lc "I'm not sure if I'm horny or furious or giddy or confused."
-    lc "我不知道自己是饥渴还是愤怒，是晕眩还是迷茫。"
+    lc "我不知道自己是饥渴还是愤怒，是兴奋还是迷茫。"
 
 # game/code/d10p2/d10p2s08.rpy:439
 translate chinese d10p2s08_part2_109c578b:
 
     # lc "It's just a whole fascinating ball of complex emotions running through me right now."
-    lc "现在我内心充满了复杂的情绪，就像一个迷人的球。"
+    lc "现在我感觉内心充满了复杂的情绪，完全无法看清自己的感受。"
 
 # game/code/d10p2/d10p2s08.rpy:440
 translate chinese d10p2s08_part2_860626d0:
 
     # mc "Whoa! {w}Sounds like we should stop this."
-    mc "哇！{w}听起来我们该停止这个话题。"
+    mc "哇！{w}听起来我们应该停止这个话题。"
 
 # game/code/d10p2/d10p2s08.rpy:442
 translate chinese d10p2s08_part2_e85103c4:
@@ -1420,7 +1420,7 @@ translate chinese d10p2s08_part2_cfce055e:
 translate chinese d10p2s08_part2_2e74387c:
 
     # lc "Yes, I'm certain. I want to hear more."
-    lc "嗯，我确定。我想听更多。"
+    lc "嗯，我确定。我还想听。"
 
 # game/code/d10p2/d10p2s08.rpy:446
 translate chinese d10p2s08_part2_84f16542:
@@ -1450,7 +1450,7 @@ translate chinese d10p2s08_aw_part3_765219bd:
 translate chinese d10p2s08_aw_part3_7dc663e5:
 
     # mc "I think she wanted people to see us. You know what she does for a living, right?"
-    mc "我觉得她想让人们看到我们。你知道她是干什么的吧？"
+    mc "我觉得她想让大家看到我们。你知道她是干什么的吧？"
 
 # game/code/d10p2/d10p2s08.rpy:479
 translate chinese d10p2s08_aw_part3_96e8ed3a:
@@ -1468,13 +1468,13 @@ translate chinese d10p2s08_aw_part3_a3839847:
 translate chinese d10p2s08_aw_part3_d6c8831c:
 
     # lc "Really?? I didn't- {w}So, people pay to watch her do... {w}naughty things?"
-    lc "真的吗？我没有--{w}所以，人们花钱看她做……{w}naughty things?"
+    lc "真的吗？我不--{w}所以，大家要付费看她……{w}做下流的事吗？"
 
 # game/code/d10p2/d10p2s08.rpy:485
 translate chinese d10p2s08_aw_part3_eb1bd569:
 
     # mc "Yeah. I didn't think it was a secret. She seems pretty open about it."
-    mc "是啊，我没想到这是个秘密。她好像很开放。"
+    mc "是啊，我没想到这是个秘密。她好像挺开放的。"
 
 # game/code/d10p2/d10p2s08.rpy:486
 translate chinese d10p2s08_aw_part3_264f49f5:
@@ -1486,13 +1486,13 @@ translate chinese d10p2s08_aw_part3_264f49f5:
 translate chinese d10p2s08_aw_part3_cd7c4a0a:
 
     # mct "I've met at least two. Although, AmRose is kinda reluctantly in that position."
-    mct "我至少见过两个。虽然，爱洛丝在那个位置上还挺不情愿的。"
+    mct "我自己至少就见过两个。虽然，爱洛丝做的还挺不情愿的。"
 
 # game/code/d10p2/d10p2s08.rpy:490
 translate chinese d10p2s08_aw_part3_8cd3be6c:
 
     # lc "Anyway, so you were messing around with this camgirl on the stairs in the middle of the Party-"
-    lc "总之，你在派对中间的楼梯上和这个camgirl乱搞--"
+    lc "总之，你在派对中间的楼梯上和这个做直播的女孩胡闹--"
 
 # game/code/d10p2/d10p2s08.rpy:494
 translate chinese d10p2s08_aw_part3_399fa741:
@@ -1504,49 +1504,49 @@ translate chinese d10p2s08_aw_part3_399fa741:
 translate chinese d10p2s08_aw_part3_67dc2863:
 
     # lc "No kidding?!"
-    lc "不是开玩笑吧！?!"
+    lc "不是开玩笑吧?!"
 
 # game/code/d10p2/d10p2s08.rpy:500
 translate chinese d10p2s08_aw_part3_efc00b62:
 
     # mc "Apparently, she can basically cum on command. I would've guessed that she was faking it, but we have these fitness trackers that record our heart rates and such."
-    mc "很显然，她基本上可以在命令下射精。我本以为她是装的，但我们有健身追踪器，可以记录我们的心率等等。"
+    mc "很显然，她基本可以在指令下高潮。我本以为她是装的，但我们有健身追踪器，可以记录我们的心率什么的。"
 
 # game/code/d10p2/d10p2s08.rpy:504
 translate chinese d10p2s08_aw_part3_6558b405:
 
     # lc "I'm somewhere between envious and terrified at the idea of that."
-    lc "所以我们站在楼梯上，她下面什么都没穿，然后她把我的鸡巴掏出来。"
+    lc "我既有点嫉妒，又有点害怕。"
 
 # game/code/d10p2/d10p2s08.rpy:508
 translate chinese d10p2s08_aw_part3_febb782a:
 
     # mc "So we're standing there on the stairs, she's not wearing anything under her dress, and she pulls my cock out."
-    mc "我有几个手指在她里面，而她拉我的鸡鸡。"
+    mc "所以我们站在楼梯上，她下面什么都没穿，然后她把我的鸡巴掏出来。"
 
 # game/code/d10p2/d10p2s08.rpy:512
 translate chinese d10p2s08_aw_part3_559e28c7:
 
     # mc "I've got a couple fingers inside her while she jerks my cock."
-    mc "我们开始接吻，突然有人在楼梯上经过我们。"
+    mc "我有几个手指在她小穴里面，而她也在给我打飞机。"
 
 # game/code/d10p2/d10p2s08.rpy:516
 translate chinese d10p2s08_aw_part3_b97a3411:
 
     # mc "We started to kiss when suddenly someone passed us on the stairs."
-    mc "我和艾莉森没有理会她，一直在互相手淫，因为他们走过……"
+    mc "我们开始接吻，突然楼梯有人经过。"
 
 # game/code/d10p2/d10p2s08.rpy:520
 translate chinese d10p2s08_aw_part3_8458ca18:
 
     # mc "Allison and I ignored her and kept masturbating each other as they walked by..."
-    mc "我和艾莉森没有理会她，一直在互相手淫，因为他们走过……"
+    mc "有人路过的时候，我和艾莉森没有理会那人，一直在互相手淫……"
 
 # game/code/d10p2/d10p2s08.rpy:525
 translate chinese d10p2s08_cl_part3_8762c772:
 
     # mc "So, your friend and I went outside for a little walk."
-    mc "于是，我和你的朋友到外面去散步了。"
+    mc "所以，我跟你的朋友到外面去散步了。"
 
 # game/code/d10p2/d10p2s08.rpy:527
 translate chinese d10p2s08_cl_part3_e07bd2e7:
@@ -1564,25 +1564,25 @@ translate chinese d10p2s08_cl_part3_68797e0d:
 translate chinese d10p2s08_cl_part3_956ded28:
 
     # lc "She's always a little dramatic. You get used to it."
-    lc "她总是有点戏剧性。你会习惯的。"
+    lc "嗯，她这人是有点夸张。你会习惯的。"
 
 # game/code/d10p2/d10p2s08.rpy:533
 translate chinese d10p2s08_cl_part3_c40545ec:
 
     # mc "No, I mean, like she started speaking in parables. There was something about palm trees. It was weird."
-    mc "不，我是说，就像她开始用比喻说话。还有一些关于棕榈树的东西。很奇怪。"
+    mc "不，我是说，她说话感觉像是在打比方，说的很隐晦。还提到了什么棕榈树。反正很奇怪。"
 
 # game/code/d10p2/d10p2s08.rpy:535
 translate chinese d10p2s08_cl_part3_25ab30fc:
 
     # lc "Huh. That does sound unusual, even for her. What happened at the retreat?"
-    lc "呵呵，这听起来确实不寻常，即使对她来说也是如此。闭关时发生了什么事？"
+    lc "呵，听起来确实不寻常，即使对她来说也是如此。是静修时发生了什么事吗？"
 
 # game/code/d10p2/d10p2s08.rpy:537
 translate chinese d10p2s08_cl_part3_df638fe9:
 
     # mc "She said that she renewed her virginity, but there was a loophole."
-    mc "她说她续了贞操，但有个漏洞。"
+    mc "她说她重获了贞操，但有个漏洞。"
 
 # game/code/d10p2/d10p2s08.rpy:539
 translate chinese d10p2s08_cl_part3_c9a10ab4:
