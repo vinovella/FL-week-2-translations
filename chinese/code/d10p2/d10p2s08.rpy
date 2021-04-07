@@ -286,13 +286,13 @@ translate chinese d10p2s08_7583e939:
 translate chinese d10p2s08_156d1b0e:
 
     # mct "Even knowing that it would result in that pic being leaked - and everything else - and cause her to break up with me?!"
-    mct "即使我知道这会导致那张照片泄露--还有其他一切--最后导致她和我分手?!"
+    mct "即使我明白这会导致那张照片泄露--还有其他无法收拾的后果--导致最后她和我分手?!"
 
 # game/code/d10p2/d10p2s08.rpy:94
 translate chinese d10p2s08_9f96cf62:
 
     # mct "No. I can't lie to her. Not to her. {w}How can I say this?"
-    mct "不，我不能对她撒谎。至少对她不能这样。{w}我怎么能这么说呢？"
+    mct "不，我不能对她撒谎。至少对她不能这样。{w}我要怎么说呢？"
 
 # game/code/d10p2/d10p2s08.rpy:96
 translate chinese d10p2s08_b663dac0:
@@ -316,7 +316,7 @@ translate chinese d10p2s08_bbd740a6_1:
 translate chinese d10p2s08_b293fead:
 
     # mc "If anything I say or do would cause you pain... {w}or risk our relationship together... {w}... I would do anything to avoid that."
-    mc "如果我说的或做的任何事情会让你痛苦……{w}或者危及我们在一起的关系……{w}……我愿意做任何事情来避免这种情况。"
+    mc "如果我有说什么话，或做什么事让你觉得痛苦……{w}或者危及我们在一起的关系……{w}……那我愿意尽一切可能来避免这种情况。"
 
 # game/code/d10p2/d10p2s08.rpy:101
 translate chinese d10p2s08_9fda5a00:
@@ -334,7 +334,7 @@ translate chinese d10p2s08_9f35d0cc:
 translate chinese d10p2s08_634b198d:
 
     # mc "If you-"
-    mc "如果你……"
+    mc "如果你--"
 
 # game/code/d10p2/d10p2s08.rpy:105
 translate chinese d10p2s08_b04d2141:
@@ -352,25 +352,25 @@ translate chinese d10p2s08_a31340dd:
 translate chinese d10p2s08_bace1b36:
 
     # lc "Really. {w}I was attracted to you before, but there's just something about-"
-    lc "嗯， 真的。{w}我以前也曾被你吸引过，但就是有些东西--"
+    lc "嗯，真的。{w}我以前也曾被你吸引过，但就是有些东西--"
 
 # game/code/d10p2/d10p2s08.rpy:108
 translate chinese d10p2s08_016bb478:
 
     # mc "About? {w}You kinda trailed off there."
-    mc "大约？ {w}You kinda trailed off there."
+    mc "什么？{w}你讲话声越来越小了。"
 
 # game/code/d10p2/d10p2s08.rpy:110
 translate chinese d10p2s08_05e9ae08:
 
     # lc "Yeah, I did. I'm not sure what to say next."
-    lc "是的，我是这样。我不知道接下来该说什么。"
+    lc "啊，是的。我不知道接下来该说什么。"
 
 # game/code/d10p2/d10p2s08.rpy:111
 translate chinese d10p2s08_b7614584:
 
     # lc "Anyway, on the other hand, it really bothers me that you have to seek physical affection elsewhere."
-    lc "不管怎么说，另一方面，你非要在别的地方寻求身体上的感情，这真的让我很困扰。"
+    lc "不管怎么说，另一方面，你需要在别的地方寻求身体上的共鸣，这真的让我很困扰。"
 
 # game/code/d10p2/d10p2s08.rpy:112
 translate chinese d10p2s08_29ce2c28:
@@ -382,7 +382,7 @@ translate chinese d10p2s08_29ce2c28:
 translate chinese d10p2s08_3e7dbe44:
 
     # lc "I know. I'm not comfortable filling that role, and I've learned from experience that relationships don't last without it."
-    lc "我知道。我不喜欢充当这个角色，而且我从经验中了解到，没有这个角色，一段感情就不会长久。"
+    lc "我知道。我自己充当这个角色又会不舒服，而且过去的经验告诉我，没有这个角色，一段感情就不会长久。"
 
 # game/code/d10p2/d10p2s08.rpy:115
 translate chinese d10p2s08_a3df94b9:
@@ -406,7 +406,7 @@ translate chinese d10p2s08_4c9fb934:
 translate chinese d10p2s08_3877b344:
 
     # lc "I think I've just been a trophy to be won, and when they realized that I wouldn't put out, then the rest was inevitable."
-    lc "我想我只是个他们都想赢得的战利品，当他们意识到我不会放出来的时候，那结局也就不可避免了。"
+    lc "我想我对他们来说只是个战利品，当他们意识到我不能接受那一步的时候，那结局也就不可避免了。"
 
 # game/code/d10p2/d10p2s08.rpy:121
 translate chinese d10p2s08_23f67d7d:
@@ -424,31 +424,31 @@ translate chinese d10p2s08_9cb19843:
 translate chinese d10p2s08_5e6ecbc5:
 
     # lc "I know. There's something different about you. You actually... like me?"
-    lc "我知道。你身上有一些不一样的地方。你是真的……喜欢我？"
+    lc "我知道。你身上有跟他们不一样的地方。你是真的……喜欢我吧？"
 
 # game/code/d10p2/d10p2s08.rpy:130
 translate chinese d10p2s08_a2b40cf4:
 
     # mc "I do. I really do."
-    mc "没错。我真的喜欢你。"
+    mc "没错。我真的很喜欢你。"
 
 # game/code/d10p2/d10p2s08.rpy:131
 translate chinese d10p2s08_e1d16706:
 
     # mc "You are awesome and beautiful and everything any man could want."
-    mc "你很棒，很漂亮，拥有任何男人想要的一切。"
+    mc "你很棒，很漂亮，拥有任何男人都想要的一切。"
 
 # game/code/d10p2/d10p2s08.rpy:135
 translate chinese d10p2s08_5f3824cb:
 
     # mc "Like you? {w}Lydia, you should realize something important here."
-    mc "喜欢？{w}莉迪亚，你应该意识到这里有件重要的事情。"
+    mc "喜欢？{w}莉迪亚，你该明白很重要的一点。"
 
 # game/code/d10p2/d10p2s08.rpy:136
 translate chinese d10p2s08_f85dfd95:
 
     # lc "What's that?"
-    lc "是什么？"
+    lc "什么？"
 
 # game/code/d10p2/d10p2s08.rpy:137
 translate chinese d10p2s08_83078e78:
@@ -466,31 +466,31 @@ translate chinese d10p2s08_b2ef9293:
 translate chinese d10p2s08_8e194c8d:
 
     # mct "I guess I need to give her the choice."
-    mct "我想我需要给她选择的机会。"
+    mct "我觉得需要给她选择的机会。"
 
 # game/code/d10p2/d10p2s08.rpy:144
 translate chinese d10p2s08_e19168d4:
 
     # mc "So, I'm going to give you a choice here."
-    mc "所以，我要给你一个选择。"
+    mc "所以，我要让你做个选择。"
 
 # game/code/d10p2/d10p2s08.rpy:145
 translate chinese d10p2s08_7ad88094:
 
     # mc "I think you'll be able to figure out which option I would prefer, but whichever way you decide I'll be perfectly happy with as long as you and I are still together."
-    mc "我想你会知道我更喜欢哪种选择，但无论你决定哪种方式，只要你和我还在一起，我都会非常满意。"
+    mc "我想你会知道我更喜欢哪一种的，但无论你决定哪种方式，只要你和我还在一起，我都会非常满意。"
 
 # game/code/d10p2/d10p2s08.rpy:146
 translate chinese d10p2s08_3a657ab8:
 
     # lc "Oh, um... {w}What are my choices?"
-    lc "哦，嗯……{w}我的选择是什么？"
+    lc "哦，嗯……{w}都有什么选择？"
 
 # game/code/d10p2/d10p2s08.rpy:148
 translate chinese d10p2s08_179d6952:
 
     # mct "Damn the consequences, I gotta ask."
-    mct "去他妈的后果，我得问问。"
+    mct "去他妈的后果，我必须得问问。"
 
 # game/code/d10p2/d10p2s08.rpy:149
 translate chinese d10p2s08_7aee58bb:
@@ -502,13 +502,13 @@ translate chinese d10p2s08_7aee58bb:
 translate chinese d10p2s08_eb854d46:
 
     # mc "Option 2) I stay at this Party and tell you all about it tomorrow."
-    mc "选择2）我留在派对上，明天告诉你一切。"
+    mc "选择2）我留在派对上，明天全都讲给你听。"
 
 # game/code/d10p2/d10p2s08.rpy:152
 translate chinese d10p2s08_153074b4:
 
     # lc "You promise not to-"
-    lc "你保证不……"
+    lc "你保证不--"
 
 # game/code/d10p2/d10p2s08.rpy:153
 translate chinese d10p2s08_b898a49a:
@@ -520,7 +520,7 @@ translate chinese d10p2s08_b898a49a:
 translate chinese d10p2s08_706f0f7a:
 
     # mc "May I live a thousand years and never cum again."
-    mc "不然我活一千年，再也不能射。"
+    mc "不然就让我活一千年，再也不能射。"
 
 # game/code/d10p2/d10p2s08.rpy:156
 translate chinese d10p2s08_683d70f4:
@@ -544,7 +544,7 @@ translate chinese d10p2s08_7fbd0502:
 translate chinese d10p2s08_d73434fd:
 
     # lc "You stay at the Party, but you tell me something about it now."
-    lc "你留在派对上，但你现在告诉我一些事情。"
+    lc "你留在派对上，但你现在先跟我讲点什么。"
 
 # game/code/d10p2/d10p2s08.rpy:162
 translate chinese d10p2s08_aed2a9ac:
@@ -568,7 +568,7 @@ translate chinese d10p2s08_baac7e9e:
 translate chinese d10p2s08_b3579288:
 
     # lc "Well, am I right in assuming that you've... {w}had sexual relations... {w}with someone?"
-    lc "嗯，我假设你已经……{w}和别人发生过性关系了，对不对？{w}with someone?"
+    lc "嗯，我假设你已经……{w}和别人发生过性关系了……{w}对不对？"
 
 # game/code/d10p2/d10p2s08.rpy:167
 translate chinese d10p2s08_3f67f6c8:
@@ -604,19 +604,19 @@ translate chinese d10p2s08_23717984:
 translate chinese d10p2s08_6ad229c1:
 
     # mc "Aren't they the same thing?"
-    mc "它们不是一回事吗？"
+    mc "这不是一回事吗？"
 
 # game/code/d10p2/d10p2s08.rpy:178
 translate chinese d10p2s08_4efa868e:
 
     # lc "I don't know. {w}For guys, does the physical act of ejaculating always coincide with the emotional response of having an orgasm?"
-    lc "我不知道。{w}对男人来说，射精的生理行为总是伴随着性高潮的情绪反应吗？"
+    lc "我不知道。{w}对男人来说，射精的生理行为总是伴随着性高潮的精神反应吗？"
 
 # game/code/d10p2/d10p2s08.rpy:179
 translate chinese d10p2s08_e5c21743:
 
     # mc "I... {w}I don't know."
-    mc "我……{w}不知道。"
+    mc "我……{w}我不知道。"
 
 # game/code/d10p2/d10p2s08.rpy:180
 translate chinese d10p2s08_de770e09:
@@ -628,13 +628,13 @@ translate chinese d10p2s08_de770e09:
 translate chinese d10p2s08_b4761b00:
 
     # lc "Do the two experiences always coincide for you?"
-    lc "这两种体验对你来说总是一起来临的吗？"
+    lc "这两种反应对你来说总是一起发生吗？"
 
 # game/code/d10p2/d10p2s08.rpy:183
 translate chinese d10p2s08_ab8c25ab:
 
     # mc "As far as I know. {w}I've never really given it any thought."
-    mc "据我所知。{w}我从来没有想过这个问题。"
+    mc "就我而言哈，{w}我从来没有想过这个问题。"
 
 # game/code/d10p2/d10p2s08.rpy:185
 translate chinese d10p2s08_11b77c6a:
@@ -646,7 +646,7 @@ translate chinese d10p2s08_11b77c6a:
 translate chinese d10p2s08_a05338dd:
 
     # mc "Not really. I either cum or I don't. I haven't broken it down into separate components."
-    mc "不尽然。我要么射，要么不射。我还没有把它分解成独立的组成部分。"
+    mc "不完全是吧。我要么射，要么就不射。我从没把它们一分为二看过。"
 
 # game/code/d10p2/d10p2s08.rpy:188
 translate chinese d10p2s08_d07ace23:
@@ -676,19 +676,19 @@ translate chinese d10p2s08_e28ded28:
 translate chinese d10p2s08_fcf45ba9:
 
     # lc "I promise not to be jealous."
-    lc "我保证不会吃醋"
+    lc "我保证不会吃醋。"
 
 # game/code/d10p2/d10p2s08.rpy:195
 translate chinese d10p2s08_21104677:
 
     # mc "Prove it."
-    mc "证明给我看"
+    mc "证明给我看。"
 
 # game/code/d10p2/d10p2s08.rpy:197
 translate chinese d10p2s08_4a6fc931:
 
     # lc "Okay, I will. {w}Tell me about something tonight and I'll prove that I'm not jealous."
-    lc "好吧，我会的。{w}你先今晚给我讲点什么吧，然后我会证明我不吃醋。"
+    lc "好吧，我会的。{w}你先给我讲点今晚的事吧，然后我会证明我不吃醋。"
 
 # game/code/d10p2/d10p2s08.rpy:198
 translate chinese d10p2s08_670c568c:
@@ -700,7 +700,7 @@ translate chinese d10p2s08_670c568c:
 translate chinese d10p2s08_dadd6be1:
 
     # lc "What kind of selfie?"
-    lc "什么样的自拍？"
+    lc "什么自拍？"
 
 # game/code/d10p2/d10p2s08.rpy:201
 translate chinese d10p2s08_7356e81b:
@@ -748,7 +748,7 @@ translate chinese d10p2s08_472f47e6:
 translate chinese d10p2s08_3a478769:
 
     # mc "Alright. Let's see..."
-    mc "很好。让我想想……"
+    mc "很好。让我想想啊……"
 
 # game/code/d10p2/d10p2s08.rpy:215
 translate chinese d10p2s08_menu_279b4a09:
@@ -760,13 +760,13 @@ translate chinese d10p2s08_menu_279b4a09:
 translate chinese d10p2s08_aw_part1_3311218e:
 
     # mc "So, much like last week, it started with this redhead showing me around the house."
-    mc "所以，就像上周一样，一开始是这个红头发的人带我参观房子。"
+    mc "所以，就像上周一样，一开始是一个红头发的人带我参观房子。"
 
 # game/code/d10p2/d10p2s08.rpy:254
 translate chinese d10p2s08_aw_part1_c5433d04:
 
     # lc "Allison?"
-    lc "艾莉森？"
+    lc "艾莉森吗？"
 
 # game/code/d10p2/d10p2s08.rpy:255
 translate chinese d10p2s08_aw_part1_513612de:
@@ -778,7 +778,7 @@ translate chinese d10p2s08_aw_part1_513612de:
 translate chinese d10p2s08_aw_part1_e357ba05:
 
     # lc "Sorta. She's a friend of Min's, and Min is my best friend, ya'know."
-    lc "算是吧。她是敏的朋友，而敏是我最好的朋友，你知道的。"
+    lc "算是吧。她是明的朋友，而明是我最好的朋友，你知道的。"
 
 # game/code/d10p2/d10p2s08.rpy:258
 translate chinese d10p2s08_aw_part1_e66e52e8:
@@ -838,19 +838,19 @@ translate chinese d10p2s08_cl_part1_7aab5a70:
 translate chinese d10p2s08_cl_part1_9bd96228:
 
     # mc "I'm a little uncomfortable about this one-"
-    mc "要说这个我觉得有点不舒服--"
+    mc "这个故事说出来有点不舒服--"
 
 # game/code/d10p2/d10p2s08.rpy:277
 translate chinese d10p2s08_cl_part1_df0146b7:
 
     # lc "Like in the back of a Volkswagen?"
-    lc "就像在大众汽车的后面？"
+    lc "不舒服？你是说就像坐在大众汽车后座上一样吗？"
 
 # game/code/d10p2/d10p2s08.rpy:278
 translate chinese d10p2s08_cl_part1_8d0a3934:
 
     # mc "No, well. That too, I guess. {w}I meant I'm a little unsure about telling you this one."
-    mc "不，好吧。那也是，我想。{w}我的意思是我不确定要不要说这个。"
+    mc "呃，不是啦。不过你也可以这么说。{w}我的意思是我不确定要不要说这个。"
 
 # game/code/d10p2/d10p2s08.rpy:280
 translate chinese d10p2s08_cl_part1_896a3304:
@@ -892,7 +892,7 @@ translate chinese d10p2s08_cl_part1_f2f9d1cd:
 translate chinese d10p2s08_cl_part1_8b5e105b:
 
     # lc "No, no. It's just surprising. {w}I thought you were going to say something else entirely."
-    lc "不，不会的。只是很惊讶。{w}我还以为你要说的完全是别的事情。"
+    lc "不，不会的。只是很惊讶。{w}我还以为你要说的完全是别的事。"
 
 # game/code/d10p2/d10p2s08.rpy:290
 translate chinese d10p2s08_cl_part1_b2aba0e3:
@@ -910,13 +910,13 @@ translate chinese d10p2s08_cl_part1_a68e7dff:
 translate chinese d10p2s08_cl_part1_c14c584c:
 
     # mc "Well..."
-    mc "嗯"
+    mc "好吧……"
 
 # game/code/d10p2/d10p2s08.rpy:294
 translate chinese d10p2s08_cl_part1_5954cad8:
 
     # lc "Well?! What do you mean, \"Well\"?!"
-    lc "嗯？\"Well\"什么意思?!"
+    lc "好吧？你说\"好吧\"是什么意思?!"
 
 # game/code/d10p2/d10p2s08.rpy:299
 translate chinese d10p2s08_mh_part1_e3a0e5bc:
@@ -928,7 +928,7 @@ translate chinese d10p2s08_mh_part1_e3a0e5bc:
 translate chinese d10p2s08_mh_part1_f11b3985:
 
     # lc "Oh yeah, she's a friend of Allison's."
-    lc "哦，记得，她是艾莉森的朋友。"
+    lc "哦，记得，艾莉森的朋友嘛。"
 
 # game/code/d10p2/d10p2s08.rpy:302
 translate chinese d10p2s08_mh_part1_a127e966:
@@ -940,7 +940,7 @@ translate chinese d10p2s08_mh_part1_a127e966:
 translate chinese d10p2s08_mh_part1_f91b968c:
 
     # lc "Sorta. Not really. Min is my best friend; Min is friends with Allison, and so on."
-    lc "算是吧。不太熟。明是我最好的朋友，她又跟艾莉森是朋友，就这样了。"
+    lc "算是吧。但不太熟。明是我最好的朋友，艾莉森又跟明是朋友，就这样了。"
 
 # game/code/d10p2/d10p2s08.rpy:305
 translate chinese d10p2s08_mh_part1_1bb7096b:
@@ -988,7 +988,7 @@ translate chinese d10p2s08_mh_part1_8b4bf406:
 translate chinese d10p2s08_mh_part1_56c3e88b:
 
     # lc "Aww, you're sweet. {w}But really, I just feel like there was something off about her."
-    lc "啊，你真好。{w}不过说真的，我只是觉得她有些不对劲。"
+    lc "啊，听你这么说真好。{w}不过说真的，我就是觉得她有些不对劲。"
 
 # game/code/d10p2/d10p2s08.rpy:316
 translate chinese d10p2s08_mh_part1_c2579430:
