@@ -1600,7 +1600,7 @@ translate chinese d10p2s08_cl_part3_963236c9:
 translate chinese d10p2s08_cl_part3_052a0a5e:
 
     # lc "Woah! Really?"
-    lc "哇! 真的吗？"
+    lc "哇！真的吗？"
 
 # game/code/d10p2/d10p2s08.rpy:547
 translate chinese d10p2s08_cl_part3_6637fff4:
@@ -1612,31 +1612,31 @@ translate chinese d10p2s08_cl_part3_6637fff4:
 translate chinese d10p2s08_cl_part3_309e99a2:
 
     # mc "You know that little outdoor shower?"
-    mc "你知道那个户外小淋浴吗？"
+    mc "你知道那种户外小淋浴间吗？"
 
 # game/code/d10p2/d10p2s08.rpy:555
 translate chinese d10p2s08_cl_part3_0c38c0b6:
 
     # lc "The one for people to wash the chlorine off when they use the pool, before they come back inside?"
-    lc "就是让人们在进泳池前把氯洗掉的那种吗?"
+    lc "就是让人游泳完了以后，把氯洗掉的那种吗？"
 
 # game/code/d10p2/d10p2s08.rpy:559
 translate chinese d10p2s08_cl_part3_48c3c6fd:
 
     # mc "That's the one. Cynthia stepped into that shower and spread her ass for me."
-    mc "就是那个。辛西娅走进那个淋浴间，为我张开她的屁股。"
+    mc "就是那个。辛西娅走进那个淋浴间，给我张开了她的屁股。"
 
 # game/code/d10p2/d10p2s08.rpy:563
 translate chinese d10p2s08_cl_part3_cf122cf1:
 
     # mc "Her ass was incredibly tight. Especially since we weren't using any lube."
-    mc "她屁股非常紧。尤其是我们没用任何润滑油。"
+    mc "她屁股非常紧。尤其是我们什么润滑油也没用。"
 
 # game/code/d10p2/d10p2s08.rpy:567
 translate chinese d10p2s08_cl_part3_6733cbcc:
 
     # mc "I wanted to lubricate her with something, but she was emphatic that I fuck her raw."
-    mc "我想找点什么东西来给她润滑一下的，但她执意要我操她的原处。"
+    mc "我想找点什么东西来给她润滑一下的，但她执意要我就那样生操她。"
 
 # game/code/d10p2/d10p2s08.rpy:572
 translate chinese d10p2s08_mh_part3_46bbbfcf:
@@ -1648,19 +1648,19 @@ translate chinese d10p2s08_mh_part3_46bbbfcf:
 translate chinese d10p2s08_mh_part3_006b2c13:
 
     # lc "How does that work?"
-    lc "它怎么玩的？?"
+    lc "它怎么玩的？"
 
 # game/code/d10p2/d10p2s08.rpy:576
 translate chinese d10p2s08_mh_part3_601a5d84:
 
     # mc "Kinda like \"Hot or Cold\" where you have to find someone else at the Party."
-    mc "有点像\"Hot or Cold\"热或冷，你必须在派对上找到其他人。"
+    mc "有点像我们小时候玩的\"传手绢\"的游戏，你必须在派对上找到其他人。"
 
 # game/code/d10p2/d10p2s08.rpy:578
 translate chinese d10p2s08_mh_part3_4576a09c:
 
     # lc "Did you find your special person?"
-    lc "你找到你的另一半了吗?"
+    lc "那你找到你的另一半了吗？"
 
 # game/code/d10p2/d10p2s08.rpy:580
 translate chinese d10p2s08_mh_part3_35647414:
@@ -1684,7 +1684,7 @@ translate chinese d10p2s08_mh_part3_5f066d08:
 translate chinese d10p2s08_mh_part3_69e61b82:
 
     # lc "Oh yeah! I didn't get to talk to her, but she's incredibly beautiful. {w}Please tell me it was her."
-    lc "哦，是啊! 我没和她说话，但她真漂亮。{w}希望你说的是她吧。{w}Please tell me it was her."
+    lc "哦，是啊! 我没和她说话，但她真漂亮。{w}希望你说的是她吧。"
 
 # game/code/d10p2/d10p2s08.rpy:588
 translate chinese d10p2s08_mh_part3_2f95b562:
@@ -1696,7 +1696,7 @@ translate chinese d10p2s08_mh_part3_2f95b562:
 translate chinese d10p2s08_mh_part3_1b5a97d9:
 
     # lc "A little of both?"
-    lc "两者都有一点？"
+    lc "呃，两者都有一点？"
 
 # game/code/d10p2/d10p2s08.rpy:591
 translate chinese d10p2s08_mh_part3_5407d716:
@@ -1738,7 +1738,7 @@ translate chinese d10p2s08_mh_part3_8ca6f686:
 translate chinese d10p2s08_mh_part3_71d1546d:
 
     # mc "Well, in that case. {w}We've gotten to the point where she was willing to let me fuck her ass."
-    mc "好吧，这样的话。{w}我们就要谈到她愿意让我操她屁股的地步了。{w}We've gotten to the point where she was willing to let me fuck her ass."
+    mc "好吧，这样的话。{w}我们就要谈到她愿意让我操她屁股的地步了。"
 
 # game/code/d10p2/d10p2s08.rpy:611
 translate chinese d10p2s08_mh_part3_5814c2c5:
@@ -1750,13 +1750,13 @@ translate chinese d10p2s08_mh_part3_5814c2c5:
 translate chinese d10p2s08_mh_part3_399e035e:
 
     # mc "She's amazing at giving head. She knows her way around a cock in a way- {w}Well, I've never met anyone as talented as she is."
-    mc "她口活很厉害。她很熟悉怎么驾驭鸡巴--{w}嗯，我从没见过像她这样有天赋的人。"
+    mc "她口活很厉害，很熟悉怎么驾驭鸡巴--{w}嗯，我从没见过像她这样有天赋的人。"
 
 # game/code/d10p2/d10p2s08.rpy:616
 translate chinese d10p2s08_mh_part3_c3c0ebe8:
 
     # mc "But this time, she undressed and spread herself out on the bed waiting for me to plunder her back passage."
-    mc "但这次，她脱了衣服，躺在床上，等着我去侵略她的后处。"
+    mc "但这次，她脱了衣服，躺在床上，等着我去攻下她的城池。"
 
 # game/code/d10p2/d10p2s08.rpy:620
 translate chinese d10p2s08_mh_part3_afa95f8d:
@@ -1792,13 +1792,13 @@ translate chinese d10p2s08_mh_part3_642b0935:
 translate chinese d10p2s08_mh_part3_dad737bc:
 
     # mc "We were both peaking while the clock got closer to the finish time."
-    mc "当时间快到终点的时候，我们都到达了顶峰。"
+    mc "当时间快到终点的时候，我们俩都到了巅峰。"
 
 # game/code/d10p2/d10p2s08.rpy:646
 translate chinese d10p2s08_tm_part3_cfd73bab:
 
     # mc "So, I was out by the pool when Mr.D1cky suddenly appeared out of nowhere."
-    mc "所以，我当时在泳池边，Mr.D1cky突然不知从哪里冒出来了。"
+    mc "所以，我当时在泳池边，迪克先生突然不知从哪里冒出来了。"
 
 # game/code/d10p2/d10p2s08.rpy:648
 translate chinese d10p2s08_tm_part3_f7e19426:
@@ -1810,7 +1810,7 @@ translate chinese d10p2s08_tm_part3_f7e19426:
 translate chinese d10p2s08_tm_part3_de111dc1:
 
     # mc "He was floating in mid-air above the pool!"
-    mc "他是漂浮在泳池上方的半空中！"
+    mc "他可是漂浮在泳池上方的半空中！"
 
 # game/code/d10p2/d10p2s08.rpy:652
 translate chinese d10p2s08_tm_part3_ca0fdca8:
@@ -1828,7 +1828,7 @@ translate chinese d10p2s08_tm_part3_e45b77dc:
 translate chinese d10p2s08_tm_part3_fb95a296:
 
     # lc "An old pirate ship? Like a frigate or a galleon?"
-    lc "旧海盗船？像护卫舰或大帆船那种吗？"
+    lc "旧海盗船？你是说像护卫舰或大帆船那种吗？"
 
 # game/code/d10p2/d10p2s08.rpy:658
 translate chinese d10p2s08_tm_part3_4975e668:
@@ -1840,7 +1840,7 @@ translate chinese d10p2s08_tm_part3_4975e668:
 translate chinese d10p2s08_tm_part3_49b0ae75:
 
     # lc "Did you drop some acid or something?"
-    lc "你是不是被下了什么迷幻药之类的?"
+    lc "你是不是被下了什么迷幻药之类的？"
 
 # game/code/d10p2/d10p2s08.rpy:662
 translate chinese d10p2s08_tm_part3_8f530e94:
@@ -1852,13 +1852,13 @@ translate chinese d10p2s08_tm_part3_8f530e94:
 translate chinese d10p2s08_tm_part3_09b48071:
 
     # mc "I kept sinking and sinking and then suddenly the world was upside down and I was floating to the opposite side - the bottom was now the surface."
-    mc "我不断下沉下沉，然后突然整个世界都颠倒了，我漂到了另一边--底部现在是水面。"
+    mc "我不断下沉下沉，然后突然整个世界都颠倒了，我漂到了另一边--泳池的底部变成了地面。"
 
 # game/code/d10p2/d10p2s08.rpy:666
 translate chinese d10p2s08_tm_part3_f59a89e9:
 
     # mc "I found myself close to the old pirate ship, but now it was full sized, and there was someone on it."
-    mc "我发现自己离那艘旧海盗船很近，但现在它已经满了，上面有人。"
+    mc "我发现自己离那艘旧海盗船很近，它当时跟普通船一样大，上面有人。"
 
 # game/code/d10p2/d10p2s08.rpy:667
 translate chinese d10p2s08_tm_part3_2f4a1e96:
@@ -1870,7 +1870,7 @@ translate chinese d10p2s08_tm_part3_2f4a1e96:
 translate chinese d10p2s08_tm_part3_84a374db:
 
     # mc "I forget her name. I think it was Talia? I'm not sure if that's her real name or username."
-    mc "我忘了她的名字。我想是塔莉娅吧？我不知道这是她的真名还是用户名。"
+    mc "我忘了她的名字。我想是叫塔利亚吧？也不知道这是她的真名还是用户名。"
 
 # game/code/d10p2/d10p2s08.rpy:670
 translate chinese d10p2s08_tm_part3_6a7837a6:
@@ -1906,7 +1906,7 @@ translate chinese d10p2s08_tm_part3_dabf70f2:
 translate chinese d10p2s08_tm_part3_2c813ca3:
 
     # mc "Just as suddenly I found myself behind her, with my cock deep inside her."
-    mc "同样突然间，我发现自己就在她身后了，我的鸡巴也深深地插进了她里面。"
+    mc "同样突然间，我发现自己就在她身后了，我的鸡巴也深插进了她里面。"
 
 # game/code/d10p2/d10p2s08.rpy:689
 translate chinese d10p2s08_tm_part3_adeb0b71:
@@ -1918,7 +1918,7 @@ translate chinese d10p2s08_tm_part3_adeb0b71:
 translate chinese d10p2s08_tm_part3_c7656743:
 
     # mc "Anywhere we could imagine, just suddenly we were there."
-    mc "任何我们能想到的地方，我们都会突然出现。"
+    mc "任何我们能想到的地方，我俩都会突然出现。"
 
 # game/code/d10p2/d10p2s08.rpy:697
 translate chinese d10p2s08_tm_part3_22314eee:
@@ -1930,13 +1930,13 @@ translate chinese d10p2s08_tm_part3_22314eee:
 translate chinese d10p2s08_dw_part3_463544ab:
 
     # mc "So, first Squizzle had me strip down and then she bound me to some piece of sex furniture."
-    mc "所以，首先斯奎兹让我脱光衣服，然后她把我绑在一件性爱家具上。"
+    mc "所以，首先斯奎兹让我脱光衣服，然后她把我绑在某个情趣家具上。"
 
 # game/code/d10p2/d10p2s08.rpy:704
 translate chinese d10p2s08_dw_part3_fc46fb96:
 
     # lc "There's sex furniture?"
-    lc "还有性爱家具？"
+    lc "还有情趣家具？"
 
 # game/code/d10p2/d10p2s08.rpy:706
 translate chinese d10p2s08_dw_part3_b391f5b4:
@@ -1948,7 +1948,7 @@ translate chinese d10p2s08_dw_part3_b391f5b4:
 translate chinese d10p2s08_dw_part3_6f279e8c:
 
     # lc "So, you were basically tied-up face-down, with your penis and... {w}your anus on full display?"
-    lc "所以，你基本上是脸朝下被绑住了，还有你的鸡鸡……你的肛门全露出来了?"
+    lc "所以，你基本上是脸朝下被绑住了，还有你的鸡鸡……{w}你的肛门全露出来了？"
 
 # game/code/d10p2/d10p2s08.rpy:710
 translate chinese d10p2s08_dw_part3_5f9285bd:
@@ -1960,7 +1960,7 @@ translate chinese d10p2s08_dw_part3_5f9285bd:
 translate chinese d10p2s08_dw_part3_79f0b8a0:
 
     # mc "I didn't even hear when my Mistress entered. I just suddenly felt someone groping my ass."
-    mc "我的女主人进来的时候我都没听见。我只是突然觉得有人摸我的屁股。"
+    mc "我女主人进来的时候我都没听见。就只是突然觉得有人摸我的屁股。"
 
 # game/code/d10p2/d10p2s08.rpy:714
 translate chinese d10p2s08_dw_part3_92fcd23d:
@@ -1972,7 +1972,7 @@ translate chinese d10p2s08_dw_part3_92fcd23d:
 translate chinese d10p2s08_dw_part3_d6c28a21:
 
     # mc "I was almost thankful when it turned out to be my Mistress. Then I remembered that she can be somewhat... {w}scary."
-    mc "当我发现那是我的女主人时，我几乎要谢天谢地了。然后我想起来了，她有点……吓人。"
+    mc "当我发现那是我的女主人时，我几乎要谢天谢地了。然后我想起来了，她有点……{w}吓人。"
 
 # game/code/d10p2/d10p2s08.rpy:718
 translate chinese d10p2s08_dw_part3_b3b0b7da:
@@ -1984,37 +1984,37 @@ translate chinese d10p2s08_dw_part3_b3b0b7da:
 translate chinese d10p2s08_dw_part3_1d7bd82c:
 
     # mc "I promise I will, but for now let me just tell you about tonight."
-    mc "我保证我会说的，但我现在先跟你讲今晚的事。"
+    mc "我保证会说的，但我现在先跟你讲今晚的事。"
 
 # game/code/d10p2/d10p2s08.rpy:726
 translate chinese d10p2s08_dw_part3_50158806:
 
     # lc "Sounds... {w}fascinating."
-    lc "听起来……{w}很迷人。"
+    lc "听起来……{w}挺吸引人的。"
 
 # game/code/d10p2/d10p2s08.rpy:730
 translate chinese d10p2s08_dw_part3_c98ae7a9:
 
     # mc "She selected some sort of cane - basically a bundle of dowel rods with a firm handle."
-    mc "她选择了某种手杖--基本上是一捆有牢固把手的木钉棒。"
+    mc "她选了某种手杖--基本上是一捆有牢固把手的棍子。"
 
 # game/code/d10p2/d10p2s08.rpy:734
 translate chinese d10p2s08_dw_part3_b72af981:
 
     # mc "Then she proceeded to beat my ass red."
-    mc "然后她就把我的屁股打得通红"
+    mc "然后她就把我的屁股打得通红。"
 
 # game/code/d10p2/d10p2s08.rpy:739
 translate chinese d10p2s08_dw_part3_cb16c600:
 
     # mc "When she finished with the cane, she selected a paddle from the table and used it upon my poor cock."
-    mc "等她用完手杖后，又从桌子上选了一个桨，用它来打我可怜的鸡巴。"
+    mc "等她用完手杖后，又从桌子上选了一个球拍，用它来打我可怜的鸡巴。"
 
 # game/code/d10p2/d10p2s08.rpy:743
 translate chinese d10p2s08_dw_part3_aeb64d35:
 
     # mc "She started stroking my cock with her hand and applied a vibrator to my balls, but I held out as long as I could."
-    mc "她开始用手抚摸我的鸡巴，并在我的蛋蛋上使用振动器，但我尽可能地坚持下去。"
+    mc "她开始用手抚摸我的鸡巴，并在我的蛋蛋上使用振动器，我真的是尽可能地坚持下去了。"
 
 # game/code/d10p2/d10p2s08.rpy:748
 translate chinese d10p2s08_dw_part3_a28cc02f:
@@ -2026,19 +2026,19 @@ translate chinese d10p2s08_dw_part3_a28cc02f:
 translate chinese d10p2s08_dw_part3_83af1e88:
 
     # mc "She made me suck that fake cock, and I tried the best that I could."
-    mc "她让我吸那个假鸡巴，我尽我所能了。"
+    mc "她让我吸那个假鸡巴，我尽自己所能了。"
 
 # game/code/d10p2/d10p2s08.rpy:757
 translate chinese d10p2s08_dd_part3_b663fcc3:
 
     # mc "So, I stepped into the room and DoubleD was bound doggystyle facing away from me."
-    mc "所以我走进房间，DoubleD被捆绑成狗形，背对着我。"
+    mc "所以我走进房间，看到黛西被捆绑成狗趴式，背对着我。"
 
 # game/code/d10p2/d10p2s08.rpy:759
 translate chinese d10p2s08_dd_part3_cf01f117:
 
     # mc "I placed my hand on her ass and let her squirm a little before letting her know it was me."
-    mc "我把手放她屁股上，让她稍微蠕动一下，，才让她知道是我。"
+    mc "我把手放她屁股上，让她稍微蠕动一下，才让她知道是我。"
 
 # game/code/d10p2/d10p2s08.rpy:761
 translate chinese d10p2s08_dd_part3_e95326ab:
@@ -2050,7 +2050,7 @@ translate chinese d10p2s08_dd_part3_e95326ab:
 translate chinese d10p2s08_dd_part3_e4df2584:
 
     # mc "She was wearing a black fetish outfit. Every aspect of her figure was hidden by the thinnest material."
-    mc "她是裸着的吗？"
+    mc "她穿着一套黑色情趣服。全身上下的每个部位都被最薄的材料给盖住了。"
 
 # game/code/d10p2/d10p2s08.rpy:765
 translate chinese d10p2s08_dd_part3_4fe0fda5:
@@ -2062,7 +2062,7 @@ translate chinese d10p2s08_dd_part3_4fe0fda5:
 translate chinese d10p2s08_dd_part3_edb2aaac:
 
     # mc "Her ankles and wrists were bound in leather. There was a table of instruments waiting for use."
-    mc "她的脚踝和手腕都被皮革绑着。有一张桌子，上面摆满了等待使用的器械。"
+    mc "她的脚踝和手腕都被皮革绑着。还有一张桌子，上面摆满了等待使用的器械。"
 
 # game/code/d10p2/d10p2s08.rpy:769
 translate chinese d10p2s08_dd_part3_5e0896e1:
@@ -2074,7 +2074,7 @@ translate chinese d10p2s08_dd_part3_5e0896e1:
 translate chinese d10p2s08_dd_part3_a30d0a90:
 
     # mc "Paddles, canes, dildos... {w}there was even an anal hook."
-    mc "桨啊、手杖啊、假阳具啊……{w}甚至还有一个肛门钩。"
+    mc "有球拍啊、手杖啊、假阳具啊……{w}甚至还有一个肛门钩。"
 
 # game/code/d10p2/d10p2s08.rpy:773
 translate chinese d10p2s08_dd_part3_9a57fedd:
@@ -2086,7 +2086,7 @@ translate chinese d10p2s08_dd_part3_9a57fedd:
 translate chinese d10p2s08_dd_part3_9679c8c4:
 
     # mc "Correct. Implements of pleasure and pain."
-    mc "没错。快乐和痛苦并存的器具。"
+    mc "没错。快乐和痛苦并存的工具。"
 
 # game/code/d10p2/d10p2s08.rpy:779
 translate chinese d10p2s08_dd_part3_87a9b000:
@@ -2116,7 +2116,7 @@ translate chinese d10p2s08_dd_part3_d8724f19:
 translate chinese d10p2s08_dd_part3_b061e59e:
 
     # mc "A paddle. I wanted her to really feel it."
-    mc "一个桨。我想让她真正感受到它。"
+    mc "一个球拍。我想让她真正感受一下。"
 
 # game/code/d10p2/d10p2s08.rpy:796
 translate chinese d10p2s08_dd_part3_5e2fed4d:
@@ -2128,13 +2128,13 @@ translate chinese d10p2s08_dd_part3_5e2fed4d:
 translate chinese d10p2s08_dd_part3_4cd9147e:
 
     # mc "After burning her ass red she was begging me to fuck her."
-    mc "在把她的屁股烧红之后，就求我上她。"
+    mc "她的屁股被点燃欲火之后，就求我上她。"
 
 # game/code/d10p2/d10p2s08.rpy:804
 translate chinese d10p2s08_dd_part3_c5ba1368:
 
     # mc "Her outfit was designed for easy access, so I didn't even have to unbind her before I stuck my cock deep inside her warm, inviting pussy."
-    mc "她的衣服设计得很容易进去，所以我甚至不用解开她的绑带，就把我的鸡巴深深地插进她温暖诱人的小穴里。"
+    mc "她衣服设计得很容易进去，所以我甚至不用解开她的绑带，就可以把我鸡巴深深地插进她温暖诱人的小穴里。"
 
 # game/code/d10p2/d10p2s08.rpy:854
 translate chinese d10p2s08_aw_part5_3e8f0a42:
@@ -2146,67 +2146,67 @@ translate chinese d10p2s08_aw_part5_3e8f0a42:
 translate chinese d10p2s08_aw_part5_a370bfe7:
 
     # mc "The next thing I remember Allison pulled my cock towards her so I could come all over the back of her dress."
-    mc "接下来，我记得艾莉森把我的鸡巴拉向她，这样我就可以在她衣服后面来一次。"
+    mc "接下来，我记得艾莉森把我的鸡巴拉向她，这样我就可以在她衣服后面来一发。"
 
 # game/code/d10p2/d10p2s08.rpy:856
 translate chinese d10p2s08_aw_part5_58d88371:
 
     # mc "Meanwhile, she arched her back and had a full-on, intense, powerful orgasm right there in my hands."
-    mc "与此同时，她弓着腰，在我的手中就有了一个全面的、强烈的、有力的高潮。"
+    mc "与此同时她弓着腰，就在我的手中来了个绝妙、强烈又有力的高潮。"
 
 # game/code/d10p2/d10p2s08.rpy:858
 translate chinese d10p2s08_aw_part5_b793755c:
 
     # mc "That's when I noticed the butt plug sticking out of her ass."
-    mc "这时我才注意到她屁股上伸出的屁股塞。"
+    mc "这时我才注意到她屁股上还有个伸出头的肛门塞。"
 
 # game/code/d10p2/d10p2s08.rpy:865
 translate chinese d10p2s08_cl_part5_b1b9dd09:
 
     # mc "Anyway, so we were both in the outside shower and I was balls deep in her bare ass."
-    mc "总之，当时我们都在外面洗澡，我在她赤裸的屁股里"
+    mc "总之，当时我们都在外面的淋浴间，她全身赤裸着，而我一直在不停肏她。"
 
 # game/code/d10p2/d10p2s08.rpy:866
 translate chinese d10p2s08_cl_part5_f7feac20:
 
     # mc "When I was close to cumming, I asked her how she wanted it, and she gave me a choice."
-    mc "当我快射的时候，我问她想怎么做，她给了我一个选择。"
+    mc "当我快射的时候，我问她想在哪里，她给了我一个选择。"
 
 # game/code/d10p2/d10p2s08.rpy:868
 translate chinese d10p2s08_cl_part5_4fadbf48:
 
     # mc "I could either creampie her dirty asshole or she could clean my cock with her mouth..."
-    mc "我可以用鸡巴舔她的脏屁眼，也可以选择用她的嘴来清洗我的鸡巴……
+    mc "我可以用鸡巴舔她的脏屁眼，也可以选择用她的嘴来给我的鸡巴洗一洗……
 
 # game/code/d10p2/d10p2s08.rpy:876
 translate chinese d10p2s08_mh_part5_9e70f021:
 
     # mc "I climaxed hard. After I finished there was just cum everywhere."
-    mc "我狠狠地高潮了。在我结束后，到处都是精液"
+    mc "最后我狠狠地高潮了。在我结束后，真的到处都是精液。"
 
 # game/code/d10p2/d10p2s08.rpy:877
 translate chinese d10p2s08_mh_part5_230aa7e8:
 
     # mc "My cum was all over her butt and butthole; her cum was everyplace else."
-    mc "我的精液沾满了她的屁股和屁眼，她的水则是到处都是"
+    mc "我的精液沾满了她的屁股和屁眼，她流的水也是到处都是。"
 
 # game/code/d10p2/d10p2s08.rpy:879
 translate chinese d10p2s08_mh_part5_903efb88:
 
     # mc "We won the event, but took some time to recover, and then clean up."
-    mc "我们赢得了比赛，但花了一段时间恢复，然后收拾干净。"
+    mc "我们赢得了比赛，但花了一段时间才恢复，然后把场地收拾干净。"
 
 # game/code/d10p2/d10p2s08.rpy:881
 translate chinese d10p2s08_mh_part5_b58399af:
 
     # mc "At the Party last week she had given me half a blowjob, then left me with blue balls."
-    mc "上周在派对上，她给了我半个口交，然后就把我抛在脑后了。"
+    mc "上周在派对上，她算是给了我半个口交，然后就把我抛在脑后了。"
 
 # game/code/d10p2/d10p2s08.rpy:882
 translate chinese d10p2s08_mh_part5_be6d1553:
 
     # mc "Tonight was different. I came down her throat while she shivered in a silent orgasm."
-    mc "今晚不一样。我从她的喉咙里下来，而她在无声的高潮中颤抖。"
+    mc "今晚不一样。我直接在她喉咙里爆发，而她却在无声的高潮中颤抖。"
 
 # game/code/d10p2/d10p2s08.rpy:884
 translate chinese d10p2s08_mh_part5_231c093d:
@@ -2218,19 +2218,19 @@ translate chinese d10p2s08_mh_part5_231c093d:
 translate chinese d10p2s08_tm_part5_b593bf64:
 
     # mc "So, one moment she was sucking my cock, and the next moment she was straddling me and I was balls deep in her pussy."
-    mc "所以，前一刻她还在吸我的鸡巴，下一刻她就跨坐在我身上，我的蛋蛋深埋在她的阴部里"
+    mc "所以，前一刻她还在吸我的鸡巴，下一刻她就跨坐在我身上，我的蛋蛋深埋在她可爱的小穴里。"
 
 # game/code/d10p2/d10p2s08.rpy:892
 translate chinese d10p2s08_tm_part5_7812f4f1:
 
     # mc "Then we were everywhere at once. I was fucking her, she was riding me, she was sucking me off... all at the same time."
-    mc "然后我们就无处不在了。我在操她，她在骑我，她在吸我……所有这些都是同时发生的。"
+    mc "然后我们就无处不在了。我操她，她骑我，她又吸我……所有这些都是同时发生的。"
 
 # game/code/d10p2/d10p2s08.rpy:894
 translate chinese d10p2s08_tm_part5_0f4098c2:
 
     # mc "I couldn't tell which one of them were me, or if they all were, but when I came all over her face I was back to being just one person."
-    mc "我分不清哪一个是我，或者他们是否都是，但当我在她的脸上射了一身时，我又回到了只有一个人的状态。"
+    mc "我分不清哪一个是我，或者是不是全部都是我，但当我射了她一脸时，就又回到了只有一个人的状态。"
 
 # game/code/d10p2/d10p2s08.rpy:895
 translate chinese d10p2s08_tm_part5_5506694a:
@@ -2260,13 +2260,13 @@ translate chinese d10p2s08_dw_part5_fd025f3d:
 translate chinese d10p2s08_dw_part5_2d51d8a7:
 
     # mc "Squizzle came to help me get out of the bindings, but I didn't get to cum."
-    mc "斯奎兹来帮我摆脱束缚，但我没能射出来。"
+    mc "斯奎兹来帮我解开绳子，但我没能射出来。"
 
 # game/code/d10p2/d10p2s08.rpy:909
 translate chinese d10p2s08_dw_part5_4f4e1606:
 
     # mc "So, finally, after I held out as long as I could, the dam burst."
-    mc "所以，最终，在我竭尽全力坚持之后，大坝决堤了。"
+    mc "所以最后，在我竭尽全力坚持之后，大坝还是决堤了。"
 
 # game/code/d10p2/d10p2s08.rpy:910
 translate chinese d10p2s08_dw_part5_0178cab7:
@@ -2284,31 +2284,31 @@ translate chinese d10p2s08_dw_part5_93282b67:
 translate chinese d10p2s08_dd_part5_f80050e4:
 
     # mc "So, I was fucking Daisy while she was bound doggystyle."
-    mc "所以，我在干黛西的时候，她被绑得很紧"
+    mc "所以，我在干黛西的时候，她被绑得很紧。"
 
 # game/code/d10p2/d10p2s08.rpy:921
 translate chinese d10p2s08_dd_part5_f7365378:
 
     # mc "I couldn't hold back any longer. I barely had time to pull out before I came."
-    mc "我再也憋不住了。我几乎没来得及拔出来就高潮了。"
+    mc "我再也憋不住了。几乎没来得及拔出来就高潮了。"
 
 # game/code/d10p2/d10p2s08.rpy:923
 translate chinese d10p2s08_dd_part5_fce961c7:
 
     # mc "After that I removed her bindings and helped her get feeling back."
-    mc "在那之后，我帮她解开了束缚，让她恢复了知觉。"
+    mc "在那之后，我帮她解开了绑带，让她恢复了知觉。"
 
 # game/code/d10p2/d10p2s08.rpy:925
 translate chinese d10p2s08_dd_part5_31fe8f1b:
 
     # mc "I couldn't hold back any longer. I came deep inside her."
-    mc "我再也忍不住了。我深深地进入了她的体内。"
+    mc "我再也忍不住了，就在她体内释放了。"
 
 # game/code/d10p2/d10p2s08.rpy:927
 translate chinese d10p2s08_dd_part5_fce961c7_1:
 
     # mc "After that I removed her bindings and helped her get feeling back."
-    mc "在那之后，我帮她解开了束缚，让她恢复了知觉。"
+    mc "在那之后，我帮她解开了绑带，让她恢复了知觉。"
 
 # game/code/d10p2/d10p2s08.rpy:929
 translate chinese d10p2s08_dd_part5_6160408b:
@@ -2320,13 +2320,13 @@ translate chinese d10p2s08_dd_part5_6160408b:
 translate chinese d10p2s08_dd_part5_6ea3d9f4:
 
     # mc "Then I returned to my implement and prepared to punish those gorgeous tits of hers."
-    mc "然后我回到我的工具，准备惩罚她那美丽的乳头"
+    mc "然后我回到我的工具那里，准备惩罚她那美丽的乳头。"
 
 # game/code/d10p2/d10p2s08.rpy:946
 translate chinese d10p2s08_end_127fa758:
 
     # mc "I can hear you breathing... {w}It kinda sounds like you're asleep."
-    mc "我可以听到你的呼吸声……{w}听起来你好像睡着了。"
+    mc "我可以听到你的呼吸声……{w}听起来你好像睡着了哎。"
 
 # game/code/d10p2/d10p2s08.rpy:948
 translate chinese d10p2s08_end_fbf01f78:
@@ -2344,7 +2344,7 @@ translate chinese d10p2s08_end_4e85cb4d:
 translate chinese d10p2s08_end_0efd57d9:
 
     # aw "Hey, [mcname]..."
-    aw "Hey, [mcname]..."
+    aw "嘿，[mcname]……"
 
 # game/code/d10p2/d10p2s08.rpy:953
 translate chinese d10p2s08_end_16fb6378:
@@ -2356,7 +2356,7 @@ translate chinese d10p2s08_end_16fb6378:
 translate chinese d10p2s08_end_ebe792cf:
 
     # aw "Uh, [mclogin]?"
-    aw "呃，[mclogin]?"
+    aw "呃，[mclogin]？"
 
 # game/code/d10p2/d10p2s08.rpy:956
 translate chinese d10p2s08_end_3eb95530:
@@ -2368,19 +2368,19 @@ translate chinese d10p2s08_end_3eb95530:
 translate chinese d10p2s08_end_86b8f857:
 
     # aw "When you're wet & ready..."
-    aw "当你湿了，准备好了……"
+    aw "如果你已经湿了，也准备好了……"
 
 # game/code/d10p2/d10p2s08.rpy:958
 translate chinese d10p2s08_end_23584fa3:
 
     # mc "Got the feeling I've been talking to a dead, dead, line."
-    mc "我感觉我一直在和一条死气沉沉的线说话。"
+    mc "我感觉那边是不是已经掉线了呀。"
 
 # game/code/d10p2/d10p2s08.rpy:960
 translate chinese d10p2s08_end_c9f2e7f7:
 
     # aw "Keep your focus on the simple things. {w}Are you ready?"
-    aw "把你的注意力集中在简单的事情上。{w} 准备好了吗？"
+    aw "把注意力集中在简单的事情上。{w}准备好了吗？"
 
 # game/code/d10p2/d10p2s08.rpy:962
 translate chinese d10p2s08_end_cde7378b:
@@ -2392,7 +2392,7 @@ translate chinese strings:
 
     # game/code/d10p2/d10p2s08.rpy:127
     old "I do."
-    new "I do."
+    new "当然了。"
 
     # game/code/d10p2/d10p2s08.rpy:127
     old "I Love You"
@@ -2400,11 +2400,11 @@ translate chinese strings:
 
     # game/code/d10p2/d10p2s08.rpy:217
     old "Allison on the Stairs"
-    new "艾莉森在楼梯上"
+    new "楼梯上的艾莉森"
 
     # game/code/d10p2/d10p2s08.rpy:217
     old "Cynthia Outdoors"
-    new "辛西娅在户外"
+    new "户外的辛西娅"
 
     # game/code/d10p2/d10p2s08.rpy:217
     old "Lyssa in the Bedroom"
@@ -2416,7 +2416,7 @@ translate chinese strings:
 
     # game/code/d10p2/d10p2s08.rpy:217
     old "Dahlia in the Pandora Room"
-    new "潘多拉房间里的大丽花"
+    new "潘多拉房间里的黛丽娅"
 
     # game/code/d10p2/d10p2s08.rpy:217
     old "Daisy in the Pandora Room"
