@@ -8,7 +8,7 @@ translate chinese strings:
 
     # game/code/d10p2/d10p2_screens.rpy:11
     old "Stop searching"
-    new "不要再找了"
+    new "停止搜索"
 
     # game/code/d10p2/d10p2_screens.rpy:15
     old "Skip{#d10p2s05}"
@@ -16,7 +16,7 @@ translate chinese strings:
 
     # game/code/d10p2/d10p2_screens.rpy:20
     old "Skip the free roam"
-    new "跳过自由行"
+    new "结束浏览模式"
 
     # game/code/d10p2/d10p2_screens.rpy:42
     old "Go to the stairs"
@@ -24,19 +24,19 @@ translate chinese strings:
 
     # game/code/d10p2/d10p2_screens.rpy:51
     old "Check AmRose and Iona"
-    new "看看爱洛丝和欧娜"
+    new "看看爱洛丝和欧娜那边"
 
     # game/code/d10p2/d10p2_screens.rpy:61
     old "Turn around"
-    new "转身"
+    new "转过去"
 
     # game/code/d10p2/d10p2_screens.rpy:76
     old "Go near Stacy"
-    new "去史黛西附近"
+    new "到史黛西身边"
 
     # game/code/d10p2/d10p2_screens.rpy:84
     old "Go to the balcony door"
-    new "去阳台门"
+    new "去阳台门那边"
 
     # game/code/d10p2/d10p2_screens.rpy:92
     old "Check out the rooms"
@@ -52,7 +52,7 @@ translate chinese strings:
 
     # game/code/d10p2/d10p2_screens.rpy:175
     old "Go forward"
-    new "往前走"
+    new "继续前进"
 
     # game/code/d10p2/d10p2_screens.rpy:200
     old "Check out the pool"
@@ -60,11 +60,11 @@ translate chinese strings:
 
     # game/code/d10p2/d10p2_screens.rpy:224
     old "Enter the bar"
-    new "进入酒吧"
+    new "进入酒吧区域"
 
     # game/code/d10p2/d10p2_screens.rpy:249
     old "Check Stacy"
-    new "看看史黛西"
+    new "看看史黛西那边"
 
     # game/code/d10p2/d10p2_screens.rpy:257
     old "Go to the bar"
@@ -80,7 +80,7 @@ translate chinese strings:
 
     # game/code/d10p2/d10p2_screens.rpy:428
     old "Talk to Oliver"
-    new "T与奥利弗交谈"
+    new "与奥利弗聊天"
 
     # game/code/d10p2/d10p2_screens.rpy:439
     old "Go right"
@@ -88,7 +88,7 @@ translate chinese strings:
 
     # game/code/d10p2/d10p2_screens.rpy:447
     old "Check Lyssa"
-    new "看看丽莎"
+    new "看看丽莎那边"
 
     # game/code/d10p2/d10p2_screens.rpy:456
     old "Check the painting"
@@ -100,7 +100,7 @@ translate chinese strings:
 
     # game/code/d10p2/d10p2_screens.rpy:489
     old "Check Daisy and Allison"
-    new "看看黛西和艾莉森"
+    new "看看黛西和艾莉森那边"
 
     # game/code/d10p2/d10p2_screens.rpy:538
     old "Go inside the Pandora room"
@@ -108,19 +108,19 @@ translate chinese strings:
 
     # game/code/d10p2/d10p2_screens.rpy:547
     old "Check Antony"
-    new "看看安东尼y"
+    new "看看安东尼那边"
 
     # game/code/d10p2/d10p2_screens.rpy:579
     old "Turn right"
-    new "T右转"
+    new "右转"
 
     # game/code/d10p2/d10p2_screens.rpy:612
     old "Check Lyssa and Min"
-    new "看看丽莎和明"
+    new "看看丽莎和明那边"
 
     # game/code/d10p2/d10p2_screens.rpy:636
     old "Go to upstairs"
-    new "G去楼上"
+    new "去楼上"
 
     # game/code/d10p2/d10p2_screens.rpy:692
     old "Enter the room"
@@ -128,7 +128,7 @@ translate chinese strings:
 
     # game/code/d10p2/d10p2_screens.rpy:717
     old "Check Chloe and Kevin"
-    new "看看克洛伊和凯文n"
+    new "看看克洛伊和凯文那边"
 
     # game/code/d10p2/d10p2_screens.rpy:782
     old "Go closer"
@@ -136,7 +136,7 @@ translate chinese strings:
 
     # game/code/d10p2/d10p2_screens.rpy:807
     old "Talk to Cynthia"
-    new "与辛西娅交谈"
+    new "与辛西娅聊天"
 
     # game/code/d10p2/d10p2_screens.rpy:858
     old "Allison blowjob"
@@ -144,11 +144,11 @@ translate chinese strings:
 
     # game/code/d10p2/d10p2_screens.rpy:866
     old "Allison doggy style"
-    new "艾莉森狗仔式"
+    new "艾莉森狗趴式"
 
     # game/code/d10p2/d10p2_screens.rpy:874
     old "Side-fuck Min"
-    new "側面操民"
+    new "侧面操明"
 
     # game/code/d10p2/d10p2_screens.rpy:882
     old "Allison 69"
@@ -156,15 +156,15 @@ translate chinese strings:
 
     # game/code/d10p2/d10p2_screens.rpy:890
     old "Allison cowgirl"
-    new "艾莉森女牛仔"
+    new "艾莉森女上位"
 
     # game/code/d10p2/d10p2_screens.rpy:898
     old "Min doggy style"
-    new "Min doggy style"
+    new "明狗趴式"
 
     # game/code/d10p2/d10p2_screens.rpy:911
     old "Blowjob"
-    new "B口交"
+    new "口交"
 
     # game/code/d10p2/d10p2_screens.rpy:919
     old "69"
@@ -172,11 +172,11 @@ translate chinese strings:
 
     # game/code/d10p2/d10p2_screens.rpy:927
     old "Doggy style"
-    new "狗仔式"
+    new "狗趴式"
 
     # game/code/d10p2/d10p2_screens.rpy:935
     old "Cowgirl"
-    new "女牛仔"
+    new "女上位"
 
     # game/code/d10p2/d10p2_screens.rpy:951
     old "Continue to the final scene"
