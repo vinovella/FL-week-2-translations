@@ -2176,7 +2176,7 @@ translate chinese d10p2s08_cl_part5_f7feac20:
 translate chinese d10p2s08_cl_part5_4fadbf48:
 
     # mc "I could either creampie her dirty asshole or she could clean my cock with her mouth..."
-    mc "我可以用鸡巴舔她的脏屁眼，也可以选择用她的嘴来给我的鸡巴洗一洗……
+    mc "我可以用鸡巴舔她的脏屁眼，也可以选择用她的嘴来给我的鸡巴洗一洗……"
 
 # game/code/d10p2/d10p2s08.rpy:876
 translate chinese d10p2s08_mh_part5_9e70f021:
