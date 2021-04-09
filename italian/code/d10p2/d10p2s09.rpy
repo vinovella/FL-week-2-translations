@@ -258,11 +258,11 @@ translate italian d10p2s09_continue_60b0e470:
     # mc "Are you guys ready for the final show?"
     mc "Ragazzi, siete pronti per il gran finale?"
 
-# game/code/d10p2/d10p2s09.rpy:512
-translate italian d10p2s09_continue_a7ca1387:
+# game/code/d10p2/d10p2s09.rpy:566
+translate russian d10p2s09_continue_01785616_1:
 
-    # "Everbody" "Wooo!"
-    "Everybody" "Wooo!"
+    # "Everybody" "Wooo!"
+    "Tutti" "Wooo!"
 
 # game/code/d10p2/d10p2s09.rpy:513
 translate italian d10p2s09_continue_767eaf14_1:
