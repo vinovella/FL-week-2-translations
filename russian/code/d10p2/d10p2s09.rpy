@@ -265,10 +265,10 @@ translate russian d10p2s09_continue_60b0e470:
     mc "Are you guys ready for the final show?"
 
 # game/code/d10p2/d10p2s09.rpy:566
-translate russian d10p2s09_continue_a7ca1387:
+translate russian d10p2s09_continue_01785616_1:
 
-    # "Everbody" "Wooo!"
-    "Everbody" "Wooo!"
+    # "Everybody" "Wooo!"
+    "Everybody" "Wooo!"
 
 # game/code/d10p2/d10p2s09.rpy:567
 translate russian d10p2s09_continue_767eaf14_1:
