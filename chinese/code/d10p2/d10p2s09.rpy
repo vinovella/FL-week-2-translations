@@ -376,7 +376,7 @@ translate chinese strings:
 
     # game/code/d10p2/d10p2s09.rpy:650
     old "Cum on her face"
-    new " 射她脸上"
+    new "射她脸上"
 
     # game/code/d10p2/d10p2s09.rpy:650
     old "Cum on her tits"
