@@ -744,6 +744,20 @@ translate chinese replay_d10p2s01_00377d23:
     # arjfl "Will do!"
     arjfl "好的！"
 
+﻿# TODO: Translation updated at 2021-04-10 14:30
+
+# game/code/d10p2/d10p2s01.rpy:111
+translate chinese d10p2s01_e91fa22a:
+
+    # dd "Just come outside will be waiting for you there!"
+    dd "Just come outside will be waiting for you there!"
+
+# game/code/d10p2/d10p2s01.rpy:113
+translate chinese d10p2s01_6112aeb1:
+
+    # dd "Terrific! See you."
+    dd "Terrific! See you."
+
 translate chinese strings:
 
     # game/code/d10p2/d10p2s01.rpy:124
@@ -765,4 +779,3 @@ translate chinese strings:
     # game/code/d10p2/d10p2s01.rpy:124
     old "Prepare for Main Event"
     new "备战主活动"
-

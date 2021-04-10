@@ -350,3 +350,6 @@ translate chinese strings:
     old "Menu"
     new "Menu"
 
+    # game/code/screens/screens.rpy:262
+    old "Skip"
+    new "Skip"
