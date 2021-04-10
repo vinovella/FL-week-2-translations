@@ -1676,3 +1676,11 @@ translate russian strings:
     old "Hold even more"
     new "Hold even more"
 
+# TODO: Translation updated at 2021-04-10 22:37
+
+# game/code/d10p2/d10p2s04-dd.rpy:378
+translate russian d10p2s04_dd_d3ab7d9e:
+
+    # mc "How about we do something else?"
+    mc "How about we do something else?"
+
