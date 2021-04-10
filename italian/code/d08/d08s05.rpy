@@ -1223,3 +1223,11 @@ translate italian d08s05_dd_1512a6e1:
 
     # dd "Not that night. Samiya and I and a couple guys went over to the gym-"
     dd "Beh, non quella notte. Samiya ed io andiamo alla palestra con un paio di ragazzi..."
+# TODO: Translation updated at 2021-04-10 22:34
+
+# game/code/d08/d08s05.rpy:38
+translate italian d08s05_b4dc6ce9:
+
+    # sy "So... What's the plan?"
+    sy "So... What's the plan?"
+

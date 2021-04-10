@@ -383,3 +383,11 @@ translate italian d10p2s09_continue_688fd16d:
 
     # mesfl "*Gulp*"
     mesfl "*Gulp*"
+
+# TODO: Translation updated at 2021-04-10 22:34
+
+# game/code/d10p2/d10p2s09.rpy:680
+translate italian d10p2s09_continue_01785616_1:
+
+    # "Everybody" "Wooo!"
+    "Tutti" "Wooo!"
