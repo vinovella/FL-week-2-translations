@@ -538,7 +538,7 @@ translate spanish d08s02_e5d30663:
 translate spanish d08s02_8569eb29:
 
     # mct "Pete said, \"Dude - total failure. No luggage. Talk later.\" {w}Well, fuck..."
-    mct "Pete Dijo, \"Amigo, fracaso total. Sin equipaje. Hablamos más tarde. \" {W}Bueno, joder..."
+    mct "Pete Dijo, \"Amigo, fracaso total. Sin equipaje. Hablamos más tarde. \" {w}Bueno, joder..."
 
 # game/code/d08/d08s02.rpy:164
 translate spanish d08s02_84cbc12d:
@@ -719,4 +719,3 @@ translate spanish d08s02_d4dcfd6e:
 
     # arj "I'll see you in class."
     arj "Te veré en clases."
-

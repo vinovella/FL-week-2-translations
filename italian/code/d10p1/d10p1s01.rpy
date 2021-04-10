@@ -544,7 +544,7 @@ translate italian d10p1s01_c6be8562:
 translate italian d10p1s01_7288b39c:
 
     # mesfl "Oh? Like that character in Teen Wolf?"
-    mesfl "Oh? Come quel personaggio di {i}Voglia di vincere{i}?"
+    mesfl "Oh? Come quel personaggio di {i}Voglia di vincere{/i}?"
 
 # game/code/d10p1/d10p1s01.rpy:140
 translate italian d10p1s01_556b0b48:
@@ -1273,4 +1273,3 @@ translate italian strings:
     # game/code/d10p1/d10p1s01.rpy:221
     old "Apples"
     new "Mele"
-

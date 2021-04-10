@@ -4,7 +4,7 @@
 translate russian end_of_week_302f1a70:
 
     # "Your first week on {i}Fetish Locator{/i} ends here.{w}\nSave now to be able to start day 8 without losing all your progress.{w}\nIf you are playing several paths create separate saves and give them different names."
-    "Ваша первая неделя в {i}Фетиш-Локаторе{i} заканчивается здесь.{w}\nСохранитесь сейчас, чтобы иметь возможность начать день 8, не теряя весь свой прогресс.{w}\nЕсли вы играете в несколько путей, создайте отдельные сэйвы и дайте им разные имена."
+    "Ваша первая неделя в {i}Фетиш-Локаторе{/i} заканчивается здесь.{w}\nСохранитесь сейчас, чтобы иметь возможность начать день 8, не теряя весь свой прогресс.{w}\nЕсли вы играете в несколько путей, создайте отдельные сэйвы и дайте им разные имена."
 
 # game/code/labels.rpy:38
 translate russian end_of_week_f457ab7a:
@@ -289,4 +289,3 @@ translate russian coming_next_de7eb1b3:
 
     # dd "And I'm sure they'll be more than happy to play once week-2 will be released in 2021!"
     dd "And I'm sure they'll be more than happy to play once week-2 will be released in 2021!"
-

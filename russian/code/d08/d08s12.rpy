@@ -671,7 +671,7 @@ translate russian d08s12_end_83a0bcf1:
 
     # mc "Um... just a minute?{w} I'm leaving ASAP."
     mc "Эм... минутку. {w}Я сейчас выйду."
-    
+
 # game/code/d08/d08s12.rpy:91
 translate russian d08s12_ad3ee5ca:
 
@@ -688,7 +688,7 @@ translate russian d08s12_aa0e2e7d:
 translate russian d08s12_1cb7a1fc:
 
     # mh "{i}God{/i}, your touch feels electric!"
-    mh "{i}Боже{i/}, твое прикосновение словно бьёт током!"
+    mh "{i}Боже{/i}, твое прикосновение словно бьёт током!"
 
 # game/code/d08/d08s12.rpy:151
 translate russian d08s12_447601f0:
@@ -910,4 +910,3 @@ translate russian d08s12_end_6c5544fb:
 
     # mh "Heh, I can't wait to see you again!."
     mh "Heh, I can't wait to see you again!."
-
