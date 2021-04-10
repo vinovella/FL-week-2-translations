@@ -76,7 +76,7 @@ translate chinese d10p2s07_7305baba:
 translate chinese d10p2s07_699ac2b2:
 
     # aw "Well, that and the plumbing."
-    aw "呃，还有"排水渠"的原因。"
+    aw "呃，还有\"排水渠\"的原因。"
 
 # game/code/d10p2/d10p2s07.rpy:29
 translate chinese d10p2s07_05500ff6:
@@ -148,7 +148,7 @@ translate chinese d10p2s07_e21f7721:
 translate chinese d10p2s07_cc2f422e:
 
     # aw "Second, even if I wanted to I don't have the right plumbing to pursue Lyssa romantically."
-    aw "其次，即使我想，我也没有合适的"排水渠"去追求丽莎。"
+    aw "其次，即使我想，我也没有合适的\"排水渠\"去追求丽莎。"
 
 # game/code/d10p2/d10p2s07.rpy:50
 translate chinese d10p2s07_8a340642:
@@ -839,4 +839,3 @@ translate chinese d10p2s07_aa77db00:
 
     # mct "Well, I guess I best get ready."
     mct "好吧，我想我最好准备一下。"
-

@@ -140,7 +140,7 @@ translate chinese strings:
 
     # game/code/d10p2/d10p2_screens.rpy:858
     old "Allison blowjob"
-    new 艾莉森口交"
+    new "艾莉森口交"
 
     # game/code/d10p2/d10p2_screens.rpy:866
     old "Allison doggy style"
@@ -181,4 +181,3 @@ translate chinese strings:
     # game/code/d10p2/d10p2_screens.rpy:951
     old "Continue to the final scene"
     new "继续到最后一幕"
-
