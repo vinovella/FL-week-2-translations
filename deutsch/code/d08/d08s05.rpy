@@ -1210,3 +1210,11 @@ translate deutsch strings:
     old "Yes, Mistress"
     new "Yes, Mistress"
 
+# TODO: Translation updated at 2021-04-10 22:31
+
+# game/code/d08/d08s05.rpy:38
+translate deutsch d08s05_b4dc6ce9:
+
+    # sy "So... What's the plan?"
+    sy "So... What's the plan?"
+

@@ -1238,3 +1238,11 @@ translate deutsch strings:
     old "Don't help him"
     new "Don't help him"
 
+# TODO: Translation updated at 2021-04-10 22:31
+
+translate deutsch strings:
+
+    # game/code/d10p1/d10p1s03.rpy:442
+    old "Don't"
+    new "Don't"
+
