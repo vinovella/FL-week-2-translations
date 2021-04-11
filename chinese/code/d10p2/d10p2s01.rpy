@@ -748,13 +748,13 @@ translate chinese replay_d10p2s01_00377d23:
 translate chinese d10p2s01_e91fa22a:
 
     # dd "Just come outside will be waiting for you there!"
-    dd "Just come outside will be waiting for you there!"
+    dd "出来吧，我就在外面等你！"
 
 # game/code/d10p2/d10p2s01.rpy:113
 translate chinese d10p2s01_6112aeb1:
 
     # dd "Terrific! See you."
-    dd "Terrific! See you."
+    dd "太棒了!待会见啦。"
 
 translate chinese strings:
 
