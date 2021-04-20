@@ -1274,3 +1274,10 @@ translate russian strings:
     old "Apples"
     new "Яблоки"
 
+# TODO: Translation updated at 2021-04-20 23:44
+
+# game/code/d10p1/d10p1s01.rpy:312
+translate russian d10p1s01_7e7578d2:
+
+    # mc "Yep. I can remember [mc_safeword!t]..."
+    mc "Да. Я запомню [mc_safeword!t]..."
