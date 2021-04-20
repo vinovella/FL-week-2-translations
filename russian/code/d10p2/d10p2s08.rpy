@@ -2430,3 +2430,23 @@ translate russian strings:
     old "Blowjob from AmRose"
     new "Blowjob from AmRose"
 
+# TODO: Translation updated at 2021-04-20 22:26
+
+# game/code/d10p2/d10p2s08.rpy:710
+translate russian d10p2s08_mh_part3_4f2cc688:
+
+    # mc "Allison's friend? Blue-purple hair?"
+    mc "Allison's friend? Blue-purple hair?"
+
+# game/code/d10p2/d10p2s08.rpy:713
+translate russian d10p2s08_mh_part3_cfc2f32a:
+
+    # lc "Oh, right! We talked about her, but I didn't know her name."
+    lc "Oh, right! We talked about her, but I didn't know her name."
+
+# game/code/d10p2/d10p2s08.rpy:714
+translate russian d10p2s08_mh_part3_20d947bf:
+
+    # lc "Please tell me it was Lyssa."
+    lc "Please tell me it was Lyssa."
+
