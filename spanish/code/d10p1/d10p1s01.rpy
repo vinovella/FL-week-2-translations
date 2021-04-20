@@ -1274,3 +1274,11 @@ translate spanish strings:
     old "Apples"
     new "Apples"
 
+# TODO: Translation updated at 2021-04-20 23:53
+
+# game/code/d10p1/d10p1s01.rpy:312
+translate spanish d10p1s01_7e7578d2:
+
+    # mc "Yep. I can remember [mc_safeword!t]..."
+    mc "Yep. I can remember [mc_safeword!t]..."
+

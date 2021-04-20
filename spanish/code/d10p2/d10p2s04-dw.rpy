@@ -1188,3 +1188,11 @@ translate spanish strings:
     old "Hold stronger"
     new "Hold stronger"
 
+# TODO: Translation updated at 2021-04-20 23:53
+
+# game/code/d10p2/d10p2s04-dw.rpy:594
+translate spanish d10p2s04_dwmc_dickslap_66332944:
+
+    # mc "[mc_safeword!t]!"
+    mc "[mc_safeword!t]!"
+
