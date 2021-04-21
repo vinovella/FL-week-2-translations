@@ -2436,17 +2436,16 @@ translate italian strings:
 translate italian d10p2s08_mh_part3_4f2cc688:
 
     # mc "Allison's friend? Blue-purple hair?"
-    mc "Allison's friend? Blue-purple hair?"
+    mc "L'amica di Allison? Capelli tra il blu e il viola?"
 
 # game/code/d10p2/d10p2s08.rpy:713
 translate italian d10p2s08_mh_part3_cfc2f32a:
 
     # lc "Oh, right! We talked about her, but I didn't know her name."
-    lc "Oh, right! We talked about her, but I didn't know her name."
+    lc "Oh, giusto! Ne avevamo parlato, ma non sapevo come si chiamasse."
 
 # game/code/d10p2/d10p2s08.rpy:714
 translate italian d10p2s08_mh_part3_20d947bf:
 
     # lc "Please tell me it was Lyssa."
-    lc "Please tell me it was Lyssa."
-
+    lc "Ti prego, dimmi che era Lyssa."
