@@ -2436,17 +2436,16 @@ translate chinese strings:
 translate chinese d10p2s08_mh_part3_4f2cc688:
 
     # mc "Allison's friend? Blue-purple hair?"
-    mc "Allison's friend? Blue-purple hair?"
+    mc "是不是艾莉森的朋友？有蓝紫色头发的那个人？"
 
 # game/code/d10p2/d10p2s08.rpy:713
 translate chinese d10p2s08_mh_part3_cfc2f32a:
 
     # lc "Oh, right! We talked about her, but I didn't know her name."
-    lc "Oh, right! We talked about her, but I didn't know her name."
+    lc "哦，对哈！我们有提过她，但我不知道她的名字。"
 
 # game/code/d10p2/d10p2s08.rpy:714
 translate chinese d10p2s08_mh_part3_20d947bf:
 
     # lc "Please tell me it was Lyssa."
-    lc "Please tell me it was Lyssa."
-
+    lc "拜托了，告诉我那是丽莎吧。"
