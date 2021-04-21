@@ -112,13 +112,13 @@ translate deutsch d08s01_912d6106:
 translate deutsch d08s01_a4b8fb55:
 
     # mct "Oh, damn. I could have told her to blow me before breakfast."
-    mct "Oh, verdammt. Ich hätte ihr sagen sollen, dass sie mir vorm Frühstück noch einen bläst."
+    mct "Oh, verdammt. Ich hätte ihr sagen können, dass sie mir vorm Frühstück noch einen blasen soll."
 
 # game/code/d08/d08s01.rpy:63
 translate deutsch d08s01_c54b27e8:
 
     # mct "Oh, damn. I bet I could've gotten a quickie if I suggested it."
-    mct "Oh, verdammt. Hätte ich gefragt, hätte ich bestimm noch einen Quickie gefragt."
+    mct "Oh, verdammt. Hätte ich gefragt, hätte ich bestimmt noch einen Quickie bekommen."
 
 # game/code/d08/d08s01.rpy:64
 translate deutsch d08s01_fb42a35d:
@@ -250,7 +250,7 @@ translate deutsch d08s01_bathe_b8bd9a8c:
 translate deutsch d08s01_bathe_84a25daa:
 
     # sy "You look good there. All toned and dripping."
-    sy "Du siehst gut aus. Alles warm und tropfend."
+    sy "Du siehst gut aus. Gut gebaut und nass."
 
 # game/code/d08/d08s01.rpy:145
 translate deutsch d08s01_bathe_63a6d232:
@@ -268,13 +268,13 @@ translate deutsch d08s01_bathe_50eaf5b5:
 translate deutsch d08s01_bathe_c7260dc8:
 
     # sy "You know, there's something I've been meaning to tell you."
-    sy "Du weißt, dass ich dir gerne etwas erzählen möchte."
+    sy "Weißt du, da gibt es etwas was ich dir gerne erzählen möchte."
 
 # game/code/d08/d08s01.rpy:167
 translate deutsch d08s01_bathe_a3fb7535:
 
     # sy "I couldn't help noticing..."
-    sy "Ich konnte es nicht anders, als es zu bemerken..."
+    sy "Ich konnte nicht anders, als es zu bemerken..."
 
 # game/code/d08/d08s01.rpy:169
 translate deutsch d08s01_bathe_dc26bdcb:
@@ -304,7 +304,7 @@ translate deutsch d08s01_bathe_9f8f6e75:
 translate deutsch d08s01_bathe_22f718c8:
 
     # sy "I really like her. She's like the sister I never had."
-    sy "Ich mag sie sehr. Sie ist wie eine kleine Schwester die ich nie hätte."
+    sy "Ich mag sie sehr. Sie ist wie eine kleine Schwester die ich nie hatte."
 
 # game/code/d08/d08s01.rpy:176
 translate deutsch d08s01_bathe_28cdfc68:
@@ -346,7 +346,7 @@ translate deutsch d08s01_bathe_1951595e:
 translate deutsch d08s01_bathe_47bbd1e5:
 
     # sy "Let me show you a little sample of how happy you can be."
-    sy "Lass mich dir ein Beispiel geben, wie glücklich du sein kannst."
+    sy "Lass mich dir einen kleinen Vorgeschmack geben, wie glücklich du sein kannst."
 
 # game/code/d08/d08s01.rpy:187
 translate deutsch d08s01_bathe_0c7f7b66:
@@ -358,13 +358,13 @@ translate deutsch d08s01_bathe_0c7f7b66:
 translate deutsch d08s01_bathe_bfaa8011:
 
     # sy "You liked watching me pee."
-    sy "Du magst es mir beim pinkeln zuzusehen."
+    sy "Dir hat es gefallen mir beim pinkeln zuzusehen."
 
 # game/code/d08/d08s01.rpy:191
 translate deutsch d08s01_bathe_b5b13864:
 
     # sy "You must have wanted to be this close to me when I did it."
-    sy "Du hast bestimmt gewollt haben, so nah an mir dran zu sein, als ich es getan habe."
+    sy "Du wolltest bestimmt so nah wie jetzt bei mir zu sein, als ich es getan habe."
 
 # game/code/d08/d08s01.rpy:193
 translate deutsch d08s01_bathe_2373ed51:
@@ -376,7 +376,7 @@ translate deutsch d08s01_bathe_2373ed51:
 translate deutsch d08s01_bathe_a2cb4da4:
 
     # sy "Pee on your hot, hard, throbbing cock."
-    sy "Pinkel auf deinen heiße, steifen, pochenden Schwanz ."
+    sy "Pinkel auf deinen heißen, steifen, pochenden Schwanz ."
 
 # game/code/d08/d08s01.rpy:199
 translate deutsch d08s01_bathe_92d6aae4:
@@ -424,7 +424,7 @@ translate deutsch d08s01_bathe_fb970540:
 translate deutsch d08s01_bathe_b395490b:
 
     # sy "Let me just rinse this off... {w}then you can finish cleaning yourself."
-    sy "Lass mich das gerade abwaschen... {w}dann kannst du dich fertig sauber machen."
+    sy "Lass mich das mal eben abwaschen... {w}dann kannst du dich fertig sauber machen."
 
 translate deutsch strings:
 
@@ -478,19 +478,19 @@ translate deutsch replay_d08s01_5aa5acd8:
 translate deutsch replay_d08s01_68bbf00d:
 
     # mct "But this is not back home! AmRose is in the other room!"
-    mct "Aber das ist nich zuhause! AmRose ist in einem anderem Raum!"
+    mct "Aber das ist nicht zuhause! AmRose ist im Raum nebenan!"
 
 # game/code/d08/d08s01.rpy:101
 translate deutsch replay_d08s01_11d1e060:
 
     # mct "But this is too risky! AmRose is in the other room!"
-    mct "Aber das is zu gefärhlich! AmRose ist in dem anderen Raum!"
+    mct "Aber das ist zu riskant! AmRose ist direkt nebenan!"
 
 # game/code/d08/d08s01.rpy:106
 translate deutsch replay_d08s01_96d7486d:
 
     # mc "No, no! Wait your turn. I'll be quick."
-    mc "Nein, nein! Warte bis du dran bist. Ich beeile mich."
+    mc "Nein, nein! Warte bis du dran bist. Ich brauche nicht lange."
 
 # game/code/d08/d08s01.rpy:118
 translate deutsch d08s01_solo_7c561514:
@@ -509,4 +509,3 @@ translate deutsch d08s01_bathe_b4583873:
 
     # sy "You want AmRose to be happy... {w}and so do I."
     sy "Du möchtest AmRose glückliche machen... {w}und das will ich auch."
-
