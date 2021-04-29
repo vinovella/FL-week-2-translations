@@ -634,3 +634,46 @@ translate chinese strings:
     old "I don't want to see this"
     new "我不想看到这个"
 
+# TODO: Translation updated at 2021-04-29 23:41
+
+# game/code/d10p1/d10p1s06.rpy:115
+translate chinese d10p1s06_part_2_28802472:
+
+    # ir "That's True. {w}Oh, jeez. Sorry. You were trying to leave and then I dragged you into another conversation."
+    ir "那是真实的。{w}哦，老天。对不起啊，你想离开来着，结果我又跟你聊起了另一个话题。"
+
+# game/code/d10p1/d10p1s06.rpy:117
+translate chinese d10p1s06_part_2_228e2917:
+
+    # mc "Eh, there's no rush. {w}If I can't take a couple minutes to talk with a cute girl, what's the point?"
+    mc "诶，不急。{w}如果我都不能多花几分钟和这么可爱的女孩聊天的话，那还有什么意义呢？"
+
+# game/code/d10p1/d10p1s06.rpy:119
+translate chinese d10p1s06_part_2_4cee5ab5:
+
+    # ir "...{i}Exactly{/i}. It's not like you come across girls {i}this{/i} cute every day, right? {w}So would you mind helping me ou—?"
+    ir "……{i}没错{/i}。毕竟你不是每天都能碰到{i}我这么{/i}可爱的女孩，对吧？{w}那你能不能帮我--？"
+
+# game/code/d10p1/d10p1s06.rpy:121
+translate chinese d10p1s06_part_2_71e9a5f2:
+
+    # mc "Oh man, gosh darn, I sure would love to, but can't keep my fans waiting y'know."
+    mc "哦天，我当然很愿意，但是不能让我的粉丝等着对吧。"
+
+# game/code/d10p1/d10p1s06.rpy:124
+translate chinese d10p1s06_part_2_cd28c1d5:
+
+    # ir "Right, right."
+    ir "对，对。"
+
+# game/code/d10p1/d10p1s06.rpy:125
+translate chinese d10p1s06_part_2_7a79f708:
+
+    # ir "Catch ya' around, [mcname]."
+    ir "待会找你啊，[mcname]。"
+
+# game/code/d10p1/d10p1s06.rpy:126
+translate chinese d10p1s06_part_2_7e37ff87:
+
+    # mc "Same. Later, Iona."
+    mc "我也是。回头见，欧娜。"
