@@ -10,145 +10,145 @@ translate spanish d08s07_ce6bbf32:
 translate spanish d08s07_4d20eea3:
 
     # sy "I'm going to grab some food and join AmRose."
-    sy "I'm going to grab some food and join AmRose."
+    sy "Voy a buscar algo de comida y luego me unire a AmRose."
 
 # game/code/d08/d08s07.rpy:13
 translate spanish d08s07_99a6dbdf:
 
     # mc "Makes sense."
-    mc "Makes sense."
+    mc "Tiene sentido."
 
 # game/code/d08/d08s07.rpy:14
 translate spanish d08s07_b495adbf:
 
     # sy "Looks like you've got a decision to make."
-    sy "Looks like you've got a decision to make."
+    sy "Parece que tienes una decisión que tomar."
 
 # game/code/d08/d08s07.rpy:16
 translate spanish d08s07_bcbf67d4:
 
     # sy "Do you sit with your favorite ladies or with that-{w} I mean, with Lydia and her friend?"
-    sy "Do you sit with your favorite ladies or with that-{w} I mean, with Lydia and her friend?"
+    sy "Vas a sentarte con tus chicas favoritas o con esas-{w} Quiero decir, con Lydia y su amiga?"
 
 # game/code/d08/d08s07.rpy:18
 translate spanish d08s07_3b287fb3:
 
     # mc "Ouch. Don't go taking sides until you've at least met them."
-    mc "Ouch. Don't go taking sides until you've at least met them."
+    mc "Ouch. No vayas tomando lados hasta que al menos los conozcas."
 
 # game/code/d08/d08s07.rpy:19
 translate spanish d08s07_d1af6013:
 
     # sy "You know I'm just playing with you."
-    sy "You know I'm just playing with you."
+    sy "Sabes que solo estoy jugando contigo."
 
 # game/code/d08/d08s07.rpy:21
 translate spanish d08s07_deab77dc:
 
     # mct "Sure, sure. {w}Stacy has really bonded with AmRose."
-    mct "Sure, sure. {w}Stacy has really bonded with AmRose."
+    mct "Seguro, seguro. {w}Stacy realmente se ha unido a AmRose."
 
 # game/code/d08/d08s07.rpy:22
 translate spanish d08s07_c15dd178:
 
     # mct "Unfortunately she's picked up on AmRose's hostility towards Lydia."
-    mct "Unfortunately she's picked up on AmRose's hostility towards Lydia."
+    mct "Desafortunadamente, se ha dado cuenta de la hostilidad de AmRose hacia Lydia."
 
 # game/code/d08/d08s07.rpy:23
 translate spanish d08s07_be1a7797:
 
     # mct "Damn. Why didn't I see it before? {w}AmRose has been totally jealous of Lydia."
-    mct "Damn. Why didn't I see it before? {w}AmRose has been totally jealous of Lydia."
+    mct "Demonios. Porque no lo vi antes?? {w}AmRose esta totalmente celosa de Lydia."
 
 # game/code/d08/d08s07.rpy:24
 translate spanish d08s07_461482f0:
 
     # mct "I really am an idiot sometimes."
-    mct "I really am an idiot sometimes."
+    mct "Realmente soy un idiota a veces."
 
 # game/code/d08/d08s07.rpy:26
 translate spanish d08s07_a0f35268:
 
     # sy "Hello?! What is going through that head of yours?"
-    sy "Hello?! What is going through that head of yours?"
+    sy "Hola?! Que esta ocurriendo en esa cabeza tuya?"
 
 # game/code/d08/d08s07.rpy:27
 translate spanish d08s07_b22f923e:
 
     # mc "I was just thinking \"I really am an idiot sometimes.\""
-    mc "I was just thinking \"I really am an idiot sometimes.\""
+    mc "Solo estaba pensando \"Realmente soy un idiota a veces.\""
 
 # game/code/d08/d08s07.rpy:28
 translate spanish d08s07_187603fc:
 
     # sy "No kidding. So, I guess you're sitting with your girlfriend instead of us?"
-    sy "No kidding. So, I guess you're sitting with your girlfriend instead of us?"
+    sy "Es cierto. Entonces, Supongo que vas a sentarte con tu novia en lugar de nosotras?"
 
 # game/code/d08/d08s07.rpy:29
 translate spanish d08s07_82c6722a:
 
     # mc "Girlfriend? {w}I don't know if we're there yet, but I hope-"
-    mc "Girlfriend? {w}I don't know if we're there yet, but I hope-"
+    mc "Novia? {w}No creo que estemos ahi aun, pero espero-"
 
 # game/code/d08/d08s07.rpy:30
 translate spanish d08s07_a1a95727:
 
     # sy "'Nuff said. See ya' later."
-    sy "'Nuff said. See ya' later."
+    sy "'Nuff said. Nos vemos luego."
 
 # game/code/d08/d08s07.rpy:32
 translate spanish d08s07_19132e6b:
 
     # mc "Okay. Send my love to AmRose."
-    mc "Okay. Send my love to AmRose."
+    mc "Bien. Enviale mis cariños a AmRose."
 
 # game/code/d08/d08s07.rpy:33
 translate spanish d08s07_2ab85579:
 
     # sy "You don't think that would be a mixed message?"
-    sy "You don't think that would be a mixed message?"
+    sy "No crees que eso seria un mensaje confuso?"
 
 # game/code/d08/d08s07.rpy:34
 translate spanish d08s07_dd89b7a0:
 
     # mc "Nope. She understands me."
-    mc "Nope. She understands me."
+    mc "Nope. Ella me entendera."
 
 # game/code/d08/d08s07.rpy:37
 translate spanish d08s07_9a224ece:
 
     # mc "Okay. See you guys later."
-    mc "Okay. See you guys later."
+    mc "Bien. Los veo luego."
 
 # game/code/d08/d08s07.rpy:38
 translate spanish d08s07_5f6a7048:
 
     # sy "You know we're chicks, right?"
-    sy "You know we're chicks, right?"
+    sy "Sabes que somos chicas, verdad?"
 
 # game/code/d08/d08s07.rpy:39
 translate spanish d08s07_05c107e2:
 
     # mc "Chicks and guys aren't mutually exclusive."
-    mc "Chicks and guys aren't mutually exclusive."
+    mc "Chicas y chicos no son mutuamente excluyentes."
 
 # game/code/d08/d08s07.rpy:40
 translate spanish d08s07_5d963a72:
 
     # sy "... idiot."
-    sy "... idiot."
+    sy "... idiota."
 
 # game/code/d08/d08s07.rpy:41
 translate spanish d08s07_3fcb50fb:
 
     # mc "You know it."
-    mc "You know it."
+    mc "Lo sabes."
 
 # game/code/d08/d08s07.rpy:50
 translate spanish d08s07_64983e45:
 
     # mct "Seems like Lydia just got here as well."
-    mct "Seems like Lydia just got here as well."
+    mct "Parece que Lydia acaba de llegar tambien."
 
 # game/code/d08/d08s07.rpy:55
 translate spanish d08s07_c10a1144:
@@ -160,157 +160,157 @@ translate spanish d08s07_c10a1144:
 translate spanish d08s07_2e3f9e1a:
 
     # lc "Oh! You're already here! What are you thinking about having for lunch?"
-    lc "Oh! You're already here! What are you thinking about having for lunch?"
+    lc "Oh! Ya estas aqui! Que estas pensando en almorzar?"
 
 # game/code/d08/d08s07.rpy:58
 translate spanish d08s07_e6eab47b:
 
     # mc "Just grab a seat and I'll bring you something. Any preferences?"
-    mc "Just grab a seat and I'll bring you something. Any preferences?"
+    mc "Solo sientate y te traere algo. Alguna preferencia?"
 
 # game/code/d08/d08s07.rpy:59
 translate spanish d08s07_e611a3b2:
 
     # lc "Something healthy?"
-    lc "Something healthy?"
+    lc "Algo saludable?"
 
 # game/code/d08/d08s07.rpy:60
 translate spanish d08s07_e10be3c7:
 
     # mc "And you, Min?"
-    mc "And you, Min?"
+    mc "Y tu, Min?"
 
 # game/code/d08/d08s07.rpy:62
 translate spanish d08s07_2d71f814:
 
     # mes "I'm good."
-    mes "I'm good."
+    mes "Estoy bien."
 
 # game/code/d08/d08s07.rpy:63
 translate spanish d08s07_521a32f1:
 
     # mc "Cool. I'll be right back."
-    mc "Cool. I'll be right back."
+    mc "Genial. Ahora vuelvo."
 
 # game/code/d08/d08s07.rpy:69
 translate spanish d08s07_33fcb73d:
 
     # mc "Hey, beautiful."
-    mc "Hey, beautiful."
+    mc "Hey, preciosa."
 
 # game/code/d08/d08s07.rpy:71
 translate spanish d08s07_ba0ad214:
 
     # lc "Hey yourself, sexy."
-    lc "Hey yourself, sexy."
+    lc "Hey tu, sexy."
 
 # game/code/d08/d08s07.rpy:72
 translate spanish d08s07_bd8755c1:
 
     # mct "Did she just call me sexy?! [mcname] FTW!!!"
-    mct "Did she just call me sexy?! [mcname] FTW!!!"
+    mct "Ella acaba de llamarme sexy?! [mcname] Que demonios!!!"
 
 # game/code/d08/d08s07.rpy:74
 translate spanish d08s07_ccb60c44:
 
     # mes "Awww{w}, you too are so cute together it makes me sick. No love for me?"
-    mes "Awww{w}, you too are so cute together it makes me sick. No love for me?"
+    mes "Awww{w}, ustedes dos son tan adorables juntos que me enferman. No hay amor para mi?"
 
 # game/code/d08/d08s07.rpy:76
 translate spanish d08s07_e2229453:
 
     # lc "I think she's fishing for compliments."
-    lc "I think she's fishing for compliments."
+    lc "Creo que esta buscando un cumplido."
 
 # game/code/d08/d08s07.rpy:81
 translate spanish d08s07_d1fb5534:
 
     # mc "You look lovely too, but Lydia is beyond gorgeous to me."
-    mc "You look lovely too, but Lydia is beyond gorgeous to me."
+    mc "Tu te ves adorable tambien, pero Lydia es mas que preciosa para mi."
 
 # game/code/d08/d08s07.rpy:85
 translate spanish d08s07_efc476ce:
 
     # mc "What can I say? You both look lovely, but Lydia is the girl for me."
-    mc "What can I say? You both look lovely, but Lydia is the girl for me."
+    mc "Que puedo decir? Ustedes dos se ven adorables, pero Lydia es la unica chica para mi."
 
 # game/code/d08/d08s07.rpy:88
 translate spanish d08s07_aa5d6a1f:
 
     # mes "Aww{w}, for real this time. He's a sweetie."
-    mes "Aww{w}, for real this time. He's a sweetie."
+    mes "Aww{w}, en serio esta vez. Es una dulzura."
 
 # game/code/d08/d08s07.rpy:90
 translate spanish d08s07_a8746d83:
 
     # lc "I kinda noticed that."
-    lc "I kinda noticed that."
+    lc "Ya me habia dado cuenta."
 
 # game/code/d08/d08s07.rpy:91
 translate spanish d08s07_0d89fc22:
 
     # mc "Now you're both just trying to make me blush."
-    mc "Now you're both just trying to make me blush."
+    mc "Ustedes solo estan tratando de que me sonroje."
 
 # game/code/d08/d08s07.rpy:92
 translate spanish d08s07_2d9b4af4:
 
     # mes "So, I know when, but you've both been very cagey about how you hooked up."
-    mes "So, I know when, but you've both been very cagey about how you hooked up."
+    mes "Entonces, se cuando ocurrio, pero ustedes dos han sido muy cautelosos ocultando como se conocieron."
 
 # game/code/d08/d08s07.rpy:94
 translate spanish d08s07_f720d270:
 
     # mc "Have we?"
-    mc "Have we?"
+    mc "Lo hemos sido??"
 
 # game/code/d08/d08s07.rpy:96
 translate spanish d08s07_8f38acde:
 
     # lc "I can't imagine."
-    lc "I can't imagine."
+    lc "No me lo imagino."
 
 # game/code/d08/d08s07.rpy:97
 translate spanish d08s07_15899572:
 
     # mc "Why wouldn't you tell your best friend about that?"
-    mc "Why wouldn't you tell your best friend about that?"
+    mc "Porque no le dirias eso a tu mejor amiga?"
 
 # game/code/d08/d08s07.rpy:99
 translate spanish d08s07_bca0c9a6:
 
     # lc "Why wouldn't you tell your classmate about that?"
-    lc "Why wouldn't you tell your classmate about that?"
+    lc "Porque no le dirias eso a tu compañera de clases?"
 
 # game/code/d08/d08s07.rpy:100
 translate spanish d08s07_240d07d2:
 
     # mc "I asked you first."
-    mc "I asked you first."
+    mc "Yo pregunte primero."
 
 # game/code/d08/d08s07.rpy:102
 translate spanish d08s07_bdf7e02f:
 
     # lc "Yeah, but I asked you most recently."
-    lc "Yeah, but I asked you most recently."
+    lc "Si, pero yo te pregunte mas recientemente."
 
 # game/code/d08/d08s07.rpy:104
 translate spanish d08s07_d616bd82:
 
     # mes "*deadpan* Ha. ha. ha.{w} You two are sooooo funny."
-    mes "*deadpan* Ha. ha. ha.{w} You two are sooooo funny."
+    mes "*deadpan* Ha. ha. ha.{w} Ustedes dos son taaaan graciosos."
 
 # game/code/d08/d08s07.rpy:106
 translate spanish d08s07_3a0dc39d:
 
     # mc "Oh no, she's figuring it out."
-    mc "Oh no, she's figuring it out."
+    mc "Oh no, ella se lo esta imaginando."
 
 # game/code/d08/d08s07.rpy:107
 translate spanish d08s07_66c89502:
 
     # mes "Yeah, yeah. Don't tell me."
-    mes "Yeah, yeah. Don't tell me."
+    mes "Si, si. No me lo digas."
 
 # game/code/d08/d08s07.rpy:108
 translate spanish d08s07_bf68528e:
