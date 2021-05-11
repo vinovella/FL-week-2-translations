@@ -34,3 +34,10 @@ translate chinese strings:
     old ">"
     new ">"
 
+# TODO: Translation updated at 2021-05-11 23:34
+
+translate chinese strings:
+
+    # game/code/screens/extended/screens_fl.rpy:46
+    old "CLOSE"
+    new "关闭"
