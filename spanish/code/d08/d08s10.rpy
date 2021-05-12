@@ -118,7 +118,7 @@ translate spanish d08s10_e980596d:
 translate spanish d08s10_cf670043:
 
     # mc "Yea. And it looks like the bikini you are wearing is from her stolen luggage..."
-    mc "Sí. Y parece que el bikini que estás usando es de su equipaje robado...""
+    mc "Sí. Y parece que el bikini que estás usando es de su equipaje robado..."
 
 # game/code/d08/d08s10.rpy:55
 translate spanish d08s10_0f4af75c:
@@ -695,4 +695,3 @@ translate spanish d08s10_606e2d02:
 
     # mc "Sure."
     mc "Seguro."
-
