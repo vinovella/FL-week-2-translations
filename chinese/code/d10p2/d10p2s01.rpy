@@ -777,3 +777,11 @@ translate chinese strings:
     # game/code/d10p2/d10p2s01.rpy:124
     old "Prepare for Main Event"
     new "备战主活动"
+
+# TODO: Translation updated at 2021-05-17 01:10
+
+# game/code/d10p2/d10p2s01.rpy:113
+translate chinese d10p2s01_a55c5cb4:
+
+    # dd "Just come outside. We will be waiting for you there!"
+    dd "出来吧，我就在外面等你！"
