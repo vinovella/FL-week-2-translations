@@ -1730,3 +1730,11 @@ translate italian strings:
     old "Decline. I want nothing more to do with Maria or Terrell"
     new "Decline. I want nothing more to do with Maria or Terrell"
 
+# TODO: Translation updated at 2021-05-16 23:55
+
+# game/code/d11/d11s02.rpy:346
+translate italian d11s02_76e2bd99:
+
+    # mc "Stop. Tomato Juice. [mc_safeword!t]. Halt."
+    mc "Stop. Tomato Juice. [mc_safeword!t]. Halt."
+

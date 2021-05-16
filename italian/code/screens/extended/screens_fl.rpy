@@ -18,3 +18,11 @@ translate italian strings:
     old "Bonus Content"
     new "Contenuti sepciali"
 
+# TODO: Translation updated at 2021-05-16 23:55
+
+translate italian strings:
+
+    # game/code/screens/extended/screens_fl.rpy:46
+    old "CLOSE"
+    new "CLOSE"
+

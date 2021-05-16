@@ -34,3 +34,11 @@ translate italian strings:
     old "The game will try to replay the scene\naccording to your current playthrough"
     new "La scena sarà replicata cercando\ndi rispettare le tue scelte nel gioco"
 
+# TODO: Translation updated at 2021-05-16 23:55
+
+translate italian strings:
+
+    # game/code/functions.rpy:16
+    old "New character unlocked in the pool"
+    new "New character unlocked in the pool"
+

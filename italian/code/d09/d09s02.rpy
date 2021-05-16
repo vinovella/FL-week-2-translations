@@ -1188,3 +1188,15 @@ translate italian strings:
     old "Nah, that's enough."
     new "No, basta così."
 
+# TODO: Translation updated at 2021-05-16 23:55
+
+translate italian strings:
+
+    # game/code/d09/d09s02.rpy:469
+    old "Today! On \"Prank a M.I.L.F.\""
+    new "Today! On \"Prank a M.I.L.F.\""
+
+    # game/code/d09/d09s02.rpy:469
+    old "Be a gigolo for a day"
+    new "Be a gigolo for a day"
+
