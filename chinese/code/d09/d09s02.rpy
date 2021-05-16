@@ -1188,3 +1188,15 @@ translate chinese strings:
     old "Nah, that's enough."
     new "不了，这就够了。"
 
+# TODO: Translation updated at 2021-05-16 23:32
+
+translate chinese strings:
+
+    # game/code/d09/d09s02.rpy:469
+    old "Today! On \"Prank a M.I.L.F.\""
+    new "Today! On \"Prank a M.I.L.F.\""
+
+    # game/code/d09/d09s02.rpy:469
+    old "Be a gigolo for a day"
+    new "Be a gigolo for a day"
+
