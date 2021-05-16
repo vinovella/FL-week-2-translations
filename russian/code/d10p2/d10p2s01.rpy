@@ -764,21 +764,7 @@ translate russian strings:
 
     # game/code/d10p2/d10p2s01.rpy:140
     old "Prepare for Main Event"
-    new "Prepare for Main Event"
-
-# TODO: Translation updated at 2021-04-10 22:37
-
-# game/code/d10p2/d10p2s01.rpy:111
-translate russian d10p2s01_e91fa22a:
-
-    # dd "Just come outside will be waiting for you there!"
-    dd "Just come outside will be waiting for you there!"
-
-# game/code/d10p2/d10p2s01.rpy:113
-translate russian d10p2s01_6112aeb1:
-
-    # dd "Terrific! See you."
-    dd "Terrific! See you."
+    new "Подготовка к главному событию"
 
 # TODO: Translation updated at 2021-05-17 01:19
 
