@@ -34,3 +34,11 @@ translate spanish strings:
     old ">"
     new ">"
 
+# TODO: Translation updated at 2021-05-17 00:04
+
+translate spanish strings:
+
+    # game/code/screens/extended/screens_fl.rpy:46
+    old "CLOSE"
+    new "CLOSE"
+

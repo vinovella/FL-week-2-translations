@@ -22,3 +22,11 @@ translate spanish strings:
     old "The game will try to replay the scene\naccording to your current playthrough"
     new "El juego tratará de reproducir la escena\nde acuerdo con tu actual desarrollo"
 
+# TODO: Translation updated at 2021-05-17 00:04
+
+translate spanish strings:
+
+    # game/code/functions.rpy:16
+    old "New character unlocked in the pool"
+    new "New character unlocked in the pool"
+

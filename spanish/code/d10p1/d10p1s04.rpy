@@ -90,11 +90,11 @@ translate spanish d10p1s04_7562a9cf:
     # arjfl "Oh... {w}That makes sense."
     arjfl "Oh... {w}That makes sense."
 
-# game/code/d10p1/d10p1s04.rpy:31
-translate spanish d10p1s04_77ae1467:
+# game/code/d10p1/d10p1s04.rpy:50
+translate spanish d10p1s04_f1a8019a:
 
-    # arjfl "Wais is URLittlePony is that the girl you took a picture of in the trashed place??"
-    arjfl "Wais is URLittlePony is that the girl you took a picture of in the trashed place??"
+    # arjfl "Wait, is URLittlePony is that the girl you took a picture of in the trashed place??"
+    arjfl "Wait, is URLittlePony is that the girl you took a picture of in the trashed place??"
 
 # game/code/d10p1/d10p1s04.rpy:32
 translate spanish d10p1s04_b2582b86:
@@ -635,4 +635,3 @@ translate spanish d10p1s04_5702e34b:
 
     # arjfl "That's a good point..."
     arjfl "That's a good point..."
-

@@ -1188,3 +1188,15 @@ translate spanish strings:
     old "Nah, that's enough."
     new "Nah, that's enough."
 
+# TODO: Translation updated at 2021-05-17 00:04
+
+translate spanish strings:
+
+    # game/code/d09/d09s02.rpy:469
+    old "Today! On \"Prank a M.I.L.F.\""
+    new "Today! On \"Prank a M.I.L.F.\""
+
+    # game/code/d09/d09s02.rpy:469
+    old "Be a gigolo for a day"
+    new "Be a gigolo for a day"
+

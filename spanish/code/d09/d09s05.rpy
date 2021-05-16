@@ -800,3 +800,47 @@ translate spanish strings:
     old "Cover the whore"
     new "Cover the whore"
 
+# TODO: Translation updated at 2021-05-17 00:04
+
+# game/code/d09/d09s05.rpy:32
+translate spanish d09s05_ef5e49b3:
+
+    # "After 25 minutes [mcname] arrives at Samiya's place..."
+    "After 25 minutes [mcname] arrives at Samiya's place..."
+
+# game/code/d09/d09s05.rpy:34
+translate spanish d09s05_d5ff7835:
+
+    # mct "Now I have to run back to Samiya's place. I hope this show of hers isn't anything special..."
+    mct "Now I have to run back to Samiya's place. I hope this show of hers isn't anything special..."
+
+# game/code/d09/d09s05.rpy:534
+translate spanish d09s05_end_0017e17d:
+
+    # sb "You are going to work better."
+    sb "You are going to work better."
+
+# game/code/d09/d09s05.rpy:536
+translate spanish d09s05_end_19b8090f:
+
+    # sb "Now you will have to do something else for me if you want to get that luggage back."
+    sb "Now you will have to do something else for me if you want to get that luggage back."
+
+# game/code/d09/d09s05.rpy:539
+translate spanish d09s05_end_dfdba905:
+
+    # mc "I think I will prank the \"M.I.L.F\" then."
+    mc "I think I will prank the \"M.I.L.F\" then."
+
+# game/code/d09/d09s05.rpy:544
+translate spanish d09s05_end_3ad4bc9c:
+
+    # mc "I'll go with the escort mission then."
+    mc "I'll go with the escort mission then."
+
+translate spanish strings:
+
+    # game/code/d09/d09s05.rpy:537
+    old "\"Prank a M.I.L.F.\""
+    new "\"Prank a M.I.L.F.\""
+
