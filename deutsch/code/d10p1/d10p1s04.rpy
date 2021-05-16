@@ -636,3 +636,11 @@ translate deutsch d10p1s04_5702e34b:
     # arjfl "That's a good point..."
     arjfl "That's a good point..."
 
+# TODO: Translation updated at 2021-05-16 23:52
+
+# game/code/d10p1/d10p1s04.rpy:50
+translate deutsch d10p1s04_f1a8019a:
+
+    # arjfl "Wait, is URLittlePony is that the girl you took a picture of in the trashed place??"
+    arjfl "Wait, is URLittlePony is that the girl you took a picture of in the trashed place??"
+

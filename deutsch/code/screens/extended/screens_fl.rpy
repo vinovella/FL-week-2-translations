@@ -34,3 +34,11 @@ translate deutsch strings:
     old "Bonus Content"
     new "Bonus Content"
 
+# TODO: Translation updated at 2021-05-16 23:52
+
+translate deutsch strings:
+
+    # game/code/screens/extended/screens_fl.rpy:46
+    old "CLOSE"
+    new "CLOSE"
+

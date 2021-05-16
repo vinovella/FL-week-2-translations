@@ -634,3 +634,47 @@ translate deutsch strings:
     old "I don't want to see this"
     new "I don't want to see this"
 
+# TODO: Translation updated at 2021-05-16 23:52
+
+# game/code/d10p1/d10p1s06.rpy:115
+translate deutsch d10p1s06_part_2_28802472:
+
+    # ir "That's True. {w}Oh, jeez. Sorry. You were trying to leave and then I dragged you into another conversation."
+    ir "That's True. {w}Oh, jeez. Sorry. You were trying to leave and then I dragged you into another conversation."
+
+# game/code/d10p1/d10p1s06.rpy:117
+translate deutsch d10p1s06_part_2_228e2917:
+
+    # mc "Eh, there's no rush. {w}If I can't take a couple minutes to talk with a cute girl, what's the point?"
+    mc "Eh, there's no rush. {w}If I can't take a couple minutes to talk with a cute girl, what's the point?"
+
+# game/code/d10p1/d10p1s06.rpy:119
+translate deutsch d10p1s06_part_2_4cee5ab5:
+
+    # ir "...{i}Exactly{/i}. It's not like you come across girls {i}this{/i} cute every day, right? {w}So would you mind helping me ou—?"
+    ir "...{i}Exactly{/i}. It's not like you come across girls {i}this{/i} cute every day, right? {w}So would you mind helping me ou—?"
+
+# game/code/d10p1/d10p1s06.rpy:121
+translate deutsch d10p1s06_part_2_71e9a5f2:
+
+    # mc "Oh man, gosh darn, I sure would love to, but can't keep my fans waiting y'know."
+    mc "Oh man, gosh darn, I sure would love to, but can't keep my fans waiting y'know."
+
+# game/code/d10p1/d10p1s06.rpy:124
+translate deutsch d10p1s06_part_2_cd28c1d5:
+
+    # ir "Right, right."
+    ir "Right, right."
+
+# game/code/d10p1/d10p1s06.rpy:125
+translate deutsch d10p1s06_part_2_7a79f708:
+
+    # ir "Catch ya' around, [mcname]."
+    ir "Catch ya' around, [mcname]."
+
+# game/code/d10p1/d10p1s06.rpy:126
+translate deutsch d10p1s06_part_2_7e37ff87:
+
+    # mc "Same. Later, Iona."
+    mc "Same. Later, Iona."
+
