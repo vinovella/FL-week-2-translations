@@ -780,3 +780,10 @@ translate russian d10p2s01_6112aeb1:
     # dd "Terrific! See you."
     dd "Terrific! See you."
 
+# TODO: Translation updated at 2021-05-17 01:19
+
+# game/code/d10p2/d10p2s01.rpy:113
+translate russian d10p2s01_a55c5cb4:
+
+    # dd "Just come outside. We will be waiting for you there!"
+    dd "Just come outside. We will be waiting for you there!"
