@@ -377,4 +377,3 @@ translate russian strings:
     # game/code/screens/screens.rpy:1767
     old "Menu"
     new "Меню"
-
