@@ -353,3 +353,7 @@ translate chinese strings:
     # game/code/screens/screens.rpy:262
     old "Skip"
     new "Skip"
+
+    # game/code/screens/screens.rpy:381
+    old "Help"
+    new "Help"

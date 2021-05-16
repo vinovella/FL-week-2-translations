@@ -1245,3 +1245,11 @@ translate russian strings:
     # game/code/d10p1/d10p1s03.rpy:333
     old "Don't help him"
     new "Не помогай ему"
+
+# TODO: Translation updated at 2021-05-17 02:30
+
+translate russian strings:
+
+    # game/code/d10p1/d10p1s03.rpy:441
+    old "Help{#d10p1s03}"
+    new "Помощь{#d10p1s03}"

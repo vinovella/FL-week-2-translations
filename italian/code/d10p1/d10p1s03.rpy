@@ -1233,3 +1233,11 @@ translate italian strings:
     # game/code/d10p1/d10p1s03.rpy:333
     old "Don't"
     new "No"
+
+# TODO: Translation updated at 2021-05-17 02:25
+
+translate italian strings:
+
+    # game/code/d10p1/d10p1s03.rpy:441
+    old "Help{#d10p1s03}"
+    new "Aiutalo{#d10p1s03}"

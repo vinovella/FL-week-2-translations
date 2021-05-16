@@ -644,6 +644,7 @@ translate deutsch strings:
     # game/screens.rpy:1444
     old "Menu"
     new "Menü"
+    
 # TODO: Translation updated at 2020-04-25 19:42
 
 translate deutsch strings:
@@ -651,4 +652,3 @@ translate deutsch strings:
     # game/screens.rpy:322
     old "Gallery"
     new "Gallery"
-

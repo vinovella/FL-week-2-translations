@@ -641,3 +641,29 @@ translate russian d10p1s06_part_2_28802472:
 
     # ir "That's True. {w}Oh, jeez. Sorry. You were trying to leave and then I dragged you into another conversation."
     ir "Это правда. {w}О боже. Извини. Ты куда-то шёл, а я втянула тебя в этот разговор."
+
+# TODO: Translation updated at 2021-05-17 02:30
+
+# game/code/d10p1/d10p1s06.rpy:98
+translate russian d10p1s06_98b91328:
+
+    # ir "Oh, yeah, tell me about it. I've had my fair share of pricks that think the world revolves around them and try to boss me around 'cause of it as well."
+    ir "О да, расскажи мне об этом. Я видела изрядную долю придурков, которые думали, что мир вращается вокруг них, и поэтому они пытались командовать мной из-за этого."
+
+# game/code/d10p1/d10p1s06.rpy:99
+translate russian d10p1s06_461ece48:
+
+    # ir "But man, their faces when you tell them to stick it up their collective asses, is just..."
+    ir "Но выражение их лиц, когда предлагаешь им засунуть это в свою задницу, это нечто..."
+
+# game/code/d10p1/d10p1s06.rpy:101
+translate russian d10p1s06_4d125c49:
+
+    # ir "My boss hates them as well, so I get free rein to just go wild. I love it."
+    ir "Мой босс тоже их ненавидит, так что я получаю полную свободу действий, чтобы издеваться над ними так, как мне этого хочется. Мне нравится это."
+
+# game/code/d10p1/d10p1s06.rpy:103
+translate russian d10p1s06_08a67d40:
+
+    # mc "Sounds like an awesome job."
+    mc "Похоже у тебя потрясающая работа."

@@ -1246,3 +1246,10 @@ translate spanish strings:
     old "Don't"
     new "Don't"
 
+# TODO: Translation updated at 2021-05-17 02:28
+
+translate spanish strings:
+
+    # game/code/d10p1/d10p1s03.rpy:441
+    old "Help{#d10p1s03}"
+    new "Help{#d10p1s03}"

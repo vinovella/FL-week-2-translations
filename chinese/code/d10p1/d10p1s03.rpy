@@ -1231,10 +1231,13 @@ translate chinese strings:
     new "要不要帮他一把？"
 
     # game/code/d10p1/d10p1s03.rpy:333
-    old "Help"
-    new "帮忙"
-
-    # game/code/d10p1/d10p1s03.rpy:333
     old "Don't"
     new "不帮"
 
+# TODO: Translation updated at 2021-05-17 02:20
+
+translate chinese strings:
+
+    # game/code/d10p1/d10p1s03.rpy:441
+    old "Help{#d10p1s03}"
+    new "帮忙{#d10p1s03}"
