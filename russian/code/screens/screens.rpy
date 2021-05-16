@@ -2,6 +2,10 @@
 
 translate russian strings:
 
+    # game/code/screens/screens.rpy:381
+    old "Help"
+    new "Помощь"
+
     # game/code/screens/screens.rpy:260
     old "Back"
     new "Назад"
