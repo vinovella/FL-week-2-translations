@@ -1188,3 +1188,15 @@ translate russian strings:
     old "Nah, that's enough."
     new "Нет, этого достаточно"
 
+# TODO: Translation updated at 2021-05-17 00:08
+
+translate russian strings:
+
+    # game/code/d09/d09s02.rpy:469
+    old "Today! On \"Prank a M.I.L.F.\""
+    new "Today! On \"Prank a M.I.L.F.\""
+
+    # game/code/d09/d09s02.rpy:469
+    old "Be a gigolo for a day"
+    new "Be a gigolo for a day"
+

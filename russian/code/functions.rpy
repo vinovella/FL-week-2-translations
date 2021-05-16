@@ -22,3 +22,11 @@ translate russian strings:
     old "The game will try to replay the scene\naccording to your current playthrough"
     new "Повтор будет воспроизведен как в вашем последнем прохождении"
 
+# TODO: Translation updated at 2021-05-17 00:08
+
+translate russian strings:
+
+    # game/code/functions.rpy:16
+    old "New character unlocked in the pool"
+    new "New character unlocked in the pool"
+

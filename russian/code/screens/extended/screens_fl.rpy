@@ -14,3 +14,11 @@ translate russian strings:
     old "Page [page]"
     new "Page [page]"
 
+# TODO: Translation updated at 2021-05-17 00:08
+
+translate russian strings:
+
+    # game/code/screens/extended/screens_fl.rpy:46
+    old "CLOSE"
+    new "CLOSE"
+

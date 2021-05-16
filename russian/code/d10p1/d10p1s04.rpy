@@ -636,3 +636,10 @@ translate russian d10p1s04_5702e34b:
     # arjfl "That's a good point..."
     arjfl "Хорошее замечание..."
 
+# TODO: Translation updated at 2021-05-17 00:08
+
+# game/code/d10p1/d10p1s04.rpy:50
+translate russian d10p1s04_f1a8019a:
+
+    # arjfl "Wait, is URLittlePony is that the girl you took a picture of in the trashed place??"
+    arjfl "Постой, эта ТвояМаленькаяПони, та самая девушка, которую ты сфотографировал в разгромленной квартире??"

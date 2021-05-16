@@ -634,3 +634,46 @@ translate russian strings:
     old "I don't want to see this"
     new "Я не хочу этого видеть"
 
+# TODO: Translation updated at 2021-05-17 00:08
+
+# game/code/d10p1/d10p1s06.rpy:115
+translate russian d10p1s06_part_2_28802472:
+
+    # ir "That's True. {w}Oh, jeez. Sorry. You were trying to leave and then I dragged you into another conversation."
+    ir "Это правда. {w}О боже. Извини. Ты куда-то шёл, а я втянула тебя в этот разговор."
+
+# game/code/d10p1/d10p1s06.rpy:117
+translate russian d10p1s06_part_2_228e2917:
+
+    # mc "Eh, there's no rush. {w}If I can't take a couple minutes to talk with a cute girl, what's the point?"
+    mc "Эх, спешить некуда. {w}Если я не могу уделить пару минут, чтобы поговорить с симпатичной девушкой, то какой в этом смысл?"
+
+# game/code/d10p1/d10p1s06.rpy:119
+translate russian d10p1s06_part_2_4cee5ab5:
+
+    # ir "...{i}Exactly{/i}. It's not like you come across girls {i}this{/i} cute every day, right? {w}So would you mind helping me ou—?"
+    ir "...{i}Конечно{/i}. Ты же не каждый день встречаешь {i}таких{/i} симпатичных девушек, верно? {w}Так что не мог бы ты мне помочь...?"
+
+# game/code/d10p1/d10p1s06.rpy:121
+translate russian d10p1s06_part_2_71e9a5f2:
+
+    # mc "Oh man, gosh darn, I sure would love to, but can't keep my fans waiting y'know."
+    mc "О боже, черт возьми, я бы с удовольствием, но не могу заставлять своих поклонников ждать, знаешь ли."
+
+# game/code/d10p1/d10p1s06.rpy:124
+translate russian d10p1s06_part_2_cd28c1d5:
+
+    # ir "Right, right."
+    ir "Ладно, хорошо."
+
+# game/code/d10p1/d10p1s06.rpy:125
+translate russian d10p1s06_part_2_7a79f708:
+
+    # ir "Catch ya' around, [mcname]."
+    ir "Встретимся позже, [mcname]."
+
+# game/code/d10p1/d10p1s06.rpy:126
+translate russian d10p1s06_part_2_7e37ff87:
+
+    # mc "Same. Later, Iona."
+    mc "Конечно. Увидимся позже, Иона."
