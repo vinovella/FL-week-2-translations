@@ -1,416 +1,416 @@
-﻿# TODO: Translation updated at 2021-03-09 01:26
+﻿# TODO: Translation updated at 2021-04-29 11:52
 
-# game/code/d10p2/d10p2s03.rpy:43
+# game/code/d10p2/d10p2s03.rpy:68
 translate russian d10p2s03_eac2f02e:
 
     # mc "...Why's it so quiet?"
-    mc "...Why's it so quiet?"
+    mc "... Почему здесь так тихо?"
 
-# game/code/d10p2/d10p2s03.rpy:45
+# game/code/d10p2/d10p2s03.rpy:72
 translate russian d10p2s03_4e85cb4d:
 
     # mc "Hello?"
-    mc "Hello?"
+    mc "Привет?"
 
-# game/code/d10p2/d10p2s03.rpy:47
+# game/code/d10p2/d10p2s03.rpy:75
 translate russian d10p2s03_2439ea59:
 
     # mc "...{w} Anybody here?"
-    mc "...{w} Anybody here?"
+    mc "...{w} Есть тут кто?"
 
-# game/code/d10p2/d10p2s03.rpy:50
+# game/code/d10p2/d10p2s03.rpy:84
 translate russian d10p2s03_a55ced76:
 
     # mc "JESUS FUCK!"
-    mc "JESUS FUCK!"
+    mc "ЧЕРТ ВОЗЬМИ!"
 
-# game/code/d10p2/d10p2s03.rpy:52
+# game/code/d10p2/d10p2s03.rpy:86
 translate russian d10p2s03_89115a40:
 
     # amfl "Hello, [mclogin]."
-    amfl "Hello, [mclogin]."
+    amfl "Привет, [mclogin]."
 
-# game/code/d10p2/d10p2s03.rpy:54
+# game/code/d10p2/d10p2s03.rpy:89
 translate russian d10p2s03_2f801461:
 
     # mc "What the fuck, dude!?"
-    mc "What the fuck, dude!?"
+    mc "Какого хрена, чувак!?"
 
-# game/code/d10p2/d10p2s03.rpy:56
+# game/code/d10p2/d10p2s03.rpy:91
 translate russian d10p2s03_eb51ab78:
 
     # amfl "Are you ready to defy that which holds you bound to this realm and venture out into a realm of the beyond?"
-    amfl "Are you ready to defy that which holds you bound to this realm and venture out into a realm of the beyond?"
+    amfl "Готов ли ты бросить вызов тому, что держит тебя привязанным к этому царству, и рискнуть выйти в царство запредельного?"
 
-# game/code/d10p2/d10p2s03.rpy:58
+# game/code/d10p2/d10p2s03.rpy:94
 translate russian d10p2s03_4614cc15:
 
     # mc "...{w} Sure."
-    mc "...{w} Sure."
+    mc "...{w} Конечно."
 
-# game/code/d10p2/d10p2s03.rpy:59
+# game/code/d10p2/d10p2s03.rpy:95
 translate russian d10p2s03_132071d7:
 
     # mc "How the hell are you floating?"
-    mc "How the hell are you floating?"
+    mc "Как, черт возьми, ты летаешь?"
 
-# game/code/d10p2/d10p2s03.rpy:61
+# game/code/d10p2/d10p2s03.rpy:98
 translate russian d10p2s03_6b4c36c5:
 
     # amfl "That's not for you to understand."
-    amfl "That's not for you to understand."
+    amfl "Это тебе не понять."
 
-# game/code/d10p2/d10p2s03.rpy:62
+# game/code/d10p2/d10p2s03.rpy:99
 translate russian d10p2s03_1a85f7d5:
 
     # mct "How the hell...?"
-    mct "How the hell...?"
+    mct "Как, черт возьми...?"
 
-# game/code/d10p2/d10p2s03.rpy:64
+# game/code/d10p2/d10p2s03.rpy:101
 translate russian d10p2s03_e0f3c600:
 
     # amfl "Do you want to experience, or do you want to question?"
-    amfl "Do you want to experience, or do you want to question?"
+    amfl "Хочешь испытать новые ощущения или будешь задать вопросы?"
 
-# game/code/d10p2/d10p2s03.rpy:66
+# game/code/d10p2/d10p2s03.rpy:104
 translate russian d10p2s03_917120b5:
 
     # mc "Well, both preferably, but if I have to pick one, I guess I'll go with experience first, question later."
-    mc "Well, both preferably, but if I have to pick one, I guess I'll go with experience first, question later."
+    mc "Ну, и то и другое, но если нужно выбирать, то наверное, сначала ощущения, а потом вопросы."
 
-# game/code/d10p2/d10p2s03.rpy:67
+# game/code/d10p2/d10p2s03.rpy:105
 translate russian d10p2s03_a0460789:
 
     # amfl "Then come here."
-    amfl "Then come here."
+    amfl "Тогда иди сюда."
 
-# game/code/d10p2/d10p2s03.rpy:69
+# game/code/d10p2/d10p2s03.rpy:108
 translate russian d10p2s03_5ce2f30b:
 
     # mc "How the hell are you—"
-    mc "How the hell are you—"
+    mc "Как, черт возьми, ты..."
 
-# game/code/d10p2/d10p2s03.rpy:71
+# game/code/d10p2/d10p2s03.rpy:110
 translate russian d10p2s03_6afb3c13:
 
     # amfl "..."
     amfl "..."
 
-# game/code/d10p2/d10p2s03.rpy:73
+# game/code/d10p2/d10p2s03.rpy:112
 translate russian d10p2s03_167814cd:
 
     # mc "Alright, alright."
-    mc "Alright, alright."
+    mc "Ладно, ладно."
 
-# game/code/d10p2/d10p2s03.rpy:75
+# game/code/d10p2/d10p2s03.rpy:115
 translate russian d10p2s03_532d0773:
 
     # mc "So what am I supposed to do here?"
-    mc "So what am I supposed to do here?"
+    mc "Так что мне делать?"
 
-# game/code/d10p2/d10p2s03.rpy:76
+# game/code/d10p2/d10p2s03.rpy:116
 translate russian d10p2s03_31638d12:
 
     # amfl "Come, release your soul, and let it wander."
-    amfl "Come, release your soul, and let it wander."
+    amfl "Давай, освободи свою душу, и пусть она летит."
 
-# game/code/d10p2/d10p2s03.rpy:78
+# game/code/d10p2/d10p2s03.rpy:118
 translate russian d10p2s03_000a051e:
 
     # mct "Is he is gonna fucking baptize me?"
-    mct "Is he is gonna fucking baptize me?"
+    mct "Он что, собирается меня крестить?"
 
-# game/code/d10p2/d10p2s03.rpy:80
+# game/code/d10p2/d10p2s03.rpy:120
 translate russian d10p2s03_dbf8ba02:
 
     # amfl "Release your hold on this world."
-    amfl "Release your hold on this world."
+    amfl "Освободи свою зависимость от этого мира."
 
-# game/code/d10p2/d10p2s03.rpy:81
+# game/code/d10p2/d10p2s03.rpy:121
 translate russian d10p2s03_4e7876f4:
 
     # amfl "Free yourself."
-    amfl "Free yourself."
+    amfl "Освободись."
 
-# game/code/d10p2/d10p2s03.rpy:83
+# game/code/d10p2/d10p2s03.rpy:129
 translate russian d10p2s03_29a7f001:
 
     # mct "What the fuuu..."
-    mct "What the fuuu..."
+    mct "Что за бля..."
 
-# game/code/d10p2/d10p2s03.rpy:85
+# game/code/d10p2/d10p2s03.rpy:132
 translate russian d10p2s03_dbd8fb21:
 
     # mct "...uuu..."
-    mct "...uuu..."
+    mct "яяя......"
 
-# game/code/d10p2/d10p2s03.rpy:87
+# game/code/d10p2/d10p2s03.rpy:134
 translate russian d10p2s03_dbd8fb21_1:
 
     # mct "...uuu..."
-    mct "...uuu..."
+    mct ".яяя....."
 
-# game/code/d10p2/d10p2s03.rpy:89
+# game/code/d10p2/d10p2s03.rpy:136
 translate russian d10p2s03_dbd8fb21_2:
 
     # mct "...uuu..."
-    mct "...uuu..."
+    mct "..яяя...."
 
-# game/code/d10p2/d10p2s03.rpy:91
+# game/code/d10p2/d10p2s03.rpy:138
 translate russian d10p2s03_dbd8fb21_3:
 
     # mct "...uuu..."
-    mct "...uuu..."
+    mct "...яяя..."
 
-# game/code/d10p2/d10p2s03.rpy:93
+# game/code/d10p2/d10p2s03.rpy:142
 translate russian d10p2s03_dbd8fb21_4:
 
     # mct "...uuu..."
-    mct "...uuu..."
+    mct "....яяя.."
 
-# game/code/d10p2/d10p2s03.rpy:113
+# game/code/d10p2/d10p2s03.rpy:162
 translate russian d10p2s03_dbd8fb21_5:
 
     # mct "...uuu..."
-    mct "...uuu..."
+    mct ".....яяя."
 
-# game/code/d10p2/d10p2s03.rpy:115
+# game/code/d10p2/d10p2s03.rpy:164
 translate russian d10p2s03_2099d686:
 
     # mct "...uuuck!?"
-    mct "...uuuck!?"
+    mct "...яяя!?"
 
-# game/code/d10p2/d10p2s03.rpy:121
+# game/code/d10p2/d10p2s03.rpy:173
 translate russian d10p2s03_6b40ae3a:
 
     # tm "Yar, matey."
-    tm "Yar, matey."
+    tm "Привет, дружище."
 
-# game/code/d10p2/d10p2s03.rpy:122
+# game/code/d10p2/d10p2s03.rpy:176
 translate russian d10p2s03_50063e57:
 
     # mc "Where the fuck am I!?"
-    mc "Where the fuck am I!?"
+    mc "Где, черт возьми, это я?!"
 
-# game/code/d10p2/d10p2s03.rpy:124
+# game/code/d10p2/d10p2s03.rpy:178
 translate russian d10p2s03_d9519e9b:
 
     # tm "Come on up and I'll explain."
-    tm "Come on up and I'll explain."
+    tm "Поднимайся ко мне, я тебе все объясню."
 
-# game/code/d10p2/d10p2s03.rpy:132
+# game/code/d10p2/d10p2s03.rpy:190
 translate russian d10p2s03_e206001d:
 
     # tm "Mhm, nice."
-    tm "Mhm, nice."
+    tm "Мхм, клёво."
 
-# game/code/d10p2/d10p2s03.rpy:133
+# game/code/d10p2/d10p2s03.rpy:194
 translate russian d10p2s03_be39a1e2:
 
     # tm "I like an athletic man."
-    tm "I like an athletic man."
+    tm "Мне нравятся спортивные мужчины."
 
-# game/code/d10p2/d10p2s03.rpy:135
+# game/code/d10p2/d10p2s03.rpy:197
 translate russian d10p2s03_22cc9567:
 
     # mc "Where are we?"
-    mc "Where are we?"
+    mc "Где это мы?"
 
-# game/code/d10p2/d10p2s03.rpy:137
+# game/code/d10p2/d10p2s03.rpy:200
 translate russian d10p2s03_bbb487f2:
 
     # tm "Honestly? No clue. I {i}think{/i} we were shrunk or something, I don't know."
-    tm "Honestly? No clue. I {i}think{/i} we were shrunk or something, I don't know."
+    tm "Честно? Понятия не имею. {i}Думаю{/i}, что мы уменьшились, но не уверена."
 
-# game/code/d10p2/d10p2s03.rpy:139
+# game/code/d10p2/d10p2s03.rpy:202
 translate russian d10p2s03_42ae86c3:
 
     # tm "But that's not important."
-    tm "But that's not important."
+    tm "Но это не важно."
 
-# game/code/d10p2/d10p2s03.rpy:141
+# game/code/d10p2/d10p2s03.rpy:204
 translate russian d10p2s03_bae1f693:
 
     # tm "You didn't come here to ask questions."
-    tm "You didn't come here to ask questions."
+    tm "Ты пришёл сюда не для того, чтобы задавать вопросы."
 
-# game/code/d10p2/d10p2s03.rpy:143
+# game/code/d10p2/d10p2s03.rpy:206
 translate russian d10p2s03_f28590dc:
 
     # tm "You came here to have fun."
-    tm "You came here to have fun."
+    tm "Ты пришел сюда повеселиться."
 
-# game/code/d10p2/d10p2s03.rpy:145
+# game/code/d10p2/d10p2s03.rpy:208
 translate russian d10p2s03_58ecc4af:
 
     # tm "So..."
-    tm "So..."
+    tm "Так..."
 
-# game/code/d10p2/d10p2s03.rpy:147
+# game/code/d10p2/d10p2s03.rpy:211
 translate russian d10p2s03_2d657e02:
 
     # tm "Let's have some {i}fun{/i}."
-    tm "Let's have some {i}fun{/i}."
+    tm "Давай немного {i}повеселимся{/i}."
 
-# game/code/d10p2/d10p2s03.rpy:149
+# game/code/d10p2/d10p2s03.rpy:214
 translate russian d10p2s03_1f49ecf8:
 
     # mc "How—"
-    mc "How—"
+    mc "Как..."
 
-# game/code/d10p2/d10p2s03.rpy:150
+# game/code/d10p2/d10p2s03.rpy:216
 translate russian d10p2s03_7648c431:
 
     # tm "Ah-uh!"
-    tm "Ah-uh!"
+    tm "Ах!"
 
-# game/code/d10p2/d10p2s03.rpy:152
+# game/code/d10p2/d10p2s03.rpy:219
 translate russian d10p2s03_ab927c03:
 
     # mc "Well... I think I'd be fine with just having fun."
-    mc "Well... I think I'd be fine with just having fun."
+    mc "Ну... Думаю, я не против немного повеселиться."
 
-# game/code/d10p2/d10p2s03.rpy:154
+# game/code/d10p2/d10p2s03.rpy:222
 translate russian d10p2s03_28e9f6d7:
 
     # tm "Mhm... Yes, baby. That's what I'm talking about."
-    tm "Mhm... Yes, baby. That's what I'm talking about."
+    tm "Мхм... Да, детка. Вот об этом я и говорю."
 
-# game/code/d10p2/d10p2s03.rpy:156
+# game/code/d10p2/d10p2s03.rpy:225
 translate russian d10p2s03_e932f8dd:
 
     # tm "Ahhh!"
-    tm "Ahhh!"
+    tm "Аххх!"
 
-# game/code/d10p2/d10p2s03.rpy:166
+# game/code/d10p2/d10p2s03.rpy:241
 translate russian d10p2s03_ba1c1dc1:
 
     # tm "Oh, baby, yes! Right there!"
-    tm "Oh, baby, yes! Right there!"
+    tm "Ох, детка, да! Продолжай!"
 
-# game/code/d10p2/d10p2s03.rpy:168
+# game/code/d10p2/d10p2s03.rpy:245
 translate russian d10p2s03_de4da4e4:
 
     # tm "*Very loud moaning*"
-    tm "*Very loud moaning*"
+    tm "*Очень громко стонет*"
 
-# game/code/d10p2/d10p2s03.rpy:170
+# game/code/d10p2/d10p2s03.rpy:248
 translate russian d10p2s03_33151b97:
 
     # mc "How the fuck did we get here!?"
-    mc "How the fuck did we get here!?"
+    mc "Как, блядь, мы сюда попали!?"
 
-# game/code/d10p2/d10p2s03.rpy:171
+# game/code/d10p2/d10p2s03.rpy:249
 translate russian d10p2s03_be4e3129:
 
     # tm "Just go with it, baby!"
-    tm "Just go with it, baby!"
+    tm "Просто продолжай, детка!"
 
-# game/code/d10p2/d10p2s03.rpy:175
+# game/code/d10p2/d10p2s03.rpy:255
 translate russian d10p2s03_5f42a18f:
 
     # tm "Oh God, yes!"
-    tm "Oh God, yes!"
+    tm "О, Боже, да!"
 
-# game/code/d10p2/d10p2s03.rpy:179
+# game/code/d10p2/d10p2s03.rpy:261
 translate russian d10p2s03_53d3cd71:
 
     # mc "Fuck..."
-    mc "Fuck..."
+    mc "Бля..."
 
-# game/code/d10p2/d10p2s03.rpy:185
+# game/code/d10p2/d10p2s03.rpy:270
 translate russian d10p2s03_5b6951ee:
 
     # tm "God... I can feel you all the way..."
-    tm "God... I can feel you all the way..."
+    tm "Боже... Я чувствую тебя..."
 
-# game/code/d10p2/d10p2s03.rpy:189
+# game/code/d10p2/d10p2s03.rpy:277
 translate russian d10p2s03_156642a9:
 
     # mct "What the fuck is happening!?"
-    mct "What the fuck is happening!?"
+    mct "Что, черт возьми, происходит?!"
 
-# game/code/d10p2/d10p2s03.rpy:197
+# game/code/d10p2/d10p2s03.rpy:285
 translate russian d10p2s03_22a09868:
 
     # mc "I... I'm gonna cum!"
-    mc "I... I'm gonna cum!"
+    mc "Я... я сейчас кончу!"
 
-# game/code/d10p2/d10p2s03.rpy:199
+# game/code/d10p2/d10p2s03.rpy:290
 translate russian d10p2s03_9cdd96d9:
 
     # tm "On my face!"
-    tm "On my face!"
+    tm "На мое лицо!"
 
-# game/code/d10p2/d10p2s03.rpy:205
+# game/code/d10p2/d10p2s03.rpy:300
 translate russian d10p2s03_1abc4bd9:
 
     # tm "Must've been backed up, huh?"
-    tm "Must've been backed up, huh?"
+    tm "Должно быть, его подкрепили, а?"
 
-# game/code/d10p2/d10p2s03.rpy:206
+# game/code/d10p2/d10p2s03.rpy:301
 translate russian d10p2s03_8f16add8:
 
     # tm "I'm covered!"
-    tm "I'm covered!"
+    tm "Я в сперме!"
 
-# game/code/d10p2/d10p2s03.rpy:208
+# game/code/d10p2/d10p2s03.rpy:304
 translate russian d10p2s03_9d306309:
 
     # tm "*Content sigh*"
-    tm "*Content sigh*"
+    tm "*Довольно вздыхает*"
 
-# game/code/d10p2/d10p2s03.rpy:209
+# game/code/d10p2/d10p2s03.rpy:305
 translate russian d10p2s03_d32fa665:
 
     # tm "That was nice.{w} But I better get cleaned up."
-    tm "That was nice.{w} But I better get cleaned up."
+    tm "Это было очень классно. {w}Но мне лучше привести себя в порядок."
 
-# game/code/d10p2/d10p2s03.rpy:211
+# game/code/d10p2/d10p2s03.rpy:308
 translate russian d10p2s03_b21e32a1:
 
     # tm "Adios!"
-    tm "Adios!"
+    tm "Адиос!"
 
-# game/code/d10p2/d10p2s03.rpy:212
+# game/code/d10p2/d10p2s03.rpy:311
 translate russian d10p2s03_699878f6:
 
     # mc "Hey!"
-    mc "Hey!"
+    mc "Эй!"
 
-# game/code/d10p2/d10p2s03.rpy:226
+# game/code/d10p2/d10p2s03.rpy:336
 translate russian d10p2s03_8b56008a:
 
     # mc "*Gasps*"
-    mc "*Gasps*"
+    mc "*Ахает*"
 
-# game/code/d10p2/d10p2s03.rpy:228
+# game/code/d10p2/d10p2s03.rpy:339
 translate russian d10p2s03_0a972ed9:
 
     # mc "*Heaves* What the *Heaves* fuck *Heaves* was that!?"
-    mc "*Heaves* What the *Heaves* fuck *Heaves* was that!?"
+    mc "*Взлетает* Что это было *Взлетает*, черт возьми, *Взлетает*?!"
 
-# game/code/d10p2/d10p2s03.rpy:230
+# game/code/d10p2/d10p2s03.rpy:343
 translate russian d10p2s03_ca7e65c6:
 
     # tm "What was that?"
-    tm "What was that?"
+    tm "Что это было?"
 
-# game/code/d10p2/d10p2s03.rpy:232
+# game/code/d10p2/d10p2s03.rpy:345
 translate russian d10p2s03_668d52f4:
 
     # tm "Oops, sorry. Missed a bit."
-    tm "Oops, sorry. Missed a bit."
+    tm "Упс, прости. Немного промахнулись."
 
-# game/code/d10p2/d10p2s03.rpy:234
+# game/code/d10p2/d10p2s03.rpy:348
 translate russian d10p2s03_ac9640b6:
 
     # tm "Mhm..."
-    tm "Mhm..."
+    tm "Мхм..."
 
-# game/code/d10p2/d10p2s03.rpy:236
+# game/code/d10p2/d10p2s03.rpy:351
 translate russian d10p2s03_12bcd7f9:
 
     # tm "{i}That{/i}, well... Can't tell. It's a secret."
-    tm "{i}That{/i}, well... Can't tell. It's a secret."
+    tm "{i}Это{/i}, ну... Не могу сказать. Это секрет."
 

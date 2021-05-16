@@ -1,1194 +1,676 @@
-﻿# TODO: Translation updated at 2021-03-09 01:26
+﻿# TODO: Translation updated at 2021-04-29 11:52
 
-# game/code/d10p2/d10p2s04-dw.rpy:46
+# game/code/d10p2/d10p2s04-dw.rpy:51
 translate russian d10p2s04_dw_dbf77d44:
 
     # mesfl "Alright. I'll need you to remove your clothes."
-    mesfl "Alright. I'll need you to remove your clothes."
+    mesfl "Хорошо. Мне нужно, чтобы ты снял одежду."
 
-# game/code/d10p2/d10p2s04-dw.rpy:50
+# game/code/d10p2/d10p2s04-dw.rpy:56
 translate russian d10p2s04_dw_e64fc703:
 
     # mc "Huh, why?"
-    mc "Huh, why?"
+    mc "Что, зачем?"
 
-# game/code/d10p2/d10p2s04-dw.rpy:52
+# game/code/d10p2/d10p2s04-dw.rpy:59
 translate russian d10p2s04_dw_8ac490c7:
 
     # mesfl "There's no one here right now. That means you're the Sub."
-    mesfl "There's no one here right now. That means you're the Sub."
+    mesfl "Сейчас здесь никого нет. Это значит, что ты - Саб."
 
-# game/code/d10p2/d10p2s04-dw.rpy:53
+# game/code/d10p2/d10p2s04-dw.rpy:60
 translate russian d10p2s04_dw_76ab5ad6:
 
     # mesfl "Like I said previously, you can choose to leave now if you're not into that."
-    mesfl "Like I said previously, you can choose to leave now if you're not into that."
+    mesfl "Как я уже говорила, ты можешь уйти прямо сейчас, если тебе это не нравится."
 
-# game/code/d10p2/d10p2s04-dw.rpy:56
+# game/code/d10p2/d10p2s04-dw.rpy:64
 translate russian d10p2s04_dw_22a7f619:
 
     # mc "Hm, it's alright. I'm fine with that...I think."
-    mc "Hm, it's alright. I'm fine with that...I think."
+    mc "Хм, все в порядке. Меня это вполне устраивает... Наверное."
 
-# game/code/d10p2/d10p2s04-dw.rpy:57
+# game/code/d10p2/d10p2s04-dw.rpy:65
 translate russian d10p2s04_dw_d80c2b5c:
 
     # mesfl "Great. You'll need to remove your clothes then."
-    mesfl "Great. You'll need to remove your clothes then."
+    mesfl "Отлично. Тогда тебе придется снять одежду."
 
-# game/code/d10p2/d10p2s04-dw.rpy:59
+# game/code/d10p2/d10p2s04-dw.rpy:69
 translate russian d10p2s04_dw_3484a003:
 
     # mc "Why though?"
-    mc "Why though?"
+    mc "Но почему?"
 
-# game/code/d10p2/d10p2s04-dw.rpy:61
+# game/code/d10p2/d10p2s04-dw.rpy:72
 translate russian d10p2s04_dw_15ea08e9:
 
     # mesfl "I need to make sure that you are bound and ready for the next person that comes in here."
-    mesfl "I need to make sure that you are bound and ready for the next person that comes in here."
+    mesfl "Мне нужно убедиться, что ты связан и готов к следующему, кто придет сюда."
 
-# game/code/d10p2/d10p2s04-dw.rpy:62
+# game/code/d10p2/d10p2s04-dw.rpy:73
 translate russian d10p2s04_dw_bfd624c3:
 
     # mc "Ah... Well, alright."
-    mc "Ah... Well, alright."
+    mc "Ох... Ну, ладно."
 
-# game/code/d10p2/d10p2s04-dw.rpy:66
+# game/code/d10p2/d10p2s04-dw.rpy:77
 translate russian d10p2s04_dw_9f36216f:
 
     # mct "Doesn't look like I'm getting any privacy..."
-    mct "Doesn't look like I'm getting any privacy..."
+    mct "Не похоже, что у меня будет какое-то уединение..."
 
-# game/code/d10p2/d10p2s04-dw.rpy:67
+# game/code/d10p2/d10p2s04-dw.rpy:78
 translate russian d10p2s04_dw_72d8c7c3:
 
     # mct "I'm gonna end up butt naked anyway, doesn't really matter I guess."
-    mct "I'm gonna end up butt naked anyway, doesn't really matter I guess."
+    mct "Я все равно закончу с голой задницей, думаю, это не имеет особого значения."
 
-# game/code/d10p2/d10p2s04-dw.rpy:77
+# game/code/d10p2/d10p2s04-dw.rpy:89
 translate russian d10p2s04_dw_df598372:
 
     # mesfl "Alright. Please get on the seat now. Your arms and legs should rest on the pads at the sides."
-    mesfl "Alright. Please get on the seat now. Your arms and legs should rest on the pads at the sides."
+    mesfl "Хорошо. Пожалуйста, садись сюда. Руки и ноги должны лежать на подушечках по бокам."
 
-# game/code/d10p2/d10p2s04-dw.rpy:89
+# game/code/d10p2/d10p2s04-dw.rpy:105
 translate russian d10p2s04_dw_d19cc490:
 
     # mesfl "Now, you'll stay like this until someone else comes in here."
-    mesfl "Now, you'll stay like this until someone else comes in here."
+    mesfl "Теперь ты останешься здесь, пока сюда не придет кто-нибудь."
 
-# game/code/d10p2/d10p2s04-dw.rpy:90
+# game/code/d10p2/d10p2s04-dw.rpy:107
 translate russian d10p2s04_dw_2051d66a:
 
     # mc "Understood."
-    mc "Understood."
+    mc "Понял."
 
-# game/code/d10p2/d10p2s04-dw.rpy:91
+# game/code/d10p2/d10p2s04-dw.rpy:108
 translate russian d10p2s04_dw_19bc8541:
 
     # mesfl "Great. I'm gonna leave now."
-    mesfl "Great. I'm gonna leave now."
+    mesfl "Отлично. А теперь я ухожу."
 
-# game/code/d10p2/d10p2s04-dw.rpy:93
+# game/code/d10p2/d10p2s04-dw.rpy:110
 translate russian d10p2s04_dw_117e4380:
 
     # mesfl "If you wanna get out at any point, just call me, I'll be right outside."
-    mesfl "If you wanna get out at any point, just call me, I'll be right outside."
+    mesfl "Если ты захочешь выйти, просто позови меня, я буду прямо снаружи."
 
-# game/code/d10p2/d10p2s04-dw.rpy:94
+# game/code/d10p2/d10p2s04-dw.rpy:111
 translate russian d10p2s04_dw_dc16ebcd:
 
     # mc "Got it."
-    mc "Got it."
+    mc "Понял."
 
-# game/code/d10p2/d10p2s04-dw.rpy:112
+# game/code/d10p2/d10p2s04-dw.rpy:129
 translate russian d10p2s04_dw_7ad9bac7:
 
     # mct "Wonder if it'll take a while for anybody to come in?"
-    mct "Wonder if it'll take a while for anybody to come in?"
+    mct "Интересно, сколько пройдет времени, прежде чем кто-нибудь войдет?"
 
-# game/code/d10p2/d10p2s04-dw.rpy:120
+# game/code/d10p2/d10p2s04-dw.rpy:140
 translate russian d10p2s04_dw_4e85cb4d:
 
     # mc "Hello?"
-    mc "Hello?"
+    mc "Кто там?"
 
-# game/code/d10p2/d10p2s04-dw.rpy:125
+# game/code/d10p2/d10p2s04-dw.rpy:149
 translate russian d10p2s04_dw_f476ba79:
 
     # dw "Well, well, well, isn't this nice?"
-    dw "Well, well, well, isn't this nice?"
+    dw "Так, так, так, разве это не мило?"
 
-# game/code/d10p2/d10p2s04-dw.rpy:126
+# game/code/d10p2/d10p2s04-dw.rpy:150
 translate russian d10p2s04_dw_2ac2c61e:
 
     # dw "My favorite little plaything is here as well."
-    dw "My favorite little plaything is here as well."
+    dw "Моя любимая маленькая игрушка тоже здесь."
 
-# game/code/d10p2/d10p2s04-dw.rpy:130
+# game/code/d10p2/d10p2s04-dw.rpy:155
 translate russian d10p2s04_dw_6bf81e7b:
 
     # mc "Dahlia!?"
-    mc "Dahlia!?"
+    mc "Далия!?"
 
-# game/code/d10p2/d10p2s04-dw.rpy:137
+# game/code/d10p2/d10p2s04-dw.rpy:163
 translate russian d10p2s04_dw_dc959ddb:
 
     # mc "I didn't know it was going to be you."
-    mc "I didn't know it was going to be you."
+    mc "Я не знал, что это будешь ты."
 
-# game/code/d10p2/d10p2s04-dw.rpy:138
+# game/code/d10p2/d10p2s04-dw.rpy:165
 translate russian d10p2s04_dw_ded1b6b9:
 
     # mc "I—I don't think I want to do this right now."
-    mc "I—I don't think I want to do this right now."
+    mc "Я... я не думаю, что хочу делать это прямо сейчас."
 
-# game/code/d10p2/d10p2s04-dw.rpy:143
+# game/code/d10p2/d10p2s04-dw.rpy:172
 translate russian d10p2s04_dw_2a569e80:
 
     # mc "Would you mind help—?"
-    mc "Would you mind help—?"
+    mc "Не могла бы ты помочь...?"
 
-# game/code/d10p2/d10p2s04-dw.rpy:148
+# game/code/d10p2/d10p2s04-dw.rpy:178
 translate russian d10p2s04_dw_cda5f636:
 
     # mc "Dahlia!"
-    mc "Dahlia!"
+    mc "Далия!"
 
-# game/code/d10p2/d10p2s04-dw.rpy:153
+# game/code/d10p2/d10p2s04-dw.rpy:185
 translate russian d10p2s04_dw_4c0bfd44:
 
     # mesfl "[mclogin]? Everything alright?"
-    mesfl "[mclogin]? Everything alright?"
+    mesfl "[mclogin]? Все в порядке?"
 
-# game/code/d10p2/d10p2s04-dw.rpy:155
+# game/code/d10p2/d10p2s04-dw.rpy:188
 translate russian d10p2s04_dw_9c4ce180:
 
     # mc "Yeah... Would you mind helping me out of here?"
-    mc "Yeah... Would you mind helping me out of here?"
+    mc "Да... Не могла бы ты помочь мне выбраться отсюда?"
 
-# game/code/d10p2/d10p2s04-dw.rpy:163
+# game/code/d10p2/d10p2s04-dw.rpy:198
 translate russian d10p2s04_dw_b9608272:
 
     # mesfl "What happened?"
-    mesfl "What happened?"
+    mesfl "Что случилось?"
 
-# game/code/d10p2/d10p2s04-dw.rpy:164
+# game/code/d10p2/d10p2s04-dw.rpy:200
 translate russian d10p2s04_dw_ebbafda5:
 
     # mc "I didn't really want to be a sub."
-    mc "I didn't really want to be a sub."
+    mc "На самом деле я не хочу быть сабом."
 
-# game/code/d10p2/d10p2s04-dw.rpy:167
+# game/code/d10p2/d10p2s04-dw.rpy:203
 translate russian d10p2s04_dw_4daca85e:
 
     # mesfl "But you said—"
-    mesfl "But you said—"
+    mesfl "Но ты сказал..."
 
-# game/code/d10p2/d10p2s04-dw.rpy:168
+# game/code/d10p2/d10p2s04-dw.rpy:204
 translate russian d10p2s04_dw_9d226254:
 
     # mc "Yeah, but the chick that came in here is crazy."
-    mc "Yeah, but the chick that came in here is crazy."
+    mc "Да, но девушка, которая пришла сюда, сумасшедшая."
 
-# game/code/d10p2/d10p2s04-dw.rpy:169
+# game/code/d10p2/d10p2s04-dw.rpy:206
 translate russian d10p2s04_dw_afbfd2e0:
 
     # mc "I didn't want to be a sub for her."
-    mc "I didn't want to be a sub for her."
+    mc "Я бы не хотел быть для нее сабом."
 
-# game/code/d10p2/d10p2s04-dw.rpy:171
+# game/code/d10p2/d10p2s04-dw.rpy:209
 translate russian d10p2s04_dw_9d601e3e:
 
     # mesfl "Oh, alright. That makes more sense."
-    mesfl "Oh, alright. That makes more sense."
+    mesfl "Ну ладно. Это твой выбор."
 
-# game/code/d10p2/d10p2s04-dw.rpy:172
+# game/code/d10p2/d10p2s04-dw.rpy:210
 translate russian d10p2s04_dw_d328eead:
 
     # mesfl "I'll keep an eye out for her then."
-    mesfl "I'll keep an eye out for her then."
+    mesfl "Тогда я буду присматривать за ней."
 
-# game/code/d10p2/d10p2s04-dw.rpy:174
+# game/code/d10p2/d10p2s04-dw.rpy:219
 translate russian d10p2s04_dw_bb0eeaf4:
 
     # mc "Thank you."
-    mc "Thank you."
+    mc "Спасибо."
 
-# game/code/d10p2/d10p2s04-dw.rpy:176
+# game/code/d10p2/d10p2s04-dw.rpy:222
 translate russian d10p2s04_dw_9bdba415:
 
     # mesfl "Sorry you didn't get to experience the room."
-    mesfl "Sorry you didn't get to experience the room."
+    mesfl "Жаль, что тебе не удалось использовать эту комнату."
 
-# game/code/d10p2/d10p2s04-dw.rpy:177
+# game/code/d10p2/d10p2s04-dw.rpy:224
 translate russian d10p2s04_dw_ae31ede1:
 
     # mc "It's alright."
-    mc "It's alright."
+    mc "Все в порядке."
 
-# game/code/d10p2/d10p2s04-dw.rpy:179
+# game/code/d10p2/d10p2s04-dw.rpy:226
 translate russian d10p2s04_dw_08dc91cf:
 
     # mc "I think I'm gonna go see what else is there to do."
-    mc "I think I'm gonna go see what else is there to do."
+    mc "Пожалуй, пойду посмотрю, что там еще можно сделать."
 
-# game/code/d10p2/d10p2s04-dw.rpy:183
+# game/code/d10p2/d10p2s04-dw.rpy:230
 translate russian d10p2s04_dw_2e806df9:
 
     # mesfl "Sure. Have fun."
-    mesfl "Sure. Have fun."
+    mesfl "Конечно. Повеселись."
 
-# game/code/d10p2/d10p2s04-dw.rpy:184
+# game/code/d10p2/d10p2s04-dw.rpy:232
 translate russian d10p2s04_dw_19f9f37b:
 
     # mc "I'll try!"
-    mc "I'll try!"
+    mc "Я постараюсь!"
 
-# game/code/d10p2/d10p2s04-dw.rpy:192
+# game/code/d10p2/d10p2s04-dw.rpy:242
 translate russian d10p2s04_dw_8bd56a42:
 
     # mc "Uh, Mistress?"
-    mc "Uh, Mistress?"
+    mc "Ух, Госпожа?"
 
-# game/code/d10p2/d10p2s04-dw.rpy:193
+# game/code/d10p2/d10p2s04-dw.rpy:244
 translate russian d10p2s04_dw_58eefd4a:
 
     # dw "Missed me, pet?"
-    dw "Missed me, pet?"
+    dw "Скучал по мне, милый?"
 
-# game/code/d10p2/d10p2s04-dw.rpy:194
+# game/code/d10p2/d10p2s04-dw.rpy:246
 translate russian d10p2s04_dw_7fd3a623:
 
     # mc "Yes, Mistress."
-    mc "Yes, Mistress."
+    mc "Да, Госпожа."
 
-# game/code/d10p2/d10p2s04-dw.rpy:195
+# game/code/d10p2/d10p2s04-dw.rpy:248
 translate russian d10p2s04_dw_abd0a5c6:
 
     # dw "Aw, that's sweet."
-    dw "Aw, that's sweet."
+    dw "О, как это мило."
 
-# game/code/d10p2/d10p2s04-dw.rpy:199
+# game/code/d10p2/d10p2s04-dw.rpy:252
 translate russian d10p2s04_dw_d777e6d5:
 
     # dw "You're not catching feelings are you, pet?"
-    dw "You're not catching feelings are you, pet?"
+    dw "Ты не осознаёшь ситуацию, да, детка?"
 
-# game/code/d10p2/d10p2s04-dw.rpy:200
+# game/code/d10p2/d10p2s04-dw.rpy:254
 translate russian d10p2s04_dw_31eff69d:
 
     # mc "I—"
-    mc "I—"
+    mc "Я..."
 
-# game/code/d10p2/d10p2s04-dw.rpy:202
+# game/code/d10p2/d10p2s04-dw.rpy:256
 translate russian d10p2s04_dw_e89997a1:
 
     # dw "You better not. You're nothing to me."
-    dw "You better not. You're nothing to me."
+    dw "Лучше не надо. Ты для меня ничто."
 
-# game/code/d10p2/d10p2s04-dw.rpy:203
+# game/code/d10p2/d10p2s04-dw.rpy:257
 translate russian d10p2s04_dw_c9e438ac:
 
     # dw "You exist solely to entertain me."
-    dw "You exist solely to entertain me."
+    dw "Ты существуешь только для того, чтобы развлекать меня."
 
-# game/code/d10p2/d10p2s04-dw.rpy:207
+# game/code/d10p2/d10p2s04-dw.rpy:262
 translate russian d10p2s04_dw_d9493875:
 
     # dw "Am I understood, pet?"
-    dw "Am I understood, pet?"
+    dw "Ты меня понял, милый?"
 
-# game/code/d10p2/d10p2s04-dw.rpy:208
+# game/code/d10p2/d10p2s04-dw.rpy:264
 translate russian d10p2s04_dw_1f1991d0:
 
     # mc "Y—yes, mistress."
-    mc "Y—yes, mistress."
+    mc "Д—да, госпожа."
 
-# game/code/d10p2/d10p2s04-dw.rpy:209
+# game/code/d10p2/d10p2s04-dw.rpy:265
 translate russian d10p2s04_dw_7292cd86:
 
     # dw "Good, very good."
-    dw "Good, very good."
+    dw "Хорошо, очень хорошо."
 
-# game/code/d10p2/d10p2s04-dw.rpy:215
+# game/code/d10p2/d10p2s04-dw.rpy:272
 translate russian d10p2s04_dw_116699cd:
 
     # dw "Hm... The selection is a little sparse for my tastes, but I suppose this will have to do."
-    dw "Hm... The selection is a little sparse for my tastes, but I suppose this will have to do."
+    dw "Хм... Выбор немного скудноват на мой вкус, но я полагаю, что это сойдет."
 
-# game/code/d10p2/d10p2s04-dw.rpy:220
+# game/code/d10p2/d10p2s04-dw.rpy:278
 translate russian d10p2s04_dw_39722ace:
 
     # dw "Oooh, I do love these."
-    dw "Oooh, I do love these."
+    dw "Ооох, мне это нравится."
 
-# game/code/d10p2/d10p2s04-dw.rpy:225
+# game/code/d10p2/d10p2s04-dw.rpy:283
 translate russian d10p2s04_dw_08a46240:
 
     # dw "Tell me, pet. {w}Earlier. Didn't you call me by my name?"
-    dw "Tell me, pet. {w}Earlier. Didn't you call me by my name?"
+    dw "Скажи мне, милый. {w}Когда я только вошла. Разве ты не назвал меня по имени?"
 
-# game/code/d10p2/d10p2s04-dw.rpy:226
+# game/code/d10p2/d10p2s04-dw.rpy:285
 translate russian d10p2s04_dw_31eff69d_1:
 
     # mc "I—"
-    mc "I—"
+    mc "Я..."
 
-# game/code/d10p2/d10p2s04-dw.rpy:228
+# game/code/d10p2/d10p2s04-dw.rpy:288
 translate russian d10p2s04_dw_abf17486:
 
     # dw "I remember telling you very clearly that I will be called \"Mistress\" at all times."
-    dw "I remember telling you very clearly that I will be called \"Mistress\" at all times."
+    dw "Помнится, я предельно ясно сказала тебе, чтобы ты меня всегда называл \"Госпожой\"."
 
-# game/code/d10p2/d10p2s04-dw.rpy:230
+# game/code/d10p2/d10p2s04-dw.rpy:291
 translate russian d10p2s04_dw_71732c46:
 
     # dw "I did tell you that, didn't I, pet?"
-    dw "I did tell you that, didn't I, pet?"
+    dw "Я ведь говорила тебе об этом, не так ли, малыш?"
 
-# game/code/d10p2/d10p2s04-dw.rpy:231
+# game/code/d10p2/d10p2s04-dw.rpy:293
 translate russian d10p2s04_dw_7fd3a623_1:
 
     # mc "Yes, Mistress."
-    mc "Yes, Mistress."
+    mc "Да, Госпожа."
 
-# game/code/d10p2/d10p2s04-dw.rpy:233
+# game/code/d10p2/d10p2s04-dw.rpy:295
 translate russian d10p2s04_dw_f276f3d2:
 
     # dw "Good, good."
-    dw "Good, good."
+    dw "Хорошо, хорошо."
 
-# game/code/d10p2/d10p2s04-dw.rpy:235
+# game/code/d10p2/d10p2s04-dw.rpy:297
 translate russian d10p2s04_dw_0cb741b8:
 
     # dw "So..."
-    dw "So..."
+    dw "Так..."
 
-# game/code/d10p2/d10p2s04-dw.rpy:238
+# game/code/d10p2/d10p2s04-dw.rpy:301
 translate russian d10p2s04_dw_888cab55:
 
     # dw "Why—"
-    dw "Why—"
+    dw "... почему ... "
 
-# game/code/d10p2/d10p2s04-dw.rpy:244
+# game/code/d10p2/d10p2s04-dw.rpy:308
 translate russian d10p2s04_dw_70b07974:
 
     # dw "—did you—"
-    dw "—did you—"
+    dw "... ты это ... "
 
-# game/code/d10p2/d10p2s04-dw.rpy:250
+# game/code/d10p2/d10p2s04-dw.rpy:319
 translate russian d10p2s04_dw_b81a1418:
 
     # dw "—{i}{b}forget{/b}{/i}!?"
-    dw "—{i}{b}forget{/b}{/i}!?"
+    dw "... {i}{b}забыл{/b}{/i}!?"
 
-# game/code/d10p2/d10p2s04-dw.rpy:265
+# game/code/d10p2/d10p2s04-dw.rpy:337
 translate russian d10p2s04_dw_ac9a70d8:
 
     # mc "I'm sorry, Mistress!"
-    mc "I'm sorry, Mistress!"
+    mc "Простите, Госпожа!"
 
-# game/code/d10p2/d10p2s04-dw.rpy:268
+# game/code/d10p2/d10p2s04-dw.rpy:341
 translate russian d10p2s04_dw_5b245ca1:
 
     # dw "You better fucking be, you piece of shit!"
-    dw "You better fucking be, you piece of shit!"
+    dw "Лучше бы так и было, ты, кусок дерьма!"
 
-# game/code/d10p2/d10p2s04-dw.rpy:272
+# game/code/d10p2/d10p2s04-dw.rpy:345
 translate russian d10p2s04_dw_3e678e06:
 
     # dw "I don't appreciate having to say things twice!"
-    dw "I don't appreciate having to say things twice!"
+    dw "Мне не нравится, что приходится повторять всё дважды!"
 
-# game/code/d10p2/d10p2s04-dw.rpy:275
+# game/code/d10p2/d10p2s04-dw.rpy:348
 translate russian d10p2s04_dw_c0faa0eb:
 
     # dw "If you ever call me by my name again, I'll turn you into a fucking eunuch!"
-    dw "If you ever call me by my name again, I'll turn you into a fucking eunuch!"
+    dw "Если ты еще раз назовешь меня по имени, я сделаю из тебя евнуха!"
 
-# game/code/d10p2/d10p2s04-dw.rpy:276
+# game/code/d10p2/d10p2s04-dw.rpy:350
 translate russian d10p2s04_dw_c9bf818c:
 
     # mc "Yes, Mistress!"
-    mc "Yes, Mistress!"
+    mc "Да, Госпожа!"
 
-# game/code/d10p2/d10p2s04-dw.rpy:280
+# game/code/d10p2/d10p2s04-dw.rpy:355
 translate russian d10p2s04_dw_672b944d:
 
     # dw "*Sigh* There. That wasn't so hard, was it?"
-    dw "*Sigh* There. That wasn't so hard, was it?"
+    dw "*Вздох* Ну вот. Это же было не так уж и сложно, верно?"
 
-# game/code/d10p2/d10p2s04-dw.rpy:297
+# game/code/d10p2/d10p2s04-dw.rpy:373
 translate russian d10p2s04_dw_ed3bcf3e:
 
     # dw "Hm, this will work nicely."
-    dw "Hm, this will work nicely."
+    dw "Хм, это прекрасно сработает."
 
-# game/code/d10p2/d10p2s04-dw.rpy:301
+# game/code/d10p2/d10p2s04-dw.rpy:377
 translate russian d10p2s04_dw_7ebc9581:
 
     # dw "Tell me, have you ever had a dick inside you?"
-    dw "Tell me, have you ever had a dick inside you?"
+    dw "Скажи, у тебя когда-нибудь был член внутри?"
 
-# game/code/d10p2/d10p2s04-dw.rpy:302
+# game/code/d10p2/d10p2s04-dw.rpy:379
 translate russian d10p2s04_dw_03ffb3f7:
 
     # mc "N—No, Mistress."
-    mc "N—No, Mistress."
+    mc "Н—нет, Госпожа."
 
-# game/code/d10p2/d10p2s04-dw.rpy:303
+# game/code/d10p2/d10p2s04-dw.rpy:380
 translate russian d10p2s04_dw_5d45eced:
 
     # dw "Hm, have you ever even blown someone before?"
-    dw "Hm, have you ever even blown someone before?"
+    dw "Хм, ты когда-нибудь раньше кому-нибудь сосал?"
 
-# game/code/d10p2/d10p2s04-dw.rpy:306
+# game/code/d10p2/d10p2s04-dw.rpy:384
 translate russian d10p2s04_dw_8114a09f:
 
     # mc "Uh..."
-    mc "Uh..."
+    mc "Ох..."
 
-# game/code/d10p2/d10p2s04-dw.rpy:307
+# game/code/d10p2/d10p2s04-dw.rpy:386
 translate russian d10p2s04_dw_ff2f5317:
 
     # dw "Oh?"
-    dw "Oh?"
+    dw "Ох?"
 
-# game/code/d10p2/d10p2s04-dw.rpy:308
+# game/code/d10p2/d10p2s04-dw.rpy:388
 translate russian d10p2s04_dw_e690eba8:
 
     # mc "Once...Mistress."
-    mc "Once...Mistress."
+    mc "Однажды... Госпожа."
 
-# game/code/d10p2/d10p2s04-dw.rpy:309
+# game/code/d10p2/d10p2s04-dw.rpy:389
 translate russian d10p2s04_dw_9c98cc46:
 
     # dw "...I'm surprised."
-    dw "...I'm surprised."
+    dw "... Я удивлена."
 
-# game/code/d10p2/d10p2s04-dw.rpy:310
+# game/code/d10p2/d10p2s04-dw.rpy:390
 translate russian d10p2s04_dw_56055f6f:
 
     # dw "This'll be a bit easier than I hoped I guess."
-    dw "This'll be a bit easier than I hoped I guess."
+    dw "Думаю, это будет немного легче, чем я надеялся."
 
-# game/code/d10p2/d10p2s04-dw.rpy:312
+# game/code/d10p2/d10p2s04-dw.rpy:393
 translate russian d10p2s04_dw_cfb40a80:
 
     # mc "No, Mistress."
-    mc "No, Mistress."
+    mc "Нет, Госпожа."
 
-# game/code/d10p2/d10p2s04-dw.rpy:317
+# game/code/d10p2/d10p2s04-dw.rpy:399
 translate russian d10p2s04_dw_ba522918:
 
     # dw "I want you to take this in as far as it'll go, am I understood?"
-    dw "I want you to take this in as far as it'll go, am I understood?"
+    dw "Я хочу, чтобы ты принял это, насколько это возможно, ты понял?"
 
-# game/code/d10p2/d10p2s04-dw.rpy:320
+# game/code/d10p2/d10p2s04-dw.rpy:402
 translate russian d10p2s04_dw_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/code/d10p2/d10p2s04-dw.rpy:322
+# game/code/d10p2/d10p2s04-dw.rpy:405
 translate russian d10p2s04_dw_9330f834:
 
     # dw "Am. I. Understood?"
-    dw "Am. I. Understood?"
+    dw "Ты. Понял?"
 
-# game/code/d10p2/d10p2s04-dw.rpy:323
+# game/code/d10p2/d10p2s04-dw.rpy:407
 translate russian d10p2s04_dw_dee957ac:
 
     # mc "Y—yes, Mistress."
-    mc "Y—yes, Mistress."
+    mc "Да, Госпожа."
 
-# game/code/d10p2/d10p2s04-dw.rpy:325
+# game/code/d10p2/d10p2s04-dw.rpy:409
 translate russian d10p2s04_dw_e493466d:
 
     # dw "Good. Now say \"Aa.\""
-    dw "Good. Now say \"Aa.\""
+    dw "Хорошо. Теперь скажи \"Aaа.\""
 
-# game/code/d10p2/d10p2s04-dw.rpy:337
+# game/code/d10p2/d10p2s04-dw.rpy:425
 translate russian d10p2s04_dw_8bb496d2:
 
     # dw "Is that really it?"
-    dw "Is that really it?"
+    dw "Это действительно так?"
 
-# game/code/d10p2/d10p2s04-dw.rpy:338
+# game/code/d10p2/d10p2s04-dw.rpy:426
 translate russian d10p2s04_dw_db181894:
 
     # dw "I thought you'd take more in you considering that you have some experience."
-    dw "I thought you'd take more in you considering that you have some experience."
+    dw "Я думала, что ты примешь в себя больше, учитывая, что у тебя есть некоторый опыт."
 
-# game/code/d10p2/d10p2s04-dw.rpy:339
+# game/code/d10p2/d10p2s04-dw.rpy:427
 translate russian d10p2s04_dw_3daac224:
 
     # dw "But I suppose I shouldn't have expected much."
-    dw "But I suppose I shouldn't have expected much."
+    dw "Но, думаю, мне не следовало ожидать многого."
 
-# game/code/d10p2/d10p2s04-dw.rpy:341
+# game/code/d10p2/d10p2s04-dw.rpy:430
 translate russian d10p2s04_dw_28778810:
 
     # dw "Not that bad for a first try I suppose. "
-    dw "Not that bad for a first try I suppose. "
+    dw "Не так уж плохо для первой попытки, я полагаю."
 
-# game/code/d10p2/d10p2s04-dw.rpy:342
+# game/code/d10p2/d10p2s04-dw.rpy:431
 translate russian d10p2s04_dw_06a96800:
 
     # dw "Don't tell me that that's all you have in you."
-    dw "Don't tell me that that's all you have in you."
+    dw "Только не говори мне, что это все, на что ты способен."
 
-# game/code/d10p2/d10p2s04-dw.rpy:343
+# game/code/d10p2/d10p2s04-dw.rpy:432
 translate russian d10p2s04_dw_4cc9742f:
 
     # dw "I'm not satisfied yet, so you better fucking try harder."
-    dw "I'm not satisfied yet, so you better fucking try harder."
+    dw "Я еще не удовлетворена, так что тебе нужно, блядь, стараться получше."
 
-# game/code/d10p2/d10p2s04-dw.rpy:357
+# game/code/d10p2/d10p2s04-dw.rpy:447
 translate russian d10p2s04_dw_c553170f:
 
     # dw "Almost there."
-    dw "Almost there."
+    dw "Почти получилось."
 
-# game/code/d10p2/d10p2s04-dw.rpy:377
+# game/code/d10p2/d10p2s04-dw.rpy:475
 translate russian d10p2s04_dw_322157ec:
 
     # dw "You got that whole thing in. {w}I'm surprised."
-    dw "You got that whole thing in. {w}I'm surprised."
+    dw "У тебя получается. {w}Я удивлена."
 
-# game/code/d10p2/d10p2s04-dw.rpy:378
+# game/code/d10p2/d10p2s04-dw.rpy:476
 translate russian d10p2s04_dw_bc3b6f6f:
 
     # dw "I think I'm gonna give you a little treat because of that. "
-    dw "I think I'm gonna give you a little treat because of that. "
+    dw "Думаю, за это я тебя немного побалую."
 
-# game/code/d10p2/d10p2s04-dw.rpy:379
+# game/code/d10p2/d10p2s04-dw.rpy:477
 translate russian d10p2s04_dw_38b52ffd:
 
     # dw "But not just yet."
-    dw "But not just yet."
+    dw "Но не сейчас."
 
-# game/code/d10p2/d10p2s04-dw.rpy:387
+# game/code/d10p2/d10p2s04-dw.rpy:488
 translate russian d10p2s04_dw_7bc44259:
 
     # dw "Pathetic. "
-    dw "Pathetic. "
+    dw "Позорище."
 
-# game/code/d10p2/d10p2s04-dw.rpy:403
+# game/code/d10p2/d10p2s04-dw.rpy:505
 translate russian d10p2s04_dwmc_dickslap_37cf726c:
 
     # dw "Look at that. "
-    dw "Look at that. "
+    dw "Только посмотрите на него."
 
-# game/code/d10p2/d10p2s04-dw.rpy:406
+# game/code/d10p2/d10p2s04-dw.rpy:508
 translate russian d10p2s04_dwmc_dickslap_a4298254:
 
     # dw "You couldn't even take that simple thing in, but you had the audacity to get hard."
-    dw "You couldn't even take that simple thing in, but you had the audacity to get hard."
+    dw "Ты даже не мог принять эту простую вещь, но у тебя хватило наглости возбудится."
 
-# game/code/d10p2/d10p2s04-dw.rpy:409
+# game/code/d10p2/d10p2s04-dw.rpy:511
 translate russian d10p2s04_dwmc_dickslap_8499a712:
 
     # dw "I don't appreciate failure, pet."
-    dw "I don't appreciate failure, pet."
+    dw "Я не люблю неудачников, дорогой."
 
-# game/code/d10p2/d10p2s04-dw.rpy:410
+# game/code/d10p2/d10p2s04-dw.rpy:512
 translate russian d10p2s04_dwmc_dickslap_9af42df9:
 
     # dw "You're gonna see what happens to people that don't obey me to a T."
-    dw "You're gonna see what happens to people that don't obey me to a T."
+    dw "Ты увидишь, что происходит с людьми, которые не подчиняются мне."
 
-# game/code/d10p2/d10p2s04-dw.rpy:413
+# game/code/d10p2/d10p2s04-dw.rpy:516
 translate russian d10p2s04_dwmc_dickslap_df52f281:
 
     # dw "And you call yourself a man."
-    dw "And you call yourself a man."
+    dw "И ты называешь себя мужчиной."
 
-# game/code/d10p2/d10p2s04-dw.rpy:416
+# game/code/d10p2/d10p2s04-dw.rpy:519
 translate russian d10p2s04_dwmc_dickslap_88062e8b:
 
     # dw "Look at this thing."
-    dw "Look at this thing."
+    dw "Посмотри на эту штуку."
 
-# game/code/d10p2/d10p2s04-dw.rpy:420
+# game/code/d10p2/d10p2s04-dw.rpy:523
 translate russian d10p2s04_dwmc_dickslap_06efbc8f:
 
     # dw "I don't know how you live with it."
-    dw "I don't know how you live with it."
+    dw "Я не знаю, как ты с этим живешь."
 
-# game/code/d10p2/d10p2s04-dw.rpy:422
+# game/code/d10p2/d10p2s04-dw.rpy:525
 translate russian d10p2s04_dwmc_dickslap_4b0fda76:
 
     # dw "Turning you into a eunuch will be doing you a favor."
-    dw "Turning you into a eunuch will be doing you a favor."
+    dw "Превращение тебя в евнуха окажет тебе услугу."
 
-# game/code/d10p2/d10p2s04-dw.rpy:423
+# game/code/d10p2/d10p2s04-dw.rpy:527
 translate russian d10p2s04_dwmc_dickslap_f45fe333:
 
     # dw "Tell me, pet. Do you want me to turn you into a eunuch?"
-    dw "Tell me, pet. Do you want me to turn you into a eunuch?"
+    dw "Скажи мне, малыш. Ты хочешь, чтобы я превратила тебя в евнуха?"
 
-# game/code/d10p2/d10p2s04-dw.rpy:425
+# game/code/d10p2/d10p2s04-dw.rpy:530
 translate russian d10p2s04_dwmc_dickslap_cfb40a80:
 
     # mc "No, Mistress."
-    mc "No, Mistress."
+    mc "Нет, Госпожа."
 
-# game/code/d10p2/d10p2s04-dw.rpy:428
+# game/code/d10p2/d10p2s04-dw.rpy:535
 translate russian d10p2s04_dwmc_dickslap_4132689d:
 
     # dw "Then you do what I fucking tell you!"
-    dw "Then you do what I fucking tell you!"
+    dw "Тогда делай то, что я тебе, блядь, говорю!"
 
-# game/code/d10p2/d10p2s04-dw.rpy:429
+# game/code/d10p2/d10p2s04-dw.rpy:536
 translate russian d10p2s04_dwmc_dickslap_8499a712_1:
 
     # dw "I don't appreciate failure, pet."
-    dw "I don't appreciate failure, pet."
+    dw "Я не люблю неудачников, дорогой."
 
-# game/code/d10p2/d10p2s04-dw.rpy:430
+# game/code/d10p2/d10p2s04-dw.rpy:538
 translate russian d10p2s04_dwmc_dickslap_9af42df9_1:
 
     # dw "You're gonna see what happens to people that don't obey me to a T."
-    dw "You're gonna see what happens to people that don't obey me to a T."
+    dw "Ты увидишь, что происходит с людьми, которые не подчиняются мне."
 
-# game/code/d10p2/d10p2s04-dw.rpy:435
+# game/code/d10p2/d10p2s04-dw.rpy:543
 translate russian d10p2s04_dwmc_dickslap_2c4d5d97:
 
     # dw "I want you nice and hard for this."
-    dw "I want you nice and hard for this."
+    dw "Я хочу, чтобы ты был классным и возбуждённым для этого."
 
-# game/code/d10p2/d10p2s04-dw.rpy:442
+# game/code/d10p2/d10p2s04-dw.rpy:553
 translate russian d10p2s04_dwmc_dickslap_9b934ae8:
 
     # dw "Now, comes the punishment."
-    dw "Now, comes the punishment."
+    dw "А теперь наступает наказание."
 
-# game/code/d10p2/d10p2s04-dw.rpy:448
+# game/code/d10p2/d10p2s04-dw.rpy:562
 translate russian d10p2s04_dwmc_dickslap_fed03ca2:
 
     # mc "Ah!"
-    mc "Ah!"
-
-# game/code/d10p2/d10p2s04-dw.rpy:471
-translate russian d10p2s04_dwmc_dickslap_7f1d462f:
-
-    # mc "[mc_safeword]!"
-    mc "[mc_safeword]!"
-
-# game/code/d10p2/d10p2s04-dw.rpy:479
-translate russian d10p2s04_dwmc_dickslap_ea46bf5e:
-
-    # dw "Oh? Are you crying, pet?"
-    dw "Oh? Are you crying, pet?"
-
-# game/code/d10p2/d10p2s04-dw.rpy:480
-translate russian d10p2s04_dwmc_dickslap_5da156af:
-
-    # dw "This wouldn't have happened if you had just done as I said."
-    dw "This wouldn't have happened if you had just done as I said."
-
-# game/code/d10p2/d10p2s04-dw.rpy:481
-translate russian d10p2s04_dwmc_dickslap_5e1cba94:
-
-    # dw "Do you understand now?"
-    dw "Do you understand now?"
-
-# game/code/d10p2/d10p2s04-dw.rpy:482
-translate russian d10p2s04_dwmc_dickslap_2b35b6fe:
-
-    # mc "..."
-    mc "..."
-
-# game/code/d10p2/d10p2s04-dw.rpy:484
-translate russian d10p2s04_dwmc_dickslap_e7f6a7b1:
-
-    # mc "Y...yes. Yes, Mistress."
-    mc "Y...yes. Yes, Mistress."
-
-# game/code/d10p2/d10p2s04-dw.rpy:485
-translate russian d10p2s04_dwmc_dickslap_31a73f5f:
-
-    # dw "Good boy."
-    dw "Good boy."
-
-# game/code/d10p2/d10p2s04-dw.rpy:489
-translate russian d10p2s04_dwmc_dickslap_2a38f304:
-
-    # dw "I think you deserve that treat now."
-    dw "I think you deserve that treat now."
-
-# game/code/d10p2/d10p2s04-dw.rpy:491
-translate russian d10p2s04_dwmc_dickslap_b1403b16:
-
-    # dw "I think I'm gonna give you a little treat now."
-    dw "I think I'm gonna give you a little treat now."
-
-# game/code/d10p2/d10p2s04-dw.rpy:492
-translate russian d10p2s04_dwmc_dickslap_9566cc04:
-
-    # mc "Thank you, Mistress."
-    mc "Thank you, Mistress."
-
-# game/code/d10p2/d10p2s04-dw.rpy:503
-translate russian d10p2s04_dwmc_dickslap_b386a7ab:
-
-    # dw "You're twitching. "
-    dw "You're twitching. "
-
-# game/code/d10p2/d10p2s04-dw.rpy:506
-translate russian d10p2s04_dwmc_dickslap_1f74aecd:
-
-    # dw "Does this sad little thing want to cum, pet?"
-    dw "Does this sad little thing want to cum, pet?"
-
-# game/code/d10p2/d10p2s04-dw.rpy:507
-translate russian d10p2s04_dwmc_dickslap_f5c87a2c:
-
-    # dw "Do you want to cum while getting jerked off by me?"
-    dw "Do you want to cum while getting jerked off by me?"
-
-# game/code/d10p2/d10p2s04-dw.rpy:508
-translate russian d10p2s04_dwmc_dickslap_c54a5290:
-
-    # mc "Yes, Mistress. Please."
-    mc "Yes, Mistress. Please."
-
-# game/code/d10p2/d10p2s04-dw.rpy:509
-translate russian d10p2s04_dwmc_dickslap_e5d87735:
-
-    # mc "Please allow me to cum."
-    mc "Please allow me to cum."
-
-# game/code/d10p2/d10p2s04-dw.rpy:512
-translate russian d10p2s04_dwmc_dickslap_765ddc92:
-
-    # dw "Hm, good."
-    dw "Hm, good."
-
-# game/code/d10p2/d10p2s04-dw.rpy:515
-translate russian d10p2s04_dwmc_dickslap_0de5ced9:
-
-    # dw "I suppose I can allow it. "
-    dw "I suppose I can allow it. "
-
-# game/code/d10p2/d10p2s04-dw.rpy:516
-translate russian d10p2s04_dwmc_dickslap_e98e0f78:
-
-    # dw "I've had my fun, and the time limit should be up any minute now."
-    dw "I've had my fun, and the time limit should be up any minute now."
-
-# game/code/d10p2/d10p2s04-dw.rpy:517
-translate russian d10p2s04_dwmc_dickslap_5163ddd2:
-
-    # dw "*Sigh* I guess I'll allow you to cum."
-    dw "*Sigh* I guess I'll allow you to cum."
-
-# game/code/d10p2/d10p2s04-dw.rpy:529
-translate russian d10p2s04_dwmc_dickslap_8d49635c:
-
-    # mc "M—mistress! I'm gonna cum!"
-    mc "M—mistress! I'm gonna cum!"
-
-# game/code/d10p2/d10p2s04-dw.rpy:536
-translate russian d10p2s04_dwmc_dickslap_10026784:
-
-    # dw "Already?"
-    dw "Already?"
-
-# game/code/d10p2/d10p2s04-dw.rpy:538
-translate russian d10p2s04_dwmc_dickslap_a9afdb2a:
-
-    # dw "*Sigh* You really are the bottom of the barrel aren't you?"
-    dw "*Sigh* You really are the bottom of the barrel aren't you?"
-
-# game/code/d10p2/d10p2s04-dw.rpy:552
-translate russian d10p2s04_dwmc_dickslap_8d49635c_1:
-
-    # mc "M—mistress! I'm gonna cum!"
-    mc "M—mistress! I'm gonna cum!"
-
-# game/code/d10p2/d10p2s04-dw.rpy:559
-translate russian d10p2s04_dwmc_dickslap_353944c3:
-
-    # dw "Hmh, you lasted a little longer than I expected."
-    dw "Hmh, you lasted a little longer than I expected."
-
-# game/code/d10p2/d10p2s04-dw.rpy:561
-translate russian d10p2s04_dwmc_dickslap_2d66482d:
-
-    # dw "But you're gonna have to do a lot better if you want to really please me."
-    dw "But you're gonna have to do a lot better if you want to really please me."
-
-# game/code/d10p2/d10p2s04-dw.rpy:562
-translate russian d10p2s04_dwmc_dickslap_1586af48:
-
-    # mc "I'll try harder next time, Mistress."
-    mc "I'll try harder next time, Mistress."
-
-# game/code/d10p2/d10p2s04-dw.rpy:568
-translate russian d10p2s04_dwmc_dickslap_9024958a:
-
-    # dw "I'm done here."
-    dw "I'm done here."
-
-# game/code/d10p2/d10p2s04-dw.rpy:572
-translate russian d10p2s04_dwmc_dickslap_05500ff6:
-
-    # mc "Huh?"
-    mc "Huh?"
-
-# game/code/d10p2/d10p2s04-dw.rpy:581
-translate russian d10p2s04_dwmc_dickslap_1b4eec75:
-
-    # mc "Mistress!?"
-    mc "Mistress!?"
-
-# game/code/d10p2/d10p2s04-dw.rpy:590
-translate russian d10p2s04_dwmc_end_986b73a4:
-
-    # mc "Mistress!"
-    mc "Mistress!"
-
-# game/code/d10p2/d10p2s04-dw.rpy:595
-translate russian d10p2s04_dwmc_end_5f30d071:
-
-    # dw "Look at the mess you've made."
-    dw "Look at the mess you've made."
-
-# game/code/d10p2/d10p2s04-dw.rpy:597
-translate russian d10p2s04_dwmc_end_73bfec23:
-
-    # dw "I'm sure what's her face out there will help you. {w}I have better places to be."
-    dw "I'm sure what's her face out there will help you. {w}I have better places to be."
-
-# game/code/d10p2/d10p2s04-dw.rpy:599
-translate russian d10p2s04_dwmc_end_dc0f44e7:
-
-    # dw "Until next time, pet."
-    dw "Until next time, pet."
-
-# game/code/d10p2/d10p2s04-dw.rpy:603
-translate russian d10p2s04_dwmc_end_7f6bfff6:
-
-    # mc "Mistress?"
-    mc "Mistress?"
-
-# game/code/d10p2/d10p2s04-dw.rpy:604
-translate russian d10p2s04_dwmc_end_89e30b4c:
-
-    # mct "Did she really leave?"
-    mct "Did she really leave?"
-
-# game/code/d10p2/d10p2s04-dw.rpy:605
-translate russian d10p2s04_dwmc_end_424f0a67:
-
-    # mct "How the hell am I gonna get out!?"
-    mct "How the hell am I gonna get out!?"
-
-# game/code/d10p2/d10p2s04-dw.rpy:610
-translate russian d10p2s04_dwmc_end_b084c50b:
-
-    # mesfl "[mcname]? Are you alright?"
-    mesfl "[mcname]? Are you alright?"
-
-# game/code/d10p2/d10p2s04-dw.rpy:611
-translate russian d10p2s04_dwmc_end_b86a4431:
-
-    # mesfl "Do you need some help?"
-    mesfl "Do you need some help?"
-
-# game/code/d10p2/d10p2s04-dw.rpy:613
-translate russian d10p2s04_dwmc_end_ebc6bc94:
-
-    # mesfl "[mclogin]? You alright?"
-    mesfl "[mclogin]? You alright?"
-
-# game/code/d10p2/d10p2s04-dw.rpy:616
-translate russian d10p2s04_dwmc_end_50f098c2:
-
-    # mc "Yeah. Just, could use some help getting out of here."
-    mc "Yeah. Just, could use some help getting out of here."
-
-# game/code/d10p2/d10p2s04-dw.rpy:618
-translate russian d10p2s04_dwmc_end_f0e8be13:
-
-    # mesfl "Did she not...?"
-    mesfl "Did she not...?"
-
-# game/code/d10p2/d10p2s04-dw.rpy:619
-translate russian d10p2s04_dwmc_end_fca52711:
-
-    # mc "No."
-    mc "No."
-
-# game/code/d10p2/d10p2s04-dw.rpy:621
-translate russian d10p2s04_dwmc_end_33861e56:
-
-    # mesfl "...I'll talk to her about it."
-    mesfl "...I'll talk to her about it."
-
-# game/code/d10p2/d10p2s04-dw.rpy:622
-translate russian d10p2s04_dwmc_end_b3b4643c:
-
-    # mesfl "Here, let me get you out."
-    mesfl "Here, let me get you out."
-
-# game/code/d10p2/d10p2s04-dw.rpy:625
-translate russian d10p2s04_dwmc_end_fa45f281:
-
-    # mc "Thanks..."
-    mc "Thanks..."
-
-# game/code/d10p2/d10p2s04-dw.rpy:629
-translate russian d10p2s04_dwmc_end_a43cb2f5:
-
-    # mesfl "I'll let you get dressed."
-    mesfl "I'll let you get dressed."
-
-# game/code/d10p2/d10p2s04-dw.rpy:636
-translate russian d10p2s04_dwmc_end_3d779447:
-
-    # mesfl "I'll uh, I'll let you get cleaned up a bit."
-    mesfl "I'll uh, I'll let you get cleaned up a bit."
-
-# game/code/d10p2/d10p2s04-dw.rpy:638
-translate russian d10p2s04_dwmc_end_4555d42b:
-
-    # mc "Yeah... Thanks."
-    mc "Yeah... Thanks."
-
-# game/code/d10p2/d10p2s04-dw.rpy:646
-translate russian d10p2s04_dw_talk_min_outside_5eaf9030:
-
-    # mesfl "Sorry about her."
-    mesfl "Sorry about her."
-
-# game/code/d10p2/d10p2s04-dw.rpy:647
-translate russian d10p2s04_dw_talk_min_outside_ae31ede1:
-
-    # mc "It's alright."
-    mc "It's alright."
-
-# game/code/d10p2/d10p2s04-dw.rpy:649
-translate russian d10p2s04_dw_talk_min_outside_a4b62253:
-
-    # mc "I think I'm gonna check out the other stuff."
-    mc "I think I'm gonna check out the other stuff."
-
-# game/code/d10p2/d10p2s04-dw.rpy:651
-translate russian d10p2s04_dw_talk_min_outside_03951412:
-
-    # mesfl "Cool, sure..."
-    mesfl "Cool, sure..."
-
-# game/code/d10p2/d10p2s04-dw.rpy:656
-translate russian d10p2s04_dw_talk_min_outside_5125667f:
-
-    # mct "That kinda sucked."
-    mct "That kinda sucked."
-
-# game/code/d10p2/d10p2s04-dw.rpy:657
-translate russian d10p2s04_dw_talk_min_outside_6d35dcd0:
-
-    # mct "I hope Mistres— Uh, Dahlia... I hope she isn't too mad."
-    mct "I hope Mistres— Uh, Dahlia... I hope she isn't too mad."
-
-# game/code/d10p2/d10p2s04-dw.rpy:659
-translate russian d10p2s04_dw_talk_min_outside_f37e2aab:
-
-    # mct "Let's see what else I can do tonight."
-    mct "Let's see what else I can do tonight."
-
-# game/code/d10p2/d10p2s04-dw.rpy:663
-translate russian d10p2s04_dw_talk_min_outside_e7bcb7df:
-
-    # mesfl "Where's my vibrator?"
-    mesfl "Where's my vibrator?"
-
-# game/code/d10p2/d10p2s04-dw.rpy:668
-translate russian d10p2s04_dw_talk_min_outside_af265c15:
-
-    # mesfl "Hey, everything alright?"
-    mesfl "Hey, everything alright?"
-
-# game/code/d10p2/d10p2s04-dw.rpy:669
-translate russian d10p2s04_dw_talk_min_outside_3bdc40ec:
-
-    # mc "Yeah. I'm fine."
-    mc "Yeah. I'm fine."
-
-# game/code/d10p2/d10p2s04-dw.rpy:672
-translate russian d10p2s04_dw_talk_min_outside_899d816b:
-
-    # mesfl "I'm sorry that you didn't have a good time in there."
-    mesfl "I'm sorry that you didn't have a good time in there."
-
-# game/code/d10p2/d10p2s04-dw.rpy:674
-translate russian d10p2s04_dw_talk_min_outside_f211005a:
-
-    # mesfl "I'm sorry that she just left you like that."
-    mesfl "I'm sorry that she just left you like that."
-
-# game/code/d10p2/d10p2s04-dw.rpy:676
-translate russian d10p2s04_dw_talk_min_outside_c1d720f1:
-
-    # mc "It's alright. That's not your fault."
-    mc "It's alright. That's not your fault."
-
-# game/code/d10p2/d10p2s04-dw.rpy:677
-translate russian d10p2s04_dw_talk_min_outside_fe4ad35a:
-
-    # mc "And... It was still fun."
-    mc "And... It was still fun."
-
-# game/code/d10p2/d10p2s04-dw.rpy:678
-translate russian d10p2s04_dw_talk_min_outside_a4b62253_1:
-
-    # mc "I think I'm gonna check out the other stuff."
-    mc "I think I'm gonna check out the other stuff."
-
-# game/code/d10p2/d10p2s04-dw.rpy:680
-translate russian d10p2s04_dw_talk_min_outside_57307fdf:
-
-    # mesfl "Sure, have fun."
-    mesfl "Sure, have fun."
-
-# game/code/d10p2/d10p2s04-dw.rpy:686
-translate russian d10p2s04_dw_talk_min_outside_5125667f_1:
-
-    # mct "That kinda sucked."
-    mct "That kinda sucked."
-
-# game/code/d10p2/d10p2s04-dw.rpy:687
-translate russian d10p2s04_dw_talk_min_outside_6d35dcd0_1:
-
-    # mct "I hope Mistres— Uh, Dahlia... I hope she isn't too mad."
-    mct "I hope Mistres— Uh, Dahlia... I hope she isn't too mad."
-
-# game/code/d10p2/d10p2s04-dw.rpy:688
-translate russian d10p2s04_dw_talk_min_outside_8d4d54d6:
-
-    # mct "I need to do something else to take my mind off of this."
-    mct "I need to do something else to take my mind off of this."
-
-# game/code/d10p2/d10p2s04-dw.rpy:689
-translate russian d10p2s04_dw_talk_min_outside_af265c15_1:
-
-    # mesfl "Hey, everything alright?"
-    mesfl "Hey, everything alright?"
-
-# game/code/d10p2/d10p2s04-dw.rpy:690
-translate russian d10p2s04_dw_talk_min_outside_3bdc40ec_1:
-
-    # mc "Yeah. I'm fine."
-    mc "Yeah. I'm fine."
-
-# game/code/d10p2/d10p2s04-dw.rpy:702
-translate russian d10p2s04_dwmcmin_safeword_10e90435:
-
-    # mesfl "[mcname]! Are you okay!? {w}What's going on here!?"
-    mesfl "[mcname]! Are you okay!? {w}What's going on here!?"
-
-# game/code/d10p2/d10p2s04-dw.rpy:704
-translate russian d10p2s04_dwmcmin_safeword_6a13c3e3:
-
-    # mesfl "[mclogin]? What's going on here!?"
-    mesfl "[mclogin]? What's going on here!?"
-
-# game/code/d10p2/d10p2s04-dw.rpy:706
-translate russian d10p2s04_dwmcmin_safeword_c18af217:
-
-    # dw "Now you've done it."
-    dw "Now you've done it."
-
-# game/code/d10p2/d10p2s04-dw.rpy:708
-translate russian d10p2s04_dwmcmin_safeword_6aebfdbc:
-
-    # mesfl "Stop what you're doing immediately!"
-    mesfl "Stop what you're doing immediately!"
-
-# game/code/d10p2/d10p2s04-dw.rpy:710
-translate russian d10p2s04_dwmcmin_safeword_8de4b36b:
-
-    # dw "I've already stopped."
-    dw "I've already stopped."
-
-# game/code/d10p2/d10p2s04-dw.rpy:715
-translate russian d10p2s04_dwmcmin_safeword_1c7e54a2:
-
-    # dw "Well, pet..."
-    dw "Well, pet..."
-
-# game/code/d10p2/d10p2s04-dw.rpy:717
-translate russian d10p2s04_dwmcmin_safeword_4b2e58bc:
-
-    # dw "If you can't handle even that, I don't have any reason to be here."
-    dw "If you can't handle even that, I don't have any reason to be here."
-
-# game/code/d10p2/d10p2s04-dw.rpy:722
-translate russian d10p2s04_dwmcmin_safeword_20f1b09a:
-
-    # mesfl "Here, let me get you out of there."
-    mesfl "Here, let me get you out of there."
-
-# game/code/d10p2/d10p2s04-dw.rpy:724
-translate russian d10p2s04_dwmcmin_safeword_fa45f281:
-
-    # mc "Thanks..."
-    mc "Thanks..."
-
-# game/code/d10p2/d10p2s04-dw.rpy:725
-translate russian d10p2s04_dwmcmin_safeword_a43cb2f5:
-
-    # mesfl "I'll let you get dressed."
-    mesfl "I'll let you get dressed."
-
-translate russian strings:
-
-    # game/code/d10p2/d10p2s04-dw.rpy:132
-    old "Abort mission!"
-    new "Abort mission!"
-
-    # game/code/d10p2/d10p2s04-dw.rpy:132
-    old "Stay and see what happens"
-    new "Stay and see what happens"
-
-    # game/code/d10p2/d10p2s04-dw.rpy:252
-    old "Let go; get hard"
-    new "Let go; get hard"
-
-    # game/code/d10p2/d10p2s04-dw.rpy:252
-    old "Control yourself; don't"
-    new "Control yourself; don't"
-
-    # game/code/d10p2/d10p2s04-dw.rpy:363
-    old "Try to take it all in"
-    new "Try to take it all in"
-
-    # game/code/d10p2/d10p2s04-dw.rpy:363
-    old "Give up"
-    new "Give up"
-
-    # game/code/d10p2/d10p2s04-dw.rpy:469
-    old "Use your safe word!"
-    new "Use your safe word!"
-
-    # game/code/d10p2/d10p2s04-dw.rpy:526
-    old "Hold strong"
-    new "Hold strong"
-
-    # game/code/d10p2/d10p2s04-dw.rpy:549
-    old "Cum harder"
-    new "Cum harder"
-
-    # game/code/d10p2/d10p2s04-dw.rpy:549
-    old "Hold stronger"
-    new "Hold stronger"
-
-# TODO: Translation updated at 2021-04-20 23:44
+    mc "Ах!"
 
 # game/code/d10p2/d10p2s04-dw.rpy:594
 translate russian d10p2s04_dwmc_dickslap_66332944:
@@ -1196,3 +678,512 @@ translate russian d10p2s04_dwmc_dickslap_66332944:
     # mc "[mc_safeword!t]!"
     mc "[mc_safeword!t]!"
 
+# game/code/d10p2/d10p2s04-dw.rpy:604
+translate russian d10p2s04_dwmc_dickslap_ea46bf5e:
+
+    # dw "Oh? Are you crying, pet?"
+    dw "О? Ты плачешь, малыш?"
+
+# game/code/d10p2/d10p2s04-dw.rpy:605
+translate russian d10p2s04_dwmc_dickslap_5da156af:
+
+    # dw "This wouldn't have happened if you had just done as I said."
+    dw "Этого бы не случилось, если бы ты просто сделал, что я сказала."
+
+# game/code/d10p2/d10p2s04-dw.rpy:606
+translate russian d10p2s04_dwmc_dickslap_5e1cba94:
+
+    # dw "Do you understand now?"
+    dw "Теперь ты понимаешь?"
+
+# game/code/d10p2/d10p2s04-dw.rpy:607
+translate russian d10p2s04_dwmc_dickslap_2b35b6fe:
+
+    # mc "..."
+    mc "..."
+
+# game/code/d10p2/d10p2s04-dw.rpy:610
+translate russian d10p2s04_dwmc_dickslap_e7f6a7b1:
+
+    # mc "Y...yes. Yes, Mistress."
+    mc "Д... Да. Да, Госпожа."
+
+# game/code/d10p2/d10p2s04-dw.rpy:611
+translate russian d10p2s04_dwmc_dickslap_31a73f5f:
+
+    # dw "Good boy."
+    dw "Хороший мальчик."
+
+# game/code/d10p2/d10p2s04-dw.rpy:616
+translate russian d10p2s04_dwmc_dickslap_2a38f304:
+
+    # dw "I think you deserve that treat now."
+    dw "Думаю, теперь ты заслужил это угощение."
+
+# game/code/d10p2/d10p2s04-dw.rpy:618
+translate russian d10p2s04_dwmc_dickslap_b1403b16:
+
+    # dw "I think I'm gonna give you a little treat now."
+    dw "Думаю, сейчас я тебя немного побалую."
+
+# game/code/d10p2/d10p2s04-dw.rpy:619
+translate russian d10p2s04_dwmc_dickslap_9566cc04:
+
+    # mc "Thank you, Mistress."
+    mc "Спасибо, Госпожа."
+
+# game/code/d10p2/d10p2s04-dw.rpy:631
+translate russian d10p2s04_dwmc_dickslap_b386a7ab:
+
+    # dw "You're twitching. "
+    dw "Ты дёргаешься."
+
+# game/code/d10p2/d10p2s04-dw.rpy:634
+translate russian d10p2s04_dwmc_dickslap_1f74aecd:
+
+    # dw "Does this sad little thing want to cum, pet?"
+    dw "Эта грустная штучка хочет кончить, дорогой?"
+
+# game/code/d10p2/d10p2s04-dw.rpy:635
+translate russian d10p2s04_dwmc_dickslap_f5c87a2c:
+
+    # dw "Do you want to cum while getting jerked off by me?"
+    dw "Хочешь кончить, пока я тебя дрочу?"
+
+# game/code/d10p2/d10p2s04-dw.rpy:638
+translate russian d10p2s04_dwmc_dickslap_c54a5290:
+
+    # mc "Yes, Mistress. Please."
+    mc "Да, Госпожа. Пожалуйста."
+
+# game/code/d10p2/d10p2s04-dw.rpy:639
+translate russian d10p2s04_dwmc_dickslap_e5d87735:
+
+    # mc "Please allow me to cum."
+    mc "Пожалуйста, позвольте мне кончить."
+
+# game/code/d10p2/d10p2s04-dw.rpy:644
+translate russian d10p2s04_dwmc_dickslap_765ddc92:
+
+    # dw "Hm, good."
+    dw "Хм, хорошо."
+
+# game/code/d10p2/d10p2s04-dw.rpy:650
+translate russian d10p2s04_dwmc_dickslap_0de5ced9:
+
+    # dw "I suppose I can allow it. "
+    dw "Полагаю, я могу это позволить."
+
+# game/code/d10p2/d10p2s04-dw.rpy:651
+translate russian d10p2s04_dwmc_dickslap_e98e0f78:
+
+    # dw "I've had my fun, and the time limit should be up any minute now."
+    dw "Я повеселилась, и срок пребывания уже должен истечь с минуты на минуту."
+
+# game/code/d10p2/d10p2s04-dw.rpy:653
+translate russian d10p2s04_dwmc_dickslap_5163ddd2:
+
+    # dw "*Sigh* I guess I'll allow you to cum."
+    dw "*Вздох* Думаю, я позволю тебе кончить."
+
+# game/code/d10p2/d10p2s04-dw.rpy:666
+translate russian d10p2s04_dwmc_dickslap_8d49635c:
+
+    # mc "M—mistress! I'm gonna cum!"
+    mc "Г-госпожа! Я сейчас кончу!"
+
+# game/code/d10p2/d10p2s04-dw.rpy:676
+translate russian d10p2s04_dwmc_dickslap_10026784:
+
+    # dw "Already?"
+    dw "Уже?"
+
+# game/code/d10p2/d10p2s04-dw.rpy:679
+translate russian d10p2s04_dwmc_dickslap_a9afdb2a:
+
+    # dw "*Sigh* You really are the bottom of the barrel aren't you?"
+    dw "*Вздох* Ты действительно отстой, верно?"
+
+# game/code/d10p2/d10p2s04-dw.rpy:695
+translate russian d10p2s04_dwmc_dickslap_8d49635c_1:
+
+    # mc "M—mistress! I'm gonna cum!"
+    mc "Г-госпожа! Я сейчас кончу!"
+
+# game/code/d10p2/d10p2s04-dw.rpy:705
+translate russian d10p2s04_dwmc_dickslap_353944c3:
+
+    # dw "Hmh, you lasted a little longer than I expected."
+    dw "Хм, ты продержался немного дольше, чем я ожидала."
+
+# game/code/d10p2/d10p2s04-dw.rpy:707
+translate russian d10p2s04_dwmc_dickslap_2d66482d:
+
+    # dw "But you're gonna have to do a lot better if you want to really please me."
+    dw "Но тебе придется стараться лучше, если ты действительно хочешь доставить мне удовольствие."
+
+# game/code/d10p2/d10p2s04-dw.rpy:709
+translate russian d10p2s04_dwmc_dickslap_1586af48:
+
+    # mc "I'll try harder next time, Mistress."
+    mc "В следующий раз я буду стараться больше, Госпожа."
+
+# game/code/d10p2/d10p2s04-dw.rpy:717
+translate russian d10p2s04_dwmc_dickslap_9024958a:
+
+    # dw "I'm done here."
+    dw "С меня хватит."
+
+# game/code/d10p2/d10p2s04-dw.rpy:722
+translate russian d10p2s04_dwmc_dickslap_05500ff6:
+
+    # mc "Huh?"
+    mc "Что?"
+
+# game/code/d10p2/d10p2s04-dw.rpy:733
+translate russian d10p2s04_dwmc_dickslap_1b4eec75:
+
+    # mc "Mistress!?"
+    mc "Госпожа!?"
+
+# game/code/d10p2/d10p2s04-dw.rpy:743
+translate russian d10p2s04_dwmc_end_986b73a4:
+
+    # mc "Mistress!"
+    mc "Госпожа!"
+
+# game/code/d10p2/d10p2s04-dw.rpy:749
+translate russian d10p2s04_dwmc_end_5f30d071:
+
+    # dw "Look at the mess you've made."
+    dw "Посмотри, какой беспорядок ты устроил."
+
+# game/code/d10p2/d10p2s04-dw.rpy:751
+translate russian d10p2s04_dwmc_end_73bfec23:
+
+    # dw "I'm sure what's her face out there will help you. {w}I have better places to be."
+    dw "Я уверена, что она поможет тебе. {w}А у меня есть места получше этого."
+
+# game/code/d10p2/d10p2s04-dw.rpy:753
+translate russian d10p2s04_dwmc_end_dc0f44e7:
+
+    # dw "Until next time, pet."
+    dw "До следующего раза, дорогой."
+
+# game/code/d10p2/d10p2s04-dw.rpy:758
+translate russian d10p2s04_dwmc_end_7f6bfff6:
+
+    # mc "Mistress?"
+    mc "Госпожа?"
+
+# game/code/d10p2/d10p2s04-dw.rpy:759
+translate russian d10p2s04_dwmc_end_89e30b4c:
+
+    # mct "Did she really leave?"
+    mct "Неужели она действительно ушла?"
+
+# game/code/d10p2/d10p2s04-dw.rpy:760
+translate russian d10p2s04_dwmc_end_424f0a67:
+
+    # mct "How the hell am I gonna get out!?"
+    mct "Как, черт возьми, мне отсюда выбраться?!"
+
+# game/code/d10p2/d10p2s04-dw.rpy:769
+translate russian d10p2s04_dwmc_end_b084c50b:
+
+    # mesfl "[mcname]? Are you alright?"
+    mesfl "[mcname]? Ты в порядке?"
+
+# game/code/d10p2/d10p2s04-dw.rpy:770
+translate russian d10p2s04_dwmc_end_b86a4431:
+
+    # mesfl "Do you need some help?"
+    mesfl "Тебе нужна помощь?"
+
+# game/code/d10p2/d10p2s04-dw.rpy:773
+translate russian d10p2s04_dwmc_end_ebc6bc94:
+
+    # mesfl "[mclogin]? You alright?"
+    mesfl "[mclogin]? Ты в порядке?"
+
+# game/code/d10p2/d10p2s04-dw.rpy:777
+translate russian d10p2s04_dwmc_end_50f098c2:
+
+    # mc "Yeah. Just, could use some help getting out of here."
+    mc "Да. Но мне не помешала бы помощь, чтобы выбраться отсюда."
+
+# game/code/d10p2/d10p2s04-dw.rpy:780
+translate russian d10p2s04_dwmc_end_f0e8be13:
+
+    # mesfl "Did she not...?"
+    mesfl "Разве она не..."
+
+# game/code/d10p2/d10p2s04-dw.rpy:783
+translate russian d10p2s04_dwmc_end_fca52711:
+
+    # mc "No."
+    mc "Нет."
+
+# game/code/d10p2/d10p2s04-dw.rpy:786
+translate russian d10p2s04_dwmc_end_33861e56:
+
+    # mesfl "...I'll talk to her about it."
+    mesfl "... Я поговорю с ней об этом."
+
+# game/code/d10p2/d10p2s04-dw.rpy:787
+translate russian d10p2s04_dwmc_end_b3b4643c:
+
+    # mesfl "Here, let me get you out."
+    mesfl "Давай я тебя вытащу."
+
+# game/code/d10p2/d10p2s04-dw.rpy:791
+translate russian d10p2s04_dwmc_end_fa45f281:
+
+    # mc "Thanks..."
+    mc "Спасибо..."
+
+# game/code/d10p2/d10p2s04-dw.rpy:795
+translate russian d10p2s04_dwmc_end_a43cb2f5:
+
+    # mesfl "I'll let you get dressed."
+    mesfl "Я позволю тебе одеться."
+
+# game/code/d10p2/d10p2s04-dw.rpy:803
+translate russian d10p2s04_dwmc_end_3d779447:
+
+    # mesfl "I'll uh, I'll let you get cleaned up a bit."
+    mesfl "Я позволю тебе привести себя в порядок."
+
+# game/code/d10p2/d10p2s04-dw.rpy:805
+translate russian d10p2s04_dwmc_end_4555d42b:
+
+    # mc "Yeah... Thanks."
+    mc "Да... Спасибо."
+
+# game/code/d10p2/d10p2s04-dw.rpy:821
+translate russian d10p2s04_dw_talk_min_outside_5eaf9030:
+
+    # mesfl "Sorry about her."
+    mesfl "Прошу прощения за нее."
+
+# game/code/d10p2/d10p2s04-dw.rpy:823
+translate russian d10p2s04_dw_talk_min_outside_ae31ede1:
+
+    # mc "It's alright."
+    mc "Все в порядке."
+
+# game/code/d10p2/d10p2s04-dw.rpy:825
+translate russian d10p2s04_dw_talk_min_outside_a4b62253:
+
+    # mc "I think I'm gonna check out the other stuff."
+    mc "Думаю, я посмотрю другие комнаты."
+
+# game/code/d10p2/d10p2s04-dw.rpy:828
+translate russian d10p2s04_dw_talk_min_outside_03951412:
+
+    # mesfl "Cool, sure..."
+    mesfl "Да, конечно..."
+
+# game/code/d10p2/d10p2s04-dw.rpy:833
+translate russian d10p2s04_dw_talk_min_outside_5125667f:
+
+    # mct "That kinda sucked."
+    mct "Это отстой."
+
+# game/code/d10p2/d10p2s04-dw.rpy:834
+translate russian d10p2s04_dw_talk_min_outside_6d35dcd0:
+
+    # mct "I hope Mistres— Uh, Dahlia... I hope she isn't too mad."
+    mct "Надеюсь, Госпожа... Далия... Надеюсь, она не слишком злится."
+
+# game/code/d10p2/d10p2s04-dw.rpy:836
+translate russian d10p2s04_dw_talk_min_outside_f37e2aab:
+
+    # mct "Let's see what else I can do tonight."
+    mct "Посмотрим, что еще я смогу сделать этим вечером."
+
+# game/code/d10p2/d10p2s04-dw.rpy:841
+translate russian d10p2s04_dw_talk_min_outside_e7bcb7df:
+
+    # mesfl "Where's my vibrator?"
+    mesfl "Где мой вибратор?"
+
+# game/code/d10p2/d10p2s04-dw.rpy:847
+translate russian d10p2s04_dw_talk_min_outside_af265c15:
+
+    # mesfl "Hey, everything alright?"
+    mesfl "Эй, все в порядке?"
+
+# game/code/d10p2/d10p2s04-dw.rpy:849
+translate russian d10p2s04_dw_talk_min_outside_3bdc40ec:
+
+    # mc "Yeah. I'm fine."
+    mc "Да. Я в порядке."
+
+# game/code/d10p2/d10p2s04-dw.rpy:853
+translate russian d10p2s04_dw_talk_min_outside_899d816b:
+
+    # mesfl "I'm sorry that you didn't have a good time in there."
+    mesfl "Мне жаль, что тебе там не понравилось."
+
+# game/code/d10p2/d10p2s04-dw.rpy:855
+translate russian d10p2s04_dw_talk_min_outside_f211005a:
+
+    # mesfl "I'm sorry that she just left you like that."
+    mesfl "Мне жаль, что она вот так тебя бросила."
+
+# game/code/d10p2/d10p2s04-dw.rpy:858
+translate russian d10p2s04_dw_talk_min_outside_c1d720f1:
+
+    # mc "It's alright. That's not your fault."
+    mc "Ничего страшного. Это не твоя вина."
+
+# game/code/d10p2/d10p2s04-dw.rpy:859
+translate russian d10p2s04_dw_talk_min_outside_fe4ad35a:
+
+    # mc "And... It was still fun."
+    mc "И... Это было весело."
+
+# game/code/d10p2/d10p2s04-dw.rpy:860
+translate russian d10p2s04_dw_talk_min_outside_a4b62253_1:
+
+    # mc "I think I'm gonna check out the other stuff."
+    mc "Думаю, я посмотрю другие комнаты."
+
+# game/code/d10p2/d10p2s04-dw.rpy:863
+translate russian d10p2s04_dw_talk_min_outside_57307fdf:
+
+    # mesfl "Sure, have fun."
+    mesfl "Конечно, развлекайся."
+
+# game/code/d10p2/d10p2s04-dw.rpy:869
+translate russian d10p2s04_dw_talk_min_outside_5125667f_1:
+
+    # mct "That kinda sucked."
+    mct "Это отстой."
+
+# game/code/d10p2/d10p2s04-dw.rpy:870
+translate russian d10p2s04_dw_talk_min_outside_6d35dcd0_1:
+
+    # mct "I hope Mistres— Uh, Dahlia... I hope she isn't too mad."
+    mct "Надеюсь, Госпожа... Далия... Надеюсь, она не слишком злится."
+
+# game/code/d10p2/d10p2s04-dw.rpy:871
+translate russian d10p2s04_dw_talk_min_outside_8d4d54d6:
+
+    # mct "I need to do something else to take my mind off of this."
+    mct "Мне нужно сделать что-нибудь, чтобы отвлечься от этого."
+
+# game/code/d10p2/d10p2s04-dw.rpy:872
+translate russian d10p2s04_dw_talk_min_outside_af265c15_1:
+
+    # mesfl "Hey, everything alright?"
+    mesfl "Эй, все в порядке?"
+
+# game/code/d10p2/d10p2s04-dw.rpy:873
+translate russian d10p2s04_dw_talk_min_outside_3bdc40ec_1:
+
+    # mc "Yeah. I'm fine."
+    mc "Да. Я в порядке."
+
+# game/code/d10p2/d10p2s04-dw.rpy:886
+translate russian d10p2s04_dwmcmin_safeword_10e90435:
+
+    # mesfl "[mcname]! Are you okay!? {w}What's going on here!?"
+    mesfl "[mcname]! Ты в порядке? {w}Что здесь происходит?"
+
+# game/code/d10p2/d10p2s04-dw.rpy:888
+translate russian d10p2s04_dwmcmin_safeword_6a13c3e3:
+
+    # mesfl "[mclogin]? What's going on here!?"
+    mesfl "[mclogin]? Что здесь происходит?"
+
+# game/code/d10p2/d10p2s04-dw.rpy:894
+translate russian d10p2s04_dwmcmin_safeword_c18af217:
+
+    # dw "Now you've done it."
+    dw "Теперь ты это сделал."
+
+# game/code/d10p2/d10p2s04-dw.rpy:897
+translate russian d10p2s04_dwmcmin_safeword_6aebfdbc:
+
+    # mesfl "Stop what you're doing immediately!"
+    mesfl "Немедленно прекрати делать то, что ты делаешь!"
+
+# game/code/d10p2/d10p2s04-dw.rpy:900
+translate russian d10p2s04_dwmcmin_safeword_8de4b36b:
+
+    # dw "I've already stopped."
+    dw "Я уже остановилась."
+
+# game/code/d10p2/d10p2s04-dw.rpy:906
+translate russian d10p2s04_dwmcmin_safeword_1c7e54a2:
+
+    # dw "Well, pet..."
+    dw "Что ж, дорогой..."
+
+# game/code/d10p2/d10p2s04-dw.rpy:908
+translate russian d10p2s04_dwmcmin_safeword_4b2e58bc:
+
+    # dw "If you can't handle even that, I don't have any reason to be here."
+    dw "Если ты не можешь справиться даже с этим, то у меня нет никаких причин оставаться здесь."
+
+# game/code/d10p2/d10p2s04-dw.rpy:914
+translate russian d10p2s04_dwmcmin_safeword_20f1b09a:
+
+    # mesfl "Here, let me get you out of there."
+    mesfl "Давай я тебя оттуда вытащу."
+
+# game/code/d10p2/d10p2s04-dw.rpy:917
+translate russian d10p2s04_dwmcmin_safeword_fa45f281:
+
+    # mc "Thanks..."
+    mc "Спасибо..."
+
+# game/code/d10p2/d10p2s04-dw.rpy:918
+translate russian d10p2s04_dwmcmin_safeword_a43cb2f5:
+
+    # mesfl "I'll let you get dressed."
+    mesfl "Я позволю тебе одеться."
+
+translate russian strings:
+
+    # game/code/d10p2/d10p2s04-dw.rpy:157
+    old "Abort mission!"
+    new "Прервать миссию!"
+
+    # game/code/d10p2/d10p2s04-dw.rpy:157
+    old "Stay and see what happens"
+    new "Остаться и посмотреть что будет"
+
+    # game/code/d10p2/d10p2s04-dw.rpy:321
+    old "Let go; get hard"
+    new "Расслабится; возбудится"
+
+    # game/code/d10p2/d10p2s04-dw.rpy:321
+    old "Control yourself; don't"
+    new "Контролируй себя; не возбуждайся"
+
+    # game/code/d10p2/d10p2s04-dw.rpy:454
+    old "Try to take it all in"
+    new "Попытайтесь принять все это"
+
+    # game/code/d10p2/d10p2s04-dw.rpy:454
+    old "Give up"
+    new "Сдаться"
+
+    # game/code/d10p2/d10p2s04-dw.rpy:591
+    old "Use your safe word!"
+    new "Используй свое стоп-слово!"
+
+    # game/code/d10p2/d10p2s04-dw.rpy:662
+    old "Hold strong"
+    new "Держись крепче"
+
+    # game/code/d10p2/d10p2s04-dw.rpy:691
+    old "Cum harder"
+    new "Кончай сильнее"
+
+    # game/code/d10p2/d10p2s04-dw.rpy:691
+    old "Hold stronger"
+    new "Держись дальше"
