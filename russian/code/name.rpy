@@ -21,6 +21,9 @@ translate russian strings:
     old "Anthony"
     new "Энтони"
 
+    old "Antony"
+    new "Энтони"
+
     old "Kevin"
     new "Кевин"
 
@@ -96,8 +99,44 @@ translate russian strings:
     old "QueenB"
     new "Королева-Б"
 
+    old "ErikaRed"
+    new "ЭрикаРед"
+
+    old "SuperNova"
+    new "СуперНова"
+
+    old "SexyMinx"
+    new "СексиШалунья"
+
+    old "Iona"
+    new "Иона"
+
+    old "Oliver"
+    new "Оливер"
+
+    old "John"
+    new "Джон"
+
     old "Mr.D1cky"
     new "Мистер Дик"
+
+    old "Judge"
+    new "Судья"
+
+    old "Woman"
+    new "Женщина"
+
+    old "Receptionist"
+    new "Медсестра"
+
+    old "Doctor"
+    new "Доктор"
+
+    old "Everybody"
+    new "Все"
+
+    old "Both"
+    new "Вместе"
 
     old "URLittlePony"
     new "ТвояМаленькаяПони"
@@ -117,8 +156,14 @@ translate russian strings:
     old "Amber-Rose"
     new "Амбер-Роуз"
 
+    old "Jerome"
+    new "Джером"
+
     old "Mr. Melville"
     new "мистер Мелвилл"
+
+    old "Mysterious Woman"
+    new "Таинственная девушка"
 
     old "Store Manager"
     new "Менеджер магазина"
@@ -134,6 +179,9 @@ translate russian strings:
 
     old "Barista"
     new "Бариста"
+
+    old "Waitress"
+    new "Официантка"
 
     old "Voice"
     new "Голос"
