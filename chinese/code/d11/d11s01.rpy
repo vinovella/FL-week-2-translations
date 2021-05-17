@@ -454,7 +454,7 @@ translate chinese d11s01_d9909d16:
 translate chinese d11s01_7183937e:
 
     # arj "What the hell! Didn't you read? You need to fuck me!"
-    arj 什么鬼！你没看消息吗？你需要上我啊！"
+    arj "什么鬼！你没看消息吗？你需要上我啊！"
 
 # game/code/d11/d11s01.rpy:196
 translate chinese d11s01_c892ab9e:
@@ -533,4 +533,3 @@ translate chinese d11s01_536d88bc:
 
     # mc "Mmm. Coffee."
     mc "嗯。咖啡啊。"
-
