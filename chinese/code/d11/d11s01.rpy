@@ -16,19 +16,19 @@ translate chinese d11s01_b30f8aa4:
 translate chinese d11s01_d8f5b8f4:
 
     # mct "I'm in AmRose's bedroom. In the silence I hear only my own breathing. She must have already woken up and started the day."
-    mct "我是在爱洛丝的卧室里。周围一片寂静，我只听到自己的呼吸。她一定已经起床，开始新的一天了。"
+    mct "我是在爱洛丝的卧室里。周围一片寂静，我只听到自己的呼吸。她一定已经起床、开始新的一天了。"
 
 # game/code/d11/d11s01.rpy:19
 translate chinese d11s01_13624a50:
 
     # mct "My eyelids tell me it is early morning, but somehow I can feel the sunlight coming in through the window."
-    mct "我的眼皮告诉我现在是凌晨，但不知怎的，我可以感觉到阳光从窗口射进来。"
+    mct "眼皮告诉我现在是凌晨，但不知怎的，我可以感觉到阳光从窗口照进来。"
 
 # game/code/d11/d11s01.rpy:21
 translate chinese d11s01_3a81dc13:
 
     # mct "I want to fall back to sleep, but an imaginary alarm clock starts playing \"I've got you, babe\"."
-    mct "我想继续睡觉，但脑海中有个闹钟开始播放 你有我在，宝贝。"
+    mct "我想继续睡觉，但脑海中有个闹钟开始播放\"你有我在，宝贝\" 。"
 
 # game/code/d11/d11s01.rpy:23
 translate chinese d11s01_8a5bb9c3:
@@ -52,7 +52,7 @@ translate chinese d11s01_e7241c39:
 translate chinese d11s01_6bbe6b54:
 
     # mct "Unsurprisingly, there's a new mention from Fetish Locator's Retention Program."
-    mct "不出所料，性趣探测器留存计划又提到了一个新内容。"
+    mct "不出所料，性趣探测器留存计划又有新消息了。"
 
 # game/code/d11/d11s01.rpy:29
 translate chinese d11s01_292de9d2:
@@ -100,7 +100,7 @@ translate chinese d11s01_87c9cde7:
 translate chinese d11s01_b3c267cc:
 
     # flr "It will be a useful way to monitor your interactions as you attempt to complete this week's remaining challenge."
-    flr "在你试图完成本周剩余的挑战时，这将是监测你们互动的一个有效方式。"
+    flr "在你努力完成本周剩余的挑战时，这将是监测你们互动的一个有效方式。"
 
 # game/code/d11/d11s01.rpy:40
 translate chinese d11s01_45a490d4:
@@ -130,7 +130,7 @@ translate chinese d11s01_628bf4a3:
 translate chinese d11s01_8958d0fb:
 
     # mct "No no no no no no no."
-    mct "不不不不不。"
+    mct "不不不不不行。"
 
 # game/code/d11/d11s01.rpy:49
 translate chinese d11s01_c7478b7d:
@@ -166,7 +166,7 @@ translate chinese d11s01_b4624e6c:
 translate chinese d11s01_b8cea681:
 
     # mct "It's do this or I'll fucking expose you. Wasn't that motivation enough?"
-    mct "要么就做，要么我就他妈的揭发你。这个动机还不够吗？"
+    mct "要么就老实照办，要么我就他妈的曝光你。这个动机还不够吗？"
 
 # game/code/d11/d11s01.rpy:56
 translate chinese d11s01_dc0a7905:
@@ -280,7 +280,7 @@ translate chinese d11s01_64de1bfd:
 translate chinese d11s01_28fc6daf:
 
     # mct "But damn! A week ago it would've been impossible for me get 10 women! And now I'm having a hard time to count them!"
-    mct "不过我了个去! 一周前我还根本不可能钓到10个女人!而现在我都数不过来了!"
+    mct "不过我了个去！一周前我还根本不可能钓到10个女人！而现在我都数不过来了！"
 
 # game/code/d11/d11s01.rpy:127
 translate chinese d11s01_a29d3856:
@@ -322,13 +322,13 @@ translate chinese d11s01_ce9e8903:
 translate chinese d11s01_61e60cda:
 
     # arj "Oh, [mcname]! I was just about to wake you for breakfast!"
-    arj "Oh, [mcname]哦，[姓名]！我正准备叫醒你吃早餐呢！"
+    arj "哦，[mcname]！我正准备叫醒你吃早餐呢！"
 
 # game/code/d11/d11s01.rpy:145
 translate chinese d11s01_26f63d21:
 
     # mct "She looks way too happy this morning. It's... {w}unsettling."
-    mct "她今天早上看起来是出奇的高兴啊。真是……有点不安。{w}unsettling."
+    mct "她今天早上看起来是出奇的高兴啊。真是……{w}有点不安。"
 
 # game/code/d11/d11s01.rpy:147
 translate chinese d11s01_8bac87f1:
@@ -352,7 +352,7 @@ translate chinese d11s01_6a10466d:
 translate chinese d11s01_3a3ccdfb:
 
     # mc "Why???"
-    mc "为什么？??"
+    mc "为什么???"
 
 # game/code/d11/d11s01.rpy:155
 translate chinese d11s01_9fa7ca11:
@@ -418,13 +418,13 @@ translate chinese d11s01_f88846ef:
 translate chinese d11s01_92ad8109:
 
     # fl "If you fail to accomplish this you will be punished with your cock taken away."
-    fl "果你没能完成此任务，你将受到惩罚，你的老二将不复存在。"
+    fl "如果你没能完成此任务，你将受到惩罚，你的老二将不复存在。"
 
 # game/code/d11/d11s01.rpy:186
 translate chinese d11s01_9f9c26f3:
 
     # arj "What the fuck?? How is that??"
-    arj "搞什么？？这是怎么回事？?"
+    arj "搞什么？？这是怎么回事？"
 
 # game/code/d11/d11s01.rpy:188
 translate chinese d11s01_771be156:
@@ -448,13 +448,13 @@ translate chinese d11s01_b6115818:
 translate chinese d11s01_d9909d16:
 
     # mc "Are you saying that's a better way to start the day than coffee?"
-    mc "你是说这是一个比咖啡更好的开始一天的方法吗？"
+    mc "这就是你说的比咖啡更好的、开始一天的方法吗？"
 
 # game/code/d11/d11s01.rpy:195
 translate chinese d11s01_7183937e:
 
     # arj "What the hell! Didn't you read? You need to fuck me!"
-    arj 什么鬼！？你没看消息吗？你需要上我啊！"
+    arj 什么鬼！你没看消息吗？你需要上我啊！"
 
 # game/code/d11/d11s01.rpy:196
 translate chinese d11s01_c892ab9e:
@@ -466,7 +466,7 @@ translate chinese d11s01_c892ab9e:
 translate chinese d11s01_5ba2b867:
 
     # arj "Please! I want to be your number one!"
-    arj "求你了！ 我想做你的头牌！"
+    arj "求你了！我想做你的头牌！"
 
 # game/code/d11/d11s01.rpy:199
 translate chinese d11s01_125681c2:
@@ -484,7 +484,7 @@ translate chinese d11s01_0c55d991:
 translate chinese d11s01_bb9cc54d:
 
     # mc "It isn't about... {w}It's 20 different people! And 4 fucking days!"
-    mc "不是这样……{w}是要20个不同的人！ 在他妈的4天之内！"
+    mc "不是这样……{w}是要20个不同的人！还要在他妈的4天之内！"
 
 # game/code/d11/d11s01.rpy:203
 translate chinese d11s01_0efdab50:
