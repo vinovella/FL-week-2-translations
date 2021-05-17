@@ -40,7 +40,7 @@ translate chinese d11s02_351d3e61:
 translate chinese d11s02_5923cb9c:
 
     # mct "Weird. No Min today? She's always the first one here. Eager to learn, or just to show off how much she knows."
-    mct "很奇怪。今天明没来？她总是第一个到的呀。不管是真的渴望学习，还是只是为了炫耀自己的知识。"
+    mct "很奇怪。今天明没来？她总是第一个到的呀。不管她是真的渴望学习，还是只是为了炫耀自己的知识。"
 
 # game/code/d11/d11s02.rpy:42
 translate chinese d11s02_170c8c70:
@@ -76,13 +76,13 @@ translate chinese d11s02_170c8c70_1:
 translate chinese d11s02_21ef555e:
 
     # mc "Hey Kev - how's my bro from another mo'?"
-    mc "嘿，凯文，我的兄弟怎么样了？"
+    mc "嘿，凯文，我的兄弟怎么样啊？"
 
 # game/code/d11/d11s02.rpy:56
 translate chinese d11s02_136be5a9:
 
     # kb "[mcname], you sly dog. I'm surprised you can even move after yesterday!"
-    kb "[mcname]，你这个滑头。我很惊讶你居然能在昨天之后还能动弹！"
+    kb "[mcname]，你这个滑头。想不到你居然在昨天之后还能动弹！"
 
 # game/code/d11/d11s02.rpy:57
 translate chinese d11s02_35ab8f09:
@@ -94,7 +94,7 @@ translate chinese d11s02_35ab8f09:
 translate chinese d11s02_baca4730:
 
     # kb "Seemed like you were drowning in pussy. Viagra has side effects, ya'know?"
-    kb "感觉你被小穴  淹没了。伟哥有副作用，你知道吗？"
+    kb "感觉昨天你都被小穴淹没了。伟哥有副作用，你知道吗？"
 
 # game/code/d11/d11s02.rpy:60
 translate chinese d11s02_b4a6fabe:
@@ -136,7 +136,7 @@ translate chinese d11s02_bb54adc5:
 translate chinese d11s02_cc438063:
 
     # kb "Chloe, of course. She wants to see you again sometime."
-    kb "当然是 克洛伊了。她想找个时间再见见你。
+    kb "当然还有克洛伊了。她想找个时间再见见你。"
 
 # game/code/d11/d11s02.rpy:72
 translate chinese d11s02_df2f2f6c:
@@ -160,7 +160,7 @@ translate chinese d11s02_ac2d29b7:
 translate chinese d11s02_8ef41c97:
 
     # kb "Then I saw your performance, and damn{w} - you are a Sex God, you know that?"
-    kb "然后我就看了你的表演--你他妈是个性爱之神吧？{w} - you are a Sex God, you know that?"
+    kb "然后我就看了你的表演{w}--你他妈怕不是个性爱之神吧？"
 
 # game/code/d11/d11s02.rpy:79
 translate chinese d11s02_e0544c1b:
@@ -172,13 +172,13 @@ translate chinese d11s02_e0544c1b:
 translate chinese d11s02_f7c7e624:
 
     # kb "Huh? {w}Oh, hey [mcname]."
-    kb "嗯？{w}哦，嘿[mcname]."
+    kb "嗯？{w}哦，嘿[mcname]。"
 
 # game/code/d11/d11s02.rpy:83
 translate chinese d11s02_f2231fa9:
 
     # mc "What's up with you? Did someone piss in your breakfast cereal?"
-    mc "你怎么了？有人在你早餐麦片里撒尿了吗？?"
+    mc "你怎么了？有人在你早餐麦片里撒尿了吗？"
 
 # game/code/d11/d11s02.rpy:86
 translate chinese d11s02_d070332d:
@@ -202,13 +202,13 @@ translate chinese d11s02_0f09f092:
 translate chinese d11s02_4cf36f49:
 
     # kb "Praying to the porcelain goddess. I think I drank too much."
-    kb "才没，我向天发誓。我想是喝得太多了。"
+    kb "才没，我向天发誓。大概昨天喝得太多了。"
 
 # game/code/d11/d11s02.rpy:91
 translate chinese d11s02_d75af604:
 
     # mc "Ouch. Sorry, dude."
-    mc "哎哟。对不起了，伙计。
+    mc "哎哟。对不起了，伙计。"
 
 # game/code/d11/d11s02.rpy:93
 translate chinese d11s02_a86ca51f:
@@ -226,7 +226,7 @@ translate chinese d11s02_c17ef8ec:
 translate chinese d11s02_60ca8c66:
 
     # kb "You sexed everything last night. How are you not sleeping right now?"
-    kb "你昨晚把能上的都给上了个遍。你现在怎么不睡觉？"
+    kb "你昨晚把能上的都给上了个遍。你现在怎么不困？"
 
 # game/code/d11/d11s02.rpy:97
 translate chinese d11s02_505d612b:
@@ -250,7 +250,7 @@ translate chinese d11s02_7e02bf55:
 translate chinese d11s02_62bb9945:
 
     # fl "Come one, come all"
-    fl "来一个，全都来"
+    fl "来一个，个个来"
 
 # game/code/d11/d11s02.rpy:107
 translate chinese d11s02_d04bbb39:
@@ -274,7 +274,7 @@ translate chinese d11s02_0b99ec8a:
 translate chinese d11s02_e65f7a46:
 
     # fl "Fetish of the Day - Cum garnish."
-    fl "今日性趣--精液装饰"
+    fl "今日性趣--精液配菜"
 
 # game/code/d11/d11s02.rpy:112
 translate chinese d11s02_a022017a:
@@ -310,7 +310,7 @@ translate chinese d11s02_e1a76e20:
 translate chinese d11s02_6a81eda9:
 
     # mc "I guess there's some truth to that."
-    mc "有一定的道理。"
+    mc "有一定道理。"
 
 # game/code/d11/d11s02.rpy:149
 translate chinese d11s02_3acaaa52:
@@ -340,19 +340,19 @@ translate chinese d11s02_a7992be4:
 translate chinese d11s02_c0029e2c:
 
     # mct "Not on a chip, not in a dip."
-    mct "不是在薯片上，也不是在浸泡中。"
+    mct "不是在薯片上，也不是在蘸酱中。"
 
 # game/code/d11/d11s02.rpy:158
 translate chinese d11s02_d992ef21:
 
     # mct "I don't even like \"Limp Bizkit\"."
-    mct "我都不喜欢软饼干乐队\"Limp Bizkit\"."
+    mct "我都不怎么喜欢\"软饼干乐队\"。"
 
 # game/code/d11/d11s02.rpy:161
 translate chinese d11s02_dcfa8045:
 
     # kb "Strong enough for a man, but made for a woman."
-    kb "对男人来说足够强壮，但对女人来说却很适合。"
+    kb "对男人来说足够强，但对女人而言却足够。"
 
 # game/code/d11/d11s02.rpy:162
 translate chinese d11s02_05500ff6:
@@ -364,7 +364,7 @@ translate chinese d11s02_05500ff6:
 translate chinese d11s02_9ee15366:
 
     # kb "Just something in the air. Took me a while to place the scent."
-    kb "没，只是空气中有点东西。我花了点时间才找到这个气味。"
+    kb "没，我在说空气。我花了点时间才找到这个气味。"
 
 # game/code/d11/d11s02.rpy:165
 translate chinese d11s02_b8de06d3:
@@ -382,7 +382,7 @@ translate chinese d11s02_32b32dd3:
 translate chinese d11s02_be341467:
 
     # kb "Why are you wearing that, by the way?"
-    kb "顺便问一下，你为什么这么过来的？"
+    kb "顺便问一下，你为什么这样子过来的？"
 
 # game/code/d11/d11s02.rpy:170
 translate chinese d11s02_f2ca3c0c:
@@ -394,7 +394,7 @@ translate chinese d11s02_f2ca3c0c:
 translate chinese d11s02_1aca5ac4:
 
     # kb "Not that. The tracker."
-    kb "我不是说那个。追踪器。"
+    kb "不是说那个。追踪器。"
 
 # game/code/d11/d11s02.rpy:173
 translate chinese d11s02_f6412ed2:
@@ -430,13 +430,13 @@ translate chinese d11s02_2659894c:
 translate chinese d11s02_75b51a8b:
 
     # mc "Yeah? I'll keep that in mind."
-    mc "对吗？我会牢牢记住的。"
+    mc "对吗？我会牢记在心的。"
 
 # game/code/d11/d11s02.rpy:185
 translate chinese d11s02_ce7c76c0:
 
     # kb "If the three of us get together today, we could knock out today's challenge-"
-    kb "如果我们三个人今天聚在一起，我们就能拿下今天的挑战-"
+    kb "如果我们三个人今天聚在一起，就铁定能拿下今天的挑战-"
 
 # game/code/d11/d11s02.rpy:187
 translate chinese d11s02_f6abffb8:
@@ -664,13 +664,13 @@ translate chinese d11s02_964e3083:
 translate chinese d11s02_d566cad7:
 
     # mes "I was thinking, maybe Squizzle and [mclogin] could do lunch."
-    mes "我在想，也许斯奎兹和[login]可以一起吃午饭。[mclogin] could do lunch."
+    mes "我在想，也许斯奎兹和[mclogin]可以一起吃个午饭。"
 
 # game/code/d11/d11s02.rpy:256
 translate chinese d11s02_1ee9688c:
 
     # mes "Maybe they could find a way to accomplish today's challenge while they're at it."
-    mes "也许俩人能找到一种方法来完成今天的挑战。"
+    mes "也许俩人能想出什么法子法来完成今天的挑战。"
 
 # game/code/d11/d11s02.rpy:257
 translate chinese d11s02_00bd6751:
@@ -688,7 +688,7 @@ translate chinese d11s02_8b6a037c:
 translate chinese d11s02_5ec5de8e:
 
     # mc "That's a shame. I was hoping to spend some time with Min."
-    mc "那真是太可惜了。我希望能和明一起度过一些时间。"
+    mc "那真是太可惜了。我希望花点时间和明在一起。"
 
 # game/code/d11/d11s02.rpy:261
 translate chinese d11s02_02f0e7bc:
@@ -754,13 +754,13 @@ translate chinese d11s02_3812ec01:
 translate chinese d11s02_6583f6b1:
 
     # mesfl "It's a very special something attached to a very special someone."
-    mesfl "是件非常特别的东西，属于一个非常特别的人。"
+    mesfl "是件很特别的东西，属于一个相当特别的人。"
 
 # game/code/d11/d11s02.rpy:277
 translate chinese d11s02_01081e86:
 
     # mc "Stop. Tomato Juice. [mc_safeword]. Halt."
-    mc "停。番茄汁。[_safeword]. 停。[mc_safeword]. Halt."
+    mc "停。番茄汁。[mc_safeword]。停。"
 
 # game/code/d11/d11s02.rpy:279
 translate chinese d11s02_05977308:
@@ -784,7 +784,7 @@ translate chinese d11s02_616980be:
 translate chinese d11s02_0f8415c3:
 
     # mes "Do you think I'm playing around? Antony and I broke up last night."
-    mes "你认为我是在玩吗？安东尼和我昨晚分手了。"
+    mes "你以为我是在玩吗？安东尼和我昨晚分手了。"
 
 # game/code/d11/d11s02.rpy:284
 translate chinese d11s02_f709eb9e:
@@ -796,7 +796,7 @@ translate chinese d11s02_f709eb9e:
 translate chinese d11s02_dc53d513:
 
     # mes "Now you're rejecting me too? This isn't good for my self image."
-    mes "现在你也在拒绝我？这对我的自我形象很不好。
+    mes "现在你也在拒绝我？这对我的自我形象很不好。"
 
 # game/code/d11/d11s02.rpy:287
 translate chinese d11s02_cfa57957:
@@ -850,7 +850,7 @@ translate chinese d11s02_b8824d4a:
 translate chinese d11s02_6645dfc0:
 
     # mes "I'm sorry, okay? I didn't..."
-    mes "我很抱歉，好吗？我没有……"
+    mes "我跟你道歉，行吗？我没有……"
 
 # game/code/d11/d11s02.rpy:303
 translate chinese d11s02_245a526e:
@@ -874,7 +874,7 @@ translate chinese d11s02_3c17d39a:
 translate chinese d11s02_f05ced4f:
 
     # mes "It seemed like such a good... {w}such a pleasant fiction."
-    mes "感觉像部很好……{w}很愉快的小说。"
+    mes "感觉像部很完美……{w}很愉快的小说。"
 
 # game/code/d11/d11s02.rpy:309
 translate chinese d11s02_24bfca1b:
@@ -898,7 +898,7 @@ translate chinese d11s02_6912186a:
 translate chinese d11s02_b2d49175:
 
     # mc "I don't need to hear anything. Just whatever you need to unburden yourself by telling someone else."
-    mc "我什么也不需要知道。只是你需要告诉别人什么，才能减轻你自己的负担。"
+    mc "我什么也不需要知道。只是你想想需要告诉别人什么，才能减轻你自己的负担。"
 
 # game/code/d11/d11s02.rpy:315
 translate chinese d11s02_17b4c5f0:
@@ -910,7 +910,7 @@ translate chinese d11s02_17b4c5f0:
 translate chinese d11s02_6cd8888a:
 
     # mc "Like... {w}Why did you need Squizzle?"
-    mc "比如说呢……{w}你为什么需要斯奎兹？{w}Why did you need Squizzle?"
+    mc "比如说……{w}你为什么需要斯奎兹？"
 
 # game/code/d11/d11s02.rpy:318
 translate chinese d11s02_1e1d10ae:
@@ -928,7 +928,7 @@ translate chinese d11s02_13d8872b:
 translate chinese d11s02_300e47b4:
 
     # mes "This Fetish Locator thing seemed like such a good opportunity."
-    mes "T这个 "性趣追踪器 "好像是个好机会。"
+    mes "这个性趣追踪器好像是个好机会。"
 
 # game/code/d11/d11s02.rpy:322
 translate chinese d11s02_a86d1ae7:
@@ -946,7 +946,7 @@ translate chinese d11s02_f810a0b4:
 translate chinese d11s02_50b652c8:
 
     # mes "I wouldn't call it my nature. I'm competitive, sure, but that's just part of being the best."
-    mes "我不会说这是我的天性。我是好胜，但这只是我想成为最好的一部分。"
+    mes "我不会说这是我的天性。我是好胜，但我不止想在这一点上成为最好的。"
 
 # game/code/d11/d11s02.rpy:326
 translate chinese d11s02_faf615d0:
@@ -970,7 +970,7 @@ translate chinese d11s02_b17858ba:
 translate chinese d11s02_ac2b6558:
 
     # mes "I... {w}How else should I be?"
-    mes "I……{w}否则我应该怎样？I... {w}How else should I be?"
+    mes "我……{w}否则我应该怎样？"
 
 # game/code/d11/d11s02.rpy:332
 translate chinese d11s02_7fbb97ce:
@@ -988,7 +988,7 @@ translate chinese d11s02_4dbcae06:
 translate chinese d11s02_16cf9a8a:
 
     # mc "No, I haven't. Tell me about them."
-    mc "是，我没见过。跟我说说。"
+    mc "我是没见过。跟我说说吧。"
 
 # game/code/d11/d11s02.rpy:336
 translate chinese d11s02_685bcc2e:
@@ -1000,13 +1000,13 @@ translate chinese d11s02_685bcc2e:
 translate chinese d11s02_1521dae2:
 
     # mes "My father... {w}well, he's the best there is at everything he does."
-    mes "我爸爸……他做什么都是最好的。{w}well, he's the best there is at everything he does."
+    mes "我爸爸……{w}他做什么都是最好的。"
 
 # game/code/d11/d11s02.rpy:339
 translate chinese d11s02_dcdac24d:
 
     # mc "I doubt it."
-    mc "我很怀疑。"
+    mc "我对这点表示怀疑。"
 
 # game/code/d11/d11s02.rpy:341
 translate chinese d11s02_55ed42cd:
@@ -1024,7 +1024,7 @@ translate chinese d11s02_e955763d:
 translate chinese d11s02_6db0455f:
 
     # mes "I don't think there's a word for it. {w}Godlike?"
-    mes "我认为没有合适的词可以形容。{w}神一样？{w}Godlike?"
+    mes "我认为没有合适的词可以形容。{w}神一样？"
 
 # game/code/d11/d11s02.rpy:345
 translate chinese d11s02_2779853b:
@@ -1048,7 +1048,7 @@ translate chinese d11s02_982841a7:
 translate chinese d11s02_7c79f046:
 
     # mes "Antony. Last night..."
-    mes "安东尼啊。昨天晚上……"
+    mes "因为安东尼。昨天晚上……"
 
 # game/code/d11/d11s02.rpy:351
 translate chinese d11s02_4e6ac679:
@@ -1060,7 +1060,7 @@ translate chinese d11s02_4e6ac679:
 translate chinese d11s02_82358055:
 
     # mes "He broke up with me in a text message. You believe that? I can't believe I ever saw anything in such a weak person."
-    mes "他在短信里跟我提分手。你相信吗？我都不敢相信我曾在这样一个软弱的人身上看到过什么。"
+    mes "他在短信里跟我提分手。你相信吗？我都不敢相信我曾在这样一个软弱的人身上看到过闪光点。"
 
 # game/code/d11/d11s02.rpy:354
 translate chinese d11s02_dd16e008:
@@ -1072,19 +1072,19 @@ translate chinese d11s02_dd16e008:
 translate chinese d11s02_8579ef0c:
 
     # mes "Well, yeah. It's what I deserve. {w}He was a weak piece of shit who kept cheating on me and finally ended hiding behind a phone without even using his voice."
-    mes "是啊。这是我应得的。{w}他就是个软弱的混蛋，一直欺骗我，最后竟然躲在手机后面，连出声都不敢。Well, yeah. It's what I deserve. {w}He was a weak piece of shit who kept cheating on me and finally ended hiding behind a phone without even using his voice."
+    mes "是啊。这是我应得的。{w}他就是个软弱的混蛋，一直欺骗我，最后竟然躲在手机后面，连出声都不敢。"
 
 # game/code/d11/d11s02.rpy:357
 translate chinese d11s02_9ece899b:
 
     # mes "And yet... {w}I thought I was in love with him."
-    mes "然而……{w}我以为我爱上了他。"
+    mes "然而……{w}我以为我自己爱上了他。"
 
 # game/code/d11/d11s02.rpy:359
 translate chinese d11s02_a9047516:
 
     # mes "What does that say about me? That I could be such a poor judge of character and settle for such a cheap pile of crap?"
-    mes "这说明了什么？我看人居然如此差劲，就满足于这样个骨子里全是垃圾的废物？"
+    mes "这说明了什么？我看人居然如此差劲，就满足于这样一个骨子里全是垃圾的废物？"
 
 # game/code/d11/d11s02.rpy:360
 translate chinese d11s02_a4d1d345:
@@ -1096,7 +1096,7 @@ translate chinese d11s02_a4d1d345:
 translate chinese d11s02_397dc51d:
 
     # mes "Look, [mclogin],{w} I need to know."
-    mes "听着，[mclogin],{w} 我需要知道"
+    mes "听着，[mclogin]，{w} 我需要知道。"
 
 # game/code/d11/d11s02.rpy:364
 translate chinese d11s02_8816ea93:
@@ -1120,7 +1120,7 @@ translate chinese d11s02_fc896afd:
 translate chinese d11s02_10dbf233:
 
     # mes "But...?"
-    mes "但是……"
+    mes "但是……？"
 
 # game/code/d11/d11s02.rpy:375
 translate chinese d11s02_f0d8da4a:
@@ -1168,7 +1168,7 @@ translate chinese d11s02_90f2c4a0:
 translate chinese d11s02_04de3111:
 
     # mc "I don't just want something casual with Squizzle, but I can't really do something serious with Min."
-    mc "我不想和斯奎兹随便玩玩，但我不能和明认真玩玩。"
+    mc "我不想和斯奎兹随便玩玩，但也不能和明认真。"
 
 # game/code/d11/d11s02.rpy:395
 translate chinese d11s02_fb3ba701:
@@ -1186,7 +1186,7 @@ translate chinese d11s02_2c1078db:
 translate chinese d11s02_97d9537e:
 
     # mc "Well, he's hurting like that now. Maybe he didn't realize how important you are to him before."
-    mc "呃，他现在也是这样在伤害你。也许他以前是没意识到你对他有多重要。"
+    mc "呃，虽说他现在也是这样在伤害你。也许他以前是没意识到你对他有多重要。"
 
 # game/code/d11/d11s02.rpy:399
 translate chinese d11s02_3a758626:
@@ -1210,13 +1210,13 @@ translate chinese d11s02_57300e30:
 translate chinese d11s02_8293b49a:
 
     # mc "Look, I'm going to give you some time to think about things."
-    mc "听着，我要给你一些时间想想。"
+    mc "听着，我要给你一点时间好好想想。"
 
 # game/code/d11/d11s02.rpy:408
 translate chinese d11s02_9ca4e96f:
 
     # mes "Yeah, that's probably for the best right now."
-    mes "Y是的，这可能是现在最好的办法。"
+    mes "嗯嗯，这可能是现在最好的办法。"
 
 # game/code/d11/d11s02.rpy:409
 translate chinese d11s02_63b12483:
@@ -1234,12 +1234,13 @@ translate chinese d11s02_556a4fc4:
 translate chinese d11s02_905e85d0:
 
     # mc "See ya' around, Min"
-    mc "再见，明".
+    mc "回头见，明。"
+    
 # game/code/d11/d11s02.rpy:416
 translate chinese d11s02_22a1bd36:
 
     # mes "See you, [mcname]."
-    mes "再见，[mcname]."
+    mes "再见，[mcname]。"
 
 # game/code/d11/d11s02.rpy:418
 translate chinese d11s02_ae4bb4cd:
@@ -1275,7 +1276,7 @@ translate chinese d11s02_548dc3b2:
 translate chinese d11s02_84e0bfe9:
 
     # kb "See you later [mcname]."
-    kb "回头见，[mcname]."
+    kb "回头见，[mcname]。"
 
 # game/code/d11/d11s02.rpy:446
 translate chinese d11s02_19e17456:
@@ -1293,7 +1294,7 @@ translate chinese d11s02_8ffa8ae1:
 translate chinese d11s02_a77e9b17:
 
     # tr "What took you so long?"
-    tr "你怎么花了这么长时间？"
+    tr "你怎么这么长时间？"
 
 # game/code/d11/d11s02.rpy:452
 translate chinese d11s02_b2b9e19d:
@@ -1323,13 +1324,13 @@ translate chinese d11s02_00d5a7a4:
 translate chinese d11s02_209000ac:
 
     # tr "Gotcha. {w}You already finish the fetish-of-the-day, then?"
-    tr "明白了。{w}那你是已经完成了今日性趣了？{w}You already finish the fetish-of-the-day, then?"
+    tr "明白了。{w}那你是已经完成了今日性趣了？"
 
 # game/code/d11/d11s02.rpy:459
 translate chinese d11s02_389f9e77:
 
     # mc "Ha!{w} Nothing like that."
-    mc "哈！{w} 才没有。{w} Nothing like that."
+    mc "哈！{w} 才没有。"
 
 # game/code/d11/d11s02.rpy:461
 translate chinese d11s02_5b7aaafb:
@@ -1353,7 +1354,7 @@ translate chinese d11s02_08520540:
 translate chinese d11s02_139dbcdc:
 
     # tr "Thanks."
-    tr "谢了。."
+    tr "谢了。"
 
 # game/code/d11/d11s02.rpy:467
 translate chinese d11s02_cb70afb1:
@@ -1371,43 +1372,43 @@ translate chinese d11s02_951e2246:
 translate chinese d11s02_27d6a438:
 
     # mc "Huh? Oh, Maria. {w}No, sorry dude. It completely slipped my mind."
-    mc "嗯？哦，玛丽亚啊。{w}没谈，对不起啊，伙计。我完全忘了。{w}No, sorry dude. It completely slipped my mind."
+    mc "嗯？哦，玛丽亚啊。{w}没谈，对不起啊，伙计。我完全忘了。"
 
 # game/code/d11/d11s02.rpy:473
 translate chinese d11s02_889acdb5:
 
     # tr "I can understand that. You had your hands full last night."
-    tr "我可以理解。昨天晚上你的手很忙嘛。"
+    tr "我能理解。昨天晚上你的手很忙嘛。"
 
 # game/code/d11/d11s02.rpy:474
 translate chinese d11s02_48fb43e9:
 
     # mc "You know what they say, \"More than a handful is a waste.\""
-    mc "你知道他们怎么说，"超过一把就是浪费"。 \"More than a handful is a waste.\""
+    mc "你知道他们怎么说， \"超过一把就是浪费。\""
 
 # game/code/d11/d11s02.rpy:475
 translate chinese d11s02_6e7c2b13:
 
     # tr "Ha! {w}I wouldn't mind getting my hands around Maria's waist."
-    tr "哈 ！我不介意把我的手放在玛丽亚腰上。{w}I wouldn't mind getting my hands around Maria's waist."
+    tr "哈！{w}我不介意把我的手放在玛丽亚腰上。"
 
 # game/code/d11/d11s02.rpy:477
 translate chinese d11s02_32b8021a:
 
     # tr "So, did you think about it at least? Will you talk to her?"
-    tr "所以，你至少考虑过这件事吗？你能和她谈谈吗？"
+    tr "所以，你有考虑过这件事吗？你能和她谈谈吗？"
 
 # game/code/d11/d11s02.rpy:478
 translate chinese d11s02_fccc4876:
 
     # mct "Huh. I don't know Terrell that well."
-    mct "啊。 我跟特雷尔不是很熟。"
+    mct "啊。我跟特雷尔不是很熟。"
 
 # game/code/d11/d11s02.rpy:479
 translate chinese d11s02_574f07ba:
 
     # mct "I can't tell if he's a cool guy who's nerding out over Maria..."
-    mct "我不知道他人是否不错，只是在为玛丽亚相思成疾……"
+    mct "我不知道他是人还不错，只是在为玛丽亚相思成疾……"
 
 # game/code/d11/d11s02.rpy:480
 translate chinese d11s02_1e6093a9:
@@ -1425,19 +1426,19 @@ translate chinese d11s02_be21e205:
 translate chinese d11s02_e85c472f:
 
     # tr "Dude, don't be like that. {w}I mean, yeah, you're right."
-    tr "老兄，别这样。{w}我是说，呃，你说得对。{w}I mean, yeah, you're right."
+    tr "老兄，别这样。{w}我是说，呃，你说得对。"
 
 # game/code/d11/d11s02.rpy:484
 translate chinese d11s02_553839d6:
 
     # tr "I can't quite explain it. I've usually got girls throwing themselves at me, but there's just something about her."
-    tr "我解释不太清楚。通常都有女生对我投怀送抱，但她就是有种特殊的魅力。"
+    tr "我解释不太清楚。通常都有女生对我投怀送抱的，但她就是有种特殊的魅力。"
 
 # game/code/d11/d11s02.rpy:486
 translate chinese d11s02_903da7dd:
 
     # mc "I think I get what you're saying..."
-    mc "我想我知道你在说什么……"
+    mc "我想我明白你的意思……"
 
 # game/code/d11/d11s02.rpy:487
 translate chinese d11s02_4a7d44c2:
@@ -1497,7 +1498,7 @@ translate chinese d11s02_3031ed06:
 translate chinese d11s02_2e858d5c:
 
     # tr "And if she says \"No\"?"
-    tr "如果她说“不”呢？\"No\"?"
+    tr "如果她说\"不\"呢？"
 
 # game/code/d11/d11s02.rpy:504
 translate chinese d11s02_cb6d1795:
@@ -1509,13 +1510,13 @@ translate chinese d11s02_cb6d1795:
 translate chinese d11s02_fa428fe5:
 
     # tr "I forgot you were a business major. {w}Alright, you drive a hard bargain, but-"
-    tr "我忘了你是商科的。{w}好吧，你真会讨价还价，但是-{w}Alright, you drive a hard bargain, but-"
+    tr "我忘了你是商科的。{w}好吧，你真会讨价还价，但是-"
 
 # game/code/d11/d11s02.rpy:507
 translate chinese d11s02_dab18eff:
 
     # mc "Really? I thought we'd have to negotiate and compromise."
-    mc "真的吗？我以为我们必须谈判一下，要有人妥协呢。"
+    mc "真的吗？我以为我们必须谈判一下，要有人妥协才行呢。"
 
 # game/code/d11/d11s02.rpy:509
 translate chinese d11s02_2ea66bcf:
@@ -1563,13 +1564,13 @@ translate chinese d11s02_1552eed8:
 translate chinese d11s02_30b49ab3:
 
     # tr "True that! You sly dog."
-    tr "这倒是真的！ 你这狡猾的家伙。"
+    tr "这倒是真的！你这狡猾的家伙。"
 
 # game/code/d11/d11s02.rpy:526
 translate chinese d11s02_03bbe631:
 
     # mc "No, I don't think so."
-    mc "不啊，我不这么认为。"
+    mc "不行，我觉得不行。"
 
 # game/code/d11/d11s02.rpy:528
 translate chinese d11s02_7133d66d:
@@ -1587,13 +1588,13 @@ translate chinese d11s02_f8514f4d:
 translate chinese d11s02_dd10ff0b:
 
     # tr "Harsh, but true. What's the longer answer?"
-    tr "真刺耳，但也是事实。如果说详细点是什么？"
+    tr "这话真刺耳，但也是事实。如果说详细点是什么？"
 
 # game/code/d11/d11s02.rpy:532
 translate chinese d11s02_6bd7f514:
 
     # mc "I don't want to share."
-    mc "我不想分享。"
+    mc "我不想跟你共享。"
 
 # game/code/d11/d11s02.rpy:533
 translate chinese d11s02_c5d00df8:
@@ -1641,7 +1642,7 @@ translate chinese d11s02_15bfe73a:
 translate chinese d11s02_03bbe631_1:
 
     # mc "No, I don't think so."
-    mc "不，我不这么认为。"
+    mc "不行，我觉得不行。"
 
 # game/code/d11/d11s02.rpy:552
 translate chinese d11s02_7133d66d_1:
@@ -1677,7 +1678,7 @@ translate chinese d11s02_0135bd55:
 translate chinese d11s02_02c5c5bd:
 
     # tr "Yeah, but just a word from you and-"
-    tr "好吧，但只要你说一句话，……"
+    tr "好吧，但只要你说一句话……"
 
 # game/code/d11/d11s02.rpy:560
 translate chinese d11s02_8c7cbe1a:
@@ -1689,13 +1690,13 @@ translate chinese d11s02_8c7cbe1a:
 translate chinese d11s02_54cedf16:
 
     # tr "Okay, fine. {w}I guess I can respect that."
-    tr "好吧，行吧。{w}我想我可以尊重这一点。{w}I guess I can respect that."
+    tr "好吧，行吧。{w}我想我可以尊重这一点。"
 
 translate chinese strings:
 
     # game/code/d11/d11s02.rpy:124
     old "Do you like Cum garnish fetish?"
-    new "你喜欢Cum gaish的性趣吗？"
+    new "你喜欢精液配菜这个性趣吗？"
 
     # game/code/d11/d11s02.rpy:124
     old "Accept - I'm down for that"
@@ -1715,7 +1716,7 @@ translate chinese strings:
 
     # game/code/d11/d11s02.rpy:370
     old "But I'm confident that Antony is still interested in Min"
-    new "B但我相信安东尼仍然对明感兴趣"
+    new "但我相信安东尼仍然对明感兴趣"
 
     # game/code/d11/d11s02.rpy:492
     old "Who can he offer you in trade?"
