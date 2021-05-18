@@ -1396,7 +1396,7 @@ translate chinese d11s03_4a70f3d7:
 translate chinese d11s03_3a5466d9:
 
     # arj "I am not just happy. I'm elated."
-    arj "我不只是开心。可以说很欣喜。
+    arj "我不只是开心。可以说很欣喜。"
 
 # game/code/d11/d11s03.rpy:431
 translate chinese d11s03_2bda79a4:
@@ -1408,7 +1408,7 @@ translate chinese d11s03_2bda79a4:
 translate chinese d11s03_b3750052:
 
     # sy "Me too."
-    sy 我也是。"
+    sy "我也是。"
 
 # game/code/d11/d11s03.rpy:433
 translate chinese d11s03_3f106f8d:
@@ -1653,4 +1653,3 @@ translate chinese strings:
     # game/code/d11/d11s03.rpy:213
     old "Laugh in Her Face"
     new "当面嘲笑她"
-
