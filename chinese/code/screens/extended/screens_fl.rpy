@@ -1,30 +1,28 @@
-﻿# TODO: Translation updated at 2021-03-02 23:31
-
 translate chinese strings:
 
     # game/code/screens/extended/screens_fl.rpy:11
     old "CG Gallery"
-    new "CG Gallery"
+    new "CG相册"
 
     # game/code/screens/extended/screens_fl.rpy:17
     old "Replay Room"
-    new "Replay Room"
+    new "重放室内"
 
     # game/code/screens/extended/screens_fl.rpy:23
     old "Bonus Content"
-    new "Bonus Content"
+    new "奖励详情"
 
     # game/code/screens/extended/screens_fl.rpy:30
     old "Hints on"
-    new "Hints on"
+    new "开启提示"
 
     # game/code/screens/extended/screens_fl.rpy:30
     old "Hints off"
-    new "Hints off"
+    new "关闭提示"
 
     # game/code/screens/extended/screens_fl.rpy:46
     old "Page [page]"
-    new "Page [page]"
+    new "第[page]页"
 
     # game/code/screens/extended/screens_fl.rpy:94
     old "<"
@@ -33,8 +31,6 @@ translate chinese strings:
     # game/code/screens/extended/screens_fl.rpy:102
     old ">"
     new ">"
-
-# TODO: Translation updated at 2021-05-11 23:34
 
 translate chinese strings:
 

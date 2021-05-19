@@ -120,5 +120,4 @@ translate chinese strings:
 
     # game/code/data/prologue.rpy:50
     old "Not_Mike"
-    new "Not_Mike"
-
+    new "不是_迈克"
