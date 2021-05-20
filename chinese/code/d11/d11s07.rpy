@@ -22,7 +22,7 @@ translate chinese d11s07_30689b53:
 translate chinese d11s07_a0fac5e2:
 
     # arj "She keeping you on a leash?"
-    arj "她把你拴住了？"
+    arj "她是把你拴住了？"
 
 # game/code/d11/d11s07.rpy:61
 translate chinese d11s07_bf8f6abe:
@@ -40,7 +40,7 @@ translate chinese d11s07_0a2dd2f0:
 translate chinese d11s07_37b8f89c:
 
     # mc "Oh! Speaking of which, Lydia is calling me."
-    mc "哦！说到这个，正给我打电话呢。"
+    mc "哦！正说到她，她就给我打电话了。"
 
 # game/code/d11/d11s07.rpy:67
 translate chinese d11s07_02289b2e:
@@ -64,13 +64,13 @@ translate chinese d11s07_2d7fc32b:
 translate chinese d11s07_8d26e22b:
 
     # mc "Hey there, Lydia. How's my favorite girlfriend?"
-    mc "嘿，莉迪亚。我最喜欢的女友怎么样啊？"
+    mc "嘿，莉迪亚。我最喜欢的小女友怎么样啊？"
 
 # game/code/d11/d11s07.rpy:77
 translate chinese d11s07_4b9805d6:
 
     # lc "Chilling out by the pool. Thinking about you. {w}What about you?"
-    lc "我在游泳池边上放松，正想着你。{w}你呢？"
+    lc "我在游泳池边上放松，正想着你呢。{w}你呢？"
 
 # game/code/d11/d11s07.rpy:78
 translate chinese d11s07_7805cbbb:
@@ -88,7 +88,7 @@ translate chinese d11s07_192c1f3f:
 translate chinese d11s07_c60fedfc:
 
     # mc "It's never a bad time to talk to you. {w}AmRose is in the other room right now, anyway."
-    mc "和你说话永远都有时间。反正{w}爱洛丝现在在另一个房间里。"
+    mc "和你说话永远都有时间。{w}反正爱洛丝现在在另一个房间。"
 
 # game/code/d11/d11s07.rpy:82
 translate chinese d11s07_ef6ab527:
@@ -130,13 +130,13 @@ translate chinese d11s07_e9265624:
 translate chinese d11s07_6a9f48bb:
 
     # lc "Not yet. {w}It hasn't really come up. {w}But I probably will tell her someday soon."
-    lc "还没。时机还没到。但我可能很快就会告诉她。"
+    lc "还没。{w}时机还没到。{w}但我可能很快就会告诉她。"
 
 # game/code/d11/d11s07.rpy:91
 translate chinese d11s07_5bc7fad5:
 
     # mc "Oh, well, I guess that's up to you. I didn't have any plans to tell anyone else about that part of our relationship."
-    mc "哦，好吧，我觉得这取决于你。我不打算把我们这段故事告诉任何人。"
+    mc "哦，好吧，我觉得取决于你。我不打算把我们这段故事告诉任何人。"
 
 # game/code/d11/d11s07.rpy:97
 translate chinese d11s07_9223c6be:
@@ -190,13 +190,13 @@ translate chinese d11s07_fef54017:
 translate chinese d11s07_5d129d08:
 
     # mc "The woman who won stripped naked, put on a collar, and handed me her leash so I could drag her out in front of the audience."
-    mc "赢的那个女人脱光了衣服，戴上项圈，把她的皮带递给我，让我在观众面前把她拖出来。"
+    mc "赢的那个女的脱光了衣服，戴上项圈，把她的皮带递给我，让我在观众面前把她拖出来。"
 
 # game/code/d11/d11s07.rpy:109
 translate chinese d11s07_879a33ad:
 
     # lc "Oh my! {w}Who won?"
-    lc "哦，我的天！ {w}谁赢了？"
+    lc "哦，我的天！{w}谁赢了？"
 
 # game/code/d11/d11s07.rpy:110
 translate chinese d11s07_deea4a41:
@@ -292,7 +292,7 @@ translate chinese d11s07_b6ce03f3:
 translate chinese d11s07_87e0a508:
 
     # lc "If it wasn't that, it would have been something else. Don't worry about it."
-    lc "如果不是这样，它也会是别的东西。别担心。"
+    lc "如果不是这样，也会是别的原因。别担心。"
 
 # game/code/d11/d11s07.rpy:134
 translate chinese d11s07_2bc82720:
@@ -334,7 +334,7 @@ translate chinese d11s07_a87609bc:
 translate chinese d11s07_2324819a:
 
     # lc "Also, you should not tell me about these things before it happens."
-    lc "另外，你不该在事情发生之前告诉我这些事情。"
+    lc "另外，你不该在事情发生之前告诉我的。"
 
 # game/code/d11/d11s07.rpy:145
 translate chinese d11s07_46540ae8:
@@ -388,7 +388,7 @@ translate chinese d11s07_2c5c525f:
 translate chinese d11s07_4b81a709:
 
     # mc "Just the watersports. I hadn't had sex with her until last night. And she had a very strict rule that \"Squizzle\" was not \"Min\"."
-    mc "只有水上运动。直到昨晚我才和她发生关系。她有个相当严格的规定，就是\"斯奎兹\"不是\"明\"。"
+    mc "只有水上运动。我是直到昨晚才和她发生关系的。她有个相当严格的规定，就是\"斯奎兹\"不是\"明\"。"
 
 # game/code/d11/d11s07.rpy:157
 translate chinese d11s07_081ed8f7:
@@ -418,7 +418,7 @@ translate chinese d11s07_e5ac7c6e:
 translate chinese d11s07_6d76c5cb:
 
     # mc "Allison pissed in Squizzle's mouth while I was fucking her. Then I pissed in Squizzle's mouth while Allison did something. Or maybe it was the other way around."
-    mc "当我和艾莉森做爱的时候，她在斯奎兹嘴里撒尿。然后艾莉森玩什么东西的时候，我在斯奎兹嘴里撒尿。或者也许是反着来的吧。"
+    mc "我和艾莉森做爱的时候，她在斯奎兹嘴里撒尿。然后艾莉森玩什么东西的时候，我在斯奎兹嘴里撒尿。或者也许是反着来的吧。"
 
 # game/code/d11/d11s07.rpy:163
 translate chinese d11s07_dd985d2a:
@@ -484,7 +484,7 @@ translate chinese replay_d11s07_d101485c:
 translate chinese replay_d11s07_04582a4f:
 
     # mc "Your lips were so soft and sensual, yet you were excited and filled with a playful energy."
-    mc "你的嘴唇那么柔软，又那么性感，但你又很兴奋，充满了玩乐的能量。"
+    mc "你的嘴唇那么柔软，又那么性感，但你又很兴奋，散发着无比活跃的能量。"
 
 # game/code/d11/d11s07.rpy:198
 translate chinese replay_d11s07_e1665160:
@@ -544,7 +544,7 @@ translate chinese replay_d11s07_4839a417:
 translate chinese replay_d11s07_04be7e1e:
 
     # lc "Everything with you has been even better than I could have imagined."
-    lc "和你有关的一切都比我想象的要好。"
+    lc "和你有关的一切都比我想象的要好得多。"
 
 # game/code/d11/d11s07.rpy:214
 translate chinese replay_d11s07_3558d353:
@@ -574,7 +574,7 @@ translate chinese replay_d11s07_89f15581:
 translate chinese replay_d11s07_b131317d:
 
     # mc "I totally did. Only a couple of women came forward, but they groped, fondled, and kissed Allison while we were hot & heavy."
-    mc "我当然是了。只有几个女人走上前来，但她们在我俩亲热的时候摸索、抚摸和亲吻了艾莉森。"
+    mc "我当然是了。只有几个女人走上前来，她们在我俩亲热的时候摸索、抚摸还亲吻了艾莉森。"
 
 # game/code/d11/d11s07.rpy:224
 translate chinese replay_d11s07_6622bbab:
@@ -586,7 +586,7 @@ translate chinese replay_d11s07_6622bbab:
 translate chinese replay_d11s07_c49d34c6:
 
     # mc "I can't tell you how many times I was about ready to blow my load.{w}.. but she just changed her pace or position and kept me edging for the audience."
-    mc "我都记不清有多少次我都快炸了。但她只是改变了她的节奏或位置，让我在观众面前可以保持自制。"
+    mc "我记不清有多少次我都快炸了。但她只是改变了她的节奏或姿势，让我在观众面前可以保持好状态。"
 
 # game/code/d11/d11s07.rpy:227
 translate chinese replay_d11s07_57175832:
@@ -610,13 +610,13 @@ translate chinese replay_d11s07_7671e3c2:
 translate chinese replay_d11s07_24e9175d:
 
     # lc "Tell me about the... what-do-you-call-it? The finale. The money changer or whatever."
-    lc "再跟我说说……这个叫什么？最后收尾的那个。换钱的人还是什么。"
+    lc "再跟我说说……这个叫什么？最后收尾的那个。金钱炮弹还是什么。"
 
 # game/code/d11/d11s07.rpy:236
 translate chinese replay_d11s07_e3756f77:
 
     # mc "Oh, the money shot?"
-    mc "哦，钱的镜头？"
+    mc "哦，金钱炮弹？"
 
 # game/code/d11/d11s07.rpy:237
 translate chinese replay_d11s07_9e7b179c:
@@ -628,25 +628,25 @@ translate chinese replay_d11s07_9e7b179c:
 translate chinese replay_d11s07_f0b8e73d:
 
     # mc "My mind was such a swirl and blur of sexual energy, I barely remember anything."
-    mc "我脑海里充满了性能量，大脑一片糊涂，几乎什么都不记得了。"
+    mc "我当时满脑子都是性欲，欲望很强，几乎什么也记不起来了。"
 
 # game/code/d11/d11s07.rpy:240
 translate chinese replay_d11s07_55687ce4:
 
     # mc "I know she gave me some options where I could jizz on her so the audience would enjoy the view, but damn. I can't even remember."
-    mc "我知道她有给我提供选项，我可以射她身上，这样观众就能跟着欣赏了，但是该死。我都不记得了。"
+    mc "我记得她有给我提供选项，说我可以怎样射她身上，这样观众就能跟着欣赏了，但是该死，我什么都不记得了。"
 
 # game/code/d11/d11s07.rpy:241
 translate chinese replay_d11s07_4635e923:
 
     # lc "I'm sure the audience loved every moment of it."
-    lc "我敢肯定观众喜欢那场表演的每时每刻。"
+    lc "我敢肯定观众肯定全程都很享受那场表演。"
 
 # game/code/d11/d11s07.rpy:243
 translate chinese replay_d11s07_2d22c8be:
 
     # mc "I imagine they did, but I had kinda forgotten about them. Everything just poured out of me all at once, ya'know?"
-    mc "我想应该也是，但我已经有点忘记他们了。所有东西都一下子从我身上倾泻而出，你懂那种感觉吗？"
+    mc "我想应该也是，但我已经忘记他们的存在了。所有东西都一下子从我身上倾泻而出，你懂那种感觉吗？"
 
 # game/code/d11/d11s07.rpy:244
 translate chinese replay_d11s07_25f25523:
@@ -682,7 +682,7 @@ translate chinese replay_d11s07_88038e72:
 translate chinese replay_d11s07_d060df5b:
 
     # lc "We should wrap this up before AmRose gets back too."
-    lc "我们也该在爱洛丝回来之前结束通话。"
+    lc "我们也该在爱洛丝回来之前结束通话了。"
 
 # game/code/d11/d11s07.rpy:252
 translate chinese replay_d11s07_0bae50a6:
@@ -706,7 +706,7 @@ translate chinese replay_d11s07_2485f494:
 translate chinese replay_d11s07_4b4bf6d1:
 
     # mc "Huh. She hung up."
-    mc "嗯，她挂了。"
+    mc "嗯。她挂了。"
 
 # game/code/d11/d11s07.rpy:261
 translate chinese replay_d11s07_ab10b989:
@@ -754,7 +754,7 @@ translate chinese replay_d11s07_d0326d78:
 translate chinese replay_d11s07_aafc4acf:
 
     # arj "The hardest part about watching you last night was not being the one you were fucking at the time."
-    arj "看你昨晚表演我最痛苦的部分，就是我不是那个和你做爱的人。"
+    arj "昨晚看你表演时我最痛苦的部分，就是我不是那个和你做爱的人。"
 
 # game/code/d11/d11s07.rpy:275
 translate chinese replay_d11s07_f6336745:
@@ -814,7 +814,7 @@ translate chinese replay_d11s07_ddc9de25:
 translate chinese replay_d11s07_171e8cc3:
 
     # mc "What's that mean?"
-    mc "那是什么意思？"
+    mc "什么意思？"
 
 # game/code/d11/d11s07.rpy:288
 translate chinese replay_d11s07_d2ebdcf3:
@@ -832,7 +832,7 @@ translate chinese replay_d11s07_6fddb244:
 translate chinese replay_d11s07_eaea37ac:
 
     # arj "I've arranged a little something for us to do together."
-    arj "我为我们安排了一点共同参与的小活动。"
+    arj "我为我们安排了一个共同参与的小活动。"
 
 # game/code/d11/d11s07.rpy:292
 translate chinese replay_d11s07_f962bb7e:
@@ -928,7 +928,7 @@ translate chinese replay_d11s07_de7d2014:
 translate chinese replay_d11s07_32757cc3:
 
     # arj "I want your hot jizz as a cum garnish!"
-    arj "我想要你的热精液作为精液配菜！"
+    arj "我想要你滚烫的精液作为精液配菜！"
 
 # game/code/d11/d11s07.rpy:332
 translate chinese replay_d11s07_fd8c6055:
@@ -940,7 +940,7 @@ translate chinese replay_d11s07_fd8c6055:
 translate chinese replay_d11s07_c1fa20da:
 
     # arj "Cum in my fucking whore mouth!"
-    arj "射我这该死的荡妇嘴里吧！
+    arj "射我这该死的荡妇嘴里吧！"
 
 # game/code/d11/d11s07.rpy:347
 translate chinese replay_d11s07_819d4336:
@@ -988,13 +988,13 @@ translate chinese replay_d11s07_e38604df:
 translate chinese replay_d11s07_d3a78310:
 
     # mc "Time for your reward."
-    mc "是时候给你奖励了。"
+    mc "是时候给你点奖励了。"
 
 # game/code/d11/d11s07.rpy:389
 translate chinese replay_d11s07_aab216cf:
 
     # arj "OHHHHH YESSSSsss!!!"
-    arj "哦噢噢，好哎--!!!"
+    arj "哦噢噢，好哎啊啊!!!"
 
 # game/code/d11/d11s07.rpy:391
 translate chinese replay_d11s07_8afdf11c:
@@ -1012,7 +1012,7 @@ translate chinese replay_d11s07_e63bb301:
 translate chinese replay_d11s07_b955e9b5:
 
     # arj "Thank you, [mcname]."
-    arj "谢谢你，[mcname]."
+    arj "谢谢你，[mcname]。"
 
 # game/code/d11/d11s07.rpy:420
 translate chinese replay_d11s07_847f5644:
@@ -1036,7 +1036,7 @@ translate chinese replay_d11s07_4380c480:
 translate chinese replay_d11s07_05c33913:
 
     # mct "It's almost a shame I can't just fuck AmRose twenty times to meet this challenge."
-    mct "我不能干爱洛丝二十次来完成这个挑战，这几乎是个耻辱。"
+    mct "真可惜，我不能和爱洛丝干上个20次来完成这个任务。"
 
 # game/code/d11/d11s07.rpy:427
 translate chinese replay_d11s07_577cc8a0:
@@ -1048,7 +1048,7 @@ translate chinese replay_d11s07_577cc8a0:
 translate chinese replay_d11s07_48f589cb:
 
     # mct "Work, work, work..."
-    mct "工作，工作，工作……"
+    mct "干活，干活，干活……"
 
 # game/code/d11/d11s07.rpy:432
 translate chinese replay_d11s07_e1e04952:
