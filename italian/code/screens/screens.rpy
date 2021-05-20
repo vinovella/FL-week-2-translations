@@ -352,7 +352,7 @@ translate italian strings:
 
     # game/code/screens/screens.rpy:317
     old "Continue from week [FLSS.week.prev]"
-    new "Continua dalla [FLSS.week.prev]a settimana"
+    new "Continua dalla [FLSS.week.prev]ª sett."
 
     # game/code/screens/screens.rpy:327
     old "CG Gallery"
