@@ -124,7 +124,7 @@ translate chinese replay_d11s06_ac7c8773:
 translate chinese replay_d11s06_671ade0b:
 
     # mc "Well... True enough. But the only thing you'll find in there is the fun and {i}consensual{/i} kind of sketchy."
-    mc "嗯…… 确实如此。但你在里面唯一能找到的是乐趣，还有会让你表示自愿的那种东西。"
+    mc "嗯……确实如此。但你在里面唯一能找到的是乐趣，还有会让你自愿献身的那种东西。"
 
 # game/code/d11/d11s06.rpy:124
 translate chinese replay_d11s06_2c37a722:
@@ -160,7 +160,7 @@ translate chinese replay_d11s06_b49edb0b:
 translate chinese replay_d11s06_1851a091:
 
     # nk "I can't believe you had the guts to trick me like that. {w}I'd be pissed at you if I didn't enjoy it."
-    nk "我不敢相信你竟敢这样欺骗我。{w}要不是我享受的话，我肯定会对你很生气的。"
+    nk "我不敢相信你竟敢这样欺骗我。{w}要不是我有享受的话，我肯定会对你很生气的。"
 
 # game/code/d11/d11s06.rpy:139
 translate chinese replay_d11s06_6f3dc119:
@@ -280,7 +280,7 @@ translate chinese replay_d11s06_5f2992b8:
 translate chinese replay_d11s06_33d905ad:
 
     # nk "[mcname]! Get on top of her and sit on her face!"
-    nk "[mcname]！趴在她身上，坐在她的脸上！"
+    nk "[mcname]！趴在她身上，坐在她脸上！"
 
 # game/code/d11/d11s06.rpy:250
 translate chinese replay_d11s06_649786fd:
@@ -394,7 +394,7 @@ translate chinese replay_d11s06_a7778080_1:
 translate chinese replay_d11s06_5d92fd53:
 
     # nk "I want you to cover her completely!"
-    nk "我希望你能完全盖住她！"
+    nk "我要你能完全盖住她！"
 
 # game/code/d11/d11s06.rpy:411
 translate chinese replay_d11s06_01b93319:
@@ -412,7 +412,7 @@ translate chinese replay_d11s06_50e0494f:
 translate chinese replay_d11s06_ee4aa368:
 
     # pw "The jig is up I guess."
-    pw "我想，到这里就要结束了。"
+    pw "我想，到这里就要结束了吧。"
 
 # game/code/d11/d11s06.rpy:417
 translate chinese replay_d11s06_a8533818:
