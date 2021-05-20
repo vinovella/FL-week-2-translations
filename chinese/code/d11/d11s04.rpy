@@ -130,7 +130,7 @@ translate chinese d11s04_fd2c30c1:
 translate chinese d11s04_7fd10915:
 
     # dd "We took him to seven God-damn, shit-fucking doctors, and not {i}{b}one{/b}{/i} knew what was wrong with him before it was too late."
-    dd "我们带他看了七个该死的医生，没有{i}{b}}一个{/b}{/i}知道他出了什么问题，直到一切都太迟了。"
+    dd "我们带他看了七个该死的医生，没有{i}{b}}一个{/b}{/i}人知道他出了什么问题，直到一切都太迟了。"
 
 # game/code/d11/d11s04.rpy:79
 translate chinese d11s04_ad36558e_2:
@@ -220,7 +220,7 @@ translate chinese d11s04_c55aeb3d:
 translate chinese d11s04_f828709d:
 
     # dd "Well, I haven't exactly kept track of it. But usually when I do something, I dunno, intense, or high energy."
-    dd "嗯，我没准确地记录过。但通常当我做什么事时就这样，怎么说呢，激烈的，或者耗费精力的事？"
+    dd "呃，我没准确地记录过。但通常当我做什么事时就这样，怎么说呢，激烈的，或者耗费精力的事？"
 
 # game/code/d11/d11s04.rpy:131
 translate chinese d11s04_9dacab18:
@@ -232,7 +232,7 @@ translate chinese d11s04_9dacab18:
 translate chinese d11s04_3d5dbb23:
 
     # dd "It doesn't always happen. Sometimes I feel like that but don't fall unconscious, and just get better if I rest for a bit. {w}Sometimes I just wake up with no memory of feeling faint or passing out."
-    dd "这并不是一直发生的。有时我有这种感觉，但不会昏迷，只要休息一下就会好起来。{w}而有时我发现自己刚醒来，完全不记得自己有晕厥或昏倒的感觉。"
+    dd "也不是一直都这样。有时我有这种感觉，但不会昏迷，只要休息一下就会好起来。{w}而有时我发现自己刚醒来，完全不记得自己有晕厥或昏倒的感觉。"
 
 # game/code/d11/d11s04.rpy:135
 translate chinese d11s04_b8f49847:
@@ -244,7 +244,7 @@ translate chinese d11s04_b8f49847:
 translate chinese d11s04_80eacc17:
 
     # dd "I...I don't know. {w}I've always felt a little light-headed if I jump around too much, but like...a couple months back, I guess? Felt more nauseous than usual and just...dropped."
-    dd "我……我不知道。{w}如果我跳得太多，就总是觉得有点头晕，但像是……几个月前，我猜？感觉比平时更恶心，就……掉下去了。"
+    dd "我……我不知道。{w}如果我跳得太多，就总是会觉得有点头晕，但像是……几个月前，我猜？感觉比平时更恶心，就……掉下去了。"
 
 # game/code/d11/d11s04.rpy:140
 translate chinese d11s04_951ef747:
@@ -262,7 +262,7 @@ translate chinese d11s04_f0a2325d:
 translate chinese d11s04_c77adea2:
 
     # "Doctor" "*Sigh* I understand. It might be vasovagal syncope, but could indicate a more serious condition."
-    "医生" "*叹息* 我明白了。这可能是血管迷走性晕厥，但可能表明病情更严重。"
+    "医生" "*叹息* 我明白了。可能是血管迷走性晕厥，但有可能病情会更严重。"
 
 # game/code/d11/d11s04.rpy:145
 translate chinese d11s04_6fbe3881:
@@ -280,7 +280,7 @@ translate chinese d11s04_d52521a1:
 translate chinese d11s04_ad012e85:
 
     # "Doctor" "Do you have a family history of heart complications? Parents? Grandparents?"
-    "医生" "你有心脏并发症家族史吗？父母？爷爷奶奶？"
+    "医生" "你有心脏并发症家族史吗？父母？或者爷爷奶奶？"
 
 # game/code/d11/d11s04.rpy:151
 translate chinese d11s04_5e78a875:
