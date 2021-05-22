@@ -22,7 +22,7 @@ translate chinese d10p2s06_8c26cb31:
 translate chinese d10p2s06_5e454da6:
 
     # dd "You will see. {w}Come on. We need more people."
-    dd "等着瞧吧。 {w}来吧。我们需要更多的人。"
+    dd "等着瞧吧。{w}来吧。我们需要更多的人。"
 
 # game/code/d10p2/extended/d10p2s06.rpy:45
 translate chinese d10p2s06_520224ea:
@@ -52,7 +52,7 @@ translate chinese d10p2s06_82cefcf7:
 translate chinese d10p2s06_51f8ea77:
 
     # cb "Howdy, [mcname]!"
-    cb "你好，[mcname]！"
+    cb "你好啊，[mcname]！"
 
 # game/code/d10p2/extended/d10p2s06.rpy:58
 translate chinese d10p2s06_623359f0:
@@ -124,7 +124,7 @@ translate chinese d10p2s06_effdb88c:
 translate chinese d10p2s06_cbc4de03:
 
     # dd "There, the horse has to make the rider cum as fast as they can before making it all the way back to the starting line."
-    dd "在那里，马必须让骑师尽可能快地射精，然后再一路回到起跑线。"
+    dd "在那里，马必须让骑师尽可能快地高潮，然后再一路回到起跑线。"
 
 # game/code/d10p2/extended/d10p2s06.rpy:85
 translate chinese d10p2s06_0ecc8c63:
@@ -172,13 +172,13 @@ translate chinese d10p2s06_7bcbda08:
 translate chinese d10p2s06_7b491b26:
 
     # jf "*Silent and slightly awkward wave*"
-    jf "*我们需要给你的小马驹分一个骑师。*"
+    jf "*沉默而略显尴尬的挥手*"
 
 # game/code/d10p2/extended/d10p2s06.rpy:105
 translate chinese d10p2s06_36f96ceb:
 
     # dd "Yes, [mcname] will be riding URLittlePony."
-    dd "没错，[mcname]将骑着你的小马驹。"
+    dd "没错，[mcname]将骑你的小马驹。"
 
 # game/code/d10p2/extended/d10p2s06.rpy:109
 translate chinese d10p2s06_28226e37:
@@ -208,7 +208,7 @@ translate chinese d10p2s06_46176c4d:
 translate chinese d10p2s06_4e69b159:
 
     # mc "Okay... Just, like, kick me off if it starts to hurt or whatever."
-    mc "好吧…… 如果开始疼了或有其他什么情况，你就把我踢下去。"
+    mc "好吧……如果待会开始疼了或有其他什么情况，你就把我踢下去。"
 
 # game/code/d10p2/extended/d10p2s06.rpy:118
 translate chinese d10p2s06_63ca821e:
@@ -226,7 +226,7 @@ translate chinese d10p2s06_3901b1ba:
 translate chinese d10p2s06_fa438d9c:
 
     # dd "Me? Oh, I'm gonna be the mediator/announcer/commentator/event enjoyer."
-    dd "我？ 哦，我要当调解人，播音员，评论员，活动享受人。"
+    dd "我？哦，我要当调解人/播音员/评论员/享受的观众。"
 
 # game/code/d10p2/extended/d10p2s06.rpy:127
 translate chinese d10p2s06_3c87a588:
@@ -244,7 +244,7 @@ translate chinese d10p2s06_3788f252:
 translate chinese d10p2s06_a378dc4f:
 
     # dd "Great. {w}Equines, assume the position!"
-    dd "很好。{w}各位马儿们，就位!"
+    dd "很好。{w}各位马儿们，就位！"
 
 # game/code/d10p2/extended/d10p2s06.rpy:139
 translate chinese d10p2s06_cfed0969:
@@ -286,7 +286,7 @@ translate chinese d10p2s06_cf4d743a:
 translate chinese d10p2s06_1ed21068:
 
     # dd "What a show, Ladies and Gentlemen! The dynamic duo Kevin and Chloe, horse and jokey, in perfect sync and harmony."
-    dd "女士们，先生们，多么精彩的表演啊! 充满活力的二人组凯文和克洛伊，马到成功，完美同步，和谐共处。"
+    dd "女士们，先生们，多么精彩的表演啊！充满活力的二人组凯文和克洛伊，马到成功，完美同步，他们很和谐。"
 
 # game/code/d10p2/extended/d10p2s06.rpy:163
 translate chinese d10p2s06_61b73846:
@@ -304,7 +304,7 @@ translate chinese d10p2s06_f028505f:
 translate chinese d10p2s06_08111f0f:
 
     # dd "And they did it! Kevin and Chloe reach the first mark and relax a little while [mclogin] and URLittlePony are close behind."
-    dd "他们做到了! 凯文和克洛伊到达第一道关卡，稍做放松，而[login]和你的小马驹紧随其后。"
+    dd "他们做到了！凯文和克洛伊到达第一道关卡，稍做放松，而[login]和你的小马驹紧随其后。"
 
 # game/code/d10p2/extended/d10p2s06.rpy:178
 translate chinese replay_d10p2s06_c5f94e54:
@@ -316,7 +316,7 @@ translate chinese replay_d10p2s06_c5f94e54:
 translate chinese replay_d10p2s06_28d0d2e4:
 
     # dd "I now realize that this might have been a bit unfair to a certain contender...but we'll trudge on through nevertheless!"
-    dd "我现在意识到，这可能对某个竞争者有点不公平……但我们还是要继续努力！"
+    dd "我现在意识到，这可能对某位参赛者有点不公平……但我们还是要继续努力！"
 
 # game/code/d10p2/extended/d10p2s06.rpy:271
 translate chinese replay_d10p2s06_5560bc9f:
@@ -328,7 +328,7 @@ translate chinese replay_d10p2s06_5560bc9f:
 translate chinese replay_d10p2s06_95227897:
 
     # dd "What a turn of events, Ladies and Gentlemen!"
-    dd "女士们，先生们，这是多么大的转折啊!"
+    dd "女士们，先生们，这是多么大的转折啊！"
 
 # game/code/d10p2/extended/d10p2s06.rpy:338
 translate chinese replay_d10p2s06_6b2940e0:
@@ -346,7 +346,7 @@ translate chinese replay_d10p2s06_1d15fb3d:
 translate chinese replay_d10p2s06_401a6215:
 
     # dd "Oh my God, it's as if the power of the equine Gods has been infused into URLittlePony! She's galloping like she has never before!"
-    dd "哦，我的天，你的小马驹好像被注入了马神的力量她正以前所未有的速度飞奔！"
+    dd "哦，我的天，你的小马驹好像被注入了马神的力量！她正以前所未有的速度向前飞奔！"
 
 # game/code/d10p2/extended/d10p2s06.rpy:347
 translate chinese replay_d10p2s06_b589bac9:
@@ -382,7 +382,7 @@ translate chinese replay_d10p2s06_cfdb0c74:
 translate chinese replay_d10p2s06_d8e248f3:
 
     # dd "And now, as Champion Equine, URLittlePony gets to drink out of the legendary Trough of Ultimate Sexual Deviancy, and be truly known through out the lands as the one and only Champion Equine."
-    dd "现在，身为冠军马，你的小马驹可以喝到传说中的终极性变态槽的水，并且作唯一的冠军马，在这片土地上真正享有盛誉。"
+    dd "现在，身为冠军马，你的小马驹可以喝到传说中的终极性变态谷的水，并且作为唯一的冠军马，在这片土地上将享有真正的盛誉。"
 
 # game/code/d10p2/extended/d10p2s06.rpy:365
 translate chinese replay_d10p2s06_2794fd31:
