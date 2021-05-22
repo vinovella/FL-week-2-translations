@@ -2456,148 +2456,148 @@ translate chinese d10p2s08_mh_part3_20d947bf:
 translate chinese d10p2s08_jf_part3_b49a9044:
 
     # mc "So, there was a Human Equine Horse Race. I participated as a jockey."
-    mc "So, there was a Human Equine Horse Race. I participated as a jockey."
+    mc "于是就有了一场人类赛马比赛。我是骑师。"
 
 # game/code/d10p2/d10p2s08.rpy:959
 translate chinese d10p2s08_jf_part3_4dc101f1:
 
     # lc "Aren't jockeys for full sized real horses like half your size? Who was your horse???"
-    lc "Aren't jockeys for full sized real horses like half your size? Who was your horse???"
+    lc "骑师不是会骑有你一半大的那种真马吗？你的马是哪个啊???"
 
 # game/code/d10p2/d10p2s08.rpy:961
 translate chinese d10p2s08_jf_part3_010f7e48:
 
     # mc "URLittlePony. Cute girl. Does cosplay. She made her own horse costume with hooves and everything."
-    mc "URLittlePony. Cute girl. Does cosplay. She made her own horse costume with hooves and everything."
+    mc "你的小马驹。这个可爱的女孩在做cosplay。她自己做了马的服装、马蹄等其他东西。"
 
 # game/code/d10p2/d10p2s08.rpy:963
 translate chinese d10p2s08_jf_part3_14e8620e:
 
     # lc "So, you really just walked while she crawled on all fours beneath you?"
-    lc "So, you really just walked while she crawled on all fours beneath you?"
+    lc "也就是说你实际只是在走路，而她在你下面用四肢爬行？"
 
 # game/code/d10p2/d10p2s08.rpy:965
 translate chinese d10p2s08_jf_part3_48e47d9f:
 
     # mc "Somehow she held my weight and was still able to move."
-    mc "Somehow she held my weight and was still able to move."
+    mc "没想到她能承受住我的体重，还能移动。"
 
 # game/code/d10p2/d10p2s08.rpy:967
 translate chinese d10p2s08_jf_part3_60684bef:
 
     # lc "Okay. Who were the other horses and jockeys?"
-    lc "Okay. Who were the other horses and jockeys?"
+    lc "好吧。其他的马和骑师是谁？"
 
 # game/code/d10p2/d10p2s08.rpy:969
 translate chinese d10p2s08_jf_part3_c50eb4a0:
 
     # mc "Just one other team. Bravo was dressed like a donkey or something. Echo was his rider."
-    mc "Just one other team. Bravo was dressed like a donkey or something. Echo was his rider."
+    mc "除我们之外只有一个队了。布拉沃穿得像头驴，艾柯是他的骑师。"
 
 # game/code/d10p2/d10p2s08.rpy:971
 translate chinese d10p2s08_jf_part3_3f035b58:
 
     # lc "Okay, that seems like a reasonable pairing at least."
-    lc "Okay, that seems like a reasonable pairing at least."
+    lc "好吧，至少这个搭配听起来挺合理的。"
 
 # game/code/d10p2/d10p2s08.rpy:973
 translate chinese d10p2s08_jf_part3_ab008165:
 
     # mc "Yeah, they got off to an early lead."
-    mc "Yeah, they got off to an early lead."
+    mc "没错，他们一开始就领先了。"
 
 # game/code/d10p2/d10p2s08.rpy:975
 translate chinese d10p2s08_jf_part3_a86ed687:
 
     # mc "My pony did her best, but it was slow going."
-    mc "My pony did her best, but it was slow going."
+    mc "我的小马尽力了，但走得很慢。"
 
 # game/code/d10p2/d10p2s08.rpy:977
 translate chinese d10p2s08_jf_part3_e1e21c92:
 
     # mc "Echo and Bravo made it to the halfway point first and started having sex in the cowgirl position."
-    mc "Echo and Bravo made it to the halfway point first and started having sex in the cowgirl position."
+    mc "艾柯和布拉沃先跑到半程，然后开始用女牛仔姿势做爱。"
 
 # game/code/d10p2/d10p2s08.rpy:978
 translate chinese d10p2s08_jf_part3_889406bb:
 
     # lc "Okay... why?"
-    lc "Okay... why?"
+    lc "好吧……为什么啊？"
 
 # game/code/d10p2/d10p2s08.rpy:980
 translate chinese d10p2s08_jf_part3_6ace0c21:
 
     # mc "It was part of the rules. Halfway through the race the equine had to make the jockey climax."
-    mc "It was part of the rules. Halfway through the race the equine had to make the jockey climax."
+    mc "这是规则的一部分。比赛进行到一半时，小马必须让骑师达到高潮。"
 
 # game/code/d10p2/d10p2s08.rpy:981
 translate chinese d10p2s08_jf_part3_2eb36ec5:
 
     # mc "Now that I think about it, I think I took URLittlePony's virginity."
-    mc "Now that I think about it, I think I took URLittlePony's virginity."
+    mc "现在我想起来了，我想我夺走了你的小马驹的贞操。"
 
 # game/code/d10p2/d10p2s08.rpy:983
 translate chinese d10p2s08_jf_part3_c1b63891:
 
     # lc "You don't know? Did you ask her?"
-    lc "You don't know? Did you ask her?"
+    lc "你不知道？你有问过她吗？"
 
 # game/code/d10p2/d10p2s08.rpy:987
 translate chinese d10p2s08_jf_part3_615d8fb9:
 
     # mc "She was in full costume. Like horse blinders and everything. She had a gag in her mouth, like a horse."
-    mc "She was in full costume. Like horse blinders and everything. She had a gag in her mouth, like a horse."
+    mc "她当时穿着全套服装呢。有马头罩，嘴里还塞着东西，就像匹马一样。"
 
 # game/code/d10p2/d10p2s08.rpy:991
 translate chinese d10p2s08_jf_part3_3b53d5e7:
 
     # mc "But she turned around an presented, and didn't complain when I pulled her panties to the side."
-    mc "But she turned around an presented, and didn't complain when I pulled her panties to the side."
+    mc "但她转过身来时很配合，当我把她内裤拉到一边时，她也没有抱怨。"
 
 # game/code/d10p2/d10p2s08.rpy:992
 translate chinese d10p2s08_jf_part3_89f5da50:
 
     # lc "That's... {w}That's kinda hot."
-    lc "That's... {w}That's kinda hot."
+    lc "还……{w}挺性感的。"
 
 # game/code/d10p2/d10p2s08.rpy:996
 translate chinese d10p2s08_jf_part3_668e328c:
 
     # mc "So, there I was fucking URLittlePony doggie style while Echo rode Bravo like a cowgirl."
-    mc "So, there I was fucking URLittlePony doggie style while Echo rode Bravo like a cowgirl."
+    mc "所以，我在那里以狗爬式正干着你的小马驹，而艾柯像个女牛仔一样骑在布拉沃身上。"
 
 # game/code/d10p2/d10p2s08.rpy:1000
 translate chinese d10p2s08_jf_part3_126ee15d:
 
     # mc "It was an intense race to see which team's jockey would climax first."
-    mc "It was an intense race to see which team's jockey would climax first."
+    mc "这场比赛很激烈，看哪一队的骑师会先达到高潮。"
 
 # game/code/d10p2/d10p2s08.rpy:1004
 translate chinese d10p2s08_jf_part3_11ed5a0a:
 
     # mc "Just before I came my pony collapsed from her own orgasm..."
-    mc "Just before I came my pony collapsed from her own orgasm..."
+    mc "就在我要来之前，我的小马因为她自己的高潮而倒下了……"
 
 # game/code/d10p2/d10p2s08.rpy:1008
 translate chinese d10p2s08_jf_part3_2f652389:
 
     # mc "... so while she was chomping at the bit I shot my load all over her lower back."
-    mc "... so while she was chomping at the bit I shot my load all over her lower back."
+    mc "……所以在她正咬牙享受的时候，我全都射在了她后腰上。"
 
 # game/code/d10p2/d10p2s08.rpy:1158
 translate chinese d10p2s08_jf_part5_b1b42c33:
 
     # mc "After that she had the energy of like 5 stallions."
-    mc "After that she had the energy of like 5 stallions."
+    mc "在那之后，她精力充沛得跟五匹公马有的一拼。"
 
 # game/code/d10p2/d10p2s08.rpy:1159
 translate chinese d10p2s08_jf_part5_3b486f92:
 
     # mc "We raced to the finish line and easily won the race."
-    mc "We raced to the finish line and easily won the race."
+    mc "我们跑到终点线，轻松拿下了比赛。"
 
 # game/code/d10p2/d10p2s08.rpy:1161
 translate chinese d10p2s08_jf_part5_6e27356e:
 
     # mc "URLittlePony was rewarded with a drink from the Trough of Ultimate Sexual Deviancy."
-    mc "URLittlePony was rewarded with a drink from the Trough of Ultimate Sexual Deviancy."
+    mc "你的小马驹被奖励了一杯终极性变态谷的喝的。"
