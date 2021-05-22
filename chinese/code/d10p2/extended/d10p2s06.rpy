@@ -304,7 +304,7 @@ translate chinese d10p2s06_f028505f:
 translate chinese d10p2s06_08111f0f:
 
     # dd "And they did it! Kevin and Chloe reach the first mark and relax a little while [mclogin] and URLittlePony are close behind."
-    dd "他们做到了！凯文和克洛伊到达第一道关卡，稍做放松，而[login]和你的小马驹紧随其后。"
+    dd "他们做到了！凯文和克洛伊到达了第一道关卡，正稍做放松，而[mclogin]和你的小马驹紧随其后。"
 
 # game/code/d10p2/extended/d10p2s06.rpy:178
 translate chinese replay_d10p2s06_c5f94e54:
