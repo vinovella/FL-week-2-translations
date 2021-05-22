@@ -52,7 +52,7 @@ translate chinese replay_d08s09_c6e37160:
 translate chinese replay_d08s09_ea71cb25:
 
     # jf "FOOL!!! WHO HAS FALLEN INTO THE TRAP OF RKIL DVORKA?!"
-    jf "傻瓜!!! 谁掉进了我瑞基尔·德沃尔卡这个猎人的陷阱?!"
+    jf "傻瓜!!! 谁掉进了我瑞基尔·德沃尔卡本猎人的陷阱?!"
 
 # game/code/d08/extended/d08s09.rpy:70
 translate chinese replay_d08s09_acb4aa2d:
@@ -70,7 +70,7 @@ translate chinese replay_d08s09_24767480:
 translate chinese replay_d08s09_3598fd55:
 
     # mct "I'll flip on the lights real quick and before her eyes adjust and just fuckin' bum rush her."
-    mct "我是来揭开你的陷阱，把你关在你该呆的基甸那里的！"
+    mct "我是来揭开你的陷阱，把你关在你该呆的基甸的！"
 
 # game/code/d08/extended/d08s09.rpy:82
 translate chinese replay_d08s09_cda14353:
@@ -118,7 +118,7 @@ translate chinese replay_d08s09_67cd26ba:
 translate chinese replay_d08s09_81f83e2b:
 
     # jf "Our Technology is superior! Our suit takes our waste and turns it into water and nutrients that are absorbed back into our bodies!"
-    jf "我们技术很先进的！这衣服会吸收我们的排泄物，将其转化为水和营养物质，再被我们的身体吸收！"
+    jf "我们技术很先进的！这衣服会吸收我们的排泄物，将它们转化为水和营养物质，再被我们的身体吸收！"
 
 # game/code/d08/extended/d08s09.rpy:103
 translate chinese replay_d08s09_ba8808b6:
@@ -136,7 +136,7 @@ translate chinese replay_d08s09_c90d33a0:
 translate chinese replay_d08s09_32b5be8f:
 
     # mc "Well, if it's nutrients your body craves, Mirim Arotsu, it is nutrients you shall have! Kneel before me!"
-    mc "好吧，米林·阿罗津，如果你的身体渴望营养，你就该得到营养！跪在我面前！!"
+    mc "好吧，米林·阿罗津，如果你的身体渴望营养，你就该得到营养！跪在我面前！"
 
 # game/code/d08/extended/d08s09.rpy:108
 translate chinese replay_d08s09_715d78cc:
@@ -190,7 +190,7 @@ translate chinese replay_d08s09_f4ee5460:
 translate chinese replay_d08s09_1006bf7b:
 
     # mc "Did I tell you that you are looking out-fucking-standing. Maybe when I have more time, we can play more Star Wars or whatever together..."
-    mc "我有没有告诉你，你看起来真他妈的-出-众。也许等我更闲的时候，我们可以多一起玩玩星球大战什么的……"
+    mc "我有没有告诉过你，你看起来真他妈的-出-众。也许等我更闲的时候，我们可以多一起玩玩星球大战什么的……"
 
 # game/code/d08/extended/d08s09.rpy:207
 translate chinese replay_d08s09_2c7e8781:
@@ -214,7 +214,7 @@ translate chinese replay_d08s09_35e309ee:
 translate chinese replay_d08s09_f74c6248:
 
     # jf "But a guy from Belgium who had seen my stuff online commissioned the suit... said it was for his girlfriend."
-    jf "但一个来自比利时的家伙在网上看到了我的作品，委托我制作了这套衣服……说是给他女朋友的。"
+    jf "一个来自比利时的家伙在网上看到了我的作品，委托我制作了这套衣服……说是给他女朋友的。"
 
 # game/code/d08/extended/d08s09.rpy:216
 translate chinese replay_d08s09_caca7e3b:
@@ -274,19 +274,19 @@ translate chinese replay_d08s09_6fbe7637:
 translate chinese replay_d08s09_eae1129f:
 
     # mc "Yeah, right, that's less than $9 bucks an hour for your time. I see your point."
-    mc "对，没错，你的时薪每小时还不到9美元。我明白你的意思。"
+    mc "呃，好吧，你的时薪每小时还不到9美元。我明白你的意思。"
 
 # game/code/d08/extended/d08s09.rpy:233
 translate chinese replay_d08s09_70c74f64:
 
     # mc "How do you know it will even fit his girlfriend?"
-    mc "你怎么知道他女朋友穿会合身？"
+    mc "你怎么知道他女朋友穿会合身呢？"
 
 # game/code/d08/extended/d08s09.rpy:236
 translate chinese replay_d08s09_32f58415:
 
     # jf "Well, it’s complicated. See, I don't really think he has a girlfriend."
-    jf "嗯，很复杂。我不觉得他有女朋友。"
+    jf "嗯，说来复杂了。我不觉得他有女朋友。"
 
 # game/code/d08/extended/d08s09.rpy:238
 translate chinese replay_d08s09_fe7c242f:
@@ -298,7 +298,7 @@ translate chinese replay_d08s09_fe7c242f:
 translate chinese replay_d08s09_d266f21f:
 
     # jf "You know how some guys have a used underwear fetish and they spend big money to get girls' panties?"
-    jf "你知道有的男的有二手内衣癖，他们花大钱去买女孩的内裤吗？"
+    jf "你知道有的男的有二手内衣癖，他们会花大钱去买女孩的内裤吗？"
 
 # game/code/d08/extended/d08s09.rpy:240
 translate chinese replay_d08s09_84f16542:
@@ -316,7 +316,7 @@ translate chinese replay_d08s09_cbdd5c3f:
 translate chinese replay_d08s09_bdce355a:
 
     # jf "And they get off on pictures of girls wearing the costumes. Their holy grail though is to actually get a costume worn by a \"real\" girl."
-    jf "他们喜欢看女孩穿这些服装的照片。当然终极目标是得到真人穿的衣服。"
+    jf "他们喜欢看女孩穿这些服装的照片。当然终极目标是得到\"真人\"穿的衣服。"
 
 # game/code/d08/extended/d08s09.rpy:245
 translate chinese replay_d08s09_45943ecf:
@@ -364,7 +364,7 @@ translate chinese replay_d08s09_c8f95901:
 translate chinese replay_d08s09_8456a741:
 
     # mc "The business side of my brain is kicking into overdrive.{w} Are you sure he is into this costume kink thing? Smelling you in the suit and all that shit?"
-    mc "我的大脑迅速动起了生意经。{w}。你确定他喜欢这种服装变态的东西吗？还会闻你留下的味道之类的？"
+    mc "我的大脑迅速动起了生意经。{w}你确定他喜欢这种变态的东西吗？还会闻你留下的味道之类的？"
 
 # game/code/d08/extended/d08s09.rpy:262
 translate chinese replay_d08s09_2ab9140f:
@@ -376,7 +376,7 @@ translate chinese replay_d08s09_2ab9140f:
 translate chinese replay_d08s09_158fbf49:
 
     # mc "Alright... See if he is online. Text him or email him right now."
-    mc "好吧…… 看看他是不是在线。现在就给他发短信或发邮件。"
+    mc "好吧……看看他是不是在线。现在就给他发短信或发邮件。"
 
 # game/code/d08/extended/d08s09.rpy:265
 translate chinese replay_d08s09_10cfd855:
@@ -412,7 +412,7 @@ translate chinese replay_d08s09_ef696c14:
 translate chinese replay_d08s09_637b8010:
 
     # mc "Great! Give me your phone. I'll take a picture"
-    mc "太好了！ 把你手机给我。我拍张照片。"
+    mc "太好了！把你手机给我。我拍张照片。"
 
 # game/code/d08/extended/d08s09.rpy:278
 translate chinese replay_d08s09_d3368a98:
@@ -424,7 +424,7 @@ translate chinese replay_d08s09_d3368a98:
 translate chinese replay_d08s09_fb0f6a78:
 
     # mc "Jessie, we gotta be quick. Just trust me here for a minute and give me your phone."
-    mc "杰西，我们得快点。就信我一下下，把你手机给我。
+    mc "杰西，我们得快点。就信我一下下，把你手机给我。"
 
 # game/code/d08/extended/d08s09.rpy:281
 translate chinese replay_d08s09_0d64cd69:
@@ -454,13 +454,13 @@ translate chinese replay_d08s09_3955f1e0:
 translate chinese replay_d08s09_fa045586:
 
     # mc "Agreed. Just, please give me your phone and do what I...I mean, cooperate with me? Please?"
-    mc "同意。只是你先把手机给我，然后照我说的……我是说，照我说的与我合作？拜托？"
+    mc "同意。只是你先把手机给我，然后照我说的……我是说，照我说的与我合作？拜托了？"
 
 # game/code/d08/extended/d08s09.rpy:289
 translate chinese replay_d08s09_5d9cdf46:
 
     # mc "OK, we want this to look spontaneous, so we are not going to use your photo studio...yet."
-    mc "很好，我们想让它看起来很自然，所以就不用你的照相馆……先不用。"
+    mc "很好，我们想让它看起来很自然，所以就不用你的照相设备……暂时先不用。"
 
 # game/code/d08/extended/d08s09.rpy:291
 translate chinese replay_d08s09_485c5b3f:
@@ -514,7 +514,7 @@ translate chinese replay_d08s09_9250fede:
 translate chinese replay_d08s09_c7a60e24:
 
     # mc "Excellent... Now tell him, your deal was for the costume. The costume is finished and you are ready to ship. Pictures are extra."
-    mc "太好了……。现在告诉他，你们的交易是关于服装。衣服已经完成，你也准备发货了。照片不在这笔交易范围内。"
+    mc "太好了……现在告诉他，你们的交易是关于服装。衣服已经完成，你也准备发货了。照片不在这笔交易范围内。"
 
 # game/code/d08/extended/d08s09.rpy:314
 translate chinese replay_d08s09_929654c3:
@@ -550,13 +550,13 @@ translate chinese replay_d08s09_d5394d31:
 translate chinese replay_d08s09_1abaed75:
 
     # mc "Tell him, \"Different packages, different prices. Standard package is $1K and includes 25 Sexy pictures of me in the costume.\""
-    mc "告诉他，不同套餐价格不一样。标准套餐是1千美元，包括25张我穿着它的性感照片。\"Different packages, different prices. Standard package is $1K and includes 25 Sexy pictures of me in the costume.\""
+    mc "告诉他，\"不同套餐价格不一样。标准套餐是1千美元，包括25张我穿着它的性感照片。\""
 
 # game/code/d08/extended/d08s09.rpy:327
 translate chinese replay_d08s09_b55dc74b:
 
     # jf "$1000 for 25 pictures.{w}.. Are you fucking crazy?"
-    jf "25张照片要价1000美元。你他妈疯了吗？{w}.. Are you fucking crazy?"
+    jf "25张照片要价1000美元{w}……你他妈疯了吗？"
 
 # game/code/d08/extended/d08s09.rpy:328
 translate chinese replay_d08s09_ec55f1ad:
@@ -568,7 +568,7 @@ translate chinese replay_d08s09_ec55f1ad:
 translate chinese replay_d08s09_c2defa8e:
 
     # jf "I hope you know what you are doing. Okay... It's sent."
-    jf "希望你知道自己在做什么。好吧…… 已经发过去了。"
+    jf "希望你知道自己在做什么。好吧……已经发过去了。"
 
 # game/code/d08/extended/d08s09.rpy:333
 translate chinese replay_d08s09_99469c6f:
@@ -592,7 +592,7 @@ translate chinese replay_d08s09_4fd3ab1a:
 translate chinese replay_d08s09_d8b4f473:
 
     # jf "Wait, he says, \"What is in the deluxe package?\""
-    jf "等等，他说，豪华套餐里有什么？\"What is in the deluxe package?\""
+    jf "等等，他说，\"豪华套餐里有什么？\""
 
 # game/code/d08/extended/d08s09.rpy:341
 translate chinese replay_d08s09_32e70465:
@@ -610,7 +610,7 @@ translate chinese replay_d08s09_c174c775:
 translate chinese replay_d08s09_9d368df7:
 
     # mc "That means, he is in it for AT LEAST $1000. Otherwise he would have said, \"Just ship it.\", since it is already paid for."
-    mc "这意味着，至少有1000美元已经稳了。否则他就会说，就寄过来吧，因为已经付过钱了。\"Just ship it.\", since it is already paid for."
+    mc "这意味着，至少有1000美元已经稳了。否则他就会说，\"就寄过来吧。\"因为已经付过钱了。"
 
 # game/code/d08/extended/d08s09.rpy:346
 translate chinese replay_d08s09_dffd9cd1:
@@ -622,7 +622,7 @@ translate chinese replay_d08s09_dffd9cd1:
 translate chinese replay_d08s09_22c3778e:
 
     # mc "I know so... Now, we just gotta think how to make bank on this."
-    mc "我知道…… 现现在，我们只需要想一想如何在这个基础上赚钱。"
+    mc "我就知道……现在，我们只需要想想如何在这个基础上赚钱。"
 
 # game/code/d08/extended/d08s09.rpy:349
 translate chinese replay_d08s09_b95d1f00:
@@ -652,7 +652,7 @@ translate chinese replay_d08s09_52de73c2:
 translate chinese replay_d08s09_6b7a1bf8:
 
     # jf "Yes my lord..."
-    jf "是的，我的主人……"
+    jf "遵命，我的主人……"
 
 # game/code/d08/extended/d08s09.rpy:362
 translate chinese replay_d08s09_af806435:
@@ -664,13 +664,13 @@ translate chinese replay_d08s09_af806435:
 translate chinese replay_d08s09_153e20ff:
 
     # mc "Send him that and tell him, \"The Deluxe Package is $5K, and includes 100 photos and a video. I will rigorously test the suit then overnight express it to you\"."
-    mc "把这个发给他，告诉他，豪华套餐是5千美元，包括100张照片和一段视频。我将对这套衣服进行严格测试，然后连夜快递给你。\"The Deluxe Package is $5K, and includes 100 photos and a video. I will rigorously test the suit then overnight express it to you\"."
+    mc "把这个发给他，告诉他，\"豪华套餐是5千美元，包括100张照片和一段视频。我将对这套衣服进行严格测试，然后连夜快递给你\"。"
 
 # game/code/d08/extended/d08s09.rpy:366
 translate chinese replay_d08s09_be6c771b:
 
     # jf "Holy Shit... $5K... on top of what he already paid me?"
-    jf "我靠……5千美元……还是在他已经付给我钱的基础上？"
+    jf "我靠……5千美元……还是在他已经付过我钱的基础上？"
 
 # game/code/d08/extended/d08s09.rpy:368
 translate chinese replay_d08s09_9f47a5c2:
@@ -682,7 +682,7 @@ translate chinese replay_d08s09_9f47a5c2:
 translate chinese replay_d08s09_b4e40d41:
 
     # mc "Jessie, when does your period start?"
-    mc "杰西，你月经什么时候来？?"
+    mc "杰西，你月经什么时候来？"
 
 # game/code/d08/extended/d08s09.rpy:372
 translate chinese replay_d08s09_4edcfce0:
@@ -700,7 +700,7 @@ translate chinese replay_d08s09_3089d35e:
 translate chinese replay_d08s09_d9837cd3:
 
     # jf "Hahaha... You're fucking diabolical, alright."
-    jf "哈哈哈…… 你真他妈狡猾，好吧。"
+    jf "哈哈哈……你真他妈狡猾，好吧。"
 
 # game/code/d08/extended/d08s09.rpy:378
 translate chinese replay_d08s09_8bd996c6:
@@ -724,5 +724,5 @@ translate chinese replay_d08s09_0327b230:
 translate chinese replay_d08s09_6bdab792:
 
     # jf "Okay, but were using my camera for this. No more cell phone pics!"
-    jf "好，但我们要用我的相机来拍。不许再用手机拍了！"
+    jf "好，但我们要用我的相机。不许再用手机拍了！"
 
