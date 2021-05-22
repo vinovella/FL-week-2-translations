@@ -28,7 +28,7 @@ translate chinese d10p1s06b_27205fc7:
 translate chinese d10p1s06b_51f0a106:
 
     # ir "Why are you holding a God damn battleaxe?!"
-    ir "为什么拿着一把该死的战斧?!"
+    ir "为什么你拿着把该死的战斧?!"
 
 # game/code/d10p1/extended/d10p1s06b.rpy:27
 translate chinese d10p1s06b_d52959db:
@@ -64,7 +64,7 @@ translate chinese d10p1s06b_a89e559e:
 translate chinese d10p1s06b_69141ed0:
 
     # ir "But you still had enough time to grab a fucking {b}battleaxe{/b}?!"
-    ir "但你还有时间去拿一把该死的战斧{b}battleaxe{/b}?!"
+    ir "那你还有时间去拿一把该死的{b}战斧{/b}?!"
 
 # game/code/d10p1/extended/d10p1s06b.rpy:43
 translate chinese d10p1s06b_52808662:
@@ -100,7 +100,7 @@ translate chinese d10p1s06b_0cb64273:
 translate chinese d10p1s06b_20e7c97b:
 
     # ir "What the hell was that?!"
-    ir "刚是怎么回事！?!"
+    ir "刚是怎么回事?!"
 
 # game/code/d10p1/extended/d10p1s06b.rpy:64
 translate chinese d10p1s06b_ed4f16f7:
@@ -124,5 +124,5 @@ translate chinese d10p1s06b_a994bd91:
 translate chinese d10p1s06b_1e1f356b:
 
     # mc "Well, that's what you need to protect everybody from pervy pricks I guess."
-    mc "嗯，我猜这是因为需要保护所有人不受变态伤害的别无选择。"
+    mc "嗯，我觉得这是要保护所有人不受变态伤害的别无选择。"
 
