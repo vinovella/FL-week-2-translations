@@ -256,7 +256,7 @@ translate chinese d10p2s06_cfed0969:
 translate chinese d10p2s06_db00bd81:
 
     # dd "And a two."
-    dd "二。
+    dd "二。"
 
 # game/code/d10p2/extended/d10p2s06.rpy:147
 translate chinese d10p2s06_5edd01c9:
@@ -389,4 +389,3 @@ translate chinese replay_d10p2s06_2794fd31:
 
     # "Everybody" "*Chuckles*"
     "所有人" "*咯咯笑*"
-
