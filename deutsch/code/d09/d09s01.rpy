@@ -106,7 +106,7 @@ translate deutsch d09s01_9f7ad367:
 translate deutsch d09s01_bf31a3de:
 
     # mct "From Min? Why would Min be blowing up my phone in the middle of the night?"
-    mct "Von Min? Warum sollte Min mitten in der Nacht mein Telefon Zuspammen?"
+    mct "Von Min? Warum sollte Min mitten in der Nacht mein Telefon zuspammen?"
 
 # game/code/d09/d09s01.rpy:31
 translate deutsch d09s01_a9fa17ce:
@@ -232,5 +232,5 @@ translate deutsch d09s01_df2d2a72:
 translate deutsch d09s01_4bb6af1f:
 
     # mct "I just hope she doesn't shank me or something the moment I bring up the luggage."
-    mct "I just hope she doesn't shank me or something the moment I bring up the luggage."
+    mct "Ich hoffe nur, dass sie mich nicht schlägt oder etwas in der art, wenn ich das Gepäck erwähne."
 
