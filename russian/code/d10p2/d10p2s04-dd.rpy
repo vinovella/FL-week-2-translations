@@ -1666,7 +1666,7 @@ translate russian strings:
 
     # game/code/d10p2/d10p2s04-dd.rpy:645
     old "Hold longer"
-    new "Держать дольше"
+    new "Держаться дальше"
 
     # game/code/d10p2/d10p2s04-dd.rpy:790
     old "Finally cum"
@@ -1674,4 +1674,4 @@ translate russian strings:
 
     # game/code/d10p2/d10p2s04-dd.rpy:790
     old "Hold even more"
-    new "Держать дольше"
+    new "Держаться дальше"

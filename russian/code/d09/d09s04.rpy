@@ -690,75 +690,75 @@ translate russian replay_d09s04_e4163433:
 translate russian d09s04_1629e8ef:
 
     # "Samiya brings [mcname] to a Supermarket."
-    "Samiya brings [mcname] to a Supermarket."
+    "Самия приводит [mcname] в супермаркет."
 
 # game/code/d09/d09s04.rpy:29
 translate russian d09s04_364be28a:
 
     # mct "Now I have to run to meet Samiya. I hope she isn't planning anything bad."
-    mct "Now I have to run to meet Samiya. I hope she isn't planning anything bad."
+    mct "Сейчас мне нужно бежать, чтобы встретиться с Самией. Надеюсь, она не планирует ничего плохого."
 
 # game/code/d09/d09s04.rpy:30
 translate russian d09s04_f8de097f:
 
     # mct "At least I can be there to save Vanessa if something happens."
-    mct "At least I can be there to save Vanessa if something happens."
+    mct "По крайней мере, я смогу спасти Ванессу, если что-то случится."
 
 # game/code/d09/d09s04.rpy:74
 translate russian d09s04_996a71c3:
 
     # mct "Should I do it?" nointeract
-    mct "Should I do it?" nointeract
+    mct "Должен ли я это сделать?" nointeract
 
 # game/code/d09/d09s04.rpy:82
 translate russian d09s04_8dca5345:
 
     # mc "I... I am not gonna do it."
-    mc "I... I am not gonna do it."
+    mc "Я... я не буду этого делать."
 
 # game/code/d09/d09s04.rpy:84
 translate russian d09s04_ebcffca4:
 
     # sb "Chicken much, huh?"
-    sb "Chicken much, huh?"
+    sb "Испугался чтоли?"
 
 # game/code/d09/d09s04.rpy:85
 translate russian d09s04_3fe53486:
 
     # mc "I'm... not a fan of doing it in a public place."
-    mc "I'm... not a fan of doing it in a public place."
+    mc "Я... не любитель делать это в общественном месте."
 
 # game/code/d09/d09s04.rpy:87
 translate russian d09s04_83c5ce1e:
 
     # sb "Then do something else for me."
-    sb "Then do something else for me."
+    sb "Тогда делай для меня хоть что-нибудь."
 
 # game/code/d09/d09s04.rpy:90
 translate russian d09s04_eeb3cedb:
 
     # mc "Fine. I'll be your assistant then."
-    mc "Fine. I'll be your assistant then."
+    mc "Хорошо. Я буду твоим помощником."
 
 # game/code/d09/d09s04.rpy:91
 translate russian d09s04_4cf5fee8:
 
     # sb "Good.{w} Meet me back at my place after 30 minutes."
-    sb "Good.{w} Meet me back at my place after 30 minutes."
+    sb "Ладно.{w} Встретимся у меня дома через 30 минут."
 
 # game/code/d09/d09s04.rpy:96
 translate russian d09s04_813a3b04:
 
     # mc "I'll go with the, uh, escort mission then."
-    mc "I'll go with the, uh, escort mission then."
+    mc "Тогда я пойду на эскорт."
 
 translate russian strings:
 
     # game/code/d09/d09s04.rpy:74
     old "Bail Out"
-    new "Bail Out"
+    new "Отказаться"
 
     # game/code/d09/d09s04.rpy:88
     old "Be a gigolo"
-    new "Be a gigolo"
+    new "Быть жиголо"
 

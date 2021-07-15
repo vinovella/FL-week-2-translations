@@ -90,6 +90,9 @@ translate russian strings:
     old "Samiya"
     new "Самия"
 
+    old "Aaleyah"
+    new "Алия"
+
     old "HairyHarry"
     new "ВолосатыйГарри"
 

@@ -1299,11 +1299,10 @@ translate russian d09s03_607f7c5b:
 translate russian replay_d09s03_d7fc0734:
 
     # lc "I'm totally fine! What were we talking about?"
-    lc "I'm totally fine! What were we talking about?"
+    lc "Я в полном порядке! О чем мы говорили?"
 
 # game/code/d09/d09s03.rpy:476
 translate russian replay_d09s03_dd9fdea2:
 
     # lc "Have you ever considered painting abstract art or avant-garde poetry contests?"
-    lc "Have you ever considered painting abstract art or avant-garde poetry contests?"
-
+    lc "Ты когда-нибудь задумывался о рисовании абстрактного искусства или о конкурсах авангардной поэзии?"

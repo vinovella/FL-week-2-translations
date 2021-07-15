@@ -2442,19 +2442,19 @@ translate russian strings:
 translate russian d10p2s08_mh_part3_4f2cc688:
 
     # mc "Allison's friend? Blue-purple hair?"
-    mc "Allison's friend? Blue-purple hair?"
+    mc "Подруга Эллисон? С сине-фиолетовыми волосами?"
 
 # game/code/d10p2/d10p2s08.rpy:713
 translate russian d10p2s08_mh_part3_cfc2f32a:
 
     # lc "Oh, right! We talked about her, but I didn't know her name."
-    lc "Oh, right! We talked about her, but I didn't know her name."
+    lc "Ах, точно! Мы говорили с ней, но я не знаю ее имени."
 
 # game/code/d10p2/d10p2s08.rpy:714
 translate russian d10p2s08_mh_part3_20d947bf:
 
     # lc "Please tell me it was Lyssa."
-    lc "Please tell me it was Lyssa."
+    lc "Пожалуйста, скажи мне, что это была Лисса."
 
 # TODO: Translation updated at 2021-05-17 00:08
 
@@ -2462,148 +2462,148 @@ translate russian d10p2s08_mh_part3_20d947bf:
 translate russian d10p2s08_jf_part3_b49a9044:
 
     # mc "So, there was a Human Equine Horse Race. I participated as a jockey."
-    mc "So, there was a Human Equine Horse Race. I participated as a jockey."
+    mc "Итак, состоялись скачки на человеческих лошадях. Я участвовал в качестве жокея."
 
 # game/code/d10p2/d10p2s08.rpy:959
 translate russian d10p2s08_jf_part3_4dc101f1:
 
     # lc "Aren't jockeys for full sized real horses like half your size? Who was your horse???"
-    lc "Aren't jockeys for full sized real horses like half your size? Who was your horse???"
+    lc "Разве жокеи для обычных лошадей не вдвое меньше тебя? Кто же был твоей лошадью????"
 
 # game/code/d10p2/d10p2s08.rpy:961
 translate russian d10p2s08_jf_part3_010f7e48:
 
     # mc "URLittlePony. Cute girl. Does cosplay. She made her own horse costume with hooves and everything."
-    mc "URLittlePony. Cute girl. Does cosplay. She made her own horse costume with hooves and everything."
+    mc "ТвояМаленькаяПони. Милая девушка. Занимается косплеем. Она сшила себе костюм лошади с копытами и всем остальным."
 
 # game/code/d10p2/d10p2s08.rpy:963
 translate russian d10p2s08_jf_part3_14e8620e:
 
     # lc "So, you really just walked while she crawled on all fours beneath you?"
-    lc "So, you really just walked while she crawled on all fours beneath you?"
+    lc "Значит ты просто шёл, а она ползла под тобой на четвереньках?"
 
 # game/code/d10p2/d10p2s08.rpy:965
 translate russian d10p2s08_jf_part3_48e47d9f:
 
     # mc "Somehow she held my weight and was still able to move."
-    mc "Somehow she held my weight and was still able to move."
+    mc "Каким-то чудом она держала меня на весу и могла двигаться."
 
 # game/code/d10p2/d10p2s08.rpy:967
 translate russian d10p2s08_jf_part3_60684bef:
 
     # lc "Okay. Who were the other horses and jockeys?"
-    lc "Okay. Who were the other horses and jockeys?"
+    lc "Ладно. А кто были другие лошади и жокеи?"
 
 # game/code/d10p2/d10p2s08.rpy:969
 translate russian d10p2s08_jf_part3_c50eb4a0:
 
     # mc "Just one other team. Bravo was dressed like a donkey or something. Echo was his rider."
-    mc "Just one other team. Bravo was dressed like a donkey or something. Echo was his rider."
+    mc "Была ещё одна команда. Браво был одет как осел или что-то в этом роде. Эхо была его наездником."
 
 # game/code/d10p2/d10p2s08.rpy:971
 translate russian d10p2s08_jf_part3_3f035b58:
 
     # lc "Okay, that seems like a reasonable pairing at least."
-    lc "Okay, that seems like a reasonable pairing at least."
+    lc "Ладно, по крайней мере, они кажутся продуманной парой."
 
 # game/code/d10p2/d10p2s08.rpy:973
 translate russian d10p2s08_jf_part3_ab008165:
 
     # mc "Yeah, they got off to an early lead."
-    mc "Yeah, they got off to an early lead."
+    mc "Да, они сразу вырвались вперед."
 
 # game/code/d10p2/d10p2s08.rpy:975
 translate russian d10p2s08_jf_part3_a86ed687:
 
     # mc "My pony did her best, but it was slow going."
-    mc "My pony did her best, but it was slow going."
+    mc "Моя пони старалась изо всех сил, но дело шло медленно."
 
 # game/code/d10p2/d10p2s08.rpy:977
 translate russian d10p2s08_jf_part3_e1e21c92:
 
     # mc "Echo and Bravo made it to the halfway point first and started having sex in the cowgirl position."
-    mc "Echo and Bravo made it to the halfway point first and started having sex in the cowgirl position."
+    mc "Эхо и Браво добрались до половины пути и начали заниматься сексом в позе наездницы."
 
 # game/code/d10p2/d10p2s08.rpy:978
 translate russian d10p2s08_jf_part3_889406bb:
 
     # lc "Okay... why?"
-    lc "Okay... why?"
+    lc "Но... зачем?"
 
 # game/code/d10p2/d10p2s08.rpy:980
 translate russian d10p2s08_jf_part3_6ace0c21:
 
     # mc "It was part of the rules. Halfway through the race the equine had to make the jockey climax."
-    mc "It was part of the rules. Halfway through the race the equine had to make the jockey climax."
+    mc "Это было в правилах. На половине дистанции лошадь должна заставить жокея кончить."
 
 # game/code/d10p2/d10p2s08.rpy:981
 translate russian d10p2s08_jf_part3_2eb36ec5:
 
     # mc "Now that I think about it, I think I took URLittlePony's virginity."
-    mc "Now that I think about it, I think I took URLittlePony's virginity."
+    mc "Теперь, когда я думаю об этом, мне кажется, что я лишил девственности ТвоюМаленькуюПони."
 
 # game/code/d10p2/d10p2s08.rpy:983
 translate russian d10p2s08_jf_part3_c1b63891:
 
     # lc "You don't know? Did you ask her?"
-    lc "You don't know? Did you ask her?"
+    lc "Ты не знаешь? Ты не спросил ее?"
 
 # game/code/d10p2/d10p2s08.rpy:987
 translate russian d10p2s08_jf_part3_615d8fb9:
 
     # mc "She was in full costume. Like horse blinders and everything. She had a gag in her mouth, like a horse."
-    mc "She was in full costume. Like horse blinders and everything. She had a gag in her mouth, like a horse."
+    mc "Она была в полном костюме. Со всеми лошадиными повязками и все такое. Во рту у нее был кляп, как у лошади."
 
 # game/code/d10p2/d10p2s08.rpy:991
 translate russian d10p2s08_jf_part3_3b53d5e7:
 
     # mc "But she turned around an presented, and didn't complain when I pulled her panties to the side."
-    mc "But she turned around an presented, and didn't complain when I pulled her panties to the side."
+    mc "Но она повернулась, подставив себя, и не сопротивлялась, когда я стянул ее трусики."
 
 # game/code/d10p2/d10p2s08.rpy:992
 translate russian d10p2s08_jf_part3_89f5da50:
 
     # lc "That's... {w}That's kinda hot."
-    lc "That's... {w}That's kinda hot."
+    lc "Это... {w}Это довольно горячо."
 
 # game/code/d10p2/d10p2s08.rpy:996
 translate russian d10p2s08_jf_part3_668e328c:
 
     # mc "So, there I was fucking URLittlePony doggie style while Echo rode Bravo like a cowgirl."
-    mc "So, there I was fucking URLittlePony doggie style while Echo rode Bravo like a cowgirl."
+    mc "Итак, я трахал ТвоюМаленькуюПони по-собачьи, пока Эхо скакала на Браво, как ковбойша."
 
 # game/code/d10p2/d10p2s08.rpy:1000
 translate russian d10p2s08_jf_part3_126ee15d:
 
     # mc "It was an intense race to see which team's jockey would climax first."
-    mc "It was an intense race to see which team's jockey would climax first."
+    mc "Это была напряженная гонка, все смотрели, какой жокей достигнет кульминации первым."
 
 # game/code/d10p2/d10p2s08.rpy:1004
 translate russian d10p2s08_jf_part3_11ed5a0a:
 
     # mc "Just before I came my pony collapsed from her own orgasm..."
-    mc "Just before I came my pony collapsed from her own orgasm..."
+    mc "Перед самым моим оргазмом моя пони потеряла сознание от собственного оргазма..."
 
 # game/code/d10p2/d10p2s08.rpy:1008
 translate russian d10p2s08_jf_part3_2f652389:
 
     # mc "... so while she was chomping at the bit I shot my load all over her lower back."
-    mc "... so while she was chomping at the bit I shot my load all over her lower back."
+    mc "... так что пока она приходила в себя, я выплеснул свой заряд ей на поясницу."
 
 # game/code/d10p2/d10p2s08.rpy:1158
 translate russian d10p2s08_jf_part5_b1b42c33:
 
     # mc "After that she had the energy of like 5 stallions."
-    mc "After that she had the energy of like 5 stallions."
+    mc "После этого у нее появилась энергия, как у пяти жеребцов."
 
 # game/code/d10p2/d10p2s08.rpy:1159
 translate russian d10p2s08_jf_part5_3b486f92:
 
     # mc "We raced to the finish line and easily won the race."
-    mc "We raced to the finish line and easily won the race."
+    mc "Мы добежали до финиша и легко выиграли гонку."
 
 # game/code/d10p2/d10p2s08.rpy:1161
 translate russian d10p2s08_jf_part5_6e27356e:
 
     # mc "URLittlePony was rewarded with a drink from the Trough of Ultimate Sexual Deviancy."
-    mc "URLittlePony was rewarded with a drink from the Trough of Ultimate Sexual Deviancy."
+    mc "ТвояМаленькаяПони была вознаграждена напитком из Корыта Абсолютной сексуальной девиантности."

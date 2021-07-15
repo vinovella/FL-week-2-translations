@@ -1178,7 +1178,7 @@ translate russian strings:
 
     # game/code/d10p2/d10p2s04-dw.rpy:662
     old "Hold strong"
-    new "Держись крепче"
+    new "Держись дальше"
 
     # game/code/d10p2/d10p2s04-dw.rpy:691
     old "Cum harder"

@@ -806,41 +806,41 @@ translate russian strings:
 translate russian d09s05_ef5e49b3:
 
     # "After 25 minutes [mcname] arrives at Samiya's place..."
-    "After 25 minutes [mcname] arrives at Samiya's place..."
+    "Через 25 минут [mcname] прибывает к Самии..."
 
 # game/code/d09/d09s05.rpy:34
 translate russian d09s05_d5ff7835:
 
     # mct "Now I have to run back to Samiya's place. I hope this show of hers isn't anything special..."
-    mct "Now I have to run back to Samiya's place. I hope this show of hers isn't anything special..."
+    mct "Теперь мне нужно бежать обратно к Самии. Надеюсь, это ее шоу не будет чем-то особенным..."
 
 # game/code/d09/d09s05.rpy:534
 translate russian d09s05_end_0017e17d:
 
     # sb "You are going to work better."
-    sb "You are going to work better."
+    sb "Ты будешь стараться лучше."
 
 # game/code/d09/d09s05.rpy:536
 translate russian d09s05_end_19b8090f:
 
     # sb "Now you will have to do something else for me if you want to get that luggage back."
-    sb "Now you will have to do something else for me if you want to get that luggage back."
+    sb "Тебе придется сделать для меня кое-что еще, если хочешь получить этот чемодан обратно."
 
 # game/code/d09/d09s05.rpy:539
 translate russian d09s05_end_dfdba905:
 
     # mc "I think I will prank the \"M.I.L.F\" then."
-    mc "I think I will prank the \"M.I.L.F\" then."
+    mc "Думаю, я буду разыгрывать \"М.И.Л.Ф.У\"."
 
 # game/code/d09/d09s05.rpy:544
 translate russian d09s05_end_3ad4bc9c:
 
     # mc "I'll go with the escort mission then."
-    mc "I'll go with the escort mission then."
+    mc "Тогда я соглашусь на эскорт."
 
 translate russian strings:
 
     # game/code/d09/d09s05.rpy:537
     old "\"Prank a M.I.L.F.\""
-    new "\"Prank a M.I.L.F.\""
+    new "\"Разыграть М.И.Л.Ф.У.\""
 
