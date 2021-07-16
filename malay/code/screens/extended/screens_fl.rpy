@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-07-15 10:22
+﻿# TODO: Translation updated at 2021-07-17 00:37
 
 translate malay strings:
 
