@@ -4,31 +4,31 @@ translate malay strings:
 
     # game/code/screens/extended/screens_fl.rpy:167
     old "CLOSE"
-    new "CLOSE"
+    new "TUTUP"
 
     # game/code/screens/extended/screens_fl.rpy:184
     old "CG Gallery"
-    new "CG Gallery"
+    new "Galeri CG"
 
     # game/code/screens/extended/screens_fl.rpy:190
     old "Replay Room"
-    new "Replay Room"
+    new "Bilik Main Semula"
 
     # game/code/screens/extended/screens_fl.rpy:196
     old "Bonus Content"
-    new "Bonus Content"
+    new "Kandungan Bonus"
 
     # game/code/screens/extended/screens_fl.rpy:203
     old "Hints on"
-    new "Hints on"
+    new "Petunjuk Diaktifkan"
 
     # game/code/screens/extended/screens_fl.rpy:203
     old "Hints off"
-    new "Hints off"
+    new "Petunjuk Dinyahaktifkan"
 
     # game/code/screens/extended/screens_fl.rpy:219
     old "Page [page]"
-    new "Page [page]"
+    new "Halaman [page]"
 
     # game/code/screens/extended/screens_fl.rpy:267
     old "<"
