@@ -12,11 +12,11 @@ translate malay strings:
 
     # game/code/functions.rpy:123
     old "You can watch the scene again in the Replay Room"
-    new "You can watch the scene again in the Replay Room"
+    new "Anda boleh menonton semula adegan ini di Ruang Main Semula"
 
     # game/code/functions.rpy:123
     old "You've unlocked a new bonus content"
-    new "Anda telah berjaya membuka kandungan bonus baru"
+    new "Anda telah berjaya membuka kandungan bonus baharu"
 
     # game/code/functions.rpy:154
     old "The game will replay the scene\naccording to a default playthrough"
