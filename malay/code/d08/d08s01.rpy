@@ -268,7 +268,7 @@ translate malay d08s01_bathe_6d4e0429:
 translate malay d08s01_bathe_b8bd9a8c:
 
     # mct "I can't believe what I am seeing. {w}How is this even possible?"
-    mct "Aku tak percaya. {w}Macam mana ni berlaku? Rasa macam tengah main \"Visual Novel\" sekarang.""
+    mct "Aku tak percaya. {w}Macam mana ni berlaku? Rasa macam tengah main \"Visual Novel\" sekarang."
 
 # game/code/d08/d08s01.rpy:191
 translate malay d08s01_bathe_84a25daa:
@@ -459,4 +459,3 @@ translate malay strings:
     # game/code/d08/d08s01.rpy:127
     old "Let Stacy bathe with you"
     new "Biarkan Stacy mandi bersama"
-

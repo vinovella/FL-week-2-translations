@@ -46,7 +46,7 @@ translate malay d08s02_df3ed211:
 translate malay d08s02_6321213c:
 
     # mc "Yeah, well... breakfast looks delicious at least."
-    mc "Yeah, jadi... sarapan nampak sedap sekurang0kurangnya.
+    mc "Yeah, jadi... sarapan nampak sedap sekurang0kurangnya."
 
 # game/code/d08/d08s02.rpy:29
 translate malay d08s02_9f2e4146:
@@ -130,7 +130,7 @@ translate malay d08s02_a2199f42:
 translate malay d08s02_e82785ee:
 
     # sy "I didn't steal it. You left it behind, and I recovered it."
-    sy "Mana ada. Kau yang tinggalkan, dan aku yang jumpa.
+    sy "Mana ada. Kau yang tinggalkan, dan aku yang jumpa."
 
 # game/code/d08/d08s02.rpy:60
 translate malay d08s02_5d256f52:
@@ -160,7 +160,7 @@ translate malay d08s02_5f97e86a:
 translate malay d08s02_4dceb393:
 
     # sy "You know, where girls or guys take massive objects and shove them inside themselves."
-    sy "Ala, yang lelaki atau perempuan masukkan objek besar ke dalam mereka tu.
+    sy "Ala, yang lelaki atau perempuan masukkan objek besar ke dalam mereka tu."
 
 # game/code/d08/d08s02.rpy:72
 translate malay d08s02_eab76f21:
@@ -628,7 +628,7 @@ translate malay d08s02_e88c3bd3:
 translate malay d08s02_873dbba3:
 
     # sy "What are you guys talking about?"
-    sy "Apa yang korang tengah cakap?
+    sy "Apa yang korang tengah cakap?"
 
 # game/code/d08/d08s02.rpy:223
 translate malay d08s02_c5b31f4f:
@@ -719,4 +719,3 @@ translate malay d08s02_d4dcfd6e:
 
     # arj "I'll see you in class."
     arj "Jumpa dekat kelas nanti."
-

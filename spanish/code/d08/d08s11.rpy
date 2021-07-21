@@ -376,7 +376,7 @@ translate spanish d08s11_9b59f137:
 translate spanish d08s11_82fa1be9:
 
     # mh "When was the last time you fellated baby cows while tap dancing and wearing lederhosen?"
-    mh "¿Cuándo fue la última vez que fellaste a vacas bebé mientras bailabas y usabas traje de tirolés?""
+    mh "¿Cuándo fue la última vez que fellaste a vacas bebé mientras bailabas y usabas traje de tirolés?"
 
 # game/code/d08/d08s11.rpy:136
 translate spanish d08s11_16642d00:
@@ -508,7 +508,7 @@ translate spanish d08s11_51035295:
 translate spanish d08s11_a63b6a24:
 
     # ceo "The person who wrote this book is clearly mentally deranged, and no reasonable person would believe any of what they have written."
-    ceo ""La persona que escribió este libro está claramente trastornada mentalmente, y ninguna persona razonable creería nada de lo que ha escrito."
+    ceo "La persona que escribió este libro está claramente trastornada mentalmente, y ninguna persona razonable creería nada de lo que ha escrito."
 
 # game/code/d08/d08s11.rpy:174
 translate spanish d08s11_01fc2dc7:
@@ -658,13 +658,13 @@ translate spanish d08s11_2689b56d:
 translate spanish d08s11_2e219ace:
 
     # peon "Nope. She also got Mister Moneybags to commit slander under oath against her client."
-    peon "Nop. Ella también consiguió que el Señor Bolsas de Dinero cometiera calumnias bajo juramento contra su cliente
+    peon "Nop. Ella también consiguió que el Señor Bolsas de Dinero cometiera calumnias bajo juramento contra su cliente."
 
 # game/code/d08/d08s11.rpy:216
 translate spanish d08s11_35b0dd06:
 
     # mc "I had no idea that ridicule was legal."
-    mc "No tenía idea de que el ridículo fuera legal"
+    mc "No tenía idea de que el ridículo fuera legal."
 
 # game/code/d08/d08s11.rpy:218
 translate spanish d08s11_223b23ed:
@@ -718,7 +718,7 @@ translate spanish d08s11_e826fb2a:
 translate spanish d08s11_f29be997:
 
     # mh "And I highly recommend that you hire a lawyer for that suit. Only a fool represents himself."
-    mh ""Y le recomiendo que contrate a un abogado para ese juicio. Sólo un tonto se representa a sí mismo."
+    mh "Y le recomiendo que contrate a un abogado para ese juicio. Sólo un tonto se representa a sí mismo."
 
 # game/code/d08/d08s11.rpy:243
 translate spanish d08s11_a14e1858:
@@ -754,7 +754,7 @@ translate spanish d08s11_d1a0d4cc:
 translate spanish d08s11_0cd4518d:
 
     # mh "Yes, Oliver. Please wait for me. I need a break."
-    mh ""Sí, Oliver. Por favor espérame. Necesito un descanso."
+    mh "Sí, Oliver. Por favor espérame. Necesito un descanso."
 
 # game/code/d08/d08s11.rpy:255
 translate spanish d08s11_3ce6c41d:
@@ -779,4 +779,3 @@ translate spanish d08s11_802969c8:
 
     # op "Oh... okay..."
     op "Oh... está bien..."
-
