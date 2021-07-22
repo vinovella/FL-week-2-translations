@@ -16,7 +16,7 @@ translate malay d08s03_23c37cdf:
 translate malay d08s03_014606bc:
 
     # mc "Hey Min, Antony, are you hosting another... ?"
-    mc "Hey Min, Antony, adakah korang akan...?
+    mc "Hey Min, Antony, adakah korang akan...?"
 
 # game/code/d08/d08s03.rpy:35
 translate malay d08s03_7c8ad1b9:
@@ -28,7 +28,7 @@ translate malay d08s03_7c8ad1b9:
 translate malay d08s03_476d3299:
 
     # mes "Yes. We're going to have another little get together this Wednesday night."
-    mes "Ya. Kia akan adakan satu pertemuan kecil lagi Rabu malam ini. "
+    mes "Ya. Kia akan adakan satu pertemuan kecil lagi Rabu malam ini."
 
 # game/code/d08/d08s03.rpy:40
 translate malay d08s03_ffd853cf:
