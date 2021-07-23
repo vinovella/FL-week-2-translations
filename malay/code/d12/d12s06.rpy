@@ -211,10 +211,10 @@ translate malay d12s06_dw_6f6091c4:
     dd "Don't. You could get a UTI."
 
 # game/code/d12/d12s06.rpy:209
-translate malay d12s06_dw_d20e4415:
+translate malay d12s06_dw_4f88f07d:
 
-    # dw "Argh, Fuck."
-    dw "Argh, Fuck."
+    # dw "Argh, fuck."
+    dw "Argh, fuck."
 
 # game/code/d12/d12s06.rpy:212
 translate malay d12s06_dw_8848736c:
@@ -851,4 +851,3 @@ translate malay replay_d12s06_dd_0817892e:
 
     # mc "Always."
     mc "Always."
-

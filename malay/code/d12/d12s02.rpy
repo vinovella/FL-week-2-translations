@@ -433,10 +433,10 @@ translate malay d12s02_168e5abf:
     hr "She can be a hard ass at times, but I know she's thankful as well."
 
 # game/code/d12/d12s02.rpy:247
-translate malay d12s02_a4fcea7a:
+translate malay d12s02_ca140a85:
 
-    # mc "Don't worry about it. It was nothing"
-    mc "Don't worry about it. It was nothing"
+    # mc "Don't worry about it. It was nothing."
+    mc "Don't worry about it. It was nothing."
 
 # game/code/d12/d12s02.rpy:249
 translate malay d12s02_40daa0ca:
@@ -643,10 +643,10 @@ translate malay d12s02_138b33c0:
     hr "Anyway, what was that?"
 
 # game/code/d12/d12s02.rpy:368
-translate malay d12s02_a95fe941:
+translate malay d12s02_15fabde3:
 
-    # mct "*Sign* Well there goes [d12_cost_of_blitz] points down the drain."
-    mct "*Sign* Well there goes [d12_cost_of_blitz] points down the drain."
+    # mct "*Sigh* Well there goes [d12_cost_of_blitz] points down the drain."
+    mct "*Sigh* Well there goes [d12_cost_of_blitz] points down the drain."
 
 # game/code/d12/d12s02.rpy:373
 translate malay d12s02_893ad253:
@@ -817,4 +817,3 @@ translate malay strings:
     # game/code/d12/d12s02.rpy:343
     old "Do it (spend [d12_cost_of_blitz] points)"
     new "Do it (spend [d12_cost_of_blitz] points)"
-

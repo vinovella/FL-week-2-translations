@@ -655,10 +655,10 @@ translate malay d12s04_mhmc_69_2e0c896f:
     mc "*Coughs* Yeah, I'm fine."
 
 # game/code/d12/d12s04.rpy:552
-translate malay d12s04_mhmc_69_33f2cf26:
+translate malay d12s04_mhmc_69_5dc56ff4:
 
-    # mh "You didn't have to do that, y'know.{w} Lets do something different."
-    mh "You didn't have to do that, y'know.{w} Lets do something different."
+    # mh "You didn't have to do that, y'know.{w} Let's do something different."
+    mh "You didn't have to do that, y'know.{w} Let's do something different."
 
 # game/code/d12/d12s04.rpy:567
 translate malay d12s04_mhmc_hj_762ea443:
@@ -827,4 +827,3 @@ translate malay strings:
     # game/code/d12/d12s04.rpy:476
     old "Take the plunge; be a considerate lover"
     new "Take the plunge; be a considerate lover"
-
