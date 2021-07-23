@@ -480,44 +480,38 @@ translate russian replay_d13s08_0639cb8a:
     # mc "Okay. I will be right here."
     mc "Хорошо. Я буду здесь."
 
-# game/code/d13/d13s08.rpy:394
-translate russian replay_d13s08_06397220:
+# game/code/d13/d13s08.rpy:514
+translate russian d13s08_telescope_7e9ebbc0:
 
-    # mc "Hm, don't remember that being there the last time I was here."
+    # mc "Wait, I don't remember that being there the last time I was here."
     mc "Хм, не помню, чтобы это было здесь, когда я был здесь в последний раз."
 
-# game/code/d13/d13s08.rpy:398
-translate russian replay_d13s08_ac3386a1:
+# game/code/d13/d13s08.rpy:519
+translate russian d13s08_telescope_ac3386a1:
 
     # mct "Huh? Is she spying on someone?{w} Nobody seems to be home though."
     mct "Хм? Она за кем-то шпионит? {w}Но, похоже, никого нет дома."
 
-# game/code/d13/d13s08.rpy:400
-translate russian replay_d13s08_16e91caf:
+# game/code/d13/d13s08.rpy:523
+translate russian d13s08_telescope_16e91caf:
 
     # mct "I didn't know she was the voyeur type. Interesting..."
     mct "Я не знал, что она занимается вуайеризмом. Интересно..."
 
-# game/code/d13/d13s08.rpy:401
-translate russian replay_d13s08_d84295e7:
+# game/code/d13/d13s08.rpy:522
+translate russian d13s08_telescope_d84295e7:
 
     # mct "Have I seen this room somewhere? Seems to be familiar."
     mct "Я где-то видел эту комнату? Кажется знакомой."
 
-# game/code/d13/d13s08.rpy:402
-translate russian replay_d13s08_03fa72d7:
+# game/code/d13/d13s08.rpy:533
+translate russian d13s08_end_9324219d:
 
-    # mct "Better go see what AmRose and Stacy are up to."
+    # mct "And go see what Stacy and AmRose are up to."
     mct "Лучше пойду посмотрю, чем занимаются АмРоуз и Стейси."
 
-# game/code/d13/d13s08.rpy:407
-translate russian replay_d13s08_4a677e11:
-
-    # mct "Better go see what those two are up to."
-    mct "Лучше пойти посмотреть, что эти двое затеяли."
-
-# game/code/d13/d13s08.rpy:410
-translate russian replay_d13s08_de91fe0d:
+# game/code/d13/d13s08.rpy:532
+translate russian d13s08_end_de91fe0d:
 
     # mct "Let's wait for Vanessa to come out."
     mct "Наверное не буду ждать, пока Ванесса выйдет."
@@ -555,4 +549,3 @@ translate russian strings:
     # game/code/d13/d13s08.rpy:352
     old "Have her wear it later"
     new "Пусть наденет в таком виде"
-

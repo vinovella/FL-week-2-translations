@@ -654,10 +654,10 @@ translate russian d12s04_mhmc_69_2e0c896f:
     # mc "*Coughs* Yeah, I'm fine."
     mc "*кашляет* Да, я в порядке."
 
-# game/code/d12/d12s04.rpy:428
-translate russian d12s04_mhmc_69_33f2cf26:
+# game/code/d12/d12s04.rpy:552
+translate russian d12s04_mhmc_69_5dc56ff4:
 
-    # mh "You didn't have to do that, y'know.{w} Lets do something different."
+    # mh "You didn't have to do that, y'know.{w} Let's do something different."
     mh "Знаешь, тебе не нужно было этого делать. {w}Давай сделаем что-то другое."
 
 # game/code/d12/d12s04.rpy:440
@@ -827,4 +827,3 @@ translate russian strings:
     # game/code/d12/d12s04.rpy:369
     old "Take the plunge; be a considerate lover"
     new "Принять решение; быть внимательным любовником"
-

@@ -34,3 +34,11 @@ translate russian strings:
     old "Fetish Locator is intended for a mature audience\nof 18 years or older. Please abide by your local laws.\nAll characters are 18 years or older. No exceptions.\nThe characters in Fetish Locator explore relationships and their sexuality in both healthy and unhealthy ways. Some of these may be offensive to some players. Viewer discretion is advised. To that end, much of the content is optional and often there are alternative paths available. This is necessary to the story. The content explored should not be treated as an endorsement of particular fetishes, kinks, or patterns of behaviour. Please explore your own relationships and sexuality responsibly.\n\nEnjoy!"
     new "Фетиш Локатор предназначен для взрослой аудитории\nот 18 лет и старше. Пожалуйста, соблюдайте местные законы.\nВсе персонажи - от 18 лет и старше. Никаких исключений.\nПерсонажи в Фетиш Локаторе исследуют отношения и свою сексуальность как здоровыми, так и нездоровыми способами. Некоторые из них могут быть оскорбительными для некоторых игроков. Зрителю рекомендуется действовать по своему усмотрению. В связи с этим большая часть контента является необязательной, и часто существуют альтернативные пути. Это необходимо для сюжета. Исследуемое содержание не должно рассматриваться как одобрение определенных фетишей, извращений или моделей поведения. Пожалуйста, исследуйте свои собственные отношения и сексуальность ответственно.\n\nНаслаждайтесь!"
 
+# TODO: Translation updated at 2021-07-23 23:15
+
+translate russian strings:
+
+    # game/code/screens/screens_fl.rpy:485
+    old "X-RAY"
+    new "X-RAY"
+

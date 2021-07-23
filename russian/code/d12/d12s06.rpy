@@ -210,10 +210,10 @@ translate russian d12s06_dw_6f6091c4:
     # dd "Don't. You could get a UTI."
     dd "Не делай этого. Ты можешь подхватить инфекцию мочевыводящих путей."
 
-# game/code/d12/d12s06.rpy:171
-translate russian d12s06_dw_d20e4415:
+# game/code/d12/d12s06.rpy:209
+translate russian d12s06_dw_4f88f07d:
 
-    # dw "Argh, Fuck."
+    # dw "Argh, fuck."
     dw "Аргх, бля."
 
 # game/code/d12/d12s06.rpy:173
@@ -851,4 +851,3 @@ translate russian replay_d12s06_dd_0817892e:
 
     # mc "Always."
     mc "Всегда пожалуйста."
-

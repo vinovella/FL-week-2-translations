@@ -522,15 +522,14 @@ translate russian d13s01_end_fda6b376:
     # mct "Sweet freedom."
     mct "Сладкая свобода."
 
-# game/code/d13/d13s01.rpy:354
-translate russian d13s01_end_7dc59272:
+# game/code/d13/d13s01.rpy:461
+translate russian d13s01_end_e827db01:
 
-    # mct "Right. I need to go check out that bartender Am told me about."
-    mct "Точно. Мне нужно проверить того бармена, о котором говорила Ам."
+    # mct "Right. I need to go check out that bartender AmRose told me about."
+    mct "Точно. Мне нужно проверить того бармена, о котором говорила АмРоуз."
 
 translate russian strings:
 
     # game/code/d13/d13s01.rpy:116
     old "Stay and study"
     new "Остаться и учиться"
-

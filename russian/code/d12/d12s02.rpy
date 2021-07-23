@@ -432,10 +432,10 @@ translate russian d12s02_168e5abf:
     # hr "She can be a hard ass at times, but I know she's thankful as well."
     hr "Временами она может быть довольно жесткой задницей, но я знаю, что она тоже благодарна."
 
-# game/code/d12/d12s02.rpy:199
-translate russian d12s02_a4fcea7a:
+# game/code/d12/d12s02.rpy:247
+translate russian d12s02_ca140a85:
 
-    # mc "Don't worry about it. It was nothing"
+    # mc "Don't worry about it. It was nothing."
     mc "Не беспокойся об этом. Это ничего не значило."
 
 # game/code/d12/d12s02.rpy:201
@@ -642,10 +642,10 @@ translate russian d12s02_138b33c0:
     # hr "Anyway, what was that?"
     hr "Ладно, о чем мы говорили?"
 
-# game/code/d12/d12s02.rpy:299
-translate russian d12s02_a95fe941:
+# game/code/d12/d12s02.rpy:368
+translate russian d12s02_15fabde3:
 
-    # mct "*Sign* Well there goes [d12_cost_of_blitz] points down the drain."
+    # mct "*Sigh* Well there goes [d12_cost_of_blitz] points down the drain."
     mct "*вздох* Ну вот, [d12_cost_of_blitz] катится вниз."
 
 # game/code/d12/d12s02.rpy:303
@@ -817,4 +817,3 @@ translate russian strings:
     # game/code/d12/d12s02.rpy:278
     old "Do it (spend [d12_cost_of_blitz] points)"
     new "Сделать это (потратьте [d12_cost_of_blitz] очков)"
-
