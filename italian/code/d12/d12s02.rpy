@@ -432,10 +432,10 @@ translate italian d12s02_168e5abf:
     # hr "She can be a hard ass at times, but I know she's thankful as well."
     hr "So che non è facile combatterci, ma sono certa che anche lei ti sia stata grata."
 
-# game/code/d12/d12s02.rpy:203
-translate italian d12s02_a4fcea7a:
+# game/code/d12/d12s02.rpy:247
+translate italian d12s02_ca140a85:
 
-    # mc "Don't worry about it. It was nothing"
+    # mc "Don't worry about it. It was nothing."
     mc "Non ti preoccupare. Non è stato niente."
 
 # game/code/d12/d12s02.rpy:205
@@ -642,10 +642,10 @@ translate italian d12s02_138b33c0:
     # hr "Anyway, what was that?"
     hr "Mh... di che parlavamo?"
 
-# game/code/d12/d12s02.rpy:303
-translate italian d12s02_a95fe941:
+# game/code/d12/d12s02.rpy:368
+translate italian d12s02_15fabde3:
 
-    # mct "*Sign* Well there goes [d12_cost_of_blitz] points down the drain."
+    # mct "*Sigh* Well there goes [d12_cost_of_blitz] points down the drain."
     mct "*Sigh* [d12_cost_of_blitz] punti buttati nel cesso."
 
 # game/code/d12/d12s02.rpy:307
@@ -817,4 +817,3 @@ translate italian strings:
     # game/code/d12/d12s02.rpy:278
     old "Do it (spend [d12_cost_of_blitz] points)"
     new "Lo fai (consumi [d12_cost_of_blitz] punti)"
-

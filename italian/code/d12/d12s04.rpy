@@ -654,10 +654,10 @@ translate italian d12s04_mhmc_69_2e0c896f:
     # mc "*Coughs* Yeah, I'm fine."
     mc "*tossendo* Sì, sto bene."
 
-# game/code/d12/d12s04.rpy:432
-translate italian d12s04_mhmc_69_33f2cf26:
+# game/code/d12/d12s04.rpy:552
+translate italian d12s04_mhmc_69_5dc56ff4:
 
-    # mh "You didn't have to do that, y'know.{w} Lets do something different."
+    # mh "You didn't have to do that, y'know.{w} Let's do something different."
     mh "Non sentirti costretto a farlo.{w} Proviamo qualcosa di diverso."
 
 # game/code/d12/d12s04.rpy:444
@@ -827,4 +827,3 @@ translate italian strings:
     # game/code/d12/d12s04.rpy:373
     old "Take the plunge; be a considerate lover"
     new "Fai il grande passo: ti comporti da amante premuroso"
-

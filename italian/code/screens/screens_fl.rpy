@@ -42,3 +42,11 @@ translate italian strings:
     old "Fetish Locator is intended for a mature audience\nof 18 years or older. Please abide by your local laws.\nAll characters are 18 years or older. No exceptions.\nThe characters in Fetish Locator explore relationships and their sexuality in both healthy and unhealthy ways. Some of these may be offensive to some players. Viewer discretion is advised. To that end, much of the content is optional and often there are alternative paths available. This is necessary to the story. The content explored should not be treated as an endorsement of particular fetishes, kinks, or patterns of behaviour. Please explore your own relationships and sexuality responsibly.\n\nEnjoy!"
     new "Fetish Locator è destinato ad un pubblico di persone adulte, di età pari o superiore a 18 anni. Si prega di rispettare le leggi locali. Tutti i personaggi di Fetish Locator, senza eccezione, hanno almeno 18 anni. Essi hanno relazioni ed esplorano pratiche sessuali talora sicure per la salute, talora no. Alcuni giocatori potrebbero ritenerle offensive. Proprio per questo, la maggior parte del contenuto del gioco è opzionale e spesso sono disponibili percorsi alternativi. Questo è necessario per lo svolgimento della storia. Il contenuto esplorato non si deve intendere come apologetico di particolari fetish, perversioni o comportamenti. Per favore, esplorate le relazioni e la vostra sessualità responsabilmente.\n\nBuon divertimento!"
 
+# TODO: Translation updated at 2021-07-23 23:31
+
+translate italian strings:
+
+    # game/code/screens/screens_fl.rpy:485
+    old "X-RAY"
+    new "X-RAY"
+

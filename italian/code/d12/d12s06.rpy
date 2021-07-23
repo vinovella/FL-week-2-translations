@@ -210,10 +210,10 @@ translate italian d12s06_dw_6f6091c4:
     # dd "Don't. You could get a UTI."
     dd "Evita. Non vorrai farti venire un'infezione."
 
-# game/code/d12/d12s06.rpy:171
-translate italian d12s06_dw_d20e4415:
+# game/code/d12/d12s06.rpy:209
+translate italian d12s06_dw_4f88f07d:
 
-    # dw "Argh, Fuck."
+    # dw "Argh, fuck."
     dw "Argh, merda."
 
 # game/code/d12/d12s06.rpy:173
@@ -851,4 +851,3 @@ translate italian replay_d12s06_dd_0817892e:
 
     # mc "Always."
     mc "Sempre."
-

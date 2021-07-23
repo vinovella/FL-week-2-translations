@@ -258,11 +258,11 @@ translate italian d12s05_62ac6924:
     # lc "Baby I'll let you in, yeah."
     lc "Baby I'll let you in, yeah.\n{i}amore, ti lascerò entrare in me, sì.{/i}"
 
-# game/code/d12/d12s05.rpy:144
-translate italian d12s05_6fc20724:
+# game/code/d12/d12s05.rpy:169
+translate italian d12s05_e03d71e1:
 
-    # lc "Keep on staring to my eyes."
-    lc "Keep on staring to my eyes.\n{i}Continua a guardarmi negli occhi,{/i}"
+    # lc "Keep on staring into my eyes."
+    lc "Keep on staring into my eyes.\n{i}Continua a fissarmi negli occhi.{/i}"
 
 # game/code/d12/d12s05.rpy:146
 translate italian d12s05_b93c8612:
@@ -1211,4 +1211,3 @@ translate italian strings:
     # game/code/d12/d12s05.rpy:437
     old "Stop Lydia Before You Cum"
     new "Fermi Lydia prima di venire"
-

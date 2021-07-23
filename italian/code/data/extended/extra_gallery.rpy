@@ -154,3 +154,11 @@ translate italian strings:
     old "Day 8: AmRose"
     new "Day 8: AmRose"
 
+# TODO: Translation updated at 2021-07-23 23:31
+
+translate italian strings:
+
+    # game/code/data/extended/extra_gallery.rpy:15
+    old "Day 9: Squizzle - Selfie"
+    new "Day 9: Squizzle - Selfie"
+

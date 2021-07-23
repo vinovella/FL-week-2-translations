@@ -358,3 +358,115 @@ translate italian strings:
     old "Don't lie to Lydia"
     new "Don't lie to Lydia"
 
+# TODO: Translation updated at 2021-07-23 23:31
+
+translate italian strings:
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 8: Dahlia"
+    new "Day 8: Dahlia"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 8: Daisy"
+    new "Day 8: Daisy"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 8: Shontae"
+    new "Day 8: Shontae"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 8: Hana"
+    new "Day 8: Hana"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 8: Allison"
+    new "Day 8: Allison"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 8: Polly & Nora - 2"
+    new "Day 8: Polly & Nora - 2"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 8: Lydia"
+    new "Day 8: Lydia"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 9: Samiya"
+    new "Day 9: Samiya"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Straight to the point"
+    new "Straight to the point"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 9: Squizzle"
+    new "Day 9: Squizzle"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 9: Lydia"
+    new "Day 9: Lydia"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 10: Maria"
+    new "Day 10: Maria"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Warn Maria"
+    new "Warn Maria"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 10: Stacy"
+    new "Day 10: Stacy"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Try all of the tasks"
+    new "Try all of the tasks"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 10: Hana & Iona"
+    new "Day 10: Hana & Iona"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 10: AmRose - Naked"
+    new "Day 10: AmRose - Naked"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "You must have more than 50 FL Points"
+    new "You must have more than 50 FL Points"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 10: AmRose - Maid"
+    new "Day 10: AmRose - Maid"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "You must have less than 50 FL Points"
+    new "You must have less than 50 FL Points"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Party 2: Girls"
+    new "Party 2: Girls"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Cum more than 7 times in the Party"
+    new "Cum more than 7 times in the Party"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Party 2: Iona"
+    new "Party 2: Iona"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Party 2: Min"
+    new "Party 2: Min"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Safe words are for noobs"
+    new "Safe words are for noobs"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Party 2: Iona - Bar"
+    new "Party 2: Iona - Bar"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Don't intervene"
+    new "Don't intervene"
+
