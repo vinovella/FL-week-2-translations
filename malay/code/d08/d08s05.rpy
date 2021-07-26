@@ -274,7 +274,7 @@ translate malay d08s05_dd_1651f315:
 translate malay d08s05_dd_b292b593:
 
     # sy "So, you do know her?"
-    sy "Maksudnya kau kenal dia?
+    sy "Maksudnya kau kenal dia?"
 
 # game/code/d08/d08s05.rpy:116
 translate malay d08s05_dd_02c7b059:
@@ -286,13 +286,13 @@ translate malay d08s05_dd_02c7b059:
 translate malay d08s05_dd_1d7fc9ca:
 
     # mc "You went to high school with Samiya? And Dahlia too?"
-    mc "Kau pergi ke sekolah menengah dengan Samiya dan Dahlia juga?
-    
+    mc "Kau pergi ke sekolah menengah dengan Samiya dan Dahlia juga?"
+
 # game/code/d08/d08s05.rpy:120
 translate malay d08s05_dd_7aa3a666:
 
     # dd "It's not that weird. Seperti separuh orang dari kelas kami datang ke sini."
-    dd "Bukannya pelik pun.
+    dd "Bukannya pelik pun."
 
 # game/code/d08/d08s05.rpy:122
 translate malay d08s05_dd_2cd36bd2:
@@ -322,7 +322,7 @@ translate malay d08s05_dd_ff251ef7:
 translate malay d08s05_dd_3859fa41:
 
     # dd "Meanwhile I was there, friends with both of them, and just like \"Ugh, you're as bad as Batman and the Joker. Just fuck already!\""
-    dd "Aku pula dekat sini, berkawan dengan mereka, dah macam \"Ugh, korang berdua ni teruk macam Batman dan Joker. Kongek aje lah!\"
+    dd "Aku pula dekat sini, berkawan dengan mereka, dah macam \"Ugh, korang berdua ni teruk macam Batman dan Joker. Kongek aje lah!\""
 
 # game/code/d08/d08s05.rpy:132
 translate malay d08s05_dd_24fb4913:
@@ -358,7 +358,7 @@ translate malay d08s05_dd_a34281ac:
 translate malay d08s05_dd_f5eb4f21:
 
     # dd "Ha! Oh, yeah. There's a funny story about that."
-    dd "Ha! Oh, yeah. Cerita tu agak kelakar?
+    dd "Ha! Oh, yeah. Cerita tu agak kelakar?"
 
 # game/code/d08/d08s05.rpy:145
 translate malay d08s05_dd_42576e57:
@@ -436,7 +436,7 @@ translate malay d08s05_dd_43fe5a5b:
 translate malay d08s05_dd_d7e1eca5:
 
     # mc "Doesn't matter."
-    mc "Tak kesah lah.
+    mc "Tak kesah lah."
 
 # game/code/d08/d08s05.rpy:169
 translate malay d08s05_dd_19729ae1:
@@ -467,7 +467,7 @@ translate malay d08s05_dd_954291b6:
 
     # sy "The Prom Queen got to pick her Prom King?"
     sy "Ratu Prom boleh pilih Raja Prom?"
-    
+
 # game/code/d08/d08s05.rpy:177
 translate malay d08s05_dd_0fbe898e:
 
@@ -479,7 +479,7 @@ translate malay d08s05_dd_8911c944:
 
     # mc "Yeah, I mean Dahlia must have been crushed."
     mc "Yeah, aku rasa Dahlia mesti rasa sedih pasal tu."
-    
+
 # game/code/d08/d08s05.rpy:180
 translate malay d08s05_dd_83d7d13c:
 
@@ -569,7 +569,7 @@ translate malay d08s05_dd_0106c1b2:
 
     # dd "You know how I said Samiya never did anything herself? She would get someone else to do it for her?"
     dd "Kau tahu bila aku cakap pasal Samiya tak pernah buat semuanya untuk dia? Dia upah orang lain untuk buatkan untuknya?"
-    
+
 # game/code/d08/d08s05.rpy:204
 translate malay d08s05_dd_00765a01:
 
@@ -646,7 +646,7 @@ translate malay d08s05_dd_d8682bc6:
 translate malay d08s05_dd_a3efa3a7:
 
     # mc "Do you know anyone she does hang out with? Maybe someone else from your school?"
-    mc "Kau tahu dengan siapa dia bergaul? Mungkin orang lain dari sekolah kau?
+    mc "Kau tahu dengan siapa dia bergaul? Mungkin orang lain dari sekolah kau?"
 
 # game/code/d08/d08s05.rpy:228
 translate malay d08s05_dd_0c802f51:
@@ -748,7 +748,7 @@ translate malay d08s05_dw_0a84f66d:
 translate malay d08s05_dw_8ddece80:
 
     # sy "Did she just call you her slave?"
-    sy "Betul apa yang aku dengar? Dia panggil kau "hamba"?"
+    sy "Betul apa yang aku dengar? Dia panggil kau \"hamba\"?"
 
 # game/code/d08/d08s05.rpy:316
 translate malay d08s05_dw_c2ae4ef3:
@@ -785,7 +785,7 @@ translate malay d08s05_dw_7e8b2165:
 
     # sy "Depends. Are you going to be the Dungeon Master or the Mistress?"
     sy "Bergantung juga. Adakah awak akan jadi Dungeon Master atau Puan?"
-    
+
 # game/code/d08/d08s05.rpy:329
 translate malay d08s05_dw_e9f6f6e2:
 
@@ -808,7 +808,7 @@ translate malay d08s05_dw_f61f66e0:
 translate malay d08s05_dw_08f1b822:
 
     # mc "I'd love to play, but we're kinda in a hurry. Right, Stacy?"
-    mc "Aku boleh saja nak bermain, tapi kami perlu cepat. Betul kan, Stacy?
+    mc "Aku boleh saja nak bermain, tapi kami perlu cepat. Betul kan, Stacy?"
 
 # game/code/d08/d08s05.rpy:338
 translate malay d08s05_dw_e0798176:
@@ -904,7 +904,7 @@ translate malay d08s05_dw_ee2aaa9b:
 translate malay d08s05_dw_6bac721e:
 
     # dw "Stacy, was it? Did you want to be audience or participant?"
-    dw "Stacy, bukan? Awak mahu jadi penonton atau peserta?
+    dw "Stacy, bukan? Awak mahu jadi penonton atau peserta?"
 
 # game/code/d08/d08s05.rpy:379
 translate malay d08s05_dw_549e8ea5:
@@ -1215,4 +1215,3 @@ translate malay strings:
     # game/code/d08/d08s05.rpy:351
     old "Yes, Mistress"
     new "Ya, Puan."
-
