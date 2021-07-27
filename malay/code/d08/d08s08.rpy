@@ -256,7 +256,7 @@ translate malay d08s08_4f38a989:
 translate malay d08s08_997e8b7f:
 
     # pb "Anyway, so I called Dahlia and asked where Samiya could be. She said something about a SugarDaddy and gave me the address."
-    pb "Apa-apa pun, jadi aku telefon Dahlia dan tanya di mana Samiya boleh berada. Dia kata sesuatu pasal "Sugar Daddy" dan bagi aku satu alamat."
+    pb "Apa-apa pun, jadi aku telefon Dahlia dan tanya di mana Samiya boleh berada. Dia kata sesuatu pasal \"SugarDaddy\" dan bagi aku satu alamat."
 
 # game/code/d08/d08s08.rpy:128
 translate malay d08s08_deb64b11:
@@ -467,4 +467,3 @@ translate malay d08s08_2fff4bf6:
 
     # mc "Take it easy, and hey...{w} Thanks for trying."
     mc "Bertenanglah dan hey...{w} Terima kasih sebab mencuba."
-
