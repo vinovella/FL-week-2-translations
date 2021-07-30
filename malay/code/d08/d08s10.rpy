@@ -286,7 +286,7 @@ translate malay d08s10_e9da2bc5:
 translate malay d08s10_f89f0990:
 
     # aw "We haven't spoken since they found out that I was working as a stripper."
-    aw ""Kami tak bercakap sejak mereka tahu yang aku bekerja sebagai penari telanjang"
+    aw "Kami tak bercakap sejak mereka tahu yang aku bekerja sebagai penari telanjang"
 
 # game/code/d08/d08s10.rpy:131
 translate malay d08s10_269507d9:
@@ -695,4 +695,3 @@ translate malay d08s10_606e2d02:
 
     # mc "Sure."
     mc "Baiklah."
-
