@@ -520,7 +520,7 @@ translate malay d08s12_lyssa_cum_a4fcb7ef:
 translate malay d08s12_lyssa_cum_93089a5f:
 
     # mh "Oh! I'm sorry!"
-    mh "Oh! Maafkan aku!
+    mh "Oh! Maafkan aku!"
 
 # game/code/d08/d08s12.rpy:457
 translate malay d08s12_lyssa_cum_d027e52a:
@@ -544,7 +544,7 @@ translate malay d08s12_lyssa_cum_245049a7:
 translate malay d08s12_lyssa_cum_0feed7f8:
 
     # mh "Let me clean this up!"
-    mh "Mai sini aku bersihkan
+    mh "Mai sini aku bersihkan!"
 
 # game/code/d08/d08s12.rpy:470
 translate malay d08s12_lyssa_cum_b525b5d5:
@@ -604,13 +604,13 @@ translate malay d08s12_end_86d6b291:
 translate malay d08s12_end_fb6b1ef2:
 
     # mc "I know. Just giving you a hard time."
-    mc "Tahu. Susah-susah je.
+    mc "Tahu. Susah-susah je."
 
 # game/code/d08/d08s12.rpy:500
 translate malay d08s12_end_6c5544fb:
 
     # mh "Heh, I can't wait to see you again!."
-    mh "Heh, tak sabar aku nak jumpa kau lagi.
+    mh "Heh, tak sabar aku nak jumpa kau lagi."
 
 # game/code/d08/d08s12.rpy:501
 translate malay d08s12_end_0b11053a:
@@ -622,7 +622,7 @@ translate malay d08s12_end_0b11053a:
 translate malay d08s12_end_c079e6e2:
 
     # mc "Cool. I'll see you around."
-    mc "Baiklah. Jumpa lagi.
+    mc "Baiklah. Jumpa lagi."
 
 # game/code/d08/d08s12.rpy:512
 translate malay d08s12_end_86a2d04c:
@@ -688,7 +688,7 @@ translate malay strings:
 
     # game/code/d08/d08s12.rpy:178
     old "I have a big surprise for you (Give Lyssa a Blowjob)"
-    new "Ada kejutan untuk kau (Jilat kote Lyssa)
+    new "Ada kejutan untuk kau (Jilat kote Lyssa)"
 
     # game/code/d08/d08s12.rpy:356
     old "Give her some pleasure"
