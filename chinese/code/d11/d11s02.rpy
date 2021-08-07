@@ -1738,3 +1738,11 @@ translate chinese d11s02_76e2bd99:
     # mc "Stop. Tomato Juice. [mc_safeword!t]. Halt."
     mc "停下。番茄汁。[mc_safeword!t]。停。"
 
+# TODO: Translation updated at 2021-08-07 22:56
+
+# game/code/d11/d11s02.rpy:37
+translate chinese d11s02_c8046555:
+
+    # arj "Just a few more days... finals are coming soon."
+    arj "Just a few more days... finals are coming soon."
+
