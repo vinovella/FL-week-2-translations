@@ -1744,5 +1744,5 @@ translate chinese d11s02_76e2bd99:
 translate chinese d11s02_c8046555:
 
     # arj "Just a few more days... finals are coming soon."
-    arj "Just a few more days... finals are coming soon."
+    arj "再过几天……终章即将到来。"
 
