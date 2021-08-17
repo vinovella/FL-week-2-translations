@@ -364,13 +364,13 @@ translate chinese d12s01_0e82bcc3:
 translate chinese d12s01_aa67627f:
 
     # arj "It's a difficult challenge - it will require assistants. Not just women, but connections and ideas."
-    arj "这个挑战很难--需要助手的。缺的不只是女伴，还有情感联系和主意。"
+    arj "这个挑战很难--需要助手的。缺的不只是女伴，还有情感关系和好主意。"
 
 # game/code/d12/d12s01.rpy:233
 translate chinese d12s01_d4172c91:
 
     # mc "And it is my cock on the chopping block if I fail."
-    mc "假如我失败了，那就是把鸡巴放切菜板上啊。"
+    mc "假如我失败了，那就是把鸡巴放切菜板上，悬得很啊。"
 
 # game/code/d12/d12s01.rpy:236
 translate chinese d12s01_4df3657c:
@@ -622,7 +622,7 @@ translate chinese d12s01_4b61fe43:
 translate chinese d12s01_840d1e48:
 
     # arj "Well, they're only [d12_cost_of_blitz] points. If a situation comes up where it might get you another fuck-"
-    arj "嗯，他们只有[d12_cost_of_blitz]点。如果出现了可能让你再干一次的情况--"
+    arj "嗯，它们只要[d12_cost_of_blitz]点。想象这么个场景，你需要秒射--"
 
 # game/code/d12/d12s01.rpy:336
 translate chinese d12s01_c56d29b1:
@@ -706,7 +706,7 @@ translate chinese d12s01_fc1200af:
 translate chinese d12s01_2db8430b:
 
     # mct "That is one fine looking woman {w}- strutting naked across her living room."
-    mct "真是个漂亮女人-{w}-光着身子在客厅里昂首阔步地走着。”"
+    mct "真是个漂亮女人-{w}-光着身子在客厅里昂首阔步地走着。"
 
 # game/code/d12/d12s01.rpy:374
 translate chinese d12s01_0ee63cd7:
@@ -1120,7 +1120,7 @@ translate chinese d12s01_cum_ass_74082afe:
 translate chinese d12s01_arj_cum_a76f22c5:
 
     # arj "MY TURN!"
-    arj "给我！"
+    arj "到我了！"
 
 # game/code/d12/d12s01.rpy:746
 translate chinese d12s01_arj_cum_16a0784d:
@@ -1342,7 +1342,7 @@ translate chinese d12s01_arj_cum_fa74739a:
 translate chinese d12s01_arj_cum_25e5c5c9:
 
     # arj "Oh, and Maria?"
-    arj "对了，Maria？"
+    arj "对了，玛丽亚？"
 
 # game/code/d12/d12s01.rpy:889
 translate chinese d12s01_arj_cum_f8e90c76:
@@ -1528,19 +1528,19 @@ translate chinese d12s01_end_6b2ea4c5:
 translate chinese d12s01_end_f81c98fd:
 
     # arj "Did you want some head before you head out?"
-    arj "在你出门之前，你想要一些头吗？"
+    arj "在你出门之前，你想不想搞快点再来一次？"
 
 # game/code/d12/d12s01.rpy:966
 translate chinese d12s01_end_0771d895:
 
     # mc "I'd love to, but I've gotta meet someone for lunch."
-    mc "我很想，但我得和别人一起吃午饭。"
+    mc "我很想，但我急着去见别人一起吃午饭。"
 
 # game/code/d12/d12s01.rpy:968
 translate chinese d12s01_end_b16f1b12:
 
     # arj "I'm sure they could wait."
-    arj "我很想，但我得和别人一起吃午饭。"
+    arj "可以让那人等一会吧。"
 
 # game/code/d12/d12s01.rpy:972
 translate chinese d12s01_end_df5b3f94:
