@@ -130,13 +130,13 @@ translate chinese d12s02_389fe0a5:
 translate chinese d12s02_9ce9007a:
 
     # "Mysterious Woman" "You better show up if you don't want to go in for a long, long time what you did."
-    "神秘女子" "如果你不想被自己所做的事折磨太久，你最好露面。"
+    "神秘女子" "你最好是露面，否则你会后悔如今的所作所为。"
 
 # game/code/d12/d12s02.rpy:84
 translate chinese d12s02_5fe1c124:
 
     # "Mysterious Woman" "Oh, I'm sure you have your ways."
-    "神秘女子" "哦，我相信你有你自己的方法。"
+    "神秘女子" "哦，我相信你会有办法的。"
 
 # game/code/d12/d12s02.rpy:85
 translate chinese d12s02_18a8ed6b:
@@ -310,7 +310,7 @@ translate chinese d12s02_1e300456:
 translate chinese d12s02_21f218e2:
 
     # hr "Alright. Let's go with that then."
-    hr "行，那也给我们上这个吧。"
+    hr "行，那给我们上这个吧。"
 
 # game/code/d12/d12s02.rpy:178
 translate chinese d12s02_97f9cb19:
@@ -346,7 +346,7 @@ translate chinese d12s02_eb012abc:
 translate chinese d12s02_1910ad44:
 
     # mc "Same ol', same ol'. Just recently went to another one of those parties a couple of days back."
-    mc "老样子。就在最近，前几天又去了一个这样的派对。"
+    mc "老样子。就在前几天，我又去了一个这样的派对。"
 
 # game/code/d12/d12s02.rpy:195
 translate chinese d12s02_685d1647:
@@ -376,19 +376,19 @@ translate chinese d12s02_ab314285:
 translate chinese d12s02_18e1cfec:
 
     # mct "Yes. Tried to delete his account. He was put into the program."
-    mct "找了，我还试图删除他的账户。他也在项目中了。"
+    mct "找了，我还试图注销他的账户。他最后也在这个项目中。"
 
 # game/code/d12/d12s02.rpy:216
 translate chinese d12s02_fc46eac6:
 
     # mct "Positive."
-    mct "是的。"
+    mct "确定。"
 
 # game/code/d12/d12s02.rpy:219
 translate chinese d12s02_fc46eac6_1:
 
     # mct "Positive."
-    mct "Positive."
+    mct "确定。"
 
 # game/code/d12/d12s02.rpy:224
 translate chinese d12s02_40d409a4:
@@ -400,7 +400,7 @@ translate chinese d12s02_40d409a4:
 translate chinese d12s02_ba132489:
 
     # mc "But I'm pretty sure I ran into your girlfriend there. That was pretty fun."
-    mc "但我很确定我在那里碰到了你的女朋友。挺有意思的。"
+    mc "但我很确定我在那儿碰到了你的女朋友。挺有意思的。"
 
 # game/code/d12/d12s02.rpy:230
 translate chinese d12s02_fd92423d:
@@ -412,7 +412,7 @@ translate chinese d12s02_fd92423d:
 translate chinese d12s02_e166535d:
 
     # hr "So you're the knight in shining armor that came to her rescue?"
-    hr "所以你就是那个穿着闪亮盔甲来救她的骑士?"
+    hr "所以你就是那个穿着闪亮盔甲来救她的骑士？"
 
 # game/code/d12/d12s02.rpy:239
 translate chinese d12s02_687b8b66:
@@ -436,7 +436,7 @@ translate chinese d12s02_168e5abf:
 translate chinese d12s02_ca140a85:
 
     # mc "Don't worry about it. It was nothing."
-    mc "别担心。这没什么。"
+    mc "没事，这没什么的。"
 
 # game/code/d12/d12s02.rpy:249
 translate chinese d12s02_40daa0ca:
@@ -454,7 +454,7 @@ translate chinese d12s02_178d0bfb:
 translate chinese d12s02_514f59f9:
 
     # hr "I'd be even more worried about her going if not for that."
-    hr "如果不是这样，我更担心她的。"
+    hr "如果不是这样，我会更担心她的。"
 
 # game/code/d12/d12s02.rpy:259
 translate chinese d12s02_ead809c4:
@@ -544,7 +544,7 @@ translate chinese d12s02_f1c57b74:
 translate chinese d12s02_d0d7aba8:
 
     # hr "Been running around town seeing if there's anything interesting to write about."
-    hr "我在镇上到处跑，看看有没有什么有趣的东西可以写。"
+    hr "就在镇上到处跑，看看有没有什么有趣的东西可以写。"
 
 # game/code/d12/d12s02.rpy:315
 translate chinese d12s02_fa858424:
@@ -562,7 +562,7 @@ translate chinese d12s02_184d94d1:
 translate chinese d12s02_1d6b84e5:
 
     # mct "Yes. No. [fl_w2_sex_count]."
-    mct "没骗你，没说怎么上，现在有[fl_w2_sex_count]."
+    mct "没骗你，没说怎么上，现在有[fl_w2_sex_count]。"
 
 # game/code/d12/d12s02.rpy:323
 translate chinese d12s02_76d69d7d:
@@ -610,7 +610,7 @@ translate chinese d12s02_d0cacf16:
 translate chinese d12s02_9f1369a3:
 
     # mct "Should I? If Hana goes for it, that'll be plus one fuck for the retention challenge."
-    mct "要不要做？如果哈娜接受了，那就可以为留存计划增加一分。"
+    mct "要不要试试？如果哈娜接受了，那周日挑战我就又多了一个可以操的人。"
 
 # game/code/d12/d12s02.rpy:348
 translate chinese d12s02_83642fbb:
@@ -622,7 +622,7 @@ translate chinese d12s02_83642fbb:
 translate chinese d12s02_a2140666:
 
     # hr "Hey, I gotta go. I'll call you back."
-    hr "嘿，我得走了。我再打给你。"
+    hr "嘿，我得走了。有空再打给你。"
 
 # game/code/d12/d12s02.rpy:354
 translate chinese d12s02_52c2aab6:
@@ -640,7 +640,7 @@ translate chinese d12s02_8b9e21a9:
 translate chinese d12s02_138b33c0:
 
     # hr "Anyway, what was that?"
-    hr "不管了，那是什么？"
+    hr "话说，你说什么来着？"
 
 # game/code/d12/d12s02.rpy:368
 translate chinese d12s02_15fabde3:
@@ -718,7 +718,7 @@ translate chinese d12s02_blitz_38ae3e38:
 translate chinese d12s02_blitz_d9f03be7:
 
     # mc "So, uh, you're still playing then?"
-    mc "那么，呃，你还在玩吗？"
+    mc "那么，呃，你还玩吗？"
 
 # game/code/d12/d12s02.rpy:427
 translate chinese d12s02_blitz_721037a0:
