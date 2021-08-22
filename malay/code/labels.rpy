@@ -34,7 +34,7 @@ translate malay failed_mp_d50e830d:
 translate malay game_over_dbc7b4ac:
 
     # "Seems like you reached game over. Try to play again and use more fetishes and/or different choices."
-    "Seems like you reached game over. Try to play again and use more fetishes and/or different choices."
+    "Nampaknya permainan dag tamat. Cuba sekali lagi dengan festih yang banyak atau/dan pilihan lain."
 
 # game/code/labels.rpy:90
 translate malay support_me_993b3326:
