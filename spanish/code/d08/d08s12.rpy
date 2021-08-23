@@ -4,259 +4,259 @@
 translate spanish d08s12_51233532:
 
     # mh "Fuck me! I AM AWESOME!!! {w}Feels great to win!"
-    mh "Fuck me! I AM AWESOME!!! {w}Feels great to win!"
+    mh "Joder! Soy la hostia!!! {w}Se siente genial ganar!"
 
 # game/code/d08/d08s12.rpy:45
 translate spanish d08s12_da2b7ee3:
 
     # mc "Fuck yeah, You Are Awesome!"
-    mc "Fuck yeah, You Are Awesome!"
+    mc "Joder, Eres genial!"
 
 # game/code/d08/d08s12.rpy:47
 translate spanish d08s12_eb6198ca:
 
     # mh "Shut the door, baby."
-    mh "Shut the door, baby."
+    mh "Cierra la puerta, bebe."
 
 # game/code/d08/d08s12.rpy:49
 translate spanish d08s12_46664b36:
 
     # mh "Don't say a word."
-    mh "Don't say a word."
+    mh "No digas nada mas."
 
 # game/code/d08/d08s12.rpy:51
 translate spanish d08s12_ebccab4c:
 
     # mh "Get undressed. I need you...now!"
-    mh "Get undressed. I need you...now!"
+    mh "Desnudate. Te necesito...Ahora!"
 
 # game/code/d08/d08s12.rpy:53
 translate spanish d08s12_59e95539:
 
     # mc "Wait a second! Didn't you get mad yesterday for almost exposing you on the beach?"
-    mc "Wait a second! Didn't you get mad yesterday for almost exposing you on the beach?"
+    mc "Espera un segundo! No te volviste loca ayer por casi exponerte en la playa?"
 
 # game/code/d08/d08s12.rpy:54
 translate spanish d08s12_1036e3be:
 
     # mh "Huh? Yeah, sorry for my reaction. Things felt out of control yesterday. "
-    mh "Huh? Yeah, sorry for my reaction. Things felt out of control yesterday. "
+    mh "Huh? Si, Lamento mi reaccion. Las cosas se salieron de control ayer. "
 
 # game/code/d08/d08s12.rpy:55
 translate spanish d08s12_71449805:
 
     # mc "And now we're about to do the same thing in your office? What if someone enters?"
-    mc "And now we're about to do the same thing in your office? What if someone enters?"
+    mc "Y ahora estamos por hacer lo mismo en tu oficina? Que ocurre si alguien entra?"
 
 # game/code/d08/d08s12.rpy:57
 translate spanish d08s12_16f55d45:
 
     # mh "The door locks and it is very different from being naked on the beach."
-    mh "The door locks and it is very different from being naked on the beach."
+    mh "La puerta esta cerrada con llave y es muy distinto de ser vistos desnudos en la playa."
 
 # game/code/d08/d08s12.rpy:59
 translate spanish d08s12_1d633005:
 
     # mc "The door isn't soundproof. What makes this different from what happened on the beach?"
-    mc "The door isn't soundproof. What makes this different from what happened on the beach?"
+    mc "La puerta no es a prueba de sonidos. Cual es la diferencia con lo que ocurrio en la playa?"
 
 # game/code/d08/d08s12.rpy:60
 translate spanish d08s12_a37c2f42:
 
     # mc "Weren't you scared of someone related to your work discovering your penis? And now we are at your work!"
-    mc "Weren't you scared of someone related to your work discovering your penis? And now we are at your work!"
+    mc "No te preocupaba que alguien relacionado a tu trabajo descubra tu pene? Y ahora estamos en tu trabajo!"
 
 # game/code/d08/d08s12.rpy:62
 translate spanish d08s12_d216c43e:
 
     # mh "Oh sweet boy! I don't care if people know what is between my legs! I'm pretty sure most of my colleagues know who I am."
-    mh "Oh sweet boy! I don't care if people know what is between my legs! I'm pretty sure most of my colleagues know who I am."
+    mh "Oh dulce niño! No me importa que la gente sepa lo que tengo entre las piernas! Estoy bastante segura de que la mayoria de mis colegas saben quien soy."
 
 # game/code/d08/d08s12.rpy:63
 translate spanish d08s12_b6282b98:
 
     # mc "Then... Why?"
-    mc "Then... Why?"
+    mc "Entonces... Porque?"
 
 # game/code/d08/d08s12.rpy:65
 translate spanish d08s12_3a5f18fa:
 
     # mh "I don't want to hit the news with my naked beach sex pictures exposed. Or even get blackmailed by someone who can take pictures of me there."
-    mh "I don't want to hit the news with my naked beach sex pictures exposed. Or even get blackmailed by someone who can take pictures of me there."
+    mh "No quiero aparecer en las noticias con fotos mi cuerpo desnudo en la playa expuesto. O incluso ser chantajeada por alguien que pudiera tomarme esas fotos."
 
 # game/code/d08/d08s12.rpy:69
 translate spanish d08s12_29638904:
 
     # mc "But we took pictures..."
-    mc "But we took pictures..."
+    mc "Pero nosotros tomamos fotos..."
 
 # game/code/d08/d08s12.rpy:71
 translate spanish d08s12_bd971782:
 
     # mh "Not with my face! And I trust you!"
-    mh "Not with my face! And I trust you!"
+    mh "No de mi cara! Y confio en ti!"
 
 # game/code/d08/d08s12.rpy:72
 translate spanish d08s12_48347db5:
 
     # mct "Damn, I need to become a much better person to live up to her trust!"
-    mct "Damn, I need to become a much better person to live up to her trust!"
+    mct "Maldicion, Necesito convertirme en una mejor persona para estar a la altura de su confianza!"
 
 # game/code/d08/d08s12.rpy:75
 translate spanish d08s12_357e51a0:
 
     # mc "I'm not complaining... I'm just confused."
-    mc "I'm not complaining... I'm just confused."
+    mc "No me estoy quejando... Solo estoy confuso."
 
 # game/code/d08/d08s12.rpy:77
 translate spanish d08s12_a06e304d:
 
     # mh "Here we are in my office and I'm sure we are safe to do anything here."
-    mh "Here we are in my office and I'm sure we are safe to do anything here."
+    mh "Estamos en mi oficina y estoy segura de que estamos seguros para hacer cualquier cosa aqui."
 
 # game/code/d08/d08s12.rpy:78
 translate spanish d08s12_8207ae96:
 
     # mc "Cool. Okay, I get it now."
-    mc "Cool. Okay, I get it now."
+    mc "Genial. Okey, ahora lo entiendo."
 
 # game/code/d08/d08s12.rpy:84
 translate spanish d08s12_631dfe01:
 
     # mc "So now I can do whatever I want to you?"
-    mc "So now I can do whatever I want to you?"
+    mc "Asique ahora puedo hacer cualquier cosa que quiera contigo?"
 
 # game/code/d08/d08s12.rpy:85
 translate spanish d08s12_eff2bc0a:
 
     # mh "Oh, yes mister! I'm all yours!"
-    mh "Oh, yes mister! I'm all yours!"
+    mh "Oh, si amo! Soy toda tuya!"
 
 # game/code/d08/d08s12.rpy:87
 translate spanish d08s12_f3097708:
 
     # mc "Wow! Did you just get hard from that?"
-    mc "Wow! Did you just get hard from that?"
+    mc "Wow! Te acabas de exitar por eso?"
 
 # game/code/d08/d08s12.rpy:90
 translate spanish d08s12_dcae0c21:
 
     # mh "Oh I certainly did!"
-    mh "Oh I certainly did!"
+    mh "Oh ciertamente lo hize!"
 
 # game/code/d08/d08s12.rpy:91
 translate spanish d08s12_ad3ee5ca:
 
     # mc "Does it excite you to know that I can be doing anything to you?"
-    mc "Does it excite you to know that I can be doing anything to you?"
+    mc "Te excita saber que puedo hacerte cualquier cosa?"
 
 # game/code/d08/d08s12.rpy:93
 translate spanish d08s12_bb4d6582:
 
     # mh "My dick is going to tear my skirt! Does that answer your question!?"
-    mh "My dick is going to tear my skirt! Does that answer your question!?"
+    mh "Mi polla va a rasgar mi falda! Eso responde tu pregunta!?"
 
 # game/code/d08/d08s12.rpy:94
 translate spanish d08s12_8bc120ae:
 
     # mc "Strip for me!"
-    mc "Strip for me!"
+    mc "Desnudate para mi!"
 
 # game/code/d08/d08s12.rpy:96
 translate spanish d08s12_57bd43f0:
 
     # mh "Yes, sir!"
-    mh "Yes, sir!"
+    mh "Si, señor!"
 
 # game/code/d08/d08s12.rpy:100
 translate spanish d08s12_afd1f088:
 
     # mh "What is your plan?"
-    mh "What is your plan?"
+    mh "Cual es tu plan?"
 
 # game/code/d08/d08s12.rpy:102
 translate spanish d08s12_c87df3ea:
 
     # mh "Can I stroke my cock for you today?"
-    mh "Can I stroke my cock for you today?"
+    mh "Puedo acariciar mi polla para ti?"
 
 # game/code/d08/d08s12.rpy:113
 translate spanish d08s12_155346cc:
 
     # mh "Come here! I need you!"
-    mh "Come here! I need you!"
+    mh "Ven aqui! Te necesito!"
 
 # game/code/d08/d08s12.rpy:115
 translate spanish d08s12_aa0e2e7d:
 
     # mh "God, it feels like I'm burning!"
-    mh "God, it feels like I'm burning!"
+    mh "Dios, siento como si estuviera ardiendo!"
 
 # game/code/d08/d08s12.rpy:121
 translate spanish d08s12_8ad73aa8:
 
     # mc "Wow! Someone is already excited!"
-    mc "Wow! Someone is already excited!"
+    mc "Wow! Alguien ya esta excitada!"
 
 # game/code/d08/d08s12.rpy:124
 translate spanish d08s12_e0f20f94:
 
     # mh "I can't hold it any longer!"
-    mh "I can't hold it any longer!"
+    mh "No puedo sostenerlo mas!"
 
 # game/code/d08/d08s12.rpy:126
 translate spanish d08s12_8bf30a97:
 
     # mc "Wow, you are about to tear your skirt apart!"
-    mc "Wow, you are about to tear your skirt apart!"
+    mc "Wow, Estas a punto de rasgarte la falda!"
 
 # game/code/d08/d08s12.rpy:128
 translate spanish d08s12_6ccc0ccd:
 
     # mh "Then help me escape it! Quick!"
-    mh "Then help me escape it! Quick!"
+    mh "Entonces ayudame a escapar! Rapido!"
 
 # game/code/d08/d08s12.rpy:130
 translate spanish d08s12_5e4ed7e8:
 
     # mh "Freedom!"
-    mh "Freedom!"
+    mh "Libertad!"
 
 # game/code/d08/d08s12.rpy:132
 translate spanish d08s12_06687c3c:
 
     # mh "Baby! Are you ready for it?"
-    mh "Baby! Are you ready for it?"
+    mh "Baby! Estas listo?"
 
 # game/code/d08/d08s12.rpy:134
 translate spanish d08s12_8e0740c1:
 
     # mc "Let me see it!"
-    mc "Let me see it!"
+    mc "Dejame ver!"
 
 # game/code/d08/d08s12.rpy:140
 translate spanish d08s12_72ef6f7e:
 
     # mh "Would you like to help me with this?..."
-    mh "Would you like to help me with this?..."
+    mh "Te gustaria ayudarme con esto?..."
 
 # game/code/d08/d08s12.rpy:144
 translate spanish d08s12_ebcb3d18:
 
     # mc "That is a huge problem you got here!"
-    mc "That is a huge problem you got here!"
+    mc "Es un gran problema el que tienes ahi!"
 
 # game/code/d08/d08s12.rpy:146
 translate spanish d08s12_e3b6cd7f:
 
     # mc "We might need a full treatment here!"
-    mc "We might need a full treatment here!"
+    mc "Podriamos necesitar un tratamiento completo aqui!"
 
 # game/code/d08/d08s12.rpy:149
 translate spanish d08s12_1cb7a1fc:
 
     # mh "{i}God{/i}, your touch feels electric!"
-    mh "{i}God{/i}, your touch feels electric!"
+    mh "{i}Dios{/i}, Tu toque se siente electrico!"
 
 # game/code/d08/d08s12.rpy:151
 translate spanish d08s12_447601f0:
