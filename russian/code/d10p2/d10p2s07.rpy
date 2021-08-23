@@ -1,9 +1,9 @@
 ﻿# TODO: Translation updated at 2021-04-29 11:52
 
 # game/code/d10p2/d10p2s07.rpy:7
-translate russian d10p2s07_b7b7542f:
+translate russian d10p2s07_f239d031:
 
-    # mct "Mi... Squizzle told me to go 2-nd floor bedroom..."
+    # mct "Mi... Squizzle told me to go 2nd floor bedroom..."
     mct "Мин... Сквизли велела мне идти в спальню на 2-м этаже..."
 
 # game/code/d10p2/d10p2s07.rpy:11
@@ -839,4 +839,3 @@ translate russian d10p2s07_aa77db00:
 
     # mct "Well, I guess I best get ready."
     mct "Что ж, думаю, мне тоже стоит получше подготовиться."
-

@@ -468,10 +468,10 @@ translate russian replay_d13s08_ab277d43:
     # vw "You're too damn slick for your own good, young man."
     vw "Ты слишком хитёр для своего собственного блага, молодой человек."
 
-# game/code/d13/d13s08.rpy:369
-translate russian replay_d13s08_5eaa7d8c:
+# game/code/d13/d13s08.rpy:481
+translate russian replay_d13s08_1b18d17e:
 
-    # vw "I need clean for a bit. I will be back in a moment."
+    # vw "I need to clean up for a bit. I will be back in a moment."
     vw "Мне нужно привести себя в порядок. Я вернусь через минуту."
 
 # game/code/d13/d13s08.rpy:371

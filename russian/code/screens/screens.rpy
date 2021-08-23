@@ -377,3 +377,11 @@ translate russian strings:
     # game/code/screens/screens.rpy:1767
     old "Menu"
     new "Меню"
+# TODO: Translation updated at 2021-08-23 22:16
+
+translate russian strings:
+
+    # game/code/screens/screens.rpy:486
+    old "Character Gallery"
+    new "Character Gallery"
+

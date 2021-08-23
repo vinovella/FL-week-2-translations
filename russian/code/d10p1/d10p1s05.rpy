@@ -876,10 +876,10 @@ translate russian d10p1s05_end_a44d0b48:
     # mesfl "And she was on top, so..."
     mesfl "И она была сверху, так что..."
 
-# game/code/d10p1/d10p1s05.rpy:482
-translate russian d10p1s05_end_221837fb:
+# game/code/d10p1/d10p1s05.rpy:491
+translate russian d10p1s05_end_e8b03348:
 
-    # mc "So, she spit piss all over him?"
+    # mc "So, she spat piss all over him?"
     mc "Значит, она плюнула на него мочой?"
 
 # game/code/d10p1/d10p1s05.rpy:484
@@ -1013,4 +1013,3 @@ translate russian strings:
     # game/code/d10p1/d10p1s05.rpy:330
     old "ATM FTW"
     new "Из зада в рот"
-

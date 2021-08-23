@@ -198,10 +198,10 @@ translate russian d13s07_c92f1c01:
     # mc "It was pretty clear that the receptionist and manager were looking for bribes, but they had screwed up royally."
     mc "Было совершенно ясно, что администратор и менеджер ждали взятки, но они жестоко обломались."
 
-# game/code/d13/d13s07.rpy:81
-translate russian d13s07_96603a07:
+# game/code/d13/d13s07.rpy:123
+translate russian d13s07_f7adbeb5:
 
-    # mc "I told the manager this story about newlyweds getting extorted on their honeymoon, named dropped a couple of travel magazines that might run the story, and then gave him an out."
+    # mc "I told the manager this story about newlyweds getting extorted on their honeymoon, name dropped a couple of travel magazines that might run the story, and then gave him an out."
     mc "Я рассказал менеджеру историю о том, как у молодоженов вымогают деньги во время медового месяца, назвал пару туристических журналов, в которых можно было бы опубликовать эту историю, а затем предложил ему выход."
 
 # game/code/d13/d13s07.rpy:83
@@ -731,4 +731,3 @@ translate russian d13s07_9b0423ef:
 
     # mc "Good night."
     mc "Спокойной ночи."
-

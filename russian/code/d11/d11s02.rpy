@@ -1729,3 +1729,11 @@ translate russian strings:
     # game/code/d11/d11s02.rpy:623
     old "Decline. I want nothing more to do with Maria or Terrell"
     new "Отклонить. Я больше не хочу иметь ничего общего ни с Марией, ни с Терреллом"
+
+# TODO: Translation updated at 2021-08-23 22:16
+
+# game/code/d11/d11s02.rpy:37
+translate russian d11s02_c8046555:
+
+    # arj "Just a few more days... finals are coming soon."
+    arj "Just a few more days... finals are coming soon."

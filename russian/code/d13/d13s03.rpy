@@ -438,10 +438,10 @@ translate russian replay_d13s03_ce21402a:
     # ir "Yeah you taste good. We can meet again some time."
     ir "Да, ты вкусный. Мы можем встретиться снова когда-нибудь."
 
-# game/code/d13/d13s03.rpy:264
-translate russian replay_d13s03_0b50b5ea:
+# game/code/d13/d13s03.rpy:345
+translate russian replay_d13s03_2dacc73c:
 
-    # ir "But I want you cum several times in my panty next time. That is...{w} That turns me on!"
+    # ir "But I want you to cum several times in my panties next time. That is...{w} That turns me on!"
     ir "Но я хочу, чтобы в следующий раз ты несколько раз кончил в мои трусики. Это... {w}Это меня заводит!"
 
 # game/code/d13/d13s03.rpy:266
@@ -503,4 +503,3 @@ translate russian d13s03_end_a95fe941:
 
     # mct "*Sign* Well there goes [d12_cost_of_blitz] points down the drain."
     mct "*вздох* Ну вот и [d12_cost_of_blitz] очков утекло в никуда."
-
