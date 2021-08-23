@@ -876,10 +876,10 @@ translate chinese d10p1s05_end_a44d0b48:
     # mesfl "And she was on top, so..."
     mesfl "而且她还在上面，所以……"
 
-# game/code/d10p1/d10p1s05.rpy:368
-translate chinese d10p1s05_end_221837fb:
+# game/code/d10p1/d10p1s05.rpy:491
+translate chinese d10p1s05_end_e8b03348:
 
-    # mc "So, she spit piss all over him?"
+    # mc "So, she spat piss all over him?"
     mc "所以，她把尿吐他身上了？"
 
 # game/code/d10p1/d10p1s05.rpy:370
@@ -1013,4 +1013,3 @@ translate chinese strings:
     # game/code/d10p1/d10p1s05.rpy:257
     old "ATM FTW"
     new "射她嘴里"
-

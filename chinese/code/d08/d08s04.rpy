@@ -211,9 +211,9 @@ translate chinese replay_d08s04_04270dba:
     mesfl "我觉得挑战是喝你的尿。而不是我的……"
 
 # game/code/d08/d08s04.rpy:141
-translate chinese replay_d08s04_d0c9df34:
+translate chinese replay_d08s04_3f8bc07a:
 
-    # mc "You need see this challenge as a marathon and not a race."
+    # mc "You need to see this challenge as a marathon and not a race."
     mc "你要把这个挑战看作是马拉松，而不是比赛。"
 
 # game/code/d08/d08s04.rpy:142
@@ -527,4 +527,3 @@ translate chinese replay_d08s04_606e2d02:
 
     # mc "Sure."
     mc "当然可以。"
-

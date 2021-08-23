@@ -242,3 +242,47 @@ translate chinese strings:
     old "Don't intervene"
     new "Don't intervene"
 
+# TODO: Translation updated at 2021-08-23 21:48
+
+translate chinese strings:
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 11: Min"
+    new "Day 11: Min"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Are you interested in Min?"
+    new "Are you interested in Min?"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 11: Stacy"
+    new "Day 11: Stacy"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 12: Lydia - Singing"
+    new "Day 12: Lydia - Singing"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Stop Lydia"
+    new "Stop Lydia"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 11: Lydia - Pool"
+    new "Day 11: Lydia - Pool"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 13: The Prostitute"
+    new "Day 13: The Prostitute"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Don't stop Lydia"
+    new "Don't stop Lydia"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 13: Lydia"
+    new "Day 13: Lydia"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 13: Vanessa"
+    new "Day 13: Vanessa"
+

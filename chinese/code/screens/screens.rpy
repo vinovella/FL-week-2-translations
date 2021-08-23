@@ -361,3 +361,11 @@ translate chinese strings:
     # game/code/screens/screens.rpy:1504
     old "No"
     new "否"
+# TODO: Translation updated at 2021-08-23 21:48
+
+translate chinese strings:
+
+    # game/code/screens/screens.rpy:486
+    old "Character Gallery"
+    new "Character Gallery"
+
