@@ -124,7 +124,7 @@ translate chinese d12s07_afad276e:
 translate chinese d12s07_e564104b:
 
     # mc "Exactly like that - except my current goal is through Fetish Locator. {w}I'm trying to fuck 20 people before Monday."
-    mc "正是这样--只不过我的目标是通过性趣探测器完成。{w}我要在周一之前干20个人。"
+    mc "正是这样--只不过我的目标是通过性趣探测器完成的。{w}我要在周一之前干20个人。"
 
 # game/code/d12/d12s07.rpy:85
 translate chinese d12s07_7a342a2c:
@@ -142,19 +142,19 @@ translate chinese d12s07_cb0c8e2b:
 translate chinese d12s07_d0593de2:
 
     # mc "Yeah. {w}I hope that's okay with you."
-    mc "是啊，{w}我希望你不会介意。"
+    mc "是啊，{w}希望你不会介意。"
 
 # game/code/d12/d12s07.rpy:94
 translate chinese d12s07_caafa81f:
 
     # lc "Of course it is, stud!{w} Although, this is only a temporary thing, right?"
-    lc "当然可以，你个傻瓜！{w}不过，这只是暂时的，对吧？"
+    lc "当然不会，你个傻瓜！{w}不过，这只是暂时的，对吧？"
 
 # game/code/d12/d12s07.rpy:98
 translate chinese d12s07_f9885ad3:
 
     # mc "Yeah, I'll probably get bored with the app in a few weeks. {w}It's a fun game, but just a game."
-    mc "是啊，过不了几周，我可能就会厌倦这个应用了。{w}这个游戏是有趣，但也只是个游戏。"
+    mc "是啊，过不了几周，我可能就会厌倦这个应用了。{w}这个游戏是有趣，但终归也只是个游戏。"
 
 # game/code/d12/d12s07.rpy:102
 translate chinese d12s07_660a8b24:
@@ -202,7 +202,7 @@ translate chinese d12s07_7907c630:
 translate chinese d12s07_29505367:
 
     # mc "Yeah, but that was groundbreaking territory for you. It definitely counted."
-    mc "我知道，但那对你来说可是开创性的领域。它绝对算数。"
+    mc "我知道，但那对你来说可是开创性的新领域。它绝对算数。"
 
 # game/code/d12/d12s07.rpy:126
 translate chinese d12s07_56b10f40:
@@ -226,7 +226,7 @@ translate chinese d12s07_f73cedb7:
 translate chinese d12s07_50d148ee:
 
     # lc "Aww, that's kinda sweet."
-    lc "啊，真贴心。"
+    lc "啊，你真贴心。"
 
 # game/code/d12/d12s07.rpy:135
 translate chinese d12s07_e9a28e46:
@@ -244,7 +244,7 @@ translate chinese d12s07_320933ae:
 translate chinese d12s07_397adad5:
 
     # mc "Well, today and yesterday."
-    mc "嗯，今天和昨天加一起。"
+    mc "嗯，昨天今天加一起。"
 
 # game/code/d12/d12s07.rpy:143
 translate chinese d12s07_b6d63622:
@@ -274,7 +274,7 @@ translate chinese d12s07_e59abd2a:
 translate chinese d12s07_050c9195:
 
     # lc "Can you tell me about this afternoon? You know, the two of us in that theater?"
-    lc "你能跟我说说今天下午的事吗？就是我们两个人在那个剧院里？"
+    lc "你能跟我说说今天下午的事吗？描述一下我们两个人在那个剧院里？"
 
 # game/code/d12/d12s07.rpy:153
 translate chinese d12s07_aec0b0fe:
@@ -292,7 +292,7 @@ translate chinese d12s07_36f87373:
 translate chinese d12s07_4edd7703:
 
     # mc "I see. {w}I'd like that too."
-    mc "我明白了。{w}我很乐意。"
+    mc "我明白了。{w}乐意之至。"
 
 # game/code/d12/d12s07.rpy:163
 translate chinese d12s07_182e97d9:
