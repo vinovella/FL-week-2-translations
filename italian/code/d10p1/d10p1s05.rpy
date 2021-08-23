@@ -876,10 +876,10 @@ translate italian d10p1s05_end_a44d0b48:
     # mesfl "And she was on top, so..."
     mesfl "E lei gli stava sopra, così..."
 
-# game/code/d10p1/d10p1s05.rpy:368
-translate italian d10p1s05_end_221837fb:
+# game/code/d10p1/d10p1s05.rpy:491
+translate italian d10p1s05_end_e8b03348:
 
-    # mc "So, she spit piss all over him?"
+    # mc "So, she spat piss all over him?"
     mc "Così gli ha sputato dell'urina addosso?"
 
 # game/code/d10p1/d10p1s05.rpy:370
@@ -1013,4 +1013,3 @@ translate italian strings:
     # game/code/d10p1/d10p1s05.rpy:257
     old "ATM FTW"
     new "Glielo schiaffi in bocca"
-

@@ -401,3 +401,11 @@ translate italian strings:
     # game/code/screens/screens.rpy:830
     old "Delete all"
     new "Cancella tutto"
+# TODO: Translation updated at 2021-08-23 21:59
+
+translate italian strings:
+
+    # game/code/screens/screens.rpy:486
+    old "Character Gallery"
+    new "Character Gallery"
+

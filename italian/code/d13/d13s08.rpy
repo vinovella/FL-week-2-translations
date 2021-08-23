@@ -550,3 +550,11 @@ translate italian strings:
     old "Have her wear it later"
     new "Have her wear it later"
 
+# TODO: Translation updated at 2021-08-23 21:59
+
+# game/code/d13/d13s08.rpy:481
+translate italian replay_d13s08_1b18d17e:
+
+    # vw "I need to clean up for a bit. I will be back in a moment."
+    vw "I need to clean up for a bit. I will be back in a moment."
+

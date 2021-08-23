@@ -1,9 +1,9 @@
 ﻿# TODO: Translation updated at 2021-02-18 10:52
 
-# game/code/d10p2/d10p2s07.rpy:3
-translate italian d10p2s07_b7b7542f:
+# game/code/d10p2/d10p2s07.rpy:7
+translate italian d10p2s07_f239d031:
 
-    # mct "Mi... Squizzle told me to go 2-nd floor bedroom..."
+    # mct "Mi... Squizzle told me to go 2nd floor bedroom..."
     mct "Mi... Squizzle mi ha detto di recarmi nella camera da letto al secondo piano..."
 
 # game/code/d10p2/d10p2s07.rpy:6
@@ -839,4 +839,3 @@ translate italian d10p2s07_aa77db00:
 
     # mct "Well, I guess I best get ready."
     mct "Beh, immagino che anche per me sia l'ora di prepararsi."
-

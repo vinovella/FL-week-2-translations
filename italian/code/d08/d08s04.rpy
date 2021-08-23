@@ -210,10 +210,10 @@ translate italian d08s04_db4db56b:
     # mesfl "I thought the challenge would be to drink your pee. My own is not that exciting..."
     mesfl "I thought the challenge would be to drink your pee. My own is not that exciting..."
 
-# game/code/d08/d08s04.rpy:146
-translate italian d08s04_d0c9df34:
+# game/code/d08/d08s04.rpy:141
+translate italian replay_d08s04_3f8bc07a:
 
-    # mc "You need see this challenge as a marathon and not a race."
+    # mc "You need to see this challenge as a marathon and not a race."
     mc "You need see this challenge as a marathon and not a race."
 
 # game/code/d08/d08s04.rpy:147
@@ -787,7 +787,7 @@ translate italian d08s04_b376ac62:
 
     # mc "Do you need any more help?"
     mc "Do you need any more help?"
-    
+
 
 # Replay Label Lines ########################################################################
 
