@@ -840,3 +840,11 @@ translate deutsch d10p2s07_aa77db00:
     # mct "Well, I guess I best get ready."
     mct "Well, I guess I best get ready."
 
+# TODO: Translation updated at 2021-08-23 21:58
+
+# game/code/d10p2/d10p2s07.rpy:7
+translate deutsch d10p2s07_f239d031:
+
+    # mct "Mi... Squizzle told me to go 2nd floor bedroom..."
+    mct "Mi... Squizzle told me to go 2nd floor bedroom..."
+

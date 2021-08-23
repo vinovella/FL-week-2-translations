@@ -46,3 +46,11 @@ translate deutsch strings:
     old "Disabled"
     new "Disabled"
 
+# TODO: Translation updated at 2021-08-23 21:58
+
+translate deutsch strings:
+
+    # game/code/screens/screens.rpy:486
+    old "Character Gallery"
+    new "Character Gallery"
+

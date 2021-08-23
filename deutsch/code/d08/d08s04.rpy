@@ -1046,3 +1046,11 @@ translate deutsch replay_d08s04_606e2d02:
     # mc "Sure."
     mc "Sure."
 
+# TODO: Translation updated at 2021-08-23 21:58
+
+# game/code/d08/d08s04.rpy:141
+translate deutsch replay_d08s04_3f8bc07a:
+
+    # mc "You need to see this challenge as a marathon and not a race."
+    mc "You need to see this challenge as a marathon and not a race."
+

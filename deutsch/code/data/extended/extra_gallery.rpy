@@ -150,3 +150,11 @@ translate deutsch strings:
     old "Day 8: AmRose"
     new "Day 8: AmRose"
 
+# TODO: Translation updated at 2021-08-23 21:58
+
+translate deutsch strings:
+
+    # game/code/data/extended/extra_gallery.rpy:15
+    old "Day 9: Squizzle - Selfie"
+    new "Day 9: Squizzle - Selfie"
+
