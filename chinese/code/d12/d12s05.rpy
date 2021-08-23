@@ -52,19 +52,19 @@ translate chinese d12s05_a14e80d7:
 translate chinese d12s05_8dd56798:
 
     # mct "Probably because my girlfriend invited me to the place where I've been fucking other women."
-    mct "可能是因为我的女朋友邀请我去和其他女人发生关系的地方吧。"
+    mct "如果女朋友没有邀请我去我和其他女人发生过关系的地方，我应该会更淡定吧。"
 
 # game/code/d12/d12s05.rpy:50
 translate chinese d12s05_d0d6f88d:
 
     # mct "Hopefully Nora hasn't spilled the beans. {w}No pun intended."
-    mct "希望诺拉没有说漏嘴。 {w}没有双关的意思。"
+    mct "希望诺拉没有说漏嘴。{w}呃，没别的意思。"
 
 # game/code/d12/d12s05.rpy:53
 translate chinese d12s05_03640fae:
 
     # mct "I should probably write down a list for Lydia of the women I've fucked, just so she doesn't find out about one by accident."
-    mct "我也许该给莉迪亚列一份我上过的女人的名单，这样她就不会偶然发现了。"
+    mct "我也许该给莉迪亚列一份我上过的女人的名单，这样就不会因为意外露馅了。"
 
 # game/code/d12/d12s05.rpy:55
 translate chinese d12s05_c2477e2d:
@@ -136,13 +136,13 @@ translate chinese d12s05_a40e3b14:
 translate chinese d12s05_862d3374:
 
     # mct "Oh good, it looks like Nora's going to pretend that she isn't pissed off at me."
-    mct "哦，太好了，看来诺拉要假装不生我的气了。"
+    mct "哦，太好了，看来诺拉会假装无事发生的样子。"
 
 # game/code/d12/d12s05.rpy:113
 translate chinese d12s05_0ff377c2:
 
     # mct "I can relax a bit around here.{w}.. at least while Lydia is around."
-    mct "我可以放松一会了{w}……至少在莉迪亚在的时候是这样。"
+    mct "我可以放松一会了{w}……至少在莉迪亚在的时候可以放心了。"
 
 # game/code/d12/d12s05.rpy:117
 translate chinese d12s05_02c6cb87:
@@ -208,19 +208,19 @@ translate chinese d12s05_c01576ae:
 translate chinese d12s05_b5c86972:
 
     # lc "Mmmmmm."
-    lc "Mmmmmm."
+    lc "嗯嗯嗯"
 
 # game/code/d12/d12s05.rpy:157
 translate chinese d12s05_c77f41ae:
 
     # lc "Ahhhh."
-    lc "Ahhhh."
+    lc "啊啊啊。"
 
 # game/code/d12/d12s05.rpy:159
 translate chinese d12s05_5cbff10b:
 
     # lc "Eaaaayaaaaaaa."
-    lc "Eaaaayaaaaaaa."
+    lc "咿呀呀呀。"
 
 # game/code/d12/d12s05.rpy:160
 translate chinese d12s05_49b039c9:
@@ -274,7 +274,7 @@ translate chinese d12s05_b93c8612:
 translate chinese d12s05_ab7a60f7:
 
     # lc "It's when you own me."
-    lc "是你拥有我之时。"
+    lc "也是你拥有我之时。"
 
 # game/code/d12/d12s05.rpy:174
 translate chinese d12s05_3980ae64:
@@ -424,7 +424,7 @@ translate chinese d12s05_32c134cb:
 translate chinese d12s05_c7247a2e:
 
     # lc "You are the most amazing, beautiful, wonderful person I've ever met!"
-    lc "你是我见过的最神奇、最美丽、最棒的人！"
+    lc "你是我见过的最神奇、最美、最棒的人！"
 
 # game/code/d12/d12s05.rpy:256
 translate chinese d12s05_7813994c:
@@ -442,7 +442,7 @@ translate chinese d12s05_f53eb6ef:
 translate chinese d12s05_a21f2e1b:
 
     # nk "Hmm? {w}What? {w}No, I didn't hear anything."
-    nk "嗯？ {w}什么？ {w}没啊，我什么都没听到。"
+    nk "嗯？{w}什么？{w}没啊，我什么都没听到。"
 
 # game/code/d12/d12s05.rpy:269
 translate chinese d12s05_53e08647:
@@ -478,7 +478,7 @@ translate chinese d12s05_144b12c0:
 translate chinese d12s05_0832a3a1:
 
     # nk "Busy - thanks to you.{w} But drop by anytime. I'll make time to talk to you."
-    nk "明天我会很忙--多亏了你。{w}不过你随时都可以来。我会抽时间的和你谈谈。"
+    nk "明天我会很忙--这多亏了你。{w}不过你随时都可以来。我会抽时间和你谈谈。"
 
 # game/code/d12/d12s05.rpy:285
 translate chinese d12s05_f4fc70d4:
@@ -490,7 +490,7 @@ translate chinese d12s05_f4fc70d4:
 translate chinese d12s05_6303ca3a:
 
     # nk "So, are you two official now?"
-    nk "那么，你们两个现在算正式的了吗？"
+    nk "所以你们两个现在算正式在一起了？"
 
 # game/code/d12/d12s05.rpy:292
 translate chinese d12s05_2890c6a8:
@@ -574,7 +574,7 @@ translate chinese d12s05_part2_3e4003e4:
 translate chinese d12s05_part2_b3f20d2b:
 
     # mc "I don't think I've ever been to this theater before."
-    mc "我想我以前从没来过这家剧院。"
+    mc "我以前从没来过这家剧院。"
 
 # game/code/d12/d12s05.rpy:353
 translate chinese d12s05_part2_aea22ee6:
@@ -622,13 +622,13 @@ translate chinese d12s05_part2_820faca2:
 translate chinese d12s05_part2_f988d2dd:
 
     # mct "Oh no. I'm going to have to sit through \"Hello Dolly\" or something."
-    mct "哦，不。我要一直坐着看完\"我爱红娘\"或其他类似的老电影了。."
+    mct "哦，不。我要一直坐着看完\"我爱红娘\"或其他类似的老电影了。"
 
 # game/code/d12/d12s05.rpy:370
 translate chinese d12s05_part2_63ed7a36:
 
     # lc "I thought that the perfect film for us to watch together would be \"Grease\"!"
-    lc "我想我们一起看的最佳电影是\"油脂\"！"
+    lc "我觉得我们一起看的最佳电影是\"油脂\"！"
 
 # game/code/d12/d12s05.rpy:371
 translate chinese d12s05_part2_acb54a85:
@@ -688,7 +688,7 @@ translate chinese d12s05_part2_3448432f:
 translate chinese d12s05_part2_3d8c1e7a:
 
     # mc "I'd love to - especially if we can snuggle up on a couch together while we watch it."
-    mc "我很乐意--特别是如果我们可以依偎在沙发上一起看的话。"
+    mc "我很乐意啊--特别是如果我们可以依偎在沙发上一起看的话。"
 
 # game/code/d12/d12s05.rpy:402
 translate chinese d12s05_part2_fc87b1ff:
@@ -748,13 +748,13 @@ translate chinese d12s05_part2_306b2249:
 translate chinese d12s05_part2_eb6a0c75:
 
     # mc "When I told you what Dahlia did to me in the Pandora room?"
-    mc "当时我在跟你说黛丽娅在潘多拉房间里对我的所作所为吗？"
+    mc "当时我在跟你描述黛丽娅在潘多拉房间里对我的所作所为吗？"
 
 # game/code/d12/d12s05.rpy:426
 translate chinese d12s05_part2_e24a0d19:
 
     # mc "When I told you what I did to Daisy in the Pandora room?"
-    mc "当时我在跟你说我在潘多拉房间里对黛西的所作所为吗？"
+    mc "当时我在跟你描述我在潘多拉房间里对黛西的所作所为吗？"
 
 # game/code/d12/d12s05.rpy:428
 translate chinese d12s05_part2_fcc3ed69:
@@ -820,7 +820,7 @@ translate chinese d12s05_part2_1448efbc:
 translate chinese d12s05_part2_fceba225:
 
     # mc "I don't understand. How would I lose control?"
-    mc "我不明白。我怎么会失控呢？"
+    mc "我不明白。怎么会失控呢？"
 
 # game/code/d12/d12s05.rpy:455
 translate chinese d12s05_part2_036ae085:
@@ -838,7 +838,7 @@ translate chinese d12s05_part2_f6f13374:
 translate chinese d12s05_part2_a0798811:
 
     # mct "Twenty in a long weekend is pretty difficult."
-    mct "在整整一周里，20个人难度也相当大。"
+    mct "在整整一周里，20个人难度也相当大的。"
 
 # game/code/d12/d12s05.rpy:458
 translate chinese d12s05_part2_a9b6e738:
@@ -856,7 +856,7 @@ translate chinese d12s05_part2_458b7cd3:
 translate chinese d12s05_part2_213533a4:
 
     # mct "It's not like I'm really in control right now, but I can't say that... can I?"
-    mct "现在我并不是真的受控制，但我又不能说……不是吗？"
+    mct "现在我并不是完全被操控，但我又不能说……还是我可以说呢？"
 
 # game/code/d12/d12s05.rpy:464
 translate chinese d12s05_part2_f7f6822d:
@@ -886,7 +886,7 @@ translate chinese d12s05_part2_bea65db4:
 translate chinese d12s05_part2_d2f89647:
 
     # mc "But, I think a little compulsion now & then might be a very good thing."
-    mc "但是，我认为现在和以后不久的小强迫都可能在未来是件好事。"
+    mc "但是，我认为现在的偶尔上瘾可能在未来是件好事。"
 
 # game/code/d12/d12s05.rpy:476
 translate chinese d12s05_part2_16cf56e7:
@@ -898,7 +898,7 @@ translate chinese d12s05_part2_16cf56e7:
 translate chinese d12s05_part2_08acb59f:
 
     # mc "Like with video games, or a school project. I get very focused and obsess to accomplish a goal. It's useful."
-    mc "比如电玩，或者学校项目。我变得非常专注和痴迷于完成一个目标。这很有用。"
+    mc "就像电玩，或者学校作业一样。我变得非常专注和痴迷于完成一个目标。还是有用的。"
 
 # game/code/d12/d12s05.rpy:481
 translate chinese d12s05_part2_6bc3b2a9:
@@ -916,7 +916,7 @@ translate chinese d12s05_part2_f1a002ca:
 translate chinese d12s05_part2_62274acd:
 
     # lc "I need to learn how to do that. {w}I obsess about things until I feel like they are eating me alive."
-    lc "这一点上我还需要学习。{w}我会沉迷于一些事情，直到我觉得自己在被它们生吞活剥。"
+    lc "这一点上我还需要学习。{w}我会过于沉迷一些事情，直到我觉得自己在被它们生吞活剥。"
 
 # game/code/d12/d12s05.rpy:488
 translate chinese d12s05_part2_a7a6d4f1:
@@ -934,7 +934,7 @@ translate chinese d12s05_part2_d5e5d9d9:
 translate chinese d12s05_part2_aef79f29:
 
     # lc "I hope so."
-    lc "我希望如此。"
+    lc "希望如此吧。"
 
 # game/code/d12/d12s05.rpy:494
 translate chinese d12s05_part2_a1f16900:
@@ -976,13 +976,13 @@ translate chinese replay_d12s05_2e29f150:
 translate chinese replay_d12s05_a967a52c:
 
     # lc "I want this so badly."
-    lc "我好想要。"
+    lc "你不知道我有多想要。"
 
 # game/code/d12/d12s05.rpy:534
 translate chinese replay_d12s05_6a093463:
 
     # mc "I want this moment to last forever."
-    mc "我想让这一刻永远持续下去"
+    mc "我想让这一刻永远持续下去。"
 
 # game/code/d12/d12s05.rpy:548
 translate chinese replay_d12s05_cd3c7dce:
@@ -1030,7 +1030,7 @@ translate chinese replay_d12s05_6678b814:
 translate chinese d12s05_hjcum_2f6d7d01:
 
     # mc "Oh, your dress. {w}I'm sorry."
-    mc "哦，你的衣服。{w}我很抱歉。"
+    mc "哦，你的衣服。{w}对不起了。"
 
 # game/code/d12/d12s05.rpy:604
 translate chinese d12s05_hjcum_94855dfc:
@@ -1048,7 +1048,7 @@ translate chinese d12s05_hjcum_a4ec78b1:
 translate chinese d12s05_hjcum_844b458e:
 
     # lc "I think I'll just head home and get a shower."
-    lc "我想我还是回家洗个澡吧。有道理。"
+    lc "我想我还是回家洗个澡吧。"
 
 # game/code/d12/d12s05.rpy:613
 translate chinese d12s05_hjcum_f7d3cdb3:
@@ -1060,7 +1060,7 @@ translate chinese d12s05_hjcum_f7d3cdb3:
 translate chinese d12s05_hjcum_2ba1596b:
 
     # mc "This was awesome. Thank you so much for that."
-    mc "这真是太棒了。真的很谢谢你了。"
+    mc "真是太棒了。真的很谢谢你了。"
 
 # game/code/d12/d12s05.rpy:618
 translate chinese d12s05_hjcum_2a60131d:
@@ -1096,7 +1096,7 @@ translate chinese d12s05_stop_7698f9cc:
 translate chinese d12s05_stop_a750bfe9:
 
     # mc "It's okay. {w}All I need is you."
-    mc "没关系。{w}我只需要你。"
+    mc "没关系。{w}你对我来说才最重要。"
 
 # game/code/d12/d12s05.rpy:659
 translate chinese d12s05_stop_fc8667cc:
@@ -1114,7 +1114,7 @@ translate chinese d12s05_stop_f05db5ad:
 translate chinese d12s05_stop_92c98c98:
 
     # mct "I am certain to have a massive case of blue balls{w}, but I can deal with that."
-    mct "我下面肯定会涨的不行{w}，但我可以搞定。"
+    mct "我下面肯定会涨的不行{w}，但我可以搞定的。"
 
 # game/code/d12/d12s05.rpy:666
 translate chinese d12s05_stop_0ba3c149:
