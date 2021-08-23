@@ -732,3 +732,11 @@ translate malay d13s07_9b0423ef:
     # mc "Good night."
     mc "Good night."
 
+# TODO: Translation updated at 2021-08-23 21:56
+
+# game/code/d13/d13s07.rpy:123
+translate malay d13s07_f7adbeb5:
+
+    # mc "I told the manager this story about newlyweds getting extorted on their honeymoon, name dropped a couple of travel magazines that might run the story, and then gave him an out."
+    mc "I told the manager this story about newlyweds getting extorted on their honeymoon, name dropped a couple of travel magazines that might run the story, and then gave him an out."
+

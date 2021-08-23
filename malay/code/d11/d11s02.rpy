@@ -1730,3 +1730,11 @@ translate malay strings:
     old "Decline. I want nothing more to do with Maria or Terrell"
     new "Decline. I want nothing more to do with Maria or Terrell"
 
+# TODO: Translation updated at 2021-08-23 21:56
+
+# game/code/d11/d11s02.rpy:37
+translate malay d11s02_c8046555:
+
+    # arj "Just a few more days... finals are coming soon."
+    arj "Just a few more days... finals are coming soon."
+

@@ -211,9 +211,9 @@ translate malay replay_d08s04_04270dba:
     mesfl "Aku ingatkan cabarannya adalah minum air kencing kau. Bukannya aku punya..."
 
 # game/code/d08/d08s04.rpy:141
-translate malay replay_d08s04_d0c9df34:
+translate malay replay_d08s04_3f8bc07a:
 
-    # mc "You need see this challenge as a marathon and not a race."
+    # mc "You need to see this challenge as a marathon and not a race."
     mc "Kau perlu lihat cabaran ini sebagai maraton dan bukan perlumbaan."
 
 # game/code/d08/d08s04.rpy:142
@@ -527,4 +527,3 @@ translate malay replay_d08s04_606e2d02:
 
     # mc "Sure."
     mc "Baiklah."
-

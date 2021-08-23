@@ -827,3 +827,53 @@ translate malay strings:
     # game/code/d12/d12s04.rpy:476
     old "Take the plunge; be a considerate lover"
     new "Take the plunge; be a considerate lover"
+
+# TODO: Translation updated at 2021-08-23 21:56
+
+# game/code/d12/d12s04.rpy:207
+translate malay replay_d12s04_f874a4ed:
+
+    # mh "Oh, [mcname]! I wanted to talk to you actually, I saw you—"
+    mh "Oh, [mcname]! I wanted to talk to you actually, I saw you—"
+
+# game/code/d12/d12s04.rpy:210
+translate malay replay_d12s04_a082fb00:
+
+    # mc "With the judge?"
+    mc "With the judge?"
+
+# game/code/d12/d12s04.rpy:212
+translate malay replay_d12s04_98f67cdc:
+
+    # mh "Yes. What were you...?"
+    mh "Yes. What were you...?"
+
+# game/code/d12/d12s04.rpy:214
+translate malay replay_d12s04_eaa95fad:
+
+    # mc "I wanted to come see you, but had some stuff I need to clear up with the judge."
+    mc "I wanted to come see you, but had some stuff I need to clear up with the judge."
+
+# game/code/d12/d12s04.rpy:216
+translate malay replay_d12s04_4eaa0254:
+
+    # mh "What stuff?"
+    mh "What stuff?"
+
+# game/code/d12/d12s04.rpy:218
+translate malay replay_d12s04_928b0ded:
+
+    # mct "Shit."
+    mct "Shit."
+
+# game/code/d12/d12s04.rpy:220
+translate malay replay_d12s04_ca26d0bf:
+
+    # mc "I know her from a bit back. Don't worry about it."
+    mc "I know her from a bit back. Don't worry about it."
+
+# game/code/d12/d12s04.rpy:223
+translate malay replay_d12s04_faf75cbc:
+
+    # mh "Huh. Still, I didn't know that you were gonna come by today. How long have you been here? Why didn't you call me?"
+    mh "Huh. Still, I didn't know that you were gonna come by today. How long have you been here? Why didn't you call me?"

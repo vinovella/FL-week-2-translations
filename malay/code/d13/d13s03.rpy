@@ -504,3 +504,11 @@ translate malay d13s03_end_a95fe941:
     # mct "*Sign* Well there goes [d12_cost_of_blitz] points down the drain."
     mct "*Sign* Well there goes [d12_cost_of_blitz] points down the drain."
 
+# TODO: Translation updated at 2021-08-23 21:56
+
+# game/code/d13/d13s03.rpy:345
+translate malay replay_d13s03_2dacc73c:
+
+    # ir "But I want you to cum several times in my panties next time. That is...{w} That turns me on!"
+    ir "But I want you to cum several times in my panties next time. That is...{w} That turns me on!"
+
