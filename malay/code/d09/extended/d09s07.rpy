@@ -214,7 +214,7 @@ translate malay d09s07_8f8d9e8c:
 translate malay d09s07_07dfee0a:
 
     # mct "Terrific.{w} What the hell am I doing?"
-    mct "Bagus.{w} Apa benda yang aku buat?{w} \"Adakah apa yang dia kata tadi merujuk kepada "Popeye The Sailor Man" atau restoran makanan segera?\""
+    mct "Bagus.{w} Apa benda yang aku buat?{w} \"Adakah apa yang dia kata tadi merujuk kepada \"Popeye The Sailor Man\" atau restoran makanan segera?\""
 
 # game/code/d09/extended/d09s07.rpy:134
 translate malay d09s07_96c2ca1b:
@@ -970,13 +970,13 @@ translate malay d09s07_end_12442001:
 translate malay d09s07_end_40777db7:
 
     # mc "I'm so sorry. I can't-"
-    mc "Maafkan saya. Saya tak boleh-
+    mc "Maafkan saya. Saya tak boleh-"
 
 # game/code/d09/extended/d09s07.rpy:664
 translate malay d09s07_end_3eb6a03b:
 
     # jdg "Hey! Listen to me."
-    jdg "Hey! Dengar dulu
+    jdg "Hey! Dengar dulu."
 
 # game/code/d09/extended/d09s07.rpy:666
 translate malay d09s07_end_5718b307:
@@ -1000,7 +1000,7 @@ translate malay d09s07_end_923531c6:
 translate malay d09s07_end_04d36be1:
 
     # jdg "It was terrifying as hell, but..."
-    jdg "Ianya menakutkan, tapi...
+    jdg "Ianya menakutkan, tapi..."
 
 # game/code/d09/extended/d09s07.rpy:674
 translate malay d09s07_end_833184ec:
@@ -1066,7 +1066,7 @@ translate malay d09s07_end_287081de:
 translate malay d09s07_end_d261e478:
 
     # jdg "You're welcome to find me again anytime, anywhere. {w}The more unexpected, the better."
-    jdg "Awak boleh jumpa saya bila-bila masa dan di mana sahaja. {w}Semakin tak dijangka, semakin baik." 
+    jdg "Awak boleh jumpa saya bila-bila masa dan di mana sahaja. {w}Semakin tak dijangka, semakin baik."
 
 # game/code/d09/extended/d09s07.rpy:705
 translate malay d09s07_end_2a67fcb3:
@@ -1108,7 +1108,7 @@ translate malay d09s07_end_ce4bc81c:
 translate malay d09s07_end_bc722708:
 
     # jdg "Okay, well... do you remember who I am?"
-    jdg "Okay, baiklah... awak ingat siapa saya?
+    jdg "Okay, baiklah... awak ingat siapa saya?"
 
 # game/code/d09/extended/d09s07.rpy:734
 translate malay d09s07_end_e6c6a17d:
@@ -1120,7 +1120,7 @@ translate malay d09s07_end_e6c6a17d:
 translate malay d09s07_end_6250a6df:
 
     # jdg "Find me again sometime. The more unexpected the better."
-    jdg "Awak boleh jumpa saya bila-bila masa dan di mana sahaja. {w}Semakin tak dijangka, semakin baik." 
+    jdg "Awak boleh jumpa saya bila-bila masa dan di mana sahaja. {w}Semakin tak dijangka, semakin baik."
 
 # game/code/d09/extended/d09s07.rpy:738
 translate malay d09s07_end_3bc965e7:
@@ -1145,7 +1145,7 @@ translate malay d09s07_end_8f8b0366:
 
     # jdg "Well, if you ever need a favor, you know who I am. {w}And what I want."
     jdg "Sekiranya awak memerlukan bantuan, awak tahu siapa saya. {w}Dan apa yang saya mahukan."
-    
+
 # game/code/d09/extended/d09s07.rpy:750
 translate malay d09s07_end_70aeb2ba:
 
@@ -1193,7 +1193,7 @@ translate malay d09s07_end_552db567:
 
     # mct "That better be enough to get Stacy's luggage back."
     mct "Rasanya itu dah cukup untuk dapatkan beg Stacy balik."
-    
+
 # game/code/d09/extended/d09s07.rpy:798
 translate malay d09s07_phone_b91bee09:
 
@@ -1217,7 +1217,7 @@ translate malay d09s07_phone_50a03c0e:
 
     # fl "Congratulations! You earned a GOLD STAR!"
     fl "Tahniah! Anda dapat satu BINTANG EMAS!"
-    
+
 # game/code/d09/extended/d09s07.rpy:809
 translate malay d09s07_phone_66d746b8:
 
@@ -1229,7 +1229,7 @@ translate malay d09s07_phone_c38dcf53:
 
     # mct "I got one last week for having a wet time with Min."
     mct "Aku ada dapat satu dengan Min minggu lepas."
-    
+
 # game/code/d09/extended/d09s07.rpy:813
 translate malay d09s07_phone_0e1f8891:
 
@@ -1259,13 +1259,13 @@ translate malay d09s07_quit_4337adb7:
 
     # jdg "What are you talking about?"
     jdg "Apa yang awak katakan?"
-    
+
 # game/code/d09/extended/d09s07.rpy:836
 translate malay d09s07_quit_bf726513:
 
     # mc "I'm just going to leave now."
     mc "Saya akan pergi sekarang."
-    
+
 # game/code/d09/extended/d09s07.rpy:838
 translate malay d09s07_quit_fcc10efe:
 
@@ -1277,7 +1277,7 @@ translate malay d09s07_quit_a58deb7c:
 
     # mc "I'm sorry, but no. I'm not going to do this."
     mc "Minta maaf, tapi tak. Saya tak akan lakukan ini."
-    
+
 # game/code/d09/extended/d09s07.rpy:846
 translate malay d09s07_quit_00459698:
 
@@ -1289,7 +1289,7 @@ translate malay d09s07_quit_ce88f116:
 
     # mc "Yes, really. {w}I'm not a rapist. Not even-"
     mc "Ya betul. {w}Saya bukannya perogol. Bukannya-"
-    
+
 # game/code/d09/extended/d09s07.rpy:850
 translate malay d09s07_quit_4fbe6c1d:
 
@@ -1301,13 +1301,13 @@ translate malay d09s07_quit_49e0efee:
 
     # mct "I hope Samiya won't be mad at me for this."
     mct "Aku harap Samiya tak marah dengan aku nanti."
-    
+
 # game/code/d09/extended/d09s07.rpy:871
 translate malay d09s07_sb_talk_fdc68d2b:
 
     # sb "That was quick. What happened?"
     sb "Cepatnya. Apa yang berlaku?"
-    
+
 # game/code/d09/extended/d09s07.rpy:873
 translate malay d09s07_sb_talk_c562eb8a:
 
@@ -1318,7 +1318,7 @@ translate malay d09s07_sb_talk_c562eb8a:
 translate malay d09s07_sb_talk_fde64129:
 
     # sb "IT WASN'T RAPE! You just had to pretend!"
-    sb "IANYA BUKAN MACAM TU! Kau hanya kena berpura-pura je!
+    sb "IANYA BUKAN MACAM TU! Kau hanya kena berpura-pura je!"
 
 # game/code/d09/extended/d09s07.rpy:878
 translate malay d09s07_sb_talk_4eef0325:
@@ -1349,13 +1349,13 @@ translate malay d09s07_sb_talk_0cc540e6:
 
     # sb "Don't fuck it up this time."
     sb "Jangan rosakkan pelan kali ini."
-    
+
 # game/code/d09/extended/d09s07.rpy:894
 translate malay d09s07_sb_talk_8f7053bf:
 
     # mc "I'll be your assistant for the next task."
     mc "Aku akan bantu kau dalam tugas seterusnya."
-    
+
 # game/code/d09/extended/d09s07.rpy:897
 translate malay d09s07_sb_talk_4cf5fee8:
 
@@ -1414,7 +1414,7 @@ translate malay d09s07_sb_talk_bf30aa71:
 translate malay d09s07_sb_talk_8d3fb731:
 
     # sb "Shit!{w} Four-Sixty-Nine!"
-    sb "Aduh!{w} EMPAT-ENAM-SEMBILAN LAH!
+    sb "Aduh!{w} EMPAT-ENAM-SEMBILAN LAH!"
 
 # game/code/d09/extended/d09s07.rpy:931
 translate malay d09s07_sb_talk_9968cc10:
@@ -1457,19 +1457,19 @@ translate malay d09s07_sb_talk_de0b8c9e:
 
     # sb "WTF? No way! How the hell did you manage that?"
     sb "WTF? Tak mungkin! Macam mana kau buat?"
-    
+
 # game/code/d09/extended/d09s07.rpy:947
 translate malay d09s07_sb_talk_809253e6:
 
     # mc "Don't know. I'm done. You can go rape the woman in 469 if you want."
     mc "Tak tahu. Tapi kalau nak cuba, kau kena rogol yang dekat dalam bilik 469 tu."
-    
+
 # game/code/d09/extended/d09s07.rpy:950
 translate malay d09s07_sb_talk_e6294543:
 
     # sb "Damn it.{w} Alright, give me the mask. I've got a strap-on in my glove compartment."
     sb "Aduh.{w} Baiklah, bagi aku topeng tu. Aku dah ada strap-on nak kena pakai."
-    
+
 # game/code/d09/extended/d09s07.rpy:958
 translate malay d09s07_sb_talk_e8c335f5:
 
@@ -1481,7 +1481,7 @@ translate malay d09s07_sb_talk_39340e8f:
 
     # mc "Strange? Is that enough?"
     mc "Pelik? Dah cukup ke?"
-    
+
 # game/code/d09/extended/d09s07.rpy:963
 translate malay d09s07_sb_talk_ad79a373:
 
@@ -1505,7 +1505,7 @@ translate malay strings:
     # game/code/d09/extended/d09s07.rpy:332
     old "Stop This Now"
     new "Berhenti Sekarang"
-    
+
     # game/code/d09/extended/d09s07.rpy:408
     old "Shove your dick back into her mouth"
     new "Masukkan kote ke dalam mulutnya semula"
@@ -1517,7 +1517,7 @@ translate malay strings:
     # game/code/d09/extended/d09s07.rpy:494
     old "Fuck her pussy"
     new "Kongkek pepeknya"
-    
+
     # game/code/d09/extended/d09s07.rpy:494
     old "Stop This Now!"
     new "Berhenti Sekarang!"
@@ -1529,4 +1529,3 @@ translate malay strings:
     # game/code/d09/extended/d09s07.rpy:555
     old "Flip her over"
     new "Terbalikkan dia"
-
