@@ -210,10 +210,10 @@ translate spanish replay_d08s04_04270dba:
     # mesfl "I thought the challenge would be to drink your pee. Not my own..."
     mesfl "Pensé que el desafío sería beber tu orina. No la mía..."
 
-# game/code/d08/d08s04.rpy:121
-translate spanish replay_d08s04_d0c9df34:
+# game/code/d08/d08s04.rpy:141
+translate spanish replay_d08s04_3f8bc07a:
 
-    # mc "You need see this challenge as a marathon and not a race."
+    # mc "You need to see this challenge as a marathon and not a race."
     mc "Necesitas ver este desafío como una maratón y no como una carrera."
 
 # game/code/d08/d08s04.rpy:122
@@ -527,4 +527,3 @@ translate spanish replay_d08s04_606e2d02:
 
     # mc "Sure."
     mc "Claro."
-

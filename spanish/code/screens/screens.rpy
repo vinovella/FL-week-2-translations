@@ -358,3 +358,11 @@ translate spanish strings:
     old "Menu"
     new "Menu"
 
+# TODO: Translation updated at 2021-08-23 22:22
+
+translate spanish strings:
+
+    # game/code/screens/screens.rpy:486
+    old "Character Gallery"
+    new "Character Gallery"
+

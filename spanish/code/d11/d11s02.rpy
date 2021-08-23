@@ -1738,3 +1738,11 @@ translate spanish d11s02_76e2bd99:
     # mc "Stop. Tomato Juice. [mc_safeword!t]. Halt."
     mc "Stop. Tomato Juice. [mc_safeword!t]. Halt."
 
+# TODO: Translation updated at 2021-08-23 22:22
+
+# game/code/d11/d11s02.rpy:37
+translate spanish d11s02_c8046555:
+
+    # arj "Just a few more days... finals are coming soon."
+    arj "Just a few more days... finals are coming soon."
+
