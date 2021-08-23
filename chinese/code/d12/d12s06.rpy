@@ -16,7 +16,7 @@ translate chinese d12s06_dw_40511e6c:
 translate chinese d12s06_dw_34cc2ba5:
 
     # mct "Pete came in clutch or else I wouldn't have even found this place."
-    mct "皮特来得很及时，否则我也不会找到这个地方。"
+    mct "幸好及时遇到了皮特，否则我也不会找到这个地方。"
 
 # game/code/d12/d12s06.rpy:111
 translate chinese d12s06_dw_526a2aa5:
@@ -124,7 +124,7 @@ translate chinese d12s06_dw_24af4a7a:
 translate chinese d12s06_dw_fb78245d:
 
     # dw "This is the last time I'm gonna bother reminding your pea brain your place."
-    dw "这是我最后一次费心提醒你这个白痴摆正位置。"
+    dw "这是我最后一次费心提醒你这个白痴，给我摆正位置。"
 
 # game/code/d12/d12s06.rpy:173
 translate chinese d12s06_dw_5aacb5cc:
@@ -160,7 +160,7 @@ translate chinese d12s06_dw_dee957ac:
 translate chinese d12s06_dw_8239dfdd:
 
     # dw "Good. You'll know what's coming next then."
-    dw "有好。这样你就知道接下来会发生什么了。"
+    dw "好。这样你就知道接下来该干什么了。"
 
 # game/code/d12/d12s06.rpy:190
 translate chinese d12s06_dw_59d395aa:
@@ -172,7 +172,7 @@ translate chinese d12s06_dw_59d395aa:
 translate chinese d12s06_dw_0083c2c3:
 
     # dw "I want you to clean it all like a good little pet, understood?"
-    dw "我要你像个乖宠物一样把它全部清理干净，明白吗？"
+    dw "我要你像个乖宠物一样把它全部舔干净，明白吗？"
 
 # game/code/d12/d12s06.rpy:194
 translate chinese d12s06_dw_7347369d:
@@ -226,7 +226,7 @@ translate chinese d12s06_dw_8848736c:
 translate chinese d12s06_dw_ea1dc3bf:
 
     # dw "I actually wanna fucking cum today, so I guess I'll put off turning you into my little toilet for now."
-    dw "我今天真他妈想高潮，所以我想我还是先暂时推迟把你变成我的小马桶吧。"
+    dw "我今天真他妈想高潮，所以我还是先暂时推迟把你变成我的小马桶吧。"
 
 # game/code/d12/d12s06.rpy:218
 translate chinese d12s06_dw_780fe623:
@@ -250,19 +250,19 @@ translate chinese d12s06_dw_01ecba4c:
 translate chinese d12s06_dw_a3ee97c5:
 
     # mc "Isess!"
-    mc "Isess!"
+    mc "……的天!"
 
 # game/code/d12/d12s06.rpy:251
 translate chinese d12s06_dw_c0a5f004:
 
     # dw "Shut the fuck up and do what you're told, pet."
-    dw "闭上你的臭嘴，乖乖听话，宝贝。"
+    dw "闭嘴，乖乖听话，宝贝。"
 
 # game/code/d12/d12s06.rpy:257
 translate chinese d12s06_dw_e7d62747:
 
     # dw "Yes, pet right there! "
-    dw "是的，"
+    dw "没错，小野兽，就是那里！"
 
 # game/code/d12/d12s06.rpy:273
 translate chinese d12s06_dw_ee111f3c:
@@ -274,7 +274,7 @@ translate chinese d12s06_dw_ee111f3c:
 translate chinese d12s06_dw_ad7a716b:
 
     # dw "Don't you dare do something different!"
-    dw "Don't you dare do something different!"
+    dw "不要给我玩花样！"
 
 # game/code/d12/d12s06.rpy:286
 translate chinese d12s06_dw_4ac1e460:
@@ -316,7 +316,7 @@ translate chinese d12s06_dw_a8062535:
 translate chinese d12s06_dw_8c7c843b:
 
     # "???" "Fucker blacked out."
-    "???" "上面的人晕倒了。"
+    "???" "混蛋昏过去了。"
 
 # game/code/d12/d12s06.rpy:323
 translate chinese d12s06_dw_9a82c3cd:
@@ -364,13 +364,13 @@ translate chinese d12s06_dw_ffc84030:
 translate chinese d12s06_dw_7a983ed0:
 
     # mc "I'm going."
-    mc "I'm going."
+    mc "我要离开。"
 
 # game/code/d12/d12s06.rpy:375
 translate chinese d12s06_dw_d87cd762:
 
     # dd "I saw him struggling; I didn't think he'd black out though..."
-    dd "我看到他在挣扎；不过我没想到他会昏倒…"
+    dd "我看到他在挣扎；不过我没想到他会昏倒……"
 
 # game/code/d12/d12s06.rpy:377
 translate chinese d12s06_dw_5adb7423_1:
@@ -382,25 +382,25 @@ translate chinese d12s06_dw_5adb7423_1:
 translate chinese d12s06_dw_a5eed78e:
 
     # mct "She could've fucking killed me! And all she could say was \"Give it a rest\"!?"
-    mct "她差点他妈的杀了我！而她只说了句别闹了！\"Give it a rest\"!?"
+    mct "她差点他妈的杀了我！而她只说了句\"别闹了\"!?"
 
 # game/code/d12/d12s06.rpy:396
 translate chinese d12s06_dw_3cdd0f94:
 
     # mct "I swear to God if FL didn't count that as sex..."
-    mct "我向苍天发誓，如果性趣探测器没有把这算作性交..."
+    mct "我对天发誓，如果性趣探测器不把这次给我算上……"
 
 # game/code/d12/d12s06.rpy:398
 translate chinese d12s06_dw_f7f5801a:
 
     # mct "I...I might need to get away from her."
-    mct "我……我可能需要离开她。"
+    mct "我……我可能要永远和她保持距离了。"
 
 # game/code/d12/d12s06.rpy:411
 translate chinese d12s06_dd_d97f7387:
 
     # mc "Hey, are you alright? What happened?"
-    mc "嘿，你还好吗？发生了什么事？"
+    mc "嘿，你还好吗？发生什么事了？"
 
 # game/code/d12/d12s06.rpy:414
 translate chinese d12s06_dd_b2168da6:
@@ -412,13 +412,13 @@ translate chinese d12s06_dd_b2168da6:
 translate chinese d12s06_dd_32df5d52:
 
     # mc "...Yeah, sure. Has everything been clear—"
-    mc "……好啊，当然。一切都清楚了吗--"
+    mc "……好啊，当然可以。都搞清楚了吗--"
 
 # game/code/d12/d12s06.rpy:419
 translate chinese d12s06_dd_4906f4a5:
 
     # dd "Yeah, I'm good to go. For now."
-    dd "是的，我很好，可以走了。暂时性的。"
+    dd "是的，我很好，可以走了。暂时是这样。"
 
 # game/code/d12/d12s06.rpy:421
 translate chinese d12s06_dd_e8524816:
@@ -460,7 +460,7 @@ translate chinese d12s06_dd_cf1adef2:
 translate chinese d12s06_dd_d18812f6:
 
     # dd "Same thing. I have it as well it seems."
-    dd "同样的经历。我好像也有这个问题。"
+    dd "诊断一样。显然我也有这个问题。"
 
 # game/code/d12/d12s06.rpy:452
 translate chinese d12s06_dd_cd44eadf:
@@ -472,25 +472,25 @@ translate chinese d12s06_dd_cd44eadf:
 translate chinese d12s06_dd_a9a4f225:
 
     # dd "I mean... Shit. It's not exactly a huge surprise."
-    dd "我是说…… 妈的。这并不是什么大惊喜。"
+    dd "我是说…… 妈的。这也不算什么意外了。"
 
 # game/code/d12/d12s06.rpy:456
 translate chinese d12s06_dd_1ed21942:
 
     # dd "I already got nauseous sometimes when I was younger."
-    dd "我年轻的时候有时候就已经感到恶心了。"
+    dd "我还小时有时候就已经感到恶心了。"
 
 # game/code/d12/d12s06.rpy:458
 translate chinese d12s06_dd_2f318e4e:
 
     # dd "In the back of my mind, I had a hunch that something might be up when this first started."
-    dd "刚开始的时候，在我内心深处，我就有一种预感，可能有什么事情发生了。"
+    dd "刚开始的时候，在我内心深处，我就有一种预感，可能要出什么事。"
 
 # game/code/d12/d12s06.rpy:459
 translate chinese d12s06_dd_e816e406:
 
     # dd "I guess it's nice to figure it out for real."
-    dd "我想，能真正弄清楚是件好事。"
+    dd "我想，能真正弄清楚也是件好事。"
 
 # game/code/d12/d12s06.rpy:462
 translate chinese d12s06_dd_cf7b216a:
@@ -502,13 +502,13 @@ translate chinese d12s06_dd_cf7b216a:
 translate chinese d12s06_dd_f4c00891:
 
     # dd "Honestly, no idea. I was kinda just...drifting through the whole thing."
-    dd "老实说，我不知道。我只是有点……在整个事情中感觉都很空灵。"
+    dd "老实说，我不知道。我只是在整个过程中……感觉都很空灵。"
 
 # game/code/d12/d12s06.rpy:465
 translate chinese d12s06_dd_846086a1:
 
     # dd "I know I have to go back in again later, but I don't really remember anything else right now."
-    dd "我知道我以后还得再进去，但我现在真的不记得其他事情了。"
+    dd "我知道以后还得再进去，但我现在真的不记得其他事情了。"
 
 # game/code/d12/d12s06.rpy:467
 translate chinese d12s06_dd_e3ea260e:
@@ -526,7 +526,7 @@ translate chinese d12s06_dd_a24f1b2d:
 translate chinese d12s06_dd_1806ef9a:
 
     # dd "I'm gonna doze off for a bit. Wake me up when we get to our station will ya?"
-    dd "我想打个盹。我们到站后叫醒我好吗？"
+    dd "我想睡一会。我们到站后叫醒我好吗？"
 
 # game/code/d12/d12s06.rpy:475
 translate chinese d12s06_dd_dac16979:
@@ -586,7 +586,7 @@ translate chinese d12s06_dd_d01842b3:
 translate chinese d12s06_dd_6d23bbd8:
 
     # dd "It'll be just a bit. The showers are Antarctic at this time anyway."
-    dd "就一下子吧。反正这个时候的淋浴是南极的。"
+    dd "就一会儿。反正这个时候的淋浴都是冷的。"
 
 # game/code/d12/d12s06.rpy:525
 translate chinese replay_d12s06_dd_d775b2c5:
@@ -598,7 +598,7 @@ translate chinese replay_d12s06_dd_d775b2c5:
 translate chinese replay_d12s06_dd_533d4206:
 
     # mc "Something comfy equals Victoria's Secret model?"
-    mc "你说的舒服的衣服就是维密的模特这样？"
+    mc "你说的舒服的衣服就是维密模特这样？"
 
 # game/code/d12/d12s06.rpy:535
 translate chinese replay_d12s06_dd_92fdbaac:
@@ -610,37 +610,37 @@ translate chinese replay_d12s06_dd_92fdbaac:
 translate chinese replay_d12s06_dd_27f0f08a:
 
     # dd "Anyone breaks in, they'll be too mesmerized by my tits to not see the wild haymaker coming their way."
-    dd "任何人闯进来，他们会被我的奶子迷住，"
+    dd "任何人闯进来，都会被我的奶子迷住，然后就会忽略我进攻的这一招。"
 
 # game/code/d12/d12s06.rpy:540
 translate chinese replay_d12s06_dd_a56cef2d:
 
     # mc "A flawless defense."
-    mc "无懈可击的防守。"
+    mc "防守地无懈可击。"
 
 # game/code/d12/d12s06.rpy:543
 translate chinese replay_d12s06_dd_81c9248a:
 
     # dd "Exactly, thank you. Titfu is gonna revolutionize self-defense."
-    dd "正是，谢谢你。Titfu将彻底改变自我防卫。"
+    dd "正是，多谢夸奖。胸部的力量将彻底改变自卫艺术。"
 
 # game/code/d12/d12s06.rpy:545
 translate chinese replay_d12s06_dd_486da775:
 
     # mc "What did you mean by \"when Dahlia's gone\"? {w}Are you two not—"
-    mc "你说\"当黛丽娅不在的时候\"是什么意思？{w}你们俩不是--"
+    mc "你说\"当黛丽娅不在\"是什么意思？{w}你们俩不是--"
 
 # game/code/d12/d12s06.rpy:548
 translate chinese replay_d12s06_dd_6d050fae:
 
     # dd "Oh, no. Neither of us is uncomfortable with our bodies, but it still feels weird to just sleep butt naked like that, y'know?"
-    dd "哦，不。我们都不会对自己的身体感到不舒服，但就这样光着屁股睡觉还是感觉很奇怪，你知道吗？"
+    dd "哦，不。我们都不会对自己的身体感到不舒服，但就这样光着屁股睡觉还是感觉很奇怪，不是吗？"
 
 # game/code/d12/d12s06.rpy:549
 translate chinese replay_d12s06_dd_1b7b451a:
 
     # dd "If she brings someone around or whatever, I don't wanna bother with those questions."
-    dd "如果她带人过来或什么的，我不想为这些问题费心。"
+    dd "如果她带人过来或什么的，我可不想为这些问题费心。"
 
 # game/code/d12/d12s06.rpy:551
 translate chinese replay_d12s06_dd_99a6dbdf:
@@ -724,13 +724,13 @@ translate chinese replay_d12s06_dd_51b39dfc:
 translate chinese replay_d12s06_dd_7e349792:
 
     # dd "It's fine. I don't faint every time we have sex. It's just when it gets intense."
-    dd "没事的。我不是每次做爱都会晕倒。只是当它变得激烈时。"
+    dd "没事的。我不是每次做爱都会晕倒。只有情况变得激烈时才会这样。"
 
 # game/code/d12/d12s06.rpy:613
 translate chinese replay_d12s06_dd_2a3267f6:
 
     # mc "Still, it's not like I don't wanna do it, but I'm worried."
-    mc "不过，并不是说我不想做，但我很担心。"
+    mc "不过，并不是说我不想做，我只是很担心。"
 
 # game/code/d12/d12s06.rpy:616
 translate chinese replay_d12s06_dd_ad36558e:
@@ -748,7 +748,7 @@ translate chinese replay_d12s06_dd_5d15fd4b:
 translate chinese replay_d12s06_dd_7a4bc00a:
 
     # mc "We can get each other off without fucking, right? Let's do that. That probably won't be as hard as actual sex."
-    mc "我们可以不进去也能让对方高潮，对吧？就这么做吧。这可能不会像真正的性爱那样激烈。"
+    mc "我们不进去也能让对方高潮，对吧？就这么做吧。这样没有真正的做爱那样激烈。"
 
 # game/code/d12/d12s06.rpy:623
 translate chinese replay_d12s06_dd_31655f87:
@@ -832,7 +832,7 @@ translate chinese replay_d12s06_dd_e80e4d39:
 translate chinese replay_d12s06_dd_3683d98a:
 
     # mc "...I really don't want to."
-    mc "……我真的不想的。"
+    mc "……我也真的不想走。"
 
 # game/code/d12/d12s06.rpy:761
 translate chinese replay_d12s06_dd_19e4da99:
@@ -844,7 +844,7 @@ translate chinese replay_d12s06_dd_19e4da99:
 translate chinese replay_d12s06_dd_7faf9de9:
 
     # dd "Thank you... For being there for me today."
-    dd "谢谢你……今天在我身边。"
+    dd "谢谢你……今天陪在我身边。"
 
 # game/code/d12/d12s06.rpy:765
 translate chinese replay_d12s06_dd_0817892e:
