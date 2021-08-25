@@ -10,7 +10,7 @@ translate chinese d12s03_9f358fa6:
 translate chinese d12s03_2c9b42a7:
 
     # mct "This is where I am supposed to be. Let's see how badly this goes."
-    mct "就是这个地方。让我们看看情况有多糟。"
+    mct "就是这个地方。来看看情况有多糟吧。"
 
 # game/code/d12/extended/d12s03.rpy:45
 translate chinese d12s03_378046a0:
@@ -82,7 +82,7 @@ translate chinese d12s03_10a9fcb0:
 translate chinese d12s03_2552805b:
 
     # jdg "You were rather difficult to track down. {w}You didn't leave many clues behind."
-    jdg "你可真难找。{w}你没留下多少线索。"
+    jdg "你可真难找。{w}你留下的线索很少。"
 
 # game/code/d12/extended/d12s03.rpy:90
 translate chinese d12s03_503fb64e:
@@ -106,7 +106,7 @@ translate chinese d12s03_0b639f71:
 translate chinese d12s03_e268cce7:
 
     # jdg "No, no. She called my bluff, and I didn't see the point in punishing her for... {w}discretion."
-    jdg "不，不。她看出我在唬她，我认为没有必要因为……{w}谨慎而惩罚她。"
+    jdg "并不是。她看出我在唬她，我认为没有必要因为……{w}谨慎而惩罚她。"
 
 # game/code/d12/extended/d12s03.rpy:100
 translate chinese d12s03_21d841ee:
@@ -130,7 +130,7 @@ translate chinese d12s03_96355288:
 translate chinese d12s03_447d3f37:
 
     # mct "That didn't answer my question."
-    mct "这并没有回答我的问题。"
+    mct "你并没有回答我的问题。"
 
 # game/code/d12/extended/d12s03.rpy:114
 translate chinese d12s03_2727171b:
@@ -154,13 +154,13 @@ translate chinese d12s03_71d05eda:
 translate chinese d12s03_efd8a202:
 
     # mc "To be perfectly honest, I don't know what happened. I was hired for some roleplay and..."
-    mc "老实说，我不知道发生了什么事。我被雇来演一些角色……"
+    mc "老实说，我不知道发生了什么事。我是被雇来演一些角色……"
 
 # game/code/d12/extended/d12s03.rpy:125
 translate chinese d12s03_35bda94f:
 
     # mc "Look, are you messing with me? Did you contract that event or did I actually-?"
-    mc "听着，你是在逗我吗？你是那个活动背后的主人还是我真的--？"
+    mc "听着，你是在逗我吗？到底你是那个活动背后的主人，还是我真的--？"
 
 # game/code/d12/extended/d12s03.rpy:128
 translate chinese d12s03_f22fe3f1:
@@ -184,7 +184,7 @@ translate chinese d12s03_9502ff4a:
 translate chinese d12s03_eba93069:
 
     # mc "Only once in my entire life."
-    mc "这辈子只有一次。"
+    mc "这辈子只有过一次。"
 
 # game/code/d12/extended/d12s03.rpy:141
 translate chinese d12s03_af4b921f:
@@ -232,7 +232,7 @@ translate chinese d12s03_b271ffbb:
 translate chinese d12s03_628c719f:
 
     # jdg "It was a complete role reversal."
-    jdg "对我来说完全是个角色转换。"
+    jdg "对我来说完全是角色颠倒。"
 
 # game/code/d12/extended/d12s03.rpy:163
 translate chinese d12s03_cba2301e:
@@ -250,7 +250,7 @@ translate chinese d12s03_0cc87f40:
 translate chinese d12s03_b7788e60:
 
     # jdg "I want more."
-    jdg "我不满足。"
+    jdg "我还想要。"
 
 # game/code/d12/extended/d12s03.rpy:172
 translate chinese d12s03_054c5ee0:
@@ -262,7 +262,7 @@ translate chinese d12s03_054c5ee0:
 translate chinese d12s03_820d9628:
 
     # jdg "Naturally, I expect discretion, and I can't pay you directly. {w}We wouldn't want either of us to go away for solicitation or prostitution."
-    jdg "自然，我希望谨慎行事，我不能直接付钱给你。{w}我不希望我们中的任何一个人因为交易而离开或"
+    jdg "自然，我希望谨慎行事，我不能直接付钱给你。{w}我不希望我们中的任何一个人因为拉客或交易而离开。"
 
 # game/code/d12/extended/d12s03.rpy:178
 translate chinese d12s03_777de8d3:
@@ -280,7 +280,7 @@ translate chinese d12s03_336af094:
 translate chinese d12s03_a4a7a98d:
 
     # mc "I'm all ears."
-    mc "我洗耳恭听。"
+    mc "洗耳恭听。"
 
 # game/code/d12/extended/d12s03.rpy:187
 translate chinese d12s03_85cc49f1:
@@ -328,13 +328,13 @@ translate chinese d12s03_4521b309:
 translate chinese d12s03_1212f526:
 
     # jdg "We can work out another sort of deal after you graduate."
-    jdg "你毕业后我们可以再谈另一种交易。"
+    jdg "你毕业后我们可以再谈别的交易。"
 
 # game/code/d12/extended/d12s03.rpy:208
 translate chinese d12s03_a6229877:
 
     # jdg "Of course, I would require that you show me what you can do - here & now."
-    jdg "当然，我会要求你向我展示你的能力--就现在。"
+    jdg "当然，我会要求你向我展示下你的能力--就现在。"
 
 # game/code/d12/extended/d12s03.rpy:211
 translate chinese d12s03_54dca20f:
@@ -370,7 +370,7 @@ translate chinese d12s03_7c5d2162:
 translate chinese d12s03_0be332a7:
 
     # mc "I need a moment to think about this."
-    mc "我需要一点时间考虑一下。"
+    mc "我需要点时间考虑一下。"
 
 # game/code/d12/extended/d12s03.rpy:229
 translate chinese d12s03_f2516f98:
@@ -388,13 +388,13 @@ translate chinese d12s03_255648ac:
 translate chinese d12s03_dbdc44a8:
 
     # mct "If I don't do what she says, I might end up in prison getting not-roleplayed by a cellmate."
-    mct "如果我不按她说的做，可能会在监狱里被狱友玩弄于股掌之间。"
+    mct "如果不按她说的做，我可能就要在监狱里被狱友玩弄于股掌之间了。"
 
 # game/code/d12/extended/d12s03.rpy:238
 translate chinese d12s03_379983d6:
 
     # mct "It doesn't seem like I have any choice, but..."
-    mct "看起来我别无选择，但是……"
+    mct "看来我别无选择，但是……"
 
 # game/code/d12/extended/d12s03.rpy:250
 translate chinese d12s03_fca52711:
@@ -436,7 +436,7 @@ translate chinese d12s03_1c7e002b:
 translate chinese d12s03_5fce7108:
 
     # mc "Don't bother. {w}You would have more to lose than I would."
-    mc "不用麻烦了。{w}你会比我失去更多。"
+    mc "不用麻烦了。{w}你的损失会比我多。"
 
 # game/code/d12/extended/d12s03.rpy:271
 translate chinese d12s03_137b9921:
@@ -460,13 +460,13 @@ translate chinese d12s03_bb0eeaf4:
 translate chinese d12s03_aa1a2354:
 
     # jdg "Likewise. {w}It was fun while it lasted."
-    jdg "同样。{w}上次和你在一起很有趣。"
+    jdg "我也是。{w}上次和你在一起很有趣。"
 
 # game/code/d12/extended/d12s03.rpy:285
 translate chinese d12s03_4a5cd6eb:
 
     # jdg "[mcname]."
-    jdg "[mcname]."
+    jdg "[mcname]。"
 
 # game/code/d12/extended/d12s03.rpy:291
 translate chinese d12s03_e51e7931:
@@ -490,7 +490,7 @@ translate chinese d12s03_6e7d8548:
 translate chinese d12s03_240dd7bf:
 
     # jdg "I have many friends who don't ask questions."
-    jdg "我有很多朋友都不问问题。"
+    jdg "我有很多朋友都不问问题，他们聪明且忠诚。"
 
 # game/code/d12/extended/d12s03.rpy:303
 translate chinese d12s03_b7ea46f3:
@@ -544,7 +544,7 @@ translate chinese d12s03_fake_rape_6eb5c71f:
 translate chinese d12s03_fake_rape_f8d6864c:
 
     # jdg "The faraday cage is being installed next month."
-    jdg "法拉第笼将在下个月安装。"
+    jdg "可以屏蔽信号的法拉第笼将在下个月安装。"
 
 # game/code/d12/extended/d12s03.rpy:338
 translate chinese d12s03_fake_rape_cb70afb1:
@@ -592,19 +592,19 @@ translate chinese d12s03_fake_rape_cf9942f9:
 translate chinese d12s03_fake_rape_8d148f56:
 
     # mc "I'm afraid I must insist."
-    mc "恐怕我必须要坚持。"
+    mc "恐怕我必须要坚持安全词的存在。"
 
 # game/code/d12/extended/d12s03.rpy:364
 translate chinese d12s03_fake_rape_b53e4b5e:
 
     # jdg "Fine. What are the conditions for a safe word?"
-    jdg "好吧。安全词的条件是什么？"
+    jdg "好吧。安全词都有什么条件？"
 
 # game/code/d12/extended/d12s03.rpy:367
 translate chinese d12s03_fake_rape_623d5188:
 
     # mc "They are something easy for both parties to remember, that can't be confused with a roleplay situation."
-    mc "需要是双方都很容易记住的东西，不能和角色扮演的情景混淆。"
+    mc "需要是双方都很容易记住的东西，不能和角色扮演的情景相混淆。"
 
 # game/code/d12/extended/d12s03.rpy:370
 translate chinese d12s03_fake_rape_df5bad3f:
@@ -616,7 +616,7 @@ translate chinese d12s03_fake_rape_df5bad3f:
 translate chinese d12s03_fake_rape_4952a4cb:
 
     # mc "Ordinarily, yes. But in a roleplay like this you might want to say one of those..."
-    mc "通常情况下是可以的。但在这样的角色扮演中，你可能会用到刚才其中一个词……"
+    mc "通常情况下是可以的。但在这样的角色扮演中，你可能会用到刚才提到的某个词……"
 
 # game/code/d12/extended/d12s03.rpy:376
 translate chinese d12s03_fake_rape_19aab3c0:
@@ -664,13 +664,13 @@ translate chinese d12s03_fake_rape_59c844da:
 translate chinese d12s03_fake_rape_028d9b7a:
 
     # mc "That said, are there any limits that I should know?"
-    mc "话说回来，有什么我应该知道的极限吗？"
+    mc "话说回来，有什么我应该知道的注意事项吗？"
 
 # game/code/d12/extended/d12s03.rpy:400
 translate chinese d12s03_fake_rape_31f9a2f9:
 
     # jdg "No injuries to my face. No murdering me or putting me into a coma. Anything else I can explain away."
-    jdg "不能伤到我的脸。不能谋杀我或让我陷入昏迷。其他的我可以到时再解释。"
+    jdg "不能伤到我的脸。不能搞谋杀或让我陷入昏迷。其他的我可以到时再解释。"
 
 # game/code/d12/extended/d12s03.rpy:403
 translate chinese d12s03_fake_rape_f30c76e8:
@@ -682,7 +682,7 @@ translate chinese d12s03_fake_rape_f30c76e8:
 translate chinese d12s03_fake_rape_7dda404c:
 
     # jdg "Cutting, broken bones, whatever gets you off."
-    jdg "断肢，骨折，任何能让你脱身的东西。"
+    jdg "断肢，骨折，任何能让你解脱的都可以。"
 
 # game/code/d12/extended/d12s03.rpy:409
 translate chinese d12s03_fake_rape_cdf86b67:
@@ -718,7 +718,7 @@ translate chinese d12s03_fake_rape_22fa200f:
 translate chinese d12s03_fake_rape_694e9df0:
 
     # jdg "We both know that isn't true."
-    jdg "我们都知道这句话不是真的。"
+    jdg "我们都知道你说的不是真话。"
 
 # game/code/d12/extended/d12s03.rpy:428
 translate chinese d12s03_fake_rape_1e9131bb:
@@ -736,7 +736,7 @@ translate chinese d12s03_fake_rape_8b762998:
 translate chinese d12s03_fake_rape_c8a0491e:
 
     # mc "You're not making it very easy for me to get into character."
-    mc "你让我很难进入角色。"
+    mc "你这样让我很难进入角色。"
 
 # game/code/d12/extended/d12s03.rpy:437
 translate chinese d12s03_fake_rape_c109b73d:
@@ -760,19 +760,19 @@ translate chinese d12s03_fake_rape_bc2c601e:
 translate chinese d12s03_sex_dab251e4:
 
     # mc "You won't be needing these anymore."
-    mc "你不再需要这些了。"
+    mc "你不再需要这东西了。"
 
 # game/code/d12/extended/d12s03.rpy:485
 translate chinese d12s03_sex_d7f59f32:
 
     # jdg "My clothes! {w}You destroyed them!"
-    jdg "我的衣服! {w}你毁了它们！"
+    jdg "我的衣服! {w}你给我撕了？！"
 
 # game/code/d12/extended/d12s03.rpy:491
 translate chinese d12s03_sex_5ba3c6c2:
 
     # mc "Of course, I did. {w}What did you expect?"
-    mc "当然，我就是毁了。{w}你指望什么呢？"
+    mc "当然，我就是撕了。{w}不然你指望什么呢？"
 
 # game/code/d12/extended/d12s03.rpy:498
 translate chinese d12s03_sex_366409be:
@@ -802,7 +802,7 @@ translate chinese d12s03_sex_ca15484f:
 translate chinese d12s03_sex_399e4ca1:
 
     # mc "Don't lie. {w}You're gaping so wide you must have expected this!"
-    mc "别撒谎啊。{w}你都为我开这么大，一定在想这个吧！"
+    mc "别撒谎啊。{w}你都为我开这么大，一定等不及了吧！"
 
 # game/code/d12/extended/d12s03.rpy:529
 translate chinese d12s03_sex_21530341:
@@ -850,13 +850,13 @@ translate chinese d12s03_sex_desk_6abbc89a:
 translate chinese d12s03_sex_desk_bcb95cf0:
 
     # mc "How much do you want it?"
-    mc "你有多想要？"
+    mc "告诉我，你有多想要？"
 
 # game/code/d12/extended/d12s03.rpy:579
 translate chinese d12s03_sex_desk_ad9d0274:
 
     # jdg "I'll do anything!!"
-    jdg "我什么都愿意做!!"
+    jdg "我什么都愿意!!"
 
 # game/code/d12/extended/d12s03.rpy:580
 translate chinese d12s03_sex_desk_7ffb2e27:
@@ -880,13 +880,13 @@ translate chinese d12s03_sex_desk_a3ef5b48:
 translate chinese d12s03_sex_floor_4e572274:
 
     # jdg "Oh fuck yes! {w}Fuck my twat you vile beast!"
-    jdg "哦，爽死了！{w}操我小屄，你这个小畜生！"
+    jdg "哦，好棒啊啊！{w}操我小屄，你这个小畜生！"
 
 # game/code/d12/extended/d12s03.rpy:600
 translate chinese d12s03_sex_floor_0b565ab6:
 
     # mc "You like having hard dicks pounding your vile cunt?!"
-    mc "你喜欢让硬鸡巴敲打你那操屄?!"
+    mc "你喜欢让硬鸡巴干死你那操屄?!"
 
 # game/code/d12/extended/d12s03.rpy:606
 translate chinese d12s03_sex_floor_59d86c08:
@@ -910,7 +910,7 @@ translate chinese d12s03_sex_floor_e63c2153:
 translate chinese d12s03_sex_floor_02f1e672:
 
     # mc "Time to clean your cunt off my cock, slut!"
-    mc "是时候把你的屄从我鸡巴上弄干净了，荡妇！"
+    mc "是时候把你的屄水从我鸡巴上弄干净了，骚货！"
 
 # game/code/d12/extended/d12s03.rpy:641
 translate chinese d12s03_risingaction_bdf73357:
@@ -922,7 +922,7 @@ translate chinese d12s03_risingaction_bdf73357:
 translate chinese d12s03_risingaction_71e540f7:
 
     # mc "Clean it! {w}Suck your fuckhole's taste off my cock!"
-    mc "弄干净！{w}给我的鸡巴上舔净你屁眼的味道！"
+    mc "弄干净！{w}给我鸡巴舔净你骚洞的味道！"
 
 # game/code/d12/extended/d12s03.rpy:644
 translate chinese d12s03_risingaction_2a75a0aa:
@@ -934,7 +934,7 @@ translate chinese d12s03_risingaction_2a75a0aa:
 translate chinese d12s03_risingaction_ca3e1591:
 
     # jdg "Please! {w}Are you going to cum already?"
-    jdg "求你了! {w}你要射了吗？"
+    jdg "给我吧! {w}你要射了吗？"
 
 # game/code/d12/extended/d12s03.rpy:669
 translate chinese d12s03_risingaction_d7222d97:
@@ -946,13 +946,13 @@ translate chinese d12s03_risingaction_d7222d97:
 translate chinese d12s03_risingaction_b01efe29:
 
     # jdg "Do it! {w}Cum on my face! {w}Coat my eyes and shoot it up my nose!"
-    jdg "来吧! {w}射我脸上! {w}涂抹我的眼睛，然后射到我的鼻子里！"
+    jdg "来吧! {w}射我脸上! {w}涂我眼睛上，然后射到我的鼻子里！"
 
 # game/code/d12/extended/d12s03.rpy:676
 translate chinese d12s03_risingaction_3c752607:
 
     # mc "I have other plans for you, fuckmeat!"
-    mc "我对你另有安排，肉婊子！"
+    mc "我对你另有安排，小肉婊子！"
 
 # game/code/d12/extended/d12s03.rpy:684
 translate chinese d12s03_risingaction_7d5fd7f6:
@@ -988,13 +988,13 @@ translate chinese d12s03_risingaction_9c608650:
 translate chinese d12s03_risingaction_d2b1f9ab:
 
     # jdg "Yes. Ahhh. {w}More!"
-    jdg "是的，啊啊啊。{w}再来点！"
+    jdg "是的，啊啊啊……{w}快进来吧！"
 
 # game/code/d12/extended/d12s03.rpy:729
 translate chinese d12s03_risingaction_89a5b3a6:
 
     # mc "Do you know what you are? {w}You're a three-holed whore slut!"
-    mc "你知道你是什么吗？{w}你是个有三个洞的妓女！"
+    mc "你知道你是什么吗？{w}你是有三个洞的妓女！"
 
 # game/code/d12/extended/d12s03.rpy:739
 translate chinese d12s03_risingaction_4a79705e:
@@ -1006,7 +1006,7 @@ translate chinese d12s03_risingaction_4a79705e:
 translate chinese d12s03_cum_mouth_8fd0098f:
 
     # mc "Suck it, Fuckmeat!"
-    mc "快舔，Fuckmeat！"
+    mc "快舔，小肉婊子！"
 
 # game/code/d12/extended/d12s03.rpy:793
 translate chinese d12s03_cum_mouth_e71a3293:
@@ -1018,7 +1018,7 @@ translate chinese d12s03_cum_mouth_e71a3293:
 translate chinese d12s03_cum_mouth_221e649f:
 
     # mc "If I could shit or fart in your face right now I would!"
-    mc "如果我现在能在你脸上拉屎或放屁，我一定会的！"
+    mc "如果我能在你脸上拉屎或放屁，我现在一定会这么做！"
 
 # game/code/d12/extended/d12s03.rpy:805
 translate chinese d12s03_cum_mouth_a0c67ad6:
@@ -1030,7 +1030,7 @@ translate chinese d12s03_cum_mouth_a0c67ad6:
 translate chinese d12s03_cum_mouth_95814a33:
 
     # jdg "Mmmfffmmmm."
-    jdg "唔唔呜。"
+    jdg "唔-唔呜。"
 
 # game/code/d12/extended/d12s03.rpy:810
 translate chinese d12s03_cum_mouth_3a88717b:
@@ -1042,7 +1042,7 @@ translate chinese d12s03_cum_mouth_3a88717b:
 translate chinese d12s03_end_69ede8cd:
 
     # mc "Wow. That was... {w}something."
-    mc "哇……{w}还真是有点东西。"
+    mc "哇……{w}还挺快活。"
 
 # game/code/d12/extended/d12s03.rpy:847
 translate chinese d12s03_end_33784a28:
@@ -1054,7 +1054,7 @@ translate chinese d12s03_end_33784a28:
 translate chinese d12s03_end_ff7ee68b:
 
     # mc "I'm sorry. I don't know what came over me. I usually would never-"
-    mc "抱歉。我不知道我是怎么了。我通常不会--"
+    mc "抱歉。我不知道自己是怎么了。我通常不会--"
 
 # game/code/d12/extended/d12s03.rpy:856
 translate chinese d12s03_end_60a9d662:
@@ -1102,13 +1102,13 @@ translate chinese d12s03_end_05500ff6:
 translate chinese d12s03_end_2151802a:
 
     # jdg "Sorry. That was just such an excellent fuck.{w} I'm ready to fall asleep right here."
-    jdg "对不起。只是刚才太快活了。{w}我都准备好在这里睡着了。"
+    jdg "对不起。只是刚才太舒服了。{w}我都准备好在这里睡着了。"
 
 # game/code/d12/extended/d12s03.rpy:891
 translate chinese d12s03_end_f0bb5df5:
 
     # mc "I'm glad that you're happy with the results."
-    mc "我很高兴你对结果感到满意。"
+    mc "我很高兴你满意这个结果。"
 
 # game/code/d12/extended/d12s03.rpy:898
 translate chinese d12s03_end_f9a2f7b2:
@@ -1120,7 +1120,7 @@ translate chinese d12s03_end_f9a2f7b2:
 translate chinese d12s03_end_5073aa76:
 
     # mc "Fuck. I thought I would have enough trouble avoiding my cellmate."
-    mc "靠。我想要避开我的狱友已经够麻烦的了。"
+    mc "靠。想要避开我的狱友已经够麻烦的了。"
 
 # game/code/d12/extended/d12s03.rpy:908
 translate chinese d12s03_end_e16b9e90:
@@ -1132,7 +1132,7 @@ translate chinese d12s03_end_e16b9e90:
 translate chinese d12s03_end_7aa1e37b:
 
     # mct "This is completely fucked up."
-    mct "这完全是一团糟。"
+    mct "这里完全是一团糟。"
 
 # game/code/d12/extended/d12s03.rpy:918
 translate chinese d12s03_end_57dd896e:
@@ -1180,7 +1180,7 @@ translate chinese d12s03_end_e49a5de8:
 translate chinese d12s03_end_7ebdad4a:
 
     # jdg "A legal document absolving you of any guilt for our sexual adventures for the next year."
-    jdg "一份法律文件，免除你对我们接下来一年性冒险的任何罪责。"
+    jdg "是一份法律文件，免除你对我们接下来一年性冒险的任何罪责。"
 
 # game/code/d12/extended/d12s03.rpy:948
 translate chinese d12s03_end_de0b7579:
@@ -1192,19 +1192,19 @@ translate chinese d12s03_end_de0b7579:
 translate chinese d12s03_end_d5a34e18:
 
     # jdg "Of course."
-    jdg "当然。"
+    jdg "当然合法。"
 
 # game/code/d12/extended/d12s03.rpy:954
 translate chinese d12s03_end_b57eb0b1:
 
     # mc "You signed this and even got it notarized?"
-    mc "你签了这个，甚至还做了公证？"
+    mc "你在上面签了字，甚至还做了公证？"
 
 # game/code/d12/extended/d12s03.rpy:957
 translate chinese d12s03_end_4299eedd:
 
     # jdg "I've got loyal friends who don't ask questions."
-    jdg "我有忠诚的朋友，他们不会问问题。"
+    jdg "我有忠诚的朋友，他们可不会问问题。"
 
 # game/code/d12/extended/d12s03.rpy:960
 translate chinese d12s03_end_47aac2ec:
