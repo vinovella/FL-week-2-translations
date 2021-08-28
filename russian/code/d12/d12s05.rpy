@@ -258,10 +258,10 @@ translate russian d12s05_62ac6924:
     # lc "Baby I'll let you in, yeah."
     lc "Я впустить тебя не прочь."
 
-# game/code/d12/d12s05.rpy:169
-translate russian d12s05_e03d71e1:
+# game/code/d12/d12s05.rpy:130
+translate russian d12s05_6fc20724:
 
-    # lc "Keep on staring into my eyes."
+    # lc "Keep on staring to my eyes."
     lc "И в глазах моих утони,"
 
 # game/code/d12/d12s05.rpy:132
@@ -1211,3 +1211,12 @@ translate russian strings:
     # game/code/d12/d12s05.rpy:417
     old "Stop Lydia Before You Cum"
     new "Останови Лидию, пока не кончил"
+
+# TODO: Translation updated at 2021-08-02 16:39
+
+# game/code/d12/d12s05.rpy:169
+translate russian d12s05_e03d71e1:
+
+    # lc "Keep on staring into my eyes."
+    lc "Продолжай смотреть мне в глаза."
+
