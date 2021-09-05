@@ -280,7 +280,7 @@ translate chinese d13s03_4e5af8b4:
 translate chinese d13s03_871f3c97:
 
     # mct "I shouldn't. It doesn't feel right."
-    mct "别去。感觉不太对。
+    mct "别去。感觉不太对。"
 
 # game/code/d13/d13s03.rpy:202
 translate chinese d13s03_d416c262:
@@ -511,4 +511,3 @@ translate chinese replay_d13s03_2dacc73c:
 
     # ir "But I want you to cum several times in my panties next time. That is...{w} That turns me on!"
     ir "但我希望你下次能在我内裤里射几次。感觉真是……{w}。我会很兴奋！"
-
