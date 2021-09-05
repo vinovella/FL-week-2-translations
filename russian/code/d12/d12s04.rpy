@@ -827,53 +827,53 @@ translate russian strings:
     # game/code/d12/d12s04.rpy:369
     old "Take the plunge; be a considerate lover"
     new "Принять решение; быть внимательным любовником"
-
-# TODO: Translation updated at 2021-08-23 22:16
+# TODO: Translation updated at 2021-08-27 17:10
 
 # game/code/d12/d12s04.rpy:207
 translate russian replay_d12s04_f874a4ed:
 
     # mh "Oh, [mcname]! I wanted to talk to you actually, I saw you—"
-    mh "Oh, [mcname]! I wanted to talk to you actually, I saw you—"
+    mh "О, [mcname]! Я хотела поговорить с тобой, вообще-то, когда увидела..."
 
 # game/code/d12/d12s04.rpy:210
 translate russian replay_d12s04_a082fb00:
 
     # mc "With the judge?"
-    mc "With the judge?"
+    mc "На суде?"
 
 # game/code/d12/d12s04.rpy:212
 translate russian replay_d12s04_98f67cdc:
 
     # mh "Yes. What were you...?"
-    mh "Yes. What were you...?"
+    mh "Да. Что ты...?"
 
 # game/code/d12/d12s04.rpy:214
 translate russian replay_d12s04_eaa95fad:
 
     # mc "I wanted to come see you, but had some stuff I need to clear up with the judge."
-    mc "I wanted to come see you, but had some stuff I need to clear up with the judge."
+    mc "Я хотел повидаться с тобой, но мне нужно было кое-что прояснить с судьей."
 
 # game/code/d12/d12s04.rpy:216
 translate russian replay_d12s04_4eaa0254:
 
     # mh "What stuff?"
-    mh "What stuff?"
+    mh "Что именно?"
 
 # game/code/d12/d12s04.rpy:218
 translate russian replay_d12s04_928b0ded:
 
     # mct "Shit."
-    mct "Shit."
+    mct "Черт."
 
 # game/code/d12/d12s04.rpy:220
 translate russian replay_d12s04_ca26d0bf:
 
     # mc "I know her from a bit back. Don't worry about it."
-    mc "I know her from a bit back. Don't worry about it."
+    mc "Я знаком с ней давно. Не беспокойся об этом."
 
 # game/code/d12/d12s04.rpy:223
 translate russian replay_d12s04_faf75cbc:
 
     # mh "Huh. Still, I didn't know that you were gonna come by today. How long have you been here? Why didn't you call me?"
-    mh "Huh. Still, I didn't know that you were gonna come by today. How long have you been here? Why didn't you call me?"
+    mh "Хм. Но я не знала, что ты придешь сюда. Как давно ты здесь? Почему не позвонил мне?"
+

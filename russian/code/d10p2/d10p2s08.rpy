@@ -2606,4 +2606,4 @@ translate russian d10p2s08_jf_part5_3b486f92:
 translate russian d10p2s08_jf_part5_6e27356e:
 
     # mc "URLittlePony was rewarded with a drink from the Trough of Ultimate Sexual Deviancy."
-    mc "ТвояМаленькаяПони была вознаграждена напитком из Корыта Абсолютной сексуальной девиантности."
+    mc "ТвояМаленькаяПони была вознаграждена напитком из Корыта Максимальной Сексуальной Девиантности."

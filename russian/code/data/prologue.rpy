@@ -76,7 +76,7 @@ translate russian strings:
 
     # game/code/data/prologue.rpy:16
     old "The submissive free spirit"
-    new "Смиренный свободный дух"
+    new "Покорный свободный дух"
 
     # game/code/data/prologue.rpy:16
     old "Dazzling Dahlia"
@@ -116,7 +116,7 @@ translate russian strings:
 
     # game/code/data/prologue.rpy:34
     old "Scat"
-    new "Scat"
+    new "Экскременты"
 
     # game/code/data/prologue.rpy:50
     old "Not_Mike"

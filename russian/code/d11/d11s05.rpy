@@ -148,7 +148,7 @@ translate russian d11s05_02761ca0:
 translate russian d11s05_f7787473:
 
     # mct "I can remotely delete Pete's account from here..."
-    mct "Я могу удаленно отсюда удалить аккаунт Пита..."
+    mct "Я мог бы отсюда удалить аккаунт Пита..."
 
 # game/code/d11/d11s05.rpy:149
 translate russian d11s05_82ff7c30:

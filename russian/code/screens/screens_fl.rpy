@@ -40,5 +40,5 @@ translate russian strings:
 
     # game/code/screens/screens_fl.rpy:485
     old "X-RAY"
-    new "X-RAY"
+    new "РЕНТГЕНОВСКОЕ ЗРЕНИЕ"
 

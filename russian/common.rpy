@@ -696,7 +696,7 @@ translate russian strings:
 
     # renpy/common/_developer/developer.rpym:90
     old "[name] [attributes] (hidden)"
-    new "name] [attributes] (hidden)"
+    new "[name] [attributes] (hidden)"
 
     # renpy/common/_developer/developer.rpym:94
     old "[name] [attributes]"
@@ -1052,11 +1052,11 @@ translate russian strings:
 
     # renpy/common/00gamepad.rpy:66
     old "Skip (A)"
-    new "Skip (A)"
+    new "Пропуск (A)"
 
     # renpy/common/00gamepad.rpy:69
     old "Back (B)"
-    new "Back (B)"
+    new "Назад (B)"
 
     # renpy/common/_errorhandling.rpym:538
     old "Open"
@@ -1136,23 +1136,23 @@ translate russian strings:
 
     # renpy/common/_errorhandling.rpym:683
     old "Copies the errors.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
-    new "Copies the errors.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
+    new "Копирует errors.txt файл в буфер обмена в виде BBCode для таких форумов, как https://lemmasoft.renai.us/."
 
     # renpy/common/_errorhandling.rpym:687
     old "Copies the errors.txt file to the clipboard as Markdown for Discord."
     new "Копирует файл errors.txt в буфер обмена для передачи в Discord."
 
-# TODO: Translation updated at 2021-06-09 11:10
+# TODO: Translation updated at 2021-08-27 17:10
 
 translate russian strings:
 
     # renpy/common/00accessibility.rpy:193
     old "Self-Voicing Volume Drop"
-    new "Self-Voicing Volume Drop"
+    new "Сниж громк у синтезатора речи"
 
     # renpy/common/00preferences.rpy:388
     old "self voicing volume drop"
-    new "self voicing volume drop"
+    new "сниж громк у синтезатора речи"
 
     # renpy/common/00preferences.rpy:464
     old "system cursor"
@@ -1160,7 +1160,7 @@ translate russian strings:
 
     # renpy/common/00gltest.rpy:100
     old "Force GL Renderer"
-    new "Force GL Renderer"
+    new "Принудительный OpenGL"
 
     # renpy/common/00gltest.rpy:105
     old "Force ANGLE Renderer"
@@ -1172,7 +1172,7 @@ translate russian strings:
 
     # renpy/common/00gltest.rpy:116
     old "Force GL2 Renderer"
-    new "Force GL2 Renderer"
+    new "Принудительный OpenGL2"
 
     # renpy/common/00gltest.rpy:121
     old "Force ANGLE2 Renderer"
@@ -1192,11 +1192,11 @@ translate russian strings:
 
     # renpy/common/00gltest.rpy:259
     old "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer."
-    new "В {a=edit:1:log.txt}log.txt{/a} может содержатся информация, которая поможет определить, что не так с вашим компьютером."
+    new "В {a=edit:1:log.txt}log.txt{/a} файле может содержаться информация, которая поможет определить, что не так с вашим компьютером."
 
     # renpy/common/00gltest.rpy:264
     old "More details on how to fix this can be found in the {a=[url]}documentation{/a}."
-    new "Более подробную информацию о том, как это исправить, можно найти в {a=[url]}документации{/a}."
+    new "Более подробную информацию о том, как это исправить, можно найти в {a=[url]}documentation{/a}."
 
     # renpy/common/00gltest.rpy:281
     old "Change render options"
