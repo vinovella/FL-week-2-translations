@@ -10,7 +10,7 @@ translate russian d09s07_e733d4b9:
 translate russian d09s07_a349e3dc:
 
     # mct "Now I need to meet Samiya for this strange task... {w}I guess there is no turning back."
-    mct "Теперь мне нужно встретиться с Самией для этого странного задания... {w}Думаю, что пути назад нет."
+    mct "Теперь мне нужно встретиться с Самией для этого странного задания... {w}Похоже, что пути назад нет."
 
 # game/code/d09/extended/d09s07.rpy:59
 translate russian d09s07_7c2e389c:
@@ -22,7 +22,7 @@ translate russian d09s07_7c2e389c:
 translate russian d09s07_d770a6b1:
 
     # sb "Good news. You get to rape somebody."
-    sb "Хорошие новости. Ты можешь кого-нибудь изнасиловать."
+    sb "Хорошие новости. Ты сможешь кого-нибудь изнасиловать."
 
 # game/code/d09/extended/d09s07.rpy:61
 translate russian d09s07_5d3ca408:
@@ -70,7 +70,7 @@ translate russian d09s07_f4bf12ce:
 translate russian d09s07_c00ba241:
 
     # sb "You're still here."
-    sb "Ты все еще здесь?"
+    sb "Но ты не уходишь."
 
 # game/code/d09/extended/d09s07.rpy:72
 translate russian d09s07_e0561b49:
@@ -142,7 +142,7 @@ translate russian d09s07_9a1a0502:
 translate russian d09s07_44b96f72:
 
     # sb "Your goal is simple. Get her to say that \"Popeye is Not Guilty\"."
-    sb "Твоя цель проста. Заставь ее сказать \"Папай не виновен\"."
+    sb "Твоя цель проста. Заставь ее сказать \"Папай невиновен\"."
 
 # game/code/d09/extended/d09s07.rpy:89
 translate russian d09s07_2689b56d:
@@ -160,19 +160,19 @@ translate russian d09s07_d06e2d44:
 translate russian d09s07_ee4ed6e1:
 
     # mc "Popeye is not guilty."
-    mc "Папай не виновен."
+    mc "Папай невиновен."
 
 # game/code/d09/extended/d09s07.rpy:93
 translate russian d09s07_07864c6c:
 
     # sb "Apparently he's been stealing spinach."
-    sb "Наверняка, он воровал шпинат."
+    sb "Наверняка он воровал шпинат."
 
 # game/code/d09/extended/d09s07.rpy:94
 translate russian d09s07_f538cffe:
 
     # mc "Or maybe lacing those chicken sandwiches with addictive substances."
-    mc "Или подмешивал в бутерброды с курицей вещества, вызывающие привыкание."
+    mc "Или подмешивал в бутерброды с курицей вещества, вызывающие зависимость."
 
 # game/code/d09/extended/d09s07.rpy:96
 translate russian d09s07_09b1aed0:
@@ -292,7 +292,7 @@ translate russian d09s07_95096c0e:
 translate russian d09s07_85965887:
 
     # jdg "Oh. I see."
-    jdg "О. Понимаю."
+    jdg "О. Ясно."
 
 # game/code/d09/extended/d09s07.rpy:140
 translate russian d09s07_ca96a0b0:
@@ -460,7 +460,7 @@ translate russian d09s07_part1_77164c8b:
 translate russian d09s07_part1_5a800c67:
 
     # mc "No promises. {w}That wasn't in the rules."
-    mc "Никаких обещаний. {w}Этого не было в правилах."
+    mc "Обещать не стану. {w}Этого не было в правилах."
 
 # game/code/d09/extended/d09s07.rpy:218
 translate russian d09s07_part1_918c616c:
@@ -532,13 +532,13 @@ translate russian d09s07_bj_c2b89c00:
 translate russian d09s07_bj_cbf3bf89:
 
     # mc "Is it because my cock is balls deep in your whore mouth?"
-    mc "Это потому, что мой член по самые яйца в твоем рту шлюхи?"
+    mc "Это потому, что мой член по самые яйца в твоем шлюшьем рту?"
 
 # game/code/d09/extended/d09s07.rpy:264
 translate russian d09s07_bj_825653e1:
 
     # mc "Well, I guess I should give you a chance to breathe."
-    mc "Ну, думаю, я должен дать тебе возможность вздохнуть."
+    mc "Ну, похоже, я должен давать тебе иногда дышать."
 
 # game/code/d09/extended/d09s07.rpy:265
 translate russian d09s07_bj_25441248:
@@ -610,13 +610,13 @@ translate russian d09s07_bj_6abe67cc:
 translate russian d09s07_bj_41e35daa:
 
     # mc "The idea is that you shove a dirty towel down someone's throat all the way to the point that it fills both of their lungs."
-    mc "Идея заключается в том, чтобы засунуть грязное полотенце в горло человека до такой степени, что оно перекроет доступ воздуху в его легкие."
+    mc "Суть заключается в том, чтобы засунуть грязное полотенце в горло человека до такой степени, что оно перекроет доступ воздуху в его легкие."
 
 # game/code/d09/extended/d09s07.rpy:289
 translate russian d09s07_bj_e077c458:
 
     # mc "Then you soak the towel in water."
-    mc "А затем смачивают полотенце водой."
+    mc "А затем заливают полотенце водой."
 
 # game/code/d09/extended/d09s07.rpy:290
 translate russian d09s07_bj_2fa1c866:
@@ -628,7 +628,7 @@ translate russian d09s07_bj_2fa1c866:
 translate russian d09s07_bj_1df29fb5:
 
     # mc "Not just the impression - as far as anyone is concerned, it is basically lung failure."
-    mc "Не просто впечатление - по факту это легочная недостаточность."
+    mc "Не просто впечатление - по факту постепенно отказывают легкие."
 
 # game/code/d09/extended/d09s07.rpy:292
 translate russian d09s07_bj_9660cd0d:
@@ -652,7 +652,7 @@ translate russian d09s07_bj_6d7ac427:
 translate russian d09s07_bj_a3d41786:
 
     # mc "Good thing that doesn't apply to us."
-    mc "Хорошо, что это не относится к нам."
+    mc "Хорошо, что нас это не касается."
 
 # game/code/d09/extended/d09s07.rpy:310
 translate russian d09s07_bjtorture_8d9ce8b9:
@@ -670,7 +670,7 @@ translate russian d09s07_bjtorture_7118439c:
 translate russian d09s07_bjtorture_7b019173:
 
     # mc "Damn! It's like your face was meant for fucking."
-    mc "Черт! Твое лицо как будто предназначено для траха."
+    mc "Черт! Твое лицо как будто предназначено для ебли."
 
 # game/code/d09/extended/d09s07.rpy:326
 translate russian d09s07_bjtorture_0797ebd4:
@@ -706,13 +706,13 @@ translate russian d09s07_bjtorture_436ef5bb:
 translate russian d09s07_bjtorture_0cf97b73:
 
     # mc "Fine. I hope your pussy is as inviting as your whore mouth."
-    mc "Ладно. Надеюсь, что твоя киска так же привлекательна, как и твой рот шлюхи."
+    mc "Ладно. Надеюсь, что твоя киска так же привлекательна, как и твой шлюший рот."
 
 # game/code/d09/extended/d09s07.rpy:339
 translate russian d09s07_bjtorture_4156b996:
 
     # mc "I hope your pussy is as inviting as your whore mouth."
-    mc "Надеюсь, что твоя киска так же привлекательна, как и твой рот шлюхи."
+    mc "Надеюсь, что твоя киска так же привлекательна, как и твой шлюший рот."
 
 # game/code/d09/extended/d09s07.rpy:347
 translate russian d09s07_part2_b7e24e8c:
@@ -742,7 +742,7 @@ translate russian d09s07_part2_0e47dc07:
 translate russian d09s07_part2_3763f71a:
 
     # mc "Well, look what we have here."
-    mc "Ну, посмотрим, что у нас здесь есть."
+    mc "Ну, посмотрим, что у нас здесь."
 
 # game/code/d09/extended/d09s07.rpy:361
 translate russian d09s07_part2_1fee38f0:
@@ -790,7 +790,7 @@ translate russian d09s07_sex_2b76221c:
 translate russian d09s07_sex_325ca484:
 
     # mc "Shut the fuck up, slut!"
-    mc "Заткнись на хуй, шлюха!"
+    mc "Заткнись нахуй, блядина!"
 
 # game/code/d09/extended/d09s07.rpy:390
 translate russian d09s07_sex_dadd9c00:
@@ -814,7 +814,7 @@ translate russian d09s07_sex_b95e4793:
 translate russian d09s07_sex_3ed0be9b:
 
     # jdg "Don't stop fucking my slutty cunt!"
-    jdg "Не прекращай трахать мою распутную пизду!"
+    jdg "Не прекращай трахать мою блядскую пизду!"
 
 # game/code/d09/extended/d09s07.rpy:410
 translate russian d09s07_sex_7889f170:
@@ -826,7 +826,7 @@ translate russian d09s07_sex_7889f170:
 translate russian d09s07_sex_3af67459:
 
     # mct "On the other hand, she might cum like this."
-    mct "С другой стороны, она может кончить вот так."
+    mct "С другой стороны, так она сможет кончить."
 
 # game/code/d09/extended/d09s07.rpy:412
 translate russian d09s07_sex_e850d760:
@@ -874,13 +874,13 @@ translate russian d09s07_sex2_1f05afb4:
 translate russian d09s07_sex2_ee4ed6e1:
 
     # mc "Popeye is not guilty."
-    mc "Папай не виновен."
+    mc "Папай невиновен."
 
 # game/code/d09/extended/d09s07.rpy:448
 translate russian d09s07_sex2_0cee155d:
 
     # jdg "Popeye Is Not Guilty! Popeye Is Not Guilty!"
-    jdg "Папай не виновен! Папай не виновен!"
+    jdg "Папай невиновен! Папай невиновен!"
 
 # game/code/d09/extended/d09s07.rpy:465
 translate russian d09s07_end_91d8a70c:
@@ -898,7 +898,7 @@ translate russian d09s07_end_86bd6342:
 translate russian d09s07_end_cf68378e:
 
     # mc "Sorry, I guess that was too intense. I've never done this before."
-    mc "Извини, думаю, это было слишком интенсивно. Я никогда не делал этого раньше."
+    mc "Прости, похоже, это было слишком мощно. Я никогда не делал этого раньше."
 
 # game/code/d09/extended/d09s07.rpy:473
 translate russian d09s07_end_f5e68828:
@@ -934,7 +934,7 @@ translate russian d09s07_end_94ad559a:
 translate russian d09s07_end_57a22681:
 
     # mc "You know, the whole rape roleplay thing?"
-    mc "Ты знаешь, вся эта ролевая игра с изнасилованием?"
+    mc "Ну ты знаешь, вся эта ролевая игра с изнасилованием?"
 
 # game/code/d09/extended/d09s07.rpy:481
 translate russian d09s07_end_e9598030:
@@ -958,7 +958,7 @@ translate russian d09s07_end_57cff260:
 translate russian d09s07_end_956a76f8:
 
     # jdg "I didn't.{w}.. but maybe I should have."
-    jdg "Нет.{w}.. но, может быть, мне следовало это сделать."
+    jdg "Не просила.{w}.. хотя, возможно, стоило бы."
 
 # game/code/d09/extended/d09s07.rpy:488
 translate russian d09s07_end_12442001:
@@ -982,7 +982,7 @@ translate russian d09s07_end_3eb6a03b:
 translate russian d09s07_end_5718b307:
 
     # jdg "No one has ever fucked me like that. {w}You were amazing!"
-    jdg "Никто никогда так меня не трахал. {w}Ты был потрясающ!"
+    jdg "Никто никогда так меня не трахал. {w}Ты был великолепен!"
 
 # game/code/d09/extended/d09s07.rpy:494
 translate russian d09s07_end_b625b180:
@@ -994,7 +994,7 @@ translate russian d09s07_end_b625b180:
 translate russian d09s07_end_923531c6:
 
     # jdg "I mean, sure, you were raping the shit out of me."
-    jdg "Я имею в виду, конечно, ты изнасиловал меня."
+    jdg "Ну я о том, что конечно ты изнасиловал меня."
 
 # game/code/d09/extended/d09s07.rpy:496
 translate russian d09s07_end_04d36be1:
@@ -1108,7 +1108,7 @@ translate russian d09s07_end_ce4bc81c:
 translate russian d09s07_end_bc722708:
 
     # jdg "Okay, well... do you remember who I am?"
-    jdg "Ладно, хорошо... ты помнишь, кто я?"
+    jdg "Ладно, хорошо... ты помнишь кто я?"
 
 # game/code/d09/extended/d09s07.rpy:540
 translate russian d09s07_end_e6c6a17d:
@@ -1162,7 +1162,7 @@ translate russian d09s07_end_812349f3:
 translate russian d09s07_end_10d83445:
 
     # jdg "You know, it doesn't have to always be the same kink.{w} If you prefer, next time we could do something different."
-    jdg "Знаешь, это не обязательно должно быть всегда одним и тем же извращением.{w} Если ты предпочитаешь, то в следующий раз мы могли бы сделать что-то другое."
+    jdg "Знаешь, это не обязательно должно быть всегда одним и тем же фетишем.{w} Если ты предпочитаешь, то в следующий раз мы могли бы сделать что-то другое."
 
 # game/code/d09/extended/d09s07.rpy:556
 translate russian d09s07_end_3055c61e:
@@ -1324,13 +1324,13 @@ translate russian d09s07_sb_talk_fde64129:
 translate russian d09s07_sb_talk_4eef0325:
 
     # mc "Well, then I guess I'm not a method actor."
-    mc "Ну, тогда думаю, что я не такой хороший актер."
+    mc "Ну, тогда думаю, что я не особо хороший актер."
 
 # game/code/d09/extended/d09s07.rpy:654
 translate russian d09s07_sb_talk_a962938d:
 
     # sb "You... fucking asshole... Damn it!!!"
-    sb "Ты... гребаный засранец... Черт побери!!!"
+    sb "Ты... ебучий ублюдок... Черт побери!!!"
 
 # game/code/d09/extended/d09s07.rpy:655
 translate russian d09s07_sb_talk_97d05294:
@@ -1414,7 +1414,7 @@ translate russian d09s07_sb_talk_bf30aa71:
 translate russian d09s07_sb_talk_8d3fb731:
 
     # sb "Shit!{w} Four-Sixty-Nine!"
-    sb "Дерьмо!{w} Четыреста шестьдесят девять!"
+    sb "Дерьмо!{w} Четыре-Шесть-Девять!"
 
 # game/code/d09/extended/d09s07.rpy:689
 translate russian d09s07_sb_talk_9968cc10:
@@ -1444,7 +1444,7 @@ translate russian d09s07_sb_talk_0488530e:
 translate russian d09s07_sb_talk_01f360d7:
 
     # sb "Fuck!{w} Should we run? Did she call the police?"
-    sb "Бля!{w} Может, нам бежать? Она позвонила в полицию?"
+    sb "Бля!{w} Нам пора бежать? Она позвонила в полицию?"
 
 # game/code/d09/extended/d09s07.rpy:696
 translate russian d09s07_sb_talk_2b0f70c0:
@@ -1456,13 +1456,13 @@ translate russian d09s07_sb_talk_2b0f70c0:
 translate russian d09s07_sb_talk_de0b8c9e:
 
     # sb "WTF? No way! How the hell did you manage that?"
-    sb "Что? Не может быть! Как, черт возьми, тебе это удалось?"
+    sb "ЧЕГО? Не может быть! Как, черт возьми, тебе это удалось?"
 
 # game/code/d09/extended/d09s07.rpy:698
 translate russian d09s07_sb_talk_809253e6:
 
     # mc "Don't know. I'm done. You can go rape the woman in 469 if you want."
-    mc "Не знаю. Но с меня хватит. Ты можешь сама пойти изнасиловать женщину в 469, если хочешь."
+    mc "Не знаю. Но с меня хватит. Ты можешь сама пойти изнасиловать женщину в 469-ом, если хочешь."
 
 # game/code/d09/extended/d09s07.rpy:700
 translate russian d09s07_sb_talk_e6294543:
@@ -1492,7 +1492,7 @@ translate russian strings:
 
     # game/code/d09/extended/d09s07.rpy:158
     old "Kick in the Door"
-    new "Вышиби дверь"
+    new "Вышибить дверь"
 
     # game/code/d09/extended/d09s07.rpy:158
     old "I Won't Do This"
@@ -1500,7 +1500,7 @@ translate russian strings:
 
     # game/code/d09/extended/d09s07.rpy:242
     old "Fuck her face"
-    new "Трахни ее в лицо"
+    new "Трахнуть ее лицо"
 
     # game/code/d09/extended/d09s07.rpy:242
     old "Stop This Now"
@@ -1516,7 +1516,7 @@ translate russian strings:
 
     # game/code/d09/extended/d09s07.rpy:365
     old "Fuck her pussy"
-    new "Трахни ее киску"
+    new "Трахнуть ее киску"
 
     # game/code/d09/extended/d09s07.rpy:365
     old "Stop This Now!"
@@ -1528,5 +1528,5 @@ translate russian strings:
 
     # game/code/d09/extended/d09s07.rpy:416
     old "Flip her over"
-    new "Переверни ее"
+    new "Перевернуть ее"
 
