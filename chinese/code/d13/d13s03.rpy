@@ -4,205 +4,205 @@
 translate chinese d13s03_2bf3d221:
 
     # "After a short walk."
-    "After a short walk."
+    "走了一会儿后。"
 
 # game/code/d13/d13s03.rpy:51
 translate chinese d13s03_49cdeba2:
 
     # mct "Iona? Huh, makes sense."
-    mct "Iona? Huh, makes sense."
+    mct "欧娜？也是，情理之中。"
 
 # game/code/d13/d13s03.rpy:63
 translate chinese d13s03_50f3c846:
 
     # nk "Always nice seeing you around. Can I get anything for you?"
-    nk "Always nice seeing you around. Can I get anything for you?"
+    nk "总是很高兴看到你。要我给你拿点什么吗？"
 
 # game/code/d13/d13s03.rpy:66
 translate chinese d13s03_48f2fd91:
 
     # mc "Thanks, but I'm good. Maybe later."
-    mc "Thanks, but I'm good. Maybe later."
+    mc "谢谢，现在不用。晚一点再说吧。"
 
 # game/code/d13/d13s03.rpy:69
 translate chinese d13s03_4bb0efb0:
 
     # nk "Sure. Just holler if you need me."
-    nk "Sure. Just holler if you need me."
+    nk "行。有需要时，你叫我就可以。"
 
 # game/code/d13/d13s03.rpy:73
 translate chinese d13s03_0d05e33b:
 
     # mc "Iona?"
-    mc "Iona?"
+    mc "欧娜？"
 
 # game/code/d13/d13s03.rpy:76
 translate chinese d13s03_a82e1e1e:
 
     # ir "Oh, hey, hi! [mclogin]? No, wait, fuck, uh, [mcname]?"
-    ir "Oh, hey, hi! [mclogin]? No, wait, fuck, uh, [mcname]?"
+    ir "哦，嗨！[mclogin]？不对，等等，呃，[mcname]？"
 
 # game/code/d13/d13s03.rpy:79
 translate chinese d13s03_78aa853d:
 
     # mc "Right in two."
-    mc "Right in two."
+    mc "两个叫法都对。"
 
 # game/code/d13/d13s03.rpy:82
 translate chinese d13s03_09b10e59:
 
     # ir "Sorry. I meet a lot of people, so I mix things up a bit sometimes."
-    ir "Sorry. I meet a lot of people, so I mix things up a bit sometimes."
+    ir "抱歉。我见的人太多了，所以有时会把名称搞混。"
 
 # game/code/d13/d13s03.rpy:85
 translate chinese d13s03_ae31ede1:
 
     # mc "It's alright."
-    mc "It's alright."
+    mc "没关系。"
 
 # game/code/d13/d13s03.rpy:88
 translate chinese d13s03_d0eeb9cd:
 
     # ir "Anyway. Almost didn't catch you there. Way different without the mask."
-    ir "Anyway. Almost didn't catch you there. Way different without the mask."
+    ir "不管了。差点没抓到你。你现在和戴面具时差别好大。"
 
 # game/code/d13/d13s03.rpy:91
 translate chinese d13s03_1416a96b:
 
     # mc "Good different?"
-    mc "Good different?"
+    mc "好的方面的差距？"
 
 # game/code/d13/d13s03.rpy:94
 translate chinese d13s03_92cd2c5b:
 
     # ir "{i}Definitely{/i}."
-    ir "{i}Definitely{/i}."
+    ir "{i}当然{/i}。"
 
 # game/code/d13/d13s03.rpy:95
 translate chinese d13s03_fb6c4e68:
 
     # ir "So what's up, what's happening? AmRose contacted me and set this up. Something about a party and me being its bartender?"
-    ir "So what's up, what's happening? AmRose contacted me and set this up. Something about a party and me being its bartender?"
+    ir "所以是怎么了，发生什么事了？爱洛丝联系我，安排了这个。说什么派对上我当酒保？"
 
 # game/code/d13/d13s03.rpy:98
 translate chinese d13s03_ef655e71:
 
     # mc "Pretty much. A couple friends and I are throwing a party tomorrow."
-    mc "Pretty much. A couple friends and I are throwing a party tomorrow."
+    mc "差不多吧。我和几个朋友明天要办一个聚会。"
 
 # game/code/d13/d13s03.rpy:101
 translate chinese d13s03_3d7bc13d:
 
     # ir "Oh, cool. I'm gonna take a wild guess and say that you want me to be the bartender for that?"
-    ir "Oh, cool. I'm gonna take a wild guess and say that you want me to be the bartender for that?"
+    ir "哦，太好了。我大胆猜测一下，你想让我当酒保？"
 
 # game/code/d13/d13s03.rpy:104
 translate chinese d13s03_cf124b05:
 
     # mc "How, oh how did you figure that out?"
-    mc "How, oh how did you figure that out?"
+    mc "哦，你怎么知道的？"
 
 # game/code/d13/d13s03.rpy:107
 translate chinese d13s03_1ff7af4a:
 
     # ir "How long is it gonna be?"
-    ir "How long is it gonna be?"
+    ir "派对要多长时间？"
 
 # game/code/d13/d13s03.rpy:110
 translate chinese d13s03_2ad2c462:
 
     # mc "I'd say about 4 - 5 hours."
-    mc "I'd say about 4 - 5 hours."
+    mc "大约4-5小时。"
 
 # game/code/d13/d13s03.rpy:113
 translate chinese d13s03_47c3d4db:
 
     # ir "Okay. Will you allow tips and/or tip jars?"
-    ir "Okay. Will you allow tips and/or tip jars?"
+    ir "没问题。你会允许小费以及小费罐吗？"
 
 # game/code/d13/d13s03.rpy:116
 translate chinese d13s03_adbf2d3c:
 
     # mc "Yeah, sure. I don't see why not."
-    mc "Yeah, sure. I don't see why not."
+    mc "当然可以。没有拒绝的理由吧。"
 
 # game/code/d13/d13s03.rpy:119
 translate chinese d13s03_680db1ff:
 
     # ir "Cool. Do you have a menu ready to go? Any signature drinks or whatever?"
-    ir "Cool. Do you have a menu ready to go? Any signature drinks or whatever?"
+    ir "很好。你有准备好的菜单吗？有什么招牌饮料之类的吗？"
 
 # game/code/d13/d13s03.rpy:122
 translate chinese d13s03_8ef88241:
 
     # mc "Uhm... You'd have to talk with AmRose about that."
-    mc "Uhm... You'd have to talk with AmRose about that."
+    mc "呃……这一点你得和爱洛丝谈谈。"
 
 # game/code/d13/d13s03.rpy:125
 translate chinese d13s03_e5b374e5:
 
     # ir "Will do. How big is this thing gonna be? Guest-wise I mean."
-    ir "Will do. How big is this thing gonna be? Guest-wise I mean."
+    ir "行。规模会有多大？我是说客人方面。"
 
 # game/code/d13/d13s03.rpy:128
 translate chinese d13s03_7979716b:
 
     # mc "I'm thinking...15 - 30 people? Give or take."
-    mc "I'm thinking...15 - 30 people? Give or take."
+    mc "我想……15-30人？差不多吧。"
 
 # game/code/d13/d13s03.rpy:131
 translate chinese d13s03_20cc0bb8:
 
     # ir "Alright. I can work with that."
-    ir "Alright. I can work with that."
+    ir "行。我可以接受。"
 
 # game/code/d13/d13s03.rpy:132
 translate chinese d13s03_c7912779:
 
     # ir "My rates are 60 bucks an hour—plus any tips."
-    ir "My rates are 60 bucks an hour—plus any tips."
+    ir "我的收费是每小时60美元，外加小费。"
 
 # game/code/d13/d13s03.rpy:135
 translate chinese d13s03_40a2662d:
 
     # mct "Jesus."
-    mct "Jesus."
+    mct "行。我可以接受。"
 
 # game/code/d13/d13s03.rpy:138
 translate chinese d13s03_4dcbb7ee:
 
     # ir "You'll provide the drinks and menu, I'll take care of the rest."
-    ir "You'll provide the drinks and menu, I'll take care of the rest."
+    ir "你来提供饮料和菜单，剩下的我来负责。"
 
 # game/code/d13/d13s03.rpy:139
 translate chinese d13s03_02690991:
 
     # ir "I'll send my license and registration stuff later."
-    ir "I'll send my license and registration stuff later."
+    ir "我稍后会把我的执照和登记资料送来。"
 
 # game/code/d13/d13s03.rpy:142
 translate chinese d13s03_a1e7474f:
 
     # mc "Great. Oh, do you have my number, by the way?"
-    mc "Great. Oh, do you have my number, by the way?"
+    mc "太好了。对了，你有我电话号码吗？"
 
 # game/code/d13/d13s03.rpy:145
 translate chinese d13s03_7f8a7c88:
 
     # ir "I don't actually."
-    ir "I don't actually."
+    ir "并没有。"
 
 # game/code/d13/d13s03.rpy:148
 translate chinese d13s03_78f53309:
 
     # mc "Please save it then."
-    mc "Please save it then."
+    mc "那请保存好了。"
 
 # game/code/d13/d13s03.rpy:150
 translate chinese d13s03_ce138d6f:
 
     # ir "...55{w}, got it."
-    ir "...55{w}, got it."
+    ir "...55{w}，保存了。"
 
 # game/code/d13/d13s03.rpy:154
 translate chinese d13s03_4dd8e908:
