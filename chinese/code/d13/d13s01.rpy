@@ -76,19 +76,19 @@ translate chinese d13s01_ba08aaee:
 translate chinese d13s01_70f2a31b:
 
     # mct "Fetish fucking Locator.{w} Of course. And here I was hoping I could go a day without having to deal with its shit."
-    mct "该死的性趣探测器。{w} 当然，我还希望我能在这里度过真正自由的一天，不用管这一堆破事。"
+    mct "该死的性趣探测器。{w} 当然，我希望自己能度过真正自由的一天，不用管这一堆破事。"
 
 # game/code/d13/d13s01.rpy:81
 translate chinese d13s01_f3f3bd90:
 
     # mct "Cheating? Christ."
-    mct "作弊？天啊。"
+    mct "偷吃？不是吧。"
 
 # game/code/d13/d13s01.rpy:82
 translate chinese d13s01_9a6ee9f5:
 
     # fl "Share the love and see what happens! Will passions rise or will it fall?"
-    fl "把爱分享出去，看看会发生什么! 激情会上升还是下降呢？"
+    fl "把爱分享出去，看看会发生什么! 激情会上升还是消亡呢？"
 
 # game/code/d13/d13s01.rpy:85
 translate chinese d13s01_0feb8f3d:
@@ -118,7 +118,7 @@ translate chinese d13s01_40511e6c:
 translate chinese d13s01_888deb51:
 
     # mct "This place is deserted half the time, but the moment I try to get some work done... *Sigh*"
-    mct "这地方有一半时间都没人，但我刚要完成一些工作的时候……*叹气*"
+    mct "这里平时有一半时间都没人，但我刚要完成一些工作的时候……*叹气*"
 
 # game/code/d13/d13s01.rpy:100
 translate chinese d13s01_8bdfc7b1:
@@ -142,7 +142,7 @@ translate chinese d13s01_fff3933b:
 translate chinese d13s01_fc511f0e:
 
     # cb "Hey [mcname]."
-    cb "嘿[mcname]."
+    cb "嘿[mcname]。"
 
 # game/code/d13/d13s01.rpy:111
 translate chinese d13s01_e689408e:
@@ -154,7 +154,7 @@ translate chinese d13s01_e689408e:
 translate chinese d13s01_aa4c4f9f:
 
     # mc "You two don't come here often. What's up, everything alright?"
-    mc "你们两个是稀客啊。怎么了，一切都好吗？"
+    mc "你们两个是稀客啊。怎么了，一切还好吗？"
 
 # game/code/d13/d13s01.rpy:116
 translate chinese d13s01_4c721389:
@@ -190,7 +190,7 @@ translate chinese d13s01_b9c20aad:
 translate chinese d13s01_92df2c1d:
 
     # kb "So, we just came down 'cause Chloe and I was looking for a...plus one, if you will, to have some fun with."
-    kb "所以，我们过来是因为，克洛伊和我正在寻找一个……附加的，如果你愿意的话，可以一起找点乐子。"
+    kb "所以，我们过来是因为，克洛伊和我正在寻找一个……第三方，如果你愿意的话，可以一起找点乐子。"
 
 # game/code/d13/d13s01.rpy:133
 translate chinese d13s01_f212c1af:
@@ -226,25 +226,25 @@ translate chinese d13s01_8e831eb4:
 translate chinese d13s01_0a0f90ab:
 
     # mct "Damn, I really need to study, but at the same time... That's another fuck. Would bring me to [d13s01_plus_one_fuck]."
-    mct "妈的，我真的需要学习，但同时…… 这又是一个可以打炮的机会。这样就有[d13s01_plus_one_fuck]。"
+    mct "妈的，我真的很需要学习，但同时……这又是一个可以打炮的机会。这样就有[d13s01_plus_one_fuck]了。"
 
 # game/code/d13/d13s01.rpy:146
 translate chinese d13s01_e31a5a67:
 
     # kb "What do you say? You down?"
-    kb "你怎么说？你下来了吗？"
+    kb "你怎么说？你在听吗？"
 
 # game/code/d13/d13s01.rpy:154
 translate chinese d13s01_5bc66efd:
 
     # mc "Fuck it. I could use a distraction."
-    mc "妈的。我可以分散一下注意力。"
+    mc "去他的。我分散点注意力没事的。"
 
 # game/code/d13/d13s01.rpy:162
 translate chinese d13s01_df5ea838:
 
     # mc "Sorry. I'm already way behind. {w}Gotta at least try to catch up or I'm gonna get fucked."
-    mc "对不起。我已经落后很多功课了。{w}至少要试着赶上来，否则我会被搞死。"
+    mc "对不起。我已经落后很多功课了。{w}至少要试着赶上来，否则我就完蛋了。"
 
 # game/code/d13/d13s01.rpy:164
 translate chinese d13s01_9567101f:
@@ -292,7 +292,7 @@ translate chinese d13s01_fa0d553a:
 translate chinese d13s01_sex_68cf55b6:
 
     # kb "Fuck yeah! C'mon."
-    kb "他妈的来一起爽！来吧。"
+    kb "一起爽啊！来吧。"
 
 # game/code/d13/d13s01.rpy:190
 translate chinese d13s01_sex_3d99be4f:
@@ -496,19 +496,19 @@ translate chinese d13s01_sex_1212df99:
 translate chinese d13s01_sex_f7adf5f0:
 
     # mct "Jesus, that took them a while."
-    mct "天啊，他们玩儿这么长时间啊。"
+    mct "天，他俩玩儿这么长时间啊。"
 
 # game/code/d13/d13s01.rpy:445
 translate chinese d13s01_sex_e412afd4:
 
     # mct "Man... I never knew Kevin was so..."
-    mct "靠…… 我从来不知道凯文这么……"
+    mct "靠……我从来不知道凯文这么……"
 
 # game/code/d13/d13s01.rpy:447
 translate chinese d13s01_sex_c21bfbc3:
 
     # mct "I just might need to up my game."
-    mct "我可能需要提高下自己的水平。"
+    mct "我可能需要提高下自己的水平了。"
 
 # game/code/d13/d13s01.rpy:456
 translate chinese d13s01_end_a46d1676:
@@ -520,7 +520,7 @@ translate chinese d13s01_end_a46d1676:
 translate chinese d13s01_end_fda6b376:
 
     # mct "Sweet freedom."
-    mct "甜美的自由。"
+    mct "啊，自由真好。"
 
 # game/code/d13/d13s01.rpy:461
 translate chinese d13s01_end_e827db01:
