@@ -16,7 +16,7 @@ translate chinese d13s02_f01fdff9:
 translate chinese d13s02_32525ab1:
 
     # mct "Looks like she got someone else to take some of these photos. I wonder what happened..."
-    mct "看起来她找了别人来拍这些照片啊。真想知道发生了什么……"
+    mct "看起来她找别人拍了这些照片啊。真想知道发生了什么……"
 
 # game/code/d13/extended/d13s02.rpy:48
 translate chinese replay_d13s02_7e51d593:
@@ -28,7 +28,7 @@ translate chinese replay_d13s02_7e51d593:
 translate chinese replay_d13s02_8f488dbb:
 
     # mk "Um, Hello?"
-    mk "呃，你好？"
+    mk "呃，有人吗？"
 
 # game/code/d13/extended/d13s02.rpy:54
 translate chinese replay_d13s02_37f0f3af:
@@ -52,7 +52,7 @@ translate chinese replay_d13s02_93afccb8:
 translate chinese replay_d13s02_8170f813:
 
     # tm "Seriously? {w}Why would you - of all people - be here to suck a cock?"
-    tm "真的吗？{w}这么多人，你为什么--要来这里吹箫？"
+    tm "你说真的？{w}这么多人，你为什么--要来这里给别人吹箫？"
 
 # game/code/d13/extended/d13s02.rpy:69
 translate chinese replay_d13s02_8dee23f8:
@@ -70,19 +70,19 @@ translate chinese replay_d13s02_c2c2536d:
 translate chinese replay_d13s02_dad79a89:
 
     # tm "But the way you just said it... No, I don't believe it."
-    tm "但看你这么说……不，我不相信。"
+    tm "不过看你这么说……不，我不相信。"
 
 # game/code/d13/extended/d13s02.rpy:76
 translate chinese replay_d13s02_f6eab717:
 
     # mk "(sigh) Maybe you heard what happened earlier this week?"
-    mk "(叹气) 也许你听说本周早些时候发生的事了？"
+    mk "(叹气) 你有没有听说本周早些时候发生的事？"
 
 # game/code/d13/extended/d13s02.rpy:79
 translate chinese replay_d13s02_374f7cc5:
 
     # tm "I heard... {w}Wait, did you actually blow a guy in class like people are saying?"
-    tm "听说了……{w}等等，你真的像他们说的那样在课堂上给一个人吹箫了？"
+    tm "听说了……{w}等等，你真的像他们说的那样，在课堂上给一个人吹箫了？"
 
 # game/code/d13/extended/d13s02.rpy:82
 translate chinese replay_d13s02_d8032b8b:
@@ -94,13 +94,13 @@ translate chinese replay_d13s02_d8032b8b:
 translate chinese replay_d13s02_ba1c7c77:
 
     # tm "Well, I guess you could use the practice. {w}Do you mind if I watch?"
-    tm "嗯，我想你可以练习一下。{w}你介意我看吗？"
+    tm "嗯，我想你可以练习练习。{w}你介意我看一下吗？"
 
 # game/code/d13/extended/d13s02.rpy:88
 translate chinese replay_d13s02_a11f6539:
 
     # mk "Actually... {w}Well, yeah."
-    mk "实际上…… {w}嗯，是的。"
+    mk "其实……{w}嗯，是的。"
 
 # game/code/d13/extended/d13s02.rpy:92
 translate chinese replay_d13s02_2ea4ef7a:
@@ -112,25 +112,25 @@ translate chinese replay_d13s02_2ea4ef7a:
 translate chinese replay_d13s02_f257b44b:
 
     # mk "No, I meant... {w}It's better if you are here when I do this."
-    mk "不，我是说…… {w}我做这个的时候，你最好也在场。"
+    mk "不，我是说……{w}等我开始的时候，你最好也在场。"
 
 # game/code/d13/extended/d13s02.rpy:97
 translate chinese replay_d13s02_76d81368:
 
     # mk "Actually, could you take some pics with my phone?"
-    mk "实际上，你能用我的手机拍几张照片吗？"
+    mk "实际上，你能用我手机拍几张照片吗？"
 
 # game/code/d13/extended/d13s02.rpy:100
 translate chinese replay_d13s02_199361b0:
 
     # tm "Seriously? {w}Oh! That makes sense. Of course I will."
-    tm "真的吗？{w}哦！这就说得通了。当然可以。"
+    tm "你认真的吗？{w}哦！这就说得通了。当然可以。"
 
 # game/code/d13/extended/d13s02.rpy:103
 translate chinese replay_d13s02_bba810e4:
 
     # mk "None of this makes sense, but yeah... that would be great."
-    mk "这些都说不通，但是……你答应会更好。"
+    mk "不，这些都说不通，但是……你答应的确会更好。"
 
 # game/code/d13/extended/d13s02.rpy:106
 translate chinese replay_d13s02_071a24d7:
@@ -142,13 +142,13 @@ translate chinese replay_d13s02_071a24d7:
 translate chinese replay_d13s02_e6c0826d:
 
     # mk "Oh, I think he is here."
-    mk "哦，我想他已经在这了。"
+    mk "哦，我想他已经来了。"
 
 # game/code/d13/extended/d13s02.rpy:114
 translate chinese replay_d13s02_baada8e9:
 
     # tm "Uh huh. He says he is in position."
-    tm "嗯哼。他说他已经就位了。"
+    tm "嗯哼。他说已经就位了。"
 
 # game/code/d13/extended/d13s02.rpy:117
 translate chinese replay_d13s02_ed1df394:
@@ -160,7 +160,7 @@ translate chinese replay_d13s02_ed1df394:
 translate chinese replay_d13s02_6c865abc:
 
     # tm "You want some help? I mean, someone to talk you through this?"
-    tm "你需要帮助吗？我的意思是，需要教你怎么做吗？"
+    tm "你需要帮助吗？我是说，需要教你怎么做吗？"
 
 # game/code/d13/extended/d13s02.rpy:122
 translate chinese replay_d13s02_d55d1473:
@@ -172,7 +172,7 @@ translate chinese replay_d13s02_d55d1473:
 translate chinese replay_d13s02_38d0c432:
 
     # tm "That's a common early problem. For now, just wrap your lips around your teeth."
-    tm "这对新手很常见。现在，只要用嘴唇包住牙齿就行。"
+    tm "这对新手很常见。现在试试，只要用嘴唇包住牙齿就行。"
 
 # game/code/d13/extended/d13s02.rpy:128
 translate chinese replay_d13s02_57caa58b:
@@ -184,7 +184,7 @@ translate chinese replay_d13s02_57caa58b:
 translate chinese replay_d13s02_c55b05a4:
 
     # tm "Your lips - keep them between your teeth and his cock."
-    tm "你的嘴唇--保持在你的牙齿和他鸡巴之间。"
+    tm "你的嘴唇--要保持在你的牙齿和他鸡巴之间。"
 
 # game/code/d13/extended/d13s02.rpy:134
 translate chinese replay_d13s02_2862558f:
@@ -202,13 +202,13 @@ translate chinese replay_d13s02_0e7a36d0:
 translate chinese replay_d13s02_0ba31a4a:
 
     # mk "Oh, hell! I better get started."
-    mk "见鬼！我最好现在开始了。"
+    mk "见鬼！我最好现在就开始。"
 
 # game/code/d13/extended/d13s02.rpy:149
 translate chinese replay_d13s02_8f00d93d:
 
     # tm "Looks great. {w}I'm going to get some pics."
-    tm "看起来不错。{w}我要去拍照片。"
+    tm "看着不错。{w}我来拍照片。"
 
 # game/code/d13/extended/d13s02.rpy:166
 translate chinese replay_d13s02_52303eb9:
@@ -232,7 +232,7 @@ translate chinese replay_d13s02_f28ed34a:
 translate chinese replay_d13s02_3d71b942:
 
     # tm "Perfect! You'll be a professional cock sucking slut in no time."
-    tm "完美！你很快就会成为专业的舔鸡巴婊子了。"
+    tm "完美！你很快就会成为舔鸡巴的专业鸡了。"
 
 # game/code/d13/extended/d13s02.rpy:215
 translate chinese replay_d13s02_625a5ca2:
@@ -262,7 +262,7 @@ translate chinese replay_d13s02_8afe354c:
 translate chinese replay_d13s02_029e029d:
 
     # tm "Gorgeous! Great job!"
-    tm "漂亮! 干得好！"
+    tm "漂亮！干得好！"
 
 # game/code/d13/extended/d13s02.rpy:246
 translate chinese replay_d13s02_b8ea362e:
