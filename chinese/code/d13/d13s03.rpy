@@ -16,7 +16,7 @@ translate chinese d13s03_49cdeba2:
 translate chinese d13s03_50f3c846:
 
     # nk "Always nice seeing you around. Can I get anything for you?"
-    nk "总是很高兴看到你。要我给你拿点什么吗？"
+    nk "我总是很高兴看到你。要给你拿点什么吗？"
 
 # game/code/d13/d13s03.rpy:66
 translate chinese d13s03_48f2fd91:
@@ -28,7 +28,7 @@ translate chinese d13s03_48f2fd91:
 translate chinese d13s03_4bb0efb0:
 
     # nk "Sure. Just holler if you need me."
-    nk "行。有需要时，你叫我就可以。"
+    nk "行。有需要时你叫我就可以。"
 
 # game/code/d13/d13s03.rpy:73
 translate chinese d13s03_0d05e33b:
@@ -46,7 +46,7 @@ translate chinese d13s03_a82e1e1e:
 translate chinese d13s03_78aa853d:
 
     # mc "Right in two."
-    mc "两个叫法都对。"
+    mc "第二个叫对了。"
 
 # game/code/d13/d13s03.rpy:82
 translate chinese d13s03_09b10e59:
@@ -64,37 +64,37 @@ translate chinese d13s03_ae31ede1:
 translate chinese d13s03_d0eeb9cd:
 
     # ir "Anyway. Almost didn't catch you there. Way different without the mask."
-    ir "不管了。差点没抓到你。你现在和戴面具时差别好大。"
+    ir "话说回来，我刚才差点没认出你。你现在和戴面具时差别好大。"
 
 # game/code/d13/d13s03.rpy:91
 translate chinese d13s03_1416a96b:
 
     # mc "Good different?"
-    mc "好的方面的差距？"
+    mc "差别是好的方面吗？"
 
 # game/code/d13/d13s03.rpy:94
 translate chinese d13s03_92cd2c5b:
 
     # ir "{i}Definitely{/i}."
-    ir "{i}当然{/i}."
+    ir "{i}当然{/i}。"
 
 # game/code/d13/d13s03.rpy:95
 translate chinese d13s03_fb6c4e68:
 
     # ir "So what's up, what's happening? AmRose contacted me and set this up. Something about a party and me being its bartender?"
-    ir "所以是怎么了，发生什么事了？爱洛丝联系我，安排了这个。说什么派对上我当酒保？"
+    ir "所以是怎么，发生什么事了？爱洛丝联系我，安排了这次见面。说什么派对上让我当调酒师？"
 
 # game/code/d13/d13s03.rpy:98
 translate chinese d13s03_ef655e71:
 
     # mc "Pretty much. A couple friends and I are throwing a party tomorrow."
-    mc "差不多吧。我和几个朋友明天要办一个聚会。"
+    mc "差不多吧。我和几个朋友明天要办一个派对。"
 
 # game/code/d13/d13s03.rpy:101
 translate chinese d13s03_3d7bc13d:
 
     # ir "Oh, cool. I'm gonna take a wild guess and say that you want me to be the bartender for that?"
-    ir "哦，太好了。我大胆猜测一下，你想让我当酒保？"
+    ir "哦，很好啊。我大胆猜测一下，你想让我当你们派对的调酒师？"
 
 # game/code/d13/d13s03.rpy:104
 translate chinese d13s03_cf124b05:
@@ -112,13 +112,13 @@ translate chinese d13s03_1ff7af4a:
 translate chinese d13s03_2ad2c462:
 
     # mc "I'd say about 4 - 5 hours."
-    mc "大约4-5小时。"
+    mc "大概4-5小时。"
 
 # game/code/d13/d13s03.rpy:113
 translate chinese d13s03_47c3d4db:
 
     # ir "Okay. Will you allow tips and/or tip jars?"
-    ir "好的。你会允许小费以及小费罐吗？"
+    ir "没问题。可以有小费吗？还有能放小费罐吗？"
 
 # game/code/d13/d13s03.rpy:116
 translate chinese d13s03_adbf2d3c:
@@ -166,7 +166,7 @@ translate chinese d13s03_c7912779:
 translate chinese d13s03_40a2662d:
 
     # mct "Jesus."
-    mct "天哪。"
+    mct "我滴个去。"
 
 # game/code/d13/d13s03.rpy:138
 translate chinese d13s03_4dcbb7ee:
@@ -208,13 +208,13 @@ translate chinese d13s03_ce138d6f:
 translate chinese d13s03_4dd8e908:
 
     # ir "Alright. Cool. That works for me."
-    ir "很好。这对我有用。"
+    ir "很好。它会派上用场的。"
 
 # game/code/d13/d13s03.rpy:155
 translate chinese d13s03_3f4636f0:
 
     # ir "Great then. Looks like you got yourself a bartender."
-    ir "很好。看来你给自己找了个酒保。"
+    ir "很好。看来你给自己找了个调酒师。"
 
 # game/code/d13/d13s03.rpy:158
 translate chinese d13s03_8f894371:
@@ -232,7 +232,7 @@ translate chinese d13s03_e1ead952:
 translate chinese d13s03_ae44cc93:
 
     # "Hey are you at Nora's yet? Iona should be there by now."
-    "嘿，你到诺拉那里了吗？伊奥娜现在应该到了。"
+    "嘿，你到诺拉那里了吗？欧娜现在应该到了。"
 
 # game/code/d13/d13s03.rpy:164
 translate chinese d13s03_29b55451:
@@ -268,7 +268,7 @@ translate chinese d13s03_8aebaed0:
 translate chinese d13s03_93f3375b:
 
     # ir "You got it too, didn't you?"
-    ir "你也有，对吗？"
+    ir "你也收到了吧？"
 
 # game/code/d13/d13s03.rpy:194
 translate chinese d13s03_4e5af8b4:
@@ -316,7 +316,7 @@ translate chinese d13s03_blitz_f8b81c1f:
 translate chinese replay_d13s03_66dacb72:
 
     # ir "I'm not doing this just for the app..."
-    ir "我这么做不仅仅是为了软件……"
+    ir "我这么做不仅仅是因为软件……"
 
 # game/code/d13/d13s03.rpy:226
 translate chinese replay_d13s03_a1d6afba:
@@ -364,7 +364,7 @@ translate chinese replay_d13s03_55d606a7:
 translate chinese replay_d13s03_bcbb2310:
 
     # mct "Oh god, the added friction of her thumb on my tip feels so {i}good{/i}."
-    mct "哦，天哪，她的拇指在我龟头的摩擦感觉真爽{i}爽{/i}。"
+    mct "哦，天哪，她的拇指在我龟头摩擦的感觉真{i}爽{/i}。"
 
 # game/code/d13/d13s03.rpy:271
 translate chinese replay_d13s03_eb26826f:
@@ -394,7 +394,7 @@ translate chinese replay_d13s03_cfce055e:
 translate chinese replay_d13s03_b492b694:
 
     # ir "Yes! It'd turn me on. Just tell me when you're about to cum!"
-    ir "确定！它会让我很性奋。只要告诉我你什么时候要射了！"
+    ir "确定！它会让我很性奋。你要射的时候告诉我！"
 
 # game/code/d13/d13s03.rpy:303
 translate chinese replay_d13s03_a5de5c7a:
@@ -436,13 +436,13 @@ translate chinese replay_d13s03_cf91446d:
 translate chinese replay_d13s03_ce21402a:
 
     # ir "Yeah you taste good. We can meet again some time."
-    ir "你的味道很好。我们可以下次再见面。"
+    ir "你尝起来很好嘛。我们可以下次再见面。"
 
 # game/code/d13/d13s03.rpy:344
 translate chinese replay_d13s03_0b50b5ea:
 
     # ir "But I want you cum several times in my panty next time. That is...{w} That turns me on!"
-    ir "但我希望你下次能在我内裤里射几次。感觉真是……{w}。我会很兴奋！"
+    ir "但我希望下次你能在我内裤里多来几发。那感觉真是……{w}我会很兴奋！"
 
 # game/code/d13/d13s03.rpy:347
 translate chinese replay_d13s03_7ef6ca83:
@@ -472,7 +472,7 @@ translate chinese d13s03_end_e912ff81:
 translate chinese d13s03_end_5e679eab:
 
     # ir "If you have any questions or whatever, just send me a message."
-    ir "如果你有任何问题或其他什么需要我，给我发信息就行。"
+    ir "如果你有任何问题或其他什么需要我的话，给我发信息就行。"
 
 # game/code/d13/d13s03.rpy:372
 translate chinese d13s03_end_8154caa2:
@@ -490,13 +490,13 @@ translate chinese d13s03_end_d6920905:
 translate chinese d13s03_end_2a67fcb3:
 
     # mc "I'll keep that in mind."
-    mc "我会记住的。"
+    mc "我记住了。"
 
 # game/code/d13/d13s03.rpy:384
 translate chinese d13s03_end_12faf2ac:
 
     # ir "Great. Catch you later then."
-    ir "Great. Catch you later then."
+    ir "很好，那回见啦。"
 
 # game/code/d13/d13s03.rpy:389
 translate chinese d13s03_end_a95fe941:
@@ -510,4 +510,4 @@ translate chinese d13s03_end_a95fe941:
 translate chinese replay_d13s03_2dacc73c:
 
     # ir "But I want you to cum several times in my panties next time. That is...{w} That turns me on!"
-    ir "但我希望你下次能在我内裤里射几次。感觉真是……{w}。我会很兴奋！"
+    ir "但我希望下次你能在我内裤里多来几发。那感觉真是……{w}我会很兴奋的！"
