@@ -4,301 +4,301 @@
 translate chinese d13s05_67dfdc05:
 
     # "After a short travel with Lydia."
-    "After a short travel with Lydia."
+    "在与莉迪亚的短暂旅程后"
 
 # game/code/d13/d13s05.rpy:45
 translate chinese d13s05_3dc8a59f:
 
     # mct "Huh, this is the same hotel Samiya sent me to..."
-    mct "Huh, this is the same hotel Samiya sent me to..."
+    mct "啊，这就是萨米亚送我去的酒店……"
 
 # game/code/d13/d13s05.rpy:57
 translate chinese replay_d13s05_d09f78fb:
 
     # lc "[mcname], may I introduce you to..."
-    lc "[mcname], may I introduce you to..."
+    lc "[mcname]，请允许我向你介绍……"
 
 # game/code/d13/d13s05.rpy:59
 translate chinese replay_d13s05_b1ec3d62:
 
     # lc "Chastity!"
-    lc "Chastity!"
+    lc "贞洁！"
 
 # game/code/d13/d13s05.rpy:62
 translate chinese replay_d13s05_3a3e0e25:
 
     # mc "Um. {w}Hi."
-    mc "Um. {w}Hi."
+    mc "呃。{w}你好。"
 
 # game/code/d13/d13s05.rpy:66
 translate chinese replay_d13s05_d43d3aac:
 
     # mct "NOT what I expected."
-    mct "NOT what I expected."
+    mct "和我期望的不一样啊。"
 
 # game/code/d13/d13s05.rpy:69
 translate chinese replay_d13s05_a23197a0:
 
     # mc "Oh, hmm. {w}What's going on here?"
-    mc "Oh, hmm. {w}What's going on here?"
+    mc "嗯……{w}这到底是怎么回事？"
 
 # game/code/d13/d13s05.rpy:72
 translate chinese replay_d13s05_3ba114b6:
 
     # lc "Chastity - or Chase, if you prefer - is a friend of Allison's."
-    lc "Chastity - or Chase, if you prefer - is a friend of Allison's."
+    lc "贞洁--或者你愿意的话，可以叫她小贞，她是艾莉森的朋友。"
 
 # game/code/d13/d13s05.rpy:75
 translate chinese replay_d13s05_2b535fd3:
 
     # nr "Hi!"
-    nr "Hi!"
+    nr "你好！"
 
 # game/code/d13/d13s05.rpy:77
 translate chinese replay_d13s05_4c550490:
 
     # nr "I am more of a business associate of Allison's."
-    nr "I am more of a business associate of Allison's."
+    nr "我更像是艾莉森的一个商业伙伴。"
 
 # game/code/d13/d13s05.rpy:79
 translate chinese replay_d13s05_3e391604:
 
     # mct "She's a camgirl... {w}or maybe a prostitute?"
-    mct "She's a camgirl... {w}or maybe a prostitute?"
+    mct "她是个直播女孩……{w}还是个妓女？"
 
 # game/code/d13/d13s05.rpy:82
 translate chinese replay_d13s05_09175fb1:
 
     # lc "You have been so wonderful to me - giving me my first orgasm, {w}stopping me from losing control yesterday, and just being awesome."
-    lc "You have been so wonderful to me - giving me my first orgasm, {w}stopping me from losing control yesterday, and just being awesome."
+    lc "你对我太好了--给了我第一次高潮；{w}昨天又阻止了我的失控，你真的很棒。"
 
 # game/code/d13/d13s05.rpy:85
 translate chinese replay_d13s05_1978b4be:
 
     # lc "I wanted to get you a present."
-    lc "I wanted to get you a present."
+    lc "所以我想送你一份礼物。"
 
 # game/code/d13/d13s05.rpy:88
 translate chinese replay_d13s05_dc555370:
 
     # nr "Consider it a performance art piece, where you are the lead actor & I am the lead actress."
-    nr "Consider it a performance art piece, where you are the lead actor & I am the lead actress."
+    nr "把它当成一场艺术表演，你是男主角，我是女主角。"
 
 # game/code/d13/d13s05.rpy:91
 translate chinese replay_d13s05_1f53a074:
 
     # lc "I'll just be in the audience.{w}.. this time."
-    lc "I'll just be in the audience.{w}.. this time."
+    lc "这一次……我会在观众席里。"
 
 # game/code/d13/d13s05.rpy:93
 translate chinese replay_d13s05_84f16542:
 
     # mc "Okay..."
-    mc "Okay..."
+    mc "好吧……"
 
 # game/code/d13/d13s05.rpy:96
 translate chinese replay_d13s05_de74e27e:
 
     # nr "Your girlfriend was kind enough to pay for my ass or my pussy, but not both."
-    nr "Your girlfriend was kind enough to pay for my ass or my pussy, but not both."
+    nr "你女朋友很好，愿意为我的屁股或小穴付钱，但不能两个都要。"
 
 # game/code/d13/d13s05.rpy:99
 translate chinese replay_d13s05_bc5577f6:
 
     # nr "Which would you prefer?"
-    nr "Which would you prefer?"
+    nr "你更喜欢哪一个？"
 
 # game/code/d13/d13s05.rpy:102
 translate chinese replay_d13s05_ad963575:
 
     # lc "Oh, um-"
-    lc "Oh, um-"
+    lc "呃，嗯--"
 
 # game/code/d13/d13s05.rpy:105
 translate chinese replay_d13s05_52d1164a:
 
     # mc "Which is better for you?"
-    mc "Which is better for you?"
+    mc "哪个对你来说更好？"
 
 # game/code/d13/d13s05.rpy:108
 translate chinese replay_d13s05_b7e52984:
 
     # nr "Given the option, most guys prefer to fuck my ass."
-    nr "Given the option, most guys prefer to fuck my ass."
+    nr "如果有选择的话，大多数男人更喜欢操我的屁股。"
 
 # game/code/d13/d13s05.rpy:110
 translate chinese replay_d13s05_a329060a:
 
     # nr "So, there would be a certain novelty to-"
-    nr "So, there would be a certain novelty to-"
+    nr "所以，要有新奇感的话--"
 
 # game/code/d13/d13s05.rpy:113
 translate chinese replay_d13s05_86c3d8d7:
 
     # lc "Her womanhood! {w}Um, I mean. If it's alright with both of you, could you keep it to vaginal sex?"
-    lc "Her womanhood! {w}Um, I mean. If it's alright with both of you, could you keep it to vaginal sex?"
+    lc "抓住她的女人味! {w}我是说，如果你们双方都同意的话，能不能进行阴道性交？"
 
 # game/code/d13/d13s05.rpy:116
 translate chinese replay_d13s05_81279853:
 
     # lc "I'm just not ready to see - or even imagine - that other thing yet."
-    lc "I'm just not ready to see - or even imagine - that other thing yet."
+    lc "我只是还没有准备好去看……甚至想象……其他画面。"
 
 # game/code/d13/d13s05.rpy:118
 translate chinese replay_d13s05_ff416f81:
 
     # nr "You are so sweet."
-    nr "You are so sweet."
+    nr "你好可爱。"
 
 # game/code/d13/d13s05.rpy:121
 translate chinese replay_d13s05_006cb9e1:
 
     # nr "I see why you keep her."
-    nr "I see why you keep her."
+    nr "现在我知道你为什么和她在一起了。"
 
 # game/code/d13/d13s05.rpy:124
 translate chinese replay_d13s05_6240884c:
 
     # lc "Um, thanks?"
-    lc "Um, thanks?"
+    lc "呃，谢谢？"
 
 # game/code/d13/d13s05.rpy:127
 translate chinese replay_d13s05_d6ae136b:
 
     # mc "She is incredibly sweet. That's just one of Lydia's many virtues."
-    mc "She is incredibly sweet. That's just one of Lydia's many virtues."
+    mc "她真的非常可爱。这还只是莉迪亚的众多优点之一。"
 
 # game/code/d13/d13s05.rpy:129
 translate chinese replay_d13s05_99ee4460:
 
     # lc "Oh..."
-    lc "Oh..."
+    lc "噢……"
 
 # game/code/d13/d13s05.rpy:132
 translate chinese replay_d13s05_99e0ced8:
 
     # nr "Names..."
-    nr "Names..."
+    nr "名字……"
 
 # game/code/d13/d13s05.rpy:134
 translate chinese replay_d13s05_d5153462:
 
     # nr "Don't worry, I already forgot it."
-    nr "Don't worry, I already forgot it."
+    nr "别担心，我已经忘了。"
 
 # game/code/d13/d13s05.rpy:135
 translate chinese replay_d13s05_41302107:
 
     # nr "Speaking of which... {w}I've been thinking about changing my name."
-    nr "Speaking of which... {w}I've been thinking about changing my name."
+    nr "说到这个……{w}我一直在考虑改个名字。"
 
 # game/code/d13/d13s05.rpy:138
 translate chinese replay_d13s05_6b1f5dab:
 
     # nr "Which name do you prefer? Chastity or Chase?"
-    nr "Which name do you prefer? Chastity or Chase?"
+    nr "你更喜欢哪个名字？贞洁还是小贞？"
 
 # game/code/d13/d13s05.rpy:143
 translate chinese replay_d13s05_51982b3f:
 
     # mc "Chastity definitely sounds better."
-    mc "Chastity definitely sounds better."
+    mc "贞洁听起来更好。"
 
 # game/code/d13/d13s05.rpy:148
 translate chinese replay_d13s05_84af4810:
 
     # mc "Chase definitely sounds better."
-    mc "Chase definitely sounds better."
+    mc "小贞听起来更好。"
 
 # game/code/d13/d13s05.rpy:152
 translate chinese replay_d13s05_27da25af:
 
     # lc "I agree."
-    lc "I agree."
+    lc "我也这么觉得。"
 
 # game/code/d13/d13s05.rpy:155
 translate chinese replay_d13s05_064920f1:
 
     # nr "Excellent. Thanks!"
-    nr "Excellent. Thanks!"
+    nr "完美，多谢！"
 
 # game/code/d13/d13s05.rpy:158
 translate chinese replay_d13s05_5601da0d:
 
     # mc "Alright. So, I guess we should-"
-    mc "Alright. So, I guess we should-"
+    mc "好了。所以我想我们应该--"
 
 # game/code/d13/d13s05.rpy:162
 translate chinese replay_d13s05_02a00ca8:
 
     # nr "Right you are."
-    nr "Right you are."
+    nr "你说的对。"
 
 # game/code/d13/d13s05.rpy:164
 translate chinese replay_d13s05_8b091612:
 
     # nr "Let's get you out of those clothes, my young stud."
-    nr "Let's get you out of those clothes, my young stud."
+    nr "把你的衣服脱了吧，我的小帅哥。"
 
 # game/code/d13/d13s05.rpy:172
 translate chinese replay_d13s05_cd485c7f:
 
     # lc "Ummm..."
-    lc "Ummm..."
+    lc "嗯……"
 
 # game/code/d13/d13s05.rpy:175
 translate chinese replay_d13s05_98ac1f6c:
 
     # lc "I'll just be..."
-    lc "I'll just be..."
+    lc "我会……"
 
 # game/code/d13/d13s05.rpy:177
 translate chinese replay_d13s05_a0c187f2:
 
     # lc "I'm just going to listen from the refresher."
-    lc "I'm just going to listen from the refresher."
+    lc "我会在静修室听你们。"
 
 # game/code/d13/d13s05.rpy:180
 translate chinese replay_d13s05_4a68051c:
 
     # nr "The refresher?"
-    nr "The refresher?"
+    nr "静修室？"
 
 # game/code/d13/d13s05.rpy:183
 translate chinese replay_d13s05_da3d1308:
 
     # mc "The bathroom."
-    mc "The bathroom."
+    mc "卫生间。"
 
 # game/code/d13/d13s05.rpy:185
 translate chinese replay_d13s05_c95edf53:
 
     # mc "Fancy word for toilet."
-    mc "Fancy word for toilet."
+    mc "这是厕所的时髦说法。"
 
 # game/code/d13/d13s05.rpy:196
 translate chinese replay_d13s05_40d607e8:
 
     # nr "Let's keep this nice and simple - no kissing."
-    nr "Let's keep this nice and simple - no kissing."
+    nr "我们简单直接一点--不能亲吻。"
 
 # game/code/d13/d13s05.rpy:197
 translate chinese replay_d13s05_16fade99:
 
     # nr "No kissing my face, no kissing my body, just no kissing at all."
-    nr "No kissing my face, no kissing my body, just no kissing at all."
+    nr "不能亲我的脸，我的身体，基本一点也不能亲。"
 
 # game/code/d13/d13s05.rpy:200
 translate chinese replay_d13s05_0e222bcd:
 
     # nr "There's no need for foreplay with me and you didn't pay for the emotional faux girlfriend experience."
-    nr "There's no need for foreplay with me and you didn't pay for the emotional faux girlfriend experience."
+    nr "没有必要和我来前戏，你也没花钱买这种情感假女友体验。"
 
 # game/code/d13/d13s05.rpy:203
 translate chinese replay_d13s05_8a8dcca5:
 
     # mc "That's okay with me. My girlfriend arranged this."
-    mc "That's okay with me. My girlfriend arranged this."
+    mc "我没问题。这是我女朋友安排的。"
 
 # game/code/d13/d13s05.rpy:206
 translate chinese replay_d13s05_a8762c8c:
