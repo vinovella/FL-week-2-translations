@@ -406,7 +406,7 @@ translate chinese d13s05_sidesex_cb9bdf61:
 translate chinese d13s05_cowgirl_86194c0d:
 
     # nr "This is my favorite position!"
-    nr "这是我最喜欢的姿势！
+    nr "这是我最喜欢的姿势！"
 
 # game/code/d13/d13s05.rpy:349
 translate chinese d13s05_cowgirl_8d151bdc:
@@ -729,4 +729,3 @@ translate chinese strings:
     # game/code/d13/d13s05.rpy:146
     old "Chase"
     new "小贞"
-
