@@ -100,7 +100,7 @@ translate chinese replay_d13s06_216d739d:
 translate chinese replay_d13s06_0bf6f3d5:
 
     # ah "Well, {i}hun{/i}, why don't you go outside and wait."
-    ah "好了，{i}亲爱的{/i}，你为什么不出去等呢？"
+    ah "好了，{i}亲爱的{/i}，你为什么不出去等着呢？"
 
 # game/code/d13/d13s06.rpy:104
 translate chinese replay_d13s06_843e598a:
@@ -148,7 +148,7 @@ translate chinese replay_d13s06_2464b35b:
 translate chinese replay_d13s06_030095ef:
 
     # ah "Maybe you would like for me to take care of your clothes for you?"
-    ah "也许你想让我为你整理衣服？"
+    ah "也许你想让我为你……整理衣服？"
 
 # game/code/d13/d13s06.rpy:146
 translate chinese replay_d13s06_b235c885:
@@ -166,7 +166,7 @@ translate chinese replay_d13s06_35edd0ef:
 translate chinese replay_d13s06_ccc29945:
 
     # ah "Tell me. Do I arouse you? Do I make you drop your inhibitions? Do I make you want to sin?"
-    ah "告诉我，我有让你性奋起来吗？有让你放下矜持吗？有没有让你想犯罪？"
+    ah "说出来，我有让你性奋吗？有让你放下矜持吗？有没有让你想犯罪？"
 
 # game/code/d13/d13s06.rpy:184
 translate chinese replay_d13s06_529fb3e1:
@@ -202,7 +202,7 @@ translate chinese replay_d13s06_d20570cb:
 translate chinese replay_d13s06_48fb4821:
 
     # ah "*Moan* That feels {i}good{/i}."
-    ah "*呻吟* 真{i}厉害{/i}。"
+    ah "*呻吟* 真{i}舒服{/i}。"
 
 # game/code/d13/d13s06.rpy:293
 translate chinese replay_d13s06_026b7bf6:
