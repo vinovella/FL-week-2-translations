@@ -22,7 +22,7 @@ translate chinese d13s07_2fa40668:
 translate chinese d13s07_0bfdab73:
 
     # mc "Whoa!{w} Hey Min.{w}.. Lydia said that I should meet you?"
-    mc "喔！{w}嘿，明……{w}莉迪亚说，我应该和你见面？"
+    mc "喔！{w}嘿，明……{w}莉迪亚说，我该和你见一面？"
 
 # game/code/d13/d13s07.rpy:25
 translate chinese d13s07_bdd1185f:
@@ -40,7 +40,7 @@ translate chinese d13s07_dc2969da:
 translate chinese d13s07_2770918a:
 
     # mes "Exactly. Although, it's weird to go on a rebound date with her boyfriend."
-    mes "没错。不过，和闺蜜的男朋友约会以疗伤感觉很奇怪。"
+    mes "没错。不过，靠和闺蜜的男朋友约会来疗伤，感觉很奇怪。"
 
 # game/code/d13/d13s07.rpy:34
 translate chinese d13s07_3abad34e:
@@ -142,7 +142,7 @@ translate chinese d13s07_a8d213b5:
 translate chinese d13s07_9d32811d:
 
     # mes "Weird, but sounds like fun."
-    mes "很奇怪，不过听起来很有趣。"
+    mes "好奇怪，不过听起来很有趣。"
 
 # game/code/d13/d13s07.rpy:102
 translate chinese d13s07_4caf7c91:
@@ -244,7 +244,7 @@ translate chinese d13s07_0348d682:
 translate chinese d13s07_95fa6ed2:
 
     # mes "Interning at my father's corporation. It's good practice if I decide to work there, but not very interesting or exciting. I'm not sure I want to do that."
-    mes "在我父亲的公司实习。如果我决定在那里工作，这倒是很有用的实践，但它并没有多有趣或令人兴奋。我甚至不确定自己是否想从事这种工作。"
+    mes "在我父亲的公司实习。如果我决定在那里工作，这倒是很有用的实践活动，但它并没有多有趣或令人兴奋。我甚至不确定自己是否想从事这种工作。"
 
 # game/code/d13/d13s07.rpy:146
 translate chinese d13s07_7655a7cb:
@@ -304,13 +304,13 @@ translate chinese d13s07_cb5aecd1:
 translate chinese d13s07_f7959eec:
 
     # mes "Maybe you could start your own porn studio. You seem very interested in quite a number of ladies and fetishes."
-    mes "也许你可以开办自己的红灯机构。你好像对女伴和性癖的兴趣……很多样。"
+    mes "也许你可以开办自己的红灯机构。你对女伴和性癖的兴趣……好像很多样。"
 
 # game/code/d13/d13s07.rpy:176
 translate chinese d13s07_ee676f89:
 
     # mc "That's not a bad idea. I don't suppose you'd want to sign on as one of the models."
-    mc "这主意不错。我猜你不会想签约，成为其中的模特吧？"
+    mc "这主意不错。我猜你不会想签约，成为我的模特吧？"
 
 # game/code/d13/d13s07.rpy:179
 translate chinese d13s07_e21100ed:
@@ -340,7 +340,7 @@ translate chinese d13s07_d9c7a396:
 translate chinese d13s07_03d8272c:
 
     # mc "Yeah, but don't say too much about that last part."
-    mc "是的，但最后这部分，不要说得太多。"
+    mc "是的，但最后这部分，不要透露太多。"
 
 # game/code/d13/d13s07.rpy:192
 translate chinese d13s07_fd54ab48:
@@ -370,13 +370,13 @@ translate chinese d13s07_2b35b6fe:
 translate chinese d13s07_96b3ad55:
 
     # mes "You're trying to what - date me? But you don't want to fuck me?"
-    mes "你想干什么--和我约会？但又不想和我睡？"
+    mes "你在盘算什么--和我约会？但又不想和我睡？"
 
 # game/code/d13/d13s07.rpy:205
 translate chinese d13s07_5e796398:
 
     # mes "Even though you need to? Even though you can?"
-    mes "即使你需要，即使你有机会，也不愿意？"
+    mes "即使你需要这么做，即使你有机会，也不愿意？"
 
 # game/code/d13/d13s07.rpy:208
 translate chinese d13s07_04441f36:
@@ -412,7 +412,7 @@ translate chinese d13s07_11455b53:
 translate chinese d13s07_8026f2ac:
 
     # mes "What do you mean, \"What?\"? She's my best friend."
-    mes "你说\"什么\"是什么意思？她是我最好的朋友。"
+    mes "你说\"什么？\"是什么意思？她是我最好的朋友。"
 
 # game/code/d13/d13s07.rpy:224
 translate chinese d13s07_8968f188:
@@ -430,13 +430,13 @@ translate chinese d13s07_ffe7c7f6:
 translate chinese d13s07_27fe36b0:
 
     # mes "When is your deadline?"
-    mes "截止日期是什么时候？"
+    mes "挑战截止日期是什么时候？"
 
 # game/code/d13/d13s07.rpy:233
 translate chinese d13s07_8ac2cb67:
 
     # mc "Monday.{w} Probably Monday morning, but I don't think it said."
-    mc "周一。{w}可能是周一早上，但我不能保证。"
+    mc "周一。{w}可能是周一早上，但它没有明说。"
 
 # game/code/d13/d13s07.rpy:238
 translate chinese d13s07_7b3bc59d:
@@ -448,13 +448,13 @@ translate chinese d13s07_7b3bc59d:
 translate chinese d13s07_8123edae:
 
     # mc "I mean, unless I get to 20 some other way, and-"
-    mc "我的意思是，除非我有其他办法能上到20人，那样--"
+    mc "我觉得，除非我有其他办法能上到20人，那样--"
 
 # game/code/d13/d13s07.rpy:246
 translate chinese d13s07_a5781116:
 
     # mes "No.{w} You're not fucking me tonight, and I appreciate that - even if it confuses the hell out of me."
-    mes "不。{w}你今晚不操我，我很感激--即使这让我很困惑。"
+    mes "不。{w}你今晚没有操我，我很感激--即使这让我很困惑。"
 
 # game/code/d13/d13s07.rpy:247
 translate chinese d13s07_e31f9b97:
@@ -538,7 +538,7 @@ translate chinese d13s07_8fb5588e:
 translate chinese d13s07_8fcf5f70:
 
     # mes "Seriously? {w}I mean, I knew she was cool with you...{w} but at her house?"
-    mes "说真的？我是说，我知道她对你很放心……但是在她家？"
+    mes "说真的？{w}我是说，我知道她对你很放心……{w}但是在她家举办？"
 
 # game/code/d13/d13s07.rpy:287
 translate chinese d13s07_ee5006ad:
@@ -580,7 +580,7 @@ translate chinese d13s07_175b7638:
 translate chinese d13s07_e9ab66d2:
 
     # mc "My sister. {w}She starts college here in the autumn."
-    mc "我妹妹。她秋天就要在这里上大学了。"
+    mc "我妹妹。{w}她秋天就要在这里上大学了。"
 
 # game/code/d13/d13s07.rpy:308
 translate chinese d13s07_797fd5fa:
