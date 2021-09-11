@@ -46,13 +46,13 @@ translate chinese d13s07_2770918a:
 translate chinese d13s07_3abad34e:
 
     # mc "Well, she likes being around me. So, she probably thinks you will too."
-    mc "嗯，她喜欢和我在一起。所以，她可能觉得这也同样适用于你。"
+    mc "呃，她喜欢和我在一起。所以，她可能觉得这也同样适用于你。"
 
 # game/code/d13/d13s07.rpy:37
 translate chinese d13s07_36d1349d:
 
     # mes "Let's find out."
-    mes "那我们来看看是否如此吧。"
+    mes "那我们走着瞧吧。"
 
 # game/code/d13/d13s07.rpy:47
 translate chinese d13s07_0fe6fb82:
