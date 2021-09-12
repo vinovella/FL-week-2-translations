@@ -893,7 +893,7 @@ translate malay replay_d09s03_9b96df8a:
 
     # mc "Just everywhere. All over the place."
     mc "Ianya bersepah."
-    
+
 # game/code/d09/d09s03.rpy:478
 translate malay replay_d09s03_ffa0953a:
 
@@ -941,12 +941,12 @@ translate malay replay_d09s03_45526ba1:
 
     # lc "Are you okay?"
     lc "Adakah kau okay?"
-    
+
 # game/code/d09/d09s03.rpy:506
 translate malay replay_d09s03_218077f6:
 
     # lc " You look..."
-    lc " Kau nampak
+    lc "Kau nampak..."
 
 # game/code/d09/d09s03.rpy:507
 translate malay replay_d09s03_e7c7315b:
@@ -1115,7 +1115,7 @@ translate malay replay_d09s03_97f95a57:
 
     # lc "I will be waiting for that!"
     lc "Aku akan tunggu untuk itu!"
-    
+
 translate malay strings:
 
     # game/code/d09/d09s03.rpy:334
@@ -1201,4 +1201,3 @@ translate malay strings:
     # game/code/d09/d09s03.rpy:375
     old "soiled condoms"
     new "kondom kotor"
-
