@@ -4,13 +4,13 @@
 translate chinese d13s08_1ea101fb:
 
     # mct "Time to head back home."
-    mct "该回家了。"
+    mct "该回去了。"
 
 # game/code/d13/d13s08.rpy:70
 translate chinese d13s08_2ed28075:
 
     # mc "Huh. A message from Vanessa."
-    mc "啊，是凡妮莎的消息。"
+    mc "呵，是瓦妮莎的消息。"
 
 # game/code/d13/d13s08.rpy:72
 translate chinese d13s08_f4b6de02:
@@ -22,25 +22,25 @@ translate chinese d13s08_f4b6de02:
 translate chinese d13s08_94abc458:
 
     # mc "Well this is a nice surprise and yeah."
-    mc "哦，这真是个惊喜，我还醒着。"
+    mc "这真是个惊喜，我还醒着。"
 
 # game/code/d13/d13s08.rpy:81
 translate chinese d13s08_a11c53db:
 
     # vw "Sorry I haven't msged or called. Been busy. You know how it is."
-    vw "对不起，我没给你发消息，也没打电话。最近一直很忙。你知道怎么回事。"
+    vw "抱歉，我没给你发消息，也没能打电话。最近一直很忙。你知道怎么回事。"
 
 # game/code/d13/d13s08.rpy:83
 translate chinese d13s08_2bca3cee:
 
     # vw "But I finally got some time for myself. And I was thinking about you..."
-    vw "但我现在终于有自己的时间了。我在想你……"
+    vw "不过我现在终于有自己的时间了。我在想你……"
 
 # game/code/d13/d13s08.rpy:87
 translate chinese d13s08_02077cfb:
 
     # mc "Thinking about me? In what way?"
-    mc "想我？想我什么？"
+    mc "哦，想我？想我什么？"
 
 # game/code/d13/d13s08.rpy:89
 translate chinese d13s08_2a611ffd:
@@ -52,7 +52,7 @@ translate chinese d13s08_2a611ffd:
 translate chinese d13s08_22fff191:
 
     # mc "I really don't. Mind showing me?"
-    mc "我真不明白。你介意展示给我看看吗？"
+    mc "我还真不明白。你介意展示给我看看吗？"
 
 # game/code/d13/d13s08.rpy:94
 translate chinese d13s08_3b5efa6d:
@@ -106,13 +106,13 @@ translate chinese d13s08_9c808085:
 translate chinese d13s08_0e942cae:
 
     # vw "You remember that place above that nice French boutique?{w} You met Harris there."
-    vw "你还记得那个漂亮的法国精品店上面的地方吗？{w}你在那里见过哈里斯。"
+    vw "你还记得那家法国精品店上面的地方吗？{w}你在那里见过哈里斯。"
 
 # game/code/d13/d13s08.rpy:121
 translate chinese d13s08_33ed6f58:
 
     # mct "Oh that's pretty close."
-    mct "哦，那很近。"
+    mct "哦，那还挺近。"
 
 # game/code/d13/d13s08.rpy:124
 translate chinese d13s08_beedf86c:
@@ -142,7 +142,7 @@ translate chinese replay_d13s08_3b807e11:
 translate chinese replay_d13s08_620be02f:
 
     # mc "You made a very persuasive argument as to why I should come."
-    mc "你提供了一个相当有说服力的理由让我过来。"
+    mc "你提供的理由那么有说服力，我怎么会不过来呢。"
 
 # game/code/d13/d13s08.rpy:146
 translate chinese replay_d13s08_3bbefbb6:
@@ -154,7 +154,7 @@ translate chinese replay_d13s08_3bbefbb6:
 translate chinese replay_d13s08_01cd2091:
 
     # mc "I didn't know you lived here."
-    mc "我不知道你住在这里。"
+    mc "我不知道你住这里。"
 
 # game/code/d13/d13s08.rpy:149
 translate chinese replay_d13s08_58e2e3f7:
@@ -172,13 +172,13 @@ translate chinese replay_d13s08_55d1b046:
 translate chinese replay_d13s08_c88c4c44:
 
     # vw "Uhm, no actually. It's just that...{w} someone I know goes to UNI, and I wanted to try and be a bit closer to her."
-    vw "嗯，并不是。只是……{w}我认识的人去了大学，我想试着离她近一点。"
+    vw "嗯，并不是。只是……{w}我有认识的人去了大学，我想试着离她近一点。"
 
 # game/code/d13/d13s08.rpy:157
 translate chinese replay_d13s08_18e420fa:
 
     # vw "You know how it is."
-    vw "你知道是怎么回事。"
+    vw "你知道怎么回事。"
 
 # game/code/d13/d13s08.rpy:159
 translate chinese replay_d13s08_5007d489:
@@ -190,13 +190,13 @@ translate chinese replay_d13s08_5007d489:
 translate chinese replay_d13s08_dfb8fbb7:
 
     # vw "Not really... You wouldn't mind keeping this between us, would you?"
-    vw "不知道……你不会介意这事就我俩知道吧？"
+    vw "不知道……你能帮我保密吧？"
 
 # game/code/d13/d13s08.rpy:163
 translate chinese replay_d13s08_45079d88:
 
     # vw "I'm not {i}living{/i} here exactly, but I come around from time to time."
-    vw "确切地说，我不是{i}住{/i}在这里，但我偶尔会来。"
+    vw "确切地说，我不算是{i}住{/i}在这里，但我偶尔会来。"
 
 # game/code/d13/d13s08.rpy:164
 translate chinese replay_d13s08_4eb8f5c1:
@@ -220,7 +220,7 @@ translate chinese replay_d13s08_ac373f14:
 translate chinese replay_d13s08_889e3879:
 
     # vw "God, I missed this."
-    vw "天啊，我真的好想它。"
+    vw "天啊，我真的想死它了。"
 
 # game/code/d13/d13s08.rpy:196
 translate chinese replay_d13s08_a8cdd9ca:
@@ -238,7 +238,7 @@ translate chinese replay_d13s08_569a4d99:
 translate chinese replay_d13s08_0ac048f6:
 
     # vw "Yes... Yes! God, I love your hands."
-    vw "没错…… 好舒服! 天，我爱死你的手了。"
+    vw "没错……好舒服！天，你的手真厉害。"
 
 # game/code/d13/d13s08.rpy:221
 translate chinese replay_d13s08_aa66f391:
@@ -286,7 +286,7 @@ translate chinese replay_d13s08_9ed43ee7:
 translate chinese replay_d13s08_4c40fc1f:
 
     # vw "Aw, yes! Yes, baby! Fuck me!"
-    vw "喔，没错! 没错，我的小心肝！操我！"
+    vw "喔，没错! 没错，我的小心肝！操死我！"
 
 # game/code/d13/d13s08.rpy:329
 translate chinese replay_d13s08_224b8caa:
@@ -376,13 +376,13 @@ translate chinese replay_d13s08_8cf50076:
 translate chinese replay_d13s08_29b2f384:
 
     # vw "I panicked! I didn't want any cum on the rug."
-    vw "我太慌了! 我可不想地毯上有精液。"
+    vw "我太慌了！我可不想地毯上有精液。"
 
 # game/code/d13/d13s08.rpy:436
 translate chinese replay_d13s08_7080c80a:
 
     # mc "Couldn't you have just...blown me?"
-    mc "你就不能……给我吹箫吗？"
+    mc "你就不能……给我口吗？"
 
 # game/code/d13/d13s08.rpy:439
 translate chinese replay_d13s08_62ff0eb1:
@@ -412,7 +412,7 @@ translate chinese replay_d13s08_b2b9e19d:
 translate chinese replay_d13s08_f3a7ca12:
 
     # vw "I could keep it like that and wear it later still covered by your cum. {w}Or I can clean it up."
-    vw "我可以保持原样，待会穿上它，就这样被你的精液覆盖。{w}或者我也可以把它洗干净。"
+    vw "我可以保持原样，待会穿上它，就这样被你的精液覆盖住。{w}或者我也可以把它洗干净。"
 
 # game/code/d13/d13s08.rpy:456
 translate chinese replay_d13s08_6974feb4:
@@ -442,7 +442,7 @@ translate chinese replay_d13s08_1d1f43be:
 translate chinese replay_d13s08_0b80278e:
 
     # vw "Mmm, I'd like that. Alright. I'll keep it as is."
-    vw "嗯，我喜欢这个主意。那就这样。我会保持原样。"
+    vw "嗯，我喜欢这个主意。那就这样。我听你的。"
 
 # game/code/d13/d13s08.rpy:473
 translate chinese replay_d13s08_9de02cc0:
@@ -466,7 +466,7 @@ translate chinese replay_d13s08_8353165b:
 translate chinese replay_d13s08_ab277d43:
 
     # vw "You're too damn slick for your own good, young man."
-    vw "你太他妈滑头了，年轻人。"
+    vw "你的小嘴可真甜，年轻人。"
 
 # game/code/d13/d13s08.rpy:481
 translate chinese replay_d13s08_5eaa7d8c:
@@ -532,7 +532,7 @@ translate chinese d13s08_call_stacy_5af4532a:
 translate chinese d13s08_call_stacy_e4771dbb:
 
     # sy "Am and I are getting started first thing tomorrow on the renos and you can help as well."
-    sy "我和爱洛丝明天一早就开始装饰，你也可以帮忙。"
+    sy "我和爱洛丝明天一早就开始装饰，你也可以来帮忙。"
 
 # game/code/d13/d13s08.rpy:545
 translate chinese d13s08_call_stacy_6b8bb658:
