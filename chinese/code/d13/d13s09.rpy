@@ -22,7 +22,7 @@ translate chinese d13s09_8208ca6d:
 translate chinese d13s09_69be5189:
 
     # sy "Already found some new things! Come in and see!"
-    sy "我找到了一些新玩意! 快进来看看！"
+    sy "我找到了一些新玩意！快进来看看！"
 
 # game/code/d13/d13s09.rpy:42
 translate chinese d13s09_1e641841:
@@ -40,7 +40,7 @@ translate chinese d13s09_a3b84d01:
 translate chinese d13s09_dbf9d24a:
 
     # sy "It isn't a mess! Those are my things that make this place cozy!"
-    sy "它们才不乱，恰是这些东西让我这个地方变得舒适的！"
+    sy "它们才不乱，恰恰是因为这些东西，我这个地方才变得舒适的！"
 
 # game/code/d13/d13s09.rpy:51
 translate chinese d13s09_7aac410a:
@@ -64,7 +64,7 @@ translate chinese d13s09_f49fff8f:
 translate chinese d13s09_daadd97f:
 
     # sy "I have to admit that I misjudged her."
-    sy "我不得不承认，我错看了她。"
+    sy "不得不承认，我当初错看了她。"
 
 # game/code/d13/d13s09.rpy:63
 translate chinese d13s09_866dba6a:
@@ -76,7 +76,7 @@ translate chinese d13s09_866dba6a:
 translate chinese d13s09_4832223e:
 
     # sy "Yeah, she seemed so stupidly boring..."
-    sy "是啊，她看起来又傻又无聊……"
+    sy "是啊，她之前看起来又傻又无聊……"
 
 # game/code/d13/d13s09.rpy:67
 translate chinese d13s09_0b8927ae:
@@ -88,7 +88,7 @@ translate chinese d13s09_0b8927ae:
 translate chinese d13s09_b3fc77fe:
 
     # sy "But AmRose is still better!"
-    sy "但是爱洛丝还是更好！"
+    sy "但还是爱洛丝更好！"
 
 # game/code/d13/d13s09.rpy:82
 translate chinese d13s09_a2647c3c:
@@ -106,7 +106,7 @@ translate chinese d13s09_3284d67c:
 translate chinese d13s09_b132a1de:
 
     # sy "Is she? Or maybe this is her only choice?"
-    sy "是吗？还是说这是她唯一的选择？"
+    sy "真是这样吗？还是说这是她唯一的选择？"
 
 # game/code/d13/d13s09.rpy:99
 translate chinese d13s09_4ae1d413:
@@ -130,7 +130,7 @@ translate chinese d13s09_23ce4815:
 translate chinese d13s09_3d038a4d:
 
     # sy "She doesn't want to sit on the bench and see you fuck all those dolls. She wants to have all your attention."
-    sy "她不想坐冷板凳，看着你操那些辣妹。她想吸引你所有的注意力。"
+    sy "她不想坐冷板凳，只能看着你上那些辣妹。她想吸引你所有的注意力。"
 
 # game/code/d13/d13s09.rpy:110
 translate chinese d13s09_1dd84f25:
@@ -148,7 +148,7 @@ translate chinese d13s09_45f66500:
 translate chinese d13s09_d6b921c6:
 
     # mc "Huh? How can you be sure she thinks that..."
-    mc "你怎么确定她这么想……"
+    mc "嗯？你怎么确定她这么想……"
 
 # game/code/d13/d13s09.rpy:121
 translate chinese replay_d13s09_e7a6984c:
@@ -172,7 +172,7 @@ translate chinese replay_d13s09_2abe26db:
 translate chinese replay_d13s09_590b700c:
 
     # sy "What sort of sister I would be without having a picture of my brother!"
-    sy "如果没有自己老哥的照片，我算什么妹妹？"
+    sy "如果没有自己老哥的照片，我还算什么妹妹？"
 
 # game/code/d13/d13s09.rpy:137
 translate chinese replay_d13s09_9b0c7f77:
@@ -244,7 +244,7 @@ translate chinese replay_d13s09_f5743401:
 translate chinese replay_d13s09_c323f307:
 
     # mc "You can get it if you can."
-    mc "有本事你就去拿。"
+    mc "有本事你就来拿。"
 
 # game/code/d13/d13s09.rpy:221
 translate chinese replay_d13s09_14f3d014:
@@ -292,7 +292,7 @@ translate chinese replay_d13s09_716b85ff:
 translate chinese replay_d13s09_e6fe0f56:
 
     # arj "[mcname], Stacy, open the door!"
-    arj "[mcname]，史黛西，开门！"
+    arj "[mcname]，史黛西，开门啊！"
 
 # game/code/d13/d13s09.rpy:329
 translate chinese replay_d13s09_8507bd45:
@@ -316,7 +316,7 @@ translate chinese replay_d13s09_5c3444f0:
 translate chinese replay_d13s09_11dd86c3:
 
     # mc "Sorry, I didn't hear you knocking, and Stacy is in the bathroom."
-    mc "对不起，我没听到你敲门，史黛西又在洗手间。"
+    mc "对不起，我没听到你敲门，史黛西又在浴室。"
 
 # game/code/d13/d13s09.rpy:340
 translate chinese replay_d13s09_b5a479b9:
@@ -334,13 +334,13 @@ translate chinese replay_d13s09_2681b642:
 translate chinese replay_d13s09_0b1747e7:
 
     # arj "All the stuff that we need to renovate the apartment!"
-    arj "全部都是我们装修公寓需要的东西！"
+    arj "全都是我们装修公寓需要的东西！"
 
 # game/code/d13/d13s09.rpy:349
 translate chinese replay_d13s09_9dcf78cd:
 
     # mc "Ah! Thanks! Do you want something to drink? I think Stacy has tea."
-    mc "啊！谢谢！你想喝点什么吗？我想斯泰西应该有茶。"
+    mc "啊！谢谢！你想喝点什么吗？我想史黛西应该有茶。"
 
 # game/code/d13/d13s09.rpy:352
 translate chinese replay_d13s09_2e80fa74:
@@ -364,7 +364,7 @@ translate chinese replay_d13s09_e567deaf:
 translate chinese replay_d13s09_52e44460:
 
     # mc "That's exactly what I told her..."
-    mc "我也这么说她的……"
+    mc "我也是这么说她的……"
 
 # game/code/d13/d13s09.rpy:366
 translate chinese replay_d13s09_2363ba5b:
@@ -406,5 +406,5 @@ translate chinese replay_d13s09_02340cc6:
 translate chinese replay_d13s09_9fb0e6e2:
 
     # sy "Ok, I'm finished! Who's next?"
-    sy "好了，我洗好了！下一个是谁？"
+    sy "好了，我洗好了！下一个谁来？"
 
