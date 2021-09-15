@@ -1,36 +1,36 @@
-﻿# TODO: Translation updated at 2021-09-15 21:18
+﻿# TODO: Translation updated at 2021-09-15 21:23
 
 translate portuguese strings:
 
     # game/code/screens/extended/screens_fl.rpy:11
     old "CG Gallery"
-    new "CG Gallery"
+    new ""
 
     # game/code/screens/extended/screens_fl.rpy:17
     old "Replay Room"
-    new "Replay Room"
+    new ""
 
     # game/code/screens/extended/screens_fl.rpy:23
     old "Bonus Content"
-    new "Bonus Content"
+    new ""
 
     # game/code/screens/extended/screens_fl.rpy:30
     old "Hints on"
-    new "Hints on"
+    new ""
 
     # game/code/screens/extended/screens_fl.rpy:30
     old "Hints off"
-    new "Hints off"
+    new ""
 
     # game/code/screens/extended/screens_fl.rpy:46
     old "Page [page]"
-    new "Page [page]"
+    new ""
 
     # game/code/screens/extended/screens_fl.rpy:94
     old "<"
-    new "<"
+    new ""
 
     # game/code/screens/extended/screens_fl.rpy:102
     old ">"
-    new ">"
+    new ""
 
