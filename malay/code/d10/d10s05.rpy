@@ -112,7 +112,7 @@ translate malay d10s05_8118f02e:
 translate malay d10s05_dcd482f6:
 
     # arj "Seriously, I don't think I've ever met anybody that {i}likes{/i} being harassed by the employees."
-    arj "Serius, aku rasa aku tak pernah jumpa dengan orang yang {i}suka{/ i} diganggu oleh pekerja."
+    arj "Serius, aku rasa aku tak pernah jumpa dengan orang yang {i}suka{/i} diganggu oleh pekerja."
 
 # game/code/d10/d10s05.rpy:49
 translate malay d10s05_75b13580:
@@ -1391,4 +1391,3 @@ translate malay d10s05_replay_69fd61bb:
 
     # arj "Yep!"
     arj "Yep!"
-
