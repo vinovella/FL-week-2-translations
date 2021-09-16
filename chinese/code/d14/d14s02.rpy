@@ -244,7 +244,7 @@ translate chinese d14s02_5846e910:
 translate chinese d14s02_95ec1594:
 
     # arj "Yes, {i}yes{/i}, {i}{b}yes{/b}{/i}!"
-    arj "啊，没错，{i}没错{/i}，{i}{b没错{/b}{/i}！"
+    arj "啊，没错，{i}没错{/i}，{i}{b}没错{/b}{/i}！"
 
 # game/code/d14/d14s02.rpy:185
 translate chinese d14s02_4f6ba3d5:
@@ -389,4 +389,3 @@ translate chinese d14s02_09879994:
 
     # sy "Aarghhh..."
     sy "啊哈哈哈……"
-
