@@ -880,319 +880,319 @@ translate chinese d14s03_252e1ad7:
 translate chinese d14s03_6b0db4aa:
 
     # mc "But she seems to have a pretty happy-go-lucky attitude about it all, so I don't know."
-    mc "But she seems to have a pretty happy-go-lucky attitude about it all, so I don't know."
+    mc "但她好像对这一切都很乐观，所以我也不知道。"
 
 # game/code/d14/d14s03.rpy:285
 translate chinese d14s03_4153d0dd:
 
     # mc "We got her as the bartender for the party though, so we can talk to her about it there if we get the chance."
-    mc "We got her as the bartender for the party though, so we can talk to her about it there if we get the chance."
+    mc "不过我们邀请她做派对的酒保，如果有机会我们可以去和她谈谈。"
 
 # game/code/d14/d14s03.rpy:287
 translate chinese d14s03_2db8edec:
 
     # sy "Oh, nice. I'll try and suss her out then, see if she vibes."
-    sy "Oh, nice. I'll try and suss her out then, see if she vibes."
+    sy "可以。那我就试着去了解她，看看她是否有兴趣。"
 
 # game/code/d14/d14s03.rpy:289
 translate chinese d14s03_7c8e8364:
 
     # mc "Great. Uh... What else?"
-    mc "Great. Uh... What else?"
+    mc "太好了。呃……还有什么来着？"
 
 # game/code/d14/d14s03.rpy:292
 translate chinese d14s03_af8c6aab:
 
     # mc "There's this one dude that I know is getting blackmailed."
-    mc "There's this one dude that I know is getting blackmailed."
+    mc "还有一个人，我知道他被敲诈了。"
 
 # game/code/d14/d14s03.rpy:294
 translate chinese d14s03_31b44015:
 
     # arj "Do we know him?"
-    arj "Do we know him?"
+    arj "我们认识他吗？"
 
 # game/code/d14/d14s03.rpy:296
 translate chinese d14s03_b8758b44:
 
     # mc "I don't think so. His name's Oliver."
-    mc "I don't think so. His name's Oliver."
+    mc "应该不认识。他叫奥利弗。"
 
 # game/code/d14/d14s03.rpy:297
 translate chinese d14s03_e141d3e1:
 
     # mc "You two know Lyssa right?"
-    mc "You two know Lyssa right?"
+    mc "你们俩认识丽莎吧？"
 
 # game/code/d14/d14s03.rpy:298
 translate chinese d14s03_d4a0aef3:
 
     # "Both" "Yeah."
-    "Both" "Yeah."
+    "同答" "认识。"
 
 # game/code/d14/d14s03.rpy:300
 translate chinese d14s03_5a0f7c9a:
 
     # mc "He's her...I don't actually know what he does, to be honest, but he works for her and/or with her. One of the two."
-    mc "He's her...I don't actually know what he does, to be honest, but he works for her and/or with her. One of the two."
+    mc "他是她的……老实说，我不知道他是做什么的，但他为她工作或者和她一起工作。反正两者之一吧。"
 
 # game/code/d14/d14s03.rpy:301
 translate chinese d14s03_1ffcdf8e:
 
     # mc "And he seems like a decent enough dude."
-    mc "And he seems like a decent enough dude."
+    mc "他看起来人很正派。"
 
 # game/code/d14/d14s03.rpy:303
 translate chinese d14s03_85e52eb2:
 
     # mc "Told me how he was getting blackmailed."
-    mc "Told me how he was getting blackmailed."
+    mc "他跟我说了是怎么被勒索的。"
 
 # game/code/d14/d14s03.rpy:304
 translate chinese d14s03_3575ca3d:
 
     # mc "Oh, I invited him to the party as well."
-    mc "Oh, I invited him to the party as well."
+    mc "哦，我也邀请他参加派对了。"
 
 # game/code/d14/d14s03.rpy:306
 translate chinese d14s03_a0a74943:
 
     # sy "Why did you invite him to the party? This is supposed to get {i}you{/i} laid, not some other dude!"
-    sy "Why did you invite him to the party? This is supposed to get {i}you{/i} laid, not some other dude!"
+    sy "你为什么要邀请他？这个派对是为了让{i}你{/i}打炮，而不是其他家伙！"
 
 # game/code/d14/d14s03.rpy:308
 translate chinese d14s03_1e1f13d0:
 
     # mc "I...don't actually know. He's just got one of those likable faces I suppose."
-    mc "I...don't actually know. He's just got one of those likable faces I suppose."
+    mc "我……也不知道。我想是因为他有着一张讨人喜欢的脸。"
 
 # game/code/d14/d14s03.rpy:309
 translate chinese d14s03_eb926bca:
 
     # mc "I doubt he'd get in the way of anything. He seems really nice."
-    mc "I doubt he'd get in the way of anything. He seems really nice."
+    mc "我觉得他不会妨碍我们的。他看起来真的很好。"
 
 # game/code/d14/d14s03.rpy:311
 translate chinese d14s03_42faa0d2:
 
     # sy "Uh-huh, I'll believe it when I see it."
-    sy "Uh-huh, I'll believe it when I see it."
+    sy "嗯哼，我亲眼见到才相信。"
 
 # game/code/d14/d14s03.rpy:313
 translate chinese d14s03_827f67cc:
 
     # sy "Am, maybe you should try to keep him away from the girls."
-    sy "Am, maybe you should try to keep him away from the girls."
+    sy "小爱，也许你该试着让他离女孩们远点。"
 
 # game/code/d14/d14s03.rpy:315
 translate chinese d14s03_09c1093b:
 
     # arj "Got it."
-    arj "Got it."
+    arj "知道了。"
 
 # game/code/d14/d14s03.rpy:319
 translate chinese d14s03_c7a6cd9b:
 
     # arj "Uhm, now that Pete is in the retention program, maybe he might be willing to help?"
-    arj "Uhm, now that Pete is in the retention program, maybe he might be willing to help?"
+    arj "呃，现在皮特也在留存计划中，也许他会愿意帮忙？"
 
 # game/code/d14/d14s03.rpy:321
 translate chinese d14s03_2d620b02:
 
     # mc "I don't know, I haven't had a chance to even talk with him face to face in a while."
-    mc "I don't know, I haven't had a chance to even talk with him face to face in a while."
+    mc "不知道，我都有一阵子没机会和他面对面说话了。"
 
 # game/code/d14/d14s03.rpy:322
 translate chinese d14s03_c9dea139:
 
     # mc "But I'm sure he'll be down to help out if we explain the situation."
-    mc "But I'm sure he'll be down to help out if we explain the situation."
+    mc "但我相信，如果我们解释一下情况，他肯定会帮忙的。"
 
 # game/code/d14/d14s03.rpy:324
 translate chinese d14s03_5e210495:
 
     # sy "Eh, I'm still not completely sure about him. Call it a gut feeling. But if he's willing to help out, I'm not gonna stop him."
-    sy "Eh, I'm still not completely sure about him. Call it a gut feeling. But if he's willing to help out, I'm not gonna stop him."
+    sy "呃，我还是不能完全肯定。可以说是直觉。但如果他愿意帮忙，我不会拒绝。"
 
 # game/code/d14/d14s03.rpy:326
 translate chinese d14s03_4eed96d1:
 
     # arj "We're not inviting him to the party, are we?"
-    arj "We're not inviting him to the party, are we?"
+    arj "我们不会邀请他来参加派对吧？"
 
 # game/code/d14/d14s03.rpy:328
 translate chinese d14s03_69905891:
 
     # mc "No, I haven't even told him about the party."
-    mc "No, I haven't even told him about the party."
+    mc "不，我还没告诉他派对的事呢。"
 
 # game/code/d14/d14s03.rpy:329
 translate chinese d14s03_6b92e61e:
 
     # mc "We can talk with him after the party."
-    mc "We can talk with him after the party."
+    mc "我们可以在派对后和他谈谈。"
 
 # game/code/d14/d14s03.rpy:330
 translate chinese d14s03_505bbfd4:
 
     # arj "Alright. Good."
-    arj "Alright. Good."
+    arj "行。那就好。"
 
 # game/code/d14/d14s03.rpy:333
 translate chinese d14s03_81d4a624:
 
     # sy "So, we have to contact Hana and get her on our side."
-    sy "So, we have to contact Hana and get her on our side."
+    sy "所以，我们必须联系哈娜，让她站在我们这边。"
 
 # game/code/d14/d14s03.rpy:335
 translate chinese d14s03_728f1e1f:
 
     # sy "Then figure out a proper game plan to take down Fetish Locator with her info."
-    sy "Then figure out a proper game plan to take down Fetish Locator with her info."
+    sy "然后想个合适的计划，用她提供的信息找到性趣探测器的破绽。"
 
 # game/code/d14/d14s03.rpy:337
 translate chinese d14s03_76d72f35:
 
     # sy "We need to try and get some other people to help out as well. Is that the plan then?"
-    sy "We need to try and get some other people to help out as well. Is that the plan then?"
+    sy "我们还需要找其他人帮忙。这是计划嘛？"
 
 # game/code/d14/d14s03.rpy:338
 translate chinese d14s03_cf789c07:
 
     # mc "Sounds like it to me."
-    mc "Sounds like it to me."
+    mc "我觉得是。"
 
 # game/code/d14/d14s03.rpy:340
 translate chinese d14s03_52813174:
 
     # arj "Seems like we have a plan."
-    arj "Seems like we have a plan."
+    arj "看来我们有计划了。"
 
 # game/code/d14/d14s03.rpy:342
 translate chinese d14s03_8e81b8a5:
 
     # sy "Hell yeah! This is awesome."
-    sy "Hell yeah! This is awesome."
+    sy "哦耶！这真是太棒了。"
 
 # game/code/d14/d14s03.rpy:343
 translate chinese d14s03_b6c3a1af:
 
     # sy "Well, not you getting your dick chopped off, of course, but this secret, undercover plotting stuff is kinda fun, not gonna lie."
-    sy "Well, not you getting your dick chopped off, of course, but this secret, undercover plotting stuff is kinda fun, not gonna lie."
+    sy "不得不说，除去你被砍掉小弟弟的部分，我觉得其余这种秘密的、卧底密谋一样的策划还挺有趣的。"
 
 # game/code/d14/d14s03.rpy:345
 translate chinese d14s03_c36db152:
 
     # mc "Can't really argue with you there. It {i}is{/i} kinda cool."
-    mc "Can't really argue with you there. It {i}is{/i} kinda cool."
+    mc "在这一点上我没什么可反驳的。它{i}确实{/i}挺酷的。"
 
 # game/code/d14/d14s03.rpy:347
 translate chinese d14s03_f1aa0f09:
 
     # arj "Only a couple more hours to go before the party. I should probably be there helping Lydia set everything up."
-    arj "Only a couple more hours to go before the party. I should probably be there helping Lydia set everything up."
+    arj "离派对只剩几个小时了。我也许该去帮莉迪亚布置东西。"
 
 # game/code/d14/d14s03.rpy:349
 translate chinese d14s03_82737367:
 
     # sy "What? You're just gonna leave us to clean all of this up on our lonesome while you go galavant around with some tramp!?"
-    sy "What? You're just gonna leave us to clean all of this up on our lonesome while you go galavant around with some tramp!?"
+    sy "什么？你就打算留我们收拾这些东西，而你却和别的流浪汉到处闲逛!?"
 
 # game/code/d14/d14s03.rpy:351
 translate chinese d14s03_d422e9c4:
 
     # arj "Oh stuff it, you drama queen. You caused half this mess yourself!"
-    arj "Oh stuff it, you drama queen. You caused half this mess yourself!"
+    arj "哦，算了吧，你这个戏剧女王。这一半的烂摊子都是你一手造成的！"
 
 # game/code/d14/d14s03.rpy:353
 translate chinese d14s03_757bdedb:
 
     # sy "Alright, alright. We'll clean up the place and you can go have fun with your new friend."
-    sy "Alright, alright. We'll clean up the place and you can go have fun with your new friend."
+    sy "好吧，好吧。我们会把这里打扫干净，你可以去和新朋友玩了。"
 
 # game/code/d14/d14s03.rpy:366
 translate chinese d14s03_98d6fe27:
 
     # arj "I love you. I'll talk to you later."
-    arj "I love you. I'll talk to you later."
+    arj "爱你哦。晚点再跟你聊。"
 
 # game/code/d14/d14s03.rpy:368
 translate chinese d14s03_3a820bc3:
 
     # arj "Bye, Stacy."
-    arj "Bye, Stacy."
+    arj "再见，史黛西。"
 
 # game/code/d14/d14s03.rpy:370
 translate chinese d14s03_e4486ff9:
 
     # sy "Toodle-oo."
-    sy "Toodle-oo."
+    sy "拜。"
 
 # game/code/d14/d14s03.rpy:372
 translate chinese d14s03_99b77881:
 
     # sy "{i}Nice{/i}."
-    sy "{i}Nice{/i}."
+    sy "{i}好啊{/i}。"
 
 # game/code/d14/d14s03.rpy:374
 translate chinese d14s03_4d13e5ea:
 
     # mc "Oh fuck off."
-    mc "Oh fuck off."
+    mc "哦，快滚。"
 
 # game/code/d14/d14s03.rpy:387
 translate chinese d14s03_3a820bc3_1:
 
     # arj "Bye, Stacy."
-    arj "Bye, Stacy."
+    arj "再见，史黛西。"
 
 # game/code/d14/d14s03.rpy:389
 translate chinese d14s03_7d0e421e:
 
     # sy "Bye..."
-    sy "Bye..."
+    sy "再见……"
 
 # game/code/d14/d14s03.rpy:391
 translate chinese d14s03_406293b4:
 
     # sy "What the fuck was that!?"
-    sy "What the fuck was that!?"
+    sy "你刚搞什么鬼!?"
 
 # game/code/d14/d14s03.rpy:393
 translate chinese d14s03_0e33b5fd:
 
     # mc "Huh? What?"
-    mc "Huh? What?"
+    mc "啊？什么？"
 
 # game/code/d14/d14s03.rpy:395
 translate chinese d14s03_2084e5a0:
 
     # sy "Why'd you leave her like that!? Poor thing was so confused!"
-    sy "Why'd you leave her like that!? Poor thing was so confused!"
+    sy "你为什么要这样对她!? 真可怜，你让她很困惑！"
 
 # game/code/d14/d14s03.rpy:397
 translate chinese d14s03_78f7ae03:
 
     # mc "I just... I don't know. Forget about it."
-    mc "I just... I don't know. Forget about it."
+    mc "我……我不知道。忘了它吧。"
 
 # game/code/d14/d14s03.rpy:399
 translate chinese d14s03_aadc49ff:
 
     # sy "You were an ass."
-    sy "You were an ass."
+    sy "你真是个混蛋。"
 
 # game/code/d14/d14s03.rpy:401
 translate chinese d14s03_684af4de:
 
     # sy "How could you do that?"
-    sy "How could you do that?"
+    sy "你怎么能这样？"
 
 # game/code/d14/d14s03.rpy:403
 translate chinese d14s03_5ab1514a:
 
     # sy "You better apologize to her later."
-    sy "You better apologize to her later."
+    sy "你最好晚点向她道歉。"
 
 # game/code/d14/d14s03.rpy:405
 translate chinese d14s03_2b35b6fe:
@@ -1204,185 +1204,185 @@ translate chinese d14s03_2b35b6fe:
 translate chinese d14s03_7f153769:
 
     # sy "Come on, at least help me pick this stuff up."
-    sy "Come on, at least help me pick this stuff up."
+    sy "来吧，至少帮我把这些东西捡起来。"
 
 # game/code/d14/d14s03.rpy:409
 translate chinese d14s03_c0052b5c:
 
     # mc "Okay, okay."
-    mc "Okay, okay."
+    mc "行吧，行吧。"
 
 # game/code/d14/d14s03.rpy:412
 translate chinese d14s03_e843f07b:
 
     # "30 minutes later"
-    "30 minutes later"
+    "30分钟后"
 
 # game/code/d14/d14s03.rpy:415
 translate chinese d14s03_329188e9:
 
     # sy "Hey, do you remember that escort that you had to-"
-    sy "Hey, do you remember that escort that you had to-"
+    sy "嘿，你还记得那个妓女--"
 
 # game/code/d14/d14s03.rpy:416
 translate chinese d14s03_f49fff8f:
 
     # mc "Yeah?"
-    mc "Yeah?"
+    mc "怎么？"
 
 # game/code/d14/d14s03.rpy:417
 translate chinese d14s03_f88bc6b4:
 
     # sy "Maybe we can call her in for the party as well?"
-    sy "Maybe we can call her in for the party as well?"
+    sy "也许我们可以把她也叫来参加派对？"
 
 # game/code/d14/d14s03.rpy:419
 translate chinese d14s03_991adfdb:
 
     # mc "She's real fucking expensive though."
-    mc "She's real fucking expensive though."
+    mc "不过她真的很贵。"
 
 # game/code/d14/d14s03.rpy:420
 translate chinese d14s03_8332e70d:
 
     # sy "Well, it's your money or your dick."
-    sy "Well, it's your money or your dick."
+    sy "好吧，钱和鸡巴，你选一样。"
 
 # game/code/d14/d14s03.rpy:422
 translate chinese d14s03_96977121:
 
     # sy "Just give me her info, you big baby. I'll set it up. It'll be glorious."
-    sy "Just give me her info, you big baby. I'll set it up. It'll be glorious."
+    sy "把她的信息给我就行，你这个巨婴。我来安排。会很棒的。"
 
 # game/code/d14/d14s03.rpy:424
 translate chinese d14s03_8454d17e:
 
     # mc "Ugh, alright."
-    mc "Ugh, alright."
+    mc "唉，好吧。"
 
 # game/code/d14/d14s03.rpy:430
 translate chinese d14s03_124c59b7:
 
     # sy "All done. Now we need to get to the party."
-    sy "All done. Now we need to get to the party."
+    sy "搞定。现在我们要去派对了。"
 
 # game/code/d14/d14s03.rpy:432
 translate chinese d14s03_8f40fb46:
 
     # mc "We do."
-    mc "We do."
+    mc "没错。"
 
 # game/code/d14/d14s03.rpy:435
 translate chinese d14s03_5cbc709f:
 
     # mc "Actually, I have to go do a thing right now as well."
-    mc "Actually, I have to go do a thing right now as well."
+    mc "实际上，我现在也有一件事要做。"
 
 # game/code/d14/d14s03.rpy:436
 translate chinese d14s03_b5aa17f4:
 
     # sy "What thing?"
-    sy "What thing?"
+    sy "什么事？"
 
 # game/code/d14/d14s03.rpy:437
 translate chinese d14s03_cdbe6865:
 
     # mc "I may or may not have set up a date in like...25 minutes."
-    mc "I may or may not have set up a date in like...25 minutes."
+    mc "恐怕我待会……25分钟内会有一个约会。"
 
 # game/code/d14/d14s03.rpy:439
 translate chinese d14s03_dfd35b12:
 
     # sy "Right now!? Today of all days!?"
-    sy "Right now!? Today of all days!?"
+    sy "现在!? 偏偏是今天!?"
 
 # game/code/d14/d14s03.rpy:440
 translate chinese d14s03_5e11d8dc:
 
     # sy "With who!?"
-    sy "With who!?"
+    sy "和谁!?"
 
 # game/code/d14/d14s03.rpy:442
 translate chinese d14s03_e6bc6779:
 
     # mc "Lyssa."
-    mc "Lyssa."
+    mc "丽莎。"
 
 # game/code/d14/d14s03.rpy:443
 translate chinese d14s03_ec45252c:
 
     # sy "Oh shit. Uh, I guess I can give that a pass."
-    sy "Oh shit. Uh, I guess I can give that a pass."
+    sy "靠。好吧，我可以放你走。"
 
 # game/code/d14/d14s03.rpy:445
 translate chinese d14s03_4fe534a2:
 
     # sy "Where are you two going anyway?"
-    sy "Where are you two going anyway?"
+    sy "你们两个到底要去哪里？"
 
 # game/code/d14/d14s03.rpy:446
 translate chinese d14s03_b0ea7448:
 
     # mc "1UP Central. Cool arcade thing near the park."
-    mc "1UP Central. Cool arcade thing near the park."
+    mc "1UP中心。是公园附近很酷的拱廊商场。"
 
 # game/code/d14/d14s03.rpy:447
 translate chinese d14s03_8e7aff00:
 
     # sy "Huh, cool."
-    sy "Huh, cool."
+    sy "嗯，不错。"
 
 # game/code/d14/d14s03.rpy:449
 translate chinese d14s03_06817bbf:
 
     # sy "Alright, loverboy, you go do that then."
-    sy "Alright, loverboy, you go do that then."
+    sy "行吧，你个好色之徒，那就去吧。"
 
 # game/code/d14/d14s03.rpy:450
 translate chinese d14s03_2f7b856e:
 
     # sy "I'm gonna take a shower and then head to Lydia's place."
-    sy "I'm gonna take a shower and then head to Lydia's place."
+    sy "我去洗个澡，然后去莉迪亚家。"
 
 # game/code/d14/d14s03.rpy:452
 translate chinese d14s03_8862045f:
 
     # sy "I'll see you later then."
-    sy "I'll see you later then."
+    sy "那就回头见了。"
 
 # game/code/d14/d14s03.rpy:453
 translate chinese d14s03_0419d335:
 
     # mc "Later."
-    mc "Later."
+    mc "回见。"
 
 # game/code/d14/d14s03.rpy:455
 translate chinese d14s03_b8b5a7eb:
 
     # mc "It'll probably start any minute. We should get going."
-    mc "It'll probably start any minute. We should get going."
+    mc "派对马上就开始。我们该走了。"
 
 # game/code/d14/d14s03.rpy:457
 translate chinese d14s03_67339978:
 
     # sy "*Sigh* No rest for the wicked."
-    sy "*Sigh* No rest for the wicked."
+    sy "*叹息* 恶人永无宁日啊。"
 
 # game/code/d14/d14s03.rpy:459
 translate chinese d14s03_a0a66e4a:
 
     # sy "Dibs on the shower!"
-    sy "Dibs on the shower!"
+    sy "浴室归我了！"
 
 # game/code/d14/d14s03.rpy:460
 translate chinese d14s03_699878f6:
 
     # mc "Hey!"
-    mc "Hey!"
+    mc "嘿！"
 
 translate chinese strings:
 
     # game/code/d14/d14s03.rpy:356
     old "Kiss her"
-    new "Kiss her"
+    new "吻她"
 
