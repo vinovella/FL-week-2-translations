@@ -298,7 +298,7 @@ translate malay d10p1s02_187dcb02:
 translate malay d10p1s02_4a4f859a:
 
     # aw "Plenty. I've had my fair share of stalkers too. Early days though. I would use the opportunity to hone my come back skills—"
-    aw "Banyak. Aku juga mempunyai sebilangan "peminat". Hanya pada awalnya. Aku akan menggunakan peluang untuk mengasah kemahiran come back aku —"
+    aw "Banyak. Aku juga mempunyai sebilangan \"peminat\". Hanya pada awalnya. Aku akan menggunakan peluang untuk mengasah kemahiran come back aku —"
 
 # game/code/d10p1/d10p1s02.rpy:139
 translate malay d10p1s02_6a886e41:
@@ -460,7 +460,7 @@ translate malay d10p1s02_d2cacc93:
 translate malay d10p1s02_a5589ad2:
 
     # mc "...Well, that's a good point. {w}Sure, why not?"
-    mc "...Betul juga kata kau. {w}Baiklah apa salahnya?
+    mc "...Betul juga kata kau. {w}Baiklah apa salahnya?"
 
 # game/code/d10p1/d10p1s02.rpy:197
 translate malay replay_d10p1s02_6c0d68ca:
@@ -658,7 +658,7 @@ translate malay replay_d10p1s02_a1d9c805:
 translate malay replay_d10p1s02_0a8c782b:
 
     # mc "It's not uncomfortable?"
-    mc "Tak rasa selesa ke?
+    mc "Tak rasa selesa ke?"
 
 # game/code/d10p1/d10p1s02.rpy:334
 translate malay replay_d10p1s02_c66393db:
@@ -688,7 +688,7 @@ translate malay replay_d10p1s02_3ad64ee8:
 translate malay replay_d10p1s02_6c56ac43:
 
     # aw "And it helps get me off as well. Like right now for example."
-    aw "Dan ia bantu aku melancap juga. Contohnya seperti macam tadi.
+    aw "Dan ia bantu aku melancap juga. Contohnya seperti macam tadi."
 
 # game/code/d10p1/d10p1s02.rpy:343
 translate malay replay_d10p1s02_0fd86965:
@@ -755,4 +755,3 @@ translate malay replay_d10p1s02_596b4c4a:
 
     # mc "We'll see."
     mc "Kita tengoklah nanti."
-
