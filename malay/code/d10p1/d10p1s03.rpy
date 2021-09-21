@@ -850,7 +850,7 @@ translate malay d10p1s03_24353198:
 translate malay d10p1s03_bbe51fc4:
 
     # mc "Wait, you {i}are{/i} at least 18, right?"
-    mc "Tunggu, kau {i}sekurang-kurangnya(/i) berusia 18 tahun, kan?"
+    mc "Tunggu, kau {i}sekurang-kurangnya{/i} berusia 18 tahun, kan?"
 
 # game/code/d10p1/d10p1s03.rpy:411
 translate malay d10p1s03_af7078aa:
@@ -1237,4 +1237,3 @@ translate malay strings:
     # game/code/d10p1/d10p1s03.rpy:441
     old "Don't"
     new "Jangan"
-

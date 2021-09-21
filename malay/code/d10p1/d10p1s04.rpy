@@ -280,7 +280,7 @@ translate malay d10p1s04_e29ed2e2:
 translate malay d10p1s04_5b99d0e8:
 
     # mct "Please say, \"No.\" Please say, \"No.\""
-    mct "Tolong kata \"Tak.\" "Tolong kata \"Tak.\""
+    mct "Tolong kata \"Tak.\" Tolong kata \"Tak.\""
 
 # game/code/d10p1/d10p1s04.rpy:137
 translate malay d10p1s04_8290631b:
@@ -635,4 +635,3 @@ translate malay d10p1s04_5702e34b:
 
     # arjfl "That's a good point..."
     arjfl "Betul juga..."
-
