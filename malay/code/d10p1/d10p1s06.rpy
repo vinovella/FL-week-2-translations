@@ -232,7 +232,7 @@ translate malay d10p1s06_part_2_28802472:
 translate malay d10p1s06_part_2_228e2917:
 
     # mc "Eh, there's no rush. {w}If I can't take a couple minutes to talk with a cute girl, what's the point?"
-    mc "Eh, cepat sangat nak pergi ke mana? {wJika aku tak dapat ambil masa beberapa minit untuk berborak dengan seorang perempuan comel, apa gunanya?"
+    mc "Eh, cepat sangat nak pergi ke mana? Jika aku tak dapat ambil masa beberapa minit untuk berborak dengan seorang perempuan comel, apa gunanya?"
 
 # game/code/d10p1/d10p1s06.rpy:120
 translate malay d10p1s06_part_2_4cee5ab5:
@@ -633,4 +633,3 @@ translate malay strings:
     # game/code/d10p1/d10p1s06.rpy:232
     old "I don't want to see this"
     new "Aku Tak NAk Tengok"
-
