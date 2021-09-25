@@ -82,7 +82,7 @@ translate chinese d14s06_7a23c28c:
 translate chinese d14s06_567d9c94:
 
     # mes "But what if I do something more like this?"
-    mes "B但如果我像这样呢？"
+    mes "但如果我像这样呢？"
 
 # game/code/d14/d14s06.rpy:71
 translate chinese d14s06_028b9ec5:
@@ -328,7 +328,7 @@ translate chinese d14s06_ace4b94f:
 translate chinese d14s06_17a9c78f:
 
     # mc "It was a useful part of her training, but no longer necessary."
-    mc "这是她训练中很有用的一部分，但现在已经没有必要了。"
+    mc "这部分对她训练很有用的，但现在已经没有必要了。"
 
 # game/code/d14/d14s06.rpy:286
 translate chinese d14s06_bae826fc:
@@ -466,7 +466,7 @@ translate chinese d14s06_dc72f3f1:
 translate chinese d14s06_9e9877b4:
 
     # lc "Second, can you back off a bit? This is weird enough without feeling your breath on my kitty."
-    lc "其次，你能不能退后一点？感觉到你的呼吸真的很奇怪。"
+    lc "其次，你能不能退后一点？我能感觉到你的呼吸，真的很奇怪。"
 
 # game/code/d14/d14s06.rpy:320
 translate chinese d14s06_0879ef7b:
@@ -484,7 +484,7 @@ translate chinese d14s06_0a49bc94:
 translate chinese d14s06_374dfe6d:
 
     # mc "You're feeling pee shy?"
-    mc "你是不好意思尿尿吗？?"
+    mc "你是不好意思尿尿吗？"
 
 # game/code/d14/d14s06.rpy:325
 translate chinese d14s06_5bb79949:
@@ -556,7 +556,7 @@ translate chinese d14s06_190a7814:
 translate chinese d14s06_1af33cf7:
 
     # mes "Lydia, come back!"
-    mes "莉迪亚，回来！"
+    mes "回来，莉迪亚！"
 
 # game/code/d14/d14s06.rpy:348
 translate chinese d14s06_f1b778f7:
