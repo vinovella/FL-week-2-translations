@@ -16,13 +16,13 @@ translate chinese d14s01_ef9e584d:
 translate chinese d14s01_9ba0eafc:
 
     # mct "What the hell?! I CAN'T MOVE!!!"
-    mct "妈的，什么鬼？我动不了!!!"
+    mct "妈的，什么鬼？身体怎么动不了!!!"
 
 # game/code/d14/d14s01.rpy:16
 translate chinese d14s01_18478012:
 
     # mct "WHAT'S GOING ON?! {w}WHERE ARE THE GIRLS?! {w}WHY CAN'T I MOVE?!"
-    mct "这是怎么回事？{w}她们都去哪了？{w}为什么我不能动了?!"
+    mct "这是怎么回事?! {w}她们都去哪了？{w}为什么我不能动了?!"
 
 # game/code/d14/d14s01.rpy:17
 translate chinese d14s01_7f38c856:
@@ -58,25 +58,25 @@ translate chinese d14s01_8226a6cb:
 translate chinese d14s01_136fdba2:
 
     # mct "Damn this is annoying. I've read this feels like it goes on for hours, but people who could see clocks noticed it only lasted a minute or two."
-    mct "该死，这真是要命。书上说亲身经历者会感觉持续了几个小时，但实际时钟才只过去了一两分钟。"
+    mct "该死，这真是要命。书上说亲身经历者会感觉持续几个小时，但实际时钟才只过去了一两分钟。"
 
 # game/code/d14/d14s01.rpy:27
 translate chinese d14s01_cbbc0dd4:
 
     # mct "People used to freak out feeling like there was someone invisible holding them down. That's house Succubi and-"
-    mct "人类经常对此景感到害怕，觉得有个无形的人在压着他们。就是淫魔和--"
+    mct "人类经常对此景感到害怕，觉得有个无形的人在压着他们。那就是淫魔和--"
 
 # game/code/d14/d14s01.rpy:29
 translate chinese d14s01_848ed3ac:
 
     # mct "What the hell is that?"
-    mct "那是什么鬼东西？"
+    mct "什么鬼东西？"
 
 # game/code/d14/d14s01.rpy:31
 translate chinese d14s01_f2b93e45:
 
     # mct "What the fuck is going on?! {w}GOD DAMMIT LET ME TURN MY HEAD!!!"
-    mct "这他妈是怎么回事？{w}妈的，让我的头转过去!!!"
+    mct "这他妈是怎么回事？{w}操，我的头要转过去!!!"
 
 # game/code/d14/d14s01.rpy:33
 translate chinese d14s01_da9984d3:
@@ -94,13 +94,13 @@ translate chinese d14s01_bd7a48bf:
 translate chinese d14s01_46ac031b:
 
     # mct "What does this Succuwhore want?"
-    mct "这个女淫魔想要什么？"
+    mct "这个女淫魔想干什么？"
 
 # game/code/d14/d14s01.rpy:38
 translate chinese d14s01_1a160631:
 
     # sb "That's not very polite. {w}Although, clever. I might start billing myself as a Succuwhore."
-    sb "这可不太礼貌。{w}不过这个叫法很有特色。我可能会开始标榜自己是个女淫魔。"
+    sb "这可不太礼貌。{w}不过这个叫法很有特色。我也许可以标榜自己是个女淫魔。"
 
 # game/code/d14/d14s01.rpy:40
 translate chinese d14s01_b7aa79d6:
@@ -112,7 +112,7 @@ translate chinese d14s01_b7aa79d6:
 translate chinese d14s01_9d4e6d51:
 
     # sb "Of course I heard you. This time and space is just for us."
-    sb "我当然听到了。现在的时间和空间只属于我俩。"
+    sb "我当然听到了。此时此景只属于我们俩。"
 
 # game/code/d14/d14s01.rpy:43
 translate chinese d14s01_67a37f9a:
@@ -130,13 +130,13 @@ translate chinese d14s01_0a5ce85c:
 translate chinese d14s01_217e8aa2:
 
     # mct "From that demonic red light? Should I guess you want my soul?"
-    mct "看那个阴森森的红光，你该不会……想要我的灵魂？"
+    mct "看那个阴森森的红光，你该不会……想夺我的魂？"
 
 # game/code/d14/d14s01.rpy:48
 translate chinese d14s01_382e360a:
 
     # sb "Not interested. {w}That's not the part of you I'm here to take."
-    sb "我对那个不感兴趣。{w}我来不是要带走你这一部分的。"
+    sb "我可没兴趣。{w}我要带走的不是这个。"
 
 # game/code/d14/d14s01.rpy:49
 translate chinese d14s01_61856abc:
@@ -166,7 +166,7 @@ translate chinese d14s01_a8ab4edb:
 translate chinese d14s01_e8e95017:
 
     # sb "Even if you somehow fucked 50 people, there would be some technicality to make sure you lose."
-    sb "就算你以某种方式干了50个人，他们也会用技术手段来确保你输掉。"
+    sb "就算你以奇招成功干了50个人，他们也会用技术手段来确保你输掉。"
 
 # game/code/d14/d14s01.rpy:58
 translate chinese d14s01_29f71f58:
@@ -184,7 +184,7 @@ translate chinese d14s01_80edfd68:
 translate chinese d14s01_9fee6a9c:
 
     # sb "You're going to lose. {w}And you're going to lose your Johnson."
-    sb "你最终会输。{w}将失去你的骄傲。"
+    sb "你绝对会输。{w}然后失去你的骄傲。"
 
 # game/code/d14/d14s01.rpy:64
 translate chinese d14s01_a78c2b1e:
@@ -196,7 +196,7 @@ translate chinese d14s01_a78c2b1e:
 translate chinese d14s01_b84ad207:
 
     # sb "Your dick; your rod; your cock; your manhood; your prick; your fornicating engine... {w}You're going to lose your penis."
-    sb "你的丁丁，你的鸡巴；你的肉棒；你的老二；你的阳具；你的“通穴马达”……{w}你要失去阴茎了。"
+    sb "你的丁丁，你的鸡巴；你的肉棒；你的老二；你的阳具；你的“通穴马达”……{w}你要跟阴茎说拜拜了。"
 
 # game/code/d14/d14s01.rpy:67
 translate chinese d14s01_de20c5c3:
