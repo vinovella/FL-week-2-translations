@@ -82,13 +82,13 @@ translate chinese d14s03_b3a68688:
 translate chinese d14s03_ea379d53:
 
     # mc "Nah, it's alright. Thank you."
-    mc "不用，没关系的。谢谢你。"
+    mc "算了，没关系的。谢谢你。"
 
 # game/code/d14/d14s03.rpy:33
 translate chinese d14s03_beda0943:
 
     # arj "Is everything here?"
-    arj "东西全都在这了吗？"
+    arj "东西全在这了吗？"
 
 # game/code/d14/d14s03.rpy:35
 translate chinese d14s03_ff01f52b:
@@ -106,7 +106,7 @@ translate chinese d14s03_f3a24b7e:
 translate chinese d14s03_fc5d14d5:
 
     # arj "Do you think we should've maybe gotten the tent or the cage?"
-    arj "你觉得我们应该把帐篷还是笼子给弄过来？"
+    arj "你觉得我们应该把帐篷还是笼子给弄过来呢？"
 
 # game/code/d14/d14s03.rpy:40
 translate chinese d14s03_d364b7c1:
@@ -124,7 +124,7 @@ translate chinese d14s03_a2030354:
 translate chinese d14s03_aa19b268:
 
     # sy "Oh, nothing. {w}We were just talking about how even a small apartment looks daunting when you gotta cover the whole thing."
-    sy "哦，没什么。{w}我们只是在说，当要装修个遍时，才发现即使是这么小的公寓，工作量也很艰巨。"
+    sy "哦，没什么。{w}我们只是在说，当要装修一遍时，才发现即使是这么小的公寓，工作量也很艰巨。"
 
 # game/code/d14/d14s03.rpy:45
 translate chinese d14s03_f45188ac:
@@ -142,7 +142,7 @@ translate chinese d14s03_d331cc40:
 translate chinese d14s03_ec856a21:
 
     # mc "Well if you're gonna be an {i}arteest{/i} about it, might as well get started soon or we'll be doing this till midnight."
-    mc "好吧，如果你想在这事上成为一个{i}艺术家{/i}，最好快点开始，否则我们要一直做到半夜。"
+    mc "好吧，如果你想在这事上成为一个{i}艺术家{/i}，那最好快点开始，否则我们要一直做到半夜。"
 
 # game/code/d14/d14s03.rpy:51
 translate chinese d14s03_9fed9b52:
@@ -184,7 +184,7 @@ translate chinese d14s03_dfaead54:
 translate chinese d14s03_225c5810:
 
     # arj "It's thick enough and there are enough things beneath us that I doubt anything could get in that way."
-    arj "它足够厚，而且我们下面有足够多的东西，我怀疑没有东西能从那里进去。"
+    arj "它够厚，而且我们下面的东西又足够多，我觉得没有东西会碍事。"
 
 # game/code/d14/d14s03.rpy:91
 translate chinese d14s03_3656a527:
@@ -202,7 +202,7 @@ translate chinese d14s03_bde22f89:
 translate chinese d14s03_d8e31878:
 
     # mc "I'm not getting anything. No bars."
-    mc "什么也没有。没有吧台。"
+    mc "什么也没有。没有信号。"
 
 # game/code/d14/d14s03.rpy:96
 translate chinese d14s03_c9420c08:
@@ -274,13 +274,13 @@ translate chinese d14s03_7c08bd96:
 translate chinese d14s03_06f1cf7e:
 
     # mc "*Deep sigh* Man... It takes a week of talking in tongues to realize how much you took talking freely for granted."
-    mc "*长叹* 长叹天啊……经历了一周的打哑谜和双关语，现在才意识到自由交谈是多么的理所当然。"
+    mc "*长叹* 天啊……经历了一周的打哑谜和双关语，现在才意识到能自由交谈是多么难能可贵。"
 
 # game/code/d14/d14s03.rpy:115
 translate chinese d14s03_b3cdd353:
 
     # sy "Well, now anytime you want to tell Fetish Locator to go fuck itself, you know the place."
-    sy "好吧，现在无论何时你想骂性趣探测器这个软件，你知道这个安全的地方了。"
+    sy "好吧，现在无论何时你想骂性趣探测器这个软件，就可以来这个安全的地方了。"
 
 # game/code/d14/d14s03.rpy:117
 translate chinese d14s03_bdb89fd2:
@@ -310,7 +310,7 @@ translate chinese d14s03_cdd40f16:
 translate chinese d14s03_deb80f57:
 
     # sy "We can follow the money for one thing."
-    sy "首先，我们可以跟着钱走。"
+    sy "首先，我们可以跟着资金链走。"
 
 # game/code/d14/d14s03.rpy:125
 translate chinese d14s03_d23931ce:
@@ -358,13 +358,13 @@ translate chinese d14s03_06faab33:
 translate chinese d14s03_49045e06:
 
     # sy "I mean... That could be something. Their terms of service are practically non-existent and they don't make anything about how their finances work public knowledge."
-    sy "这样的话……就很麻烦了。他们的服务条款实际上是不存在的，也没有公开任何关于他们财务运作方式的信息。"
+    sy "这样的话……就很麻烦了。他们的服务条款实际上是不存在的，也没有公开任何关于财务运作方式的信息。"
 
 # game/code/d14/d14s03.rpy:140
 translate chinese d14s03_648357a5:
 
     # sy "So I dunno. They could be using cryptocurrencies to anonymize their transactions, but even if that was true, knowing that doesn't really help us."
-    sy "所以我不知道。他们可能使用加密货币来进行匿名交易，但即使这是真的，知道这些也帮不了我们。"
+    sy "所以我不知道。他们有可能使用加密货币来进行匿名交易，但即使这是真的，知道这些也帮不了我们什么。"
 
 # game/code/d14/d14s03.rpy:141
 translate chinese d14s03_eb271437:
@@ -448,7 +448,7 @@ translate chinese d14s03_4cdebee0:
 translate chinese d14s03_b107055c:
 
     # arj "Why is this the first time we're hearing this?"
-    arj "为什么我们现在才听到这个消息？"
+    arj "为什么我们现在才听你说？"
 
 # game/code/d14/d14s03.rpy:160
 translate chinese d14s03_db7028c8:
@@ -520,7 +520,7 @@ translate chinese d14s03_f6ba3f30:
 translate chinese d14s03_7ad3bbe1:
 
     # arj "What makes you say that?"
-    arj "你为什么这么说？"
+    arj "为什么这么说？"
 
 # game/code/d14/d14s03.rpy:181
 translate chinese d14s03_eca19ca4:
@@ -538,7 +538,7 @@ translate chinese d14s03_66ed3567:
 translate chinese d14s03_f4620406:
 
     # sy "She told you to get into your friend's laptop? How did she even get those passwords?"
-    sy "她让你查看你朋友的电脑？她是怎么弄到那些密码的？"
+    sy "她让你查看朋友的电脑？她是怎么弄到那些密码的？"
 
 # game/code/d14/d14s03.rpy:185
 translate chinese d14s03_8d96159c:
@@ -568,13 +568,13 @@ translate chinese d14s03_f58b4551:
 translate chinese d14s03_b87cb7d0:
 
     # sy "Oh, damn."
-    sy "哦，该死。"
+    sy "哦，好吧。"
 
 # game/code/d14/d14s03.rpy:193
 translate chinese d14s03_9a52994b:
 
     # mc "Yeah. Other than some more unrelated smut, there wasn't a whole lot of incriminating evidence there thankfully."
-    mc "是啊。谢天谢地，除了一些无关的色情片外，并没有什么可以定罪的证据。"
+    mc "是啊。谢天谢地，除了一些无关的色情片外，并没有什么可以给皮特定罪的证据。"
 
 # game/code/d14/d14s03.rpy:195
 translate chinese d14s03_f9f2f229:
@@ -634,7 +634,7 @@ translate chinese d14s03_123df60d:
 translate chinese d14s03_4c8b08a9:
 
     # mc "If it was a decoy laptop, he wouldn't have had all of that in there. He wouldn't have needed to."
-    mc "如果这台笔记本是个诱饵，他就不会把这些东西都放在里面了。他没有必要这样做。"
+    mc "如果这台笔记本是个诱饵，他就不会把这些东西都放在里面了。没有必要这样做。"
 
 # game/code/d14/d14s03.rpy:212
 translate chinese d14s03_b1238959:
@@ -646,7 +646,7 @@ translate chinese d14s03_b1238959:
 translate chinese d14s03_1228d21b:
 
     # mc "He's a good enough dude, but I doubt he'd be able to set up something like this if he wanted to."
-    mc "他人是不错，但我怀疑即使他想的话，仅凭自己应该没法这样安排。"
+    mc "不是说他智商有问题，但我怀疑即使他想的话，仅凭自己应该没法这样安排。"
 
 # game/code/d14/d14s03.rpy:214
 translate chinese d14s03_bbd3f0f5:
@@ -760,7 +760,7 @@ translate chinese d14s03_7ad9e011:
 translate chinese d14s03_f742effc:
 
     # sy "Oh... Yeah. I remember her, she was cute. So she's the one that's getting blackmailed?"
-    sy "哦……对，我记得她，她很可爱。所以她就是那个被敲诈的人？"
+    sy "哦……对，我记得她，很可爱嘛。所以她就是那个被敲诈的人？"
 
 # game/code/d14/d14s03.rpy:249
 translate chinese d14s03_cf1adef2:
@@ -790,13 +790,13 @@ translate chinese d14s03_a87a337b:
 translate chinese d14s03_8c82333a:
 
     # sy "Okay. Hm, well, we don't really have a lot of allies here, so we need what we can get."
-    sy "好吧，我们在这里其实没有多少盟友，所以我们要用到已有的人和物。"
+    sy "好吧，我们在这里其实没有多少盟友，所以我们要利用已有的人和物。"
 
 # game/code/d14/d14s03.rpy:257
 translate chinese d14s03_442aa7e2:
 
     # sy "From what I can tell, Hana and Iona, or at least just Hana, seem like good candidates to get in on this."
-    sy "据我所知，哈娜和欧娜，或者至少只有哈娜，看起来都是参与此事的好人选。"
+    sy "据我所知，哈娜和欧娜，或者至少哈娜一个人，看起来是参与此事的好人选。"
 
 # game/code/d14/d14s03.rpy:258
 translate chinese d14s03_a0583639:
@@ -838,7 +838,7 @@ translate chinese d14s03_5008aeed:
 translate chinese d14s03_685081b3:
 
     # arj "We can put our phones away, but what about your tracker?"
-    arj "我们可以把手机收起来，但你的追踪器怎么办？"
+    arj "到时我们可以把手机收起来，但你的追踪器怎么办？"
 
 # game/code/d14/d14s03.rpy:268
 translate chinese d14s03_b3ae8984:
@@ -880,13 +880,13 @@ translate chinese d14s03_252e1ad7:
 translate chinese d14s03_6b0db4aa:
 
     # mc "But she seems to have a pretty happy-go-lucky attitude about it all, so I don't know."
-    mc "但她好像对这一切都很乐观，所以我也不知道。"
+    mc "但她好像对这一切都很乐观，所以我也不确定。"
 
 # game/code/d14/d14s03.rpy:285
 translate chinese d14s03_4153d0dd:
 
     # mc "We got her as the bartender for the party though, so we can talk to her about it there if we get the chance."
-    mc "不过我们邀请她做派对的酒保，如果有机会我们可以去和她谈谈。"
+    mc "不过我们邀请她做派对的调酒师，如果有机会我们可以去和她谈谈。"
 
 # game/code/d14/d14s03.rpy:287
 translate chinese d14s03_2db8edec:
@@ -976,7 +976,7 @@ translate chinese d14s03_eb926bca:
 translate chinese d14s03_42faa0d2:
 
     # sy "Uh-huh, I'll believe it when I see it."
-    sy "嗯哼，我亲眼见到才相信。"
+    sy "呵呵，我亲眼见到才会相信。"
 
 # game/code/d14/d14s03.rpy:313
 translate chinese d14s03_827f67cc:
@@ -1012,7 +1012,7 @@ translate chinese d14s03_c9dea139:
 translate chinese d14s03_5e210495:
 
     # sy "Eh, I'm still not completely sure about him. Call it a gut feeling. But if he's willing to help out, I'm not gonna stop him."
-    sy "呃，我还是不能完全肯定。可以说是直觉。但如果他愿意帮忙，我不会拒绝。"
+    sy "呃，我还是不能完全相信他。可以说是直觉。但如果他愿意帮忙，我也不会拒绝。"
 
 # game/code/d14/d14s03.rpy:326
 translate chinese d14s03_4eed96d1:
@@ -1036,7 +1036,7 @@ translate chinese d14s03_6b92e61e:
 translate chinese d14s03_505bbfd4:
 
     # arj "Alright. Good."
-    arj "行。那就好。"
+    arj "行。也可以。"
 
 # game/code/d14/d14s03.rpy:333
 translate chinese d14s03_81d4a624:
@@ -1084,7 +1084,7 @@ translate chinese d14s03_b6c3a1af:
 translate chinese d14s03_c36db152:
 
     # mc "Can't really argue with you there. It {i}is{/i} kinda cool."
-    mc "在这一点上我没什么可反驳的。它{i}确实{/i}挺酷的。"
+    mc "这一点无可辩驳。{i}确实{/i}挺酷的。"
 
 # game/code/d14/d14s03.rpy:347
 translate chinese d14s03_f1aa0f09:
@@ -1168,13 +1168,13 @@ translate chinese d14s03_0e33b5fd:
 translate chinese d14s03_2084e5a0:
 
     # sy "Why'd you leave her like that!? Poor thing was so confused!"
-    sy "你为什么要这样对她!? 真可怜，你让她很困惑！"
+    sy "你为什么要这样对她!? 真可怜，你让她很困惑，懂不懂！"
 
 # game/code/d14/d14s03.rpy:397
 translate chinese d14s03_78f7ae03:
 
     # mc "I just... I don't know. Forget about it."
-    mc "我……我不知道。忘了它吧。"
+    mc "我……我不知道。忘了这事吧。"
 
 # game/code/d14/d14s03.rpy:399
 translate chinese d14s03_aadc49ff:
@@ -1204,7 +1204,7 @@ translate chinese d14s03_2b35b6fe:
 translate chinese d14s03_7f153769:
 
     # sy "Come on, at least help me pick this stuff up."
-    sy "来吧，至少帮我把这些东西捡起来。"
+    sy "来吧，至少帮我把这些东西收拾一下。"
 
 # game/code/d14/d14s03.rpy:409
 translate chinese d14s03_c0052b5c:
@@ -1252,7 +1252,7 @@ translate chinese d14s03_8332e70d:
 translate chinese d14s03_96977121:
 
     # sy "Just give me her info, you big baby. I'll set it up. It'll be glorious."
-    sy "把她的信息给我就行，你这个巨婴。我来安排。会很棒的。"
+    sy "把她的信息给我就行，你这个巨婴。我来安排，一切都会井井有条的。"
 
 # game/code/d14/d14s03.rpy:424
 translate chinese d14s03_8454d17e:
