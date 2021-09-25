@@ -28,7 +28,7 @@ translate chinese d14s07_2f8a83e0:
 translate chinese d14s07_bd93f35a:
 
     # mct "She thinks she's blackmailing me, but doesn't realize that Lydia already knows everything."
-    mct "她以为可以勒索我，但不知道莉迪亚已经知晓了一切。"
+    mct "她以为可以勒索我，其实并不知道莉迪亚已经知晓了一切。"
 
 # game/code/d14/d14s07.rpy:80
 translate chinese d14s07_2f08bfec:
@@ -76,19 +76,19 @@ translate chinese d14s07_32d4c176:
 translate chinese d14s07_a9cde72e:
 
     # cl "Kiss me like you are pretending to mean it. Get into character!"
-    cl "吻我，假装你是认真的那种。进入角色！"
+    cl "吻我，假装你是认真的那种。要进入角色！"
 
 # game/code/d14/d14s07.rpy:94
 translate chinese d14s07_fedd3d61:
 
     # mc "Oh, right. What's our scene?"
-    mc "哦，对。这里是什么剧本？"
+    mc "哦，好吧。这里是什么剧本？"
 
 # game/code/d14/d14s07.rpy:96
 translate chinese d14s07_61849897:
 
     # cl "(sigh) I'm just a poor Southern Belle who struggled to keep our family farm together during the War..."
-    cl "(叹气)我是个可怜的南方美人，在战争期间为维持我们的家庭农场而挣扎……"
+    cl "(叹气) 我是个可怜的南方美人，在战争期间为维持我们的家庭农场而挣扎……"
 
 # game/code/d14/d14s07.rpy:97
 translate chinese d14s07_60fbabef:
@@ -100,7 +100,7 @@ translate chinese d14s07_60fbabef:
 translate chinese d14s07_8edda649:
 
     # cl "He died badly in prison at Point Lookout, but you managed to survive - by eating him and some of the other prisoners."
-    cl "他在瞭望角的监狱里死得很惨，但是你--通过吃他和其他囚犯，设法活了下来。"
+    cl "他在瞭望角的监狱里死得很惨，但是你--通过吃掉他和其他囚犯，设法活了下来。"
 
 # game/code/d14/d14s07.rpy:100
 translate chinese d14s07_c5bceaae:
@@ -136,7 +136,7 @@ translate chinese d14s07_7c1e88dd:
 translate chinese d14s07_21911d70:
 
     # cl "Yes, and then we make love here, and you creampie my ass on Lydia's bed."
-    cl "对，然后我们在这里做爱，你在丽迪雅床上干我的屁股。"
+    cl "对，然后我们在这里做爱，你在莉迪亚床上干我屁股。"
 
 # game/code/d14/d14s07.rpy:109
 translate chinese d14s07_e9221216:
@@ -184,13 +184,13 @@ translate chinese d14s07_855e7486:
 translate chinese d14s07_4ff7a5f9:
 
     # mc "Darlin', you don't know how hard it has been to be away from you all those years."
-    mc "亲爱的，你不知道离开你这么多年有多难。"
+    mc "亲爱的，你不知道离开你这么多年，日子有多难过。"
 
 # game/code/d14/d14s07.rpy:124
 translate chinese d14s07_e026bf22:
 
     # cl "How much prison life has changed you, my love! {w}Kiss me, you fool!"
-    cl "亲爱的，监狱生活使你变得好多！{w}吻我吧，你这个傻瓜！"
+    cl "亲爱的，监狱生活让你变了好多！{w}吻我吧，你这个傻瓜！"
 
 # game/code/d14/d14s07.rpy:128
 translate chinese d14s07_3c7fd0d9:
@@ -316,7 +316,7 @@ translate chinese d14s07_c11e91c2:
 translate chinese d14s07_6ebf2cb8:
 
     # cl "That's it - eat my dirtbox you lout!"
-    cl "好舒服--给我的脏洞穴舔干净，你个糙汉子！"
+    cl "好舒服--给我的脏洞穴舔干净，你个糙汉！"
 
 # game/code/d14/d14s07.rpy:180
 translate chinese d14s07_b3d68edc:
@@ -346,13 +346,13 @@ translate chinese d14s07_c8956a7d:
 translate chinese d14s07_ccb9c958:
 
     # mc "Of course, my dear. Let me show you what else I learned in captivity."
-    mc "当然了，我的小宝贝。让你看看我在囚禁期间还学到了什么！"
+    mc "当然了，我的小宝贝。给你看看我在囚禁期间还学到了什么！"
 
 # game/code/d14/d14s07.rpy:199
 translate chinese d14s07_b26631bb:
 
     # cl "Oh my... {w}You don't mean... {w}You wouldn't!"
-    cl "O我的……{w}你不是要……{w}不是吧！"
+    cl "我的……{w}你不是要……{w}不是吧！"
 
 # game/code/d14/d14s07.rpy:200
 translate chinese d14s07_b4358d48:
@@ -460,7 +460,7 @@ translate chinese d14s07_ass_f05fbae0:
 translate chinese d14s07_ass_ebef607d:
 
     # cl "Yes! {w}Plow the weeds and flowers from my backfield!!"
-    cl "就是这样！{w}把我后面的良田都给耕了吧!!"
+    cl "就是这样！{w}把我后面洞穴的杂草和鲜花都给耕了吧!!"
 
 # game/code/d14/d14s07.rpy:260
 translate chinese d14s07_ass_76ccc9b3:
@@ -526,13 +526,13 @@ translate chinese d14s07_pussy_02690b1c:
 translate chinese d14s07_pussy_ead207b6:
 
     # cl "Yes! {w}Plow the weeds and flowers from my holy field!!"
-    cl "就是这样！{w}把我土地上的杂草和鲜花都锄净!!"
+    cl "就是这样！{w}把我后面洞穴的杂草和鲜花都锄净!!"
 
 # game/code/d14/d14s07.rpy:303
 translate chinese d14s07_pussy_ebd4da4c:
 
     # cl "Yes!! {w}Thrust your manhood deep into my womb!!"
-    cl "没错{w}把你的大家伙深深插进我子宫里!!"
+    cl "没错!! {w}把你的大家伙深深插进我子宫里!!"
 
 # game/code/d14/d14s07.rpy:307
 translate chinese d14s07_pussy_a8c561f8:
@@ -592,7 +592,7 @@ translate chinese d14s07_cum_pussy_337b24ce:
 translate chinese d14s07_cum_pussy_e30c4e61:
 
     # cl "Husband! You're flooding the gates of my womanhood!"
-    cl "老公！我下面都泄了！"
+    cl "老公！我下面都泻了！"
 
 # game/code/d14/d14s07.rpy:352
 translate chinese d14s07_cum_pussy_c4ef5bef:
@@ -616,13 +616,13 @@ translate chinese d14s07_cleanup_403d80e6:
 translate chinese d14s07_cleanup_16e55e56:
 
     # mc "Um, no. {w}I don't think I'll be doing that."
-    mc "嗯，不要。{w}我不会这么做的。"
+    mc "呵，不要。{w}我不会这么做的。"
 
 # game/code/d14/d14s07.rpy:366
 translate chinese d14s07_cleanup_c09dc70a:
 
     # cl "You really don't want to disappoint me..."
-    cl "你最好不要让我失望吧……"
+    cl "你最好不要让我失望……"
 
 # game/code/d14/d14s07.rpy:367
 translate chinese d14s07_cleanup_ed30baac:
@@ -712,7 +712,7 @@ translate chinese strings:
 
     # game/code/d14/d14s07.rpy:237
     old "Keep Plowing Her Backfield"
-    new "继续耕耘她的后场"
+    new "继续耕耘她后面的洞穴"
 
     # game/code/d14/d14s07.rpy:237
     old "Deflower Her Renewed Virginity"
