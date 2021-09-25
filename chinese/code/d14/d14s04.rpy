@@ -28,7 +28,7 @@ translate chinese d14s04_30870e50:
 translate chinese d14s04_fe8395eb:
 
     # mh "I missed you as well. {w}But, did this really need all that secrecy?"
-    mh "我也很想你。{w}但有必要这样保密吗？"
+    mh "我也很想你。{w}但有必要这么保密吗？"
 
 # game/code/d14/d14s04.rpy:22
 translate chinese d14s04_bcc62a07:
@@ -136,13 +136,13 @@ translate chinese d14s04_bef5ff0e:
 translate chinese d14s04_3b99de7f:
 
     # mc "Were you good at it?"
-    mc "擅长玩这个吗？"
+    mc "你擅长玩这个吗？"
 
 # game/code/d14/d14s04.rpy:68
 translate chinese d14s04_1bb5a3a6:
 
     # mh "I would say I was...alright."
-    mh "我想说我……还行。"
+    mh "我想说……还行。"
 
 # game/code/d14/d14s04.rpy:70
 translate chinese d14s04_d2cc214e:
@@ -160,7 +160,7 @@ translate chinese d14s04_1c6c13f9:
 translate chinese d14s04_2c3ee3b9:
 
     # mh "How about the best three out of three goals?"
-    mh "三个球进三个怎么样？"
+    mh "三球进仨怎么样？"
 
 # game/code/d14/d14s04.rpy:78
 translate chinese d14s04_606e2d02:
@@ -178,7 +178,7 @@ translate chinese d14s04_83239112:
 translate chinese d14s04_c2ea84bb:
 
     # mc "Oh shit!"
-    mc "啊，好烂！"
+    mc "啊，我靠！"
 
 # game/code/d14/d14s04.rpy:91
 translate chinese d14s04_bd21a258:
@@ -214,7 +214,7 @@ translate chinese d14s04_16b0daed:
 translate chinese d14s04_7ec8b4ce:
 
     # mc "\"Alright\" huh?"
-    mc "你好像说自己\"还行\"吧？"
+    mc "你好像刚才还说自己\"还行\"？"
 
 # game/code/d14/d14s04.rpy:115
 translate chinese d14s04_4930cfca:
@@ -394,7 +394,7 @@ translate chinese d14s04_c3ca6162:
 translate chinese d14s04_98413fd4:
 
     # mh "[mcname], I don't need to be a psychic to know that something is up."
-    mh "[mcname]，我不需要成为灵媒就能知道有事情发生。"
+    mh "[mcname]，我不需要成为灵媒就能知道你心里有事。"
 
 # game/code/d14/d14s04.rpy:190
 translate chinese d14s04_177c6594:
@@ -430,7 +430,7 @@ translate chinese d14s04_fc3d8b32:
 translate chinese d14s04_baa59da3:
 
     # mh "My office is quite nice, thank you very much. I enjoy working there."
-    mh "我的办公室挺好的，多谢。我喜欢在那里工作。"
+    mh "多谢关心，不过我的办公室挺好的。我喜欢在那里工作。"
 
 # game/code/d14/d14s04.rpy:199
 translate chinese d14s04_a16aa47e:
@@ -442,13 +442,13 @@ translate chinese d14s04_a16aa47e:
 translate chinese d14s04_e8c1d965:
 
     # mh "You don't \"bore\" me. You're not boring to me. I... I want to be there for you. I want to help you if I can."
-    mh "你不会令我\"心生厌烦\" 。你对我来说并不无聊。我……我想陪在你身边。如果可以的话，我想帮你。"
+    mh "你不会令我\"心生厌烦\" 。你对我来说并不无聊。我……想陪在你身边。如果可以的话，我想帮你。"
 
 # game/code/d14/d14s04.rpy:202
 translate chinese d14s04_9cfa8fd7:
 
     # mh "So please, talk to me if there's something bothering you."
-    mh "所以，如果你有什么烦心事，请跟我谈谈。"
+    mh "所以，如果你有什么烦心事，可以跟我说说。"
 
 # game/code/d14/d14s04.rpy:205
 translate chinese d14s04_bb0eeaf4:
@@ -496,7 +496,7 @@ translate chinese d14s04_1816d3fb:
 translate chinese d14s04_84344c5c:
 
     # mc "How did lawyer extraordinaire Miss Melissa Harris become who she is, hmm?"
-    mc "杰出的梅丽莎·哈里斯律师是怎么成为现在这样的?"
+    mc "杰出的梅丽莎·哈里斯律师是怎么成长为现在这样的？"
 
 # game/code/d14/d14s04.rpy:220
 translate chinese d14s04_da484720:
@@ -526,13 +526,13 @@ translate chinese d14s04_8b25ab08:
 translate chinese d14s04_0daab6a2:
 
     # mh "I wouldn't mind telling you about my past. It's not that. It's just..."
-    mh "我不介意告诉你我的过往。不是这样的。只是……"
+    mh "我不介意把我的过往告诉你。不是这样的。只是……"
 
 # game/code/d14/d14s04.rpy:229
 translate chinese d14s04_28f38787:
 
     # mh "I guess I just realized that I've never told anyone about my past."
-    mh "我刚刚意识到，我从没告诉过任何人我的过去。"
+    mh "我刚刚意识到，我从没跟任何人说过我的过去。"
 
 # game/code/d14/d14s04.rpy:231
 translate chinese d14s04_a31340dd:
@@ -574,13 +574,13 @@ translate chinese d14s04_d886559b:
 translate chinese d14s04_e3b88e7e:
 
     # mh "I didn't want to strain any relationships because of my work or studies."
-    mh "我不想因为自己的工作或学习而使任何关系紧张。"
+    mh "我不想因为自己的工作或学习而使任何关系变得紧张。"
 
 # game/code/d14/d14s04.rpy:241
 translate chinese d14s04_26ea0927:
 
     # mh "Doesn't mean that I didn't have any relationships. You already know about Allison."
-    mh "但并不是说我没有过恋爱关系。你已经知道艾莉森的事了。"
+    mh "但并不是说我没有过恋爱关系。你已经知道艾莉森了。"
 
 # game/code/d14/d14s04.rpy:242
 translate chinese d14s04_4934930d:
@@ -592,7 +592,7 @@ translate chinese d14s04_4934930d:
 translate chinese d14s04_7d7eea1e:
 
     # mh "Never anything like this."
-    mh "从来没有过这样的经历。"
+    mh "从来没有过和你这样的经历。"
 
 # game/code/d14/d14s04.rpy:245
 translate chinese d14s04_ce65b0aa:
@@ -628,7 +628,7 @@ translate chinese d14s04_92370eb3:
 translate chinese d14s04_06421ff6:
 
     # mh "I had everything I wanted."
-    mh "我想要的一切都已经有了。"
+    mh "我想要的一切都有了。"
 
 # game/code/d14/d14s04.rpy:256
 translate chinese d14s04_27a45079:
@@ -700,7 +700,7 @@ translate chinese d14s04_a21e62a0:
 translate chinese d14s04_ada6f14b:
 
     # mh "I was shy as a kid. The neighborhood that we lived in didn't really have that many kids my age and I wasn't really interested in playing with them either."
-    mh "我小时候很害羞。我们住的那个社区没有那么多同龄孩子，我也没兴趣和他们一起玩。"
+    mh "我小时候很害羞。我们住的那个社区没有那么多同龄孩子，我也没兴趣和她们一起玩。"
 
 # game/code/d14/d14s04.rpy:278
 translate chinese d14s04_37166f20:
@@ -724,19 +724,19 @@ translate chinese d14s04_9553e7d8:
 translate chinese d14s04_5cf3e89b:
 
     # mc "I... I'm so sorry. I didn't know. You don't have to—"
-    mc "我……很抱歉。我不知道。你不必--"
+    mc "真的……很抱歉。我不知道会是这样。你不必--"
 
 # game/code/d14/d14s04.rpy:286
 translate chinese d14s04_c778038a:
 
     # mc "Oh, I'm sorry, I didn't know."
-    mc "哦，很抱歉，我不知道。"
+    mc "哦，对不起，我不知道会是这样。"
 
 # game/code/d14/d14s04.rpy:288
 translate chinese d14s04_b4086473:
 
     # mh "It's alright. Thank you. This was a long time ago. I've gotten used to it now."
-    mh "没关系。谢谢你！这是很久以前的事了。我现在已经习惯了。"
+    mh "没关系。我要谢谢你！这是很久以前的事了。我现在已经习惯了。"
 
 # game/code/d14/d14s04.rpy:289
 translate chinese d14s04_6ace4bff:
@@ -784,7 +784,7 @@ translate chinese d14s04_e5544801:
 translate chinese d14s04_657254ea:
 
     # mh "Anyway. After getting shuffled around from relative to relative for a bit, I was eventually put into the foster system."
-    mh "话说回来。我被亲戚之间转来转去，这样持续一段时间后，我最终成了寄养儿童。"
+    mh "话说回来。我被不同的亲戚轮流转手，这样持续一段时间后，最终成了寄养儿童。"
 
 # game/code/d14/d14s04.rpy:301
 translate chinese d14s04_8c821906:
@@ -814,7 +814,7 @@ translate chinese d14s04_7c6073fd:
 translate chinese d14s04_a66fe960:
 
     # mc "This might not have been the greatest place for a date now that I think about it."
-    mc "现在想想，这里可能不是约会的最佳地点。"
+    mc "现在想想，这里可能不是最佳约会地点。"
 
 # game/code/d14/d14s04.rpy:312
 translate chinese d14s04_5009131c:
@@ -832,7 +832,7 @@ translate chinese d14s04_2f5f1cce:
 translate chinese d14s04_52912c45:
 
     # mh "I didn't mean it like that! *laughs* This was fun, but...someplace a bit more private would allow us to {i}talk{/i} a bit better, don't you think?"
-    mh "我不是那个意思！笑这里很有趣，但是……换个更私密的地方可以让我们{i}聊{/i}得更深入，你不觉得吗？"
+    mh "我不是那个意思！*笑* 这里很有趣，但是……换个更私密的地方可以让我们{i}聊{/i}得更深入，你不觉得吗？"
 
 # game/code/d14/d14s04.rpy:318
 translate chinese d14s04_d45da490:
@@ -958,7 +958,7 @@ translate chinese d14s04_db9ef2cd:
 translate chinese d14s04_44f1e4d9:
 
     # mh "Oh, that sounds fun! I'd love to come. But I can't, sadly."
-    mh "哦，听起来很有趣啊！我很想参加。但很遗憾，我不能去。"
+    mh "哦，听起来很有趣啊！我是很想参加。但很遗憾，我不能去。"
 
 # game/code/d14/d14s04.rpy:357
 translate chinese d14s04_ab386622:
@@ -1150,5 +1150,5 @@ translate chinese d14s04_5d1c170a:
 translate chinese d14s04_4fc90834:
 
     # sy "We will! Gotta run! Byeee!"
-    sy "我们会的！必须用跑的了！拜拜！"
+    sy "我们会的！现在必须要跑了！拜拜！"
 
