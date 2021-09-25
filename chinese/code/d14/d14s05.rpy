@@ -190,7 +190,7 @@ translate chinese d14s05_d6f5b4dd:
 translate chinese d14s05_6cfa1919:
 
     # mc "Hahahahaha you two are insane"
-    mc "哈哈哈哈哈，你们两个疯了"
+    mc "哈哈哈哈哈，你们两个疯了吧"
 
 # game/code/d14/d14s05.rpy:66
 translate chinese d14s05_54d59d47:
@@ -226,7 +226,7 @@ translate chinese d14s05_e7710d80:
 translate chinese d14s05_0dda8c60:
 
     # sy "Stop squirming!"
-    sy "别扭捏了！"
+    sy "扭捏什么！"
 
 # game/code/d14/d14s05.rpy:76
 translate chinese d14s05_921f64dd:
@@ -286,7 +286,7 @@ translate chinese d14s05_6db161e2:
 translate chinese d14s05_c0b4bab4:
 
     # sy "Hahaha, get off me you naked madman!"
-    sy "哈哈哈，放开我，你这个裸着的疯子！"
+    sy "哈哈哈，放开我，你这个疯裸男！"
 
 # game/code/d14/d14s05.rpy:102
 translate chinese d14s05_a61db8e3:
@@ -304,7 +304,7 @@ translate chinese d14s05_9bed48ba:
 translate chinese d14s05_0ad57c7b:
 
     # sy "I am unstoppable!"
-    sy "我是不可阻挡的！"
+    sy "我绝对不可阻挡！"
 
 # game/code/d14/d14s05.rpy:107
 translate chinese d14s05_3eacdc1c:
@@ -586,7 +586,7 @@ translate chinese d14s05_02d3ad1e:
 translate chinese d14s05_ce84beee:
 
     # mc "Yeah, she's pretty likely, actually."
-    mc "是的，她不会错过这个的。"
+    mc "是的，她不会错过这个派对的。"
 
 # game/code/d14/d14s05.rpy:205
 translate chinese d14s05_8d0f4617:
@@ -628,7 +628,7 @@ translate chinese d14s05_592a17f3:
 translate chinese d14s05_1adebd95:
 
     # mc "She's still with Antony, right?"
-    mc "她还和安东尼在一起的吧？"
+    mc "她还和安东尼在一起吧？"
 
 # game/code/d14/d14s05.rpy:218
 translate chinese d14s05_e2a087ec:
@@ -670,7 +670,7 @@ translate chinese d14s05_676b763f:
 translate chinese d14s05_cba05aeb:
 
     # mes "Sure, sure. {w}It's just that Lydia and I always compete, and now she's throwing a Fetish Locator party..."
-    mes "当然。{w}只是莉迪亚和我总是在竞争，而现在她要举办性趣探测器派对……"
+    mes "当然。{w}只是莉迪亚和我总是在竞争，而现在她要举办性趣派对……"
 
 # game/code/d14/d14s05.rpy:232
 translate chinese d14s05_1344a73f:
@@ -682,13 +682,13 @@ translate chinese d14s05_1344a73f:
 translate chinese d14s05_35edd8d3:
 
     # mes "Good. Lydia will need all the help she can get if she's going to beat one of my parties."
-    mes "很好。莉迪亚要想打败我的派对，她需要尽可能多的帮助。"
+    mes "很好。莉迪亚要想打败我的派对，就需要尽可能多的帮助。"
 
 # game/code/d14/d14s05.rpy:234
 translate chinese d14s05_0af72c33:
 
     # arj "It's really not like that-"
-    arj "真的不是这样的--"
+    arj "真的不是这样--"
 
 # game/code/d14/d14s05.rpy:236
 translate chinese d14s05_42397fd6:
@@ -742,13 +742,13 @@ translate chinese d14s05_b60c0e24:
 translate chinese d14s05_81c3d62d:
 
     # arj "Hey! Yeah, we were just talking about... are you trying to hide your identity?"
-    arj "你好！是的，我们正在讨论……你想隐藏自己的身份吗？"
+    arj "你好！[mcname]说得对，我们正在讨论……你想隐藏自己的身份吗？"
 
 # game/code/d14/d14s05.rpy:253
 translate chinese d14s05_e52116c3:
 
     # ir "Huh? Oh, am I the only one in costume? I thought this was a fetish party."
-    ir "什么？ 哦，我是唯一一个穿着服装的人吗？我以为这是个性趣派对。"
+    ir "什么？ 哦，我是唯一一个穿着表演服的人吗？我以为这是个性趣派对。"
 
 # game/code/d14/d14s05.rpy:255
 translate chinese d14s05_b6d80ffe:
@@ -772,7 +772,7 @@ translate chinese d14s05_795ad831:
 translate chinese d14s05_cce19689:
 
     # mc "You can wear anything you want, even nothing at all."
-    mc "你想穿什么就穿什么，甚至裸着也完全可以。"
+    mc "你想穿什么就穿什么，甚至全裸也可以。"
 
 # game/code/d14/d14s05.rpy:262
 translate chinese d14s05_20fada42:
@@ -820,7 +820,7 @@ translate chinese d14s05_0b815fa8:
 translate chinese d14s05_0f5b85b1:
 
     # mc "Yes. Is that a problem?"
-    mc "是的，有问题吗？"
+    mc "对，有问题吗？"
 
 # game/code/d14/d14s05.rpy:276
 translate chinese d14s05_8fe96207:
@@ -862,7 +862,7 @@ translate chinese d14s05_25325636:
 translate chinese d14s05_fc6d2d3a:
 
     # mc "Yeah, I told you-"
-    mc "是，我跟你提到过--"
+    mc "是，我跟你提过--"
 
 # game/code/d14/d14s05.rpy:289
 translate chinese d14s05_8a6b7704:
@@ -904,7 +904,7 @@ translate chinese d14s05_0d0ce497:
 translate chinese d14s05_55b20205:
 
     # mc "Relax, Oliver. Head inside, mingle, get something to drink. It's just a party."
-    mc "放松点，奥利弗。往里走，打成一片，拿点东西喝。这只是个派对。"
+    mc "放松点，奥利弗。往里走，跟别人打成一片，拿点东西喝。这只是个派对。"
 
 # game/code/d14/d14s05.rpy:303
 translate chinese d14s05_3acee13a:
@@ -1054,7 +1054,7 @@ translate chinese d14s05_40ab65ce:
 translate chinese d14s05_7c110ccf:
 
     # mc "Sorry, no... I was just trying to make a joke."
-    mc "对不起……我只是想开个玩笑。"
+    mc "对不起……我只想开个玩笑。"
 
 # game/code/d14/d14s05.rpy:346
 translate chinese d14s05_a8f8001e:
@@ -1192,7 +1192,7 @@ translate chinese d14s05_6c08a2b0:
 translate chinese d14s05_04da44dd:
 
     # mc "You can take her off the possible list. I already fucked her this week."
-    mc "你可以把她从难上手名单中删除了。这周我已经上过她了。"
+    mc "你可以把她从难上名单中删除了。这周我已经上过她了。"
 
 # game/code/d14/d14s05.rpy:396
 translate chinese d14s05_54661920:
@@ -1270,7 +1270,7 @@ translate chinese d14s05_50a9c614:
 translate chinese d14s05_25804387:
 
     # arj "Iona should be behind the bar to your right. She'll have all the food and instructions."
-    arj "欧娜应该在你右边的吧台后面。她有所有的食物和指示。"
+    arj "欧娜应该在你右边的吧台后面。所有食物都在那，她会告诉你怎么做。"
 
 # game/code/d14/d14s05.rpy:422
 translate chinese d14s05_0e354d27:
@@ -1366,7 +1366,7 @@ translate chinese d14s05_5f81af54:
 translate chinese d14s05_47a08ed1:
 
     # arj "It's Cynthia fucking Lewald! {w}She's really here."
-    arj "那是他妈的辛西娅·卢瓦尔德！{w}她真来这了。"
+    arj "操，那是辛西娅·卢瓦尔德！{w}她真来这了。"
 
 # game/code/d14/d14s05.rpy:448
 translate chinese d14s05_9c96e0aa:
@@ -1480,7 +1480,7 @@ translate chinese d14s05_a39de645:
 translate chinese d14s05_16329a92:
 
     # mc "What can I say? She likes it rough and raw in the buttsex."
-    mc "我能说什么呢？她喜欢我原始粗暴地插她屁股里。"
+    mc "我能说什么呢？她喜欢我原始粗暴地插她屁股。"
 
 # game/code/d14/d14s05.rpy:485
 translate chinese d14s05_f3d3b5ba:
