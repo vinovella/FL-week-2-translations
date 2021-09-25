@@ -4,7 +4,7 @@
 translate chinese d14s02_2affa5f6:
 
     # mc "N— No... No!"
-    mc "不--不要啊！"
+    mc "不--不……不要啊！"
 
 # game/code/d14/d14s02.rpy:45
 translate chinese d14s02_7241afa2:
@@ -34,7 +34,7 @@ translate chinese d14s02_bd353c4e:
 translate chinese d14s02_a31e329a:
 
     # arj "Like a baby.{w} You?"
-    arj "睡得很死。{w} 你呢？"
+    arj "我睡得很死。{w} 你呢？"
 
 # game/code/d14/d14s02.rpy:56
 translate chinese d14s02_c14c584c:
@@ -52,7 +52,7 @@ translate chinese d14s02_57fd101d:
 translate chinese d14s02_12b32f07:
 
     # arj "It sure {i}seems{/i} like you had some nice dreams."
-    arj "看来你{i}是{/i}做美梦了啊。"
+    arj "{i}看来{/i}你做美梦了啊。"
 
 # game/code/d14/d14s02.rpy:63
 translate chinese d14s02_26b96b0b:
@@ -76,7 +76,7 @@ translate chinese d14s02_51933003:
 translate chinese d14s02_b1fc04c7:
 
     # mc "Thought it was sleep paralysis or something, but that quickly went out the door as this...succubus Samiya comes out of nowhere."
-    mc "我本来以为是睡眠麻痹症之类的，但当一个女魔顶着萨米的脸突然冒出来时……我打消了这个想法。"
+    mc "我本来以为是睡眠麻痹症之类的，但当一个女魔顶着萨米亚的脸突然冒出来时……我打消了这个想法。"
 
 # game/code/d14/d14s02.rpy:71
 translate chinese d14s02_4e0439b2:
@@ -88,7 +88,7 @@ translate chinese d14s02_4e0439b2:
 translate chinese d14s02_09cd86e6:
 
     # mc "And then she's like \"Well I'm gonna take it first muahaha!\" and then brings out this huge fuck off pair of scissors from God knows where and goes to chop off my dick."
-    mc "然后她就说：\"不然，我先把它拿走，哇哈哈哈！\"然后天知道她从哪里拿来一把大剪刀，要把我的小弟弟砍下来。"
+    mc "然后她就说：\"不然，我先把它拿走，哇哈哈哈！\"然后天知道她从哪里拿来一把大剪刀，要把我的小弟弟剪下来。"
 
 # game/code/d14/d14s02.rpy:73
 translate chinese d14s02_e0f7c330:
@@ -154,7 +154,7 @@ translate chinese d14s02_b94d020a:
 translate chinese d14s02_a75395f1:
 
     # arj "Mistress?"
-    arj "给舒服的来上一发，应该叫情人？"
+    arj "这么舒服的来上一发，应该叫情人？"
 
 # game/code/d14/d14s02.rpy:97
 translate chinese d14s02_2b35b6fe:
@@ -196,7 +196,7 @@ translate chinese d14s02_4e29c4cd:
 translate chinese d14s02_cecb5b06:
 
     # arj "You know... I didn't get to finish what I started earlier."
-    arj "你知道……我没能完成之前开始的工作。"
+    arj "你知道……我没能给之前开始的工作收个尾。"
 
 # game/code/d14/d14s02.rpy:118
 translate chinese d14s02_004e09b7:
@@ -220,7 +220,7 @@ translate chinese d14s02_0ed97a83:
 translate chinese d14s02_24b782c0:
 
     # arj "We're gonna stop it. No matter what. I promise."
-    arj "无论怎样，我们都会阻止它的发生。我保证。"
+    arj "无论怎样，我们都不会让它发生的。我保证。"
 
 # game/code/d14/d14s02.rpy:127
 translate chinese d14s02_b3b16748:
@@ -238,7 +238,7 @@ translate chinese d14s02_cf3074d9:
 translate chinese d14s02_5846e910:
 
     # arj "God, I love it when you put it in. It feels amazing every time."
-    arj "天啊，我好喜欢你插进来的感觉。每次很舒服。"
+    arj "天啊，我好喜欢你插进来的感觉。每次都很舒服。"
 
 # game/code/d14/d14s02.rpy:154
 translate chinese d14s02_95ec1594:
@@ -286,7 +286,7 @@ translate chinese d14s02_98090da2:
 translate chinese d14s02_b8d6548b:
 
     # mc "What!? Get out! Did you have to barge in to say that?"
-    mc "什么鬼!?出去！你非要闯进来说这些吗？"
+    mc "什么鬼!? 出去！你非要闯进来说这些吗？"
 
 # game/code/d14/d14s02.rpy:204
 translate chinese d14s02_42f1cdda:
@@ -358,7 +358,7 @@ translate chinese d14s02_9240574e:
 translate chinese d14s02_8d82db7a:
 
     # sy "I {i}could{/i} and I just might if you keep that up."
-    sy "我{i}可以{/i}啊，如果你继续这样，我可能会的。"
+    sy "我{i}可以{/i}啊，如果你继续这样，我可能会做到哦。"
 
 # game/code/d14/d14s02.rpy:231
 translate chinese d14s02_20d73784:
@@ -382,7 +382,7 @@ translate chinese d14s02_2307653f:
 translate chinese d14s02_8c917a70:
 
     # mc "Stinky taskmaster."
-    mc "你个臭屁工头"
+    mc "你个臭屁工头。"
 
 # game/code/d14/d14s02.rpy:239
 translate chinese d14s02_09879994:
