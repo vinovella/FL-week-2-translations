@@ -176,7 +176,7 @@ translate chinese strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Be a considerate lover"
-    new "做个体贴的爱人"
+    new "做个体贴的伴侣"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 12: Lyssa BDSM"
