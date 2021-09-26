@@ -286,3 +286,11 @@ translate chinese strings:
     old "Day 13: Vanessa"
     new "第十三天：瓦妮莎"
 
+# TODO: Translation updated at 2021-09-26 22:36
+
+translate chinese strings:
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Safewords are for noobs"
+    new ""
+
