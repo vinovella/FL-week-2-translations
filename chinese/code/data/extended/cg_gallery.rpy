@@ -8,7 +8,7 @@ translate chinese strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Transfer some points to ErikaRed"
-    new "转部分点数给红色埃里卡"
+    new "转点数给红色埃里卡"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 8: Maria - Class"
