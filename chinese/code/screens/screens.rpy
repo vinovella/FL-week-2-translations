@@ -367,5 +367,5 @@ translate chinese strings:
 
     # game/code/screens/screens.rpy:486
     old "Character Gallery"
-    new "Character Gallery"
+    new "角色图库"
 
