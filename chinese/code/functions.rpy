@@ -29,4 +29,4 @@ translate chinese strings:
 
     # game/code/functions.rpy:16
     old "New character unlocked in the pool"
-    new "New character unlocked in the pool"
+    new "解锁泳池中的新角色"
