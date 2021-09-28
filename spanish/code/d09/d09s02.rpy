@@ -4,139 +4,139 @@
 translate spanish d09s02_d3bd4739:
 
     # "After a short travel by public transport..."
-    "After a short travel by public transport..."
+    "Tras un breve viaje en transporte público..."
 
 # game/code/d09/d09s02.rpy:23
 translate spanish d09s02_8813c6f4:
 
     # mct "Alright..."
-    mct "Alright..."
+    mct "Muy bien..."
 
 # game/code/d09/d09s02.rpy:25
 translate spanish d09s02_b2feffec:
 
     # "*Knocks*"
-    "*Knocks*"
+    "*Golpes*"
 
 # game/code/d09/d09s02.rpy:28
 translate spanish d09s02_7fb62f5f:
 
     # sb "You're not the pizza guy."
-    sb "You're not the pizza guy."
+    sb "No eres el chico de las pizzas."
 
 # game/code/d09/d09s02.rpy:29
 translate spanish d09s02_2c0fbd5b:
 
     # mc "Oh, should I be the cable guy instead?"
-    mc "Oh, should I be the cable guy instead?"
+    mc "Oh, ¿debería ser el chico del cable en su lugar?"
 
 # game/code/d09/d09s02.rpy:30
 translate spanish d09s02_47be7110:
 
     # sb "Huh?"
-    sb "Huh?"
+    sb "¿Huh?"
 
 # game/code/d09/d09s02.rpy:31
 translate spanish d09s02_34af8ae9:
 
     # mc "Maybe the plumber? \"I'm just here to lay some pipe, little lady.\""
-    mc "Maybe the plumber? \"I'm just here to lay some pipe, little lady.\""
+    mc "¿Tal vez el fontanero? \"Sólo estoy aquí para poner algunas tuberías, señorita.\""
 
 # game/code/d09/d09s02.rpy:33
 translate spanish d09s02_8cd077ed:
 
     # sb "Who the hell are you?"
-    sb "Who the hell are you?"
+    sb "¿Quién demonios eres tú?"
 
 # game/code/d09/d09s02.rpy:35
 translate spanish d09s02_591cbebe:
 
     # mc "I called you yesterda—"
-    mc "I called you yesterda—"
+    mc "Te llamé ayer-"
 
 # game/code/d09/d09s02.rpy:37
 translate spanish d09s02_9c27b77f:
 
     # sb "Oh right, sorry. You're the new client. Come on in then."
-    sb "Oh right, sorry. You're the new client. Come on in then."
+    sb "Ah, sí, lo siento. Usted es el nuevo cliente. Pasa entonces."
 
 # game/code/d09/d09s02.rpy:38
 translate spanish d09s02_fa45f281:
 
     # mc "Thanks..."
-    mc "Thanks..."
+    mc "Gracias..."
 
 # game/code/d09/d09s02.rpy:40
 translate spanish d09s02_8281dd72:
 
     # mct "Interesting place. Doesn't really look lived-in; seems to be pretty rundown actually."
-    mct "Interesting place. Doesn't really look lived-in; seems to be pretty rundown actually."
+    mct "Un lugar interesante. No parece muy habitado; en realidad, parece bastante deteriorado."
 
 # game/code/d09/d09s02.rpy:42
 translate spanish d09s02_9908df1a:
 
     # mct "Probably where she brings all her clients I guess."
-    mct "Probably where she brings all her clients I guess."
+    mct "Probablemente donde lleva a todos sus clientes, supongo."
 
 # game/code/d09/d09s02.rpy:44
 translate spanish d09s02_f20aac88:
 
     # mct "...She isn't gonna drug and rob me, is she?"
-    mct "...She isn't gonna drug and rob me, is she?"
+    mct "...Ella no va a drogarme y robarme, ¿verdad?"
 
 # game/code/d09/d09s02.rpy:45
 translate spanish d09s02_c1ea6981:
 
     # mct "I hope there isn't a bathtub full of ice. I've grown rather attached to my kidneys."
-    mct "I hope there isn't a bathtub full of ice. I've grown rather attached to my kidneys."
+    mct "Espero que no haya una bañera llena de hielo. Me he encariñado con mis riñones."
 
 # game/code/d09/d09s02.rpy:46
 translate spanish d09s02_34709391:
 
     # mc "So—"
-    mc "So—"
+    mc "Así que-"
 
 # game/code/d09/d09s02.rpy:48
 translate spanish d09s02_d9c5f0ad:
 
     # sb "Please, have a seat. Make yourself comfortable."
-    sb "Please, have a seat. Make yourself comfortable."
+    sb "Por favor, toma asiento. Ponte cómodo."
 
 # game/code/d09/d09s02.rpy:49
 translate spanish d09s02_bb0eeaf4:
 
     # mc "Thank you."
-    mc "Thank you."
+    mc "Gracias."
 
 # game/code/d09/d09s02.rpy:51
 translate spanish d09s02_2898210a:
 
     # sb "Sorry about earlier. You're much younger than I expected."
-    sb "Sorry about earlier. You're much younger than I expected."
+    sb "Siento lo de antes. Eres mucho más joven de lo que esperaba."
 
 # game/code/d09/d09s02.rpy:52
 translate spanish d09s02_2dc0e5a8:
 
     # mct "Ah. Probably only older men can afford her \"service charge\"."
-    mct "Ah. Probably only older men can afford her \"service charge\"."
+    mct "Ah. Probablemente sólo los hombres mayores pueden pagarla \"cargo por servicio\"."
 
 # game/code/d09/d09s02.rpy:54
 translate spanish d09s02_b7441607:
 
     # sb "So, [mcname]—can I call you [mcname]?"
-    sb "So, [mcname]—can I call you [mcname]?"
+    sb "So, [mcname]—¿puedo llamarte? [mcname]?"
 
 # game/code/d09/d09s02.rpy:55
 translate spanish d09s02_606e2d02:
 
     # mc "Sure."
-    mc "Sure."
+    mc "Claro que sí."
 
 # game/code/d09/d09s02.rpy:57
 translate spanish d09s02_68ed9684:
 
     # sb "Good. So, [mcname], do you want to get into this right away, or are you the type to chit-chat a bit beforehand?"
-    sb "Good. So, [mcname], do you want to get into this right away, or are you the type to chit-chat a bit beforehand?"
+    sb "Bien. Entonces, [mcname], ¿quieres entrar en materia de inmediato, o eres de los que charlan un poco antes?"
 
 # game/code/d09/d09s02.rpy:58
 translate spanish d09s02_b3ae8984:
@@ -148,55 +148,55 @@ translate spanish d09s02_b3ae8984:
 translate spanish d09s02_11004ae4:
 
     # mct "I could bring up the luggage now, but then again, maybe I should wait until after I fuck her?" nointeract
-    mct "I could bring up the luggage now, but then again, maybe I should wait until after I fuck her?" nointeract
+    mct "Podría sacar el equipaje ahora, pero tal vez debería esperar hasta después de follarla." nointeract
 
 # game/code/d09/d09s02.rpy:72
 translate spanish d09s02_fun_0d28210b:
 
     # mc "I think I'd like to get to it right away if you don't mind."
-    mc "I think I'd like to get to it right away if you don't mind."
+    mc "Creo que me gustaría empezar ahora mismo, si no te importa."
 
 # game/code/d09/d09s02.rpy:74
 translate spanish d09s02_fun_1cf54578:
 
     # sb "No nonsense; I like that in a man."
-    sb "No nonsense; I like that in a man."
+    sb "Sin tonterías; me gusta eso en un hombre."
 
 # game/code/d09/d09s02.rpy:76
 translate spanish d09s02_fun_024eec4f:
 
     # sb "Wait here, I'll get some toys."
-    sb "Wait here, I'll get some toys."
+    sb "Espera aquí, voy a buscar algunos juguetes."
 
 # game/code/d09/d09s02.rpy:77
 translate spanish d09s02_fun_babbcd99:
 
     # mc "...Toys?"
-    mc "...Toys?"
+    mc "...¿Juguetes?"
 
 # game/code/d09/d09s02.rpy:79
 translate spanish d09s02_fun_59c09040:
 
     # mc "Okay... We can start with some toy foreplay I suppose."
-    mc "Okay... We can start with some toy foreplay I suppose."
+    mc "Bien... Podemos empezar con algunos juegos preliminares con juguetes, supongo."
 
 # game/code/d09/d09s02.rpy:81
 translate spanish d09s02_fun_2b91cb9f:
 
     # sb "Foreplay? Oh, no, I think you're mistaken. This is what you paid for."
-    sb "Foreplay? Oh, no, I think you're mistaken. This is what you paid for."
+    sb "¿juegos previos? Oh, no, creo que te equivocas. Esto es lo que has pagado."
 
 # game/code/d09/d09s02.rpy:82
 translate spanish d09s02_fun_8a340642:
 
     # mc "What does that mean?"
-    mc "What does that mean?"
+    mc "¿Qué significa eso?"
 
 # game/code/d09/d09s02.rpy:83
 translate spanish d09s02_fun_6967c620:
 
     # sb "Didn't you notice? The package you bought. It was toy play, just toy play."
-    sb "Didn't you notice? The package you bought. It was toy play, just toy play."
+    sb "¿No te has dado cuenta? El paquete que compraste. Era de juguete, sólo de juguete."
 
 # game/code/d09/d09s02.rpy:84
 translate spanish d09s02_fun_fcf8ae74:
@@ -208,7 +208,7 @@ translate spanish d09s02_fun_fcf8ae74:
 translate spanish d09s02_fun_282a9582:
 
     # sb "Yep. If you were hoping for something...{i}more{/i}, I'm sorry to say it's also gonna cost you more."
-    sb "Yep. If you were hoping for something...{i}more{/i}, I'm sorry to say it's also gonna cost you more."
+    sb "Sí. Si esperabas algo...{i}mas{/i}, siento decirte que también te va a costar más."
 
 # game/code/d09/d09s02.rpy:87
 translate spanish d09s02_fun_54a263bf:
