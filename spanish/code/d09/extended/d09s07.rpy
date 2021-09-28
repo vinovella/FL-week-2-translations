@@ -4,7 +4,7 @@
 translate spanish d09s07_e733d4b9:
 
     # "After short trip [mcname] and Samiya stop near a hotel's entrance."
-    "Después de un viaje corto [mcname] and Samiya se detienen cerca de la entrada de un hotel."
+    "Después de un viaje corto [mcname] y Samiya se detienen cerca de la entrada de un hotel."
 
 # game/code/d09/extended/d09s07.rpy:56
 translate spanish d09s07_a349e3dc:
@@ -154,55 +154,55 @@ translate spanish d09s07_2689b56d:
 translate spanish d09s07_d06e2d44:
 
     # sb "Yep. Fuck that pussy, torture her tits, whatever you want. Just get her to say that phrase."
-    sb "Yep. Fuck that pussy, torture her tits, whatever you want. Just get her to say that phrase."
+    sb "Sí. Fóllate ese coño, tortura sus tetas, lo que quieras. Sólo haz que diga esa frase."
 
 # game/code/d09/extended/d09s07.rpy:92
 translate spanish d09s07_ee4ed6e1:
 
     # mc "Popeye is not guilty."
-    mc "Popeye is not guilty."
+    mc "Popeye no es culpable."
 
 # game/code/d09/extended/d09s07.rpy:93
 translate spanish d09s07_07864c6c:
 
     # sb "Apparently he's been stealing spinach."
-    sb "Apparently he's been stealing spinach."
+    sb "Aparentemente ha estado robando espinacas."
 
 # game/code/d09/extended/d09s07.rpy:94
 translate spanish d09s07_f538cffe:
 
     # mc "Or maybe lacing those chicken sandwiches with addictive substances."
-    mc "Or maybe lacing those chicken sandwiches with addictive substances."
+    mc "O tal vez, mezclando esos sándwiches de pollo con sustancias adictivas."
 
 # game/code/d09/extended/d09s07.rpy:96
 translate spanish d09s07_09b1aed0:
 
     # sb "Exactly."
-    sb "Exactly."
+    sb "Exactamente."
 
 # game/code/d09/extended/d09s07.rpy:97
 translate spanish d09s07_964f5171:
 
     # mc "This still sounds insane."
-    mc "This still sounds insane."
+    mc "Esto sigue pareciendo una locura."
 
 # game/code/d09/extended/d09s07.rpy:99
 translate spanish d09s07_f8480dc5:
 
     # sb "Here, I brought a mask for you."
-    sb "Here, I brought a mask for you."
+    sb "Toma, he traído una máscara para ti."
 
 # game/code/d09/extended/d09s07.rpy:101
 translate spanish d09s07_6a38bffb:
 
     # sb "Go knock at room 569 and talk to her. See how you feel about it then."
-    sb "Go knock at room 569 and talk to her. See how you feel about it then."
+    sb "Ve a llamar a la habitación 569 y habla con ella. A ver qué te parece entonces."
 
 # game/code/d09/extended/d09s07.rpy:102
 translate spanish d09s07_045ac921:
 
     # mc "*sigh* This had better be legal."
-    mc "*sigh* This had better be legal."
+    mc "*suspiro* Más vale que esto sea legal."
 
 # game/code/d09/extended/d09s07.rpy:103
 translate spanish d09s07_8f8d9e8c:
@@ -214,97 +214,97 @@ translate spanish d09s07_8f8d9e8c:
 translate spanish d09s07_07dfee0a:
 
     # mct "Terrific.{w} What the hell am I doing?"
-    mct "Terrific.{w} What the hell am I doing?"
+    mct "Genial.{w} ¿Qué demonios estoy haciendo?"
 
 # game/code/d09/extended/d09s07.rpy:111
 translate spanish d09s07_96c2ca1b:
 
     # mct "Well, let's get this over with..."
-    mct "Well, let's get this over with..."
+    mct "Bueno, vamos a terminar con esto..."
 
 # game/code/d09/extended/d09s07.rpy:115
 translate spanish d09s07_9f03fd63:
 
     # mct "That is the room."
-    mct "That is the room."
+    mct "Esa es la habitación."
 
 # game/code/d09/extended/d09s07.rpy:119
 translate spanish d09s07_40511e6c:
 
     # "*knock knock*"
-    "*knock knock*"
+    "*Toc Toc*"
 
 # game/code/d09/extended/d09s07.rpy:120
 translate spanish d09s07_e21e0693:
 
     # "???" "Just a minute..."
-    "???" "Just a minute..."
+    "???" "Un minuto..."
 
 # game/code/d09/extended/d09s07.rpy:122
 translate spanish d09s07_29bc5049:
 
     # "???" "Hello?"
-    "???" "Hello?"
+    "???" "Hola?"
 
 # game/code/d09/extended/d09s07.rpy:125
 translate spanish d09s07_70772979:
 
     # mc "Holy shit. {w}Aren't you a judge?"
-    mc "Holy shit. {w}Aren't you a judge?"
+    mc "Mierda. {w}¿No es usted juez?"
 
 # game/code/d09/extended/d09s07.rpy:127
 translate spanish d09s07_87b9fa6e:
 
     # jdg "I am... {w}What's this about?"
-    jdg "I am... {w}What's this about?"
+    jdg "Yo soy... {w}¿De qué se trata esto?"
 
 # game/code/d09/extended/d09s07.rpy:130
 translate spanish d09s07_9bacafc9:
 
     # mc "Um, hi. {w}You seem familiar. Don't I know you?"
-    mc "Um, hi. {w}You seem familiar. Don't I know you?"
+    mc "Um, hola. {w}Me pareces familiar. ¿No te conozco?"
 
 # game/code/d09/extended/d09s07.rpy:132
 translate spanish d09s07_d2edf73e:
 
     # "???" "You've probably seen my posters. I'm up for reelection this year."
-    "???" "You've probably seen my posters. I'm up for reelection this year."
+    "???" "Seguro que has visto mis carteles. Este año me presento a la reelección."
 
 # game/code/d09/extended/d09s07.rpy:133
 translate spanish d09s07_eb2f402d:
 
     # mc "Oh, yeah. You're a judge."
-    mc "Oh, yeah. You're a judge."
+    mc "Oh, sí. Eres un juez."
 
 # game/code/d09/extended/d09s07.rpy:134
 translate spanish d09s07_24b3c4de:
 
     # jdg "I am... {w}Do you normally knock on hotel doors without knowing who is there?"
-    jdg "I am... {w}Do you normally knock on hotel doors without knowing who is there?"
+    jdg "Lo soy... {w}¿Acostumbra a llamar a las puertas de los hoteles sin saber quién está allí?"
 
 # game/code/d09/extended/d09s07.rpy:137
 translate spanish d09s07_95096c0e:
 
     # mc "Samiya sent me."
-    mc "Samiya sent me."
+    mc "Me envió Samiya."
 
 # game/code/d09/extended/d09s07.rpy:139
 translate spanish d09s07_85965887:
 
     # jdg "Oh. I see."
-    jdg "Oh. I see."
+    jdg "Oh. Ya veo."
 
 # game/code/d09/extended/d09s07.rpy:140
 translate spanish d09s07_ca96a0b0:
 
     # mc "I assume you know what this is about."
-    mc "I assume you know what this is about."
+    mc "Asumo que sabes de qué va esto."
 
 # game/code/d09/extended/d09s07.rpy:141
 translate spanish d09s07_f745b958:
 
     # jdg "Let me make this perfectly clear."
-    jdg "Let me make this perfectly clear."
+    jdg "Permítanme dejar esto perfectamente claro."
 
 # game/code/d09/extended/d09s07.rpy:142
 translate spanish d09s07_d98a1a35:
