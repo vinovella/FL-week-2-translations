@@ -4,7 +4,7 @@
 translate chinese end_of_week_302f1a70:
 
     # "Your first week on {i}Fetish Locator{/i} ends here.{w}\nSave now to be able to start day 8 without losing all your progress.{w}\nIf you are playing several paths create separate saves and give them different names."
-    "您在{i}性趣探测器{/i}的第一周到此结束。{w}\n现在保存，以便在不丢失所有进度的情况下开始第8天。{w}\n如果您在玩多条路径，请单独创建存档并为它们分别命名。"
+    "您在{i}性趣探测器{/i}的第一周到此结束。{w}\n现在保存，以便在不丢失所有进度的情况下开始第八天。{w}\n如果您在玩多条路径，请单独创建存档并为它们分别命名。"
 
 # game/code/labels.rpy:45
 translate chinese end_of_week_f457ab7a:
@@ -22,13 +22,13 @@ translate chinese failed_mp_5d0c3fdc:
 translate chinese failed_mp_cd72322d:
 
     # "On most devices you can set the permissions on the setting tab:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nFor any issue, please contact us on {a=https://discord.gg/b6CNu2C}Discord{/a}."
-    "在大多数设备上，您可以通过设置选项卡设置权限：\n设置->应用程序->性趣探测器->权限->存储。\n如有任何问题，请通过以下链接联系我们：{a=https://discord.gg/b6CNu2C}Discord{/a}."
+    "在大多数设备上，您可以通过设置选项卡设置权限：\n设置->应用程序->性趣探测器->权限->存储。\n如有任何问题，请通过以下链接联系我们：{a=https://discord.gg/b6CNu2C}Discord{/a}"
 
 # game/code/labels.rpy:56
 translate chinese failed_mp_d50e830d:
 
     # "On most devices you can set the permissions on the setting tab:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nFor any issue, please contact us on {a=https://www.patreon.com/fetishlocator}Patreon{/a} or on {a=https://discord.gg/b6CNu2C}Discord{/a}."
-    "在大多数设备上，您可以通过设置选项卡设置权限：\n设置 -> 应用程序 -> 性趣探测器 -> 权限 -> 存储。\n如有任何问题，请通过以下链接联系我们：e.\nFor any issue, please contact us on {a=https://www.patreon.com/fetishlocator}Patreon{/a} or on {a=https://discord.gg/b6CNu2C}Discord{/a}."
+    "在大多数设备上，您可以通过设置选项卡设置权限：\n设置->应用程序->性趣探测器->权限->存储。\n如有任何问题，请通过以下链接联系我们：{a=https://www.patreon.com/fetishlocator}Patreon{/a} 或 {a=https://discord.gg/b6CNu2C}Discord{/a}."
 
 # game/code/labels.rpy:62
 translate chinese game_over_dbc7b4ac:
@@ -52,7 +52,7 @@ translate chinese support_me_3710a879:
 translate chinese support_me_d9b46b90:
 
     # sy "Do you think they know?"
-    sy "您觉得他们知道吗？"
+    sy "你觉得他们知道吗？"
 
 # game/code/labels.rpy:102
 translate chinese support_me_41e42ee3:
@@ -76,7 +76,7 @@ translate chinese support_me_002a4473:
 translate chinese support_me_a481faf7:
 
     # sy "Do you think they know how important their support is to me?"
-    sy "您觉得玩家会明白他们的支持对我有多重要吗？"
+    sy "你觉得玩家会明白他们的支持对我有多重要吗？"
 
 # game/code/labels.rpy:116
 translate chinese support_me_57289a79:
@@ -88,13 +88,13 @@ translate chinese support_me_57289a79:
 translate chinese support_me_9ce1e5cd:
 
     # dd "They love you!"
-    dd "他们爱您！"
+    dd "他们爱你！"
 
 # game/code/labels.rpy:122
 translate chinese support_me_9581c39d:
 
     # dd "And I'm sure they know that even a little support means a great deal to you!"
-    dd "我相信他们知道，即使是一点点支持对您来说也意义重大！"
+    dd "我相信他们知道，即使是一点点支持对你来说也意义重大！"
 
 # game/code/labels.rpy:136
 translate chinese coming_next_993b3326:
@@ -148,7 +148,7 @@ translate chinese coming_next_61d845dd:
 translate chinese coming_next_9ce1e5cd:
 
     # dd "They love you!"
-    dd "他们爱您！"
+    dd "他们爱你！"
 
 # game/code/labels.rpy:168
 translate chinese coming_next_de7eb1b3:
