@@ -262,7 +262,7 @@ translate spanish d09s07_87b9fa6e:
 translate spanish d09s07_9bacafc9:
 
     # mc "Um, hi. {w}You seem familiar. Don't I know you?"
-    mc "Um, hola. {w}Me pareces familiar. ¿No te conozco?"
+    mc "Um, hola. {w}Me pareces familiar. ¿Te conozco?"
 
 # game/code/d09/extended/d09s07.rpy:132
 translate spanish d09s07_d2edf73e:
@@ -1156,377 +1156,377 @@ translate spanish d09s07_end_70aeb2ba:
 translate spanish d09s07_end_812349f3:
 
     # jdg "Are you sure you won't stay for another round?"
-    jdg "Are you sure you won't stay for another round?"
+    jdg "¿Estás seguro de que no te quedarás para otra ronda?"
 
 # game/code/d09/extended/d09s07.rpy:554
 translate spanish d09s07_end_10d83445:
 
     # jdg "You know, it doesn't have to always be the same kink.{w} If you prefer, next time we could do something different."
-    jdg "You know, it doesn't have to always be the same kink.{w} If you prefer, next time we could do something different."
+    jdg "No tiene por qué ser siempre la misma perversión.{w} Si lo prefieres, la próxima vez podemos hacer algo diferente."
 
 # game/code/d09/extended/d09s07.rpy:556
 translate spanish d09s07_end_3055c61e:
 
     # mc "Well, like you said, I know who you are. {w}If I'm interested, I'll find you."
-    mc "Well, like you said, I know who you are. {w}If I'm interested, I'll find you."
+    mc "Bueno, como has dicho, sé quién eres. {w}Si me interesa, te encontraré."
 
 # game/code/d09/extended/d09s07.rpy:557
 translate spanish d09s07_end_06af33c7:
 
     # jdg "That sounds like a threat. You're making me hot."
-    jdg "That sounds like a threat. You're making me hot."
+    jdg "Eso suena como una amenaza. Me estás poniendo caliente."
 
 # game/code/d09/extended/d09s07.rpy:560
 translate spanish d09s07_end_c950e762:
 
     # mct "I have to get out of here."
-    mct "I have to get out of here."
+    mct "Tengo que salir de aquí."
 
 # game/code/d09/extended/d09s07.rpy:563
 translate spanish d09s07_end_680292c8:
 
     # mct "I don't think Samiya will be too happy to find out what happened."
-    mct "I don't think Samiya will be too happy to find out what happened."
+    mct "No creo que a Samiya le haga mucha gracia descubrir lo que ha pasado."
 
 # game/code/d09/extended/d09s07.rpy:565
 translate spanish d09s07_end_552db567:
 
     # mct "That better be enough to get Stacy's luggage back."
-    mct "That better be enough to get Stacy's luggage back."
+    mct "Más vale que sea suficiente para recuperar el equipaje de Stacy."
 
 # game/code/d09/extended/d09s07.rpy:590
 translate spanish d09s07_phone_b91bee09:
 
     # fl "You got [d09s07_points] points."
-    fl "You got [d09s07_points] points."
+    fl "Tienes [d09s07_points] puntos."
 
 # game/code/d09/extended/d09s07.rpy:591
 translate spanish d09s07_phone_65be02dd:
 
     # mct "App knows that I raped someone..."
-    mct "App knows that I raped someone..."
+    mct "La App sabe que violé a alguien..."
 
 # game/code/d09/extended/d09s07.rpy:593
 translate spanish d09s07_phone_141291e6:
 
     # mct "I hope it also knows that it was just a roleplay."
-    mct "I hope it also knows that it was just a roleplay."
+    mct "Espero que también sepa que sólo era un juego de rol.."
 
 # game/code/d09/extended/d09s07.rpy:597
 translate spanish d09s07_phone_50a03c0e:
 
     # fl "Congratulations! You earned a GOLD STAR!"
-    fl "Congratulations! You earned a GOLD STAR!"
+    fl "¡Enhorabuena! ¡Te has ganado una ESTRELLA DE ORO!"
 
 # game/code/d09/extended/d09s07.rpy:598
 translate spanish d09s07_phone_66d746b8:
 
     # mct "Huh? A gold star?"
-    mct "Huh? A gold star?"
+    mct "¿Huh? ¿Una estrella de oro?"
 
 # game/code/d09/extended/d09s07.rpy:600
 translate spanish d09s07_phone_c38dcf53:
 
     # mct "I got one last week for having a wet time with Min."
-    mct "I got one last week for having a wet time with Min."
+    mct "Yo gané uno la semana pasada por pasar un rato húmedo con Min."
 
 # game/code/d09/extended/d09s07.rpy:602
 translate spanish d09s07_phone_0e1f8891:
 
     # mct "But I had to spend it to keep myself in the game."
-    mct "But I had to spend it to keep myself in the game."
+    mct "Pero tuve que gastarlo para mantenerme en el juego."
 
 # game/code/d09/extended/d09s07.rpy:604
 translate spanish d09s07_phone_da3f967a:
 
     # mct "Now... Do I have two?"
-    mct "Now... Do I have two?"
+    mct "Ahora... ¿Tengo dos?"
 
 # game/code/d09/extended/d09s07.rpy:606
 translate spanish d09s07_phone_30ac6b4b:
 
     # mct "Did AmRose mention something about the gold stars? {w}Maybe I can use it somehow..."
-    mct "Did AmRose mention something about the gold stars? {w}Maybe I can use it somehow..."
+    mct "¿Mencionó AmRose algo sobre las estrellas de oro? {w}Tal vez pueda usarlas de alguna manera..."
 
 # game/code/d09/extended/d09s07.rpy:618
 translate spanish d09s07_quit_0ddc9801:
 
     # mc "This is too much... {w}I'm sorry, I can't do this."
-    mc "This is too much... {w}I'm sorry, I can't do this."
+    mc "Esto es demasiado... {w}Lo siento, no puedo hacer esto."
 
 # game/code/d09/extended/d09s07.rpy:621
 translate spanish d09s07_quit_4337adb7:
 
     # jdg "What are you talking about?"
-    jdg "What are you talking about?"
+    jdg "¿De qué estás hablando?"
 
 # game/code/d09/extended/d09s07.rpy:622
 translate spanish d09s07_quit_bf726513:
 
     # mc "I'm just going to leave now."
-    mc "I'm just going to leave now."
+    mc "Me voy a ir ahora."
 
 # game/code/d09/extended/d09s07.rpy:623
 translate spanish d09s07_quit_fcc10efe:
 
     # jdg "Ok... {w}Get Out!"
-    jdg "Ok... {w}Get Out!"
+    jdg "Ok... {w}¡Fuera!"
 
 # game/code/d09/extended/d09s07.rpy:626
 translate spanish d09s07_quit_a58deb7c:
 
     # mc "I'm sorry, but no. I'm not going to do this."
-    mc "I'm sorry, but no. I'm not going to do this."
+    mc "Lo siento, pero no. No voy a hacer esto."
 
 # game/code/d09/extended/d09s07.rpy:629
 translate spanish d09s07_quit_00459698:
 
     # jdg "What? Really?{w} But it's just some harmless fun."
-    jdg "What? Really?{w} But it's just some harmless fun."
+    jdg "¿Qué? ¿De verdad?{w} Pero es sólo una diversión inofensiva."
 
 # game/code/d09/extended/d09s07.rpy:630
 translate spanish d09s07_quit_ce88f116:
 
     # mc "Yes, really. {w}I'm not a rapist. Not even-"
-    mc "Yes, really. {w}I'm not a rapist. Not even-"
+    mc "Sí, de verdad. {w}No soy un violador. Ni siquiera-"
 
 # game/code/d09/extended/d09s07.rpy:631
 translate spanish d09s07_quit_4fbe6c1d:
 
     # jdg "Whatever. You'll be jerking yourself off fantasizing about this for the rest of your life."
-    jdg "Whatever. You'll be jerking yourself off fantasizing about this for the rest of your life."
+    jdg "Lo que sea. Te masturbarás fantaseando con esto por el resto de tu vida."
 
 # game/code/d09/extended/d09s07.rpy:637
 translate spanish d09s07_quit_49e0efee:
 
     # mct "I hope Samiya won't be mad at me for this."
-    mct "I hope Samiya won't be mad at me for this."
+    mct "Espero que Samiya no se enfade conmigo por esto."
 
 # game/code/d09/extended/d09s07.rpy:647
 translate spanish d09s07_sb_talk_fdc68d2b:
 
     # sb "That was quick. What happened?"
-    sb "That was quick. What happened?"
+    sb "Eso fue rápido. ¿Qué ha pasado?"
 
 # game/code/d09/extended/d09s07.rpy:648
 translate spanish d09s07_sb_talk_c562eb8a:
 
     # mc "Couldn't do it. I'm not a rapist."
-    mc "Couldn't do it. I'm not a rapist."
+    mc "No pude hacerlo. No soy un violador."
 
 # game/code/d09/extended/d09s07.rpy:650
 translate spanish d09s07_sb_talk_fde64129:
 
     # sb "IT WASN'T RAPE! You just had to pretend!"
-    sb "IT WASN'T RAPE! You just had to pretend!"
+    sb "¡NO ERA VIOLACIÓN! ¡Sólo tenías que fingir!"
 
 # game/code/d09/extended/d09s07.rpy:651
 translate spanish d09s07_sb_talk_4eef0325:
 
     # mc "Well, then I guess I'm not a method actor."
-    mc "Well, then I guess I'm not a method actor."
+    mc "Bueno, entonces supongo que no soy un actor de método."
 
 # game/code/d09/extended/d09s07.rpy:654
 translate spanish d09s07_sb_talk_a962938d:
 
     # sb "You... fucking asshole... Damn it!!!"
-    sb "You... fucking asshole... Damn it!!!"
+    sb "Tú... maldito imbécil... ¡Maldita sea!!!"
 
 # game/code/d09/extended/d09s07.rpy:655
 translate spanish d09s07_sb_talk_97d05294:
 
     # mc "Let me make it up to you some other way."
-    mc "Let me make it up to you some other way."
+    mc "Deja que te lo compense de otra manera."
 
 # game/code/d09/extended/d09s07.rpy:658
 translate spanish d09s07_sb_talk_7e9764dc:
 
     # mc "I think I will prank the \"M.I.L.F\"."
-    mc "I think I will prank the \"M.I.L.F\"."
+    mc "Creo que voy a bromear con la \"M.A.D.U.R.A\"."
 
 # game/code/d09/extended/d09s07.rpy:660
 translate spanish d09s07_sb_talk_0cc540e6:
 
     # sb "Don't fuck it up this time."
-    sb "Don't fuck it up this time."
+    sb "No lo arruines esta vez."
 
 # game/code/d09/extended/d09s07.rpy:664
 translate spanish d09s07_sb_talk_8f7053bf:
 
     # mc "I'll be your assistant for the next task."
-    mc "I'll be your assistant for the next task."
+    mc "Seré tu asistente para la siguiente tarea."
 
 # game/code/d09/extended/d09s07.rpy:666
 translate spanish d09s07_sb_talk_4cf5fee8:
 
     # sb "Good.{w} Meet me back at my place after 30 minutes."
-    sb "Good.{w} Meet me back at my place after 30 minutes."
+    sb "Bien.{w} Reúnete conmigo en mi casa después de 30 minutos."
 
 # game/code/d09/extended/d09s07.rpy:670
 translate spanish d09s07_sb_talk_fad2299f:
 
     # sb "Useless... Can't do anything!{w} Get lost!"
-    sb "Useless... Can't do anything!{w} Get lost!"
+    sb "Inútil... No puede hacer nada!{w} ¡Piérdete!"
 
 # game/code/d09/extended/d09s07.rpy:671
 translate spanish d09s07_sb_talk_2649b15b:
 
     # mc "But... What about Stacy's luggage?"
-    mc "But... What about Stacy's luggage?"
+    mc "Pero... ¿Qué pasa con el equipaje de Stacy?"
 
 # game/code/d09/extended/d09s07.rpy:673
 translate spanish d09s07_sb_talk_3e6c6c1e:
 
     # sb "You really think you've earned it?"
-    sb "You really think you've earned it?"
+    sb "¿De verdad crees que te lo has ganado?"
 
 # game/code/d09/extended/d09s07.rpy:675
 translate spanish d09s07_sb_talk_9a4e5461:
 
     # sb "Check your text messages tomorrow. Now get the fuck out of here."
-    sb "Check your text messages tomorrow. Now get the fuck out of here."
+    sb "Revisa tus mensajes de texto mañana. Ahora lárgate de aquí."
 
 # game/code/d09/extended/d09s07.rpy:681
 translate spanish d09s07_sb_talk_59c53f47:
 
     # sb "So, how did it go?"
-    sb "So, how did it go?"
+    sb "¿Entonces, cómo te fue?"
 
 # game/code/d09/extended/d09s07.rpy:682
 translate spanish d09s07_sb_talk_14425d2d:
 
     # mc "Well, I went to room 569 and raped a judge."
-    mc "Well, I went to room 569 and raped a judge."
+    mc "Bueno, fui a la habitación 569 y violé a una juez."
 
 # game/code/d09/extended/d09s07.rpy:684
 translate spanish d09s07_sb_talk_1f3cb0fd:
 
     # sb "You what?!{w} I sent you to room 469!!!"
-    sb "You what?!{w} I sent you to room 469!!!"
+    sb "¡¿Que qué?!{w} ¡Te mandé a la habitación 469!!!"
 
 # game/code/d09/extended/d09s07.rpy:685
 translate spanish d09s07_sb_talk_bf30aa71:
 
     # mc "No, you told me 569. You sent me to the wrong room and the wrong person!"
-    mc "No, you told me 569. You sent me to the wrong room and the wrong person!"
+    mc "No, me dijiste 569. ¡Me enviaste a la habitación y a la persona equivocada!"
 
 # game/code/d09/extended/d09s07.rpy:687
 translate spanish d09s07_sb_talk_8d3fb731:
 
     # sb "Shit!{w} Four-Sixty-Nine!"
-    sb "Shit!{w} Four-Sixty-Nine!"
+    sb "¡Mierda!{w} ¡Cuatro-Sesenta-Nueve!"
 
 # game/code/d09/extended/d09s07.rpy:689
 translate spanish d09s07_sb_talk_9968cc10:
 
     # sb "Like you should have been going for sixty nine!"
-    sb "Like you should have been going for sixty nine!"
+    sb "¡Como si tuvieras que ir por sesenta y nueve!"
 
 # game/code/d09/extended/d09s07.rpy:690
 translate spanish d09s07_sb_talk_8f9e986b:
 
     # mc "Could be, but you said 569."
-    mc "Could be, but you said 569."
+    mc "Podría ser, pero usted dijo 569."
 
 # game/code/d09/extended/d09s07.rpy:692
 translate spanish d09s07_sb_talk_6a27149f:
 
     # sb "Fucking Hell! And you raped her?!"
-    sb "Fucking Hell! And you raped her?!"
+    sb "Demonios! ¿Y la violaste?!"
 
 # game/code/d09/extended/d09s07.rpy:693
 translate spanish d09s07_sb_talk_0488530e:
 
     # mc "I only found out afterwards it was the wrong person!"
-    mc "I only found out afterwards it was the wrong person!"
+    mc "Sólo me enteré de que era la persona equivocada después de la violación."
 
 # game/code/d09/extended/d09s07.rpy:695
 translate spanish d09s07_sb_talk_01f360d7:
 
     # sb "Fuck!{w} Should we run? Did she call the police?"
-    sb "Fuck!{w} Should we run? Did she call the police?"
+    sb "¡Mierda!{w} ¿Deberíamos correr? ¿Ella llamó a la policía?"
 
 # game/code/d09/extended/d09s07.rpy:696
 translate spanish d09s07_sb_talk_2b0f70c0:
 
     # mc "I explained it to her. She was surprisingly chill about what happened."
-    mc "I explained it to her. She was surprisingly chill about what happened."
+    mc "Se lo expliqué. Ella estaba sorprendentemente tranquila sobre lo que pasó."
 
 # game/code/d09/extended/d09s07.rpy:697
 translate spanish d09s07_sb_talk_de0b8c9e:
 
     # sb "WTF? No way! How the hell did you manage that?"
-    sb "WTF? No way! How the hell did you manage that?"
+    sb "¿Qué carajo? ¡No puede ser! ¿Cómo diablos te las arreglaste?"
 
 # game/code/d09/extended/d09s07.rpy:698
 translate spanish d09s07_sb_talk_809253e6:
 
     # mc "Don't know. I'm done. You can go rape the woman in 469 if you want."
-    mc "Don't know. I'm done. You can go rape the woman in 469 if you want."
+    mc "No lo se. He terminado. Puedes violar a la mujer del 469 si quieres."
 
 # game/code/d09/extended/d09s07.rpy:700
 translate spanish d09s07_sb_talk_e6294543:
 
     # sb "Damn it.{w} Alright, give me the mask. I've got a strap-on in my glove compartment."
-    sb "Damn it.{w} Alright, give me the mask. I've got a strap-on in my glove compartment."
+    sb "Maldita sea.{w} Muy bien, dame la máscara. Tengo una correa en la guantera."
 
 # game/code/d09/extended/d09s07.rpy:706
 translate spanish d09s07_sb_talk_e8c335f5:
 
     # sb "So, how was it?"
-    sb "So, how was it?"
+    sb "¿Entonces, como estuvo?"
 
 # game/code/d09/extended/d09s07.rpy:707
 translate spanish d09s07_sb_talk_39340e8f:
 
     # mc "Strange? Is that enough?"
-    mc "Strange? Is that enough?"
+    mc "¿Extraño? ¿Es suficiente?"
 
 # game/code/d09/extended/d09s07.rpy:709
 translate spanish d09s07_sb_talk_ad79a373:
 
     # sb "Maybe... {w}I'll contact you tomorrow."
-    sb "Maybe... {w}I'll contact you tomorrow."
+    sb "Quizás... {w}Me pondré en contacto contigo mañana."
 
 translate spanish strings:
 
     # game/code/d09/extended/d09s07.rpy:158
     old "Kick in the Door"
-    new "Kick in the Door"
+    new "Patea la puerta"
 
     # game/code/d09/extended/d09s07.rpy:158
     old "I Won't Do This"
-    new "I Won't Do This"
+    new "No haré esto"
 
     # game/code/d09/extended/d09s07.rpy:242
     old "Fuck her face"
-    new "Fuck her face"
+    new "Folla su cara"
 
     # game/code/d09/extended/d09s07.rpy:242
     old "Stop This Now"
-    new "Stop This Now"
+    new "Detén esto ahora"
 
     # game/code/d09/extended/d09s07.rpy:300
     old "Shove your dick back into her mouth"
-    new "Shove your dick back into her mouth"
+    new "Mete tu polla de nuevo en su boca"
 
     # game/code/d09/extended/d09s07.rpy:300
     old "Change things up"
-    new "Change things up"
+    new "Cambia las cosas"
 
     # game/code/d09/extended/d09s07.rpy:365
     old "Fuck her pussy"
-    new "Fuck her pussy"
+    new "Fóllate su coño"
 
     # game/code/d09/extended/d09s07.rpy:365
     old "Stop This Now!"
-    new "Stop This Now!"
+    new "¡Deten esto ahora!"
 
     # game/code/d09/extended/d09s07.rpy:416
     old "Creampie the Judge"
-    new "Creampie the Judge"
+    new "La juez Creampie"
 
     # game/code/d09/extended/d09s07.rpy:416
     old "Flip her over"
-    new "Flip her over"
+    new "Voltéala"
 
