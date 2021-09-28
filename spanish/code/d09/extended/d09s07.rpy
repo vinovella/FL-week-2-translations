@@ -706,61 +706,61 @@ translate spanish d09s07_bjtorture_436ef5bb:
 translate spanish d09s07_bjtorture_0cf97b73:
 
     # mc "Fine. I hope your pussy is as inviting as your whore mouth."
-    mc "Fine. I hope your pussy is as inviting as your whore mouth."
+    mc "Bien. Espero que tu vagina sea tan atractiva como tu boca de puta."
 
 # game/code/d09/extended/d09s07.rpy:339
 translate spanish d09s07_bjtorture_4156b996:
 
     # mc "I hope your pussy is as inviting as your whore mouth."
-    mc "I hope your pussy is as inviting as your whore mouth."
+    mc "Espero que tu vagina sea tan atractiva como tu boca de puta."
 
 # game/code/d09/extended/d09s07.rpy:347
 translate spanish d09s07_part2_b7e24e8c:
 
     # mc "Let's make it more fun."
-    mc "Let's make it more fun."
+    mc "Hagamos que sea más divertido."
 
 # game/code/d09/extended/d09s07.rpy:349
 translate spanish d09s07_part2_12734915:
 
     # mc "I wanna see what else you've been hiding."
-    mc "I wanna see what else you've been hiding."
+    mc "Quiero ver qué más has estado ocultando."
 
 # game/code/d09/extended/d09s07.rpy:351
 translate spanish d09s07_part2_659f7335:
 
     # mc "Nice panties!"
-    mc "Nice panties!"
+    mc "¡Lindas bragas!"
 
 # game/code/d09/extended/d09s07.rpy:353
 translate spanish d09s07_part2_0e47dc07:
 
     # mc "Lets get this out of the way."
-    mc "Lets get this out of the way."
+    mc "Dejemos esto de lado."
 
 # game/code/d09/extended/d09s07.rpy:360
 translate spanish d09s07_part2_3763f71a:
 
     # mc "Well, look what we have here."
-    mc "Well, look what we have here."
+    mc "Bueno, mira lo que tenemos aquí."
 
 # game/code/d09/extended/d09s07.rpy:361
 translate spanish d09s07_part2_1fee38f0:
 
     # mc "You are bareass naked..."
-    mc "You are bareass naked..."
+    mc "Estás desnuda de pies a cabeza..."
 
 # game/code/d09/extended/d09s07.rpy:363
 translate spanish d09s07_part2_9e39659c:
 
     # mc "... and I have a raging hard-on"
-    mc "... and I have a raging hard-on"
+    mc "... y tengo una erección furiosa"
 
 # game/code/d09/extended/d09s07.rpy:364
 translate spanish d09s07_part2_30155efe:
 
     # jdg "No... {w}please, not that!"
-    jdg "No... {w}please, not that!"
+    jdg "No... {w}¡Por favor, eso no!"
 
 # game/code/d09/extended/d09s07.rpy:380
 translate spanish d09s07_sex_66238e65:
@@ -772,319 +772,319 @@ translate spanish d09s07_sex_66238e65:
 translate spanish d09s07_sex_3c28788b:
 
     # jdg "Oh fuck yes!"
-    jdg "Oh fuck yes!"
+    jdg "¡Oh, carajo, sí!"
 
 # game/code/d09/extended/d09s07.rpy:383
 translate spanish d09s07_sex_205806d6:
 
     # jdg "You're raping me!"
-    jdg "You're raping me!"
+    jdg "¡Me estás violando!"
 
 # game/code/d09/extended/d09s07.rpy:388
 translate spanish d09s07_sex_2b76221c:
 
     # jdg "You're actually raping me!"
-    jdg "You're actually raping me!"
+    jdg "¡Realmente me estás violando!"
 
 # game/code/d09/extended/d09s07.rpy:389
 translate spanish d09s07_sex_325ca484:
 
     # mc "Shut the fuck up, slut!"
-    mc "Shut the fuck up, slut!"
+    mc "¡Cállate, zorra!"
 
 # game/code/d09/extended/d09s07.rpy:390
 translate spanish d09s07_sex_dadd9c00:
 
     # mc "You know what I want to hear!"
-    mc "You know what I want to hear!"
+    mc "¡Ya sabes lo que quiero oír!"
 
 # game/code/d09/extended/d09s07.rpy:399
 translate spanish d09s07_sex_6cd3adff:
 
     # jdg "Please, I beg you!"
-    jdg "Please, I beg you!"
+    jdg "¡Por favor, te lo ruego!"
 
 # game/code/d09/extended/d09s07.rpy:400
 translate spanish d09s07_sex_b95e4793:
 
     # jdg "Whatever you do!"
-    jdg "Whatever you do!"
+    jdg "Lo que sea que hagas."
 
 # game/code/d09/extended/d09s07.rpy:401
 translate spanish d09s07_sex_3ed0be9b:
 
     # jdg "Don't stop fucking my slutty cunt!"
-    jdg "Don't stop fucking my slutty cunt!"
+    jdg "¡No dejes de follar mi vagina de cachonda!"
 
 # game/code/d09/extended/d09s07.rpy:410
 translate spanish d09s07_sex_7889f170:
 
     # mct "This clearly isn't working"
-    mct "This clearly isn't working"
+    mct "Esto claramente no está funcionando"
 
 # game/code/d09/extended/d09s07.rpy:411
 translate spanish d09s07_sex_3af67459:
 
     # mct "On the other hand, she might cum like this."
-    mct "On the other hand, she might cum like this."
+    mct "Por otro lado, podría correrse así."
 
 # game/code/d09/extended/d09s07.rpy:412
 translate spanish d09s07_sex_e850d760:
 
     # mct "And her pussy is so damn tight, I could cum too."
-    mct "And her pussy is so damn tight, I could cum too."
+    mct "Y su coño es tan jodidamente estrecho, que yo también podría correrme."
 
 # game/code/d09/extended/d09s07.rpy:434
 translate spanish d09s07_sex2_eb5a2d8a:
 
     # jdg "What happened?"
-    jdg "What happened?"
+    jdg "¿Qué pasó?"
 
 # game/code/d09/extended/d09s07.rpy:436
 translate spanish d09s07_sex2_e136bacb:
 
     # mc "You are enjoying this too much."
-    mc "You are enjoying this too much."
+    mc "Estás disfrutando demasiado de esto."
 
 # game/code/d09/extended/d09s07.rpy:438
 translate spanish d09s07_sex2_c814e392:
 
     # mc "Lets ramp things up."
-    mc "Lets ramp things up."
+    mc "Vamos a subir el ritmo."
 
 # game/code/d09/extended/d09s07.rpy:441
 translate spanish d09s07_sex2_c08978be:
 
     # jdg "Oh My Go-"
-    jdg "Oh My Go-"
+    jdg "Oh, mi Dio-..."
 
 # game/code/d09/extended/d09s07.rpy:443
 translate spanish d09s07_sex2_e3547230:
 
     # mc "Say the magic words!"
-    mc "Say the magic words!"
+    mc "¡Di las palabras mágicas!"
 
 # game/code/d09/extended/d09s07.rpy:444
 translate spanish d09s07_sex2_1f05afb4:
 
     # jdg "What words?"
-    jdg "What words?"
+    jdg "¿Qué palabras?"
 
 # game/code/d09/extended/d09s07.rpy:447
 translate spanish d09s07_sex2_ee4ed6e1:
 
     # mc "Popeye is not guilty."
-    mc "Popeye is not guilty."
+    mc "Popeye no es culpable."
 
 # game/code/d09/extended/d09s07.rpy:448
 translate spanish d09s07_sex2_0cee155d:
 
     # jdg "Popeye Is Not Guilty! Popeye Is Not Guilty!"
-    jdg "Popeye Is Not Guilty! Popeye Is Not Guilty!"
+    jdg "¡Popeye no es culpable! ¡Popeye no es culpable!"
 
 # game/code/d09/extended/d09s07.rpy:465
 translate spanish d09s07_end_91d8a70c:
 
     # mc "You okay?"
-    mc "You okay?"
+    mc "¿Estás bien?"
 
 # game/code/d09/extended/d09s07.rpy:469
 translate spanish d09s07_end_86bd6342:
 
     # jdg "I... {w}I don't know."
-    jdg "I... {w}I don't know."
+    jdg "Yo... {w}No lo sé."
 
 # game/code/d09/extended/d09s07.rpy:471
 translate spanish d09s07_end_cf68378e:
 
     # mc "Sorry, I guess that was too intense. I've never done this before."
-    mc "Sorry, I guess that was too intense. I've never done this before."
+    mc "Lo siento, creo que fue demasiado intenso. Nunca he hecho esto antes."
 
 # game/code/d09/extended/d09s07.rpy:473
 translate spanish d09s07_end_f5e68828:
 
     # jdg "I don't understand."
-    jdg "I don't understand."
+    jdg "No entiendo."
 
 # game/code/d09/extended/d09s07.rpy:474
 translate spanish d09s07_end_7588deb1:
 
     # mc "This whole thing is a little weird."
-    mc "This whole thing is a little weird."
+    mc "Todo esto es un poco extraño."
 
 # game/code/d09/extended/d09s07.rpy:475
 translate spanish d09s07_end_80fb6ca1:
 
     # jdg "Yeah..."
-    jdg "Yeah..."
+    jdg "Sí..."
 
 # game/code/d09/extended/d09s07.rpy:477
 translate spanish d09s07_end_31ef3229:
 
     # mc "Was it everything you wanted?"
-    mc "Was it everything you wanted?"
+    mc "¿Era todo lo que querías?"
 
 # game/code/d09/extended/d09s07.rpy:479
 translate spanish d09s07_end_94ad559a:
 
     # jdg "I... what?"
-    jdg "I... what?"
+    jdg "Yo... ¿qué?"
 
 # game/code/d09/extended/d09s07.rpy:480
 translate spanish d09s07_end_57a22681:
 
     # mc "You know, the whole rape roleplay thing?"
-    mc "You know, the whole rape roleplay thing?"
+    mc "¿Ya sabes, todo el asunto del juego de rol de la violación?"
 
 # game/code/d09/extended/d09s07.rpy:481
 translate spanish d09s07_end_e9598030:
 
     # jdg "Roleplay? What are you talking about?"
-    jdg "Roleplay? What are you talking about?"
+    jdg "Juego de rol? ¿De qué estás hablando?"
 
 # game/code/d09/extended/d09s07.rpy:483
 translate spanish d09s07_end_cbcf6bb4:
 
     # mc "Oh, fuck."
-    mc "Oh, fuck."
+    mc "Oh, carajo."
 
 # game/code/d09/extended/d09s07.rpy:484
 translate spanish d09s07_end_57cff260:
 
     # mc "Don't tell me... {w}You requested this, didn't you?"
-    mc "Don't tell me... {w}You requested this, didn't you?"
+    mc "No me digas... {w}Usted pidió esto, ¿no es así?"
 
 # game/code/d09/extended/d09s07.rpy:486
 translate spanish d09s07_end_956a76f8:
 
     # jdg "I didn't.{w}.. but maybe I should have."
-    jdg "I didn't.{w}.. but maybe I should have."
+    jdg "No lo hice.{w}.. pero quizás debería haberlo hecho."
 
 # game/code/d09/extended/d09s07.rpy:488
 translate spanish d09s07_end_12442001:
 
     # mc "Fuckfuckfuckfuckfuck"
-    mc "Fuckfuckfuckfuckfuck"
+    mc "Joder, joder, joder, joder, joder"
 
 # game/code/d09/extended/d09s07.rpy:490
 translate spanish d09s07_end_40777db7:
 
     # mc "I'm so sorry. I can't-"
-    mc "I'm so sorry. I can't-"
+    mc "Lo siento mucho. No puedo"
 
 # game/code/d09/extended/d09s07.rpy:491
 translate spanish d09s07_end_3eb6a03b:
 
     # jdg "Hey! Listen to me."
-    jdg "Hey! Listen to me."
+    jdg "¡Oye! Escúchame."
 
 # game/code/d09/extended/d09s07.rpy:493
 translate spanish d09s07_end_5718b307:
 
     # jdg "No one has ever fucked me like that. {w}You were amazing!"
-    jdg "No one has ever fucked me like that. {w}You were amazing!"
+    jdg "Nunca nadie me ha cogido así. {w}¡Estuviste increíble!"
 
 # game/code/d09/extended/d09s07.rpy:494
 translate spanish d09s07_end_b625b180:
 
     # mc "I...{w} huh?"
-    mc "I...{w} huh?"
+    mc "Yo...{w} ¿eh?"
 
 # game/code/d09/extended/d09s07.rpy:495
 translate spanish d09s07_end_923531c6:
 
     # jdg "I mean, sure, you were raping the shit out of me."
-    jdg "I mean, sure, you were raping the shit out of me."
+    jdg "Quiero decir, claro, me estabas violando."
 
 # game/code/d09/extended/d09s07.rpy:496
 translate spanish d09s07_end_04d36be1:
 
     # jdg "It was terrifying as hell, but..."
-    jdg "It was terrifying as hell, but..."
+    jdg "Fue aterrador como el infierno, pero..."
 
 # game/code/d09/extended/d09s07.rpy:498
 translate spanish d09s07_end_833184ec:
 
     # mc "You're kidding me?"
-    mc "You're kidding me?"
+    mc "¿Estás bromeando?"
 
 # game/code/d09/extended/d09s07.rpy:499
 translate spanish d09s07_end_7b4b5982:
 
     # jdg "I liked it."
-    jdg "I liked it."
+    jdg "Me gustó."
 
 # game/code/d09/extended/d09s07.rpy:500
 translate spanish d09s07_end_0336eadd:
 
     # mct "This is so incredibly fucked up."
-    mct "This is so incredibly fucked up."
+    mct "Esto es tan increíblemente jodido."
 
 # game/code/d09/extended/d09s07.rpy:502
 translate spanish d09s07_end_84987fdc:
 
     # mct "For fucks' sake, is she masturbating right now?"
-    mct "For fucks' sake, is she masturbating right now?"
+    mct "Por el amor de Dios, ¿se está masturbando ahora mismo?"
 
 # game/code/d09/extended/d09s07.rpy:503
 translate spanish d09s07_end_24bcc69a:
 
     # jdg "I don't suppose you've got another round in you?"
-    jdg "I don't suppose you've got another round in you?"
+    jdg "¿Supongo que no tienes otra ronda?"
 
 # game/code/d09/extended/d09s07.rpy:508
 translate spanish d09s07_end_24aca9fb:
 
     # jdg "Yeah.{w} Just give me a minute..."
-    jdg "Yeah.{w} Just give me a minute..."
+    jdg "Si.{w} Sólo dame un minuto..."
 
 # game/code/d09/extended/d09s07.rpy:512
 translate spanish d09s07_end_9abf2268:
 
     # mc "Was it everything you were hoping for?"
-    mc "Was it everything you were hoping for?"
+    mc "¿Fue todo lo que esperabas?"
 
 # game/code/d09/extended/d09s07.rpy:514
 translate spanish d09s07_end_058a0175:
 
     # jdg "Definitely. Thanks."
-    jdg "Definitely. Thanks."
+    jdg "Definitivamente. Gracias."
 
 # game/code/d09/extended/d09s07.rpy:515
 translate spanish d09s07_end_a898ccb5:
 
     # jdg "Feel free to help yourself to a drink or something."
-    jdg "Feel free to help yourself to a drink or something."
+    jdg "Siéntete libre de servirte una bebida o algo."
 
 # game/code/d09/extended/d09s07.rpy:517
 translate spanish d09s07_end_287081de:
 
     # mc "No, I am good."
-    mc "No, I am good."
+    mc "No, estoy bien."
 
 # game/code/d09/extended/d09s07.rpy:519
 translate spanish d09s07_end_d261e478:
 
     # jdg "You're welcome to find me again anytime, anywhere. {w}The more unexpected, the better."
-    jdg "You're welcome to find me again anytime, anywhere. {w}The more unexpected, the better."
+    jdg "Eres bienvenido a encontrarme de nuevo en cualquier momento y en cualquier lugar. {w}Cuanto más inesperado, mejor."
 
 # game/code/d09/extended/d09s07.rpy:520
 translate spanish d09s07_end_2a67fcb3:
 
     # mc "I'll keep that in mind."
-    mc "I'll keep that in mind."
+    mc "Lo tendré en cuenta."
 
 # game/code/d09/extended/d09s07.rpy:521
 translate spanish d09s07_end_2737784e:
 
     # jdg "Do you mind if I jill off here for a bit?"
-    jdg "Do you mind if I jill off here for a bit?"
+    jdg "¿Te importa si me alejo un poco de aquí?"
 
 # game/code/d09/extended/d09s07.rpy:529
 translate spanish d09s07_end_efe5a126:
 
     # mc "It's your hotel room."
-    mc "It's your hotel room."
+    mc "Es tu habitación de hotel."
 
 # game/code/d09/extended/d09s07.rpy:531
 translate spanish d09s07_end_e52ac2b0:
@@ -1096,61 +1096,61 @@ translate spanish d09s07_end_e52ac2b0:
 translate spanish d09s07_end_ae709812:
 
     # mct "That's really impressive."
-    mct "That's really impressive."
+    mct "Es realmente impresionante."
 
 # game/code/d09/extended/d09s07.rpy:535
 translate spanish d09s07_end_ce4bc81c:
 
     # mc "I really ought to be going."
-    mc "I really ought to be going."
+    mc "Realmente debería irme."
 
 # game/code/d09/extended/d09s07.rpy:539
 translate spanish d09s07_end_bc722708:
 
     # jdg "Okay, well... do you remember who I am?"
-    jdg "Okay, well... do you remember who I am?"
+    jdg "Bien, bueno... ¿recuerdas quién soy?"
 
 # game/code/d09/extended/d09s07.rpy:540
 translate spanish d09s07_end_e6c6a17d:
 
     # mc "Uh, yes. Your posters are all over town. Again, I'm really sorry about the confusion."
-    mc "Uh, yes. Your posters are all over town. Again, I'm really sorry about the confusion."
+    mc "Uh, sí. Tus carteles están por toda la ciudad. De nuevo, siento mucho la confusión."
 
 # game/code/d09/extended/d09s07.rpy:542
 translate spanish d09s07_end_6250a6df:
 
     # jdg "Find me again sometime. The more unexpected the better."
-    jdg "Find me again sometime. The more unexpected the better."
+    jdg "Encuéntrame de nuevo en algún momento. Cuanto más inesperado, mejor."
 
 # game/code/d09/extended/d09s07.rpy:543
 translate spanish d09s07_end_3bc965e7:
 
     # jdg "Maybe next time you could bring a friend to help you?"
-    jdg "Maybe next time you could bring a friend to help you?"
+    jdg "¿Quizás la próxima vez puedas traer a un amigo para que te ayude?"
 
 # game/code/d09/extended/d09s07.rpy:545
 translate spanish d09s07_end_69b0ce1b:
 
     # mc "Sure, sure. I'll be in touch."
-    mc "Sure, sure. I'll be in touch."
+    mc "Claro, claro. Estaré en contacto."
 
 # game/code/d09/extended/d09s07.rpy:546
 translate spanish d09s07_end_6939259b:
 
     # jdg "Looking forward to it."
-    jdg "Looking forward to it."
+    jdg "Lo espero con ansias."
 
 # game/code/d09/extended/d09s07.rpy:550
 translate spanish d09s07_end_8f8b0366:
 
     # jdg "Well, if you ever need a favor, you know who I am. {w}And what I want."
-    jdg "Well, if you ever need a favor, you know who I am. {w}And what I want."
+    jdg "Bueno, si alguna vez necesitas un favor, ya sabes quién soy. {w}Y lo que quiero."
 
 # game/code/d09/extended/d09s07.rpy:551
 translate spanish d09s07_end_70aeb2ba:
 
     # mc "This was kinda a one time deal, but I'll keep that in mind."
-    mc "This was kinda a one time deal, but I'll keep that in mind."
+    mc "Este fue un trato de una sola vez, pero lo tendré en cuenta."
 
 # game/code/d09/extended/d09s07.rpy:553
 translate spanish d09s07_end_812349f3:
