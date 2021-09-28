@@ -310,91 +310,91 @@ translate spanish d09s07_f745b958:
 translate spanish d09s07_d98a1a35:
 
     # mc "I'm listening."
-    mc "I'm listening."
+    mc "Le escucho."
 
 # game/code/d09/extended/d09s07.rpy:144
 translate spanish d09s07_e1ad7efa:
 
     # jdg "My soft safeword is kumquat.{w} Kumquat. Can you remember that?"
-    jdg "My soft safeword is kumquat.{w} Kumquat. Can you remember that?"
+    jdg "Mi palabra clave es kumquat.{w} Kumquat. ¿Puedes recordarlo?"
 
 # game/code/d09/extended/d09s07.rpy:145
 translate spanish d09s07_51404530:
 
     # mc "Yeah, sure. Kumquat."
-    mc "Yeah, sure. Kumquat."
+    mc "Sí, seguro. Kumquat."
 
 # game/code/d09/extended/d09s07.rpy:146
 translate spanish d09s07_46152c0a:
 
     # jdg "If I say kumquat, then whatever we are doing stops temporarily."
-    jdg "If I say kumquat, then whatever we are doing stops temporarily."
+    jdg "Si yo digo kumquat, entonces cualquier cosa que estemos haciendo se detiene temporalmente."
 
 # game/code/d09/extended/d09s07.rpy:147
 translate spanish d09s07_e7811348:
 
     # mc "Not permanently?"
-    mc "Not permanently?"
+    mc "¿No permanentemente?"
 
 # game/code/d09/extended/d09s07.rpy:149
 translate spanish d09s07_e65f240b:
 
     # jdg "No. My hard safeword is a phrase. \"Popeye is not guilty.\" You get me to say that, this game is over."
-    jdg "No. My hard safeword is a phrase. \"Popeye is not guilty.\" You get me to say that, this game is over."
+    jdg "No. Mi palabra clave es una frase. \"Popeye no es culpable.\" Si me haces decir eso, este juego se acabó."
 
 # game/code/d09/extended/d09s07.rpy:150
 translate spanish d09s07_f5910228:
 
     # mc "Right. \"Popeye is not guilty.\" I was told that."
-    mc "Right. \"Popeye is not guilty.\" I was told that."
+    mc "Correcto. \"Popeye no es culpable.\" Eso me dijeron."
 
 # game/code/d09/extended/d09s07.rpy:151
 translate spanish d09s07_66953696:
 
     # jdg "Your goal is to get me to say that \"Popeye is not guilty\", preferably without forcing me to say kumquat."
-    jdg "Your goal is to get me to say that \"Popeye is not guilty\", preferably without forcing me to say kumquat."
+    jdg "Tu objetivo es hacerme decir eso \"Popeye no es culpable\", preferiblemente sin obligarme a decir kumquat."
 
 # game/code/d09/extended/d09s07.rpy:152
 translate spanish d09s07_c7510e07:
 
     # mc "Are there any other rules?"
-    mc "Are there any other rules?"
+    mc "¿Existen otras reglas?"
 
 # game/code/d09/extended/d09s07.rpy:154
 translate spanish d09s07_a4203e4c:
 
     # jdg "Just those two. Do you need to write them down?"
-    jdg "Just those two. Do you need to write them down?"
+    jdg "Sólo esas dos. ¿Necesitas escribirlas?"
 
 # game/code/d09/extended/d09s07.rpy:155
 translate spanish d09s07_b0016dd4:
 
     # mc "I'm actually in college."
-    mc "I'm actually in college."
+    mc "En realidad estoy en la universidad."
 
 # game/code/d09/extended/d09s07.rpy:156
 translate spanish d09s07_30a60e90:
 
     # jdg "Good for you. {w}So, are you going to do something or just fucking stand there all night?"
-    jdg "Good for you. {w}So, are you going to do something or just fucking stand there all night?"
+    jdg "Bien por ti. {w}Entonces, ¿vas a hacer algo o te vas a quedar ahí parado toda la noche?"
 
 # game/code/d09/extended/d09s07.rpy:174
 translate spanish d09s07_part1_44dd89e2:
 
     # jdg "My goodness!"
-    jdg "My goodness!"
+    jdg "¡Dios mío!"
 
 # game/code/d09/extended/d09s07.rpy:178
 translate spanish d09s07_part1_43d8f966:
 
     # mc "Alright. If we're going to do this, let's do it right!"
-    mc "Alright. If we're going to do this, let's do it right!"
+    mc "De acuerdo. Si vamos a hacer esto, ¡hagámoslo bien!"
 
 # game/code/d09/extended/d09s07.rpy:187
 translate spanish d09s07_part1_29d25398:
 
     # mc "Let's see what you've got here."
-    mc "Let's see what you've got here."
+    mc "Veamos lo que tienes aquí."
 
 # game/code/d09/extended/d09s07.rpy:189
 translate spanish d09s07_part1_c96642c6:
@@ -406,109 +406,109 @@ translate spanish d09s07_part1_c96642c6:
 translate spanish d09s07_part1_75274bc4:
 
     # jdg "You'll never know, you piece of shit!"
-    jdg "You'll never know, you piece of shit!"
+    jdg "¡Nunca lo sabrás, pedazo de mierda!"
 
 # game/code/d09/extended/d09s07.rpy:192
 translate spanish d09s07_part1_fdd96405:
 
     # mc "You know what I want?"
-    mc "You know what I want?"
+    mc "¿Sabes lo que quiero?"
 
 # game/code/d09/extended/d09s07.rpy:194
 translate spanish d09s07_part1_2b848459:
 
     # mc "I don't want your sagging tits!"
-    mc "I don't want your sagging tits!"
+    mc "¡No quiero tus tetas caídas!"
 
 # game/code/d09/extended/d09s07.rpy:198
 translate spanish d09s07_part1_723c8655:
 
     # mc "Or your frigid cunt!"
-    mc "Or your frigid cunt!"
+    mc "¡O tu vagina frígida!"
 
 # game/code/d09/extended/d09s07.rpy:200
 translate spanish d09s07_part1_e73ed796:
 
     # mc "I just want you to say..."
-    mc "I just want you to say..."
+    mc "Sólo quiero que digas..."
 
 # game/code/d09/extended/d09s07.rpy:202
 translate spanish d09s07_part1_4d5f5d74:
 
     # mc "...that sailor is not guilty!"
-    mc "...that sailor is not guilty!"
+    mc "...¡ese marinero es inocente!"
 
 # game/code/d09/extended/d09s07.rpy:208
 translate spanish d09s07_part1_f3c26ddb:
 
     # jdg "I'll never submit to your threats!"
-    jdg "I'll never submit to your threats!"
+    jdg "¡Nunca me someteré a tus amenazas!"
 
 # game/code/d09/extended/d09s07.rpy:211
 translate spanish d09s07_part1_778be498:
 
     # mc "Lets see how long you can keep this up."
-    mc "Lets see how long you can keep this up."
+    mc "Veamos cuánto tiempo puedes mantener esto."
 
 # game/code/d09/extended/d09s07.rpy:213
 translate spanish d09s07_part1_77164c8b:
 
     # jdg "Also, don't bruise my face. It will be difficult to explain."
-    jdg "Also, don't bruise my face. It will be difficult to explain."
+    jdg "Además, no me lastimes la cara. Será difícil de explicar."
 
 # game/code/d09/extended/d09s07.rpy:215
 translate spanish d09s07_part1_5a800c67:
 
     # mc "No promises. {w}That wasn't in the rules."
-    mc "No promises. {w}That wasn't in the rules."
+    mc "No lo prometo. {w}Eso no estaba en las reglas."
 
 # game/code/d09/extended/d09s07.rpy:218
 translate spanish d09s07_part1_918c616c:
 
     # mc "Let's get rid of this."
-    mc "Let's get rid of this."
+    mc "Deshagámonos de esto."
 
 # game/code/d09/extended/d09s07.rpy:220
 translate spanish d09s07_part1_272e7808:
 
     # jdg "You fucking basta-"
-    jdg "You fucking basta-"
+    jdg "Maldito basta-"
 
 # game/code/d09/extended/d09s07.rpy:222
 translate spanish d09s07_part1_8d9b77db:
 
     # mc "Hmm. Pretty nice."
-    mc "Hmm. Pretty nice."
+    mc "Hmm. Bastante agradable."
 
 # game/code/d09/extended/d09s07.rpy:224
 translate spanish d09s07_part1_a8751f4c:
 
     # mc "Now let's get the real show started."
-    mc "Now let's get the real show started."
+    mc "Ahora vamos a empezar el verdadero espectáculo."
 
 # game/code/d09/extended/d09s07.rpy:236
 translate spanish d09s07_part1_9b34df49:
 
     # jdg "Holy Shit!"
-    jdg "Holy Shit!"
+    jdg "¡Mierda!"
 
 # game/code/d09/extended/d09s07.rpy:238
 translate spanish d09s07_part1_626d4ab8:
 
     # mc "I am sure you can't wait to taste it."
-    mc "I am sure you can't wait to taste it."
+    mc "Estoy seguro de que no puedes esperar a probarlo."
 
 # game/code/d09/extended/d09s07.rpy:240
 translate spanish d09s07_part1_bc0db522:
 
     # jdg "Oh, fuck. Are you hard already?"
-    jdg "Oh, fuck. Are you hard already?"
+    jdg "Oh, carajo. ¿Ya se te ha puesto dura?"
 
 # game/code/d09/extended/d09s07.rpy:254
 translate spanish d09s07_bj_80744895:
 
     # mc "That's the last I'm going to hear from you...{w} for a little while"
-    mc "That's the last I'm going to hear from you...{w} for a little while"
+    mc "Eso es lo último que voy a escuchar de ti...{w} por un tiempo"
 
 # game/code/d09/extended/d09s07.rpy:256
 translate spanish d09s07_bj_bace6fe7:
@@ -520,49 +520,49 @@ translate spanish d09s07_bj_bace6fe7:
 translate spanish d09s07_bj_c17ef8ec:
 
     # mc "What's that?"
-    mc "What's that?"
+    mc "¿Qué es eso?"
 
 # game/code/d09/extended/d09s07.rpy:258
 translate spanish d09s07_bj_c2b89c00:
 
     # mc "You can't speak?"
-    mc "You can't speak?"
+    mc "¿No puedes hablar?"
 
 # game/code/d09/extended/d09s07.rpy:259
 translate spanish d09s07_bj_cbf3bf89:
 
     # mc "Is it because my cock is balls deep in your whore mouth?"
-    mc "Is it because my cock is balls deep in your whore mouth?"
+    mc "¿Es porque mi polla está profundamente metida en tu boca de puta?"
 
 # game/code/d09/extended/d09s07.rpy:264
 translate spanish d09s07_bj_825653e1:
 
     # mc "Well, I guess I should give you a chance to breathe."
-    mc "Well, I guess I should give you a chance to breathe."
+    mc "Bueno, supongo que debería darte la oportunidad de respirar."
 
 # game/code/d09/extended/d09s07.rpy:265
 translate spanish d09s07_bj_25441248:
 
     # mc "Sometime before you pass out."
-    mc "Sometime before you pass out."
+    mc "En algún momento antes de que te desmayes."
 
 # game/code/d09/extended/d09s07.rpy:266
 translate spanish d09s07_bj_83991a96:
 
     # mc "Although..."
-    mc "Although..."
+    mc "Aunque..."
 
 # game/code/d09/extended/d09s07.rpy:267
 translate spanish d09s07_bj_aff072e3:
 
     # mc "Oh, fine."
-    mc "Oh, fine."
+    mc "Oh, está bien."
 
 # game/code/d09/extended/d09s07.rpy:272
 translate spanish d09s07_bj_9a762b38:
 
     # jdg "Gah!"
-    jdg "Gah!"
+    jdg "¡Ay!"
 
 # game/code/d09/extended/d09s07.rpy:273
 translate spanish d09s07_bj_77b66b1d:
@@ -574,115 +574,115 @@ translate spanish d09s07_bj_77b66b1d:
 translate spanish d09s07_bj_499b27db:
 
     # mc "Can you breathe okay?"
-    mc "Can you breathe okay?"
+    mc "¿Puedes respirar bien?"
 
 # game/code/d09/extended/d09s07.rpy:276
 translate spanish d09s07_bj_c5fc2c7e:
 
     # jdg "Yes."
-    jdg "Yes."
+    jdg "Si."
 
 # game/code/d09/extended/d09s07.rpy:278
 translate spanish d09s07_bj_f930667f:
 
     # mc "Then here we go again."
-    mc "Then here we go again."
+    mc "Entonces aquí vamos de nuevo."
 
 # game/code/d09/extended/d09s07.rpy:281
 translate spanish d09s07_bj_6c3780d7:
 
     # mc "I could keep this up all night."
-    mc "I could keep this up all night."
+    mc "Podría seguir con esto toda la noche."
 
 # game/code/d09/extended/d09s07.rpy:282
 translate spanish d09s07_bj_ae48211d:
 
     # mc "Have you ever heard of waterboarding?"
-    mc "Have you ever heard of waterboarding?"
+    mc "¿Has oído hablar alguna vez del ahogo simulado?"
 
 # game/code/d09/extended/d09s07.rpy:283
 translate spanish d09s07_bj_6abe67cc:
 
     # mc "It's considered \"Not Torture\" by certain governments."
-    mc "It's considered \"Not Torture\" by certain governments."
+    mc "Es considerado \"No Tortura\" por algunos gobiernos."
 
 # game/code/d09/extended/d09s07.rpy:284
 translate spanish d09s07_bj_41e35daa:
 
     # mc "The idea is that you shove a dirty towel down someone's throat all the way to the point that it fills both of their lungs."
-    mc "The idea is that you shove a dirty towel down someone's throat all the way to the point that it fills both of their lungs."
+    mc "La idea es introducir una toalla sucia en la garganta de alguien hasta llenar sus dos pulmones."
 
 # game/code/d09/extended/d09s07.rpy:289
 translate spanish d09s07_bj_e077c458:
 
     # mc "Then you soak the towel in water."
-    mc "Then you soak the towel in water."
+    mc "A continuación, empapa la toalla en agua."
 
 # game/code/d09/extended/d09s07.rpy:290
 translate spanish d09s07_bj_2fa1c866:
 
     # mc "It gives the impression of drowning."
-    mc "It gives the impression of drowning."
+    mc "Da la impresión de ahogarse."
 
 # game/code/d09/extended/d09s07.rpy:291
 translate spanish d09s07_bj_1df29fb5:
 
     # mc "Not just the impression - as far as anyone is concerned, it is basically lung failure."
-    mc "Not just the impression - as far as anyone is concerned, it is basically lung failure."
+    mc "No sólo la impresión - en lo que respecta a cualquier persona, es básicamente la insuficiencia pulmonar."
 
 # game/code/d09/extended/d09s07.rpy:292
 translate spanish d09s07_bj_9660cd0d:
 
     # mc "Then you pull out the towel."
-    mc "Then you pull out the towel."
+    mc "Luego sacas la toalla."
 
 # game/code/d09/extended/d09s07.rpy:297
 translate spanish d09s07_bj_2f2624b9:
 
     # jdg "*coughs*"
-    jdg "*coughs*"
+    jdg "*tos*"
 
 # game/code/d09/extended/d09s07.rpy:298
 translate spanish d09s07_bj_6d7ac427:
 
     # jdg "That violates the Geneva Convention."
-    jdg "That violates the Geneva Convention."
+    jdg "Eso viola la Convención de Ginebra."
 
 # game/code/d09/extended/d09s07.rpy:299
 translate spanish d09s07_bj_a3d41786:
 
     # mc "Good thing that doesn't apply to us."
-    mc "Good thing that doesn't apply to us."
+    mc "Menos mal que eso no se aplica a nosotros."
 
 # game/code/d09/extended/d09s07.rpy:310
 translate spanish d09s07_bjtorture_8d9ce8b9:
 
     # jdg "No more! No more!"
-    jdg "No more! No more!"
+    jdg "¡No más! ¡No más!"
 
 # game/code/d09/extended/d09s07.rpy:313
 translate spanish d09s07_bjtorture_7118439c:
 
     # mc "You didn't say the magic words."
-    mc "You didn't say the magic words."
+    mc "No has dicho las palabras mágicas."
 
 # game/code/d09/extended/d09s07.rpy:321
 translate spanish d09s07_bjtorture_7b019173:
 
     # mc "Damn! It's like your face was meant for fucking."
-    mc "Damn! It's like your face was meant for fucking."
+    mc "¡Maldita sea! Es como si tu cara estuviera hecha para follar."
 
 # game/code/d09/extended/d09s07.rpy:326
 translate spanish d09s07_bjtorture_0797ebd4:
 
     # mc "I've never seen something so inviting as your mouth."
-    mc "I've never seen something so inviting as your mouth."
+    mc "Nunca he visto algo tan atractivo como tu boca."
 
 # game/code/d09/extended/d09s07.rpy:327
 translate spanish d09s07_bjtorture_920af2d7:
 
     # mc "If I'm not careful, I'm going to drop my first load down your throat."
-    mc "If I'm not careful, I'm going to drop my first load down your throat."
+    mc "Si no tengo cuidado, voy a dejar caer mi primera carga en tu garganta."
 
 # game/code/d09/extended/d09s07.rpy:333
 translate spanish d09s07_bjtorture_a61571ac:
@@ -694,13 +694,13 @@ translate spanish d09s07_bjtorture_a61571ac:
 translate spanish d09s07_bjtorture_23b109a2:
 
     # mc "Do you want me to stop, or just change things up a bit?"
-    mc "Do you want me to stop, or just change things up a bit?"
+    mc "¿Quieres que me detenga o que cambie un poco las cosas?"
 
 # game/code/d09/extended/d09s07.rpy:335
 translate spanish d09s07_bjtorture_436ef5bb:
 
     # jdg "I said, \"Kumquat\"."
-    jdg "I said, \"Kumquat\"."
+    jdg "Dije, \"Kumquat\"."
 
 # game/code/d09/extended/d09s07.rpy:336
 translate spanish d09s07_bjtorture_0cf97b73:
