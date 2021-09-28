@@ -4,151 +4,151 @@
 translate spanish d09s07_e733d4b9:
 
     # "After short trip [mcname] and Samiya stop near a hotel's entrance."
-    "After short trip [mcname] and Samiya stop near a hotel's entrance."
+    "Después de un viaje corto [mcname] and Samiya se detienen cerca de la entrada de un hotel."
 
 # game/code/d09/extended/d09s07.rpy:56
 translate spanish d09s07_a349e3dc:
 
     # mct "Now I need to meet Samiya for this strange task... {w}I guess there is no turning back."
-    mct "Now I need to meet Samiya for this strange task... {w}I guess there is no turning back."
+    mct "Ahora necesito encontrarme con Samiya para esta extraña tarea... {w}Supongo que no hay vuelta atrás."
 
 # game/code/d09/extended/d09s07.rpy:59
 translate spanish d09s07_7c2e389c:
 
     # mc "Alright. So, what are we doing here?"
-    mc "Alright. So, what are we doing here?"
+    mc "Bien. Entonces, que estamos haciendo aqui?"
 
 # game/code/d09/extended/d09s07.rpy:60
 translate spanish d09s07_d770a6b1:
 
     # sb "Good news. You get to rape somebody."
-    sb "Good news. You get to rape somebody."
+    sb "Buenas noticias. Puedes violar a alguien."
 
 # game/code/d09/extended/d09s07.rpy:61
 translate spanish d09s07_5d3ca408:
 
     # mc "What the Fuck? I'm not doing that."
-    mc "What the Fuck? I'm not doing that."
+    mc "¿Qué carajo? No voy a hacer eso."
 
 # game/code/d09/extended/d09s07.rpy:63
 translate spanish d09s07_876cc8c2:
 
     # sb "Relax. I'm getting paid for this."
-    sb "Relax. I'm getting paid for this."
+    sb "Relájate. Me pagan por esto.."
 
 # game/code/d09/extended/d09s07.rpy:64
 translate spanish d09s07_b3e774b1:
 
     # mc "That doesn't make it any better."
-    mc "That doesn't make it any better."
+    mc "eso no lo hace mejor."
 
 # game/code/d09/extended/d09s07.rpy:66
 translate spanish d09s07_7b218c07:
 
     # sb "I mean, she's paying for this."
-    sb "I mean, she's paying for this."
+    sb "Quiero decir, ella está pagando por esto."
 
 # game/code/d09/extended/d09s07.rpy:67
 translate spanish d09s07_004b029a:
 
     # mc "Huh? Someone is paying you to rape... {w}herself?"
-    mc "Huh? Someone is paying you to rape... {w}herself?"
+    mc "¿Eh? ¿Alguien te está pagando para que la violes... {w}a ella misma?"
 
 # game/code/d09/extended/d09s07.rpy:69
 translate spanish d09s07_8126f0c0:
 
     # sb "Well, she paying me for a guy or guys to rape her. She calls it forced sexual roleplay."
-    sb "Well, she paying me for a guy or guys to rape her. She calls it forced sexual roleplay."
+    sb "¡Bueno!, ella me esta pagando para que un chico o chicos la violen. Ella lo llama juego de roles sexual forzado."
 
 # game/code/d09/extended/d09s07.rpy:70
 translate spanish d09s07_f4bf12ce:
 
     # mc "This sounds insane."
-    mc "This sounds insane."
+    mc "Esto suena loco."
 
 # game/code/d09/extended/d09s07.rpy:71
 translate spanish d09s07_c00ba241:
 
     # sb "You're still here."
-    sb "You're still here."
+    sb "Sigues aqui."
 
 # game/code/d09/extended/d09s07.rpy:72
 translate spanish d09s07_e0561b49:
 
     # mc "I'm not a rapist."
-    mc "I'm not a rapist."
+    mc "No soy violador."
 
 # game/code/d09/extended/d09s07.rpy:74
 translate spanish d09s07_31cee9e7:
 
     # sb "Rape roleplay-ist... {w}and you're still listening."
-    sb "Rape roleplay-ist... {w}and you're still listening."
+    sb "Es juego de roles de violación... {w}y sigues escuchando."
 
 # game/code/d09/extended/d09s07.rpy:75
 translate spanish d09s07_a949d20e:
 
     # mc "You're sitting in a coffee shop and the guy at the next table starts telling you about his experiences with alien abduction."
-    mc "You're sitting in a coffee shop and the guy at the next table starts telling you about his experiences with alien abduction."
+    mc "Estás sentado en una cafetería y el chico de la mesa de al lado comienza a contarte sus experiencias con el secuestro alienígena.."
 
 # game/code/d09/extended/d09s07.rpy:76
 translate spanish d09s07_df68be80:
 
     # mc "You don't believe him, but you keep listening."
-    mc "You don't believe him, but you keep listening."
+    mc "Tu no le crees, pero sigues escuchando."
 
 # game/code/d09/extended/d09s07.rpy:78
 translate spanish d09s07_60c432b3:
 
     # sb "Okay, so let me tell you about this abduction."
-    sb "Okay, so let me tell you about this abduction."
+    sb "Bien, déjame contarte sobre este secuestro."
 
 # game/code/d09/extended/d09s07.rpy:79
 translate spanish d09s07_51ed2154:
 
     # mc "... {w}I'm listening."
-    mc "... {w}I'm listening."
+    mc "... {w}Te escucho."
 
 # game/code/d09/extended/d09s07.rpy:80
 translate spanish d09s07_00c6d17b:
 
     # sb "You go knock on her door. She opens it. You kick in the door."
-    sb "You go knock on her door. She opens it. You kick in the door."
+    sb "Vas a tocar a su puerta. Ella abre la puerta. Pateas la puerta."
 
 # game/code/d09/extended/d09s07.rpy:81
 translate spanish d09s07_554c781f:
 
     # mc "Like hell. No way."
-    mc "Like hell. No way."
+    mc Como loco. De ninguna manera."
 
 # game/code/d09/extended/d09s07.rpy:83
 translate spanish d09s07_f1ecb14d:
 
     # sb "It's not a crime. She's literally asked for it."
-    sb "It's not a crime. She's literally asked for it."
+    sb "No es un crimen. Ella literalmente lo pidió."
 
 # game/code/d09/extended/d09s07.rpy:85
 translate spanish d09s07_3a8bca94:
 
     # mc "So you say. {w}No, I need to hear it from her first."
-    mc "So you say. {w}No, I need to hear it from her first."
+    mc "Eso es lo que dices.. {w}No, necesito escucharlo de ella primero."
 
 # game/code/d09/extended/d09s07.rpy:86
 translate spanish d09s07_9a1a0502:
 
     # sb "Fine, tell her that I sent you, or whatever makes you happy. Then kick in the door."
-    sb "Fine, tell her that I sent you, or whatever makes you happy. Then kick in the door."
+    sb "Muy bien, dile que te envié yo, o lo que te haga feliz. Luego patea la puerta."
 
 # game/code/d09/extended/d09s07.rpy:88
 translate spanish d09s07_44b96f72:
 
     # sb "Your goal is simple. Get her to say that \"Popeye is Not Guilty\"."
-    sb "Your goal is simple. Get her to say that \"Popeye is Not Guilty\"."
+    sb "Tu objetivo es simple. Haz que ella diga \"Popeye No es Culpable\"."
 
 # game/code/d09/extended/d09s07.rpy:89
 translate spanish d09s07_2689b56d:
 
     # mc "That's it?"
-    mc "That's it?"
+    mc "¿Eso es todo?"
 
 # game/code/d09/extended/d09s07.rpy:91
 translate spanish d09s07_d06e2d44:
