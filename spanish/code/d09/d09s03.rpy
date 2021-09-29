@@ -4,175 +4,175 @@
 translate spanish d09s03_79966fa3:
 
     # mct "Ok, at least I had some progress with Samiya. That is giving me hope to actually get back Stacy's luggage."
-    mct "Ok, at least I had some progress with Samiya. That is giving me hope to actually get back Stacy's luggage."
+    mct "Ok, al menos tuve algún progreso con Samiya. Eso me da esperanzas de recuperar el equipaje de Stacy."
 
 # game/code/d09/d09s03.rpy:53
 translate spanish d09s03_af4f853b:
 
     # mct "Now is the time for our date with Lydia!"
-    mct "Now is the time for our date with Lydia!"
+    mct "¡Ahora es el momento de nuestra cita con Lydia!"
 
 # game/code/d09/d09s03.rpy:55
 translate spanish d09s03_d1208a1e:
 
     # mc "Sorry that I fell asleep on you last night."
-    mc "Sorry that I fell asleep on you last night."
+    mc "Siento haberme quedado dormido sobre ti anoche."
 
 # game/code/d09/d09s03.rpy:56
 translate spanish d09s03_08eb0f14:
 
     # lc "No worries. I hope you had pleasant dreams."
-    lc "No worries. I hope you had pleasant dreams."
+    lc "No te preocupes. Espero que hayas tenido sueños agradables."
 
 # game/code/d09/d09s03.rpy:58
 translate spanish d09s03_a509486c:
 
     # mc "Not really. I don't really-"
-    mc "Not really. I don't really-"
+    mc "La verdad es que no. Realmente no-"
 
 # game/code/d09/d09s03.rpy:59
 translate spanish d09s03_016c8c89:
 
     # lc "Sexy dreams, at least?"
-    lc "Sexy dreams, at least?"
+    lc "¿Sueños sensuales, al menos?"
 
 # game/code/d09/d09s03.rpy:61
 translate spanish d09s03_3d716781:
 
     # mc "You know that dream where you're drowning in the shower?"
-    mc "You know that dream where you're drowning in the shower?"
+    mc "¿Conoces ese sueño en el que te estás ahogando en la ducha?"
 
 # game/code/d09/d09s03.rpy:62
 translate spanish d09s03_8b2b7759:
 
     # lc "Oh. The one where dozens of scary clowns are standing over you and-"
-    lc "Oh. The one where dozens of scary clowns are standing over you and-"
+    lc "Oh. Aquel en el que docenas de payasos aterradores están de pie sobre ti y-"
 
 # game/code/d09/d09s03.rpy:65
 translate spanish d09s03_865c1f30:
 
     # mc "No, no. Just where the shower fills up with water."
-    mc "No, no. Just where the shower fills up with water."
+    mc "No, no. Sólo donde la ducha se llena de agua."
 
 # game/code/d09/d09s03.rpy:66
 translate spanish d09s03_c0f38968:
 
     # lc "No acid spraying from their flowers burning your skin?"
-    lc "No acid spraying from their flowers burning your skin?"
+    lc "¿Sin ácido rociado de sus flores quemando tu piel?"
 
 # game/code/d09/d09s03.rpy:68
 translate spanish d09s03_d81e1343:
 
     # mc "I don't think I've ever had that one."
-    mc "I don't think I've ever had that one."
+    mc "Creo que nunca he tenido ese."
 
 # game/code/d09/d09s03.rpy:69
 translate spanish d09s03_50e522dc:
 
     # lc "Oh. {w}Anyway, let's just have a pleasant meal."
-    lc "Oh. {w}Anyway, let's just have a pleasant meal."
+    lc "Oh. {w}De todos modos, vamos a tener una comida agradable."
 
 # game/code/d09/d09s03.rpy:72
 translate spanish d09s03_b4b69a4f:
 
     # "After an exceptionally pleasant meal."
-    "After an exceptionally pleasant meal."
+    "Después de una comida excepcionalmente agradable."
 
 # game/code/d09/d09s03.rpy:76
 translate spanish d09s03_6dfc0e82:
 
     # mc "That was delicious. Thank you."
-    mc "That was delicious. Thank you."
+    mc "Eso fue delicioso. Gracias."
 
 # game/code/d09/d09s03.rpy:78
 translate spanish d09s03_a4e5a95b:
 
     # lc "It's not over yet... time for the best part of any meal."
-    lc "It's not over yet... time for the best part of any meal."
+    lc "Todavía no ha terminado... es hora de la mejor parte de cualquier comida."
 
 # game/code/d09/d09s03.rpy:79
 translate spanish d09s03_1e1ddf9c:
 
     # mc "The aperitif?"
-    mc "The aperitif?"
+    mc "¿El aperitivo?"
 
 # game/code/d09/d09s03.rpy:80
 translate spanish d09s03_70ee68e3:
 
     # lc "The digestif!"
-    lc "The digestif!"
+    lc "La digestión!"
 
 # game/code/d09/d09s03.rpy:81
 translate spanish d09s03_b6a9d851:
 
     # mc "There's a difference?"
-    mc "There's a difference?"
+    mc "¿Hay alguna diferencia?"
 
 # game/code/d09/d09s03.rpy:83
 translate spanish d09s03_b20b1ceb:
 
     # lc "An aperitif is the drink before a meal. The digestif is after the meal."
-    lc "An aperitif is the drink before a meal. The digestif is after the meal."
+    lc "Un aperitivo es la bebida antes de una comida. La digestión es después de la comida."
 
 # game/code/d09/d09s03.rpy:84
 translate spanish d09s03_7143842f:
 
     # mc "Classy..."
-    mc "Classy..."
+    mc "Con clase..."
 
 # game/code/d09/d09s03.rpy:86
 translate spanish d09s03_153c4d71:
 
     # lc "Well, there are some benefits to having wealthy and famous parents."
-    lc "Well, there are some benefits to having wealthy and famous parents."
+    lc "Bueno, tener padres ricos y famosos tiene algunas ventajas."
 
 # game/code/d09/d09s03.rpy:87
 translate spanish d09s03_8110a01d:
 
     # mc "You mentioned that they're famous. I had no idea you were wealthy."
-    mc "You mentioned that they're famous. I had no idea you were wealthy."
+    mc "Has mencionado que son famosos. No tenía ni idea de que fueran ricos."
 
 # game/code/d09/d09s03.rpy:89
 translate spanish d09s03_7c75e95b:
 
     # lc "They're wealthy. I'm just a useless trust fund kiddie until I make a name for myself."
-    lc "They're wealthy. I'm just a useless trust fund kiddie until I make a name for myself."
+    lc "Ellos son ricos. Yo sólo soy una inútil niña del fondo fiduciario hasta que me haga un nombre."
 
 # game/code/d09/d09s03.rpy:91
 translate spanish d09s03_2d0ecf0e:
 
     # mc "From the way business is going at that coffee shop after one appearance from you, I'd say you are well on your way."
-    mc "From the way business is going at that coffee shop after one appearance from you, I'd say you are well on your way."
+    mc "Por cómo va el negocio en esa cafetería después de una aparición tuya, yo diría que vas por buen camino."
 
 # game/code/d09/d09s03.rpy:93
 translate spanish d09s03_4c416ddd:
 
     # lc "You think so? {w}I keep thinking back on it and feeling embarrassed."
-    lc "You think so? {w}I keep thinking back on it and feeling embarrassed."
+    lc "¿Eso crees? {w}Sigo pensando en ello y me siento avergonzada."
 
 # game/code/d09/d09s03.rpy:94
 translate spanish d09s03_f4314603:
 
     # mc "Embarrassed? You were phenomenal!"
-    mc "Embarrassed? You were phenomenal!"
+    mc "¿Avergonzada? ¡Estuviste fenomenal!"
 
 # game/code/d09/d09s03.rpy:96
 translate spanish d09s03_11a5f90e:
 
     # lc "I sang a half-assed song that I just kinda tossed together on the spot."
-    lc "I sang a half-assed song that I just kinda tossed together on the spot."
+    lc "Canté una canción a medias que improvisé en el momento."
 
 # game/code/d09/d09s03.rpy:98
 translate spanish d09s03_34344b45:
 
     # lc "But at least it convinced me of something."
-    lc "But at least it convinced me of something."
+    lc "Pero al menos me convenció de algo."
 
 # game/code/d09/d09s03.rpy:99
 translate spanish d09s03_c17ef8ec:
 
     # mc "What's that?"
-    mc "What's that?"
+    mc "¿Qué es?"
 
 # game/code/d09/d09s03.rpy:101
 translate spanish d09s03_369cfb49:
