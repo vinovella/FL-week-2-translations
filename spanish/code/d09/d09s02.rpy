@@ -238,7 +238,7 @@ translate spanish d09s02_fun_a645e116:
 translate spanish d09s02_fun_db0f895e:
 
     # sb "Here, baby, take this."
-    sb "Aquí, nena, toma esto."
+    sb "Aquí, bebé, toma esto."
 
 # game/code/d09/d09s02.rpy:97
 translate spanish d09s02_fun_bb192408:
