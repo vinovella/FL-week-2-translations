@@ -76,7 +76,7 @@ translate spanish replay_d08s04_9d5dff17:
 translate spanish replay_d08s04_a5949b7a:
 
     # mc "Okay, Squizzle! Are you ready for your training?"
-    mc "¡Bien, Squizzle! ¿Estás listo para tu entrenamiento?"
+    mc "¡Bien, Squizzle! ¿Estás lista para tu entrenamiento?"
 
 # game/code/d08/d08s04.rpy:85
 translate spanish replay_d08s04_98ad4579:
