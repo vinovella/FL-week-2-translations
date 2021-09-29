@@ -2,7 +2,7 @@ translate chinese strings:
 
     # renpy/common/00accessibility.rpy:28
     old "Self-voicing disabled."
-    new "禁用自动语音。"
+    new "禁用自发声程序。"
 
     # renpy/common/00accessibility.rpy:29
     old "Clipboard voicing enabled. "
@@ -10,11 +10,11 @@ translate chinese strings:
 
     # renpy/common/00accessibility.rpy:30
     old "Self-voicing enabled. "
-    new "启用自动语音。"
+    new "启用自发声程序。"
 
     # renpy/common/00accessibility.rpy:32
     old "bar"
-    new "条"
+    new "滚动条"
 
     # renpy/common/00accessibility.rpy:33
     old "selected"
@@ -78,7 +78,7 @@ translate chinese strings:
 
     # renpy/common/00accessibility.rpy:169
     old "Self-Voicing"
-    new "自动语音"
+    new "自发声程序"
 
     # renpy/common/00accessibility.rpy:173
     old "Off"
@@ -98,7 +98,7 @@ translate chinese strings:
 
     # renpy/common/00accessibility.rpy:191
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
-    new "本菜单上的选项旨在减少阅读障碍。它们不一定适用于所有游戏，某些选项组合可能会导致游戏无法运行。这不是游戏或引擎的问题。为了获得最佳效果，当改变字体时，请尽量保持文本大小与原来一样。"
+    new "本菜单上的选项旨在减少阅读障碍。它们不一定适用于所有游戏，某些选项组合可能会导致游戏无法运行。这并非游戏或引擎的问题。为了获得最佳效果，当改变字体时，请尽量保持文本大小与原来一样。"
 
     # renpy/common/00accessibility.rpy:196
     old "Return"
@@ -426,7 +426,7 @@ translate chinese strings:
 
     # renpy/common/00gui.rpy:377
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new "加载会使未保存的进度丢失.\n您确定吗？"
+    new "加载会使未保存的进度丢失。\n继续进行该操作吗？"
 
     # renpy/common/00gui.rpy:378
     old "Are you sure you want to quit?"
@@ -466,7 +466,7 @@ translate chinese strings:
 
     # renpy/common/00library.rpy:281
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
-    new "本程序包含许多许可证下的自由软件，包括MIT许可证和GNU通用公共许可证。可以在下面找到完整的软件列表，包括完整的源代码链接。 {a=https://www.renpy.org/l/license}here{/a}"
+    new "本程序包含许多许可证下的自由软件，包括MIT许可证和GNU通用公共许可证。可以在下面找到完整的软件列表，包括完整的源代码链接： {a=https://www.renpy.org/l/license}here{/a}"
 
     # renpy/common/00preferences.rpy:233
     old "display"
@@ -510,7 +510,7 @@ translate chinese strings:
 
     # renpy/common/00preferences.rpy:297
     old "skip unseen text"
-    new " 跳过未读文字"
+    new "跳过未读文字"
 
     # renpy/common/00preferences.rpy:299
     old "begin skipping"
@@ -630,11 +630,11 @@ translate chinese strings:
 
     # renpy/common/00preferences.rpy:549
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
-    new "自动语音会读\"[renpy.display.tts.last]\"，按'alt+shift+V'禁用。"
+    new "自发声程序会读\"[renpy.display.tts.last]\"，按'alt+shift+V'禁用。"
 
     # renpy/common/00preferences.rpy:551
     old "Self-voicing enabled. Press 'v' to disable."
-    new "自动语音已启用。按'v'键禁用。"
+    new "自发声程序已启用。按'v'键禁用。"
 
     # renpy/common/_compat/gamemenu.rpym:198
     old "Empty Slot."
@@ -758,7 +758,7 @@ translate chinese strings:
 
     # renpy/common/_developer/developer.rpym:657
     old "\n{color=#cfc}✔ predicted image (good){/color}\n{color=#fcc}✘ unpredicted image (bad){/color}\n{color=#fff}Drag to move.{/color}"
-    new "\n{color=#cfc}✔ predicted image (good){/color}\n{color=#fcc}✘ unpredicted image (bad){/color}\n{color=#fff}Drag to move.{/color}"
+    new "\n{color=#cfc}✔ 预测图像 (好){/color}\n{color=#fcc}✘ 非预测图像 (坏){/color}\n{color=#fff}拖拽移动。{/color}"
 
     # renpy/common/_developer/inspector.rpym:38
     old "Displayable Inspector"
@@ -814,7 +814,7 @@ translate chinese strings:
 
     # renpy/common/00updater.rpy:494
     old "An error is being simulated."
-    new "检测到一个错误。"
+    new "检测到错误。"
 
     # renpy/common/00updater.rpy:678
     old "Either this project does not support updating, or the update status file was deleted."
@@ -926,15 +926,15 @@ translate chinese strings:
 
     # renpy/common/00gltest.rpy:79
     old "Force Angle/DirectX Renderer"
-    new "Force Angle/DirectX Renderer"
+    new "强制Angle/DirectX渲染"
 
     # renpy/common/00gltest.rpy:83
     old "Force OpenGL Renderer"
-    new "Force OpenGL Renderer"
+    new "强制OpenGL渲染"
 
     # renpy/common/00gltest.rpy:87
     old "Force Software Renderer"
-    new "Force Software Renderer"
+    new "强制软件渲染"
 
     # renpy/common/00gltest.rpy:93
     old "NPOT"
@@ -994,11 +994,11 @@ translate chinese strings:
 
     # renpy/common/00gltest.rpy:229
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display. Updating DirectX could fix this problem."
-    new "电脑的图像显示器可能过时或不能正常运行。这会使加载图像速度缓慢或者失败. 更新DirectX来解决这个问题。"
+    new "电脑的图像显示器可能过时或无法正常运行。这会使加载图像速度变缓或者失败. 更新DirectX来解决该问题。"
 
     # renpy/common/00gltest.rpy:231
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
-    new "电脑的图像显示器可能过时或不能正常运行。这会使加载图像速度缓慢或者失败。"
+    new "电脑的图像显示器可能过时或无法正常运行。这会使加载图像速度变缓或者失败。"
 
     # renpy/common/00gltest.rpy:236
     old "Update DirectX"
@@ -1134,7 +1134,7 @@ translate chinese strings:
 
     # renpy/common/_errorhandling.rpym:683
     old "Copies the errors.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
-    new "将bbs的errors.txt文件作为BBcode复制到剪贴板，如https://lemmasoft.renai.us/."
+    new "将errors.txt文件复制到剪贴板上，作为论坛的BB代码，如https://lemmasoft.renai.us/"
 
     # renpy/common/_errorhandling.rpym:687
     old "Copies the errors.txt file to the clipboard as Markdown for Discord."

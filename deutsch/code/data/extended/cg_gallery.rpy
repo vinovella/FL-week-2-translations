@@ -550,3 +550,11 @@ translate deutsch strings:
     old "Day 13: Vanessa"
     new "Day 13: Vanessa"
 
+# TODO: Translation updated at 2021-09-29 22:25
+
+translate deutsch strings:
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Safewords are for noobs"
+    new "Safewords are for noobs"
+

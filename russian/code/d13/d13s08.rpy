@@ -594,3 +594,11 @@ translate russian d13s08_end_9324219d:
     # mct "And go see what Stacy and AmRose are up to."
     mct "И пойду посмотрю, что задумали Стейси и АмРоуз."
 
+# TODO: Translation updated at 2021-09-29 22:20
+
+# game/code/d13/d13s08.rpy:481
+translate russian replay_d13s08_1b18d17e:
+
+    # vw "I need to clean up for a bit. I will be back in a moment."
+    vw "I need to clean up for a bit. I will be back in a moment."
+

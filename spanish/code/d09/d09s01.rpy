@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-11-29 22:08
+# TODO: Translation updated at 2020-11-29 22:08
 
 # game/code/d09/d09s01.rpy:3
 translate spanish d09s01_2910aaa3:
@@ -233,4 +233,3 @@ translate spanish d09s01_4bb6af1f:
 
     # mct "I just hope she doesn't shank me or something the moment I bring up the luggage."
     mct "Solo espero que no me ataque o algo cuando mencione el equipaje."
-
