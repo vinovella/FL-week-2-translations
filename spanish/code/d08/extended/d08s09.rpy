@@ -365,7 +365,7 @@ translate spanish replay_d08s09_8456a741:
 
     # mc "The business side of my brain is kicking into overdrive.{w} Are you sure he is into this costume kink thing? Smelling you in the suit and all that shit?"
     mc "El lado de los negocios de mi cerebro se está acelerando.{w} ¿Segura que le gusta esto de los disfraces? ¿Olerte con el traje y toda esa mierda?"
-    
+
 
 # game/code/d08/extended/d08s09.rpy:262
 translate spanish replay_d08s09_2ab9140f:
@@ -473,7 +473,7 @@ translate spanish replay_d08s09_485c5b3f:
 translate spanish replay_d08s09_afe5b0bd:
 
     # mc "Ok, send him that photo and say, \"Here you go, now please confirm your shipping address\"."
-    mc "Ok, envíale esa foto y dile: \ "Aquí tienes, ahora confirma tu dirección de envío \"."
+    mc "Ok, envíale esa foto y dile: \"Aquí tienes, ahora confirma tu dirección de envío \"."
 
 # game/code/d08/extended/d08s09.rpy:295
 translate spanish replay_d08s09_e0ec96d1:

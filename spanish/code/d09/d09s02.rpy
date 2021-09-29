@@ -982,7 +982,7 @@ translate spanish d09s02_luggage_87a71109:
 translate spanish d09s02_luggage_e849ff8d:
 
     # sb "It's {i}so{/i} hard doing these things with just little ol' me you know."
-    sb "Es {i}tan{/i} difícil hacer estas cosas sólo con el pequeño, ya sabes.
+    sb "Es {i}tan{/i} difícil hacer estas cosas sólo con el pequeño, ya sabes."
 
 # game/code/d09/d09s02.rpy:347
 translate spanish d09s02_luggage_fdf105da:
@@ -1199,4 +1199,3 @@ translate spanish strings:
     # game/code/d09/d09s02.rpy:469
     old "Be a gigolo for a day"
     new "Sé un gigoló por un día"
-

@@ -118,7 +118,7 @@ translate spanish d09s07_00c6d17b:
 translate spanish d09s07_554c781f:
 
     # mc "Like hell. No way."
-    mc Como loco. De ninguna manera."
+    mc "Como loco. De ninguna manera."
 
 # game/code/d09/extended/d09s07.rpy:83
 translate spanish d09s07_f1ecb14d:
@@ -1529,4 +1529,3 @@ translate spanish strings:
     # game/code/d09/extended/d09s07.rpy:416
     old "Flip her over"
     new "Voltéala"
-
