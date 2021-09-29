@@ -904,289 +904,289 @@ translate spanish d09s02_luggage_9721eb8c:
 translate spanish d09s02_luggage_c604c6c5:
 
     # mc "Well, I'm not sure if I \"know\" her, but I {i}have{/i} met her."
-    mc "Well, I'm not sure if I \"know\" her, but I {i}have{/i} met her."
+    mc "Bueno, no estoy seguro de si la \"conozco\" a ella, pero ya {i}la{/i} conocí."
 
 # game/code/d09/d09s02.rpy:320
 translate spanish d09s02_luggage_a70d4618:
 
     # sb "Great. That's even better then."
-    sb "Great. That's even better then."
+    sb "Genial. Eso es aún mejor entonces."
 
 # game/code/d09/d09s02.rpy:321
 translate spanish d09s02_luggage_903fb435:
 
     # mc "What exactly do you mean by \"prank\"?"
-    mc "What exactly do you mean by \"prank\"?"
+    mc "¿Qué quiere decir exactamente con \"broma\"?"
 
 # game/code/d09/d09s02.rpy:323
 translate spanish d09s02_luggage_ce6d1a29:
 
     # sb "Details, details. That'll come later."
-    sb "Details, details. That'll come later."
+    sb "Detalles, detalles. Eso vendrá después."
 
 # game/code/d09/d09s02.rpy:324
 translate spanish d09s02_luggage_51f5e881:
 
     # sb "On to the next one."
-    sb "On to the next one."
+    sb "Hasta la próxima."
 
 # game/code/d09/d09s02.rpy:329
 translate spanish d09s02_luggage_ebf96e02:
 
     # sb "I've heard on the grapevine that a certain wealthy and powerful woman is looking for a...{i}call boy{/i}, for a night."
-    sb "I've heard on the grapevine that a certain wealthy and powerful woman is looking for a...{i}call boy{/i}, for a night."
+    sb "He oído por ahí que cierta mujer rica y poderosa está buscando un...{i}chico de compañía{/i}, para una noche."
 
 # game/code/d09/d09s02.rpy:332
 translate spanish d09s02_luggage_c27264d5:
 
     # sb "And considering what you've shown me today, I thought you'd be the perfect fit. I'm sure you'd enjoy some more...mature action as well, right?"
-    sb "And considering what you've shown me today, I thought you'd be the perfect fit. I'm sure you'd enjoy some more...mature action as well, right?"
+    sb "Y teniendo en cuenta lo que me has mostrado hoy, pensé que serías el complemento perfecto. Estoy seguro de que también disfrutarías de un poco de acción más... madura, ¿verdad?"
 
 # game/code/d09/d09s02.rpy:334
 translate spanish d09s02_luggage_bb59a71a:
 
     # sb "So, I thought you could be it. You don't look too bad, I'd say pretty handsome even, and I'm sure you'd enjoy some more...mature action, right?"
-    sb "So, I thought you could be it. You don't look too bad, I'd say pretty handsome even, and I'm sure you'd enjoy some more...mature action, right?"
+    sb "Así que pensé que podrías ser tú. No te ves tan mal, diría que incluso bastante guapo, y estoy segura de que disfrutarías de un poco de acción más... madura, ¿verdad?"
 
 # game/code/d09/d09s02.rpy:336
 translate spanish d09s02_luggage_1085199c:
 
     # mc "Lemme get this straight. You want me to be a male escort?"
-    mc "Lemme get this straight. You want me to be a male escort?"
+    mc "Déjame entender esto. ¿Quieres que sea un acompañante masculino?"
 
 # game/code/d09/d09s02.rpy:338
 translate spanish d09s02_luggage_4dfada53:
 
     # sb "For one night, but yes."
-    sb "For one night, but yes."
+    sb "Por una noche, pero sí."
 
 # game/code/d09/d09s02.rpy:339
 translate spanish d09s02_luggage_73a9d35a:
 
     # sb "Any problems?"
-    sb "Any problems?"
+    sb "¿Algún problema?"
 
 # game/code/d09/d09s02.rpy:340
 translate spanish d09s02_luggage_a55c9a49:
 
     # mc "I, just... What's the next one?"
-    mc "I, just... What's the next one?"
+    mc "Yo, sólo... ¿Cuál es la siguiente?"
 
 # game/code/d09/d09s02.rpy:344
 translate spanish d09s02_luggage_87a71109:
 
     # sb "I'm putting on a little private show for a wealthy client."
-    sb "I'm putting on a little private show for a wealthy client."
+    sb "Estoy montando un pequeño espectáculo privado para un cliente rico."
 
 # game/code/d09/d09s02.rpy:345
 translate spanish d09s02_luggage_e849ff8d:
 
     # sb "It's {i}so{/i} hard doing these things with just little ol' me you know."
-    sb "It's {i}so{/i} hard doing these things with just little ol' me you know."
+    sb "Es {i}tan{/i} difícil hacer estas cosas sólo con el pequeño, ya sabes.
 
 # game/code/d09/d09s02.rpy:347
 translate spanish d09s02_luggage_fdf105da:
 
     # sb "So I want you to be my assistant."
-    sb "So I want you to be my assistant."
+    sb "Así que quiero que seas mi asistente."
 
 # game/code/d09/d09s02.rpy:348
 translate spanish d09s02_luggage_d282cb20:
 
     # mc "...Alright, and what exactly do I have to do as your assistant?"
-    mc "...Alright, and what exactly do I have to do as your assistant?"
+    mc "...De acuerdo, ¿y qué tengo que hacer exactamente como tu asistente?"
 
 # game/code/d09/d09s02.rpy:349
 translate spanish d09s02_luggage_0bc9c5fb:
 
     # sb "Well... Assistant, boy-toy, bitch-boy, you know the deal. Finer details will come later."
-    sb "Well... Assistant, boy-toy, bitch-boy, you know the deal. Finer details will come later."
+    sb "Bueno... Asistente, chico-juguete, prostituto, ya sabes el trato. Los detalles más finos vendrán después."
 
 # game/code/d09/d09s02.rpy:353
 translate spanish d09s02_luggage_68632e9a:
 
     # sb "So, take your pick."
-    sb "So, take your pick."
+    sb "Así que, elige."
 
 # game/code/d09/d09s02.rpy:360
 translate spanish d09s02_choice_267e17d1:
 
     # mc "I wouldn't mind pranking the, uh...\"M.I.L.F\"."
-    mc "I wouldn't mind pranking the, uh...\"M.I.L.F\"."
+    mc "No me importaría gastarle una broma a la, uh...\"M.A.D.U.R.T.A\"."
 
 # game/code/d09/d09s02.rpy:362
 translate spanish d09s02_choice_534a94e6:
 
     # sb "She's got a great set doesn't she?"
-    sb "She's got a great set doesn't she?"
+    sb "Tiene un gran set, ¿no?"
 
 # game/code/d09/d09s02.rpy:363
 translate spanish d09s02_choice_05a42dc8:
 
     # sb "Good choice."
-    sb "Good choice."
+    sb "Buena elección."
 
 # game/code/d09/d09s02.rpy:368
 translate spanish d09s02_choice_29637e1a:
 
     # mc "I'll go with the, uh, escort mission."
-    mc "I'll go with the, uh, escort mission."
+    mc "Elegiré, uh, la misión de acompañante."
 
 # game/code/d09/d09s02.rpy:370
 translate spanish d09s02_choice_548aaf0d:
 
     # sb "They're all escort missions. I'm an escort. I'm assigning you a mission."
-    sb "They're all escort missions. I'm an escort. I'm assigning you a mission."
+    sb "Todas son misiones de acompañante. Soy una acompañante. Te estoy asignando una misión."
 
 # game/code/d09/d09s02.rpy:371
 translate spanish d09s02_choice_ae45ad01:
 
     # mc "The rich & powerful woman... {w}But no dancing!"
-    mc "The rich & powerful woman... {w}But no dancing!"
+    mc "La mujer rica & poderosa... {w}¡Pero no se baila!"
 
 # game/code/d09/d09s02.rpy:373
 translate spanish d09s02_choice_94bb6f3b:
 
     # sb "That's a weird condition, but alright. I thought you were gonna say no sounding or something, but you do you I suppose."
-    sb "That's a weird condition, but alright. I thought you were gonna say no sounding or something, but you do you I suppose."
+    sb "Es una condición extraña, pero está bien. Pensaba que ibas a decir sin sondeo uretral o algo así, pero supongo que lo haces tú."
 
 # game/code/d09/d09s02.rpy:374
 translate spanish d09s02_choice_075d2b64:
 
     # mc "Sounding?"
-    mc "Sounding?"
+    mc "¿Sondeo uretral?"
 
 # game/code/d09/d09s02.rpy:375
 translate spanish d09s02_choice_042be473:
 
     # sb "Inserting a metal rod into your urethra."
-    sb "Inserting a metal rod into your urethra."
+    sb "Inserción de una varilla metálica en la uretra."
 
 # game/code/d09/d09s02.rpy:376
 translate spanish d09s02_choice_bb704644:
 
     # mc "...I'd like to amend my previous statement!"
-    mc "...I'd like to amend my previous statement!"
+    mc "...Me gustaría modificar mi declaración anterior."
 
 # game/code/d09/d09s02.rpy:381
 translate spanish d09s02_choice_eeb3cedb:
 
     # mc "Fine. I'll be your assistant then."
-    mc "Fine. I'll be your assistant then."
+    mc "Bien. Seré tu asistente entonces."
 
 # game/code/d09/d09s02.rpy:383
 translate spanish d09s02_choice_dc8d0fbc:
 
     # sb "Ey, that's what I like to hear."
-    sb "Ey, that's what I like to hear."
+    sb "Ey, eso es lo que me gusta escuchar."
 
 # game/code/d09/d09s02.rpy:384
 translate spanish d09s02_choice_19e09761:
 
     # mc "We're gonna have some fun together!"
-    mc "We're gonna have some fun together!"
+    mc "¡Vamos a divertirnos juntos!"
 
 # game/code/d09/d09s02.rpy:385
 translate spanish d09s02_choice_5b7d345d:
 
     # mct "Oh boy, it better be fun. It's like I'm hunting for a long lost artifact or something here. Maybe I should buy a fedora and a whip?"
-    mct "Oh boy, it better be fun. It's like I'm hunting for a long lost artifact or something here. Maybe I should buy a fedora and a whip?"
+    mct "Oh chico, más vale que sea divertido. Es como si estuviera buscando un artefacto perdido hace mucho tiempo o algo así. ¿Tal vez debería comprar un sombrero y un látigo?"
 
 # game/code/d09/d09s02.rpy:390
 translate spanish d09s02_choice_eeb3cedb_1:
 
     # mc "Fine. I'll be your assistant then."
-    mc "Fine. I'll be your assistant then."
+    mc "Bien. Seré tu asistente entonces."
 
 # game/code/d09/d09s02.rpy:392
 translate spanish d09s02_choice_dc8d0fbc_1:
 
     # sb "Ey, that's what I like to hear."
-    sb "Ey, that's what I like to hear."
+    sb "Ey, eso es lo que me gusta escuchar."
 
 # game/code/d09/d09s02.rpy:393
 translate spanish d09s02_choice_19e09761_1:
 
     # mc "We're gonna have some fun together!"
-    mc "We're gonna have some fun together!"
+    mc "¡Vamos a divertirnos juntos!"
 
 # game/code/d09/d09s02.rpy:394
 translate spanish d09s02_choice_5b7d345d_1:
 
     # mct "Oh boy, it better be fun. It's like I'm hunting for a long lost artifact or something here. Maybe I should buy a fedora and a whip?"
-    mct "Oh boy, it better be fun. It's like I'm hunting for a long lost artifact or something here. Maybe I should buy a fedora and a whip?"
+    mct "Oh chico, más vale que sea divertido. Es como si estuviera buscando un artefacto perdido hace mucho tiempo o algo así. ¿Tal vez debería comprar un sombrero y un látigo?"
 
 # game/code/d09/d09s02.rpy:403
 translate spanish d09s02_choice_c5037bcd:
 
     # mct "I mean... I don't have to only pick {i}one{/i} here, do I?"
-    mct "I mean... I don't have to only pick {i}one{/i} here, do I?"
+    mct "Quiero decir... No tengo que elegir sólo {i}uno{/i} aquí, ¿verdad?"
 
 # game/code/d09/d09s02.rpy:404
 translate spanish d09s02_choice_b4ac2651:
 
     # mct "They all sound pretty fun and interesting I suppose."
-    mct "They all sound pretty fun and interesting I suppose."
+    mct "Todos suenan bastante divertidos e interesantes, supongo."
 
 # game/code/d09/d09s02.rpy:405
 translate spanish d09s02_choice_ea17e7c9:
 
     # mct "I wouldn't mind giving the others a go as well."
-    mct "I wouldn't mind giving the others a go as well."
+    mct "No me importaría darle una oportunidad a los otros también."
 
 # game/code/d09/d09s02.rpy:408
 translate spanish d09s02_choice_3fb88a21:
 
     # mc "Can I pick more than one option?"
-    mc "Can I pick more than one option?"
+    mc "¿Puedo elegir más de una opción?"
 
 # game/code/d09/d09s02.rpy:410
 translate spanish d09s02_choice_21d70301:
 
     # sb "Wow, daring aren't we?"
-    sb "Wow, daring aren't we?"
+    sb "Vaya, qué atrevidos somos ¿no?"
 
 # game/code/d09/d09s02.rpy:411
 translate spanish d09s02_choice_cd991257:
 
     # sb "I like it."
-    sb "I like it."
+    sb "Me gusta."
 
 # game/code/d09/d09s02.rpy:413
 translate spanish d09s02_choice_25a0e435:
 
     # sb "Go ahead. Pick whatever you want, baby."
-    sb "Go ahead. Pick whatever you want, baby."
+    sb "Adelante. Elige lo que quieras, cariño."
 
 translate spanish strings:
 
     # game/code/d09/d09s02.rpy:60
     old "Mention the luggage first"
-    new "Mention the luggage first"
+    new "Menciona el equipaje primero"
 
     # game/code/d09/d09s02.rpy:60
     old "Let's have some fun first"
-    new "Let's have some fun first"
+    new "Divirtámonos primero"
 
     # game/code/d09/d09s02.rpy:358
     old "Tonight! On \"Prank a M.I.L.F.\""
-    new "Tonight! On \"Prank a M.I.L.F.\""
+    new "¡Esta noche! En \"Broma a M.A.D.U.R.I.T.A.\""
 
     # game/code/d09/d09s02.rpy:358
     old "Be a gigolo for a night"
-    new "Be a gigolo for a night"
+    new "Sé un gigoló por una noche"
 
     # game/code/d09/d09s02.rpy:358
     old "Be Samiya's assistant"
-    new "Be Samiya's assistant"
+    new "Ser el asistente de Samiya"
 
     # game/code/d09/d09s02.rpy:406
     old "Pick something else as well."
-    new "Pick something else as well."
+    new "Elige otra cosa también."
 
     # game/code/d09/d09s02.rpy:406
     old "Nah, that's enough."
-    new "Nah, that's enough."
+    new "No, ya es suficiente."
 
 # TODO: Translation updated at 2021-05-17 00:04
 
@@ -1194,9 +1194,9 @@ translate spanish strings:
 
     # game/code/d09/d09s02.rpy:469
     old "Today! On \"Prank a M.I.L.F.\""
-    new "Today! On \"Prank a M.I.L.F.\""
+    new "¡Hoy! En \"Broma a M.A.D.U.R.I.T.A.\""
 
     # game/code/d09/d09s02.rpy:469
     old "Be a gigolo for a day"
-    new "Be a gigolo for a day"
+    new "Sé un gigoló por un día"
 
