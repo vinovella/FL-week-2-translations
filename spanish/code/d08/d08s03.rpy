@@ -124,7 +124,7 @@ translate spanish d08s03_9fa7debd:
 translate spanish d08s03_8e4d8272:
 
     # am "Shhhh. {w}Don't tell anyone, but this week is going to be EPIC."
-    am "Shhhh. {w}No se lo digas a nadie, pero esta semana va a ser EPICO."
+    am "Shhhh. {w}No se lo digás a nadie, pero esta semana va a ser EPICO."
 
 # game/code/d08/d08s03.rpy:62
 translate spanish d08s03_15570c18:
@@ -136,13 +136,13 @@ translate spanish d08s03_15570c18:
 translate spanish d08s03_e3da725d:
 
     # mes "See ya after class."
-    mes "See ya after class."
+    mes "Nos vemos después de clase."
 
 # game/code/d08/d08s03.rpy:66
 translate spanish d08s03_05500ff6:
 
     # mc "Huh?"
-    mc "¿He?"
+    mc "¿Eh?"
 
 # game/code/d08/d08s03.rpy:67
 translate spanish d08s03_b19c39f0:
@@ -214,7 +214,7 @@ translate spanish d08s03_68dabad6:
 translate spanish d08s03_b6668550:
 
     # mc "Heh, yeah. I guess we could call it Tom Riddle."
-    mc "He, sí. Supongo que podríamos llamarlo Tom Riddle."
+    mc "Je, sí. Supongo que podríamos llamarlo Tom Riddle."
 
 # game/code/d08/d08s03.rpy:88
 translate spanish d08s03_3175ad62:
@@ -334,7 +334,7 @@ translate spanish d08s03_58aba63d:
 translate spanish d08s03_72b9536c:
 
     # mc "Oh, right. I totally forgot you won that challenge last week."
-    mc "Oh,cierto. Olvidé que ganaste ese desafío la semana pasada."
+    mc "Oh, cierto. Olvidé que ganaste ese desafío la semana pasada."
 
 # game/code/d08/d08s03.rpy:122
 translate spanish d08s03_68799ee0:
@@ -364,7 +364,7 @@ translate spanish d08s03_415e490a:
 translate spanish d08s03_254d4ec2:
 
     # mct "Weird. Maria is staring at me with crazy stalker eyes."
-    mct "Que raro. María me mira con ojos de acosador loco."
+    mct "Que raro. María me mira con ojos de acosadora loca."
 
 # game/code/d08/d08s03.rpy:144
 translate spanish d08s03_ea9b9792:
@@ -718,7 +718,7 @@ translate spanish replay_d08s03_bd5eaa7b:
 translate spanish replay_d08s03_3240527e:
 
     # rn "*blah blah blah*... Wilson's Raid into Georgia...*blah blah blah*"
-    rn "*bla bla bla*... Incursión de Wilson en Georgia...*bla bla*"
+    rn "*bla bla bla*... Incursión de Wilson en Georgia... *bla bla bla*"
 
 # game/code/d08/d08s03.rpy:277
 translate spanish replay_d08s03_8907d4f5:
@@ -748,7 +748,7 @@ translate spanish replay_d08s03_61d87077:
 translate spanish replay_d08s03_dd56af82:
 
     # mc "Huh? Antony's magic show?"
-    mc "¿He? ¿El show de magia de Antony?"
+    mc "¿Eh? ¿El espectáculo de magia de Antonio?"
 
 # game/code/d08/d08s03.rpy:285
 translate spanish replay_d08s03_dc7b255c:
@@ -766,7 +766,7 @@ translate spanish replay_d08s03_84f16542:
 translate spanish replay_d08s03_144dbbdf:
 
     # mk "Before that, when I was sucking your cock... {w}it was just the best thing ever."
-    mk "Antesde eso, cuando estaba chupando tu polla... {w}Fue lo mejor de la historia."
+    mk "Antes de eso, cuando estaba chupando tu polla... {w}Fue lo mejor de la historia."
 
 # game/code/d08/d08s03.rpy:288
 translate spanish replay_d08s03_a03597fd:
@@ -850,7 +850,7 @@ translate spanish replay_d08s03_b363fc51:
 translate spanish replay_d08s03_36723146:
 
     # mc "We just had a crazy experience at the party, but that wasn't real."
-    mc "We just had a crazy experience at the party, but that wasn't real."
+    mc "Tuvimos una experiencia loca en la fiesta, pero no fue real."
 
 # game/code/d08/d08s03.rpy:315
 translate spanish replay_d08s03_9df17b07:
@@ -1078,7 +1078,7 @@ translate spanish replay_d08s03_bb989d63:
 translate spanish replay_d08s03_6934998d:
 
     # mc "Huh? Yes, sir?"
-    mc "¿He? ¿Sí, señor?"
+    mc "¿Eh? ¿Si, señor?"
 
 # game/code/d08/d08s03.rpy:421
 translate spanish replay_d08s03_dd68f8a3:
@@ -1204,7 +1204,7 @@ translate spanish replay_d08s03_b592930e:
 translate spanish replay_d08s03_91ac509f:
 
     # mct "How many people just texted me?"
-    mct "¿Cunta gente me escribio?"
+    mct "¿Cuanta gente me escribio?"
 
 # game/code/d08/d08s03.rpy:473
 translate spanish replay_d08s03_a6491393:
@@ -1303,4 +1303,3 @@ translate spanish strings:
     # game/code/d08/d08s03.rpy:424
     old "It was an accident"
     new "Fue un accidente"
-
