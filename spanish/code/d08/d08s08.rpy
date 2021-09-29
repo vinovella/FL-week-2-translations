@@ -136,7 +136,7 @@ translate spanish d08s08_bad6a234:
 translate spanish d08s08_5a83f1cf:
 
     # mc "Huh? Oh, hey Pete. I didn't see you come in."
-    mc "¿He? Hola Pete. No te vi entrar."
+    mc "¿Eh? Hola Pete. No te vi entrar."
 
 # game/code/d08/d08s08.rpy:65
 translate spanish d08s08_61a1de50:
@@ -328,7 +328,7 @@ translate spanish d08s08_1d37e230:
 translate spanish d08s08_6679db26:
 
     # mc "So, that's it?"
-    mc "Entonces, ¿eso estodo?"
+    mc "Entonces, ¿eso es todo?"
 
 # game/code/d08/d08s08.rpy:117
 translate spanish d08s08_e2e94d37:
@@ -467,4 +467,3 @@ translate spanish d08s08_2fff4bf6:
 
     # mc "Take it easy, and hey...{w} Thanks for trying."
     mc "Tómalo con calma, y hey... {w} Gracias por intentarlo."
-
