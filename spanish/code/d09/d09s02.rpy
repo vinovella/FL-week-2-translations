@@ -754,13 +754,13 @@ translate spanish d09s02_luggage_70c56421:
 translate spanish d09s02_luggage_735d1be1:
 
     # sb "Well, I'm sorry, but I can't give it to you."
-    sb "Bueno, lo siento, pero no puedo dártela."
+    sb "Bueno, lo siento, pero no puedo dártelo."
 
 # game/code/d09/d09s02.rpy:268
 translate spanish d09s02_luggage_8611f061:
 
     # sb "Well, I can't give it to you."
-    sb "Bueno, no puedo dártela."
+    sb "Bueno, no puedo dártelo."
 
 # game/code/d09/d09s02.rpy:269
 translate spanish d09s02_luggage_a3b3c69e:
