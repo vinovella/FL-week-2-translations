@@ -148,7 +148,7 @@ translate spanish d08s02_965185e4:
 translate spanish d08s02_3c06cb72_1:
 
     # mc "*cough* What?!"
-    mc "*tos* ¡¿Qué?!"
+    mc "*Tos* ¡¿Qué?!"
 
 # game/code/d08/d08s02.rpy:51
 translate spanish d08s02_5f97e86a:
@@ -238,7 +238,7 @@ translate spanish d08s02_29a0c7b1:
 translate spanish d08s02_61b989fa:
 
     # arj "Okay, I can see that. {w}Well, not see it, but ya'know."
-    arj "Okey, ya veo. {w}Bueno, no lo veo, pero ya sabes."
+    arj "Okey, Ya veo. {w}Bueno, no lo veo, pero ya sabes."
 
 # game/code/d08/d08s02.rpy:83
 translate spanish d08s02_19c97984:
@@ -388,7 +388,7 @@ translate spanish d08s02_a6cfe648:
 translate spanish d08s02_bc9c825c:
 
     # arj "OMG! Hahahahahaha!"
-    arj "¡Dios mío! ¡Jajajajajaja!"
+    arj "¡DIOS MÍO! ¡Jajajajajaja!"
 
 # game/code/d08/d08s02.rpy:124
 translate spanish d08s02_8a0761fa:
@@ -538,7 +538,7 @@ translate spanish d08s02_e5d30663:
 translate spanish d08s02_8569eb29:
 
     # mct "Pete said, \"Dude - total failure. No luggage. Talk later.\" {w}Well, fuck..."
-    mct "Pete Dijo, \"Amigo, fracaso total. Sin equipaje. Hablamos más tarde. \" {w}Bueno, joder..."
+    mct "Pete Dijo, \"Amigo, fracaso total. Sin equipaje. Hablamos más tarde.\" {w}Bueno, joder..."
 
 # game/code/d08/d08s02.rpy:164
 translate spanish d08s02_84cbc12d:
@@ -592,7 +592,7 @@ translate spanish d08s02_de507adf:
 translate spanish d08s02_e65e5892:
 
     # flr "New Goal: Attend the Party..."
-    flr "Nuevo Objetivo: asistir a la fiesta..."
+    flr "Nuevo Objetivo: Asistir a la fiesta..."
 
 # game/code/d08/d08s02.rpy:180
 translate spanish d08s02_f1b71d05:
@@ -616,7 +616,7 @@ translate spanish d08s02_8fdbd92f:
 translate spanish d08s02_2a2055d6:
 
     # flr "New Goal: Attend the Party AND participate in the Main Event."
-    flr "Nuevo Objetivo: asistir a la fiesta Y PARTICIPAR en el evento principal."
+    flr "Nuevo Objetivo: Asistir a la fiesta Y PARTICIPAR en el evento principal."
 
 # game/code/d08/d08s02.rpy:185
 translate spanish d08s02_e88c3bd3:
