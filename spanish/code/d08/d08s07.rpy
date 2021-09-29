@@ -58,7 +58,7 @@ translate spanish d08s07_c15dd178:
 translate spanish d08s07_be1a7797:
 
     # mct "Damn. Why didn't I see it before? {w}AmRose has been totally jealous of Lydia."
-    mct "Demonios. Porque no lo vi antes?? {w}AmRose esta totalmente celosa de Lydia."
+    mct "Maldita sea. ¿Por qué no lo vi antes? {w}AmRose ha estado totalmente celosa de Lydia."
 
 # game/code/d08/d08s07.rpy:24
 translate spanish d08s07_461482f0:
@@ -70,7 +70,7 @@ translate spanish d08s07_461482f0:
 translate spanish d08s07_a0f35268:
 
     # sy "Hello?! What is going through that head of yours?"
-    sy "Hola?! Que esta ocurriendo en esa cabeza tuya?"
+    sy "¡¿Hola?! ¿Qué está pasando por esa cabeza tuya?"
 
 # game/code/d08/d08s07.rpy:27
 translate spanish d08s07_b22f923e:
@@ -88,13 +88,13 @@ translate spanish d08s07_187603fc:
 translate spanish d08s07_82c6722a:
 
     # mc "Girlfriend? {w}I don't know if we're there yet, but I hope-"
-    mc "Novia? {w}No creo que estemos ahi aun, pero espero-"
+    mc "¿Novia? {w}No creo que estemos ahi aun, pero espero-"
 
 # game/code/d08/d08s07.rpy:30
 translate spanish d08s07_a1a95727:
 
     # sy "'Nuff said. See ya' later."
-    sy "'Nuff said. Nos vemos luego."
+    sy "'Ya está dicho. Nos vemos luego."
 
 # game/code/d08/d08s07.rpy:32
 translate spanish d08s07_19132e6b:
@@ -112,7 +112,7 @@ translate spanish d08s07_2ab85579:
 translate spanish d08s07_dd89b7a0:
 
     # mc "Nope. She understands me."
-    mc "Nope. Ella me entendera."
+    mc "No. Ella me entiende."
 
 # game/code/d08/d08s07.rpy:37
 translate spanish d08s07_9a224ece:
@@ -124,7 +124,7 @@ translate spanish d08s07_9a224ece:
 translate spanish d08s07_5f6a7048:
 
     # sy "You know we're chicks, right?"
-    sy "Sabes que somos chicas, verdad?"
+    sy "Sabes que somos chicas, ¿verdad?"
 
 # game/code/d08/d08s07.rpy:39
 translate spanish d08s07_05c107e2:
@@ -166,19 +166,19 @@ translate spanish d08s07_2e3f9e1a:
 translate spanish d08s07_e6eab47b:
 
     # mc "Just grab a seat and I'll bring you something. Any preferences?"
-    mc "Solo sientate y te traere algo. Alguna preferencia?"
+    mc "Sólo tome asiento y le traeré algo. ¿Alguna preferencia?"
 
 # game/code/d08/d08s07.rpy:59
 translate spanish d08s07_e611a3b2:
 
     # lc "Something healthy?"
-    lc "Algo saludable?"
+    lc "¿Algo saludable?"
 
 # game/code/d08/d08s07.rpy:60
 translate spanish d08s07_e10be3c7:
 
     # mc "And you, Min?"
-    mc "Y tu, Min?"
+    mc "¿Y tú, Min?"
 
 # game/code/d08/d08s07.rpy:62
 translate spanish d08s07_2d71f814:
@@ -226,13 +226,13 @@ translate spanish d08s07_e2229453:
 translate spanish d08s07_d1fb5534:
 
     # mc "You look lovely too, but Lydia is beyond gorgeous to me."
-    mc "Tu te ves adorable tambien, pero Lydia es mas que preciosa para mi."
+    mc "Tú también estás preciosa, pero Lydia es más que preciosa para mí."
 
 # game/code/d08/d08s07.rpy:85
 translate spanish d08s07_efc476ce:
 
     # mc "What can I say? You both look lovely, but Lydia is the girl for me."
-    mc "Que puedo decir? Ustedes dos se ven adorables, pero Lydia es la unica chica para mi."
+    mc "¿Qué puedo decir? Las dos están encantadoras, pero Lydia es la chica para mí."
 
 # game/code/d08/d08s07.rpy:88
 translate spanish d08s07_aa5d6a1f:
@@ -262,7 +262,7 @@ translate spanish d08s07_2d9b4af4:
 translate spanish d08s07_f720d270:
 
     # mc "Have we?"
-    mc "Lo hemos sido??"
+    mc "¿Lo hemos hecho?"
 
 # game/code/d08/d08s07.rpy:96
 translate spanish d08s07_8f38acde:
@@ -274,13 +274,13 @@ translate spanish d08s07_8f38acde:
 translate spanish d08s07_15899572:
 
     # mc "Why wouldn't you tell your best friend about that?"
-    mc "Porque no le dirias eso a tu mejor amiga?"
+    mc "¿Por qué no se lo contarías a tu mejor amiga?"
 
 # game/code/d08/d08s07.rpy:99
 translate spanish d08s07_bca0c9a6:
 
     # lc "Why wouldn't you tell your classmate about that?"
-    lc "Porque no le dirias eso a tu compañera de clases?"
+    lc "¿Por qué no se lo dices a tu compañera de clase?"
 
 # game/code/d08/d08s07.rpy:100
 translate spanish d08s07_240d07d2:
@@ -292,13 +292,13 @@ translate spanish d08s07_240d07d2:
 translate spanish d08s07_bdf7e02f:
 
     # lc "Yeah, but I asked you most recently."
-    lc "Si, pero yo te pregunte mas recientemente."
+    lc "Sí, pero te pregunté hace poco."
 
 # game/code/d08/d08s07.rpy:104
 translate spanish d08s07_d616bd82:
 
     # mes "*deadpan* Ha. ha. ha.{w} You two are sooooo funny."
-    mes "*deadpan* Ha. ha. ha.{w} Ustedes dos son taaaan graciosos."
+    mes "*Rostro sin expresión* Ja. ja. ja.{w} Ustedes dos son taaaan graciosos."
 
 # game/code/d08/d08s07.rpy:106
 translate spanish d08s07_3a0dc39d:
@@ -370,7 +370,7 @@ translate spanish d08s07_bb65d867:
 translate spanish d08s07_a9bc9e96:
 
     # mes "So, at least I can expect you both to attend this week?"
-    mes "Entonces, al menos puedo esperar que ustedes dos asistan esta semana?"
+    mes "Entonces, ¿al menos puedo esperar que ambos asistan esta semana?"
 
 # game/code/d08/d08s07.rpy:122
 translate spanish d08s07_80a5c16f:
@@ -388,7 +388,7 @@ translate spanish d08s07_1054764b:
 translate spanish d08s07_f9c7af75:
 
     # mct "WHAT? Is she talking to me?!?!"
-    mct "QUE? Me esta hablando a mi?!?!"
+    mct "¿¡Qué!? ¡¿Me está hablando a mí?!"
 
 # game/code/d08/d08s07.rpy:127
 translate spanish d08s07_6d507bbe:
@@ -412,7 +412,7 @@ translate spanish d08s07_ffc6aafa:
 translate spanish d08s07_7b7c4a52:
 
     # mes "But?"
-    mes "Pero?"
+    mes "¿Pero?"
 
 # game/code/d08/d08s07.rpy:132
 translate spanish d08s07_4716b587:
@@ -424,19 +424,19 @@ translate spanish d08s07_4716b587:
 translate spanish d08s07_9df49e64:
 
     # mes "Just but?"
-    mes "Solo pero?"
+    mes "¿Solo pero?"
 
 # game/code/d08/d08s07.rpy:135
 translate spanish d08s07_e974179c:
 
     # lc "What can I say? It wasn't exactly my kind of party, and..."
-    lc "Que puedo decir? No era exactamente mi tipo de fiesta, y..."
+    lc "¿Qué puedo decir? No era exactamente mi tipo de fiesta, y..."
 
 # game/code/d08/d08s07.rpy:136
 translate spanish d08s07_fc127c96:
 
     # mes "... and?"
-    mes "... y?"
+    mes "... ¿y?"
 
 # game/code/d08/d08s07.rpy:138
 translate spanish d08s07_8b042b2e:
@@ -448,19 +448,19 @@ translate spanish d08s07_8b042b2e:
 translate spanish d08s07_9f9024c8:
 
     # mct "Shit. Lydia needs an interruption. What can I say or do?"
-    mct "Mierda. Lydia necesita una interrupción. Que puedor hacer o decir?"
+    mct "Mierda. Lydia necesita una interrupción. ¿Qué puedo decir o hacer?"
 
 # game/code/d08/d08s07.rpy:141
 translate spanish d08s07_914c1d52:
 
     # mc "Hey Min, I was wondering? What are you drinking there?"
-    mc "Hey Min, Me estaba preguntando? Que estas bebiendo?"
+    mc "Oye Min, me preguntaba... ¿Qué estás bebiendo allí?"
 
 # game/code/d08/d08s07.rpy:143
 translate spanish d08s07_7dcd4ed3:
 
     # mes "Drinking?"
-    mes "Bebiendo?"
+    mes "¿Bebiendo?"
 
 # game/code/d08/d08s07.rpy:147
 translate spanish d08s07_1ae5fa81:
@@ -484,91 +484,91 @@ translate spanish d08s07_bc4fd44d:
 translate spanish d08s07_d7a8a346:
 
     # lc "How does it work?"
-    lc "Como funciona?"
+    lc "¿Cómo funciona?"
 
 # game/code/d08/d08s07.rpy:153
 translate spanish d08s07_d1253cde:
 
     # mes "It cleanses you from toxins and improves digestion!"
-    mes "Te limpia de toxinas y mejora tu digestión!"
+    mes "Te limpia de toxinas y mejora la digestión!"
 
 # game/code/d08/d08s07.rpy:155
 translate spanish d08s07_310f2b61:
 
     # mes "It is very hard to do and requires some preparation, but can give fast health improvement results!"
-    mes "Es muy dificl de hacer y requiere preparación, pero puede generar rapidamente resultados positivos sobre la salud!"
+    mes "¡Es muy difícil de hacer y requiere cierta preparación, pero puede dar resultados rápidos de mejora de la salud!"
 
 # game/code/d08/d08s07.rpy:157
 translate spanish d08s07_f4d7b849:
 
     # lc "Oooo, I gotta try this!"
-    lc "Oooo, Tengo que intentarlo!"
+    lc "¡Oooo, Tengo que probar esto!"
 
 # game/code/d08/d08s07.rpy:164
 translate spanish d08s07_64017d68:
 
     # mes "No chance! {w}(gulp) (gulp) (gulp)"
-    mes "No lo permitire! {w}(gulp) (gulp) (gulp)"
+    mes "¡No lo permitire! {w}(trago) (trago) (trago)"
 
 # game/code/d08/d08s07.rpy:165
 translate spanish d08s07_d45f9c5b:
 
     # mes "(gulp) (gulp) (gulp)"
-    mes "(gulp) (gulp) (gulp)"
+    mes "(trago) (trago) (trago)"
 
 # game/code/d08/d08s07.rpy:167
 translate spanish d08s07_48385f32:
 
     # mes "Done!"
-    mes "Hecho!"
+    mes "¡Hecho!"
 
 # game/code/d08/d08s07.rpy:168
 translate spanish d08s07_f2c46bd8:
 
     # lc "Why didn't you let me try?"
-    lc "Porque no me dejaste intentarlo?"
+    lc "¿Por qué no me dejaste probar?"
 
 # game/code/d08/d08s07.rpy:172
 translate spanish d08s07_482ca548:
 
     # mes "It is my diet! I only drink this! You can eat all your food!"
-    mes "Es mi dieta! Solo puedo beber esto! Tu puedes comer toda tu comida!"
+    mes "¡Es mi dieta! ¡Sólo bebo esto! ¡Puedes comer toda tu comida!"
 
 # game/code/d08/d08s07.rpy:178
 translate spanish d08s07_ebf2e3b0:
 
     # lc "What was that?"
-    lc "Que fue eso?"
+    lc "¿Qué fue eso?"
 
 # game/code/d08/d08s07.rpy:179
 translate spanish d08s07_80b80e77:
 
     # mc "Min doesn't share food!"
-    mc "Min no comparte la comida!"
+    mc "¡Min no comparte la comida!"
 
 # game/code/d08/d08s07.rpy:181
 translate spanish d08s07_f0dc74c5:
 
     # lc "But I just wanted a couple of fries!"
-    lc "Pero yo solo queria un par de papass!"
+    lc "¡Pero yo sólo quería un par de patatas fritas!"
 
 # game/code/d08/d08s07.rpy:183
 translate spanish d08s07_c7a4c0ff:
 
     # mc "Min doesn't share food!!!"
-    mc "Min no comparte la comida!!!"
+    mc "¡¡Min no comparte la comida!!"
 
 # game/code/d08/d08s07.rpy:185
 translate spanish d08s07_1705b093:
 
     # lc "Ah-ha-ha!"
-    lc "Ah-ha-ha!"
+    lc "¡Ah-ja-ja!"
 
 # game/code/d08/d08s07.rpy:188
 translate spanish d08s07_1bb1ba8e:
 
     # mes "*sigh* I'll have to refill that bottle."
-    mes "*sigh* Voy a tener que rellenar esta botella."
+    mes "*suspiro* Voy a tener que rellenar esta botella."
 
 # game/code/d08/d08s07.rpy:189
 translate spanish d08s07_dbc36167:
@@ -598,13 +598,13 @@ translate spanish d08s07_e7ddb667:
 translate spanish d08s07_372577f2:
 
     # mh "{i}It was quite good! Have a ton of work today. It was nice to remember our date yesterday!{/i}"
-    mh "{i}Era bastante agradable! Tengo un monton de trabajo hoy. Fue bueno para recordar nuestra cita de ayer!{/i}"
+    mh "{i}Fue bastante bueno. Hoy tengo mucho trabajo. ¡Fue agradable recordar nuestra cita de ayer!{/i}"
 
 # game/code/d08/d08s07.rpy:199
 translate spanish d08s07_cf82b4db:
 
     # mc "{i}When do you finish your work?{/i}"
-    mc "{i}A que hora terminas de trabajar?{/i}"
+    mc "{i}¿Cuándo terminas el trabajo?{/i}"
 
 # game/code/d08/d08s07.rpy:200
 translate spanish d08s07_c3b0119d:
@@ -616,7 +616,7 @@ translate spanish d08s07_c3b0119d:
 translate spanish d08s07_4baac2c4:
 
     # mc "{i}Do you want to meet after that?{/i}"
-    mc "{i}Quieres que nos encontremos luego?{/i}"
+    mc "{i}¿Quieres que nos encontremos luego?{/i}"
 
 # game/code/d08/d08s07.rpy:203
 translate spanish d08s07_10ef6fba:
@@ -628,7 +628,7 @@ translate spanish d08s07_10ef6fba:
 translate spanish d08s07_51625cac:
 
     # mc "{i}Sure that's a great idea - See you then!{/i}"
-    mc "{i}Excelente idea - Te veo mas tarde!{/i}"
+    mc "{i}¡Excelente idea - Te veo mas tarde!{/i}"
 
 # game/code/d08/d08s07.rpy:209
 translate spanish d08s07_3edec2c1:
@@ -640,13 +640,13 @@ translate spanish d08s07_3edec2c1:
 translate spanish d08s07_05500ff6:
 
     # mc "Huh?"
-    mc "Huh?"
+    mc "¿Eh?"
 
 # game/code/d08/d08s07.rpy:211
 translate spanish d08s07_5edadef7:
 
     # lc "What did I miss?"
-    lc "Que me perdí?"
+    lc "¿Qué me he perdido?"
 
 # game/code/d08/d08s07.rpy:212
 translate spanish d08s07_fdd667a1:
@@ -658,19 +658,19 @@ translate spanish d08s07_fdd667a1:
 translate spanish d08s07_e2ceba09:
 
     # mct "She said boyfriend. Is Lydia going to correct her?"
-    mct "Dijo novio. Sera que Lydia va a corregirla?"
+    mct "Ha dicho novio. ¿Va a corregirla Lydia?"
 
 # game/code/d08/d08s07.rpy:215
 translate spanish d08s07_f41e0404:
 
     # lc "Really? Why?"
-    lc "Enserio? Porque?"
+    lc "¿De verdad? ¿Por qué?"
 
 # game/code/d08/d08s07.rpy:216
 translate spanish d08s07_59a6d556:
 
     # mct "She didn't correct Min!!! {w}I'M KING OF THE WORLD!!!"
-    mct "No la corrigio!!! {w}SOY EL REY DEL MUNDO!!!"
+    mct "¡¡No corrigió a Min!! {w}¡¡¡SOY EL REY DEL MUNDO!!!"
 
 # game/code/d08/d08s07.rpy:218
 translate spanish d08s07_de9d394f:
@@ -724,13 +724,13 @@ translate spanish d08s07_0d03a43d:
 translate spanish d08s07_8d32c38d:
 
     # mc "Can I get in without points? We're all friends, right?"
-    mc "Puedo entrar sin puntos? Todos somos amigos, verdad?"
+    mc "¿Puedo entrar sin puntos? ¿Todos somos amigos, verdad?"
 
 # game/code/d08/d08s07.rpy:232
 translate spanish d08s07_8d051e97:
 
     # lc "Wait - are you going?"
-    lc "Espera - vas a ir?"
+    lc "¿Espera - vas a ir?"
 
 # game/code/d08/d08s07.rpy:233
 translate spanish d08s07_4d0e3540:
@@ -742,13 +742,13 @@ translate spanish d08s07_4d0e3540:
 translate spanish d08s07_3bfa721e:
 
     # mes "Of course he's going!"
-    mes "Claro que va a ir!"
+    mes "¡Claro que va a ir!"
 
 # game/code/d08/d08s07.rpy:236
 translate spanish d08s07_0161c2e4:
 
     # mes "Don't you want to join him?"
-    mes "No quieres unirte?"
+    mes "¿No quieres unirte?"
 
 # game/code/d08/d08s07.rpy:237
 translate spanish d08s07_806d0c77:
@@ -784,13 +784,13 @@ translate spanish d08s07_e0a54d6e:
 translate spanish d08s07_b148c30b:
 
     # mct "...but how can I go to the Party without her without losing her?"
-    mct "... pero como puedo ir a la fiesta sin ella pero sin perderla?"
+    mct "... ¿pero como puedo ir a la fiesta sin ella pero sin perderla?"
 
 # game/code/d08/d08s07.rpy:249
 translate spanish d08s07_df864758:
 
     # lc "[mcname]? Are you okay?"
-    lc "[mcname]? Estas bien?"
+    lc "¿[mcname]? ¿Estas bien?"
 
 # game/code/d08/d08s07.rpy:250
 translate spanish d08s07_eae7ff54:
@@ -802,7 +802,7 @@ translate spanish d08s07_eae7ff54:
 translate spanish d08s07_dd52df9e:
 
     # lc "Okay. Were you thinking about Min's party?"
-    lc "Okay. Estabas pensando en la fiesta de Min?"
+    lc "Okay. ¿Estabas pensando en la fiesta de Min?"
 
 # game/code/d08/d08s07.rpy:253
 translate spanish d08s07_7862beeb:
@@ -838,7 +838,7 @@ translate spanish d08s07_ab57b8e3:
 translate spanish d08s07_6341b83f:
 
     # mes "Huh?"
-    mes "Huh?"
+    mes "¿Eh?"
 
 # game/code/d08/d08s07.rpy:260
 translate spanish d08s07_f6a4d3f5:
@@ -892,7 +892,7 @@ translate spanish d08s07_ceb5d1dc:
 translate spanish d08s07_17ed6d24:
 
     # lc "Could we talk about this later?"
-    lc "Podemos hablar de esto luego?"
+    lc "¿Podemos hablar de esto luego?"
 
 # game/code/d08/d08s07.rpy:276
 translate spanish d08s07_219dc5f0:
@@ -916,7 +916,7 @@ translate spanish d08s07_8ce49a30:
 translate spanish d08s07_1439cafa:
 
     # lc "Anyone see any good movies lately?"
-    lc "Alguien vio alguna buena pelicula ultimamente?"
+    lc "¿Alguien vio alguna buena pelicula ultimamente?"
 
 translate spanish strings:
 
@@ -927,4 +927,3 @@ translate spanish strings:
     # game/code/d08/d08s07.rpy:77
     old "You're both beautiful"
     new "Las dos son hermosas"
-
