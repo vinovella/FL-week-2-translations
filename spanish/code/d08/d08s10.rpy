@@ -16,7 +16,7 @@ translate spanish d08s10_f366e04b:
 translate spanish d08s10_570f5a5f:
 
     # "They found the room 316 and knocked."
-    "Encontraron la habitación 316 y llamaron."
+    "Encontraron la habitación 316 y tocaron."
 
 # game/code/d08/d08s10.rpy:9
 translate spanish d08s10_ffbc2f32:
@@ -100,7 +100,7 @@ translate spanish d08s10_2a9d00b9:
 translate spanish d08s10_9f0f5ea7:
 
     # aw "Hey Stacy! I think we met yesterday-"
-    aw "¡Hola Stacy! Creo que nos conocimos ayer."
+    aw "¡Hola Stacy! Creo que nos conocimos ayer-"
 
 # game/code/d08/d08s10.rpy:47
 translate spanish d08s10_00cdce25:
@@ -178,7 +178,7 @@ translate spanish d08s10_1170f43c:
 translate spanish d08s10_53494d9e:
 
     # sy "Ahaha!"
-    sy "¿Jajaja!"
+    sy "¡Jajaja!"
 
 # game/code/d08/d08s10.rpy:75
 translate spanish d08s10_0a3404dd:
