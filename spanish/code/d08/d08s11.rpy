@@ -190,7 +190,7 @@ translate spanish d08s11_379774b1:
 translate spanish d08s11_c7a5fc31:
 
     # ceo "Certainly. I was born in French Lick, Indiana..."
-    ceo "Ciertamente. Nací en French Lick, Indiana..."
+    ceo "Sin duda. Nací en French Lick, Indiana..."
 
 # game/code/d08/d08s11.rpy:76
 translate spanish d08s11_267a8274:
@@ -274,7 +274,7 @@ translate spanish d08s11_5df3c4ce:
 translate spanish d08s11_d48f9edc:
 
     # mh "Are you familiar with the term, \"splooshing\"?"
-    mh "¿Conoce el término, \"splooshing\"?"
+    mh "¿Conoce el término, \"salpicando\"?"
 
 # game/code/d08/d08s11.rpy:105
 translate spanish d08s11_72cd34c6:
@@ -286,7 +286,7 @@ translate spanish d08s11_72cd34c6:
 translate spanish d08s11_c078413e:
 
     # mh "Splooshing... are you familiar with the term?"
-    mh "Splooshing... ¿está familiarizado con el término?"
+    mh "Salpicando... ¿está familiarizado con el término?"
 
 # game/code/d08/d08s11.rpy:108
 translate spanish d08s11_93658b66:
@@ -298,7 +298,7 @@ translate spanish d08s11_93658b66:
 translate spanish d08s11_294aa195:
 
     # mh "There are numerous references in the defendant's book to you being covered in food and publicly masturbating. Those would be examples of splooshing."
-    mh "Hay numerosas referencias en el libro del acusado a que usted está cubierto de comida y se masturba públicamente. Esos serían ejemplos desplooshing."
+    mh "Hay numerosas referencias en el libro del acusado a que usted está cubierto de comida y se masturba públicamente. Esos serían ejemplos de Salpicando."
 
 # game/code/d08/d08s11.rpy:112
 translate spanish d08s11_7c374ee6:
@@ -310,7 +310,7 @@ translate spanish d08s11_7c374ee6:
 translate spanish d08s11_1e021388:
 
     # mh "Do you enjoy splooshing?"
-    mh "¿Te gusta el splooshing?"
+    mh "¿Te gusta salpicando?"
 
 # game/code/d08/d08s11.rpy:115
 translate spanish d08s11_4aedf70c_1:
