@@ -124,133 +124,133 @@ translate spanish d08s12_8207ae96:
 translate spanish d08s12_631dfe01:
 
     # mc "So now I can do whatever I want to you?"
-    mc "Asique ahora puedo hacer cualquier cosa que quiera contigo?"
+    mc "¿Así que ahora puedo hacer lo que quiera contigo?"
 
 # game/code/d08/d08s12.rpy:85
 translate spanish d08s12_eff2bc0a:
 
     # mh "Oh, yes mister! I'm all yours!"
-    mh "Oh, si amo! Soy toda tuya!"
+    mh "¡Oh, sí amo! ¡Soy todo tuyo!"
 
 # game/code/d08/d08s12.rpy:87
 translate spanish d08s12_f3097708:
 
     # mc "Wow! Did you just get hard from that?"
-    mc "Wow! Te acabas de exitar por eso?"
+    mc "¡Vaya! ¿Se te acaba de poner dura por eso?"
 
 # game/code/d08/d08s12.rpy:90
 translate spanish d08s12_dcae0c21:
 
     # mh "Oh I certainly did!"
-    mh "Oh ciertamente lo hize!"
+    mh "¡Oh, ciertamente lo hice!"
 
 # game/code/d08/d08s12.rpy:91
 translate spanish d08s12_ad3ee5ca:
 
     # mc "Does it excite you to know that I can be doing anything to you?"
-    mc "Te excita saber que puedo hacerte cualquier cosa?"
+    mc "¿Te excita saber que puedo estar haciéndote cualquier cosa?"
 
 # game/code/d08/d08s12.rpy:93
 translate spanish d08s12_bb4d6582:
 
     # mh "My dick is going to tear my skirt! Does that answer your question!?"
-    mh "Mi polla va a rasgar mi falda! Eso responde tu pregunta!?"
+    mh "¡Mi polla va a romper mi falda! ¿Responde eso a tu pregunta?"
 
 # game/code/d08/d08s12.rpy:94
 translate spanish d08s12_8bc120ae:
 
     # mc "Strip for me!"
-    mc "Desnudate para mi!"
+    mc "¡Desnúdate por mí!"
 
 # game/code/d08/d08s12.rpy:96
 translate spanish d08s12_57bd43f0:
 
     # mh "Yes, sir!"
-    mh "Si, señor!"
+    mh "¡Sí, señor!"
 
 # game/code/d08/d08s12.rpy:100
 translate spanish d08s12_afd1f088:
 
     # mh "What is your plan?"
-    mh "Cual es tu plan?"
+    mh "¿Cuál es su plan?"
 
 # game/code/d08/d08s12.rpy:102
 translate spanish d08s12_c87df3ea:
 
     # mh "Can I stroke my cock for you today?"
-    mh "Puedo acariciar mi polla para ti?"
+    mh "¿Puedo acariciar mi polla para ti?"
 
 # game/code/d08/d08s12.rpy:113
 translate spanish d08s12_155346cc:
 
     # mh "Come here! I need you!"
-    mh "Ven aqui! Te necesito!"
+    mh "¡Ven aquí! ¡Te necesito!"
 
 # game/code/d08/d08s12.rpy:115
 translate spanish d08s12_aa0e2e7d:
 
     # mh "God, it feels like I'm burning!"
-    mh "Dios, siento como si estuviera ardiendo!"
+    mh "¡Dios, parece que me estoy quemando!"
 
 # game/code/d08/d08s12.rpy:121
 translate spanish d08s12_8ad73aa8:
 
     # mc "Wow! Someone is already excited!"
-    mc "Wow! Alguien ya esta excitada!"
+    mc "¡Wow! ¡Alguien ya está emocionado!"
 
 # game/code/d08/d08s12.rpy:124
 translate spanish d08s12_e0f20f94:
 
     # mh "I can't hold it any longer!"
-    mh "No puedo sostenerlo mas!"
+    mh "¡No puedo aguantar más!"
 
 # game/code/d08/d08s12.rpy:126
 translate spanish d08s12_8bf30a97:
 
     # mc "Wow, you are about to tear your skirt apart!"
-    mc "Wow, Estas a punto de rasgarte la falda!"
+    mc "¡Vaya, estás a punto de destrozar tu falda!"
 
 # game/code/d08/d08s12.rpy:128
 translate spanish d08s12_6ccc0ccd:
 
     # mh "Then help me escape it! Quick!"
-    mh "Entonces ayudame a escapar! Rapido!"
+    mh "¡Entonces ayúdame a escapar! ¡Rápido!"
 
 # game/code/d08/d08s12.rpy:130
 translate spanish d08s12_5e4ed7e8:
 
     # mh "Freedom!"
-    mh "Libertad!"
+    mh "¡Libertad!"
 
 # game/code/d08/d08s12.rpy:132
 translate spanish d08s12_06687c3c:
 
     # mh "Baby! Are you ready for it?"
-    mh "Baby! Estas listo?"
+    mh "¡Cariño! ¿Estás preparado para ello?"
 
 # game/code/d08/d08s12.rpy:134
 translate spanish d08s12_8e0740c1:
 
     # mc "Let me see it!"
-    mc "Dejame ver!"
+    mc "¡Déjame verlo!"
 
 # game/code/d08/d08s12.rpy:140
 translate spanish d08s12_72ef6f7e:
 
     # mh "Would you like to help me with this?..."
-    mh "Te gustaria ayudarme con esto?..."
+    mh "¿Te gustaría ayudarme con esto? ..."
 
 # game/code/d08/d08s12.rpy:144
 translate spanish d08s12_ebcb3d18:
 
     # mc "That is a huge problem you got here!"
-    mc "Es un gran problema el que tienes ahi!"
+    mc "¡Es un gran problema el que tienes aquí!"
 
 # game/code/d08/d08s12.rpy:146
 translate spanish d08s12_e3b6cd7f:
 
     # mc "We might need a full treatment here!"
-    mc "Podriamos necesitar un tratamiento completo aqui!"
+    mc "¡Puede que necesitemos un tratamiento completo aquí!"
 
 # game/code/d08/d08s12.rpy:149
 translate spanish d08s12_1cb7a1fc:
