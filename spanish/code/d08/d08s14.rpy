@@ -346,7 +346,7 @@ translate spanish d08s14_e83ddf23:
 translate spanish d08s14_99d59feb:
 
     # lc "I don't get close to people... like that. It's just...{w} It just isn't the way I'm wired."
-    lc "No me acerco a la gente... como eso. Es que...{w} Simplemente no es mi forma de ser."
+    lc "No me acerco a la gente... como esa. Es que...{w} Simplemente no es mi forma de ser."
 
 # game/code/d08/d08s14.rpy:96
 translate spanish d08s14_fe978c56:
