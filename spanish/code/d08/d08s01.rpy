@@ -16,7 +16,7 @@ translate spanish d08s01_423607e1:
 translate spanish d08s01_f24b841d:
 
     # arj "Pssst... [mcname]... er.. Master? It is morning."
-    arj "Pssst... [mcname]... eh.. ¿Amo? Es de mañana."
+    arj "Pssst... [mcname]... eh.. ¿Maestro? Es de mañana."
 
 # game/code/d08/d08s01.rpy:29
 translate spanish d08s01_32ff21e3:
@@ -184,7 +184,7 @@ translate spanish replay_d08s01_11d1e060:
 translate spanish replay_d08s01_96d7486d:
 
     # mc "No, no! Wait your turn. I'll be quick."
-    mc "No, no! Espera tu turno. Seré rápido."
+    mc "¡No, no! Espera tu turno. Seré rápido."
 
 # game/code/d08/d08s01.rpy:118
 translate spanish d08s01_solo_7c561514:
@@ -459,4 +459,3 @@ translate spanish strings:
     # game/code/d08/d08s01.rpy:102
     old "Let Stacy bathe with you"
     new "Deja que Stacy se bañe contigo"
-
