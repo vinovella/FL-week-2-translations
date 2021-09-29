@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-09-29 22:22
+﻿# TODO: Translation updated at 2021-09-29 23:00
 
 # game/code/d14p2/d14s12.rpy:58
 translate spanish d14s12_3528b61a:
@@ -613,10 +613,10 @@ translate spanish d14s12_vw_caught_0a5579e0:
     arj "Hey, [mcname], are you—"
 
 # game/code/d14p2/d14s12.rpy:435
-translate spanish d14s12_vw_caught_0d85c400:
+translate spanish d14s12_vw_caught_3de21e35:
 
-    # arj "Are you busy right now?"
-    arj "Are you busy right now?"
+    # arj "Are you two busy right now?"
+    arj "Are you two busy right now?"
 
 # game/code/d14p2/d14s12.rpy:436
 translate spanish d14s12_vw_caught_cd682d1e:
@@ -637,48 +637,24 @@ translate spanish d14s12_vw_caught_83b91498:
     mc "Oh, right."
 
 # game/code/d14p2/d14s12.rpy:442
-translate spanish d14s12_vw_caught_d33ffbb9:
+translate spanish d14s12_vw_caught_ac0e3db3:
 
-    # mc "Vanessa, this is my best friend, AmRose."
-    mc "Vanessa, this is my best friend, AmRose."
+    # mc "Hey, I need to go. I'll talk to you later."
+    mc "Hey, I need to go. I'll talk to you later."
 
 # game/code/d14p2/d14s12.rpy:444
-translate spanish d14s12_vw_caught_4c0245bc:
-
-    # mc "AmRose, Vanessa."
-    mc "AmRose, Vanessa."
-
-# game/code/d14p2/d14s12.rpy:446
-translate spanish d14s12_vw_caught_c0159ad1:
-
-    # vw "Pleasure to meet you."
-    vw "Pleasure to meet you."
-
-# game/code/d14p2/d14s12.rpy:447
-translate spanish d14s12_vw_caught_0ce49e47:
-
-    # arj "Uh, you too."
-    arj "Uh, you too."
-
-# game/code/d14p2/d14s12.rpy:448
-translate spanish d14s12_vw_caught_175c655b:
-
-    # mc "I need to go. I'll talk to you later."
-    mc "I need to go. I'll talk to you later."
-
-# game/code/d14p2/d14s12.rpy:450
 translate spanish d14s12_vw_caught_499a1ccf:
 
     # mc "I'll let you know when I talk with Allison."
     mc "I'll let you know when I talk with Allison."
 
-# game/code/d14p2/d14s12.rpy:451
+# game/code/d14p2/d14s12.rpy:445
 translate spanish d14s12_vw_caught_8684f7e6:
 
     # vw "Of course. Thank you again, [mcname]."
     vw "Of course. Thank you again, [mcname]."
 
-# game/code/d14p2/d14s12.rpy:452
+# game/code/d14p2/d14s12.rpy:446
 translate spanish d14s12_vw_caught_6d5f8951:
 
     # mc "Don't mention it."

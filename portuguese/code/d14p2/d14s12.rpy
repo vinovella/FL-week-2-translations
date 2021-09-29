@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-09-29 22:26
+﻿# TODO: Translation updated at 2021-09-29 22:56
 
 # game/code/d14p2/d14s12.rpy:58
 translate portuguese d14s12_3528b61a:
@@ -613,9 +613,9 @@ translate portuguese d14s12_vw_caught_0a5579e0:
     arj ""
 
 # game/code/d14p2/d14s12.rpy:435
-translate portuguese d14s12_vw_caught_0d85c400:
+translate portuguese d14s12_vw_caught_3de21e35:
 
-    # arj "Are you busy right now?"
+    # arj "Are you two busy right now?"
     arj ""
 
 # game/code/d14p2/d14s12.rpy:436
@@ -637,48 +637,24 @@ translate portuguese d14s12_vw_caught_83b91498:
     mc ""
 
 # game/code/d14p2/d14s12.rpy:442
-translate portuguese d14s12_vw_caught_d33ffbb9:
+translate portuguese d14s12_vw_caught_ac0e3db3:
 
-    # mc "Vanessa, this is my best friend, AmRose."
+    # mc "Hey, I need to go. I'll talk to you later."
     mc ""
 
 # game/code/d14p2/d14s12.rpy:444
-translate portuguese d14s12_vw_caught_4c0245bc:
-
-    # mc "AmRose, Vanessa."
-    mc ""
-
-# game/code/d14p2/d14s12.rpy:446
-translate portuguese d14s12_vw_caught_c0159ad1:
-
-    # vw "Pleasure to meet you."
-    vw ""
-
-# game/code/d14p2/d14s12.rpy:447
-translate portuguese d14s12_vw_caught_0ce49e47:
-
-    # arj "Uh, you too."
-    arj ""
-
-# game/code/d14p2/d14s12.rpy:448
-translate portuguese d14s12_vw_caught_175c655b:
-
-    # mc "I need to go. I'll talk to you later."
-    mc ""
-
-# game/code/d14p2/d14s12.rpy:450
 translate portuguese d14s12_vw_caught_499a1ccf:
 
     # mc "I'll let you know when I talk with Allison."
     mc ""
 
-# game/code/d14p2/d14s12.rpy:451
+# game/code/d14p2/d14s12.rpy:445
 translate portuguese d14s12_vw_caught_8684f7e6:
 
     # vw "Of course. Thank you again, [mcname]."
     vw ""
 
-# game/code/d14p2/d14s12.rpy:452
+# game/code/d14p2/d14s12.rpy:446
 translate portuguese d14s12_vw_caught_6d5f8951:
 
     # mc "Don't mention it."
