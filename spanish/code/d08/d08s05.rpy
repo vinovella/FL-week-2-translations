@@ -166,7 +166,7 @@ translate spanish d08s05_dd_ede96a43:
 translate spanish d08s05_dd_7cf82f6d:
 
     # mc "Daisy, this is my best friend from back home."
-    mc "Daisy, esta es mi mejor amiga de donde soy."
+    mc "Daisy, esta es mi mejor amiga de casa."
 
 # game/code/d08/d08s05.rpy:72
 translate spanish d08s05_dd_cf7150be:
@@ -256,13 +256,13 @@ translate spanish d08s05_dd_0b6586b9:
 translate spanish d08s05_dd_5ef43fce:
 
     # sy "Huh?"
-    sy "¿Heh?"
+    sy "¿Eh?"
 
 # game/code/d08/d08s05.rpy:96
 translate spanish d08s05_dd_1651f315:
 
     # dd "Yeah, you know how it is. You get to University and make different friends and-"
-    dd "Sí, sabes cómo es. Llegas a la Universidad y haces diferentes amigos y..."
+    dd "Sí, sabes cómo es. Llegas a la Universidad y haces diferentes amigos y-"
 
 # game/code/d08/d08s05.rpy:98
 translate spanish d08s05_dd_b292b593:
@@ -280,7 +280,7 @@ translate spanish d08s05_dd_02c7b059:
 translate spanish d08s05_dd_1d7fc9ca:
 
     # mc "You went to high school with Samiya? And Dahlia too?"
-    mc "¿Fuistea a la secundaria con Samiya? ¿Y Dahlia también?"
+    mc "¿Fuiste a la secundaria con Samiya? ¿Y Dahlia también?"
 
 # game/code/d08/d08s05.rpy:103
 translate spanish d08s05_dd_7aa3a666:
@@ -352,7 +352,7 @@ translate spanish d08s05_dd_a34281ac:
 translate spanish d08s05_dd_f5eb4f21:
 
     # dd "Ha! Oh, yeah. There's a funny story about that."
-    dd "¡Ja! Sí, sí. Hay una historia graciosa sobre eso."
+    dd "¡Ja! Oh, sí. Hay una historia divertida sobre eso."
 
 # game/code/d08/d08s05.rpy:125
 translate spanish d08s05_dd_42576e57:
@@ -448,7 +448,7 @@ translate spanish d08s05_dd_d58a287d:
 translate spanish d08s05_dd_052d4031:
 
     # dd "No, the B-word. And then that bitch had the nerve to really rub it in Dahlia's face."
-    dd "No, la de nombre  con B. Y entonces esa perra tuvo el valor de restregarselo en la cara de Dahlia."
+    dd "No, la de nombre con B. Y entonces esa perra tuvo el valor de restregarselo en la cara de Dahlia."
 
 # game/code/d08/d08s05.rpy:153
 translate spanish d08s05_dd_7238fc03:
@@ -496,7 +496,7 @@ translate spanish d08s05_dd_84c724b5:
 translate spanish d08s05_dd_0bdf3048:
 
     # dd "Nah. I was out partying with Samiya that night. We weren't interested in the prom."
-    dd "no. Estaba de fiesta con Samiya esa noche. No nos interesaba el baile."
+    dd "No. Estaba de fiesta con Samiya esa noche. No estábamos interesados en el baile."
 
 # game/code/d08/d08s05.rpy:164
 translate spanish d08s05_dd_2058c3a7:
@@ -634,13 +634,13 @@ translate spanish d08s05_dd_74079c8b:
 translate spanish d08s05_dd_d8682bc6:
 
     # dd "Nah. We kinda drifted apart, ya'know? I'm sure she's somewhere around campus."
-    dd "no. Nos separamos un poco, ¿sabes? Estoy segura de que está en algún lugar del campus."
+    dd "No. Nos separamos un poco, ¿sabes? Estoy segura de que está en algún lugar del campus."
 
 # game/code/d08/d08s05.rpy:201
 translate spanish d08s05_dd_a3efa3a7:
 
     # mc "Do you know anyone she does hang out with? Maybe someone else from your school?"
-    mc "¿Conocesa alguien con quien pasa el rato? ¿Quizás alguien más de tu escuela?"
+    mc "¿Conoces a alguien con quien pasa el rato? ¿Quizás alguien más de tu escuela?"
 
 # game/code/d08/d08s05.rpy:203
 translate spanish d08s05_dd_0c802f51:
@@ -748,7 +748,7 @@ translate spanish d08s05_dw_8ddece80:
 translate spanish d08s05_dw_c2ae4ef3:
 
     # mc "Heh... um..."
-    mc "jeh... he..."
+    mc "Je... um..."
 
 # game/code/d08/d08s05.rpy:270
 translate spanish d08s05_dw_2fd7fd8a:
@@ -874,7 +874,7 @@ translate spanish d08s05_dw_07dcbcad:
 translate spanish d08s05_dw_2231a2cf:
 
     # mc "Yes, Mistress. Please forgive me, Mistress."
-    mc "Yes, Mistress. Please forgive me, Mistress."
+    mc "Sí, Ama. Por favor, perdóneme, Señora."
 
 # game/code/d08/d08s05.rpy:313
 translate spanish d08s05_dw_8fe19cec:
@@ -952,7 +952,7 @@ translate spanish d08s05_dw_c414faf3:
 translate spanish d08s05_dw_0ba25fbe:
 
     # dw "Oh, I know what it is! What you're wearing is completely inappropriate."
-    dw "Oh, ¡sé lo que es! Lo que llevas puesto es completamente inapropiado."
+    dw "Oh, ¡Sé lo que es! Lo que llevas puesto es completamente inapropiado."
 
 # game/code/d08/d08s05.rpy:341
 translate spanish d08s05_dw_4433c6e6:
