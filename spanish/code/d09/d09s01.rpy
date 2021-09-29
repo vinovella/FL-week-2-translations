@@ -4,7 +4,7 @@
 translate spanish d09s01_2910aaa3:
 
     # "Tuesday. Day-9."
-    "Tuesday. Day-9."
+    "Martes. Day-9."
 
 # game/code/d09/d09s01.rpy:7
 translate spanish d09s01_74bc0fd8:
@@ -202,7 +202,7 @@ translate spanish d09s01_843da6c1:
 translate spanish d09s01_24404a72:
 
     # mct "Today is going to be so awkward..."
-    mct "Hoy va a ser tan incómodo ..."
+    mct "Hoy va a ser tan incómodo..."
 
 # game/code/d09/d09s01.rpy:66
 translate spanish d09s01_24c9d171:
