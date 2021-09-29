@@ -160,11 +160,10 @@ translate chinese coming_next_de7eb1b3:
 translate chinese buzz_4377a2f7:
 
     # "Bzzzzz" with hpunch
-    "咘滋"  伴着敲打声
+    "咘滋"
 
 # game/code/labels.rpy:214
 translate chinese knockknock_a3fe61f9:
 
     # "Knock knock"
     "咚咚咚"
-

@@ -336,3 +336,11 @@ translate russian replay_d11s03b_e27f958a:
     # aw "Yes, I am."
     aw "Да, пока."
 
+# TODO: Translation updated at 2021-09-29 22:20
+
+# game/code/d11/extended/d11s03b.rpy:182
+translate russian replay_d11s03b_b0a0afd1:
+
+    # mh "You have no idea what a pervert I am!"
+    mh "You have no idea what a pervert I am!"
+

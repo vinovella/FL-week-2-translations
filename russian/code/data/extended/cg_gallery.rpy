@@ -294,3 +294,11 @@ translate russian strings:
     old "Day 13: Vanessa"
     new "День 13: Ванесса"
 
+# TODO: Translation updated at 2021-09-29 22:20
+
+translate russian strings:
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Safewords are for noobs"
+    new "Safewords are for noobs"
+

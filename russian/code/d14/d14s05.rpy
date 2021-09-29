@@ -2080,3 +2080,17 @@ translate russian strings:
     old "Let Stacy Win"
     new "Пусть Стейси победит"
 
+# TODO: Translation updated at 2021-09-29 22:20
+
+# game/code/d14/d14s05.rpy:399
+translate russian d14s05_e5c14757:
+
+    # arj "No, did you?"
+    arj "No, did you?"
+
+# game/code/d14/d14s05.rpy:401
+translate russian d14s05_c2eb53da:
+
+    # mc "Of course not."
+    mc "Of course not."
+
