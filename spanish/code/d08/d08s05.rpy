@@ -1198,7 +1198,7 @@ translate spanish d08s05_dw_1e4b29aa:
 translate spanish d08s05_dw_1d0e9828:
 
     # sy "Let's go find this Allison."
-    sy "Vamosa encontrar a esta Allison."
+    sy "Vamos a encontrar a esta Allison."
 
 translate spanish strings:
 
@@ -1216,5 +1216,4 @@ translate spanish strings:
 translate spanish d08s05_b4dc6ce9:
 
     # sy "So... What's the plan?"
-    sy "So... What's the plan?"
-
+    sy "Entonces... ¿Cuál es el plan?"
