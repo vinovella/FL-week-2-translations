@@ -64,7 +64,7 @@ translate spanish d08s06_a762c957:
 translate spanish d08s06_1b59d494:
 
     # "???" "No you don't."
-    "???" "No,no lo harán."
+    "???" "No, no lo harán."
 
 # game/code/d08/d08s06.rpy:32
 translate spanish d08s06_5ef43fce:
