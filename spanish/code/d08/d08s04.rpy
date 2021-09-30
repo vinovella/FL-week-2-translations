@@ -76,7 +76,7 @@ translate spanish replay_d08s04_9d5dff17:
 translate spanish replay_d08s04_a5949b7a:
 
     # mc "Okay, Squizzle! Are you ready for your training?"
-    mc "Bien, Squizzle! ¿Estás lista para tu entrenamiento?"
+    mc "¡Bien, Squizzle! ¿Estás lista para tu entrenamiento?"
 
 # game/code/d08/d08s04.rpy:85
 translate spanish replay_d08s04_98ad4579:
@@ -292,7 +292,7 @@ translate spanish replay_d08s04_32ad81e4:
 translate spanish replay_d08s04_659f7335:
 
     # mc "Nice panties!"
-    mc "¡Lindas panties!"
+    mc "¡Lindas bragas!"
 
 # game/code/d08/d08s04.rpy:148
 translate spanish replay_d08s04_5b956149:
