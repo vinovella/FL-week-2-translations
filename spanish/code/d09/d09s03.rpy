@@ -814,7 +814,7 @@ translate spanish replay_d09s03_5f75ce82:
 translate spanish replay_d09s03_922484ca:
 
     # mc "We knew more kids would want to check out our treasure of [d09s03_object!t] and didn't want everyone crowding into the treehouse, so we cleared off a nearby patch of ground."
-    mc "Sabíamos que más niños querrían ver nuestro tesoro de [d09s03_object!t] y no quería que todo el mundo se amontonara en la casa del árbol, así que despejamos un terreno cercano".
+    mc "Sabíamos que más niños querrían ver nuestro tesoro de [d09s03_object!t] y no quería que todo el mundo se amontonara en la casa del árbol, así que despejamos un terreno cercano"
 
 # game/code/d09/d09s03.rpy:379
 translate spanish replay_d09s03_98daf7d3:

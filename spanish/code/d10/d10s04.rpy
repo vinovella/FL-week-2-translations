@@ -274,7 +274,7 @@ translate spanish d10s04_493b3a12:
 translate spanish d10s04_4a651f4b:
 
     # vw "Bah. I had my phone. I could have called someone like you to help me out."
-    vw "Bah. Tenía mi teléfono. Podría haber llamado a alguien como tú para que me ayudara".
+    vw "Bah. Tenía mi teléfono. Podría haber llamado a alguien como tú para que me ayudara"
 
 # game/code/d10/d10s04.rpy:150
 translate spanish d10s04_2d8a7c65:
@@ -1348,7 +1348,7 @@ translate spanish d10s04_end_385317f7:
 translate spanish d10s04_end_e36d666b:
 
     # mc "We do?"
-    mc "¿tenemos?
+    mc "¿tenemos?"
 
 # game/code/d10/d10s04.rpy:557
 translate spanish d10s04_end_8c6d6bf5:
