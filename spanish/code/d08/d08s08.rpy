@@ -424,7 +424,7 @@ translate spanish d08s08_3d69a7dd:
 translate spanish d08s08_964734ef:
 
     # pb "The foxy redhead from that Fetish Locator party?"
-    pb "La sexy pelirroja de esa fiesta de Fetish Locator?"
+    pb "¿La sexy pelirroja de esa fiesta de Fetish Locator?"
 
 # game/code/d08/d08s08.rpy:142
 translate spanish d08s08_64249356:
@@ -442,7 +442,7 @@ translate spanish d08s08_be36f5d9:
 translate spanish d08s08_432221c3:
 
     # mc "Nah. I'm going to try honey rather than vinegar."
-    mc "Nah. Voy a probar la miel en lugar del vinagre."
+    mc "No. Voy a probar la miel en lugar del vinagre."
 
 # game/code/d08/d08s08.rpy:146
 translate spanish d08s08_47f700c6:
