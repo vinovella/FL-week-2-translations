@@ -268,7 +268,7 @@ translate spanish d10s05_ee527b89:
 translate spanish d10s05_40b9eeb4:
 
     # arj "Says here that it's -\n\n{size=26}\"Madewithallnaturalingredientsfreerangeglutenfreenutfreeknowntocausecancerinthestateofcalifornia...\"{/size}"
-    arj "Aquí dice que es -\n\n{tamaño=26}\"Elaboradocontodoslosingredientesnaturales,singluten,sinnuecesysinquesesepaquehaycáncerenelestadodeCalifornia...\"{/size}"
+    arj "Aquí dice que es -\n\n{size=26}\"Elaboradocontodoslosingredientesnaturales,singluten,sinnuecesysinquesesepaquehaycáncerenelestadodeCalifornia...\"{/size}"
 
 # game/code/d10/d10s05.rpy:76
 translate spanish d10s05_a53b37b1:
@@ -407,7 +407,7 @@ translate spanish d10s05_e97a46c1:
 
     # mct "At least I haven't put on {i}that{/i} much flab."
     mct "Al menos no he {i}engordado{/i} tanto."
-    
+
 # game/code/d10/d10s05.rpy:128
 translate spanish d10s05_replay_2e3c518b:
 
@@ -586,8 +586,8 @@ translate spanish d10s05_replay_75165a63:
 translate spanish d10s05_replay_b1c74c71:
 
     # sy "[mcname]... You're never like this, is everything alright?"
-    sy "[mcname]... Nunca eres así, ¿está todo bien?".
-    
+    sy "[mcname]... Nunca eres así, ¿está todo bien?"
+
 # game/code/d10/d10s05.rpy:179
 translate spanish d10s05_replay_9938916a:
 
@@ -611,7 +611,7 @@ translate spanish d10s05_replay_a3d47bdf:
 
     # mct "Huh? Hana? Wait, It's not {i}that{/i} Hana, is it?"
     mct "¿Eh? ¿Hana? Espera, no es {i}esa{/i} Hana, ¿verdad?"
-    
+
 # game/code/d10/d10s05.rpy:187
 translate spanish d10s05_replay_6b7d6b46:
 
