@@ -44,21 +44,21 @@ translate malay strings:
 
     # game/code/screens/screens_fl.rpy:16
     old "Week 2 Save"
-    new "Week 2 Save"
+    new "Simpan Minggu 2"
 
     # game/code/screens/screens_fl.rpy:47
     old "Your second week on Fetish Locator ends here"
-    new "Your second week on Fetish Locator ends here"
+    new "Minggu kedua dalam Fetish Locator berakhir di sini"
 
     # game/code/screens/screens_fl.rpy:55
     old "Please type a name for the save file below and click save"
-    new "Please type a name for the save file below and click save"
+    new "Sila taip nama untuk fail simpan di bawah dan klik simpan"
 
     # game/code/screens/screens_fl.rpy:63
     old "This will allow you to start week 3 without losing your progress"
-    new "This will allow you to start week 3 without losing your progress"
+    new "Ini akan membolehkan anda memulakan minggu ke-3 tanpa kehilangan kemajuan permainan"
 
     # game/code/screens/screens_fl.rpy:93
     old "SAVE"
-    new "SAVE"
+    new "SIMPAN"
 
