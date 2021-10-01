@@ -244,7 +244,7 @@ translate malay strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Stop Lydia"
-    new "Hentikan Lydia"
+    new "Berhentikan Lydia"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 11: Lydia - Pool"
@@ -256,7 +256,7 @@ translate malay strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Don't stop Lydia"
-    new "Jangan hentikan Lydia"
+    new "Jangan berhentikan Lydia"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 13: Lydia"
