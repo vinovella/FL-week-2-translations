@@ -4,91 +4,91 @@ translate malay strings:
 
     # game/code/data/prologue.rpy:16
     old "Scintillating Stacy"
-    new "Scintillating Stacy"
+    new "Stacy Yang Sedap"
 
     # game/code/data/prologue.rpy:16
     old "The sister"
-    new "The sister"
+    new "Adik"
 
     # game/code/data/prologue.rpy:16
     old "The close childhood friend"
-    new "The close childhood friend"
+    new "Kawan rapat"
 
     # game/code/data/prologue.rpy:16
     old "Playful Polly"
-    new "Playful Polly"
+    new "Polly Yang Mudah Bergembira"
 
     # game/code/data/prologue.rpy:16
     old "The pink-haired pansexual exhibitionist"
-    new "The pink-haired pansexual exhibitionist"
+    new "Panseksual berambut merah jambu yang suka mempamirkan diri"
 
     # game/code/data/prologue.rpy:16
     old "Voluptuous Vanessa"
-    new "Voluptuous Vanessa"
+    new "Vanessa Yang Menawan"
 
     # game/code/data/prologue.rpy:16
     old "The M.I.L.F."
-    new "The M.I.L.F."
+    new "M.I.L.F. Yang Mantap"
 
     # game/code/data/prologue.rpy:16
     old "Charming Chloe"
-    new "Charming Chloe"
+    new "Chloe Yang Indah"
 
     # game/code/data/prologue.rpy:16
     old "The village bicycle"
-    new "The village bicycle"
+    new "Basikal kampung"
 
     # game/code/data/prologue.rpy:16
     old "Jovial Jessie"
-    new "Jovial Jessie"
+    new "Jessie Yang Penceria"
 
     # game/code/data/prologue.rpy:16
     old "The cosplayer extraordinaire"
-    new "The cosplayer extraordinaire"
+    new "Pemakai kostum yang handal"
 
     # game/code/data/prologue.rpy:16
     old "Magnificent Min"
-    new "Magnificent Min"
+    new "Min Yang Terbaik"
 
     # game/code/data/prologue.rpy:16
     old "Obsessed with winning & watersports"
-    new "Obsessed with winning & watersports"
+    new "Obsess dengan kemenagan & watersports"
 
     # game/code/data/prologue.rpy:16
     old "Lovely Lyssa"
-    new "Lovely Lyssa"
+    new "Lyssa Yang Cantik"
 
     # game/code/data/prologue.rpy:16
     old "The sexy lawyer with a secret surprise"
-    new "The sexy lawyer with a secret surprise"
+    new "Peguam seksi dengan kejutan rahsia"
 
     # game/code/data/prologue.rpy:16
     old "Maidenly Maria"
-    new "Maidenly Maria"
+    new "Maria Yang Menarik"
 
     # game/code/data/prologue.rpy:16
     old "The creep stalker lesbian"
-    new "The creep stalker lesbian"
+    new "Lesbian pengintai yang menyeramkan"
 
     # game/code/data/prologue.rpy:16
     old "Delicious Daisy"
-    new "Delicious Daisy"
+    new "Daisy Si Lazat"
 
     # game/code/data/prologue.rpy:16
     old "The submissive free spirit"
-    new "The submissive free spirit"
+    new "Semangat bebas yang menyerah"
 
     # game/code/data/prologue.rpy:16
     old "Dazzling Dahlia"
-    new "Dazzling Dahlia"
+    new "Dahlia Yang Mempesonakan"
 
     # game/code/data/prologue.rpy:16
     old "The dominatrix"
-    new "The dominatrix"
+    new "Dominatrix"
 
     # game/code/data/prologue.rpy:34
     old "Cumshot"
-    new "Cumshot"
+    new "Pancutan"
 
     # game/code/data/prologue.rpy:34
     old "Creampie"
@@ -108,7 +108,7 @@ translate malay strings:
 
     # game/code/data/prologue.rpy:34
     old "Anal play"
-    new "Anal play"
+    new "Bermain bobtot"
 
     # game/code/data/prologue.rpy:34
     old "Pegging"
@@ -120,5 +120,5 @@ translate malay strings:
 
     # game/code/data/prologue.rpy:50
     old "Not_Mike"
-    new "Not_Mike"
+    new "Bukan_Mike"
 
