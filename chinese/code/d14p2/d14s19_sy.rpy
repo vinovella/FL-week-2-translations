@@ -1000,281 +1000,280 @@ translate chinese strings:
     old "I enjoyed the sex, but..."
     new "I enjoyed the sex, but..."
 
-# TODO: Translation updated at 2021-10-03 23:14
+# TODO: Translation updated at 2021-10-03 23:25
 
 # game/code/d14p2/d14s19_sy.rpy:164
 translate chinese d14s19_sy_a0433917:
 
     # sy "And you're my brother. {w}I'm still going to fuck you senseless."
-    sy ""
+    sy "And you're my brother. {w}I'm still going to fuck you senseless."
 
 # game/code/d14p2/d14s19_sy.rpy:203
 translate chinese d14s19_sy_c8c947dc:
 
     # mc "I didn't have a perfect outfit picked out. {w}Hell, I'm not even wearing an outfit today."
-    mc ""
+    mc "I didn't have a perfect outfit picked out. {w}Hell, I'm not even wearing an outfit today."
 
 # game/code/d14p2/d14s19_sy.rpy:205
 translate chinese d14s19_sy_3fa931cb:
 
     # mc "But I've been fantasizing about this as well."
-    mc ""
+    mc "But I've been fantasizing about this as well."
 
 # game/code/d14p2/d14s19_sy.rpy:251
 translate chinese d14s19_sy_35dce81c:
 
     # mc "Yes, ma'am."
-    mc ""
+    mc "Yes, ma'am."
 
 # game/code/d14p2/d14s19_sy.rpy:264
 translate chinese d14s19_sy_047d5fc3:
 
     # mc "This is really happening."
-    mc ""
+    mc "This is really happening."
 
 # game/code/d14p2/d14s19_sy.rpy:271
 translate chinese d14s19_sy_c0935cef:
 
     # sy "You feel better than I ever imagined."
-    sy ""
+    sy "You feel better than I ever imagined."
 
 # game/code/d14p2/d14s19_sy.rpy:302
 translate chinese d14s19_sy_bed_37bd4c02:
 
     # sy "All that yoga is really paying off."
-    sy ""
+    sy "All that yoga is really paying off."
 
 # game/code/d14p2/d14s19_sy.rpy:309
 translate chinese d14s19_sy_bed_a3cf6706:
 
     # mc "I agree! You need to teach me some of that later."
-    mc ""
+    mc "I agree! You need to teach me some of that later."
 
 # game/code/d14p2/d14s19_sy.rpy:329
 translate chinese d14s19_sy_bed_cda15693:
 
     # sy "I never felt as close to you as I do right now!"
-    sy ""
+    sy "I never felt as close to you as I do right now!"
 
 # game/code/d14p2/d14s19_sy.rpy:336
 translate chinese d14s19_sy_bed_0c48a53f:
 
     # mc "I love the feel of your skin on my skin!"
-    mc ""
+    mc "I love the feel of your skin on my skin!"
 
 # game/code/d14p2/d14s19_sy.rpy:353
 translate chinese d14s19_sy_bed_88956971:
 
     # sy "Fuck Yes! I love being on top!"
-    sy ""
+    sy "Fuck Yes! I love being on top!"
 
 # game/code/d14p2/d14s19_sy.rpy:360
 translate chinese d14s19_sy_bed_1b970b6a:
 
     # mc "Every position is terrific with you!"
-    mc ""
+    mc "Every position is terrific with you!"
 
 # game/code/d14p2/d14s19_sy.rpy:382
 translate chinese d14s19_sy_eggchair_76da22b0:
 
     # mc "Oh Stacy! That feels amazing!"
-    mc ""
+    mc "Oh Stacy! That feels amazing!"
 
 # game/code/d14p2/d14s19_sy.rpy:389
 translate chinese d14s19_sy_eggchair_3542a592:
 
     # mc "This is everything I could ever want in life!"
-    mc ""
+    mc "This is everything I could ever want in life!"
 
 # game/code/d14p2/d14s19_sy.rpy:413
 translate chinese d14s19_sy_eggchair_8f509d9d:
 
     # sy "I LOVE IT! YOU FEEL SO GOOD INSIDE ME!"
-    sy ""
+    sy "I LOVE IT! YOU FEEL SO GOOD INSIDE ME!"
 
 # game/code/d14p2/d14s19_sy.rpy:420
 translate chinese d14s19_sy_eggchair_3f723ff0:
 
     # mc "I want this night to go on forever!"
-    mc ""
+    mc "I want this night to go on forever!"
 
 # game/code/d14p2/d14s19_sy.rpy:445
 translate chinese d14s19_sy_eggchair_c672076c:
 
     # sy "Oh [mcname]! You're even deeper inside me from this position!"
-    sy ""
+    sy "Oh [mcname]! You're even deeper inside me from this position!"
 
 # game/code/d14p2/d14s19_sy.rpy:475
 translate chinese d14s19_sy_desk_9eb63d25:
 
     # sy "You feel amazing! This is so fucking perfect!"
-    sy ""
+    sy "You feel amazing! This is so fucking perfect!"
 
 # game/code/d14p2/d14s19_sy.rpy:490
 translate chinese d14s19_sy_desk_7367b714:
 
     # mc "We're still just getting started. Brace yourself!"
-    mc ""
+    mc "We're still just getting started. Brace yourself!"
 
 # game/code/d14p2/d14s19_sy.rpy:510
 translate chinese d14s19_sy_desk_99b6b7c2:
 
     # sy "That's it! That's it!! Fill me with your hard cock!!!"
-    sy ""
+    sy "That's it! That's it!! Fill me with your hard cock!!!"
 
 # game/code/d14p2/d14s19_sy.rpy:521
 translate chinese d14s19_sy_desk_8f3c4790:
 
     # mc "You are so fucking gorgeous right now!"
-    mc ""
+    mc "You are so fucking gorgeous right now!"
 
 # game/code/d14p2/d14s19_sy.rpy:537
 translate chinese d14s19_sy_desk_1c8a2165:
 
     # sy "I always want more with you!"
-    sy ""
+    sy "I always want more with you!"
 
 # game/code/d14p2/d14s19_sy.rpy:544
 translate chinese d14s19_sy_desk_d024015c:
 
     # mc "You're getting everything I have!"
-    mc ""
+    mc "You're getting everything I have!"
 
 # game/code/d14p2/d14s19_sy.rpy:570
 translate chinese d14s19_sy_floor_bcacb5e0:
 
     # sy "Yes! Yes!! JUST LIKE THAT!!!"
-    sy ""
+    sy "Yes! Yes!! JUST LIKE THAT!!!"
 
 # game/code/d14p2/d14s19_sy.rpy:581
 translate chinese d14s19_sy_floor_d2fc4036:
 
     # mc "You're so damn sexy! And flexible!!"
-    mc ""
+    mc "You're so damn sexy! And flexible!!"
 
 # game/code/d14p2/d14s19_sy.rpy:597
 translate chinese d14s19_sy_floor_d8aaee28:
 
     # sy "Am I everything you ever wanted?"
-    sy ""
+    sy "Am I everything you ever wanted?"
 
 # game/code/d14p2/d14s19_sy.rpy:604
 translate chinese d14s19_sy_floor_3b4c135a:
 
     # mc "Everything and more!"
-    mc ""
+    mc "Everything and more!"
 
 # game/code/d14p2/d14s19_sy.rpy:616
 translate chinese d14s19_sy_floor_01a56782:
 
     # sy "This feels so good... {w}but don't get any funny ideas while you're back there."
-    sy ""
+    sy "This feels so good... {w}but don't get any funny ideas while you're back there."
 
 # game/code/d14p2/d14s19_sy.rpy:627
 translate chinese d14s19_sy_floor_3c4ca178:
 
     # mc "I wouldn't dream of it! {w}Nothing could feel better than your hot twat right now."
-    mc ""
+    mc "I wouldn't dream of it! {w}Nothing could feel better than your hot twat right now."
 
 # game/code/d14p2/d14s19_sy.rpy:648
 translate chinese d14s19_sy_mirror_2c3b4380:
 
     # sy "[mcname]! I can't believe...{w} Are you really???"
-    sy ""
+    sy "[mcname]! I can't believe...{w} Are you really???"
 
 # game/code/d14p2/d14s19_sy.rpy:659
 translate chinese d14s19_sy_mirror_cd3c275e:
 
     # sy "Really Really Good At THIS!!!"
-    sy ""
+    sy "Really Really Good At THIS!!!"
 
 # game/code/d14p2/d14s19_sy.rpy:666
 translate chinese d14s19_sy_mirror_f55f569e:
 
     # sy "If you keep that up you're gonna break me!!!"
-    sy ""
+    sy "If you keep that up you're gonna break me!!!"
 
 # game/code/d14p2/d14s19_sy.rpy:669
 translate chinese d14s19_sy_mirror_eb3d4182:
 
     # sy "I need you inside me!"
-    sy ""
+    sy "I need you inside me!"
 
 # game/code/d14p2/d14s19_sy.rpy:682
 translate chinese d14s19_sy_mirror_35a77214:
 
     # sy "Fuck yes! How does that feel!"
-    sy ""
+    sy "Fuck yes! How does that feel!"
 
 # game/code/d14p2/d14s19_sy.rpy:693
 translate chinese d14s19_sy_mirror_cda4eaa7:
 
     # sy "You've really gotten my engine going!"
-    sy ""
+    sy "You've really gotten my engine going!"
 
 # game/code/d14p2/d14s19_sy.rpy:706
 translate chinese d14s19_sy_mirror_18d5d69b:
 
     # mc "Fuck! You're making me so hard!"
-    mc ""
+    mc "Fuck! You're making me so hard!"
 
 # game/code/d14p2/d14s19_sy.rpy:709
 translate chinese d14s19_sy_mirror_d633cd10:
 
     # mc "I had no idea you were so strong!"
-    mc ""
+    mc "I had no idea you were so strong!"
 
 # game/code/d14p2/d14s19_sy.rpy:734
 translate chinese d14s19_sy_cum_03673af3:
 
     # mc "Come with me! I want you as close as I am!"
-    mc ""
+    mc "Come with me! I want you as close as I am!"
 
 # game/code/d14p2/d14s19_sy.rpy:791
 translate chinese d14s19_sy_cum_face_a4be27b2:
 
     # mc "How do you like your facial moisturizer?"
-    mc ""
+    mc "How do you like your facial moisturizer?"
 
 # game/code/d14p2/d14s19_sy.rpy:803
 translate chinese d14s19_sy_cum_mouth_875d9562:
 
     # mc "It feels like your mouth..."
-    mc ""
+    mc "It feels like your mouth..."
 
 # game/code/d14p2/d14s19_sy.rpy:805
 translate chinese d14s19_sy_cum_mouth_9985ab55:
 
     # mc "Your mouth was made for my pleasure."
-    mc ""
+    mc "Your mouth was made for my pleasure."
 
 # game/code/d14p2/d14s19_sy.rpy:808
 translate chinese d14s19_sy_cum_mouth_59375e63:
 
     # mc "OHHHH YEAHHHHH!!!"
-    mc ""
+    mc "OHHHH YEAHHHHH!!!"
 
 # game/code/d14p2/d14s19_sy.rpy:810
 translate chinese d14s19_sy_cum_mouth_cb5624c6:
 
     # mct "I still can't believe this is happening."
-    mct ""
+    mct "I still can't believe this is happening."
 
 # game/code/d14p2/d14s19_sy.rpy:817
 translate chinese d14s19_sy_cum_mouth_d27cfc80:
 
     # sy "You're right. {w}My mouth was made for your cock."
-    sy ""
+    sy "You're right. {w}My mouth was made for your cock."
 
 # game/code/d14p2/d14s19_sy.rpy:879
 translate chinese d14s19_sy_end_c6647e9a:
 
     # sy "In my dream, my bridesmaids all made their own dresses. I wear white. They each wear a different color."
-    sy ""
+    sy "In my dream, my bridesmaids all made their own dresses. I wear white. They each wear a different color."
 
 # game/code/d14p2/d14s19_sy.rpy:891
 translate chinese d14s19_sy_end_4285d841:
 
     # sy "Also, now I imagine that AmRose is the bridesmaid wearing red."
-    sy ""
-
+    sy "Also, now I imagine that AmRose is the bridesmaid wearing red."
