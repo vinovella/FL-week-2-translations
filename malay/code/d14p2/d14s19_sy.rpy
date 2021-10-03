@@ -1000,3 +1000,281 @@ translate malay strings:
     old "I enjoyed the sex, but..."
     new "I enjoyed the sex, but..."
 
+# TODO: Translation updated at 2021-10-03 23:15
+
+# game/code/d14p2/d14s19_sy.rpy:164
+translate malay d14s19_sy_a0433917:
+
+    # sy "And you're my brother. {w}I'm still going to fuck you senseless."
+    sy ""
+
+# game/code/d14p2/d14s19_sy.rpy:203
+translate malay d14s19_sy_c8c947dc:
+
+    # mc "I didn't have a perfect outfit picked out. {w}Hell, I'm not even wearing an outfit today."
+    mc ""
+
+# game/code/d14p2/d14s19_sy.rpy:205
+translate malay d14s19_sy_3fa931cb:
+
+    # mc "But I've been fantasizing about this as well."
+    mc ""
+
+# game/code/d14p2/d14s19_sy.rpy:251
+translate malay d14s19_sy_35dce81c:
+
+    # mc "Yes, ma'am."
+    mc ""
+
+# game/code/d14p2/d14s19_sy.rpy:264
+translate malay d14s19_sy_047d5fc3:
+
+    # mc "This is really happening."
+    mc ""
+
+# game/code/d14p2/d14s19_sy.rpy:271
+translate malay d14s19_sy_c0935cef:
+
+    # sy "You feel better than I ever imagined."
+    sy ""
+
+# game/code/d14p2/d14s19_sy.rpy:302
+translate malay d14s19_sy_bed_37bd4c02:
+
+    # sy "All that yoga is really paying off."
+    sy ""
+
+# game/code/d14p2/d14s19_sy.rpy:309
+translate malay d14s19_sy_bed_a3cf6706:
+
+    # mc "I agree! You need to teach me some of that later."
+    mc ""
+
+# game/code/d14p2/d14s19_sy.rpy:329
+translate malay d14s19_sy_bed_cda15693:
+
+    # sy "I never felt as close to you as I do right now!"
+    sy ""
+
+# game/code/d14p2/d14s19_sy.rpy:336
+translate malay d14s19_sy_bed_0c48a53f:
+
+    # mc "I love the feel of your skin on my skin!"
+    mc ""
+
+# game/code/d14p2/d14s19_sy.rpy:353
+translate malay d14s19_sy_bed_88956971:
+
+    # sy "Fuck Yes! I love being on top!"
+    sy ""
+
+# game/code/d14p2/d14s19_sy.rpy:360
+translate malay d14s19_sy_bed_1b970b6a:
+
+    # mc "Every position is terrific with you!"
+    mc ""
+
+# game/code/d14p2/d14s19_sy.rpy:382
+translate malay d14s19_sy_eggchair_76da22b0:
+
+    # mc "Oh Stacy! That feels amazing!"
+    mc ""
+
+# game/code/d14p2/d14s19_sy.rpy:389
+translate malay d14s19_sy_eggchair_3542a592:
+
+    # mc "This is everything I could ever want in life!"
+    mc ""
+
+# game/code/d14p2/d14s19_sy.rpy:413
+translate malay d14s19_sy_eggchair_8f509d9d:
+
+    # sy "I LOVE IT! YOU FEEL SO GOOD INSIDE ME!"
+    sy ""
+
+# game/code/d14p2/d14s19_sy.rpy:420
+translate malay d14s19_sy_eggchair_3f723ff0:
+
+    # mc "I want this night to go on forever!"
+    mc ""
+
+# game/code/d14p2/d14s19_sy.rpy:445
+translate malay d14s19_sy_eggchair_c672076c:
+
+    # sy "Oh [mcname]! You're even deeper inside me from this position!"
+    sy ""
+
+# game/code/d14p2/d14s19_sy.rpy:475
+translate malay d14s19_sy_desk_9eb63d25:
+
+    # sy "You feel amazing! This is so fucking perfect!"
+    sy ""
+
+# game/code/d14p2/d14s19_sy.rpy:490
+translate malay d14s19_sy_desk_7367b714:
+
+    # mc "We're still just getting started. Brace yourself!"
+    mc ""
+
+# game/code/d14p2/d14s19_sy.rpy:510
+translate malay d14s19_sy_desk_99b6b7c2:
+
+    # sy "That's it! That's it!! Fill me with your hard cock!!!"
+    sy ""
+
+# game/code/d14p2/d14s19_sy.rpy:521
+translate malay d14s19_sy_desk_8f3c4790:
+
+    # mc "You are so fucking gorgeous right now!"
+    mc ""
+
+# game/code/d14p2/d14s19_sy.rpy:537
+translate malay d14s19_sy_desk_1c8a2165:
+
+    # sy "I always want more with you!"
+    sy ""
+
+# game/code/d14p2/d14s19_sy.rpy:544
+translate malay d14s19_sy_desk_d024015c:
+
+    # mc "You're getting everything I have!"
+    mc ""
+
+# game/code/d14p2/d14s19_sy.rpy:570
+translate malay d14s19_sy_floor_bcacb5e0:
+
+    # sy "Yes! Yes!! JUST LIKE THAT!!!"
+    sy ""
+
+# game/code/d14p2/d14s19_sy.rpy:581
+translate malay d14s19_sy_floor_d2fc4036:
+
+    # mc "You're so damn sexy! And flexible!!"
+    mc ""
+
+# game/code/d14p2/d14s19_sy.rpy:597
+translate malay d14s19_sy_floor_d8aaee28:
+
+    # sy "Am I everything you ever wanted?"
+    sy ""
+
+# game/code/d14p2/d14s19_sy.rpy:604
+translate malay d14s19_sy_floor_3b4c135a:
+
+    # mc "Everything and more!"
+    mc ""
+
+# game/code/d14p2/d14s19_sy.rpy:616
+translate malay d14s19_sy_floor_01a56782:
+
+    # sy "This feels so good... {w}but don't get any funny ideas while you're back there."
+    sy ""
+
+# game/code/d14p2/d14s19_sy.rpy:627
+translate malay d14s19_sy_floor_3c4ca178:
+
+    # mc "I wouldn't dream of it! {w}Nothing could feel better than your hot twat right now."
+    mc ""
+
+# game/code/d14p2/d14s19_sy.rpy:648
+translate malay d14s19_sy_mirror_2c3b4380:
+
+    # sy "[mcname]! I can't believe...{w} Are you really???"
+    sy ""
+
+# game/code/d14p2/d14s19_sy.rpy:659
+translate malay d14s19_sy_mirror_cd3c275e:
+
+    # sy "Really Really Good At THIS!!!"
+    sy ""
+
+# game/code/d14p2/d14s19_sy.rpy:666
+translate malay d14s19_sy_mirror_f55f569e:
+
+    # sy "If you keep that up you're gonna break me!!!"
+    sy ""
+
+# game/code/d14p2/d14s19_sy.rpy:669
+translate malay d14s19_sy_mirror_eb3d4182:
+
+    # sy "I need you inside me!"
+    sy ""
+
+# game/code/d14p2/d14s19_sy.rpy:682
+translate malay d14s19_sy_mirror_35a77214:
+
+    # sy "Fuck yes! How does that feel!"
+    sy ""
+
+# game/code/d14p2/d14s19_sy.rpy:693
+translate malay d14s19_sy_mirror_cda4eaa7:
+
+    # sy "You've really gotten my engine going!"
+    sy ""
+
+# game/code/d14p2/d14s19_sy.rpy:706
+translate malay d14s19_sy_mirror_18d5d69b:
+
+    # mc "Fuck! You're making me so hard!"
+    mc ""
+
+# game/code/d14p2/d14s19_sy.rpy:709
+translate malay d14s19_sy_mirror_d633cd10:
+
+    # mc "I had no idea you were so strong!"
+    mc ""
+
+# game/code/d14p2/d14s19_sy.rpy:734
+translate malay d14s19_sy_cum_03673af3:
+
+    # mc "Come with me! I want you as close as I am!"
+    mc ""
+
+# game/code/d14p2/d14s19_sy.rpy:791
+translate malay d14s19_sy_cum_face_a4be27b2:
+
+    # mc "How do you like your facial moisturizer?"
+    mc ""
+
+# game/code/d14p2/d14s19_sy.rpy:803
+translate malay d14s19_sy_cum_mouth_875d9562:
+
+    # mc "It feels like your mouth..."
+    mc ""
+
+# game/code/d14p2/d14s19_sy.rpy:805
+translate malay d14s19_sy_cum_mouth_9985ab55:
+
+    # mc "Your mouth was made for my pleasure."
+    mc ""
+
+# game/code/d14p2/d14s19_sy.rpy:808
+translate malay d14s19_sy_cum_mouth_59375e63:
+
+    # mc "OHHHH YEAHHHHH!!!"
+    mc ""
+
+# game/code/d14p2/d14s19_sy.rpy:810
+translate malay d14s19_sy_cum_mouth_cb5624c6:
+
+    # mct "I still can't believe this is happening."
+    mct ""
+
+# game/code/d14p2/d14s19_sy.rpy:817
+translate malay d14s19_sy_cum_mouth_d27cfc80:
+
+    # sy "You're right. {w}My mouth was made for your cock."
+    sy ""
+
+# game/code/d14p2/d14s19_sy.rpy:879
+translate malay d14s19_sy_end_c6647e9a:
+
+    # sy "In my dream, my bridesmaids all made their own dresses. I wear white. They each wear a different color."
+    sy ""
+
+# game/code/d14p2/d14s19_sy.rpy:891
+translate malay d14s19_sy_end_4285d841:
+
+    # sy "Also, now I imagine that AmRose is the bridesmaid wearing red."
+    sy ""
+
