@@ -202,7 +202,7 @@ translate chinese d14s12_f60e7509:
 translate chinese d14s12_ca35c5d6:
 
     # aw "Like a snack."
-    aw "很美味。"
+    aw "你就像等着我去猎食的美味猎物。"
 
 # game/code/d14p2/d14s12.rpy:228
 translate chinese d14s12_41aea3ed:
