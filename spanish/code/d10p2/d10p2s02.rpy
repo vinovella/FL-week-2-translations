@@ -4,7 +4,7 @@
 translate spanish d10p2s02_ab6e5f7b:
 
     # mct "Huh, what's going on?"
-    mct "¿Eh, qué pasa?
+    mct "¿Eh, qué pasa?"
 
 # game/code/d10p2/d10p2s02.rpy:13
 translate spanish d10p2s02_ddaa4f68:
@@ -838,7 +838,7 @@ translate spanish d10p2s01_end_b2d86e39:
 translate spanish d10p2s01_end_0a73aa7b:
 
     # mc "Honestly, my blood is boiling."
-    mc "Sinceramente, me hierve la sangre".
+    mc "Sinceramente, me hierve la sangre."
 
 # game/code/d10p2/d10p2s02.rpy:407
 translate spanish d10p2s01_end_66ccc53e:

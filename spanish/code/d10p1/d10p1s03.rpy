@@ -189,9 +189,7 @@ translate spanish d10p1s03_12725267:
 # game/code/d10p1/d10p1s03.rpy:74
 translate spanish d10p1s03_7ae98621:
 
-    # mc "Honestly, after I saw your case with that Mr. Moneybags that you absolutely annihilated, I just about thought that you'd get recruited by the 
-
-Devil."
+    # mc "Honestly, after I saw your case with that Mr. Moneybags that you absolutely annihilated, I just about thought that you'd get recruited by the Devil."
     mc "Sinceramente, después de ver tu caso con ese Sr. Moneybags al que aniquilaste absolutamente, estuve a punto de pensar que te reclutaría el Diablo."
 
 # game/code/d10p1/d10p1s03.rpy:76
@@ -245,12 +243,8 @@ translate spanish d10p1s03_dafaca6d:
 # game/code/d10p1/d10p1s03.rpy:91
 translate spanish d10p1s03_8eba44e0:
 
-    # mh "Oh, yeah. Those rich douchebags are always up to some crazy stuff. {w}I guess after you've experienced everything a normal person can only dream 
-
-of, you crave stuff a little more...\"out there.\""
-    mh "Oh, sí. Esos ricos imbéciles siempre están tramando alguna locura. {w}Supongo que después de haber experimentado todo lo que una persona normal sólo 
-
-puede soñar, anhelas cosas un poco más...\"allá.\""
+    # mh "Oh, yeah. Those rich douchebags are always up to some crazy stuff. {w}I guess after you've experienced everything a normal person can only dream of, you crave stuff a little more...\"out there.\""
+    mh "Oh, sí. Esos ricos imbéciles siempre están tramando alguna locura. {w}Supongo que después de haber experimentado todo lo que una persona normal sólo puede soñar, anhelas cosas un poco más...\"allá.\""
 
 # game/code/d10p1/d10p1s03.rpy:92
 translate spanish d10p1s03_03f92c12:
@@ -417,9 +411,7 @@ translate spanish d10p1s03_0d66c2b9:
 # game/code/d10p1/d10p1s03.rpy:150
 translate spanish d10p1s03_e949ae2f:
 
-    # mc "Really? Thanks. Honestly, I think I look like I'm about ready to go to a German gay orgy, but if you think it looks good, then it looks good I 
-
-guess."
+    # mc "Really? Thanks. Honestly, I think I look like I'm about ready to go to a German gay orgy, but if you think it looks good, then it looks good I guess."
     mc "¿De verdad? Gracias. Sinceramente, creo que estoy a punto de ir a una orgía gay alemana, pero si crees que queda bien, pues queda bien, supongo."
 
 # game/code/d10p1/d10p1s03.rpy:152
@@ -569,12 +561,8 @@ translate spanish d10p1s03_35447d22:
 # game/code/d10p1/d10p1s03.rpy:206
 translate spanish d10p1s03_d0009695:
 
-    # dd "Didn't say weird. But come on, anyone with a functional pair of eyes could see that there was something more there. Shit, even one functioning eye 
-
-would do."
-    dd "No dije que fuera raro. Pero vamos, cualquiera con un par de ojos funcionales podría ver que había algo más allí. Mierda, incluso un ojo funcional 
-
-serviría."
+    # dd "Didn't say weird. But come on, anyone with a functional pair of eyes could see that there was something more there. Shit, even one functioning eye would do."
+    dd "No dije que fuera raro. Pero vamos, cualquiera con un par de ojos funcionales podría ver que había algo más allí. Mierda, incluso un ojo funcional serviría."
 
 # game/code/d10p1/d10p1s03.rpy:208
 translate spanish d10p1s03_c68afd25:
@@ -616,7 +604,7 @@ translate spanish d10p1s03_1f4e2c47:
 translate spanish d10p1s03_5791a19e:
 
     # mc "\"LATEX DOLL\"? I like it. {w} It fits the whole getup well."
-    mc "\¿"MUÑECA DE LÁTEX\"? Me gusta. {w} Se adapta bien a todo el conjunto."
+    mc "¿\"MUÑECA DE LÁTEX\"? Me gusta. {w} Se adapta bien a todo el conjunto."
 
 # game/code/d10p1/d10p1s03.rpy:222
 translate spanish d10p1s03_06955e9a:
@@ -747,12 +735,8 @@ translate spanish d10p1s03_773cb598:
 # game/code/d10p1/d10p1s03.rpy:280
 translate spanish d10p1s03_83a83eaa:
 
-    # op "Can you please explain this to her? The glasses should count! They cover about as much and sometimes even more than some of the other masks I've 
-
-seen here."
-    op "¿Puedes explicarle esto, por favor? ¡Las gafas deberían contar! Cubren tanto y a veces incluso más que algunas de las otras máscaras que he visto 
-
-aquí."
+    # op "Can you please explain this to her? The glasses should count! They cover about as much and sometimes even more than some of the other masks I've seen here."
+    op "¿Puedes explicarle esto, por favor? ¡Las gafas deberían contar! Cubren tanto y a veces incluso más que algunas de las otras máscaras que he visto aquí."
 
 # game/code/d10p1/d10p1s03.rpy:281
 translate spanish d10p1s03_b4867282:
@@ -799,12 +783,8 @@ translate spanish d10p1s03_6ce94777:
 # game/code/d10p1/d10p1s03.rpy:293
 translate spanish d10p1s03_8029ce43:
 
-    # op "Ms. Harris usually never has people in her office like that without an appointment or something and there wasn't any that day, so I thought that 
-
-nobody would be there, so I—"
-    op "La Sra. Harris normalmente nunca tiene gente en su oficina sin una cita o algo así y ese día no había ninguna, así que pensé que no habría nadie, 
-
-así que—"
+    # op "Ms. Harris usually never has people in her office like that without an appointment or something and there wasn't any that day, so I thought that nobody would be there, so I—"
+    op "La Sra. Harris normalmente nunca tiene gente en su oficina sin una cita o algo así y ese día no había ninguna, así que pensé que no habría nadie, así que—"
 
 # game/code/d10p1/d10p1s03.rpy:295
 translate spanish d10p1s03_c48479a9:
@@ -954,7 +934,7 @@ translate spanish d10p1s03_74edd4cd:
 translate spanish d10p1s03_3868503d:
 
     # op "I spent just about every point I have getting in, so I really, really don't want to get turned away after all that just because of a stupid rule."
-    op "He gastado casi todos los puntos que tengo para entrar, así que realmente no quiero que me rechacen después de todo eso sólo por una regla 
+    op "He gastado casi todos los puntos que tengo para entrar, así que realmente no quiero que me rechacen después de todo eso sólo por una regla
 
 estúpida."
 
@@ -985,12 +965,8 @@ translate spanish d10p1s03_a36bddc6:
 # game/code/d10p1/d10p1s03.rpy:347
 translate spanish d10p1s03_25db55a2:
 
-    # mc "Don't ask questions you don't want answers to, man. I had an incident with masks last time as well, so I wanted to be prepared this time. Do you 
-
-want it or not?"
-    mc "No hagas preguntas para las que no quieras respuestas. La última vez también tuve un incidente con las máscaras, así que quería estar preparado esta 
-
-vez. ¿La quieres o no?"
+    # mc "Don't ask questions you don't want answers to, man. I had an incident with masks last time as well, so I wanted to be prepared this time. Do you want it or not?"
+    mc "No hagas preguntas para las que no quieras respuestas. La última vez también tuve un incidente con las máscaras, así que quería estar preparado esta vez. ¿La quieres o no?"
 
 # game/code/d10p1/d10p1s03.rpy:349
 translate spanish d10p1s03_077656e0:

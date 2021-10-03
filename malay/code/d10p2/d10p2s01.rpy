@@ -125,7 +125,7 @@ translate malay d10p2s01_5f9730d0:
 
     # dd "I'm putting together a horse race and need you to be a jockey."
     dd "Aku tengah buat perlumbaan kuda dan perlukan kau jadi joki."
-ddd
+
 # game/code/d10p2/d10p2s01.rpy:109
 translate malay d10p2s01_5705689d:
 
@@ -665,12 +665,12 @@ translate malay replay_d10p2s01_32ba8f31:
 
     # arjfl "You mean, you want me to go back to serving drinks while my face is painted with your cum?"
     arjfl "Maksud kau dengan rupa aku macam ni?"
-    
+
 # game/code/d10p2/d10p2s01.rpy:417
 translate malay replay_d10p2s01_d61051ad:
 
     # mc "Indeed. {w}What do you say?"
-    mc "Ya. {w}Apa kata kau?
+    mc "Ya. {w}Apa kata kau?"
 
 # game/code/d10p2/d10p2s01.rpy:418
 translate malay replay_d10p2s01_ffa1e9f7:
@@ -682,7 +682,7 @@ translate malay replay_d10p2s01_ffa1e9f7:
 translate malay replay_d10p2s01_87e26eb2:
 
     # mc "Good girl."
-    mc "Bagus
+    mc "Budak perempuan baik."
 
 # game/code/d10p2/d10p2s01.rpy:422
 translate malay replay_d10p2s01_6d46cafb:
@@ -743,7 +743,7 @@ translate malay replay_d10p2s01_00377d23:
 
     # arjfl "Will do!"
     arjfl "Baiklah!"
-    
+
 translate malay strings:
 
     # game/code/d10p2/d10p2s01.rpy:140
@@ -761,8 +761,7 @@ translate malay strings:
     # game/code/d10p2/d10p2s01.rpy:140
     old "Horseback Riding Event"
     new "Acara Menunggang Kuda"
-    
+
     # game/code/d10p2/d10p2s01.rpy:140
     old "Prepare for Main Event"
     new "Bersedia untuk acara utama"
-

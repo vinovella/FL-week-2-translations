@@ -406,350 +406,350 @@ translate spanish d10p1s02_23f7b300:
 translate spanish d10p1s02_c7075b4f:
 
     # aw "Wanna see then?"
-    aw ¿Quiere ver entonces?"
-    
+    aw "¿Quiere ver entonces?"
+
 # game/code/d10p1/d10p1s02.rpy:135
 translate spanish d10p1s02_3f9df27f:
 
     # mc "...What?"
     mc "...¿Qué?"
-    
+
 # game/code/d10p1/d10p1s02.rpy:136
 translate spanish d10p1s02_4947cec5:
 
     # aw "Do you want to see how I cum?"
     aw "¿Quieres ver cómo me corro?"
-    
+
 # game/code/d10p1/d10p1s02.rpy:138
 translate spanish d10p1s02_1c86622f:
 
     # mc "Wha— Whe— Right now!?"
     mc "¿¡Qué— qué— ahora mismo!?"
-    
+
 # game/code/d10p1/d10p1s02.rpy:139
 translate spanish d10p1s02_018e0d09:
 
     # aw "Yeah, why not?"
     aw "Sí, ¿por qué no?"
-    
+
 # game/code/d10p1/d10p1s02.rpy:140
 translate spanish d10p1s02_b8fbb3ac:
 
     # mc "...I mean, where wil—"
     mc "...quiero decir, donde—"
-    
+
 # game/code/d10p1/d10p1s02.rpy:142
 translate spanish d10p1s02_ff4b85c9:
 
     # aw "Right here, on the stairs."
     aw "Justo aquí, en las escaleras."
-    
+
 # game/code/d10p1/d10p1s02.rpy:144
 translate spanish d10p1s02_51a9adcf:
 
     # mc "Why the stairs? What if someone sees? Or comes by?"
     mc "¿Por qué las escaleras? ¿Y si alguien lo ve? ¿O pasa por aquí?"
-    
+
 # game/code/d10p1/d10p1s02.rpy:145
 translate spanish d10p1s02_d2cacc93:
 
     # aw "Why not? And so what? If they want to go somewhere, we let them. This {i}is{/i} a fetish party after all, they must've expected to see some action here and there. So why not here?"
     aw "¿Por qué no? ¿Y qué? Si quieren ir a algún sitio, les dejamos. Esta {i}es{/i} una fiesta fetichista después de todo, deben esperar ver algo de acción aquí y allá. Entonces, ¿por qué no aquí?"
-    
+
 # game/code/d10p1/d10p1s02.rpy:146
 translate spanish d10p1s02_a5589ad2:
 
     # mc "...Well, that's a good point. {w}Sure, why not?"
     mc "...Bueno, ese es un buen punto. {w}Claro, ¿por qué no?"
-    
+
 # game/code/d10p1/d10p1s02.rpy:150
 translate spanish replay_d10p1s02_6c0d68ca:
 
     # aw "Great! Hm..."
     aw "¡Genial! Hm..."
-    
+
 # game/code/d10p1/d10p1s02.rpy:152
 translate spanish replay_d10p1s02_70b629c2:
 
     # aw "Alright. How about this? "
     aw "Muy bien. ¿Qué te parece esto? "
-    
+
 # game/code/d10p1/d10p1s02.rpy:153
 translate spanish replay_d10p1s02_6c27e7b8:
 
     # aw "You go on that step and I'll be one below you. You can try and get me off from behind me."
     aw "Tú vas a ese escalón y yo estaré uno por debajo de ti. Puedes intentar bajarme por detrás de mí."
-    
+
 # game/code/d10p1/d10p1s02.rpy:154
 translate spanish replay_d10p1s02_606e2d02:
 
     # mc "Sure."
     mc "Claro que sí."
-    
+
 # game/code/d10p1/d10p1s02.rpy:156
 translate spanish replay_d10p1s02_c2dfb196:
 
     # mc "Wait, how exactly am I supposed to...y'know—"
     mc "Espera, ¿cómo se supone exactamente que... ya sabes—"
-    
+
 # game/code/d10p1/d10p1s02.rpy:157
 translate spanish replay_d10p1s02_af78c9ee:
 
     # aw "You {i}have{/i} gotten off a woman before, right?"
     aw "Ya te has {i}librado{/i} de una mujer antes, ¿verdad?"
-    
+
 # game/code/d10p1/d10p1s02.rpy:158
 translate spanish replay_d10p1s02_4860c3ce:
 
     # mc "I— Wha—? Of course I have! {w}I just...I just wanted to know what the boundaries were."
     mc "Yo— ¿Qué—? ¡Claro que sí! {w}Sólo... sólo quería saber cuáles eran los límites."
-    
+
 # game/code/d10p1/d10p1s02.rpy:160
 translate spanish replay_d10p1s02_f1002963:
 
     # aw "Ah... Well, how about you do your thing and I tell you if you cross them?"
     aw "Ah... Bueno, ¿qué tal si tú haces lo tuyo y yo te digo si te cruzas con ellos?"
-    
+
 # game/code/d10p1/d10p1s02.rpy:161
 translate spanish replay_d10p1s02_fdaca743:
 
     # mc "Sure. That works, I guess."
     mc "Claro. Eso funciona, supongo."
-    
+
 # game/code/d10p1/d10p1s02.rpy:169
 translate spanish replay_d10p1s02_3a949fed:
 
     # aw "Ahh..."
     aw "Ahh..."
-    
+
 # game/code/d10p1/d10p1s02.rpy:170
 translate spanish replay_d10p1s02_1eaaeb2e:
 
     # mc "Wait, did you jus—"
     mc "Espera, ¿acabas de—"
-    
+
 # game/code/d10p1/d10p1s02.rpy:171
 translate spanish replay_d10p1s02_aa25011d:
 
     # aw "Yep."
     aw "Sí."
-    
+
 # game/code/d10p1/d10p1s02.rpy:173
 translate spanish replay_d10p1s02_6a8ac4ff:
 
     # mc "Just from—"
     mc "Sólo de—"
-    
+
 # game/code/d10p1/d10p1s02.rpy:174
 translate spanish replay_d10p1s02_aa25011d_1:
 
     # aw "Yep."
     aw "Sí."
-    
+
 # game/code/d10p1/d10p1s02.rpy:176
 translate spanish replay_d10p1s02_698d7569:
 
     # mc "Wow."
     mc "Guau."
-    
+
 # game/code/d10p1/d10p1s02.rpy:177
 translate spanish replay_d10p1s02_146a39ee:
 
     # aw "Told you."
     aw "Te lo dije."
-    
+
 # game/code/d10p1/d10p1s02.rpy:179
 translate spanish replay_d10p1s02_640e1f21:
 
     # mc "No panties, huh?"
     mc "Sin bragas, ¿eh?"
-    
+
 # game/code/d10p1/d10p1s02.rpy:180
 translate spanish replay_d10p1s02_ab218d07:
 
     # aw "What's the point?"
     aw "¿Cuál es el punto?"
-    
+
 # game/code/d10p1/d10p1s02.rpy:181
 translate spanish replay_d10p1s02_1f426f2d:
 
     # mc "True."
     mc "Es cierto."
-    
+
 # game/code/d10p1/d10p1s02.rpy:191
 translate spanish replay_d10p1s02_d86f86ab:
 
     # mc "Wait, what are you doing?"
     mc "Espera, ¿qué estás haciendo?"
-    
+
 # game/code/d10p1/d10p1s02.rpy:193
 translate spanish replay_d10p1s02_23e9966b:
 
     # aw "It's not very fair for me to be the only one getting off here, right? So I wanna jerk you off as well."
     aw "No es muy justo que yo sea la única que se masturbe aquí, ¿verdad? Así que quiero masturbarte a ti también."
-    
+
 # game/code/d10p1/d10p1s02.rpy:196
 translate spanish replay_d10p1s02_7299eefb:
 
     # aw "I've never jerked off a guy like this before anyway, so I wanna see what it's like."
     aw "De todos modos, nunca he masturbado a un tipo así, así que quiero ver cómo es."
-    
+
 # game/code/d10p1/d10p1s02.rpy:210
 translate spanish replay_d10p1s02_5248d153:
 
     # cb "Oh, I, uhm, sorry!"
     cb "Oh, yo, uhm, ¡lo siento!"
-    
+
 # game/code/d10p1/d10p1s02.rpy:214
 translate spanish replay_d10p1s02_aed94228:
 
     # mc "Was that—"
     mc "¿Fue eso—?"
-    
+
 # game/code/d10p1/d10p1s02.rpy:215
 translate spanish replay_d10p1s02_f7ba44bc:
 
     # aw "Forget about her. I told you."
     aw "Olvídate de ella. Te lo dije."
-    
+
 # game/code/d10p1/d10p1s02.rpy:216
 translate spanish replay_d10p1s02_b12907fb:
 
     # mc "Alright..."
     mc "Muy bien..."
-    
+
 # game/code/d10p1/d10p1s02.rpy:239
 translate spanish replay_d10p1s02_a7f6081e:
 
     # aw "Wow, that was...yeah. Thank you."
     aw "Vaya, eso fue... sí. Gracias."
-    
+
 # game/code/d10p1/d10p1s02.rpy:240
 translate spanish replay_d10p1s02_551b8412:
 
     # mc "Same here."
     mc "Lo mismo digo."
-    
+
 # game/code/d10p1/d10p1s02.rpy:243
 translate spanish replay_d10p1s02_d6b4322d:
 
     # mc "Wait, is that...is that a butt plug?"
     mc "Espera, ¿eso es... es un tapón de culo?"
-    
+
 # game/code/d10p1/d10p1s02.rpy:244
 translate spanish replay_d10p1s02_34092cce:
 
     # aw "Huh? Oh, yeah. Forgot that thing was even there."
     aw "¿Eh? Ah, sí. Olvidé que esa cosa estaba ahí."
-    
+
 # game/code/d10p1/d10p1s02.rpy:245
 translate spanish replay_d10p1s02_fcb5400b:
 
     # mc "You just wear it around like that?"
     mc "¿Lo llevas así por ahí?"
-    
+
 # game/code/d10p1/d10p1s02.rpy:246
 translate spanish replay_d10p1s02_a1d9c805:
 
     # aw "Yeah."
     aw "Sí."
-    
+
 # game/code/d10p1/d10p1s02.rpy:248
 translate spanish replay_d10p1s02_0a8c782b:
 
     # mc "It's not uncomfortable?"
     mc "¿No es incómodo?"
-    
+
 # game/code/d10p1/d10p1s02.rpy:249
 translate spanish replay_d10p1s02_c66393db:
 
     # aw "Well, it is, kinda, but you get used to it."
     aw "Bueno, lo es, un poco, pero te acostumbras."
-    
+
 # game/code/d10p1/d10p1s02.rpy:251
 translate spanish replay_d10p1s02_79878977:
 
     # mc "So why wear it? "
     mc "Entonces, ¿por qué llevarlo? "
-    
+
 # game/code/d10p1/d10p1s02.rpy:252
 translate spanish replay_d10p1s02_cb6e27e7:
 
     # aw "I just like wearing it sometimes."
     aw "Sólo me gusta llevarlo a veces."
-    
+
 # game/code/d10p1/d10p1s02.rpy:253
 translate spanish replay_d10p1s02_3ad64ee8:
 
     # mc "Huh, that's a good enough reason as any I suppose."
     mc "Supongo que es una razón tan buena como cualquier otra."
-    
+
 # game/code/d10p1/d10p1s02.rpy:255
 translate spanish replay_d10p1s02_6c56ac43:
 
     # aw "And it helps get me off as well. Like right now for example."
     aw "Y también me ayuda a bajarme. Como ahora mismo, por ejemplo."
-    
+
 # game/code/d10p1/d10p1s02.rpy:256
 translate spanish replay_d10p1s02_0fd86965:
 
     # mc "Cool. {w}It looks hot, by the way."
     mc "Genial. {w}Por cierto, parece caliente."
-    
+
 # game/code/d10p1/d10p1s02.rpy:257
 translate spanish replay_d10p1s02_2834e9a9:
 
     # aw "Thank you! "
     aw "¡Gracias! "
-    
+
 # game/code/d10p1/d10p1s02.rpy:258
 translate spanish replay_d10p1s02_0d83c812:
 
     # aw "Oh, uh, mind getting me some tissues, [mcname]? You kinda Pollocked my back there."
     aw "Oh, uh, ¿te importaría traerme algunos pañuelos, [mcname]? Me has hecho una especie de Pollock en la espalda."
-    
+
 # game/code/d10p1/d10p1s02.rpy:260
 translate spanish replay_d10p1s02_4325d4e8:
 
     # mc "Oh, sorry. Here lemme jus..."
     mc "Oh, lo siento. Aquí, déjame..."
-    
+
 # game/code/d10p1/d10p1s02.rpy:266
 translate spanish replay_d10p1s02_af3c9270:
 
     # aw "Thanks. Guess I finally got some cum on my back, eh?"
     aw "Gracias. Supongo que por fin tengo algo de semen en la espalda, ¿eh?"
-    
+
 # game/code/d10p1/d10p1s02.rpy:267
 translate spanish replay_d10p1s02_b77688dd:
 
     # mc "Told you you'd find a guy to help you out with that."
     mc "Te dije que encontrarías un tipo que te ayudara con eso."
-    
+
 # game/code/d10p1/d10p1s02.rpy:269
 translate spanish replay_d10p1s02_86bcda89:
 
     # aw "I should probably go get cleaned up a little for real. No offense, but I don't want to spend the whole party smelling like semen."
     aw "Probablemente debería ir a limpiarme un poco de verdad. No te ofendas, pero no quiero pasar toda la fiesta oliendo a semen."
-    
+
 # game/code/d10p1/d10p1s02.rpy:270
 translate spanish replay_d10p1s02_f325e5eb:
 
     # mc "None taken, and I understand."
     mc "No me lo creo, y lo entiendo."
-    
+
 # game/code/d10p1/d10p1s02.rpy:272
 translate spanish replay_d10p1s02_5d927d17:
 
     # mc "It was uhm...fun meeting you. {w}Can't wait to see you at the main event."
     mc "Fue uhm... divertido conocerte. {w}No puedo esperar a verte en el evento principal."
-    
+
 # game/code/d10p1/d10p1s02.rpy:273
 translate spanish replay_d10p1s02_de01b574:
 
     # aw "Oh? That confident, huh? I like it. I'm sure a guy like you can get close to the top spot.{w} Don't count on beating me though."
     aw "¿Oh? Así de confiado, ¿eh? Me gusta. Estoy segura de que un tipo como tú puede acercarse al primer puesto.{w} Sin embargo, no cuentes con ganarme."
-    
+
 # game/code/d10p1/d10p1s02.rpy:274
 translate spanish replay_d10p1s02_596b4c4a:
 

@@ -52,7 +52,7 @@ translate spanish d10p2s01_7fbf05eb:
 translate spanish d10p2s01_52556d99:
 
     # sy "Answering the call of nature."
-    sy "Respondiendo a la llamada de la naturaleza".
+    sy "Respondiendo a la llamada de la naturaleza."
 
 # game/code/d10p2/d10p2s01.rpy:78
 translate spanish d10p2s01_e5544801:
@@ -670,7 +670,7 @@ translate spanish replay_d10p2s01_32ba8f31:
 translate spanish replay_d10p2s01_d61051ad:
 
     # mc "Indeed. {w}What do you say?"
-    mc "En efecto. {w}¿Qué dices?
+    mc "En efecto. {w}¿Qué dices?"
 
 # game/code/d10p2/d10p2s01.rpy:417
 translate spanish replay_d10p2s01_ffa1e9f7:
@@ -688,7 +688,7 @@ translate spanish replay_d10p2s01_87e26eb2:
 translate spanish replay_d10p2s01_6d46cafb:
 
     # mc "I wish you could stay just like that forever."
-    mc "Ojalá pudieras quedarte así para siempre".
+    mc "Ojalá pudieras quedarte así para siempre."
 
 # game/code/d10p2/d10p2s01.rpy:423
 translate spanish replay_d10p2s01_eaa3d112_1:
@@ -718,7 +718,7 @@ translate spanish replay_d10p2s01_b2b78069:
 translate spanish replay_d10p2s01_5bc8d254:
 
     # arjfl "I don't know. I do kinda want to show off to everyone that you've marked me as yours."
-    arjfl "No lo sé. Sí quiero presumir ante todos de que me has marcado como tuya".
+    arjfl "No lo sé. Sí quiero presumir ante todos de que me has marcado como tuya."
 
 # game/code/d10p2/d10p2s01.rpy:434
 translate spanish replay_d10p2s01_07eef455:
