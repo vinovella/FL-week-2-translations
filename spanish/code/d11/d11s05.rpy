@@ -262,7 +262,7 @@ translate spanish d11s05_44d5fb34:
 translate spanish d11s05_b7a240ef:
 
     # mct "\"Things\"!?"
-    mct "\¿¡"Cosas\"!?"
+    mct "¿¡\"Cosas\"!?"
 
 # game/code/d11/d11s05.rpy:189
 translate spanish d11s05_82bead1d:

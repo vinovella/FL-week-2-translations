@@ -106,7 +106,7 @@ translate spanish d11s04_65de30fb:
 translate spanish d11s04_0c4c8ba1:
 
     # dd "Cardiomyopathy. {w}At least, that's what the quacks said it was."
-    dd "Miocardiopatía {w}Al menos, eso es lo que decían los charlatanes.
+    dd "Miocardiopatía {w}Al menos, eso es lo que decían los charlatanes."
 
 # game/code/d11/d11s04.rpy:71
 translate spanish d11s04_57643ce3:
@@ -352,7 +352,7 @@ translate spanish d11s04_8a6a3e15:
 translate spanish d11s04_1703b74d:
 
     # "Doctor" "Please breathe."
-    "Doctor" "Por favor, respira".
+    "Doctor" "Por favor, respira."
 
 # game/code/d11/d11s04.rpy:196
 translate spanish d11s04_f27aa13b:

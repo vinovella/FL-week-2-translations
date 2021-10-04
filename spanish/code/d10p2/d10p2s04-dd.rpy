@@ -196,7 +196,7 @@ translate spanish d10p2s04_dd_96f6ea80:
 translate spanish d10p2s04_dd_21c16306:
 
     # mc "All you need to do is say your safe word if you don't like what's happening and she'll probably barge in here carrying a battleaxe just wishing a motherfucker would."
-    mc "Todo lo que tienes que hacer es decir tu palabra de seguridad si no te gusta lo que está sucediendo y probablemente irrumpirá aquí llevando un hacha de guerra como si fuera una hija de puta".
+    mc "Todo lo que tienes que hacer es decir tu palabra de seguridad si no te gusta lo que está sucediendo y probablemente irrumpirá aquí llevando un hacha de guerra como si fuera una hija de puta."
 
 # game/code/d10p2/d10p2s04-dd.rpy:225
 translate spanish d10p2s04_dd_4aceaa99:

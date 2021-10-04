@@ -64,7 +64,7 @@ translate chinese d14s14_b4c7faea:
 translate chinese d14s14_f978e717:
 
     # dd "(sigh) This isn't an auction. I'll collect wagers in person - and quietly. You don't want everyone to know how much you bet."
-    dd "(叹气) 这不是拍卖。我会亲自收集赌注--而且是悄悄进行。不能让其他人知道你赌了多少钱。
+    dd "(叹气) 这不是拍卖。我会亲自收集赌注--而且是悄悄进行。不能让其他人知道你赌了多少钱。"
 
 # game/code/d14p2/d14s14.rpy:72
 translate chinese d14s14_b67be5c4:
@@ -929,4 +929,3 @@ translate chinese strings:
     # game/code/d14p2/d14s14.rpy:425
     old "I Like This Feeling!!!"
     new "我喜欢这种感觉!!!"
-
