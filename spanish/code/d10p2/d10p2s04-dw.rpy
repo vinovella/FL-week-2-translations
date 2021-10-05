@@ -142,7 +142,7 @@ translate spanish d10p2s04_dw_dc959ddb:
 translate spanish d10p2s04_dw_ded1b6b9:
 
     # mc "I—I don't think I want to do this right now."
-    mc "Yo—No creo que quiera hacer esto ahora".
+    mc "Yo—No creo que quiera hacer esto ahora."
 
 # game/code/d10p2/d10p2s04-dw.rpy:172
 translate spanish d10p2s04_dw_2a569e80:

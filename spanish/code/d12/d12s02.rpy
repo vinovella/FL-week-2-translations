@@ -82,7 +82,7 @@ translate spanish d12s02_0b4fc516:
 translate spanish d12s02_281c8952:
 
     # "Mysterious Woman" "Anyway. You don't have to worry about anything. Well, not if you do as I say."
-    "Mujer misteriosa" "De todos modos. No tienes que preocuparte por nada. Bueno, no si haces lo que te digo"."
+    "Mujer misteriosa" "De todos modos. No tienes que preocuparte por nada. Bueno, no si haces lo que te digo."
 
 # game/code/d12/d12s02.rpy:86
 translate spanish d12s02_d5023dd3:
