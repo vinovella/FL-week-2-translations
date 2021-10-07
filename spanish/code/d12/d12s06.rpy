@@ -262,7 +262,7 @@ translate spanish d12s06_dw_c0a5f004:
 translate spanish d12s06_dw_e7d62747:
 
     # dw "Yes, pet right there! "
-    dw " "Sí, ¡mascota justo ahí!
+    dw "Sí, ¡mascota justo ahí!"
 
 # game/code/d12/d12s06.rpy:273
 translate spanish d12s06_dw_ee111f3c:

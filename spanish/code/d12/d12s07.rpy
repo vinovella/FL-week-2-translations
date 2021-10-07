@@ -265,7 +265,7 @@ translate spanish d12s07_6c269e6a:
     lc "¿Puedes hacerme un favor? {w}¿Sólo una cosita antes de que los dos nos vayamos a dormir?"
 
 # game/code/d12/d12s07.rpy:149
-translate spanish d12s07_e59abd2a:¿Sólo una cosita antes de que los dos nos vayamos a dormir?
+translate spanish d12s07_e59abd2a:
 
     # mc "Anything."
     mc "Lo que sea."

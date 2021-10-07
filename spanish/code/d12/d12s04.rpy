@@ -178,7 +178,7 @@ translate spanish d12s04_2472d155:
 translate spanish d12s04_2a54acd0:
 
     # mc "\"Forced to\"? What do you mean?"
-    mc "\¿"Forzado a\"? ¿Qué quieres decir?"
+    mc "¿\"Forzado a\"? ¿Qué quieres decir?"
 
 # game/code/d12/d12s04.rpy:135
 translate spanish d12s04_dbd819de:

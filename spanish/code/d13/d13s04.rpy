@@ -142,7 +142,7 @@ translate spanish d13s04_0bb7ff1c:
 translate spanish d13s04_fdbc5db7:
 
     # nk "Just something that happened in 'The Godfather'. The novel, not the film."
-    nk "Es algo que ocurrió en "El Padrino". La novela, no la película."
+    nk "Es algo que ocurrió en \"El Padrino\". La novela, no la película."
 
 # game/code/d13/d13s04.rpy:77
 translate spanish d13s04_745d6e0e:
