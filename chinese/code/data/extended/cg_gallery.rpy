@@ -292,5 +292,5 @@ translate chinese strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Safewords are for noobs"
-    new ""
+    new "安全词是给新手用的"
 
