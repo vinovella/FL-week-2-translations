@@ -196,7 +196,7 @@ translate spanish replay_d13s08_dfb8fbb7:
 translate spanish replay_d13s08_45079d88:
 
     # vw "I'm not {i}living{/i} here exactly, but I come around from time to time."
-    vw "No estoy {i}viviendo{/i} aquí exactamente, pero vengo de vez en cuando.
+    vw "No estoy {i}viviendo{/i} aquí exactamente, pero vengo de vez en cuando."
 
 # game/code/d13/d13s08.rpy:164
 translate spanish replay_d13s08_4eb8f5c1:

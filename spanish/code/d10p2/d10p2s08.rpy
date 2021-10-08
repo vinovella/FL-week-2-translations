@@ -1054,7 +1054,7 @@ translate spanish d10p2s08_tm_part1_c14aacbc:
 translate spanish d10p2s08_tm_part1_fe5a8f35:
 
     # lc "Yes. {w}Did you know it was originally from an Italian sexploitation flick? Svezia, inferno e paradiso."
-    lc "Sí. {w}¿Sabías que es originalmente de una película italiana de sexploitation? Svezia, inferno e paradiso".
+    lc "Sí. {w}¿Sabías que es originalmente de una película italiana de sexploitation? Svezia, inferno e paradiso."
 
 # game/code/d10p2/d10p2s08.rpy:416
 translate spanish d10p2s08_tm_part1_e9dad22d:
@@ -2528,7 +2528,7 @@ translate spanish d10p2s08_jf_part3_889406bb:
 translate spanish d10p2s08_jf_part3_6ace0c21:
 
     # mc "It was part of the rules. Halfway through the race the equine had to make the jockey climax."
-    mc "Era parte de las reglas. A mitad de la carrera el equino tenía que hacer que el jinete llegara al clímax".
+    mc "Era parte de las reglas. A mitad de la carrera el equino tenía que hacer que el jinete llegara al clímax."
 
 # game/code/d10p2/d10p2s08.rpy:981
 translate spanish d10p2s08_jf_part3_2eb36ec5:
