@@ -4,283 +4,283 @@
 translate chinese d14s19_sy_2c3af789:
 
     # mc "Hey sis, what are you doing here?"
-    mc "Hey sis, what are you doing here?"
+    mc "嘿，老妹，你在这里干嘛？"
 
 # game/code/d14p2/d14s19_sy.rpy:137
 translate chinese d14s19_sy_3b552a8a:
 
     # mc "Hey Stacy, what are you doing here?"
-    mc "Hey Stacy, what are you doing here?"
+    mc "嘿，史黛西，你在这里干嘛？"
 
 # game/code/d14p2/d14s19_sy.rpy:139
 translate chinese d14s19_sy_8273db40:
 
     # sy "I won the bet, dummy. {w}We're sharing that bed tonight."
-    sy "I won the bet, dummy. {w}We're sharing that bed tonight."
+    sy "我打赌赢了，你个笨蛋。{w}我们今晚要共享一张床。"
 
 # game/code/d14p2/d14s19_sy.rpy:141
 translate chinese d14s19_sy_5fb8cbf7:
 
     # mc "Oh, okay. {w}Did you bring PJs? That doesn't look comfortable to sleep-"
-    mc "Oh, okay. {w}Did you bring PJs? That doesn't look comfortable to sleep-"
+    mc "哦，好吧。{w}你带睡衣了吗？这床看起来不是很舒服--"
 
 # game/code/d14p2/d14s19_sy.rpy:143
 translate chinese d14s19_sy_c2ff0052:
 
     # sy "Shhhh. {w}You know, I've thought about this a thousand times. I even had the perfect outfit picked for this evening."
-    sy "Shhhh. {w}You know, I've thought about this a thousand times. I even had the perfect outfit picked for this evening."
+    sy "嘘。{w}你知道，我为今晚期待了上千次了。我甚至还挑选了最佳服装。"
 
 # game/code/d14p2/d14s19_sy.rpy:145
 translate chinese d14s19_sy_a5e69829:
 
     # sy "I wanted everything to be just perfect. I wanted to look just perfect for you."
-    sy "I wanted everything to be just perfect. I wanted to look just perfect for you."
+    sy "我希望一切都能做到完美。我想和你完美登对。"
 
 # game/code/d14p2/d14s19_sy.rpy:146
 translate chinese d14s19_sy_f3f8e0f5:
 
     # sy "Unfortunately, I left that outfit at home."
-    sy "Unfortunately, I left that outfit at home."
+    sy "不幸的是，我把那套衣服落在家里了。"
 
 # game/code/d14p2/d14s19_sy.rpy:148
 translate chinese d14s19_sy_604e1a11:
 
     # mc "Your apartment isn't that far away."
-    mc "Your apartment isn't that far away."
+    mc "你的公寓并不远啊。"
 
 # game/code/d14p2/d14s19_sy.rpy:150
 translate chinese d14s19_sy_ee3b8bb1:
 
     # sy "Not at my apartment. It's at home."
-    sy "Not at my apartment. It's at home."
+    sy "不是在我公寓。是在家里。"
 
 # game/code/d14p2/d14s19_sy.rpy:152
 translate chinese d14s19_sy_f355bc8a:
 
     # sy "Even though we've done a lot of teasing, I just didn't think this would ever happen."
-    sy "Even though we've done a lot of teasing, I just didn't think this would ever happen."
+    sy "尽管我们已经挑逗调笑很多次了，但我还是没想到这真的发生了。"
 
 # game/code/d14p2/d14s19_sy.rpy:154
 translate chinese d14s19_sy_7aff92b9:
 
     # mc "It's not like-"
-    mc "It's not like-"
+    mc "这不是--"
 
 # game/code/d14p2/d14s19_sy.rpy:156
 translate chinese d14s19_sy_bbd883ae:
 
     # sy "Listen. I had this whole routine worked out in my head. I had to be wearing that perfect outfit."
-    sy "Listen. I had this whole routine worked out in my head. I had to be wearing that perfect outfit."
+    sy "听着。我在脑子里已经预演了无数遍。我必须穿得完美无缺。"
 
 # game/code/d14p2/d14s19_sy.rpy:158
 translate chinese d14s19_sy_8909cb3f:
 
     # sy "Just so I could take it off for you."
-    sy "Just so I could take it off for you."
+    sy "这样我就能为你脱下它。"
 
 # game/code/d14p2/d14s19_sy.rpy:161
 translate chinese d14s19_sy_1925e97e:
 
     # mct "This is so wrong.{w}.. why does it feel right?"
-    mct "This is so wrong.{w}.. why does it feel right?"
+    mct "这真是离谱{w}……但为什么感觉还不错？"
 
 # game/code/d14p2/d14s19_sy.rpy:162
 translate chinese d14s19_sy_7a859f4e:
 
     # mc "I know we joke around a lot, but you're my sister."
-    mc "I know we joke around a lot, but you're my sister."
+    mc "我知道我们经常开玩笑，但你是我妹妹。"
 
 # game/code/d14p2/d14s19_sy.rpy:164
 translate chinese d14s19_sy_bd9f0ccd:
 
     # sy "And you're my brother. I'm still going to fuck you senseless."
-    sy "And you're my brother. I'm still going to fuck you senseless."
+    sy "而你是我老哥。我还是会把你干得不省人事。"
 
 # game/code/d14p2/d14s19_sy.rpy:166
 translate chinese d14s19_sy_c15041b4:
 
     # mc "Are you fucking with me? Are we really going to do this?"
-    mc "Are you fucking with me? Are we really going to do this?"
+    mc "你在逗我？我们真的要这样？"
 
 # game/code/d14p2/d14s19_sy.rpy:168
 translate chinese d14s19_sy_5f0382fd:
 
     # mc "Are you just messing with me?"
-    mc "Are you just messing with me?"
+    mc "你在跟我开玩笑吗？"
 
 # game/code/d14p2/d14s19_sy.rpy:170
 translate chinese d14s19_sy_300e19cf:
 
     # sy "Not this time."
-    sy "Not this time."
+    sy "这次不是。"
 
 # game/code/d14p2/d14s19_sy.rpy:172
 translate chinese d14s19_sy_7f0dc960:
 
     # mc "I'm in heaven."
-    mc "I'm in heaven."
+    mc "我是在天堂吧。"
 
 # game/code/d14p2/d14s19_sy.rpy:173
 translate chinese d14s19_sy_82958cd4:
 
     # sy "Shhhhhh..."
-    sy "Shhhhhh..."
+    sy "嘘……"
 
 # game/code/d14p2/d14s19_sy.rpy:176
 translate chinese d14s19_sy_484f764a:
 
     # sy "Do you have any idea how many people you've fucked so far?"
-    sy "Do you have any idea how many people you've fucked so far?"
+    sy "你知道到目前为止你已经干了多少人吗？"
 
 # game/code/d14p2/d14s19_sy.rpy:178
 translate chinese d14s19_sy_bb1bd386:
 
     # mc "It must be at least twenty."
-    mc "It must be at least twenty."
+    mc "至少有二十个吧。"
 
 # game/code/d14p2/d14s19_sy.rpy:180
 translate chinese d14s19_sy_ad9a0c28:
 
     # sy "We've been keeping track. You are at 19 right now."
-    sy "We've been keeping track. You are at 19 right now."
+    sy "我们一直在记录。现在有19个了。"
 
 # game/code/d14p2/d14s19_sy.rpy:181
 translate chinese d14s19_sy_b8de06d3:
 
     # mc "Oh."
-    mc "Oh."
+    mc "哦。"
 
 # game/code/d14p2/d14s19_sy.rpy:183
 translate chinese d14s19_sy_e6e1d335:
 
     # sy "I'm going to be your twentieth fuck."
-    sy "I'm going to be your twentieth fuck."
+    sy "我来参与你的第二十次性交。"
 
 # game/code/d14p2/d14s19_sy.rpy:185
 translate chinese d14s19_sy_b8a87e66:
 
     # mc "I couldn't say \"No\" to you even if I wanted to..."
-    mc "I couldn't say \"No\" to you even if I wanted to..."
+    mc "即使我想，也不能对你说\"不\"……"
 
 # game/code/d14p2/d14s19_sy.rpy:187
 translate chinese d14s19_sy_9232cdae:
 
     # sy "I know."
-    sy "I know."
+    sy "我知道。"
 
 # game/code/d14p2/d14s19_sy.rpy:199
 translate chinese d14s19_sy_acb7e0ea:
 
     # sy "Just relax and let me entertain you."
-    sy "Just relax and let me entertain you."
+    sy "放松点，让我来招待你。"
 
 # game/code/d14p2/d14s19_sy.rpy:201
 translate chinese d14s19_sy_6b85b289:
 
     # mc "I can't believe I'm saying this aloud, but..."
-    mc "I can't believe I'm saying this aloud, but..."
+    mc "真不敢相信我会这么说，但是……"
 
 # game/code/d14p2/d14s19_sy.rpy:203
 translate chinese d14s19_sy_0a8be510:
 
     # mc "I didn't have a perfect outfit picked out."
-    mc "I didn't have a perfect outfit picked out."
+    mc "可惜我没选出一套完美造型。"
 
 # game/code/d14p2/d14s19_sy.rpy:205
 translate chinese d14s19_sy_d7c7153a:
 
     # mc "I have to tell you - I've been fantasizing about this."
-    mc "I have to tell you - I've been fantasizing about this."
+    mc "我必须要告诉你--我一直在幻想今晚。"
 
 # game/code/d14p2/d14s19_sy.rpy:207
 translate chinese d14s19_sy_4163fac9:
 
     # mc "And I can't imagine you ever looking sexier than you do right now."
-    mc "And I can't imagine you ever looking sexier than you do right now."
+    mc "今晚的你是我见过最性感的一次。"
 
 # game/code/d14p2/d14s19_sy.rpy:211
 translate chinese d14s19_sy_1c99c683:
 
     # sy "We're going to have a lot of fun together tonight.{w}.. and no one is going to interrupt us this time."
-    sy "We're going to have a lot of fun together tonight.{w}.. and no one is going to interrupt us this time."
+    sy "我们今晚会很尽兴……{w}而且这次不会有人打扰我们。"
 
 # game/code/d14p2/d14s19_sy.rpy:239
 translate chinese d14s19_sy_6ab4bdfe:
 
     # sy "I've wanted this for the longest time."
-    sy "I've wanted this for the longest time."
+    sy "我想要这个已经很久了。"
 
 # game/code/d14p2/d14s19_sy.rpy:241
 translate chinese d14s19_sy_c88f8d92:
 
     # mc "Stacy. I want you-"
-    mc "Stacy. I want you-"
+    mc "史黛西。我想要你--"
 
 # game/code/d14p2/d14s19_sy.rpy:249
 translate chinese d14s19_sy_ac0da949:
 
     # sy "[mcname] I want you to wreck my tight twat."
-    sy "[mcname] I want you to wreck my tight twat."
+    sy "[mcname]，我想让你尽情蹂躏我紧致的小穴。"
 
 # game/code/d14p2/d14s19_sy.rpy:251
 translate chinese d14s19_sy_5f504b4b:
 
     # mc "I cannot wait."
-    mc "I cannot wait."
+    mc "我等不及了。"
 
 # game/code/d14p2/d14s19_sy.rpy:280
 translate chinese d14s19_sy_014fbf76:
 
     # sy "Let's fuck in every way possible on every piece of furniture in this room."
-    sy "Let's fuck in every way possible on every piece of furniture in this room."
+    sy "我们要以各种方式、在这个房间里所有家具上都做个遍。"
 
 # game/code/d14p2/d14s19_sy.rpy:776
 translate chinese d14s19_sy_cum_7043ad7c:
 
     # sy "Fuck Yes! Yes! Fuck me!"
-    sy "Fuck Yes! Yes! Fuck me!"
+    sy "哦哦！没错！操我！"
 
 # game/code/d14p2/d14s19_sy.rpy:784
 translate chinese d14s19_sy_cum_d4b726f8:
 
     # sy "Hold Me!!"
-    sy "Hold Me!!"
+    sy "抱紧我!!"
 
 # game/code/d14p2/d14s19_sy.rpy:786
 translate chinese d14s19_sy_cum_3813a3be:
 
     # sy "I'M CUMMMMMMMING!!!"
-    sy "I'M CUMMMMMMMING!!!"
+    sy "我……要来了!!!"
 
 # game/code/d14p2/d14s19_sy.rpy:788
 translate chinese d14s19_sy_cum_d8798ec9:
 
     # sy "That was awesome."
-    sy "That was awesome."
+    sy "好厉害啊。"
 
 # game/code/d14p2/d14s19_sy.rpy:790
 translate chinese d14s19_sy_cum_5290ef72:
 
     # mc "Stacy, I need to cum."
-    mc "Stacy, I need to cum."
+    mc "史黛西，我要射了。"
 
 # game/code/d14p2/d14s19_sy.rpy:792
 translate chinese d14s19_sy_cum_65ce8912:
 
     # sy "Yeah? {w}So, what are you going to do about it?"
-    sy "Yeah? {w}So, what are you going to do about it?"
+    sy "是吗？{w}那么，你想怎么做呢？"
 
 # game/code/d14p2/d14s19_sy.rpy:794
 translate chinese d14s19_sy_cum_b737f2af:
 
     # mc "Oh, it's like that?"
-    mc "Oh, it's like that?"
+    mc "哦，这样如何？"
 
 # game/code/d14p2/d14s19_sy.rpy:796
 translate chinese d14s19_sy_cum_c58ca971:
 
     # sy "Hell yeah."
-    sy "Hell yeah."
+    sy "靠，好啊。"
 
 # game/code/d14p2/d14s19_sy.rpy:798
 translate chinese d14s19_sy_cum_1bc67c36:
