@@ -550,7 +550,7 @@ translate spanish d14s05_f661beb5:
 translate spanish d14s05_8f2bef25:
 
     # arj "Did she just refer to Stacy as a \"Them\"?"
-    arj "¿Acaba de referirse a Stacy como una "Ellas"?"
+    arj "¿Acaba de referirse a Stacy como una \"Ellas\"?"
 
 # game/code/d14/d14s05.rpy:216
 translate spanish d14s05_155100be:
