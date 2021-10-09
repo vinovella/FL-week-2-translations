@@ -64,7 +64,7 @@ translate spanish d14s03_4aeb46a7:
 translate spanish d14s03_025bde24:
 
     # sy "Weeell, \"{i}forgot{/i}\" is a strong word. Let's just say {i}strategically misplaced{/i}."
-    sy "Bueeeno, "\{i}olvidé{/i}\" es una palabra fuerte. Digamos que es un {i}error estratégico{/i}."
+    sy "Bueeeno, \"{i}olvidé{/i}\" es una palabra fuerte. Digamos que es un {i}error estratégico{/i}."
 
 # game/code/d14/d14s03.rpy:27
 translate spanish d14s03_098bc526:
@@ -412,7 +412,7 @@ translate spanish d14s03_c73713cc:
 translate spanish d14s03_92809638:
 
     # mc "Well, I was swimming and just chilling, as you do, when she came out of nowhere in jet-ski and was like, \"Come with me if you want to live\" and—"
-    mc "Bueno, yo estaba nadando y simplemente relajándome, como se hace, cuando ella salió de la nada en moto de agua y fue como, \"Ven conmigo si quieres vivir" y—"
+    mc "Bueno, yo estaba nadando y simplemente relajándome, como se hace, cuando ella salió de la nada en moto de agua y fue como, \"Ven conmigo si quieres vivir\" y—"
 
 # game/code/d14/d14s03.rpy:159
 translate spanish d14s03_edfdd2e2:
