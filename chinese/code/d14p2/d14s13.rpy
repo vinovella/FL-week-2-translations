@@ -28,7 +28,7 @@ translate chinese d14s13_16e83347:
 translate chinese d14s13_600e06be:
 
     # sy "Aw, we were having fun."
-    sy "啊，我们正玩得开心呢。"
+    sy "啊，我们玩得正开心呢。"
 
 # game/code/d14p2/d14s13.rpy:20
 translate chinese d14s13_56d69ed9:
@@ -214,7 +214,7 @@ translate chinese d14s13_f1cb5078:
 translate chinese d14s13_ea8b8cb6:
 
     # mc "Yeah. We won't have to sneak off into the middle of the ocean to talk anymore."
-    mc "没错。我们再也不用偷偷溜到海中央去谈话了。"
+    mc "没错。我们再也不用偷偷溜到大海中央去谈话了。"
 
 # game/code/d14p2/d14s13.rpy:82
 translate chinese d14s13_b256f5da:
@@ -406,7 +406,7 @@ translate chinese d14s13_1c556650:
 translate chinese d14s13_8edce6a2:
 
     # mc "And I'll try not to lose my dick and help out in any way I can as well."
-    mc "我也会尽量不失去自己的老二，尽我所能帮你。"
+    mc "我也会尽量不失去自己的老二，尽我所能帮你们。"
 
 # game/code/d14p2/d14s13.rpy:144
 translate chinese d14s13_ddd03b4b:
