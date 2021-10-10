@@ -22,7 +22,7 @@ translate chinese d14s15_1e32e515:
 translate chinese d14s15_49cf4dc7:
 
     # sb "That's the nicest shower I've ever seen. Even the temperature was just perfect."
-    sb "这是我见过的最好的淋浴。就连温度也恰到好处。"
+    sb "这是我见过最好的淋浴。就连温度也恰到好处。"
 
 # game/code/d14p2/d14s15.rpy:21
 translate chinese d14s15_7eab97ba:
