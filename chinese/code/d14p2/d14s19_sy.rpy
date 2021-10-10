@@ -16,7 +16,7 @@ translate chinese d14s19_sy_3b552a8a:
 translate chinese d14s19_sy_8273db40:
 
     # sy "I won the bet, dummy. {w}We're sharing that bed tonight."
-    sy "我打赌赢了，你个笨蛋。{w}我们今晚要共享一张床。"
+    sy "我下注最多赢了，你个笨蛋。{w}我们今晚要共享一张床。"
 
 # game/code/d14p2/d14s19_sy.rpy:141
 translate chinese d14s19_sy_5fb8cbf7:
@@ -28,7 +28,7 @@ translate chinese d14s19_sy_5fb8cbf7:
 translate chinese d14s19_sy_c2ff0052:
 
     # sy "Shhhh. {w}You know, I've thought about this a thousand times. I even had the perfect outfit picked for this evening."
-    sy "嘘。{w}你知道，我为今晚期待了上千次了。我甚至还挑选了最佳服装。"
+    sy "嘘。{w}你知道，我为今晚期待了上千次了。我甚至还挑选了最佳造型。"
 
 # game/code/d14p2/d14s19_sy.rpy:145
 translate chinese d14s19_sy_a5e69829:
