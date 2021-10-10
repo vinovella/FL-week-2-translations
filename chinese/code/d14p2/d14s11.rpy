@@ -88,7 +88,7 @@ translate chinese d14s11_df4f37de:
 translate chinese d14s11_36e45e27:
 
     # mc "I gotta say - this really did all come together nicely."
-    mc "不得不说--大家的合作地真的很棒。"
+    mc "不得不说--大家合作地真的很棒。"
 
 # game/code/d14p2/d14s11.rpy:53
 translate chinese d14s11_84972954:
@@ -388,7 +388,7 @@ translate chinese d14s11_2b7938d6:
 translate chinese d14s11_b063effb:
 
     # arj "I haven't-"
-    arj "我还没……"
+    arj "我还没--"
 
 # game/code/d14p2/d14s11.rpy:151
 translate chinese d14s11_61d771c9:
@@ -424,7 +424,7 @@ translate chinese d14s11_e18b2360:
 translate chinese d14s11_ff60451f:
 
     # mct "Oh fuck."
-    mct "妈的。"
+    mct "我靠。"
 
 # game/code/d14p2/d14s11.rpy:162
 translate chinese d14s11_7a63179a:
@@ -568,7 +568,7 @@ translate chinese d14s11_4db7a48c:
 translate chinese d14s11_108e13b3:
 
     # aw "I suspected you might want a piece of that."
-    aw "哇！果然是小鱼呢！"
+    aw "我怀疑你是想来上一块。"
 
 # game/code/d14p2/d14s11.rpy:226
 translate chinese d14s11_5078e78c:
@@ -664,7 +664,7 @@ translate chinese d14s11_b0169045:
 translate chinese d14s11_8ebd3ebd:
 
     # lc "Oh, um... {w}tempting, but no."
-    lc "嗯…… {w}是很有诱惑力，但是不行。"
+    lc "嗯…… {w}是很有诱惑力，但我不行。"
 
 # game/code/d14p2/d14s11.rpy:278
 translate chinese d14s11_8a587fad:
@@ -850,7 +850,7 @@ translate chinese d14s11_aw_0903577c:
 translate chinese d14s11_aw_71c744e2:
 
     # aw "Oh, I know. I left some toys up there."
-    aw "哦，我知道。我把一些玩具留在那儿了。"
+    aw "哦，我知道。我在那儿留了一些玩具。"
 
 # game/code/d14p2/d14s11.rpy:350
 translate chinese d14s11_aw_b72ee5e0:
@@ -862,7 +862,7 @@ translate chinese d14s11_aw_b72ee5e0:
 translate chinese d14s11_reject_b4b14a58:
 
     # mc "Tempting, but I'm not feeling it."
-    mc "这个提议很诱人，但我没感觉。"
+    mc "这个提议很诱人，但我现在没感觉。"
 
 # game/code/d14p2/d14s11.rpy:365
 translate chinese d14s11_reject_bd23af07:
