@@ -34,7 +34,7 @@ translate chinese d14s14_c2947e97:
 translate chinese d14s14_14bc14c7:
 
     # dd "Representing the Female Gender - that salacious succubus, that saccharine slitch, that scintillating seductress...{w} Slammin' Samiya!"
-    dd "有请我们的女性代表--她是个小淫魔，是美艳浪荡女，是媚惑欲女……{w}妓女萨米亚！"
+    dd "有请我们的女性代表--她是个小淫魔，是美艳浪荡女，是媚惑欲女……{w}欢迎妓女萨米亚！"
 
 # game/code/d14p2/d14s14.rpy:62
 translate chinese d14s14_85c2b36a:
@@ -142,7 +142,7 @@ translate chinese d14s14_b7778059:
 translate chinese d14s14_48f4f370:
 
     # mct "How many people pay to make a prostitute climax? She's probably used to faking it."
-    mct "有不少人花钱让妓女高潮吧？她可能早习惯假装了。"
+    mct "有不少人花钱让妓女高潮吧？她可能早习惯演戏了。"
 
 # game/code/d14p2/d14s14.rpy:94
 translate chinese d14s14_72c98ca3:
@@ -550,7 +550,7 @@ translate chinese d14s14_winner_7020ce9c:
 translate chinese d14s14_winner_8f575d1f:
 
     # dd "It sounds like we've got two winners today!"
-    dd "听上去我们今天有两位获胜者！!"
+    dd "听上去我们今天有两位获胜者！"
 
 # game/code/d14p2/d14s14.rpy:312
 translate chinese d14s14_winner_059b39ba:
