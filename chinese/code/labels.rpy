@@ -300,7 +300,7 @@ translate chinese after_credits_2124ac9d:
 translate chinese after_credits_8e51ee0d:
 
     # "{color=#ec8664}Unknown Girl 3{/color}" "Girls! Whom are you talking to??"
-    "{color=#ec8664}陌生女孩3{/color}" "姑娘们！你们在跟谁说话呢??"
+    "{color=#ec8664}陌生女孩3{/color}" "姐妹们！你们在跟谁说话呢??"
 
 # game/code/labels.rpy:182
 translate chinese after_credits_7e6fe4d2:
@@ -342,7 +342,7 @@ translate chinese after_credits_e8a80a14:
 translate chinese after_credits_d749c296:
 
     # "{color=#f93737}Zemfira{/color}" "Hey, I was just changing when they opened... And stop bossing us around! We aren't on your volleyball team!"
-    "{color=#f93737}Zemfira{/color}" "嘿，那是因为她们开门的时候我在换衣服……还有，别对我们呼来喝去的！ 我们又不是你们排球队的人！"
+    "{color=#f93737}泽菲拉{/color}" "嘿，那是因为她们开门的时候我在换衣服……还有，别对我们呼来喝去的！ 我们又不是你们排球队的人！"
 
 # game/code/labels.rpy:195
 translate chinese after_credits_d6e2149b:
