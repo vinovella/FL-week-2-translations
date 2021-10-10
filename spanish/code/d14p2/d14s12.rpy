@@ -376,7 +376,7 @@ translate spanish d14s12_vw_caught_aa1b732a:
 translate spanish d14s12_vw_caught_8b3cb565:
 
     # aw "Did I just become fucking Eskimo sisters with my own {i}{b}mother{/b}{/i}!?"
-    aw "¿¡Acabo de convertirme en putas hermanas esquimales con mi propia {i}{b}madre{i}{/i}!?"
+    aw "¿¡Acabo de convertirme en putas hermanas esquimales con mi propia {i}{b}madre{/b}{/i}!?"
 
 # game/code/d14p2/d14s12.rpy:362
 translate spanish d14s12_vw_caught_3e457de2:

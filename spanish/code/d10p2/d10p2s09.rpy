@@ -22,7 +22,7 @@ translate spanish d10p2s09_779b7d0b:
 translate spanish d10p2s09_e98cdf1e:
 
     # mesfl "And here comes our contest winners!"
-    mesfl "Y aquí vienen los ganadores de nuestro concurso".
+    mesfl "Y aquí vienen los ganadores de nuestro concurso."
 
 # game/code/d10p2/d10p2s09.rpy:105
 translate spanish d10p2s09_76564a0a:
@@ -214,7 +214,7 @@ translate spanish d10p2s09_continue_f580b0ee:
 translate spanish d10p2s09_continue_0451feed:
 
     # aw "Aw, you look so cute right now."
-    aw "Ah, te ves tan linda ahora".
+    aw "Ah, te ves tan linda ahora."
 
 # game/code/d10p2/d10p2s09.rpy:653
 translate spanish d10p2s09_continue_6808dfa0:
