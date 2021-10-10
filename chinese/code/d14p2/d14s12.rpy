@@ -40,7 +40,7 @@ translate chinese d14s12_f41e412c:
 translate chinese d14s12_e713008e:
 
     # aw "Do you care if she sees us?"
-    aw "你介意她看着我们吗?"
+    aw "你介意她看着我们吗？"
 
 # game/code/d14p2/d14s12.rpy:74
 translate chinese d14s12_1a76e70c:
@@ -94,7 +94,7 @@ translate chinese d14s12_15617b49:
 translate chinese d14s12_7ecae2b5:
 
     # aw "Mm, it's so fucking teasing when you go that slow."
-    aw "啊，你这么慢，真是太他妈的撩人了。"
+    aw "啊，你这么慢，真是太他妈撩人了。"
 
 # game/code/d14p2/d14s12.rpy:122
 translate chinese d14s12_3d8d2573:
@@ -592,7 +592,7 @@ translate chinese d14s12_vw_caught_4c2200a4:
 translate chinese d14s12_vw_caught_f67d9a35:
 
     # vw "That means...so much to me, [mcname]."
-    vw "[mcname]，你真是帮了我大忙。"
+    vw "[mcname]……你真是帮了我大忙。"
 
 # game/code/d14p2/d14s12.rpy:429
 translate chinese d14s12_vw_caught_0c7b4226:
