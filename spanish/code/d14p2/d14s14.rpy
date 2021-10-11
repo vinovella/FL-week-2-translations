@@ -10,7 +10,7 @@ translate spanish d14s14_be2623d1:
 translate spanish d14s14_80ab4dca:
 
     # dd "Ladies and Gentlemen!! {w}Welcome to \"You Bet Your Ass\"!!"
-    dd "¡¡Damas y caballeros!! {w}¡¡Bienvenidos a "Apuesta tu trasero\"!!"
+    dd "¡¡Damas y caballeros!! {w}¡¡Bienvenidos a \"Apuesta tu trasero\"!!"
 
 # game/code/d14p2/d14s14.rpy:54
 translate spanish d14s14_5b44eb9c:
