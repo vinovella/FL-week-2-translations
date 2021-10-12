@@ -92,7 +92,7 @@ translate spanish strings:
 
     # game/code/data/prologue.rpy:34
     old "Creampie"
-    new "Creampie"
+    new "Chorreo"
 
     # game/code/data/prologue.rpy:34
     old "Enema"
@@ -112,13 +112,12 @@ translate spanish strings:
 
     # game/code/data/prologue.rpy:34
     old "Pegging"
-    new "Pegging"
+    new "Vinculación"
 
     # game/code/data/prologue.rpy:34
     old "Scat"
-    new "Scat"
+    new "Largarse"
 
     # game/code/data/prologue.rpy:50
     old "Not_Mike"
     new "Not_Mike"
-
