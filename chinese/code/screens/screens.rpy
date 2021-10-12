@@ -361,6 +361,7 @@ translate chinese strings:
     # game/code/screens/screens.rpy:1504
     old "No"
     new "否"
+
 # TODO: Translation updated at 2021-08-23 21:48
 
 translate chinese strings:
@@ -369,3 +370,10 @@ translate chinese strings:
     old "Character Gallery"
     new "角色图库"
 
+# TODO: Translation updated at 2021-10-13 01:38
+
+translate chinese strings:
+
+    # game/code/screens/screens.rpy:847
+    old "Naming save file:"
+    new "命名保存文件："

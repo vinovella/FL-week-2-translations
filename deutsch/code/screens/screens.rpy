@@ -54,3 +54,10 @@ translate deutsch strings:
     old "Character Gallery"
     new "Character Gallery"
 
+# TODO: Translation updated at 2021-10-13 01:39
+
+translate deutsch strings:
+
+    # game/code/screens/screens.rpy:847
+    old "Naming save file:"
+    new "Benenne Speicherstand:"

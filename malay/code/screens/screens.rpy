@@ -366,3 +366,10 @@ translate malay strings:
     old "Character Gallery"
     new "Character Gallery"
 
+# TODO: Translation updated at 2021-10-13 01:40
+
+translate malay strings:
+
+    # game/code/screens/screens.rpy:847
+    old "Naming save file:"
+    new "Menamakan fail simpanan:"

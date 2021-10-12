@@ -365,3 +365,11 @@ translate spanish strings:
     # game/code/screens/screens.rpy:486
     old "Character Gallery"
     new "Galería de Personajes"
+
+# TODO: Translation updated at 2021-10-13 01:42
+
+translate spanish strings:
+
+    # game/code/screens/screens.rpy:847
+    old "Naming save file:"
+    new "Nombrar el archivo de guardado:"

@@ -63,3 +63,23 @@ translate chinese strings:
     old "SAVE"
     new "保存"
 
+# TODO: Translation updated at 2021-10-13 01:38
+
+translate chinese strings:
+
+    # game/code/screens/screens_fl.rpy:245
+    old "No end game save from week [FLSS.week.prev] has been detected"
+    new "No end game save from week [FLSS.week.prev] has been detected"
+
+    # game/code/screens/screens_fl.rpy:252
+    old "Please open Fetish Locator week [FLSS.week.prev] and SAVE at the end game save screen"
+    new "Please open Fetish Locator week [FLSS.week.prev] and SAVE at the end game save screen"
+
+    # game/code/screens/screens_fl.rpy:265
+    old "Or"
+    new "Or"
+
+    # game/code/screens/screens_fl.rpy:271
+    old "{u}Fill the questionnaire to play week [FLSS.week.cur] without loading a save{/u}"
+    new "{u}Fill the questionnaire to play week [FLSS.week.cur] without loading a save{/u}"
+
