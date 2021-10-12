@@ -28,5 +28,5 @@ translate spanish strings:
 
     # game/code/functions.rpy:16
     old "New character unlocked in the pool"
-    new "New character unlocked in the pool"
+    new "Nuevo personaje desbloqueado en la piscina"
 
