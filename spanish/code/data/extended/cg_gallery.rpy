@@ -164,7 +164,7 @@ translate spanish strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 8: Polly & Nora - 2"
-    new "Day 8: Polly & Nora - 2"
+    new "Day 8: Polly Y Nora - 2"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 8: Lydia"
@@ -176,7 +176,7 @@ translate spanish strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Straight to the point"
-    new "Straight to the point"
+    new "Directo al grano"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 9: Squizzle"
@@ -200,35 +200,35 @@ translate spanish strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Try all of the tasks"
-    new "Try all of the tasks"
+    new "Prueba todas las tareas"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 10: Hana & Iona"
-    new "Day 10: Hana & Iona"
+    new "Day 10: Hana Y Iona"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 10: AmRose - Naked"
-    new "Day 10: AmRose - Naked"
+    new "Day 10: AmRose - Desnuda"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "You must have more than 50 FL Points"
-    new "You must have more than 50 FL Points"
+    new "Debes tener más de 50 puntos FL"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 10: AmRose - Maid"
-    new "Day 10: AmRose - Maid"
+    new "Day 10: AmRose - Criada"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "You must have less than 50 FL Points"
-    new "You must have less than 50 FL Points"
+    new "Debes tener menos de 50 puntos FL"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Party 2: Girls"
-    new "Party 2: Girls"
+    new "Party 2: Chicas"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Cum more than 7 times in the Party"
-    new "Cum more than 7 times in the Party"
+    new "Correrse más de 7 veces en la fiesta"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Party 2: Iona"
@@ -240,7 +240,7 @@ translate spanish strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Safe words are for noobs"
-    new "Safe words are for noobs"
+    new "Las palabras seguras son para los novatos"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Party 2: Iona - Bar"
@@ -248,7 +248,7 @@ translate spanish strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Don't intervene"
-    new "Don't intervene"
+    new "No intervenir"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 11: Min"
@@ -256,7 +256,7 @@ translate spanish strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Are you interested in Min?"
-    new "Are you interested in Min?"
+    new "¿Estás interesado en Min?"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 11: Stacy"
@@ -264,11 +264,11 @@ translate spanish strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 12: Lydia - Singing"
-    new "Day 12: Lydia - Singing"
+    new "Day 12: Lydia - Cantando"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Stop Lydia"
-    new "Stop Lydia"
+    new "Detener a Lydia"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 11: Lydia - Pool"
@@ -276,11 +276,11 @@ translate spanish strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 13: The Prostitute"
-    new "Day 13: The Prostitute"
+    new "Day 13: La Prostituta"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Don't stop Lydia"
-    new "Don't stop Lydia"
+    new "No detengas a Lydia"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 13: Lydia"
@@ -296,5 +296,4 @@ translate spanish strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Safewords are for noobs"
-    new "Safewords are for noobs"
-
+    new "Las palabras de seguridad son para los novatos"
