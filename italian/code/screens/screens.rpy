@@ -408,7 +408,7 @@ translate italian strings:
 
     # game/code/screens/screens.rpy:486
     old "Character Gallery"
-    new "Character Gallery"
+    new "Galleria personaggi"
 
 # TODO: Translation updated at 2021-10-13 01:39
 
