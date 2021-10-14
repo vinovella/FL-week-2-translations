@@ -184,7 +184,7 @@ translate chinese strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Trigger two blitz challenges in one playthrough"
-    new "在一次游戏中触发两次快闪挑战"
+    new "在单次游戏中触发两次快闪挑战"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Who's Your Daddy?"
@@ -296,7 +296,7 @@ translate chinese strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Show Stacy a lot of love!"
-    new "多爱史黛西!"
+    new "多多爱史黛西!"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Between the Thighs of an Angel"
