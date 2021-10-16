@@ -16,13 +16,13 @@ translate malay d10p2s07_08f2922a:
 translate malay d10p2s07_8a119c7a:
 
     # aw "Hey, [mcname]! What's up?"
-    aw "Hey [mcname]! Ada apa?""
+    aw "Hey [mcname]! Ada apa?"
 
 # game/code/d10p2/d10p2s07.rpy:20
 translate malay d10p2s07_2aa117b6:
 
     # mc "Actually, now that I've got you alone... {w}You used to date Lyssa, right?"
-    mc Sebenarnya, sekarang aku jumpa kau bersendirian... {w}Kau pernah dating dengan Lyssa, kan?"
+    mc "Sebenarnya, sekarang aku jumpa kau bersendirian... {w}Kau pernah dating dengan Lyssa, kan?"
 
 # game/code/d10p2/d10p2s07.rpy:23
 translate malay d10p2s07_f857cff3:
@@ -214,7 +214,7 @@ translate malay d10p2s07_247e7de0:
 translate malay d10p2s07_3413daba:
 
     # aw "Once I became her friend, she couldn't think of me as her fuckbuddy anymore."
-    aw Setelah aku jadi kawannya, dia tak dapat anggap aku sebagai rakan kongkeknya lagi."
+    aw "Setelah aku jadi kawannya, dia tak dapat anggap aku sebagai rakan kongkeknya lagi."
 
 # game/code/d10p2/d10p2s07.rpy:95
 translate malay d10p2s07_5dedf76b:
@@ -847,4 +847,3 @@ translate malay d10p2s07_f239d031:
 
     # mct "Mi... Squizzle told me to go 2nd floor bedroom..."
     mct "Mi... Squizzle suruh aku pergi bilik tidur tingkat 2..."
-
