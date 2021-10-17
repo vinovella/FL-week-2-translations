@@ -83,3 +83,11 @@ translate chinese strings:
     old "{u}Fill the questionnaire to play week [FLSS.week.cur] without loading a save{/u}"
     new "{u}Fill the questionnaire to play week [FLSS.week.cur] without loading a save{/u}"
 
+# TODO: Translation updated at 2021-10-17 22:27
+
+translate chinese strings:
+
+    # game/code/screens/screens_fl.rpy:535
+    old "SKIP RECAP"
+    new "SKIP RECAP"
+
