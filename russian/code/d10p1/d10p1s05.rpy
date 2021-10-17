@@ -1000,7 +1000,7 @@ translate russian strings:
 
     # game/code/d10p1/d10p1s05.rpy:240
     old "Tap That Ass"
-    new "Коснутся этой задницы"
+    new "Присунуть"
 
     # game/code/d10p1/d10p1s05.rpy:240
     old "Walk Away"

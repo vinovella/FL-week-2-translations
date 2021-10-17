@@ -2074,7 +2074,7 @@ translate russian strings:
 
     # game/code/d14/d14s05.rpy:96
     old "Fight Fire With Fire"
-    new "Бороться с огнем с помощью огня"
+    new "Бей противника его же оружием"
 
     # game/code/d14/d14s05.rpy:96
     old "Let Stacy Win"
@@ -2093,4 +2093,3 @@ translate russian d14s05_c2eb53da:
 
     # mc "Of course not."
     mc "Of course not."
-

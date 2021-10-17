@@ -832,7 +832,7 @@ translate russian d10p1s01_911a1208:
 translate russian d10p1s01_b68b4815:
 
     # mesfl "Nothing? Will set there Apples. Remember it."
-    mesfl "Ничего? Запишу в Эппл. Запомни это."
+    mesfl "Ничего? Запишу - Яблоки. Запомни это."
 
 # game/code/d10p1/d10p1s01.rpy:309
 translate russian d10p1s01_02d93ac8:
@@ -1273,4 +1273,3 @@ translate russian strings:
     # game/code/d10p1/d10p1s01.rpy:302
     old "Apples"
     new "Яблоки"
-

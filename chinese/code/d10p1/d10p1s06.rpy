@@ -166,7 +166,7 @@ translate chinese d10p1s06_12d8f1eb:
 translate chinese d10p1s06_e200d8eb:
 
     # mc "Yeah... But every batch has a couple bad apples here and there. {w}Don't go being too carefree now."
-    mc "是啊……但不管什么人里面总会有几个害群之马的。{w}你别太掉以轻心了。"
+    mc "是啊……但就连好苹果里都会混几个坏苹果。{w}你别太掉以轻心了。"
 
 # game/code/d10p1/d10p1s06.rpy:67
 translate chinese d10p1s06_58cd849d:
@@ -184,7 +184,7 @@ translate chinese d10p1s06_b45cbb55:
 translate chinese d10p1s06_604993e9:
 
     # ir "I appreciate you looking out, but I know. I've had to deal with some bad apples in the past as well. I can take care of myself."
-    ir "谢谢你的关心，但我不是小孩子了。我过去也遇到过一些害群之马。我能照顾好自己。"
+    ir "谢谢你的关心，但我不是小孩子了。我过去也遇到过几个“坏苹果”。我能照顾好自己。"
 
 # game/code/d10p1/d10p1s06.rpy:71
 translate chinese d10p1s06_309fcd75:

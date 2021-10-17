@@ -720,9 +720,8 @@ translate russian strings:
 
     # game/code/d14/d14s07.rpy:323
     old "Creampie Her Pussy Instead"
-    new "Кончить на её киску"
+    new "Кончить в её киску"
 
     # game/code/d14/d14s07.rpy:323
     old "Creampie Her Ass As Requested"
-    new "Кончить на её задницу"
-
+    new "Кончить в её задницу"
