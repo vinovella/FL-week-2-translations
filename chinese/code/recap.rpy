@@ -4,205 +4,205 @@
 translate chinese d08s00_week1synopsis_9b6483a6:
 
     # "Recap of Week-1 events!"
-    "Recap of Week-1 events!"
+    "第一周前情回顾！"
 
 # game/code/recap.rpy:63
 translate chinese d08s00_week1synopsis_c5c04ebc:
 
     # "After two weeks of illness at home, our hero [mcname] finally returned to college..."
-    "After two weeks of illness at home, our hero [mcname] finally returned to college..."
+    "在家里生病两周后，我们的英雄[mcname]终于回到了大学……"
 
 # game/code/recap.rpy:68
 translate chinese d08s00_week1synopsis_28064d5b:
 
     # "[mcname] promptly took in the sights, but she was not for him."
-    "[mcname] promptly took in the sights, but she was not for him."
+    "[mcname]快速瞥了一眼美景，但这个女孩并不适合他。"
 
 # game/code/recap.rpy:74
 translate chinese d08s00_week1synopsis_1aec8a12:
 
     # "[mcname] ignored the woman in his roommate's bed and went for a shower."
-    "[mcname] ignored the woman in his roommate's bed and went for a shower."
+    "无视室友床上的女孩，[mcname]去洗澡了。"
 
 # game/code/recap.rpy:77
 translate chinese d08s00_week1synopsis_4f889512:
 
     # "[mcname] had his sights on one spectacular woman - the woman of his dreams - Lydia Cox."
-    "[mcname] had his sights on one spectacular woman - the woman of his dreams - Lydia Cox."
+    "[mcname]把目光投向一个迷人的女人--他的梦中情人--莉迪亚·考克斯。"
 
 # game/code/recap.rpy:84
 translate chinese d08s00_week1synopsis_b2e758f7:
 
     # "Then it was off to class, with his best male friend, Kevin Bennet."
-    "Then it was off to class, with his best male friend, Kevin Bennet."
+    "然后他就去上课了，和自己最好的哥们儿凯文·班纳特坐在一起。"
 
 # game/code/recap.rpy:87
 translate chinese d08s00_week1synopsis_8d77631a:
 
     # "While [mcname] was home sick, a new app had taken the campus by storm."
-    "While [mcname] was home sick, a new app had taken the campus by storm."
+    "当[mcname]生病在家时，一个新的应用程序正在席卷他的校园。"
 
 # game/code/recap.rpy:89
 translate chinese d08s00_week1synopsis_1036b95b:
 
     # "Kevin introduced him to it - FETISH LOCATOR."
-    "Kevin introduced him to it - FETISH LOCATOR."
+    "凯文向他介绍了这个软件--"性趣探测器"。"
 
 # game/code/recap.rpy:90
 translate chinese d08s00_week1synopsis_ae7bbf76:
 
     # "[mcname] promptly signed up for the app."
-    "[mcname] promptly signed up for the app."
+    "[mcname]立即注册了这个应用程序。"
 
 # game/code/recap.rpy:94
 translate chinese d08s00_week1synopsis_8e5b1af6:
 
     # "With a few minutes left before class started, [mcname] made time for his best female friend, AmRose."
-    "With a few minutes left before class started, [mcname] made time for his best female friend, AmRose."
+    "在离上课还有几分钟时，[mcname]和他最好的女性朋友爱洛丝聊起天来。"
 
 # game/code/recap.rpy:97
 translate chinese d08s00_week1synopsis_98767453:
 
     # "AmRose and [mcname] made plans to watch a movie at her place that evening."
-    "AmRose and [mcname] made plans to watch a movie at her place that evening."
+    "爱洛丝和[mcname]计划当天晚上在她住处看电影。"
 
 # game/code/recap.rpy:100
 translate chinese d08s00_week1synopsis_b0e144bd:
 
     # "AmRose was annoyed by [mcname] for some reason. Probably because he forgot to call her while he was away."
-    "AmRose was annoyed by [mcname] for some reason. Probably because he forgot to call her while he was away."
+    "不知什么原因，爱洛丝对[mcname]很恼火。可能是因为他离校时忘了给她打电话。"
 
 # game/code/recap.rpy:105
 translate chinese d08s00_week1synopsis_f7c0e504:
 
     # "Later, during the basketball game, [mcname] learned that he could buy sexy photos of the day's events from Fetish Locator."
-    "Later, during the basketball game, [mcname] learned that he could buy sexy photos of the day's events from Fetish Locator."
+    "后来，在篮球比赛期间，[mcname]得知他可以在性趣探测器上购买当天活动的性感照片。"
 
 # game/code/recap.rpy:109
 translate chinese d08s00_week1synopsis_d1b21365:
 
     # "Rather than cash or credit, Fetish Locator uses their own system of points. Kevin was able to explain."
-    "Rather than cash or credit, Fetish Locator uses their own system of points. Kevin was able to explain."
+    "性趣探测器既不用现金也不用信用卡，而是有自己的积分系统。凯文向[mcname]解释道。"
 
 # game/code/recap.rpy:116
 translate chinese d08s00_week1synopsis_26c10612:
 
     # "[mcname] cleaned up after the game, as a punishment for having a girl in his room that morning."
-    "[mcname] cleaned up after the game, as a punishment for having a girl in his room that morning."
+    "作为那天早上在宿舍留宿女孩的惩罚， [mcname]要在比赛结束后打扫卫生。"
 
 # game/code/recap.rpy:117
 translate chinese d08s00_week1synopsis_3e0077b4:
 
     # "It was Pete's girl, but [mcname] wasn't about to rat Pete out to the authorities."
-    "It was Pete's girl, but [mcname] wasn't about to rat Pete out to the authorities."
+    "那是皮特的女孩，但[mcname]并不打算向学校告发皮特。"
 
 # game/code/recap.rpy:118
 translate chinese d08s00_week1synopsis_a4fe4f65:
 
     # "Pete was more than happy to take over the cleaning, but they shared the load because that's what friends do."
-    "Pete was more than happy to take over the cleaning, but they shared the load because that's what friends do."
+    "皮特很乐意接手清洁工作，但他们共同承担了责任，因为这是朋友该做的。"
 
 # game/code/recap.rpy:121
 translate chinese d08s00_week1synopsis_9014903a:
 
     # "[mcname] and Pete cleaned up together after the game, as punishment for Pete having a girl in his room that morning."
-    "[mcname] and Pete cleaned up together after the game, as punishment for Pete having a girl in his room that morning."
+    "比赛结束后，作为那天早上皮特在宿舍留宿女孩的惩罚，[mcname]和皮特一起打扫卫生。"
 
 # game/code/recap.rpy:123
 translate chinese d08s00_week1synopsis_3397b1a7:
 
     # "[mcname] talked to Pete after the game."
-    "[mcname] talked to Pete after the game."
+    "[mcname]在比赛结束后和皮特谈了谈。"
 
 # game/code/recap.rpy:127
 translate chinese d08s00_week1synopsis_68dd0c96:
 
     # "Pete told [mcname] that Lydia would be at a Fetish Locator Party on Wednesday night, and that tickets cost 50 points!"
-    "Pete told [mcname] that Lydia would be at a Fetish Locator Party on Wednesday night, and that tickets cost 50 points!"
+    "皮特告诉[mcname]，莉迪亚会在周三晚上参加性趣探测器派对，门票要50点数！"
 
 # game/code/recap.rpy:135
 translate chinese d08s00_week1synopsis_3dacd3b1:
 
     # "[mcname] participated in a blitz challenge while AmRose was sleeping during the movie."
-    "[mcname] participated in a blitz challenge while AmRose was sleeping during the movie."
+    "当爱洛丝在看电影时睡着了，[mcname]参加了一个快闪挑战。"
 
 # game/code/recap.rpy:140
 translate chinese d08s00_week1synopsis_1df7e0c2:
 
     # "[mcname] participated in a blitz challenge all alone in his dorm room."
-    "[mcname] participated in a blitz challenge all alone in his dorm room."
+    "[mcname]一个人在宿舍里参加了快闪挑战。"
 
 # game/code/recap.rpy:145
 translate chinese d08s00_week1synopsis_364e992e:
 
     # "On Tuesday, Kevin informed [mcname] that it was possible to post ads on Fetish Locator."
-    "On Tuesday, Kevin informed [mcname] that it was possible to post ads on Fetish Locator."
+    "周二，凯文告诉[mcname]，可以在性趣探测器上发布广告。"
 
 # game/code/recap.rpy:149
 translate chinese d08s00_week1synopsis_688d5b95:
 
     # "[mcname] took the plunge and posted an ad that he hoped would score him some points on Fetish Locator."
-    "[mcname] took the plunge and posted an ad that he hoped would score him some points on Fetish Locator."
+    "[mcname]大胆一试，发布了一则广告，希望能在性趣探测器上获得一些点数。"
 
 # game/code/recap.rpy:152
 translate chinese d08s00_week1synopsis_2b906c7b:
 
     # "After class, he saw the sweet, lovely Lydia that he obsessed over, but couldn't bring himself to talk to her yet."
-    "After class, he saw the sweet, lovely Lydia that he obsessed over, but couldn't bring himself to talk to her yet."
+    "下课后，他看到了梦中情人--甜美可爱的莉迪亚，但他不能上前与她交谈。"
 
 # game/code/recap.rpy:156
 translate chinese d08s00_week1synopsis_0cc7b989:
 
     # "His advertisement brought him to Polly Wilson, who had something special planned."
-    "His advertisement brought him to Polly Wilson, who had something special planned."
+    "他的广告让他认识了波莉·威尔逊，她有一个特别的计划。"
 
 # game/code/recap.rpy:169
 translate chinese d08s00_week1synopsis_7e655ba7:
 
     # "On Wednesday, the Fetish of the Day was Foot Fetish."
-    "On Wednesday, the Fetish of the Day was Foot Fetish."
+    "周三的“今日性趣”是恋足癖。"
 
 # game/code/recap.rpy:170
 translate chinese d08s00_week1synopsis_17eac08a:
 
     # "Each day, Fetish Locator provided users with a specific fetish they could do to earn more points than usual."
-    "Each day, Fetish Locator provided users with a specific fetish they could do to earn more points than usual."
+    "每一天，性趣探测器都为用户提供一个特定的性癖，用户可以通过挑战这些性癖获得比平时更多的积分。"
 
 # game/code/recap.rpy:171
 translate chinese d08s00_week1synopsis_0335f0f9:
 
     # "Every user receives the same Fetish of the Day."
-    "Every user receives the same Fetish of the Day."
+    "每个用户都会收到相同的“今日性趣”。"
 
 # game/code/recap.rpy:176
 translate chinese d08s00_week1synopsis_0975e61f:
 
     # "AmRose was happy to see [mcname] at lunch that day..."
-    "AmRose was happy to see [mcname] at lunch that day..."
+    "那天午餐时，爱洛丝很高兴见到[mcname]……"
 
 # game/code/recap.rpy:180
 translate chinese d08s00_week1synopsis_43bfeae6:
 
     # "AmRose was irritated with [mcname] at lunch that day..."
-    "AmRose was irritated with [mcname] at lunch that day..."
+    "那天午餐时，爱洛丝对[mcname]感到很恼火……"
 
 # game/code/recap.rpy:183
 translate chinese d08s00_week1synopsis_dd38013c:
 
     # "...Yet [mcname] was far more interested in Lydia and her friends at the nearby table."
-    "...Yet [mcname] was far more interested in Lydia and her friends at the nearby table."
+    "……然而，[mcname]对邻桌的莉迪亚和她的朋友更感兴趣。"
 
 # game/code/recap.rpy:192
 translate chinese d08s00_week1synopsis_5001a40a:
 
     # "Luckily, [mcname] was able to earn enough points for the ticket to the Party."
-    "Luckily, [mcname] was able to earn enough points for the ticket to the Party."
+    "幸运的是，[mcname]赚取了足够的点数来购买派对门票。"
 
 # game/code/recap.rpy:194
 translate chinese d08s00_week1synopsis_0da9d890:
 
     # "Otherwise, this story would have been cut short unpleasantly."
-    "Otherwise, this story would have been cut short unpleasantly."
+    "否则，这个故事就会以惨淡结局收场。"
 
 # game/code/recap.rpy:198
 translate chinese d08s00_week1synopsis_03f7087f:
