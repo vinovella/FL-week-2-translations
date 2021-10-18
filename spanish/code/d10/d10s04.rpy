@@ -1054,7 +1054,7 @@ translate spanish replay_d10s04_6e7a6c20:
 translate spanish replay_d10s04_baa587ba:
 
     # mc "I suspect you have something else in mind."
-    mc "I suspect you have something else in mind."
+    mc "Sospecho que tienes algo más en mente."
 
 # game/code/d10/d10s04.rpy:383
 translate spanish replay_d10s04_b611674b:
