@@ -190,7 +190,7 @@ translate portuguese d08s00_week1synopsis_43bfeae6:
 translate portuguese d08s00_week1synopsis_dd38013c:
 
     # "...Yet [mcname] was far more interested in Lydia and her friends at the nearby table."
-    "...Yet [mcname] was far more interested in Lydia and her friends at the nearby table."
+    "...Ainda sim, [mcname] estava mais interessado na Lydia e suas amigas na mesa ao lado."
 
 # game/code/recap.rpy:192
 translate portuguese d08s00_week1synopsis_5001a40a:
