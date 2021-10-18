@@ -832,7 +832,7 @@ translate spanish d10p1s01_911a1208:
 translate spanish d10p1s01_b68b4815:
 
     # mesfl "Nothing? Will set there Apples. Remember it."
-    mesfl "¿Nada? Se pondrá allí Apples. Recuérdalo."
+    mesfl "¿Nada? Se pondrá allí Manzanas. Recuérdalo."
 
 # game/code/d10p1/d10p1s01.rpy:227
 translate spanish d10p1s01_02d93ac8:
@@ -1272,7 +1272,7 @@ translate spanish strings:
 
     # game/code/d10p1/d10p1s01.rpy:222
     old "Apples"
-    new "Apples"
+    new "Manzanas"
 
 # TODO: Translation updated at 2021-04-20 23:53
 
