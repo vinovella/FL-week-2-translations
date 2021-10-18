@@ -1,196 +1,196 @@
-﻿# TODO: Translation updated at 2021-09-15 21:23
+# TODO: Translation updated at 2021-09-15 21:23
 
 translate portuguese strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Let Stacy bath with you"
-    new ""
+    new "Deixe a Stacy tomar banho com você"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Let Maria suck you"
-    new ""
+    new "Deixe a Maria te chupar"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 8: URLittlePony"
-    new ""
+    new "Dia 8: URLittlePony"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 8: Lyssa Romance"
-    new ""
+    new "Dia 8: Romance com Lyssa"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Give Lyssa a big surprise"
-    new ""
+    new "Dê uma bela grande surpresa para a Lyssa"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 8: Lyssa BDSM"
-    new ""
+    new "Dia 8: BDSM com Lyssa"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Dominate Lyssa"
-    new ""
+    new "Domine a Lyssa"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Have some fun first"
-    new ""
+    new "Divirta-se um pouco primeiro"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 9: AmRose"
-    new ""
+    new "Dia 9: AmRose"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 9: Vanessa"
-    new ""
+    new "Dia 9: Vanessa"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Prank the M.I.L.F"
-    new ""
+    new "Pregue uma peça na M. I. L. F."
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 9: The Judge"
-    new ""
+    new "Dia 9: A Juíza"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 10: Lyssa"
-    new ""
+    new "Dia 10: Lyssa"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Party 2: Allison"
-    new ""
+    new "Festa 2: Allison"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Party 2: Cynthia"
-    new ""
+    new "Festa 2: Cynthia"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Party 2: Antony and Chloe"
-    new ""
+    new "Festa 2: Antony e Chloe"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Party 2: AmRose"
-    new ""
+    new "Festa 2: AmRose"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Party 2: Talia"
-    new ""
+    new "Festa 2: Talia"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Party 2: Daisy"
-    new ""
+    new "Festa 2: Daisy"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Party 2: Dahlia"
-    new ""
+    new "Festa 2: Dahlia"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Party 2: Lyssa"
-    new ""
+    new "Festa 2: Lyssa"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Proximity"
-    new ""
+    new "Proximidade"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Party 2: URLittlePony"
-    new ""
+    new "Festa 2: URLittlePony"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Horseback Riding"
-    new ""
+    new "Cavalgando"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Party 2: Call with Lydia"
-    new ""
+    new "Festa 2: Telefonema com Lydia"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Party 2: Allison and Squizzle"
-    new ""
+    new "Festa 2: Allison e Squizzle"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 11: Lyssa & Allison"
-    new ""
+    new "Dia 11: Lyssa & Allison"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 11: Polly & Nora"
-    new ""
+    new "Dia 11: Polly & Nora"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 11: AmRose"
-    new ""
+    new "Dia 11: AmRose"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 12: AmRose & Maria"
-    new ""
+    new "Dia 12: AmRose & Maria"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 12: Hana"
-    new ""
+    new "Dia 12: Hana"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Do Hana a favor"
-    new ""
+    new "Faça um favor para Hana"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 12: The Judge"
-    new ""
+    new "Dia 12: A Juíza"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 12: Lyssa Romance"
-    new ""
+    new "Dia 12: Romance com Lyssa"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Be a considerate lover"
-    new ""
+    new "Seja um amante atencioso"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 12: Lyssa BDSM"
-    new ""
+    new "Dia 12: BDSM com Lyssa"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 12: Lydia"
-    new ""
+    new "Dia 12: Lydia"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 12: Daisy"
-    new ""
+    new "Dia 12: Daisy"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 12: Dahlia"
-    new ""
+    new "Dia 12: Dahlia"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 13: Chloe & Kevin"
-    new ""
+    new "Dia 13: Chloe & Kevin"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Study later, fun first"
-    new ""
+    new "Estudar depois, diversão primeiro"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 13: Maria"
-    new ""
+    new "Dia 13: Maria"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Ask her to send photos"
-    new ""
+    new "Fale para ela enviar fotos"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 13: Iona"
-    new ""
+    new "Dia 13: Iona"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Don't be a hero"
-    new ""
+    new "Não seja um herói"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 13: Aaleyah"
-    new ""
+    new "Dia 13: Aaleyah"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Do a trade"
-    new ""
+    new "Faça uma troca"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 13: Stacy"
-    new ""
+    new "Dia 13: Stacy"
 
