@@ -322,13 +322,13 @@ translate chinese d08s00_week1synopsis_420c50f5:
 translate chinese d08s00_week1synopsis_ef5f3351:
 
     # "The next day Lydia and [mcname] met for a \"coffee date\"."
-    "第二天，莉迪亚和[mcname]来了一次\"咖啡之约"。"
+    "第二天，莉迪亚和[mcname]来了一次\"咖啡之约\"。"
 
 # game/code/recap.rpy:254
 translate chinese d08s00_week1synopsis_11371832:
 
     # "It wasn't a DATE date, but it wasn't NOT a date either. It was a \"coffee date\"."
-    "这次不是正式约会，但完全不算约会的说法也不准确。这是一次\"咖啡之约"。"
+    "这次不是正式约会，但完全不算约会的说法也不准确。这是一次\"咖啡之约\"。"
 
 # game/code/recap.rpy:257
 translate chinese d08s00_week1synopsis_f6056607:
@@ -359,7 +359,7 @@ translate chinese d08s00_week1synopsis_bb3abcff:
 
     # "Unfortunately, his coffee date with the love of his life was interrupted by AmRose..."
     "不幸的是，他与爱人的咖啡之约被爱洛丝打断了……"
-    
+
 
 # game/code/recap.rpy:268
 translate chinese d08s00_week1synopsis_81d877e5:
@@ -918,4 +918,3 @@ translate chinese d08s00_week1synopsis_7c59af2b:
 
     # "No more waiting! Let's get into Week 2..."
     "无需等待！让我们即刻开启第二周……"
-
