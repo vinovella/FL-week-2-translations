@@ -4,7 +4,7 @@ translate portuguese strings:
 
     # game/code/functions.rpy:24
     old "New character unlocked in the pool"
-    new ""
+    new "Nova personagem destravada na piscina"
 
     # game/code/functions.rpy:123
     old "You've unlocked a new CG Gallery"
