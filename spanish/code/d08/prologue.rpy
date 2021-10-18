@@ -189,15 +189,14 @@ translate spanish strings:
 translate spanish prologue_nora_creampie_fcd0a635:
 
     # "We see you like a little extra cream in your pie. Did you cum in Nora in Week One?"
-    "We see you like a little extra cream in your pie. Did you cum in Nora in Week One?"
+    "Vemos que te gusta un poco de crema extra en tu pastel. ¿Te corriste en Nora en la Primera Semana?"
 
 translate spanish strings:
 
     # game/code/d08/prologue.rpy:186
     old "Yes, I came in her and got thrown out"
-    new "Yes, I came in her and got thrown out"
+    new "Sí, Me viné en ella y me echaron"
 
     # game/code/d08/prologue.rpy:186
     old "No, I didn't"
-    new "No, I didn't"
-
+    new "No, no lo hice."
