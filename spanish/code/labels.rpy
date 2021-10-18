@@ -544,4 +544,4 @@ translate spanish after_credits_c7e3ca6c:
 translate spanish after_credits_e29ad5fa:
 
     # "{color=#ec8664}Unknown Girl 3{/color}" "Zemfira! That is the wrong outfit! Chapter 4 Scene 5 isn't a sex scene! What are you wearing??"
-    "{color=#ec8664}Unknown Girl 3{/color}" "Zemfira! That is the wrong outfit! Chapter 4 Scene 5 isn't a sex scene! What are you wearing??"
+    "{color=#ec8664}Chica desconocida 3{/color}" "¡Zemfira! ¡Ese es el traje equivocado! ¡El capítulo 4, escena 5, no es una escena de sexo! ¿¿Qué llevas puesto??"
