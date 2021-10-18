@@ -1,26 +1,18 @@
-﻿# TODO: Translation updated at 2021-01-19 00:11
+﻿# TODO: Translation updated at 2021-10-15 09:58
 
 translate russian strings:
 
     # game/code/data/extended/replay_room.rpy:15
-    old "Day 8: Stacy"
-    new "День 8: Стейси"
-
-    # game/code/data/extended/replay_room.rpy:15
-    old "Day 8: Maria"
-    new "День 8: Мария"
+    old "Let Stacy bath with you"
+    new "Позволь Стейси принять ванну вместе с тобой"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Let Maria suck you"
     new "Позволь Марии отсосать у тебя"
 
     # game/code/data/extended/replay_room.rpy:15
-    old "Day 8: Squizzle"
-    new "День 8: Сквизли"
-
-    # game/code/data/extended/replay_room.rpy:15
-    old "Be Squizzle's pee guru"
-    new "Будь писающим гуру Сквизли"
+    old "Day 8: URLittlePony"
+    new "День 8: ТвояМаленькаяПони"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 8: Lyssa Romance"
@@ -37,22 +29,6 @@ translate russian strings:
     # game/code/data/extended/replay_room.rpy:15
     old "Dominate Lyssa"
     new "Доминируй над Лиссой"
-
-    # game/code/data/extended/replay_room.rpy:15
-    old "Don't creampie Nora"
-    new "Не кончай в Нору"
-
-# TODO: Translation updated at 2021-05-23 00:44
-
-translate russian strings:
-
-    # game/code/data/extended/replay_room.rpy:15
-    old "Let Stacy bath with you"
-    new "Позволь Стейси принять ванну вместе с тобой"
-
-    # game/code/data/extended/replay_room.rpy:15
-    old "Day 8: URLittlePony"
-    new "День 8: ТвояМаленькаяПони"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Have some fun first"
@@ -129,10 +105,6 @@ translate russian strings:
     # game/code/data/extended/replay_room.rpy:15
     old "Party 2: Allison and Squizzle"
     new "Вечеринка 2: Эллисон и Сквизли"
-
-# TODO: Translation updated at 2021-08-27 17:10
-
-translate russian strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 11: Lyssa & Allison"

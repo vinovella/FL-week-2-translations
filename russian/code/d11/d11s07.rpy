@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-04-29 11:52
+﻿# TODO: Translation updated at 2021-10-15 09:58
 
 # game/code/d11/d11s07.rpy:50
 translate russian d11s07_a362d45b:
@@ -984,67 +984,67 @@ translate russian replay_d11s07_e38604df:
     # arj "I meant every word of it. You're my fetish, and I am entirely yours."
     arj "Я подтверждаю каждое слово. Ты мой фетиш, а я полностью твоя."
 
-# game/code/d11/d11s07.rpy:605
+# game/code/d11/d11s07.rpy:600
 translate russian replay_d11s07_d3a78310:
 
     # mc "Time for your reward."
     mc "Время для награды."
 
-# game/code/d11/d11s07.rpy:608
+# game/code/d11/d11s07.rpy:603
 translate russian replay_d11s07_aab216cf:
 
     # arj "OHHHHH YESSSSsss!!!"
     arj "ОХХХХХ ДАААААааа!!!"
 
-# game/code/d11/d11s07.rpy:611
+# game/code/d11/d11s07.rpy:606
 translate russian replay_d11s07_8afdf11c:
 
     # mc "Cum for me you slutty little minx."
     mc "Кончай для меня, распутная маленькая шлюха."
 
-# game/code/d11/d11s07.rpy:639
+# game/code/d11/d11s07.rpy:635
 translate russian replay_d11s07_e63bb301:
 
     # arj "Thank you, sir."
     arj "Спасибо, сэр."
 
-# game/code/d11/d11s07.rpy:645
+# game/code/d11/d11s07.rpy:641
 translate russian replay_d11s07_b955e9b5:
 
     # arj "Thank you, [mcname]."
     arj "Спасибо, [mcname]."
 
-# game/code/d11/d11s07.rpy:648
+# game/code/d11/d11s07.rpy:646
 translate russian replay_d11s07_847f5644:
 
     # arj "Alright, I need to go get cleaned up. I'll meet you in bed in 4 minutes."
     arj "Ладно, мне нужно привести себя в порядок. Встретимся в постели через 4 минуты."
 
-# game/code/d11/d11s07.rpy:652
+# game/code/d11/d11s07.rpy:650
 translate russian replay_d11s07_42456c8c:
 
     # mc "Sure, sure. Looking forward to it."
     mc "Конечно, конечно. С нетерпением жду этого."
 
-# game/code/d11/d11s07.rpy:655
+# game/code/d11/d11s07.rpy:653
 translate russian replay_d11s07_4380c480:
 
     # mct "Plus one fuck."
     mct "Плюс один трах."
 
-# game/code/d11/d11s07.rpy:658
+# game/code/d11/d11s07.rpy:656
 translate russian replay_d11s07_05c33913:
 
     # mct "It's almost a shame I can't just fuck AmRose twenty times to meet this challenge."
     mct "Жалко, что я не могу трахнуть АмРоуз двадцать раз, чтобы выполнить это задание."
 
-# game/code/d11/d11s07.rpy:659
+# game/code/d11/d11s07.rpy:657
 translate russian replay_d11s07_577cc8a0:
 
     # mct "I guess I'll just have to fuck everyone I know."
     mct "Думаю, мне придется перетрахать всех, кого я знаю."
 
-# game/code/d11/d11s07.rpy:661
+# game/code/d11/d11s07.rpy:659
 translate russian replay_d11s07_48f589cb:
 
     # mct "Work, work, work..."

@@ -1,50 +1,50 @@
-﻿# TODO: Translation updated at 2021-01-19 00:11
+﻿# TODO: Translation updated at 2021-10-15 09:58
 
 translate russian strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
-    old "Day 8: AmRose - Wake Up"
-    new "День 8: АмРоуз - Пробуждение"
+    old "Day 8: AmRose"
+    new "День 8: АмРоуз"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Transfer some points to ErikaRed"
     new "Перевод очков ЭрикеРед"
 
     # game/code/data/extended/cg_gallery.rpy:21
-    old "Day 8: Maria - Class"
-    new "День 8: Мария - Класс"
+    old "Day 8: Maria"
+    new "День 8: Мария"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Reject Maria"
     new "Отвергнуть Марию"
 
     # game/code/data/extended/cg_gallery.rpy:21
-    old "Day 8: Squizzle - Men's Room"
-    new "День 8: Сквизли - Мужской туалет"
+    old "Day 8: Squizzle"
+    new "День 8: Сквизли"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Pee on Squizzle's face"
     new "Пописать на лицо Сквизли"
 
     # game/code/data/extended/cg_gallery.rpy:21
-    old "Day 8: Stacy - University"
-    new "День 8: Стейси - Университет"
+    old "Day 8: Stacy"
+    new "День 8: Стейси"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Go to university with Stacy"
     new "Иди в университет со Стейси"
 
     # game/code/data/extended/cg_gallery.rpy:21
-    old "Day 8: Dahlia - University"
-    new "День 8: Далия - Университет"
+    old "Day 8: Dahlia"
+    new "День 8: Далия"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Submit"
     new "Подчиняться"
 
     # game/code/data/extended/cg_gallery.rpy:21
-    old "Day 8: Daisy - University"
-    new "День 8: Дейзи - Университет"
+    old "Day 8: Daisy"
+    new "День 8: Дейзи"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Dominate"
@@ -59,8 +59,8 @@ translate russian strings:
     new "Найди Эллисон возле бассейна"
 
     # game/code/data/extended/cg_gallery.rpy:21
-    old "Day 8: Shontae - Pool"
-    new "День 8: Шонтаэ - Бассейн"
+    old "Day 8: Shontae"
+    new "День 8: Шонтаэ"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Talk to Allison's coach"
@@ -83,16 +83,16 @@ translate russian strings:
     new "Сделай Амроуз своей тайной девушкой"
 
     # game/code/data/extended/cg_gallery.rpy:21
-    old "Day 8: Hana - Park"
-    new "День 8: Хана - Парк"
+    old "Day 8: Hana"
+    new "День 8: Хана"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Meet Hana in the park"
     new "Встреться с Ханой в парке"
 
     # game/code/data/extended/cg_gallery.rpy:21
-    old "Day 8: Allison - Dorm"
-    new "День 8: Эллисон - Общежитие"
+    old "Day 8: Allison"
+    new "День 8: Эллисон"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Visit Allison in her dorm"
@@ -123,52 +123,28 @@ translate russian strings:
     new "Будь ответственным"
 
     # game/code/data/extended/cg_gallery.rpy:21
-    old "Day 8: Polly & Nora - Angry"
-    new "День 8: Полли и Нора - Злые"
+    old "Day 8: Polly & Nora - 2"
+    new "День 8: Полли и Нора - 2"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Creampie Nora"
     new "Кончи в Нору"
 
     # game/code/data/extended/cg_gallery.rpy:21
-    old "Day 8: Lydia - Bedroom"
-    new "День 8: Лидия - Спальня"
+    old "Day 8: Lydia"
+    new "День 8: Лидия"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Don't lie to Lydia"
     new "Не лги Лидии"
 
-# TODO: Translation updated at 2021-05-23 00:44
-
-translate russian strings:
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 9: Squizzle - Selfie"
+    new "День 9: Сквизли - Селфи"
 
     # game/code/data/extended/cg_gallery.rpy:21
-    old "Day 8: Dahlia"
-    new "День 8: Далия"
-
-    # game/code/data/extended/cg_gallery.rpy:21
-    old "Day 8: Daisy"
-    new "День 8: Дейзи"
-
-    # game/code/data/extended/cg_gallery.rpy:21
-    old "Day 8: Shontae"
-    new "День 8: Шонтаэ"
-
-    # game/code/data/extended/cg_gallery.rpy:21
-    old "Day 8: Hana"
-    new "День 8: Хана"
-
-    # game/code/data/extended/cg_gallery.rpy:21
-    old "Day 8: Allison"
-    new "День 8: Эллисон"
-
-    # game/code/data/extended/cg_gallery.rpy:21
-    old "Day 8: Polly & Nora - 2"
-    new "День 8: Полли и Нора - 2"
-
-    # game/code/data/extended/cg_gallery.rpy:21
-    old "Day 8: Lydia"
-    new "День 8: Лидия"
+    old "Be Squizzle's pee guru"
+    new "Будь писающим гуру для Сквизли"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 9: Samiya"
@@ -239,7 +215,7 @@ translate russian strings:
     new "Вечеринка 2: Мин."
 
     # game/code/data/extended/cg_gallery.rpy:21
-    old "Safe words are for noobs"
+    old "Safewords are for noobs"
     new "Стоп-слова для слабаков"
 
     # game/code/data/extended/cg_gallery.rpy:21
@@ -249,10 +225,6 @@ translate russian strings:
     # game/code/data/extended/cg_gallery.rpy:21
     old "Don't intervene"
     new "Не вмешивайся"
-
-# TODO: Translation updated at 2021-08-27 17:10
-
-translate russian strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 11: Min"
@@ -293,12 +265,4 @@ translate russian strings:
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 13: Vanessa"
     new "День 13: Ванесса"
-
-# TODO: Translation updated at 2021-09-29 22:20
-
-translate russian strings:
-
-    # game/code/data/extended/cg_gallery.rpy:21
-    old "Safewords are for noobs"
-    new "Safewords are for noobs"
 

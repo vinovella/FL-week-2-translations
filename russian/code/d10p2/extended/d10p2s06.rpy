@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-17 00:08
+﻿# TODO: Translation updated at 2021-10-15 09:58
 
 # game/code/d10p2/extended/d10p2s06.rpy:37
 translate russian d10p2s06_aca5d234:
@@ -378,13 +378,13 @@ translate russian replay_d10p2s06_cfdb0c74:
     # jf "Yee."
     jf "Дыааа."
 
-# game/code/d10p2/extended/d10p2s06.rpy:361
+# game/code/d10p2/extended/d10p2s06.rpy:364
 translate russian replay_d10p2s06_d8e248f3:
 
     # dd "And now, as Champion Equine, URLittlePony gets to drink out of the legendary Trough of Ultimate Sexual Deviancy, and be truly known through out the lands as the one and only Champion Equine."
     dd "И теперь, как лошадь-чемпион, ТвояМаленькаяПони получает возможность выпить из легендарного Корыта Максимальной Сексуальной Девиантности, и будешь известной во всех землях как единственная и неповторимая лошадь-чемпион."
 
-# game/code/d10p2/extended/d10p2s06.rpy:365
+# game/code/d10p2/extended/d10p2s06.rpy:368
 translate russian replay_d10p2s06_2794fd31:
 
     # "Everybody" "*Chuckles*"

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-04-29 11:52
+﻿# TODO: Translation updated at 2021-10-15 09:58
 
 translate russian strings:
 
@@ -64,11 +64,11 @@ translate russian strings:
 
     # game/code/data/prologue.rpy:16
     old "Maidenly Maria"
-    new "Дева Мария"
+    new "Девственная Мария"
 
     # game/code/data/prologue.rpy:16
     old "The creep stalker lesbian"
-    new "Крадущаяся сталкер-лесбиянка"
+    new "Жуткая лесбиянка-сталкер"
 
     # game/code/data/prologue.rpy:16
     old "Delicious Daisy"
@@ -113,10 +113,6 @@ translate russian strings:
     # game/code/data/prologue.rpy:34
     old "Pegging"
     new "Связывание"
-
-    # game/code/data/prologue.rpy:34
-    old "Scat"
-    new "Экскременты"
 
     # game/code/data/prologue.rpy:50
     old "Not_Mike"

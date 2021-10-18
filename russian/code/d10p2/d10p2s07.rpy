@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-04-29 11:52
+﻿# TODO: Translation updated at 2021-10-15 09:58
 
 # game/code/d10p2/d10p2s07.rpy:7
 translate russian d10p2s07_f239d031:
@@ -768,19 +768,19 @@ translate russian d10p2s07_b0d6deb7:
     # aw "Thank you. It's been a few years, but..."
     aw "Спасибо. Прошло уже несколько лет, но..."
 
-# game/code/d10p2/d10p2s07.rpy:302
+# game/code/d10p2/d10p2s07.rpy:303
 translate russian d10p2s07_cd637188:
 
     # mc "Yeah. {w}Fuck cancer."
     mc "Да. {w}Чертов рак."
 
-# game/code/d10p2/d10p2s07.rpy:303
+# game/code/d10p2/d10p2s07.rpy:304
 translate russian d10p2s07_489cb874:
 
     # aw "Indeed. {w}Fuck cancer."
     aw "Вот именно. {w}Чертов рак."
 
-# game/code/d10p2/d10p2s07.rpy:305
+# game/code/d10p2/d10p2s07.rpy:306
 translate russian d10p2s07_bf49ebbb:
 
     # mc "So, with your safe word... {w}It's kinda like he's still looking out for you if you get in trouble?"
@@ -839,3 +839,4 @@ translate russian d10p2s07_aa77db00:
 
     # mct "Well, I guess I best get ready."
     mct "Что ж, думаю, мне тоже стоит получше подготовиться."
+

@@ -1,6 +1,18 @@
-﻿# TODO: Translation updated at 2021-01-19 00:11
+﻿# TODO: Translation updated at 2021-10-15 09:58
 
 translate russian strings:
+
+    # game/code/screens/extended/screens_fl.rpy:11
+    old "CG Gallery"
+    new "Галерея CG"
+
+    # game/code/screens/extended/screens_fl.rpy:17
+    old "Replay Room"
+    new "Комната повторов"
+
+    # game/code/screens/extended/screens_fl.rpy:23
+    old "Bonus Content"
+    new "Бонусный Контент"
 
     # game/code/screens/extended/screens_fl.rpy:30
     old "Hints on"
@@ -14,11 +26,11 @@ translate russian strings:
     old "Page [page]"
     new "Страница [page]"
 
-# TODO: Translation updated at 2021-05-17 00:08
+    # game/code/screens/extended/screens_fl.rpy:94
+    old "<"
+    new "<"
 
-translate russian strings:
-
-    # game/code/screens/extended/screens_fl.rpy:46
-    old "CLOSE"
-    new "ЗАКРЫТЬ"
+    # game/code/screens/extended/screens_fl.rpy:102
+    old ">"
+    new ">"
 

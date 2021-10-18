@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-04-29 11:52
+﻿# TODO: Translation updated at 2021-10-15 09:58
 
 # game/code/d10p1/d10p1s02.rpy:36
 translate russian d10p1s02_216924c4:
@@ -276,169 +276,169 @@ translate russian d10p1s02_35df6966:
     # aw "Not to mention, get found out and you're probably gonna get some very creatively written emails about your gruesome demise."
     aw "Не говоря уже о том, что если об этом узнают, то ты, вероятно, получишь несколько очень креативно написанных писем с пожеланиями твоей ужасной кончине."
 
-# game/code/d10p1/d10p1s02.rpy:133
+# game/code/d10p1/d10p1s02.rpy:132
 translate russian d10p1s02_f236ec5a:
 
     # mc "Yikes."
     mc "Ох."
 
-# game/code/d10p1/d10p1s02.rpy:135
+# game/code/d10p1/d10p1s02.rpy:134
 translate russian d10p1s02_aa25011d:
 
     # aw "Yep."
     aw "Ага."
 
-# game/code/d10p1/d10p1s02.rpy:136
+# game/code/d10p1/d10p1s02.rpy:135
 translate russian d10p1s02_187dcb02:
 
     # mc "Have you ever gotten any?"
     mc "Ты когда-нибудь получала их?"
 
-# game/code/d10p1/d10p1s02.rpy:137
+# game/code/d10p1/d10p1s02.rpy:136
 translate russian d10p1s02_4a4f859a:
 
     # aw "Plenty. I've had my fair share of stalkers too. Early days though. I would use the opportunity to hone my come back skills—"
     aw "Множество. У меня также была изрядное количество сталкеров. Правда, только в первые дни. Я использовала эту возможность, чтобы отточить свои навыки..."
 
-# game/code/d10p1/d10p1s02.rpy:139
+# game/code/d10p1/d10p1s02.rpy:138
 translate russian d10p1s02_6a886e41:
 
     # mc "But nowadays you don't need much help getting cum on your back?"
     mc "Но сейчас тебе не нужна помощь, чтобы не находить сперму на своей одежде?"
 
-# game/code/d10p1/d10p1s02.rpy:141
+# game/code/d10p1/d10p1s02.rpy:140
 translate russian d10p1s02_d426bf93:
 
     # mc "Sorry, couldn't help myself."
     mc "Извини, ничего не могу с собой поделать."
 
-# game/code/d10p1/d10p1s02.rpy:144
+# game/code/d10p1/d10p1s02.rpy:143
 translate russian d10p1s02_221100a5:
 
     # aw "Haha, you'd think, but most people aren't really into cam girls other than watching them. I dunno, my job makes 'em feel icky I guess. "
     aw "Хаха, можно подумать большинству людей не нравятся веб-модели, разве только наблюдать за ними. Я не знаю, но думаю, что моя работа заставляет их чувствовать отвращение."
 
-# game/code/d10p1/d10p1s02.rpy:147
+# game/code/d10p1/d10p1s02.rpy:146
 translate russian d10p1s02_772de083:
 
     # mc "Really? I could probably throw a dart in here right now with my eyes closed and somehow hit five guys that'd absolutely love to help you out with that."
     mc "Серьёзно? Я, наверное, мог бы бросить камень с закрытыми глазами и попасть в пятерых парней, которые с удовольствием помогли бы тебе с этим."
 
-# game/code/d10p1/d10p1s02.rpy:148
+# game/code/d10p1/d10p1s02.rpy:147
 translate russian d10p1s02_ecf33e86:
 
     # mc "And I don't even think there are that many guys in here yet!"
     mc "И здесь не так много парней!"
 
-# game/code/d10p1/d10p1s02.rpy:151
+# game/code/d10p1/d10p1s02.rpy:150
 translate russian d10p1s02_dfa440c0:
 
     # aw "Well, yeah, people {i}here{/i} are into that shit. They're used to it, so they don't really judge. Try talking about this sorta stuff with a normal person."
     aw "Ну да, {i}здешние{/i} люди увлекаются этим дерьмом. Они привыкли к этому, поэтому не обращают внимания. Попробуй поговорить об этом с обычным человеком."
 
-# game/code/d10p1/d10p1s02.rpy:152
+# game/code/d10p1/d10p1s02.rpy:151
 translate russian d10p1s02_a06801b0:
 
     # aw "Not saying that you're not normal, just that lots of people out there generally tend to look down on our kind. Even {i}if{/i} they secretly wish that they could have what we have."
     aw "Я не говорю, что ты ненормальный, просто многие люди обычно смотрят на нас свысока. Даже {i}если{/i} они втайне желают, чтобы у них было то, что имеем мы."
 
-# game/code/d10p1/d10p1s02.rpy:154
+# game/code/d10p1/d10p1s02.rpy:153
 translate russian d10p1s02_1f426f2d:
 
     # mc "True."
     mc "Верно."
 
-# game/code/d10p1/d10p1s02.rpy:156
+# game/code/d10p1/d10p1s02.rpy:155
 translate russian d10p1s02_f63a007d:
 
     # aw "Anyway. What was I talking about again? "
     aw "Неважно. О чем мы говорили?"
 
-# game/code/d10p1/d10p1s02.rpy:157
+# game/code/d10p1/d10p1s02.rpy:156
 translate russian d10p1s02_34d13e74:
 
     # mc "Something about trying to get cum on your back I think."
     mc "Что-то о одежде со следами спермы."
 
-# game/code/d10p1/d10p1s02.rpy:159
+# game/code/d10p1/d10p1s02.rpy:158
 translate russian d10p1s02_51414571:
 
     # aw "Ah, right. Yeah, I just had some fun trolling them back when I got one or two per week, but nowadays I have trusted mods looking through my stuff, so I don't really get any these days."
     aw "А, точно. Да, мне просто было весело троллить их, когда я находила такое пару раз в неделю, но сейчас я доверяю людям, присматривающими за моими вещами, так что в последнее время я их не получаю."
 
-# game/code/d10p1/d10p1s02.rpy:160
+# game/code/d10p1/d10p1s02.rpy:159
 translate russian d10p1s02_7c328f4e:
 
     # aw "Or, more accurately, I probably get a lot, but I don't notice them."
     aw "Или, что точнее, вероятно, я продолжаю получать их, просто не замечаю этого."
 
-# game/code/d10p1/d10p1s02.rpy:163
+# game/code/d10p1/d10p1s02.rpy:162
 translate russian d10p1s02_72254f8d:
 
     # mc "Wow, that's honestly more knowledge about camming than I ever thought I needed."
     mc "Вау, честно говоря, я узнал больше об этом, чем мне было нужно."
 
-# game/code/d10p1/d10p1s02.rpy:164
+# game/code/d10p1/d10p1s02.rpy:163
 translate russian d10p1s02_6f587f2f:
 
     # aw "Haha, yeah. Sorry. Get me talking about this stuff and I can go on for ages."
     aw "Ха-ха, да. Извини. Позволь меня говорить об этом, и я буду продолжать целую вечность."
 
-# game/code/d10p1/d10p1s02.rpy:165
+# game/code/d10p1/d10p1s02.rpy:164
 translate russian d10p1s02_b3154631:
 
     # mc "No, it's cool. It was interesting hearing about it all."
     mc "Нет, это круто. Было интересно услышать обо всем этом."
 
-# game/code/d10p1/d10p1s02.rpy:168
+# game/code/d10p1/d10p1s02.rpy:167
 translate russian d10p1s02_26355bf9:
 
     # aw "Yeah. {w}So anyway. Like I said, I'm {i}pretty{/i} sure I'm gonna ace this thing."
     aw "Да. {w}Так или иначе. Как я уже сказала, я уверена что справлюсь со всем этим."
 
-# game/code/d10p1/d10p1s02.rpy:170
+# game/code/d10p1/d10p1s02.rpy:169
 translate russian d10p1s02_23f7b300:
 
     # mc "I'm still having a hard time believing that you can cum 50 times in a couple hours, that's just insane to me."
     mc "Мне все еще трудно поверить, что ты действительно можешь кончить 50 раз за пару часов, это просто безумие для меня."
 
-# game/code/d10p1/d10p1s02.rpy:173
+# game/code/d10p1/d10p1s02.rpy:172
 translate russian d10p1s02_c7075b4f:
 
     # aw "Wanna see then?"
     aw "Хочешь посмотреть?"
 
-# game/code/d10p1/d10p1s02.rpy:174
+# game/code/d10p1/d10p1s02.rpy:173
 translate russian d10p1s02_3f9df27f:
 
     # mc "...What?"
     mc "... Что?"
 
-# game/code/d10p1/d10p1s02.rpy:175
+# game/code/d10p1/d10p1s02.rpy:174
 translate russian d10p1s02_4947cec5:
 
     # aw "Do you want to see how I cum?"
     aw "Хочешь посмотреть, как я кончаю?"
 
-# game/code/d10p1/d10p1s02.rpy:178
+# game/code/d10p1/d10p1s02.rpy:177
 translate russian d10p1s02_1c86622f:
 
     # mc "Wha— Whe— Right now!?"
     mc "Чт... Прямо сейчас!?"
 
-# game/code/d10p1/d10p1s02.rpy:180
+# game/code/d10p1/d10p1s02.rpy:179
 translate russian d10p1s02_018e0d09:
 
     # aw "Yeah, why not?"
     aw "Да, почему бы и нет?"
 
-# game/code/d10p1/d10p1s02.rpy:182
+# game/code/d10p1/d10p1s02.rpy:181
 translate russian d10p1s02_b8fbb3ac:
 
     # mc "...I mean, where wil—"
     mc "... Я имею в виду..."
 
-# game/code/d10p1/d10p1s02.rpy:184
+# game/code/d10p1/d10p1s02.rpy:183
 translate russian d10p1s02_ff4b85c9:
 
     # aw "Right here, on the stairs."
@@ -498,259 +498,259 @@ translate russian replay_d10p1s02_af78c9ee:
     # aw "You {i}have{/i} gotten off a woman before, right?"
     aw "Ты ведь уже {i}бывал{/i} с женщиной, верно?"
 
-# game/code/d10p1/d10p1s02.rpy:208
+# game/code/d10p1/d10p1s02.rpy:209
 translate russian replay_d10p1s02_4860c3ce:
 
     # mc "I— Wha—? Of course I have! {w}I just...I just wanted to know what the boundaries were."
     mc "Я... Что...? Конечно! {w}Я просто... Я просто хотел узнать, каковы границы."
 
-# game/code/d10p1/d10p1s02.rpy:210
+# game/code/d10p1/d10p1s02.rpy:211
 translate russian replay_d10p1s02_f1002963:
 
     # aw "Ah... Well, how about you do your thing and I tell you if you cross them?"
     aw "Ах... Ну, давай так, ты делай свое дело, и я скажу тебе, если ты пересечешь их?"
 
-# game/code/d10p1/d10p1s02.rpy:212
+# game/code/d10p1/d10p1s02.rpy:213
 translate russian replay_d10p1s02_fdaca743:
 
     # mc "Sure. That works, I guess."
     mc "Конечно. Это сработает, я думаю."
 
-# game/code/d10p1/d10p1s02.rpy:223
+# game/code/d10p1/d10p1s02.rpy:224
 translate russian replay_d10p1s02_3a949fed:
 
     # aw "Ahh..."
     aw "Ахх..."
 
-# game/code/d10p1/d10p1s02.rpy:225
+# game/code/d10p1/d10p1s02.rpy:226
 translate russian replay_d10p1s02_1eaaeb2e:
 
     # mc "Wait, did you jus—"
     mc "Подожди, ты только..."
 
-# game/code/d10p1/d10p1s02.rpy:227
+# game/code/d10p1/d10p1s02.rpy:228
 translate russian replay_d10p1s02_aa25011d:
 
     # aw "Yep."
     aw "Ага."
 
-# game/code/d10p1/d10p1s02.rpy:229
+# game/code/d10p1/d10p1s02.rpy:230
 translate russian replay_d10p1s02_6a8ac4ff:
 
     # mc "Just from—"
     mc "Только что..."
 
-# game/code/d10p1/d10p1s02.rpy:230
+# game/code/d10p1/d10p1s02.rpy:231
 translate russian replay_d10p1s02_aa25011d_1:
 
     # aw "Yep."
     aw "Ага."
 
-# game/code/d10p1/d10p1s02.rpy:233
+# game/code/d10p1/d10p1s02.rpy:234
 translate russian replay_d10p1s02_698d7569:
 
     # mc "Wow."
     mc "Вау."
 
-# game/code/d10p1/d10p1s02.rpy:234
+# game/code/d10p1/d10p1s02.rpy:235
 translate russian replay_d10p1s02_146a39ee:
 
     # aw "Told you."
     aw "Я же говорила."
 
-# game/code/d10p1/d10p1s02.rpy:236
+# game/code/d10p1/d10p1s02.rpy:237
 translate russian replay_d10p1s02_640e1f21:
 
     # mc "No panties, huh?"
     mc "Без трусиков, да?"
 
-# game/code/d10p1/d10p1s02.rpy:238
+# game/code/d10p1/d10p1s02.rpy:239
 translate russian replay_d10p1s02_ab218d07:
 
     # aw "What's the point?"
     aw "А какой смысл?"
 
-# game/code/d10p1/d10p1s02.rpy:239
+# game/code/d10p1/d10p1s02.rpy:241
 translate russian replay_d10p1s02_1f426f2d:
 
     # mc "True."
     mc "Верно."
 
-# game/code/d10p1/d10p1s02.rpy:254
+# game/code/d10p1/d10p1s02.rpy:256
 translate russian replay_d10p1s02_d86f86ab:
 
     # mc "Wait, what are you doing?"
     mc "Подожди, что ты делаешь?"
 
-# game/code/d10p1/d10p1s02.rpy:257
+# game/code/d10p1/d10p1s02.rpy:259
 translate russian replay_d10p1s02_23e9966b:
 
     # aw "It's not very fair for me to be the only one getting off here, right? So I wanna jerk you off as well."
     aw "Не очень-то честно с моей стороны быть здесь единственной кто кончает, верно? Так что я тоже хочу подрочить тебе."
 
-# game/code/d10p1/d10p1s02.rpy:260
+# game/code/d10p1/d10p1s02.rpy:262
 translate russian replay_d10p1s02_7299eefb:
 
     # aw "I've never jerked off a guy like this before anyway, so I wanna see what it's like."
     aw "В любом случае, я никогда раньше не дрочила парню вот так, как сейчас, так что хочу узнать, на что это похоже."
 
-# game/code/d10p1/d10p1s02.rpy:278
+# game/code/d10p1/d10p1s02.rpy:280
 translate russian replay_d10p1s02_5248d153:
 
     # cb "Oh, I, uhm, sorry!"
     cb "О, я... э-э-э... прошу прощения!"
 
-# game/code/d10p1/d10p1s02.rpy:284
+# game/code/d10p1/d10p1s02.rpy:286
 translate russian replay_d10p1s02_aed94228:
 
     # mc "Was that—"
     mc "Это была..."
 
-# game/code/d10p1/d10p1s02.rpy:286
+# game/code/d10p1/d10p1s02.rpy:288
 translate russian replay_d10p1s02_f7ba44bc:
 
     # aw "Forget about her. I told you."
     aw "Забудь. Я говорила тебе."
 
-# game/code/d10p1/d10p1s02.rpy:287
+# game/code/d10p1/d10p1s02.rpy:289
 translate russian replay_d10p1s02_b12907fb:
 
     # mc "Alright..."
     mc "Ладно..."
 
-# game/code/d10p1/d10p1s02.rpy:317
+# game/code/d10p1/d10p1s02.rpy:319
 translate russian replay_d10p1s02_a7f6081e:
 
     # aw "Wow, that was...yeah. Thank you."
     aw "Вау, это было... да. Спасибо."
 
-# game/code/d10p1/d10p1s02.rpy:319
+# game/code/d10p1/d10p1s02.rpy:321
 translate russian replay_d10p1s02_551b8412:
 
     # mc "Same here."
     mc "И тебе."
 
-# game/code/d10p1/d10p1s02.rpy:325
+# game/code/d10p1/d10p1s02.rpy:327
 translate russian replay_d10p1s02_d6b4322d:
 
     # mc "Wait, is that...is that a butt plug?"
     mc "Подожди, это... анальная пробка?"
 
-# game/code/d10p1/d10p1s02.rpy:327
+# game/code/d10p1/d10p1s02.rpy:329
 translate russian replay_d10p1s02_34092cce:
 
     # aw "Huh? Oh, yeah. Forgot that thing was even there."
     aw "Что? Ах, да. Забыла, что эта штука вообще находится там."
 
-# game/code/d10p1/d10p1s02.rpy:328
+# game/code/d10p1/d10p1s02.rpy:330
 translate russian replay_d10p1s02_fcb5400b:
 
     # mc "You just wear it around like that?"
     mc "Ты просто так его носишь?"
 
-# game/code/d10p1/d10p1s02.rpy:329
+# game/code/d10p1/d10p1s02.rpy:331
 translate russian replay_d10p1s02_a1d9c805:
 
     # aw "Yeah."
     aw "Да."
 
-# game/code/d10p1/d10p1s02.rpy:332
+# game/code/d10p1/d10p1s02.rpy:334
 translate russian replay_d10p1s02_0a8c782b:
 
     # mc "It's not uncomfortable?"
     mc "Это же некомфортно?"
 
-# game/code/d10p1/d10p1s02.rpy:334
+# game/code/d10p1/d10p1s02.rpy:336
 translate russian replay_d10p1s02_c66393db:
 
     # aw "Well, it is, kinda, but you get used to it."
     aw "Ну, это так, но к этому привыкаешь."
 
-# game/code/d10p1/d10p1s02.rpy:336
+# game/code/d10p1/d10p1s02.rpy:338
 translate russian replay_d10p1s02_79878977:
 
     # mc "So why wear it? "
     mc "Так зачем же её носить?"
 
-# game/code/d10p1/d10p1s02.rpy:337
+# game/code/d10p1/d10p1s02.rpy:339
 translate russian replay_d10p1s02_cb6e27e7:
 
     # aw "I just like wearing it sometimes."
     aw "Просто иногда мне нравится её носить."
 
-# game/code/d10p1/d10p1s02.rpy:339
+# game/code/d10p1/d10p1s02.rpy:341
 translate russian replay_d10p1s02_3ad64ee8:
 
     # mc "Huh, that's a good enough reason as any I suppose."
     mc "Хм, это достаточно веская причина, как и любая другая, я полагаю."
 
-# game/code/d10p1/d10p1s02.rpy:342
+# game/code/d10p1/d10p1s02.rpy:344
 translate russian replay_d10p1s02_6c56ac43:
 
     # aw "And it helps get me off as well. Like right now for example."
     aw "И это тоже помогает мне кончать. Как, например, сейчас."
 
-# game/code/d10p1/d10p1s02.rpy:343
+# game/code/d10p1/d10p1s02.rpy:345
 translate russian replay_d10p1s02_0fd86965:
 
     # mc "Cool. {w}It looks hot, by the way."
     mc "Круто. {w}Кстати, выглядит горячо."
 
-# game/code/d10p1/d10p1s02.rpy:344
+# game/code/d10p1/d10p1s02.rpy:346
 translate russian replay_d10p1s02_2834e9a9:
 
     # aw "Thank you! "
     aw "Спасибо!"
 
-# game/code/d10p1/d10p1s02.rpy:346
+# game/code/d10p1/d10p1s02.rpy:348
 translate russian replay_d10p1s02_0d83c812:
 
     # aw "Oh, uh, mind getting me some tissues, [mcname]? You kinda Pollocked my back there."
     aw "Не принесешь мне салфетки, [mcname]? Ты вроде как испачкал мне спину."
 
-# game/code/d10p1/d10p1s02.rpy:349
+# game/code/d10p1/d10p1s02.rpy:351
 translate russian replay_d10p1s02_4325d4e8:
 
     # mc "Oh, sorry. Here lemme jus..."
     mc "Ой, прости. Позволь мне..."
 
-# game/code/d10p1/d10p1s02.rpy:355
+# game/code/d10p1/d10p1s02.rpy:357
 translate russian replay_d10p1s02_af3c9270:
 
     # aw "Thanks. Guess I finally got some cum on my back, eh?"
     aw "Спасибо. Похоже, я снова получила немного спермы на одежду, а?"
 
-# game/code/d10p1/d10p1s02.rpy:357
+# game/code/d10p1/d10p1s02.rpy:359
 translate russian replay_d10p1s02_b77688dd:
 
     # mc "Told you you'd find a guy to help you out with that."
     mc "Я же говорил,что ты всегда найдешь парня, который тебе поможет."
 
-# game/code/d10p1/d10p1s02.rpy:360
+# game/code/d10p1/d10p1s02.rpy:362
 translate russian replay_d10p1s02_86bcda89:
 
     # aw "I should probably go get cleaned up a little for real. No offense, but I don't want to spend the whole party smelling like semen."
     aw "Наверное, мне стоит пойти и привести себя в порядок. Не обижайся, но я не хочу всю вечеринку пахнуть спермой."
 
-# game/code/d10p1/d10p1s02.rpy:361
+# game/code/d10p1/d10p1s02.rpy:364
 translate russian replay_d10p1s02_f325e5eb:
 
     # mc "None taken, and I understand."
     mc "Да, конечно, я понимаю."
 
-# game/code/d10p1/d10p1s02.rpy:364
+# game/code/d10p1/d10p1s02.rpy:370
 translate russian replay_d10p1s02_5d927d17:
 
     # mc "It was uhm...fun meeting you. {w}Can't wait to see you at the main event."
     mc "Было кхм... весело. {w}Не могу дождаться, когда увижу тебя на главном мероприятии."
 
-# game/code/d10p1/d10p1s02.rpy:366
+# game/code/d10p1/d10p1s02.rpy:372
 translate russian replay_d10p1s02_de01b574:
 
     # aw "Oh? That confident, huh? I like it. I'm sure a guy like you can get close to the top spot.{w} Don't count on beating me though."
     aw "О? Так уверенно, да? Мне это нравится. Я уверена, что такой парень, как ты, сможет пробиться к вершине.{w} Но не рассчитывай, что победишь меня."
 
-# game/code/d10p1/d10p1s02.rpy:367
+# game/code/d10p1/d10p1s02.rpy:373
 translate russian replay_d10p1s02_596b4c4a:
 
     # mc "We'll see."

@@ -1,114 +1,114 @@
-﻿# TODO: Translation updated at 2021-04-29 11:52
+﻿# TODO: Translation updated at 2021-10-15 09:58
 
-# game/code/d10p2/d10p2s04.rpy:39
+# game/code/d10p2/d10p2s04.rpy:37
 translate russian d10p2s04_adc829f6:
 
     # mesfl "Hey, [mclogin]."
     mesfl "Привет, [mclogin]."
 
-# game/code/d10p2/d10p2s04.rpy:41
+# game/code/d10p2/d10p2s04.rpy:39
 translate russian d10p2s04_68516ac9:
 
     # mesfl "Come to witness the amazing wonders of the Pandora room?"
     mesfl "Пришёл посмотреть на удивительные чудеса комнаты Пандоры?"
 
-# game/code/d10p2/d10p2s04.rpy:43
+# game/code/d10p2/d10p2s04.rpy:41
 translate russian d10p2s04_afb1e15a:
 
     # mc "The four horsemen of the apocalypse ain't gonna bust out of that room, are they?"
     mc "Четыре всадника апокалипсиса не вырвутся из этой комнаты, верно?"
 
-# game/code/d10p2/d10p2s04.rpy:47
+# game/code/d10p2/d10p2s04.rpy:45
 translate russian d10p2s04_92442bef:
 
     # mesfl "Alas, no. The evil inside here is another kind entirely."
     mesfl "Увы, нет. Зло внутри здесь совсем другого рода."
 
-# game/code/d10p2/d10p2s04.rpy:49
+# game/code/d10p2/d10p2s04.rpy:47
 translate russian d10p2s04_3b823a15:
 
     # mc "BDSM?"
     mc "БДСМ?"
 
-# game/code/d10p2/d10p2s04.rpy:53
+# game/code/d10p2/d10p2s04.rpy:51
 translate russian d10p2s04_228887e9:
 
     # mesfl "Oh... But I can't say. This for you to find out."
     mesfl "О... Но я не могу сказать. Это тебе предстоит самому выяснить."
 
-# game/code/d10p2/d10p2s04.rpy:56
+# game/code/d10p2/d10p2s04.rpy:54
 translate russian d10p2s04_6e952abf:
 
     # mesfl "Alright, I'm gonna stop that now."
     mesfl "Ладно, прекращу шуточки."
 
-# game/code/d10p2/d10p2s04.rpy:58
+# game/code/d10p2/d10p2s04.rpy:56
 translate russian d10p2s04_5b6a3189:
 
     # mesfl "Anyway. Yeah. It's a dice roll BDSM dungeon."
     mesfl "Да. Это территория БДСМ."
 
-# game/code/d10p2/d10p2s04.rpy:60
+# game/code/d10p2/d10p2s04.rpy:58
 translate russian d10p2s04_ba43c0cd:
 
     # mc "That's a new one."
     mc "Это что-то новенькое."
 
-# game/code/d10p2/d10p2s04.rpy:62
+# game/code/d10p2/d10p2s04.rpy:60
 translate russian d10p2s04_eb712fbd:
 
     # mesfl "The gist of it is that you'll be a Sub if you enter the room and there's no one in there."
     mesfl "Суть в том, что ты будешь Сабом, если войдешь в комнату, а там никого нет."
 
-# game/code/d10p2/d10p2s04.rpy:65
+# game/code/d10p2/d10p2s04.rpy:63
 translate russian d10p2s04_63356051:
 
     # mesfl "And a Dom if there {i}is{/i} someone in there."
     mesfl "Или Доминантом, если там кто-то уже {i}есть{/i}."
 
-# game/code/d10p2/d10p2s04.rpy:66
+# game/code/d10p2/d10p2s04.rpy:64
 translate russian d10p2s04_539ea019:
 
     # mesfl "There are also some rules that must be followed at all times."
     mesfl "Но есть также некоторые правила, которые должны соблюдаться всегда."
 
-# game/code/d10p2/d10p2s04.rpy:68
+# game/code/d10p2/d10p2s04.rpy:66
 translate russian d10p2s04_ed4f5979:
 
     # mesfl "First rule of the Pandora room."
     mesfl "Первое правило комнаты Пандоры."
 
-# game/code/d10p2/d10p2s04.rpy:69
+# game/code/d10p2/d10p2s04.rpy:67
 translate russian d10p2s04_6b85ac7f:
 
     # mesfl "You can only enter once."
     mesfl "Войти можно только один раз."
 
-# game/code/d10p2/d10p2s04.rpy:70
+# game/code/d10p2/d10p2s04.rpy:68
 translate russian d10p2s04_abc32293:
 
     # mesfl "If you don't like the person or the role, you can back out, but you can never enter again."
     mesfl "Если тебе не понравится человек или роль, то ты можешь отступить, но ты никогда не сможешь войти снова."
 
-# game/code/d10p2/d10p2s04.rpy:73
+# game/code/d10p2/d10p2s04.rpy:71
 translate russian d10p2s04_c4161797:
 
     # mesfl "Second rule of the Pandora room."
     mesfl "Второе правило комнаты Пандоры."
 
-# game/code/d10p2/d10p2s04.rpy:74
+# game/code/d10p2/d10p2s04.rpy:72
 translate russian d10p2s04_39496f40:
 
     # mesfl "You will respect the safe words no matter what."
     mesfl "Ты будешь уважать стоп-слово, несмотря ни на что."
 
-# game/code/d10p2/d10p2s04.rpy:75
+# game/code/d10p2/d10p2s04.rpy:73
 translate russian d10p2s04_f08586a1:
 
     # mesfl "If you hear a safe word, you immediately stop whatever you're doing and check up on whoever you're with."
     mesfl "Если ты услышишь стоп-слово, немедленно прекрати делать то, что ты делаешь."
 
-# game/code/d10p2/d10p2s04.rpy:80
+# game/code/d10p2/d10p2s04.rpy:79
 translate russian d10p2s04_6d48aa4a:
 
     # mesfl "If you don't, I'll deal with you personally."
