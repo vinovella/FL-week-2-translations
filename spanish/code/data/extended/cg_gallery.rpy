@@ -12,7 +12,7 @@ translate spanish strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 8: Maria - Class"
-    new "Día 8: Maria - Clases"
+    new "Día 8: Maria - Clase"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Reject Maria"
@@ -68,7 +68,7 @@ translate spanish strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 8: Lydia & Min"
-    new "Day 8: Lydia y Min"
+    new "Día 8: Lydia y Min"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Who is better?"
@@ -76,7 +76,7 @@ translate spanish strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 8: Stacy & AmRose"
-    new "Day 8: Stacy y AmRose"
+    new "Día 8: Stacy y AmRose"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Make AmRose your secret girlfriend"
@@ -92,7 +92,7 @@ translate spanish strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 8: Allison - Dorm"
-    new "Day 8: Allison - Dormitorio"
+    new "Día 8: Allison - Dormitorio"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Visit Allison in her dorm"
@@ -128,7 +128,7 @@ translate spanish strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Creampie Nora"
-    new "Creampie a Nora"
+    new "Chorrea a Nora"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 8: Lydia - Bedroom"
@@ -144,35 +144,35 @@ translate spanish strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 8: Dahlia"
-    new "Day 8: Dahlia"
+    new "Día 8: Dahlia"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 8: Daisy"
-    new "Day 8: Daisy"
+    new "Día 8: Daisy"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 8: Shontae"
-    new "Day 8: Shontae"
+    new "Día 8: Shontae"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 8: Hana"
-    new "Day 8: Hana"
+    new "Día 8: Hana"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 8: Allison"
-    new "Day 8: Allison"
+    new "Día 8: Allison"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 8: Polly & Nora - 2"
-    new "Day 8: Polly Y Nora - 2"
+    new "Día 8: Polly Y Nora - 2"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 8: Lydia"
-    new "Day 8: Lydia"
+    new "Día 8: Lydia"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 9: Samiya"
-    new "Day 9: Samiya"
+    new "Día 9: Samiya"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Straight to the point"
@@ -180,23 +180,23 @@ translate spanish strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 9: Squizzle"
-    new "Day 9: Squizzle"
+    new "Día 9: Squizzle"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 9: Lydia"
-    new "Day 9: Lydia"
+    new "Día 9: Lydia"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 10: Maria"
-    new "Day 10: Maria"
+    new "Día 10: Maria"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Warn Maria"
-    new "Warn Maria"
+    new "Advierte a María"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 10: Stacy"
-    new "Day 10: Stacy"
+    new "Día 10: Stacy"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Try all of the tasks"
@@ -204,11 +204,11 @@ translate spanish strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 10: Hana & Iona"
-    new "Day 10: Hana Y Iona"
+    new "Día 10: Hana Y Iona"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 10: AmRose - Naked"
-    new "Day 10: AmRose - Desnuda"
+    new "Día 10: AmRose - Desnuda"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "You must have more than 50 FL Points"
@@ -216,7 +216,7 @@ translate spanish strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 10: AmRose - Maid"
-    new "Day 10: AmRose - Criada"
+    new "Día 10: AmRose - Criada"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "You must have less than 50 FL Points"
@@ -224,7 +224,7 @@ translate spanish strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Party 2: Girls"
-    new "Party 2: Chicas"
+    new "Fiesta 2: Chicas"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Cum more than 7 times in the Party"
@@ -232,11 +232,11 @@ translate spanish strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Party 2: Iona"
-    new "Party 2: Iona"
+    new "Fiesta 2: Iona"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Party 2: Min"
-    new "Party 2: Min"
+    new "Fiesta 2: Min"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Safe words are for noobs"
@@ -244,7 +244,7 @@ translate spanish strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Party 2: Iona - Bar"
-    new "Party 2: Iona - Bar"
+    new "Fiesta 2: Iona - Bar"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Don't intervene"
@@ -252,7 +252,7 @@ translate spanish strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 11: Min"
-    new "Day 11: Min"
+    new "Día 11: Min"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Are you interested in Min?"
@@ -260,11 +260,11 @@ translate spanish strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 11: Stacy"
-    new "Day 11: Stacy"
+    new "Día 11: Stacy"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 12: Lydia - Singing"
-    new "Day 12: Lydia - Cantando"
+    new "Día 12: Lydia - Cantando"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Stop Lydia"
@@ -272,11 +272,11 @@ translate spanish strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 11: Lydia - Pool"
-    new "Day 11: Lydia - Pool"
+    new "Día 11: Lydia - Piscina"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 13: The Prostitute"
-    new "Day 13: La Prostituta"
+    new "Día 13: La Prostituta"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Don't stop Lydia"
@@ -284,11 +284,11 @@ translate spanish strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 13: Lydia"
-    new "Day 13: Lydia"
+    new "Día 13: Lydia"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 13: Vanessa"
-    new "Day 13: Vanessa"
+    new "Día 13: Vanessa"
 
 # TODO: Translation updated at 2021-09-29 22:22
 
