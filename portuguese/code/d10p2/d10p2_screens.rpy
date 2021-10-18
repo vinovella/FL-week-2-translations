@@ -1,184 +1,184 @@
-﻿# TODO: Translation updated at 2021-09-15 21:23
+# TODO: Translation updated at 2021-09-15 21:23
 
 translate portuguese strings:
 
     # game/code/d10p2/d10p2_screens.rpy:6
     old "Give up!"
-    new ""
+    new "Desistir!"
 
     # game/code/d10p2/d10p2_screens.rpy:11
     old "Stop searching"
-    new ""
+    new "Parar de procurar"
 
     # game/code/d10p2/d10p2_screens.rpy:15
     old "Skip{#d10p2s05}"
-    new ""
+    new "Pular{#d10p2s05}"
 
     # game/code/d10p2/d10p2_screens.rpy:20
     old "Skip the free roam"
-    new ""
+    new "Pular movimento livre"
 
     # game/code/d10p2/d10p2_screens.rpy:42
     old "Go to the stairs"
-    new ""
+    new "Ir para a escada"
 
     # game/code/d10p2/d10p2_screens.rpy:51
     old "Check AmRose and Iona"
-    new ""
+    new "Ver a AmRose e Iona"
 
     # game/code/d10p2/d10p2_screens.rpy:61
     old "Turn around"
-    new ""
+    new "Virar"
 
     # game/code/d10p2/d10p2_screens.rpy:76
     old "Go near Stacy"
-    new ""
+    new "Chegar perto da Stacy"
 
     # game/code/d10p2/d10p2_screens.rpy:84
     old "Go to the balcony door"
-    new ""
+    new "Ir para a porta da varanda"
 
     # game/code/d10p2/d10p2_screens.rpy:92
     old "Check out the rooms"
-    new ""
+    new "Ver as salas"
 
     # game/code/d10p2/d10p2_screens.rpy:117
     old "Check what's behind the door"
-    new ""
+    new "Ver o que tem atrás da porta"
 
     # game/code/d10p2/d10p2_screens.rpy:150
     old "Go to the balcony"
-    new ""
+    new "Ir para a varanda"
 
     # game/code/d10p2/d10p2_screens.rpy:175
     old "Go forward"
-    new ""
+    new "Ir em frente"
 
     # game/code/d10p2/d10p2_screens.rpy:200
     old "Check out the pool"
-    new ""
+    new "Ver na piscina"
 
     # game/code/d10p2/d10p2_screens.rpy:224
     old "Enter the bar"
-    new ""
+    new "Entrar no bar"
 
     # game/code/d10p2/d10p2_screens.rpy:249
     old "Check Stacy"
-    new ""
+    new "Ver a Stacy"
 
     # game/code/d10p2/d10p2_screens.rpy:257
     old "Go to the bar"
-    new ""
+    new "Ir ao bar"
 
     # game/code/d10p2/d10p2_screens.rpy:281
     old "Go downstairs"
-    new ""
+    new "Descer"
 
     # game/code/d10p2/d10p2_screens.rpy:289
     old "Go upstairs"
-    new ""
+    new "Subir"
 
     # game/code/d10p2/d10p2_screens.rpy:428
     old "Talk to Oliver"
-    new ""
+    new "Falar com Oliver"
 
     # game/code/d10p2/d10p2_screens.rpy:439
     old "Go right"
-    new ""
+    new "Ir para a direita"
 
     # game/code/d10p2/d10p2_screens.rpy:447
     old "Check Lyssa"
-    new ""
+    new "Ver a Lyssa"
 
     # game/code/d10p2/d10p2_screens.rpy:456
     old "Check the painting"
-    new ""
+    new "Ver o quadro"
 
     # game/code/d10p2/d10p2_screens.rpy:480
     old "Check the Pandora room"
-    new ""
+    new "Ver a Sala Pandora"
 
     # game/code/d10p2/d10p2_screens.rpy:489
     old "Check Daisy and Allison"
-    new ""
+    new "Ver Daisy e Allison"
 
     # game/code/d10p2/d10p2_screens.rpy:538
     old "Go inside the Pandora room"
-    new ""
+    new "Entrar na Sala Pandora"
 
     # game/code/d10p2/d10p2_screens.rpy:547
     old "Check Antony"
-    new ""
+    new "Ver o Antony"
 
     # game/code/d10p2/d10p2_screens.rpy:579
     old "Turn right"
-    new ""
+    new "Virar para a direita"
 
     # game/code/d10p2/d10p2_screens.rpy:612
     old "Check Lyssa and Min"
-    new ""
+    new "Ver Lyssa e Min"
 
     # game/code/d10p2/d10p2_screens.rpy:636
     old "Go to upstairs"
-    new ""
+    new "Subir"
 
     # game/code/d10p2/d10p2_screens.rpy:692
     old "Enter the room"
-    new ""
+    new "Entrar na sala"
 
     # game/code/d10p2/d10p2_screens.rpy:717
     old "Check Chloe and Kevin"
-    new ""
+    new "Ver Chloe e Kevin"
 
     # game/code/d10p2/d10p2_screens.rpy:782
     old "Go closer"
-    new ""
+    new "Chegar perto"
 
     # game/code/d10p2/d10p2_screens.rpy:807
     old "Talk to Cynthia"
-    new ""
+    new "Falar com Cynthia"
 
     # game/code/d10p2/d10p2_screens.rpy:858
     old "Allison blowjob"
-    new ""
+    new "Allison boquete"
 
     # game/code/d10p2/d10p2_screens.rpy:866
     old "Allison doggy style"
-    new ""
+    new "Allison de quatro"
 
     # game/code/d10p2/d10p2_screens.rpy:874
     old "Side-fuck Min"
-    new ""
+    new "Foder Min de lado"
 
     # game/code/d10p2/d10p2_screens.rpy:882
     old "Allison 69"
-    new ""
+    new "Allison 69"
 
     # game/code/d10p2/d10p2_screens.rpy:890
     old "Allison cowgirl"
-    new ""
+    new "Allison cowgirl"
 
     # game/code/d10p2/d10p2_screens.rpy:898
     old "Min doggy style"
-    new ""
+    new "Min de quatro"
 
     # game/code/d10p2/d10p2_screens.rpy:911
     old "Blowjob"
-    new ""
+    new "Boquete"
 
     # game/code/d10p2/d10p2_screens.rpy:919
     old "69"
-    new ""
+    new "69"
 
     # game/code/d10p2/d10p2_screens.rpy:927
     old "Doggy style"
-    new ""
+    new "De quatro"
 
     # game/code/d10p2/d10p2_screens.rpy:935
     old "Cowgirl"
-    new ""
+    new "Cowgirl"
 
     # game/code/d10p2/d10p2_screens.rpy:951
     old "Continue to the final scene"
-    new ""
+    new "Continuar para a cena final"
 
