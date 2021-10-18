@@ -1,264 +1,264 @@
-﻿# TODO: Translation updated at 2021-09-15 21:23
+# TODO: Translation updated at 2021-09-15 21:23
 
 translate portuguese strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 8: AmRose"
-    new ""
+    new "Dia 8: AmRose"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Transfer some points to ErikaRed"
-    new ""
+    new "Transfira alguns pontos para ErikaRed"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 8: Maria"
-    new ""
+    new "Dia 8: Maria"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Reject Maria"
-    new ""
+    new "Rejeite Maria"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 8: Squizzle"
-    new ""
+    new "Dia 8: Squizzle"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Pee on Squizzle's face"
-    new ""
+    new "Urine no rosto da Squizzle"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 8: Stacy"
-    new ""
+    new "Dia 8: Stacy"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Go to university with Stacy"
-    new ""
+    new "Vá para a universidade com Stacy"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 8: Dahlia"
-    new ""
+    new "Dia 8: Dahlia"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Submit"
-    new ""
+    new "Submeta-se"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 8: Daisy"
-    new ""
+    new "Dia 8: Daisy"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Dominate"
-    new ""
+    new "Domine"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 8: Allison - Pool"
-    new ""
+    new "Dia 8: Allison - Piscina"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Find Allison near the pool"
-    new ""
+    new "Encontre Allison perto da piscina"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 8: Shontae"
-    new ""
+    new "Dia 8: Shontae"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Talk to Allison's coach"
-    new ""
+    new "Fale com a treinadora da Allison"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 8: Lydia & Min"
-    new ""
+    new "Dia 8: Lydia & Min"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Who is better?"
-    new ""
+    new "Quem é melhor?"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 8: Stacy & AmRose"
-    new ""
+    new "Dia 8: Stacy & AmRose"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Make AmRose your secret girlfriend"
-    new ""
+    new "Faça a AmRose virar sua namorada secreta"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 8: Hana"
-    new ""
+    new "Dia 8: Hana"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Meet Hana in the park"
-    new ""
+    new "Encontre Hana no parque"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 8: Allison"
-    new ""
+    new "Dia 8: Allison"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Visit Allison in her dorm"
-    new ""
+    new "Visite Allison no dormitório dela"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 8: Lyssa - Court"
-    new ""
+    new "Dia 8: Lyssa - Tribunal"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Visit Lyssa in the court"
-    new ""
+    new "Visite Lyssa no tribunal"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 8: Lyssa - Office"
-    new ""
+    new "Dia 8: Lyssa - Escritório"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Give some pleasure to Lyssa"
-    new ""
+    new "Dê prazer à Lyssa"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 8: Polly & Nora"
-    new ""
+    new "Dia 8: Polly & Nora"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Be responsible"
-    new ""
+    new "Seja responsável"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 8: Polly & Nora - 2"
-    new ""
+    new "Dia 8: Polly & Nora - 2"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Creampie Nora"
-    new ""
+    new "Goze dentro da Nora"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 8: Lydia"
-    new ""
+    new "Dia 8: Lydia"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Don't lie to Lydia"
-    new ""
+    new "Não minta para a Lydia"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 9: Samiya"
-    new ""
+    new "Dia 9: Samiya"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Straight to the point"
-    new ""
+    new "Direto ao ponto"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 9: Squizzle"
-    new ""
+    new "Dia 9: Squizzle"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Be Squizzle's pee guru"
-    new ""
+    new "Seja o guru da urina da Squizzle"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 9: Lydia"
-    new ""
+    new "Dia 9: Lydia"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 10: Maria"
-    new ""
+    new "Dia 10: Maria"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Warn Maria"
-    new ""
+    new "Avise Maria"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 10: Stacy"
-    new ""
+    new "Dia 10: Stacy"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Try all of the tasks"
-    new ""
+    new "Tente todas as tarefas"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 10: Hana & Iona"
-    new ""
+    new "Dia 10: Hana & Iona"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 10: AmRose - Naked"
-    new ""
+    new "Dia 10: AmRose - Pelada"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "You must have more than 50 FL Points"
-    new ""
+    new "Você deve ter mais que 50 pontos no FL"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 10: AmRose - Maid"
-    new ""
+    new "Dia 10: AmRose - Empregada"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "You must have less than 50 FL Points"
-    new ""
+    new "Você deve ter menos de 50 pontos no FL"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Party 2: Girls"
-    new ""
+    new "Festa 2: Garotas"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Cum more than 7 times in the Party"
-    new ""
+    new "Goze mais que 7 vezes na Festa"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Party 2: Iona"
-    new ""
+    new "Festa 2: Iona"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Party 2: Min"
-    new ""
+    new "Festa 2: Min"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Safewords are for noobs"
-    new ""
+    new "Palavras de segurança são para noobs"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Party 2: Iona - Bar"
-    new ""
+    new "Festa 2: Iona - Bar"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Don't intervene"
-    new ""
+    new "Não intervenha"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 11: Min"
-    new ""
+    new "Dia 11: Min"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Are you interested in Min?"
-    new ""
+    new "Você está interessado em Min?"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 11: Stacy"
-    new ""
+    new "Dia 11: Stacy"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 12: Lydia - Singing"
-    new ""
+    new "Dia 12: Lydia - Cantando"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Stop Lydia"
-    new ""
+    new "Pare Lydia"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 11: Lydia - Pool"
-    new ""
+    new "Dia 11: Lydia - Piscina"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 13: The Prostitute"
-    new ""
+    new "Dia 13: A Prostituta"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Don't stop Lydia"
-    new ""
+    new "Não pare Lydia"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 13: Lydia"
-    new ""
+    new "Dia 13: Lydia"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 13: Vanessa"
-    new ""
+    new "Dia 13: Vanessa"
 
