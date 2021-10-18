@@ -40,7 +40,7 @@ translate spanish strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Don't creampie Nora"
-    new "No hacerle creampie a Nora"
+    new "No hacerle chorrear a Nora"
 
 # TODO: Translation updated at 2021-08-23 22:22
 
@@ -52,7 +52,7 @@ translate spanish strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 8: URLittlePony"
-    new "Day 8: URLittlePony"
+    new "Día 8: URLittlePony"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Have some fun first"
@@ -60,11 +60,11 @@ translate spanish strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 9: AmRose"
-    new "Day 9: AmRose"
+    new "Día 9: AmRose"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 9: Vanessa"
-    new "Day 9: Vanessa"
+    new "Día 9: Vanessa"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Prank the M.I.L.F"
@@ -72,43 +72,43 @@ translate spanish strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 9: The Judge"
-    new "Day 9: La Jueza"
+    new "Día 9: La Jueza"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 10: Lyssa"
-    new "Day 10: Lyssa"
+    new "Día 10: Lyssa"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Party 2: Allison"
-    new "Party 2: Allison"
+    new "Fiesta 2: Allison"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Party 2: Cynthia"
-    new "Party 2: Cynthia"
+    new "Fiesta 2: Cynthia"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Party 2: Antony and Chloe"
-    new "Party 2: Antony y Chloe"
+    new "Fiesta 2: Antony y Chloe"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Party 2: AmRose"
-    new "Party 2: AmRose"
+    new "Fiesta 2: AmRose"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Party 2: Talia"
-    new "Party 2: Talia"
+    new "Fiesta 2: Talia"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Party 2: Daisy"
-    new "Party 2: Daisy"
+    new "Fiesta 2: Daisy"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Party 2: Dahlia"
-    new "Party 2: Dahlia"
+    new "Fiesta 2: Dahlia"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Party 2: Lyssa"
-    new "Party 2: Lyssa"
+    new "Fiesta 2: Lyssa"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Proximity"
@@ -116,7 +116,7 @@ translate spanish strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Party 2: URLittlePony"
-    new "Party 2: URLittlePony"
+    new "Fiesta 2: URLittlePony"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Horseback Riding"
@@ -124,31 +124,31 @@ translate spanish strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Party 2: Call with Lydia"
-    new "Party 2: Llamada con Lydia"
+    new "Fiesta 2: Llamada con Lydia"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Party 2: Allison and Squizzle"
-    new "Party 2: Allison y Squizzle"
+    new "Fiesta 2: Allison y Squizzle"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 11: Lyssa & Allison"
-    new "Day 11: Lyssa y Allison"
+    new "Día 11: Lyssa y Allison"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 11: Polly & Nora"
-    new "Day 11: Polly y Nora"
+    new "Día 11: Polly y Nora"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 11: AmRose"
-    new "Day 11: AmRose"
+    new "Día 11: AmRose"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 12: AmRose & Maria"
-    new "Day 12: AmRose y Maria"
+    new "Día 12: AmRose y Maria"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 12: Hana"
-    new "Day 12: Hana"
+    new "Día 12: Hana"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Do Hana a favor"
@@ -156,11 +156,11 @@ translate spanish strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 12: The Judge"
-    new "Day 12: La Jueza"
+    new "Día 12: La Jueza"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 12: Lyssa Romance"
-    new "Day 12: Romance de Lyssa"
+    new "Día 12: Romance de Lyssa"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Be a considerate lover"
@@ -168,23 +168,23 @@ translate spanish strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 12: Lyssa BDSM"
-    new "Day 12: El Bondage y Disciplina, Dominación y Sumisión de Lyssa "
+    new "Día 12: El Bondage y Disciplina, Dominación y Sumisión de Lyssa "
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 12: Lydia"
-    new "Day 12: Lydia"
+    new "Día 12: Lydia"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 12: Daisy"
-    new "Day 12: Daisy"
+    new "Día 12: Daisy"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 12: Dahlia"
-    new "Day 12: Dahlia"
+    new "Día 12: Dahlia"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 13: Chloe & Kevin"
-    new "Day 13: Chloe y Kevin"
+    new "Día 13: Chloe y Kevin"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Study later, fun first"
@@ -192,7 +192,7 @@ translate spanish strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 13: Maria"
-    new "Day 13: Maria"
+    new "Día 13: Maria"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Ask her to send photos"
@@ -200,7 +200,7 @@ translate spanish strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 13: Iona"
-    new "Day 13: Iona"
+    new "Día 13: Iona"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Don't be a hero"
@@ -208,7 +208,7 @@ translate spanish strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 13: Aaleyah"
-    new "Day 13: Aaleyah"
+    new "Día 13: Aaleyah"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Do a trade"
@@ -216,4 +216,4 @@ translate spanish strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 13: Stacy"
-    new "Day 13: Stacy"
+    new "Día 13: Stacy"
