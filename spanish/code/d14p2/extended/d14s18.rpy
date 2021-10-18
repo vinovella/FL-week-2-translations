@@ -431,3 +431,11 @@ translate spanish replay_d14s18_adb4d09a:
 
     # mc "I'll be around if you need me."
     mc "Estaré por aquí si me necesitas."
+
+# TODO: Translation updated at 2021-10-19 01:48
+
+# game/code/d14p2/extended/d14s18.rpy:142
+translate spanish d14s18_f28d21c8:
+
+    # ir "From the way she's throwing looks at [mcname], I'd say the latter. *Chuckles*"
+    ir "Por la forma en que lanza miradas a [mcname], yo diría que lo segundo. *Risas*"
