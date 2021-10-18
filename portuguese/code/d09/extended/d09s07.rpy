@@ -1342,7 +1342,7 @@ translate portuguese d09s07_sb_talk_97d05294:
 translate portuguese d09s07_sb_talk_7e9764dc:
 
     # mc "I think I will prank the \"M.I.L.F\"."
-    mc "Acho que vou pregar uma peça na \"M.I.L.F.\"
+    mc "Acho que vou pregar uma peça na \"M.I.L.F.\"."
 
 # game/code/d09/extended/d09s07.rpy:890
 translate portuguese d09s07_sb_talk_0cc540e6:
@@ -1529,4 +1529,3 @@ translate portuguese strings:
     # game/code/d09/extended/d09s07.rpy:555
     old "Flip her over"
     new "Virar ela"
-

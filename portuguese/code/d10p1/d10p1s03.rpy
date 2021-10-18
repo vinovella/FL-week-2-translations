@@ -16,7 +16,7 @@ translate portuguese d10p1s03_df31967b:
 translate portuguese d10p1s03_de5c1d3a:
 
     # mct "Lyssa?"
-    mct "Lyssa?"uj8uuuuuuucccccccccc
+    mct "Lyssa?"
 
 # game/code/d10p1/d10p1s03.rpy:18
 translate portuguese d10p1s03_963c7d6f:
@@ -1237,4 +1237,3 @@ translate portuguese strings:
     # game/code/d10p1/d10p1s03.rpy:441
     old "Don't"
     new "Não"
-
