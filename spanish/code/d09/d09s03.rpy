@@ -1162,7 +1162,7 @@ translate spanish strings:
 
     # game/code/d09/d09s03.rpy:284
     old "dragon"
-    new "dragon"
+    new "dragón"
 
     # game/code/d09/d09s03.rpy:288
     old "Select a Verb"
