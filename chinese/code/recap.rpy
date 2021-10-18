@@ -166,7 +166,7 @@ translate chinese d08s00_week1synopsis_7e655ba7:
 translate chinese d08s00_week1synopsis_17eac08a:
 
     # "Each day, Fetish Locator provided users with a specific fetish they could do to earn more points than usual."
-    "每一天，性趣探测器都为用户提供一个特定的性癖，用户可以通过挑战这些性癖获得比平时更多的积分。"
+    "每一天，性趣探测器都为用户提供一个特定性癖，用户可以通过挑战这些性癖获得比平时更多的点数。"
 
 # game/code/recap.rpy:171
 translate chinese d08s00_week1synopsis_0335f0f9:
@@ -250,7 +250,7 @@ translate chinese d08s00_week1synopsis_edc71a7c:
 translate chinese d08s00_week1synopsis_db68b096:
 
     # "Lydia spent most of that night in delightful conversation with her hero."
-    "那天晚上的大部分时间里，莉迪亚都在和她心目中的英雄愉快地交谈。"
+    "那天晚上的大部分时间里，莉迪亚都在和她心目中的英雄愉快交谈。"
 
 # game/code/recap.rpy:221
 translate chinese d08s00_week1synopsis_4bdbccfd:
@@ -359,6 +359,7 @@ translate chinese d08s00_week1synopsis_bb3abcff:
 
     # "Unfortunately, his coffee date with the love of his life was interrupted by AmRose..."
     "不幸的是，他与爱人的咖啡之约被爱洛丝打断了……"
+    
 
 # game/code/recap.rpy:268
 translate chinese d08s00_week1synopsis_81d877e5:
@@ -400,7 +401,7 @@ translate chinese d08s00_week1synopsis_3a50e437:
 translate chinese d08s00_week1synopsis_e8352572:
 
     # "He was being blackmailed as well, by something called the Fetish Locator Retention Program."
-    "他也被一个叫 "性趣探测器留存计划 "的东西敲诈了。"
+    "他也被一个叫"性趣探测器留存计划"的东西敲诈了。"
 
 # game/code/recap.rpy:286
 translate chinese d08s00_week1synopsis_38514213:
@@ -916,5 +917,5 @@ translate chinese d08s00_week1synopsis_c2bdbbb2:
 translate chinese d08s00_week1synopsis_7c59af2b:
 
     # "No more waiting! Let's get into Week 2..."
-    "无需等待！让我们开启第二周……"
+    "无需等待！让我们即刻开启第二周……"
 
