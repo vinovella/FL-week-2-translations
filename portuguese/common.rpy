@@ -1135,3 +1135,7 @@ translate portuguese strings:
     # renpy/common/00preferences.rpy:289
     old "skip"
     new "pular"
+
+    # renpy/common/00preferences.rpy:282
+    old "joystick..."
+    new "joystick..."
