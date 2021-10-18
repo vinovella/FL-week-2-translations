@@ -74,3 +74,11 @@ translate russian strings:
     old "{u}Fill the questionnaire to play week [FLSS.week.cur] without loading a save{/u}"
     new "{u}Заполните анкету, чтобы играть в неделю [FLSS.week.cur] без сохранения{/u}"
 
+# TODO: Translation updated at 2021-10-18 22:08
+
+translate russian strings:
+
+    # game/code/screens/screens_fl.rpy:535
+    old "SKIP RECAP"
+    new "SKIP RECAP"
+

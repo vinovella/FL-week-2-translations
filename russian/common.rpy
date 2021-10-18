@@ -1154,3 +1154,59 @@ translate russian strings:
     old "Press or move the '[control!s]' [kind]."
     new "Нажмите или переместите '[control!s]' [kind]."
 
+# TODO: Translation updated at 2021-10-18 22:08
+
+translate russian strings:
+
+    # renpy/common/00gltest.rpy:79
+    old "Force Angle/DirectX Renderer"
+    new "Force Angle/DirectX Renderer"
+
+    # renpy/common/00gltest.rpy:83
+    old "Force OpenGL Renderer"
+    new "Force OpenGL Renderer"
+
+    # renpy/common/00gltest.rpy:87
+    old "Force Software Renderer"
+    new "Force Software Renderer"
+
+    # renpy/common/00gltest.rpy:93
+    old "NPOT"
+    new "NPOT"
+
+    # renpy/common/00gltest.rpy:220
+    old "This computer is not using shaders."
+    new "This computer is not using shaders."
+
+    # renpy/common/00gltest.rpy:222
+    old "This computer is displaying graphics slowly."
+    new "This computer is displaying graphics slowly."
+
+    # renpy/common/00gltest.rpy:229
+    old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display. Updating DirectX could fix this problem."
+    new "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display. Updating DirectX could fix this problem."
+
+    # renpy/common/00gltest.rpy:236
+    old "Update DirectX"
+    new "Update DirectX"
+
+    # renpy/common/00gltest.rpy:264
+    old "Updating DirectX."
+    new "Updating DirectX."
+
+    # renpy/common/00gltest.rpy:268
+    old "DirectX web setup has been started. It may start minimized in the taskbar. Please follow the prompts to install DirectX."
+    new "DirectX web setup has been started. It may start minimized in the taskbar. Please follow the prompts to install DirectX."
+
+    # renpy/common/00gltest.rpy:272
+    old "{b}Note:{/b} Microsoft's DirectX web setup program will, by default, install the Bing toolbar. If you do not want this toolbar, uncheck the appropriate box."
+    new "{b}Note:{/b} Microsoft's DirectX web setup program will, by default, install the Bing toolbar. If you do not want this toolbar, uncheck the appropriate box."
+
+    # renpy/common/00gltest.rpy:276
+    old "When setup finishes, please click below to restart this program."
+    new "When setup finishes, please click below to restart this program."
+
+    # renpy/common/00gltest.rpy:278
+    old "Restart"
+    new "Restart"
+
