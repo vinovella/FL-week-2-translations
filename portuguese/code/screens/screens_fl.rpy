@@ -92,4 +92,4 @@ translate portuguese strings:
 
     # game/code/screens/screens_fl.rpy:535
     old "SKIP RECAP"
-    new "PULAR RECAPITULAÇÃO"
+    new "PULAR"
