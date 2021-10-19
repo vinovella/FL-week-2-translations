@@ -1,124 +1,124 @@
-﻿# TODO: Translation updated at 2021-09-15 21:23
+# TODO: Translation updated at 2021-09-15 21:23
 
 translate portuguese strings:
 
     # game/code/data/prologue.rpy:16
     old "Scintillating Stacy"
-    new ""
+    new "Cintilante Stacy"
 
     # game/code/data/prologue.rpy:16
     old "The sister"
-    new ""
+    new "A irmã"
 
     # game/code/data/prologue.rpy:16
     old "The close childhood friend"
-    new ""
+    new "A amiga de infância"
 
     # game/code/data/prologue.rpy:16
     old "Playful Polly"
-    new ""
+    new "Polly Brincalhona"
 
     # game/code/data/prologue.rpy:16
     old "The pink-haired pansexual exhibitionist"
-    new ""
+    new "A exibicionista pansexual de cabelo rosa"
 
     # game/code/data/prologue.rpy:16
     old "Voluptuous Vanessa"
-    new ""
+    new "Voluptuosa Vanessa"
 
     # game/code/data/prologue.rpy:16
     old "The M.I.L.F."
-    new ""
+    new "A M.I.L.F."
 
     # game/code/data/prologue.rpy:16
     old "Charming Chloe"
-    new ""
+    new "Charmosa Chloe"
 
     # game/code/data/prologue.rpy:16
     old "The village bicycle"
-    new ""
+    new "A Bicicleta da vila"
 
     # game/code/data/prologue.rpy:16
     old "Jovial Jessie"
-    new ""
+    new "Jovial Jessie"
 
     # game/code/data/prologue.rpy:16
     old "The cosplayer extraordinaire"
-    new ""
+    new "A super cosplayer"
 
     # game/code/data/prologue.rpy:16
     old "Magnificent Min"
-    new ""
+    new "Magnífica Min"
 
     # game/code/data/prologue.rpy:16
     old "Obsessed with winning & watersports"
-    new ""
+    new "Obcecada em vencer e watersports"
 
     # game/code/data/prologue.rpy:16
     old "Lovely Lyssa"
-    new ""
+    new "Adorável Lyssa"
 
     # game/code/data/prologue.rpy:16
     old "The sexy lawyer with a secret surprise"
-    new ""
+    new "A advogada sexy com uma surpresa secreta"
 
     # game/code/data/prologue.rpy:16
     old "Maidenly Maria"
-    new ""
+    new "Recatada Maria"
 
     # game/code/data/prologue.rpy:16
     old "The creep stalker lesbian"
-    new ""
+    new "A estranha lésbica stalker"
 
     # game/code/data/prologue.rpy:16
     old "Delicious Daisy"
-    new ""
+    new "Deliciosa Daisy"
 
     # game/code/data/prologue.rpy:16
     old "The submissive free spirit"
-    new ""
+    new "O espírito livre submissivo"
 
     # game/code/data/prologue.rpy:16
     old "Dazzling Dahlia"
-    new ""
+    new "Deslumbrante Dahlia "
 
     # game/code/data/prologue.rpy:16
     old "The dominatrix"
-    new ""
+    new "A dominatrix"
 
     # game/code/data/prologue.rpy:34
     old "Cumshot"
-    new ""
+    new "Ejaculação"
 
     # game/code/data/prologue.rpy:34
     old "Creampie"
-    new ""
+    new "Creampie"
 
     # game/code/data/prologue.rpy:34
     old "Enema"
-    new ""
+    new "Enema"
 
     # game/code/data/prologue.rpy:34
     old "Watersports"
-    new ""
+    new "Urina"
 
     # game/code/data/prologue.rpy:34
     old "Footfetish"
-    new ""
+    new "Fetiche de pés"
 
     # game/code/data/prologue.rpy:34
     old "Anal play"
-    new ""
+    new "Anal"
 
     # game/code/data/prologue.rpy:34
     old "Pegging"
-    new ""
+    new "Pegging"
 
     # game/code/data/prologue.rpy:34
     old "Scat"
-    new ""
+    new "Fezes"
 
     # game/code/data/prologue.rpy:50
     old "Not_Mike"
-    new ""
+    new "Not_Mike"
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-03-26 00:50
+﻿# TODO: Translation updated at 2021-10-15 09:58
 
 translate russian strings:
 
@@ -26,115 +26,115 @@ translate russian strings:
     old "Check AmRose and Iona"
     new "Проверить АмРоуз и Иону"
 
-    # game/code/d10p2/d10p2_free_roam.rpy:52
+    # game/code/d10p2/d10p2_screens.rpy:61
     old "Turn around"
     new "Повернутся"
 
-    # game/code/d10p2/d10p2_free_roam.rpy:67
+    # game/code/d10p2/d10p2_screens.rpy:76
     old "Go near Stacy"
     new "Подойти к Стейси"
 
-    # game/code/d10p2/d10p2_free_roam.rpy:75
+    # game/code/d10p2/d10p2_screens.rpy:84
     old "Go to the balcony door"
     new "Подойти к балконной двери"
 
-    # game/code/d10p2/d10p2_free_roam.rpy:83
+    # game/code/d10p2/d10p2_screens.rpy:92
     old "Check out the rooms"
     new "Проверить комнату"
 
-    # game/code/d10p2/d10p2_free_roam.rpy:108
+    # game/code/d10p2/d10p2_screens.rpy:117
     old "Check what's behind the door"
     new "Проверить что за дверью"
 
-    # game/code/d10p2/d10p2_free_roam.rpy:141
+    # game/code/d10p2/d10p2_screens.rpy:150
     old "Go to the balcony"
     new "Идти на балкон"
 
-    # game/code/d10p2/d10p2_free_roam.rpy:166
+    # game/code/d10p2/d10p2_screens.rpy:175
     old "Go forward"
     new "Идти вперед"
 
-    # game/code/d10p2/d10p2_free_roam.rpy:191
+    # game/code/d10p2/d10p2_screens.rpy:200
     old "Check out the pool"
     new "Проверить бассейн"
 
-    # game/code/d10p2/d10p2_free_roam.rpy:215
+    # game/code/d10p2/d10p2_screens.rpy:224
     old "Enter the bar"
     new "Войти в бар"
 
-    # game/code/d10p2/d10p2_free_roam.rpy:240
+    # game/code/d10p2/d10p2_screens.rpy:249
     old "Check Stacy"
     new "Проверить Стейси"
 
-    # game/code/d10p2/d10p2_free_roam.rpy:248
+    # game/code/d10p2/d10p2_screens.rpy:257
     old "Go to the bar"
     new "Идти в бар"
 
-    # game/code/d10p2/d10p2_free_roam.rpy:272
+    # game/code/d10p2/d10p2_screens.rpy:281
     old "Go downstairs"
     new "Идти вниз"
 
-    # game/code/d10p2/d10p2_free_roam.rpy:280
+    # game/code/d10p2/d10p2_screens.rpy:289
     old "Go upstairs"
     new "Идти наверх"
 
-    # game/code/d10p2/d10p2_free_roam.rpy:419
+    # game/code/d10p2/d10p2_screens.rpy:428
     old "Talk to Oliver"
     new "Поговорить с Оливером"
 
-    # game/code/d10p2/d10p2_free_roam.rpy:430
+    # game/code/d10p2/d10p2_screens.rpy:439
     old "Go right"
     new "Идти направо"
 
-    # game/code/d10p2/d10p2_free_roam.rpy:438
+    # game/code/d10p2/d10p2_screens.rpy:447
     old "Check Lyssa"
     new "Проверить Лиссу"
 
-    # game/code/d10p2/d10p2_free_roam.rpy:447
+    # game/code/d10p2/d10p2_screens.rpy:456
     old "Check the painting"
     new "Проверить картину"
 
-    # game/code/d10p2/d10p2_free_roam.rpy:471
+    # game/code/d10p2/d10p2_screens.rpy:480
     old "Check the Pandora room"
     new "Проверить комнату Пандоры"
 
-    # game/code/d10p2/d10p2_free_roam.rpy:480
+    # game/code/d10p2/d10p2_screens.rpy:489
     old "Check Daisy and Allison"
     new "Проверить Дейзи и Эллисон"
 
-    # game/code/d10p2/d10p2_free_roam.rpy:529
+    # game/code/d10p2/d10p2_screens.rpy:538
     old "Go inside the Pandora room"
     new "Идти в комнату Пандоры"
 
-    # game/code/d10p2/d10p2_free_roam.rpy:538
+    # game/code/d10p2/d10p2_screens.rpy:547
     old "Check Antony"
     new "Проверить Энтони"
 
-    # game/code/d10p2/d10p2_free_roam.rpy:570
+    # game/code/d10p2/d10p2_screens.rpy:579
     old "Turn right"
     new "Повернуть направо"
 
-    # game/code/d10p2/d10p2_free_roam.rpy:603
+    # game/code/d10p2/d10p2_screens.rpy:612
     old "Check Lyssa and Min"
     new "Проверить Лиссу и Мин"
 
-    # game/code/d10p2/d10p2_free_roam.rpy:627
+    # game/code/d10p2/d10p2_screens.rpy:636
     old "Go to upstairs"
     new "Идти наверх"
 
-    # game/code/d10p2/d10p2_free_roam.rpy:683
+    # game/code/d10p2/d10p2_screens.rpy:692
     old "Enter the room"
     new "Войти в комнату"
 
-    # game/code/d10p2/d10p2_free_roam.rpy:708
+    # game/code/d10p2/d10p2_screens.rpy:717
     old "Check Chloe and Kevin"
     new "Проверить Хлою и Кевина"
 
-    # game/code/d10p2/d10p2_free_roam.rpy:773
+    # game/code/d10p2/d10p2_screens.rpy:782
     old "Go closer"
     new "Подойти поближе"
 
-    # game/code/d10p2/d10p2_free_roam.rpy:798
+    # game/code/d10p2/d10p2_screens.rpy:807
     old "Talk to Cynthia"
     new "Поговорить с Синтией"
 
@@ -181,3 +181,4 @@ translate russian strings:
     # game/code/d10p2/d10p2_screens.rpy:951
     old "Continue to the final scene"
     new "Продолжение финальной сцены"
+

@@ -3,12 +3,16 @@
 translate malay strings:
 
     # game/code/screens/screens_fl.rpy:99
-    old "Name"
-    new "Nama"
+    old "NAME"
+    new "NAMA"
 
     # game/code/screens/screens_fl.rpy:102
-    old "Date"
-    new "Tarikh"
+    old "DATE"
+    new "TARIKH"
+
+    # game/code/screens/screens.rpy:77
+    old "LOAD"
+    new "MUAT"
 
     # game/code/screens/screens_fl.rpy:138
     old "No save from week [FLSS.week.prev] has been detected"
@@ -81,4 +85,3 @@ translate malay strings:
     # game/code/screens/screens_fl.rpy:271
     old "{u}Fill the questionnaire to play week [FLSS.week.cur] without loading a save{/u}"
     new "{u}Fill the questionnaire to play week [FLSS.week.cur] without loading a save{/u}"
-

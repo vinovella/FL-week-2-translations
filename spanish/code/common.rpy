@@ -232,11 +232,11 @@ translate spanish strings:
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jun"
-    new "{#month_short}Jun"
+    new "{#month_short}Jn"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jul"
-    new "{#month_short}Jul"
+    new "{#month_short}Jl"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Aug"
@@ -248,7 +248,7 @@ translate spanish strings:
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Oct"
-    new "{#month_short}Oct"
+    new "{#month_short}Oc"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Nov"

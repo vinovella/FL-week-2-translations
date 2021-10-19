@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-08-27 17:10
+﻿# TODO: Translation updated at 2021-10-15 09:58
 
 # game/code/d13/extended/d13s02.rpy:36
 translate russian d13s02_acea7575:
@@ -64,7 +64,7 @@ translate russian replay_d13s02_8dee23f8:
 translate russian replay_d13s02_c2c2536d:
 
     # tm "If you said you lost a bet, I'd probably believe that."
-    tm "В пари я бы, наверное, ещё поверил."
+    tm "В пари я бы, наверное, ещё поверила."
 
 # game/code/d13/extended/d13s02.rpy:73
 translate russian replay_d13s02_dad79a89:

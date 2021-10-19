@@ -7,12 +7,16 @@ translate italian strings:
     new "punti: "
 
     # game/code/screens/screens_fl.rpy:72
-    old "Name"
-    new "Nome"
+    old "NAME"
+    new "NOME"
 
     # game/code/screens/screens_fl.rpy:75
-    old "Date"
-    new "Data"
+    old "DATE"
+    new "DATA"
+
+    # game/code/screens/screens_fl.rpy:77
+    old "LOAD"
+    new "CARICA"
 
     # game/code/screens/screens_fl.rpy:111
     old "No save from week [FLSS.week.prev] has been detected"
@@ -94,3 +98,10 @@ translate italian strings:
     old "{u}Fill the questionnaire to play week [FLSS.week.cur] without loading a save{/u}"
     new "{u}Fill the questionnaire to play week [FLSS.week.cur] without loading a save{/u}"
 
+# TODO: Translation updated at 2021-10-18 00:45
+
+translate italian strings:
+
+    # game/code/screens/screens_fl.rpy:535
+    old "SKIP RECAP"
+    new "SKIP RECAP"

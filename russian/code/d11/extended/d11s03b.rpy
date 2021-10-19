@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-08-27 17:10
+﻿# TODO: Translation updated at 2021-10-15 09:58
 
 # game/code/d11/extended/d11s03b.rpy:10
 translate russian d11s03b_d02856eb:
@@ -235,9 +235,9 @@ translate russian replay_d11s03b_95b0f216:
     aw "Вау! Я не ожидала этого от такого респектабельного адвоката!"
 
 # game/code/d11/extended/d11s03b.rpy:182
-translate russian replay_d11s03b_2eda63e3:
+translate russian replay_d11s03b_b0a0afd1:
 
-    # mh "You have no idea what a pervert I'm!"
+    # mh "You have no idea what a pervert I am!"
     mh "Ты даже не представляешь, какая я извращенка!"
 
 # game/code/d11/extended/d11s03b.rpy:186
@@ -258,89 +258,81 @@ translate russian replay_d11s03b_ab6b4b5a:
     # mh "That depends... Does you're little friend want to fuck my ass?"
     mh "Это зависит от... Твой маленький друг хочет трахнуть меня в задницу?"
 
-# game/code/d11/extended/d11s03b.rpy:238
+# game/code/d11/extended/d11s03b.rpy:239
 translate russian replay_d11s03b_ddcbdec4:
 
     # aw "So, what do you think?"
     aw "Так что ты думаешь?"
 
-# game/code/d11/extended/d11s03b.rpy:241
+# game/code/d11/extended/d11s03b.rpy:242
 translate russian replay_d11s03b_a01a0f08:
 
     # mc "Wow! That is some story!"
     mc "Ух ты! Это целая история!"
 
-# game/code/d11/extended/d11s03b.rpy:244
+# game/code/d11/extended/d11s03b.rpy:245
 translate russian replay_d11s03b_32eb005a:
 
     # aw "Oh! Don't mention that story to Lyssa. She might be upset that I told anyone - even you."
     aw "О! Только не рассказывай эту историю Лиссе. Она может расстроиться из-за того, что я рассказала её постороннему."
 
-# game/code/d11/extended/d11s03b.rpy:247
+# game/code/d11/extended/d11s03b.rpy:248
 translate russian replay_d11s03b_14f9c877:
 
     # mc "Of course. Maybe she'll tell me someday. I imagine you two had a lot of private moments like that."
     mc "Конечно. Надеюсь, когда-нибудь она мне сама расскажет. Думаю, что у вас было много таких личных моментов."
 
-# game/code/d11/extended/d11s03b.rpy:249
+# game/code/d11/extended/d11s03b.rpy:250
 translate russian replay_d11s03b_273c258d:
 
     # aw "Not really. She's won a few more cases since then, but we never did go back there."
     aw "Не совсем. С тех пор она выиграла еще несколько дел, но мы больше не возвращались туда."
 
-# game/code/d11/extended/d11s03b.rpy:252
+# game/code/d11/extended/d11s03b.rpy:253
 translate russian replay_d11s03b_26ad01d2:
 
     # aw "Last time she won a case we celebrated with beer, pizza, and a chick flick."
     aw "В последний раз, когда она выиграла дело, мы отпраздновали это пивом, пиццей и фильмом о цыпочках."
 
-# game/code/d11/extended/d11s03b.rpy:253
+# game/code/d11/extended/d11s03b.rpy:254
 translate russian replay_d11s03b_b2ad6f0f:
 
     # aw "But the point is - Lyssa's just as much of a pervert as you are."
     aw "Но эта история в том, что Лисса такая же извращенка, как и ты."
 
-# game/code/d11/extended/d11s03b.rpy:256
+# game/code/d11/extended/d11s03b.rpy:257
 translate russian replay_d11s03b_195f1db3:
 
     # mc "So, I shouldn't worry about that."
     mc "Значит мне не стоит об этом беспокоиться."
 
-# game/code/d11/extended/d11s03b.rpy:258
+# game/code/d11/extended/d11s03b.rpy:259
 translate russian replay_d11s03b_640ad48e:
 
     # aw "Yep!{w} Well, I'm going to head back to the Uni..."
     aw "Ага!{w} Что ж, мне пора возвращаться в университет..."
 
-# game/code/d11/extended/d11s03b.rpy:263
+# game/code/d11/extended/d11s03b.rpy:264
 translate russian replay_d11s03b_51e0217a:
 
     # aw "I see my story had a significant effect on you."
     aw "Я вижу, что моя история оказала на тебя значительное влияние."
 
-# game/code/d11/extended/d11s03b.rpy:264
+# game/code/d11/extended/d11s03b.rpy:265
 translate russian replay_d11s03b_2bdae27a:
 
     # aw "Why don't you take a little chillout break here for a while. I didn't mean to set your head spinning."
     aw "Почему бы тебе не посидеть здесь и не отдохнуть. Я не хотела бы, чтобы у тебя закружилась голова."
 
-# game/code/d11/extended/d11s03b.rpy:267
+# game/code/d11/extended/d11s03b.rpy:268
 translate russian replay_d11s03b_bd02c4c5:
 
     # mc "Nice one."
     mc "Отлично."
 
-# game/code/d11/extended/d11s03b.rpy:268
+# game/code/d11/extended/d11s03b.rpy:269
 translate russian replay_d11s03b_e27f958a:
 
     # aw "Yes, I am."
     aw "Да, пока."
-
-# TODO: Translation updated at 2021-09-29 22:20
-
-# game/code/d11/extended/d11s03b.rpy:182
-translate russian replay_d11s03b_b0a0afd1:
-
-    # mh "You have no idea what a pervert I am!"
-    mh "You have no idea what a pervert I am!"
 

@@ -3,12 +3,15 @@
 translate spanish strings:
 
     # game/code/screens/screens_fl.rpy:93
-    old "Name"
-    new "Nombre"
+    old "NAME"
+    new "NOMBRE"
 
     # game/code/screens/screens_fl.rpy:96
-    old "Date"
-    new "Fecha"
+    old "DATE"
+    new "FECHA"
+
+    old "LOAD"
+    new "CARGAR"
 
     # game/code/screens/screens_fl.rpy:132
     old "No save from week [FLSS.week.prev] has been detected"
@@ -70,17 +73,24 @@ translate spanish strings:
 
     # game/code/screens/screens_fl.rpy:245
     old "No end game save from week [FLSS.week.prev] has been detected"
-    new "No end game save from week [FLSS.week.prev] has been detected"
+    new "No se ha detectado ningún guardado de fin de partida de la semana [FLSS.week.prev]."
 
     # game/code/screens/screens_fl.rpy:252
     old "Please open Fetish Locator week [FLSS.week.prev] and SAVE at the end game save screen"
-    new "Please open Fetish Locator week [FLSS.week.prev] and SAVE at the end game save screen"
+    new "Por favor, abre la semana del Localizador de Fetiches [FLSS.week.prev] y GUARDA en la pantalla de guardado del final del juego"
 
     # game/code/screens/screens_fl.rpy:265
     old "Or"
-    new "Or"
+    new "O"
 
     # game/code/screens/screens_fl.rpy:271
     old "{u}Fill the questionnaire to play week [FLSS.week.cur] without loading a save{/u}"
-    new "{u}Fill the questionnaire to play week [FLSS.week.cur] without loading a save{/u}"
+    new "{u}Rellena el cuestionario para jugar a la semana [FLSS.week.cur] sin cargar un guardado{/u}"
 
+# TODO: Translation updated at 2021-10-18 00:44
+
+translate spanish strings:
+
+    # game/code/screens/screens_fl.rpy:535
+    old "SKIP RECAP"
+    new "OMITIR RECAPITULACIÓN"

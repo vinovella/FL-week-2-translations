@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-10-17 22:27
+﻿# TODO: Translation updated at 2021-10-18 00:35
 
 # game/code/d14p2/extended/d14s18.rpy:48
 translate chinese d14s18_2dcfd52b:
@@ -307,116 +307,136 @@ translate chinese replay_d14s18_bb58f9ab:
     mc "What are you even doing? *Chuckles*"
 
 # game/code/d14p2/extended/d14s18.rpy:198
-translate chinese replay_d14s18_276619b9:
+translate chinese replay_d14s18_12813d6e:
 
-    # mc "Wait, you want me to get in there with you?"
-    mc "Wait, you want me to get in there with you?"
+    # mc "You want me to fuck you in there?"
+    mc "You want me to fuck you in there?"
 
-# game/code/d14p2/extended/d14s18.rpy:202
+# game/code/d14p2/extended/d14s18.rpy:201
+translate chinese replay_d14s18_6eee6871:
+
+    # mc "Am I going to fuck your pussy in that costume?"
+    mc "Am I going to fuck your pussy in that costume?"
+
+# game/code/d14p2/extended/d14s18.rpy:204
+translate chinese replay_d14s18_e53d0536:
+
+    # mc "Oh, I think I get what you're thinking... dirty girl. Should I just jump in?"
+    mc "Oh, I think I get what you're thinking... dirty girl. Should I just jump in?"
+
+# game/code/d14p2/extended/d14s18.rpy:210
 translate chinese replay_d14s18_dfd3e098:
 
     # mc "Oh no, uh-uh. I {i}really{/i} don't think this thing was made to hold a person, let alone two."
     mc "Oh no, uh-uh. I {i}really{/i} don't think this thing was made to hold a person, let alone two."
 
-# game/code/d14p2/extended/d14s18.rpy:204
+# game/code/d14p2/extended/d14s18.rpy:212
 translate chinese replay_d14s18_87970068:
 
     # mc "I... Don't give me those puppy eyes, damn it."
     mc "I... Don't give me those puppy eyes, damn it."
 
-# game/code/d14p2/extended/d14s18.rpy:205
+# game/code/d14p2/extended/d14s18.rpy:213
 translate chinese replay_d14s18_6088e997:
 
     # mc "Jessie..."
     mc "Jessie..."
 
-# game/code/d14p2/extended/d14s18.rpy:207
+# game/code/d14p2/extended/d14s18.rpy:215
 translate chinese replay_d14s18_fa3e9da8:
 
     # mc "*Sigh* Fine. Just for a little."
     mc "*Sigh* Fine. Just for a little."
 
-# game/code/d14p2/extended/d14s18.rpy:209
+# game/code/d14p2/extended/d14s18.rpy:217
 translate chinese replay_d14s18_520a90c7:
 
     # mc "There's a perfectly fine pool out there and you {i}had{/i} to swim in here, didn't you?"
     mc "There's a perfectly fine pool out there and you {i}had{/i} to swim in here, didn't you?"
 
-# game/code/d14p2/extended/d14s18.rpy:213
+# game/code/d14p2/extended/d14s18.rpy:221
 translate chinese replay_d14s18_dcbcaff5:
 
     # mc "There, happy now?"
     mc "There, happy now?"
 
-# game/code/d14p2/extended/d14s18.rpy:215
+# game/code/d14p2/extended/d14s18.rpy:223
 translate chinese replay_d14s18_c12444b2:
 
     # mc "Holy Shit! It's cold in here."
     mc "Holy Shit! It's cold in here."
 
-# game/code/d14p2/extended/d14s18.rpy:217
+# game/code/d14p2/extended/d14s18.rpy:225
 translate chinese replay_d14s18_13ea9606:
 
     # mc "Hey—!"
     mc "Hey—!"
 
-# game/code/d14p2/extended/d14s18.rpy:227
+# game/code/d14p2/extended/d14s18.rpy:235
 translate chinese replay_d14s18_31d02d2a:
 
     # mc "Oh please, like you haven't seen it already."
     mc "Oh please, like you haven't seen it already."
 
-# game/code/d14p2/extended/d14s18.rpy:233
+# game/code/d14p2/extended/d14s18.rpy:241
 translate chinese replay_d14s18_e3a49e2f:
 
     # mc "You're rubbing it against my dick!"
     mc "You're rubbing it against my dick!"
 
-# game/code/d14p2/extended/d14s18.rpy:261
+# game/code/d14p2/extended/d14s18.rpy:269
 translate chinese replay_d14s18_d3a112c1:
 
     # mc "Mm... I bet you'd like it if I fucked you in the ass, huh? {w}Push you up against the glass and take you while anyone walking by could see us."
     mc "Mm... I bet you'd like it if I fucked you in the ass, huh? {w}Push you up against the glass and take you while anyone walking by could see us."
 
-# game/code/d14p2/extended/d14s18.rpy:263
+# game/code/d14p2/extended/d14s18.rpy:271
 translate chinese replay_d14s18_06c23735:
 
     # mc "You would like that, wouldn't you? Do you want it?"
     mc "You would like that, wouldn't you? Do you want it?"
 
-# game/code/d14p2/extended/d14s18.rpy:267
+# game/code/d14p2/extended/d14s18.rpy:275
 translate chinese replay_d14s18_87e26eb2:
 
     # mc "Good girl."
     mc "Good girl."
 
-# game/code/d14p2/extended/d14s18.rpy:326
+# game/code/d14p2/extended/d14s18.rpy:334
 translate chinese replay_d14s18_4f8b53a7:
 
     # mc "Fuck me, you're so fucking tight."
     mc "Fuck me, you're so fucking tight."
 
-# game/code/d14p2/extended/d14s18.rpy:418
+# game/code/d14p2/extended/d14s18.rpy:426
 translate chinese replay_d14s18_2e07b1ef:
 
     # mct "Lydia is gonna be pissed if she sees all this cum in the water. {w}Maybe the aquarium filters will take care of it."
     mct "Lydia is gonna be pissed if she sees all this cum in the water. {w}Maybe the aquarium filters will take care of it."
 
-# game/code/d14p2/extended/d14s18.rpy:423
+# game/code/d14p2/extended/d14s18.rpy:431
 translate chinese replay_d14s18_384748b3:
 
     # mc "Okay. Can I get you something. Are you alright here?"
     mc "Okay. Can I get you something. Are you alright here?"
 
-# game/code/d14p2/extended/d14s18.rpy:432
+# game/code/d14p2/extended/d14s18.rpy:440
 translate chinese replay_d14s18_6ef071de:
 
     # mc "I need to go. See you later."
     mc "I need to go. See you later."
 
-# game/code/d14p2/extended/d14s18.rpy:436
+# game/code/d14p2/extended/d14s18.rpy:444
 translate chinese replay_d14s18_adb4d09a:
 
     # mc "I'll be around if you need me."
     mc "I'll be around if you need me."
+
+# TODO: Translation updated at 2021-10-19 01:47
+
+# game/code/d14p2/extended/d14s18.rpy:142
+translate chinese d14s18_f28d21c8:
+
+    # ir "From the way she's throwing looks at [mcname], I'd say the latter. *Chuckles*"
+    ir "From the way she's throwing looks at [mcname], I'd say the latter. *Chuckles*"
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-11-04 21:11
+﻿# TODO: Translation updated at 2021-10-15 09:58
 
 translate russian strings:
 
@@ -74,35 +74,39 @@ translate russian strings:
     old "Reset"
     new "Сброс"
 
-    # renpy/common/00accessibility.rpy:157
+    # renpy/common/00accessibility.rpy:158
     old "Line Spacing Scaling"
     new "Масштабирование межстрочного интервала"
 
-    # renpy/common/00accessibility.rpy:169
+    # renpy/common/00accessibility.rpy:171
     old "Self-Voicing"
     new "Self-Voicing"
 
-    # renpy/common/00accessibility.rpy:173
+    # renpy/common/00accessibility.rpy:175
     old "Off"
     new "Off"
 
-    # renpy/common/00accessibility.rpy:177
+    # renpy/common/00accessibility.rpy:179
     old "Text-to-speech"
     new "Текст в речь"
 
-    # renpy/common/00accessibility.rpy:181
+    # renpy/common/00accessibility.rpy:183
     old "Clipboard"
     new "Буфер обмена"
 
-    # renpy/common/00accessibility.rpy:185
+    # renpy/common/00accessibility.rpy:187
     old "Debug"
     new "Отладка"
 
-    # renpy/common/00accessibility.rpy:191
+    # renpy/common/00accessibility.rpy:193
+    old "Self-Voicing Volume Drop"
+    new "Сниж громк у синтезатора речи"
+
+    # renpy/common/00accessibility.rpy:202
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
     new "Параметры этого меню предназначены для улучшения доступности. Они могут работать не со всеми играми, и некоторые комбинации опций могут сделать игру неиграбельной. Это не проблема игры или движка. Для достижения наилучших результатов при смене шрифтов старайтесь сохранить размер текста таким же, каким он был изначально."
 
-    # renpy/common/00accessibility.rpy:196
+    # renpy/common/00accessibility.rpy:207
     old "Return"
     new "Вернуться"
 
@@ -274,47 +278,47 @@ translate russian strings:
     old "Delete slot [text]"
     new "Удалить слот [text]"
 
-    # renpy/common/00action_file.rpy:569
+    # renpy/common/00action_file.rpy:566
     old "File page auto"
     new "Автосохранение"
 
-    # renpy/common/00action_file.rpy:571
+    # renpy/common/00action_file.rpy:568
     old "File page quick"
     new "Быстрое сохранение"
 
-    # renpy/common/00action_file.rpy:573
+    # renpy/common/00action_file.rpy:570
     old "File page [text]"
     new "Страница сохранений [text]"
 
-    # renpy/common/00action_file.rpy:631
+    # renpy/common/00action_file.rpy:628
     old "Page {}"
     new "Страница {}"
 
-    # renpy/common/00action_file.rpy:631
+    # renpy/common/00action_file.rpy:628
     old "Automatic saves"
     new "Автоматическое сохранение"
 
-    # renpy/common/00action_file.rpy:631
+    # renpy/common/00action_file.rpy:628
     old "Quick saves"
     new "Быстрое сохранение"
 
-    # renpy/common/00action_file.rpy:772
+    # renpy/common/00action_file.rpy:769
     old "Next file page."
     new "Следующая страница сохранений"
 
-    # renpy/common/00action_file.rpy:845
+    # renpy/common/00action_file.rpy:842
     old "Previous file page."
     new "Предыдущая страница сохранений"
 
-    # renpy/common/00action_file.rpy:906
+    # renpy/common/00action_file.rpy:903
     old "Quick save complete."
     new "Быстрое сохранение завершено"
 
-    # renpy/common/00action_file.rpy:924
+    # renpy/common/00action_file.rpy:921
     old "Quick save."
     new "Быстрое сохранение"
 
-    # renpy/common/00action_file.rpy:943
+    # renpy/common/00action_file.rpy:940
     old "Quick load."
     new "Быстрая загрузка"
 
@@ -454,11 +458,11 @@ translate russian strings:
     old "Are you sure you want to skip unseen dialogue to the next choice?"
     new "Вы уверены, что хотите пропустить непрочитанные диалоги до следующего выбора?"
 
-    # renpy/common/00keymap.rpy:267
+    # renpy/common/00keymap.rpy:300
     old "Failed to save screenshot as %s."
     new "Провалена попытка сохранить скриншот %s."
 
-    # renpy/common/00keymap.rpy:279
+    # renpy/common/00keymap.rpy:312
     old "Saved screenshot as %s."
     new "Скриншот сохранён как %s."
 
@@ -470,171 +474,179 @@ translate russian strings:
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
     new "Эта программа содержит свободное и открытое программное обеспечение под несколькими лицензиями, включая лицензию MIT и GNU Lesser General Public. Полный список лицензий, включая ссылки на полный исходный код, можно найти {a=https://www.renpy.org/l/license}здесь{/a}."
 
-    # renpy/common/00preferences.rpy:233
+    # renpy/common/00preferences.rpy:240
     old "display"
     new "режим экрана"
 
-    # renpy/common/00preferences.rpy:245
+    # renpy/common/00preferences.rpy:252
     old "transitions"
     new "переходы"
 
-    # renpy/common/00preferences.rpy:254
+    # renpy/common/00preferences.rpy:261
     old "skip transitions"
     new "пропускать переходы"
 
-    # renpy/common/00preferences.rpy:256
+    # renpy/common/00preferences.rpy:263
     old "video sprites"
     new "видео-спрайты"
 
-    # renpy/common/00preferences.rpy:265
+    # renpy/common/00preferences.rpy:272
     old "show empty window"
     new "показывать пустое окно диалога"
 
-    # renpy/common/00preferences.rpy:274
+    # renpy/common/00preferences.rpy:281
     old "text speed"
     new "скорость текста"
 
-    # renpy/common/00preferences.rpy:282
+    # renpy/common/00preferences.rpy:289
     old "joystick"
     new "джойстик"
 
-    # renpy/common/00preferences.rpy:282
+    # renpy/common/00preferences.rpy:289
     old "joystick..."
     new "джойстик..."
 
-    # renpy/common/00preferences.rpy:289
+    # renpy/common/00preferences.rpy:296
     old "skip"
     new "пропускать"
 
-    # renpy/common/00preferences.rpy:292
+    # renpy/common/00preferences.rpy:299
     old "skip unseen [text]"
     new "пропускать весь [text]"
 
-    # renpy/common/00preferences.rpy:297
+    # renpy/common/00preferences.rpy:304
     old "skip unseen text"
     new "пропускать весь текст"
 
-    # renpy/common/00preferences.rpy:299
+    # renpy/common/00preferences.rpy:306
     old "begin skipping"
     new "начать пропуск"
 
-    # renpy/common/00preferences.rpy:303
+    # renpy/common/00preferences.rpy:310
     old "after choices"
     new "после выборов"
 
-    # renpy/common/00preferences.rpy:310
+    # renpy/common/00preferences.rpy:317
     old "skip after choices"
     new "пропускать после выборов"
 
-    # renpy/common/00preferences.rpy:312
+    # renpy/common/00preferences.rpy:319
     old "auto-forward time"
     new "скорость авточтения"
 
-    # renpy/common/00preferences.rpy:326
+    # renpy/common/00preferences.rpy:333
     old "auto-forward"
     new "авточтение"
 
-    # renpy/common/00preferences.rpy:333
+    # renpy/common/00preferences.rpy:340
     old "Auto forward"
     new "Авточтение"
 
-    # renpy/common/00preferences.rpy:336
+    # renpy/common/00preferences.rpy:343
     old "auto-forward after click"
     new "продолжать авточтение после клика"
 
-    # renpy/common/00preferences.rpy:345
+    # renpy/common/00preferences.rpy:352
     old "automatic move"
     new "автоматически передвигать мышь к кнопке"
 
-    # renpy/common/00preferences.rpy:354
+    # renpy/common/00preferences.rpy:361
     old "wait for voice"
     new "ждать голос"
 
-    # renpy/common/00preferences.rpy:363
+    # renpy/common/00preferences.rpy:370
     old "voice sustain"
     new "не останавливать голос"
 
-    # renpy/common/00preferences.rpy:372
+    # renpy/common/00preferences.rpy:379
     old "self voicing"
     new "озвучка через синтезатор речи"
 
-    # renpy/common/00preferences.rpy:381
+    # renpy/common/00preferences.rpy:388
+    old "self voicing volume drop"
+    new "сниж громк у синтезатора речи"
+
+    # renpy/common/00preferences.rpy:396
     old "clipboard voicing"
     new "синтез речи из буфера обмена"
 
-    # renpy/common/00preferences.rpy:390
+    # renpy/common/00preferences.rpy:405
     old "debug voicing"
     new "режим отладки синтеза речи"
 
-    # renpy/common/00preferences.rpy:399
+    # renpy/common/00preferences.rpy:414
     old "emphasize audio"
     new "усилить громкость заранее заданных звуковых каналов за счёт приглушения остальных каналов"
 
-    # renpy/common/00preferences.rpy:408
+    # renpy/common/00preferences.rpy:423
     old "rollback side"
     new "сторона отката"
 
-    # renpy/common/00preferences.rpy:418
+    # renpy/common/00preferences.rpy:433
     old "gl powersave"
     new "настройка графики. Экономия энергии"
 
-    # renpy/common/00preferences.rpy:424
+    # renpy/common/00preferences.rpy:439
     old "gl framerate"
     new "настройка графики. Частота кадров"
 
-    # renpy/common/00preferences.rpy:427
+    # renpy/common/00preferences.rpy:442
     old "gl tearing"
     new "настройка графики. Разрывание кадров"
 
-    # renpy/common/00preferences.rpy:430
+    # renpy/common/00preferences.rpy:445
     old "font transform"
     new "преобразование шрифта"
 
-    # renpy/common/00preferences.rpy:433
+    # renpy/common/00preferences.rpy:448
     old "font size"
     new "размер шрифта"
 
-    # renpy/common/00preferences.rpy:441
+    # renpy/common/00preferences.rpy:456
     old "font line spacing"
-    new "межстрочный интервал"
+    new "интервал между строками шрифта"
 
-    # renpy/common/00preferences.rpy:460
+    # renpy/common/00preferences.rpy:464
+    old "system cursor"
+    new "системный курсор"
+
+    # renpy/common/00preferences.rpy:484
     old "music volume"
     new "громкость музыки"
 
-    # renpy/common/00preferences.rpy:461
+    # renpy/common/00preferences.rpy:485
     old "sound volume"
     new "громкость звуков"
 
-    # renpy/common/00preferences.rpy:462
+    # renpy/common/00preferences.rpy:486
     old "voice volume"
     new "громкость голоса"
 
-    # renpy/common/00preferences.rpy:463
+    # renpy/common/00preferences.rpy:487
     old "mute music"
     new "без музыки"
 
-    # renpy/common/00preferences.rpy:464
+    # renpy/common/00preferences.rpy:488
     old "mute sound"
     new "без звуков"
 
-    # renpy/common/00preferences.rpy:465
+    # renpy/common/00preferences.rpy:489
     old "mute voice"
     new "без голоса"
 
-    # renpy/common/00preferences.rpy:466
+    # renpy/common/00preferences.rpy:490
     old "mute all"
     new "режим без звука"
 
-    # renpy/common/00preferences.rpy:547
+    # renpy/common/00preferences.rpy:571
     old "Clipboard voicing enabled. Press 'shift+C' to disable."
     new "Озвучка буфера обмена включена. Нажмите 'shift+C', чтобы отключить её."
 
-    # renpy/common/00preferences.rpy:549
+    # renpy/common/00preferences.rpy:573
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
     new "Синтезатор речи должен сказать \"[renpy.display.tts.last]\". Нажмите 'alt+shift+V', чтобы отключить его."
 
-    # renpy/common/00preferences.rpy:551
+    # renpy/common/00preferences.rpy:575
     old "Self-voicing enabled. Press 'v' to disable."
     new "Синтезатор речи включён. Нажмите 'v', чтобы отключить его."
 
@@ -738,27 +750,27 @@ translate russian strings:
     old "Position copied to clipboard."
     new "Координаты позиции скопированы в буфер обмена."
 
-    # renpy/common/_developer/developer.rpym:507
+    # renpy/common/_developer/developer.rpym:506
     old "Type to filter: "
     new "Текущий фильтр: "
 
-    # renpy/common/_developer/developer.rpym:635
+    # renpy/common/_developer/developer.rpym:631
     old "Textures: [tex_count] ([tex_size_mb:.1f] MB)"
     new "Текстура: [tex_count] ([tex_size_mb:.1f] МБ)"
 
-    # renpy/common/_developer/developer.rpym:639
+    # renpy/common/_developer/developer.rpym:635
     old "Image cache: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
     new "Кеш изображений: [cache_pct:.1f]% ([cache_size_mb:.1f] МБ)"
 
-    # renpy/common/_developer/developer.rpym:649
+    # renpy/common/_developer/developer.rpym:645
     old "✔ "
     new "✔ "
 
-    # renpy/common/_developer/developer.rpym:652
+    # renpy/common/_developer/developer.rpym:648
     old "✘ "
     new "✘ "
 
-    # renpy/common/_developer/developer.rpym:657
+    # renpy/common/_developer/developer.rpym:653
     old "\n{color=#cfc}✔ predicted image (good){/color}\n{color=#fcc}✘ unpredicted image (bad){/color}\n{color=#fff}Drag to move.{/color}"
     new "\n{color=#cfc}✔ предсказанное изображение (хорошо){/color}\n{color=#fcc}✘ внезапное изображение (плохо){/color}\n{color=#fff}Нажмите, чтобы передвинуть.{/color}"
 
@@ -806,233 +818,225 @@ translate russian strings:
     old "q"
     new "б"
 
-    # renpy/common/00iap.rpy:217
+    # renpy/common/00iap.rpy:219
     old "Contacting App Store\nPlease Wait..."
     new "Связываюсь с App Store\nПожалуйста, ждите..."
 
-    # renpy/common/00updater.rpy:375
+    # renpy/common/00updater.rpy:374
     old "The Ren'Py Updater is not supported on mobile devices."
     new "Ren'Py Updater не поддерживается на мобильных устройствах."
 
-    # renpy/common/00updater.rpy:494
+    # renpy/common/00updater.rpy:493
     old "An error is being simulated."
     new "Симулируется ошибка."
 
-    # renpy/common/00updater.rpy:678
+    # renpy/common/00updater.rpy:677
     old "Either this project does not support updating, or the update status file was deleted."
     new "Или этот проект не поддерживает обновление, или файл статуса обновления был удалён."
 
-    # renpy/common/00updater.rpy:692
+    # renpy/common/00updater.rpy:691
     old "This account does not have permission to perform an update."
     new "У этого аккаунта нет прав проводить обновление."
 
-    # renpy/common/00updater.rpy:695
+    # renpy/common/00updater.rpy:694
     old "This account does not have permission to write the update log."
     new "У этого аккаунта нет прав писать лог обновления."
 
-    # renpy/common/00updater.rpy:722
+    # renpy/common/00updater.rpy:721
     old "Could not verify update signature."
     new "Не могу верифицировать подпись обновления."
 
-    # renpy/common/00updater.rpy:997
+    # renpy/common/00updater.rpy:992
     old "The update file was not downloaded."
     new "Файл обновления не был загружен."
 
-    # renpy/common/00updater.rpy:1015
+    # renpy/common/00updater.rpy:1010
     old "The update file does not have the correct digest - it may have been corrupted."
     new "Файл обновления не содержит корректного дайджеста — он может быть повреждён."
 
-    # renpy/common/00updater.rpy:1071
+    # renpy/common/00updater.rpy:1064
     old "While unpacking {}, unknown type {}."
     new "При распаковке {} обнаружен неизвестный тип {}."
 
-    # renpy/common/00updater.rpy:1439
+    # renpy/common/00updater.rpy:1430
     old "Updater"
     new "Обновление"
 
-    # renpy/common/00updater.rpy:1446
+    # renpy/common/00updater.rpy:1437
     old "An error has occured:"
     new "Возникла ошибка:"
 
-    # renpy/common/00updater.rpy:1448
+    # renpy/common/00updater.rpy:1439
     old "Checking for updates."
     new "Проверка обновлений."
 
-    # renpy/common/00updater.rpy:1450
+    # renpy/common/00updater.rpy:1441
     old "This program is up to date."
     new "Эта программа обновлена."
 
-    # renpy/common/00updater.rpy:1452
+    # renpy/common/00updater.rpy:1443
     old "[u.version] is available. Do you want to install it?"
     new "[u.version] доступна. Вы хотите её установить?"
 
-    # renpy/common/00updater.rpy:1454
+    # renpy/common/00updater.rpy:1445
     old "Preparing to download the updates."
     new "Подготовка к загрузке обновлений."
 
-    # renpy/common/00updater.rpy:1456
+    # renpy/common/00updater.rpy:1447
     old "Downloading the updates."
     new "Загрузка обновлений."
 
-    # renpy/common/00updater.rpy:1458
+    # renpy/common/00updater.rpy:1449
     old "Unpacking the updates."
     new "Распаковка обновлений."
 
-    # renpy/common/00updater.rpy:1460
+    # renpy/common/00updater.rpy:1451
     old "Finishing up."
     new "Завершаю..."
 
-    # renpy/common/00updater.rpy:1462
+    # renpy/common/00updater.rpy:1453
     old "The updates have been installed. The program will restart."
     new "Обновления установлены. Программа будет перезапущена."
 
-    # renpy/common/00updater.rpy:1464
+    # renpy/common/00updater.rpy:1455
     old "The updates have been installed."
     new "Обновления были установлены."
 
-    # renpy/common/00updater.rpy:1466
+    # renpy/common/00updater.rpy:1457
     old "The updates were cancelled."
     new "Обновления были отменены."
 
-    # renpy/common/00updater.rpy:1481
+    # renpy/common/00updater.rpy:1472
     old "Proceed"
     new "Продолжить"
 
-    # renpy/common/00gallery.rpy:592
+    # renpy/common/00gallery.rpy:590
     old "Image [index] of [count] locked."
     new "Изображение [index] из [count] закрыто."
 
-    # renpy/common/00gallery.rpy:612
+    # renpy/common/00gallery.rpy:610
     old "prev"
     new "пред"
 
-    # renpy/common/00gallery.rpy:613
+    # renpy/common/00gallery.rpy:611
     old "next"
     new "след"
 
-    # renpy/common/00gallery.rpy:614
+    # renpy/common/00gallery.rpy:612
     old "slideshow"
     new "слайд-шоу"
 
-    # renpy/common/00gallery.rpy:615
+    # renpy/common/00gallery.rpy:613
     old "return"
     new "вернуться"
 
-    # renpy/common/00gltest.rpy:70
+    # renpy/common/00gltest.rpy:89
     old "Renderer"
     new "Рендер"
 
-    # renpy/common/00gltest.rpy:74
+    # renpy/common/00gltest.rpy:93
     old "Automatically Choose"
     new "Выбирать автоматически"
 
-    # renpy/common/00gltest.rpy:79
-    old "Force Angle/DirectX Renderer"
-    new "Принудительный Angle/DirectX"
+    # renpy/common/00gltest.rpy:100
+    old "Force GL Renderer"
+    new "Force GL Renderer"
 
-    # renpy/common/00gltest.rpy:83
-    old "Force OpenGL Renderer"
-    new "Принудительный OpenGL"
+    # renpy/common/00gltest.rpy:105
+    old "Force ANGLE Renderer"
+    new "Force ANGLE Renderer"
 
-    # renpy/common/00gltest.rpy:87
-    old "Force Software Renderer"
-    new "Принудительный Программный"
+    # renpy/common/00gltest.rpy:110
+    old "Force GLES Renderer"
+    new "Force GLES Renderer"
 
-    # renpy/common/00gltest.rpy:93
-    old "NPOT"
-    new "NPOT (OpenGL 2+)"
+    # renpy/common/00gltest.rpy:116
+    old "Force GL2 Renderer"
+    new "Force GL2 Renderer"
 
-    # renpy/common/00gltest.rpy:97
+    # renpy/common/00gltest.rpy:121
+    old "Force ANGLE2 Renderer"
+    new "Force ANGLE2 Renderer"
+
+    # renpy/common/00gltest.rpy:126
+    old "Force GLES2 Renderer"
+    new "Force GLES2 Renderer"
+
+    # renpy/common/00gltest.rpy:136
+    old "Enable (No Blocklist)"
+    new "Включить (Без блоклиста)"
+
+    # renpy/common/00gltest.rpy:140
     old "Enable"
-    new "Активировано"
+    new "Включить"
 
-    # renpy/common/00gltest.rpy:131
+    # renpy/common/00gltest.rpy:159
     old "Powersave"
     new "Экономия энергии"
 
-    # renpy/common/00gltest.rpy:145
+    # renpy/common/00gltest.rpy:173
     old "Framerate"
     new "Частота кадров"
 
-    # renpy/common/00gltest.rpy:149
+    # renpy/common/00gltest.rpy:177
     old "Screen"
     new "Экранная"
 
-    # renpy/common/00gltest.rpy:153
+    # renpy/common/00gltest.rpy:181
     old "60"
     new "60"
 
-    # renpy/common/00gltest.rpy:157
+    # renpy/common/00gltest.rpy:185
     old "30"
     new "30"
 
-    # renpy/common/00gltest.rpy:163
+    # renpy/common/00gltest.rpy:191
     old "Tearing"
     new "Прерывание кадров"
 
-    # renpy/common/00gltest.rpy:179
+    # renpy/common/00gltest.rpy:207
     old "Changes will take effect the next time this program is run."
     new "Изменения вступят в силу при следующем запуске программы."
 
-    # renpy/common/00gltest.rpy:213
+    # renpy/common/00gltest.rpy:242
     old "Performance Warning"
     new "Предупреждение Производительности"
 
-    # renpy/common/00gltest.rpy:218
+    # renpy/common/00gltest.rpy:247
     old "This computer is using software rendering."
     new "Этот компьютер использует программный рендеринг."
 
-    # renpy/common/00gltest.rpy:220
-    old "This computer is not using shaders."
-    new "Этот компьютер не использует шейдеры."
+    # renpy/common/00gltest.rpy:249
+    old "This game requires use of GL2 that can't be initialised."
+    new "Эта игра требует использования GL2, который не может быть инициализирован."
 
-    # renpy/common/00gltest.rpy:222
-    old "This computer is displaying graphics slowly."
-    new "Этот компьютер медленно отображает графику."
-
-    # renpy/common/00gltest.rpy:224
+    # renpy/common/00gltest.rpy:251
     old "This computer has a problem displaying graphics: [problem]."
     new "У этого компьютера проблема с отображением графики: [problem]."
 
-    # renpy/common/00gltest.rpy:229
-    old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display. Updating DirectX could fix this problem."
-    new "Графические драйвера устарели или работают неверно. Это может привести к медленному или неверному отображению графики. Обновление DirectX может решить эту проблему."
-
-    # renpy/common/00gltest.rpy:231
+    # renpy/common/00gltest.rpy:255
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
     new "Графические драйвера устарели или работают неверно. Это может привести к медленному или неверному отображению графики."
 
-    # renpy/common/00gltest.rpy:236
-    old "Update DirectX"
-    new "Обновить DirectX"
+    # renpy/common/00gltest.rpy:259
+    old "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer."
+    new "В {a=edit:1:log.txt}log.txt{/a} файле может содержаться информация, которая поможет определить, что не так с вашим компьютером."
 
-    # renpy/common/00gltest.rpy:242
+    # renpy/common/00gltest.rpy:264
+    old "More details on how to fix this can be found in the {a=[url]}documentation{/a}."
+    new "Более подробную информацию о том, как это исправить, можно найти в {a=[url]}documentation{/a}."
+
+    # renpy/common/00gltest.rpy:269
     old "Continue, Show this warning again"
     new "Продолжить. Показать это предупреждение позже"
 
-    # renpy/common/00gltest.rpy:246
+    # renpy/common/00gltest.rpy:273
     old "Continue, Don't show warning again"
     new "Продолжить. Не показывать больше это предупреждение."
 
-    # renpy/common/00gltest.rpy:264
-    old "Updating DirectX."
-    new "Обновляю DirectX."
-
-    # renpy/common/00gltest.rpy:268
-    old "DirectX web setup has been started. It may start minimized in the taskbar. Please follow the prompts to install DirectX."
-    new "Установщик DirectX был запущен. Возможно, что он запустился в свёрнутом состоянии. Пожалуйста, следуйте инструкциям для установки DirectX."
-
-    # renpy/common/00gltest.rpy:272
-    old "{b}Note:{/b} Microsoft's DirectX web setup program will, by default, install the Bing toolbar. If you do not want this toolbar, uncheck the appropriate box."
-    new "{b}Предупреждение:{/b} Установщик DirectX по умолчанию пытается установить панель инструментов Bing. Если вы этого не хотите, снимите соответствующую галочку."
-
-    # renpy/common/00gltest.rpy:276
-    old "When setup finishes, please click below to restart this program."
-    new "По завершению установки, щёлкните, чтобы перезапустить программу."
-
-    # renpy/common/00gltest.rpy:278
-    old "Restart"
-    new "Перезапустить"
+    # renpy/common/00gltest.rpy:281
+    old "Change render options"
+    new "Изменение параметров визуализации"
 
     # renpy/common/00gamepad.rpy:32
     old "Select Gamepad to Calibrate"
@@ -1050,159 +1054,159 @@ translate russian strings:
     old "Press or move the [control!r] [kind]."
     new "Нажмите или передвиньте [control!r] [kind]."
 
-    # renpy/common/00gamepad.rpy:66
+    # renpy/common/00gamepad.rpy:68
     old "Skip (A)"
     new "Пропуск (A)"
 
-    # renpy/common/00gamepad.rpy:69
+    # renpy/common/00gamepad.rpy:71
     old "Back (B)"
     new "Назад (B)"
 
-    # renpy/common/_errorhandling.rpym:538
+    # renpy/common/_errorhandling.rpym:541
     old "Open"
     new "Журнал"
 
-    # renpy/common/_errorhandling.rpym:540
+    # renpy/common/_errorhandling.rpym:543
     old "Opens the traceback.txt file in a text editor."
     new "Открыть файл traceback.txt в текстовом редакторе."
 
-    # renpy/common/_errorhandling.rpym:542
+    # renpy/common/_errorhandling.rpym:545
     old "Copy BBCode"
     new "Копировать BBCode"
 
-    # renpy/common/_errorhandling.rpym:544
+    # renpy/common/_errorhandling.rpym:547
     old "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
     new "Копирует traceback.txt-файл в буфер обмена в формате BBcode для передачи на форум https://lemmasoft.renai.us/."
 
-    # renpy/common/_errorhandling.rpym:546
+    # renpy/common/_errorhandling.rpym:549
     old "Copy Markdown"
     new "Копировать Markdown"
 
-    # renpy/common/_errorhandling.rpym:548
+    # renpy/common/_errorhandling.rpym:551
     old "Copies the traceback.txt file to the clipboard as Markdown for Discord."
     new "Копирует файл traceback.txt в буфер обмена для передачи в Discord."
 
-    # renpy/common/_errorhandling.rpym:577
+    # renpy/common/_errorhandling.rpym:580
     old "An exception has occurred."
     new "Возникло исключение."
 
-    # renpy/common/_errorhandling.rpym:597
+    # renpy/common/_errorhandling.rpym:603
     old "Rollback"
     new "Назад"
 
-    # renpy/common/_errorhandling.rpym:599
+    # renpy/common/_errorhandling.rpym:605
     old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
     new "Попытка вернуться назад, позволяя вам сохраниться или принять другой выбор."
 
-    # renpy/common/_errorhandling.rpym:602
+    # renpy/common/_errorhandling.rpym:608
     old "Ignore"
     new "Игнорировать"
 
-    # renpy/common/_errorhandling.rpym:606
+    # renpy/common/_errorhandling.rpym:612
     old "Ignores the exception, allowing you to continue."
     new "Игнорирует это исключение, позволяя вам продолжить."
 
-    # renpy/common/_errorhandling.rpym:608
+    # renpy/common/_errorhandling.rpym:614
     old "Ignores the exception, allowing you to continue. This often leads to additional errors."
     new "Игнорирует это исключение, позволяя вам продолжить. Зачастую это ведёт к дополнительным ошибкам."
 
-    # renpy/common/_errorhandling.rpym:612
+    # renpy/common/_errorhandling.rpym:618
     old "Reload"
     new "Перезагрузить"
 
-    # renpy/common/_errorhandling.rpym:614
+    # renpy/common/_errorhandling.rpym:620
     old "Reloads the game from disk, saving and restoring game state if possible."
     new "Перезагружает игру с диска, сохраняя и восстанавливая её состояние, если это возможно."
 
-    # renpy/common/_errorhandling.rpym:617
+    # renpy/common/_errorhandling.rpym:623
     old "Console"
     new "Консоль"
 
-    # renpy/common/_errorhandling.rpym:619
+    # renpy/common/_errorhandling.rpym:625
     old "Opens a console to allow debugging the problem."
     new "Открывает консоль, позволяя отладить проблему."
 
-    # renpy/common/_errorhandling.rpym:629
+    # renpy/common/_errorhandling.rpym:638
     old "Quits the game."
     new "Выйти из игры."
 
-    # renpy/common/_errorhandling.rpym:653
+    # renpy/common/_errorhandling.rpym:659
     old "Parsing the script failed."
     new "Обработка сценария завершилась неудачно."
 
-    # renpy/common/_errorhandling.rpym:679
+    # renpy/common/_errorhandling.rpym:685
     old "Opens the errors.txt file in a text editor."
     new "Открыть файл errors.txt в текстовом редакторе."
 
-    # renpy/common/_errorhandling.rpym:683
+    # renpy/common/_errorhandling.rpym:689
     old "Copies the errors.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
     new "Копирует errors.txt файл в буфер обмена в виде BBCode для таких форумов, как https://lemmasoft.renai.us/."
 
-    # renpy/common/_errorhandling.rpym:687
+    # renpy/common/_errorhandling.rpym:693
     old "Copies the errors.txt file to the clipboard as Markdown for Discord."
     new "Копирует файл errors.txt в буфер обмена для передачи в Discord."
 
-# TODO: Translation updated at 2021-08-27 17:10
+# TODO: Translation updated at 2021-10-16 09:34
 
 translate russian strings:
-
-    # renpy/common/00accessibility.rpy:193
-    old "Self-Voicing Volume Drop"
-    new "Сниж громк у синтезатора речи"
-
-    # renpy/common/00preferences.rpy:388
-    old "self voicing volume drop"
-    new "сниж громк у синтезатора речи"
-
-    # renpy/common/00preferences.rpy:464
-    old "system cursor"
-    new "системный курсор"
-
-    # renpy/common/00gltest.rpy:100
-    old "Force GL Renderer"
-    new "Принудительный OpenGL"
-
-    # renpy/common/00gltest.rpy:105
-    old "Force ANGLE Renderer"
-    new "Force ANGLE Renderer"
-
-    # renpy/common/00gltest.rpy:110
-    old "Force GLES Renderer"
-    new "Force GLES Renderer"
-
-    # renpy/common/00gltest.rpy:116
-    old "Force GL2 Renderer"
-    new "Принудительный OpenGL2"
-
-    # renpy/common/00gltest.rpy:121
-    old "Force ANGLE2 Renderer"
-    new "Force ANGLE2 Renderer"
-
-    # renpy/common/00gltest.rpy:126
-    old "Force GLES2 Renderer"
-    new "Force GLES2 Renderer"
-
-    # renpy/common/00gltest.rpy:136
-    old "Enable (No Blocklist)"
-    new "Включить (Без блоклиста)"
-
-    # renpy/common/00gltest.rpy:249
-    old "This game requires use of GL2 that can't be initialised."
-    new "Эта игра требует использования GL2, который не может быть инициализирован."
-
-    # renpy/common/00gltest.rpy:259
-    old "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer."
-    new "В {a=edit:1:log.txt}log.txt{/a} файле может содержаться информация, которая поможет определить, что не так с вашим компьютером."
-
-    # renpy/common/00gltest.rpy:264
-    old "More details on how to fix this can be found in the {a=[url]}documentation{/a}."
-    new "Более подробную информацию о том, как это исправить, можно найти в {a=[url]}documentation{/a}."
-
-    # renpy/common/00gltest.rpy:281
-    old "Change render options"
-    new "Изменение параметров визуализации"
 
     # renpy/common/00gamepad.rpy:58
     old "Press or move the '[control!s]' [kind]."
     new "Нажмите или переместите '[control!s]' [kind]."
+
+# TODO: Translation updated at 2021-10-18 22:08
+
+translate russian strings:
+
+    # renpy/common/00gltest.rpy:79
+    old "Force Angle/DirectX Renderer"
+    new "Force Angle/DirectX Renderer"
+
+    # renpy/common/00gltest.rpy:83
+    old "Force OpenGL Renderer"
+    new "Force OpenGL Renderer"
+
+    # renpy/common/00gltest.rpy:87
+    old "Force Software Renderer"
+    new "Force Software Renderer"
+
+    # renpy/common/00gltest.rpy:93
+    old "NPOT"
+    new "NPOT"
+
+    # renpy/common/00gltest.rpy:220
+    old "This computer is not using shaders."
+    new "This computer is not using shaders."
+
+    # renpy/common/00gltest.rpy:222
+    old "This computer is displaying graphics slowly."
+    new "This computer is displaying graphics slowly."
+
+    # renpy/common/00gltest.rpy:229
+    old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display. Updating DirectX could fix this problem."
+    new "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display. Updating DirectX could fix this problem."
+
+    # renpy/common/00gltest.rpy:236
+    old "Update DirectX"
+    new "Update DirectX"
+
+    # renpy/common/00gltest.rpy:264
+    old "Updating DirectX."
+    new "Updating DirectX."
+
+    # renpy/common/00gltest.rpy:268
+    old "DirectX web setup has been started. It may start minimized in the taskbar. Please follow the prompts to install DirectX."
+    new "DirectX web setup has been started. It may start minimized in the taskbar. Please follow the prompts to install DirectX."
+
+    # renpy/common/00gltest.rpy:272
+    old "{b}Note:{/b} Microsoft's DirectX web setup program will, by default, install the Bing toolbar. If you do not want this toolbar, uncheck the appropriate box."
+    new "{b}Note:{/b} Microsoft's DirectX web setup program will, by default, install the Bing toolbar. If you do not want this toolbar, uncheck the appropriate box."
+
+    # renpy/common/00gltest.rpy:276
+    old "When setup finishes, please click below to restart this program."
+    new "When setup finishes, please click below to restart this program."
+
+    # renpy/common/00gltest.rpy:278
+    old "Restart"
+    new "Restart"
 
