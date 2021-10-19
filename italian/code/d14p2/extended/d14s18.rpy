@@ -432,3 +432,11 @@ translate italian replay_d14s18_adb4d09a:
     # mc "I'll be around if you need me."
     mc "I'll be around if you need me."
 
+# TODO: Translation updated at 2021-10-19 12:33
+
+# game/code/d14p2/extended/d14s18.rpy:142
+translate italian d14s18_f28d21c8:
+
+    # ir "From the way she's throwing looks at [mcname], I'd say the latter. *Chuckles*"
+    ir "From the way she's throwing looks at [mcname], I'd say the latter. *Chuckles*"
+
