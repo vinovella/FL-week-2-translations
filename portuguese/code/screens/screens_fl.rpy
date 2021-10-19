@@ -3,12 +3,16 @@
 translate portuguese strings:
 
     # game/code/screens/screens_fl.rpy:99
-    old "Name"
-    new "Nome"
+    old "NAME"
+    new "NOME"
 
     # game/code/screens/screens_fl.rpy:102
-    old "Date"
-    new "Data"
+    old "DATE"
+    new "DATA"
+
+    # game/code/screens/screens.rpy:77
+    old "LOAD"
+    new "CARREGAR"
 
     # game/code/screens/screens_fl.rpy:138
     old "No save from week [FLSS.week.prev] has been detected"
@@ -89,4 +93,3 @@ translate portuguese strings:
     # game/code/screens/screens_fl.rpy:535
     old "SKIP RECAP"
     new "PULAR RECAPITULAÇÃO"
-

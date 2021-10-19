@@ -19,12 +19,16 @@ translate russian strings:
     new "СОХРАНИТЬ"
 
     # game/code/screens/screens_fl.rpy:205
-    old "Name"
-    new "Название"
+    old "NAME"
+    new "НАЗВАНИЕ"
 
     # game/code/screens/screens_fl.rpy:208
-    old "Date"
-    new "Дата"
+    old "DATE"
+    new "ДATA"
+
+    # game/code/screens/screens.rpy:77
+    old "LOAD"
+    new "ЗАГРУЗИТЬ"
 
     # game/code/screens/screens_fl.rpy:245
     old "No save from week [FLSS.week.prev] has been detected"
@@ -81,4 +85,3 @@ translate russian strings:
     # game/code/screens/screens_fl.rpy:535
     old "SKIP RECAP"
     new "SKIP RECAP"
-

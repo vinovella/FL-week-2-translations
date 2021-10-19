@@ -3,12 +3,15 @@
 translate spanish strings:
 
     # game/code/screens/screens_fl.rpy:93
-    old "Name"
-    new "Nombre"
+    old "NAME"
+    new "NOMBRE"
 
     # game/code/screens/screens_fl.rpy:96
-    old "Date"
-    new "Fecha"
+    old "DATE"
+    new "FECHA"
+
+    old "LOAD"
+    new "CARGAR"
 
     # game/code/screens/screens_fl.rpy:132
     old "No save from week [FLSS.week.prev] has been detected"
