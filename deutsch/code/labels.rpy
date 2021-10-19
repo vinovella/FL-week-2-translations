@@ -490,3 +490,11 @@ translate deutsch after_credits_c7e3ca6c:
 
     # sy "But don't forget to support us! We will bring you more awesome stuff!"
     sy "But don't forget to support us! We will bring you more awesome stuff!"
+# TODO: Translation updated at 2021-10-19 22:16
+
+# game/code/labels.rpy:191
+translate deutsch after_credits_e29ad5fa:
+
+    # "{color=#ec8664}Unknown Girl 3{/color}" "Zemfira! That is the wrong outfit! Chapter 4 Scene 5 isn't a sex scene! What are you wearing??"
+    "{color=#ec8664}Unknown Girl 3{/color}" "Zemfira! That is the wrong outfit! Chapter 4 Scene 5 isn't a sex scene! What are you wearing??"
+

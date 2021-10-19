@@ -184,3 +184,21 @@ translate malay strings:
     old "Her firm ass"
     new "Pantatnya yang bulat"
 
+# TODO: Translation updated at 2021-10-19 22:24
+
+# game/code/d08/prologue.rpy:184
+translate malay prologue_nora_creampie_fcd0a635:
+
+    # "We see you like a little extra cream in your pie. Did you cum in Nora in Week One?"
+    "We see you like a little extra cream in your pie. Did you cum in Nora in Week One?"
+
+translate malay strings:
+
+    # game/code/d08/prologue.rpy:186
+    old "Yes, I came in her and got thrown out"
+    new "Yes, I came in her and got thrown out"
+
+    # game/code/d08/prologue.rpy:186
+    old "No, I didn't"
+    new "No, I didn't"
+

@@ -490,3 +490,10 @@ translate russian replay_d14s18_e53d0536:
     # mc "Oh, I think I get what you're thinking... dirty girl. Should I just jump in?"
     mc "О, кажется я понял, о чем ты думаешь... грязная девчонка. Мне залезть к тебе в воду?"
 
+# TODO: Translation updated at 2021-10-19 22:18
+
+# game/code/d14p2/extended/d14s18.rpy:142
+translate russian d14s18_f28d21c8:
+
+    # ir "From the way she's throwing looks at [mcname], I'd say the latter. *Chuckles*"
+    ir "Судя по тому, как она бросает взгляды на нашего парня, я бы сказала, что последнее. *посмеивается*"

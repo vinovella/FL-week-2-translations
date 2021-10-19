@@ -208,3 +208,21 @@ translate deutsch prologue_fetishes_4cc3c0e4:
     # "And now it's time to choose your fetishes.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many fetishes as you want and press \"Done\"."
     "And now it's time to choose your fetishes.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many fetishes as you want and press \"Done\"."
 
+# TODO: Translation updated at 2021-10-19 22:16
+
+# game/code/d08/prologue.rpy:184
+translate deutsch prologue_nora_creampie_fcd0a635:
+
+    # "We see you like a little extra cream in your pie. Did you cum in Nora in Week One?"
+    "We see you like a little extra cream in your pie. Did you cum in Nora in Week One?"
+
+translate deutsch strings:
+
+    # game/code/d08/prologue.rpy:186
+    old "Yes, I came in her and got thrown out"
+    new "Yes, I came in her and got thrown out"
+
+    # game/code/d08/prologue.rpy:186
+    old "No, I didn't"
+    new "No, I didn't"
+
