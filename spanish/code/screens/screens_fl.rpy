@@ -93,4 +93,4 @@ translate spanish strings:
 
     # game/code/screens/screens_fl.rpy:535
     old "SKIP RECAP"
-    new "OMITIR RECAPITULACIÓN"
+    new "OMITIR"
