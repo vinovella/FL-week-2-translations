@@ -1,12 +1,16 @@
 translate chinese strings:
 
     # game/code/screens/screens_fl.rpy:101
-    old "Name"
+    old "NAME"
     new "名字"
 
     # game/code/screens/screens_fl.rpy:104
-    old "Date"
+    old "DATE"
     new "日期"
+
+    # game/code/screens/screens.rpy:331
+    old "LOAD"
+    new "加载"
 
     # game/code/screens/screens_fl.rpy:140
     old "No save from week [FLSS.week.prev] has been detected"
@@ -31,6 +35,7 @@ translate chinese strings:
     # game/code/screens/screens_fl.rpy:377
     old "Fetish Locator is intended for a mature audience\nof 18 years or older. Please abide by your local laws.\nAll characters are 18 years or older. No exceptions.\nThe characters in Fetish Locator explore relationships and their sexuality in both healthy and unhealthy ways. Some of these may be offensive to some players. Viewer discretion is advised. To that end, much of the content is optional and often there are alternative paths available. This is necessary to the story. The content explored should not be treated as an endorsement of particular fetishes, kinks, or patterns of behaviour. Please explore your own relationships and sexuality responsibly.\n\nEnjoy!"
     new "本游戏性趣探测器适合\n18岁或以上人士。请遵守当地法律。\n所有游戏人物均为18岁或以上年龄，无一例外。\n性趣探测器中的游戏人物探索两性关系和性行为的方式，有健康的，也有不健康的。其中有些内容可能会对某些玩家造成冒犯。建议观众谨慎观看。为此，游戏许多内容都是可选的，且往往有多种路径可供选择。这对剧情来说是必要的。游戏中探讨的内容不应被视为对特定性癖、嗜好或行为模式的认可。请您负责任地探索自己的两性关系和性行为。\n\n祝您玩得愉快！"
+
 # TODO: Translation updated at 2021-08-07 22:56
 
 translate chinese strings:
@@ -90,4 +95,3 @@ translate chinese strings:
     # game/code/screens/screens_fl.rpy:535
     old "SKIP RECAP"
     new "SKIP RECAP"
-
