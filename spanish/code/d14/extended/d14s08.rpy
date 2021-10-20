@@ -843,3 +843,65 @@ translate spanish strings:
     # game/code/d14/extended/d14s08.rpy:327
     old "That's Enough"
     new "Es Suficiente"
+
+# TODO: Translation updated at 2021-10-20 10:21
+
+# game/code/d14/extended/d14s08.rpy:61
+translate spanish d14s08_a1b3e82d:
+
+    # mc "Hey, Polly. That sounds nice."
+    mc "Hey, Polly. That sounds nice."
+
+# game/code/d14/extended/d14s08.rpy:63
+translate spanish d14s08_2fb8dabe:
+
+    # pw "Oh, hey, [mcname]. I was just thinking about us."
+    pw "Oh, hey, [mcname]. I was just thinking about us."
+
+# game/code/d14/extended/d14s08.rpy:90
+translate spanish d14s08_b599eb24:
+
+    # pw "Or it just makes her Polly. Polly enjoys sex roleplay and BDSM stuff, but it's a rare treat, not a regular meal."
+    pw "Or it just makes her Polly. Polly enjoys sex roleplay and BDSM stuff, but it's a rare treat, not a regular meal."
+
+# game/code/d14/extended/d14s08.rpy:92
+translate spanish d14s08_4573ec95:
+
+    # pw "I guess I'm an exhibitionist - like you say. Being naked, fucking in public... That's my favorite thing. I could do that everyday all day."
+    pw "I guess I'm an exhibitionist - like you say. Being naked, fucking in public... That's my favorite thing. I could do that everyday all day."
+
+# game/code/d14/extended/d14s08.rpy:135
+translate spanish d14s08_5c112b78:
+
+    # pw "In fact... I think that Nora has feelings for you as well.{w}.. Just like I do."
+    pw "In fact... I think that Nora has feelings for you as well.{w}.. Just like I do."
+
+# game/code/d14/extended/d14s08.rpy:229
+translate spanish replay_d14s08_49798141:
+
+    # mc "Call me \"Sir\" when you're talking to me."
+    mc "Call me \"Sir\" when you're talking to me."
+
+# game/code/d14/extended/d14s08.rpy:325
+translate spanish replay_d14s08_5d53b12e:
+
+    # mc "Ohhhhhhh.... {w}Fuck yes."
+    mc "Ohhhhhhh.... {w}Fuck yes."
+
+# game/code/d14/extended/d14s08.rpy:355
+translate spanish replay_d14s08_0c0687ac:
+
+    # mc "I'm going to take advantage of all this cum dripping out of your creampied ass."
+    mc "I'm going to take advantage of all this cum dripping out of your creampied ass."
+
+# game/code/d14/extended/d14s08.rpy:407
+translate spanish replay_d14s08_c897ddd7:
+
+    # pw "PLEASE SIR! KEEP GOING! PLEASE FUCK ME!!!"
+    pw "PLEASE SIR! KEEP GOING! PLEASE FUCK ME!!!"
+
+# game/code/d14/extended/d14s08.rpy:455
+translate spanish d14s08_end_a832b55e:
+
+    # pw "Later, [mcname]."
+    pw "Later, [mcname]."

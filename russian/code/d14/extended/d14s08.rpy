@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-10-19 22:18
+﻿# TODO: Translation updated at 2021-10-20 10:22
 
 # game/code/d14/extended/d14s08.rpy:47
 translate russian d14s08_383c46ec:
@@ -43,16 +43,16 @@ translate russian d14s08_c82567ca:
     pw "Like a lazy ocean hugs the shore"
 
 # game/code/d14/extended/d14s08.rpy:61
-translate russian d14s08_7f729581:
+translate russian d14s08_a1b3e82d:
 
-    # mc "Hey Polly. Sounds nice."
-    mc "Hey Polly. Sounds nice."
+    # mc "Hey, Polly. That sounds nice."
+    mc "Hey, Polly. That sounds nice."
 
 # game/code/d14/extended/d14s08.rpy:63
-translate russian d14s08_7cc79c78:
+translate russian d14s08_2fb8dabe:
 
-    # pw "Oh, hey [mcname]. I was just thinking about us."
-    pw "Oh, hey [mcname]. I was just thinking about us."
+    # pw "Oh, hey, [mcname]. I was just thinking about us."
+    pw "Oh, hey, [mcname]. I was just thinking about us."
 
 # game/code/d14/extended/d14s08.rpy:65
 translate russian d14s08_1be789f9:
@@ -133,16 +133,16 @@ translate russian d14s08_42fb7f6f:
     mc "Polly enjoys being dominant and submissive, so I guess that makes her a switch."
 
 # game/code/d14/extended/d14s08.rpy:90
-translate russian d14s08_69274ab7:
+translate russian d14s08_b599eb24:
 
-    # pw "Or it just makes her Polly. Polly enjoys sex roleplay and BDSM stuff, but it's a rare treat not a regular meal."
-    pw "Or it just makes her Polly. Polly enjoys sex roleplay and BDSM stuff, but it's a rare treat not a regular meal."
+    # pw "Or it just makes her Polly. Polly enjoys sex roleplay and BDSM stuff, but it's a rare treat, not a regular meal."
+    pw "Or it just makes her Polly. Polly enjoys sex roleplay and BDSM stuff, but it's a rare treat, not a regular meal."
 
 # game/code/d14/extended/d14s08.rpy:92
-translate russian d14s08_95de4def:
+translate russian d14s08_4573ec95:
 
-    # pw "I guess I'm an exhibitionist - like you say. Being naked, fucking in public... that's my favorite thing. I could do that everyday all day."
-    pw "I guess I'm an exhibitionist - like you say. Being naked, fucking in public... that's my favorite thing. I could do that everyday all day."
+    # pw "I guess I'm an exhibitionist - like you say. Being naked, fucking in public... That's my favorite thing. I could do that everyday all day."
+    pw "I guess I'm an exhibitionist - like you say. Being naked, fucking in public... That's my favorite thing. I could do that everyday all day."
 
 # game/code/d14/extended/d14s08.rpy:94
 translate russian d14s08_cb01c49c:
@@ -277,10 +277,10 @@ translate russian d14s08_1e200323:
     pw "Heh, thanks! {w}I think we both feel the same about you."
 
 # game/code/d14/extended/d14s08.rpy:135
-translate russian d14s08_fcf83eb2:
+translate russian d14s08_5c112b78:
 
-    # pw "In fact... I think that Nora has feelings for you as well.{w}.. just like I do."
-    pw "In fact... I think that Nora has feelings for you as well.{w}.. just like I do."
+    # pw "In fact... I think that Nora has feelings for you as well.{w}.. Just like I do."
+    pw "In fact... I think that Nora has feelings for you as well.{w}.. Just like I do."
 
 # game/code/d14/extended/d14s08.rpy:137
 translate russian d14s08_4608fffd:
@@ -547,10 +547,10 @@ translate russian replay_d14s08_449b7b03:
     pw "Yes!"
 
 # game/code/d14/extended/d14s08.rpy:229
-translate russian replay_d14s08_9076bfda:
+translate russian replay_d14s08_49798141:
 
-    # mc "Call me, \"Sir\" when you're talking to me."
-    mc "Call me, \"Sir\" when you're talking to me."
+    # mc "Call me \"Sir\" when you're talking to me."
+    mc "Call me \"Sir\" when you're talking to me."
 
 # game/code/d14/extended/d14s08.rpy:230
 translate russian replay_d14s08_bf1c53a2:
@@ -619,10 +619,10 @@ translate russian replay_d14s08_fa9712c5:
     pw "Pound my dirty shithole with your hard cock!"
 
 # game/code/d14/extended/d14s08.rpy:325
-translate russian replay_d14s08_0ac8aa43:
+translate russian replay_d14s08_5d53b12e:
 
-    # mc "Ohhhhhhh.... {w}fuck yes."
-    mc "Ohhhhhhh.... {w}fuck yes."
+    # mc "Ohhhhhhh.... {w}Fuck yes."
+    mc "Ohhhhhhh.... {w}Fuck yes."
 
 # game/code/d14/extended/d14s08.rpy:337
 translate russian replay_d14s08_d095da95:
@@ -655,10 +655,10 @@ translate russian replay_d14s08_363dbe11:
     pw "Whatever you want!"
 
 # game/code/d14/extended/d14s08.rpy:355
-translate russian replay_d14s08_e6cd7b5a:
+translate russian replay_d14s08_0c0687ac:
 
-    # mc "I'm going to take advantage of all this cum dripping out of your creampied anus."
-    mc "I'm going to take advantage of all this cum dripping out of your creampied anus."
+    # mc "I'm going to take advantage of all this cum dripping out of your creampied ass."
+    mc "I'm going to take advantage of all this cum dripping out of your creampied ass."
 
 # game/code/d14/extended/d14s08.rpy:357
 translate russian replay_d14s08_2b3f45f9:
@@ -739,10 +739,10 @@ translate russian replay_d14s08_766ef26f_1:
     mc "Ask properly."
 
 # game/code/d14/extended/d14s08.rpy:407
-translate russian replay_d14s08_838d275a:
+translate russian replay_d14s08_c897ddd7:
 
-    # pw "PLEASE SIR KEEP SIR GOING PLEASE FUCK ME!!!"
-    pw "PLEASE SIR KEEP SIR GOING PLEASE FUCK ME!!!"
+    # pw "PLEASE SIR! KEEP GOING! PLEASE FUCK ME!!!"
+    pw "PLEASE SIR! KEEP GOING! PLEASE FUCK ME!!!"
 
 # game/code/d14/extended/d14s08.rpy:426
 translate russian replay_d14s08_74f8bad5:
@@ -805,10 +805,10 @@ translate russian d14s08_end_3860f388:
     mc "Get some rest. I'm more than content for now."
 
 # game/code/d14/extended/d14s08.rpy:455
-translate russian d14s08_end_29d67d26:
+translate russian d14s08_end_a832b55e:
 
-    # pw "Later [mcname]."
-    pw "Later [mcname]."
+    # pw "Later, [mcname]."
+    pw "Later, [mcname]."
 
 # game/code/d14/extended/d14s08.rpy:457
 translate russian d14s08_end_14fad4a1:
