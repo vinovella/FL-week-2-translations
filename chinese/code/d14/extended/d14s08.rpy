@@ -256,7 +256,7 @@ translate chinese d14s08_f203adf5:
 translate chinese d14s08_c0e3f5b6:
 
     # mc "I mean, you know that whenever you two want to fuck, I'm down to join you."
-    mc "我想，你知道无论什么时候你们俩想做爱，我都会加入的。
+    mc "我想，你知道无论什么时候你们俩想做爱，我都会加入的。"
 
 # game/code/d14/extended/d14s08.rpy:129
 translate chinese d14s08_a5766cad:
@@ -843,4 +843,3 @@ translate chinese strings:
     # game/code/d14/extended/d14s08.rpy:327
     old "That's Enough"
     new "够了"
-
