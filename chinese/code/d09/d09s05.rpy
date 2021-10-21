@@ -799,47 +799,47 @@ translate chinese strings:
     # game/code/d09/d09s05.rpy:472
     old "Cover the whore"
     new "射这婊子身上"
-    
+
 # TODO: Translation updated at 2021-05-16 23:32
 
 # game/code/d09/d09s05.rpy:32
 translate chinese d09s05_ef5e49b3:
 
     # "After 25 minutes [mcname] arrives at Samiya's place..."
-    "After 25 minutes [mcname] arrives at Samiya's place..."
+    "25分钟后，[mcname]到达萨米亚的住处……"
 
 # game/code/d09/d09s05.rpy:34
 translate chinese d09s05_d5ff7835:
 
     # mct "Now I have to run back to Samiya's place. I hope this show of hers isn't anything special..."
-    mct "Now I have to run back to Samiya's place. I hope this show of hers isn't anything special..."
+    mct "现在我得跑回去见萨米亚了。希望她这次的表演没什么特别之处……"
 
 # game/code/d09/d09s05.rpy:534
 translate chinese d09s05_end_0017e17d:
 
     # sb "You are going to work better."
-    sb "You are going to work better."
+    sb "你工作给我卖点力。"
 
 # game/code/d09/d09s05.rpy:536
 translate chinese d09s05_end_19b8090f:
 
     # sb "Now you will have to do something else for me if you want to get that luggage back."
-    sb "Now you will have to do something else for me if you want to get that luggage back."
+    sb "如果你想把行李拿回来，现在就得为我做事。"
 
 # game/code/d09/d09s05.rpy:539
 translate chinese d09s05_end_dfdba905:
 
     # mc "I think I will prank the \"M.I.L.F\" then."
-    mc "I think I will prank the \"M.I.L.F\" then."
+    mc "那我就选捉弄\"性感少妇\"吧。"
 
 # game/code/d09/d09s05.rpy:544
 translate chinese d09s05_end_3ad4bc9c:
 
     # mc "I'll go with the escort mission then."
-    mc "I'll go with the escort mission then."
+    mc "那我就选陪护任务。"
 
 translate chinese strings:
 
     # game/code/d09/d09s05.rpy:537
     old "\"Prank a M.I.L.F.\""
-    new "\"Prank a M.I.L.F.\""
+    new "\"整蛊性感少妇\""
