@@ -690,75 +690,74 @@ translate chinese replay_d09s04_e4163433:
 translate chinese d09s04_1629e8ef:
 
     # "Samiya brings [mcname] to a Supermarket."
-    "Samiya brings [mcname] to a Supermarket."
+    "萨米亚把[mcname]带到了一家超市。"
 
 # game/code/d09/d09s04.rpy:29
 translate chinese d09s04_364be28a:
 
     # mct "Now I have to run to meet Samiya. I hope she isn't planning anything bad."
-    mct "Now I have to run to meet Samiya. I hope she isn't planning anything bad."
+    mct "现在我得跑去见萨米亚了。希望她不是在计划什么坏事。"
 
 # game/code/d09/d09s04.rpy:30
 translate chinese d09s04_f8de097f:
 
     # mct "At least I can be there to save Vanessa if something happens."
-    mct "At least I can be there to save Vanessa if something happens."
+    mct "如果发生什么事，至少我可以去救瓦妮莎。"
 
 # game/code/d09/d09s04.rpy:74
 translate chinese d09s04_996a71c3:
 
     # mct "Should I do it?" nointeract
-    mct "Should I do it?" nointeract
+    mct "我要不要做呢？" nointeract
 
 # game/code/d09/d09s04.rpy:82
 translate chinese d09s04_8dca5345:
 
     # mc "I... I am not gonna do it."
-    mc "I... I am not gonna do it."
+    mc "我……我还是不要了。"
 
 # game/code/d09/d09s04.rpy:84
 translate chinese d09s04_ebcffca4:
 
     # sb "Chicken much, huh?"
-    sb "Chicken much, huh?"
+    sb "原来你是个胆小鬼？"
 
 # game/code/d09/d09s04.rpy:85
 translate chinese d09s04_3fe53486:
 
     # mc "I'm... not a fan of doing it in a public place."
-    mc "I'm... not a fan of doing it in a public place."
+    mc "我……不喜欢在公共场所这样。"
 
 # game/code/d09/d09s04.rpy:87
 translate chinese d09s04_83c5ce1e:
 
     # sb "Then do something else for me."
-    sb "Then do something else for me."
+    sb "那就帮我做点别的吧。"
 
 # game/code/d09/d09s04.rpy:90
 translate chinese d09s04_eeb3cedb:
 
     # mc "Fine. I'll be your assistant then."
-    mc "Fine. I'll be your assistant then."
+    mc "好吧。那我就做你的助手。"
 
 # game/code/d09/d09s04.rpy:91
 translate chinese d09s04_4cf5fee8:
 
     # sb "Good.{w} Meet me back at my place after 30 minutes."
-    sb "Good.{w} Meet me back at my place after 30 minutes."
+    sb "好。{w}30分钟后我那里见。"
 
 # game/code/d09/d09s04.rpy:96
 translate chinese d09s04_813a3b04:
 
     # mc "I'll go with the, uh, escort mission then."
-    mc "I'll go with the, uh, escort mission then."
+    mc "呃，那我就参加，陪护任务吧。"
 
 translate chinese strings:
 
     # game/code/d09/d09s04.rpy:74
     old "Bail Out"
-    new "Bail Out"
+    new "放弃"
 
     # game/code/d09/d09s04.rpy:88
     old "Be a gigolo"
-    new "Be a gigolo"
-
+    new "做牛郎"

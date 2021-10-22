@@ -190,15 +190,14 @@ translate chinese strings:
 translate chinese prologue_nora_creampie_fcd0a635:
 
     # "We see you like a little extra cream in your pie. Did you cum in Nora in Week One?"
-    "We see you like a little extra cream in your pie. Did you cum in Nora in Week One?"
+    "我们看到你喜欢在馅饼里多加一点奶油。你第一周射诺拉体内了吗？"
 
 translate chinese strings:
 
     # game/code/d08/prologue.rpy:186
     old "Yes, I came in her and got thrown out"
-    new "Yes, I came in her and got thrown out"
+    new "是的，我在她里面射了，然后被赶了出去"
 
     # game/code/d08/prologue.rpy:186
     old "No, I didn't"
-    new "No, I didn't"
-
+    new "不，并没有"

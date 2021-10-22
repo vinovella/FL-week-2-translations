@@ -1194,9 +1194,8 @@ translate chinese strings:
 
     # game/code/d09/d09s02.rpy:469
     old "Today! On \"Prank a M.I.L.F.\""
-    new "Today! On \"Prank a M.I.L.F.\""
+    new "今天！\"整蛊性感少妇\""
 
     # game/code/d09/d09s02.rpy:469
     old "Be a gigolo for a day"
-    new "Be a gigolo for a day"
-
+    new "做一天牛郎"

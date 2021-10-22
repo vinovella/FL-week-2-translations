@@ -36,6 +36,7 @@ translate spanish strings:
     # game/code/screens/screens_fl.rpy:377
     old "Fetish Locator is intended for a mature audience\nof 18 years or older. Please abide by your local laws.\nAll characters are 18 years or older. No exceptions.\nThe characters in Fetish Locator explore relationships and their sexuality in both healthy and unhealthy ways. Some of these may be offensive to some players. Viewer discretion is advised. To that end, much of the content is optional and often there are alternative paths available. This is necessary to the story. The content explored should not be treated as an endorsement of particular fetishes, kinks, or patterns of behaviour. Please explore your own relationships and sexuality responsibly.\n\nEnjoy!"
     new "Fetish Locator está dirigido a un público\nmaduro de 18 años o más. Por favor, respete las leyes locales.\nTodos los personajes son mayores de 18 años. Sin excepciones.\nLos personajes de Fetish Locator exploran las relaciones y su sexualidad tanto de forma sana como insana. Algunas de ellas pueden resultar ofensivas para algunos jugadores. Se recomienda la discreción del espectador. Para ello, gran parte del contenido es opcional y a menudo hay caminos alternativos disponibles. Esto es necesario para la historia. El contenido explorado no debe ser tratado como una aprobación de determinados fetiches, perversiones o patrones de comportamiento. Por favor, explora tus propias relaciones y tu sexualidad de forma responsable.\n\n¡Disfruta!"
+
 # TODO: Translation updated at 2021-08-23 22:22
 
 translate spanish strings:
@@ -67,6 +68,7 @@ translate spanish strings:
     # game/code/screens/screens_fl.rpy:93
     old "SAVE"
     new "GUARDAR"
+
 # TODO: Translation updated at 2021-10-13 01:42
 
 translate spanish strings:
@@ -93,4 +95,12 @@ translate spanish strings:
 
     # game/code/screens/screens_fl.rpy:535
     old "SKIP RECAP"
+    new "OMITIR"
+
+# TODO: Translation updated at 2021-10-23 00:17
+
+translate spanish strings:
+
+    # game/code/screens/screens_fl.rpy:786
+    old "SKIP"
     new "OMITIR"

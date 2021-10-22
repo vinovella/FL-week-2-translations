@@ -74,19 +74,19 @@ translate chinese strings:
 
     # game/code/screens/screens_fl.rpy:245
     old "No end game save from week [FLSS.week.prev] has been detected"
-    new "No end game save from week [FLSS.week.prev] has been detected"
+    new "未检测到从周[FLSS.week.prev]的结束游戏保存文件"
 
     # game/code/screens/screens_fl.rpy:252
     old "Please open Fetish Locator week [FLSS.week.prev] and SAVE at the end game save screen"
-    new "Please open Fetish Locator week [FLSS.week.prev] and SAVE at the end game save screen"
+    new "请打开性趣探测器周[FLSS.week.prev]，并在游戏结束时的保存界面进行保存"
 
     # game/code/screens/screens_fl.rpy:265
     old "Or"
-    new "Or"
+    new "或者"
 
     # game/code/screens/screens_fl.rpy:271
     old "{u}Fill the questionnaire to play week [FLSS.week.cur] without loading a save{/u}"
-    new "{u}Fill the questionnaire to play week [FLSS.week.cur] without loading a save{/u}"
+    new "{u}填写调查问卷，无需加载保存即可进入周[FLSS.week.cur]{/u}"
 
 # TODO: Translation updated at 2021-10-17 22:27
 
@@ -94,4 +94,12 @@ translate chinese strings:
 
     # game/code/screens/screens_fl.rpy:535
     old "SKIP RECAP"
-    new "SKIP RECAP"
+    new "跳过回顾"
+
+# TODO: Translation updated at 2021-10-23 00:13
+
+translate chinese strings:
+
+    # game/code/screens/screens_fl.rpy:786
+    old "SKIP"
+    new "跳过"

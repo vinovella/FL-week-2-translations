@@ -84,4 +84,12 @@ translate russian strings:
 
     # game/code/screens/screens_fl.rpy:535
     old "SKIP RECAP"
-    new "SKIP RECAP"
+    new "ПРОПУСТИТЬ"
+
+# TODO: Translation updated at 2021-10-23 00:19
+
+translate russian strings:
+
+    # game/code/screens/screens_fl.rpy:786
+    old "SKIP"
+    new "ПРОПУСТИТЬ"
