@@ -93,3 +93,11 @@ translate portuguese strings:
     # game/code/screens/screens_fl.rpy:535
     old "SKIP RECAP"
     new "PULAR"
+
+# TODO: Translation updated at 2021-10-23 00:15
+
+translate portuguese strings:
+
+    # game/code/screens/screens_fl.rpy:786
+    old "SKIP"
+    new "PULAR"

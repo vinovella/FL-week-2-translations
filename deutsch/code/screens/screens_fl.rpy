@@ -101,3 +101,11 @@ translate deutsch strings:
     old "SKIP RECAP"
     new "SKIP RECAP"
 
+# TODO: Translation updated at 2021-10-23 00:21
+
+translate deutsch strings:
+
+    # game/code/screens/screens_fl.rpy:786
+    old "SKIP"
+    new "SKIP"
+

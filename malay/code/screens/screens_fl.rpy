@@ -93,3 +93,11 @@ translate malay strings:
     old "SKIP RECAP"
     new "SKIP RECAP"
 
+# TODO: Translation updated at 2021-10-23 00:20
+
+translate malay strings:
+
+    # game/code/screens/screens_fl.rpy:786
+    old "SKIP"
+    new "SKIP"
+

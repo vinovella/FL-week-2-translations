@@ -95,3 +95,11 @@ translate chinese strings:
     # game/code/screens/screens_fl.rpy:535
     old "SKIP RECAP"
     new "跳过回顾"
+
+# TODO: Translation updated at 2021-10-23 00:13
+
+translate chinese strings:
+
+    # game/code/screens/screens_fl.rpy:786
+    old "SKIP"
+    new "跳过"
