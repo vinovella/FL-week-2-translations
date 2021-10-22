@@ -850,7 +850,7 @@ translate spanish strings:
 translate spanish d14s08_a1b3e82d:
 
     # mc "Hey, Polly. That sounds nice."
-    mc "Hey, Polly. That sounds nice."
+    mc "Hola, Polly. Eso suena bien."
 
 # game/code/d14/extended/d14s08.rpy:63
 translate spanish d14s08_2fb8dabe:
@@ -892,13 +892,13 @@ translate spanish replay_d14s08_5d53b12e:
 translate spanish replay_d14s08_0c0687ac:
 
     # mc "I'm going to take advantage of all this cum dripping out of your creampied ass."
-    mc "I'm going to take advantage of all this cum dripping out of your creampied ass."
+    mc "Voy a aprovechar todo este semen que gotea de tu culo creampado."
 
 # game/code/d14/extended/d14s08.rpy:407
 translate spanish replay_d14s08_c897ddd7:
 
     # pw "PLEASE SIR! KEEP GOING! PLEASE FUCK ME!!!"
-    pw "PLEASE SIR! KEEP GOING! PLEASE FUCK ME!!!"
+    pw "¡POR FAVOR SEÑOR! ¡SIGA ADELANTE! ¡¡¡POR FAVOR, FÓLLAME!!!"
 
 # game/code/d14/extended/d14s08.rpy:455
 translate spanish d14s08_end_a832b55e:
