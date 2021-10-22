@@ -56,7 +56,7 @@ translate russian strings:
 
     # game/code/screens/screens_fl.rpy:668
     old "X-RAY"
-    new "X-RAY"
+    new "Рентген"
 
 # TODO: Translation updated at 2021-10-16 09:34
 

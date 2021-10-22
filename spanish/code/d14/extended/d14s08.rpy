@@ -856,37 +856,37 @@ translate spanish d14s08_a1b3e82d:
 translate spanish d14s08_2fb8dabe:
 
     # pw "Oh, hey, [mcname]. I was just thinking about us."
-    pw "Oh, hey, [mcname]. I was just thinking about us."
+    pw "Oh, hola, [mcname]. Estaba pensando en nosotros."
 
 # game/code/d14/extended/d14s08.rpy:90
 translate spanish d14s08_b599eb24:
 
     # pw "Or it just makes her Polly. Polly enjoys sex roleplay and BDSM stuff, but it's a rare treat, not a regular meal."
-    pw "Or it just makes her Polly. Polly enjoys sex roleplay and BDSM stuff, but it's a rare treat, not a regular meal."
+    pw "O simplemente la hace Polly. A Polly le gustan los juegos de rol sexuales y las cosas esclavitud y disciplina, dominio y sumisión, sadismo y masoquismo(EDDSSM), pero es un capricho raro, no una comida habitual."
 
 # game/code/d14/extended/d14s08.rpy:92
 translate spanish d14s08_4573ec95:
 
     # pw "I guess I'm an exhibitionist - like you say. Being naked, fucking in public... That's my favorite thing. I could do that everyday all day."
-    pw "I guess I'm an exhibitionist - like you say. Being naked, fucking in public... That's my favorite thing. I could do that everyday all day."
+    pw "Supongo que soy una exhibicionista - como tú dices. Estar desnuda, follar en público... Eso es lo que más me gusta. Podría hacer eso todos los días, todo el día."
 
 # game/code/d14/extended/d14s08.rpy:135
 translate spanish d14s08_5c112b78:
 
     # pw "In fact... I think that Nora has feelings for you as well.{w}.. Just like I do."
-    pw "In fact... I think that Nora has feelings for you as well.{w}.. Just like I do."
+    pw "De hecho... Creo que Nora también siente algo por ti.{w}.. Al igual que yo."
 
 # game/code/d14/extended/d14s08.rpy:229
 translate spanish replay_d14s08_49798141:
 
     # mc "Call me \"Sir\" when you're talking to me."
-    mc "Call me \"Sir\" when you're talking to me."
+    mc "Llámame \"Señor\" cuando me hables."
 
 # game/code/d14/extended/d14s08.rpy:325
 translate spanish replay_d14s08_5d53b12e:
 
     # mc "Ohhhhhhh.... {w}Fuck yes."
-    mc "Ohhhhhhh.... {w}Fuck yes."
+    mc "Ohhhhhhh.... {w}Joder, sí."
 
 # game/code/d14/extended/d14s08.rpy:355
 translate spanish replay_d14s08_0c0687ac:
@@ -904,4 +904,4 @@ translate spanish replay_d14s08_c897ddd7:
 translate spanish d14s08_end_a832b55e:
 
     # pw "Later, [mcname]."
-    pw "Later, [mcname]."
+    pw "Más tarde, [mcname]."
