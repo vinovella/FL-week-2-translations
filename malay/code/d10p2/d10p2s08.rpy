@@ -982,7 +982,7 @@ translate malay d10p2s08_mh_part1_84a7ce3a:
 translate malay d10p2s08_mh_part1_8b4bf406:
 
     # mc "Well, maybe second hottest. I mean, you were there last week."
-    mc "Mungkin kedua tercantik. Maksud aku, kau pun berada di sana minggu lepas." 
+    mc "Mungkin kedua tercantik. Maksud aku, kau pun berada di sana minggu lepas."
 
 # game/code/d10p2/d10p2s08.rpy:391
 translate malay d10p2s08_mh_part1_56c3e88b:
@@ -1012,7 +1012,7 @@ translate malay d10p2s08_mh_part1_cf0ff015:
 translate malay d10p2s08_tm_part1_5a6f512e:
 
     # mc "So, like last week Mr.D1cky did his \"Magic and Mysticism\" thing."
-    mc "Jadi, seperti minggu lepas Cik D1cky lakukan acara \"Sihir dan Mistik"\nya."
+    mc "Jadi, seperti minggu lepas Cik D1cky lakukan acara \"Sihir dan Mistik\"nya."
 
 # game/code/d10p2/d10p2s08.rpy:405
 translate malay d10p2s08_tm_part1_ec817ce3:
@@ -1702,7 +1702,7 @@ translate malay d10p2s08_mh_part3_2f95b562:
 translate malay d10p2s08_mh_part3_1b5a97d9:
 
     # lc "A little of both?"
-    lc "\"Por qué no los dos?"\"
+    lc "\"Por qué no los dos?\""
 
 # game/code/d10p2/d10p2s08.rpy:720
 translate malay d10p2s08_mh_part3_5407d716:
@@ -1720,7 +1720,7 @@ translate malay d10p2s08_mh_part3_6db0b50e:
 translate malay d10p2s08_mh_part3_a273c05e:
 
     # mc "Lyssa and I have been messing around a bit for the past week or so."
-    mc "Aku dan Lyssa telah \"berkenalan"\ sejak seminggu yang lalu."
+    mc "Aku dan Lyssa telah \"berkenalan\" sejak seminggu yang lalu."
 
 # game/code/d10p2/d10p2s08.rpy:731
 translate malay d10p2s08_mh_part3_7fe4784a:
@@ -2585,4 +2585,3 @@ translate malay strings:
     # game/code/d10p2/d10p2s08.rpy:272
     old "Blowjob from AmRose"
     new "Blowjob dari AmRose "
-
