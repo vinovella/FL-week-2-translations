@@ -4,11 +4,11 @@ translate russian strings:
 
     # game/code/screens/screens_fl.rpy:47
     old "Your second week on Fetish Locator ends here"
-    new "Вторая неделя в Фетиш Локаторе заканчивается здесь"
+    new "Вторая неделя в Фетиш Локаторе заканчивается"
 
     # game/code/screens/screens_fl.rpy:55
     old "Please type a name for the save file below and click save"
-    new "Пожалуйста, введите название для файла сохранения и нажмите кнопку Сохранить"
+    new "Пожалуйста, введите название для сохранения и нажмите \"Сохранить\""
 
     # game/code/screens/screens_fl.rpy:63
     old "This will allow you to start week 3 without losing your progress"

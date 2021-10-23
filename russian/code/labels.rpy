@@ -190,7 +190,7 @@ translate russian after_credits_e8a80a14:
 translate russian after_credits_d749c296:
 
     # "{color=#f93737}Zemfira{/color}" "Hey, I was just changing when they opened... And stop bossing us around! We aren't on your volleyball team!"
-    "{color=#f93737}Земфира{/color}" "Эй, я как раз переодевался, когда открылась дверь... И перестань командовать! Мы не в твоей волейбольной команде!"
+    "{color=#f93737}Земфира{/color}" "Эй, я как раз переодевалась, когда открылась дверь... И перестань командовать! Мы не в твоей волейбольной команде!"
 
 # game/code/labels.rpy:195
 translate russian after_credits_d6e2149b:
@@ -202,7 +202,7 @@ translate russian after_credits_d6e2149b:
 translate russian after_credits_bf117a95:
 
     # "{color=#ec8664}Unknown Girl 3{/color}" "Let's call it our secret and pretend you never opened the door!"
-    "{color=#ec8664}Неизвестная Девушка 3{/color}" "Давай назовем это нашим секретом и притворимся, что ты никогда не открывала дверь!"
+    "{color=#ec8664}Неизвестная Девушка 3{/color}" "Давай назовем это нашим секретом и притворимся, что ты не открывала дверь!"
 
 # game/code/labels.rpy:199
 translate russian after_credits_b7af7f44:
@@ -220,7 +220,7 @@ translate russian after_credits_4244eb77:
 translate russian after_credits_db5b7cd2:
 
     # "{color=#ba50f3}Unknown Girl 2{/color}" "Support the ViNovella team so they can share our story sooner!"
-    "{color=#ba50f3}Неизвестная Девушка 2{/color}" "Поддержи команду ViNovella, чтобы они могли продолжить рассказывать нашей историей!"
+    "{color=#ba50f3}Неизвестная Девушка 2{/color}" "Поддержи команду ViNovella, чтобы они могли продолжить рассказывать нашей истории!"
 
 # game/code/labels.rpy:207
 translate russian after_credits_1aef1189:
@@ -232,7 +232,7 @@ translate russian after_credits_1aef1189:
 translate russian after_credits_48896586:
 
     # dd "I have no idea... Come here!"
-    dd "Понятия не имею... Иди сюда!"
+    dd "Понятия не имею... Пойдём отсюда!"
 
 # game/code/labels.rpy:211
 translate russian after_credits_f5cfef90:
@@ -262,7 +262,7 @@ translate russian after_credits_395b12fe:
 translate russian after_credits_c7e3ca6c:
 
     # sy "But don't forget to support us! We will bring you more awesome stuff!"
-    sy "Но не забывай поддерживать нас! Мы покажем еще больше потрясающих вещей!"
+    sy "Не забывай поддерживать нас! Мы покажем гораздо больше потрясающих историй!"
 
 # game/code/labels.rpy:373
 translate russian buzz_4377a2f7:

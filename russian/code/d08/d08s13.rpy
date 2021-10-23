@@ -16,13 +16,13 @@ translate russian d08s13_bad_6e9977d0:
 translate russian d08s13_bad_47a8a55d:
 
     # nk "[mcname]. I was wondering if I would see you tonight."
-    nk "[mcname]. Я хотела узнать, увижу ли я тебя сегодня вечером."
+    nk "[mcname]. Я как раз вспоминала о тебе."
 
 # game/code/d08/d08s13.rpy:89
 translate russian d08s13_bad_57af39fb:
 
     # nk "You should know... I talked to Polly."
-    nk "Ты должен знать... Я поговорила с Полли."
+    nk "Чтобы ты знал... Я поговорила с Полли."
 
 # game/code/d08/d08s13.rpy:91
 translate russian d08s13_bad_ee87e6f3:
@@ -40,13 +40,13 @@ translate russian d08s13_bad_7211a50a:
 translate russian d08s13_bad_40f800f2:
 
     # mc "That's interesting."
-    mc "Это интересно."
+    mc "Интересно."
 
 # game/code/d08/d08s13.rpy:96
 translate russian d08s13_bad_53e698df:
 
     # nk "It was very interesting. Here I was thinking that you betrayed me only twice, but then I find out you betrayed me at least three times."
-    nk "Это было очень интересно. Я думала, что ты предал меня только дважды, но потом я узнала, что ты предал меня по крайней мере три раза."
+    nk "Очень интересно. Я думала, что ты предал меня дважды, но потом я поняла, что ты предал меня, по крайней мере, три раза."
 
 # game/code/d08/d08s13.rpy:98
 translate russian d08s13_bad_8a340642:
@@ -106,7 +106,7 @@ translate russian d08s13_bad_04b89c8c:
 translate russian d08s13_bad_4df952bc:
 
     # mc "I wouldn't say..."
-    mc "Я бы не сказал..."
+    mc "Я бы не..."
 
 # game/code/d08/d08s13.rpy:114
 translate russian d08s13_bad_6fb0f751:
@@ -124,13 +124,13 @@ translate russian d08s13_bad_fca52711:
 translate russian d08s13_bad_a155200a:
 
     # nk "That's the one that Polly told me about. You know... my blind date."
-    nk "Это та, о чём мне рассказала Полли. Знаешь... то свидание вслепую."
+    nk "Это то, что рассказала Полли. Знаешь... то свидание вслепую."
 
 # game/code/d08/d08s13.rpy:121
 translate russian d08s13_bad_48e127d5:
 
     # nk "She told me that she had explicitly told you that I wasn't interested in her, so you schemed together to trick me into letting her have her way with me."
-    nk "Она рассказала мне, что недвусмысленно говорила тебе, что я не заинтересована в ней, поэтому вы вместе замыслили обмануть меня, чтобы позволить ей делать со мной все, что она захочет."
+    nk "Она рассказала, что ясно сказала тебе, что я не заинтересована в ней, поэтому вы вместе решили обмануть меня, чтобы позволить ей делать со мной все, что ей захочется."
 
 # game/code/d08/d08s13.rpy:123
 translate russian d08s13_bad_924a0fba:
@@ -148,7 +148,7 @@ translate russian d08s13_bad_c17ef8ec:
 translate russian d08s13_bad_b80b0bdd:
 
     # nk "I'm not going to tell Lydia what a pile of shit you are."
-    nk "Я не буду говорить Лидии, какая ты куча дерьма."
+    nk "Я не расскажу Лидии, какая ты куча дерьма."
 
 # game/code/d08/d08s13.rpy:126
 translate russian d08s13_bad_da7eeebc:
@@ -160,7 +160,7 @@ translate russian d08s13_bad_da7eeebc:
 translate russian d08s13_bad_5b4dd44c:
 
     # nk "In fact... I'm not going to tell anyone else about any of this. Not for you, but because I don't want myself or my business associated with you."
-    nk "На самом деле... Я никому об этом не расскажу. Это не для тебя, а потому что я не хочу, чтобы меня или мой бизнес ассоциировали с тобой."
+    nk "На самом деле... Я никому об этом не расскажу. Это не для тебя, а потому что не хочу, чтобы меня или мой бизнес ассоциировали с тобой."
 
 # game/code/d08/d08s13.rpy:129
 translate russian d08s13_bad_8342f3c1:
@@ -196,7 +196,7 @@ translate russian d08s13_bad_9faa223e:
 translate russian d08s13_bad_d878b941:
 
     # mc "Sure... anything."
-    mc "Конечно... что угодно."
+    mc "Конечно... спрашивай."
 
 # game/code/d08/d08s13.rpy:140
 translate russian d08s13_bad_e9fdbe40:
@@ -244,7 +244,7 @@ translate russian d08s13_bad_5630f8f2:
 translate russian d08s13_bad_d11f678e:
 
     # mc "Hey Polly, I guess..."
-    mc "Привет, Полли, наверное..."
+    mc "Привет Полли, я думаю что..."
 
 # game/code/d08/d08s13.rpy:169
 translate russian d08s13_bad_52318bd1:
@@ -256,7 +256,7 @@ translate russian d08s13_bad_52318bd1:
 translate russian d08s13_bad_7e604e7b:
 
     # mc "I'm sorry, I just..."
-    mc "Прости, я просто..."
+    mc "Извини, я просто..."
 
 # game/code/d08/d08s13.rpy:173
 translate russian d08s13_bad_4fe9e3d9:
@@ -268,13 +268,13 @@ translate russian d08s13_bad_4fe9e3d9:
 translate russian d08s13_bad_b2472b88:
 
     # mc "I didn't mean..."
-    mc "Я не это имел в виду..."
+    mc "Я не..."
 
 # game/code/d08/d08s13.rpy:176
 translate russian d08s13_bad_ab25b77a:
 
     # pw "FUCK OFF! FUCK YOURSELF!! AND STAY THE FUCK AWAY FROM ME!!!"
-    pw "ОТВАЛИ! ПОШЕЛ ТЫ К ЧЕРТУ!! И ДЕРЖИСЬ ОТ МЕНЯ ПОДАЛЬШЕ!!!"
+    pw "ОТВАЛИ! ПОШЕЛ ЧЕРТУ!! И ДЕРЖИСЬ ОТ МЕНЯ ПОДАЛЬШЕ!!!"
 
 # game/code/d08/d08s13.rpy:191
 translate russian d08s13_good_6e9977d0:
@@ -286,7 +286,7 @@ translate russian d08s13_good_6e9977d0:
 translate russian d08s13_good_47a8a55d:
 
     # nk "[mcname]. I was wondering if I would see you tonight."
-    nk "[mcname]. Я хотела узнать, увижу ли я тебя сегодня вечером."
+    nk "[mcname]. Я как раз вспоминала о тебе."
 
 # game/code/d08/d08s13.rpy:195
 translate russian d08s13_good_6f8a850c:

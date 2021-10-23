@@ -40,7 +40,7 @@ translate russian strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Do all the Samiya's tasks to 100%"
-    new "Выполняйте все задания Самии на 100%%"
+    new "Выполняй все задания Самии на 100%%"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Fail Out"
@@ -76,7 +76,7 @@ translate russian strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Daisy all the way"
-    new "Дейзи все время"
+    new "Дейзи навсегда"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Do everything you can with Daisy at Min's Party"
@@ -252,7 +252,7 @@ translate russian strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Sleeping with the Fish"
-    new "Спи с рыбой"
+    new "Секс с рыбой"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Answering the Siren’s call"
@@ -260,7 +260,7 @@ translate russian strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Pretzel Mustard"
-    new "Горчица с кренделем"
+    new "Крендель с горчицей"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Be with as many people as possible in one playthrough"
@@ -268,7 +268,7 @@ translate russian strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Spicy Pretzel Mustard"
-    new "Острая Горчица с Кренделем"
+    new "Крендель с острой горчицей"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Unlock all the people on the pool screen"
@@ -300,7 +300,7 @@ translate russian strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Lowball"
-    new "Низкий мяч"
+    new "Пуританин"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Be with the fewest number of people by the end of the week"

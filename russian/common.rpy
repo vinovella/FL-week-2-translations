@@ -1176,37 +1176,37 @@ translate russian strings:
 
     # renpy/common/00gltest.rpy:220
     old "This computer is not using shaders."
-    new "This computer is not using shaders."
+    new "Этот компьютер не использует шейдеры."
 
     # renpy/common/00gltest.rpy:222
     old "This computer is displaying graphics slowly."
-    new "This computer is displaying graphics slowly."
+    new "Этот компьютер медленно отображает графику."
 
     # renpy/common/00gltest.rpy:229
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display. Updating DirectX could fix this problem."
-    new "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display. Updating DirectX could fix this problem."
+    new "Графические драйверы могли устареть или работают некорректно. Это может привести к медленному или неправильному отображению графики. Обновление DirectX поможет устранить эту проблему."
 
     # renpy/common/00gltest.rpy:236
     old "Update DirectX"
-    new "Update DirectX"
+    new "Обновить DirectX"
 
     # renpy/common/00gltest.rpy:264
     old "Updating DirectX."
-    new "Updating DirectX."
+    new "Обновление DirectX."
 
     # renpy/common/00gltest.rpy:268
     old "DirectX web setup has been started. It may start minimized in the taskbar. Please follow the prompts to install DirectX."
-    new "DirectX web setup has been started. It may start minimized in the taskbar. Please follow the prompts to install DirectX."
+    new "Запущена веб-установка DirectX. Он могла запуститься свёрнутой на панели задач. Пожалуйста, следуйте инструкциям по установке DirectX."
 
     # renpy/common/00gltest.rpy:272
     old "{b}Note:{/b} Microsoft's DirectX web setup program will, by default, install the Bing toolbar. If you do not want this toolbar, uncheck the appropriate box."
-    new "{b}Note:{/b} Microsoft's DirectX web setup program will, by default, install the Bing toolbar. If you do not want this toolbar, uncheck the appropriate box."
+    new "{b}Примечание:{/b} Программа установки веб-установки DirectX от Microsoft по умолчанию устанавливает панель инструментов Bing. Если вам не нужна эта панель инструментов, снимите соответствующую галочку."
 
     # renpy/common/00gltest.rpy:276
     old "When setup finishes, please click below to restart this program."
-    new "When setup finishes, please click below to restart this program."
+    new "По окончании установки нажмите рестарт, чтобы перезапустить программу."
 
     # renpy/common/00gltest.rpy:278
     old "Restart"
-    new "Restart"
+    new "Рестарт"
 
