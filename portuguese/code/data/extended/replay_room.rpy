@@ -200,57 +200,56 @@ translate portuguese strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 14: AmRose"
-    new "Day 14: AmRose"
+    new "Dia 14: AmRose"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 14: Min and Lydia"
-    new "Day 14: Min and Lydia"
+    new "Dia 14: Min and Lydia"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 14: Cynthia"
-    new "Day 14: Cynthia"
+    new "Dia 14: Cynthia"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Play along"
-    new "Play along"
+    new "Vá na onda"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 14: Polly"
-    new "Day 14: Polly"
+    new "Dia 14: Polly"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Don't creampie Nora"
-    new "Don't creampie Nora"
+    new "Não goze dentro da Nora"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 14: Allison"
-    new "Day 14: Allison"
+    new "Dia 14: Allison"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Go with her"
-    new "Go with her"
+    new "Vá com ela"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 14: Samia"
-    new "Day 14: Samia"
+    new "Dia 14: Samia"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 14: Oliver"
-    new "Day 14: Oliver"
+    new "Dia 14: Oliver"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Help him out"
-    new "Help him out"
+    new "Ajude ele"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 14: Jessie Mermaid"
-    new "Day 14: Jessie Mermaid"
+    new "Dia 14: Jessie Mermaid"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 14: Lydia"
-    new "Day 14: Lydia"
+    new "Dia 14: Lydia"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 14: Stacy"
-    new "Day 14: Stacy"
-
+    new "Dia 14: Stacy"

@@ -108,4 +108,4 @@ translate portuguese strings:
 
     # game/code/screens/screens_fl.rpy:232
     old "Unnamed End Game Save"
-    new "Unnamed End Game Save"
+    new "Save de Fim de Jogo Sem Nome"

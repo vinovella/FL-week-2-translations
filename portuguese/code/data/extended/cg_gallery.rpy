@@ -268,21 +268,20 @@ translate portuguese strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 12: Lydia - Pool"
-    new "Day 12: Lydia - Pool"
+    new "Dia 12: Lydia - Piscina"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 14: Dream"
-    new "Day 14: Dream"
+    new "Dia 14: Sonho"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Party 3: Pool Girls"
-    new "Party 3: Pool Girls"
+    new "Festa 3: Garotas na Piscina"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Party 3: Jessie"
-    new "Party 3: Jessie"
+    new "Festa 3: Jessie"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Party 3: Participants"
-    new "Party 3: Participants"
-
+    new "Festa 3: Participantes"

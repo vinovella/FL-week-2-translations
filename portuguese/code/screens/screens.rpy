@@ -376,4 +376,4 @@ translate portuguese strings:
 
     # game/code/screens/screens.rpy:1028
     old "Low Memory Mode"
-    new "Low Memory Mode"
+    new "Modo de Baixa Memória"
