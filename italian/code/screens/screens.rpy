@@ -383,7 +383,7 @@ translate italian strings:
     new "»"
 
     # game/code/screens/screens.rpy:823
-    old "Taboo mode"
+    old "Taboo Mode"
     new "Modalità Taboo"
 
     # game/code/screens/screens.rpy:824

@@ -167,7 +167,7 @@ translate portuguese strings:
     new "Transições"
 
     # game/code/screens/screens.rpy:974
-    old "Taboo mode"
+    old "Taboo Mode"
     new "Modo Tabu"
 
     # game/code/screens/screens.rpy:975

@@ -163,7 +163,7 @@ translate malay strings:
     new "Transisi"
 
     # game/code/screens/screens.rpy:1088
-    old "Taboo mode"
+    old "Taboo Mode"
     new "Mod Taboo"
 
     # game/code/screens/screens.rpy:1089

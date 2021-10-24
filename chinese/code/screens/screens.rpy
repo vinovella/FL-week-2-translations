@@ -163,7 +163,7 @@ translate chinese strings:
     new "转场"
 
     # game/code/screens/screens.rpy:828
-    old "Taboo mode"
+    old "Taboo Mode"
     new "禁忌模式"
 
     # game/code/screens/screens.rpy:829

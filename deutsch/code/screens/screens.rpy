@@ -35,8 +35,8 @@ translate deutsch strings:
     new "(set a name before saving your progress)"
 
     # game/code/screens/screens.rpy:828
-    old "Taboo mode"
-    new "Taboo mode"
+    old "Taboo Mode"
+    new "Taboo Mode"
 
     # game/code/screens/screens.rpy:829
     old "Enabled"

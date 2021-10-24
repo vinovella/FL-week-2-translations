@@ -171,8 +171,8 @@ translate russian strings:
     new "Переходов"
 
     # game/code/screens/screens.rpy:995
-    old "Taboo mode"
-    new "Табу режим"
+    old "Taboo Mode"
+    new "Табу Pежим"
 
     # game/code/screens/screens.rpy:1007
     old "Text Speed"
@@ -353,4 +353,3 @@ translate russian strings:
     # game/code/screens/screens.rpy:1680
     old "Menu"
     new "Меню"
-

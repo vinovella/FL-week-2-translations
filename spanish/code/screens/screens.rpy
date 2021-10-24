@@ -163,7 +163,7 @@ translate spanish strings:
     new "Transiciones"
 
     # game/code/screens/screens.rpy:828
-    old "Taboo mode"
+    old "Taboo Mode"
     new "Modo Tabú"
 
     # game/code/screens/screens.rpy:829
