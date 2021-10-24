@@ -369,3 +369,11 @@ translate portuguese strings:
     # game/code/screens/screens.rpy:847
     old "Naming save file:"
     new "Dar nome aos saves:"
+
+# TODO: Translation updated at 2021-10-25 01:03
+
+translate portuguese strings:
+
+    # game/code/screens/screens.rpy:1028
+    old "Low Memory Mode"
+    new "Low Memory Mode"

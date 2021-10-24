@@ -373,3 +373,11 @@ translate malay strings:
     # game/code/screens/screens.rpy:847
     old "Naming save file:"
     new "Menamakan fail simpanan:"
+
+# TODO: Translation updated at 2021-10-25 01:15
+
+translate malay strings:
+
+    # game/code/screens/screens.rpy:1028
+    old "Low Memory Mode"
+    new "Low Memory Mode"

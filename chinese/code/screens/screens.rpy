@@ -377,3 +377,11 @@ translate chinese strings:
     # game/code/screens/screens.rpy:847
     old "Naming save file:"
     new "命名保存文件："
+
+# TODO: Translation updated at 2021-10-25 01:05
+
+translate chinese strings:
+
+    # game/code/screens/screens.rpy:1028
+    old "Low Memory Mode"
+    new "Low Memory Mode"

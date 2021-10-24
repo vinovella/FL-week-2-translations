@@ -93,3 +93,11 @@ translate russian strings:
     # game/code/screens/screens_fl.rpy:786
     old "SKIP"
     new "ПРОПУСТИТЬ"
+
+# TODO: Translation updated at 2021-10-25 01:09
+
+translate russian strings:
+
+    # game/code/screens/screens_fl.rpy:232
+    old "Unnamed End Game Save"
+    new "Сохранение без имени"

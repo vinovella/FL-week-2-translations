@@ -353,3 +353,11 @@ translate russian strings:
     # game/code/screens/screens.rpy:1680
     old "Menu"
     new "Меню"
+
+# TODO: Translation updated at 2021-10-25 01:09
+
+translate russian strings:
+
+    # game/code/screens/screens.rpy:1028
+    old "Low Memory Mode"
+    new "Режим Калькулятора"

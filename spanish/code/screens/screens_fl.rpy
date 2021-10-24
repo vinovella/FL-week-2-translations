@@ -104,3 +104,11 @@ translate spanish strings:
     # game/code/screens/screens_fl.rpy:786
     old "SKIP"
     new "OMITIR"
+
+# TODO: Translation updated at 2021-10-25 01:12
+
+translate spanish strings:
+
+    # game/code/screens/screens_fl.rpy:232
+    old "Unnamed End Game Save"
+    new "Unnamed End Game Save"

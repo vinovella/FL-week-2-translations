@@ -373,3 +373,11 @@ translate spanish strings:
     # game/code/screens/screens.rpy:847
     old "Naming save file:"
     new "Nombrar el archivo de guardado:"
+
+# TODO: Translation updated at 2021-10-25 01:12
+
+translate spanish strings:
+
+    # game/code/screens/screens.rpy:1028
+    old "Low Memory Mode"
+    new "Low Memory Mode"

@@ -262,3 +262,27 @@ translate portuguese strings:
     old "Day 13: Vanessa"
     new "Dia 13: Vanessa"
 
+# TODO: Translation updated at 2021-10-25 01:03
+
+translate portuguese strings:
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 12: Lydia - Pool"
+    new "Day 12: Lydia - Pool"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 14: Dream"
+    new "Day 14: Dream"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Party 3: Pool Girls"
+    new "Party 3: Pool Girls"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Party 3: Jessie"
+    new "Party 3: Jessie"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Party 3: Participants"
+    new "Party 3: Participants"
+
