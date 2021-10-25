@@ -401,7 +401,7 @@ translate chinese d08s00_week1synopsis_3a50e437:
 translate chinese d08s00_week1synopsis_e8352572:
 
     # "He was being blackmailed as well, by something called the Fetish Locator Retention Program."
-    "他也被一个叫"性趣探测器留存计划"的东西敲诈了。"
+    "他也被一个叫\"性趣探测器留存计划\"的东西敲诈了。"
 
 # game/code/recap.rpy:286
 translate chinese d08s00_week1synopsis_38514213:
