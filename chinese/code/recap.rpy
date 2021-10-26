@@ -46,7 +46,7 @@ translate chinese d08s00_week1synopsis_8d77631a:
 translate chinese d08s00_week1synopsis_1036b95b:
 
     # "Kevin introduced him to it - FETISH LOCATOR."
-    "凯文向他介绍了这个软件--"性趣探测器"。"
+    "凯文向他介绍了这个软件--\"性趣探测器\"。"
 
 # game/code/recap.rpy:90
 translate chinese d08s00_week1synopsis_ae7bbf76:
@@ -365,7 +365,7 @@ translate chinese d08s00_week1synopsis_bb3abcff:
 translate chinese d08s00_week1synopsis_81d877e5:
 
     # "...who was putting her very life in real danger for the Fetish of the Day challenge..."
-    "……她为了完成"今日性趣 "挑战，将自己的生命置于危险之中……"
+    "……她为了完成\"今日性趣 \"挑战，将自己的生命置于危险之中……"
 
 # game/code/recap.rpy:270
 translate chinese d08s00_week1synopsis_500ef143:

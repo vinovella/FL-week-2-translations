@@ -17,7 +17,7 @@ translate chinese strings:
     old "Min"
     new "明"
 
-    old "Anthony"
+    old "Antony"
     new "安东尼"
 
     old "Kevin"
@@ -136,3 +136,33 @@ translate chinese strings:
 
     old "What is your name in Fetish Locator app?"
     new "在性趣探测器软件中你想叫什么名字？"
+
+    old "Fetish Locator"
+    new "性趣探测器"
+
+    old "ErikaRed"
+    new "红色埃里卡"
+
+    old "SexyMinx"
+    new "性感女郎"
+
+    old "SuperNova"
+    new "超诺娃"
+
+    old "Aaleyah"
+    new "艾蕾亚"
+
+    old "Samiya"
+    new "萨米亚"
+
+    old "Iona"
+    new "欧娜"
+
+    old "Shontae"
+    new "尚泰"
+
+    old "Mr. Melville"
+    new "梅尔维尔先生"
+
+    old "Oliver"
+    new "奥利弗"
