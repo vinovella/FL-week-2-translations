@@ -370,7 +370,7 @@ translate malay d10p2s09_continue_fc930f2b:
 translate malay d10p2s09_continue_fc930f2b_1:
 
     # "Both" "Thank you!"
-    "Kedua-duanya"" "Terima kasih!"
+    "Kedua-duanya" "Terima kasih!"
 
 translate malay strings:
 
@@ -381,4 +381,3 @@ translate malay strings:
     # game/code/d10p2/d10p2s09.rpy:791
     old "Cum on her tits"
     new "Pancut di teteknya"
-
