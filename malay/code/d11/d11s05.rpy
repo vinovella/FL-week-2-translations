@@ -70,7 +70,7 @@ translate malay d11s05_6ce2c0c1:
 translate malay d11s05_c0d03cc7:
 
     # mct "Wait, these are all the pics that I took for Fetish Locator..."
-    mct Tunggu, ini semua gambar yang aku ambil untuk Fetish Locator..."
+    mct "Tunggu, ini semua gambar yang aku ambil untuk Fetish Locator..."
 
 # game/code/d11/d11s05.rpy:125
 translate malay d11s05_871d3cfb:
@@ -357,4 +357,3 @@ translate malay strings:
     # game/code/d11/d11s05.rpy:158
     old "Do it. Find out the truth"
     new "Lakukannya. Ketahui kebenarannya"
-
