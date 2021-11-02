@@ -346,7 +346,7 @@ translate malay d12s03_54dca20f:
 translate malay d12s03_3cc4d8a4:
 
     # jdg "You were wearing a mask. I can't be 100%% certain that you are the same person."
-    jdg "Kau memakai topeng. Aku tak 100% pasti bahawa kau adalah orang yang sama."
+    jdg "Kau memakai topeng. Aku tak 100%% pasti bahawa kau adalah orang yang sama."
 
 # game/code/d12/extended/d12s03.rpy:217
 translate malay d12s03_0a2b5735:
@@ -556,7 +556,7 @@ translate malay d12s03_fake_rape_cb70afb1:
 translate malay d12s03_fake_rape_5fcf4eb5:
 
     # jdg "So anything that happens here today - no one will hear it, no one will see it, and no one will interrupt us."
-    jdg Jadi apa-apa yang berlaku di sini hari ini - tak ada siapa yang akan mendengarnya, tak ada siapa yang akan melihatnya, dan tak ada siapa yang akan mengganggu kita."
+    jdg "Jadi apa-apa yang berlaku di sini hari ini - tak ada siapa yang akan mendengarnya, tak ada siapa yang akan melihatnya, dan tak ada siapa yang akan mengganggu kita."
 
 # game/code/d12/extended/d12s03.rpy:344
 translate malay d12s03_fake_rape_a2e862a6:
@@ -1309,4 +1309,3 @@ translate malay strings:
     # game/code/d12/extended/d12s03.rpy:740
     old "Cum in her Mouth"
     new "Pancut dalam Mulutnya"
-
