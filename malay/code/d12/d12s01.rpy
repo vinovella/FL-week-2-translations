@@ -1090,7 +1090,7 @@ translate malay d12s01_arj_mouth_b29c3bbc:
 translate malay d12s01_arj_mouth_64fc2003:
 
     # mc "ATM For The Win!"
-    mc "\"ATM For The Win!"\"
+    mc "\"ATM For The Win!\""
 
 # game/code/d12/d12s01.rpy:701
 translate malay d12s01_arj_mouth_20f60587:
@@ -1609,4 +1609,3 @@ translate malay strings:
     # game/code/d12/d12s01.rpy:852
     old "No photos"
     new "Tak ada gambar"
-

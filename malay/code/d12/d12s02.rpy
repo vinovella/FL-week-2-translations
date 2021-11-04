@@ -3,890 +3,890 @@
 # game/code/d12/d12s02.rpy:20
 translate malay d12s02_6690416a:
 
-# "Approximately 30 minutes later"
-"30 minit kemudian"
+    # "Approximately 30 minutes later"
+    "30 minit kemudian"
 
 # game/code/d12/d12s02.rpy:34
 translate malay d12s02_4618f722:
 
-# mct "Guess she's not here yet."
-mct "Rasanya dia belum sampai lagi."
+    # mct "Guess she's not here yet."
+    mct "Rasanya dia belum sampai lagi."
 
 # game/code/d12/d12s02.rpy:38
 translate malay d12s02_382a8b6a:
 
-# mct "I'll just wait then."
-mct "Aku akan tunggu sahaja."
+    # mct "I'll just wait then."
+    mct "Aku akan tunggu sahaja."
 
 # game/code/d12/d12s02.rpy:45
 translate malay d12s02_c57a25d0:
 
-# mct "Caller Unknown?"
-mct "Pemanggil Tak Diketahui?"
+    # mct "Caller Unknown?"
+    mct "Pemanggil Tak Diketahui?"
 
 # game/code/d12/d12s02.rpy:48
 translate malay d12s02_4e85cb4d:
 
-# mc "Hello?"
-mc "Hello?"
+    # mc "Hello?"
+    mc "Hello?"
 
 # game/code/d12/d12s02.rpy:49
 translate malay d12s02_875c4a29:
 
-# "Mysterious Woman" "Hello, [mcname]."
-"Perempuan Misteri" "Hello, [mcname]."
+    # "Mysterious Woman" "Hello, [mcname]."
+    "Perempuan Misteri" "Hello, [mcname]."
 
 # game/code/d12/d12s02.rpy:52
 translate malay d12s02_3accf656:
 
-# mc "Yes? Who is this?"
-mc "Ya? Ni siapa?"
+    # mc "Yes? Who is this?"
+    mc "Ya? Ni siapa?"
 
 # game/code/d12/d12s02.rpy:53
 translate malay d12s02_e19d21b2:
 
-# "Mysterious Woman" "After what you did to me, you don't even remember me?"
-"Perempuan Misteri" "Selepas apa yang kau buat pada aku, kau langsung tak ingat aku?"
+    # "Mysterious Woman" "After what you did to me, you don't even remember me?"
+    "Perempuan Misteri" "Selepas apa yang kau buat pada aku, kau langsung tak ingat aku?"
 
 # game/code/d12/d12s02.rpy:55
 translate malay d12s02_414f63c3:
 
-# mc "Who are you?"
-mc "Siapa kau?"
+    # mc "Who are you?"
+    mc "Siapa kau?"
 
 # game/code/d12/d12s02.rpy:56
 translate malay d12s02_abe22177:
 
-# "Mysterious Woman" "Maybe you remember having your way with a certain helpless woman a couple of days back?"
-"Perempuan Misteri" "Mungkin kau masih ingat dengan seorang wanita yang tak berdaya beberapa hari lepas?"
+    # "Mysterious Woman" "Maybe you remember having your way with a certain helpless woman a couple of days back?"
+    "Perempuan Misteri" "Mungkin kau masih ingat dengan seorang wanita yang tak berdaya beberapa hari lepas?"
 
 # game/code/d12/d12s02.rpy:58
 translate malay d12s02_c832bcf4:
 
-# "Mysterious Woman" "Maybe that jogged your mind a little?"
-"Perempuan Misteri" "Mungkin kau dah ingat?"
+    # "Mysterious Woman" "Maybe that jogged your mind a little?"
+    "Perempuan Misteri" "Mungkin kau dah ingat?"
 
 # game/code/d12/d12s02.rpy:61
 translate malay d12s02_080d9677:
 
-# mc "How...how did you...?"
-mc "Macam... {w}Macam mana kau...?"
+    # mc "How...how did you...?"
+    mc "Macam... {w}Macam mana kau...?"
 
 # game/code/d12/d12s02.rpy:63
 translate malay d12s02_0b4fc516:
 
-# "Mysterious Woman" "Oh please, don't give me that bullshit. Do you honestly think that I don't have my ways to find somebody if I wanted to?"
-"Perempuan Misteri" "Oh tolong, jangan cakap kosong. Kau betul-betul fikir yang aku tak ada cara untuk cari seseorang jika aku nak?"
+    # "Mysterious Woman" "Oh please, don't give me that bullshit. Do you honestly think that I don't have my ways to find somebody if I wanted to?"
+    "Perempuan Misteri" "Oh tolong, jangan cakap kosong. Kau betul-betul fikir yang aku tak ada cara untuk cari seseorang jika aku nak?"
 
 # game/code/d12/d12s02.rpy:64
 translate malay d12s02_281c8952:
 
-# "Mysterious Woman" "Anyway. You don't have to worry about anything. Well, not if you do as I say."
-"Perempuan Misteri" "Apa-apa pun, kau tak perlu risau tentang apa-apa. Tak jika kau lakukan seperti yang aku katakan."
+    # "Mysterious Woman" "Anyway. You don't have to worry about anything. Well, not if you do as I say."
+    "Perempuan Misteri" "Apa-apa pun, kau tak perlu risau tentang apa-apa. Tak jika kau lakukan seperti yang aku katakan."
 
 # game/code/d12/d12s02.rpy:66
 translate malay d12s02_d5023dd3:
 
-# "Mysterious Woman" "Our...\"mutual friend\" gave me your number."
-"Perempuan Misteri" "\"kawan bersama\" kita... berikan aku nombor kau."
+    # "Mysterious Woman" "Our...\"mutual friend\" gave me your number."
+    "Perempuan Misteri" "\"kawan bersama\" kita... berikan aku nombor kau."
 
 # game/code/d12/d12s02.rpy:69
 translate malay d12s02_8d8b28fe:
 
-# mct "Samiya!"
-mct "Samiya!"
+    # mct "Samiya!"
+    mct "Samiya!"
 
 # game/code/d12/d12s02.rpy:70
 translate malay d12s02_12ed7df1:
 
-# "Mysterious Woman" "Anyway. You don't have to worry about anything."
-"Perempuan Misteri" "Apa-apa pun, kau tak perlu risau tentang apa-apa."
+    # "Mysterious Woman" "Anyway. You don't have to worry about anything."
+    "Perempuan Misteri" "Apa-apa pun, kau tak perlu risau tentang apa-apa."
 
 # game/code/d12/d12s02.rpy:72
 translate malay d12s02_a201c0d9:
 
-# "Mysterious Woman" "As soon as possible. I want you to find me again. Preferably when I'm presiding over a case."
-"Perempuan Misteri" "Secepat yang mungkin. Aku nak kau cari aku semula. Seelok-eloknya apabila aku mengetuai sesuatu kes."
+    # "Mysterious Woman" "As soon as possible. I want you to find me again. Preferably when I'm presiding over a case."
+    "Perempuan Misteri" "Secepat yang mungkin. Aku nak kau cari aku semula. Seelok-eloknya apabila aku mengetuai sesuatu kes."
 
 # game/code/d12/d12s02.rpy:76
 translate malay d12s02_0b5f9a57:
 
-# mc "What? How the hell am I supposed to do that!?"
-mc "Apa? Macam mana aku nak buat macam tu!?"
+    # mc "What? How the hell am I supposed to do that!?"
+    mc "Apa? Macam mana aku nak buat macam tu!?"
 
 # game/code/d12/d12s02.rpy:78
 translate malay d12s02_bc38c889:
 
-# mc "Case? What? How the hell am I supposed to do that!?"
-mc "Kes? Apa? Macam mana aku nak buat macam tu!?"
+    # mc "Case? What? How the hell am I supposed to do that!?"
+    mc "Kes? Apa? Macam mana aku nak buat macam tu!?"
 
 # game/code/d12/d12s02.rpy:81
 translate malay d12s02_389fe0a5:
 
-# "Mysterious Woman" "Come to the courthouse. I'm sure you can find your way around."
-"Perempuan Misteri" "Datang ke mahkamah. Aku pasti kau boleh cari jalan."
+    # "Mysterious Woman" "Come to the courthouse. I'm sure you can find your way around."
+    "Perempuan Misteri" "Datang ke mahkamah. Aku pasti kau boleh cari jalan."
 
 # game/code/d12/d12s02.rpy:82
 translate malay d12s02_9ce9007a:
 
-# "Mysterious Woman" "You better show up if you don't want to go in for a long, long time what you did."
-"Perempuan Misteri" "Lebih baik anda muncul jika kau tak nak masuk ke dalam untuk masa yang lama."
+    # "Mysterious Woman" "You better show up if you don't want to go in for a long, long time what you did."
+    "Perempuan Misteri" "Lebih baik anda muncul jika kau tak nak masuk ke dalam untuk masa yang lama."
 
 # game/code/d12/d12s02.rpy:84
 translate malay d12s02_5fe1c124:
 
-# "Mysterious Woman" "Oh, I'm sure you have your ways."
-"Perempuan Misteri" "Oh, aku pasti kau ada cara."
+    # "Mysterious Woman" "Oh, I'm sure you have your ways."
+    "Perempuan Misteri" "Oh, aku pasti kau ada cara."
 
 # game/code/d12/d12s02.rpy:85
 translate malay d12s02_18a8ed6b:
 
-# "Mysterious Woman" "Come find me, I'll be waiting."
-"Perempuan Misteri" "Mari cari aku, aku akan tunggu."
+    # "Mysterious Woman" "Come find me, I'll be waiting."
+    "Perempuan Misteri" "Mari cari aku, aku akan tunggu."
 
 # game/code/d12/d12s02.rpy:89
 translate malay d12s02_13ea9606:
 
-# mc "Hey—!"
-mc "Hey—!"
+    # mc "Hey—!"
+    mc "Hey—!"
 
 # game/code/d12/d12s02.rpy:94
 translate malay d12s02_29bbc8c3:
 
-# mct "Oh God, what did I do?"
-mct "Oh tidak, apa yang aku dah buat?"
+    # mct "Oh God, what did I do?"
+    mct "Oh tidak, apa yang aku dah buat?"
 
 # game/code/d12/d12s02.rpy:98
 translate malay d12s02_3ba76bed:
 
-# mct "Guess I'll have to pay the courthouse another visit..."
-mct "Rasanya aku perlu melawat mahkamah sekali lagi..."
+    # mct "Guess I'll have to pay the courthouse another visit..."
+    mct "Rasanya aku perlu melawat mahkamah sekali lagi..."
 
 # game/code/d12/d12s02.rpy:100
 translate malay d12s02_0e4e13a8:
 
-# mct "Guess I'll have to pay the courthouse visit..."
-mct "Rasanya aku perlu melawat mahkamah..."
+    # mct "Guess I'll have to pay the courthouse visit..."
+    mct "Rasanya aku perlu melawat mahkamah..."
 
 # game/code/d12/d12s02.rpy:104
 translate malay d12s02_63e987e9:
 
-# mct "*Sigh* I don't need this right now. I need to focus on Hana first."
-mct "*Mengeluh* Aku tak perlukan ini sekarang. Aku perlu fokus pada Hana dulu."
+    # mct "*Sigh* I don't need this right now. I need to focus on Hana first."
+    mct "*Mengeluh* Aku tak perlukan ini sekarang. Aku perlu fokus pada Hana dulu."
 
 # game/code/d12/d12s02.rpy:109
 translate malay d12s02_0ba37ca7:
 
-# mct "There she is."
-mct "Itulah dia."
+    # mct "There she is."
+    mct "Itulah dia."
 
 # game/code/d12/d12s02.rpy:112
 translate malay d12s02_29c12e15:
 
-# hr "Hey [mcname]."
-hr "Hey [mcname]."
+    # hr "Hey [mcname]."
+    hr "Hey [mcname]."
 
 # game/code/d12/d12s02.rpy:114
 translate malay d12s02_6eff7f44:
 
-# mc "Hi Hana."
-mc "Hi Hana."
+    # mc "Hi Hana."
+    mc "Hi Hana."
 
 # game/code/d12/d12s02.rpy:117
 translate malay d12s02_957895e4:
 
-# hr "Sorry I was a bit late. Traffic."
-hr "Maaf aku agak lewat. Trafik."
+    # hr "Sorry I was a bit late. Traffic."
+    hr "Maaf aku agak lewat. Trafik."
 
 # game/code/d12/d12s02.rpy:119
 translate malay d12s02_a6cbcc62:
 
-# mc "It's alright. It wasn't too late."
-mc "Tak apa. Masih belum terlambat."
+    # mc "It's alright. It wasn't too late."
+    mc "Tak apa. Masih belum terlambat."
 
 # game/code/d12/d12s02.rpy:122
 translate malay d12s02_fc011c2a:
 
-# hr "So..."
-hr "Jadi..."
+    # hr "So..."
+    hr "Jadi..."
 
 # game/code/d12/d12s02.rpy:128
 translate malay d12s02_418d1483:
 
-# "Pete?"
-"Pete?"
+    # "Pete?"
+    "Pete?"
 
 # game/code/d12/d12s02.rpy:131
 translate malay d12s02_3e1f15cc:
 
-# mc "It's nice meeting you again."
-mc "Seronok jumpa kau lagi ."
+    # mc "It's nice meeting you again."
+    mc "Seronok jumpa kau lagi ."
 
 # game/code/d12/d12s02.rpy:134
 translate malay d12s02_64867a1e:
 
-# hr "Same here [mcname]."
-hr "Sama juga [mcname]."
+    # hr "Same here [mcname]."
+    hr "Sama juga [mcname]."
 
 # game/code/d12/d12s02.rpy:137
 translate malay d12s02_a525eb25:
 
-# mct "Yes, Pete."
-mct "Ya, Pete."
+    # mct "Yes, Pete."
+    mct "Ya, Pete."
 
 # game/code/d12/d12s02.rpy:140
 translate malay d12s02_5bd4c850:
 
-# mc "I wanted to set something up earlier, but uh, it took a bit to drum up enough confidence I guess."
-mc "Aku nak sediakan sesuatu lebih awal, tapi uh, aku rasa aku ambil sedikit masa untuk dapatkan keyakinan yang cukup."
+    # mc "I wanted to set something up earlier, but uh, it took a bit to drum up enough confidence I guess."
+    mc "Aku nak sediakan sesuatu lebih awal, tapi uh, aku rasa aku ambil sedikit masa untuk dapatkan keyakinan yang cukup."
 
 # game/code/d12/d12s02.rpy:143
 translate malay d12s02_6d4f429e:
 
-# hr "Oh? You seemed confident enough at the party."
-hr "Oh? Kau nampak yakin pada parti itu."
+    # hr "Oh? You seemed confident enough at the party."
+    hr "Oh? Kau nampak yakin pada parti itu."
 
 # game/code/d12/d12s02.rpy:148
 translate malay d12s02_69f02c1b:
 
-# hr "So, what happened?"
-hr "Jadi, apa yang berlaku?"
+    # hr "So, what happened?"
+    hr "Jadi, apa yang berlaku?"
 
 # game/code/d12/d12s02.rpy:150
 translate malay d12s02_8562fd08:
 
-# "Password?"
-"Kata laluan?"
+    # "Password?"
+    "Kata laluan?"
 
 # game/code/d12/d12s02.rpy:153
 translate malay d12s02_f141243b:
 
-# mct "One worked."
-mct "Dapat satu."
+    # mct "One worked."
+    mct "Dapat satu."
 
 # game/code/d12/d12s02.rpy:156
 translate malay d12s02_b4d4c4e5:
 
-# mc "Heh, alcohol does that to you."
-mc "Heh, alkohol buat aku begitu."
+    # mc "Heh, alcohol does that to you."
+    mc "Heh, alkohol buat aku begitu."
 
 # game/code/d12/d12s02.rpy:159
 translate malay d12s02_7f8b786c:
 
-# mc "Speaking of which, what should we get?"
-mc "Apa yang patut kita minta?"
+    # mc "Speaking of which, what should we get?"
+    mc "Apa yang patut kita minta?"
 
 # game/code/d12/d12s02.rpy:162
 translate malay d12s02_c0636618:
 
-# mc "Um... Excuse me!"
-mc "Um... Maafkan saya!"
+    # mc "Um... Excuse me!"
+    mc "Um... Maafkan saya!"
 
 # game/code/d12/d12s02.rpy:165
 translate malay d12s02_ebce6a45:
 
-# hr "A little too early to get buzzed I think. I still have work to do sadly. I'll take a cocktail."
-hr "Saya masih ada kerja yang perlu dilakukan. Saya akan mengambil koktel."
+    # hr "A little too early to get buzzed I think. I still have work to do sadly. I'll take a cocktail."
+    hr "Saya masih ada kerja yang perlu dilakukan. Saya akan mengambil koktel."
 
 # game/code/d12/d12s02.rpy:168
 translate malay d12s02_13893bc7:
 
-# mc "Coke for me then."
-mc "Coke untuk saya."
+    # mc "Coke for me then."
+    mc "Coke untuk saya."
 
 # game/code/d12/d12s02.rpy:171
 translate malay d12s02_caf3ce28:
 
-# hr "Can you suggest us something good to eat?"
-hr "Bolehkah awak cadangkan kami sesuatu yang baik untuk dimakan?"
+    # hr "Can you suggest us something good to eat?"
+    hr "Bolehkah awak cadangkan kami sesuatu yang baik untuk dimakan?"
 
 # game/code/d12/d12s02.rpy:173
 translate malay d12s02_1e300456:
 
-# "Waitress" "Today's special seems to be popular."
-"Pelayan" "Istimewa hari ini nampaknya popular."
+    # "Waitress" "Today's special seems to be popular."
+    "Pelayan" "Istimewa hari ini nampaknya popular."
 
 # game/code/d12/d12s02.rpy:176
 translate malay d12s02_21f218e2:
 
-# hr "Alright. Let's go with that then."
-hr "Baik. Kami mahu yang itu."
+    # hr "Alright. Let's go with that then."
+    hr "Baik. Kami mahu yang itu."
 
 # game/code/d12/d12s02.rpy:178
 translate malay d12s02_97f9cb19:
 
-# "Waitress" "Great."
-"Pelayan" "Baguslah."
+    # "Waitress" "Great."
+    "Pelayan" "Baguslah."
 
 # game/code/d12/d12s02.rpy:181
 translate malay d12s02_2b948d27:
 
-# hr "So tell me, what have you been up to?"
-hr "Jadi beritahu aku, apa yang kau buat?"
+    # hr "So tell me, what have you been up to?"
+    hr "Jadi beritahu aku, apa yang kau buat?"
 
 # game/code/d12/d12s02.rpy:183
 translate malay d12s02_62973e69:
 
-# hr "We barely got to talk last time."
-hr "Kita hampir tak sempat bercakap kali terakhir."
+    # hr "We barely got to talk last time."
+    hr "Kita hampir tak sempat bercakap kali terakhir."
 
 # game/code/d12/d12s02.rpy:185
 translate malay d12s02_b91db70d:
 
-# "Yes! So?"
-"Ya! Jadi?"
+    # "Yes! So?"
+    "Ya! Jadi?"
 
 # game/code/d12/d12s02.rpy:188
 translate malay d12s02_eb012abc:
 
-# mct "He just bought FL pics. Nothing more."
-mct "Dia hanya beli gambar FL sahaja."
+    # mct "He just bought FL pics. Nothing more."
+    mct "Dia hanya beli gambar FL sahaja."
 
 # game/code/d12/d12s02.rpy:192
 translate malay d12s02_1910ad44:
 
-# mc "Same ol', same ol'. Just recently went to another one of those parties a couple of days back."
-mc "Sama juga. Baru-baru ini pergi ke satu lagi parti itu beberapa hari lalu."
+    # mc "Same ol', same ol'. Just recently went to another one of those parties a couple of days back."
+    mc "Sama juga. Baru-baru ini pergi ke satu lagi parti itu beberapa hari lalu."
 
 # game/code/d12/d12s02.rpy:195
 translate malay d12s02_685d1647:
 
-# hr "Oh, yeah. I heard about that."
-hr "Oh, yeah. Aku ada dengar tentang itu."
+    # hr "Oh, yeah. I heard about that."
+    hr "Oh, yeah. Aku ada dengar tentang itu."
 
 # game/code/d12/d12s02.rpy:200
 translate malay d12s02_3eb34946:
 
-# hr "Wasn't feeling too good that day, so I didn't go."
-hr "Aku tak berasa sangat baik hari itu, jadi aku tak pergi."
+    # hr "Wasn't feeling too good that day, so I didn't go."
+    hr "Aku tak berasa sangat baik hari itu, jadi aku tak pergi."
 
 # game/code/d12/d12s02.rpy:203
 translate malay d12s02_e8bc5252:
 
-# mc "Yeah... Was kinda hoping that I'd run into you."
-mc "Yeah... Aku agak berharap aku akan terserempak dengan kau."
+    # mc "Yeah... Was kinda hoping that I'd run into you."
+    mc "Yeah... Aku agak berharap aku akan terserempak dengan kau."
 
 # game/code/d12/d12s02.rpy:205
 translate malay d12s02_ab314285:
 
-# "Nothing? Fuck. Maybe he's smarter than I thought. Did you look everywhere?"
-"Tak ada apa-apa? Sial. Mungkin dia lebih bijak daripada yang aku sangkakan. Kau ada tengok di mana-mana?"
+    # "Nothing? Fuck. Maybe he's smarter than I thought. Did you look everywhere?"
+    "Tak ada apa-apa? Sial. Mungkin dia lebih bijak daripada yang aku sangkakan. Kau ada tengok di mana-mana?"
 
 # game/code/d12/d12s02.rpy:212
 translate malay d12s02_18e1cfec:
 
-# mct "Yes. Tried to delete his account. He was put into the program."
-mct "Ya. Cuba memadam akaunnya. Dia dimasukkan ke dalam program itu."
+    # mct "Yes. Tried to delete his account. He was put into the program."
+    mct "Ya. Cuba memadam akaunnya. Dia dimasukkan ke dalam program itu."
 
 # game/code/d12/d12s02.rpy:216
 translate malay d12s02_fc46eac6:
 
-# mct "Positive."
-mct "Positif."
+    # mct "Positive."
+    mct "Positif."
 
 # game/code/d12/d12s02.rpy:219
 translate malay d12s02_fc46eac6_1:
 
-# mct "Positive."
-mct "Positif."
+    # mct "Positive."
+    mct "Positif."
 
 # game/code/d12/d12s02.rpy:224
 translate malay d12s02_40d409a4:
 
-# mc "But I'm pretty sure I ran into your sister there. That was pretty fun."
-mc "Tapi aku pasti aku terserempak dengan adik kau di sana. Itu cukup menyeronokkan."
+    # mc "But I'm pretty sure I ran into your sister there. That was pretty fun."
+    mc "Tapi aku pasti aku terserempak dengan adik kau di sana. Itu cukup menyeronokkan."
 
 # game/code/d12/d12s02.rpy:226
 translate malay d12s02_ba132489:
 
-# mc "But I'm pretty sure I ran into your girlfriend there. That was pretty fun."
-mc "Tapi aku pasti aku terserempak dengan teman perempuan kau di sana. Itu cukup menyeronokkan."
+    # mc "But I'm pretty sure I ran into your girlfriend there. That was pretty fun."
+    mc "Tapi aku pasti aku terserempak dengan teman perempuan kau di sana. Itu cukup menyeronokkan."
 
 # game/code/d12/d12s02.rpy:230
 translate malay d12s02_fd92423d:
 
-# hr "Oh yeah. She told me about that, I think."
-hr "Oh yeah. Dia beritahu aku tentang itu, aku rasa."
+    # hr "Oh yeah. She told me about that, I think."
+    hr "Oh yeah. Dia beritahu aku tentang itu, aku rasa."
 
 # game/code/d12/d12s02.rpy:236
 translate malay d12s02_e166535d:
 
-# hr "So you're the knight in shining armor that came to her rescue?"
-hr "Jadi kau adalah kesatria dalam perisai bersinar yang datang untuk menyelamatkannya?"
+    # hr "So you're the knight in shining armor that came to her rescue?"
+    hr "Jadi kau adalah kesatria dalam perisai bersinar yang datang untuk menyelamatkannya?"
 
 # game/code/d12/d12s02.rpy:239
 translate malay d12s02_687b8b66:
 
-# mc "Your and/or her words, not mine."
-mc "Kata-kata kaun/atau dia, bukan kata-kata aku."
+    # mc "Your and/or her words, not mine."
+    mc "Kata-kata kaun/atau dia, bukan kata-kata aku."
 
 # game/code/d12/d12s02.rpy:242
 translate malay d12s02_af5dc8a8:
 
-# hr "Heh, thank you for looking after her."
-hr "Heh, terima kasih kerana jaga dia."
+    # hr "Heh, thank you for looking after her."
+    hr "Heh, terima kasih kerana jaga dia."
 
 # game/code/d12/d12s02.rpy:244
 translate malay d12s02_168e5abf:
 
-# hr "She can be a hard ass at times, but I know she's thankful as well."
-hr "Dia boleh jadi kasar, tapi aku tahu dia juga bersyukur."
+    # hr "She can be a hard ass at times, but I know she's thankful as well."
+    hr "Dia boleh jadi kasar, tapi aku tahu dia juga bersyukur."
 
 # game/code/d12/d12s02.rpy:247
 translate malay d12s02_ca140a85:
 
-# mc "Don't worry about it. It was nothing."
-mc "Jangan risau. Tak ada apa-apa."
+    # mc "Don't worry about it. It was nothing."
+    mc "Jangan risau. Tak ada apa-apa."
 
 # game/code/d12/d12s02.rpy:249
 translate malay d12s02_40daa0ca:
 
-# hr "I knew I could trust you."
-hr "Aku tahu aku boleh percayakan kau."﻿# TODO: Translation updated at 2021-07-15 10:22
+    # hr "I knew I could trust you."
+    hr "Aku tahu aku boleh percayakan kau."
 
 # game/code/d12/d12s02.rpy:20
 translate malay d12s02_6690416a:
 
-# "Approximately 30 minutes later"
-"30 minit kemudian"
+    # "Approximately 30 minutes later"
+    "30 minit kemudian"
 
 # game/code/d12/d12s02.rpy:34
 translate malay d12s02_4618f722:
 
-# mct "Guess she's not here yet."
-mct "Rasanya dia belum sampai lagi."
+    # mct "Guess she's not here yet."
+    mct "Rasanya dia belum sampai lagi."
 
 # game/code/d12/d12s02.rpy:38
 translate malay d12s02_382a8b6a:
 
-# mct "I'll just wait then."
-mct "Aku akan tunggu sahaja."
+    # mct "I'll just wait then."
+    mct "Aku akan tunggu sahaja."
 
 # game/code/d12/d12s02.rpy:45
 translate malay d12s02_c57a25d0:
 
-# mct "Caller Unknown?"
-mct "Pemanggil Tak Diketahui?"
+    # mct "Caller Unknown?"
+    mct "Pemanggil Tak Diketahui?"
 
 # game/code/d12/d12s02.rpy:48
 translate malay d12s02_4e85cb4d:
 
-# mc "Hello?"
-mc "Hello?"
+    # mc "Hello?"
+    mc "Hello?"
 
 # game/code/d12/d12s02.rpy:49
 translate malay d12s02_875c4a29:
 
-# "Mysterious Woman" "Hello, [mcname]."
-"Perempuan Misteri" "Hello, [mcname]."
+    # "Mysterious Woman" "Hello, [mcname]."
+    "Perempuan Misteri" "Hello, [mcname]."
 
 # game/code/d12/d12s02.rpy:52
 translate malay d12s02_3accf656:
 
-# mc "Yes? Who is this?"
-mc "Ya? Ni siapa?"
+    # mc "Yes? Who is this?"
+    mc "Ya? Ni siapa?"
 
 # game/code/d12/d12s02.rpy:53
 translate malay d12s02_e19d21b2:
 
-# "Mysterious Woman" "After what you did to me, you don't even remember me?"
-"Perempuan Misteri" "Selepas apa yang kau buat pada aku, kau langsung tak ingat aku?"
+    # "Mysterious Woman" "After what you did to me, you don't even remember me?"
+    "Perempuan Misteri" "Selepas apa yang kau buat pada aku, kau langsung tak ingat aku?"
 
 # game/code/d12/d12s02.rpy:55
 translate malay d12s02_414f63c3:
 
-# mc "Who are you?"
-mc "Siapa kau?"
+    # mc "Who are you?"
+    mc "Siapa kau?"
 
 # game/code/d12/d12s02.rpy:56
 translate malay d12s02_abe22177:
 
-# "Mysterious Woman" "Maybe you remember having your way with a certain helpless woman a couple of days back?"
-"Perempuan Misteri" "Mungkin kau masih ingat dengan seorang wanita yang tak berdaya beberapa hari lepas?"
+    # "Mysterious Woman" "Maybe you remember having your way with a certain helpless woman a couple of days back?"
+    "Perempuan Misteri" "Mungkin kau masih ingat dengan seorang wanita yang tak berdaya beberapa hari lepas?"
 
 # game/code/d12/d12s02.rpy:58
 translate malay d12s02_c832bcf4:
 
-# "Mysterious Woman" "Maybe that jogged your mind a little?"
-"Perempuan Misteri" "Mungkin kau dah ingat?"
+    # "Mysterious Woman" "Maybe that jogged your mind a little?"
+    "Perempuan Misteri" "Mungkin kau dah ingat?"
 
 # game/code/d12/d12s02.rpy:61
 translate malay d12s02_080d9677:
 
-# mc "How...how did you...?"
-mc "Macam... {w}Macam mana kau...?"
+    # mc "How...how did you...?"
+    mc "Macam... {w}Macam mana kau...?"
 
 # game/code/d12/d12s02.rpy:63
 translate malay d12s02_0b4fc516:
 
-# "Mysterious Woman" "Oh please, don't give me that bullshit. Do you honestly think that I don't have my ways to find somebody if I wanted to?"
-"Perempuan Misteri" "Oh tolong, jangan cakap kosong. Kau betul-betul fikir yang aku tak ada cara untuk cari seseorang jika aku nak?"
+    # "Mysterious Woman" "Oh please, don't give me that bullshit. Do you honestly think that I don't have my ways to find somebody if I wanted to?"
+    "Perempuan Misteri" "Oh tolong, jangan cakap kosong. Kau betul-betul fikir yang aku tak ada cara untuk cari seseorang jika aku nak?"
 
 # game/code/d12/d12s02.rpy:64
 translate malay d12s02_281c8952:
 
-# "Mysterious Woman" "Anyway. You don't have to worry about anything. Well, not if you do as I say."
-"Perempuan Misteri" "Apa-apa pun, kau tak perlu risau tentang apa-apa. Tak jika kau lakukan seperti yang aku katakan."
+    # "Mysterious Woman" "Anyway. You don't have to worry about anything. Well, not if you do as I say."
+    "Perempuan Misteri" "Apa-apa pun, kau tak perlu risau tentang apa-apa. Tak jika kau lakukan seperti yang aku katakan."
 
 # game/code/d12/d12s02.rpy:66
 translate malay d12s02_d5023dd3:
 
-# "Mysterious Woman" "Our...\"mutual friend\" gave me your number."
-"Perempuan Misteri" "\"kawan bersama\" kita... berikan aku nombor kau."
+    # "Mysterious Woman" "Our...\"mutual friend\" gave me your number."
+    "Perempuan Misteri" "\"kawan bersama\" kita... berikan aku nombor kau."
 
 # game/code/d12/d12s02.rpy:69
 translate malay d12s02_8d8b28fe:
 
-# mct "Samiya!"
-mct "Samiya!"
+    # mct "Samiya!"
+    mct "Samiya!"
 
 # game/code/d12/d12s02.rpy:70
 translate malay d12s02_12ed7df1:
 
-# "Mysterious Woman" "Anyway. You don't have to worry about anything."
-"Perempuan Misteri" "Apa-apa pun, kau tak perlu risau tentang apa-apa."
+    # "Mysterious Woman" "Anyway. You don't have to worry about anything."
+    "Perempuan Misteri" "Apa-apa pun, kau tak perlu risau tentang apa-apa."
 
 # game/code/d12/d12s02.rpy:72
 translate malay d12s02_a201c0d9:
 
-# "Mysterious Woman" "As soon as possible. I want you to find me again. Preferably when I'm presiding over a case."
-"Perempuan Misteri" "Secepat yang mungkin. Aku nak kau cari aku semula. Seelok-eloknya apabila aku mengetuai sesuatu kes."
+    # "Mysterious Woman" "As soon as possible. I want you to find me again. Preferably when I'm presiding over a case."
+    "Perempuan Misteri" "Secepat yang mungkin. Aku nak kau cari aku semula. Seelok-eloknya apabila aku mengetuai sesuatu kes."
 
 # game/code/d12/d12s02.rpy:76
 translate malay d12s02_0b5f9a57:
 
-# mc "What? How the hell am I supposed to do that!?"
-mc "Apa? Macam mana aku nak buat macam tu!?"
+    # mc "What? How the hell am I supposed to do that!?"
+    mc "Apa? Macam mana aku nak buat macam tu!?"
 
 # game/code/d12/d12s02.rpy:78
 translate malay d12s02_bc38c889:
 
-# mc "Case? What? How the hell am I supposed to do that!?"
-mc "Kes? Apa? Macam mana aku nak buat macam tu!?"
+    # mc "Case? What? How the hell am I supposed to do that!?"
+    mc "Kes? Apa? Macam mana aku nak buat macam tu!?"
 
 # game/code/d12/d12s02.rpy:81
 translate malay d12s02_389fe0a5:
 
-# "Mysterious Woman" "Come to the courthouse. I'm sure you can find your way around."
-"Perempuan Misteri" "Datang ke mahkamah. Aku pasti kau boleh cari jalan."
+    # "Mysterious Woman" "Come to the courthouse. I'm sure you can find your way around."
+    "Perempuan Misteri" "Datang ke mahkamah. Aku pasti kau boleh cari jalan."
 
 # game/code/d12/d12s02.rpy:82
 translate malay d12s02_9ce9007a:
 
-# "Mysterious Woman" "You better show up if you don't want to go in for a long, long time what you did."
-"Perempuan Misteri" "Lebih baik anda muncul jika kau tak nak masuk ke dalam untuk masa yang lama."
+    # "Mysterious Woman" "You better show up if you don't want to go in for a long, long time what you did."
+    "Perempuan Misteri" "Lebih baik anda muncul jika kau tak nak masuk ke dalam untuk masa yang lama."
 
 # game/code/d12/d12s02.rpy:84
 translate malay d12s02_5fe1c124:
 
-# "Mysterious Woman" "Oh, I'm sure you have your ways."
-"Perempuan Misteri" "Oh, aku pasti kau ada cara."
+    # "Mysterious Woman" "Oh, I'm sure you have your ways."
+    "Perempuan Misteri" "Oh, aku pasti kau ada cara."
 
 # game/code/d12/d12s02.rpy:85
 translate malay d12s02_18a8ed6b:
 
-# "Mysterious Woman" "Come find me, I'll be waiting."
-"Perempuan Misteri" "Mari cari aku, aku akan tunggu."
+    # "Mysterious Woman" "Come find me, I'll be waiting."
+    "Perempuan Misteri" "Mari cari aku, aku akan tunggu."
 
 # game/code/d12/d12s02.rpy:89
 translate malay d12s02_13ea9606:
 
-# mc "Hey—!"
-mc "Hey—!"
+    # mc "Hey—!"
+    mc "Hey—!"
 
 # game/code/d12/d12s02.rpy:94
 translate malay d12s02_29bbc8c3:
 
-# mct "Oh God, what did I do?"
-mct "Oh tidak, apa yang aku dah buat?"
+    # mct "Oh God, what did I do?"
+    mct "Oh tidak, apa yang aku dah buat?"
 
 # game/code/d12/d12s02.rpy:98
 translate malay d12s02_3ba76bed:
 
-# mct "Guess I'll have to pay the courthouse another visit..."
-mct "Rasanya aku perlu melawat mahkamah sekali lagi..."
+    # mct "Guess I'll have to pay the courthouse another visit..."
+    mct "Rasanya aku perlu melawat mahkamah sekali lagi..."
 
 # game/code/d12/d12s02.rpy:100
 translate malay d12s02_0e4e13a8:
 
-# mct "Guess I'll have to pay the courthouse visit..."
-mct "Rasanya aku perlu melawat mahkamah..."
+    # mct "Guess I'll have to pay the courthouse visit..."
+    mct "Rasanya aku perlu melawat mahkamah..."
 
 # game/code/d12/d12s02.rpy:104
 translate malay d12s02_63e987e9:
 
-# mct "*Sigh* I don't need this right now. I need to focus on Hana first."
-mct "*Mengeluh* Aku tak perlukan ini sekarang. Aku perlu fokus pada Hana dulu."
+    # mct "*Sigh* I don't need this right now. I need to focus on Hana first."
+    mct "*Mengeluh* Aku tak perlukan ini sekarang. Aku perlu fokus pada Hana dulu."
 
 # game/code/d12/d12s02.rpy:109
 translate malay d12s02_0ba37ca7:
 
-# mct "There she is."
-mct "Itulah dia."
+    # mct "There she is."
+    mct "Itulah dia."
 
 # game/code/d12/d12s02.rpy:112
 translate malay d12s02_29c12e15:
 
-# hr "Hey [mcname]."
-hr "Hey [mcname]."
+    # hr "Hey [mcname]."
+    hr "Hey [mcname]."
 
 # game/code/d12/d12s02.rpy:114
 translate malay d12s02_6eff7f44:
 
-# mc "Hi Hana."
-mc "Hi Hana."
+    # mc "Hi Hana."
+    mc "Hi Hana."
 
 # game/code/d12/d12s02.rpy:117
 translate malay d12s02_957895e4:
 
-# hr "Sorry I was a bit late. Traffic."
-hr "Maaf aku agak lewat. Trafik."
+    # hr "Sorry I was a bit late. Traffic."
+    hr "Maaf aku agak lewat. Trafik."
 
 # game/code/d12/d12s02.rpy:119
 translate malay d12s02_a6cbcc62:
 
-# mc "It's alright. It wasn't too late."
-mc "Tak apa. Masih belum terlambat."
+    # mc "It's alright. It wasn't too late."
+    mc "Tak apa. Masih belum terlambat."
 
 # game/code/d12/d12s02.rpy:122
 translate malay d12s02_fc011c2a:
 
-# hr "So..."
-hr "Jadi..."
+    # hr "So..."
+    hr "Jadi..."
 
 # game/code/d12/d12s02.rpy:128
 translate malay d12s02_418d1483:
 
-# "Pete?"
-"Pete?"
+    # "Pete?"
+    "Pete?"
 
 # game/code/d12/d12s02.rpy:131
 translate malay d12s02_3e1f15cc:
 
-# mc "It's nice meeting you again."
-mc "Seronok jumpa kau lagi ."
+    # mc "It's nice meeting you again."
+    mc "Seronok jumpa kau lagi ."
 
 # game/code/d12/d12s02.rpy:134
 translate malay d12s02_64867a1e:
 
-# hr "Same here [mcname]."
-hr "Sama juga [mcname]."
+    # hr "Same here [mcname]."
+    hr "Sama juga [mcname]."
 
 # game/code/d12/d12s02.rpy:137
 translate malay d12s02_a525eb25:
 
-# mct "Yes, Pete."
-mct "Ya, Pete."
+    # mct "Yes, Pete."
+    mct "Ya, Pete."
 
 # game/code/d12/d12s02.rpy:140
 translate malay d12s02_5bd4c850:
 
-# mc "I wanted to set something up earlier, but uh, it took a bit to drum up enough confidence I guess."
-mc "Aku nak sediakan sesuatu lebih awal, tapi uh, aku rasa aku ambil sedikit masa untuk dapatkan keyakinan yang cukup."
+    # mc "I wanted to set something up earlier, but uh, it took a bit to drum up enough confidence I guess."
+    mc "Aku nak sediakan sesuatu lebih awal, tapi uh, aku rasa aku ambil sedikit masa untuk dapatkan keyakinan yang cukup."
 
 # game/code/d12/d12s02.rpy:143
 translate malay d12s02_6d4f429e:
 
-# hr "Oh? You seemed confident enough at the party."
-hr "Oh? Kau nampak yakin pada parti itu."
+    # hr "Oh? You seemed confident enough at the party."
+    hr "Oh? Kau nampak yakin pada parti itu."
 
 # game/code/d12/d12s02.rpy:148
 translate malay d12s02_69f02c1b:
 
-# hr "So, what happened?"
-hr "Jadi, apa yang berlaku?"
+    # hr "So, what happened?"
+    hr "Jadi, apa yang berlaku?"
 
 # game/code/d12/d12s02.rpy:150
 translate malay d12s02_8562fd08:
 
-# "Password?"
-"Kata laluan?"
+    # "Password?"
+    "Kata laluan?"
 
 # game/code/d12/d12s02.rpy:153
 translate malay d12s02_f141243b:
 
-# mct "One worked."
-mct "Dapat satu."
+    # mct "One worked."
+    mct "Dapat satu."
 
 # game/code/d12/d12s02.rpy:156
 translate malay d12s02_b4d4c4e5:
 
-# mc "Heh, alcohol does that to you."
-mc "Heh, alkohol buat aku begitu."
+    # mc "Heh, alcohol does that to you."
+    mc "Heh, alkohol buat aku begitu."
 
 # game/code/d12/d12s02.rpy:159
 translate malay d12s02_7f8b786c:
 
-# mc "Speaking of which, what should we get?"
-mc "Apa yang patut kita minta?"
+    # mc "Speaking of which, what should we get?"
+    mc "Apa yang patut kita minta?"
 
 # game/code/d12/d12s02.rpy:162
 translate malay d12s02_c0636618:
 
-# mc "Um... Excuse me!"
-mc "Um... Maafkan saya!"
+    # mc "Um... Excuse me!"
+    mc "Um... Maafkan saya!"
 
 # game/code/d12/d12s02.rpy:165
 translate malay d12s02_ebce6a45:
 
-# hr "A little too early to get buzzed I think. I still have work to do sadly. I'll take a cocktail."
-hr "Saya masih ada kerja yang perlu dilakukan. Saya akan mengambil koktel."
+    # hr "A little too early to get buzzed I think. I still have work to do sadly. I'll take a cocktail."
+    hr "Saya masih ada kerja yang perlu dilakukan. Saya akan mengambil koktel."
 
 # game/code/d12/d12s02.rpy:168
 translate malay d12s02_13893bc7:
 
-# mc "Coke for me then."
-mc "Coke untuk saya."
+    # mc "Coke for me then."
+    mc "Coke untuk saya."
 
 # game/code/d12/d12s02.rpy:171
 translate malay d12s02_caf3ce28:
 
-# hr "Can you suggest us something good to eat?"
-hr "Bolehkah awak cadangkan kami sesuatu yang baik untuk dimakan?"
+    # hr "Can you suggest us something good to eat?"
+    hr "Bolehkah awak cadangkan kami sesuatu yang baik untuk dimakan?"
 
 # game/code/d12/d12s02.rpy:173
 translate malay d12s02_1e300456:
 
-# "Waitress" "Today's special seems to be popular."
-"Pelayan" "Istimewa hari ini nampaknya popular."
+    # "Waitress" "Today's special seems to be popular."
+    "Pelayan" "Istimewa hari ini nampaknya popular."
 
 # game/code/d12/d12s02.rpy:176
 translate malay d12s02_21f218e2:
 
-# hr "Alright. Let's go with that then."
-hr "Baik. Kami mahu yang itu."
+    # hr "Alright. Let's go with that then."
+    hr "Baik. Kami mahu yang itu."
 
 # game/code/d12/d12s02.rpy:178
 translate malay d12s02_97f9cb19:
 
-# "Waitress" "Great."
-"Pelayan" "Baguslah."
+    # "Waitress" "Great."
+    "Pelayan" "Baguslah."
 
 # game/code/d12/d12s02.rpy:181
 translate malay d12s02_2b948d27:
 
-# hr "So tell me, what have you been up to?"
-hr "Jadi beritahu aku, apa yang kau buat?"
+    # hr "So tell me, what have you been up to?"
+    hr "Jadi beritahu aku, apa yang kau buat?"
 
 # game/code/d12/d12s02.rpy:183
 translate malay d12s02_62973e69:
 
-# hr "We barely got to talk last time."
-hr "Kita hampir tak sempat bercakap kali terakhir."
+    # hr "We barely got to talk last time."
+    hr "Kita hampir tak sempat bercakap kali terakhir."
 
 # game/code/d12/d12s02.rpy:185
 translate malay d12s02_b91db70d:
 
-# "Yes! So?"
-"Ya! Jadi?"
+    # "Yes! So?"
+    "Ya! Jadi?"
 
 # game/code/d12/d12s02.rpy:188
 translate malay d12s02_eb012abc:
 
-# mct "He just bought FL pics. Nothing more."
-mct "Dia hanya beli gambar FL sahaja."
+    # mct "He just bought FL pics. Nothing more."
+    mct "Dia hanya beli gambar FL sahaja."
 
 # game/code/d12/d12s02.rpy:192
 translate malay d12s02_1910ad44:
 
-# mc "Same ol', same ol'. Just recently went to another one of those parties a couple of days back."
-mc "Sama juga. Baru-baru ini pergi ke satu lagi parti itu beberapa hari lalu."
+    # mc "Same ol', same ol'. Just recently went to another one of those parties a couple of days back."
+    mc "Sama juga. Baru-baru ini pergi ke satu lagi parti itu beberapa hari lalu."
 
 # game/code/d12/d12s02.rpy:195
 translate malay d12s02_685d1647:
 
-# hr "Oh, yeah. I heard about that."
-hr "Oh, yeah. Aku ada dengar tentang itu."
+    # hr "Oh, yeah. I heard about that."
+    hr "Oh, yeah. Aku ada dengar tentang itu."
 
 # game/code/d12/d12s02.rpy:200
 translate malay d12s02_3eb34946:
 
-# hr "Wasn't feeling too good that day, so I didn't go."
-hr "Aku tak berasa sangat baik hari itu, jadi aku tak pergi."
+    # hr "Wasn't feeling too good that day, so I didn't go."
+    hr "Aku tak berasa sangat baik hari itu, jadi aku tak pergi."
 
 # game/code/d12/d12s02.rpy:203
 translate malay d12s02_e8bc5252:
 
-# mc "Yeah... Was kinda hoping that I'd run into you."
-mc "Yeah... Aku agak berharap aku akan terserempak dengan kau."
+    # mc "Yeah... Was kinda hoping that I'd run into you."
+    mc "Yeah... Aku agak berharap aku akan terserempak dengan kau."
 
 # game/code/d12/d12s02.rpy:205
 translate malay d12s02_ab314285:
 
-# "Nothing? Fuck. Maybe he's smarter than I thought. Did you look everywhere?"
-"Tak ada apa-apa? Sial. Mungkin dia lebih bijak daripada yang aku sangkakan. Kau ada tengok di mana-mana?"
+    # "Nothing? Fuck. Maybe he's smarter than I thought. Did you look everywhere?"
+    "Tak ada apa-apa? Sial. Mungkin dia lebih bijak daripada yang aku sangkakan. Kau ada tengok di mana-mana?"
 
 # game/code/d12/d12s02.rpy:212
 translate malay d12s02_18e1cfec:
 
-# mct "Yes. Tried to delete his account. He was put into the program."
-mct "Ya. Cuba memadam akaunnya. Dia dimasukkan ke dalam program itu."
+    # mct "Yes. Tried to delete his account. He was put into the program."
+    mct "Ya. Cuba memadam akaunnya. Dia dimasukkan ke dalam program itu."
 
 # game/code/d12/d12s02.rpy:216
 translate malay d12s02_fc46eac6:
 
-# mct "Positive."
-mct "Positif."
+    # mct "Positive."
+    mct "Positif."
 
 # game/code/d12/d12s02.rpy:219
 translate malay d12s02_fc46eac6_1:
 
-# mct "Positive."
-mct "Positif."
+    # mct "Positive."
+    mct "Positif."
 
 # game/code/d12/d12s02.rpy:224
 translate malay d12s02_40d409a4:
 
-# mc "But I'm pretty sure I ran into your sister there. That was pretty fun."
-mc "Tapi aku pasti aku terserempak dengan adik kau di sana. Itu cukup menyeronokkan."
+    # mc "But I'm pretty sure I ran into your sister there. That was pretty fun."
+    mc "Tapi aku pasti aku terserempak dengan adik kau di sana. Itu cukup menyeronokkan."
 
 # game/code/d12/d12s02.rpy:226
 translate malay d12s02_ba132489:
 
-# mc "But I'm pretty sure I ran into your girlfriend there. That was pretty fun."
-mc "Tapi aku pasti aku terserempak dengan teman perempuan kau di sana. Itu cukup menyeronokkan."
+    # mc "But I'm pretty sure I ran into your girlfriend there. That was pretty fun."
+    mc "Tapi aku pasti aku terserempak dengan teman perempuan kau di sana. Itu cukup menyeronokkan."
 
 # game/code/d12/d12s02.rpy:230
 translate malay d12s02_fd92423d:
 
-# hr "Oh yeah. She told me about that, I think."
-hr "Oh yeah. Dia beritahu aku tentang itu, aku rasa."
+    # hr "Oh yeah. She told me about that, I think."
+    hr "Oh yeah. Dia beritahu aku tentang itu, aku rasa."
 
 # game/code/d12/d12s02.rpy:236
 translate malay d12s02_e166535d:
 
-# hr "So you're the knight in shining armor that came to her rescue?"
-hr "Jadi kau adalah kesatria dalam perisai bersinar yang datang untuk menyelamatkannya?"
+    # hr "So you're the knight in shining armor that came to her rescue?"
+    hr "Jadi kau adalah kesatria dalam perisai bersinar yang datang untuk menyelamatkannya?"
 
 # game/code/d12/d12s02.rpy:239
 translate malay d12s02_687b8b66:
 
-# mc "Your and/or her words, not mine."
-mc "Kata-kata kaun/atau dia, bukan kata-kata aku."
+    # mc "Your and/or her words, not mine."
+    mc "Kata-kata kaun/atau dia, bukan kata-kata aku."
 
 # game/code/d12/d12s02.rpy:242
 translate malay d12s02_af5dc8a8:
 
-# hr "Heh, thank you for looking after her."
-hr "Heh, terima kasih kerana jaga dia."
+    # hr "Heh, thank you for looking after her."
+    hr "Heh, terima kasih kerana jaga dia."
 
 # game/code/d12/d12s02.rpy:244
 translate malay d12s02_168e5abf:
 
-# hr "She can be a hard ass at times, but I know she's thankful as well."
-hr "Dia boleh jadi kasar, tapi aku tahu dia juga bersyukur."
+    # hr "She can be a hard ass at times, but I know she's thankful as well."
+    hr "Dia boleh jadi kasar, tapi aku tahu dia juga bersyukur."
 
 # game/code/d12/d12s02.rpy:247
 translate malay d12s02_ca140a85:
 
-# mc "Don't worry about it. It was nothing."
-mc "Jangan risau. Tak ada apa-apa."
+    # mc "Don't worry about it. It was nothing."
+    mc "Jangan risau. Tak ada apa-apa."
 
 # game/code/d12/d12s02.rpy:249
 translate malay d12s02_40daa0ca:
 
-# hr "I knew I could trust you."
-hr "Aku tahu aku boleh percayakan kau."
+    # hr "I knew I could trust you."
+    hr "Aku tahu aku boleh percayakan kau."
 
 # game/code/d12/d12s02.rpy:255
 translate malay d12s02_178d0bfb:
