@@ -381,3 +381,27 @@ translate spanish strings:
     # game/code/screens/screens.rpy:1028
     old "Low Memory Mode"
     new "Low Memory Mode"
+
+# TODO: Translation updated at 2021-11-14 23:04
+
+translate spanish strings:
+
+    # game/code/screens/screens.rpy:789
+    old "Game"
+    new "Game"
+
+    # game/code/screens/screens.rpy:791
+    old "Sound Effects"
+    new "Sound Effects"
+
+    # game/code/screens/screens.rpy:793
+    old "Soundtracks"
+    new "Soundtracks"
+
+    # game/code/screens/screens.rpy:795
+    old "Other Sounds"
+    new "Other Sounds"
+
+    # game/code/screens/screens.rpy:796
+    old "Others"
+    new "Others"
