@@ -10,3 +10,11 @@ translate malay strings:
     old "Created by ViNovella\n\nJoin me on Discord {a=https://discord.gg/b6CNu2C}discord.gg/b6CNu2C{/a}\n\nSpecial thanks to: Theo Malt, scrumbles, Simfer, owlkc, JEFF72, FlashNewton, Wycd.Wsyd\n\n"
     new "Dibuat oleh ViNovella\n\nSertai saya di Discord {a=https://discord.gg/b6CNu2C}discord.gg/b6CNu2C{/a}\n\nSegulungan terima kasih kepada: Theo Malt, scrumbles, Simfer, owlkc, JEFF72, FlashNewton, Wycd.Wsyd\n\n"
 
+# TODO: Translation updated at 2021-11-14 23:01
+
+translate malay strings:
+
+    # game/code/options.rpy:33
+    old "Created by ViNovella Games\n\nJoin us on {a=https://discord.gg/b6CNu2C}Discord{/a}"
+    new "Created by ViNovella Games\n\nJoin us on {a=https://discord.gg/b6CNu2C}Discord{/a}"
+
