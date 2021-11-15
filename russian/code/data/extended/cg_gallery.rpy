@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-10-15 09:58
+﻿# TODO: Translation updated at 2021-11-14 14:09
 
 translate russian strings:
 
@@ -266,27 +266,27 @@ translate russian strings:
     old "Day 13: Vanessa"
     new "День 13: Ванесса"
 
-# TODO: Translation updated at 2021-10-25 01:09
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 14: Dream"
+    new "День 14: Сон"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Party 3: Pool Girls"
+    new "Вечеринка 3: Девушки у бассейна"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Party 3: Jessie"
+    new "Вечеринка 3: Джесси"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Party 3: Participants"
+    new "Вечеринка 3: Участники"
+
+# TODO: Translation updated at 2021-11-14 22:43
 
 translate russian strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 12: Lydia - Pool"
-    new "Day 12: Lydia - Pool"
-
-    # game/code/data/extended/cg_gallery.rpy:21
-    old "Day 14: Dream"
-    new "Day 14: Dream"
-
-    # game/code/data/extended/cg_gallery.rpy:21
-    old "Party 3: Pool Girls"
-    new "Party 3: Pool Girls"
-
-    # game/code/data/extended/cg_gallery.rpy:21
-    old "Party 3: Jessie"
-    new "Party 3: Jessie"
-
-    # game/code/data/extended/cg_gallery.rpy:21
-    old "Party 3: Participants"
-    new "Party 3: Participants"
+    new "День 12: Лидия - Бассейн"
 

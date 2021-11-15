@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-10-15 09:58
+﻿# TODO: Translation updated at 2021-11-14 14:09
 
 translate russian strings:
 
@@ -194,63 +194,59 @@ translate russian strings:
     old "Day 13: Stacy"
     new "День 13: Стейси"
 
-# TODO: Translation updated at 2021-10-25 01:09
-
-translate russian strings:
-
     # game/code/data/extended/replay_room.rpy:15
     old "Day 14: AmRose"
-    new "Day 14: AmRose"
+    new "День 14: АмРоуз"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 14: Min and Lydia"
-    new "Day 14: Min and Lydia"
+    new "День 14: Мин и Лидия"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 14: Cynthia"
-    new "Day 14: Cynthia"
+    new "День 14: Синтия"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Play along"
-    new "Play along"
+    new "Подыгрывай"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 14: Polly"
-    new "Day 14: Polly"
+    new "День 14: Полли"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Don't creampie Nora"
-    new "Don't creampie Nora"
+    new "Не кончай в Нору"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 14: Allison"
-    new "Day 14: Allison"
+    new "День 14: Эллисон"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Go with her"
-    new "Go with her"
+    new "Пойти с ней"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 14: Samia"
-    new "Day 14: Samia"
+    new "День 14: Самия"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 14: Oliver"
-    new "Day 14: Oliver"
+    new "День 14: Оливер"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Help him out"
-    new "Help him out"
+    new "Помоги ему"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 14: Jessie Mermaid"
-    new "Day 14: Jessie Mermaid"
+    new "День 14: Русалка Джесси"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 14: Lydia"
-    new "Day 14: Lydia"
+    new "День 14: Лидия"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 14: Stacy"
-    new "Day 14: Stacy"
+    new "День 14: Стейси"
 
