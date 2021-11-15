@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-10-15 09:58
+﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/d12/d12s06.rpy:88
 translate russian d12s06_b479bc74:
@@ -588,265 +588,265 @@ translate russian d12s06_dd_6d23bbd8:
     # dd "It'll be just a bit. The showers are Antarctic at this time anyway."
     dd "Я ненадолго. Душевые кабинки в это время слишком холодные."
 
-# game/code/d12/d12s06.rpy:529
+# game/code/d12/d12s06.rpy:533
 translate russian replay_d12s06_dd_d775b2c5:
 
     # dd "I'm back."
     dd "Я вернулась."
 
-# game/code/d12/d12s06.rpy:537
+# game/code/d12/d12s06.rpy:541
 translate russian replay_d12s06_dd_533d4206:
 
     # mc "Something comfy equals Victoria's Secret model?"
     mc "Что-то удобное из коллекции Victoria's Secret?"
 
-# game/code/d12/d12s06.rpy:539
+# game/code/d12/d12s06.rpy:543
 translate russian replay_d12s06_dd_92fdbaac:
 
     # dd "Comfortable for me is being naked. I'm one of those weird naked sleepers—well, when Dahlia's gone anyway."
     dd "Комфортно для меня - это быть голой. Я из тех кто любит спать голышом - ну, когда Далии нет."
 
-# game/code/d12/d12s06.rpy:542
+# game/code/d12/d12s06.rpy:546
 translate russian replay_d12s06_dd_27f0f08a:
 
     # dd "Anyone breaks in, they'll be too mesmerized by my tits to not see the wild haymaker coming their way."
     dd "Если кто-нибудь вломится, они будут слишком загипнотизированы моими сиськами, и не увидят дикую валькирию, летящую к ним."
 
-# game/code/d12/d12s06.rpy:544
+# game/code/d12/d12s06.rpy:548
 translate russian replay_d12s06_dd_a56cef2d:
 
     # mc "A flawless defense."
     mc "Безупречная защита."
 
-# game/code/d12/d12s06.rpy:547
+# game/code/d12/d12s06.rpy:551
 translate russian replay_d12s06_dd_81c9248a:
 
     # dd "Exactly, thank you. Titfu is gonna revolutionize self-defense."
     dd "Вот именно, спасибо. Сисько-фу это революционная самозащита."
 
-# game/code/d12/d12s06.rpy:549
+# game/code/d12/d12s06.rpy:553
 translate russian replay_d12s06_dd_486da775:
 
     # mc "What did you mean by \"when Dahlia's gone\"? {w}Are you two not—"
     mc "А что ты имела в виду, говоря \"когда Далии нет\"? {w}Разве вы двое не..."
 
-# game/code/d12/d12s06.rpy:552
+# game/code/d12/d12s06.rpy:556
 translate russian replay_d12s06_dd_6d050fae:
 
     # dd "Oh, no. Neither of us is uncomfortable with our bodies, but it still feels weird to just sleep butt naked like that, y'know?"
     dd "Ох, нет. Мы не испытываем дискомфорта из-за своего тела, но все равно некомфортно спать вот так голышом, понимаешь?"
 
-# game/code/d12/d12s06.rpy:553
+# game/code/d12/d12s06.rpy:557
 translate russian replay_d12s06_dd_1b7b451a:
 
     # dd "If she brings someone around or whatever, I don't wanna bother with those questions."
     dd "Если она приведет кого-то, то я не хочу беспокоиться из-за этих вопросов."
 
-# game/code/d12/d12s06.rpy:555
+# game/code/d12/d12s06.rpy:559
 translate russian replay_d12s06_dd_99a6dbdf:
 
     # mc "Makes sense."
     mc "В этом есть смысл."
 
-# game/code/d12/d12s06.rpy:558
+# game/code/d12/d12s06.rpy:562
 translate russian replay_d12s06_dd_3e0f27e6:
 
     # dd "But... She—"
     dd "Но... Сейчас..."
 
-# game/code/d12/d12s06.rpy:560
+# game/code/d12/d12s06.rpy:564
 translate russian replay_d12s06_dd_2ce01822:
 
     # dd "—is not—"
     dd "... ее здесь..."
 
-# game/code/d12/d12s06.rpy:564
+# game/code/d12/d12s06.rpy:568
 translate russian replay_d12s06_dd_d96a01ff:
 
     # dd "—here right now."
     dd "... нет."
 
-# game/code/d12/d12s06.rpy:567
+# game/code/d12/d12s06.rpy:571
 translate russian replay_d12s06_dd_ae14a73c:
 
     # mc "Daisy—"
     mc "Дейзи..."
 
-# game/code/d12/d12s06.rpy:571
+# game/code/d12/d12s06.rpy:575
 translate russian replay_d12s06_dd_57f407bc:
 
     # mc "Hey—"
     mc "Эй..."
 
-# game/code/d12/d12s06.rpy:584
+# game/code/d12/d12s06.rpy:588
 translate russian replay_d12s06_dd_63a35c0c:
 
     # mc "Daisy... *Lightly moans*"
     mc "Дейзи... *слегка постанывает*"
 
-# game/code/d12/d12s06.rpy:598
+# game/code/d12/d12s06.rpy:602
 translate russian replay_d12s06_dd_5eaf7765:
 
     # mc "Daisy, stop."
     mc "Дейзи, остановись."
 
-# game/code/d12/d12s06.rpy:602
+# game/code/d12/d12s06.rpy:606
 translate russian replay_d12s06_dd_9f22281a:
 
     # dd "What?"
     dd "Что?"
 
-# game/code/d12/d12s06.rpy:604
+# game/code/d12/d12s06.rpy:608
 translate russian replay_d12s06_dd_7ad1e2a0:
 
     # dd "Is there anything wrong?"
     dd "Что-то не так?"
 
-# game/code/d12/d12s06.rpy:607
+# game/code/d12/d12s06.rpy:611
 translate russian replay_d12s06_dd_6e4c2a95:
 
     # dd "You can tell me [mcname]."
     dd "Ты можешь сказать мне, [mcname]."
 
-# game/code/d12/d12s06.rpy:610
+# game/code/d12/d12s06.rpy:614
 translate russian replay_d12s06_dd_87b33e65:
 
     # mc "You just got diagnosed with a heart condition that makes you faint if you get excited, I'm not sure this is the best time..."
     mc "У тебя только что диагностировали заболевание сердца, из-за которого ты падаешь в обморок при волнении, я не уверен, что сейчас самое подходящее время..."
 
-# game/code/d12/d12s06.rpy:613
+# game/code/d12/d12s06.rpy:617
 translate russian replay_d12s06_dd_51b39dfc:
 
     # dd "I... *Sigh*"
     dd "Я... *вздох*"
 
-# game/code/d12/d12s06.rpy:614
+# game/code/d12/d12s06.rpy:618
 translate russian replay_d12s06_dd_7e349792:
 
     # dd "It's fine. I don't faint every time we have sex. It's just when it gets intense."
     dd "Все в порядке. Я не падаю в обморок каждый раз, когда занимаюсь сексом. Только когда это становится слишком интенсивным."
 
-# game/code/d12/d12s06.rpy:617
+# game/code/d12/d12s06.rpy:621
 translate russian replay_d12s06_dd_2a3267f6:
 
     # mc "Still, it's not like I don't wanna do it, but I'm worried."
     mc "Это не значит, что я не хочу этого делать, просто я волнуюсь за тебя."
 
-# game/code/d12/d12s06.rpy:620
+# game/code/d12/d12s06.rpy:624
 translate russian replay_d12s06_dd_ad36558e:
 
     # dd "..."
     dd "..."
 
-# game/code/d12/d12s06.rpy:623
+# game/code/d12/d12s06.rpy:627
 translate russian replay_d12s06_dd_5d15fd4b:
 
     # mc "...How about this?"
     mc "... Как насчет этого?"
 
-# game/code/d12/d12s06.rpy:624
+# game/code/d12/d12s06.rpy:628
 translate russian replay_d12s06_dd_7a4bc00a:
 
     # mc "We can get each other off without fucking, right? Let's do that. That probably won't be as hard as actual sex."
     mc "Мы можем завести друг друга без секса, верно? Давай сделаем это. Возможно, это будет так-же, как настоящий секс."
 
-# game/code/d12/d12s06.rpy:627
+# game/code/d12/d12s06.rpy:631
 translate russian replay_d12s06_dd_31655f87:
 
     # dd "What do you mean?"
     dd "Что ты имеешь в виду?"
 
-# game/code/d12/d12s06.rpy:630
+# game/code/d12/d12s06.rpy:634
 translate russian replay_d12s06_dd_a5f9fa74:
 
     # mc "This."
     mc "Это."
 
-# game/code/d12/d12s06.rpy:636
+# game/code/d12/d12s06.rpy:640
 translate russian replay_d12s06_dd_1ed32fd8:
 
     # dd "*Softly moans*"
     dd "*Мягко стонет*"
 
-# game/code/d12/d12s06.rpy:647
+# game/code/d12/d12s06.rpy:651
 translate russian replay_d12s06_dd_2aa9e65f:
 
     # dd "Faster!"
     dd "Быстрее!"
 
-# game/code/d12/d12s06.rpy:661
+# game/code/d12/d12s06.rpy:665
 translate russian replay_d12s06_dd_43c2ae4c:
 
     # dd "Ooohh!"
     dd "Ооохх!"
 
-# game/code/d12/d12s06.rpy:673
+# game/code/d12/d12s06.rpy:677
 translate russian replay_d12s06_dd_767ef7b6:
 
     # dd "Mmmmhh"
     dd "Ммммхх!"
 
-# game/code/d12/d12s06.rpy:689
+# game/code/d12/d12s06.rpy:693
 translate russian replay_d12s06_dd_515f3602:
 
     # dd "Aahhhh"
     dd "Аахххх!"
 
-# game/code/d12/d12s06.rpy:702
+# game/code/d12/d12s06.rpy:706
 translate russian replay_d12s06_dd_4b3cef31:
 
     # dd "There...just like that! *Moans*"
     dd "Там... вот так! *стонет*"
 
-# game/code/d12/d12s06.rpy:705
+# game/code/d12/d12s06.rpy:709
 translate russian replay_d12s06_dd_ba9c16ce:
 
     # dd "[mcname], I—I'm gonna—!"
     dd "[mcname], я... я сейчас...!"
 
-# game/code/d12/d12s06.rpy:730
+# game/code/d12/d12s06.rpy:734
 translate russian replay_d12s06_dd_018c2f6f:
 
     # mc "Uhm, looks like you might need to get cleaned up again."
     mc "Хм, похоже, тебе снова придется привести себя в порядок."
 
-# game/code/d12/d12s06.rpy:746
+# game/code/d12/d12s06.rpy:750
 translate russian replay_d12s06_dd_068cbae8:
 
     # dd "You too."
     dd "Тебе тоже."
 
-# game/code/d12/d12s06.rpy:756
+# game/code/d12/d12s06.rpy:760
 translate russian replay_d12s06_dd_90c9d42a:
 
     # "One nap later"
     "После короткого сна."
 
-# game/code/d12/d12s06.rpy:762
+# game/code/d12/d12s06.rpy:766
 translate russian replay_d12s06_dd_e80e4d39:
 
     # dd "Do you have to go?"
     dd "Тебе обязательно уходить?"
 
-# game/code/d12/d12s06.rpy:765
+# game/code/d12/d12s06.rpy:769
 translate russian replay_d12s06_dd_3683d98a:
 
     # mc "...I really don't want to."
     mc "... Мне в действительности не хочется уходить."
 
-# game/code/d12/d12s06.rpy:767
+# game/code/d12/d12s06.rpy:771
 translate russian replay_d12s06_dd_19e4da99:
 
     # dd "It's okay."
     dd "Все в порядке."
 
-# game/code/d12/d12s06.rpy:769
+# game/code/d12/d12s06.rpy:773
 translate russian replay_d12s06_dd_7faf9de9:
 
     # dd "Thank you... For being there for me today."
     dd "Спасибо... За то, что был рядом со мной."
 
-# game/code/d12/d12s06.rpy:771
+# game/code/d12/d12s06.rpy:775
 translate russian replay_d12s06_dd_0817892e:
 
     # mc "Always."

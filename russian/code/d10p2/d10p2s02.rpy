@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-10-15 09:58
+﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/d10p2/d10p2s02.rpy:11
 translate russian d10p2s02_ab6e5f7b:
@@ -150,7 +150,7 @@ translate russian d10p2s02_53796b42:
     # mct "... but she did already used her safe word."
     mct "... но она уже использовала свое стоп-слово."
 
-# game/code/d10p2/d10p2s02.rpy:58
+# game/code/d10p2/d10p2s02.rpy:59
 translate russian d10p2s02_2fa3fcbf:
 
     # mct "Should I beat this guys ass or wait a little longer?" nointeract
@@ -214,7 +214,7 @@ translate russian d10p2s01_intervene_afa073d8:
 translate russian d10p2s01_intervene_2b7d2e32:
 
     # mc "Um, sure. Do you have any Stoli?"
-    mc "Эм, конечно. У тебя есть Столичная?"
+    mc "Эм, конечно. Что у тебя есть выпить?"
 
 # game/code/d10p2/d10p2s02.rpy:97
 translate russian d10p2s01_intervene_1d40ff77:
@@ -244,7 +244,7 @@ translate russian d10p2s01_intervene_39de93f9:
 translate russian d10p2s01_intervene_ec88fd23:
 
     # irfl "Fuck off. {w}What's your beverage?"
-    irfl "Отъебись. {w}Какой тебе напиток?"
+    irfl "Отъебись. {w}Что тебе налить?"
 
 # game/code/d10p2/d10p2s02.rpy:109
 translate russian d10p2s01_intervene_2065a7f6:
@@ -454,7 +454,7 @@ translate russian d10p2s01_watch_ff07fd79:
 translate russian d10p2s01_watch_dc415646:
 
     # "{color=#374980}???{/color}" "Let go of me you fucking BITCH!!!"
-    "{color=#374980}???{/color}" ""
+    "{color=#374980}???{/color}" "Отпусти меня, чертова СУКА!!!"
 
 # game/code/d10p2/d10p2s02.rpy:212
 translate russian d10p2s01_watch_02dd6f61:

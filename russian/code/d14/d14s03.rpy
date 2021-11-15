@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-10-15 09:58
+﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/d14/d14s03.rpy:6
 translate russian d14s03_e0ad0b38:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-10-15 09:58
+﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/d11/d11s02.rpy:27
 translate russian d11s02_4ee8cc8f:
@@ -1278,415 +1278,415 @@ translate russian d11s02_84e0bfe9:
     # kb "See you later [mcname]."
     kb "Увидимся позже [mcname]."
 
-# game/code/d11/d11s02.rpy:588
+# game/code/d11/d11s02.rpy:591
 translate russian d11s02_19e17456:
 
     # tr "Hey, [mcname]!"
     tr "Привет, [mcname]!"
 
-# game/code/d11/d11s02.rpy:590
+# game/code/d11/d11s02.rpy:593
 translate russian d11s02_8ffa8ae1:
 
     # mct "Looks like Terrell has been waiting for me."
     mct "Похоже, Террелл ждал меня."
 
-# game/code/d11/d11s02.rpy:593
+# game/code/d11/d11s02.rpy:596
 translate russian d11s02_a77e9b17:
 
     # tr "What took you so long?"
     tr "Почему ты так долго?"
 
-# game/code/d11/d11s02.rpy:596
+# game/code/d11/d11s02.rpy:599
 translate russian d11s02_b2b9e19d:
 
     # mc "What do you mean?"
     mc "Что ты имеешь в виду?"
 
-# game/code/d11/d11s02.rpy:599
+# game/code/d11/d11s02.rpy:602
 translate russian d11s02_bb4a610f:
 
     # tr "I was hoping to catch you after class, but everyone else left a while ago."
     tr "Я надеялся застать тебя после занятий, но все остальные уже ушли."
 
-# game/code/d11/d11s02.rpy:600
+# game/code/d11/d11s02.rpy:603
 translate russian d11s02_119354cb:
 
     # tr "I figured either you already left, or you were very busy after class."
     tr "И я подумал, что либо ты уже ушёл, либо был очень занят после занятий."
 
-# game/code/d11/d11s02.rpy:603
+# game/code/d11/d11s02.rpy:606
 translate russian d11s02_00d5a7a4:
 
     # mc "Eh, you know. Just talking about stuff."
     mc "Ну, знаешь. Просто болтали о всякой ерунде."
 
-# game/code/d11/d11s02.rpy:605
+# game/code/d11/d11s02.rpy:608
 translate russian d11s02_209000ac:
 
     # tr "Gotcha. {w}You already finish the fetish-of-the-day, then?"
     tr "Понятно. {w}Значит, ты уже закончил фетиш-дня?"
 
-# game/code/d11/d11s02.rpy:607
+# game/code/d11/d11s02.rpy:610
 translate russian d11s02_389f9e77:
 
     # mc "Ha!{w} Nothing like that."
     mc "Ха! {w}Ничего подобного."
 
-# game/code/d11/d11s02.rpy:610
+# game/code/d11/d11s02.rpy:613
 translate russian d11s02_5b7aaafb:
 
     # mc "Heya Terrell. How's life treating you?"
     mc "Хэй, Террелл. Как жизнь?"
 
-# game/code/d11/d11s02.rpy:613
+# game/code/d11/d11s02.rpy:616
 translate russian d11s02_da1969eb:
 
     # tr "Like it caught me in bed with its wife."
     tr "Как будто застали меня в постели с чужой женой."
 
-# game/code/d11/d11s02.rpy:616
+# game/code/d11/d11s02.rpy:619
 translate russian d11s02_08520540:
 
     # mc "Sounds shitty, but that's a good comeback."
     mc "Звучит дерьмово, но это хороший способ проснутся."
 
-# game/code/d11/d11s02.rpy:617
+# game/code/d11/d11s02.rpy:620
 translate russian d11s02_139dbcdc:
 
     # tr "Thanks."
     tr "Спасибо."
 
-# game/code/d11/d11s02.rpy:618
+# game/code/d11/d11s02.rpy:621
 translate russian d11s02_cb70afb1:
 
     # mc "So..."
     mc "Так..."
 
-# game/code/d11/d11s02.rpy:622
+# game/code/d11/d11s02.rpy:625
 translate russian d11s02_951e2246:
 
     # tr "Did you talk to her?"
     tr "Ты с ней разговаривал?"
 
-# game/code/d11/d11s02.rpy:624
+# game/code/d11/d11s02.rpy:627
 translate russian d11s02_27d6a438:
 
     # mc "Huh? Oh, Maria. {w}No, sorry dude. It completely slipped my mind."
     mc "С кем? А, с Марией. {w}Нет, извини чувак. Это совершенно вылетело у меня из головы."
 
-# game/code/d11/d11s02.rpy:626
+# game/code/d11/d11s02.rpy:629
 translate russian d11s02_889acdb5:
 
     # tr "I can understand that. You had your hands full last night."
     tr "Понимаю. Вчера вечером у тебя было полно дел."
 
-# game/code/d11/d11s02.rpy:627
+# game/code/d11/d11s02.rpy:630
 translate russian d11s02_48fb43e9:
 
     # mc "You know what they say, \"More than a handful is a waste.\""
     mc "Знаешь, как говориться, \"Это были приятные хлопоты\"."
 
-# game/code/d11/d11s02.rpy:629
+# game/code/d11/d11s02.rpy:632
 translate russian d11s02_6e7c2b13:
 
     # tr "Ha! {w}I wouldn't mind getting my hands around Maria's waist."
     tr "Ха! {w}Я бы не прочь так-же похлопотать с Марией."
 
-# game/code/d11/d11s02.rpy:632
+# game/code/d11/d11s02.rpy:635
 translate russian d11s02_32b8021a:
 
     # tr "So, did you think about it at least? Will you talk to her?"
     tr "Так ты хотя бы думал об этом? Ты поговоришь с ней?"
 
-# game/code/d11/d11s02.rpy:633
+# game/code/d11/d11s02.rpy:636
 translate russian d11s02_fccc4876:
 
     # mct "Huh. I don't know Terrell that well."
     mct "Хм. Я не так хорошо знаю Террелла."
 
-# game/code/d11/d11s02.rpy:634
+# game/code/d11/d11s02.rpy:637
 translate russian d11s02_574f07ba:
 
     # mct "I can't tell if he's a cool guy who's nerding out over Maria..."
     mct "Не могу сказать, крутой ли он парень, которому интересна Мария..."
 
-# game/code/d11/d11s02.rpy:635
+# game/code/d11/d11s02.rpy:638
 translate russian d11s02_1e6093a9:
 
     # mct "... or a nerdy guy who plays it cool sometimes."
     mct "... или ботаник, который пытается изображать крутого."
 
-# game/code/d11/d11s02.rpy:638
+# game/code/d11/d11s02.rpy:641
 translate russian d11s02_be21e205:
 
     # mc "Obsess much?"
     mc "Ты ею одержим?"
 
-# game/code/d11/d11s02.rpy:640
+# game/code/d11/d11s02.rpy:643
 translate russian d11s02_e85c472f:
 
     # tr "Dude, don't be like that. {w}I mean, yeah, you're right."
     tr "Чувак, не будь таким. {w}В смысле, да, ты прав."
 
-# game/code/d11/d11s02.rpy:641
+# game/code/d11/d11s02.rpy:644
 translate russian d11s02_553839d6:
 
     # tr "I can't quite explain it. I've usually got girls throwing themselves at me, but there's just something about her."
     tr "Я не могу этого объяснить. Обычно девушки сами бросаются на меня, но в ней что-то есть."
 
-# game/code/d11/d11s02.rpy:644
+# game/code/d11/d11s02.rpy:647
 translate russian d11s02_903da7dd:
 
     # mc "I think I get what you're saying..."
     mc "Кажется я понял, о чем ты..."
 
-# game/code/d11/d11s02.rpy:645
+# game/code/d11/d11s02.rpy:648
 translate russian d11s02_4a7d44c2:
 
     # mct "If I can have my way with Maria - and that's a big IF - would I even want to share her with this guy?"
     mct "Если я смогу добиться своего с Марией - а это большое ЕСЛИ, - то захочу ли я вообще делить ее с этим парнем?"
 
-# game/code/d11/d11s02.rpy:646
+# game/code/d11/d11s02.rpy:649
 translate russian d11s02_ee10c282:
 
     # mct "I mean, I do have that damn challenge. Maybe I could get Maria and someone else in the deal..."
     mct "Я имею в виду, что у меня есть это проклятое задание. Может я смогу получить Марию и еще кого-нибудь в этой сделке..."
 
-# game/code/d11/d11s02.rpy:649
+# game/code/d11/d11s02.rpy:652
 translate russian d11s02_39b0c8fb:
 
     # mc "Let me think for a sec..."
     mc "Дай мне подумать секунду..."
 
-# game/code/d11/d11s02.rpy:654
+# game/code/d11/d11s02.rpy:657
 translate russian d11s02_7ade63ba:
 
     # mc "Alright, I've got an idea."
     mc "Ладно, у меня есть кое-какие идеи."
 
-# game/code/d11/d11s02.rpy:657
+# game/code/d11/d11s02.rpy:660
 translate russian d11s02_0995e5ff:
 
     # tr "Cool. I'm down with it."
     tr "Круто. Я уже согласен."
 
-# game/code/d11/d11s02.rpy:660
+# game/code/d11/d11s02.rpy:663
 translate russian d11s02_94b1d8c9:
 
     # mc "You don't even know what it is."
     mc "Ты даже не знаешь, что это такое."
 
-# game/code/d11/d11s02.rpy:661
+# game/code/d11/d11s02.rpy:664
 translate russian d11s02_e39ed5f5:
 
     # tr "Does it end with my-"
     tr "Если это закончится моим..."
 
-# game/code/d11/d11s02.rpy:663
+# game/code/d11/d11s02.rpy:666
 translate russian d11s02_423c4291:
 
     # mc "I'm going to just stop you right there before you say something embarrassing."
     mc "Я остановлю тебя, пока ты не сказал что-нибудь неловкое."
 
-# game/code/d11/d11s02.rpy:664
+# game/code/d11/d11s02.rpy:667
 translate russian d11s02_3031ed06:
 
     # mc "I'll tell you what. If you can arrange someone for me, I'll talk to Maria for you."
     mc "Вот что я тебе скажу. Если ты сможешь организовать кого-нибудь для меня, я поговорю с Марией для тебя."
 
-# game/code/d11/d11s02.rpy:667
+# game/code/d11/d11s02.rpy:670
 translate russian d11s02_2e858d5c:
 
     # tr "And if she says \"No\"?"
     tr "А если она скажет \"Нет\"?"
 
-# game/code/d11/d11s02.rpy:669
+# game/code/d11/d11s02.rpy:672
 translate russian d11s02_cb6d1795:
 
     # mc "Not my problem. If you want me to try, then-"
     mc "Это уже не моя проблема. Если ты хочешь, чтобы я попробовал, то..."
 
-# game/code/d11/d11s02.rpy:672
+# game/code/d11/d11s02.rpy:675
 translate russian d11s02_fa428fe5:
 
     # tr "I forgot you were a business major. {w}Alright, you drive a hard bargain, but-"
     tr "Я и забыл, что ты - специалист по бизнесу. {w}Ладно, ты предлагаешь жесткую сделку, но..."
 
-# game/code/d11/d11s02.rpy:674
+# game/code/d11/d11s02.rpy:677
 translate russian d11s02_dab18eff:
 
     # mc "Really? I thought we'd have to negotiate and compromise."
     mc "Серьёзно? Я думал, нам придется вести переговоры и идти на компромисс."
 
-# game/code/d11/d11s02.rpy:677
+# game/code/d11/d11s02.rpy:680
 translate russian d11s02_2ea66bcf:
 
     # tr "Nah, I know someone who owes me... well, let's just say that she owes me."
     tr "Нет, я знаю кое-кого, кто нам подойдёт... скажем так, она мне должна."
 
-# game/code/d11/d11s02.rpy:679
+# game/code/d11/d11s02.rpy:682
 translate russian d11s02_c3f31933:
 
     # mc "Awesome. Next time I get the chance, I'll talk to Maria."
     mc "Отлично. В следующий раз, когда у меня будет шанс, я поговорю с Марией."
 
-# game/code/d11/d11s02.rpy:682
+# game/code/d11/d11s02.rpy:685
 translate russian d11s02_8eddca73:
 
     # tr "I probably won't be able to arrange anything for you until the weekend."
     tr "Я, наверное, не смогу ничего организовать для тебя до выходных."
 
-# game/code/d11/d11s02.rpy:684
+# game/code/d11/d11s02.rpy:687
 translate russian d11s02_d0d94cf0:
 
     # mc "As long as it's before Monday."
     mc "Только обязательно до понедельника."
 
-# game/code/d11/d11s02.rpy:686
+# game/code/d11/d11s02.rpy:689
 translate russian d11s02_bc2eb42d:
 
     # tr "Why's that?"
     tr "Почему это?"
 
-# game/code/d11/d11s02.rpy:687
+# game/code/d11/d11s02.rpy:690
 translate russian d11s02_5dd690c9:
 
     # mct "Oh, shit. I can't tell him why..."
     mct "Вот дерьмо. Я не могу сказать ему почему..."
 
-# game/code/d11/d11s02.rpy:690
+# game/code/d11/d11s02.rpy:693
 translate russian d11s02_1552eed8:
 
     # mc "I've got a reputation to keep up, ya'know?"
     mc "Мне нужно поддерживать репутацию, понимаешь?"
 
-# game/code/d11/d11s02.rpy:692
+# game/code/d11/d11s02.rpy:695
 translate russian d11s02_30b49ab3:
 
     # tr "True that! You sly dog."
     tr "Это верно! Вот же хитрый пес."
 
-# game/code/d11/d11s02.rpy:701
+# game/code/d11/d11s02.rpy:704
 translate russian d11s02_03bbe631:
 
     # mc "No, I don't think so."
     mc "Нет, я так не думаю."
 
-# game/code/d11/d11s02.rpy:704
+# game/code/d11/d11s02.rpy:707
 translate russian d11s02_7133d66d:
 
     # tr "What? Why not?"
     tr "Что? Почему нет?"
 
-# game/code/d11/d11s02.rpy:706
+# game/code/d11/d11s02.rpy:709
 translate russian d11s02_f8514f4d:
 
     # mc "Short answer - you've tried and failed. She's clearly not interested."
     mc "Короткий ответ - ты пытался и потерпел неудачу. Она явно не заинтересована."
 
-# game/code/d11/d11s02.rpy:708
+# game/code/d11/d11s02.rpy:711
 translate russian d11s02_dd10ff0b:
 
     # tr "Harsh, but true. What's the longer answer?"
     tr "Сурово, но верно. Какой более длинный ответ?"
 
-# game/code/d11/d11s02.rpy:711
+# game/code/d11/d11s02.rpy:714
 translate russian d11s02_6bd7f514:
 
     # mc "I don't want to share."
     mc "Я не хочу делиться."
 
-# game/code/d11/d11s02.rpy:713
+# game/code/d11/d11s02.rpy:716
 translate russian d11s02_c5d00df8:
 
     # tr "Your short answer is longer than your long answer."
     tr "Твой короткий ответ длиннее, чем длинный."
 
-# game/code/d11/d11s02.rpy:715
+# game/code/d11/d11s02.rpy:718
 translate russian d11s02_e127b111:
 
     # mc "Yeah, I guess so. {w}No hard feelings?"
     mc "Да, наверное. {w}Никаких обид?"
 
-# game/code/d11/d11s02.rpy:718
+# game/code/d11/d11s02.rpy:721
 translate russian d11s02_58f63225:
 
     # tr "Nah, I get what you're saying. Both of your reasons are good."
     tr "Нет, я понимаю, о чем ты. Обе твоих причины хороши."
 
-# game/code/d11/d11s02.rpy:719
+# game/code/d11/d11s02.rpy:722
 translate russian d11s02_5311e148:
 
     # tr "No hard feelings."
     tr "Никаких обид."
 
-# game/code/d11/d11s02.rpy:722
+# game/code/d11/d11s02.rpy:725
 translate russian d11s02_770c2aa7:
 
     # mc "You gonna be alright?"
     mc "С тобой все будет в порядке?"
 
-# game/code/d11/d11s02.rpy:723
+# game/code/d11/d11s02.rpy:726
 translate russian d11s02_5b99e36f:
 
     # tr "Yeah. I've got someone else coming to visit this weekend."
     tr "Да. В эти выходные ко мне приедет кое-кто."
 
-# game/code/d11/d11s02.rpy:724
+# game/code/d11/d11s02.rpy:727
 translate russian d11s02_15bfe73a:
 
     # tr "I'll just have to settle for fucking her instead."
     tr "И мне придется довольствоваться тем, что я трахну ее."
 
-# game/code/d11/d11s02.rpy:734
+# game/code/d11/d11s02.rpy:737
 translate russian d11s02_03bbe631_1:
 
     # mc "No, I don't think so."
     mc "Нет, я так не думаю."
 
-# game/code/d11/d11s02.rpy:737
+# game/code/d11/d11s02.rpy:740
 translate russian d11s02_7133d66d_1:
 
     # tr "What? Why not?"
     tr "Что? Почему нет?"
 
-# game/code/d11/d11s02.rpy:739
+# game/code/d11/d11s02.rpy:742
 translate russian d11s02_6722ed2c:
 
     # mc "Look - if you can catch her on your own, I'm cool with it."
     mc "Слушай, если ты хочешь поиметь ее сам, то я не против."
 
-# game/code/d11/d11s02.rpy:740
+# game/code/d11/d11s02.rpy:743
 translate russian d11s02_e3cb214a:
 
     # mc "She's just not..."
     mc "Она просто не такая..."
 
-# game/code/d11/d11s02.rpy:743
+# game/code/d11/d11s02.rpy:746
 translate russian d11s02_ef92f3f0:
 
     # tr "She's not what?"
     tr "Она не... что?"
 
-# game/code/d11/d11s02.rpy:745
+# game/code/d11/d11s02.rpy:748
 translate russian d11s02_0135bd55:
 
     # mc "She's just figuring some stuff out right now, and I'd rather not mess with her."
     mc "Она как раз сейчас кое-что выясняет, и мне бы не хотелось с ней связываться."
 
-# game/code/d11/d11s02.rpy:747
+# game/code/d11/d11s02.rpy:750
 translate russian d11s02_02c5c5bd:
 
     # tr "Yeah, but just a word from you and-"
     tr "Да, но только одно твое слово и ..."
 
-# game/code/d11/d11s02.rpy:751
+# game/code/d11/d11s02.rpy:754
 translate russian d11s02_8c7cbe1a:
 
     # mc "I've made up my mind."
     mc "Я принял решение."
 
-# game/code/d11/d11s02.rpy:753
+# game/code/d11/d11s02.rpy:756
 translate russian d11s02_54cedf16:
 
     # tr "Okay, fine. {w}I guess I can respect that."
@@ -1718,15 +1718,15 @@ translate russian strings:
     old "But I'm confident that Antony is still interested in Min"
     new "Но я уверен, что Энтони все еще интересуется Мин"
 
-    # game/code/d11/d11s02.rpy:651
+    # game/code/d11/d11s02.rpy:654
     old "Who can he offer you in trade?"
     new "Кого он может предложить в обмен?"
 
-    # game/code/d11/d11s02.rpy:651
+    # game/code/d11/d11s02.rpy:654
     old "Decline. I think I'll keep Maria for myself"
     new "Отклонить. Я думаю оставить Марию себе"
 
-    # game/code/d11/d11s02.rpy:651
+    # game/code/d11/d11s02.rpy:654
     old "Decline. I want nothing more to do with Maria or Terrell"
     new "Отклонить. Я больше не хочу иметь ничего общего ни с Марией, ни с Терреллом"
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-10-15 09:58
+﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/d10p2/d10p2s05.rpy:64
 translate russian d10p2s05_255d6989:
@@ -190,7 +190,7 @@ translate russian d10p2s05_fr_cl_chat_669664cb:
 translate russian d10p2s05_fr_cl_chat_a458071f:
 
     # cl "What are you doing up here, {i}master{/i}?"
-    cl "Что ты здесь делаешь, {i}мастер{/i}?"
+    cl "Что ты здесь делаешь, {i}Господин{/i}?"
 
 # game/code/d10p2/d10p2s05.rpy:383
 translate russian d10p2s05_fr_cl_chat_1cbec7b6:
@@ -646,7 +646,7 @@ translate russian replay_d10p2s05_41ede43a:
 translate russian replay_d10p2s05_7c820176:
 
     # mh "Oh! Yes, master!"
-    mh "Ох! Да, мастер!"
+    mh "Ох! Да, Господин!"
 
 # game/code/d10p2/d10p2s05.rpy:680
 translate russian replay_d10p2s05_72068500:

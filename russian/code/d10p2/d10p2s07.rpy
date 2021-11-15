@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-10-15 09:58
+﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/d10p2/d10p2s07.rpy:7
 translate russian d10p2s07_f239d031:
@@ -514,7 +514,7 @@ translate russian d10p2s07_8af37878:
 translate russian d10p2s07_a00becc9:
 
     # aw "We fuck for as long as you like, in as many ways as you like, until you're done."
-    aw "Мы будем трахаемся, сколько и как ты захочешь, до тех пор пока ты не кончишь."
+    aw "Мы будем трахаться, сколько и как ты захочешь, до тех пор пока ты не кончишь."
 
 # game/code/d10p2/d10p2s07.rpy:214
 translate russian d10p2s07_2e31bb32:

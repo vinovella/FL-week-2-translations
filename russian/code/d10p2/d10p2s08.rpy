@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-10-15 09:58
+﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/d10p2/d10p2s08.rpy:30
 translate russian d10p2s08_42ace476:
@@ -196,25 +196,25 @@ translate russian d10p2s08_6bd4a674:
 translate russian d10p2s08_b50a2be6:
 
     # mc "Does that make sense?"
-    mc "В этом есть смысл?"
+    mc "Ты меня понимаешь?"
 
 # game/code/d10p2/d10p2s08.rpy:95
 translate russian d10p2s08_8355c76a:
 
     # lc "It makes sense, but I'm still not sure which way I should feel."
-    lc "В этом есть смысл, но я все еще не уверена, что должна чувствовать."
+    lc "Понимаю, но я все еще не уверена, что должна чувствовать."
 
 # game/code/d10p2/d10p2s08.rpy:97
 translate russian d10p2s08_2ae1cc5f:
 
     # lc "Like, will you think less of me and our relationship if I don't get jealous about this?"
-    lc "Типа, ты будешь меньше думать обо мне и наших отношениях, если я не буду ревновать?"
+    lc "Типа, ты станешь меньше уделять внимание мне и нашим отношениям, если я не буду ревновать?"
 
 # game/code/d10p2/d10p2s08.rpy:98
 translate russian d10p2s08_e699cd10:
 
     # lc "Or will it drive us apart if I do get jealous about this?"
-    lc "Или это разлучит нас, если я буду ревновать к этому?"
+    lc "Или это совсем разлучит нас, если я всё таки буду ревновать?"
 
 # game/code/d10p2/d10p2s08.rpy:99
 translate russian d10p2s08_67b56329:
@@ -226,7 +226,7 @@ translate russian d10p2s08_67b56329:
 translate russian d10p2s08_2f6655f9:
 
     # lc "What am I supposed to do?"
-    lc "Что мне делать?"
+    lc "Что мне с этим делать?"
 
 # game/code/d10p2/d10p2s08.rpy:104
 translate russian d10p2s08_44e2aeeb:
@@ -238,7 +238,7 @@ translate russian d10p2s08_44e2aeeb:
 translate russian d10p2s08_427fad1e:
 
     # mc "First of all, I couldn't think less of you or our relationship - and I don't mean that the way it sounds."
-    mc "Во-первых, я не мог не думать ни о тебе, ни о наших отношениях - и я не это имею в виду, как это звучит."
+    mc "Во-первых, я не могу меньше уделять внимание тебе и нашим отношениям - и прозвучало это хуже, чем я себе представлял."
 
 # game/code/d10p2/d10p2s08.rpy:106
 translate russian d10p2s08_16cf56e7:

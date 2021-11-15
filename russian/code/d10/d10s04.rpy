@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-10-15 09:58
+﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/d10/d10s04.rpy:82
 translate russian d10s04_0d4d03ce:
@@ -888,499 +888,499 @@ translate russian d10s04_3bc907b8:
     # sy "So did someone die here before or not?..."
     sy "Так кто-нибудь умер здесь или нет? ..."
 
-# game/code/d10/d10s04.rpy:441
+# game/code/d10/d10s04.rpy:446
 translate russian replay_d10s04_9d2dca50:
 
     # mh "*whispers* They will take a while."
     mh "*Шепотом* Они будут заняты некоторое время."
 
-# game/code/d10/d10s04.rpy:443
+# game/code/d10/d10s04.rpy:448
 translate russian replay_d10s04_29a079c8:
 
     # mh "*whispers* Shh..."
     mh "*Шепотом* Тсс..."
 
-# game/code/d10/d10s04.rpy:447
+# game/code/d10/d10s04.rpy:452
 translate russian replay_d10s04_b5c8178e:
 
     # mct "Looks like she wants a little private time with me."
     mct "Похоже, она хочет побыть немного со мной наедине."
 
-# game/code/d10/d10s04.rpy:451
+# game/code/d10/d10s04.rpy:456
 translate russian replay_d10s04_bad3966e:
 
     # mc "What can I do for you...{w} or possibly to you?"
     mc "Что я могу для тебя сделать...{w} или, возможно, с тобой?"
 
-# game/code/d10/d10s04.rpy:454
+# game/code/d10/d10s04.rpy:459
 translate russian replay_d10s04_84362156:
 
     # mh "Shhh... {w}This bathroom isn't completely soundproof."
     mh "Тсс... {w}Эта комната не полностью звуконепроницаема."
 
-# game/code/d10/d10s04.rpy:457
+# game/code/d10/d10s04.rpy:462
 translate russian replay_d10s04_f800ff24:
 
     # mc "Is it partially soundproof?"
     mc "Она частично звуконепроницаемая?"
 
-# game/code/d10/d10s04.rpy:460
+# game/code/d10/d10s04.rpy:465
 translate russian replay_d10s04_0471a9f8:
 
     # mh "Well, no lady wants everyone to hear what goes on in her bathroom."
     mh "Ну, ни одна леди не захочет, чтобы все слышали, что происходит в ее ванной."
 
-# game/code/d10/d10s04.rpy:462
+# game/code/d10/d10s04.rpy:467
 translate russian replay_d10s04_b3d90e90:
 
     # mc "I'm not sure that answered my question."
     mc "Я не уверен, что это ответило на мой вопрос."
 
-# game/code/d10/d10s04.rpy:466
+# game/code/d10/d10s04.rpy:471
 translate russian replay_d10s04_8e654dc8:
 
     # mh "Let's find out together."
     mh "Давай выясним это вместе."
 
-# game/code/d10/d10s04.rpy:469
+# game/code/d10/d10s04.rpy:474
 translate russian replay_d10s04_315c3016:
 
     # mc "Well, at least I can't hear them talking about the contract."
     mc "Ну, по крайней мере, я не слышу, как они говорят о контракте."
 
-# game/code/d10/d10s04.rpy:472
+# game/code/d10/d10s04.rpy:477
 translate russian replay_d10s04_47de0419:
 
     # mh "I promise you this will be much more interesting than any contract."
     mh "Обещаю, это будет намного интереснее, чем любой контракт."
 
-# game/code/d10/d10s04.rpy:474
+# game/code/d10/d10s04.rpy:479
 translate russian replay_d10s04_fa906d30:
 
     # mc "So, we just have to make sure we don't take so long they wonder what happened to us."
     mc "Так что нам просто нужно постараться не потратить на это много времени, что они не заметили."
 
-# game/code/d10/d10s04.rpy:477
+# game/code/d10/d10s04.rpy:482
 translate russian replay_d10s04_87c10b71:
 
     # mh "You'd be surprised how long a simple rental contract can be."
     mh "Ты удивишься, как долго может длиться заключение простого договора аренды."
 
-# game/code/d10/d10s04.rpy:480
+# game/code/d10/d10s04.rpy:485
 translate russian replay_d10s04_41f550cf:
 
     # mc "Suddenly I find myself looking forward to a long, complicated negotiation process."
     mc "Внезапно я понял, что с нетерпением жду долгого и сложного переговорного процесса."
 
-# game/code/d10/d10s04.rpy:483
+# game/code/d10/d10s04.rpy:488
 translate russian replay_d10s04_803846d1:
 
     # mh "In here it is not so complicated..."
     mh "Это не так уж и сложно..."
 
-# game/code/d10/d10s04.rpy:486
+# game/code/d10/d10s04.rpy:491
 translate russian replay_d10s04_6ee0afec:
 
     # mh "...but it is getting pretty long..."
     mh "...но это довольно долго..."
 
-# game/code/d10/d10s04.rpy:489
+# game/code/d10/d10s04.rpy:494
 translate russian replay_d10s04_cf574cb2:
 
     # mh "...and should be plenty hard enough for both of us."
     mh "..и должно быть достаточно тяжело для нас обоих."
 
-# game/code/d10/d10s04.rpy:492
+# game/code/d10/d10s04.rpy:497
 translate russian replay_d10s04_4503af46:
 
     # mc "Somehow your beauty always manages to surprise me."
     mc "Почему-то твоя красота всегда удивляет меня"
 
-# game/code/d10/d10s04.rpy:494
+# game/code/d10/d10s04.rpy:499
 translate russian replay_d10s04_49874b7c:
 
     # mc "Let's see what I can do..."
     mc "Посмотрим, что я смогу сделать..."
 
-# game/code/d10/d10s04.rpy:497
+# game/code/d10/d10s04.rpy:502
 translate russian replay_d10s04_c7eab8ba:
 
     # mc "Let's see what I can do about firming up the opposition."
     mc "Посмотрим, что я могу сделать, чтобы укрепить оппозицию."
 
-# game/code/d10/d10s04.rpy:500
+# game/code/d10/d10s04.rpy:505
 translate russian replay_d10s04_77aecfe2:
 
     # mh "You seem to have a very compelling argument."
     mh "Похоже, у тебя есть очень убедительные аргументы."
 
-# game/code/d10/d10s04.rpy:503
+# game/code/d10/d10s04.rpy:508
 translate russian replay_d10s04_202616cd:
 
     # mc "I wonder if we should begin oral arguments."
     mc "Интересно, не начать ли нам устные споры?"
 
-# game/code/d10/d10s04.rpy:506
+# game/code/d10/d10s04.rpy:511
 translate russian replay_d10s04_42a22b24:
 
     # mh "I was thinking of cross examination..."
     mh "Я думала о перекрестном допросе..."
 
-# game/code/d10/d10s04.rpy:509
+# game/code/d10/d10s04.rpy:514
 translate russian replay_d10s04_4662b390:
 
     # mc "Are you prepared with your rebuttal?"
     mc "Готова ли ты к ответным доводам?"
 
-# game/code/d10/d10s04.rpy:512
+# game/code/d10/d10s04.rpy:517
 translate russian replay_d10s04_cbdea6da:
 
     # mh "I motion to prolong discovery."
     mh "Я ходатайствую о продлении открытия."
 
-# game/code/d10/d10s04.rpy:514
+# game/code/d10/d10s04.rpy:519
 translate russian replay_d10s04_ec5792d5:
 
     # mh "Unless you want to present your rebuttal."
     mh "Если только ты не хочешь представить свой довод."
 
-# game/code/d10/d10s04.rpy:517
+# game/code/d10/d10s04.rpy:522
 translate russian replay_d10s04_6e7a6c20:
 
     # mh "Although you might make too much noise if my co-counsel tore your arguments apart."
     mh "Хотя ты можешь наделать много шума, если мой консул разорвет твои аргументы на части."
 
-# game/code/d10/d10s04.rpy:520
+# game/code/d10/d10s04.rpy:525
 translate russian replay_d10s04_baa587ba:
 
     # mc "I suspect you have something else in mind."
     mc "Я подозреваю, что у тебя есть еще кое-что на уме."
 
-# game/code/d10/d10s04.rpy:528
+# game/code/d10/d10s04.rpy:533
 translate russian replay_d10s04_b611674b:
 
     # mh "Oh yeah, have you ever negotiated like this?"
     mh "Да, ты когда-нибудь вёл такие переговоры?"
 
-# game/code/d10/d10s04.rpy:532
+# game/code/d10/d10s04.rpy:537
 translate russian replay_d10s04_6b19e74e:
 
     # mc "I've heard of grabbing the opposition by the balls during a negotiation, but what do you call this?"
     mc "Я слышал о том, чтобы хватать оппозицию за яйца во время переговоров, но как ты это называешь?"
 
-# game/code/d10/d10s04.rpy:537
+# game/code/d10/d10s04.rpy:542
 translate russian replay_d10s04_1af409cb:
 
     # mh "Frotting."
     mh "Фроттинг."
 
-# game/code/d10/d10s04.rpy:541
+# game/code/d10/d10s04.rpy:546
 translate russian replay_d10s04_12d9a0f6:
 
     # mc "It's... interesting."
     mc "Это... интересно."
 
-# game/code/d10/d10s04.rpy:545
+# game/code/d10/d10s04.rpy:550
 translate russian replay_d10s04_bfea29aa:
 
     # mh "Interesting good or interesting bad?"
     mh "Интересно хорошо или интересно плохо?"
 
-# game/code/d10/d10s04.rpy:553
+# game/code/d10/d10s04.rpy:558
 translate russian replay_d10s04_c96816a3:
 
     # mc "Definitely good. You may continue with the negotiation."
     mc "Определенно хорошо. Ты можешь продолжать переговоры."
 
-# game/code/d10/d10s04.rpy:555
+# game/code/d10/d10s04.rpy:560
 translate russian replay_d10s04_4d84bd9e:
 
     # mh "Get closer!"
     mh "Подойди ближе!"
 
-# game/code/d10/d10s04.rpy:562
+# game/code/d10/d10s04.rpy:567
 translate russian replay_d10s04_0aa8dc6a:
 
     # mh "I'm glad you're enjoying yourself."
     mh "Я рада, что тебе нравится."
 
-# game/code/d10/d10s04.rpy:571
+# game/code/d10/d10s04.rpy:576
 translate russian replay_d10s04_0d246e92:
 
     # mc "I'm enjoying you too."
     mc "Я тоже наслаждаюсь тобой."
 
-# game/code/d10/d10s04.rpy:578
+# game/code/d10/d10s04.rpy:583
 translate russian replay_d10s04_457749d3:
 
     # mc "It's not bad, just not doing anything for me."
     mc "Это не так уж плохо, просто ты ничего для меня не будешь делать."
 
-# game/code/d10/d10s04.rpy:581
+# game/code/d10/d10s04.rpy:586
 translate russian replay_d10s04_3bf94f57:
 
     # mh "Oh, okay."
     mh "Ох, ладно."
 
-# game/code/d10/d10s04.rpy:582
+# game/code/d10/d10s04.rpy:587
 translate russian replay_d10s04_6f066dcc:
 
     # mh "Good to know. I can understand that."
     mh "Приятно слышать. Я это понимаю."
 
-# game/code/d10/d10s04.rpy:585
+# game/code/d10/d10s04.rpy:590
 translate russian replay_d10s04_bb743d53:
 
     # sy "-and this bit about \"throughout the universe, in perpetuity\"?"
     sy "... а эта часть про \"во всей вселенной, навсегда\"?"
 
-# game/code/d10/d10s04.rpy:586
+# game/code/d10/d10s04.rpy:591
 translate russian replay_d10s04_16af6ae1:
 
     # vw "Oh, that's just the image and likeness rights."
     vw "О, это просто образ и подобие прав."
 
-# game/code/d10/d10s04.rpy:587
+# game/code/d10/d10s04.rpy:592
 translate russian replay_d10s04_a85e2897:
 
     # sy "Oh, okay. I guess everything makes sense."
     sy "Ох, ну ладно. Думаю, это имеет смысл."
 
-# game/code/d10/d10s04.rpy:598
+# game/code/d10/d10s04.rpy:603
 translate russian replay_d10s04_6698bfaa:
 
     # mc "I'm coming around to it."
     mc "Я подхожу к этому."
 
-# game/code/d10/d10s04.rpy:607
+# game/code/d10/d10s04.rpy:612
 translate russian replay_d10s04_2e9c9cfb:
 
     # mh "Excellent."
     mh "Превосходно."
 
-# game/code/d10/d10s04.rpy:612
+# game/code/d10/d10s04.rpy:617
 translate russian replay_d10s04_daf4d840:
 
     # "A little longer than a few minutes later."
     "Через несколько минут."
 
-# game/code/d10/d10s04.rpy:649
+# game/code/d10/d10s04.rpy:654
 translate russian d10s04_cum_d2dbc43c:
 
     # mh "The case is mine now!"
     mh "А теперь мое дело!"
 
-# game/code/d10/d10s04.rpy:654
+# game/code/d10/d10s04.rpy:659
 translate russian d10s04_cum_60a18733:
 
     # mc "Motion denied!"
     mc "Ходатайство отклонено!"
 
-# game/code/d10/d10s04.rpy:656
+# game/code/d10/d10s04.rpy:661
 translate russian d10s04_cum_5383ee5c:
 
     # mh "But your honor!"
     mh "Но ваша честь!"
 
-# game/code/d10/d10s04.rpy:659
+# game/code/d10/d10s04.rpy:664
 translate russian d10s04_cum_896f9158:
 
     # mc "This case will be postponed to prevent mistrial!"
     mc "Это дело будет отложено, чтобы предотвратить судебный процесс!"
 
-# game/code/d10/d10s04.rpy:661
+# game/code/d10/d10s04.rpy:666
 translate russian d10s04_cum_92f14344:
 
     # mh "I'm begging for a settlement!"
     mh "Я умоляю об урегулировании!"
 
-# game/code/d10/d10s04.rpy:663
+# game/code/d10/d10s04.rpy:668
 translate russian d10s04_cum_acece756:
 
     # mc "The court will issue you a subpoena for the next part."
     mc "Суд выдаст вам повестку на следующую часть."
 
-# game/code/d10/d10s04.rpy:665
+# game/code/d10/d10s04.rpy:670
 translate russian d10s04_cum_fef03c5f:
 
     # mh "I'm afraid it will lead to a hung jury..."
     mh "Боюсь, это приведет к повешению присяжных..."
 
-# game/code/d10/d10s04.rpy:667
+# game/code/d10/d10s04.rpy:672
 translate russian d10s04_cum_45645c85:
 
     # mc "We shall conclude this case later today!"
     mc "Тогда мы закончим это дело сегодня же!"
 
-# game/code/d10/d10s04.rpy:670
+# game/code/d10/d10s04.rpy:675
 translate russian d10s04_cum_1bd995e0:
 
     # mc "Would you care to retry your position on this argument?"
     mc "Не могли бы вы повторить свою позицию по этому аргументу?"
 
-# game/code/d10/d10s04.rpy:688
+# game/code/d10/d10s04.rpy:694
 translate russian d10s04_cum_f37d2a56:
 
     # mh "It seems like we both successfully made our case."
     mh "Похоже, мы оба успешно сделали свое дело."
 
-# game/code/d10/d10s04.rpy:691
+# game/code/d10/d10s04.rpy:697
 translate russian d10s04_cum_37e35b2a:
 
     # mc "Definitely. Would you care to debate further?"
     mc "Определенно. Не хотите ли продолжить дискуссию?"
 
-# game/code/d10/d10s04.rpy:695
+# game/code/d10/d10s04.rpy:701
 translate russian d10s04_cum_fbce4aa5:
 
     # mh "I'd love to, but we should get back before they notice we're gone."
     mh "Я бы с удовольствием, но мы должны вернуться, прежде чем они заметят, что мы ушли."
 
-# game/code/d10/d10s04.rpy:702
+# game/code/d10/d10s04.rpy:708
 translate russian d10s04_cum_bb743d53:
 
     # sy "-and this bit about \"throughout the universe, in perpetuity\"?"
     sy "... а эта часть про \"во всей вселенной, навсегда\"?"
 
-# game/code/d10/d10s04.rpy:703
+# game/code/d10/d10s04.rpy:709
 translate russian d10s04_cum_16af6ae1:
 
     # vw "Oh, that's just the image and likeness rights."
     vw "О, это просто образ и подобие прав."
 
-# game/code/d10/d10s04.rpy:704
+# game/code/d10/d10s04.rpy:710
 translate russian d10s04_cum_a85e2897:
 
     # sy "Oh, okay. I guess everything makes sense."
     sy "Ох, ну ладно. Думаю, это имеет смысл."
 
-# game/code/d10/d10s04.rpy:713
+# game/code/d10/d10s04.rpy:719
 translate russian d10s04_cum_e9029b89:
 
     # fl "You got [d10s04_fl_points] points."
     fl "Вы получили [d10s04_fl_points] очков."
 
-# game/code/d10/d10s04.rpy:715
+# game/code/d10/d10s04.rpy:721
 translate russian d10s04_cum_0f942b88:
 
     # mct "Hmmm... Why only [d10s04_fl_points]?"
     mct "Хммм... Почему только [d10s04_fl_points]?"
 
-# game/code/d10/d10s04.rpy:717
+# game/code/d10/d10s04.rpy:723
 translate russian d10s04_cum_c1aa597a:
 
     # mct "More points..."
     mct "Больше очков..."
 
-# game/code/d10/d10s04.rpy:724
+# game/code/d10/d10s04.rpy:730
 translate russian d10s04_end_e73689de:
 
     # sy "\"To my greatest fan, Love, Stacy.\""
     sy "\"Моей самой большой поклоннице, с любовью, Стейси.\""
 
-# game/code/d10/d10s04.rpy:726
+# game/code/d10/d10s04.rpy:732
 translate russian d10s04_end_eacbdc93:
 
     # vw "That's not how you sign legal documents."
     vw "Так не подписывают юридические документы."
 
-# game/code/d10/d10s04.rpy:728
+# game/code/d10/d10s04.rpy:734
 translate russian d10s04_end_383b771d:
 
     # sy "I know, I was just kidding."
     sy "Я знаю, я просто пошутила."
 
-# game/code/d10/d10s04.rpy:732
+# game/code/d10/d10s04.rpy:738
 translate russian d10s04_end_ddca17bb:
 
     # mc "I assume there's an accident indemnity clause?"
     mc "Полагаю, там есть пункт о возмещении ущерба в связи с несчастным случаем?"
 
-# game/code/d10/d10s04.rpy:734
+# game/code/d10/d10s04.rpy:740
 translate russian d10s04_end_c713ed6b:
 
     # mh "Never between friends."
     mh "Никогда между друзьями."
 
-# game/code/d10/d10s04.rpy:736
+# game/code/d10/d10s04.rpy:742
 translate russian d10s04_end_2058b688:
 
     # mh "Now we just need the signature of your co-signer."
     mh "Теперь нам нужна подпись твоего напарника."
 
-# game/code/d10/d10s04.rpy:738
+# game/code/d10/d10s04.rpy:744
 translate russian d10s04_end_b4a9a71d:
 
     # vw "Oh yes, [mcname] would you do the honors?"
     vw "Ох, да [mcname] окажешь ли ты эту честь?"
 
-# game/code/d10/d10s04.rpy:741
+# game/code/d10/d10s04.rpy:747
 translate russian d10s04_end_80d8908d:
 
     # sy "Sign away, [mcname]. You've got nothing to lose."
     sy "Распишись, [mcname]. Тебе нечего терять."
 
-# game/code/d10/d10s04.rpy:743
+# game/code/d10/d10s04.rpy:749
 translate russian d10s04_end_a2e7e037:
 
     # mh "Nothing that you haven't verbally agreed to already, that is."
     mh "Ничего такого, о чем бы мы уже не договорились в устной форме."
 
-# game/code/d10/d10s04.rpy:746
+# game/code/d10/d10s04.rpy:752
 translate russian d10s04_end_19bd36f7:
 
     # mc "Alrighty. Let me just scrawl my X on the dotted line."
     mc "Отлично. Позвольте мне просто нацарапать свой крестик на пунктирной линии."
 
-# game/code/d10/d10s04.rpy:749
+# game/code/d10/d10s04.rpy:755
 translate russian d10s04_end_ab68610b:
 
     # sy "Well, this was fun, but we've got to go soon."
     sy "Ну, это было весело, но нам пора идти."
 
-# game/code/d10/d10s04.rpy:751
+# game/code/d10/d10s04.rpy:757
 translate russian d10s04_end_385317f7:
 
     # mh "You do?"
     mh "Вы закончили?"
 
-# game/code/d10/d10s04.rpy:753
+# game/code/d10/d10s04.rpy:759
 translate russian d10s04_end_e36d666b:
 
     # mc "We do?"
     mc "Закончили?"
 
-# game/code/d10/d10s04.rpy:756
+# game/code/d10/d10s04.rpy:762
 translate russian d10s04_end_8c6d6bf5:
 
     # vw "Well, we won't keep you any longer."
     vw "Ну, мы больше не будем вас задерживать."
 
-# game/code/d10/d10s04.rpy:757
+# game/code/d10/d10s04.rpy:763
 translate russian d10s04_end_fcb1e975:
 
     # mc "What are we doing?"
     mc "Что будем делать?"
 
-# game/code/d10/d10s04.rpy:759
+# game/code/d10/d10s04.rpy:765
 translate russian d10s04_end_7c1cfe15:
 
     # sy "Going clothes shopping with AmRose!"
     sy "Я иду по магазинам одежды с АмРоуз!"
 
-# game/code/d10/d10s04.rpy:762
+# game/code/d10/d10s04.rpy:768
 translate russian d10s04_end_b9932ad4:
 
     # mc "Ugh...{w} Why me?"
     mc "Ух...{w} Почему я?"
 
-# game/code/d10/d10s04.rpy:764
+# game/code/d10/d10s04.rpy:770
 translate russian d10s04_end_da99fd9b:
 
     # sy "Because this time we're shopping for you, dummy!"
     sy "Потому что на этот раз мы делаем покупки для тебя, болван!"
 
-# game/code/d10/d10s04.rpy:766
+# game/code/d10/d10s04.rpy:772
 translate russian d10s04_end_8a56deca:
 
     # mc "But I have clothes..."
@@ -1388,11 +1388,11 @@ translate russian d10s04_end_8a56deca:
 
 translate russian strings:
 
-    # game/code/d10/d10s04.rpy:548
+    # game/code/d10/d10s04.rpy:553
     old "Good. Definitely good"
     new "Хорошо. Определенно хорошо"
 
-    # game/code/d10/d10s04.rpy:548
+    # game/code/d10/d10s04.rpy:553
     old "Not my thing"
     new "Это дело не по мне"
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-10-15 09:58
+﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/d10p2/extended/d10p2s06.rpy:37
 translate russian d10p2s06_aca5d234:
@@ -306,85 +306,85 @@ translate russian d10p2s06_08111f0f:
     # dd "And they did it! Kevin and Chloe reach the first mark and relax a little while [mclogin] and URLittlePony are close behind."
     dd "И они это сделали! Кевин и Хлоя достигают первой отметки и немного расслабляются, пока [mclogin] и ТвояМаленькаяПони идут следом."
 
-# game/code/d10p2/extended/d10p2s06.rpy:178
+# game/code/d10p2/extended/d10p2s06.rpy:182
 translate russian replay_d10p2s06_c5f94e54:
 
     # dd "And boy howdy, they don't waste any time at all getting to it!"
     dd "И надо же, они не теряют времени даром!"
 
-# game/code/d10p2/extended/d10p2s06.rpy:180
+# game/code/d10p2/extended/d10p2s06.rpy:184
 translate russian replay_d10p2s06_28d0d2e4:
 
     # dd "I now realize that this might have been a bit unfair to a certain contender...but we'll trudge on through nevertheless!"
     dd "Я понимаю, что возможно, это было бы несправедливо по отношению к претендентам... но, тем не менее, мы будем болеть за них!"
 
-# game/code/d10p2/extended/d10p2s06.rpy:271
+# game/code/d10p2/extended/d10p2s06.rpy:275
 translate russian replay_d10p2s06_5560bc9f:
 
     # dd "It will be interesting to see which team can finish this first and gain the lead."
     dd "Будет интересно посмотреть, какая команда сможет закончить это первой и вырваться вперед."
 
-# game/code/d10p2/extended/d10p2s06.rpy:336
+# game/code/d10p2/extended/d10p2s06.rpy:340
 translate russian replay_d10p2s06_95227897:
 
     # dd "What a turn of events, Ladies and Gentlemen!"
     dd "Какой поворот событий, дамы и господа!"
 
-# game/code/d10p2/extended/d10p2s06.rpy:338
+# game/code/d10p2/extended/d10p2s06.rpy:342
 translate russian replay_d10p2s06_6b2940e0:
 
     # dd "Coming in short at the race, [mclogin] and URLittlePony sure came out fast to take the lead for the very first time!"
     dd "Пройдя первый этап с небольшим отставанием, [mclogin] и ТвояМаленькаяПони уверенно и быстро вышли вперед и захватили лидерство!"
 
-# game/code/d10p2/extended/d10p2s06.rpy:339
+# game/code/d10p2/extended/d10p2s06.rpy:343
 translate russian replay_d10p2s06_1d15fb3d:
 
     # dd "Our previous lead seems to still be going at it vigorously."
     dd "Наш предыдущий лидер продолжает активно работать, чтобы вернуть себе лидерство."
 
-# game/code/d10p2/extended/d10p2s06.rpy:345
+# game/code/d10p2/extended/d10p2s06.rpy:349
 translate russian replay_d10p2s06_401a6215:
 
     # dd "Oh my God, it's as if the power of the equine Gods has been infused into URLittlePony! She's galloping like she has never before!"
     dd "Боже мой, как будто сила лошадиных богов влилась в ТвоюМаленькуюПони! Она скачет как никогда!"
 
-# game/code/d10p2/extended/d10p2s06.rpy:347
+# game/code/d10p2/extended/d10p2s06.rpy:351
 translate russian replay_d10p2s06_b589bac9:
 
     # dd "And there it is, Ladies and Gentlemen! We have our winner!"
     dd "И вот оно, дамы и господа! У нас есть победитель!"
 
-# game/code/d10p2/extended/d10p2s06.rpy:352
+# game/code/d10p2/extended/d10p2s06.rpy:356
 translate russian replay_d10p2s06_49c33519:
 
     # dd "Congratulations you two."
     dd "Поздравляю вас."
 
-# game/code/d10p2/extended/d10p2s06.rpy:354
+# game/code/d10p2/extended/d10p2s06.rpy:358
 translate russian replay_d10p2s06_418df863:
 
     # kb "Congrats, bro."
     kb "Поздравляю, брат."
 
-# game/code/d10p2/extended/d10p2s06.rpy:356
+# game/code/d10p2/extended/d10p2s06.rpy:360
 translate russian replay_d10p2s06_378abd8a:
 
     # cb "Congrats!"
     cb "Поздравляю!"
 
-# game/code/d10p2/extended/d10p2s06.rpy:358
+# game/code/d10p2/extended/d10p2s06.rpy:362
 translate russian replay_d10p2s06_cfdb0c74:
 
     # jf "Yee."
     jf "Дыааа."
 
-# game/code/d10p2/extended/d10p2s06.rpy:364
+# game/code/d10p2/extended/d10p2s06.rpy:368
 translate russian replay_d10p2s06_d8e248f3:
 
     # dd "And now, as Champion Equine, URLittlePony gets to drink out of the legendary Trough of Ultimate Sexual Deviancy, and be truly known through out the lands as the one and only Champion Equine."
     dd "И теперь, как лошадь-чемпион, ТвояМаленькаяПони получает возможность выпить из легендарного Корыта Максимальной Сексуальной Девиантности, и будешь известной во всех землях как единственная и неповторимая лошадь-чемпион."
 
-# game/code/d10p2/extended/d10p2s06.rpy:368
+# game/code/d10p2/extended/d10p2s06.rpy:372
 translate russian replay_d10p2s06_2794fd31:
 
     # "Everybody" "*Chuckles*"

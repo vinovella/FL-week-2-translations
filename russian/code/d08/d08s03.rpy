@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-10-15 09:58
+﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/d08/d08s03.rpy:16
 translate russian d08s03_4ee8cc8f:
@@ -598,7 +598,7 @@ translate russian d08s03_030896a6:
 translate russian d08s03_a0c15eb0:
 
     # mct "Hmm. I'm supposed to be her pee guru. Her master of urination."
-    mct "Хмм. Я должно быть стал ее писающим гуру. Ее мастером мочеиспускания."
+    mct "Хмм. Я должно быть стал ее писающим гуру. Ее учителем уринации."
 
 # game/code/d08/d08s03.rpy:276
 translate russian d08s03_5ce36734:

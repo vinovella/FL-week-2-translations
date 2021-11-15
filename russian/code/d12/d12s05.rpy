@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-10-15 09:58
+﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/d12/d12s05.rpy:17
 translate russian d12s05_1758d1cc:
@@ -960,235 +960,235 @@ translate russian d12s05_part2_9f358fa6:
     # "One hour later"
     "Час спустя."
 
-# game/code/d12/d12s05.rpy:516
+# game/code/d12/d12s05.rpy:521
 translate russian replay_d12s05_c96c4835:
 
     # lc "I want this."
     lc "Я хочу этого."
 
-# game/code/d12/d12s05.rpy:518
+# game/code/d12/d12s05.rpy:523
 translate russian replay_d12s05_2e29f150:
 
     # mc "I want this too."
     mc "Я тоже этого хочу."
 
-# game/code/d12/d12s05.rpy:531
+# game/code/d12/d12s05.rpy:536
 translate russian replay_d12s05_a967a52c:
 
     # lc "I want this so badly."
     lc "Я так сильно этого хочу."
 
-# game/code/d12/d12s05.rpy:534
+# game/code/d12/d12s05.rpy:539
 translate russian replay_d12s05_6a093463:
 
     # mc "I want this moment to last forever."
     mc "Я хочу, чтобы этот момент длился вечно."
 
-# game/code/d12/d12s05.rpy:548
+# game/code/d12/d12s05.rpy:553
 translate russian replay_d12s05_cd3c7dce:
 
     # lc "I want this too much."
     lc "Я слишком сильно этого хочу."
 
-# game/code/d12/d12s05.rpy:552
+# game/code/d12/d12s05.rpy:557
 translate russian replay_d12s05_11091733:
 
     # mc "I know exactly what you mean."
     mc "Я прекрасно понимаю, что ты имеешь в виду."
 
-# game/code/d12/d12s05.rpy:557
+# game/code/d12/d12s05.rpy:562
 translate russian replay_d12s05_c43039a6:
 
     # lc "I can't stop myself."
     lc "Я не могу остановиться."
 
-# game/code/d12/d12s05.rpy:559
+# game/code/d12/d12s05.rpy:564
 translate russian replay_d12s05_384fdbb5:
 
     # mc "You're doing great. Keep going."
     mc "Ты отлично справляешься. Продолжай."
 
-# game/code/d12/d12s05.rpy:562
+# game/code/d12/d12s05.rpy:567
 translate russian replay_d12s05_054d9457:
 
     # lc "I need you to stop me."
     lc "Мне нужно, чтобы ты остановил меня."
 
-# game/code/d12/d12s05.rpy:565
+# game/code/d12/d12s05.rpy:570
 translate russian replay_d12s05_61b50881:
 
     # mc "... what?"
     mc "... Что?"
 
-# game/code/d12/d12s05.rpy:568
+# game/code/d12/d12s05.rpy:573
 translate russian replay_d12s05_6678b814:
 
     # lc "Please... {w}Stop me."
     lc "Пожалуйста... {w}Останови меня."
 
-# game/code/d12/d12s05.rpy:601
+# game/code/d12/d12s05.rpy:606
 translate russian d12s05_hjcum_2f6d7d01:
 
     # mc "Oh, your dress. {w}I'm sorry."
     mc "Ох, твое платье. {w}Извини."
 
-# game/code/d12/d12s05.rpy:604
+# game/code/d12/d12s05.rpy:609
 translate russian d12s05_hjcum_94855dfc:
 
     # lc "Yeah. It's okay, but I'm going to go clean up."
     lc "Да. Все в порядке, но я пойду приведу себя в порядок."
 
-# game/code/d12/d12s05.rpy:607
+# game/code/d12/d12s05.rpy:612
 translate russian d12s05_hjcum_a4ec78b1:
 
     # mc "The bathroom is-"
     mc "Туалетная комната..."
 
-# game/code/d12/d12s05.rpy:610
+# game/code/d12/d12s05.rpy:615
 translate russian d12s05_hjcum_844b458e:
 
     # lc "I think I'll just head home and get a shower."
     lc "Думаю, я просто пойду домой и приму душ."
 
-# game/code/d12/d12s05.rpy:613
+# game/code/d12/d12s05.rpy:618
 translate russian d12s05_hjcum_f7d3cdb3:
 
     # mc "That makes sense."
     mc "В этом есть смысл."
 
-# game/code/d12/d12s05.rpy:615
+# game/code/d12/d12s05.rpy:620
 translate russian d12s05_hjcum_2ba1596b:
 
     # mc "This was awesome. Thank you so much for that."
     mc "Это было потрясающе. Большое тебе за это спасибо."
 
-# game/code/d12/d12s05.rpy:618
+# game/code/d12/d12s05.rpy:623
 translate russian d12s05_hjcum_2a60131d:
 
     # lc "I enjoyed it too."
     lc "Мне тоже понравилось."
 
-# game/code/d12/d12s05.rpy:634
+# game/code/d12/d12s05.rpy:639
 translate russian d12s05_hjcum_fae3dd2f:
 
     # mct "I hate to see her go, but I love to watch her leave."
     mct "Мне неприятно что она уходит, но мне нравится смотреть, как она идёт."
 
-# game/code/d12/d12s05.rpy:651
+# game/code/d12/d12s05.rpy:656
 translate russian d12s05_stop_96ef0c34:
 
     # mc "Wait. {w}Wait."
     mc "Подожди. {w}Остановись."
 
-# game/code/d12/d12s05.rpy:653
+# game/code/d12/d12s05.rpy:658
 translate russian d12s05_stop_936884cb:
 
     # mc "You can stop."
     mc "Ты можешь остановиться."
 
-# game/code/d12/d12s05.rpy:656
+# game/code/d12/d12s05.rpy:661
 translate russian d12s05_stop_7698f9cc:
 
     # lc "But you need-"
     lc "Но тебе нужно..."
 
-# game/code/d12/d12s05.rpy:659
+# game/code/d12/d12s05.rpy:664
 translate russian d12s05_stop_a750bfe9:
 
     # mc "It's okay. {w}All I need is you."
     mc "Все в порядке. {w}Все, что мне нужно, это ты."
 
-# game/code/d12/d12s05.rpy:662
+# game/code/d12/d12s05.rpy:667
 translate russian d12s05_stop_fc8667cc:
 
     # lc "Are you sure?"
     lc "Ты уверен?"
 
-# game/code/d12/d12s05.rpy:664
+# game/code/d12/d12s05.rpy:669
 translate russian d12s05_stop_f05db5ad:
 
     # mc "I am certain."
     mc "Я уверен."
 
-# game/code/d12/d12s05.rpy:666
+# game/code/d12/d12s05.rpy:671
 translate russian d12s05_stop_92c98c98:
 
     # mct "I am certain to have a massive case of blue balls{w}, but I can deal with that."
     mct "У меня наверняка будут огромные синие яйца, {w}но с этим я справлюсь."
 
-# game/code/d12/d12s05.rpy:669
+# game/code/d12/d12s05.rpy:674
 translate russian d12s05_stop_0ba3c149:
 
     # lc "Okay. {w}Thank you. I promise to make it up to you someday."
     lc "Ладно. {w}Спасибо. Я обещаю когда-нибудь загладить свою вину перед тобой."
 
-# game/code/d12/d12s05.rpy:673
+# game/code/d12/d12s05.rpy:678
 translate russian d12s05_stop_f59dbc2e:
 
     # lc "I would love to spend the rest of the day with you, but something has come up."
     lc "Я бы с удовольствием провела с тобой остаток дня, но кое-что случилось."
 
-# game/code/d12/d12s05.rpy:676
+# game/code/d12/d12s05.rpy:681
 translate russian d12s05_stop_17008257:
 
     # mc "Do you need any help?"
     mc "Тебе нужна какая-нибудь помощь?"
 
-# game/code/d12/d12s05.rpy:679
+# game/code/d12/d12s05.rpy:684
 translate russian d12s05_stop_b8825c8b:
 
     # lc "You're so awesome. {w}Thanks, but some things a girl has to do for herself."
     lc "Ты такой замечательный. {w}Спасибо, но некоторые вещи девушка должна делать сама."
 
-# game/code/d12/d12s05.rpy:692
+# game/code/d12/d12s05.rpy:697
 translate russian d12s05_end_311077a0:
 
     # mct "Shit, I missed a text from Daisy."
     mct "Черт, я пропустил сообщение от Дейзи."
 
-# game/code/d12/d12s05.rpy:693
+# game/code/d12/d12s05.rpy:698
 translate russian d12s05_end_2be66ccc:
 
     # dd "Hey can you pick me up?{w} Done with tests."
     dd "Привет, ты можешь заехать за мной? {w}Мы закончили с тестами."
 
-# game/code/d12/d12s05.rpy:694
+# game/code/d12/d12s05.rpy:699
 translate russian d12s05_end_38cb890c:
 
     # "Sent 10 minutes ago."
     "Отправлено 10 минут назад."
 
-# game/code/d12/d12s05.rpy:696
+# game/code/d12/d12s05.rpy:701
 translate russian d12s05_end_5fd416f6:
 
     # mct "Not too bad. Still got time."
     mct "Не так уж и плохо. Еще есть время."
 
-# game/code/d12/d12s05.rpy:700
+# game/code/d12/d12s05.rpy:705
 translate russian d12s05_end_2fd0ff4a:
 
     # mct "Dahlia?"
     mct "Далия?"
 
-# game/code/d12/d12s05.rpy:701
+# game/code/d12/d12s05.rpy:706
 translate russian d12s05_end_a67acd13:
 
     # dw "My place 30 minutes.{w} You better fucking show up."
     dw "У меня через 30 минут. {w}И тебе лучше, блядь, не опаздывать."
 
-# game/code/d12/d12s05.rpy:702
+# game/code/d12/d12s05.rpy:707
 translate russian d12s05_end_3c256300:
 
     # "Sent 5 minutes ago."
     "Отправлено 5 минут назад."
 
-# game/code/d12/d12s05.rpy:705
+# game/code/d12/d12s05.rpy:710
 translate russian d12s05_end_26b3a8c8:
 
     # mct "What does she want? Where does she even live?"
     mct "Чего она хочет? Где она вообще живет?"
 
-# game/code/d12/d12s05.rpy:707
+# game/code/d12/d12s05.rpy:712
 translate russian d12s05_end_ec5f67dd:
 
     # mct "Note to self: Remember to call Lydia tonight."
@@ -1204,11 +1204,11 @@ translate russian strings:
     old "Dirty Dancing would have been better"
     new "Грязные танцы - были бы лучше"
 
-    # game/code/d12/d12s05.rpy:569
+    # game/code/d12/d12s05.rpy:574
     old "Let Lydia Complete this Handjob"
     new "Пусть Лидия закончит эту дрочку"
 
-    # game/code/d12/d12s05.rpy:569
+    # game/code/d12/d12s05.rpy:574
     old "Stop Lydia Before You Cum"
     new "Останови Лидию, пока не кончил"
 

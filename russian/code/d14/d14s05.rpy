@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-10-15 09:58
+﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/d14/d14s05.rpy:8
 translate russian d14s05_2bf3d221:
@@ -1468,7 +1468,7 @@ translate russian d14s05_519ce556:
 translate russian d14s05_dddffe43:
 
     # mc "Fucked her ass and made her call me \"Master\" a few days ago? Yes."
-    mc "Трахнул ее в задницу и заставил называть меня \"Мастер\" несколько дней назад? Да."
+    mc "Трахнул ее в задницу и заставил называть меня \"Господином\" несколько дней назад? Да."
 
 # game/code/d14/d14s05.rpy:760
 translate russian d14s05_a39de645:

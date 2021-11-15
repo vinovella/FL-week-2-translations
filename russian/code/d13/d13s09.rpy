@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-10-15 09:58
+﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/d13/d13s09.rpy:24
 translate russian d13s09_60af0d4f:
@@ -264,145 +264,145 @@ translate russian replay_d13s09_981e93af:
     # sy "I've wanted this for so long!"
     sy "Я так давно этого хотела!"
 
-# game/code/d13/d13s09.rpy:296
+# game/code/d13/d13s09.rpy:297
 translate russian replay_d13s09_40511e6c:
 
     # "*knock knock*"
     "*тук-тук*"
 
-# game/code/d13/d13s09.rpy:302
+# game/code/d13/d13s09.rpy:303
 translate russian replay_d13s09_7add0d96:
 
     # mc "Who...?"
     mc "Кто...?"
 
-# game/code/d13/d13s09.rpy:305
+# game/code/d13/d13s09.rpy:306
 translate russian replay_d13s09_44048e90:
 
     # sy "AmRose! She was... I forgot!"
     sy "АмРоуз! Она должна была прийти... Я забыла!"
 
-# game/code/d13/d13s09.rpy:310
+# game/code/d13/d13s09.rpy:311
 translate russian replay_d13s09_716b85ff:
 
     # mc "Get dressed! Quickly!"
     mc "Одевайся! Быстрее!"
 
-# game/code/d13/d13s09.rpy:326
+# game/code/d13/d13s09.rpy:328
 translate russian replay_d13s09_e6fe0f56:
 
     # arj "[mcname], Stacy, open the door!"
     arj "[mcname], Стейси, откройте дверь!"
 
-# game/code/d13/d13s09.rpy:329
+# game/code/d13/d13s09.rpy:331
 translate russian replay_d13s09_8507bd45:
 
     # arj "C'mon! It is heavy! Open already!"
     arj "Ну же! Мне тяжело! Открывайте уже!"
 
-# game/code/d13/d13s09.rpy:333
+# game/code/d13/d13s09.rpy:335
 translate russian replay_d13s09_d0f077f7:
 
     # mc "Hey AmRose!"
     mc "Привет, АмРоуз!"
 
-# game/code/d13/d13s09.rpy:335
+# game/code/d13/d13s09.rpy:337
 translate russian replay_d13s09_5c3444f0:
 
     # arj "What took you so long!"
     arj "Почему так долго!"
 
-# game/code/d13/d13s09.rpy:338
+# game/code/d13/d13s09.rpy:340
 translate russian replay_d13s09_11dd86c3:
 
     # mc "Sorry, I didn't hear you knocking, and Stacy is in the bathroom."
     mc "Извини, я не слышал, как ты стучала, а Стейси в ванной."
 
-# game/code/d13/d13s09.rpy:340
+# game/code/d13/d13s09.rpy:342
 translate russian replay_d13s09_b5a479b9:
 
     # arj "Great... Take it!"
     arj "Здорово... Возьми!"
 
-# game/code/d13/d13s09.rpy:343
+# game/code/d13/d13s09.rpy:345
 translate russian replay_d13s09_2681b642:
 
     # mc "What is this?"
     mc "Что это?"
 
-# game/code/d13/d13s09.rpy:347
+# game/code/d13/d13s09.rpy:349
 translate russian replay_d13s09_0b1747e7:
 
     # arj "All the stuff that we need to renovate the apartment!"
     arj "Все, что нам нужно для ремонта квартиры!"
 
-# game/code/d13/d13s09.rpy:349
+# game/code/d13/d13s09.rpy:351
 translate russian replay_d13s09_9dcf78cd:
 
     # mc "Ah! Thanks! Do you want something to drink? I think Stacy has tea."
     mc "Ах! Спасибо! Хочешь чего-нибудь выпить? Думаю, у Стейси есть чай."
 
-# game/code/d13/d13s09.rpy:352
+# game/code/d13/d13s09.rpy:354
 translate russian replay_d13s09_2e80fa74:
 
     # arj "Nah, we need to get to sleep soon so that we can start working early morning and prepare for the party as well."
     arj "Нет, нам нужно поскорее лечь спать, чтобы мы могли начать работу с утра пораньше и успеть подготовиться к вечеринке."
 
-# game/code/d13/d13s09.rpy:354
+# game/code/d13/d13s09.rpy:356
 translate russian replay_d13s09_606e2d02:
 
     # mc "Sure."
     mc "Конечно."
 
-# game/code/d13/d13s09.rpy:361
+# game/code/d13/d13s09.rpy:363
 translate russian replay_d13s09_e567deaf:
 
     # arj "Just moved in and already making a mess?"
     arj "Только что переехала и уже устраивает беспорядок?"
 
-# game/code/d13/d13s09.rpy:363
+# game/code/d13/d13s09.rpy:365
 translate russian replay_d13s09_52e44460:
 
     # mc "That's exactly what I told her..."
     mc "Именно это я ей и сказал..."
 
-# game/code/d13/d13s09.rpy:366
+# game/code/d13/d13s09.rpy:368
 translate russian replay_d13s09_2363ba5b:
 
     # mc "Oh right, she was shouting something about her bathrobe right before I heard you knocking..."
     mc "Ах да, она кричала что-то о своем халате прямо перед тем, как я услышал, как ты стучишь."
 
-# game/code/d13/d13s09.rpy:373
+# game/code/d13/d13s09.rpy:375
 translate russian replay_d13s09_db74168a:
 
     # mc "(loud) Hey, Stacy the bathrobe you asked for!"
     mc "(громко) Эй, Стейси, купальный халат, который ты просила!"
 
-# game/code/d13/d13s09.rpy:376
+# game/code/d13/d13s09.rpy:378
 translate russian replay_d13s09_1c3b69e7:
 
     # mc "She said that she is almost done."
     mc "Она сказала, что почти закончила."
 
-# game/code/d13/d13s09.rpy:379
+# game/code/d13/d13s09.rpy:381
 translate russian replay_d13s09_f8f14412:
 
     # arj "Okay.{w}.. Did you also have the shirt backwards when we met during the day?"
     arj "Ладно.{w}.. У тебя футболка тоже была надета задом наперед, когда мы встречались днем?"
 
-# game/code/d13/d13s09.rpy:382
+# game/code/d13/d13s09.rpy:384
 translate russian replay_d13s09_990efdf3:
 
     # mc "Oh? What? Is it backwards?? Why didn't you tell me this earlier!"
     mc "А? Что? Задом наперед?? Почему ты не сказала об этом раньше!"
 
-# game/code/d13/d13s09.rpy:384
+# game/code/d13/d13s09.rpy:386
 translate russian replay_d13s09_02340cc6:
 
     # arj "I just noticed..."
     arj "Я только что заметила..."
 
-# game/code/d13/d13s09.rpy:387
+# game/code/d13/d13s09.rpy:389
 translate russian replay_d13s09_9fb0e6e2:
 
     # sy "Ok, I'm finished! Who's next?"

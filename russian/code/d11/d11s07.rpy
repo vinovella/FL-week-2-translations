@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-10-15 09:58
+﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/d11/d11s07.rpy:50
 translate russian d11s07_a362d45b:
@@ -438,613 +438,613 @@ translate russian d11s07_1a3ce239:
     # mc "Pretty much."
     mc "Большую часть."
 
-# game/code/d11/d11s07.rpy:274
+# game/code/d11/d11s07.rpy:279
 translate russian replay_d11s07_bd75958a:
 
     # mc "After that Allison and I started going at it. She is quite the performer. We..."
     mc "После этого мы с Эллисон начали заниматься этим. Она - настоящая артистка. Мы..."
 
-# game/code/d11/d11s07.rpy:285
+# game/code/d11/d11s07.rpy:290
 translate russian replay_d11s07_1530360d:
 
     # lc "Wow. Are you at a loss for words thinking about it?"
     lc "Вау. Ты не находишь слов, когда думаешь об этом?"
 
-# game/code/d11/d11s07.rpy:288
+# game/code/d11/d11s07.rpy:293
 translate russian replay_d11s07_fbeffde4:
 
     # mc "You could say that."
     mc "Можно и так сказать."
 
-# game/code/d11/d11s07.rpy:289
+# game/code/d11/d11s07.rpy:294
 translate russian replay_d11s07_b052d6b2:
 
     # lc "She must be good at that sort of thing."
     lc "Она, должно быть, хороша в таких вещах."
 
-# game/code/d11/d11s07.rpy:299
+# game/code/d11/d11s07.rpy:304
 translate russian replay_d11s07_4ecdba4e:
 
     # mc "I want your face here, right now."
     mc "Я хотел бы, чтобы твое лицо было здесь, прямо сейчас."
 
-# game/code/d11/d11s07.rpy:304
+# game/code/d11/d11s07.rpy:309
 translate russian replay_d11s07_4871923e:
 
     # lc "What do you mean?"
     lc "Что ты имеешь в виду?"
 
-# game/code/d11/d11s07.rpy:308
+# game/code/d11/d11s07.rpy:313
 translate russian replay_d11s07_d101485c:
 
     # mc "I was just thinking about that first kiss."
     mc "Я просто думал о поцелуе."
 
-# game/code/d11/d11s07.rpy:309
+# game/code/d11/d11s07.rpy:314
 translate russian replay_d11s07_04582a4f:
 
     # mc "Your lips were so soft and sensual, yet you were excited and filled with a playful energy."
     mc "Твои губы такие мягкие и чувственные, но ты при этом была бы возбуждена и полна игривой энергии."
 
-# game/code/d11/d11s07.rpy:313
+# game/code/d11/d11s07.rpy:318
 translate russian replay_d11s07_e1665160:
 
     # lc "That was an excellent kiss. I wish I was there to kiss you."
     lc "Это был бы превосходный поцелуй. Жаль, что меня нет рядом, чтобы поцеловать тебя."
 
-# game/code/d11/d11s07.rpy:314
+# game/code/d11/d11s07.rpy:319
 translate russian replay_d11s07_43517fa6:
 
     # lc "Even though this is just a phone call, I feel so close to you right now."
     lc "Хотя это всего лишь телефонный разговор, я чувствую себя так близко к тебе сейчас."
 
-# game/code/d11/d11s07.rpy:316
+# game/code/d11/d11s07.rpy:321
 translate russian replay_d11s07_713319c5:
 
     # mc "Exactly. That's what I'm talking about."
     mc "Именно так. Об этом я и говорю."
 
-# game/code/d11/d11s07.rpy:321
+# game/code/d11/d11s07.rpy:326
 translate russian replay_d11s07_177d3eb2:
 
     # mc "What are you doing?"
     mc "Что ты делаешь?"
 
-# game/code/d11/d11s07.rpy:326
+# game/code/d11/d11s07.rpy:331
 translate russian replay_d11s07_d11529fa:
 
     # mc "I mean, what are you doing right now?"
     mc "Я имею в виду, что ты сейчас делаешь?"
 
-# game/code/d11/d11s07.rpy:327
+# game/code/d11/d11s07.rpy:332
 translate russian replay_d11s07_0310a496:
 
     # lc "Nothing other than listening to you. Thinking about you."
     lc "Ничего, слушаю тебя. И думаю о тебе."
 
-# game/code/d11/d11s07.rpy:329
+# game/code/d11/d11s07.rpy:334
 translate russian replay_d11s07_8b802c34:
 
     # mc "Really? Right now?"
     mc "Действительно? Прямо сейчас?"
 
-# game/code/d11/d11s07.rpy:333
+# game/code/d11/d11s07.rpy:338
 translate russian replay_d11s07_22b421a4:
 
     # lc "I was just thinking about the way you held me close when I leapt into your arms after singing on stage."
     lc "Я просто думала о том, как ты прижимал меня к себе, когда я прыгнула в твои объятия после пения на сцене."
 
-# game/code/d11/d11s07.rpy:335
+# game/code/d11/d11s07.rpy:340
 translate russian replay_d11s07_4839a417:
 
     # mc "Oh my goodness - Yes! {w}That was an amazing kiss."
     mc "О боже мой - Да! {w}Это был потрясающий поцелуй."
 
-# game/code/d11/d11s07.rpy:336
+# game/code/d11/d11s07.rpy:341
 translate russian replay_d11s07_04be7e1e:
 
     # lc "Everything with you has been even better than I could have imagined."
     lc "С тобой всё получается лучше, чем я могу себе представить."
 
-# game/code/d11/d11s07.rpy:343
+# game/code/d11/d11s07.rpy:348
 translate russian replay_d11s07_3558d353:
 
     # lc "But please, continue the story. You were telling me about the main event."
     lc "Но пожалуйста, продолжай рассказ. Ты рассказывал о главном событии."
 
-# game/code/d11/d11s07.rpy:347
+# game/code/d11/d11s07.rpy:352
 translate russian replay_d11s07_6b34db27:
 
     # mc "Yeah, yeah. {w}So, by this point I felt like I was about to cum to a finish, so I needed a distraction."
     mc "Да, да. {w}Итак, к этому моменту я чувствовал, что вот-вот кончу, так что мне нужно было отвлечься."
 
-# game/code/d11/d11s07.rpy:351
+# game/code/d11/d11s07.rpy:356
 translate russian replay_d11s07_29c9c118:
 
     # mc "So I invited members of the audience to enjoy Allison with me."
     mc "Поэтому я пригласил зрителей насладиться Эллисон вместе со мной."
 
-# game/code/d11/d11s07.rpy:352
+# game/code/d11/d11s07.rpy:357
 translate russian replay_d11s07_89f15581:
 
     # lc "You didn't!"
     lc "Ты не мог этого сделать!"
 
-# game/code/d11/d11s07.rpy:354
+# game/code/d11/d11s07.rpy:359
 translate russian replay_d11s07_b131317d:
 
     # mc "I totally did. Only a couple of women came forward, but they groped, fondled, and kissed Allison while we were hot & heavy."
     mc "Я точно это сделал. Но только пара девушек вышла вперед, и они ощупывали, ласкали и целовали Эллисон, пока мы продолжали заниматься сексом."
 
-# game/code/d11/d11s07.rpy:361
+# game/code/d11/d11s07.rpy:366
 translate russian replay_d11s07_6622bbab:
 
     # lc "That sounds incredible! I can't even imagine what that must have been like."
     lc "Это звучит невероятно! Я даже представить себе не могу, каково это было."
 
-# game/code/d11/d11s07.rpy:368
+# game/code/d11/d11s07.rpy:373
 translate russian replay_d11s07_c49d34c6:
 
     # mc "I can't tell you how many times I was about ready to blow my load.{w}.. but she just changed her pace or position and kept me edging for the audience."
     mc "Я даже не могу сказать, сколько раз я был готов кончить.{w}.. но она просто меняла темп или позу и держала меня наготове для зрителей."
 
-# game/code/d11/d11s07.rpy:369
+# game/code/d11/d11s07.rpy:374
 translate russian replay_d11s07_57175832:
 
     # mc "It seemed to go on forever. Or at least a few hours."
     mc "Казалось, что это продолжается вечно. Или, по крайней мере, несколько часов."
 
-# game/code/d11/d11s07.rpy:370
+# game/code/d11/d11s07.rpy:375
 translate russian replay_d11s07_2d16b106:
 
     # lc "Really? Did you two do the entire Kama Sutra?"
     lc "Правда? Вы двое сделали все позы из Камасутры?"
 
-# game/code/d11/d11s07.rpy:373
+# game/code/d11/d11s07.rpy:378
 translate russian replay_d11s07_7671e3c2:
 
     # mc "I think she found some positions not even in that book."
     mc "Думаю, некоторых поз нет даже в этой книге."
 
-# game/code/d11/d11s07.rpy:378
+# game/code/d11/d11s07.rpy:383
 translate russian replay_d11s07_24e9175d:
 
     # lc "Tell me about the... what-do-you-call-it? The finale. The money changer or whatever."
     lc "Расскажи мне об этом... как-вы-это-называете? То что в финале."
 
-# game/code/d11/d11s07.rpy:380
+# game/code/d11/d11s07.rpy:385
 translate russian replay_d11s07_e3756f77:
 
     # mc "Oh, the money shot?"
     mc "А, последний аккорд?"
 
-# game/code/d11/d11s07.rpy:381
+# game/code/d11/d11s07.rpy:386
 translate russian replay_d11s07_9e7b179c:
 
     # lc "Yes! That!"
     lc "Да! Это!"
 
-# game/code/d11/d11s07.rpy:385
+# game/code/d11/d11s07.rpy:390
 translate russian replay_d11s07_f0b8e73d:
 
     # mc "My mind was such a swirl and blur of sexual energy, I barely remember anything."
     mc "Мой разум был поглощён таким вихрем сексуальной энергии, что я почти ничего не помню."
 
-# game/code/d11/d11s07.rpy:386
+# game/code/d11/d11s07.rpy:391
 translate russian replay_d11s07_55687ce4:
 
     # mc "I know she gave me some options where I could jizz on her so the audience would enjoy the view, but damn. I can't even remember."
     mc "Я помню, что она предложила мне несколько вариантов, как я мог бы кончить на нее, чтобы зрители наслаждались зрелищем, но, черт возьми. Я даже не могу вспомнить."
 
-# game/code/d11/d11s07.rpy:387
+# game/code/d11/d11s07.rpy:392
 translate russian replay_d11s07_4635e923:
 
     # lc "I'm sure the audience loved every moment of it."
     lc "Я уверена, что зрители наслаждались каждым моментом."
 
-# game/code/d11/d11s07.rpy:390
+# game/code/d11/d11s07.rpy:395
 translate russian replay_d11s07_2d22c8be:
 
     # mc "I imagine they did, but I had kinda forgotten about them. Everything just poured out of me all at once, ya'know?"
     mc "Думаю, что да, но я забыл о них. Всё выплеснулось из меня сразу, понимаешь?"
 
-# game/code/d11/d11s07.rpy:391
+# game/code/d11/d11s07.rpy:396
 translate russian replay_d11s07_25f25523:
 
     # lc "I think I do."
     lc "Думаю, да."
 
-# game/code/d11/d11s07.rpy:393
+# game/code/d11/d11s07.rpy:398
 translate russian replay_d11s07_f45c3288:
 
     # lc "Hey, Love?"
     lc "Эй, любимый?"
 
-# game/code/d11/d11s07.rpy:395
+# game/code/d11/d11s07.rpy:400
 translate russian replay_d11s07_191559e1:
 
     # mc "What's up?"
     mc "Что?"
 
-# game/code/d11/d11s07.rpy:402
+# game/code/d11/d11s07.rpy:407
 translate russian replay_d11s07_b0bdc16d:
 
     # lc "I was just about to head back inside and get some sleep."
     lc "Я собираюсь вернуться в дом и немного поспать."
 
-# game/code/d11/d11s07.rpy:403
+# game/code/d11/d11s07.rpy:408
 translate russian replay_d11s07_88038e72:
 
     # mc "Yeah. That's probably a good idea."
     mc "Да. Наверное, это хорошая идея."
 
-# game/code/d11/d11s07.rpy:409
+# game/code/d11/d11s07.rpy:414
 translate russian replay_d11s07_d060df5b:
 
     # lc "We should wrap this up before AmRose gets back too."
     lc "Мы должны закончить этот разговор до того, как АмРоуз вернется."
 
-# game/code/d11/d11s07.rpy:411
+# game/code/d11/d11s07.rpy:416
 translate russian replay_d11s07_0bae50a6:
 
     # mc "Uh... yeah."
     mc "Эм... да."
 
-# game/code/d11/d11s07.rpy:416
+# game/code/d11/d11s07.rpy:421
 translate russian replay_d11s07_5da613ee:
 
     # lc "Alright. I love you. Good night."
     lc "Ладно. Я люблю тебя. Спокойной ночи."
 
-# game/code/d11/d11s07.rpy:420
+# game/code/d11/d11s07.rpy:425
 translate russian replay_d11s07_2485f494:
 
     # mc "I..."
     mc "Я..."
 
-# game/code/d11/d11s07.rpy:422
+# game/code/d11/d11s07.rpy:427
 translate russian replay_d11s07_4b4bf6d1:
 
     # mc "Huh. She hung up."
     mc "Хм. Она отключила телефон."
 
-# game/code/d11/d11s07.rpy:426
+# game/code/d11/d11s07.rpy:431
 translate russian replay_d11s07_ab10b989:
 
     # arj "Good!"
     arj "Хорошо!"
 
-# game/code/d11/d11s07.rpy:429
+# game/code/d11/d11s07.rpy:434
 translate russian replay_d11s07_699878f6:
 
     # mc "Hey!"
     mc "Эй!"
 
-# game/code/d11/d11s07.rpy:431
+# game/code/d11/d11s07.rpy:436
 translate russian replay_d11s07_33dbdab8:
 
     # arj "I just meant... {w}Do you have any idea how much I want your cock inside me right now?"
     arj "Я просто хотела сказать... {w}Ты хоть представляешь, как сильно я хочу, чтобы твой член был внутри меня прямо сейчас?"
 
-# game/code/d11/d11s07.rpy:434
+# game/code/d11/d11s07.rpy:439
 translate russian replay_d11s07_fb0e434d:
 
     # mc "Oh really? Well, you're going to get it."
     mc "О, неужели? Что ж, ты его получишь."
 
-# game/code/d11/d11s07.rpy:436
+# game/code/d11/d11s07.rpy:441
 translate russian replay_d11s07_5cf5bb0c:
 
     # arj "Please do."
     arj "Пожалуйста."
 
-# game/code/d11/d11s07.rpy:440
+# game/code/d11/d11s07.rpy:445
 translate russian replay_d11s07_9e268a00:
 
     # mc "You are so very much going to get this hard dick..."
     mc "Ты так сильно хочешь получить этот твердый член..."
 
-# game/code/d11/d11s07.rpy:443
+# game/code/d11/d11s07.rpy:448
 translate russian replay_d11s07_d0326d78:
 
     # arj "Ahhhh!"
     arj "Ахххх!"
 
-# game/code/d11/d11s07.rpy:450
+# game/code/d11/d11s07.rpy:455
 translate russian replay_d11s07_aafc4acf:
 
     # arj "The hardest part about watching you last night was not being the one you were fucking at the time."
     arj "Когда я наблюдала за тобой там, самое трудное было - это не представлять себя на месте той, с кем ты трахался."
 
-# game/code/d11/d11s07.rpy:451
+# game/code/d11/d11s07.rpy:456
 translate russian replay_d11s07_f6336745:
 
     # mc "You said you weren't jealous."
     mc "Ты же сказала, что не ревнуешь."
 
-# game/code/d11/d11s07.rpy:452
+# game/code/d11/d11s07.rpy:457
 translate russian replay_d11s07_b2fcb046:
 
     # arj "I wasn't jealous. I just wanted it to be me there getting fucked by you."
     arj "Я не ревновала. Я просто хотела, чтобы ты трахал меня."
 
-# game/code/d11/d11s07.rpy:453
+# game/code/d11/d11s07.rpy:458
 translate russian replay_d11s07_ff64e386:
 
     # arj "I want to be yours - always. I don't want you to need anyone else."
     arj "Я хочу быть твоей - всегда. Я не хочу, чтобы ты нуждался в ком-то еще."
 
-# game/code/d11/d11s07.rpy:455
+# game/code/d11/d11s07.rpy:460
 translate russian replay_d11s07_472a0d52:
 
     # arj "You can fuck anyone you want. You can date anyone you want. But I'll always want you."
     arj "Ты можешь трахаться с кем хочешь. Ты можешь встречаться с кем хочешь. Но я всегда буду хотеть тебя."
 
-# game/code/d11/d11s07.rpy:456
+# game/code/d11/d11s07.rpy:461
 translate russian replay_d11s07_30fa2419:
 
     # arj "Anything you want to do - I'll do it."
     arj "Я сделаю все, что ты захочешь."
 
-# game/code/d11/d11s07.rpy:457
+# game/code/d11/d11s07.rpy:462
 translate russian replay_d11s07_56683ec0:
 
     # arj "I will never tell you \"No\" or \"Not right now.\""
     arj "Я никогда не скажу тебе \"Нет\" или \"Не сейчас\"."
 
-# game/code/d11/d11s07.rpy:458
+# game/code/d11/d11s07.rpy:463
 translate russian replay_d11s07_033fdd3d:
 
     # arj "If you want to fuck me on the professor's desk during class, I'll do it."
     arj "Если ты захочешь трахнуть меня на столе профессора во время урока, я это сделаю."
 
-# game/code/d11/d11s07.rpy:463
+# game/code/d11/d11s07.rpy:468
 translate russian replay_d11s07_bab28149:
 
     # mc "Are you sure you aren't jealous?"
     mc "Ты уверена, что не ревнуешь?"
 
-# game/code/d11/d11s07.rpy:466
+# game/code/d11/d11s07.rpy:471
 translate russian replay_d11s07_ddc9de25:
 
     # arj "I'll show you tomorrow."
     arj "Завтра я тебе покажу."
 
-# game/code/d11/d11s07.rpy:467
+# game/code/d11/d11s07.rpy:472
 translate russian replay_d11s07_171e8cc3:
 
     # mc "What's that mean?"
     mc "Что это значит?"
 
-# game/code/d11/d11s07.rpy:468
+# game/code/d11/d11s07.rpy:473
 translate russian replay_d11s07_d2ebdcf3:
 
     # arj "Tomorrow I'll show you just how not jealous I am."
     arj "Завтра я покажу тебе, насколько я не ревнива."
 
-# game/code/d11/d11s07.rpy:471
+# game/code/d11/d11s07.rpy:476
 translate russian replay_d11s07_6fddb244:
 
     # mc "I still don't understand."
     mc "Я все еще не понимаю."
 
-# game/code/d11/d11s07.rpy:472
+# game/code/d11/d11s07.rpy:477
 translate russian replay_d11s07_eaea37ac:
 
     # arj "I've arranged a little something for us to do together."
     arj "Я договорилась кое о чем, что мы можем сделать вместе."
 
-# game/code/d11/d11s07.rpy:473
+# game/code/d11/d11s07.rpy:478
 translate russian replay_d11s07_f962bb7e:
 
     # mc "Oh. Okay."
     mc "О, ладно."
 
-# game/code/d11/d11s07.rpy:476
+# game/code/d11/d11s07.rpy:481
 translate russian replay_d11s07_e3e3486f:
 
     # arj "YES! Fuck that twat!"
     arj "ДА! Трахай эту пизду!"
 
-# game/code/d11/d11s07.rpy:479
+# game/code/d11/d11s07.rpy:484
 translate russian replay_d11s07_6fc57749:
 
     # mc "You like this hard cock crushing your pussy?"
     mc "Тебе нравится, как мой крепкий член раздвигает твою киску?"
 
-# game/code/d11/d11s07.rpy:482
+# game/code/d11/d11s07.rpy:487
 translate russian replay_d11s07_7d1aca6f:
 
     # arj "It's tearing me apart! {w}I LOVE IT!"
     arj "Он просто разрывает меня на части! {w}МНЕ ЭТО НРАВИТСЯ!"
 
-# game/code/d11/d11s07.rpy:485
+# game/code/d11/d11s07.rpy:490
 translate russian replay_d11s07_69cde867:
 
     # arj "Piss on me if you want."
     arj "Помочись на меня, если хочешь."
 
-# game/code/d11/d11s07.rpy:486
+# game/code/d11/d11s07.rpy:491
 translate russian replay_d11s07_d75a6d24:
 
     # mc "Not now. I'm busy."
     mc "Не сейчас. Я занят."
 
-# game/code/d11/d11s07.rpy:487
+# game/code/d11/d11s07.rpy:492
 translate russian replay_d11s07_25bfd9c7:
 
     # arj "I mean you can piss on me anytime you want. Anywhere you want."
     arj "Я имею в виду, что ты можешь мочиться на меня в любое время, когда захочешь. И куда хочешь."
 
-# game/code/d11/d11s07.rpy:489
+# game/code/d11/d11s07.rpy:494
 translate russian replay_d11s07_f41beb9b:
 
     # arj "And if you want to do even nastier things - I'm yours to use!"
     arj "И если ты захочешь делать еще более отвратительные вещи - я вся в твоём распоряжении!"
 
-# game/code/d11/d11s07.rpy:490
+# game/code/d11/d11s07.rpy:495
 translate russian replay_d11s07_ce2a4f36:
 
     # arj "Anything you want to do to me - or want me to do to you - that is my fetish!"
     arj "Все, что ты хочешь сделать со мной - или хочешь, чтобы я сделала с тобой - это мой фетиш!"
 
-# game/code/d11/d11s07.rpy:491
+# game/code/d11/d11s07.rpy:496
 translate russian replay_d11s07_a51b2a3e:
 
     # arj "YOU ARE MY FETISH!"
     arj "ТЫ МОЙ ФЕТИШ!"
 
-# game/code/d11/d11s07.rpy:495
+# game/code/d11/d11s07.rpy:500
 translate russian replay_d11s07_9ca7d070:
 
     # mc "Fuck me, yes!"
     mc "Ебать, да!"
 
-# game/code/d11/d11s07.rpy:496
+# game/code/d11/d11s07.rpy:501
 translate russian replay_d11s07_b624217a:
 
     # arj "Are you about to cum?"
     arj "Ты собираешься кончить?"
 
-# game/code/d11/d11s07.rpy:499
+# game/code/d11/d11s07.rpy:504
 translate russian replay_d11s07_779c051a:
 
     # mc "Yes!"
     mc "Да!"
 
-# game/code/d11/d11s07.rpy:503
+# game/code/d11/d11s07.rpy:508
 translate russian replay_d11s07_5f19f4ce:
 
     # arj "Hold on just one second!"
     arj "Подожди секунду!"
 
-# game/code/d11/d11s07.rpy:513
+# game/code/d11/d11s07.rpy:518
 translate russian replay_d11s07_de7d2014:
 
     # arj "Fucking cum on this for me!"
     arj "Кончи сперму сюда для меня!"
 
-# game/code/d11/d11s07.rpy:514
+# game/code/d11/d11s07.rpy:519
 translate russian replay_d11s07_32757cc3:
 
     # arj "I want your hot jizz as a cum garnish!"
     arj "Я хочу съесть твою горячую сперму в качестве гарнира!"
 
-# game/code/d11/d11s07.rpy:529
+# game/code/d11/d11s07.rpy:534
 translate russian replay_d11s07_fd8c6055:
 
     # arj "Mmmm... sweet and salty, just the way I like it."
     arj "Мммм... сладкое и соленое, как раз то, что мне нравится."
 
-# game/code/d11/d11s07.rpy:535
+# game/code/d11/d11s07.rpy:540
 translate russian replay_d11s07_c1fa20da:
 
     # arj "Cum in my fucking whore mouth!"
     arj "Кончай в мой ебаный рот шлюхи!"
 
-# game/code/d11/d11s07.rpy:552
+# game/code/d11/d11s07.rpy:557
 translate russian replay_d11s07_819d4336:
 
     # mc "Hell yes!"
     mc "Да, черт возьми!"
 
-# game/code/d11/d11s07.rpy:557
+# game/code/d11/d11s07.rpy:562
 translate russian replay_d11s07_5ddeea36:
 
     # mc "You are such a dirty slut sometimes."
     mc "Иногда ты такая грязная шлюха."
 
-# game/code/d11/d11s07.rpy:560
+# game/code/d11/d11s07.rpy:565
 translate russian replay_d11s07_c42fc013:
 
     # arj "You know you love that about me."
     arj "Ты же любишь это во мне."
 
-# game/code/d11/d11s07.rpy:564
+# game/code/d11/d11s07.rpy:569
 translate russian replay_d11s07_49912778:
 
     # mc "Nicely done, slave."
     mc "Отлично сработано, рабыня."
 
-# game/code/d11/d11s07.rpy:566
+# game/code/d11/d11s07.rpy:571
 translate russian replay_d11s07_a0251157:
 
     # arj "Thank you, master!"
     arj "Спасибо, господин!"
 
-# game/code/d11/d11s07.rpy:569
+# game/code/d11/d11s07.rpy:574
 translate russian replay_d11s07_57392357:
 
     # mc "You know I do."
     mc "Ты знаешь, что люблю."
 
-# game/code/d11/d11s07.rpy:571
+# game/code/d11/d11s07.rpy:576
 translate russian replay_d11s07_e38604df:
 
     # arj "I meant every word of it. You're my fetish, and I am entirely yours."
     arj "Я подтверждаю каждое слово. Ты мой фетиш, а я полностью твоя."
 
-# game/code/d11/d11s07.rpy:600
+# game/code/d11/d11s07.rpy:605
 translate russian replay_d11s07_d3a78310:
 
     # mc "Time for your reward."
     mc "Время для награды."
 
-# game/code/d11/d11s07.rpy:603
+# game/code/d11/d11s07.rpy:608
 translate russian replay_d11s07_aab216cf:
 
     # arj "OHHHHH YESSSSsss!!!"
     arj "ОХХХХХ ДАААААааа!!!"
 
-# game/code/d11/d11s07.rpy:606
+# game/code/d11/d11s07.rpy:611
 translate russian replay_d11s07_8afdf11c:
 
     # mc "Cum for me you slutty little minx."
     mc "Кончай для меня, распутная маленькая шлюха."
 
-# game/code/d11/d11s07.rpy:635
+# game/code/d11/d11s07.rpy:640
 translate russian replay_d11s07_e63bb301:
 
     # arj "Thank you, sir."
     arj "Спасибо, сэр."
 
-# game/code/d11/d11s07.rpy:641
+# game/code/d11/d11s07.rpy:646
 translate russian replay_d11s07_b955e9b5:
 
     # arj "Thank you, [mcname]."
     arj "Спасибо, [mcname]."
 
-# game/code/d11/d11s07.rpy:646
+# game/code/d11/d11s07.rpy:651
 translate russian replay_d11s07_847f5644:
 
     # arj "Alright, I need to go get cleaned up. I'll meet you in bed in 4 minutes."
     arj "Ладно, мне нужно привести себя в порядок. Встретимся в постели через 4 минуты."
 
-# game/code/d11/d11s07.rpy:650
+# game/code/d11/d11s07.rpy:655
 translate russian replay_d11s07_42456c8c:
 
     # mc "Sure, sure. Looking forward to it."
     mc "Конечно, конечно. С нетерпением жду этого."
 
-# game/code/d11/d11s07.rpy:653
+# game/code/d11/d11s07.rpy:658
 translate russian replay_d11s07_4380c480:
 
     # mct "Plus one fuck."
     mct "Плюс один трах."
 
-# game/code/d11/d11s07.rpy:656
+# game/code/d11/d11s07.rpy:661
 translate russian replay_d11s07_05c33913:
 
     # mct "It's almost a shame I can't just fuck AmRose twenty times to meet this challenge."
     mct "Жалко, что я не могу трахнуть АмРоуз двадцать раз, чтобы выполнить это задание."
 
-# game/code/d11/d11s07.rpy:657
+# game/code/d11/d11s07.rpy:662
 translate russian replay_d11s07_577cc8a0:
 
     # mct "I guess I'll just have to fuck everyone I know."
     mct "Думаю, мне придется перетрахать всех, кого я знаю."
 
-# game/code/d11/d11s07.rpy:659
+# game/code/d11/d11s07.rpy:664
 translate russian replay_d11s07_48f589cb:
 
     # mct "Work, work, work..."
@@ -1052,11 +1052,11 @@ translate russian replay_d11s07_48f589cb:
 
 translate russian strings:
 
-    # game/code/d11/d11s07.rpy:573
+    # game/code/d11/d11s07.rpy:578
     old "Kiss AmRose on the Mouth"
     new "Поцелуй АмРоуз в губы"
 
-    # game/code/d11/d11s07.rpy:573
+    # game/code/d11/d11s07.rpy:578
     old "Kiss AmRose on the Neck"
     new "Поцелуй АмРоуз в шею"
 

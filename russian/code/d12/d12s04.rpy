@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-10-15 09:58
+﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/d12/d12s04.rpy:32
 translate russian d12s04_29002f0b:
@@ -678,193 +678,193 @@ translate russian replay_d12s04_de945cd3:
     # mh "What happened?"
     mh "Что случилось?"
 
-# game/code/d12/d12s04.rpy:520
+# game/code/d12/d12s04.rpy:524
 translate russian d12s04_mhmc_69_2bd6dbab:
 
     # mh "What are you doing?"
     mh "Что ты делаешь?"
 
-# game/code/d12/d12s04.rpy:523
+# game/code/d12/d12s04.rpy:527
 translate russian d12s04_mhmc_69_8fb5f75b:
 
     # mc "Taking care of you as well."
     mc "Я забочусь о тебе."
 
-# game/code/d12/d12s04.rpy:573
+# game/code/d12/d12s04.rpy:577
 translate russian d12s04_mhmc_69_b7e546fc:
 
     # mh "Hey, are you alright?"
     mh "Эй, ты в порядке?"
 
-# game/code/d12/d12s04.rpy:575
+# game/code/d12/d12s04.rpy:579
 translate russian d12s04_mhmc_69_2e0c896f:
 
     # mc "*Coughs* Yeah, I'm fine."
     mc "*кашляет* Да, я в порядке."
 
-# game/code/d12/d12s04.rpy:576
+# game/code/d12/d12s04.rpy:580
 translate russian d12s04_mhmc_69_5dc56ff4:
 
     # mh "You didn't have to do that, y'know.{w} Let's do something different."
     mh "Знаешь, тебе не нужно было этого делать. {w}Давай сделаем что-то другое."
 
-# game/code/d12/d12s04.rpy:593
+# game/code/d12/d12s04.rpy:597
 translate russian d12s04_mhmc_hj_762ea443:
 
     # mc "I need you to stand up."
     mc "Мне нужно, чтобы ты встала."
 
-# game/code/d12/d12s04.rpy:599
+# game/code/d12/d12s04.rpy:603
 translate russian d12s04_mhmc_hj_2bd6dbab:
 
     # mh "What are you doing?"
     mh "Что ты делаешь?"
 
-# game/code/d12/d12s04.rpy:601
+# game/code/d12/d12s04.rpy:605
 translate russian d12s04_mhmc_hj_8fb5f75b:
 
     # mc "Taking care of you as well."
     mc "Я забочусь о тебе."
 
-# game/code/d12/d12s04.rpy:603
+# game/code/d12/d12s04.rpy:607
 translate russian d12s04_mhmc_hj_50a1cf59:
 
     # mc "You're ready to explode aren't you?"
     mc "Ты готова кончить, не так ли?"
 
-# game/code/d12/d12s04.rpy:606
+# game/code/d12/d12s04.rpy:610
 translate russian d12s04_mhmc_hj_4da19a50:
 
     # mh "God, yes!"
     mh "Боже, да!"
 
-# game/code/d12/d12s04.rpy:609
+# game/code/d12/d12s04.rpy:613
 translate russian d12s04_mhmc_hj_d1ce15c4:
 
     # mc "Do you want me to jerk you off?"
     mc "Ты хочешь, чтобы я подрочил тебе?"
 
-# game/code/d12/d12s04.rpy:611
+# game/code/d12/d12s04.rpy:615
 translate russian d12s04_mhmc_hj_129b906d:
 
     # mh "Yes... Please."
     mh "Да... Пожалуйста."
 
-# game/code/d12/d12s04.rpy:614
+# game/code/d12/d12s04.rpy:618
 translate russian d12s04_mhmc_hj_f95e3804:
 
     # mc "I bet you would like that."
     mc "Держу пари, тебе это понравится."
 
-# game/code/d12/d12s04.rpy:621
+# game/code/d12/d12s04.rpy:625
 translate russian d12s04_mhmc_hj_39f8f8d4:
 
     # mc "I'm gonna make you cum on your table. So that no matter what you're doing in here, you'll always remember me."
     mc "Я заставлю тебя кончить на стол. Чтобы, что бы ты здесь ни делала, то всегда вспоминала меня."
 
-# game/code/d12/d12s04.rpy:650
+# game/code/d12/d12s04.rpy:654
 translate russian d12s04_mhmc_hj_dc9711a9:
 
     # mh "Master, I'm—!"
-    mh "Мастер, я...!"
+    mh "Господин, я...!"
 
-# game/code/d12/d12s04.rpy:652
+# game/code/d12/d12s04.rpy:656
 translate russian d12s04_mhmc_hj_72e7b6d1:
 
     # mh "[mcname], I'm—!"
     mh "[mcname], я...!"
 
-# game/code/d12/d12s04.rpy:668
+# game/code/d12/d12s04.rpy:672
 translate russian d12s04_mhmc_hj_63487642:
 
     # mc "I am gonna cu-!"
     mc "Я сейчас...!"
 
-# game/code/d12/d12s04.rpy:680
+# game/code/d12/d12s04.rpy:684
 translate russian d12s04_mhmc_hj_d9590eed:
 
     # mh "Wow!"
     mh "Вау!"
 
-# game/code/d12/d12s04.rpy:687
+# game/code/d12/d12s04.rpy:691
 translate russian d12s04_mhmc_hj_9b4fcc8d:
 
     # mh "Thank you, Master."
-    mh "Спасибо, Мастер."
+    mh "Спасибо, Господин."
 
-# game/code/d12/d12s04.rpy:690
+# game/code/d12/d12s04.rpy:694
 translate russian d12s04_mhmc_hj_c05ebbea:
 
     # mh "That was great, thank you."
     mh "Это было здорово, спасибо."
 
-# game/code/d12/d12s04.rpy:693
+# game/code/d12/d12s04.rpy:697
 translate russian d12s04_mhmc_hj_0fba11a8:
 
     # mc "I am glad you liked it."
     mc "Я рад, что тебе понравилось."
 
-# game/code/d12/d12s04.rpy:725
+# game/code/d12/d12s04.rpy:729
 translate russian d12s04_end_aa2c2a41:
 
     # mh "Thanks [mcname]. I needed that. I've been working too hard lately."
     mh "Спасибо [mcname]. Мне это было нужно. В последнее время я слишком много работаю."
 
-# game/code/d12/d12s04.rpy:730
+# game/code/d12/d12s04.rpy:734
 translate russian d12s04_end_d4a8f7ee:
 
     # mc "Well, I'm always here to help relieve some of that, stress, {i}officer{/i}."
     mc "Ну, я всегда к вашим услугам, чтобы помочь снять этот стресс, {i}офицер{/i}."
 
-# game/code/d12/d12s04.rpy:731
+# game/code/d12/d12s04.rpy:735
 translate russian d12s04_end_cc09cb78:
 
     # mh "I know. I wish we could have some time for ourselves again."
     mh "Я знаю. Хотела бы, чтобы у нас было больше времени для себя."
 
-# game/code/d12/d12s04.rpy:732
+# game/code/d12/d12s04.rpy:736
 translate russian d12s04_end_a2671411:
 
     # mc "Like at the beach?"
     mc "Как на пляже?"
 
-# game/code/d12/d12s04.rpy:733
+# game/code/d12/d12s04.rpy:737
 translate russian d12s04_end_53b61577:
 
     # mh "Hm. That would be nice."
     mh "Хм. Это было бы здорово."
 
-# game/code/d12/d12s04.rpy:736
+# game/code/d12/d12s04.rpy:740
 translate russian d12s04_end_ffc1d6cb:
 
     # mc "So why not?"
     mc "Тогда почему бы и нет?"
 
-# game/code/d12/d12s04.rpy:738
+# game/code/d12/d12s04.rpy:742
 translate russian d12s04_end_032a7622:
 
     # mh "What do you mean?"
     mh "Что ты имеешь в виду?"
 
-# game/code/d12/d12s04.rpy:740
+# game/code/d12/d12s04.rpy:744
 translate russian d12s04_end_d83ba436:
 
     # mc "Let's go on a date."
     mc "Давай сходим на свидание."
 
-# game/code/d12/d12s04.rpy:754
+# game/code/d12/d12s04.rpy:758
 translate russian d12s04_end_b50f21d0:
 
     # mh "Did we forget something?"
     mh "Мы что-то упускаем?"
 
-# game/code/d12/d12s04.rpy:757
+# game/code/d12/d12s04.rpy:761
 translate russian d12s04_end_18c74981:
 
     # mc "No, I don't think so. Why?"
     mc "Нет, я так не думаю. А что?"
 
-# game/code/d12/d12s04.rpy:759
+# game/code/d12/d12s04.rpy:763
 translate russian d12s04_end_a9b9b37d:
 
     # mh "Hm, nothing."

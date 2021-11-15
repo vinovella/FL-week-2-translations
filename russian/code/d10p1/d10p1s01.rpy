@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-10-15 09:58
+﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/d10p1/d10p1s01.rpy:8
 translate russian d10p1s01_27b48bcf:
@@ -1042,7 +1042,7 @@ translate russian d10p1s01_81c5fcf7:
 translate russian d10p1s01_80fe0554:
 
     # "{color=#778faa}???{/color}" "Great dress! Are you my waitress?"
-    "{color=#778faa}???{/color}" ""
+    "{color=#778faa}???{/color}" "Отличное платье! А ты официантка?"
 
 # game/code/d10p1/d10p1s01.rpy:399
 translate russian d10p1s01_5a7a819e:

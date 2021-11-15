@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-10-15 09:58
+﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/d12/d12s01.rpy:61
 translate russian d12s01_43701264:
@@ -202,7 +202,7 @@ translate russian d12s01_35ab8f09:
 translate russian d12s01_dcb5316b:
 
     # arj "Well, you know. I'm yours. You're my master, and I'll do anything you want."
-    arj "Ну, ты знаешь. Я твоя. Ты мой мастер, и я сделаю все, что ты захочешь."
+    arj "Ну, ты знаешь. Я твоя. Ты мой Господин, и я сделаю все, что ты захочешь."
 
 # game/code/d12/d12s01.rpy:170
 translate russian d12s01_716019b8:
@@ -214,7 +214,7 @@ translate russian d12s01_716019b8:
 translate russian d12s01_a3b8c090:
 
     # arj "Well, I'm not her master, but it's pretty much the same thing."
-    arj "Ну, я не ее мастер, но всё почти точно также."
+    arj "Ну, я не ее госпожа, но всё почти точно также."
 
 # game/code/d12/d12s01.rpy:175
 translate russian d12s01_d217830b:
@@ -916,7 +916,7 @@ translate russian d12s01_mk_sex_64256753:
 translate russian d12s01_mk_sex_d86da8e1:
 
     # arj "Master, would you mind applying some of that lubricant to your massive engorged penis?"
-    arj "Мастер, не мог бы ты нанести немного этой смазки на свой огромный пенис?"
+    arj "Господин, не мог бы ты нанести немного этой смазки на свой огромный пенис?"
 
 # game/code/d12/d12s01.rpy:482
 translate russian d12s01_mk_sex_e8d6f139:

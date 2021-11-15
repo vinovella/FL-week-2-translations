@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-10-15 09:58
+﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/d11/d11s03.rpy:6
 translate russian d11s03_3d1dc366:
@@ -1222,7 +1222,7 @@ translate russian d11s03_6b5dd039:
 translate russian d11s03_76c7e638:
 
     # mc "Oh dear and fluffy Lord, please stop this conversation."
-    mc "О дорогой и пушистый Лорд, пожалуйста, прекратите этот разговор."
+    mc "О пожалуйста, давайте прекратим этот разговор."
 
 # game/code/d11/d11s03.rpy:556
 translate russian d11s03_27e7b876:
@@ -1516,7 +1516,7 @@ translate russian d11s03_fe452c50:
 translate russian d11s03_cbf3a1c0:
 
     # sy "If you're going to fuck that many people by Monday, we should throw a Party."
-    sy "Если ты собираешься трахнуть столько людей до понедельника, мы должны устроить вечеринку."
+    sy "Если ты собираешься трахнуть столько девушек до понедельника, то мы должны устроить вечеринку."
 
 # game/code/d11/d11s03.rpy:684
 translate russian d11s03_5ce4b801:
@@ -1642,7 +1642,7 @@ translate russian d11s03_7a5f3e86:
 translate russian d11s03_b25a350c:
 
     # mct "Oh my dear and fluffy Lord..."
-    mct "Ох мой дорогой и пушистый Лорд..."
+    mct "Ох моя дорогая..."
 
 translate russian strings:
 

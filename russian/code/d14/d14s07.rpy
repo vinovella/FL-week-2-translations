@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-10-15 09:58
+﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/d14/d14s07.rpy:76
 translate russian d14s07_01bc9165:
@@ -690,13 +690,13 @@ translate russian d14s07_cleanup_f9c13b86:
     # cl "You bastard! You fucked me!"
     cl "Ты ублюдок! Ты трахнул меня!"
 
-# game/code/d14/d14s07.rpy:518
+# game/code/d14/d14s07.rpy:519
 translate russian d14s07_cleanup_9b33d7ce:
 
     # mc "And I enjoyed it! Thanks for that."
     mc "И мне это понравилось! Спасибо за это."
 
-# game/code/d14/d14s07.rpy:521
+# game/code/d14/d14s07.rpy:522
 translate russian d14s07_cleanup_17f52e23:
 
     # cl "Damn..."

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-10-15 09:58
+﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/d11/d11s04.rpy:7
 translate russian d11s04_95a7047b:
@@ -162,319 +162,319 @@ translate russian d11s04_110ed781:
     # dd "...So yeah. I don't exactly trust these people."
     dd "... Так что да. Я не очень-то доверяю этим людям."
 
-# game/code/d11/d11s04.rpy:117
+# game/code/d11/d11s04.rpy:118
 translate russian d11s04_581d7b68:
 
     # "Receptionist" "Miss. Diamond? {w}Daisy Diamond?"
     "Receptionist" "Мисс Даймонд? {w}Дейзи Даймонд?"
 
-# game/code/d11/d11s04.rpy:125
+# game/code/d11/d11s04.rpy:126
 translate russian d11s04_879887c7:
 
     # dd "That's me."
     dd "Это я."
 
-# game/code/d11/d11s04.rpy:139
+# game/code/d11/d11s04.rpy:140
 translate russian d11s04_9abb9fb7:
 
     # "Doctor" "Please, sit."
     "Doctor" "Пожалуйста, присаживайтесь."
 
-# game/code/d11/d11s04.rpy:141
+# game/code/d11/d11s04.rpy:142
 translate russian d11s04_bbb38ae2:
 
     # dd "Is it alright if my friend is here?"
     dd "Ничего, если мой друг побудет со мной?"
 
-# game/code/d11/d11s04.rpy:143
+# game/code/d11/d11s04.rpy:145
 translate russian d11s04_47959edd:
 
     # "Doctor" "Of course, if you're alright with it."
     "Doctor" "Конечно, если вы не против."
 
-# game/code/d11/d11s04.rpy:145
+# game/code/d11/d11s04.rpy:147
 translate russian d11s04_25dd5181:
 
     # "Doctor" "Don't just stand there. Please, have a seat."
     "Doctor" "Не стойте там. Пожалуйста, присаживайтесь."
 
-# game/code/d11/d11s04.rpy:151
+# game/code/d11/d11s04.rpy:153
 translate russian d11s04_86b8b43a:
 
     # "Doctor" "So, Daisy was it? {w}What can I do for you today?"
     "Doctor" "Итак, Дейзи, что вас беспокоит? {w}Чем я могу вам помочь?"
 
-# game/code/d11/d11s04.rpy:154
+# game/code/d11/d11s04.rpy:156
 translate russian d11s04_70ff2547:
 
     # dd "I...uhm, I have this thing, where I fall unconscious sometimes."
     dd "Я... у меня тут такое дело, я иногда теряю сознание."
 
-# game/code/d11/d11s04.rpy:156
+# game/code/d11/d11s04.rpy:159
 translate russian d11s04_c55aeb3d:
 
     # "Doctor" "Mh-hm, and when does this usually happen?"
     "Doctor" "М-м-м, а когда это обычно происходит?"
 
-# game/code/d11/d11s04.rpy:158
+# game/code/d11/d11s04.rpy:161
 translate russian d11s04_f828709d:
 
     # dd "Well, I haven't exactly kept track of it. But usually when I do something, I dunno, intense, or high energy."
     dd "Ну, я не слежу за этим. Но обычно, когда я что-то делаю, что-то интенсивное или с высокой энергией."
 
-# game/code/d11/d11s04.rpy:159
+# game/code/d11/d11s04.rpy:162
 translate russian d11s04_9dacab18:
 
     # dd "I feel light-headed, and I feel like I can't breathe before fainting."
     dd "У меня начинает кружится голова, и я чувствую, что не могу дышать перед обмороком."
 
-# game/code/d11/d11s04.rpy:161
+# game/code/d11/d11s04.rpy:164
 translate russian d11s04_3d5dbb23:
 
     # dd "It doesn't always happen. Sometimes I feel like that but don't fall unconscious, and just get better if I rest for a bit. {w}Sometimes I just wake up with no memory of feeling faint or passing out."
     dd "Такое не всегда случается. Иногда я так себя чувствую, но не теряю сознание, и мне становится лучше, если я немного отдохну. {w}А иногда я просто прихожу в себя, не помня ни слабости, ни обморока."
 
-# game/code/d11/d11s04.rpy:163
+# game/code/d11/d11s04.rpy:166
 translate russian d11s04_b8f49847:
 
     # "Doctor" "How long has this been happening?"
     "Doctor" "Как долго это продолжается?"
 
-# game/code/d11/d11s04.rpy:165
+# game/code/d11/d11s04.rpy:168
 translate russian d11s04_80eacc17:
 
     # dd "I...I don't know. {w}I've always felt a little light-headed if I jump around too much, but like...a couple months back, I guess? Felt more nauseous than usual and just...dropped."
     dd "Я... Я не знаю. {w}Я всегда чувствовала легкое головокружение, если слишком много прыгала, но как-то... пару месяцев назад, кажется? Почувствовала головокружение сильнее, чем обычно, и просто... упала."
 
-# game/code/d11/d11s04.rpy:169
+# game/code/d11/d11s04.rpy:172
 translate russian d11s04_951ef747:
 
     # "Doctor" "Hm, so it's been going on for a bit then. Why did it take you so long to get it checked out?"
     "Doctor" "Хм, значит, это продолжается уже некоторое время. Почему вы не обратились к врачу?"
 
-# game/code/d11/d11s04.rpy:172
+# game/code/d11/d11s04.rpy:175
 translate russian d11s04_f0a2325d:
 
     # dd "...I didn't think it was a big deal."
     dd "... Я не думала, что это важно."
 
-# game/code/d11/d11s04.rpy:174
+# game/code/d11/d11s04.rpy:178
 translate russian d11s04_c77adea2:
 
     # "Doctor" "*Sigh* I understand. It might be vasovagal syncope, but could indicate a more serious condition."
     "Doctor" "*вздох* Я понимаю. Это может быть вазовагальный обморок, но может указывать и на более серьезные проблемы."
 
-# game/code/d11/d11s04.rpy:175
+# game/code/d11/d11s04.rpy:179
 translate russian d11s04_6fbe3881:
 
     # "Doctor" "It is good that you are getting this checked out."
     "Doctor" "Хорошо, что вы решили провериться."
 
-# game/code/d11/d11s04.rpy:177
+# game/code/d11/d11s04.rpy:181
 translate russian d11s04_d52521a1:
 
     # "Doctor" "Hmm..."
     "Doctor" "Хмм..."
 
-# game/code/d11/d11s04.rpy:179
+# game/code/d11/d11s04.rpy:183
 translate russian d11s04_ad012e85:
 
     # "Doctor" "Do you have a family history of heart complications? Parents? Grandparents?"
     "Doctor" "У вас в семье были сердечные осложнения? У родителей? У ближайших родственников?"
 
-# game/code/d11/d11s04.rpy:182
+# game/code/d11/d11s04.rpy:186
 translate russian d11s04_5e78a875:
 
     # dd "...Yes. My father."
     dd "... Да. Мой отец."
 
-# game/code/d11/d11s04.rpy:184
+# game/code/d11/d11s04.rpy:189
 translate russian d11s04_ad90cd10:
 
     # "Doctor" "Hm, let's run a few tests."
     "Doctor" "Хм, давайте проведем несколько тестов."
 
-# game/code/d11/d11s04.rpy:191
+# game/code/d11/d11s04.rpy:196
 translate russian d11s04_affaaf7e:
 
     # "Doctor" "Please, come with me."
     "Doctor" "Пожалуйста, пойдемте со мной."
 
-# game/code/d11/d11s04.rpy:194
+# game/code/d11/d11s04.rpy:200
 translate russian d11s04_2d9ceec2:
 
     # "Doctor" "This way."
     "Doctor" "Сюда пожалуйста."
 
-# game/code/d11/d11s04.rpy:198
+# game/code/d11/d11s04.rpy:204
 translate russian d11s04_9abb9fb7_1:
 
     # "Doctor" "Please, sit."
     "Doctor" "Пожалуйста, садитесь."
 
-# game/code/d11/d11s04.rpy:202
+# game/code/d11/d11s04.rpy:208
 translate russian d11s04_378b102b:
 
     # "Doctor" "Would you mind taking off your sweater dress?"
     "Doctor" "Не могли бы вы снять верхнюю одежду?"
 
-# game/code/d11/d11s04.rpy:205
+# game/code/d11/d11s04.rpy:211
 translate russian d11s04_4425326e:
 
     # dd "Okay."
     dd "Ладно."
 
-# game/code/d11/d11s04.rpy:210
+# game/code/d11/d11s04.rpy:216
 translate russian d11s04_0871a1ab:
 
     # "Doctor" "Are you a friend or a relative?"
     "Doctor" "Вы друг или родственник?"
 
-# game/code/d11/d11s04.rpy:213
+# game/code/d11/d11s04.rpy:219
 translate russian d11s04_994c904d:
 
     # dd "He's my partner. I want him to be here."
     dd "Он мой партнер. Я хочу, чтобы он был здесь."
 
-# game/code/d11/d11s04.rpy:215
+# game/code/d11/d11s04.rpy:221
 translate russian d11s04_fb17ed4f:
 
     # mct "...Partner?"
     mct "... Партнер?"
 
-# game/code/d11/d11s04.rpy:217
+# game/code/d11/d11s04.rpy:223
 translate russian d11s04_8a6a3e15:
 
     # "Doctor" "Oh, very well."
     "Doctor" "О, очень хорошо."
 
-# game/code/d11/d11s04.rpy:224
+# game/code/d11/d11s04.rpy:230
 translate russian d11s04_1703b74d:
 
     # "Doctor" "Please breathe."
     "Doctor" "Пожалуйста, дышите."
 
-# game/code/d11/d11s04.rpy:230
+# game/code/d11/d11s04.rpy:237
 translate russian d11s04_f27aa13b:
 
     # "Doctor" "You can put your clothes back on now."
     "Doctor" "Можете одеваться."
 
-# game/code/d11/d11s04.rpy:242
+# game/code/d11/d11s04.rpy:249
 translate russian d11s04_cdf55147:
 
     # dd "So? How is it?"
     dd "И что? Что со мной?"
 
-# game/code/d11/d11s04.rpy:244
+# game/code/d11/d11s04.rpy:251
 translate russian d11s04_9330d28c:
 
     # "Doctor" "I can't say anything right now."
     "Doctor" "Сейчас я ничего не могу сказать."
 
-# game/code/d11/d11s04.rpy:246
+# game/code/d11/d11s04.rpy:254
 translate russian d11s04_eea027e0:
 
     # "Doctor" "We are going to keep you for observation overnight."
     "Doctor" "Мы оставим вас на ночь для наблюдения."
 
-# game/code/d11/d11s04.rpy:247
+# game/code/d11/d11s04.rpy:255
 translate russian d11s04_0b7eb2fe:
 
     # "Doctor" "I need to perform some more thorough tests."
     "Doctor" "Мне нужно будет провести еще несколько тщательных тестов."
 
-# game/code/d11/d11s04.rpy:250
+# game/code/d11/d11s04.rpy:258
 translate russian d11s04_4e860e69:
 
     # mc "Is she alright?"
     mc "С ней все в порядке?"
 
-# game/code/d11/d11s04.rpy:252
+# game/code/d11/d11s04.rpy:260
 translate russian d11s04_7a6f5f89:
 
     # "Doctor" "As I said, I can't say right now."
     "Doctor" "Как я уже говорила, сейчас не могу сказать."
 
-# game/code/d11/d11s04.rpy:254
+# game/code/d11/d11s04.rpy:262
 translate russian d11s04_83e10738:
 
     # "Doctor" "If it's more convenient for you, we can schedule it for some other day."
     "Doctor" "Если вам сегодня неудобно, то я могу назначить на другой день."
 
-# game/code/d11/d11s04.rpy:256
+# game/code/d11/d11s04.rpy:264
 translate russian d11s04_42993f78:
 
     # "Doctor" "But considering how serious this could be, I would advise getting these tests done as soon as possible."
     "Doctor" "Но учитывая, насколько это может быть серьезно, я бы советовала сделать эти тесты как можно скорее."
 
-# game/code/d11/d11s04.rpy:261
+# game/code/d11/d11s04.rpy:269
 translate russian d11s04_81348c8c:
 
     # dd "I'll get them done today."
     dd "Я сделаю их сегодня."
 
-# game/code/d11/d11s04.rpy:263
+# game/code/d11/d11s04.rpy:272
 translate russian d11s04_59365cc1:
 
     # "Doctor" "Okay. We'll prepare a room for you, and make sure you're comfortable."
     "Doctor" "Хорошо. Мы приготовим для вас комнату и позаботимся о том, чтобы вам было удобно."
 
-# game/code/d11/d11s04.rpy:265
+# game/code/d11/d11s04.rpy:274
 translate russian d11s04_83515733:
 
     # "Doctor" "And don't worry, hospital food isn't as bad as TV makes it out to be."
     "Doctor" "И не волнуйтесь, больничная еда не так уж плоха, как ее изображают по телевизору."
 
-# game/code/d11/d11s04.rpy:267
+# game/code/d11/d11s04.rpy:276
 translate russian d11s04_d3cbd413:
 
     # "Doctor" "You should go wait in the reception area for now. We'll call you when we're ready for you."
     "Doctor" "А пока вам лучше подождать в приемной. Вас позовут, когда всё будет готово."
 
-# game/code/d11/d11s04.rpy:271
+# game/code/d11/d11s04.rpy:280
 translate russian d11s04_afca7164:
 
     # mc "Would it be possible for me to stay with her overnight?"
     mc "Смогу ли я остаться с ней на ночь?"
 
-# game/code/d11/d11s04.rpy:273
+# game/code/d11/d11s04.rpy:283
 translate russian d11s04_b3282b2e:
 
     # "Doctor" "No, I'm sorry. After the visitation hours are up, you will have to leave."
     "Doctor" "Нет, мне очень жаль. Когда время посещения закончится, вам придется уйти."
 
-# game/code/d11/d11s04.rpy:275
+# game/code/d11/d11s04.rpy:285
 translate russian d11s04_638d4f3f:
 
     # "Doctor" "But you can pick her up tomorrow."
     "Doctor" "Но вы можете забрать ее завтра."
 
-# game/code/d11/d11s04.rpy:278
+# game/code/d11/d11s04.rpy:288
 translate russian d11s04_da343357:
 
     # dd "It's alright."
     dd "Все в порядке."
 
-# game/code/d11/d11s04.rpy:280
+# game/code/d11/d11s04.rpy:290
 translate russian d11s04_b85f6643:
 
     # dd "Thank you."
     dd "Спасибо."
 
-# game/code/d11/d11s04.rpy:282
+# game/code/d11/d11s04.rpy:293
 translate russian d11s04_d8f9f0a2:
 
     # "Doctor" "Of course."
     "Doctor" "Конечно."
 
-# game/code/d11/d11s04.rpy:291
+# game/code/d11/d11s04.rpy:302
 translate russian d11s04_e403a2d2:
 
     # dd "[mcname]... I'm scared."
     dd "[mcname]... Мне страшно."
 
-# game/code/d11/d11s04.rpy:296
+# game/code/d11/d11s04.rpy:307
 translate russian d11s04_af70887d:
 
     # mc "It's okay. I'm here. Everything's gonna be alright."
