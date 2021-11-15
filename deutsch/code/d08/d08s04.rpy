@@ -10,253 +10,253 @@ translate deutsch d08s04_01cc8f65:
 translate deutsch d08s04_5c054653:
 
     # mct "I didn't notice because of the flood of messages, but I have more points now..."
-    mct "I didn't notice because of the flood of messages, but I have more points now..."
+    mct "Ich habe es wegen der Flut von Nachrichten nicht bemerkt, aber ich habe jetzt mehr Punkte..."
 
 # game/code/d08/d08s04.rpy:36
 translate deutsch d08s04_9dcd6406:
 
     # mct "I didn't take any pictures... Neither did Maria... Did someone else took a photo of her giving me a head in the class?"
-    mct "I didn't take any pictures... Neither did Maria... Did someone else took a photo of her giving me a head in the class?"
+    mct "Ich habe keine Fotos gemacht... Und Maria auch nicht... Hat jemand anderes ein Foto von ihr gemacht, wie sie mir in der Klasse einen bläst?"
 
 # game/code/d08/d08s04.rpy:49
 translate deutsch d08s04_8a677757:
 
     # mct "On one side it is good to get points... But on the other side it is more and more creepy..."
-    mct "On one side it is good to get points... But on the other side it is more and more creepy..."
+    mct "Auf der einen Seite ist es gut, Punkte zu bekommen... Aber auf der anderen Seite ist es mehr und mehr gruselig..."
 
 # game/code/d08/d08s04.rpy:52
 translate deutsch d08s04_b99020ae:
 
     # mct "It sucks that I again need to earn those damn points..."
-    mct "It sucks that I again need to earn those damn points..."
+    mct "Es ist zum Kotzen, dass ich mir diese verdammten Punkte wieder verdienen muss..."
 
 # game/code/d08/d08s04.rpy:53
 translate deutsch d08s04_f2ee813a:
 
     # mct "Need to meet Hana and ask about the codes."
-    mct "Need to meet Hana and ask about the codes."
+    mct "Ich muss Hana treffen und nach den Codes fragen."
 
 # game/code/d08/d08s04.rpy:54
 translate deutsch d08s04_5de9c360:
 
     # mct "I don't believe that Pete is behind this. But the faster we can clear his name, the better."
-    mct "I don't believe that Pete is behind this. But the faster we can clear his name, the better."
+    mct "Ich glaube nicht, dass Pete hinter der Sache steckt. Aber je schneller wir seinen Namen reinwaschen können, desto besser."
 
 # game/code/d08/d08s04.rpy:55
 translate deutsch d08s04_f9dd0c8b:
 
     # mct "After all Hana is the only one who is interested in figuring out this situation."
-    mct "After all Hana is the only one who is interested in figuring out this situation."
+    mct "Schließlich ist Hana die Einzige, die daran interessiert ist, diese Situation zu klären."
 
 # game/code/d08/d08s04.rpy:76
 translate deutsch d08s04_a7b4d81c:
 
     # mc "Oh, hey Min. I was just going to look for you."
-    mc "Oh, hey Min. I was just going to look for you."
+    mc "Oh, hey Min. Ich wollte gerade nach dir suchen."
 
 # game/code/d08/d08s04.rpy:78
 translate deutsch d08s04_5fa6c898:
 
     # mes "It's Squizzle, remember?"
-    mes "It's Squizzle, remember?"
+    mes "Es ist Squizzle, erinnerst du dich?"
 
 # game/code/d08/d08s04.rpy:79
 translate deutsch d08s04_578aac98:
 
     # mc "Right, right. I keep forgetting."
-    mc "Right, right. I keep forgetting."
+    mc "Richtig, richtig. Ich vergesse es immer wieder."
 
 # game/code/d08/d08s04.rpy:81
 translate deutsch d08s04_9d5dff17:
 
     # mesfl "Well, don't forget again. It's important to me."
-    mesfl "Well, don't forget again. It's important to me."
+    mesfl "Vergiss es nicht wieder. Es ist wichtig für mich"
 
 # game/code/d08/d08s04.rpy:88
 translate deutsch d08s04_5910c349:
 
     # mc "Ok, Squizzle! Are you ready for pee training?"
-    mc "Ok, Squizzle! Are you ready for pee training?"
+    mc "Ok, Squizzle! Bist du bereit für das Pinkeltraining?"
 
 # game/code/d08/d08s04.rpy:89
 translate deutsch d08s04_98ad4579:
 
     # mesfl "Yes!"
-    mesfl "Yes!"
+    mesfl "Ja!"
 
 # game/code/d08/d08s04.rpy:92
 translate deutsch d08s04_e59544ae:
 
     # mc "Did you follow my instructions yesterday?"
-    mc "Did you follow my instructions yesterday?"
+    mc "Hast du gestern meine Anweisungen befolgt?"
 
 # game/code/d08/d08s04.rpy:93
 translate deutsch d08s04_ca657a99:
 
     # mesfl "Well I didn't cum without pee in my mouth. But not because there was pee, but because I just didn't cum..."
-    mesfl "Well I didn't cum without pee in my mouth. But not because there was pee, but because I just didn't cum..."
+    mesfl "Nun, ich bin nicht gekommen ohne Pisse in meinem Mund. Aber nicht weil da Pisse war, sondern weil ich einfach nicht gekommen bin..."
 
 # game/code/d08/d08s04.rpy:95
 translate deutsch d08s04_46bbeb2a:
 
     # mc "And have you brought your bottle?"
-    mc "And have you brought your bottle?"
+    mc "Und hast du deine Flasche dabei?"
 
 # game/code/d08/d08s04.rpy:98
 translate deutsch d08s04_f3982a65:
 
     # mesfl "Can we close the door?"
-    mesfl "Can we close the door?"
+    mesfl "Können wir die Tür schließen"
 
 # game/code/d08/d08s04.rpy:99
 translate deutsch d08s04_c69e18ab:
 
     # mc "Sure! And why didn't you cum with pee?"
-    mc "Sure! And why didn't you cum with pee?"
+    mc "Klar! Und warum hast du nicht mit Pisse abgespritzt"
 
 # game/code/d08/d08s04.rpy:101
 translate deutsch d08s04_ee1dded4:
 
     # mesfl "Here is the bottle. There is a bit of water there."
-    mesfl "Here is the bottle. There is a bit of water there."
+    mesfl "Hier ist die Flasche. Da ist ein bisschen Wasser drin."
 
 # game/code/d08/d08s04.rpy:103
 translate deutsch d08s04_8b289a34:
 
     # mesfl "And I didn't cum because Min was the whole day with Anthony and he doesn't want to hear about watersports..."
-    mesfl "And I didn't cum because Min was the whole day with Anthony and he doesn't want to hear about watersports..."
+    mesfl "Und ich habe nicht abgespritzt, weil Min den ganzen Tag mit Anthony zusammen war und er nichts von Wassersport hören wollte..."
 
 # game/code/d08/d08s04.rpy:104
 translate deutsch d08s04_214b787d:
 
     # mc "Ok finish the water now."
-    mc "Ok finish the water now."
+    mc "Ok, mach das Wasser jetzt fertig."
 
 # game/code/d08/d08s04.rpy:106
 translate deutsch d08s04_72b971f7:
 
     # mc "And I'm a bit surprised by Anthony. I thought he is all about out of this world experiences..."
-    mc "And I'm a bit surprised by Anthony. I thought he is all about out of this world experiences..."
+    mc "Und ich bin ein bisschen überrascht von Anthony. Ich dachte, bei ihm ginge es um außergewöhnliche Erfahrungen..."
 
 # game/code/d08/d08s04.rpy:108
 translate deutsch d08s04_211dd998:
 
     # "*gulp*"
-    "*gulp*"
+    "*schlucken*"
 
 # game/code/d08/d08s04.rpy:131
 translate deutsch d08s04_dfa98f14:
 
     # mesfl "He likes supernatural things, but toilet for him is something undernatural..."
-    mesfl "He likes supernatural things, but toilet for him is something undernatural..."
+    mesfl "Er mag übernatürliche Dinge, aber die Toilette ist für ihn etwas Unnatürliches..."
 
 # game/code/d08/d08s04.rpy:132
 translate deutsch d08s04_5ad5ae86:
 
     # mc "Ok I see. Well then we will have to do it the other way. And also I think this would be the best training for you."
-    mc "Ok I see. Well then we will have to do it the other way. And also I think this would be the best training for you."
+    mc "Ok, ich verstehe. Nun, dann müssen wir es anders machen. Außerdem denke ich, dass das die beste Ausbildung für dich wäre."
 
 # game/code/d08/d08s04.rpy:134
 translate deutsch d08s04_3da77697:
 
     # mesfl "What should I do?"
-    mesfl "What should I do?"
+    mesfl "Was sollte ich tun?"
 
 # game/code/d08/d08s04.rpy:135
 translate deutsch d08s04_7eb7b781:
 
     # mc "You will undress and refill this bottle."
-    mc "You will undress and refill this bottle."
+    mc "Du ziehst dich aus und füllst diese Flasche wieder auf."
 
 # game/code/d08/d08s04.rpy:137
 translate deutsch d08s04_3a48d71f:
 
     # mesfl "Will you pee in it?"
-    mesfl "Will you pee in it?"
+    mesfl "Wirst du hineinpinkeln?"
 
 # game/code/d08/d08s04.rpy:138
 translate deutsch d08s04_d8cf87b1:
 
     # mc "No, you will do it yourself. Refill with your own pee."
-    mc "No, you will do it yourself. Refill with your own pee."
+    mc "Nein, du wirst es selbst tun. Füll sie mit deiner eigenen Pisse nach."
 
 # game/code/d08/d08s04.rpy:140
 translate deutsch d08s04_90b8f183:
 
     # mesfl "Oh I see!"
-    mesfl "Oh I see!"
+    mesfl "Ach so, ich verstehe!"
 
 # game/code/d08/d08s04.rpy:141
 translate deutsch d08s04_b88ef88c:
 
     # mesfl "And what then?"
-    mesfl "And what then?"
+    mesfl "Und dann?"
 
 # game/code/d08/d08s04.rpy:142
 translate deutsch d08s04_4b8859fa:
 
     # mc "You will be drinking it during the day and getting used to the taste of pee."
-    mc "You will be drinking it during the day and getting used to the taste of pee."
+    mc "Du wirst es tagsüber trinken und dich an den Geschmack von Pisse gewöhnen."
 
 # game/code/d08/d08s04.rpy:143
 translate deutsch d08s04_eb99664f:
 
     # mc "I read that it is easier to get used to your own taste."
-    mc "I read that it is easier to get used to your own taste."
+    mc "Ich habe gelesen, dass es einfacher ist, sich an seinen eigenen Geschmack zu gewöhnen."
 
 # game/code/d08/d08s04.rpy:145
 translate deutsch d08s04_db4db56b:
 
     # mesfl "I thought the challenge would be to drink your pee. My own is not that exciting..."
-    mesfl "I thought the challenge would be to drink your pee. My own is not that exciting..."
+    mesfl "Ich dachte, die Herausforderung wäre, deine Pisse zu trinken. Meine eigene ist nicht so aufregend..."
 
 # game/code/d08/d08s04.rpy:146
 translate deutsch d08s04_d0c9df34:
 
     # mc "You need see this challenge as a marathon and not a race."
-    mc "You need see this challenge as a marathon and not a race."
+    mc "Du musst diese Herausforderung als einen Marathon und nicht als ein Rennen sehen."
 
 # game/code/d08/d08s04.rpy:147
 translate deutsch d08s04_0721513a:
 
     # mc "It is not about you being able to swallow some pee... You proved that you can do it. But only in small amounts."
-    mc "It is not about you being able to swallow some pee... You proved that you can do it. But only in small amounts."
+    mc "Es geht nicht darum, dass du ein bisschen Pisse schlucken kannst... Du hast bewiesen, dass du es kannst. Aber nur in kleinen Mengen."
 
 # game/code/d08/d08s04.rpy:149
 translate deutsch d08s04_3ca82806:
 
     # mc "It is about making you enjoy being pissed on and drinking pee."
-    mc "It is about making you enjoy being pissed on and drinking pee."
+    mc "Es geht darum, dass du es genießt, angepinkelt zu werden und Pisse zu trinken."
 
 # game/code/d08/d08s04.rpy:150
 translate deutsch d08s04_b275fa79:
 
     # mc "That is also why I asked you to cum only with pee in your mouth. This way you will have an association of the taste with pleasure."
-    mc "That is also why I asked you to cum only with pee in your mouth. This way you will have an association of the taste with pleasure."
+    mc "Das ist auch der Grund, warum ich dich gebeten habe, nur mit Pisse in deinem Mund abzuspritzen. Auf diese Weise wirst du den Geschmack mit Vergnügen in Verbindung Bringen."
 
 # game/code/d08/d08s04.rpy:151
 translate deutsch d08s04_4f541e29:
 
     # mesfl "Wow. Ok I didn't think of it that way. Sounds like you know what you are doing!"
-    mesfl "Wow. Ok I didn't think of it that way. Sounds like you know what you are doing!"
+    mesfl "Wow! Ok, so habe ich mir das nicht vorgestellt. Klingt, als wüsstest du, was du tust!"
 
 # game/code/d08/d08s04.rpy:152
 translate deutsch d08s04_ecefd5e9:
 
     # mct "I actually don't, I just sound convincing... I hope this works!"
-    mct "I actually don't, I just sound convincing... I hope this works!"
+    mct "Das tue ich eigentlich nicht, ich klinge nur überzeugend... Ich hoffe, das funktioniert!"
 
 # game/code/d08/d08s04.rpy:155
 translate deutsch d08s04_1725d810:
 
     # mesfl "Am I allowed to get a little help?"
-    mesfl "Am I allowed to get a little help?"
+    mesfl "Darf ich mir helfen lassen?"
 
 # game/code/d08/d08s04.rpy:156
 translate deutsch d08s04_5af23fe7:
 
     # mc "What did you have in mind?"
-    mc "What did you have in mind?"
+    mc "Woran hast du gedacht?"
 
 # game/code/d08/d08s04.rpy:157
 translate deutsch d08s04_2eecb10c:
