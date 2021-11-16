@@ -1000,7 +1000,7 @@ translate russian strings:
 
     # game/code/d10p1/d10p1s05.rpy:250
     old "Tap That Ass"
-    new "Коснутся этой задницы"
+    new "Трахнуть эту задницу"
 
     # game/code/d10p1/d10p1s05.rpy:250
     old "Walk Away"
@@ -1013,4 +1013,3 @@ translate russian strings:
     # game/code/d10p1/d10p1s05.rpy:343
     old "ATM FTW"
     new "Из зада в рот"
-
