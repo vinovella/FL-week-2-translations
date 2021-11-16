@@ -24,11 +24,11 @@ translate chinese strings:
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Nora develops - This will close off any path with Polly, but will open up a path where you can become a father and live with Nora."
-    new "这个选择很重要，它将改变你和诺拉的关系发展--这将关闭与波莉所有互动的路径，但会开辟一条新路径，你可以成为孩子的父亲，并与诺拉一起生活。"
+    new "这个选择很重要，它将改变你和诺拉的关系发展--这将关闭与波莉互动的所有路径，但会开辟一条新路径，你可以成为孩子的父亲，并与诺拉一起生活。"
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Nora develops - This will close off Nora's solo path, but open up a polyamorous path with both Polly and Nora."
-    new "这个选择很重要，它将改变你和诺拉的关系发展--这将关闭诺拉的单身之路，但会开辟一条新路径，你与波莉和诺拉之间发展多元之爱。"
+    new "这个选择很重要，它将改变你和诺拉的关系发展--这将关闭诺拉的单身之路，但会开辟一条新路径，你将与波莉和诺拉之间发展多元之爱。"
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Stacy develops - You will completely close off Stacy's path."
@@ -188,11 +188,11 @@ translate chinese strings:
 
     # game/code/hints.rpy:5
     old "You will creampie the Judge and the scene will end."
-    new "你会在法官体内射精，这一幕就结束了。"
+    new "你会在法官体内射精，然后该场景结束。"
 
     # game/code/hints.rpy:5
     old "You will flip the Judge over and fuck her that way."
-    new "你会把法官翻过来，用这种方式干她。"
+    new "你会把法官翻过身来，用这种方式干她。"
 
     # game/code/hints.rpy:5
     old "This is an important choice that can change the way your relationship with Pete, Samiya, and Dahlia develops - This path can lead to both you and Pete getting dominated by Samiya and Dahlia."
@@ -212,7 +212,7 @@ translate chinese strings:
 
     # game/code/hints.rpy:5
     old "This choice doesn't have any great consequence currently - If you use your safe word with Dahlia in her scene, you will unlock a CG in the gallery."
-    new "该选择目前没有重大影响--如果你在黛丽娅的场景中使用安全词，则将在画廊中解锁一个CG。"
+    new "该选择目前没有重大影响--如果你在黛丽娅的场景中使用安全词，则将在相册中解锁一个CG。"
 
     # game/code/hints.rpy:5
     old "If you select this and don't input anything, you can find an Easter Egg in a future scene with Iona."
@@ -252,7 +252,7 @@ translate chinese strings:
 
     # game/code/hints.rpy:5
     old "You will go on a magical adventure where you have some fun with Talia - Better prepare your sea legs."
-    new "你将进行一次神奇的冒险，在那里会和塔利亚一起玩乐--最好做好晕船的准备。"
+    new "你将进行一次神奇的冒险，在那里和塔利亚一起玩乐--最好做好晕船的准备。"
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Daisy or Dahlia develops - You will either get to toy with Daisy or get toyed with by Dahlia depending on what path you're on. You'll get kicked from their paths if you don't go."
@@ -264,7 +264,7 @@ translate chinese strings:
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Jessie develops - You will \"ride\" Jessie in more than one way - You will get kicked from her path if you don't go."
-    new "这个选择很重要，它将改变你与杰西的关系发展--你会以不止一种方式\驾驭\杰西--如果你不去，则会被踢出她的路径。"
+    new "这个选择很重要，它将改变你与杰西的关系发展--你会以不止一种方式\"驾驭\"杰西--如果你不去，则会被踢出她的路径。"
 
     # game/code/hints.rpy:5
     old "You will skip any remaining events and prepare for the main event with Allison and Squizzle."
@@ -276,7 +276,7 @@ translate chinese strings:
 
     # game/code/hints.rpy:5
     old "Iona can take care of herself, you'll hang back and watch. You'll unlock a CG in the gallery, you will get to have some fun with Iona in the future, but you might miss out on a scene with Hana in return."
-    new "欧娜可以照顾好自己，你会在后面看着。你会在画廊里解锁一个CG，会在未来和欧娜玩得很开心，但作为交换，你可能会错过一个和哈娜互动的场景。"
+    new "欧娜可以照顾好自己，你会在后面看着。你会在相册里解锁一个CG，会在未来和欧娜玩得很开心，但作为交换，你可能会错过一个和哈娜互动的场景。"
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Daisy develops - You will get kicked from her path if you don't go."
@@ -308,11 +308,11 @@ translate chinese strings:
 
     # game/code/hints.rpy:5
     old "You cum, but you miss the chance to stand Daisy up and fuck her that way."
-    new "你射了，但你错过了让黛西站起来以便操她的机会。"
+    new "你射了，但错过了让黛西站起来以便操她的机会。"
 
     # game/code/hints.rpy:5
     old "You'll stand Daisy up and fuck her that way."
-    new "你会让黛西站起来，用这种方式操她。"
+    new "你会让黛西站起来，并以这种方式操她。"
 
     # game/code/hints.rpy:5
     old "You will paddle Daisy's tits."
@@ -324,11 +324,11 @@ translate chinese strings:
 
     # game/code/hints.rpy:5
     old "You cum, but you miss the chance to fuck Daisy doggy style."
-    new "你射了，但错过了用狗狗式干黛西的机会。"
+    new "你射了，但错过了以狗狗式干黛西的机会。"
 
     # game/code/hints.rpy:5
     old "You'll turn Daisy around and fuck her doggy style."
-    new "你会把黛西转过来，用狗狗式干她。"
+    new "你会把黛西转过来，以狗狗式干她。"
 
     # game/code/hints.rpy:5
     old "You cum, but you miss the chance to fuck Daisy's mouth."
@@ -432,7 +432,7 @@ translate chinese strings:
 
     # game/code/hints.rpy:5
     old "You will get to fuck Terrell's partner while Terrell watches and is humiliated and you'll get to see Maria get humiliated by Terrell."
-    new "你可以和特雷尔的搭档上床而特雷尔只能在旁看着并被羞辱，你还可以看到玛丽亚被特雷尔羞辱。"
+    new "你可以和特雷尔的搭档上床，而特雷尔只能在旁看着并被羞辱，你还可以看到玛丽亚被特雷尔羞辱。"
 
     # game/code/hints.rpy:5
     old "You won't get to fuck Terrell's partner and you won't get to see Maria get humiliated by Terrell, but you'll keep Maria to yourself."
@@ -456,7 +456,7 @@ translate chinese strings:
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Pete, Lydia, and Hana develops - You'll put Pete into the retention program and get conclusive proof that he isn't working with FL."
-    new "这个选择很重要，它将改变你与皮特、莉迪亚和哈娜的关系发展--你会把皮特拉进留存计划，并得到确切证据，证明他没有与性趣探测器合作。"
+    new "这个选择很重要，它将改变你与皮特、莉迪亚和哈娜的关系发展--你会把皮特拉进留存计划，并拿到确切证据，证明他没有与性趣探测器合作。"
 
     # game/code/hints.rpy:5
     old "You'll kiss her while she has your cum in her mouth."
@@ -508,7 +508,7 @@ translate chinese strings:
 
     # game/code/hints.rpy:5
     old "You'll take the Judge's deal and \"rape\" her again."
-    new "你会接受法官的交易，并再次\强奸\她。"
+    new "你会接受法官的交易，并再次\"强奸\"她。"
 
     # game/code/hints.rpy:5
     old "You won't take the Judge's deal and she won't do anything to you."
@@ -604,7 +604,7 @@ translate chinese strings:
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Oliver develops - You will start a relationship with Oliver."
-    new "这个选择很重要，它将改变你与奥利弗的关系发展方式--你将与奥利弗开始一段关系。"
+    new "这个选择很重要，它将改变你与奥利弗的关系发展--你将与奥利弗开始一段关系。"
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Oliver develops - You will reject Oliver."
