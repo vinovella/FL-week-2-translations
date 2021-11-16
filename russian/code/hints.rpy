@@ -496,7 +496,7 @@ translate russian strings:
 
     # game/code/hints.rpy:5
     old "You won't betray your friend even more, but Hana will be kinda pissed and you won't get to have sex with her during the Blitz challenge if you didn't help Iona."
-    new "Ты не предашь своего друга, но Хана будет зла, и ты не сможешь заняться с ней сексом во время Блиц-вызова, если не поможешь Ионе"
+    new "Ты не предашь своего друга, но Хана будет зла, и ты не сможешь заняться с ней сексом во время Блиц-вызова, если не помогал Ионе"
 
     # game/code/hints.rpy:5
     old "Hana will take you into the bathroom and fuck you, but only if you gave her the password or if you helped out Iona."
