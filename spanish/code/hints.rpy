@@ -629,3 +629,11 @@ translate spanish strings:
     # game/code/hints.rpy:5
     old "No hints available."
     new "No hay pistas disponibles."
+
+# TODO: Translation updated at 2021-11-16 22:35
+
+translate spanish strings:
+
+    # game/code/hints.rpy:5
+    old "This is an important choice that changes the way your relationship with Squizzle develops - This will end Min's path."
+    new "This is an important choice that changes the way your relationship with Squizzle develops - This will end Min's path."

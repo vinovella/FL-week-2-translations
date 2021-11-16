@@ -630,3 +630,11 @@ translate chinese strings:
     old "No hints available."
     new "无可用提示。"
 
+# TODO: Translation updated at 2021-11-16 22:33
+
+translate chinese strings:
+
+    # game/code/hints.rpy:5
+    old "This is an important choice that changes the way your relationship with Squizzle develops - This will end Min's path."
+    new "This is an important choice that changes the way your relationship with Squizzle develops - This will end Min's path."
+

@@ -1210,3 +1210,23 @@ translate russian strings:
     old "Restart"
     new "Рестарт"
 
+# TODO: Translation updated at 2021-11-16 22:39
+
+translate russian strings:
+
+    # renpy/common/00accessibility.rpy:180
+    old "High Contrast Text"
+    new "High Contrast Text"
+
+    # renpy/common/00preferences.rpy:487
+    old "renderer menu"
+    new "renderer menu"
+
+    # renpy/common/00preferences.rpy:490
+    old "accessibility menu"
+    new "accessibility menu"
+
+    # renpy/common/00preferences.rpy:493
+    old "high contrast text"
+    new "high contrast text"
+

@@ -630,3 +630,11 @@ translate malay strings:
     old "No hints available."
     new "No hints available."
 
+# TODO: Translation updated at 2021-11-16 22:41
+
+translate malay strings:
+
+    # game/code/hints.rpy:5
+    old "This is an important choice that changes the way your relationship with Squizzle develops - This will end Min's path."
+    new "This is an important choice that changes the way your relationship with Squizzle develops - This will end Min's path."
+
