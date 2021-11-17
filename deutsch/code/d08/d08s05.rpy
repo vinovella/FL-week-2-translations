@@ -10,127 +10,124 @@ translate deutsch d08s05_06a950b5:
 translate deutsch d08s05_0c829b89:
 
     # sy "So, this is the University? I might have made the wrong choice for my higher education."
-    sy "So, this is the University? I might have made the wrong choice for my higher education."
+    sy "Das ist also die Universität? Vielleicht habe ich die falsche Wahl für meine Hochschulausbildung getroffen."
 
 # game/code/d08/d08s05.rpy:9
 translate deutsch d08s05_f25d77a6:
 
     # mc "It is nice, but our college will look better on your resume after we graduate."
-    mc "It is nice, but our college will look better on your resume after we graduate."
-
-# game/code/d08/d08s05.rpy:11
-translate deutsch d08s05_7bfd3d68:
+    mc "Es ist schön, aber unser College wird auf deinem Lebenslauf besser aussehen, wenn wir unseren Abschluss gemacht haben."
 
     # sy "So, now that we're here... {w}What's the plan?"
-    sy "So, now that we're here... {w}What's the plan?"
+    sy "Da wir nun hier sind...{w}Wie sieht der Plan aus?"
 
 # game/code/d08/d08s05.rpy:12
 translate deutsch d08s05_62eb5652:
 
     # mc "Are you sure you want to go through with this?"
-    mc "Are you sure you want to go through with this?"
+    mc "Bist du sicher, dass du das durchziehen willst?"
 
 # game/code/d08/d08s05.rpy:14
 translate deutsch d08s05_938b7516:
 
     # sy "We wouldn't have come all this way if I wasn't."
-    sy "We wouldn't have come all this way if I wasn't."
+    sy "Wir wären nicht so weit gekommen, wenn ich nicht wäre."
 
 # game/code/d08/d08s05.rpy:15
 translate deutsch d08s05_e74eeec9:
 
     # mc "I told you what Samiya is like - what she did to the Prom King and Prom Queen."
-    mc "I told you what Samiya is like - what she did to the Prom King and Prom Queen."
+    mc "Ich habe dir erzählt, wie Samiya ist - was sie mit dem Ballkönig und der Ballkönigin gemacht hat."
 
 # game/code/d08/d08s05.rpy:17
 translate deutsch d08s05_7e30384d:
 
     # sy "I just want my stuff back. How are we getting it?"
-    sy "I just want my stuff back. How are we getting it?"
+    sy "Ich will nur meine Sachen zurück. Wie bekommen wir es?"
 
 # game/code/d08/d08s05.rpy:18
 translate deutsch d08s05_e673201b:
 
     # mc "We are looking for Dahlia. She should be around here."
-    mc "We are looking for Dahlia. She should be around here."
+    mc "Wir sind auf der Suche nach Dahlia. Sie sollte hier irgendwo sein."
 
 # game/code/d08/d08s05.rpy:20
 translate deutsch d08s05_64c9fce9:
 
     # sy "Why do we need her?"
-    sy "Why do we need her?"
+    sy "Wofür brauchen wir sie?"
 
 # game/code/d08/d08s05.rpy:21
 translate deutsch d08s05_59ce15e9:
 
     # mc "Because she seems to be the one who knows Samiya."
-    mc "Because she seems to be the one who knows Samiya."
+    mc "Sie scheint diejenige zu sein, die Samiya kennt."
 
 # game/code/d08/d08s05.rpy:23
 translate deutsch d08s05_6d30b682:
 
     # sy "Dahlia goes to this University?"
-    sy "Dahlia goes to this University?"
+    sy "Dahlia studiert an dieser Uni?"
 
 # game/code/d08/d08s05.rpy:24
 translate deutsch d08s05_880d2687:
 
     # mc "Yes, but remember that according to Dahlia it isn't worth it..."
-    mc "Yes, but remember that according to Dahlia it isn't worth it..."
+    mc "Ja, aber denk dran, dass es sich laut Dahlia nicht lohnt..."
 
 # game/code/d08/d08s05.rpy:26
 translate deutsch d08s05_6bfc74d9:
 
     # sy "What?"
-    sy "What?"
+    sy "Was?"
 
 # game/code/d08/d08s05.rpy:27
 translate deutsch d08s05_dce25133:
 
     # mc "She told me that it would be better to forget about the luggage and move on."
-    mc "She told me that it would be better to forget about the luggage and move on."
+    mc "Sie sagte mir, dass es besser wäre, das Gepäck zu vergessen und weiterzuziehen."
 
 # game/code/d08/d08s05.rpy:29
 translate deutsch d08s05_d315eb8c:
 
     # sy "If this Samiya stabs you and sets me on fire you have my permission to say, \"I told you so.\""
-    sy "If this Samiya stabs you and sets me on fire you have my permission to say, \"I told you so.\""
+    sy "Wenn diese Samiya dich absticht und mich in Brand steckt, hast du meine Erlaubnis zu sagen, \"Ich habs dir doch gesagt\""
 
 # game/code/d08/d08s05.rpy:30
 translate deutsch d08s05_180348a2:
 
     # mc "Let's hope it doesn't come to that."
-    mc "Let's hope it doesn't come to that."
+    mc "Hoffen wir, dass es nicht so weit kommt."
 
 # game/code/d08/d08s05.rpy:49
 translate deutsch d08s05_dd_fd8a6781:
 
     # mc "So - see that woman over there? That's Daisy."
-    mc "So - see that woman over there? That's Daisy."
+    mc "Also - siehst du die Frau da drüben? Das ist Daisy."
 
 # game/code/d08/d08s05.rpy:51
 translate deutsch d08s05_dd_ba59fc42:
 
     # sy "You know her?"
-    sy "You know her?"
+    sy "Kennst du sie?"
 
 # game/code/d08/d08s05.rpy:53
 translate deutsch d08s05_dd_a87a337b:
 
     # mc "Yep."
-    mc "Yep."
+    mc "Ja."
 
 # game/code/d08/d08s05.rpy:57
 translate deutsch d08s05_dd_91980308:
 
     # mc "Hi Daisy!"
-    mc "Hi Daisy!"
+    mc "Hey Daisy!"
 
 # game/code/d08/d08s05.rpy:59
 translate deutsch d08s05_dd_6fd4a291:
 
     # dd "Hey there, Little Mister Big Cock! Who's your friend?"
-    dd "Hey there, Little Mister Big Cock! Who's your friend?"
+    dd "Hallo, Little Mister Big Cock! Wer ist dein Freund?"
 
 # game/code/d08/d08s05.rpy:61
 translate deutsch d08s05_dd_1e6c78c1:
@@ -148,229 +145,229 @@ translate deutsch d08s05_dd_08d512fc:
 translate deutsch d08s05_dd_1e653888:
 
     # mc "Daisy, have you met my sister?"
-    mc "Daisy, have you met my sister?"
+    mc "Daisy, kennst du meine Schwester schon?"
 
 # game/code/d08/d08s05.rpy:67
 translate deutsch d08s05_dd_ab4a12cd:
 
     # dd "Oh, this is your landlady's youngest tenant?"
-    dd "Oh, this is your landlady's youngest tenant?"
+    dd "Oh, das ist der jüngste Mieter deiner Vermieterin?"
 
 # game/code/d08/d08s05.rpy:68
 translate deutsch d08s05_dd_ede96a43:
 
     # sy "Um... no? {w}Hi Daisy, I'm [mcname]'s sister."
-    sy "Um... no? {w}Hi Daisy, I'm [mcname]'s sister."
+    sy "Ähm... nein? {w}Hallo Daisy, ich bin die Schwester von[mcname]"
 
 # game/code/d08/d08s05.rpy:70
 translate deutsch d08s05_dd_7cf82f6d:
 
     # mc "Daisy, this is my best friend from back home."
-    mc "Daisy, this is my best friend from back home."
+    mc "Daisy, das ist meine beste Freundin von zu Hause."
 
 # game/code/d08/d08s05.rpy:72
 translate deutsch d08s05_dd_cf7150be:
 
     # dd "Oh! I didn't mean to embarrass you in front of your special lady friend."
-    dd "Oh! I didn't mean to embarrass you in front of your special lady friend."
+    dd "Oh! Ich wollte dich nicht vor deiner speziellen Freundin in Verlegenheit bringen."
 
 # game/code/d08/d08s05.rpy:73
 translate deutsch d08s05_dd_e9af3fbe:
 
     # mc "She's not my-"
-    mc "She's not my-"
+    mc "Sie ist nicht meine..."
 
 # game/code/d08/d08s05.rpy:74
 translate deutsch d08s05_dd_abae32e1:
 
     # sy "Um... no. {w}Hi Daisy, [mcname] and I have been friends since like forever."
-    sy "Um... no. {w}Hi Daisy, [mcname] and I have been friends since like forever."
+    sy "Ähm... nein. {w}Hey Daisy, [mcname] und ich sind schon seit Ewigkeiten befreundet."
 
 # game/code/d08/d08s05.rpy:76
 translate deutsch d08s05_dd_9a7079ba:
 
     # sy "My name is Stacy."
-    sy "My name is Stacy."
+    sy "Ich heiße Stacy."
 
 # game/code/d08/d08s05.rpy:78
 translate deutsch d08s05_dd_df4260e7:
 
     # dd "Pleasure to meet you. Are you two touring the campus? Thinking about coming over here for next semester?"
-    dd "Pleasure to meet you. Are you two touring the campus? Thinking about coming over here for next semester?"
+    dd "Freut mich, dich kennenzulernen. Besucht ihr beide den Campus? Denkt ihr darüber nach, im nächsten Semester hierher zu kommen?"
 
 # game/code/d08/d08s05.rpy:80
 translate deutsch d08s05_dd_03ed6f44:
 
     # sy "Not exactly."
-    sy "Not exactly."
+    sy "Nicht wirklich"
 
 # game/code/d08/d08s05.rpy:82
 translate deutsch d08s05_dd_f0639b31:
 
     # mc "We were actually hoping to see you."
-    mc "We were actually hoping to see you."
+    mc "Wir hatten eigentlich gehofft, dich zu sehen."
 
 # game/code/d08/d08s05.rpy:84
 translate deutsch d08s05_dd_5b5f17af:
 
     # dd "You came all the way over here for me? I'm touched."
-    dd "You came all the way over here for me? I'm touched."
+    dd "Du bist den ganzen Weg für mich hergekommen? Ich bin gerührt."
 
 # game/code/d08/d08s05.rpy:85
 translate deutsch d08s05_dd_6c0f74f9:
 
     # mc "Well, not you exactly."
-    mc "Well, not you exactly."
+    mc "Nun, nicht gerade dich"
 
 # game/code/d08/d08s05.rpy:87
 translate deutsch d08s05_dd_320ef5c0:
 
     # sy "We're looking for Samiya, or Dahlia to help us finding Samiya."
-    sy "We're looking for Samiya, or Dahlia to help us finding Samiya."
+    sy "Wir suchen Samiya, oder Dahlia, die uns hilft, Samiya zu finden."
 
 # game/code/d08/d08s05.rpy:88
 translate deutsch d08s05_dd_51e70fe8:
 
     # mc "And hoping to find out more about her, or find people who know her."
-    mc "And hoping to find out more about her, or find people who know her."
+    mc "Und in der Hoffnung, mehr über sie herauszufinden oder Leute zu finden, die sie kennen."
 
 # game/code/d08/d08s05.rpy:90
 translate deutsch d08s05_dd_a53f1da1:
 
     # dd "Oh, I don't really know Samiya..."
-    dd "Oh, I don't really know Samiya..."
+    dd "Oh, ich kenne Samiya nicht wirklich..."
 
 # game/code/d08/d08s05.rpy:92
 translate deutsch d08s05_dd_14041de3:
 
     # mc "But you surely know Dah-"
-    mc "But you surely know Dah-"
+    mc "Aber du kennst sicher Dah-"
 
 # game/code/d08/d08s05.rpy:93
 translate deutsch d08s05_dd_0b6586b9:
 
     # dd "I mean, we were close back in high school, but don't really see each other much since we came to University."
-    dd "I mean, we were close back in high school, but don't really see each other much since we came to University."
+    dd "Ich meine, wir standen uns schon in der Highschool nahe, aber wir sehen uns nicht mehr so oft, seit wir an der Uni sind."
 
 # game/code/d08/d08s05.rpy:95
 translate deutsch d08s05_dd_5ef43fce:
 
     # sy "Huh?"
-    sy "Huh?"
+    sy "Hm?"
 
 # game/code/d08/d08s05.rpy:96
 translate deutsch d08s05_dd_1651f315:
 
     # dd "Yeah, you know how it is. You get to University and make different friends and-"
-    dd "Yeah, you know how it is. You get to University and make different friends and-"
+    dd "Ja, du weißt, wie das ist. Du kommst an die Uni und findest andere Freunde und..."
 
 # game/code/d08/d08s05.rpy:98
 translate deutsch d08s05_dd_b292b593:
 
     # sy "So, you do know her?"
-    sy "So, you do know her?"
+    sy "Du kennst sie also doch?"
 
 # game/code/d08/d08s05.rpy:99
 translate deutsch d08s05_dd_02c7b059:
 
     # dd "Well, yeah. Sorta."
-    dd "Well, yeah. Sorta."
+    dd "Nun, ja. Mehr oder weniger."
 
 # game/code/d08/d08s05.rpy:101
 translate deutsch d08s05_dd_1d7fc9ca:
 
     # mc "You went to high school with Samiya? And Dahlia too?"
-    mc "You went to high school with Samiya? And Dahlia too?"
+    mc "Du warst mit Samiya auf der High School? Und auch mit Dahlia?"
 
 # game/code/d08/d08s05.rpy:103
 translate deutsch d08s05_dd_7aa3a666:
 
     # dd "It's not that weird. Like half the people in our graduating class came here."
-    dd "It's not that weird. Like half the people in our graduating class came here."
+    dd "So seltsam ist das gar nicht. Etwa die Hälfte der Leute in unserer Abschlussklasse kam hierher."
 
 # game/code/d08/d08s05.rpy:105
 translate deutsch d08s05_dd_2cd36bd2:
 
     # sy "Can you tell us anything about Samiya?"
-    sy "Can you tell us anything about Samiya?"
+    sy "Kannst du uns etwas über Samiya erzählen?"
 
 # game/code/d08/d08s05.rpy:106
 translate deutsch d08s05_dd_79500dd1:
 
     # dd "Oh sure! {w}Let's see..."
-    dd "Oh sure! {w}Let's see..."
+    dd "Na klar! {w}Mal sehen..."
 
 # game/code/d08/d08s05.rpy:109
 translate deutsch d08s05_dd_a3ea74e4:
 
     # dd "Dahlia and Samiya never got along."
-    dd "Dahlia and Samiya never got along."
+    dd "Dahlia und Samiya haben sich nie verstanden."
 
 # game/code/d08/d08s05.rpy:110
 translate deutsch d08s05_dd_ff251ef7:
 
     # dd "Samiya would prank Dahlia, so Dahlia would talk shit about Samiya, so Samiya would prank Dahlia..."
-    dd "Samiya would prank Dahlia, so Dahlia would talk shit about Samiya, so Samiya would prank Dahlia..."
+    dd "Samiya hat Dahlia einen Streich gespielt, also hat Dahlia über Samiya gelästert, also hat Samiya Dahlia einen Streich gespielt..."
 
 # game/code/d08/d08s05.rpy:112
 translate deutsch d08s05_dd_3859fa41:
 
     # dd "Meanwhile I was there, friends with both of them, and just like \"Ugh, you're as bad as Batman and the Joker. Just fuck already!\""
-    dd "Meanwhile I was there, friends with both of them, and just like \"Ugh, you're as bad as Batman and the Joker. Just fuck already!\""
+    dd "In der Zwischenzeit war ich dort, befreundet mit den beiden, und genau wie \"Igitt, du bist genauso schlimm wie Batman und der Joker. Fick doch einfach!\""
 
 # game/code/d08/d08s05.rpy:114
 translate deutsch d08s05_dd_24fb4913:
 
     # sy "What?!"
-    sy "What?!"
+    sy "Was?!"
 
 # game/code/d08/d08s05.rpy:116
 translate deutsch d08s05_dd_67db1ff0:
 
     # dd "Batman and the Joker. Harry and Draco? Statler and Waldorf?"
-    dd "Batman and the Joker. Harry and Draco? Statler and Waldorf?"
+    dd "Batman und der Joker. Harry und Draco? Statler und Waldorf?"
 
 # game/code/d08/d08s05.rpy:117
 translate deutsch d08s05_dd_b92a4d87:
 
     # mc "Did they ever...?"
-    mc "Did they ever...?"
+    mc "Haben sie jemals...?"
 
 # game/code/d08/d08s05.rpy:119
 translate deutsch d08s05_dd_e57db9cf:
 
     # dd "Gah! No. {w}It got even worse after Dahlia's boyfriend's tires got slashed."
-    dd "Gah! No. {w}It got even worse after Dahlia's boyfriend's tires got slashed."
+    dd "Ah! Nein. {w}Es wurde noch schlimmer, als die Reifen von Dahlias Freund aufgeschlitzt wurden."
 
 # game/code/d08/d08s05.rpy:121
 translate deutsch d08s05_dd_a34281ac:
 
     # mc "Was that the Prom King that Dahlia was talking about? The one that rejected Samiya?"
-    mc "Was that the Prom King that Dahlia was talking about? The one that rejected Samiya?"
+    mc "War das der Ballkönig, von dem Dahlia gesprochen hat? Derjenige, der Samiya abgewiesen hat?"
 
 # game/code/d08/d08s05.rpy:123
 translate deutsch d08s05_dd_f5eb4f21:
 
     # dd "Ha! Oh, yeah. There's a funny story about that."
-    dd "Ha! Oh, yeah. There's a funny story about that."
+    dd "Ha! Oh, ja. Dazu gibt es eine lustige Geschichte."
 
 # game/code/d08/d08s05.rpy:125
 translate deutsch d08s05_dd_42576e57:
 
     # sy "How's that?"
-    sy "How's that?"
+    sy "Wie Lautet sie ?"
 
 # game/code/d08/d08s05.rpy:127
 translate deutsch d08s05_dd_136263e1:
 
     # dd "Okay, Dahlia started dating this guy. This whole alpha male sports jock guy. On the football team and everything."
-    dd "Okay, Dahlia started dating this guy. This whole alpha male sports jock guy. On the football team and everything."
+    dd "Okay, Dahlia hat angefangen, mit diesem Typen auszugehen. Ein Alphamännchen, ein Sportskanone. Im Football-Team und so."
 
 # game/code/d08/d08s05.rpy:129
 translate deutsch d08s05_dd_f1f628d2:
 
     # dd "And so Samiya thought Dahlia was being so phony."
-    dd "And so Samiya thought Dahlia was being so phony."
+    dd "Und so dachte Samiya, dass Dahlia sich extrem verstellt hatte."
 
 # game/code/d08/d08s05.rpy:131
 translate deutsch d08s05_dd_560e2665:
