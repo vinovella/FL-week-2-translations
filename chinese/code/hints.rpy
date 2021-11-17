@@ -636,5 +636,5 @@ translate chinese strings:
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Squizzle develops - This will end Min's path."
-    new "This is an important choice that changes the way your relationship with Squizzle develops - This will end Min's path."
+    new "这个选择很重要，它将改变你与斯奎兹的关系发展--这将终结通向明的路径。"
 
