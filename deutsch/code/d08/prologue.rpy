@@ -200,7 +200,7 @@ translate deutsch prologue_girls_set_2_done_61fc0900:
 translate deutsch prologue_girls_set_3_746b6a7f:
 
     # "Last pair: do you prefer a top or a bottom? (Or neither, if they aren't your cup of tea)\nSelect up to one girl and press \"Done\"."
-    "Letztes Paar: bevorzugst du ein Oberteil oder ein Unterteil? (Oder keins von beiden, wenn sie nicht dein Ding sind)\nWähle bis zu einem Mädchen aus und drücke auf "Done\"."
+    "Letztes Paar: bevorzugst du ein Oberteil oder ein Unterteil? (Oder keins von beiden, wenn sie nicht dein Ding sind)\nWähle bis zu einem Mädchen aus und drücke auf \"Done\"."
 
 # game/code/d08/prologue.rpy:175
 translate deutsch prologue_fetishes_4cc3c0e4:
@@ -225,4 +225,3 @@ translate deutsch strings:
     # game/code/d08/prologue.rpy:186
     old "No, I didn't"
     new "Nein, habe ich nicht."
-
