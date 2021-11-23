@@ -160,7 +160,7 @@ translate malay replay_d08s01_8a7eb859:
 translate malay replay_d08s01_f74029b7:
 
     # sy "Oops! Sorry."
-    sy "Oops! Sorry."
+    sy "Oops! Maaf."
 
 # game/code/d08/d08s01.rpy:121
 translate malay replay_d08s01_5aa5acd8:
