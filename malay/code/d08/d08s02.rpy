@@ -46,7 +46,7 @@ translate malay d08s02_df3ed211:
 translate malay d08s02_6321213c:
 
     # mc "Yeah, well... breakfast looks delicious at least."
-    mc "Yeah, jadi... sarapan nampak sedap sekurang0kurangnya."
+    mc "Yeah, jadi... sarapan nampak sedap sekurang kurangnya."
 
 # game/code/d08/d08s02.rpy:29
 translate malay d08s02_9f2e4146:
@@ -76,7 +76,7 @@ translate malay d08s02_3c701cb0:
 translate malay d08s02_e6c50c5b:
 
     # arj "Well, yeah. I guess it would be worse if you were a good liar, but still..."
-    arj "Well, yeah. Aku rasa lagi teruk kalau kau jadi penipu yang baik, tapi..."
+    arj "Jadi, yeah. Aku rasa lagi teruk kalau kau jadi penipu yang baik, tapi..."
 
 # game/code/d08/d08s02.rpy:37
 translate malay d08s02_9f904d03:
