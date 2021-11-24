@@ -100,7 +100,7 @@ translate malay replay_d13s02_ba1c7c77:
 translate malay replay_d13s02_a11f6539:
 
     # mk "Actually... {w}Well, yeah."
-    mk "Actually... {w}Yeah."
+    mk "Sebenarnya... {w}Yeah."
 
 # game/code/d13/extended/d13s02.rpy:92
 translate malay replay_d13s02_2ea4ef7a:
