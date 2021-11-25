@@ -532,5 +532,5 @@ translate malay strings:
 
     # game/code/d13/d13s01.rpy:116
     old "Stay and study"
-    new "Tungge dan belajar"
+    new "Tunggu dan belajar"
 
