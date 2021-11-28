@@ -226,7 +226,7 @@ translate malay replay_d13s06_f8d9fa78:
 translate malay replay_d13s06_6559a778:
 
     # ah "Why don't you come inside then?"
-    ah "Kenapa kau tak masuk?
+    ah "Kenapa kau tak masuk?"
 
 # game/code/d13/d13s06.rpy:243
 translate malay replay_d13s06_82c31382:
@@ -395,4 +395,3 @@ translate malay replay_d13s06_9a9ab7ca:
 
     # mc "Unless you have more in mind, then yes. That's the deal done."
     mc "Melainkan jika kau ada idea yang lain, maka ya. Ianya dah dilakukan."
-
