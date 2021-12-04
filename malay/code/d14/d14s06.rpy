@@ -208,7 +208,7 @@ translate malay d14s06_759d0e04:
 translate malay d14s06_e6b3b267:
 
     # lc "You mean like edging?"
-    lc "Maksud kau macam edging?
+    lc "Maksud kau macam edging?"
 
 # game/code/d14/d14s06.rpy:182
 translate malay d14s06_9355ade5:
@@ -286,7 +286,7 @@ translate malay d14s06_7f1d655e:
 translate malay d14s06_eeda768e:
 
     # mc "Oh fuck yes!"
-    mc "Oh ya!
+    mc "Oh ya!"
 
 # game/code/d14/d14s06.rpy:252
 translate malay d14s06_458fa2ef:
@@ -599,4 +599,3 @@ translate malay d14s06_0bc1e557:
 
     # mc "That's a good idea."
     mc "Bagus juda ideanya."
-
