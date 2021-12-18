@@ -112,7 +112,7 @@ translate malay d14s13_ff42d29a:
 translate malay d14s13_a873591a:
 
     # hr "It's about {i}that{/i} then?"
-    hr "Ianya pasal {i}itu{i} kan?"
+    hr "Ianya pasal {i}itu{/i} kan?"
 
 # game/code/d14p2/d14s13.rpy:51
 translate malay d14s13_f800bed0:
@@ -479,4 +479,3 @@ translate malay d14s13_5af089f0:
 
     # hr "*Chuckles* You really remind me of my girlfriend."
     hr "*Ketawa* Kau betul-betul ingatkanku tentang teman wanita aku."
-
