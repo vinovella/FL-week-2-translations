@@ -16,7 +16,7 @@ translate malay d08s09_bfbfe28c:
 translate malay d08s09_605e1af7:
 
     # "*Knock knock*"
-    "*Knock knock*"
+    "*ketuk ketuk*"
 
 # game/code/d08/extended/d08s09.rpy:48
 translate malay d08s09_83cbdbe2:
@@ -82,7 +82,7 @@ translate malay replay_d08s09_cda14353:
 translate malay replay_d08s09_d5b914bf:
 
     # mc "HA, HA! I didn't think the great Rkil Dvorka could be so easily captured."
-    mc "HA, HA! Aku tidak terfikir si Rkil Dvorka yang hebat sungguh senang ditangkap."
+    mc "HA, HA! Aku tak terfikir si Rkil Dvorka yang hebat sungguh senang ditangkap."
 
 # game/code/d08/extended/d08s09.rpy:89
 translate malay replay_d08s09_be917f4b:

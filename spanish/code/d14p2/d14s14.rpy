@@ -28,13 +28,13 @@ translate spanish d14s14_9e42ddcd:
 translate spanish d14s14_c2947e97:
 
     # dd "Representing the Male Gender - you know him, you love him, you want his hard manmeat pounding away at your uterus...{w} [mcname] the Fornicator!"
-    dd "Representación del género masculino: lo conoces, lo amas, quieres su dura carne de hombre golpeando tu útero...{w}[¡[mcname] El Fornicador!"
+    dd "Representación del género masculino: lo conoces, lo amas, quieres su dura carne de hombre golpeando tu útero.{w}.. ¡[mcname] El Fornicador!"
 
 # game/code/d14p2/d14s14.rpy:60
 translate spanish d14s14_14bc14c7:
 
     # dd "Representing the Female Gender - that salacious succubus, that saccharine slitch, that scintillating seductress...{w} Slammin' Samiya!"
-    dd "Representar el género femenino: esa súcuba salaz, esa zorra sacarina, esa seductora centelleante...{w} ¡Samiya, la más guapa!"
+    dd "Representar el género femenino: esa súcuba salaz, esa zorra sacarina, esa seductora centelleante.{w}.. ¡Samiya, la más guapa!"
 
 # game/code/d14p2/d14s14.rpy:62
 translate spanish d14s14_85c2b36a:
