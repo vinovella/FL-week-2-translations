@@ -436,7 +436,7 @@ translate italian d14s13_4942e9f8:
 translate italian d14s13_d880e853:
 
     # mc "Uh... For what now?"
-    mc "Uh... Per cosa adesso?"
+    mc "Uh... Per cosa adesso?" 
 
 # game/code/d14p2/d14s13.rpy:156
 translate italian d14s13_cffa1039:
