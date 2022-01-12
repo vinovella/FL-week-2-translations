@@ -4,79 +4,79 @@
 translate italian d14s13_d2c80bad:
 
     # mc "Where are we going?"
-    mc "Where are we going?"
+    mc "Dove stiamo andando?"
 
 # game/code/d14p2/d14s13.rpy:8
 translate italian d14s13_d60bae26:
 
     # arj "Stacy is buttering up Hana in the pool. It's the best time to talk to her."
-    arj "Stacy is buttering up Hana in the pool. It's the best time to talk to her."
-
+    arj "Stacy sta mettendo la crema ad Hana in piscina. È il momento migliore per parlarle."
+    
 # game/code/d14p2/d14s13.rpy:12
 translate italian d14s13_6df7962f:
 
     # mct "Well they sure seem to be getting along well."
-    mct "Well they sure seem to be getting along well."
+    mct "Beh, di sicuro sembrano andare d'accordo." 
 
 # game/code/d14p2/d14s13.rpy:16
 translate italian d14s13_16e83347:
 
     # arj "Found him."
-    arj "Found him."
+    arj "Eccolo."
 
 # game/code/d14p2/d14s13.rpy:18
 translate italian d14s13_600e06be:
 
     # sy "Aw, we were having fun."
-    sy "Aw, we were having fun."
+    sy "Ah, ci stavamo divertendo."
 
 # game/code/d14p2/d14s13.rpy:20
 translate italian d14s13_56d69ed9:
 
     # hr "Who knows, it might be even more fun with him."
-    hr "Who knows, it might be even more fun with him."
+    hr "Chissà, potrebbe essere ancora più divertente con lui."
 
 # game/code/d14p2/d14s13.rpy:22
 translate italian d14s13_7612b2a6:
 
     # sy "True, true..."
-    sy "True, true..."
+    sy "Vero, vero..."
 
 # game/code/d14p2/d14s13.rpy:26
 translate italian d14s13_03bd297e:
 
     # arj "Have you told Hana?"
-    arj "Have you told Hana?"
+    arj "L'hai detto ad Hana?"
 
 # game/code/d14p2/d14s13.rpy:28
 translate italian d14s13_7e6cdc3d:
 
     # sy "Uh... I may or may not have gotten a bit distracted by a story Hana was telling."
-    sy "Uh... I may or may not have gotten a bit distracted by a story Hana was telling."
-
+    sy "Uh... Forse mi sono distratta un po' da una storia che Hana mi stava raccontando."
+   
 # game/code/d14p2/d14s13.rpy:30
 translate italian d14s13_57512541:
 
     # sy "In my defense, it was a very interesting story."
-    sy "In my defense, it was a very interesting story."
-
+    sy "In mia difesa posso dire che la storia era molto interessante." 
+    
 # game/code/d14p2/d14s13.rpy:32
 translate italian d14s13_e4dc9609:
 
     # sy "Did you know that Hana escaped from the clutches of pirates in Bolivia?"
-    sy "Did you know that Hana escaped from the clutches of pirates in Bolivia?"
+    sy "Lo sapevi che Hana è fuggita dalle grinfie dei pirati in Bolivia?"
 
 # game/code/d14p2/d14s13.rpy:34
 translate italian d14s13_3d13ffbe:
 
     # mc "There are pirates in Bolivia?"
-    mc "There are pirates in Bolivia?"
+    mc "Ci sono pirati in Bolivia?"
 
 # game/code/d14p2/d14s13.rpy:36
 translate italian d14s13_e0b4e4ed:
 
     # hr "You wouldn't think so, but absolutely."
-    hr "You wouldn't think so, but absolutely."
+    hr "Non si direbbe, ma assolutamente sì."
 
 # game/code/d14p2/d14s13.rpy:37
 translate italian d14s13_ad1eaa57:
@@ -88,73 +88,73 @@ translate italian d14s13_ad1eaa57:
 translate italian d14s13_4001faa4:
 
     # arj "*Coughs*"
-    arj "*Coughs*"
+    arj "*Tossisce*"
 
 # game/code/d14p2/d14s13.rpy:41
 translate italian d14s13_2fd657e6:
 
     # mc "Oh, right. If you somehow couldn't tell already, we all wanted to talk with you for a reason."
-    mc "Oh, right. If you somehow couldn't tell already, we all wanted to talk with you for a reason."
+    mc "Oh, giusto. Se in qualche modo non l'avessi capito, volevamo tutti parlare con te per un motivo."
 
 # game/code/d14p2/d14s13.rpy:43
 translate italian d14s13_ac78dfe3:
 
     # hr "And that might be...?"
-    hr "And that might be...?"
+    hr "Cioè...?"
 
 # game/code/d14p2/d14s13.rpy:47
 translate italian d14s13_ff42d29a:
 
     # mc "Alright. We {i}should{/i} be able to talk now; the water will block most signals."
-    mc "Alright. We {i}should{/i} be able to talk now; the water will block most signals."
-
+    mc "Va bene. Ora {i}possiamo{/i} parlare; l'acqua bloccherà la maggior parte dei segnali." 
+    
 # game/code/d14p2/d14s13.rpy:49
 translate italian d14s13_a873591a:
 
     # hr "It's about {i}that{/i} then?"
-    hr "It's about {i}that{/i} then?"
+    hr "Ma si tratta di {i}quello{/i}?"
 
 # game/code/d14p2/d14s13.rpy:51
 translate italian d14s13_f800bed0:
 
     # mc "Yes."
-    mc "Yes."
+    mc "Esatto."
 
 # game/code/d14p2/d14s13.rpy:53
 translate italian d14s13_bc9de016:
 
     # hr "I didn't know that you told anyone else about this."
-    hr "I didn't know that you told anyone else about this."
+    hr "Non sapevo che l'avessi detto a qualcun altro."
 
 # game/code/d14p2/d14s13.rpy:55
 translate italian d14s13_1c6cd08c:
 
     # mc "Yeah. They're helping me figure this out."
-    mc "Yeah. They're helping me figure this out."
+    mc "Sì. Mi stanno aiutando a capirci qualcosa."
 
 # game/code/d14p2/d14s13.rpy:57
 translate italian d14s13_8eba2a78:
 
     # hr "Well, what do you want from me then?"
-    hr "Well, what do you want from me then?"
+    hr "Beh, e allora cosa vuoi da me?" 
 
 # game/code/d14p2/d14s13.rpy:59
 translate italian d14s13_d5396806:
 
     # sy "We wanted to talk about us working together."
-    sy "We wanted to talk about us working together."
+    sy "Volevamo parlarti del lavoro che facciamo."
 
 # game/code/d14p2/d14s13.rpy:61
 translate italian d14s13_89751135:
 
     # hr "In what capacity?"
-    hr "In what capacity?"
+    hr "In che veste?"
 
 # game/code/d14p2/d14s13.rpy:63
 translate italian d14s13_0c3aa530:
 
     # sy "Uh, every capacity I guess?"
-    sy "Uh, every capacity I guess?"
+    sy "Uh, in qualsiasi veste immagino?"
 
 # game/code/d14p2/d14s13.rpy:65
 translate italian d14s13_fc5c13b3:
