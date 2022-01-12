@@ -418,7 +418,7 @@ translate italian d14s13_ddd03b4b:
 translate italian d14s13_76535f03:
 
     # lc "It's time!"
-    lc "È giunta l'ora!"
+    lc "È arrivato il momento!"
 
 # game/code/d14p2/d14s13.rpy:150
 translate italian d14s13_8603d4ee:
