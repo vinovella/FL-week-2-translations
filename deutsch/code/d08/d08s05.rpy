@@ -1215,3 +1215,11 @@ translate deutsch d08s05_b4dc6ce9:
     # sy "So... What's the plan?"
     sy "So... What's the plan?"
 
+# TODO: Translation updated at 2022-01-14 16:54
+
+# game/code/d08/d08s05.rpy:17
+translate deutsch d08s05_7bfd3d68:
+
+    # sy "So, now that we're here... {w}What's the plan?"
+    sy "So, now that we're here... {w}What's the plan?"
+
