@@ -130,7 +130,7 @@ translate italian d08s00_week1synopsis_3dacd3b1:
 translate italian d08s00_week1synopsis_1df7e0c2:
 
     # "[mcname] participated in a blitz challenge all alone in his dorm room."
-    "[mcname] aveva partecipato ad una challenge lampo da solo nella sua stanza del dormitorio." 
+    "[mcname] aveva partecipato ad una challenge lampo da solo nella sua stanza del dormitorio."
 
 # game/code/recap.rpy:145
 translate italian d08s00_week1synopsis_364e992e:
@@ -166,7 +166,7 @@ translate italian d08s00_week1synopsis_7e655ba7:
 translate italian d08s00_week1synopsis_17eac08a:
 
     # "Each day, Fetish Locator provided users with a specific fetish they could do to earn more points than usual."
-    "Ogni giorno, Fetish Locator indicava un feticismo specifico per guadagnare più punti." 
+    "Ogni giorno, Fetish Locator indicava un feticismo specifico per guadagnare più punti."
 
 # game/code/recap.rpy:171
 translate italian d08s00_week1synopsis_0335f0f9:
@@ -256,8 +256,8 @@ translate italian d08s00_week1synopsis_db68b096:
 translate italian d08s00_week1synopsis_4bdbccfd:
 
     # "In the early hours of the morning, Lydia finally caught a few hours of sleep."
-    "Nelle prime ore del mattino, Lydia aveva recuperato finalmente qualche ora di sonno." 
-    
+    "Nelle prime ore del mattino, Lydia aveva recuperato finalmente qualche ora di sonno."
+
 # game/code/recap.rpy:224
 translate italian d08s00_week1synopsis_8b65250d:
 
@@ -424,7 +424,7 @@ translate italian d08s00_week1synopsis_c61400f6:
 translate italian d08s00_week1synopsis_99a5a592:
 
     # "That didn't sound too difficult. Right?"
-    "La challenge non sembrava troppo difficile.”
+    "La challenge non sembrava troppo difficile."
 
 # game/code/recap.rpy:296
 translate italian d08s00_week1synopsis_923fc443:
@@ -484,7 +484,7 @@ translate italian d08s00_week1synopsis_95f66221:
 translate italian d08s00_week1synopsis_d8de791e:
 
     # "On Saturday morning, Stacy moved to be closer to campus, where she will be starting classes in Autumn, and decided to stay at MC's dorm temporarily."
-    "Sabato mattina, Stacy si era trasferita più vicina al campus, dove avrebbe iniziato a seguire le lezioni in autunno. Aveva quindi deciso di stare temporaneamente nel dormitorio di MC." 
+    "Sabato mattina, Stacy si era trasferita più vicina al campus, dove avrebbe iniziato a seguire le lezioni in autunno. Aveva quindi deciso di stare temporaneamente nel dormitorio di MC."
 
 # game/code/recap.rpy:331
 translate italian d08s00_week1synopsis_a7b86fb9:
@@ -526,8 +526,8 @@ translate italian d08s00_week1synopsis_c05bb0af:
 translate italian d08s00_week1synopsis_fc5cdcfc:
 
     # "...and he decided to imagine her that way during the concert."
-    "...e aveva deciso di immaginarla in quel modo durante il concerto." 
-    
+    "...e aveva deciso di immaginarla in quel modo durante il concerto."
+
 # game/code/recap.rpy:349
 translate italian d08s00_week1synopsis_d3894896:
 
@@ -574,7 +574,7 @@ translate italian d08s00_week1synopsis_227ab1f0:
 translate italian d08s00_week1synopsis_a196715c:
 
     # "Surprisingly, while he was swimming he was picked up by Hana - the girl he had spied in Pete's bed almost a week earlier."
-    "Sorprendentemente, mentre stava nuotando era stato beccato da Hana, la ragazza che aveva spiato nel letto di Pete quasi una settimana prima." 
+    "Sorprendentemente, mentre stava nuotando era stato beccato da Hana, la ragazza che aveva spiato nel letto di Pete quasi una settimana prima."
 
 # game/code/recap.rpy:375
 translate italian d08s00_week1synopsis_2f28a84b:
@@ -712,13 +712,13 @@ translate italian d08s00_week1synopsis_c5702c87:
 translate italian d08s00_week1synopsis_821d0429:
 
     # "It turned out that she was hiding a rather massive secret."
-    "A quanto parte nascondeva un grande segreto.” 
+    "A quanto parte nascondeva un grande segreto."
 
 # game/code/recap.rpy:447
 translate italian d08s00_week1synopsis_a9648965:
 
     # "In addition to being a lawyer, she also owns a few properties around the city. Arrangements have been made for Stacy to rent one of her apartments."
-    "Oltre ad essere un avvocato, possedeva anche alcune proprietà in città, e aveva affittato a Stacy uno dei suoi appartamenti.” 
+    "Oltre ad essere un avvocato, possedeva anche alcune proprietà in città, e aveva affittato a Stacy uno dei suoi appartamenti."
 
 # game/code/recap.rpy:451
 translate italian d08s00_week1synopsis_9600fb72:
@@ -748,7 +748,7 @@ translate italian d08s00_week1synopsis_e39abc29:
 translate italian d08s00_week1synopsis_e5f510cd:
 
     # "AmRose and Maria had one hell of an argument after Maria went around telling people about a certain redhead who would do anything for points."
-    "AmRose e Maria avevano avuto una discussione infernale dopo che Maria era andata in giro a raccontare di una certa rossa che avrebbe fatto qualsiasi cosa per guadagnare punti.”
+    "AmRose e Maria avevano avuto una discussione infernale dopo che Maria era andata in giro a raccontare di una certa rossa che avrebbe fatto qualsiasi cosa per guadagnare punti."
 
 # game/code/recap.rpy:468
 translate italian d08s00_week1synopsis_b9dc0240:
@@ -760,13 +760,13 @@ translate italian d08s00_week1synopsis_b9dc0240:
 translate italian d08s00_week1synopsis_ecb0369f:
 
     # "An opportunity that [mcname] took advantage of to humiliate Maria in a way she did not expect."
-    "Un’opportunità che [mcname] aveva sfruttato per umiliare Maria in un modo che lei non si aspettava.” 
+    "Un’opportunità che [mcname] aveva sfruttato per umiliare Maria in un modo che lei non si aspettava."
 
 # game/code/recap.rpy:477
 translate italian d08s00_week1synopsis_a8958900:
 
     # "[mcname] met Polly in the park on Tuesday, where she convinced him to agree to her terms."
-    "[mcname] aveva incontrato Polly nel parco di martedì, dove lei lo aveva convinto ad accettare le sue condizioni.”
+    "[mcname] aveva incontrato Polly nel parco di martedì, dove lei lo aveva convinto ad accettare le sue condizioni."
 
 # game/code/recap.rpy:482
 translate italian d08s00_week1synopsis_0f8233ca:
@@ -796,7 +796,7 @@ translate italian d08s00_week1synopsis_5fae5b32:
 translate italian d08s00_week1synopsis_e6b41de0:
 
     # "Although he pushed his luck too far when he creampied her without asking first, and Nora threw him out."
-    "Avendo sfidato troppo la fortuna venendole dentro senza chiederlo, Nora lo aveva buttato fuori.”
+    "Avendo sfidato troppo la fortuna venendole dentro senza chiederlo, Nora lo aveva buttato fuori."
 
 # game/code/recap.rpy:499
 translate italian d08s00_week1synopsis_2d5282ed:
@@ -820,7 +820,7 @@ translate italian d08s00_week1synopsis_56ca8129:
 translate italian d08s00_week1synopsis_5e6afc40:
 
     # "Wednesday morning, [mcname] was surprised by a half-naked woman next to his bed."
-    "Mercoledì mattina, [mcname] era stato sorpreso da una donna mezza nuda accanto al suo letto.”
+    "Mercoledì mattina, [mcname] era stato sorpreso da una donna mezza nuda accanto al suo letto."
 
 # game/code/recap.rpy:515
 translate italian d08s00_week1synopsis_83f2da96:
@@ -838,19 +838,19 @@ translate italian d08s00_week1synopsis_4150d943:
 translate italian d08s00_week1synopsis_4416f062:
 
     # "By Friday night, there was clearly something more than just friendship between them."
-    "Venerdì sera, c’era chiaramente qualcosa che indicasse più di una semplice amicizia.”
+    "Venerdì sera, c’era chiaramente qualcosa che indicasse più di una semplice amicizia."
 
 # game/code/recap.rpy:524
 translate italian d08s00_week1synopsis_f6053844:
 
     # "Saturday morning was an especially close time for them together."
-    "Sabato mattina erano particolarmente vicini.” 
+    "Sabato mattina erano particolarmente vicini."
 
 # game/code/recap.rpy:527
 translate italian d08s00_week1synopsis_0aa7f63f:
 
     # "On the beach on Sunday, Daisy really opened up about her submissive desires."
-    "Sulla spiaggia di domenica, Daisy si era completamente aperta sui suoi desideri di sottomissione.” 
+    "Sulla spiaggia di domenica, Daisy si era completamente aperta sui suoi desideri di sottomissione."
 
 # game/code/recap.rpy:529
 translate italian d08s00_week1synopsis_f6e01cf2:
@@ -886,7 +886,7 @@ translate italian d08s00_week1synopsis_ac416e4e:
 translate italian d08s00_week1synopsis_aa846a87:
 
     # "[mcname] learned that accepting the peculiar nature of Kevin's relationship with Chloe has benefits."
-    "[mcname] aveva appreso che accettare la natura peculiare della relazione di Kevin con Chloe aveva i suoi benefici.”  
+    "[mcname] aveva appreso che accettare la natura peculiare della relazione di Kevin con Chloe aveva i suoi benefici."
 
 # game/code/recap.rpy:554
 translate italian d08s00_week1synopsis_4023103c:
@@ -898,7 +898,7 @@ translate italian d08s00_week1synopsis_4023103c:
 translate italian d08s00_week1synopsis_364aed1d:
 
     # "During the Secret Santa Event at Min's Party, Jessie received cunnilingus for the very first time."
-    "Durante l’Evento Pacco Segreto alla festa di Min, Jessie aveva ricevuto un cunnilingus per la prima volta nella sua vita.”
+    "Durante l’Evento Pacco Segreto alla festa di Min, Jessie aveva ricevuto un cunnilingus per la prima volta nella sua vita."
 
 # game/code/recap.rpy:559
 translate italian d08s00_week1synopsis_7474a2fd:
@@ -917,4 +917,3 @@ translate italian d08s00_week1synopsis_7c59af2b:
 
     # "No more waiting! Let's get into Week 2..."
     "Basta aspettare! Andiamo alla 2 Settimana..."
-
