@@ -10,13 +10,13 @@ translate italian d08s00_week1synopsis_9b6483a6:
 translate italian d08s00_week1synopsis_c5c04ebc:
 
     # "After two weeks of illness at home, our hero [mcname] finally returned to college..."
-    "Dopo essere stato malato per due settimane a casa, [mcname] era tornato finalmente all'università..."
+    "Dopo essere rimasto a casa malato per un paio di settimane, [mcname] era finalmente tornato all'università..."
 
 # game/code/recap.rpy:68
 translate italian d08s00_week1synopsis_28064d5b:
 
     # "[mcname] promptly took in the sights, but she was not for him."
-    "[mcname] si era messo subito all'opera, ma lei non andava bene per lui."
+    "[mcname] aveva subito puntato il mirino, ma lei non gli piaceva."
 
 # game/code/recap.rpy:74
 translate italian d08s00_week1synopsis_1aec8a12:
@@ -58,7 +58,7 @@ translate italian d08s00_week1synopsis_ae7bbf76:
 translate italian d08s00_week1synopsis_8e5b1af6:
 
     # "With a few minutes left before class started, [mcname] made time for his best female friend, AmRose."
-    "Pochi minuti prima della lezione, [mcname] stava chiacchierando con la sua migliore amica, AmRose."
+    "Pochi minuti prima della lezione, [mcname] aveva trovato del tempo per la sua migliore amica, AmRose."
 
 # game/code/recap.rpy:97
 translate italian d08s00_week1synopsis_98767453:
@@ -70,7 +70,7 @@ translate italian d08s00_week1synopsis_98767453:
 translate italian d08s00_week1synopsis_b0e144bd:
 
     # "AmRose was annoyed by [mcname] for some reason. Probably because he forgot to call her while he was away."
-    "Per qualche motivo, AmRose era infastidita da [mcname]. Probabilmente perché lui si era dimenticato di chiamarla quando non si erano visti."
+    "Per qualche motivo, AmRose era infastidita da [mcname]. Probabilmente perché lui si era dimenticato di chiamarla durante la sua assenza."
 
 # game/code/recap.rpy:105
 translate italian d08s00_week1synopsis_f7c0e504:
@@ -94,7 +94,7 @@ translate italian d08s00_week1synopsis_26c10612:
 translate italian d08s00_week1synopsis_3e0077b4:
 
     # "It was Pete's girl, but [mcname] wasn't about to rat Pete out to the authorities."
-    "Lei era la ragazza di Pete, ma [mcname] non aveva l'intenzione di cantare Pete alle autorità."
+    "Questa era la ragazza di Pete, ma [mcname] non aveva intenzione di cantare Pete alle autorità."
 
 # game/code/recap.rpy:118
 translate italian d08s00_week1synopsis_a4fe4f65:
@@ -124,7 +124,7 @@ translate italian d08s00_week1synopsis_68dd0c96:
 translate italian d08s00_week1synopsis_3dacd3b1:
 
     # "[mcname] participated in a blitz challenge while AmRose was sleeping during the movie."
-    "[mcname] aveva partecipato ad una challenge lampo mentre AmRose stava dormendo durante il film."
+    "[mcname] aveva partecipato ad una challenge lampo mentre AmRose si era addormentata durante il film."
 
 # game/code/recap.rpy:140
 translate italian d08s00_week1synopsis_1df7e0c2:
@@ -196,7 +196,7 @@ translate italian d08s00_week1synopsis_dd38013c:
 translate italian d08s00_week1synopsis_5001a40a:
 
     # "Luckily, [mcname] was able to earn enough points for the ticket to the Party."
-    "Per fortuna, [mcname] era stato in grado di guadagnare abbastanza punti per prendere un biglietto per la Festa."
+    "Per fortuna, [mcname] aveva guadagnato abbastanza punti per prendersi il biglietto per la Festa."
 
 # game/code/recap.rpy:194
 translate italian d08s00_week1synopsis_0da9d890:
@@ -220,7 +220,7 @@ translate italian d08s00_week1synopsis_305ff4a1:
 translate italian d08s00_week1synopsis_30cde4cf:
 
     # "As luck would have it, it was Lydia that found him later on."
-    "Per fortuna, era Lydia stessa a trovarlo."
+    "Per fortuna, era stata Lydia stessa a trovarlo."
 
 # game/code/recap.rpy:206
 translate italian d08s00_week1synopsis_00f612bc:
@@ -232,7 +232,7 @@ translate italian d08s00_week1synopsis_00f612bc:
 translate italian d08s00_week1synopsis_8e4c3057:
 
     # "[mcname] made Lydia feel better, and she even took an interest in him, before she was dragged away."
-    "[mcname] aveva fatto sentire Lydia un po' meglio, e in lei era nato anche un certo interesse prima che fosse stata trascinata via."
+    "[mcname] era riuscito a far sentire Lydia un po' meglio, e in lei era nato anche un certo interesse prima che fosse stata trascinata via."
 
 # game/code/recap.rpy:212
 translate italian d08s00_week1synopsis_899d87f7:
@@ -262,7 +262,7 @@ translate italian d08s00_week1synopsis_4bdbccfd:
 translate italian d08s00_week1synopsis_8b65250d:
 
     # "[mcname] became uncomfortably aroused enjoying the sight, sound, and smell of his obsession laying next to him."
-    "[mcname] si stava scomodamente eccitando alla vista, al suono e all'odore della sua ossessione che giaceva accanto a lui."
+    "[mcname] si stava insopportabilmente eccitando alla vista, al suono e all'odore della sua ossessione che giaceva accanto a lui."
 
 # game/code/recap.rpy:226
 translate italian d08s00_week1synopsis_fa0286b9:
@@ -346,7 +346,7 @@ translate italian d08s00_week1synopsis_255f6be0:
 translate italian d08s00_week1synopsis_be9a62da:
 
     # "...IF [mcname] met her for their first REAL date before the concert."
-    "...SE [mcname] l'avesse incontrata per il loro primo VERO appuntamento prima del concerto."
+    "...SE [mcname] l’avesse incontrata per il loro primo VERO appuntamento prima del concerto."
 
 # game/code/recap.rpy:262
 translate italian d08s00_week1synopsis_39ede91d:
@@ -478,7 +478,7 @@ translate italian d08s00_week1synopsis_bca71c80:
 translate italian d08s00_week1synopsis_95f66221:
 
     # "And even has a taste of him!"
-    "Assaporandolo anche!"
+    "E se l’era pure gustato!"
 
 # game/code/recap.rpy:328
 translate italian d08s00_week1synopsis_d8de791e:
@@ -712,7 +712,7 @@ translate italian d08s00_week1synopsis_c5702c87:
 translate italian d08s00_week1synopsis_821d0429:
 
     # "It turned out that she was hiding a rather massive secret."
-    "A quanto parte aveva un segreto piuttosto enorme.” 
+    "A quanto parte nascondeva un grande segreto.” 
 
 # game/code/recap.rpy:447
 translate italian d08s00_week1synopsis_a9648965:
@@ -724,13 +724,13 @@ translate italian d08s00_week1synopsis_a9648965:
 translate italian d08s00_week1synopsis_9600fb72:
 
     # "During a walk together, Lyssa and [mcname] came together in an alley."
-    "Durante una passeggiata, Lyssa e [mcname] erano andati insieme in un vicolo."
+    "Mentre passeggiavano, Lyssa e [mcname] si erano addentrati in un vicolo."
 
 # game/code/recap.rpy:455
 translate italian d08s00_week1synopsis_cfbb9651:
 
     # "During a walk together, Lyssa pulled [mcname] into an alley for some fun."
-    "Durante una passeggiata, Lyssa aveva trascinato [mcname] in un vicolo per divertirsi."
+    "Mentre passeggiavano, Lyssa aveva trascinato [mcname] in un vicolo per divertirsi."
 
 # game/code/recap.rpy:458
 translate italian d08s00_week1synopsis_8bd42629:
@@ -754,7 +754,7 @@ translate italian d08s00_week1synopsis_e5f510cd:
 translate italian d08s00_week1synopsis_b9dc0240:
 
     # "Whether it was guilt from her argument with AmRose or lingering effects from their mystical experience, Maria interrupted [mcname] in the bathroom with an unusual offer."
-    "Che fosse il senso di colpa per la sua discussione con AmRose o gli effetti persistenti della loro esperienza mistica, Maria aveva interrotto [mcname] in bagno per un’offerta insolita."
+    "Che fosse il senso di colpa per la sua discussione con AmRose o gli effetti persistenti della loro esperienza mistica, Maria aveva interrotto [mcname] in bagno con un’offerta insolita."
 
 # game/code/recap.rpy:472
 translate italian d08s00_week1synopsis_ecb0369f:
@@ -838,7 +838,7 @@ translate italian d08s00_week1synopsis_4150d943:
 translate italian d08s00_week1synopsis_4416f062:
 
     # "By Friday night, there was clearly something more than just friendship between them."
-    "Venerdì sera, c’era chiaramente qualcosa di più di una semplice amicizia tra loro.”
+    "Venerdì sera, c’era chiaramente qualcosa che indicasse più di una semplice amicizia.”
 
 # game/code/recap.rpy:524
 translate italian d08s00_week1synopsis_f6053844:
@@ -886,7 +886,7 @@ translate italian d08s00_week1synopsis_ac416e4e:
 translate italian d08s00_week1synopsis_aa846a87:
 
     # "[mcname] learned that accepting the peculiar nature of Kevin's relationship with Chloe has benefits."
-    "[mcname] aveva appreso che accettare la natura peculiare della relazione d Kevin con Chloe aveva i suoi benefici.”  
+    "[mcname] aveva appreso che accettare la natura peculiare della relazione di Kevin con Chloe aveva i suoi benefici.”  
 
 # game/code/recap.rpy:554
 translate italian d08s00_week1synopsis_4023103c:
