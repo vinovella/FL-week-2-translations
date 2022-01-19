@@ -88,7 +88,7 @@ translate italian d08s00_week1synopsis_d1b21365:
 translate italian d08s00_week1synopsis_26c10612:
 
     # "[mcname] cleaned up after the game, as a punishment for having a girl in his room that morning."
-    "[mcname] doveva pulire dopo la partita come punizione per aver avuto una ragazza nella sua stanza quella mattina."
+    "[mcname] doveva mettere a posto dopo la partita come punizione per aver avuto una ragazza nella sua stanza quella mattina."
 
 # game/code/recap.rpy:117
 translate italian d08s00_week1synopsis_3e0077b4:
@@ -106,7 +106,7 @@ translate italian d08s00_week1synopsis_a4fe4f65:
 translate italian d08s00_week1synopsis_9014903a:
 
     # "[mcname] and Pete cleaned up together after the game, as punishment for Pete having a girl in his room that morning."
-    "[mcname] e Pete dovevano ripulire insieme dopo la partita, come punizione perché Pete aveva avuto una ragazza nella sua stanza quella mattina."
+    "[mcname] e Pete dovevano entrambi mettere a posto dopo la partita, come punizione perché Pete aveva avuto una ragazza nella sua stanza quella mattina."
 
 # game/code/recap.rpy:123
 translate italian d08s00_week1synopsis_3397b1a7:
