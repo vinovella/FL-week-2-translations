@@ -46,7 +46,7 @@ translate italian d09s07_b3e774b1:
 translate italian d09s07_7b218c07:
 
     # sb "I mean, she's paying for this."
-    sb “Cioè voglio dire, lei mi sta pagando per questa cosa."
+    sb "Cioè voglio dire, lei mi sta pagando per questa cosa."
 
 # game/code/d09/extended/d09s07.rpy:67
 translate italian d09s07_004b029a:
@@ -58,7 +58,7 @@ translate italian d09s07_004b029a:
 translate italian d09s07_8126f0c0:
 
     # sb "Well, she paying me for a guy or guys to rape her. She calls it forced sexual roleplay."
-    sb "Beh, mi sta pagando perché un uomo o più la stuprino. Lo definisce un gioco di ruolo sessuale forzato.”
+    sb "Beh, mi sta pagando perché un uomo o più la stuprino. Lo definisce un gioco di ruolo sessuale forzato."
 
 # game/code/d09/extended/d09s07.rpy:70
 translate italian d09s07_f4bf12ce:
@@ -82,13 +82,13 @@ translate italian d09s07_e0561b49:
 translate italian d09s07_31cee9e7:
 
     # sb "Rape roleplay-ist... {w}and you're still listening."
-    sb "È un gioco di ruolo... {w}e stai continuando ad ascoltarmi." 
+    sb "È un gioco di ruolo... {w}e stai continuando ad ascoltarmi."
 
 # game/code/d09/extended/d09s07.rpy:75
 translate italian d09s07_a949d20e:
 
     # mc "You're sitting in a coffee shop and the guy at the next table starts telling you about his experiences with alien abduction."
-    mc "Te ne stai seduto in un bar e il ragazzo al tavolo accanto inizia a raccontarti la sua esperienza di rapimento alieno.” 
+    mc "Te ne stai seduto in un bar e il ragazzo al tavolo accanto inizia a raccontarti la sua esperienza di rapimento alieno."
 
 # game/code/d09/extended/d09s07.rpy:76
 translate italian d09s07_df68be80:
@@ -136,7 +136,7 @@ translate italian d09s07_3a8bca94:
 translate italian d09s07_9a1a0502:
 
     # sb "Fine, tell her that I sent you, or whatever makes you happy. Then kick in the door."
-    sb "Va bene, dille che ti ho mandato io o qualsiasi cosa possa renderti felice. Poi dai un calcio alla porta.”
+    sb "Va bene, dille che ti ho mandato io o qualsiasi cosa possa renderti felice. Poi dai un calcio alla porta."
 
 # game/code/d09/extended/d09s07.rpy:88
 translate italian d09s07_44b96f72:
@@ -454,7 +454,7 @@ translate italian d09s07_part1_778be498:
 translate italian d09s07_part1_77164c8b:
 
     # jdg "Also, don't bruise my face. It will be difficult to explain."
-    jdg "Inoltre, non lasciarmi lividi in faccia. Saranno difficili da spiegare.”
+    jdg "Inoltre, non lasciarmi lividi in faccia. Saranno difficili da spiegare."
 
 # game/code/d09/extended/d09s07.rpy:215
 translate italian d09s07_part1_5a800c67:
@@ -531,8 +531,8 @@ translate italian d09s07_bj_c2b89c00:
 # game/code/d09/extended/d09s07.rpy:259
 translate italian d09s07_bj_cbf3bf89:
 
-    # mc "Is it because my cock is balls deep in your whore mouth?" 
-    mc "È perché ho infilato il mio cazzo nella tua bocca da puttana?".
+    # mc "Is it because my cock is balls deep in your whore mouth?"
+    mc "È perché ho infilato il mio cazzo nella tua bocca da puttana?"
 
 # game/code/d09/extended/d09s07.rpy:264
 translate italian d09s07_bj_825653e1:
@@ -706,13 +706,13 @@ translate italian d09s07_bjtorture_436ef5bb:
 translate italian d09s07_bjtorture_0cf97b73:
 
     # mc "Fine. I hope your pussy is as inviting as your whore mouth."
-    mc "Va bene. Spero che la tua figa sia invitante come la tua bocca da troia.”
+    mc "Va bene. Spero che la tua figa sia invitante come la tua bocca da troia."
 
 # game/code/d09/extended/d09s07.rpy:339
 translate italian d09s07_bjtorture_4156b996:
 
     # mc "I hope your pussy is as inviting as your whore mouth."
-    mc "Spero che la tua figa sia invitante come la tua bocca da troia.”
+    mc "Spero che la tua figa sia invitante come la tua bocca da troia."
 
 # game/code/d09/extended/d09s07.rpy:347
 translate italian d09s07_part2_b7e24e8c:
@@ -909,7 +909,7 @@ translate italian d09s07_end_f5e68828:
 # game/code/d09/extended/d09s07.rpy:474
 translate italian d09s07_end_7588deb1:
 
-    # mc "This whole thing is a little weird." 
+    # mc "This whole thing is a little weird."
     mc "È tutto un po’ strano."
 
 # game/code/d09/extended/d09s07.rpy:475
@@ -999,7 +999,7 @@ translate italian d09s07_end_923531c6:
 # game/code/d09/extended/d09s07.rpy:496
 translate italian d09s07_end_04d36be1:
 
-    # jdg "It was terrifying as hell, but..." 
+    # jdg "It was terrifying as hell, but..."
     jdg "È stato terrificante come l’inferno, ma... "
 
 # game/code/d09/extended/d09s07.rpy:498
@@ -1450,7 +1450,7 @@ translate italian d09s07_sb_talk_01f360d7:
 translate italian d09s07_sb_talk_2b0f70c0:
 
     # mc "I explained it to her. She was surprisingly chill about what happened."
-    mc “Le ho spiegato la situazione. Era sorprendentemente tranquilla riguardo la situazione."
+    mc "Le ho spiegato la situazione. Era sorprendentemente tranquilla riguardo la situazione."
 
 # game/code/d09/extended/d09s07.rpy:697
 translate italian d09s07_sb_talk_de0b8c9e:
@@ -1529,4 +1529,3 @@ translate italian strings:
     # game/code/d09/extended/d09s07.rpy:416
     old "Flip her over"
     new "Girala"
-
