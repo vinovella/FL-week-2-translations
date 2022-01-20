@@ -1504,7 +1504,7 @@ translate italian strings:
 
     # game/code/d09/extended/d09s07.rpy:242
     old "Stop This Now"
-    new "Smettila subito"
+    new "Fermati subito"
 
     # game/code/d09/extended/d09s07.rpy:300
     old "Shove your dick back into her mouth"
@@ -1520,7 +1520,7 @@ translate italian strings:
 
     # game/code/d09/extended/d09s07.rpy:365
     old "Stop This Now!"
-    new "Smettila Subito!"
+    new "Fermati Subito!"
 
     # game/code/d09/extended/d09s07.rpy:416
     old "Creampie the Judge"
