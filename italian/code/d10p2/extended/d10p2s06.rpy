@@ -196,7 +196,7 @@ translate italian d10p2s06_7d419cdc:
 translate italian d10p2s06_c6dd9539:
 
     # mc "Is...that a yes?"
-    mc " È… un sì?" 
+    mc " È… un sì?"
 
 # game/code/d10p2/extended/d10p2s06.rpy:115
 translate italian d10p2s06_46176c4d:
@@ -316,7 +316,7 @@ translate italian replay_d10p2s06_c5f94e54:
 translate italian replay_d10p2s06_28d0d2e4:
 
     # dd "I now realize that this might have been a bit unfair to a certain contender...but we'll trudge on through nevertheless!"
-    dd Ora mi rendo conto che questo potrebbe essere stato un po’ ingiusto nei confronti di un certo concorrente… ma andremo avanti comunque!"
+    dd "Ora mi rendo conto che questo potrebbe essere stato un po’ ingiusto nei confronti di un certo concorrente… ma andremo avanti comunque!"
 
 # game/code/d10p2/extended/d10p2s06.rpy:271
 translate italian replay_d10p2s06_5560bc9f:
@@ -382,11 +382,10 @@ translate italian replay_d10p2s06_cfdb0c74:
 translate italian replay_d10p2s06_d8e248f3:
 
     # dd "And now, as Champion Equine, URLittlePony gets to drink out of the legendary Trough of Ultimate Sexual Deviancy, and be truly known through out the lands as the one and only Champion Equine."
-    dd "E ora, come Campione Equino, URLittlePony potrà bere dal leggendario Trogolo della Completa Devianza Sessuale ed essere conosciuta in tutte le terre come l’unico e inimitabile Campione Equino.”
+    dd "E ora, come Campione Equino, URLittlePony potrà bere dal leggendario Trogolo della Completa Devianza Sessuale ed essere conosciuta in tutte le terre come l’unico e inimitabile Campione Equino."
 
 # game/code/d10p2/extended/d10p2s06.rpy:365
 translate italian replay_d10p2s06_2794fd31:
 
     # "Everybody" "*Chuckles*"
     "Everybody" "*Risate*"
-

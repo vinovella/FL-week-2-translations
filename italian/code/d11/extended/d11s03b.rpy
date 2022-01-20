@@ -274,7 +274,7 @@ translate italian replay_d11s03b_a01a0f08:
 translate italian replay_d11s03b_32eb005a:
 
     # aw "Oh! Don't mention that story to Lyssa. She might be upset that I told anyone - even you."
-    aw "Oh! Non dirlo a Lyssa. Potrebbe arrabbiarsi sapendo che l’ho detto a qualcuno, anche a te.”
+    aw "Oh! Non dirlo a Lyssa. Potrebbe arrabbiarsi sapendo che l’ho detto a qualcuno, anche a te."
 
 # game/code/d11/extended/d11s03b.rpy:247
 translate italian replay_d11s03b_14f9c877:
