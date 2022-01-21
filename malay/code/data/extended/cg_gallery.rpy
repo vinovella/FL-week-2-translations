@@ -8,7 +8,7 @@ translate malay strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Transfer some points to ErikaRed"
-    new "Transfer some points to ErikaRed"
+    new "Berikan beberapa mata ke ErikaRed"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 8: Maria"
@@ -136,7 +136,7 @@ translate malay strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Don't lie to Lydia"
-    new "Jangan tiou ke Lydia"
+    new "Jangan tipu Lydia"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 9: Samiya"
@@ -244,7 +244,7 @@ translate malay strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Stop Lydia"
-    new "Berhentikan Lydia"
+    new "Hentikan Lydia"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 11: Lydia - Pool"
@@ -280,15 +280,15 @@ translate malay strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 12: Lydia - Pool"
-    new "Day 12: Lydia - Pool"
+    new "Day 12: Lydia - Kolam"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 14: Dream"
-    new "Day 14: Dream"
+    new "Day 14: Mimpi"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Party 3: Pool Girls"
-    new "Party 3: Pool Girls"
+    new "Party 3: Kolam Perempuan"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Party 3: Jessie"
@@ -296,5 +296,5 @@ translate malay strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Party 3: Participants"
-    new "Party 3: Participants"
+    new "Party 3: Peserta"
 
