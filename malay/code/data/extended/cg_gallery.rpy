@@ -280,21 +280,21 @@ translate malay strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 12: Lydia - Pool"
-    new "Day 12: Lydia - Kolam"
+    new "Hari 12: Lydia - Kolam"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 14: Dream"
-    new "Day 14: Mimpi"
+    new "Hari 14: Mimpi"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Party 3: Pool Girls"
-    new "Party 3: Kolam Perempuan"
+    new "Parti 3: Kolam Perempuan"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Party 3: Jessie"
-    new "Party 3: Jessie"
+    new "Parti 3: Jessie"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Party 3: Participants"
-    new "Party 3: Peserta"
+    new "Parti 3: Peserta"
 
