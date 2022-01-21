@@ -232,7 +232,7 @@ translate italian d12s03_b271ffbb:
 translate italian d12s03_628c719f:
 
     # jdg "It was a complete role reversal."
-    jdg "È stato un totale ribaltamento di ruoli." 
+    jdg "È stato un totale ribaltamento di ruoli."
 
 # game/code/d12/extended/d12s03.rpy:163
 translate italian d12s03_cba2301e:
@@ -604,7 +604,7 @@ translate italian d12s03_fake_rape_b53e4b5e:
 translate italian d12s03_fake_rape_623d5188:
 
     # mc "They are something easy for both parties to remember, that can't be confused with a roleplay situation."
-    mc "Deve essere una cosa facile da ricordare per entrambi e che non può essere confusa in un qualsiasi gioco di ruolo.” 
+    mc "Deve essere una cosa facile da ricordare per entrambi e che non può essere confusa in un qualsiasi gioco di ruolo."
 
 # game/code/d12/extended/d12s03.rpy:370
 translate italian d12s03_fake_rape_df5bad3f:
@@ -730,7 +730,7 @@ translate italian d12s03_fake_rape_1e9131bb:
 translate italian d12s03_fake_rape_8b762998:
 
     # jdg "Whenever you are ready, I suggest you start by grabbing my hair and either throwing me over the desk or to the ground."
-    jdg "Quando sei pronto, ti suggerisco di iniziare prendendomi per i capelli e buttandomi sul tavolo o per terra.”
+    jdg "Quando sei pronto, ti suggerisco di iniziare prendendomi per i capelli e buttandomi sul tavolo o per terra."
 
 # game/code/d12/extended/d12s03.rpy:434
 translate italian d12s03_fake_rape_c8a0491e:
@@ -1309,4 +1309,3 @@ translate italian strings:
     # game/code/d12/extended/d12s03.rpy:740
     old "Cum in her Mouth"
     new "Vienile in Bocca"
-

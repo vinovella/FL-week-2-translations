@@ -166,13 +166,13 @@ translate italian replay_d13s02_6c865abc:
 translate italian replay_d13s02_d55d1473:
 
     # mk "Yeah. I had a little trouble with... ya'know, my teeth got in the way."
-    mk "Beh, ho avuto un po’ di problemi con… sai, i miei denti si sono messi di mezzo.” 
+    mk "Beh, ho avuto un po’ di problemi con… sai, i miei denti si sono messi di mezzo."
 
 # game/code/d13/extended/d13s02.rpy:125
 translate italian replay_d13s02_38d0c432:
 
     # tm "That's a common early problem. For now, just wrap your lips around your teeth."
-    tm "Quello è un problema comune all’inizio. Per ora avvolgi le labbra attorno ai denti.” 
+    tm "Quello è un problema comune all’inizio. Per ora avvolgi le labbra attorno ai denti."
 
 # game/code/d13/extended/d13s02.rpy:128
 translate italian replay_d13s02_57caa58b:
@@ -184,7 +184,7 @@ translate italian replay_d13s02_57caa58b:
 translate italian replay_d13s02_c55b05a4:
 
     # tm "Your lips - keep them between your teeth and his cock."
-    tm "Le labbra, tienile tra i denti e il suo cazzo.” 
+    tm "Le labbra, tienile tra i denti e il suo cazzo."
 
 # game/code/d13/extended/d13s02.rpy:134
 translate italian replay_d13s02_2862558f:
