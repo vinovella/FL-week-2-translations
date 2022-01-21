@@ -364,7 +364,7 @@ translate malay strings:
 
     # game/code/screens/screens.rpy:486
     old "Character Gallery"
-    new "Character Gallery"
+    new "Galeri Watak"
 
 # TODO: Translation updated at 2021-10-13 01:40
 
@@ -380,7 +380,7 @@ translate malay strings:
 
     # game/code/screens/screens.rpy:1028
     old "Low Memory Mode"
-    new "Low Memory Mode"
+    new "Mod Memori Rendah"
 
 # TODO: Translation updated at 2021-11-14 23:01
 
@@ -388,20 +388,20 @@ translate malay strings:
 
     # game/code/screens/screens.rpy:789
     old "Game"
-    new "Game"
+    new "Permainan"
 
     # game/code/screens/screens.rpy:791
     old "Sound Effects"
-    new "Sound Effects"
+    new "Kesan Bunyi"
 
     # game/code/screens/screens.rpy:793
     old "Soundtracks"
-    new "Soundtracks"
+    new "Runut Bunyi"
 
     # game/code/screens/screens.rpy:795
     old "Other Sounds"
-    new "Other Sounds"
+    new "Bunyi Lain"
 
     # game/code/screens/screens.rpy:796
     old "Others"
-    new "Others"
+    new "Lain"
