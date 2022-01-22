@@ -216,7 +216,7 @@ translate malay strings:
 
     # game/code/hints.rpy:5
     old "If you select this and don't input anything, you can find an Easter Egg in a future scene with Iona."
-    new Jika anda memilih ini dan tidak memasukkan apa-apa, anda boleh dapat Easter Egg dalam adegan masa depan dengan Iona."
+    new "Jika anda memilih ini dan tidak memasukkan apa-apa, anda boleh dapat Easter Egg dalam adegan masa depan dengan Iona."
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Oliver develops - This will permanently close off Oliver's path."
@@ -620,7 +620,7 @@ translate malay strings:
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Stacy develops - You might get to live the dream life with Stacy—sans kids."
-    new Ini adalah pilihan penting yang mengubah cara hubungan anda dengan Stacy berkembang - Anda mungkin dapat menjalani kehidupan impian bersama anak-anak Stacy"
+    new "Ini adalah pilihan penting yang mengubah cara hubungan anda dengan Stacy berkembang - Anda mungkin dapat menjalani kehidupan impian bersama anak-anak Stacy"
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Stacy develops - You might get to live the dream life with Stacy, just fucking her over and over again."
@@ -637,4 +637,3 @@ translate malay strings:
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Squizzle develops - This will end Min's path."
     new "Ini ialah pilihan penting yang mengubah cara perhubungan anda dengan Squizzle berkembang - Ini akan menamatkan laluan Min."
-
