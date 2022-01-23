@@ -388,7 +388,7 @@ translate malay d10p1s02_6f587f2f:
 translate malay d10p1s02_b3154631:
 
     # mc "No, it's cool. It was interesting hearing about it all."
-    mc "No, it's cool. It was interesting hearing about it all."
+    mc "Tak apa, ianya okay. Ia menarik mendengar tentang semua itu."
 
 # game/code/d10p1/d10p1s02.rpy:168
 translate malay d10p1s02_26355bf9:
