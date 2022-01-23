@@ -1000,7 +1000,7 @@ translate malay d10p2s04_dw_talk_min_outside_6d35dcd0:
 translate malay d10p2s04_dw_talk_min_outside_f37e2aab:
 
     # mct "Let's see what else I can do tonight."
-    mct "Mari kita tengok apa lagi yang boleh aku lakukan malam ini.”
+    mct "Mari kita tengok apa lagi yang boleh aku lakukan malam ini."
 
 # game/code/d10p2/d10p2s04-dw.rpy:850
 translate malay d10p2s04_dw_talk_min_outside_e7bcb7df:
@@ -1187,4 +1187,3 @@ translate malay strings:
     # game/code/d10p2/d10p2s04-dw.rpy:695
     old "Hold stronger"
     new "Tahan lama lagi"
-

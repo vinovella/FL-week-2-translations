@@ -172,7 +172,7 @@ translate italian d14s08_8f468400:
 translate italian d14s08_3297a8e2:
 
     # mc "I'm not sure if that's the same for Nora. She seems REALLY into the BDSM lifestyle."
-    mc "Non sono sicuro che sia lo stesso per Nora. Lei sembra DAVVERO essere interessata allo stile di vita BDSM.”
+    mc "Non sono sicuro che sia lo stesso per Nora. Lei sembra DAVVERO essere interessata allo stile di vita BDSM."
 
 # game/code/d14/extended/d14s08.rpy:104
 translate italian d14s08_fa4dc77f:
@@ -184,7 +184,7 @@ translate italian d14s08_fa4dc77f:
 translate italian d14s08_96c9484f:
 
     # mc "I think she really likes you, and she doesn't seem to have a problem being on display and fucking with all those windows in her café."
-    mc "Penso che tu le piaccia davvero, e non sembra avere problemi a mettersi in mostra e a scopare con tutte quelle vetrine del suo bar.”
+    mc "Penso che tu le piaccia davvero, e non sembra avere problemi a mettersi in mostra e a scopare con tutte quelle vetrine del suo bar."
 
 # game/code/d14/extended/d14s08.rpy:108
 translate italian d14s08_b46d8a6b:
@@ -214,7 +214,7 @@ translate italian d14s08_fc065dcd:
 translate italian d14s08_2c09f2f9:
 
     # pw "I hope not. {w}I'm hoping that you want to continue being a significant part of our relationship."
-    pw "Ti spiego. {w}Spero che tu voglia continuare ad essere una parte significativa della nostra relazione.”
+    pw "Ti spiego. {w}Spero che tu voglia continuare ad essere una parte significativa della nostra relazione."
 
 # game/code/d14/extended/d14s08.rpy:118
 translate italian d14s08_3d6a041a:
@@ -238,7 +238,7 @@ translate italian d14s08_de3342bf:
 translate italian d14s08_bd1eba6a:
 
     # mc "But yeah, goal achieved. I figured you would want me to slowly exit and leave you two to your own fun."
-    mc "Ma sì, obiettivo raggiunto. Immaginavo che avessi voluto che me ne andassi via piano piano e lasciassi voi due al vostro divertimento.”
+    mc "Ma sì, obiettivo raggiunto. Immaginavo che avessi voluto che me ne andassi via piano piano e lasciassi voi due al vostro divertimento."
 
 # game/code/d14/extended/d14s08.rpy:125
 translate italian d14s08_28af41a8:

@@ -305,4 +305,3 @@ translate malay d10s06_38cf5d59:
 
     # mc "Right? That woman sure knows how to make a good cup of Joe."
     mc "Kan? Dia memang pandai kalau bab kopi."
-
