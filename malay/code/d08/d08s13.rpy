@@ -388,13 +388,13 @@ translate malay d08s13_good_a31340dd:
 translate malay d08s13_good_75131eef:
 
     # nk "Yeah, you wouldn't believe some of the things..."
-    nk "Yeah, you wouldn't believe some of the things..."
+    nk "Yeah, kau tak akan percaya beberapa perkara..."
 
 # game/code/d08/d08s13.rpy:212
 translate malay d08s13_good_b2aba0e3:
 
     # mc "Like what?"
-    mc "Like what?"
+    mc "Seperti apa?"
 
 # game/code/d08/d08s13.rpy:213
 translate malay d08s13_good_10f23c83:
