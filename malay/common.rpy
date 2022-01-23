@@ -1,6 +1,6 @@
 # TODO: Translation updated at 2021-07-16 23:50
 
-translate malaysian strings:
+translate malay strings:
 
     # renpy/common/00accessibility.rpy:28
     old "Self-voicing disabled."
@@ -2365,4 +2365,3 @@ translate malay strings:
     # renpy/common/00gamepad.rpy:58
     old "Press or move the '[control!s]' [kind]."
     new "Press or move the '[control!s]' [kind]."
-
