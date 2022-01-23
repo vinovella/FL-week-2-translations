@@ -808,7 +808,7 @@ translate malay d12s03_sex_399e4ca1:
 translate malay d12s03_sex_21530341:
 
     # jdg "No! {w}Anything but that!"
-    jdg "No! {w}Anything but that!"
+    jdg "Tak! {w}Apa-apa selain itu!"
 
 # game/code/d12/extended/d12s03.rpy:534
 translate malay d12s03_sex_4ba7a1e3:
@@ -1090,7 +1090,7 @@ translate malay d12s03_end_52b10334:
 translate malay d12s03_end_ee7512df:
 
     # jdg "Ha! {w}That's something we'll have to..."
-    jdg "Ha! {w}That's something we'll have to..."
+    jdg "Ha! {w}Itu sesuatu yang kita perlu..."
 
 # game/code/d12/extended/d12s03.rpy:882
 translate malay d12s03_end_05500ff6:
@@ -1276,7 +1276,7 @@ translate malay d12s03_end_e5d3c12d:
 translate malay d12s03_end_d2e28ed3:
 
     # mct "Is this what my life has become?"
-    mct "Beginikah kehidupan saya?"
+    mct "Beginikah kehidupan aku?"
 
 # game/code/d12/extended/d12s03.rpy:997
 translate malay d12s03_end_b68d5e9a:
