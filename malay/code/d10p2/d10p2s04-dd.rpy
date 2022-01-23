@@ -52,19 +52,19 @@ translate malay d10p2s04_dd_ac9117f0:
 translate malay d10p2s04_dd_ae31ede1:
 
     # mc "It's alright."
-    mc "It's alright."
+    mc "Tak apa."
 
 # game/code/d10p2/d10p2s04-dd.rpy:146
 translate malay d10p2s04_dd_08dc91cf:
 
     # mc "I think I'm gonna go see what else is there to do."
-    mc "I think I'm gonna go see what else is there to do."
+    mc "Aku rasa aku akan pergi melihat apa lagi yang boleh dilakukan."
 
 # game/code/d10p2/d10p2s04-dd.rpy:148
 translate malay d10p2s04_dd_2e806df9:
 
     # mesfl "Sure. Have fun."
-    mesfl "Sure. Have fun."
+    mesfl "Baik. Berseronoklah."
 
 # game/code/d10p2/d10p2s04-dd.rpy:168
 translate malay d10p2s04_dd_c02bd047:
