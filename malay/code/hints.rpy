@@ -60,7 +60,7 @@ translate malay strings:
 
     # game/code/hints.rpy:5
     old "This choice doesn't have any great consequence currently - You will unlock a new CG in the gallery."
-    new "This choice doesn't have any great consequence currently - You will unlock a new CG in the gallery."
+    new "Pilihan ini tidak mempunyai sebarang akibat yang besar pada masa ini - Anda akan membuka CG baharu dalam galeri."
 
     # game/code/hints.rpy:5
     old "You will get the highest number of FL points and deny her from using her dick."
@@ -264,7 +264,7 @@ translate malay strings:
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Jessie develops - You will \"ride\" Jessie in more than one way - You will get kicked from her path if you don't go."
-    new "This is an important choice that changes the way your relationship with Jessie develops - You will \"ride\" Jessie in more than one way - You will get kicked from her path if you don't go."
+    new "Ini adalah pilihan penting yang mengubah cara hubungan anda dengan Jessie berkembang - Anda akan \"menunggang\" Jessie dalam lebih daripada satu cara - Anda akan ditendang dari laluannya jika anda tidak pergi."
 
     # game/code/hints.rpy:5
     old "You will skip any remaining events and prepare for the main event with Allison and Squizzle."
