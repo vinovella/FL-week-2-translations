@@ -562,7 +562,7 @@ translate malay d10p1s01_c94c6141:
 translate malay d10p1s01_36bce151:
 
     # arjfl "I've never heard of that film."
-    arjfl "I've never heard of that film."
+    arjfl "Aku tak pernah dengar tentang filem itu."
 
 # game/code/d10p1/d10p1s01.rpy:203
 translate malay d10p1s01_ae0b8ada:
