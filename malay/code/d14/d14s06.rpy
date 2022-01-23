@@ -400,7 +400,7 @@ translate malay d14s06_721da63d:
 translate malay d14s06_a50b495a:
 
     # mes "In me, on me... I just want to..."
-    mes "In me, on me... I just want to..."
+    mes "Dalam aku, pada aku... Aku hanya nak..."
 
 # game/code/d14/d14s06.rpy:307
 translate malay d14s06_704f1778:
