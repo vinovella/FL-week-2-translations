@@ -917,4 +917,3 @@ translate malay d08s00_week1synopsis_7c59af2b:
 
     # "No more waiting! Let's get into Week 2..."
     "Tak perlu menunggu lagi! Jom masuk ke Minggu 2..."
-
