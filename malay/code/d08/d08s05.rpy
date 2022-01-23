@@ -196,7 +196,7 @@ translate malay d08s05_dd_abae32e1:
 translate malay d08s05_dd_9a7079ba:
 
     # sy "My name is Stacy."
-    sy "My name is Stacy."
+    sy "Nama aku Stacy."
 
 # game/code/d08/d08s05.rpy:91
 translate malay d08s05_dd_df4260e7:
