@@ -220,7 +220,7 @@ translate malay d10s04_856ba74e:
 translate malay d10s04_58fdbb1a:
 
     # mc "Was this a grocery or a hardware store or?"
-    mc "Was this a grocery or a hardware store or?"
+    mc "Ianya kedai runcit atau kedai perkakasan atau...?"
 
 # game/code/d10/d10s04.rpy:157
 translate malay d10s04_3fd65ed3:
@@ -406,13 +406,13 @@ translate malay d10s04_40511e6c_1:
 translate malay d10s04_c7d50b36_1:
 
     # vw "Oh look. Here comes your landlord."
-    vw "Oh look. Here comes your landlord."
+    vw "Oh tengok. Dah sampai pun tuan tanah anda."
 
 # game/code/d10/d10s04.rpy:220
 translate malay d10s04_c8b0e594:
 
     # vw "Let me show you around the-"
-    vw "Let me show you around the-"
+    vw "Biar saya tunjukkan kepada awak -"
 
 # game/code/d10/d10s04.rpy:222
 translate malay d10s04_40511e6c_2:
