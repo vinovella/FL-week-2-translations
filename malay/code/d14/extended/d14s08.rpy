@@ -700,7 +700,7 @@ translate malay replay_d14s08_86e867d8:
 translate malay replay_d14s08_e2750a96:
 
     # mc "Just a little bit more... {w}Can you handle this?!"
-    mc "Just a little bit more... {w}Can you handle this?!"
+    mc "Sikit sahaja lagi... {w}Boleh kau tahan sekejap?!"
 
 # game/code/d14/extended/d14s08.rpy:390
 translate malay replay_d14s08_c3c5ad5d:
