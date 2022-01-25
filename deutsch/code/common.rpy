@@ -4,15 +4,15 @@ translate deutsch_hidden strings:
 
     # 00library.rpy:142
     old "Self-voicing disabled."
-    new "Self-voicing disabled."
+    new "Self-voicing deaktiviert."
 
     # 00library.rpy:143
     old "Clipboard voicing enabled. "
-    new "Clipboard voicing enabled. "
+    new "Clipboard voicing aktiviert. "
 
     # 00library.rpy:144
     old "Self-voicing enabled. "
-    new "Self-voicing enabled. "
+    new "Self-voicing aktiviert. "
 
     # 00action_file.rpy:235
     old "%b %d, %H:%M"
@@ -40,7 +40,7 @@ translate deutsch_hidden strings:
 
     # 00gui.rpy:231
     old "Are you sure you want to quit?"
-    new "Sind Sie sicher, dass Sie beenden möchten?"
+    new "Sind Sie sicher, dass Sie diese Stelle abbrechen möchten?"
 
     # 00gui.rpy:232
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
@@ -48,7 +48,7 @@ translate deutsch_hidden strings:
 
     # 00gui.rpy:233
     old "Are you sure you want to end the replay?"
-    new "Are you sure you want to end the replay?"
+    new "Sind Sie sicher, dass Sie die Wiederholung beenden möchten?"
 
     # 00gui.rpy:234
     old "Are you sure you want to begin skipping?"
@@ -60,11 +60,11 @@ translate deutsch_hidden strings:
 
     # 00gui.rpy:236
     old "Are you sure you want to skip unseen dialogue to the next choice?"
-    new "Are you sure you want to skip unseen dialogue to the next choice?"
+    new "Sind Sie sicher, dass Sie den Dialog bis zur nächsten Entscheidung überspringen wollen?"
 
     # renpy/common/00keymap.rpy:267
     old "Failed to save screenshot as %s."
-    new ""
+    new "Screenshot konnte nicht als %s gespeichert werden"
 
     # 00keymap.rpy:250
     old "Saved screenshot as %s."
