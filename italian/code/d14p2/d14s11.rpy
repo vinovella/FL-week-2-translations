@@ -46,7 +46,7 @@ translate italian d14s11_b5af82b8:
 translate italian d14s11_4e475969:
 
     # aw "That pool is terrific. I might have to visit here more often."
-    aw "Quella piscina è fantastica. Dovrei venire più spesso qui.”
+    aw "Quella piscina è fantastica. Dovrei venire più spesso qui."
 
 # game/code/d14p2/d14s11.rpy:39
 translate italian d14s11_ba7604ac:
@@ -166,7 +166,7 @@ translate italian d14s11_25e53132:
 translate italian d14s11_87b7898f:
 
     # aw "Just as long as [mcname] doesn't forget who his main squeeze is, you're good with that?"
-    aw "Quindi finché [mcname] non si dimentica chi è la sua compagna principale, ti sta bene?” 
+    aw "Quindi finché [mcname] non si dimentica chi è la sua compagna principale, ti sta bene?"
 
 # game/code/d14p2/d14s11.rpy:82
 translate italian d14s11_10bdbab7:
@@ -394,7 +394,7 @@ translate italian d14s11_b063effb:
 translate italian d14s11_61d771c9:
 
     # lc "Maybe even right now? I'm sure we'd all like to see that."
-    lc "Perché non ora? Sono sicura che piacerebbe a tutti vederlo.”
+    lc "Perché non ora? Sono sicura che piacerebbe a tutti vederlo."
 
 # game/code/d14p2/d14s11.rpy:153
 translate italian d14s11_ff43cafd:
@@ -502,7 +502,7 @@ translate italian d14s11_968b22e3:
 translate italian d14s11_7366d431:
 
     # sb "I hope you're enjoying your last meal."
-    sb “Spero che ti stia godendo la tua ultima cena."
+    sb "Spero che ti stia godendo la tua ultima cena."
 
 # game/code/d14p2/d14s11.rpy:193
 translate italian d14s11_425d38e1:
@@ -652,13 +652,13 @@ translate italian d14s11_c05655d0:
 translate italian d14s11_1eaa8a1f:
 
     # aw "I wouldn't mind."
-    aw “Non mi dispiacerebbe."
+    aw "Non mi dispiacerebbe."
 
 # game/code/d14p2/d14s11.rpy:274
 translate italian d14s11_b0169045:
 
     # sy "I'm sorry, Lydia. I should have asked you first."
-    sy "Mi dispiace, Lydia. Avrei dovuto chiederlo prima a te.”
+    sy "Mi dispiace, Lydia. Avrei dovuto chiederlo prima a te."
 
 # game/code/d14p2/d14s11.rpy:276
 translate italian d14s11_8ebd3ebd:

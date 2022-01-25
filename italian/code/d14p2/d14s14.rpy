@@ -22,7 +22,7 @@ translate italian d14s14_5b44eb9c:
 translate italian d14s14_9e42ddcd:
 
     # dd "We have a Fuck Fight for the ages scheduled today. Coed Sex Wrestling in the Mud!"
-    dd "Per oggi abbiamo in programma una Lotta con Scopata. Wrestling Misto nel Fango!” 
+    dd "Per oggi abbiamo in programma una Lotta con Scopata. Wrestling Misto nel Fango!"
 
 # game/code/d14p2/d14s14.rpy:58
 translate italian d14s14_c2947e97:
@@ -64,7 +64,7 @@ translate italian d14s14_b4c7faea:
 translate italian d14s14_f978e717:
 
     # dd "(sigh) This isn't an auction. I'll collect wagers in person - and quietly. You don't want everyone to know how much you bet."
-    dd "(sospirando) Questa non è un’asta. Raccoglierò io le scommesse di persona, e in silenzio. Non vorrai far sapere a tutti quanto scommetti.”
+    dd "(sospirando) Questa non è un’asta. Raccoglierò io le scommesse di persona, e in silenzio. Non vorrai far sapere a tutti quanto scommetti."
 
 # game/code/d14p2/d14s14.rpy:72
 translate italian d14s14_b67be5c4:
@@ -112,7 +112,7 @@ translate italian d14s14_122046d1:
 translate italian d14s14_ee6b0b13:
 
     # dd "I highly recommend that you Plan, Plot, and Strategize while I collect the bets."
-    dd “Consiglio di Pianificare, Progettare e Trovare Strategie mentre raccolgo le scommesse."
+    dd "Consiglio di Pianificare, Progettare e Trovare Strategie mentre raccolgo le scommesse."
 
 # game/code/d14p2/d14s14.rpy:88
 translate italian d14s14_fece8e64:
@@ -130,7 +130,7 @@ translate italian d14s14_4815b826:
 translate italian d14s14_e3c98049:
 
     # mct "However, the mud makes things tricky. I don't know how much she'll just be able to squirm out of my grip."
-    mct "In ogni caso, il fango rende le cose più difficili. Non so se riuscirà a liberarsi dalla mia presa.” 
+    mct "In ogni caso, il fango rende le cose più difficili. Non so se riuscirà a liberarsi dalla mia presa."
 
 # game/code/d14p2/d14s14.rpy:92
 translate italian d14s14_b7778059:
@@ -142,19 +142,19 @@ translate italian d14s14_b7778059:
 translate italian d14s14_48f4f370:
 
     # mct "How many people pay to make a prostitute climax? She's probably used to faking it."
-    mct "Quante persone pagano per far raggiungere l’orgasmo ad una prostituta? Probabilmente è abituata a fingere.”
+    mct "Quante persone pagano per far raggiungere l’orgasmo ad una prostituta? Probabilmente è abituata a fingere."
 
 # game/code/d14p2/d14s14.rpy:94
 translate italian d14s14_72c98ca3:
 
     # mct "If I try to make her cum, I'll be playing into her hands, but there's a chance she'll climax before I do."
-    mct "Se cerco di farla venire, starò ai suoi giochi, ma c’è anche la possibilità che raggiungerà l’orgasmo prima di me.”
+    mct "Se cerco di farla venire, starò ai suoi giochi, ma c’è anche la possibilità che raggiungerà l’orgasmo prima di me."
 
 # game/code/d14p2/d14s14.rpy:96
 translate italian d14s14_492e316f:
 
     # mct "Although, she might not have an explosive orgasm. {w}She might be able to cum and hide it from the ref."
-    mct "Inoltre forse non ha neanche un orgasmo esplosivo. {w}Potrebbe avere un orgasmo e nasconderlo di fronte al giudice.” 
+    mct "Inoltre forse non ha neanche un orgasmo esplosivo. {w}Potrebbe avere un orgasmo e nasconderlo di fronte al giudice."
 
 # game/code/d14p2/d14s14.rpy:97
 translate italian d14s14_3c993ac8:
@@ -166,13 +166,13 @@ translate italian d14s14_3c993ac8:
 translate italian d14s14_6bd1dbff:
 
     # mct "On the other hand, I don't really have to win this. I just have to fuck her for the retention challenge."
-    mct "D’altra parte, non devo davvero vincere. Devo solo scoparla per questa challenge.”
+    mct "D’altra parte, non devo davvero vincere. Devo solo scoparla per questa challenge."
 
 # game/code/d14p2/d14s14.rpy:100
 translate italian d14s14_b4a200c3:
 
     # mct "Maybe I should just focus on having fun and try to fuck her right here in the mud."
-    mct "Forse dovrei solo cercare di divertirmi e cercare di scoparla qui nel fango.”
+    mct "Forse dovrei solo cercare di divertirmi e cercare di scoparla qui nel fango."
 
 # game/code/d14p2/d14s14.rpy:101
 translate italian d14s14_245e57cd:

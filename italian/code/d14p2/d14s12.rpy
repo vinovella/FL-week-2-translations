@@ -316,7 +316,7 @@ translate italian d14s12_vw_caught_91c5c248:
 translate italian d14s12_vw_caught_047cf6ee:
 
     # aw "Judged me nonstop for what I wanted to do and now you show up at a sex party without a care in the world."
-    aw "Giudicarmi continuamente per quello che volevo fare e ora ti presenti ad un festino sessuale senza fregartene di nulla.”
+    aw "Giudicarmi continuamente per quello che volevo fare e ora ti presenti ad un festino sessuale senza fregartene di nulla."
 
 # game/code/d14p2/d14s12.rpy:340
 translate italian d14s12_vw_caught_17266d58:
@@ -466,7 +466,7 @@ translate italian d14s12_vw_caught_66ac7085:
 translate italian d14s12_vw_caught_fe6eaa43:
 
     # vw "I wanted the world for her. I did whatever needed to be done to make sure she grew up comfortable."
-    vw "Volevo darle il mondo. Ho fatto tutto quello che potevo per assicurarmi che crescesse bene.”
+    vw "Volevo darle il mondo. Ho fatto tutto quello che potevo per assicurarmi che crescesse bene."
 
 # game/code/d14p2/d14s12.rpy:393
 translate italian d14s12_vw_caught_7f7948c8:
@@ -586,7 +586,7 @@ translate italian d14s12_vw_caught_d6aa4ea3:
 translate italian d14s12_vw_caught_4c2200a4:
 
     # mc "I can probably get her to agree to at least meet you. You'll have to figure everything out from there."
-    mc "Probabilmente posso convincerla almeno ad incontrarti. Poi ve la dovete vedere voi.”
+    mc "Probabilmente posso convincerla almeno ad incontrarti. Poi ve la dovete vedere voi."
 
 # game/code/d14p2/d14s12.rpy:427
 translate italian d14s12_vw_caught_f67d9a35:
