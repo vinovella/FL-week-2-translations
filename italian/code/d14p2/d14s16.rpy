@@ -28,7 +28,7 @@ translate italian d14s16_4a0765ca:
 translate italian d14s16_4869cf64:
 
     # mct "What the hell?"
-    mct "Ma che cazzo?”
+    mct "Ma che cazzo?"
 
 # game/code/d14p2/d14s16.rpy:18
 translate italian d14s16_471fba4a:
@@ -106,7 +106,7 @@ translate italian d14s16_d0c91c62:
 translate italian d14s16_b66587e1:
 
     # lc "Why?! Are you going to whistle up your little helper so she can tackle me?!"
-    lc "Perché?! Hai intenzione di chiamare la tua piccola aiutante per affrontarmi?!” 
+    lc "Perché?! Hai intenzione di chiamare la tua piccola aiutante per affrontarmi?!"
 
 # game/code/d14p2/d14s16.rpy:42
 translate italian d14s16_8b46c56b:
@@ -124,7 +124,7 @@ translate italian d14s16_66ebf307:
 translate italian d14s16_660debec:
 
     # mc "Chill the fuck out, both of you. {w}Then will someone please tell me - CALMLY - what the hell is going on here?"
-    mc "Calmatevi un attimo, voi due. {w}E qualcuno mi può spiegare – CON CALMA – che diavolo sta succedendo qui?” 
+    mc "Calmatevi un attimo, voi due. {w}E qualcuno mi può spiegare – CON CALMA – che diavolo sta succedendo qui?"
 
 # game/code/d14p2/d14s16.rpy:47
 translate italian d14s16_fe80ef30:
@@ -154,7 +154,7 @@ translate italian d14s16_cf11340f:
 translate italian d14s16_10574580:
 
     # lc "Your best friend and her little helper have been doing their best to keep me away from you all day today."
-    lc "La tua migliore amica e la sua piccola aiutante hanno fatto di tutto per tenermi lontana da te tutto il giorno oggi.”
+    lc "La tua migliore amica e la sua piccola aiutante hanno fatto di tutto per tenermi lontana da te tutto il giorno oggi."
 
 # game/code/d14p2/d14s16.rpy:57
 translate italian d14s16_31b99572:
@@ -166,7 +166,7 @@ translate italian d14s16_31b99572:
 translate italian d14s16_73312afb:
 
     # lc "Please. You've both been saying you need my help with every minute detail, even though I'm not necessary."
-    lc "Ma per favore. Avete detto entrambe che avete bisogno del mio aiuto per ogni minimo dettaglio, anche se non sono necessaria.”
+    lc "Ma per favore. Avete detto entrambe che avete bisogno del mio aiuto per ogni minimo dettaglio, anche se non sono necessaria."
 
 # game/code/d14p2/d14s16.rpy:61
 translate italian d14s16_11749bc1:
@@ -178,7 +178,7 @@ translate italian d14s16_11749bc1:
 translate italian d14s16_7720e166:
 
     # lc "Don't bother pretending. Stacy and you collaborated on your party and have been collaborating on-"
-    lc "Non fare finta di niente. Tu e Stacy avete collaborato alla tua festa e vi siete messe d’accordo per-“
+    lc "Non fare finta di niente. Tu e Stacy avete collaborato alla tua festa e vi siete messe d’accordo per-"
 
 # game/code/d14p2/d14s16.rpy:65
 translate italian d14s16_90ca1fbb:
@@ -190,19 +190,19 @@ translate italian d14s16_90ca1fbb:
 translate italian d14s16_765f2df7:
 
     # lc "Sure, in name only. You two planned and put it all together."
-    lc "Certo, solo di nome. Voi due avete pianificato e organizzato tutto.” 
+    lc "Certo, solo di nome. Voi due avete pianificato e organizzato tutto."
 
 # game/code/d14p2/d14s16.rpy:69
 translate italian d14s16_19ca7d92:
 
     # arj "But it's more your party than mine. It's your house, your stuff..."
-    arj "Ma è più la tua festa che la mia. È la tua casa, la tua roba…”
+    arj "Ma è più la tua festa che la mia. È la tua casa, la tua roba…"
 
 # game/code/d14p2/d14s16.rpy:71
 translate italian d14s16_aecb66a5:
 
     # lc "Did I order a giant mud pit in the middle of my pool? I don't remember that."
-    lc "Ho ordinato io una fossa di fango gigante in mezzo alla mia piscina? Non me lo ricordo.”
+    lc "Ho ordinato io una fossa di fango gigante in mezzo alla mia piscina? Non me lo ricordo."
 
 # game/code/d14p2/d14s16.rpy:73
 translate italian d14s16_c4a1f1a4:
@@ -214,13 +214,13 @@ translate italian d14s16_c4a1f1a4:
 translate italian d14s16_cc48d556:
 
     # lc "Was I the one greeting \"our\" guests as they arrived? Or was I stuck watching Stacy perform inane tasks?"
-    lc "Ero io a dare il benvenuto ai \"nostri\" ospiti quando arrivavano? O ero bloccata a guardare Stacy che faceva cose inutili?” 
+    lc "Ero io a dare il benvenuto ai \"nostri\" ospiti quando arrivavano? O ero bloccata a guardare Stacy che faceva cose inutili?"
 
 # game/code/d14p2/d14s16.rpy:77
 translate italian d14s16_53dac75a:
 
     # arj "Okay, maybe it's my party. That still doesn't mean you can order me around."
-    arj "Okay, forse è la mia festa. Ma questo non vuol dire che puoi darmi degli ordini.” 
+    arj "Okay, forse è la mia festa. Ma questo non vuol dire che puoi darmi degli ordini."
 
 # game/code/d14p2/d14s16.rpy:79
 translate italian d14s16_7c0e9b09:
@@ -250,13 +250,13 @@ translate italian d14s16_d4f13b16:
 translate italian d14s16_caee5b01:
 
     # mc "Fair enough. Okay, so, Lydia - have you been ordering AmRose around?"
-    mc "Ha senso. Okay, quindi, Lydia, hai dato ordini ad AmRose?”  
+    mc "Ha senso. Okay, quindi, Lydia, hai dato ordini ad AmRose?"
 
 # game/code/d14p2/d14s16.rpy:90
 translate italian d14s16_5a2e99fd:
 
     # lc "I didn't say any of it like that. I mentioned the sushi was low, 'cause you're the hostess."
-    lc "Non ho detto niente del genere. Ho solo detto che il sushi stava per finire perché eri tu che stavi gestendo la cosa.”
+    lc "Non ho detto niente del genere. Ho solo detto che il sushi stava per finire perché eri tu che stavi gestendo la cosa."
 
 # game/code/d14p2/d14s16.rpy:91
 translate italian d14s16_2867e452:
@@ -292,7 +292,7 @@ translate italian d14s16_e53a7ae6:
 translate italian d14s16_18fc277f:
 
     # lc "Exactly. I got completely blindsided and made to look like a damn fool."
-    lc "Proprio così. Ero completamente bendata e sembravo una dannata idiota.”
+    lc "Proprio così. Ero completamente bendata e sembravo una dannata idiota."
 
 # game/code/d14p2/d14s16.rpy:103
 translate italian d14s16_113cf047:
@@ -322,7 +322,7 @@ translate italian d14s16_817719d6:
 translate italian d14s16_db0e8938:
 
     # arj "I thought of this as your party, because it's your house and..."
-    arj "Ho pensato a questa come la tua festa, perché è la tua casa e…”
+    arj "Ho pensato a questa come la tua festa, perché è la tua casa e…"
 
 # game/code/d14p2/d14s16.rpy:111
 translate italian d14s16_6c5b859e:
@@ -334,13 +334,13 @@ translate italian d14s16_6c5b859e:
 translate italian d14s16_b5dcafa8:
 
     # arj "So, maybe I asked your opinion too often, and maybe I thought you were giving me orders."
-    arj "Quindi, forse ho chiesto troppo spesso la tua opinione, e forse ho pensato che mi stavi dando degli ordini.”
+    arj "Quindi, forse ho chiesto troppo spesso la tua opinione, e forse ho pensato che mi stavi dando degli ordini."
 
 # game/code/d14p2/d14s16.rpy:114
 translate italian d14s16_79fd9545:
 
     # arj "I'm not sure what Stacy's been up to today, but there was no conspiracy to keep you two apart."
-    arj "Non so cosa stia facendo Stacy oggi, ma non c’è stata alcuna cospirazione per tenere voi due lontani.”
+    arj "Non so cosa stia facendo Stacy oggi, ma non c’è stata alcuna cospirazione per tenere voi due lontani."
 
 # game/code/d14p2/d14s16.rpy:116
 translate italian d14s16_38d9067d:
@@ -394,7 +394,7 @@ translate italian d14s16_0e297967:
 translate italian d14s16_14d8c469:
 
     # arj "I'll let you two talk things out. I better go check that Iona hasn't finished off your liquor cabinet."
-    arj "Vi lascio parlare. È meglio che vada a controllare che Iona non abbia finito il tuo armadietto dei liquori.”
+    arj "Vi lascio parlare. È meglio che vada a controllare che Iona non abbia finito il tuo armadietto dei liquori."
 
 # game/code/d14p2/d14s16.rpy:131
 translate italian d14s16_b85d2584:
@@ -454,7 +454,7 @@ translate italian d14s16_df1af95a:
 translate italian d14s16_6662dc74:
 
     # lc "Lie of omission. You knew that I want to be able to trust you."
-    lc "Bugia per omissione. Sai che voglio potermi fidare di te.” 
+    lc "Bugia per omissione. Sai che voglio potermi fidare di te."
 
 # game/code/d14p2/d14s16.rpy:153
 translate italian d14s16_48569549:
@@ -466,7 +466,7 @@ translate italian d14s16_48569549:
 translate italian d14s16_4207b7ec:
 
     # lc "You made me look like a cuckquean and a fool. I'm supposed to know who you're... getting physical with."
-    lc "Mi hai fatto fare la figura della cornuta e della scema. Dovrei sapere con chi stai… fisicamente.”
+    lc "Mi hai fatto fare la figura della cornuta e della scema. Dovrei sapere con chi stai… fisicamente."
 
 # game/code/d14p2/d14s16.rpy:157
 translate italian d14s16_50c21a14:
@@ -490,7 +490,7 @@ translate italian d14s16_08f877dd:
 translate italian d14s16_f8a2a347:
 
     # lc "So, I told you that you could have sex with any person you wanted, and you still found a way to cheat on me."
-    lc "Quindi, io ti ho detto che puoi fare sesso con chi volevi, e comunque sei riuscito a trovare un modo per tradirmi.”
+    lc "Quindi, io ti ho detto che puoi fare sesso con chi volevi, e comunque sei riuscito a trovare un modo per tradirmi."
 
 # game/code/d14p2/d14s16.rpy:165
 translate italian d14s16_50ec5a11:
@@ -550,7 +550,7 @@ translate italian d14s16_bb4982e9:
 translate italian d14s16_4c35f10b:
 
     # lc "Is there anyone else that you're *fucking* that you have feelings for and I should know about?"
-    lc "C’è qualcun’altra che ti stai *scopando* per la quale hai dei sentimenti e che dovrei sapere?”
+    lc "C’è qualcun’altra che ti stai *scopando* per la quale hai dei sentimenti e che dovrei sapere?"
 
 # game/code/d14p2/d14s16.rpy:185
 translate italian d14s16_70e7de7c:
@@ -580,7 +580,7 @@ translate italian d14s16_f800bed0:
 translate italian d14s16_6dab9fcb:
 
     # lc "At the first opportunity - whether it's a good time to do it or not."
-    lc "Alla prima occasione, se è un buon momento o meno.”
+    lc "Alla prima occasione, se è un buon momento o meno."
 
 # game/code/d14p2/d14s16.rpy:195
 translate italian d14s16_59bbcfbc:
@@ -598,7 +598,7 @@ translate italian d14s16_781c7672:
 translate italian d14s16_9ff5eae8:
 
     # mc "Good to know. {w}So, we're cool?"
-    mc "Buono a sapersi. {w}Quindi, stiamo apposto?”
+    mc "Buono a sapersi. {w}Quindi, stiamo apposto?"
 
 # game/code/d14p2/d14s16.rpy:201
 translate italian d14s16_79901294:

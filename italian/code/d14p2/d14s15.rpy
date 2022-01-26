@@ -4,13 +4,13 @@
 translate italian d14s15_fc6e4a25:
 
     # sb "Even in my job... I didn't participate in anything like that before."
-    sb "Persino nel mio lavoro… Non ho mai partecipato a niente del genere prima d’ora.”
+    sb "Persino nel mio lavoro… Non ho mai partecipato a niente del genere prima d’ora."
 
 # game/code/d14p2/d14s15.rpy:15
 translate italian d14s15_a4b2e09e:
 
     # mc "How is your sore ass?"
-    mc "Come sta il tuo culo dolorante?”
+    mc "Come sta il tuo culo dolorante?"
 
 # game/code/d14p2/d14s15.rpy:17
 translate italian d14s15_1e32e515:
@@ -112,7 +112,7 @@ translate italian d14s15_cf1adef2:
 translate italian d14s15_90dfc847:
 
     # sb "If you ask Dahlia, Daisy, or anyone else who went to school with us you'll get a completely different story about what happened."
-    sb "Se chiedi a Dahlia, a Daisy o a qualsiasi altra persona che andava a scuola con noi, otterrai una storia completamente diversa.”
+    sb "Se chiedi a Dahlia, a Daisy o a qualsiasi altra persona che andava a scuola con noi, otterrai una storia completamente diversa."
 
 # game/code/d14p2/d14s15.rpy:52
 translate italian d14s15_23359b9d:
@@ -340,7 +340,7 @@ translate italian d14s15_d4ba36d0:
 translate italian d14s15_b62941f4:
 
     # dw "Anyway, I should take your feelings and desires into play. So, tell me more about you."
-    dw "Comunque, dovrei prendere in considerazione i tuoi sentimenti e desideri. Quindi raccontami di te.”
+    dw "Comunque, dovrei prendere in considerazione i tuoi sentimenti e desideri. Quindi raccontami di te."
 
 # game/code/d14p2/d14s15.rpy:127
 translate italian d14s15_b1069ea7:
@@ -358,13 +358,13 @@ translate italian d14s15_d0e4b90a:
 translate italian d14s15_3b44fc17:
 
     # mc "I enjoy spending time with you and most of the games that we play, although they tend to end badly."
-    mc "Mi piace passare il tempo con te e mi divertono la maggior parte dei giochi che facciamo, anche se tendono a finire male.” 
+    mc "Mi piace passare il tempo con te e mi divertono la maggior parte dei giochi che facciamo, anche se tendono a finire male."
 
 # game/code/d14p2/d14s15.rpy:132
 translate italian d14s15_d5934d32:
 
     # dw "Not all the time."
-    dw “Non sempre."
+    dw "Non sempre."
 
 # game/code/d14p2/d14s15.rpy:134
 translate italian d14s15_7060bcd4:
@@ -382,7 +382,7 @@ translate italian d14s15_7cee867d:
 translate italian d14s15_6d431422:
 
     # dw "That's what I wanted to talk to you about. How we can do more things that you enjoy, and less... stuff like that."
-    dw "È di questo che volevo parlarti. Come potremmo fare più cose che ti piacciono e meno… cose del genere.”
+    dw "È di questo che volevo parlarti. Come potremmo fare più cose che ti piacciono e meno… cose del genere."
 
 # game/code/d14p2/d14s15.rpy:138
 translate italian d14s15_440966e2:
@@ -412,7 +412,7 @@ translate italian d14s15_1ae2919b:
 translate italian d14s15_e3dfb01d:
 
     # mc "I don't want you to kill me or do permanent harm, but if it was completely safe it wouldn't be as much fun."
-    mc "Non voglio che tu mi uccida o causi danni permanenti, ma se fosse completamente sicuro non sarebbe così divertente.”
+    mc "Non voglio che tu mi uccida o causi danni permanenti, ma se fosse completamente sicuro non sarebbe così divertente."
 
 # game/code/d14p2/d14s15.rpy:152
 translate italian d14s15_f79f5aa5:
@@ -454,19 +454,19 @@ translate italian d14s15_902cd21b:
 translate italian d14s15_4095290e:
 
     # mc "I'm used to playing the dominant male in most of my relationships and sexcapades, and I enjoy that."
-    mc "Nella maggior parte delle mie relazioni e scopate, in genere assumo il ruolo di maschio dominante, e mi piace.”
+    mc "Nella maggior parte delle mie relazioni e scopate, in genere assumo il ruolo di maschio dominante, e mi piace."
 
 # game/code/d14p2/d14s15.rpy:164
 translate italian d14s15_11a3dbed:
 
     # mc "But there's just something about being dominated by a self-assured, powerful woman that just does it for me."
-    mc "Ma c’è qualcosa nell’essere dominati da una donna sicura di sé e potente che fa proprio per me.”
+    mc "Ma c’è qualcosa nell’essere dominati da una donna sicura di sé e potente che fa proprio per me."
 
 # game/code/d14p2/d14s15.rpy:166
 translate italian d14s15_a9d4bb48:
 
     # dw "Okay, but what is that - do you think? What aspect of being dominated really does it for you?"
-    dw "Okay, ma perché pensi questo? Quale aspetto dell’essere dominati ti piace di più?”
+    dw "Okay, ma perché pensi questo? Quale aspetto dell’essere dominati ti piace di più?"
 
 # game/code/d14p2/d14s15.rpy:168
 translate italian d14s15_7c532f18:
@@ -508,7 +508,7 @@ translate italian d14s15_c4ce0dc2:
 translate italian d14s15_3c2ac3e2:
 
     # dw "Soon. Right now I just need to think all this over, and do some research."
-    dw "Presto. Ora devo un attimo ripensare a tutto e fare delle ricerche.”
+    dw "Presto. Ora devo un attimo ripensare a tutto e fare delle ricerche."
 
 # game/code/d14p2/d14s15.rpy:197
 translate italian d14s15_2c34f3bd:
@@ -602,7 +602,7 @@ translate italian strings:
 
     # game/code/d14p2/d14s15.rpy:221
     old "Definitely"
-    new "Assolutamente”
+    new "Assolutamente"
 
     # game/code/d14p2/d14s15.rpy:221
     old "Maybe"
