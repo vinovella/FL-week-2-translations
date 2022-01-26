@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-07-30 07:17
+# TODO: Translation updated at 2020-07-30 07:17
 
 # game/code/d08/d08s01.rpy:16
 translate deutsch d08s01_a38e2739:
@@ -16,19 +16,19 @@ translate deutsch d08s01_423607e1:
 translate deutsch d08s01_f24b841d:
 
     # arj "Pssst... [mcname]... er.. Master? It is morning."
-    arj "Pssst... [mcname]... er.. Master? Es ist morgen."
+    arj "Pssst... [mcname]... er.. Master? Es ist morgens."
 
 # game/code/d08/d08s01.rpy:29
 translate deutsch d08s01_32ff21e3:
 
     # arj "Pssst... [mcname]? Wake up, [mcname]. It's morning."
-    arj "Pssst... [mcname]? Wach auf, [mcname]. Es it morgen."
+    arj "Pssst... [mcname]? Wach auf, [mcname]. Es it morgens."
 
 # game/code/d08/d08s01.rpy:32
 translate deutsch d08s01_edff960a:
 
     # mc "Huh? Oh, hey AmRose. What's up?"
-    mc "Huh? Oh, hey AmRose. Was geht?"
+    mc "Häh? Oh, hey AmRose. Was geht?"
 
 # game/code/d08/d08s01.rpy:33
 translate deutsch d08s01_c58616dc:
@@ -46,7 +46,7 @@ translate deutsch d08s01_05500ff6:
 translate deutsch d08s01_abc1875e:
 
     # arj "I was trying to sneak out of bed and spend a little alone time with you, but your sister is awake."
-    arj "Ich habe versucht mich aus dem Bett zu schleichen und ein wenig Zeit mit dir alleine zu verbringen, aber deine Schwester ist wach."
+    arj "Ich habe versucht, mich aus dem Bett zu schleichen und ein wenig Zeit mit dir alleine zu verbringen, aber deine Schwester ist wach."
 
 # game/code/d08/d08s01.rpy:36
 translate deutsch d08s01_bc4fd44d:
@@ -58,7 +58,7 @@ translate deutsch d08s01_bc4fd44d:
 translate deutsch d08s01_cb6a6a20:
 
     # arj "I guess she's a light sleeper."
-    arj "Ich schätze sie hat einen leichten Schlaf."
+    arj "Ich schätze, sie hat einen leichten Schlaf."
 
 # game/code/d08/d08s01.rpy:39
 translate deutsch d08s01_1a605631:
@@ -82,13 +82,13 @@ translate deutsch d08s01_ec65327c:
 translate deutsch d08s01_03517d2d:
 
     # mc "Um, sure. Breakfast would be terrific."
-    mc "Um, klar. Frühstück wäre klasse."
+    mc "Hm, klar. Frühstück wäre klasse."
 
 # game/code/d08/d08s01.rpy:47
 translate deutsch d08s01_1a71f71e:
 
     # arj "Oh... {w}Okay. Breakfast it is!"
-    arj "Oh... {w}Okay. Es ist Frühstück!"
+    arj "Oh... {w}Okay. Dann also Frühstück!"
 
 # game/code/d08/d08s01.rpy:49
 translate deutsch d08s01_0370dbe7:
@@ -112,7 +112,7 @@ translate deutsch d08s01_912d6106:
 translate deutsch d08s01_a4b8fb55:
 
     # mct "Oh, damn. I could have told her to blow me before breakfast."
-    mct "Oh, verdammt. Ich hätte ihr sagen können, dass sie mir vorm Frühstück noch einen blasen soll."
+    mct "Oh, verdammt. Ich hätte ihr sagen können, dass sie mir vor dem Frühstück noch einen blasen soll."
 
 # game/code/d08/d08s01.rpy:63
 translate deutsch d08s01_c54b27e8:
@@ -130,7 +130,7 @@ translate deutsch d08s01_fb42a35d:
 translate deutsch d08s01_af3d94dd:
 
     # mct "Nah, too risky with Stacy around."
-    mct "Nah, zu gefährlich mit Stacy um uns."
+    mct "Nah, zu gefährlich mit Stacy hier."
 
 # game/code/d08/d08s01.rpy:70
 translate deutsch d08s01_8a7eb859:
@@ -184,7 +184,7 @@ translate deutsch d08s01_bathe_bea510d1:
 translate deutsch d08s01_bathe_69dc8a6b:
 
     # mct "Damn. This is really happening."
-    mct "Verdammt. Es ist passiert wirklich."
+    mct "Verdammt. Das passiert wirklich."
 
 # game/code/d08/d08s01.rpy:115
 translate deutsch d08s01_bathe_a7af89fd:
@@ -214,13 +214,13 @@ translate deutsch d08s01_bathe_58227b87:
 translate deutsch d08s01_bathe_8dfc4064:
 
     # mc "Umm... yeah."
-    mc "Umm... yeah."
+    mc "Hmm... ja."
 
 # game/code/d08/d08s01.rpy:127
 translate deutsch d08s01_bathe_3e7f35e6:
 
     # mc "Careful, it's wet and slippery."
-    mc "Vorsicht, vorsicht es ist nass und rutschig."
+    mc "Vorsicht, es ist nass und rutschig."
 
 # game/code/d08/d08s01.rpy:129
 translate deutsch d08s01_bathe_11503db8:
@@ -238,31 +238,31 @@ translate deutsch d08s01_bathe_d8d80034:
 translate deutsch d08s01_bathe_6d4e0429:
 
     # mct "She is even hotter with the water running down her body."
-    mct "Sie ist noch schärfer mit dem Wasser das ihrem Körper runterläuft."
+    mct "Sie ist noch schärfer mit dem Wasser, das an ihrem Körper runterläuft."
 
 # game/code/d08/d08s01.rpy:141
 translate deutsch d08s01_bathe_b8bd9a8c:
 
     # mct "I can't believe what I am seeing. {w}How is this even possible?"
-    mct "Ich kann nicht glauben was ich sehe. {w}Wie ist das überhaupt möglich?"
+    mct "Ich kann nicht glauben, was ich sehe. {w}Wie ist das überhaupt möglich?"
 
 # game/code/d08/d08s01.rpy:143
 translate deutsch d08s01_bathe_84a25daa:
 
     # sy "You look good there. All toned and dripping."
-    sy "Du siehst gut aus. Gut gebaut und nass."
+    sy "Du siehst gut aus. Gutaussehend und nass."
 
 # game/code/d08/d08s01.rpy:145
 translate deutsch d08s01_bathe_63a6d232:
 
     # sy "Let me give you a hand."
-    sy "Lass mich dir eine Hand reichen."
+    sy "Lass mich dir helfen."
 
 # game/code/d08/d08s01.rpy:151
 translate deutsch d08s01_bathe_50eaf5b5:
 
     # sy "Feels good doesn't it?"
-    sy "Fühlt sich gut an oder?"
+    sy "Fühlt sich gut an, oder?"
 
 # game/code/d08/d08s01.rpy:164
 translate deutsch d08s01_bathe_c7260dc8:
@@ -304,7 +304,7 @@ translate deutsch d08s01_bathe_9f8f6e75:
 translate deutsch d08s01_bathe_22f718c8:
 
     # sy "I really like her. She's like the sister I never had."
-    sy "Ich mag sie sehr. Sie ist wie eine kleine Schwester die ich nie hatte."
+    sy "Ich mag sie sehr. Sie ist wie eine kleine Schwester, die ich nie hatte."
 
 # game/code/d08/d08s01.rpy:176
 translate deutsch d08s01_bathe_28cdfc68:
@@ -328,7 +328,7 @@ translate deutsch d08s01_bathe_1850262c:
 translate deutsch d08s01_bathe_8dc8bf2c:
 
     # mct "Oh! She is squizing my balls!"
-    mct "Oh! Sie quetscht meine Eier"
+    mct "Oh! Sie zerquetscht meine Eier"
 
 # game/code/d08/d08s01.rpy:181
 translate deutsch d08s01_bathe_dd0a5092:
@@ -340,7 +340,7 @@ translate deutsch d08s01_bathe_dd0a5092:
 translate deutsch d08s01_bathe_1951595e:
 
     # sy "You want to AmRose to be happy... {w}and so do I."
-    sy "Du möchtest das AmRose glücklich ist... {w}und das will ich auch."
+    sy "Du möchtest, dass AmRose glücklich ist... {w}und das will ich auch."
 
 # game/code/d08/d08s01.rpy:185
 translate deutsch d08s01_bathe_47bbd1e5:
@@ -358,25 +358,25 @@ translate deutsch d08s01_bathe_0c7f7b66:
 translate deutsch d08s01_bathe_bfaa8011:
 
     # sy "You liked watching me pee."
-    sy "Dir hat es gefallen mir beim pinkeln zuzusehen."
+    sy "Dir hat es gefallen mir beim Pinkeln zuzusehen."
 
 # game/code/d08/d08s01.rpy:191
 translate deutsch d08s01_bathe_b5b13864:
 
     # sy "You must have wanted to be this close to me when I did it."
-    sy "Du wolltest bestimmt so nah wie jetzt bei mir zu sein, als ich es getan habe."
+    sy "Du wolltest bestimmt so richtig nah bei mir sein, als ich es getan habe."
 
 # game/code/d08/d08s01.rpy:193
 translate deutsch d08s01_bathe_2373ed51:
 
     # sy "Maybe you even wanted me to pee on you."
-    sy "Vielleicht hättest du dir gewünscht, dass ich auf dich pinkel"
+    sy "Vielleicht hättest du dir sogar gewünscht, dass ich auf dich pinkele"
 
 # game/code/d08/d08s01.rpy:195
 translate deutsch d08s01_bathe_a2cb4da4:
 
     # sy "Pee on your hot, hard, throbbing cock."
-    sy "Pinkel auf deinen heißen, steifen, pochenden Schwanz ."
+    sy "Auf deinen heißen, steifen, pochenden Schwanz pinkele."
 
 # game/code/d08/d08s01.rpy:199
 translate deutsch d08s01_bathe_92d6aae4:
@@ -406,7 +406,7 @@ translate deutsch d08s01_bathe_26901e33:
 translate deutsch d08s01_bathe_0c5d2dcb:
 
     # sy "Cum if you agree."
-    sy "Komme, wenn du einverstanden bist."
+    sy "Komm, wenn du einverstanden bist."
 
 # game/code/d08/d08s01.rpy:226
 translate deutsch d08s01_bathe_232c3f6d:
@@ -418,7 +418,7 @@ translate deutsch d08s01_bathe_232c3f6d:
 translate deutsch d08s01_bathe_fb970540:
 
     # sy "Tsh-h-h! Not so loud!"
-    sy "Tsh-h-h! Nicht so laut!"
+    sy "Tsch-h-h! Nicht so laut!"
 
 # game/code/d08/d08s01.rpy:236
 translate deutsch d08s01_bathe_b395490b:
@@ -448,25 +448,25 @@ translate deutsch d08s01_b602ab1e:
 translate deutsch d08s01_7e8e1557:
 
     # arj "I was trying to sneak out of bed and spend a little alone time with you, but your friend is awake."
-    arj "Ich habe versucht aus dem Bett zu schleichen und ein wenig Zeit mit dir alleine zu verbringen, aber dein Freund ist wach."
+    arj "Ich habe versucht, mich aus dem Bett zu schleichen und ein wenig Zeit mit dir alleine zu verbringen, aber dein Freund ist wach."
 
 # game/code/d08/d08s01.rpy:58
 translate deutsch d08s01_5ef05107:
 
     # arj "You might want to get a shower before Stacy and I use up all the hot water."
-    arj "Du möchtest vielleicht nochmal duschen, bevor Stacy und ich all Warmwasser verbrauchen."
+    arj "Du möchtest vielleicht nochmal duschen, bevor Stacy und ich das ganze warme Wasser verbrauchen."
 
 # game/code/d08/d08s01.rpy:82
 translate deutsch replay_d08s01_8a7eb859:
 
     # mct "Speak of the devil and she shall appear."
-    mct "Sprich vom Teufel und er taucht auf."
+    mct "Wenn man vom Teufel spricht."
 
 # game/code/d08/d08s01.rpy:85
 translate deutsch replay_d08s01_f74029b7:
 
     # sy "Oops! Sorry."
-    sy "Oops! Sorry."
+    sy "Uups! Sorry."
 
 # game/code/d08/d08s01.rpy:96
 translate deutsch replay_d08s01_5aa5acd8:
@@ -502,10 +502,10 @@ translate deutsch d08s01_solo_7c561514:
 translate deutsch d08s01_bathe_3dc90035:
 
     # mct "Oh! She is squeezing my balls!"
-    mct "Oh! Sie drückt meine Eier!"
+    mct "Oh! Sie zerdrückt meine Eier!"
 
 # game/code/d08/d08s01.rpy:198
 translate deutsch d08s01_bathe_b4583873:
 
     # sy "You want AmRose to be happy... {w}and so do I."
-    sy "Du möchtest AmRose glückliche machen... {w}und das will ich auch."
+    sy "Du möchtest AmRose glücklich machen... {w}und das will ich auch."
