@@ -1,16 +1,16 @@
-﻿# TODO: Translation updated at 2020-07-30 07:17
+# TODO: Translation updated at 2020-07-30 07:17
 
 # game/code/d08/d08s04.rpy:22
 translate deutsch d08s04_01cc8f65:
 
     # "10:30 AM"
-    "10:30 AM"
+    "10:30 Uhr"
 
 # game/code/d08/d08s04.rpy:35
 translate deutsch d08s04_5c054653:
 
     # mct "I didn't notice because of the flood of messages, but I have more points now..."
-    mct "Ich habe es wegen der Flut von Nachrichten nicht bemerkt, aber ich habe jetzt mehr Punkte..."
+    mct "Ich hatte es wegen der Flut an Nachrichten noch nicht bemerkt, aber ich habe jetzt mehr Punkte..."
 
 # game/code/d08/d08s04.rpy:36
 translate deutsch d08s04_9dcd6406:
@@ -22,7 +22,7 @@ translate deutsch d08s04_9dcd6406:
 translate deutsch d08s04_8a677757:
 
     # mct "On one side it is good to get points... But on the other side it is more and more creepy..."
-    mct "Auf der einen Seite ist es gut, Punkte zu bekommen... Aber auf der anderen Seite ist es mehr und mehr gruselig..."
+    mct "Einerseits ist es gut, Punkte zu bekommen... Aber andererseits wird es immer gruseliger..."
 
 # game/code/d08/d08s04.rpy:52
 translate deutsch d08s04_b99020ae:
@@ -58,7 +58,7 @@ translate deutsch d08s04_a7b4d81c:
 translate deutsch d08s04_5fa6c898:
 
     # mes "It's Squizzle, remember?"
-    mes "Es ist Squizzle, erinnerst du dich?"
+    mes "Hier ist Squizzle, erinnerst du dich?"
 
 # game/code/d08/d08s04.rpy:79
 translate deutsch d08s04_578aac98:
@@ -70,13 +70,13 @@ translate deutsch d08s04_578aac98:
 translate deutsch d08s04_9d5dff17:
 
     # mesfl "Well, don't forget again. It's important to me."
-    mesfl "Vergiss es nicht wieder. Es ist wichtig für mich"
+    mesfl "Na dann vergiss es nicht wieder. Das ist wichtig für mich"
 
 # game/code/d08/d08s04.rpy:88
 translate deutsch d08s04_5910c349:
 
     # mc "Ok, Squizzle! Are you ready for pee training?"
-    mc "Ok, Squizzle! Bist du bereit für das Pinkeltraining?"
+    mc "Okay, Squizzle! Bist du bereit für das Pinkeltraining?"
 
 # game/code/d08/d08s04.rpy:89
 translate deutsch d08s04_98ad4579:
@@ -94,7 +94,7 @@ translate deutsch d08s04_e59544ae:
 translate deutsch d08s04_ca657a99:
 
     # mesfl "Well I didn't cum without pee in my mouth. But not because there was pee, but because I just didn't cum..."
-    mesfl "Nun, ich bin nicht gekommen ohne Pisse in meinem Mund. Aber nicht weil da Pisse war, sondern weil ich einfach nicht gekommen bin..."
+    mesfl "Nun, ich bin nicht ohne Pisse in meinem Mund gekommen. Aber nicht weil da Pisse war, sondern weil ich einfach nicht gekommen bin..."
 
 # game/code/d08/d08s04.rpy:95
 translate deutsch d08s04_46bbeb2a:
@@ -112,7 +112,7 @@ translate deutsch d08s04_f3982a65:
 translate deutsch d08s04_c69e18ab:
 
     # mc "Sure! And why didn't you cum with pee?"
-    mc "Klar! Und warum hast du nicht mit Pisse abgespritzt"
+    mc "Klar! Und warum bist du nicht mit Pisse gekommen"
 
 # game/code/d08/d08s04.rpy:101
 translate deutsch d08s04_ee1dded4:
@@ -124,7 +124,7 @@ translate deutsch d08s04_ee1dded4:
 translate deutsch d08s04_8b289a34:
 
     # mesfl "And I didn't cum because Min was the whole day with Anthony and he doesn't want to hear about watersports..."
-    mesfl "Und ich habe nicht abgespritzt, weil Min den ganzen Tag mit Anthony zusammen war und er nichts von Wassersport hören wollte..."
+    mesfl "Und ich bin nicht gekommen, weil Min den ganzen Tag mit Anthony zusammen war und er nichts von Wassersport hören wollte..."
 
 # game/code/d08/d08s04.rpy:104
 translate deutsch d08s04_214b787d:
@@ -136,25 +136,25 @@ translate deutsch d08s04_214b787d:
 translate deutsch d08s04_72b971f7:
 
     # mc "And I'm a bit surprised by Anthony. I thought he is all about out of this world experiences..."
-    mc "Und ich bin ein bisschen überrascht von Anthony. Ich dachte, bei ihm ginge es um außergewöhnliche Erfahrungen..."
+    mc "Und ich bin ein bisschen überrascht von Anthony. Ich dachte, bei ihm ginge es um Erfahrungen, die nicht von dieser Welt sind..."
 
 # game/code/d08/d08s04.rpy:108
 translate deutsch d08s04_211dd998:
 
     # "*gulp*"
-    "*schlucken*"
+    "*schluck*"
 
 # game/code/d08/d08s04.rpy:131
 translate deutsch d08s04_dfa98f14:
 
     # mesfl "He likes supernatural things, but toilet for him is something undernatural..."
-    mesfl "Er mag übernatürliche Dinge, aber die Toilette ist für ihn etwas Unnatürliches..."
+    mesfl "Er mag übernatürliche Dinge aber die Toilette ist für ihn eher unnatürlich..."
 
 # game/code/d08/d08s04.rpy:132
 translate deutsch d08s04_5ad5ae86:
 
     # mc "Ok I see. Well then we will have to do it the other way. And also I think this would be the best training for you."
-    mc "Ok, ich verstehe. Nun, dann müssen wir es anders machen. Außerdem denke ich, dass das die beste Ausbildung für dich wäre."
+    mc "Okay, ich verstehe. Naja, dann müssen wir es eben anders machen. Außerdem denke ich, dass das die beste Ausbildung für dich wäre."
 
 # game/code/d08/d08s04.rpy:134
 translate deutsch d08s04_3da77697:
@@ -232,13 +232,13 @@ translate deutsch d08s04_3ca82806:
 translate deutsch d08s04_b275fa79:
 
     # mc "That is also why I asked you to cum only with pee in your mouth. This way you will have an association of the taste with pleasure."
-    mc "Das ist auch der Grund, warum ich dich gebeten habe, nur mit Pisse in deinem Mund abzuspritzen. Auf diese Weise wirst du den Geschmack mit Vergnügen in Verbindung Bringen."
+    mc "Das ist auch der Grund, warum ich dich gebeten habe, nur mit Pisse in deinem Mund abzuspritzen. Auf diese Weise wirst du den Geschmack mit Vergnügen in Verbindung bringen."
 
 # game/code/d08/d08s04.rpy:151
 translate deutsch d08s04_4f541e29:
 
     # mesfl "Wow. Ok I didn't think of it that way. Sounds like you know what you are doing!"
-    mesfl "Wow! Ok, so habe ich mir das nicht vorgestellt. Klingt, als wüsstest du, was du tust!"
+    mesfl "Wow! Okay, so habe ich mir das nicht vorgestellt. Klingt so, als wüsstest du was du tust!"
 
 # game/code/d08/d08s04.rpy:152
 translate deutsch d08s04_ecefd5e9:
@@ -274,7 +274,7 @@ translate deutsch d08s04_ad7590e1:
 translate deutsch d08s04_c669d651:
 
     # mc "Sorry, you need to do this yourself. Next time you would need to refill it I won't be around!"
-    mc "Tut mir leid, das musst du selbst machen. Das nächste Mal, wenn du es nachfüllen musst, werde ich nicht mehr da sein!"
+    mc "Tut mir leid aber das musst du selbst machen. Das nächste Mal, wenn du sie nachfüllen musst, werde ich nicht mehr da sein!"
 
 # game/code/d08/d08s04.rpy:161
 translate deutsch d08s04_32ad81e4:
@@ -310,13 +310,13 @@ translate deutsch d08s04_aa95f2f9:
 translate deutsch d08s04_58252fb0:
 
     # mc "I would enjoy when you would be able to drink piss and be aroused from it!"
-    mc "Ich würde es genießen, wenn du in der Lage wärst, Pisse zu trinken und davon erregt zu werden!"
+    mc "Ich würde es genießen, wenn du in der Lage wärst Pisse zu trinken und davon erregt zu werden!"
 
 # game/code/d08/d08s04.rpy:180
 translate deutsch d08s04_b346b61e:
 
     # mesfl "Turns out you are a hard man to please!"
-    mesfl "Es hat sich herausgestellt, dass du ein schwer zufrieden zu stellender Mann bist!"
+    mesfl "Es hat sich herausgestellt, dass du ein schwer zufrieden zustellender Mann bist!"
 
 # game/code/d08/d08s04.rpy:182
 translate deutsch d08s04_1abea688:
@@ -358,19 +358,19 @@ translate deutsch d08s04_c97e5574:
 translate deutsch d08s04_5ef4cd65:
 
     # mc "Now try it."
-    mc "Probieren Sie es jetzt aus."
+    mc "Probier es jetzt aus."
 
 # game/code/d08/d08s04.rpy:227
 translate deutsch d08s04_ddc3ecad:
 
     # "(gulp) (gulp) (gulp)"
-    "(schlucken) (schlucken) (schlucken)"
+    "(schluck) (schluck) (schluck)"
 
 # game/code/d08/d08s04.rpy:229
 translate deutsch d08s04_ddc3ecad_1:
 
     # "(gulp) (gulp) (gulp)"
-    "(schlucken) (schlucken) (schlucken)"
+    "(schluck) (schluck) (schluck)"
 
 # game/code/d08/d08s04.rpy:233
 translate deutsch d08s04_28381c06:
@@ -382,7 +382,7 @@ translate deutsch d08s04_28381c06:
 translate deutsch d08s04_bcdd65dd:
 
     # mc "It will get better."
-    mc "Es wird noch besser werden."
+    mc "Es wird schon noch besser werden."
 
 # game/code/d08/d08s04.rpy:237
 translate deutsch d08s04_02f0e7bc:
@@ -412,13 +412,13 @@ translate deutsch d08s04_dc5c0dbb:
 translate deutsch d08s04_989df938:
 
     # mc "And don't forget to drink normal water as well, and also every second time urinate in the tolet. You still want a fresh water to flow through your body."
-    mc "Und vergiss nicht, auch normales Wasser zu trinken und auch jedes zweite Mal in die Toilette zu urinieren. Du willst immer noch, dass frisches Wasser durch deinen Körper fließt."
+    mc "Und vergiss nicht auch normales Wasser zu trinken und auch jedes zweite Mal in die Toilette zu urinieren. Du willst trotzdem, dass frisches Wasser durch deinen Körper fließt."
 
 # game/code/d08/d08s04.rpy:244
 translate deutsch d08s04_083bfd50:
 
     # mesfl "Fine. {w}What am I going to tell people?"
-    mesfl "Na gut. {w}Was soll ich den Leuten sagen?"
+    mesfl "Na gut. {w}Was soll ich denn bitte den Leuten sagen?"
 
 # game/code/d08/d08s04.rpy:245
 translate deutsch d08s04_9a26f17e:
@@ -436,7 +436,7 @@ translate deutsch d08s04_57f39d43:
 translate deutsch d08s04_f81e1cc5:
 
     # mc "Are you really pissed about this task?"
-    mc "Du wirkst wirklich genervt von dieser Aufgabe?"
+    mc "Bist du wirklich genervt von dieser Aufgabe?"
 
 # game/code/d08/d08s04.rpy:250
 translate deutsch d08s04_8fc8e4d1:
@@ -490,7 +490,7 @@ translate deutsch d08s04_e3247ba4:
 translate deutsch d08s04_ab0c83ee_1:
 
     # mesfl "What's that?"
-    mesfl "Was ist das?"
+    mesfl "Was?"
 
 # game/code/d08/d08s04.rpy:263
 translate deutsch d08s04_f7a21bdd:
@@ -588,7 +588,7 @@ translate deutsch replay_d08s04_578aac98:
 translate deutsch replay_d08s04_9d5dff17:
 
     # mesfl "Well, don't forget again. It's important to me."
-    mesfl "Nun, vergiss es nicht wieder. Es ist wichtig für mich."
+    mesfl "Nun, vergiss es nicht nochmal. Es ist wichtig für mich."
 
 # game/code/d08/d08s04.rpy:84
 translate deutsch replay_d08s04_a5949b7a:
@@ -612,13 +612,13 @@ translate deutsch replay_d08s04_e59544ae:
 translate deutsch replay_d08s04_4887193b:
 
     # mesfl "Well, I didn't cum without pee in my mouth. But not because there was pee; I just didn't cum..."
-    mesfl "Nun, ich bin nicht gekommen, ohne dass ich Pisse im Mund hatte. Aber nicht, weil ich gepinkelt habe, sondern weil ich einfach nicht gekommen bin..."
+    mesfl "Nun, ich bin nicht gekommen, ohne dass ich Pisse im Mund hatte. Aber nicht, weil ich Pisse im Mund hatte, sondern weil ich einfach nicht gekommen bin..."
 
 # game/code/d08/d08s04.rpy:91
 translate deutsch replay_d08s04_49cb6cdc:
 
     # mc "And did you bring your bottle?"
-    mc "Und hast du deine Flasche dabei?"
+    mc "Und, hast du deine Flasche dabei?"
 
 # game/code/d08/d08s04.rpy:94
 translate deutsch replay_d08s04_f3982a65:
@@ -654,19 +654,19 @@ translate deutsch replay_d08s04_aa6876c4:
 translate deutsch replay_d08s04_36414780:
 
     # mc "I'm a bit surprised by Antony. I thought he is all about out-of-this-world experiences..."
-    mc "Ich bin ein bisschen überrascht von Antony. Ich dachte, es ginge ihm nur um außergewöhnliche Erfahrungen..."
+    mc "Ich bin ein bisschen überrascht von Antony. Ich dachte, es ginge ihm um Erfahrungen, die nicht von dieser Welt sind..."
 
 # game/code/d08/d08s04.rpy:104
 translate deutsch replay_d08s04_211dd998:
 
     # "*gulp*"
-    "*Schluck*"
+    "*schluck*"
 
 # game/code/d08/d08s04.rpy:106
 translate deutsch replay_d08s04_6e3d33e3:
 
     # mesfl "He likes supernatural things, but the toilet is something base and natural... undernatural?"
-    mesfl "Er mag übernatürliche Dinge, aber die Toilette ist etwas Niederes und Natürliches... Unnatürliches?"
+    mesfl "Er mag übernatürliche Dinge aber die Toilette ist gewöhnlich und etwas Natürliches... etwas unternatürliches?"
 
 # game/code/d08/d08s04.rpy:107
 translate deutsch replay_d08s04_96ebad8b:
@@ -696,13 +696,13 @@ translate deutsch replay_d08s04_937d342c:
 translate deutsch replay_d08s04_faef9830:
 
     # mc "No, you will do it yourself. Refill with your own urine."
-    mc "Nein, du wirst es selbst tun. Füll sie mit deinem eigenen Urin nach."
+    mc "Nein, du wirst es selbst tun. Befüll sie mit deinem eigenen Urin."
 
 # game/code/d08/d08s04.rpy:115
 translate deutsch replay_d08s04_15c80fcc:
 
     # mesfl "Ew.{w}.. oh, I see."
-    mesfl "Igitt.{w}... oh, ich sehe."
+    mesfl "Igitt.{w}... oh, ich verstehe."
 
 # game/code/d08/d08s04.rpy:116
 translate deutsch replay_d08s04_b88ef88c:
@@ -714,7 +714,7 @@ translate deutsch replay_d08s04_b88ef88c:
 translate deutsch replay_d08s04_d956bcde:
 
     # mc "You will be drinking it during the day and getting used to the taste."
-    mc "Du wirst ihn tagsüber trinken und dich an den Geschmack gewöhnen."
+    mc "Du wirst es tagsüber trinken und dich an den Geschmack gewöhnen."
 
 # game/code/d08/d08s04.rpy:118
 translate deutsch replay_d08s04_eb99664f:
@@ -762,13 +762,13 @@ translate deutsch replay_d08s04_78a950f9:
 translate deutsch replay_d08s04_b7efedb4:
 
     # mesfl "Huh. Sounds like you really know what you are doing."
-    mesfl "Hm. Klingt, als wüsstest du wirklich, was du tust."
+    mesfl "Hm. Klingt so, als wüsstest du wirklich, was du da tust."
 
 # game/code/d08/d08s04.rpy:128
 translate deutsch replay_d08s04_240f244d:
 
     # mct "I really don't, but it sounds convincing... I hope this works!"
-    mct "Ich weiß es wirklich nicht, aber es klingt überzeugend... Ich hoffe, das funktioniert!"
+    mct "Ich weiß es nicht wirklich, aber es klingt überzeugend... Ich hoffe, das funktioniert!"
 
 # game/code/d08/d08s04.rpy:131
 translate deutsch replay_d08s04_1725d810:
@@ -828,7 +828,7 @@ translate deutsch replay_d08s04_d3f5a784:
 translate deutsch replay_d08s04_aab11994:
 
     # mesfl "That I'm undressed or that I'm about to pee in front of you?"
-    mesfl "Dass ich ausgezogen bin oder dass ich vor dir pinkeln werde?"
+    mesfl "Dass ich nackt bin oder dass ich vor dir pinkeln werde?"
 
 # game/code/d08/d08s04.rpy:155
 translate deutsch replay_d08s04_b72b9512:
@@ -870,7 +870,7 @@ translate deutsch replay_d08s04_b473970a:
 translate deutsch replay_d08s04_be198482:
 
     # mesfl "Alright. I'm finished. It's very warm."
-    mesfl "Also gut. Ich bin fertig. Es ist sehr warm."
+    mesfl "Also gut. Ich bin fertig. Es ist irgendwie sehr warm."
 
 # game/code/d08/d08s04.rpy:199
 translate deutsch replay_d08s04_c97e5574:
@@ -882,19 +882,19 @@ translate deutsch replay_d08s04_c97e5574:
 translate deutsch replay_d08s04_5ef4cd65:
 
     # mc "Now try it."
-    mc "Probieren es jetzt."
+    mc "Probier es jetzt."
 
 # game/code/d08/d08s04.rpy:205
 translate deutsch replay_d08s04_ddc3ecad:
 
     # "(gulp) (gulp) (gulp)"
-    "(schlucken) (schlucken) (schlucken)"
+    "(schluck) (schluck) (schluck)"
 
 # game/code/d08/d08s04.rpy:207
 translate deutsch replay_d08s04_ddc3ecad_1:
 
     # "(gulp) (gulp) (gulp)"
-    "(schlucken) (schlucken) (schlucken)"
+    "(schluck) (schluck) (schluck)"
 
 # game/code/d08/d08s04.rpy:211
 translate deutsch replay_d08s04_28381c06:
@@ -906,7 +906,7 @@ translate deutsch replay_d08s04_28381c06:
 translate deutsch replay_d08s04_bcdd65dd:
 
     # mc "It will get better."
-    mc "Es wird noch besser."
+    mc "Es wird schon noch besser."
 
 # game/code/d08/d08s04.rpy:215
 translate deutsch replay_d08s04_02f0e7bc:
@@ -918,13 +918,13 @@ translate deutsch replay_d08s04_02f0e7bc:
 translate deutsch replay_d08s04_119a9262:
 
     # mc "Yep. Remember that it is all about how you are feeling when you do it."
-    mc "Ja. Denke daran, dass es nur darauf ankommt, wie du dich dabei fühlst."
+    mc "Jap. Denk daran, dass es nur darauf ankommt, wie du dich dabei fühlst."
 
 # game/code/d08/d08s04.rpy:217
 translate deutsch replay_d08s04_c3a6ceba:
 
     # mc "Drink small portions but as often as you can. Then try to do something enjoyable."
-    mc "Trinke kleine Portionen, aber so oft du kannst. Dann versuche, etwas zu tun, was dir Spaß macht."
+    mc "Trinke kleine Portionen, aber so oft du kannst. Dann versuchst du etwas zu tun, was dir Spaß macht."
 
 # game/code/d08/d08s04.rpy:219
 translate deutsch replay_d08s04_6d4ff1de:
@@ -936,13 +936,13 @@ translate deutsch replay_d08s04_6d4ff1de:
 translate deutsch replay_d08s04_cf6679ac:
 
     # mc "Don't forget to drink normal water as well, and every other time urinate in a toilet. You still want fresh water flowing in your body."
-    mc "Vergiss nicht, auch normales Wasser zu trinken und ab und zu in eine Toilette zu urinieren. Du willst immer noch, dass frisches Wasser in deinem Körper fließt."
+    mc "Vergiss nicht auch normales Wasser zu trinken und ab und zu in eine Toilette zu urinieren. Du willst immer noch, dass frisches Wasser in deinen Körper fließt."
 
 # game/code/d08/d08s04.rpy:222
 translate deutsch replay_d08s04_083bfd50:
 
     # mesfl "Fine. {w}What am I going to tell people?"
-    mesfl "Na gut. {w}Was soll ich den Leuten sagen?"
+    mesfl "Na gut. {w}Was soll ich denn den Leuten sagen?"
 
 # game/code/d08/d08s04.rpy:223
 translate deutsch replay_d08s04_276d7910:
@@ -1014,7 +1014,7 @@ translate deutsch replay_d08s04_e3247ba4:
 translate deutsch replay_d08s04_ab0c83ee_1:
 
     # mesfl "What's that?"
-    mesfl "Was ist das?"
+    mesfl "Was?"
 
 # game/code/d08/d08s04.rpy:241
 translate deutsch replay_d08s04_f7a21bdd:
@@ -1026,7 +1026,7 @@ translate deutsch replay_d08s04_f7a21bdd:
 translate deutsch replay_d08s04_761bd7d5:
 
     # mesfl "Don't push it."
-    mesfl "Übertreibe es nicht."
+    mesfl "Übertreib es nicht."
 
 # game/code/d08/d08s04.rpy:248
 translate deutsch replay_d08s04_b376ac62:
