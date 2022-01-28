@@ -220,7 +220,7 @@ translate italian strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Do not allow Lyssa to achieve completion before Min's party"
-    new "Non permettere a Lyssa di arrivare a completamento prima della festa di Min” 
+    new "Non permettere a Lyssa di arrivare a completamento prima della festa di Min"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Welcome to the party"
@@ -300,7 +300,7 @@ translate italian strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Make Polly's coffee and give AmRose a donut"
-    new "Prepara il caffè a Polly e dai una ciambella ad AmRose”
+    new "Prepara il caffè a Polly e dai una ciambella ad AmRose"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Doctor McSexy"
@@ -380,7 +380,7 @@ translate italian strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Deflower Cynthia's freshly renovated garden"
-    new “Deflora il giardino rinnovato di Cynthia"
+    new "Deflora il giardino rinnovato di Cynthia"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Boys are back in town"
@@ -432,7 +432,7 @@ translate italian strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Spicy Pretzel Mustard"
-    new "Pretzel con Mostarda Piccante”
+    new "Pretzel con Mostarda Piccante"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Unlock all the people on the pool screen"
@@ -464,9 +464,8 @@ translate italian strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Lowball"
-    new "Palla Bassa”
+    new "Palla Bassa"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Be with the fewest number of people by the end of the week"
     new "Ritrovati con il minor numero di persone entro la fine della settimana"
-

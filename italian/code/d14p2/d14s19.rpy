@@ -4,7 +4,7 @@
 translate italian d14s19_9870cd87:
 
     # ir "The party is wrapping up. Seems like you could use a drink."
-    ir "La festa sta per finire. Sembra che tu abbia bisogno di qualcosa da bere.”
+    ir "La festa sta per finire. Sembra che tu abbia bisogno di qualcosa da bere."
 
 # game/code/d14p2/d14s19.rpy:19
 translate italian d14s19_c17ef8ec:
@@ -16,7 +16,7 @@ translate italian d14s19_c17ef8ec:
 translate italian d14s19_101b5c95:
 
     # ir "Equal parts Vodka and Peach Schnapps, a couple splashes of Chambord, with whipped cream, and a cherry on top."
-    ir "Parti uguali di Vodka e Schnapps alla Pesca, un paio di spruzzi di Chambord con panna montata e una ciliegina sopra.”
+    ir "Parti uguali di Vodka e Schnapps alla Pesca, un paio di spruzzi di Chambord con panna montata e una ciliegina sopra."
 
 # game/code/d14p2/d14s19.rpy:23
 translate italian d14s19_5c80c827:
@@ -58,7 +58,7 @@ translate italian d14s19_18578633:
 translate italian d14s19_46de211f:
 
     # mc "I know what you're thinking. \"Did he fuck 20 people or only 19?\" Well, to tell you the truth, in all this excitement, I've kind of lost track myself."
-    mc "So quello che stai pensando. Tu pensi \"Avrà scopato 20 persone o soltanto 19?\" Per dirti la verità non lo so neanche io in tutta questa baraonda.” 
+    mc "So quello che stai pensando. Tu pensi \"Avrà scopato 20 persone o soltanto 19?\" Per dirti la verità non lo so neanche io in tutta questa baraonda."
 
 # game/code/d14p2/d14s19.rpy:37
 translate italian d14s19_1131e009:
@@ -70,7 +70,7 @@ translate italian d14s19_1131e009:
 translate italian d14s19_9c43f017:
 
     # mc "The most powerful cock in the world. Would blow your head clean off."
-    mc "Questo è un cazzo eccezionalmente potente, capace di farti saltare la testa con un solo colpo.”
+    mc "Questo è un cazzo eccezionalmente potente, capace di farti saltare la testa con un solo colpo."
 
 # game/code/d14p2/d14s19.rpy:40
 translate italian d14s19_8d313139:
@@ -94,19 +94,19 @@ translate italian d14s19_903715ef:
 translate italian d14s19_aa50c947:
 
     # mc "Perfect. If I achieved my goal then I now have something to celebrate my victory."
-    mc "Perfetto. Se avessi raggiunto il mio obiettivo ora avrei qualcosa con cui celebrare la mia vittoria.”
+    mc "Perfetto. Se avessi raggiunto il mio obiettivo ora avrei qualcosa con cui celebrare la mia vittoria."
 
 # game/code/d14p2/d14s19.rpy:46
 translate italian d14s19_31abcb75:
 
     # ir "And if you didn't, you want something that blows your head clean off."
-    ir "E se non ce l’hai fatta invece vorresti qualcosa che ti tagliasse la testa di netto.”
+    ir "E se non ce l’hai fatta invece vorresti qualcosa che ti tagliasse la testa di netto."
 
 # game/code/d14p2/d14s19.rpy:49
 translate italian d14s19_148df7dd:
 
     # mc "Not even close. {w}I'm gonna have to go fuck the University Football Team if I want to succeed tonight."
-    mc "Neanche per sogno. {w}Se voglio avere successo stasera dovrò andare a scoparmi l’intera squadra di calcio dell’università.”
+    mc "Neanche per sogno. {w}Se voglio avere successo stasera dovrò andare a scoparmi l’intera squadra di calcio dell’università."
 
 # game/code/d14p2/d14s19.rpy:51
 translate italian d14s19_cee06643:
@@ -166,7 +166,7 @@ translate italian d14s19_42368bfa:
 translate italian d14s19_d7932353:
 
     # ir "Head upstairs to Lydia's bedroom. Whoever won the mud fight wager will find you there."
-    ir "Vai al piano di sopra nella camera da letto di Lydia. Chiunque abbia vinto la scommessa della lotta del fango ti troverà lì.”
+    ir "Vai al piano di sopra nella camera da letto di Lydia. Chiunque abbia vinto la scommessa della lotta del fango ti troverà lì."
 
 # game/code/d14p2/d14s19.rpy:70
 translate italian d14s19_cc8f1880:
@@ -178,7 +178,7 @@ translate italian d14s19_cc8f1880:
 translate italian d14s19_f6ef13ca:
 
     # ir "If you like I can pour you another drink, but that's it. {w}I promised Hana that I wouldn't mess around with anyone during this party."
-    ir "Se vuoi ti posso preparare un altro drink, e basta. {w}Ho promesso ad Hana che non avrei pasticciato con nessuno durante questa festa.”
+    ir "Se vuoi ti posso preparare un altro drink, e basta. {w}Ho promesso ad Hana che non avrei pasticciato con nessuno durante questa festa."
 
 # game/code/d14p2/d14s19.rpy:74
 translate italian d14s19_c407246b:
@@ -196,7 +196,7 @@ translate italian d14s19_7d7a65d5:
 translate italian d14s19_23042fdf:
 
     # mc "I'm pretty sure the party is over. Technically, you wouldn't be breaking any promises."
-    mc "Sono abbastanza sicuro che la festa sia ormai finita. Tecnicamente non staresti rompendo alcuna promessa.”
+    mc "Sono abbastanza sicuro che la festa sia ormai finita. Tecnicamente non staresti rompendo alcuna promessa."
 
 # game/code/d14p2/d14s19.rpy:80
 translate italian d14s19_af3b5319:
@@ -232,13 +232,13 @@ translate italian d14s19_e16f2e73:
 translate italian d14s19_1ba3c761:
 
     # mct "It just occurred to me. Dirty Harry's gun was empty. He had shot all 6 rounds."
-    mct "Mi è appena venuto in mente. La pistola dell’Ispettore Callaghan era scarica. Aveva sparato tutti e 6 i proiettili.” 
+    mct "Mi è appena venuto in mente. La pistola dell’Ispettore Callaghan era scarica. Aveva sparato tutti e 6 i proiettili."
 
 # game/code/d14p2/d14s19.rpy:91
 translate italian d14s19_e5adfc0e:
 
     # mct "I must have fucked at least 20 people by now... right?"
-    mct "Devo aver scopato almeno 20 persone… no?”
+    mct "Devo aver scopato almeno 20 persone… no?"
 
 # game/code/d14p2/d14s19.rpy:92
 translate italian d14s19_fa939c48:

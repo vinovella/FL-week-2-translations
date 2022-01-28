@@ -316,7 +316,7 @@ translate italian d14s19_lc_b261c63a:
 translate italian d14s19_lc_37056d18:
 
     # lc "I want so many of you."
-    lc “Vorrei tantissimi te."
+    lc "Vorrei tantissimi te."
 
 # game/code/d14p2/d14s19_lc.rpy:123
 translate italian d14s19_lc_ddada350:
