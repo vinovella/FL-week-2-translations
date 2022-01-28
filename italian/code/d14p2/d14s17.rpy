@@ -196,7 +196,7 @@ translate italian d14s17_14ff0b3d:
 translate italian d14s17_08c77f43:
 
     # mc "I'll be honest, I've never thought about...something like this, but it's not like it...uh...I don't feel bad about it. Or, weird about it."
-    mc "Se posso essere onesto, non ho mai pensato a… qualcosa del genere, ma non è che… uh… mi dispiaccia. Non mi fa strano.”
+    mc "Se posso essere onesto, non ho mai pensato a… qualcosa del genere, ma non è che… uh… mi dispiaccia. Non mi fa strano."
 
 # game/code/d14p2/d14s17.rpy:122
 translate italian d14s17_51f914f7:
@@ -382,7 +382,7 @@ translate italian d14s17_b42c5545:
 translate italian d14s17_54db65f2:
 
     # mc "All of this is...new to me. But uh...I want to explore it...with you."
-    mc "Tutto questo è… nuovo per me. Ma uh… voglio esplorarlo… con te.”
+    mc "Tutto questo è… nuovo per me. Ma uh… voglio esplorarlo… con te."
 
 # game/code/d14p2/d14s17.rpy:247
 translate italian d14s17_e5e5fd8b:

@@ -94,7 +94,7 @@ translate italian d14s18_8dff5539:
 translate italian d14s18_dbb35a2a:
 
     # dd "I...am not sure. It's just a thing in the ol' heart, nothing to worry about."
-    dd "Non… saprei. È per una cosa al cuore, ma niente di preoccupante.”
+    dd "Non… saprei. È per una cosa al cuore, ma niente di preoccupante."
 
 # game/code/d14p2/extended/d14s18.rpy:94
 translate italian d14s18_66551cdb:
@@ -106,7 +106,7 @@ translate italian d14s18_66551cdb:
 translate italian d14s18_e5a4b73e:
 
     # ir "He's right. I don't care. I wouldn't have given you a drink if I had known something was wrong."
-    ir "Ha ragione, non mi interessa. Non ti avrei dato da bere se avessi saputo che qualcosa non andava.”
+    ir "Ha ragione, non mi interessa. Non ti avrei dato da bere se avessi saputo che qualcosa non andava."
 
 # game/code/d14p2/extended/d14s18.rpy:98
 translate italian d14s18_ad36558e:
@@ -178,7 +178,7 @@ translate italian d14s18_9fd995d1:
 translate italian d14s18_2dd8fcba:
 
     # ir "Yeah. She came outta nowhere and just went for a swim in the aquarium like it's the most normal thing in the world."
-    ir "Sì. È venuta fuori dal nulla e si è messa a nuotare nell’acquario come se fosse la cosa più normale del mondo.”
+    ir "Sì. È venuta fuori dal nulla e si è messa a nuotare nell’acquario come se fosse la cosa più normale del mondo."
 
 # game/code/d14p2/extended/d14s18.rpy:132
 translate italian d14s18_69278d5d:
@@ -439,4 +439,3 @@ translate italian d14s18_f28d21c8:
 
     # ir "From the way she's throwing looks at [mcname], I'd say the latter. *Chuckles*"
     ir " Dal modo in cui guarda [mcname], direi quest’ultima. *Ridendo*"
-
