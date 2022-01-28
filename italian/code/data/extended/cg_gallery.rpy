@@ -483,7 +483,7 @@ translate italian strings:
     new "Ti interessa Min?"
 
     # game/code/data/extended/cg_gallery.rpy:21
-    old "11° giorno: Stacy"
+    old "Day 11: Stacy"
     new "11° giorno: Stacy"
 
     # game/code/data/extended/cg_gallery.rpy:21
@@ -545,4 +545,3 @@ translate italian strings:
     # game/code/data/extended/cg_gallery.rpy:21
     old "Party 3: Participants"
     new "Party 3: Partecipanti"
-

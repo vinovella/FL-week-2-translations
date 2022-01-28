@@ -1377,8 +1377,8 @@ translate italian d08s03_end_6bf3ab4e:
 
     # mct "Alright, time to meet Squizzle at the toilet."
     mct "Alright, time to meet Squizzle at the toilet."
-    
-    
+
+
 # Replay Label Lines ###################################################################################
 
 
