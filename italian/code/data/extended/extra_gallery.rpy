@@ -404,7 +404,7 @@ translate italian strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Submit to everyone"
-    new "Invia a tutti"
+    new "Sottomettiti a tutti"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Always On Top"
