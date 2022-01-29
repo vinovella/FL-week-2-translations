@@ -10,13 +10,13 @@ translate deutsch d08s06_026f7b87:
 translate deutsch d08s06_956a405d:
 
     # sy "Oh! And there she is!"
-    sy "Oh! Und hier ist sie ja!"
+    sy "Oh! Und da ist sie ja!"
 
 # game/code/d08/d08s06.rpy:16
 translate deutsch d08s06_5c678b5b:
 
     # mc "How do you already know Allison?"
-    mc "Woher kennst du schon Allison?"
+    mc "Woher kennst du Allison schon?"
 
 # game/code/d08/d08s06.rpy:18
 translate deutsch d08s06_3f2a55b1:
