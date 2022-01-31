@@ -24,7 +24,7 @@ translate italian strings:
 
     # game/code/credit_sprites.rpy:39
     old "Sound design -"
-    new "Sound design -"
+    new "Design del suono -"
 
     # game/code/credit_sprites.rpy:47
     old "Testing & Proofreading -"
