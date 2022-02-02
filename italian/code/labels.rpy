@@ -160,7 +160,7 @@ translate italian coming_next_de7eb1b3:
 translate italian buzz_4377a2f7:
 
     # "Bzzzzz" with hpunch
-    "Bzzzzz" con hpunch
+    "Bzzzzz" with hpunch
 
 # game/code/labels.rpy:214
 translate italian knockknock_a3fe61f9:
