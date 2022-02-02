@@ -16,7 +16,7 @@ translate deutsch d09s01_74bc0fd8:
 translate deutsch d09s01_0c6c2c41:
 
     # mc "Not really. I kept having that dream where I'm taking a shower in a room with no drain..."
-    mc "Nicht Wirklich. Ich hatte immer wieder diesen Traum, in dem ich in einem Raum ohne Abfluss dusche...."
+    mc "Nicht wirklich. Ich hatte immer wieder diesen Traum, in dem ich in einem Raum ohne Abfluss dusche...."
 
 # game/code/d09/d09s01.rpy:9
 translate deutsch d09s01_9723e90b:
@@ -28,7 +28,7 @@ translate deutsch d09s01_9723e90b:
 translate deutsch d09s01_1aa24ed9:
 
     # mc "I scrub myself as clean as possible hoping that will appease whatever put me in this situation..."
-    mc "Ich schrubbe mich so sauber wie möglich und hoffe, dass das besänftigt, was auch immer mich in diese Situation gebracht hat..."
+    mc "Ich schrubbe mich dann immer so sauber wie möglich und hoffe, dass das besänftigt, was auch immer mich in diese Situation gebracht hat..."
 
 # game/code/d09/d09s01.rpy:11
 translate deutsch d09s01_a58d4994:
@@ -40,7 +40,7 @@ translate deutsch d09s01_a58d4994:
 translate deutsch d09s01_51ab4180:
 
     # mc "Well, before I wake up."
-    mc "Nun, bevor ich aufwache."
+    mc "Naja, bevor ich aufwache."
 
 # game/code/d09/d09s01.rpy:14
 translate deutsch d09s01_efd0d0f9:
@@ -100,7 +100,7 @@ translate deutsch d09s01_f2b9703f:
 translate deutsch d09s01_9f7ad367:
 
     # mct "Ugh. I got some text messages last night."
-    mct "Ugh. Ich habe gestern Abend einige Textnachrichten erhalten."
+    mct "Ugh. Ich habe gestern Abend einige Textnachrichten bekommen."
 
 # game/code/d09/d09s01.rpy:30
 translate deutsch d09s01_bf31a3de:
@@ -136,7 +136,7 @@ translate deutsch d09s01_428e0f7d:
 translate deutsch d09s01_70cc201d:
 
     # mct "Fetish Locator? Already?"
-    mct "Fetish Locator? Jetzt schon?"
+    mct "Fetisch Locator? Jetzt schon?"
 
 # game/code/d09/d09s01.rpy:52
 translate deutsch d09s01_ec9db6c5:
@@ -148,7 +148,7 @@ translate deutsch d09s01_ec9db6c5:
 translate deutsch d09s01_939dbfc5:
 
     # mct "Vibrators and dildos. Huh."
-    mct "Vibratoren und Dildos. Huh."
+    mct "Vibratoren und Dildos. Hmm."
 
 # game/code/d09/d09s01.rpy:54
 translate deutsch d09s01_f1b0a377:
@@ -172,7 +172,7 @@ translate deutsch d09s01_082cc492:
 translate deutsch d09s01_9e35d5dd:
 
     # mct "You would think that I..."
-    mct "Sie würden denken, dass ich..."
+    mct "Man könnte denken, dass ich..."
 
 # game/code/d09/d09s01.rpy:59
 translate deutsch d09s01_062d5495:
@@ -196,31 +196,31 @@ translate deutsch d09s01_ec754de8:
 translate deutsch d09s01_843da6c1:
 
     # mct "Fuck. I think I fell asleep on the phone last night telling Lydia sex stories about my ex-girlfriend."
-    mct "Scheiße. Ich glaube, ich bin gestern Abend am Telefon eingeschlafen, als ich Lydia Sexgeschichten über meine Ex-Freundin erzählt habe."
+    mct "Scheisse. Ich glaube, ich bin gestern Abend am Telefon eingeschlafen, als ich Lydia Sexgeschichten über meine Ex-Freundin erzählt habe."
 
 # game/code/d09/d09s01.rpy:64
 translate deutsch d09s01_24404a72:
 
     # mct "Today is going to be so awkward..."
-    mct "Heute wird es so unangenehm sein..."
+    mct "Heute wird so unangenehm..."
 
 # game/code/d09/d09s01.rpy:66
 translate deutsch d09s01_24c9d171:
 
     # mct "But first things first. Stacy's luggage."
-    mct "Aber das Wichtigste zuerst. Stacys Gepäck."
+    mct "Aber das Wichtigste zuerst. Stacy's Gepäck."
 
 # game/code/d09/d09s01.rpy:67
 translate deutsch d09s01_02f62bc7:
 
     # mct "I need to go this place, that Samiya sent me. Let's hope she is more reasonable than what others think about her."
-    mct "Ich muss zu diesem Ort gehen, den Samiya mir geschickt hat. Hoffen wir, dass sie vernünftiger ist als das, was andere über sie denken."
+    mct "Ich muss zu diesem Ort, den Samiya mir geschickt hat. Hoffen wir, dass sie vernünftiger ist als das, was andere über sie denken."
 
 # game/code/d09/d09s01.rpy:68
 translate deutsch d09s01_61e6906b:
 
     # mct "It's weird. I've fucked...how many chicks now? But something about actually paying for sex, let alone paying {i}this{/i} much, is... odd."
-    mct "Ist schon komisch. Ich habe... wie viele Mädchen jetzt gefickt? Aber etwas daran, tatsächlich für Sex zu bezahlen, geschweige denn so viel, ist... seltsam."
+    mct "Ist schon komisch. Ich habe... wie viele Mädchen jetzt gefickt? Aber etwas daran, tatsächlich für Sex zu bezahlen, geschweige denn so viel, ist... echt seltsam."
 
 # game/code/d09/d09s01.rpy:69
 translate deutsch d09s01_df2d2a72:
@@ -232,5 +232,5 @@ translate deutsch d09s01_df2d2a72:
 translate deutsch d09s01_4bb6af1f:
 
     # mct "I just hope she doesn't shank me or something the moment I bring up the luggage."
-    mct "Ich hoffe nur, dass sie mich nicht schlägt oder etwas in der art, wenn ich das Gepäck erwähne."
+    mct "Ich hoffe nur, dass sie mich nicht schlägt oder so, wenn ich das Gepäck erwähne."
 
