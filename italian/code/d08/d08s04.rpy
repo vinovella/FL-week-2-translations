@@ -94,7 +94,7 @@ translate italian d08s04_e59544ae:
 translate italian d08s04_ca657a99:
 
     # mesfl "Well I didn't cum without pee in my mouth. But not because there was pee, but because I just didn't cum..."
-    mesfl "Beh, non sono venuta con il piscio in bocca. Ma non perché non c’era la pipì, ma perché semplicemente non sono venuta…”
+    mesfl "Beh, non sono venuta con il piscio in bocca. Ma non perché non c’era la pipì, ma perché semplicemente non sono venuta..."
 
 # game/code/d08/d08s04.rpy:95
 translate italian d08s04_46bbeb2a:
@@ -124,7 +124,7 @@ translate italian d08s04_ee1dded4:
 translate italian d08s04_8b289a34:
 
     # mesfl "And I didn't cum because Min was the whole day with Anthony and he doesn't want to hear about watersports..."
-    mesfl "Non ci sono riuscita perché Min era stata tutto il giorno con Antony e a lui non interessano gli sport acquatici…”
+    mesfl "Non ci sono riuscita perché Min era stata tutto il giorno con Antony e a lui non interessano gli sport acquatici..."
 
 # game/code/d08/d08s04.rpy:104
 translate italian d08s04_214b787d:
@@ -136,7 +136,7 @@ translate italian d08s04_214b787d:
 translate italian d08s04_72b971f7:
 
     # mc "And I'm a bit surprised by Anthony. I thought he is all about out of this world experiences..."
-    mc "Mi sorprende Antony. Pensavo che fosse un tipo da esperienze fuori da questo mondo…”
+    mc "Mi sorprende Antony. Pensavo che fosse un tipo da esperienze fuori da questo mondo..."
 
 # game/code/d08/d08s04.rpy:108
 translate italian d08s04_211dd998:
@@ -148,13 +148,13 @@ translate italian d08s04_211dd998:
 translate italian d08s04_dfa98f14:
 
     # mesfl "He likes supernatural things, but toilet for him is something undernatural..."
-    mesfl "Gli piacciono le cose soprannaturali, ma il bagno per lui è qualcosa di sotto-naturale…”
+    mesfl "Gli piacciono le cose soprannaturali, ma il bagno per lui è qualcosa di sotto-naturale..."
 
 # game/code/d08/d08s04.rpy:132
 translate italian d08s04_5ad5ae86:
 
     # mc "Ok I see. Well then we will have to do it the other way. And also I think this would be the best training for you."
-    mc "Ok, capisco. Beh allora dovremmo fare diversamente. E penso che questo sia il migliore allenamento per te.”
+    mc "Ok, capisco. Beh allora dovremmo fare diversamente. E penso che questo sia il migliore allenamento per te."
 
 # game/code/d08/d08s04.rpy:134
 translate italian d08s04_3da77697:
@@ -178,7 +178,7 @@ translate italian d08s04_3a48d71f:
 translate italian d08s04_d8cf87b1:
 
     # mc "No, you will do it yourself. Refill with your own pee."
-    mc "No, lo farai tu. Riempila con il tuo piscio.”
+    mc "No, lo farai tu. Riempila con il tuo piscio."
 
 # game/code/d08/d08s04.rpy:140
 translate italian d08s04_90b8f183:
@@ -220,7 +220,7 @@ translate italian replay_d08s04_3f8bc07a:
 translate italian d08s04_0721513a:
 
     # mc "It is not about you being able to swallow some pee... You proved that you can do it. But only in small amounts."
-    mc "Non si tratta di essere in grado o meno di ingoiare un po’ di pipì… Hai dimostrato che puoi farlo. Ma solo in piccole quantità.”
+    mc "Non si tratta di essere in grado o meno di ingoiare un po’ di pipì... Hai dimostrato che puoi farlo. Ma solo in piccole quantità."
 
 # game/code/d08/d08s04.rpy:149
 translate italian d08s04_3ca82806:
@@ -244,7 +244,7 @@ translate italian d08s04_4f541e29:
 translate italian d08s04_ecefd5e9:
 
     # mct "I actually don't, I just sound convincing... I hope this works!"
-    mct "Non proprio, mi sto solo convincendo… Spero che funzioni!"
+    mct "Non proprio, mi sto solo convincendo... Spero che funzioni!"
 
 # game/code/d08/d08s04.rpy:155
 translate italian d08s04_1725d810:
@@ -268,13 +268,13 @@ translate italian d08s04_2eecb10c:
 translate italian d08s04_ad7590e1:
 
     # mesfl "Could you hold the bottle for me. I've never had to aim for a target this small before."
-    mesfl "Potresti tenere la bottiglia per me. Non ho mai dovuto mirare a un bersaglio così piccolo prima d’ora.” 
+    mesfl "Potresti tenere la bottiglia per me. Non ho mai dovuto mirare a un bersaglio così piccolo prima d’ora."
 
 # game/code/d08/d08s04.rpy:159
 translate italian d08s04_c669d651:
 
     # mc "Sorry, you need to do this yourself. Next time you would need to refill it I won't be around!"
-    mc "Scusami, ma devi farlo tu stessa. La prossima volta che dovrai riempirla non potrò aiutarti!”
+    mc "Scusami, ma devi farlo tu stessa. La prossima volta che dovrai riempirla non potrò aiutarti!"
 
 # game/code/d08/d08s04.rpy:161
 translate italian d08s04_32ad81e4:
@@ -292,7 +292,7 @@ translate italian d08s04_f4fccff0:
 translate italian d08s04_38d04bd4:
 
     # mesfl "Enjoy the show!"
-    mesfl "Goditi lo spettacolo!”
+    mesfl "Goditi lo spettacolo!"
 
 # game/code/d08/d08s04.rpy:176
 translate italian d08s04_e0247fcd:
@@ -358,7 +358,7 @@ translate italian d08s04_c97e5574:
 translate italian d08s04_5ef4cd65:
 
     # mc "Now try it."
-    mc "Ora provala.”
+    mc "Ora provala."
 
 # game/code/d08/d08s04.rpy:227
 translate italian d08s04_ddc3ecad:
@@ -400,7 +400,7 @@ translate italian d08s04_4dc72979:
 translate italian d08s04_108600bf:
 
     # mc "Drink small portions but as often as you can."
-    mc "Bevi piccole porzioni più spesso che puoi.”
+    mc "Bevi piccole porzioni più spesso che puoi."
 
 # game/code/d08/d08s04.rpy:241
 translate italian d08s04_dc5c0dbb:
@@ -412,7 +412,7 @@ translate italian d08s04_dc5c0dbb:
 translate italian d08s04_989df938:
 
     # mc "And don't forget to drink normal water as well, and also every second time urinate in the tolet. You still want a fresh water to flow through your body."
-    mc "E non dimenticarti di bere anche acqua normale e di pisciare in bagno dopo la seconda volta. Il tuo corpo ha comunque bisogno di acqua fresca.”
+    mc "E non dimenticarti di bere anche acqua normale e di pisciare in bagno dopo la seconda volta. Il tuo corpo ha comunque bisogno di acqua fresca."
 
 # game/code/d08/d08s04.rpy:244
 translate italian d08s04_083bfd50:
@@ -448,7 +448,7 @@ translate italian d08s04_8fc8e4d1:
 translate italian d08s04_8a51d91e:
 
     # mc "Well, that's why I'm here. If we only did what you expected, you wouldn't need my help."
-    mc "Beh, è per questo che sono qui. Se facessi solo quello che ti aspettavi, non avresti bisogno del mio aiuto.”
+    mc "Beh, è per questo che sono qui. Se facessi solo quello che ti aspettavi, non avresti bisogno del mio aiuto."
 
 # game/code/d08/d08s04.rpy:253
 translate italian d08s04_5e81a96a:
@@ -496,7 +496,7 @@ translate italian d08s04_ab0c83ee_1:
 translate italian d08s04_f7a21bdd:
 
     # mc "If you do send me any pics of your O-face, make sure I can see the piss in your open mouth."
-    mc "Se mi mandi una qualsiasi foto con la faccia a O, voglio vedere il piscio nella tua bocca aperta.”
+    mc "Se mi mandi una qualsiasi foto con la faccia a O, voglio vedere il piscio nella tua bocca aperta."
 
 # game/code/d08/d08s04.rpy:265
 translate italian d08s04_bcbeda76:
@@ -526,7 +526,7 @@ translate italian d08s04_140a1339:
 translate italian d08s04_6800fbff:
 
     # mesfl "Nope. If you don't mind... I'll be out in a minute."
-    mesfl "No. Se non ti dispiace… Uscirò in un attimo."
+    mesfl "No. Se non ti dispiace... Uscirò in un attimo."
 
 # game/code/d08/d08s04.rpy:271
 translate italian d08s04_606e2d02:
@@ -540,7 +540,7 @@ translate italian d08s04_606e2d02:
 translate italian d08s04_947e6559:
 
     # mct "I didn't take any pictures... Neither did Maria... Did someone else take a photo of her giving me a head during class?"
-    mct "Non ho fatto nessuna foto... e neanche Maria ne ha fatta nessuna... Magari qualcun altro ha scattato una foto mentre mi spompinava?”
+    mct "Non ho fatto nessuna foto... e neanche Maria ne ha fatta nessuna... Magari qualcun altro ha scattato una foto mentre mi spompinava?"
 
 # game/code/d08/d08s04.rpy:52
 translate italian d08s04_292fdcff:
@@ -558,13 +558,13 @@ translate italian d08s04_6beac8e5:
 translate italian d08s04_9e1369a5:
 
     # mct "I don't believe that Pete is behind this. The faster we can clear his name, the better."
-    mct "Non credo che ci sia Pete dietro a tutto questo. Ma se riusciamo a provare che non c'entra nulla è meglio.”
+    mct "Non credo che ci sia Pete dietro a tutto questo. Ma se riusciamo a provare che non c'entra nulla è meglio."
 
 # game/code/d08/d08s04.rpy:55
 translate italian d08s04_673e9068:
 
     # mct "After all Hana is only interested in figuring out this situation - not scapegoating innocent people."
-    mct "Dopotutto Hana è solo interessata a capire questa situazione, e non a incolpare persone innocenti.”
+    mct "Dopotutto Hana è solo interessata a capire questa situazione, e non a incolpare persone innocenti."
 
 # game/code/d08/d08s04.rpy:88
 translate italian d08s04_a5949b7a:
@@ -576,7 +576,7 @@ translate italian d08s04_a5949b7a:
 translate italian d08s04_4887193b:
 
     # mesfl "Well, I didn't cum without pee in my mouth. But not because there was pee; I just didn't cum..."
-    mesfl "Beh, non sono venuta con il piscio in bocca. Ma non perché non c’era la pipì, ma perché semplicemente non sono venuta…”
+    mesfl "Beh, non sono venuta con il piscio in bocca. Ma non perché non c’era la pipì, ma perché semplicemente non sono venuta..."
 
 # game/code/d08/d08s04.rpy:95
 translate italian d08s04_49cb6cdc:
@@ -618,7 +618,7 @@ translate italian d08s04_36414780:
 translate italian d08s04_6e3d33e3:
 
     # mesfl "He likes supernatural things, but the toilet is something base and natural... undernatural?"
-    mesfl "Gli piacciono le cose soprannaturali, ma il bagno è qualcosa di base e naturale… o sotto-naturale?”
+    mesfl "Gli piacciono le cose soprannaturali, ma il bagno è qualcosa di base e naturale... o sotto-naturale?"
 
 # game/code/d08/d08s04.rpy:111
 translate italian d08s04_96ebad8b:
@@ -660,7 +660,7 @@ translate italian d08s04_04270dba:
 translate italian d08s04_25db7111:
 
     # mc "It is not about you being able to swallow some pee... You proved that you can do that."
-    mc “Non si tratta di essere in grado o meno di ingoiare un po’ di pipì… Hai dimostrato che puoi farlo."
+    mc "Non si tratta di essere in grado o meno di ingoiare un po’ di pipì... Hai dimostrato che puoi farlo."
 
 # game/code/d08/d08s04.rpy:127
 translate italian d08s04_6a49b5fc:
@@ -690,7 +690,7 @@ translate italian d08s04_b7efedb4:
 translate italian d08s04_240f244d:
 
     # mct "I really don't, but it sounds convincing... I hope this works!"
-    mct "Non proprio, mi sto solo convincendo… Spero che funzioni!"
+    mct "Non proprio, mi sto solo convincendo... Spero che funzioni!"
 
 # game/code/d08/d08s04.rpy:139
 translate italian d08s04_25e96f6a:
@@ -708,7 +708,7 @@ translate italian d08s04_659f7335:
 translate italian d08s04_5b956149:
 
     # mesfl "Enjoying the show?"
-    mesfl “Ti stai godendo lo spettacolo?"
+    mesfl "Ti stai godendo lo spettacolo?"
 
 # game/code/d08/d08s04.rpy:156
 translate italian d08s04_d3f5a784:
@@ -855,7 +855,7 @@ translate italian replay_d08s04_f3982a65:
 translate italian replay_d08s04_01212c23:
 
     # mc "Sure! Did you drink any urine?"
-    mc "Certo! Hai bevuto un po’ di piscio?”
+    mc "Certo! Hai bevuto un po’ di piscio?"
 
 # game/code/d08/d08s04.rpy:97
 translate italian replay_d08s04_62adf38b:
@@ -891,7 +891,7 @@ translate italian replay_d08s04_211dd998:
 translate italian replay_d08s04_6e3d33e3:
 
     # mesfl "He likes supernatural things, but the toilet is something base and natural... undernatural?"
-    mesfl "Gli piacciono le cose soprannaturali, ma il bagno è qualcosa di base e naturale… o sotto-naturale?”
+    mesfl "Gli piacciono le cose soprannaturali, ma il bagno è qualcosa di base e naturale... o sotto-naturale?"
 
 # game/code/d08/d08s04.rpy:107
 translate italian replay_d08s04_96ebad8b:
@@ -963,7 +963,7 @@ translate italian replay_d08s04_d0c9df34:
 translate italian replay_d08s04_25db7111:
 
     # mc "It is not about you being able to swallow some pee... You proved that you can do that."
-    mc "Non si tratta di essere in grado o meno di ingoiare un po’ di pipì… Hai dimostrato che puoi farlo."
+    mc "Non si tratta di essere in grado o meno di ingoiare un po’ di pipì... Hai dimostrato che puoi farlo."
 
 # game/code/d08/d08s04.rpy:123
 translate italian replay_d08s04_6a49b5fc:
@@ -993,7 +993,7 @@ translate italian replay_d08s04_b7efedb4:
 translate italian replay_d08s04_240f244d:
 
     # mct "I really don't, but it sounds convincing... I hope this works!"
-    mct "Non proprio, mi sto solo convincendo… Spero che funzioni!"
+    mct "Non proprio, mi sto solo convincendo... Spero che funzioni!"
 
 # game/code/d08/d08s04.rpy:131
 translate italian replay_d08s04_1725d810:
@@ -1065,7 +1065,7 @@ translate italian replay_d08s04_b72b9512:
 translate italian replay_d08s04_06cf19da:
 
     # mesfl "I guess you're a hard man to please!"
-    mesfl “Sembra che tu sia un uomo difficile da compiacere!"
+    mesfl "Sembra che tu sia un uomo difficile da compiacere!"
 
 # game/code/d08/d08s04.rpy:158
 translate italian replay_d08s04_1abea688:
@@ -1215,7 +1215,7 @@ translate italian replay_d08s04_10b830f0:
 translate italian replay_d08s04_ab0c83ee:
 
     # mesfl "What's that?"
-    mesfl "Cioè?”
+    mesfl "Cioè?"
 
 # game/code/d08/d08s04.rpy:233
 translate italian replay_d08s04_82e34cfd:
@@ -1263,7 +1263,7 @@ translate italian replay_d08s04_b376ac62:
 translate italian replay_d08s04_6800fbff:
 
     # mesfl "Nope. If you don't mind... I'll be out in a minute."
-    mesfl "No. Se non ti dispiace… Uscirò in un attimo."
+    mesfl "No. Se non ti dispiace... Uscirò in un attimo."
 
 # game/code/d08/d08s04.rpy:248
 translate italian replay_d08s04_606e2d02:

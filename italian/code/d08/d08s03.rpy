@@ -1352,7 +1352,7 @@ translate italian d08s03_ab4411c4:
 translate italian d08s03_58c7d629:
 
     # mct "In the dream it felt like heaven. But in real life it just feels like she's never given head before..."
-    mct "Nel sogno sembrava di stare in paradiso. Ma sembra che non abbia mai fatto un pompino nella sua vita …”
+    mct "Nel sogno sembrava di stare in paradiso. Ma sembra che non abbia mai fatto un pompino nella sua vita..."
 
 # game/code/d08/d08s03.rpy:380
 translate italian d08s03_a027693c:
@@ -1482,7 +1482,7 @@ translate italian replay_d08s03_76ab189f:
 translate italian replay_d08s03_e1337149:
 
     # mk "I know we're in class, but I can't help it."
-    mk “So che siamo in classe, ma non ci posso fare nulla."
+    mk "So che siamo in classe, ma non ci posso fare nulla."
 
 # game/code/d08/d08s03.rpy:301
 translate italian replay_d08s03_18a295dc:
@@ -1800,7 +1800,7 @@ translate italian replay_d08s03_f18f651f:
 translate italian replay_d08s03_2501a982:
 
     # rn "Exactly what I've come to expect from you. That is correct."
-    rn “Proprio quello che mi aspettavo da te. È corretto."
+    rn "Proprio quello che mi aspettavo da te. È corretto."
 
 # game/code/d08/d08s03.rpy:447
 translate italian replay_d08s03_5f4aaeeb:
@@ -1932,4 +1932,4 @@ translate italian replay_d08s03_5a0d9fea:
 translate italian replay_d08s03_bdb152de:
 
     # mk "Shh. Just... shhh."
-    mk “Shh. Solo... shhh."
+    mk "Shh. Solo... shhh."

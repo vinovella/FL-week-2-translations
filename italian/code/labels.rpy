@@ -192,13 +192,13 @@ translate italian after_credits_656f6347:
 translate italian after_credits_106f2eed:
 
     # sy "Huh! I see! But what are we supposed to say?"
-    sy "Oh! Chiaro! Ma cosa dovremmo dire?”
+    sy "Oh! Chiaro! Ma cosa dovremmo dire?"
 
 # game/code/labels.rpy:112
 translate italian after_credits_a1c8617a:
 
     # dd "Oh. I didn't get the memo... Maybe we just pose sexy?"
-    dd "Oh. Non ho ricevuto alcun copione... Forse basta metterci in posa sexy?” 
+    dd "Oh. Non ho ricevuto alcun copione... Forse basta metterci in posa sexy?"
 
 # game/code/labels.rpy:114
 translate italian after_credits_b53b874d:
@@ -342,7 +342,7 @@ translate italian after_credits_e8a80a14:
 translate italian after_credits_d749c296:
 
     # "{color=#f93737}Zemfira{/color}" "Hey, I was just changing when they opened... And stop bossing us around! We aren't on your volleyball team!"
-    "{color=#f93737}Zemfira{/color}" "Ehi, mi stavo cambiando quando hanno aperto… E smettila di darci ordini! Non siamo nella tua squadra di pallavolo!”
+    "{color=#f93737}Zemfira{/color}" "Ehi, mi stavo cambiando quando hanno aperto… E smettila di darci ordini! Non siamo nella tua squadra di pallavolo!"
 
 # game/code/labels.rpy:195
 translate italian after_credits_d6e2149b:
@@ -354,7 +354,7 @@ translate italian after_credits_d6e2149b:
 translate italian after_credits_bf117a95:
 
     # "{color=#ec8664}Unknown Girl 3{/color}" "Let's call it our secret and pretend you never opened the door!"
-    "{color=#ec8664} Unknown Girl 3{/color}" "Diciamo che è il nostro segreto e fate finta di non aver mai aperto la porta!”
+    "{color=#ec8664} Unknown Girl 3{/color}" "Diciamo che è il nostro segreto e fate finta di non aver mai aperto la porta!"
 
 # game/code/labels.rpy:199
 translate italian after_credits_b7af7f44:
@@ -372,7 +372,7 @@ translate italian after_credits_4244eb77:
 translate italian after_credits_db5b7cd2:
 
     # "{color=#ba50f3}Unknown Girl 2{/color}" "Support the ViNovella team so they can share our story sooner!"
-    "{color=#ba50f3} Unknown Girl 2{/color}" "Sostieni il team di ViNovella, così potrà condividere quanto prima la nostra storia!”
+    "{color=#ba50f3} Unknown Girl 2{/color}" "Sostieni il team di ViNovella, così potrà condividere quanto prima la nostra storia!"
 
 # game/code/labels.rpy:207
 translate italian after_credits_1aef1189:
