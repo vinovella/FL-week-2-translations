@@ -834,46 +834,48 @@ translate italian strings:
 translate italian replay_d12s04_f874a4ed:
 
     # mh "Oh, [mcname]! I wanted to talk to you actually, I saw you—"
-    mh "Oh, [mcname]! I wanted to talk to you actually, I saw you—"
+    mh "Oh, [mcname]! Volevo parlarti, ti ho visto—"
 
 # game/code/d12/d12s04.rpy:210
 translate italian replay_d12s04_a082fb00:
 
     # mc "With the judge?"
-    mc "With the judge?"
+    mc "Con la giudice?"
 
 # game/code/d12/d12s04.rpy:212
 translate italian replay_d12s04_98f67cdc:
 
     # mh "Yes. What were you...?"
-    mh "Yes. What were you...?"
+    mh "Sì. Cosa stavate...?"
 
 # game/code/d12/d12s04.rpy:214
 translate italian replay_d12s04_eaa95fad:
 
     # mc "I wanted to come see you, but had some stuff I need to clear up with the judge."
-    mc "I wanted to come see you, but had some stuff I need to clear up with the judge."
+    mc "Volevo venire a trovarti, ma prima dovevo chiarire delle cose con la giudice."
 
 # game/code/d12/d12s04.rpy:216
 translate italian replay_d12s04_4eaa0254:
 
     # mh "What stuff?"
-    mh "What stuff?"
+    mh "Che cosa?"
 
 # game/code/d12/d12s04.rpy:218
 translate italian replay_d12s04_928b0ded:
 
     # mct "Shit."
-    mct "Shit."
+    mct "Merda."
 
 # game/code/d12/d12s04.rpy:220
 translate italian replay_d12s04_ca26d0bf:
 
     # mc "I know her from a bit back. Don't worry about it."
-    mc "I know her from a bit back. Don't worry about it."
+    mc "La conosco da un po'. Non preoccuparti."
 
 # game/code/d12/d12s04.rpy:223
 translate italian replay_d12s04_faf75cbc:
 
     # mh "Huh. Still, I didn't know that you were gonna come by today. How long have you been here? Why didn't you call me?"
-    mh "Huh. Still, I didn't know that you were gonna come by today. How long have you been here? Why didn't you call me?"
+    mh "Oh. Comunque non sapevo che saresti passato oggi. Da quanto sei qui? Perché non mi hai chiamato?"
+    
+    
