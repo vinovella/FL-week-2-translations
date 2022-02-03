@@ -24,5 +24,5 @@ translate italian strings:
 
     # game/code/screens/extended/screens_fl.rpy:46
     old "CLOSE"
-    new "CLOSE"
+    new "CHIUDI"
 
