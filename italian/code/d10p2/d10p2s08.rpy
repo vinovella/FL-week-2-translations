@@ -2456,148 +2456,148 @@ translate italian d10p2s08_mh_part3_20d947bf:
 translate italian d10p2s08_jf_part3_b49a9044:
 
     # mc "So, there was a Human Equine Horse Race. I participated as a jockey."
-    mc "So, there was a Human Equine Horse Race. I participated as a jockey."
+    mc "Allora, c'è stata una Gara di Equitazione Umana. Io ero un fantino."
 
 # game/code/d10p2/d10p2s08.rpy:959
 translate italian d10p2s08_jf_part3_4dc101f1:
 
     # lc "Aren't jockeys for full sized real horses like half your size? Who was your horse???"
-    lc "Aren't jockeys for full sized real horses like half your size? Who was your horse???"
+    lc "Ma i fantini non sono per i cavalli veri a grandezza naturale? Chi era il tuo cavallo???
 
 # game/code/d10p2/d10p2s08.rpy:961
 translate italian d10p2s08_jf_part3_010f7e48:
 
     # mc "URLittlePony. Cute girl. Does cosplay. She made her own horse costume with hooves and everything."
-    mc "URLittlePony. Cute girl. Does cosplay. She made her own horse costume with hooves and everything."
+    mc "URLittlePony. Bella ragazza. Fa cosplay. Ha creato il suo costume da cavallo con gli zoccoli e tutto."
 
 # game/code/d10p2/d10p2s08.rpy:963
 translate italian d10p2s08_jf_part3_14e8620e:
 
     # lc "So, you really just walked while she crawled on all fours beneath you?"
-    lc "So, you really just walked while she crawled on all fours beneath you?"
+    lc "Quindi hai camminato mentre lei strisciava a quattro zampe sotto di te?"
 
 # game/code/d10p2/d10p2s08.rpy:965
 translate italian d10p2s08_jf_part3_48e47d9f:
 
     # mc "Somehow she held my weight and was still able to move."
-    mc "Somehow she held my weight and was still able to move."
+    mc "In qualche modo è riuscita a reggere il mio peso e a muoversi."
 
 # game/code/d10p2/d10p2s08.rpy:967
 translate italian d10p2s08_jf_part3_60684bef:
 
     # lc "Okay. Who were the other horses and jockeys?"
-    lc "Okay. Who were the other horses and jockeys?"
+    lc "Okay. Chi erano gli altri cavalli e fantini?"
 
 # game/code/d10p2/d10p2s08.rpy:969
 translate italian d10p2s08_jf_part3_c50eb4a0:
 
     # mc "Just one other team. Bravo was dressed like a donkey or something. Echo was his rider."
-    mc "Just one other team. Bravo was dressed like a donkey or something. Echo was his rider."
+    mc "C'era solo un'altra squadra. Bravo era vestito come un asino, tipo. Echo era il fantino."
 
 # game/code/d10p2/d10p2s08.rpy:971
 translate italian d10p2s08_jf_part3_3f035b58:
 
     # lc "Okay, that seems like a reasonable pairing at least."
-    lc "Okay, that seems like a reasonable pairing at least."
+    lc "Okay, mi sembra un'accoppiata ragionevole almeno."
 
 # game/code/d10p2/d10p2s08.rpy:973
 translate italian d10p2s08_jf_part3_ab008165:
 
     # mc "Yeah, they got off to an early lead."
-    mc "Yeah, they got off to an early lead."
+    mc "Sì, sono stati subito in testa."
 
 # game/code/d10p2/d10p2s08.rpy:975
 translate italian d10p2s08_jf_part3_a86ed687:
 
     # mc "My pony did her best, but it was slow going."
-    mc "My pony did her best, but it was slow going."
+    mc "Il mio pony ha fatto del suo meglio, ma era lenta."
 
 # game/code/d10p2/d10p2s08.rpy:977
 translate italian d10p2s08_jf_part3_e1e21c92:
 
     # mc "Echo and Bravo made it to the halfway point first and started having sex in the cowgirl position."
-    mc "Echo and Bravo made it to the halfway point first and started having sex in the cowgirl position."
+    mc "Echo e Bravo poi sono arrivati per primi a metà strada e hanno iniziato a fare sesso nella posizione dell'amazzone."
 
 # game/code/d10p2/d10p2s08.rpy:978
 translate italian d10p2s08_jf_part3_889406bb:
 
     # lc "Okay... why?"
-    lc "Okay... why?"
+    lc "Ok... perché?"
 
 # game/code/d10p2/d10p2s08.rpy:980
 translate italian d10p2s08_jf_part3_6ace0c21:
 
     # mc "It was part of the rules. Halfway through the race the equine had to make the jockey climax."
-    mc "It was part of the rules. Halfway through the race the equine had to make the jockey climax."
+    mc "Faceva parte delle regole. A metà corsa il cavallo doveva far venire il fantino."
 
 # game/code/d10p2/d10p2s08.rpy:981
 translate italian d10p2s08_jf_part3_2eb36ec5:
 
     # mc "Now that I think about it, I think I took URLittlePony's virginity."
-    mc "Now that I think about it, I think I took URLittlePony's virginity."
+    mc "Ora che ci penso, credo di aver sverginato URLittlePony."
 
 # game/code/d10p2/d10p2s08.rpy:983
 translate italian d10p2s08_jf_part3_c1b63891:
 
     # lc "You don't know? Did you ask her?"
-    lc "You don't know? Did you ask her?"
+    lc "Non lo sai? Non gliel'hai chiesto?"
 
 # game/code/d10p2/d10p2s08.rpy:987
 translate italian d10p2s08_jf_part3_615d8fb9:
 
     # mc "She was in full costume. Like horse blinders and everything. She had a gag in her mouth, like a horse."
-    mc "She was in full costume. Like horse blinders and everything. She had a gag in her mouth, like a horse."
+    mc "Aveva un costume completo. Con i paraocchi e tutto il resto. Aveva un bavaglio in bocca, come un cavallo."
 
 # game/code/d10p2/d10p2s08.rpy:991
 translate italian d10p2s08_jf_part3_3b53d5e7:
 
     # mc "But she turned around an presented, and didn't complain when I pulled her panties to the side."
-    mc "But she turned around an presented, and didn't complain when I pulled her panties to the side."
+    mc "Ma si è girata e si è mostrata a me, e non si è lamentata quando le ho messo le mutandine di lato."
 
 # game/code/d10p2/d10p2s08.rpy:992
 translate italian d10p2s08_jf_part3_89f5da50:
 
     # lc "That's... {w}That's kinda hot."
-    lc "That's... {w}That's kinda hot."
+    lc "Ma è... {w}piuttosto eccitante."
 
 # game/code/d10p2/d10p2s08.rpy:996
 translate italian d10p2s08_jf_part3_668e328c:
 
     # mc "So, there I was fucking URLittlePony doggie style while Echo rode Bravo like a cowgirl."
-    mc "So, there I was fucking URLittlePony doggie style while Echo rode Bravo like a cowgirl."
+    mc "Quindi io mi sono scopato URLittlePony a pecorina mentre Echo stava a cavalcioni su Bravo."
 
 # game/code/d10p2/d10p2s08.rpy:1000
 translate italian d10p2s08_jf_part3_126ee15d:
 
     # mc "It was an intense race to see which team's jockey would climax first."
-    mc "It was an intense race to see which team's jockey would climax first."
+    mc "È stata una gara intensa vedere quale fantino raggiungesse l'orgasmo per primo."
 
 # game/code/d10p2/d10p2s08.rpy:1004
 translate italian d10p2s08_jf_part3_11ed5a0a:
 
     # mc "Just before I came my pony collapsed from her own orgasm..."
-    mc "Just before I came my pony collapsed from her own orgasm..."
+    mc "Ma poco prima che venissi, il mio pony è collassato per il suo stesso orgasmo..."
 
 # game/code/d10p2/d10p2s08.rpy:1008
 translate italian d10p2s08_jf_part3_2f652389:
 
     # mc "... so while she was chomping at the bit I shot my load all over her lower back."
-    mc "... so while she was chomping at the bit I shot my load all over her lower back."
+    mc "... quindi mentre stava lì trepidante le sono venuto su tutta la schiena."
 
 # game/code/d10p2/d10p2s08.rpy:1158
 translate italian d10p2s08_jf_part5_b1b42c33:
 
     # mc "After that she had the energy of like 5 stallions."
-    mc "After that she had the energy of like 5 stallions."
+    mc "Dopodiché aveva l'energia di 5 stalloni."
 
 # game/code/d10p2/d10p2s08.rpy:1159
 translate italian d10p2s08_jf_part5_3b486f92:
 
     # mc "We raced to the finish line and easily won the race."
-    mc "We raced to the finish line and easily won the race."
+    mc "Abbiamo corso fino al traguardo e vinto la gara."
 
 # game/code/d10p2/d10p2s08.rpy:1161
 translate italian d10p2s08_jf_part5_6e27356e:
 
     # mc "URLittlePony was rewarded with a drink from the Trough of Ultimate Sexual Deviancy."
-    mc "URLittlePony was rewarded with a drink from the Trough of Ultimate Sexual Deviancy."
+    mc "Come premio URLittlePony aveva ricevuto una bevanda che poteva bere dal Trogolo della Completa Devianza Sessuale."
