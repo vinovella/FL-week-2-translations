@@ -122,3 +122,11 @@ translate italian strings:
     old "The close childhood friend"
     new "L'amica d'infanzia"
 
+# TODO: Translation updated at 2022-02-04 00:03
+
+translate italian strings:
+
+    # game/code/data/prologue.rpy:34
+    old "Trans Content"
+    new "Trans Content"
+
