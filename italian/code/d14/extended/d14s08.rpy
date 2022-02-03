@@ -142,7 +142,7 @@ translate italian d14s08_b599eb24:
 translate italian d14s08_4573ec95:
 
     # pw "I guess I'm an exhibitionist - like you say. Being naked, fucking in public... That's my favorite thing. I could do that everyday all day."
-    pw "Immagino che sia un’esibizionista, in effetti. Essere nuda, scopare in pubblico… Sono le mie cose preferite. Lo potrei fare ogni giorno tutto il giorno."
+    pw "Immagino che sia un’esibizionista, in effetti. Essere nuda, scopare in pubblico... Sono le mie cose preferite. Lo potrei fare ogni giorno tutto il giorno."
 
 # game/code/d14/extended/d14s08.rpy:94
 translate italian d14s08_cb01c49c:
@@ -280,7 +280,7 @@ translate italian d14s08_1e200323:
 translate italian d14s08_5c112b78:
 
     # pw "In fact... I think that Nora has feelings for you as well.{w}.. Just like I do."
-    pw "Infatti… penso che Nora provi qualcosa anche per te.{w}.. Come io d’altronde."
+    pw "Infatti... penso che Nora provi qualcosa anche per te.{w}.. Come io d’altronde."
 
 # game/code/d14/extended/d14s08.rpy:137
 translate italian d14s08_4608fffd:
@@ -316,7 +316,7 @@ translate italian d14s08_6bdbf871:
 translate italian d14s08_a7ad44a7:
 
     # pw "All that stupid old shit. Love letters and sonnets. Sharing a soda pop down at the 1950's diner...with both of us."
-    pw "Tutte quelle stronzate che si fanno. Lettere e canzoni d’amore. Condividere una bibita giù nel ristorantino stile anni ’50… con noi due."
+    pw "Tutte quelle stronzate che si fanno. Lettere e canzoni d’amore. Condividere una bibita giù nel ristorantino stile anni ’50... con noi due."
 
 # game/code/d14/extended/d14s08.rpy:146
 translate italian d14s08_1910a953:

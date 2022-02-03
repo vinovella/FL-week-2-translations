@@ -2449,7 +2449,7 @@ translate italian d10p2s08_mh_part3_20d947bf:
 
     # lc "Please tell me it was Lyssa."
     lc "Ti prego, dimmi che era Lyssa."
-    
+
 # TODO: Translation updated at 2021-05-16 23:55
 
 # game/code/d10p2/d10p2s08.rpy:957
@@ -2462,7 +2462,7 @@ translate italian d10p2s08_jf_part3_b49a9044:
 translate italian d10p2s08_jf_part3_4dc101f1:
 
     # lc "Aren't jockeys for full sized real horses like half your size? Who was your horse???"
-    lc "Ma i fantini non sono per i cavalli veri a grandezza naturale? Chi era il tuo cavallo???
+    lc "Ma i fantini non sono per i cavalli veri a grandezza naturale? Chi era il tuo cavallo???"
 
 # game/code/d10p2/d10p2s08.rpy:961
 translate italian d10p2s08_jf_part3_010f7e48:

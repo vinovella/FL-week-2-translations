@@ -94,7 +94,7 @@ translate italian d14s18_8dff5539:
 translate italian d14s18_dbb35a2a:
 
     # dd "I...am not sure. It's just a thing in the ol' heart, nothing to worry about."
-    dd "Non… saprei. È per una cosa al cuore, ma niente di preoccupante."
+    dd "Non... saprei. È per una cosa al cuore, ma niente di preoccupante."
 
 # game/code/d14p2/extended/d14s18.rpy:94
 translate italian d14s18_66551cdb:
@@ -238,7 +238,7 @@ translate italian d14s18_30c2bdad:
 translate italian d14s18_67927361:
 
     # mc "Sure... Later."
-    mc "Certo… A dopo."
+    mc "Certo... A dopo."
 
 # game/code/d14p2/extended/d14s18.rpy:161
 translate italian d14s18_7cf90ff0:
@@ -322,7 +322,7 @@ translate italian replay_d14s18_6eee6871:
 translate italian replay_d14s18_e53d0536:
 
     # mc "Oh, I think I get what you're thinking... dirty girl. Should I just jump in?"
-    mc "Oh, penso di aver capito cosa stai pensando… sporcacciona. Che faccio, entro?"
+    mc "Oh, penso di aver capito cosa stai pensando... sporcacciona. Che faccio, entro?"
 
 # game/code/d14p2/extended/d14s18.rpy:210
 translate italian replay_d14s18_dfd3e098:
@@ -334,7 +334,7 @@ translate italian replay_d14s18_dfd3e098:
 translate italian replay_d14s18_87970068:
 
     # mc "I... Don't give me those puppy eyes, damn it."
-    mc "Io… Non farmi quegli occhioni, cavolo."
+    mc "Io... Non farmi quegli occhioni, cavolo."
 
 # game/code/d14p2/extended/d14s18.rpy:213
 translate italian replay_d14s18_6088e997:

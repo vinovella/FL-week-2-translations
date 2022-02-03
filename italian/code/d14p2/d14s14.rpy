@@ -862,7 +862,7 @@ translate italian d14s14_looser_46ddb95a:
 translate italian d14s14_end_4935aa9d:
 
     # mc "So... who won?"
-    mc "Quindi… chi ha vinto?"
+    mc "Quindi... chi ha vinto?"
 
 # game/code/d14p2/d14s14.rpy:503
 translate italian d14s14_end_dd1c331e:

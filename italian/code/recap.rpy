@@ -910,7 +910,7 @@ translate italian d08s00_week1synopsis_7474a2fd:
 translate italian d08s00_week1synopsis_c2bdbbb2:
 
     # "Last, but not least, [mcname] and Vanessa explored the real estate market... {w}and each other."
-    "Ultimo ma non meno importante, [mcname] e Vanessa avevano esplorato il mercato immobiliare… {w}e l’un l’altro."
+    "Ultimo ma non meno importante, [mcname] e Vanessa avevano esplorato il mercato immobiliare... {w}e l’un l’altro."
 
 # game/code/recap.rpy:565
 translate italian d08s00_week1synopsis_7c59af2b:

@@ -22,7 +22,7 @@ translate italian d14s17_1a001477:
 translate italian d14s17_6becc117:
 
     # op "Oh, oh yeah. Nothing is wrong. Uhm... Well... I guess something {i}is{/i} wrong."
-    op "Oh, oh sì. Va tutto bene. Uhm… Beh… In realtà c’è qualcosa che {i}non{/i} va."
+    op "Oh, oh sì. Va tutto bene. Uhm... Beh... In realtà c’è qualcosa che {i}non{/i} va."
 
 # game/code/d14p2/d14s17.rpy:52
 translate italian d14s17_4b5a33eb:
@@ -46,7 +46,7 @@ translate italian d14s17_e105c66b:
 translate italian d14s17_d36099d2:
 
     # op "I know you're not... I hate to ask... It's just–"
-    op "Lo so che non sei… Odio chiedertelo… È che–"
+    op "Lo so che non sei... Odio chiedertelo... È che–"
 
 # game/code/d14p2/d14s17.rpy:59
 translate italian d14s17_775288f7:
@@ -76,7 +76,7 @@ translate italian d14s17_ea5da414:
 translate italian d14s17_5112a890:
 
     # mc "And...you chose me?"
-    mc "E… hai scelto me?"
+    mc "E... hai scelto me?"
 
 # game/code/d14p2/d14s17.rpy:69
 translate italian d14s17_b8c84f20:
@@ -94,7 +94,7 @@ translate italian d14s17_73b32406:
 translate italian d14s17_e748a158:
 
     # op "I'm sorry, that was...just, I'm sorry. I shouldn't have asked."
-    op "Mi dispiace, è stato… scusa, mi dispiace. Non avrei dovuto chiedertelo."
+    op "Mi dispiace, è stato... scusa, mi dispiace. Non avrei dovuto chiedertelo."
 
 # game/code/d14p2/d14s17.rpy:75
 translate italian d14s17_266679ea:
@@ -106,7 +106,7 @@ translate italian d14s17_266679ea:
 translate italian d14s17_4b6069cd:
 
     # mc "I'm...open to it."
-    mc "Io… ci sto."
+    mc "Io... ci sto."
 
 # game/code/d14p2/d14s17.rpy:88
 translate italian d14s17_6078ab79:
@@ -118,7 +118,7 @@ translate italian d14s17_6078ab79:
 translate italian d14s17_ddb949ec:
 
     # mc "I understand how you feel. This fucking app. *Sigh* I really wish I could help, but...yeah."
-    mc "Capisco come ti senti. È questa maledetta app. *Uff* Vorrei davvero aiutarti, ma… sì."
+    mc "Capisco come ti senti. È questa maledetta app. *Uff* Vorrei davvero aiutarti, ma... sì."
 
 # game/code/d14p2/d14s17.rpy:91
 translate italian d14s17_d91a07de:
@@ -196,13 +196,13 @@ translate italian d14s17_14ff0b3d:
 translate italian d14s17_08c77f43:
 
     # mc "I'll be honest, I've never thought about...something like this, but it's not like it...uh...I don't feel bad about it. Or, weird about it."
-    mc "Se posso essere onesto, non ho mai pensato a… qualcosa del genere, ma non è che… uh… mi dispiaccia. Non mi fa strano."
+    mc "Se posso essere onesto, non ho mai pensato a... qualcosa del genere, ma non è che... uh... mi dispiaccia. Non mi fa strano."
 
 # game/code/d14p2/d14s17.rpy:122
 translate italian d14s17_51f914f7:
 
     # mc "I'm just saying that...I want to help. And...I wouldn't mind."
-    mc "Sto solo dicendo che… voglio aiutarti. E… non mi dispiace."
+    mc "Sto solo dicendo che... voglio aiutarti. E... non mi dispiace."
 
 # game/code/d14p2/d14s17.rpy:124
 translate italian d14s17_8f48776c:
@@ -220,7 +220,7 @@ translate italian d14s17_526f4c30:
 translate italian d14s17_415c0845:
 
     # op "...Okay. Just...Let me know if you want me to stop at any point and I will."
-    op "...Okay. Solo che… In qualsiasi momento fammi sapere quando vuoi che smetta."
+    op "...Okay. Solo che... In qualsiasi momento fammi sapere quando vuoi che smetta."
 
 # game/code/d14p2/d14s17.rpy:129
 translate italian d14s17_bb0eeaf4:
@@ -232,7 +232,7 @@ translate italian d14s17_bb0eeaf4:
 translate italian d14s17_74d61e6c:
 
     # mc "So... How is this going to work?"
-    mc "Quindi… Come funziona?"
+    mc "Quindi... Come funziona?"
 
 # game/code/d14p2/d14s17.rpy:134
 translate italian d14s17_abeb61dd:
@@ -316,7 +316,7 @@ translate italian d14s17_0a3ebde2:
 translate italian d14s17_eddae479:
 
     # mc "...Good. It was...good. You're good."
-    mc "...Bene. È stato… bello. Sei bravo."
+    mc "...Bene. È stato... bello. Sei bravo."
 
 # game/code/d14p2/d14s17.rpy:226
 translate italian d14s17_2c2641c9:
@@ -334,7 +334,7 @@ translate italian d14s17_a20cefa7:
 translate italian d14s17_d2d4ab67:
 
     # op "Uhm, I know that these things usually happen the other way around but, uhm, do you... Are you...free? Next week? Maybe?"
-    op "Uhm, so che queste cose di solito si fanno al contrario ma, uhm, sei… Sei…. Libero? La prossima settimana, tipo?"
+    op "Uhm, so che queste cose di solito si fanno al contrario ma, uhm, sei... Sei.... Libero? La prossima settimana, tipo?"
 
 # game/code/d14p2/d14s17.rpy:232
 translate italian d14s17_65f531b7:
@@ -346,7 +346,7 @@ translate italian d14s17_65f531b7:
 translate italian d14s17_9401e5c1:
 
     # op "I uhm... I was wondering if you would be interested in... I know a nice ice cream place in the park. Maybe we can...just like, hang out?"
-    op "Io uhm… Mi chiedevo se ti interesserebbe… Conosco una bella gelateria nel parco. Potremmo tipo… farci una passeggiata?"
+    op "Io uhm... Mi chiedevo se ti interesserebbe... Conosco una bella gelateria nel parco. Potremmo tipo... farci una passeggiata?"
 
 # game/code/d14p2/d14s17.rpy:236
 translate italian d14s17_c1d1b15c:
@@ -382,7 +382,7 @@ translate italian d14s17_b42c5545:
 translate italian d14s17_54db65f2:
 
     # mc "All of this is...new to me. But uh...I want to explore it...with you."
-    mc "Tutto questo è… nuovo per me. Ma uh… voglio esplorarlo… con te."
+    mc "Tutto questo è... nuovo per me. Ma uh... voglio esplorarlo... con te."
 
 # game/code/d14p2/d14s17.rpy:247
 translate italian d14s17_e5e5fd8b:
@@ -430,7 +430,7 @@ translate italian d14s17_25092ab5:
 translate italian d14s17_9f38e660:
 
     # op "Wait, uhm, can I get your number? So that I can...uh..."
-    op "Aspetta, uhm, posso avere il tuo numero? Così posso… uh..."
+    op "Aspetta, uhm, posso avere il tuo numero? Così posso... uh..."
 
 # game/code/d14p2/d14s17.rpy:274
 translate italian d14s17_9eaeee70:
@@ -460,7 +460,7 @@ translate italian strings:
 
     # game/code/d14p2/d14s17.rpy:77
     old "I'm...open to it"
-    new "Io… ci sto"
+    new "Io... ci sto"
 
     # game/code/d14p2/d14s17.rpy:77
     old "No, you don't have to apologize"

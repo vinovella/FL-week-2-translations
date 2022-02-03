@@ -70,7 +70,7 @@ translate italian replay_d13s02_c2c2536d:
 translate italian replay_d13s02_dad79a89:
 
     # tm "But the way you just said it... No, I don't believe it."
-    tm "Ma per come l’hai detta… No, non ti credo."
+    tm "Ma per come l’hai detta... No, non ti credo."
 
 # game/code/d13/extended/d13s02.rpy:76
 translate italian replay_d13s02_f6eab717:
@@ -100,7 +100,7 @@ translate italian replay_d13s02_ba1c7c77:
 translate italian replay_d13s02_a11f6539:
 
     # mk "Actually... {w}Well, yeah."
-    mk "In realtà… {w}Beh, sì."
+    mk "In realtà... {w}Beh, sì."
 
 # game/code/d13/extended/d13s02.rpy:92
 translate italian replay_d13s02_2ea4ef7a:
@@ -166,7 +166,7 @@ translate italian replay_d13s02_6c865abc:
 translate italian replay_d13s02_d55d1473:
 
     # mk "Yeah. I had a little trouble with... ya'know, my teeth got in the way."
-    mk "Beh, ho avuto un po’ di problemi con… sai, i miei denti si sono messi di mezzo."
+    mk "Beh, ho avuto un po’ di problemi con... sai, i miei denti si sono messi di mezzo."
 
 # game/code/d13/extended/d13s02.rpy:125
 translate italian replay_d13s02_38d0c432:

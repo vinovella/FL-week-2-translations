@@ -28,7 +28,7 @@ translate italian d11s03b_38e52425:
 translate italian d11s03b_f2565dcc:
 
     # aw "Yeah... I spent the night at Min's place and am just heading home now."
-    aw "Sì… ho trascorso la notte da Min e ora sto andando a casa."
+    aw "Sì... ho trascorso la notte da Min e ora sto andando a casa."
 
 # game/code/d11/extended/d11s03b.rpy:31
 translate italian d11s03b_1c0e4f40:
@@ -256,7 +256,7 @@ translate italian replay_d11s03b_ce15ad13:
 translate italian replay_d11s03b_ab6b4b5a:
 
     # mh "That depends... Does you're little friend want to fuck my ass?"
-    mh "Dipende… Il tuo piccolo amico vuole scoparmi in culo?"
+    mh "Dipende... Il tuo piccolo amico vuole scoparmi in culo?"
 
 # game/code/d11/extended/d11s03b.rpy:238
 translate italian replay_d11s03b_ddcbdec4:

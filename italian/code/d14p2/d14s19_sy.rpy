@@ -58,7 +58,7 @@ translate italian d14s19_sy_ee3b8bb1:
 translate italian d14s19_sy_f355bc8a:
 
     # sy "Even though we've done a lot of teasing, I just didn't think this would ever happen."
-    sy "Anche se ci abbiamo sempre scherzato sopra, non pensavo che sarebbe mai successo.”
+    sy "Anche se ci abbiamo sempre scherzato sopra, non pensavo che sarebbe mai successo."
 
 # game/code/d14p2/d14s19_sy.rpy:154
 translate italian d14s19_sy_7aff92b9:
@@ -70,7 +70,7 @@ translate italian d14s19_sy_7aff92b9:
 translate italian d14s19_sy_bbd883ae:
 
     # sy "Listen. I had this whole routine worked out in my head. I had to be wearing that perfect outfit."
-    sy "Ascolta. Mi ero già immaginata tutta la scena. Avrei dovuto indossare l’abito perfetto.”
+    sy "Ascolta. Mi ero già immaginata tutta la scena. Avrei dovuto indossare l’abito perfetto."
 
 # game/code/d14p2/d14s19_sy.rpy:158
 translate italian d14s19_sy_8909cb3f:
@@ -190,7 +190,7 @@ translate italian d14s19_sy_0a8be510:
 translate italian d14s19_sy_d7c7153a:
 
     # mc "I have to tell you - I've been fantasizing about this."
-    mc “Ma devo confessarti che anche io ci ho fantasticato sopra."
+    mc "Ma devo confessarti che anche io ci ho fantasticato sopra."
 
 # game/code/d14p2/d14s19_sy.rpy:207
 translate italian d14s19_sy_4163fac9:
@@ -268,7 +268,7 @@ translate italian d14s19_sy_cum_5290ef72:
 translate italian d14s19_sy_cum_65ce8912:
 
     # sy "Yeah? {w}So, what are you going to do about it?"
-    sy "Sì? {w}Quindi, cosa vorresti fare?”
+    sy "Sì? {w}Quindi, cosa vorresti fare?"
 
 # game/code/d14p2/d14s19_sy.rpy:794
 translate italian d14s19_sy_cum_b737f2af:
@@ -448,13 +448,13 @@ translate italian d14s19_sy_end_fb72c464:
 translate italian d14s19_sy_end_364f645a:
 
     # sy "I love you too. Even before this. I dream about our wedding."
-    sy "Anche io ti amo. Ti ho amato anche prima di tutto questo. Ho sempre sognato il nostro matrimonio.” 
+    sy "Anche io ti amo. Ti ho amato anche prima di tutto questo. Ho sempre sognato il nostro matrimonio."
 
 # game/code/d14p2/d14s19_sy.rpy:906
 translate italian d14s19_sy_end_1032e0f1:
 
     # sy "I know exactly what I'll wear. It'll be a custom gown, but I know how to sew it myself."
-    sy "So esattamente cosa indosserò. Sarà un abito su misura, e so come cucirmelo da sola.”
+    sy "So esattamente cosa indosserò. Sarà un abito su misura, e so come cucirmelo da sola."
 
 # game/code/d14p2/d14s19_sy.rpy:908
 translate italian d14s19_sy_end_55310c42:
@@ -472,7 +472,7 @@ translate italian d14s19_sy_end_83233e41:
 translate italian d14s19_sy_end_78e953fe:
 
     # sy "In my dream, my bridesmaids all made their own dresses. I wear white. They each wear a different primary color."
-    sy "Nel mio sogno, le mie damigelle si sono fatte tutte il vestito da sole. Io indosso un vestito bianco, mentre ognuna di loro indossa un colore primario diverso.”
+    sy "Nel mio sogno, le mie damigelle si sono fatte tutte il vestito da sole. Io indosso un vestito bianco, mentre ognuna di loro indossa un colore primario diverso."
 
 # game/code/d14p2/d14s19_sy.rpy:915
 translate italian d14s19_sy_end_7129dea6:
@@ -640,7 +640,7 @@ translate italian d14s19_sy_end_67a387f5:
 translate italian d14s19_sy_end_87132b4b:
 
     # sy "That's the great thing about dreams... they're not real."
-    sy "È questa la cosa bella dei sogni… non sono reali."
+    sy "È questa la cosa bella dei sogni... non sono reali."
 
 # game/code/d14p2/d14s19_sy.rpy:989
 translate italian d14s19_sy_end_b7898877:
@@ -1006,7 +1006,7 @@ translate italian strings:
 translate italian d14s19_sy_a0433917:
 
     # sy "And you're my brother. {w}I'm still going to fuck you senseless."
-    sy “E tu sei mio fratello. {w}E comunque ti scoperò fino all’inverosimile.”
+    sy "E tu sei mio fratello. {w}E comunque ti scoperò fino all’inverosimile."
 
 # game/code/d14p2/d14s19_sy.rpy:203
 translate italian d14s19_sy_c8c947dc:
@@ -1096,7 +1096,7 @@ translate italian d14s19_sy_eggchair_8f509d9d:
 translate italian d14s19_sy_eggchair_3f723ff0:
 
     # mc "I want this night to go on forever!"
-    mc “Vorrei che questa notte non finisca mai!"
+    mc "Vorrei che questa notte non finisca mai!"
 
 # game/code/d14p2/d14s19_sy.rpy:445
 translate italian d14s19_sy_eggchair_c672076c:
@@ -1138,7 +1138,7 @@ translate italian d14s19_sy_desk_1c8a2165:
 translate italian d14s19_sy_desk_d024015c:
 
     # mc "You're getting everything I have!"
-    mc "Stai prendendo tutto quello che ho!”
+    mc "Stai prendendo tutto quello che ho!"
 
 # game/code/d14p2/d14s19_sy.rpy:570
 translate italian d14s19_sy_floor_bcacb5e0:

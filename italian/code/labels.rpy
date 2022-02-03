@@ -342,7 +342,7 @@ translate italian after_credits_e8a80a14:
 translate italian after_credits_d749c296:
 
     # "{color=#f93737}Zemfira{/color}" "Hey, I was just changing when they opened... And stop bossing us around! We aren't on your volleyball team!"
-    "{color=#f93737}Zemfira{/color}" "Ehi, mi stavo cambiando quando hanno aperto… E smettila di darci ordini! Non siamo nella tua squadra di pallavolo!"
+    "{color=#f93737}Zemfira{/color}" "Ehi, mi stavo cambiando quando hanno aperto... E smettila di darci ordini! Non siamo nella tua squadra di pallavolo!"
 
 # game/code/labels.rpy:195
 translate italian after_credits_d6e2149b:
@@ -384,7 +384,7 @@ translate italian after_credits_1aef1189:
 translate italian after_credits_48896586:
 
     # dd "I have no idea... Come here!"
-    dd "Non ne ho idea… Vieni qui!"
+    dd "Non ne ho idea... Vieni qui!"
 
 # game/code/labels.rpy:211
 translate italian after_credits_f5cfef90:
@@ -396,7 +396,7 @@ translate italian after_credits_f5cfef90:
 translate italian after_credits_dc4bfcb4:
 
     # dd "Not really... We are off the script, off canon, and off the timeline."
-    dd "Non proprio… Non abbiamo un copione, siamo fuori dai canoni e fuori dalla linea temporale."
+    dd "Non proprio... Non abbiamo un copione, siamo fuori dai canoni e fuori dalla linea temporale."
 
 # game/code/labels.rpy:215
 translate italian after_credits_ea09095a:

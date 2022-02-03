@@ -190,7 +190,7 @@ translate italian d14s19_lc_8fb63946:
 translate italian d14s19_lc_2272fe3b:
 
     # mc "Has anyone ever touched you down... there?"
-    mc "Qualcuno ti ha mai toccata… lì?"
+    mc "Qualcuno ti ha mai toccata... lì?"
 
 # game/code/d14p2/d14s19_lc.rpy:90
 translate italian d14s19_lc_7f7ee9d6:

@@ -196,7 +196,7 @@ translate italian d14s16_765f2df7:
 translate italian d14s16_19ca7d92:
 
     # arj "But it's more your party than mine. It's your house, your stuff..."
-    arj "Ma è più la tua festa che la mia. È la tua casa, la tua roba…"
+    arj "Ma è più la tua festa che la mia. È la tua casa, la tua roba..."
 
 # game/code/d14p2/d14s16.rpy:71
 translate italian d14s16_aecb66a5:
@@ -274,7 +274,7 @@ translate italian d14s16_6494f337:
 translate italian d14s16_b4f89bbf:
 
     # lc "Okay, I might have said that... or something like that. But that wasn't my fault."
-    lc "Okay, forse l’ho detta… o qualcosa del genere. Ma non è colpa mia."
+    lc "Okay, forse l’ho detta... o qualcosa del genere. Ma non è colpa mia."
 
 # game/code/d14p2/d14s16.rpy:98
 translate italian d14s16_ed896f7f:
@@ -322,7 +322,7 @@ translate italian d14s16_817719d6:
 translate italian d14s16_db0e8938:
 
     # arj "I thought of this as your party, because it's your house and..."
-    arj "Ho pensato a questa come la tua festa, perché è la tua casa e…"
+    arj "Ho pensato a questa come la tua festa, perché è la tua casa e..."
 
 # game/code/d14p2/d14s16.rpy:111
 translate italian d14s16_6c5b859e:
@@ -466,7 +466,7 @@ translate italian d14s16_48569549:
 translate italian d14s16_4207b7ec:
 
     # lc "You made me look like a cuckquean and a fool. I'm supposed to know who you're... getting physical with."
-    lc "Mi hai fatto fare la figura della cornuta e della scema. Dovrei sapere con chi stai… fisicamente."
+    lc "Mi hai fatto fare la figura della cornuta e della scema. Dovrei sapere con chi stai... fisicamente."
 
 # game/code/d14p2/d14s16.rpy:157
 translate italian d14s16_50c21a14:

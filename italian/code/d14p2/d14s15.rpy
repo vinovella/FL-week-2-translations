@@ -4,7 +4,7 @@
 translate italian d14s15_fc6e4a25:
 
     # sb "Even in my job... I didn't participate in anything like that before."
-    sb "Persino nel mio lavoro… Non ho mai partecipato a niente del genere prima d’ora."
+    sb "Persino nel mio lavoro... Non ho mai partecipato a niente del genere prima d’ora."
 
 # game/code/d14p2/d14s15.rpy:15
 translate italian d14s15_a4b2e09e:
@@ -322,7 +322,7 @@ translate italian d14s15_ee87e6f3:
 translate italian d14s15_0654544d:
 
     # dw "Daisy told me that I... {w}\"owe you\" an apology."
-    dw "Daisy mi ha detto che… {w}\"ti devo\" delle scuse."
+    dw "Daisy mi ha detto che... {w}\"ti devo\" delle scuse."
 
 # game/code/d14p2/d14s15.rpy:120
 translate italian d14s15_05500ff6_1:
@@ -382,7 +382,7 @@ translate italian d14s15_7cee867d:
 translate italian d14s15_6d431422:
 
     # dw "That's what I wanted to talk to you about. How we can do more things that you enjoy, and less... stuff like that."
-    dw "È di questo che volevo parlarti. Come potremmo fare più cose che ti piacciono e meno… cose del genere."
+    dw "È di questo che volevo parlarti. Come potremmo fare più cose che ti piacciono e meno... cose del genere."
 
 # game/code/d14p2/d14s15.rpy:138
 translate italian d14s15_440966e2:
@@ -436,7 +436,7 @@ translate italian d14s15_ed42ef3b:
 translate italian d14s15_d303ec3b:
 
     # dw "I know what I get out of our relationship. I'm wondering... what's in it for you?"
-    dw "Io so cosa ottengo dalla nostra relazione. Ma mi chiedo… cosa ci guadagni tu?"
+    dw "Io so cosa ottengo dalla nostra relazione. Ma mi chiedo... cosa ci guadagni tu?"
 
 # game/code/d14p2/d14s15.rpy:159
 translate italian d14s15_133f4d03:

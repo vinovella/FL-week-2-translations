@@ -29,7 +29,7 @@ translate italian d08s09_83cbdbe2:
 
 
     # jf "Hey, that was fast... I'll unlock the door, but please wait a minute before you come in.{w}.. Or count to three or something."
-    jf "Ehi, hai fatto subito… Ti aprirò la porta, ma per favore aspetta un minuto prima di entrare.{w}.. O conta fino a tre, che ti devo dire."
+    jf "Ehi, hai fatto subito... Ti aprirò la porta, ma per favore aspetta un minuto prima di entrare.{w}.. O conta fino a tre, che ti devo dire."
 
 
 # game/code/d08/extended/d08s09.rpy:50
@@ -140,7 +140,7 @@ translate italian replay_d08s09_cc3e0617:
 
 
     # jf "HA... You fool! Do you know nothing? The Laxicore mesh is bonded to my skin! HA HA!"
-    jf "AH… Babbeo! Non sai proprio niente? La maglia di Laxicore è incollata alla mia pelle! AH AH!"
+    jf "AH... Babbeo! Non sai proprio niente? La maglia di Laxicore è incollata alla mia pelle! AH AH!"
 
 
 # game/code/d08/extended/d08s09.rpy:99
@@ -284,7 +284,7 @@ translate italian replay_d08s09_f74c6248:
 
 
     # jf "But a guy from Belgium who had seen my stuff online commissioned the suit... said it was for his girlfriend."
-    jf "Un tizio dal Belgio che ha visto la mia roba online mi ha commissionato il costume… dicendo che era per la sua ragazza."
+    jf "Un tizio dal Belgio che ha visto la mia roba online mi ha commissionato il costume... dicendo che era per la sua ragazza."
 
 
 # game/code/d08/extended/d08s09.rpy:216
@@ -348,7 +348,7 @@ translate italian replay_d08s09_5393e073:
 
 
     # mc "Oh shit...yeah, well that is like $2300 in cost! How long did it take you to make?"
-    mc "Merda… sì, beh, hai pagato tipo $2300! E quanto ti ci è voluto?"
+    mc "Merda... sì, beh, hai pagato tipo $2300! E quanto ti ci è voluto?"
 
 
 # game/code/d08/extended/d08s09.rpy:231
@@ -412,7 +412,7 @@ translate italian replay_d08s09_cbdd5c3f:
 
 
     # jf "A lot of these guys have a thing for the girls in comics, superhero movies, games...whatever"
-    jf "Molti di questi ragazzi hanno un debole per le ragazze dei fumetti, supereroine dei film, dei giochi… o che sia"
+    jf "Molti di questi ragazzi hanno un debole per le ragazze dei fumetti, supereroine dei film, dei giochi... o che sia"
 
 
 # game/code/d08/extended/d08s09.rpy:243
@@ -436,7 +436,7 @@ translate italian replay_d08s09_ebafc7f4:
 
 
     # jf "Pretty much... Except they like to try to smell it, lick the crotch, and other stuff..."
-    jf "Più o meno… Tranne che a loro piace annusarlo, leccare le parti basse e altre cose…"
+    jf "Più o meno... Tranne che a loro piace annusarlo, leccare le parti basse e altre cose..."
 
 
 # game/code/d08/extended/d08s09.rpy:248
@@ -460,7 +460,7 @@ translate italian replay_d08s09_3a942c9f:
 
 
     # jf "Pretty much. All I have to do now is take a couple of pics of me in the suit and ship it out... done!"
-    jf "Diciamo. Tutto quello che devo fare ora è scattare qualche foto in costume e inviarlo… e ho finito!"
+    jf "Diciamo. Tutto quello che devo fare ora è scattare qualche foto in costume e inviarlo... e ho finito!"
 
 
 # game/code/d08/extended/d08s09.rpy:257
@@ -468,7 +468,7 @@ translate italian replay_d08s09_60c65bb7:
 
 
     # mc "Wait.. a minute... hold on. You haven't sent him pictures of you in the suit yet?"
-    mc "Aspetta… un attimo... aspetta. Non gli hai ancora mandato le foto in costume?"
+    mc "Aspetta... un attimo... aspetta. Non gli hai ancora mandato le foto in costume?"
 
 
 # game/code/d08/extended/d08s09.rpy:259
@@ -500,7 +500,7 @@ translate italian replay_d08s09_158fbf49:
 
 
     # mc "Alright... See if he is online. Text him or email him right now."
-    mc "Va bene… vedi se è online. Mandagli subito un messaggio o una email."
+    mc "Va bene... vedi se è online. Mandagli subito un messaggio o una email."
 
 
 # game/code/d08/extended/d08s09.rpy:265
@@ -556,7 +556,7 @@ translate italian replay_d08s09_d3368a98:
 
 
     # jf "What? No... I've got that photo shoot setup over there, and a nice camera, I am not just gonna take pictures of all my hard work with a crappy cell phone."
-    jf "Cosa? No… ho quel setup lì per il servizio fotografico, con una bella fotocamera. Non vado a scattare una foto del mio duro lavoro con un telefono di merda."
+    jf "Cosa? No... ho quel setup lì per il servizio fotografico, con una bella fotocamera. Non vado a scattare una foto del mio duro lavoro con un telefono di merda."
 
 
 # game/code/d08/extended/d08s09.rpy:279
@@ -588,7 +588,7 @@ translate italian replay_d08s09_d3d62a4c:
 
 
     # mc "Look, you are already in the red on this project. I think I can help you. I've got an idea..."
-    mc "Guarda, già sei in rosso con questo progetto. Penso di poterti aiutare. Ho un’idea…"
+    mc "Guarda, già sei in rosso con questo progetto. Penso di poterti aiutare. Ho un’idea..."
 
 
 # game/code/d08/extended/d08s09.rpy:286
@@ -604,7 +604,7 @@ translate italian replay_d08s09_fa045586:
 
 
     # mc "Agreed. Just, please give me your phone and do what I...I mean, cooperate with me? Please?"
-    mc "D’accordo. Ora dammi il tuo telefono e fai quello che ti… cioè, collabora con me, per favore?"
+    mc "D’accordo. Ora dammi il tuo telefono e fai quello che ti... cioè, collabora con me, per favore?"
 
 
 # game/code/d08/extended/d08s09.rpy:289
@@ -612,7 +612,7 @@ translate italian replay_d08s09_5d9cdf46:
 
 
     # mc "OK, we want this to look spontaneous, so we are not going to use your photo studio...yet."
-    mc "OK, vogliamo che sia spontaneo, non useremo ancora il tuo setup per il servizio…"
+    mc "OK, vogliamo che sia spontaneo, non useremo ancora il tuo setup per il servizio..."
 
 
 # game/code/d08/extended/d08s09.rpy:291
@@ -684,7 +684,7 @@ translate italian replay_d08s09_c7a60e24:
 
 
     # mc "Excellent... Now tell him, your deal was for the costume. The costume is finished and you are ready to ship. Pictures are extra."
-    mc "Eccellente… Ora digli che l’accordo era per il costume. Il costume è finito e sei pronta a spedirglielo. Le foto sono extra."
+    mc "Eccellente... Ora digli che l’accordo era per il costume. Il costume è finito e sei pronta a spedirglielo. Le foto sono extra."
 
 # game/code/d08/extended/d08s09.rpy:314
 translate italian replay_d08s09_929654c3:
@@ -827,7 +827,7 @@ translate italian replay_d08s09_22c3778e:
 
 
     # mc "I know so... Now, we just gotta think how to make bank on this."
-    mc "Lo so per certo… Ora dobbiamo solo pensare a come guadagnarci di più."
+    mc "Lo so per certo... Ora dobbiamo solo pensare a come guadagnarci di più."
 
 # game/code/d08/extended/d08s09.rpy:349
 translate italian replay_d08s09_b95d1f00:
@@ -858,7 +858,7 @@ translate italian replay_d08s09_52de73c2:
 
 
     # mc "SUBMIT TO THE DEFILER... I HAVE CONQUERED YOU, AND NOW YOU ARE MY CAPTIVE!"
-    mc "SOTTOMETTITI AL PROFANATORE… TI HO CONQUISTATO E ORA SEI MIA PRIGIONIERA!"
+    mc "SOTTOMETTITI AL PROFANATORE... TI HO CONQUISTATO E ORA SEI MIA PRIGIONIERA!"
 
 
 # game/code/d08/extended/d08s09.rpy:359

@@ -346,7 +346,7 @@ translate italian d14s12_vw_caught_43fcb688:
 translate italian d14s12_vw_caught_967ccba8:
 
     # vw "I can't even...look at you right now."
-    vw "Non posso neanche… guardarti così come sei."
+    vw "Non posso neanche... guardarti così come sei."
 
 # game/code/d14p2/d14s12.rpy:353
 translate italian d14s12_vw_caught_d2274d2b:
@@ -418,7 +418,7 @@ translate italian d14s12_vw_caught_3394c342:
 translate italian d14s12_vw_caught_caac0d02:
 
     # vw "I'm...her mother."
-    vw "Io… sono sua madre."
+    vw "Io... sono sua madre."
 
 # game/code/d14p2/d14s12.rpy:379
 translate italian d14s12_vw_caught_cdb12aed:
@@ -430,7 +430,7 @@ translate italian d14s12_vw_caught_cdb12aed:
 translate italian d14s12_vw_caught_c6bdc28f:
 
     # mc "How did this... What?"
-    mc "Ma come… Cosa?"
+    mc "Ma come... Cosa?"
 
 # game/code/d14p2/d14s12.rpy:383
 translate italian d14s12_vw_caught_3895733c:
@@ -460,7 +460,7 @@ translate italian d14s12_vw_caught_ebf9e68e:
 translate italian d14s12_vw_caught_66ac7085:
 
     # vw "Allison was my life. She was the only thing I had left in this...this shitty, unfair world."
-    vw "Allison era la mia vita. Era l’unica cosa che avevo in questo… questo mondo merdoso e ingiusto."
+    vw "Allison era la mia vita. Era l’unica cosa che avevo in questo... questo mondo merdoso e ingiusto."
 
 # game/code/d14p2/d14s12.rpy:391
 translate italian d14s12_vw_caught_fe6eaa43:
@@ -472,13 +472,13 @@ translate italian d14s12_vw_caught_fe6eaa43:
 translate italian d14s12_vw_caught_7f7948c8:
 
     # vw "Her mother was...not well."
-    vw "Sua madre… non stava bene."
+    vw "Sua madre... non stava bene."
 
 # game/code/d14p2/d14s12.rpy:395
 translate italian d14s12_vw_caught_4091ea38:
 
     # vw "I went to them to take care of them while they were going through...everything that happened."
-    vw "Io mi stavo prendendo cura di loro mentre stavano attraversando… tutto quello che è successo."
+    vw "Io mi stavo prendendo cura di loro mentre stavano attraversando... tutto quello che è successo."
 
 # game/code/d14p2/d14s12.rpy:396
 translate italian d14s12_vw_caught_c43a927b:
@@ -490,7 +490,7 @@ translate italian d14s12_vw_caught_c43a927b:
 translate italian d14s12_vw_caught_693adc88:
 
     # vw "But...I've hurt her. And now I don't know what to do anymore. I don't know how to not hurt her."
-    vw "Ma… l’ho ferita. E ora non so più che fare. Non so come non ferirla."
+    vw "Ma... l’ho ferita. E ora non so più che fare. Non so come non ferirla."
 
 # game/code/d14p2/d14s12.rpy:399
 translate italian d14s12_vw_caught_64c2bac3:
@@ -502,13 +502,13 @@ translate italian d14s12_vw_caught_64c2bac3:
 translate italian d14s12_vw_caught_d360e90a:
 
     # vw "She means so much to me... I lost her once, I don't want to lose her again."
-    vw "Lei mi è molto cara… l’ho persa una volta, e non voglio perderla di nuovo."
+    vw "Lei mi è molto cara... l’ho persa una volta, e non voglio perderla di nuovo."
 
 # game/code/d14p2/d14s12.rpy:403
 translate italian d14s12_vw_caught_7907cd4a:
 
     # mc "If I'm not intruding, what made you two...like this, anyway?"
-    mc "Scusa se mi intrometto, ma perché ora siete… così?"
+    mc "Scusa se mi intrometto, ma perché ora siete... così?"
 
 # game/code/d14p2/d14s12.rpy:404
 translate italian d14s12_vw_caught_3e63b28c:
@@ -538,7 +538,7 @@ translate italian d14s12_vw_caught_03ae59eb:
 translate italian d14s12_vw_caught_e34a965b:
 
     # vw "But... All I did was push her away."
-    vw "Ma… sono solo riuscita ad allontanarla."
+    vw "Ma... sono solo riuscita ad allontanarla."
 
 # game/code/d14p2/d14s12.rpy:412
 translate italian d14s12_vw_caught_3522a4d7:
@@ -592,7 +592,7 @@ translate italian d14s12_vw_caught_4c2200a4:
 translate italian d14s12_vw_caught_f67d9a35:
 
     # vw "That means...so much to me, [mcname]."
-    vw "Significa… molto per me, [mcname]."
+    vw "Significa... molto per me, [mcname]."
 
 # game/code/d14p2/d14s12.rpy:429
 translate italian d14s12_vw_caught_0c7b4226:

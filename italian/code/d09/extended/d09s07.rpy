@@ -928,7 +928,7 @@ translate italian d09s07_end_31ef3229:
 translate italian d09s07_end_94ad559a:
 
     # jdg "I... what?"
-    jdg "Io… cosa?"
+    jdg "Io... cosa?"
 
 # game/code/d09/extended/d09s07.rpy:480
 translate italian d09s07_end_57a22681:
@@ -1240,7 +1240,7 @@ translate italian d09s07_phone_0e1f8891:
 translate italian d09s07_phone_da3f967a:
 
     # mct "Now... Do I have two?"
-    mct "Ora… Ne ho due?"
+    mct "Ora... Ne ho due?"
 
 # game/code/d09/extended/d09s07.rpy:606
 translate italian d09s07_phone_30ac6b4b:
@@ -1330,7 +1330,7 @@ translate italian d09s07_sb_talk_4eef0325:
 translate italian d09s07_sb_talk_a962938d:
 
     # sb "You... fucking asshole... Damn it!!!"
-    sb "Tu… fottuto stronzo… maledetto!!!"
+    sb "Tu... fottuto stronzo... maledetto!!!"
 
 # game/code/d09/extended/d09s07.rpy:655
 translate italian d09s07_sb_talk_97d05294:

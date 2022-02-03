@@ -238,7 +238,7 @@ translate italian d14s19_1ba3c761:
 translate italian d14s19_e5adfc0e:
 
     # mct "I must have fucked at least 20 people by now... right?"
-    mct "Devo aver scopato almeno 20 persone… no?"
+    mct "Devo aver scopato almeno 20 persone... no?"
 
 # game/code/d14p2/d14s19.rpy:92
 translate italian d14s19_fa939c48:
