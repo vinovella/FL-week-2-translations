@@ -4,19 +4,19 @@ translate italian strings:
 
     # game/code/data/prologue.rpy:14
     old "Scintillating Stacy"
-    new "Scintillating Stacy"
+    new "Stacy la scintillante"
 
     # game/code/data/prologue.rpy:14
     old "Playful Polly"
-    new "Playful Polly"
+    new "Polly la giocosa"
 
     # game/code/data/prologue.rpy:14
     old "The pink-haired pansexual exhibitionist"
-    new "The pink-haired pansexual exhibitionist"
+    new "L'esibizionista pansessuale dai capelli rosa"
 
     # game/code/data/prologue.rpy:14
     old "Voluptuous Vanessa"
-    new "Voluptuous Vanessa"
+    new "Vanessa la voluttuosa"
 
     # game/code/data/prologue.rpy:14
     old "The M.I.L.F."
@@ -24,83 +24,83 @@ translate italian strings:
 
     # game/code/data/prologue.rpy:14
     old "Charming Chloe"
-    new "Charming Chloe"
+    new "Chloe l'affascinante"
 
     # game/code/data/prologue.rpy:14
     old "The village bicycle"
-    new "The village bicycle"
+    new "La bicicletta del villaggio"
 
     # game/code/data/prologue.rpy:14
     old "Jovial Jessie"
-    new "Jovial Jessie"
+    new "Jessie la gioviale"
 
     # game/code/data/prologue.rpy:14
     old "The cosplayer extraordinaire"
-    new "The cosplayer extraordinaire"
+    new "La cosplayer straordinaria"
 
     # game/code/data/prologue.rpy:14
     old "Magnificent Min"
-    new "Magnificent Min"
+    new "Min la magnifica"
 
     # game/code/data/prologue.rpy:14
     old "Obsessed with winning & watersports"
-    new "Obsessed with winning & watersports"
+    new "L'ossessionata dalla vittoria e dagli sport acquatici"
 
     # game/code/data/prologue.rpy:14
     old "Lovely Lyssa"
-    new "Lovely Lyssa"
+    new "Lyssa l'adorabile"
 
     # game/code/data/prologue.rpy:14
     old "The sexy lawyer with a secret surprise"
-    new "The sexy lawyer with a secret surprise"
+    new "L'avvocato sexy con una sorpresa segreta"
 
     # game/code/data/prologue.rpy:14
     old "Maidenly Maria"
-    new "Maidenly Maria"
+    new "Maria la pura"
 
     # game/code/data/prologue.rpy:14
     old "The creep stalker lesbian"
-    new "The creep stalker lesbian"
+    new "La lesbica stalker inquietante"
 
     # game/code/data/prologue.rpy:14
     old "Delicious Daisy"
-    new "Delicious Daisy"
+    new "Daisy la deliziosa"
 
     # game/code/data/prologue.rpy:14
     old "The submissive free spirit"
-    new "The submissive free spirit"
+    new "Lo spirito libero sottomesso"
 
     # game/code/data/prologue.rpy:14
     old "Dazzling Dahlia"
-    new "Dazzling Dahlia"
+    new "Dahlia l'abbagliante"
 
     # game/code/data/prologue.rpy:14
     old "The dominatrix"
-    new "The dominatrix"
+    new "La dominatrice"
 
     # game/code/data/prologue.rpy:32
     old "Cumshot"
-    new "Cumshot"
+    new "Schizzi"
 
     # game/code/data/prologue.rpy:32
     old "Creampie"
-    new "Creampie"
+    new "Sborrata"
 
     # game/code/data/prologue.rpy:32
     old "Enema"
-    new "Enema"
+    new "Clistere"
 
     # game/code/data/prologue.rpy:32
     old "Watersports"
-    new "Watersports"
+    new "Sport acquatici"
 
     # game/code/data/prologue.rpy:32
     old "Footfetish"
-    new "Footfetish"
+    new "Feticismo dei piedi"
 
     # game/code/data/prologue.rpy:32
     old "Anal play"
-    new "Anal play"
+    new "Giochi anali"
 
     # game/code/data/prologue.rpy:32
     old "Pegging"
