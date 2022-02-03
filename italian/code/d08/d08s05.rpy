@@ -1229,5 +1229,5 @@ translate italian d08s05_dd_1512a6e1:
 translate italian d08s05_b4dc6ce9:
 
     # sy "So... What's the plan?"
-    sy "So... What's the plan?"
+    sy "Quindi... Qual è il piano?"
 
