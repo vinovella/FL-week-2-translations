@@ -182,15 +182,15 @@ translate italian strings:
 translate italian prologue_nora_creampie_fcd0a635:
 
     # "We see you like a little extra cream in your pie. Did you cum in Nora in Week One?"
-    "We see you like a little extra cream in your pie. Did you cum in Nora in Week One?"
+    "Sembra che ti sia piaciuto aggiungere un po' di panna extra alla torta. Sei venuto dentro Nora nella Prima Settimana?"
 
 translate italian strings:
 
     # game/code/d08/prologue.rpy:186
     old "Yes, I came in her and got thrown out"
-    new "Yes, I came in her and got thrown out"
+    new "Sì, sono venuto dentro di lei e lei mi ha buttato fuori"
 
     # game/code/d08/prologue.rpy:186
     old "No, I didn't"
-    new "No, I didn't"
+    new "No, non l'ho fatto"
 
