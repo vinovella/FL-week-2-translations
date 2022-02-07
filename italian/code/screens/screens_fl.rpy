@@ -121,3 +121,15 @@ translate italian strings:
     # game/code/screens/screens_fl.rpy:232
     old "Unnamed End Game Save"
     new "Salvataggio di fine partita senza nome"
+
+# TODO: Translation updated at 2022-02-07 22:58
+
+translate italian strings:
+
+    # game/code/screens/screens_fl.rpy:539
+    old "Go back and enable {b}Watersports{/b} fetish to be able to select Min"
+    new "Go back and enable {b}Watersports{/b} fetish to be able to select Min"
+
+    # game/code/screens/screens_fl.rpy:570
+    old "Go back and enable {b}Trans Content{/b} to be able to select Lyssa"
+    new "Go back and enable {b}Trans Content{/b} to be able to select Lyssa"

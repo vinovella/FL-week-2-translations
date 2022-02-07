@@ -122,3 +122,11 @@ translate deutsch strings:
     old "The close childhood friend"
     new "The close childhood friend"
 
+# TODO: Translation updated at 2022-02-07 22:57
+
+translate deutsch strings:
+
+    # game/code/data/prologue.rpy:34
+    old "Trans Content"
+    new "Trans Content"
+

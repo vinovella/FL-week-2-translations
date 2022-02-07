@@ -121,3 +121,11 @@ translate chinese strings:
     # game/code/data/prologue.rpy:50
     old "Not_Mike"
     new "不是_迈克"
+# TODO: Translation updated at 2022-02-07 22:56
+
+translate chinese strings:
+
+    # game/code/data/prologue.rpy:34
+    old "Trans Content"
+    new "Trans Content"
+

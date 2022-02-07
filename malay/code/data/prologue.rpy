@@ -122,3 +122,11 @@ translate malay strings:
     old "Not_Mike"
     new "Bukan_Mike"
 
+# TODO: Translation updated at 2022-02-07 22:59
+
+translate malay strings:
+
+    # game/code/data/prologue.rpy:34
+    old "Trans Content"
+    new "Trans Content"
+

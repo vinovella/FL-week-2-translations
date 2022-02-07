@@ -121,3 +121,11 @@ translate spanish strings:
     # game/code/data/prologue.rpy:50
     old "Not_Mike"
     new "Not_Mike"
+# TODO: Translation updated at 2022-02-07 22:59
+
+translate spanish strings:
+
+    # game/code/data/prologue.rpy:34
+    old "Trans Content"
+    new "Trans Content"
+

@@ -122,3 +122,11 @@ translate portuguese strings:
     old "Not_Mike"
     new "Not_Mike"
 
+# TODO: Translation updated at 2022-02-07 23:00
+
+translate portuguese strings:
+
+    # game/code/data/prologue.rpy:34
+    old "Trans Content"
+    new "Trans Content"
+
