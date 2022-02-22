@@ -736,7 +736,7 @@ translate deutsch replay_d11s07_fb0e434d:
 translate deutsch replay_d11s07_5cf5bb0c:
 
     # arj "Please do."
-    arj "Bitte
+    arj "Bitte."
 
 # game/code/d11/d11s07.rpy:269
 translate deutsch replay_d11s07_9e268a00:
@@ -1065,4 +1065,3 @@ translate deutsch strings:
     # game/code/d11/d11s07.rpy:362
     old "Kiss AmRose on the Neck"
     new "Küss AmRose auf den Nacken"
-
