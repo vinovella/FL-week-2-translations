@@ -16,7 +16,7 @@ translate malay prologue_fresh_start_1b390ae3:
 translate malay prologue_fresh_start_1aa77e92:
 
     # "We see that you have already completed the first chapter. If you want to keep playing with all your game progress intact, open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/b6CNu2C}Discord{/a}."
-    "We see that you have already completed the first chapter. If you want to keep playing with all your game progress intact, open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/b6CNu2C}Discord{/a}."
+    "Kami melihat bahawa anda telah menyelesaikan bab pertama. Jika anda ingin terus bermain dengan semua kemajuan permainan anda secara utuh, buka menu, klik \"Teruskan dari minggu [FLSS.week.prev]\" dan muatkan simpanan.\nJika anda mengalami sebarang masalah, sila hubungi kami di {a=https://discord.gg/b6CNu2C}Discord{/a}."
 
 # game/code/d08/prologue.rpy:65
 translate malay prologue_fresh_start_16da65c2:
@@ -190,15 +190,23 @@ translate malay strings:
 translate malay prologue_nora_creampie_fcd0a635:
 
     # "We see you like a little extra cream in your pie. Did you cum in Nora in Week One?"
-    "We see you like a little extra cream in your pie. Did you cum in Nora in Week One?"
+    "Kami melihat anda seperti sedikit krim tambahan dalam pai anda. Adakah anda memancut dalam Nora di Minggu Pertama?"
 
 translate malay strings:
 
     # game/code/d08/prologue.rpy:186
     old "Yes, I came in her and got thrown out"
-    new "Yes, I came in her and got thrown out"
+    new "Ya, saya pancut dan dihalau"
 
     # game/code/d08/prologue.rpy:186
     old "No, I didn't"
-    new "No, I didn't"
+    new "Tak, saya tidak"
+
+# TODO: Translation updated at 2022-02-07 22:59
+
+# game/code/d08/prologue.rpy:121
+translate malay prologue_fetishes_7bc3a4e5:
+
+    # "It's time to choose your preferences.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many as you want and press \"Done\"."
+    "It's time to choose your preferences.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many as you want and press \"Done\"."
 

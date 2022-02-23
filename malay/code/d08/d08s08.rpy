@@ -400,7 +400,7 @@ translate malay d08s08_91a2952a:
 translate malay d08s08_a219675a:
 
     # pb "Dude, what are you thinking about?"
-    pb "Dude, what are you thinking about?"
+    pb "Kawan, apa yang kau fikirkan?"
 
 # game/code/d08/d08s08.rpy:168
 translate malay d08s08_0271b8e6:

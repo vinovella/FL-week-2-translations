@@ -148,7 +148,7 @@ translate italian d08s07_3fcb50fb:
 translate italian d08s07_64983e45:
 
     # mct "Seems like Lydia just got here as well."
-    mct "Seems like Lydia just got here as well."
+    mct "Sembra che anche Lydia sia appena arrivata."
 
 # game/code/d08/d08s07.rpy:54
 translate italian d08s07_c10a1144:

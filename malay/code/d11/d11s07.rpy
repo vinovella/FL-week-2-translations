@@ -166,7 +166,7 @@ translate malay d11s07_3dac43a7:
 translate malay d11s07_f5e5c079:
 
     # lc "Were you involved?"
-    lc "Were you involved?"
+    lc "Kau terlibat dengannya?"
 
 # game/code/d11/d11s07.rpy:157
 translate malay d11s07_2fef8237:

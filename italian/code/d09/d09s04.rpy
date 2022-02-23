@@ -690,75 +690,75 @@ translate italian replay_d09s04_e4163433:
 translate italian d09s04_1629e8ef:
 
     # "Samiya brings [mcname] to a Supermarket."
-    "Samiya brings [mcname] to a Supermarket."
+    "Samiya porta [mcname] al supermercato."
 
 # game/code/d09/d09s04.rpy:29
 translate italian d09s04_364be28a:
 
     # mct "Now I have to run to meet Samiya. I hope she isn't planning anything bad."
-    mct "Now I have to run to meet Samiya. I hope she isn't planning anything bad."
+    mct "Ora devo andare subito da Samiya. Spero che non stia pianificando nulla di strano."
 
 # game/code/d09/d09s04.rpy:30
 translate italian d09s04_f8de097f:
 
     # mct "At least I can be there to save Vanessa if something happens."
-    mct "At least I can be there to save Vanessa if something happens."
+    mct "Almeno posso essere lì per salvare Vanessa semmai dovesse succedere qualcosa."
 
 # game/code/d09/d09s04.rpy:74
 translate italian d09s04_996a71c3:
 
     # mct "Should I do it?" nointeract
-    mct "Should I do it?" nointeract
+    mct "Dovrei farlo?" nointeract
 
 # game/code/d09/d09s04.rpy:82
 translate italian d09s04_8dca5345:
 
     # mc "I... I am not gonna do it."
-    mc "I... I am not gonna do it."
+    mc "Io... Non lo farò."
 
 # game/code/d09/d09s04.rpy:84
 translate italian d09s04_ebcffca4:
 
     # sb "Chicken much, huh?"
-    sb "Chicken much, huh?"
+    sb "Ti stai cagando sotto, eh?"
 
 # game/code/d09/d09s04.rpy:85
 translate italian d09s04_3fe53486:
 
     # mc "I'm... not a fan of doing it in a public place."
-    mc "I'm... not a fan of doing it in a public place."
+    mc "Io... non mi piace farlo in pubblico."
 
 # game/code/d09/d09s04.rpy:87
 translate italian d09s04_83c5ce1e:
 
     # sb "Then do something else for me."
-    sb "Then do something else for me."
+    sb "E allora fai qualcos'altro per me."
 
 # game/code/d09/d09s04.rpy:90
 translate italian d09s04_eeb3cedb:
 
     # mc "Fine. I'll be your assistant then."
-    mc "Fine. I'll be your assistant then."
+    mc "Va bene. Sarò il tuo assistente allora."
 
 # game/code/d09/d09s04.rpy:91
 translate italian d09s04_4cf5fee8:
 
     # sb "Good.{w} Meet me back at my place after 30 minutes."
-    sb "Good.{w} Meet me back at my place after 30 minutes."
+    sb "Bene.{w} Incontriamoci a casa mia tra 30 minuti."
 
 # game/code/d09/d09s04.rpy:96
 translate italian d09s04_813a3b04:
 
     # mc "I'll go with the, uh, escort mission then."
-    mc "I'll go with the, uh, escort mission then."
+    mc "Vada con la missione escort, allora."
 
 translate italian strings:
 
     # game/code/d09/d09s04.rpy:74
     old "Bail Out"
-    new "Bail Out"
+    new "Tirati indietro"
 
     # game/code/d09/d09s04.rpy:88
     old "Be a gigolo"
-    new "Be a gigolo"
+    new "Fai il gigolo"
 

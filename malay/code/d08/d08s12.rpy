@@ -298,7 +298,7 @@ translate malay d08s12_pre_mc_action_72a01c1a:
 translate malay d08s12_deny_da75052f:
 
     # mc "I love seeing your engorged penis standing at attention and begging to be touched!"
-    mc "I love seeing your engorged penis standing at attention and begging to be touched!"
+    mc "Aku suka tengok kote kau yang membesar berdiri di hadapan dan meraung meminta untuk disentuh!"
 
 # game/code/d08/d08s12.rpy:218
 translate malay d08s12_deny_b5e3f444:

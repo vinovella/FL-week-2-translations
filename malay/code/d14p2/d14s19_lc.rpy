@@ -376,7 +376,7 @@ translate malay d14s19_lc_32feec5b:
 translate malay d14s19_lc_d1365fa3:
 
     # lc "Make me your slutty whore!"
-    lc "Make me your slutty whore!"
+    lc "Jadikan aku pelacur sundal kau!"
 
 # game/code/d14p2/d14s19_lc.rpy:143
 translate malay d14s19_lc_7fdbed85:

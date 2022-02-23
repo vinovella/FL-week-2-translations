@@ -604,13 +604,13 @@ translate malay d13s05_end_d8c05cde:
 translate malay d13s05_end_b3191c78:
 
     # lc "Damn. All this liquid on her face. That all came from your dick?"
-    lc "Damn. All this liquid on her face. That all came from your dick?"
+    lc "Wow. Semua cecair ini di mukanya. Itu semua datang dari kote kau?"
 
 # game/code/d13/d13s05.rpy:405
 translate malay d13s05_end_caed92ea:
 
     # mc "That's how it works..."
-    mc "That's how it works..."
+    mc "Macam itulah ia berfungsi..."
 
 # game/code/d13/d13s05.rpy:406
 translate malay d13s05_end_a1203137:

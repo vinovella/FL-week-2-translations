@@ -806,41 +806,41 @@ translate italian strings:
 translate italian d09s05_ef5e49b3:
 
     # "After 25 minutes [mcname] arrives at Samiya's place..."
-    "After 25 minutes [mcname] arrives at Samiya's place..."
+    "Dopo 25 minuti [mcname] era arrivato a casa di Samiya..."
 
 # game/code/d09/d09s05.rpy:34
 translate italian d09s05_d5ff7835:
 
     # mct "Now I have to run back to Samiya's place. I hope this show of hers isn't anything special..."
-    mct "Now I have to run back to Samiya's place. I hope this show of hers isn't anything special..."
+    mct "Devo sbrigarmi ad andare a casa di Samiya. Spero che questo suo spettacolo non sia niente di speciale..."
 
 # game/code/d09/d09s05.rpy:534
 translate italian d09s05_end_0017e17d:
 
     # sb "You are going to work better."
-    sb "You are going to work better."
+    sb "Lavorerete insieme."
 
 # game/code/d09/d09s05.rpy:536
 translate italian d09s05_end_19b8090f:
 
     # sb "Now you will have to do something else for me if you want to get that luggage back."
-    sb "Now you will have to do something else for me if you want to get that luggage back."
+    sb "Devi fare qualcos'altro per me se vuoi riavere quella valigia."
 
 # game/code/d09/d09s05.rpy:539
 translate italian d09s05_end_dfdba905:
 
     # mc "I think I will prank the \"M.I.L.F\" then."
-    mc "I think I will prank the \"M.I.L.F\" then."
+    mc "Penso che farò uno scherzo alla \"M.I.L.F\", allora."
 
 # game/code/d09/d09s05.rpy:544
 translate italian d09s05_end_3ad4bc9c:
 
     # mc "I'll go with the escort mission then."
-    mc "I'll go with the escort mission then."
+    mc "Vada con la missione escort allora."
 
 translate italian strings:
 
     # game/code/d09/d09s05.rpy:537
     old "\"Prank a M.I.L.F.\""
-    new "\"Prank a M.I.L.F.\""
+    new "\"Fai uno scherzo alla M.I.L.F.\""
 

@@ -220,13 +220,13 @@ translate malay d09s04_41da771c:
 translate malay d09s04_7cfe6739:
 
     # mc "Actually, I've been meaning to ask you this. What exactly are you getting from this again?"
-    mc "Actually, I've been meaning to ask you this. What exactly are you getting from this again?"
+    mc "Sebenarnya, aku nak tanya perkara ini kepada kau. Apa sebenarnya yang kau dapat dari ini?"
 
 # game/code/d09/d09s04.rpy:122
 translate malay d09s04_6791f652:
 
     # sb "That's a long story I don't wanna share right now."
-    sb "Sebenarnya, aku nak tanya perkara ini kepada kau. Apa sebenarnya yang kau dapat dari ini?"
+    sb "Panjang ceritanya."
 
 # game/code/d09/d09s04.rpy:123
 translate malay d09s04_a8817c8e:

@@ -1737,4 +1737,4 @@ translate italian strings:
 translate italian d11s02_c8046555:
 
     # arj "Just a few more days... finals are coming soon."
-    arj "Just a few more days... finals are coming soon."
+    arj "Qualche giorno ancora... tra poco ci saranno gli esami."

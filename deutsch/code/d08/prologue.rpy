@@ -1,34 +1,34 @@
-﻿# TODO: Translation updated at 2020-07-30 07:17
+# TODO: Translation updated at 2020-07-30 07:17
 
 # game/code/d08/prologue.rpy:57
 translate deutsch prologue_fresh_start_4063ae17:
 
     # "Hi and welcome to Fetish Locator."
-    "Hallo und willkommen bei Fetish Locator."
+    "Hallo und willkommen beim Fetish Locator."
 
 # game/code/d08/prologue.rpy:58
 translate deutsch prologue_fresh_start_1b390ae3:
 
     # "In the second chapter of this visual novel, you will continue playing as a young college student and you'll explore love, lust and sexual fetishes with the hottest women in town."
-    "Im zweiten Kapitel dieser Visual Novel spielst du weiterhin eine jungen College-Studenten und erkundest Liebe, Lust und sexuelle Fetische mit den heißesten Frauen der Gegend."
+    "Im zweiten Kapitel dieser visuellen Novelle spielst du weiterhin einen jungen College-Studenten und erkundest Liebe, Lust und sexuelle Fetische mit den heißesten Frauen der Stadt."
 
 # game/code/d08/prologue.rpy:61
 translate deutsch prologue_fresh_start_1aa77e92:
 
     # "We see that you have already completed the first chapter. If you want to keep playing with all your game progress intact, open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/b6CNu2C}Discord{/a}."
-    "Wir sehen, dass Sie das erste Kapitel bereits abgeschlossen haben. Wenn Sie mit Ihrem gesamten Spielfortschritt weiterspielen möchten, öffnen Sie das Menü, klicken Sie auf \"Continue from week [FLSS.week.prev]\"und laden einen Spielstand.\nIf wenn du ein Problem hast, kontaktiere uns bitte unter  {a=https://discord.gg/b6CNu2C}Discord{/a}."
+    "Wir sehen, dass Sie das erste Kapitel bereits abgeschlossen haben. Wenn Sie mit Ihrem gesamten Spielfortschritt weiterspielen möchten, öffnen Sie das Menü, klicken Sie auf \"Weitermachen ab Woche [FLSS.week.prev]\"und Spielstand laden.\nIf wenn du ein Problem hast, kontaktiere uns bitte unter  {a=https://discord.gg/b6CNu2C}Discord{/a}."
 
 # game/code/d08/prologue.rpy:63
 translate deutsch prologue_fresh_start_16da65c2:
 
     # "We see that you have already completed the first chapter. If you want to keep playing with all your game progress intact, open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/b6CNu2C}Discord{/a} or on {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
-    "Wir sehen, dass Sie das erste Kapitel bereits abgeschlossen haben. Wenn Sie mit Ihrem gesamten Spielfortschritt weiterspielen möchten, öffnen Sie das Menü, klicken Sie auf \"Continue from week [FLSS.week.prev]\" und laden einen Spielstand.\nIf wenn du ein Problem hast, kontaktiere uns bitte unter  {a=https://discord.gg/b6CNu2C}Discord{/a} oder auf {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
+    "Wir sehen, dass Sie das erste Kapitel bereits abgeschlossen haben. Wenn Sie mit Ihrem gesamten Spielfortschritt weiterspielen möchten, öffnen Sie das Menü, klicken Sie auf \"Weitermachen ab Woche [FLSS.week.prev]\" und Spielstand laden.\nIf wenn du ein Problem hast, kontaktiere uns bitte unter  {a=https://discord.gg/b6CNu2C}Discord{/a} oder auf {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
 
 # game/code/d08/prologue.rpy:64
 translate deutsch prologue_fresh_start_56a763ee:
 
     # "Now the game will ask you some questions and it will configure your profile.\nFor a better experience, we invite you to play the first chapter of Fetish Locator."
-    "Jetzt wird dir das Spiel einige Fragen stellen und dein Profil konfigurieren.\nFür eine bessere Erfahrung, laden wir dich ein, das erste Kapitel von Fetish Locator zu spielen."
+    "Jetzt wird dir das Spiel einige Fragen stellen und dein Profil konfigurieren.\nFür eine bessere Erfahrung, laden wir dich ein, das erste Kapitel von Fetisch Locator zu spielen."
 
 # game/code/d08/prologue.rpy:78
 translate deutsch prologue_fresh_start_b5c6b797:
@@ -58,7 +58,7 @@ translate deutsch prologue_fresh_start_36fcdd97:
 translate deutsch prologue_girls_set_1_30dd9679:
 
     # "In the first week the main character met several beautiful girls: some can be friends with benefits or even potential love interests.\n\nClick on their portraits to select them. When finished select Done."
-    "In der ersten Woche hat die Hauptfigur mehrere schöne Mädchen kennengelernt: Einige können Freundinnen mit Zusatzleistungen oder sogar potenzielle Liebespartnerinnen sein.\n\nKlicke auf ihre Porträts, um sie auszuwählen. Wenn du fertig bist, wähle "Fertig"."
+    "In der ersten Woche hat die Hauptfigur mehrere schöne Mädchen kennengelernt: Einige können Freundinnen Plus oder sogar potenzielle Liebespartnerinnen sein.\n\nKlicke auf ihre Porträts, um sie auszuwählen. Wenn du fertig bist, wähle "Fertig"."
 
 # game/code/d08/prologue.rpy:121
 translate deutsch prologue_girls_set_1_done_922f3b6c:
@@ -70,7 +70,7 @@ translate deutsch prologue_girls_set_1_done_922f3b6c:
 translate deutsch prologue_girls_set_2_60f2d9c0:
 
     # "More girls for you! But you cannot chose all of them.\nSelect up to two girls and press Done.\n\nPS: read their description carefully ;)"
-    "Mehr Mädchen für dich! Aber du kannst nicht alle auswählen.\nWähle bis zu zwei Mädchen aus und drücke auf Fertig.\n\nPS: Lies ihre Beschreibung sorgfältig durch ;)"
+    "Mehr Mädchen für dich! Aber du kannst nicht alle auswählen.\nWähle bis zu zwei Mädchen aus und drücke auf Fertig.\n\nPS: Lies dir ihre Beschreibung sorgfältig durch ;)"
 
 # game/code/d08/prologue.rpy:147
 translate deutsch prologue_girls_set_2_done_faf3f787:
@@ -82,35 +82,35 @@ translate deutsch prologue_girls_set_2_done_faf3f787:
 translate deutsch prologue_girls_set_3_b8a39516:
 
     # "Last pair: do you prefer a top or a bottom? (Or neither, if they aren't your cup of tea)\nSelect up to one girl and press Done."
-    "Letztes Paar: bevorzugst du ein Oberteil oder ein Unterteil? (Oder keins von beiden, wenn du sie nicht magst)\nSelect bis zu einem Mädchen aus und drücke auf Fertig."
+    "Letztes Paar: bevorzugst du ein Oberteil oder ein Unterteil? (Oder keins von beidem, wenn du sie nicht magst)\nWähle ein Mädchen aus und drücke auf Fertig."
 
 # game/code/d08/prologue.rpy:170
 translate deutsch prologue_girls_set_3_done_7582b991:
 
     # "Into femdom, eh?\nOK, if your Mistress ordered to adore her body right now, which part would you focus on?"
-    "Stehst du auf Femdom?\nOK, Wenn deine Herrin dir befehlen würde, ihren Körper jetzt anzubeten, auf welchen Teil würdest du dich konzentrieren?"
+    "Stehst du auf Femdom?\nOK, wenn deine Herrin dir befehlen würde, ihren Körper jetzt anzubeten, auf welchen Teil würdest du dich konzentrieren?"
 
 # game/code/d08/prologue.rpy:190
 translate deutsch prologue_fetishes_b6d29b2c:
 
     # "And now it's time to choose your fetishes.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many fetishes as you want and press Done."
-    "Und jetzt ist es an der Zeit, deine Fetische zu wählen.\nMach dir keine Sorgen, wenn dein Lieblingsfetisch nicht dabei ist: Fetish Locator hat gerade erst begonnen!\nWähle so viele Fetische aus, wie du willst, und drücke auf "Fertig"."
+    "Und jetzt ist es an der Zeit, deine Fetische zu wählen.\nMach dir keine Sorgen, wenn dein Lieblingsfetisch nicht dabei ist: Fetisch Locator hat gerade erst begonnen!\nWähle so viele Fetische aus, wie du möchtest, und drücke auf "Fertig"."
 
 # game/code/d08/prologue.rpy:198
 translate deutsch prologue_finalize_b8dc714d:
 
     # "Great! You're now ready to begin your second week playing Fetish Locator!"
-    "Super! Du bist jetzt bereit, deine zweite Woche mit Fetish Locator zu beginnen!"
+    "Super! Du bist jetzt bereit, deine zweite Woche mit Fetisch Locator zu beginnen!"
 
 translate deutsch strings:
 
     # game/code/d08/prologue.rpy:5
     old "Not_"
-    new "Not_"
+    new "Nicht_"
 
     # game/code/d08/prologue.rpy:69
     old "What is your nickname in Fetish Locator app?\nIf empty, the game will prepend \"Not_\" to your name: e.g. Not_Mike"
-    new "Wie lautet dein Spitzname in der Fetish Locator App?\nIf leer, wird das Spiel vorangestellt  \"Not_\" zu Ihrem Namen:  e.g. Not_Mike"
+    new "Wie lautet dein Spitzname in der Fetisch Locator App?\nSollte das Feld leer bleiben, wird das Spiel vor ihren Namen \"Nicht_\" setzen:  bsp. Nicht_Mike"
 
     # game/code/d08/prologue.rpy:81
     old "Her face"
@@ -150,7 +150,7 @@ translate deutsch strings:
 
     # game/code/d08/prologue.rpy:122
     old "You co-sign the contract, share the expenses, and live there in autumn (after Stacy moves to a dorm)"
-    new "Du unterschreibst den Vertrag mit, teilst die Kosten und wohnst im Herbst dort (nachdem Stacy in ein Wohnheim gezogen ist)"
+    new "Du unterschreibst den Vertrag mit, teilst dir die Kosten und wohnst im Herbst dort (nachdem Stacy in ein Wohnheim gezogen ist)"
 
     # game/code/d08/prologue.rpy:122
     old "You convince Lyssa to give Stacy a lower rate as a form of advertising"
@@ -158,7 +158,7 @@ translate deutsch strings:
 
     # game/code/d08/prologue.rpy:148
     old "I am a gentleman (tips fedora)"
-    new "Ich bin ein Gentleman (tips fedora)"
+    new "Ich bin ein Gentleman (gibt Fedora Trinkgeld)"
 
     # game/code/d08/prologue.rpy:148
     old "I want to dominate her"
@@ -182,31 +182,31 @@ translate deutsch strings:
 translate deutsch prologue_girls_set_1_3502c4fc:
 
     # "In the first week you met several beautiful girls: some can be friends with benefits or even potential love interests.\n\nClick on their portraits to select them. When finished press \"Done\"."
-    "In der ersten Woche hast du mehrere hübsche Mädchen kennengelernt: Einige können Freundinnen mit Zusatzleistungen oder sogar potenzielle Liebespartnerinnen sein.\n\nKlicke auf ihre Porträts, um sie auszuwählen. Wenn du fertig bist, drücke \"Done\"."
+    "In der ersten Woche hast du mehrere hübsche Mädchen kennengelernt: Einige können Freundinnen Plus oder sogar potenzielle Liebespartnerinnen sein.\n\nKlicke auf ihre Porträts, um sie auszuwählen. Wenn du fertig bist, drücke \"Fertig\"."
 
 # game/code/d08/prologue.rpy:132
 translate deutsch prologue_girls_set_2_cd61a75b:
 
     # "More girls for you! But you cannot choose all of them.\nSelect one or two girls, then press \"Done\".\n\nPS: read their description carefully ;)"
-    "Mehr Mädchen für dich! Aber du kannst sie nicht alle auswählen.\nWähle ein oder zwei Mädchen aus, dann drücke \"Done\".\n\nPS: Lies ihre Beschreibung sorgfältig durch ;)"
+    "Mehr Mädchen für dich! Aber du kannst sie nicht alle auswählen.\nWähle ein oder zwei Mädchen aus, dann drücke \"Fertig\".\n\nPS: Lies dir ihre Beschreibung sorgfältig durch ;)"
 
 # game/code/d08/prologue.rpy:139
 translate deutsch prologue_girls_set_2_done_61fc0900:
 
     # "We see you chose the beautiful Melissa \"Lyssa\" Harris.\nHow do you behave toward her?"
-    "Wie wir sehen, hast du die schöne Melissa \"Lyssa\" Harris.\nWie verhältst du dich ihr gegenüber?"
+    "Wie wir sehen, hast du die schöne Melissa \"Lyssa\" Harris gewählt.\nWie verhältst du dich ihr gegenüber?"
 
 # game/code/d08/prologue.rpy:154
 translate deutsch prologue_girls_set_3_746b6a7f:
 
     # "Last pair: do you prefer a top or a bottom? (Or neither, if they aren't your cup of tea)\nSelect up to one girl and press \"Done\"."
-    "Letztes Paar: bevorzugst du ein Oberteil oder ein Unterteil? (Oder keins von beiden, wenn sie nicht dein Ding sind)\nWähle bis zu einem Mädchen aus und drücke auf \"Done\"."
+    "Letztes Paar: bevorzugst du ein Oberteil oder ein Unterteil? (Oder keins von beidem, wenn sie nicht dein Ding sind)\nWähle bis zu einem Mädchen aus und drücke auf \"Fertig\"."
 
 # game/code/d08/prologue.rpy:175
 translate deutsch prologue_fetishes_4cc3c0e4:
 
     # "And now it's time to choose your fetishes.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many fetishes as you want and press \"Done\"."
-    "Und jetzt ist es an der Zeit, deine Fetische auszuwählen.\nKeine Sorge, wenn dein Lieblingsfetisch nicht dabei ist: Fetish Locator hat gerade erst begonnen!\nWähle so viele Fetische wie du willst und drücke \"Done\"."
+    "Und jetzt ist es an der Zeit, deine Fetische auszuwählen.\nKeine Sorge, wenn dein Lieblingsfetisch nicht dabei ist: Fetisch Locator hat gerade erst begonnen!\nWähle so viele Fetische, wie du willst und drücke \"Fertig\"."
 
 # TODO: Translation updated at 2021-10-19 22:16
 
@@ -220,8 +220,16 @@ translate deutsch strings:
 
     # game/code/d08/prologue.rpy:186
     old "Yes, I came in her and got thrown out"
-    new "Ja, ich kam in ihr und wurde rausgeschmissen"
+    new "Ja, ich bin in ihr gekommen und wurde rausgeschmissen"
 
     # game/code/d08/prologue.rpy:186
     old "No, I didn't"
     new "Nein, habe ich nicht."
+
+# TODO: Translation updated at 2022-02-07 22:57
+
+# game/code/d08/prologue.rpy:121
+translate deutsch prologue_fetishes_7bc3a4e5:
+
+    # "It's time to choose your preferences.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many as you want and press \"Done\"."
+    "It's time to choose your preferences.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many as you want and press \"Done\"."

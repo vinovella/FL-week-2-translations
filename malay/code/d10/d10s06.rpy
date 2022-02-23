@@ -178,7 +178,7 @@ translate malay d10s06_2b35b6fe:
 translate malay d10s06_e008cc01:
 
     # nk "Oh, come on. Don't tell me that you didn't think I'd figure it out. There's only one person crazy enough to try something like that, and that's her."
-    nk "Oh, come on. Don't tell me that you didn't think I'd figure it out. There's only one person crazy enough to try something like that, and that's her."
+    nk "Oh, marilah. Jangan beritahu aku yang kau tak fikir aku akan memikirkannya. Hanya ada seorang yang cukup gila untuk mencuba sesuatu seperti itu, dan itulah dia."
 
 # game/code/d10/d10s06.rpy:80
 translate malay d10s06_25e373f4:
@@ -305,4 +305,3 @@ translate malay d10s06_38cf5d59:
 
     # mc "Right? That woman sure knows how to make a good cup of Joe."
     mc "Kan? Dia memang pandai kalau bab kopi."
-

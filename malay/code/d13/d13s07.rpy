@@ -622,7 +622,7 @@ translate malay d13s07_2bf3d221:
 translate malay d13s07_82b940ab:
 
     # mc "Hey. I know you wanted to...{w} ya'know, tonight."
-    mc "Hey. I know you wanted to...{w} ya'know, tonight."
+    mc "Hey. Aku tahu kau nak...{w} kau tahu, malam ini."
 
 # game/code/d13/d13s07.rpy:230
 translate malay d13s07_86e9e8b6:

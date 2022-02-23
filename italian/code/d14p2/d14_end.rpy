@@ -4,23 +4,23 @@
 translate italian d14_end_1b8a9473:
 
     # flr "Challenge: FAILED"
-    flr "Challenge: FAILED"
+    flr "Challenge: FALLITA"
 
 # game/code/d14p2/d14_end.rpy:33
 translate italian d14_end_33c0a108:
 
     # flr "The goal was 20 people before midnight, Cinderella. {w}Nice try, but that last fuck didn't count."
-    flr "The goal was 20 people before midnight, Cinderella. {w}Nice try, but that last fuck didn't count."
+    flr "L'obiettivo era quello di scopare 20 persone prima della mezzanotte, Cenerentola. {w}Ci hai provato, ma quell'ultima scopata non conta."
 
 # game/code/d14p2/d14_end.rpy:36
 translate italian d14_end_574a8b84:
 
     # flr "Your punishment will arrive at dawn."
-    flr "Your punishment will arrive at dawn."
+    flr "La tua punizione arriverà all'alba."
 
 # game/code/d14p2/d14_end.rpy:39
 translate italian d14_end_9443248a:
 
     # flr "Because you cheated!"
-    flr "Because you cheated!"
+    flr "Perché hai imbrogliato!"
 

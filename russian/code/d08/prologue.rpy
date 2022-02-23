@@ -184,3 +184,11 @@ translate russian strings:
     old "No, I didn't"
     new "Нет, я этого не делал"
 
+# TODO: Translation updated at 2022-02-07 22:55
+
+# game/code/d08/prologue.rpy:121
+translate russian prologue_fetishes_7bc3a4e5:
+
+    # "It's time to choose your preferences.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many as you want and press \"Done\"."
+    "It's time to choose your preferences.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many as you want and press \"Done\"."
+

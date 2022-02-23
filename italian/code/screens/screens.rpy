@@ -424,7 +424,7 @@ translate italian strings:
 
     # game/code/screens/screens.rpy:1028
     old "Low Memory Mode"
-    new "Low Memory Mode"
+    new "Modalità bassa memoria"
 
 # TODO: Translation updated at 2021-11-14 23:00
 
@@ -432,20 +432,20 @@ translate italian strings:
 
     # game/code/screens/screens.rpy:789
     old "Game"
-    new "Game"
+    new "Partita"
 
     # game/code/screens/screens.rpy:791
     old "Sound Effects"
-    new "Sound Effects"
+    new "Effetti sonori"
 
     # game/code/screens/screens.rpy:793
     old "Soundtracks"
-    new "Soundtracks"
+    new "Colonna sonora"
 
     # game/code/screens/screens.rpy:795
     old "Other Sounds"
-    new "Other Sounds"
+    new "Altri suoni"
 
     # game/code/screens/screens.rpy:796
     old "Others"
-    new "Others"
+    new "Altro"

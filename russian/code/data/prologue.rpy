@@ -118,3 +118,11 @@ translate russian strings:
     old "Not_Mike"
     new "Не_Майк"
 
+# TODO: Translation updated at 2022-02-07 22:55
+
+translate russian strings:
+
+    # game/code/data/prologue.rpy:34
+    old "Trans Content"
+    new "Trans Content"
+

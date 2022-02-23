@@ -208,7 +208,7 @@ translate malay d14s05_526fb8df:
 translate malay d14s05_162c1c95:
 
     # sy "Just relax! It'll be over soon!"
-    sy "Just relax! It'll be over soon!"
+    sy "Bertenanglah! Ia akan berakhir tak lama lagi!"
 
 # game/code/d14/d14s05.rpy:90
 translate malay d14s05_2b5a8cc0:
@@ -1012,25 +1012,25 @@ translate malay d14s05_b9ba13c2:
 translate malay d14s05_8ff7ad2e:
 
     # hr "Hi - I'm Hana. {w}I don't think we've met."
-    hr "Hi - I'm Hana. {w}I don't think we've met."
+    hr "Hi - Saya Hana. {w}Saya rasa kita tak pernah berjumpa."
 
 # game/code/d14/d14s05.rpy:356
 translate malay d14s05_211192e0:
 
     # mct "What are they talking about? {w}Oh, right! The tracker."
-    mct "What are they talking about? {w}Oh, right! The tracker."
+    mct "Mereka tengah borak pasal apa? {w}Oh, betul! Penjejak."
 
 # game/code/d14/d14s05.rpy:357
 translate malay d14s05_de0ad0d8:
 
     # mct "Fetish Locator is listening. We're not supposed to know her."
-    mct "Fetish Locator is listening. We're not supposed to know her."
+    mct "Fetish Locator sedang mendengar. Kami tak sepatutnya mengenalinya."
 
 # game/code/d14/d14s05.rpy:359
 translate malay d14s05_b84addcc:
 
     # arj "Hi Hana, I'm AmRose. It's nice to meet you."
-    arj "Hi Hana, I'm AmRose. It's nice to meet you."
+    arj "Hai Hana, saya AmRose. Bagus betul berkenalan dengan awak."
 
 # game/code/d14/d14s05.rpy:360
 translate malay d14s05_74df96a7:
