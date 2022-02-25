@@ -88,7 +88,7 @@ translate deutsch d14s02_4e0439b2:
 translate deutsch d14s02_09cd86e6:
 
     # mc "And then she's like \"Well I'm gonna take it first muahaha!\" and then brings out this huge fuck off pair of scissors from God knows where and goes to chop off my dick."
-    mc "Und dann sagt sie \"Nun, ich nehme ihn zuerst muahaha!"\ und holt dann diese riesige verdammte Schere von Gott weiß wo und macht sich daran, meinen Schwanz abzuhacken."
+    mc "Und dann sagt sie \"Nun, ich nehme ihn zuerst muahaha!\" und holt dann diese riesige verdammte Schere von Gott weiß wo und macht sich daran, meinen Schwanz abzuhacken."
 
 # game/code/d14/d14s02.rpy:75
 translate deutsch d14s02_e0f7c330:
@@ -389,4 +389,3 @@ translate deutsch d14s02_09879994:
 
     # sy "Aarghhh..."
     sy "Aarghhh..."
-
