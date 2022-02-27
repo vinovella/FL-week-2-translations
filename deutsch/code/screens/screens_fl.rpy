@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-06-09 02:20
+# TODO: Translation updated at 2020-06-09 02:20
 
 translate deutsch strings:
 
@@ -8,15 +8,15 @@ translate deutsch strings:
 
     # game/code/screens/screens_fl.rpy:85
     old "DATE"
-    new "DATE"
+    new "DATUM"
 
     # game/code/screens/screens_fl.rpy:87
     old "LOAD"
-    new "LOAD"
+    new "LADEN"
 
     # game/code/screens/screens_fl.rpy:121
     old "No save from week [FLSS.week.prev] has been detected"
-    new "No save from week [FLSS.week.prev] has been detected"
+    new "Es wurde von Woche [FLSS.week.prev] keine Speicherung erkannt"
 
 # TODO: Translation updated at 2020-07-30 07:17
 
@@ -24,15 +24,15 @@ translate deutsch strings:
 
     # game/code/screens/screens_fl.rpy:333
     old "How do you want to name your save?"
-    new "How do you want to name your save?"
+    new "Wie willst du deinen Speicherstand benennen?"
 
     # game/code/screens/screens_fl.rpy:333
     old "How do you want to rename this page?"
-    new "How do you want to rename this page?"
+    new "Wie willst du diese Seite neu benennen?"
 
     # game/code/screens/screens_fl.rpy:364
     old "Undo"
-    new "Undo"
+    new "Rückgängig"
 
  # TODO: Translation updated at 2020-07-30 07:24
 
@@ -56,23 +56,23 @@ translate deutsch strings:
 
     # game/code/screens/screens_fl.rpy:16
     old "Week 2 Save"
-    new "Week 2 Save"
+    new "Woche 2 speichern"
 
     # game/code/screens/screens_fl.rpy:47
     old "Your second week on Fetish Locator ends here"
-    new "Your second week on Fetish Locator ends here"
+    new "Deine zweite Woche bei Fetish Locator endet hier"
 
     # game/code/screens/screens_fl.rpy:55
     old "Please type a name for the save file below and click save"
-    new "Please type a name for the save file below and click save"
+    new "Bitte gib einen Namen für die gespeicherten Datein unten ein und drücke auf Speichern"
 
     # game/code/screens/screens_fl.rpy:63
     old "This will allow you to start week 3 without losing your progress"
-    new "This will allow you to start week 3 without losing your progress"
+    new "Das lässt dich in Woche 3 starten ohne deinen Fortschritt zu verlieren"
 
     # game/code/screens/screens_fl.rpy:93
     old "SAVE"
-    new "SAVE"
+    new "SPEICHERN"
 
 # TODO: Translation updated at 2021-10-13 01:39
 
@@ -80,26 +80,26 @@ translate deutsch strings:
 
     # game/code/screens/screens_fl.rpy:245
     old "No end game save from week [FLSS.week.prev] has been detected"
-    new "No end game save from week [FLSS.week.prev] has been detected"
+    new "Von Woche [FLSS.week.prev] wurde keine Speicherung des Endspiels entdeckt"
 
     # game/code/screens/screens_fl.rpy:252
     old "Please open Fetish Locator week [FLSS.week.prev] and SAVE at the end game save screen"
-    new "Please open Fetish Locator week [FLSS.week.prev] and SAVE at the end game save screen"
+    new "Bitte öffne Fetish Locator auf Woche [FLSS.week.prev] und SPEICHERE auf dem Endbildschirm"
 
     # game/code/screens/screens_fl.rpy:265
     old "Or"
-    new "Or"
+    new "Oder"
 
     # game/code/screens/screens_fl.rpy:271
     old "{u}Fill the questionnaire to play week [FLSS.week.cur] without loading a save{/u}"
-    new "{u}Fill the questionnaire to play week [FLSS.week.cur] without loading a save{/u}"
+    new "{u}Beantworte die Fragen um Woche [FLSS.week.cur] ohne deinen Speicherstand zu überschreiben zu spielen{/u}"
 # TODO: Translation updated at 2021-10-19 22:16
 
 translate deutsch strings:
 
     # game/code/screens/screens_fl.rpy:535
     old "SKIP RECAP"
-    new "SKIP RECAP"
+    new "ÜBERSPRINGE DEN RÜCKBLICK"
 
 # TODO: Translation updated at 2021-10-23 00:21
 
@@ -107,7 +107,7 @@ translate deutsch strings:
 
     # game/code/screens/screens_fl.rpy:786
     old "SKIP"
-    new "SKIP"
+    new "ÜBERSPRINGE"
 
 # TODO: Translation updated at 2021-10-25 01:16
 
@@ -115,7 +115,7 @@ translate deutsch strings:
 
     # game/code/screens/screens_fl.rpy:232
     old "Unnamed End Game Save"
-    new "Unnamed End Game Save"
+    new "Unbenannte Speicherung des Endspiels"
 
 # TODO: Translation updated at 2022-02-07 22:57
 
@@ -123,9 +123,9 @@ translate deutsch strings:
 
     # game/code/screens/screens_fl.rpy:539
     old "Go back and enable {b}Watersports{/b} fetish to be able to select Min"
-    new "Go back and enable {b}Watersports{/b} fetish to be able to select Min"
+    new "Geh zurück und ermögliche den {b}Wassersportarten{/b} Fetisch, um Min wählen zu können"
 
     # game/code/screens/screens_fl.rpy:570
     old "Go back and enable {b}Trans Content{/b} to be able to select Lyssa"
-    new "Go back and enable {b}Trans Content{/b} to be able to select Lyssa"
+    new "Geh zurück und ermögliche den {b}Trans Inhalt{/b}, um Lyssa wählen zu können"
 
