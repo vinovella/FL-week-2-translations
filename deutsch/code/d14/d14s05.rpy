@@ -387,8 +387,7 @@ translate deutsch d14s05_dbb86e35:
 # game/code/d14/d14s05.rpy:155
 translate deutsch d14s05_ca51a6db_1:
 
-    #
- sy "That's it. {w}That's your outfit for today."
+    # sy "That's it. {w}That's your outfit for today."
     sy "Das war's. {w}Das ist dein heutiges Outfit."
 
 # game/code/d14/d14s05.rpy:156
@@ -1779,8 +1778,7 @@ translate deutsch d14s05_01406b3d:
     mc "Würdest du deinen Arsch darauf verwetten?"
 
 # game/code/d14/d14s05.rpy:606
-translate
- deutsch d14s05_22eabf9a:
+translate deutsch d14s05_22eabf9a:
 
     # arj "If you want it, it's yours. No bet needed."
     arj "Wenn du ihn willst, dann ist er denis. Du brauchst keine Wette."
@@ -2096,4 +2094,3 @@ translate deutsch d14s05_c2eb53da:
 
     # mc "Of course not."
     mc "Natürlich nicht."
-
