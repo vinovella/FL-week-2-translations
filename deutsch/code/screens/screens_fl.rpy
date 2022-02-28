@@ -129,3 +129,59 @@ translate deutsch strings:
     old "Go back and enable {b}Trans Content{/b} to be able to select Lyssa"
     new "Geh zurück und ermögliche den {b}Trans Inhalt{/b}, um Lyssa wählen zu können"
 
+# TODO: Translation updated at 2022-03-01 03:38
+
+translate deutsch strings:
+
+    # game/code/screens/screens_fl.rpy:70
+    old "Please click the save button below"
+    new "Please click the save button below"
+
+    # game/code/screens/screens_fl.rpy:391
+    old "Touch input supported"
+    new "Touch input supported"
+
+    # game/code/screens/screens_fl.rpy:392
+    old "Navigation"
+    new "Navigation"
+
+    # game/code/screens/screens_fl.rpy:393
+    old "Quick Save"
+    new "Quick Save"
+
+    # game/code/screens/screens_fl.rpy:394
+    old "Pause Menu"
+    new "Pause Menu"
+
+    # game/code/screens/screens_fl.rpy:396
+    old "Roll Back"
+    new "Roll Back"
+
+    # game/code/screens/screens_fl.rpy:399
+    old "{b}A{/b} - Select"
+    new "{b}A{/b} - Select"
+
+    # game/code/screens/screens_fl.rpy:400
+    old "{b}B{/b} - Go Back"
+    new "{b}B{/b} - Go Back"
+
+    # game/code/screens/screens_fl.rpy:401
+    old "{b}X{/b} - Pool Menu"
+    new "{b}X{/b} - Pool Menu"
+
+    # game/code/screens/screens_fl.rpy:402
+    old "{b}Y{/b} - Hide UI"
+    new "{b}Y{/b} - Hide UI"
+
+    # game/code/screens/screens_fl.rpy:403
+    old "Roll Forward"
+    new "Roll Forward"
+
+    # game/code/screens/screens_fl.rpy:406
+    old "You can find this layout in the {b}Help{/b} menu"
+    new "You can find this layout in the {b}Help{/b} menu"
+
+    # game/code/screens/screens_fl.rpy:437
+    old "points: "
+    new "points: "
+

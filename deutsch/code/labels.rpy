@@ -323,3 +323,11 @@ translate deutsch after_credits_e29ad5fa:
 
     # "{color=#ec8664}Unknown Girl 3{/color}" "Zemfira! That is the wrong outfit! Chapter 4 Scene 5 isn't a sex scene! What are you wearing??"
     "{color=#ec8664}Unknown Girl 3{/color}" "Zemfira! That is the wrong outfit! Chapter 4 Scene 5 isn't a sex scene! What are you wearing??"
+
+# TODO: Translation updated at 2022-03-01 03:38
+
+# game/code/labels.rpy:454
+translate deutsch buzz_4377a2f7:
+
+    # "Bzzzzz" with hpunch
+    "Bzzzzz" with hpunch
