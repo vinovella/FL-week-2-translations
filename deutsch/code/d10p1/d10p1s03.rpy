@@ -1224,7 +1224,7 @@ translate deutsch strings:
 
     # game/code/d10p1/d10p1s03.rpy:257
     old "See what's going on"
-    new "See what's going on"
+    new "Schau nach, was los ist"
 
     # game/code/d10p1/d10p1s03.rpy:333
     old "Should I help him out?"
