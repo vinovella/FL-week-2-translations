@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2019-12-10 12:02
+# TODO: Translation updated at 2019-12-10 12:02
 
 translate deutsch_hidden strings:
 
@@ -651,4 +651,4 @@ translate deutsch strings:
 
     # game/screens.rpy:322
     old "Gallery"
-    new "Gallery"
+    new "Gallerie"
