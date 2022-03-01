@@ -1438,7 +1438,7 @@ translate deutsch d09s07_sb_talk_6a27149f:
 translate deutsch d09s07_sb_talk_0488530e:
 
     # mc "I only found out afterwards it was the wrong person!"
-    mc "I only found out afterwards it was the wrong person!"
+    mc "Ich fand erst später heraus, dass es die falsche Person war!"
 
 # game/code/d09/extended/d09s07.rpy:695
 translate deutsch d09s07_sb_talk_01f360d7:
