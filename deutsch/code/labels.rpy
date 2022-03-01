@@ -330,4 +330,4 @@ translate deutsch after_credits_e29ad5fa:
 translate deutsch buzz_4377a2f7:
 
     # "Bzzzzz" with hpunch
-    "Bzzzzz" mit hpunch
+    "Bzzzzz" with hpunch
