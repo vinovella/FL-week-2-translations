@@ -4,13 +4,13 @@
 translate deutsch d14s19_sy_2c3af789:
 
     # mc "Hey sis, what are you doing here?"
-    mc "Hey sis, what are you doing here?"
+    mc "Hey Schwester, was machst du hier?"
 
 # game/code/d14p2/d14s19_sy.rpy:137
 translate deutsch d14s19_sy_3b552a8a:
 
     # mc "Hey Stacy, what are you doing here?"
-    mc "Hey Stacy, what are you doing here?"
+    mc "Hey Stacy, was machst du hier?"
 
 # game/code/d14p2/d14s19_sy.rpy:139
 translate deutsch d14s19_sy_8273db40:
