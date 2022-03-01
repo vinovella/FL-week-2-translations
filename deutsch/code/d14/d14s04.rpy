@@ -268,7 +268,7 @@ translate deutsch d14s04_cc55bf84:
 translate deutsch d14s04_658c1e0d:
 
     # mh "{size=22}Sorry.{/size}"
-    mh "{size=22}Sorry.{/size}"
+    mh "{size=22}Tut mir leid.{/size}"
 
 # game/code/d14/d14s04.rpy:147
 translate deutsch d14s04_766c08db:
