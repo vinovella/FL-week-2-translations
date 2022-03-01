@@ -166,8 +166,8 @@ translate deutsch strings:
     new "{b}B{/b} - Go Back"
 
     # game/code/screens/screens_fl.rpy:401
-    old "{b}X{/b} - Pool Menu"
-    new "{b}X{/b} - Pool Menu"
+    old "{b}X{/b} - Skip"
+    new "{b}X{/b} - Skip"
 
     # game/code/screens/screens_fl.rpy:402
     old "{b}Y{/b} - Hide UI"
@@ -184,4 +184,3 @@ translate deutsch strings:
     # game/code/screens/screens_fl.rpy:437
     old "points: "
     new "points: "
-

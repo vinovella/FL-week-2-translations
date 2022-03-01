@@ -364,7 +364,7 @@ translate deutsch d14s13_63cf3e95:
 translate deutsch d14s13_a049b238:
 
     # arj "I can make something to catch the packets externally. It'd tell us everything we need to know and FL wouldn't be the wiser."
-    arj Ich kann etwas machen um die Daten extern zu empfangen. Es würde uns alles sagen was wir brauchen, und FL würde es nicht mitbekommen."
+    arj "Ich kann etwas machen um die Daten extern zu empfangen. Es würde uns alles sagen was wir brauchen, und FL würde es nicht mitbekommen."
 
 # game/code/d14p2/d14s13.rpy:129
 translate deutsch d14s13_55a7f681:
@@ -479,4 +479,3 @@ translate deutsch d14s13_5af089f0:
 
     # hr "*Chuckles* You really remind me of my girlfriend."
     hr "*lächelt* Du erinnerst mich sehr an meine Freundin."
-
