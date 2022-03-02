@@ -135,52 +135,52 @@ translate deutsch strings:
 
     # game/code/screens/screens_fl.rpy:70
     old "Please click the save button below"
-    new "Please click the save button below"
+    new "Bitte drücke den Speicherknopf unten"
 
     # game/code/screens/screens_fl.rpy:391
     old "Touch input supported"
-    new "Touch input supported"
+    new "Touch Input wird unterstützt"
 
     # game/code/screens/screens_fl.rpy:392
     old "Navigation"
-    new "Navigation"
+    new "Orientierung"
 
     # game/code/screens/screens_fl.rpy:393
     old "Quick Save"
-    new "Quick Save"
+    new "Schnelles Speichern"
 
     # game/code/screens/screens_fl.rpy:394
     old "Pause Menu"
-    new "Pause Menu"
+    new "Pause Menü"
 
     # game/code/screens/screens_fl.rpy:396
     old "Roll Back"
-    new "Roll Back"
+    new "Gehe zurück"
 
     # game/code/screens/screens_fl.rpy:399
     old "{b}A{/b} - Select"
-    new "{b}A{/b} - Select"
+    new "{b}A{/b} - Auswahl"
 
     # game/code/screens/screens_fl.rpy:400
     old "{b}B{/b} - Go Back"
-    new "{b}B{/b} - Go Back"
+    new "{b}B{/b} - Geh zurück"
 
     # game/code/screens/screens_fl.rpy:401
     old "{b}X{/b} - Skip"
-    new "{b}X{/b} - Skip"
+    new "{b}X{/b} - Überspringe"
 
     # game/code/screens/screens_fl.rpy:402
     old "{b}Y{/b} - Hide UI"
-    new "{b}Y{/b} - Hide UI"
+    new "{b}Y{/b} - Verstecke UI"
 
     # game/code/screens/screens_fl.rpy:403
     old "Roll Forward"
-    new "Roll Forward"
+    new "Mache weiter"
 
     # game/code/screens/screens_fl.rpy:406
     old "You can find this layout in the {b}Help{/b} menu"
-    new "You can find this layout in the {b}Help{/b} menu"
+    new "Du kannst dies im Menü unter {b}Hilfe{/b} finden"
 
     # game/code/screens/screens_fl.rpy:437
     old "points: "
-    new "points: "
+    new "Punkte: "
