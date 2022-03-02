@@ -232,13 +232,13 @@ translate deutsch d14s19_sy_5f504b4b:
 translate deutsch d14s19_sy_014fbf76:
 
     # sy "Let's fuck in every way possible on every piece of furniture in this room."
-    sy "Lass uns überall ficken wo wir können, in jeder möglichen Positionw."
+    sy "Lass uns überall ficken wo wir können, in jeder möglichen Position."
 
 # game/code/d14p2/d14s19_sy.rpy:776
 translate deutsch d14s19_sy_cum_7043ad7c:
 
     # sy "Fuck Yes! Yes! Fuck me!"
-    sy "Fuck Yes! Yes! Fick mich!"
+    sy "Fuck Ja! Ja! Fick mich!"
 
 # game/code/d14p2/d14s19_sy.rpy:784
 translate deutsch d14s19_sy_cum_d4b726f8:
@@ -274,7 +274,7 @@ translate deutsch d14s19_sy_cum_65ce8912:
 translate deutsch d14s19_sy_cum_b737f2af:
 
     # mc "Oh, it's like that?"
-    mc "Oh, it's like that?"
+    mc "Oh, so ist es?"
 
 # game/code/d14p2/d14s19_sy.rpy:796
 translate deutsch d14s19_sy_cum_c58ca971:
@@ -310,7 +310,7 @@ translate deutsch d14s19_sy_cum_mouth_a825ff88:
 translate deutsch d14s19_sy_cum_mouth_d7d3feae:
 
     # mc "Your mouth was made for my cock!"
-    mc "YDein Mund ist für meinen Schwanz gemacht!"
+    mc "Dein Mund ist für meinen Schwanz gemacht!"
 
 # game/code/d14p2/d14s19_sy.rpy:839
 translate deutsch d14s19_sy_cum_mouth_2c186f8e:
