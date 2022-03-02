@@ -1268,7 +1268,7 @@ translate deutsch strings:
 
     # game/code/d10p1/d10p1s01.rpy:219
     old "Please enter a safe word!"
-    new "Please enter a safe word!"
+    new "Bitte gib ein Safeword ein!"
 
     # game/code/d10p1/d10p1s01.rpy:222
     old "Apples"
