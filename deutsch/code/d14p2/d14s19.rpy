@@ -34,7 +34,7 @@ translate deutsch d14s19_a37f3161:
 translate deutsch d14s19_9a2fe908:
 
     # ir "It's almost midnight."
-    ir "It's almost midnight."
+    ir "Es ist fast Mitternacht."
 
 # game/code/d14p2/d14s19.rpy:30
 translate deutsch d14s19_312436ab:
