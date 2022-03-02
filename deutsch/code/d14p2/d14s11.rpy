@@ -616,7 +616,7 @@ translate deutsch d14s11_beefab47:
 translate deutsch d14s11_d2145b40:
 
     # arj "You must be kidding."
-    arj "You must be kidding."
+    arj "Du willst mich doch veräppeln."
 
 # game/code/d14p2/d14s11.rpy:261
 translate deutsch d14s11_aaa0648e:
