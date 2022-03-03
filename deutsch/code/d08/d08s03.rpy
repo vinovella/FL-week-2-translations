@@ -1821,7 +1821,7 @@ translate deutsch replay_d08s03_9cb414c8:
 translate deutsch replay_d08s03_7ae47b07:
 
     # mk "Shit shit shit shit shit..."
-    mk "Shit shit shit shit shit..."
+    mk "Scheiße scheiße scheiße scheiße..."
 
 # game/code/d08/d08s03.rpy:462
 translate deutsch replay_d08s03_acd30f0e:

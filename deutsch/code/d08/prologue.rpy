@@ -232,4 +232,10 @@ translate deutsch strings:
 translate deutsch prologue_fetishes_7bc3a4e5:
 
     # "It's time to choose your preferences.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many as you want and press \"Done\"."
-    "It's time to choose your preferences.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many as you want and press \"Done\"."
+    "Es wird Zeit, deine Präferenzen zu wählen.\nMach dir keine Sorgen, wenn dein liebster Fetisch nicht aufgelistet ist: Fetisch Locator hat gerade erst begonnen!\nNimm so viele du willst und drücke \"Fertig\"."
+
+translate deutsch strings:
+
+    # game/code/d08/prologue.rpy:4
+    old "Mike"
+    new "Mike"

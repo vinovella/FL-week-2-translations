@@ -760,7 +760,7 @@ translate deutsch strings:
 
     # game/code/d10p2/d10p2s01.rpy:140
     old "Horseback Riding Event"
-    new "Horseback Riding Event"
+    new "Pferderennen Event"
 
     # game/code/d10p2/d10p2s01.rpy:140
     old "Prepare for Main Event"
