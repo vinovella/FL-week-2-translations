@@ -324,7 +324,7 @@ translate italian after_credits_d16b822a:
 translate italian after_credits_38b8e047:
 
     # "{color=#f93737}Unknown Girl 1{/color}" "You heard her."
-    "{color=#f93737 Ragazza sconosciuta 1{/color}" "L’avete sentita."
+    "{color=#f93737} Ragazza sconosciuta 1{/color}" "L’avete sentita."
 
 # game/code/labels.rpy:189
 translate italian after_credits_ec4dc5c9:
