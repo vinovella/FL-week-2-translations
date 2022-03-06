@@ -837,9 +837,8 @@ translate deutsch strings:
 
     # game/code/d14/extended/d14s08.rpy:327
     old "Keep Going - Fist Polly's Ass"
-    new "Mach es - Ficke Pollys Arsch"
+    new "Mach es - Fiste Pollys Arsch"
 
     # game/code/d14/extended/d14s08.rpy:327
     old "That's Enough"
     new "Das reicht"
-

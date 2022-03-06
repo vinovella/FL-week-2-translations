@@ -1150,7 +1150,7 @@ translate deutsch strings:
 
     # game/code/d10p2/d10p2s04-dw.rpy:157
     old "Abort mission!"
-    new "Stoppe die Mission!"
+    new "Mission Abbrechen!"
 
     # game/code/d10p2/d10p2s04-dw.rpy:157
     old "Stay and see what happens"
@@ -1166,11 +1166,11 @@ translate deutsch strings:
 
     # game/code/d10p2/d10p2s04-dw.rpy:454
     old "Try to take it all in"
-    new "Versuch alles aufzunehmen"
+    new "Versuch' es komplett zu schlucken"
 
     # game/code/d10p2/d10p2s04-dw.rpy:454
     old "Give up"
-    new "Gib auf"
+    new "Aufgeben"
 
     # game/code/d10p2/d10p2s04-dw.rpy:591
     old "Use your safe word!"
@@ -1182,7 +1182,7 @@ translate deutsch strings:
 
     # game/code/d10p2/d10p2s04-dw.rpy:691
     old "Cum harder"
-    new "Komm stärker"
+    new "Komm' stärker"
 
     # game/code/d10p2/d10p2s04-dw.rpy:691
     old "Hold stronger"
@@ -1195,4 +1195,3 @@ translate deutsch d10p2s04_dwmc_dickslap_66332944:
 
     # mc "[mc_safeword!t]!"
     mc "[mc_safeword!t]!"
-

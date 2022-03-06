@@ -2601,4 +2601,3 @@ translate deutsch d10p2s08_jf_part5_6e27356e:
 
     # mc "URLittlePony was rewarded with a drink from the Trough of Ultimate Sexual Deviancy."
     mc "URLittlePony wurde mit einem Getränk aus dem Trog der Ultimate Sexual Deviancy belohnt."
-

@@ -982,15 +982,15 @@ translate deutsch strings:
 
     # game/code/d14p2/d14s19_sy.rpy:800
     old "Cum on her Face"
-    new "Komme auf ihr Gesicht"
+    new "Komm' auf ihr Gesicht"
 
     # game/code/d14p2/d14s19_sy.rpy:800
     old "Cum on her Tits"
-    new "Komme auf ihre Brüste"
+    new "Komm' auf ihre Brüste"
 
     # game/code/d14p2/d14s19_sy.rpy:956
     old "I love everything about it"
-    new "Ich liebe alles von dir"
+    new "Ich liebe alles"
 
     # game/code/d14p2/d14s19_sy.rpy:956
     old "Stacy really gets me, but I'm not sure about kids"
@@ -1270,7 +1270,7 @@ translate deutsch d14s19_sy_cum_mouth_d27cfc80:
 translate deutsch d14s19_sy_end_c6647e9a:
 
     # sy "In my dream, my bridesmaids all made their own dresses. I wear white. They each wear a different color."
-    sy "In meinem Traum, tragen alle andere Kleider. Ich trage weiß. Alle andere eine andere Farbe."
+    sy "In meinem Traum, tragen alle selbstgemachte Kleider. Ich trage weiß. Alle andere eine andere Farbe."
 
 # game/code/d14p2/d14s19_sy.rpy:891
 translate deutsch d14s19_sy_end_4285d841:

@@ -256,7 +256,7 @@ translate deutsch d11s07_db8ff12e:
 translate deutsch d11s07_25ede9e0:
 
     # mc "Watersports?"
-    mc "Wassersport?"
+    mc "Natursekt?"
 
 # game/code/d11/d11s07.rpy:126
 translate deutsch d11s07_59fd6eec:
@@ -310,7 +310,7 @@ translate deutsch d11s07_5aa894a5:
 translate deutsch d11s07_7c65f708:
 
     # mc "I meant - the stuff about watersports... is that something you're okay with?"
-    mc "Ich meinte - die Sache wegen Wassersport... ist das etwas, das du okay findest?"
+    mc "Ich meinte - die Sache wegen des Natursektes... ist das etwas, das du okay findest?"
 
 # game/code/d11/d11s07.rpy:138
 translate deutsch d11s07_ab0e1a16:
@@ -334,7 +334,7 @@ translate deutsch d11s07_a87609bc:
 translate deutsch d11s07_2324819a:
 
     # lc "Also, you should not tell me about these things before it happens."
-    lc "Außerdem solltest du mir von niochts erzählen, bevor du es machst."
+    lc "Außerdem solltest du mir von nichts erzählen, bevor du es machst."
 
 # game/code/d11/d11s07.rpy:145
 translate deutsch d11s07_46540ae8:
@@ -376,7 +376,7 @@ translate deutsch d11s07_e4518838:
 translate deutsch d11s07_ce497906:
 
     # mc "Well, she's been interested in watersports, and knew that I was experienced in that sort of thing, so I've been kinda giving her homework assignments for a week or so now."
-    mc "Nun, sie hat sich für Wassersport interessiert und wusste, dass ich in so etwas Erfahrung habe, also gebe ich ihr seit etwa einer Woche Hausaufgaben."
+    mc "Nun, sie hat sich für Natursekt interessiert und wusste, dass ich in so etwas Erfahrung habe, also gebe ich ihr seit etwa einer Woche Hausaufgaben."
 
 # game/code/d11/d11s07.rpy:154
 translate deutsch d11s07_2c5c525f:
@@ -388,7 +388,7 @@ translate deutsch d11s07_2c5c525f:
 translate deutsch d11s07_4b81a709:
 
     # mc "Just the watersports. I hadn't had sex with her until last night. And she had a very strict rule that \"Squizzle\" was not \"Min\"."
-    mc "Nur mit dem Wassersport. Ich hatte vor letzter Nacht keinen Sex mit ihr. Und sie befolgt die sehr strenge Regel, dass \"Squizzle\" nicht \"Min\" ist."
+    mc "Nur mit dem Natursekt. Ich hatte vor letzter Nacht keinen Sex mit ihr. Und sie befolgt die sehr strenge Regel, dass \"Squizzle\" nicht \"Min\" ist."
 
 # game/code/d11/d11s07.rpy:157
 translate deutsch d11s07_081ed8f7:
@@ -1060,8 +1060,8 @@ translate deutsch strings:
 
     # game/code/d11/d11s07.rpy:362
     old "Kiss AmRose on the Mouth"
-    new "Küss AmRose auf den Mund"
+    new "Küss' AmRose auf den Mund"
 
     # game/code/d11/d11s07.rpy:362
     old "Kiss AmRose on the Neck"
-    new "Küss AmRose auf den Nacken"
+    new "Küss' AmRose auf den Nacken"

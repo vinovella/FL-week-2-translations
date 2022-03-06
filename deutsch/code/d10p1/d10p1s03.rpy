@@ -1216,7 +1216,7 @@ translate deutsch strings:
 
     # game/code/d10p1/d10p1s03.rpy:257
     old "Go check it out?"
-    new "Gehen und es abchecken?"
+    new "Nachsehen?"
 
     # game/code/d10p1/d10p1s03.rpy:257
     old "Don't bother"
@@ -1228,11 +1228,11 @@ translate deutsch strings:
 
     # game/code/d10p1/d10p1s03.rpy:333
     old "Should I help him out?"
-    new "Soll ich ihm helfen?"
+    new "Soll ich ihm aushelfen?"
 
     # game/code/d10p1/d10p1s03.rpy:333
     old "Help him"
-    new "Hilf ihm"
+    new "Hilf ihm aus"
 
     # game/code/d10p1/d10p1s03.rpy:333
     old "Don't help him"
@@ -1253,4 +1253,3 @@ translate deutsch strings:
     # game/code/d10p1/d10p1s03.rpy:441
     old "Help{#d10p1s03}"
     new "Hilfe{#d10p1s03}"
-

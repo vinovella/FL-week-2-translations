@@ -4,7 +4,7 @@ translate deutsch strings:
 
     # game/code/screens/screens.rpy:331
     old "Continue from week [FLSS.week.prev]"
-    new "Mache bei Woche [FLSS.week.prev] weiter"
+    new "Woche [FLSS.week.prev] fortsetzen"
 
     # game/code/screens/screens.rpy:615
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]\n"
@@ -12,11 +12,11 @@ translate deutsch strings:
 
     # game/code/screens/screens.rpy:656
     old "(type the save name here)"
-    new "(tippe den Speichernamen hier ein)"
+    new "(tippe den Speicherstandsnamen hier ein)"
 
     # game/code/screens/screens.rpy:686
     old "Current save name:"
-    new "Jetziger Sicherungsname:"
+    new "Speicherstandsname:"
 
     # game/code/screens/screens.rpy:742
     old "«"
@@ -32,7 +32,7 @@ translate deutsch strings:
 
     # game/code/screens/screens.rpy:660
     old "(set a name before saving your progress)"
-    new "(verwende einen Namen bevor du deinen Fortschritt speicherst)"
+    new "(gib einen Namen ein bevor du deinen Fortschritt speicherst)"
 
     # game/code/screens/screens.rpy:828
     old "Taboo Mode"
@@ -68,7 +68,7 @@ translate deutsch strings:
 
     # game/code/screens/screens.rpy:1028
     old "Low Memory Mode"
-    new "Minderer Qualitätsstand"
+    new "Low Memory Modus"
 
 # TODO: Translation updated at 2021-11-14 23:05
 

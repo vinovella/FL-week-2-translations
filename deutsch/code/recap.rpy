@@ -694,7 +694,7 @@ translate deutsch d08s00_week1synopsis_00f22e11:
 translate deutsch d08s00_week1synopsis_cdd883bd:
 
     # "Min and [mcname] became much closer friends while he taught her more about watersports..."
-    "Min und [mcname] freundeten sich enger an, während er ihr mehr Wassersportarten zeigte..."
+    "Min und [mcname] freundeten sich enger an, während er ihr mehr über Natursekt beibrachte..."
 
 # game/code/recap.rpy:437
 translate deutsch d08s00_week1synopsis_38d11343:
@@ -917,4 +917,3 @@ translate deutsch d08s00_week1synopsis_7c59af2b:
 
     # "No more waiting! Let's get into Week 2..."
     "Das Warten hat ein Ende! Lass uns in Woche 2 starten..."
-

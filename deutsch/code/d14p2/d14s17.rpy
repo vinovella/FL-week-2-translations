@@ -460,7 +460,7 @@ translate deutsch strings:
 
     # game/code/d14p2/d14s17.rpy:77
     old "I'm...open to it"
-    new "Ich bin bereit dafür"
+    new "Ich... bin offen dafür"
 
     # game/code/d14p2/d14s17.rpy:77
     old "No, you don't have to apologize"
@@ -468,9 +468,8 @@ translate deutsch strings:
 
     # game/code/d14p2/d14s17.rpy:271
     old "Sure, let's meet again"
-    new "Na klar, lass und nochmal treffen"
+    new "Na klar, lass uns nochmal treffen"
 
     # game/code/d14p2/d14s17.rpy:271
     old "I don't have a phone with me"
     new "Ich habe kein Handy dabei"
-

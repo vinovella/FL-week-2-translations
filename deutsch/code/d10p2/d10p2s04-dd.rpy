@@ -1618,7 +1618,7 @@ translate deutsch strings:
 
     # game/code/d10p2/d10p2s04-dd.rpy:122
     old "Bail"
-    new "Verschwinde"
+    new "Abhauen"
 
     # game/code/d10p2/d10p2s04-dd.rpy:122
     old "Go check up on her"
@@ -1642,7 +1642,7 @@ translate deutsch strings:
 
     # game/code/d10p2/d10p2s04-dd.rpy:457
     old "Cum"
-    new "Komm"
+    new "Komm'"
 
     # game/code/d10p2/d10p2s04-dd.rpy:457
     old "Hold on"
@@ -1650,11 +1650,11 @@ translate deutsch strings:
 
     # game/code/d10p2/d10p2s04-dd.rpy:464
     old "On her"
-    new "Auf sie"
+    new "Auf ihr"
 
     # game/code/d10p2/d10p2s04-dd.rpy:464
     old "In her"
-    new "In sie"
+    new "In ihr"
 
     # game/code/d10p2/d10p2s04-dd.rpy:572
     old "Punish her"
@@ -1662,17 +1662,16 @@ translate deutsch strings:
 
     # game/code/d10p2/d10p2s04-dd.rpy:645
     old "Cum now"
-    new "Komm jetzt"
+    new "Komm' jetzt"
 
     # game/code/d10p2/d10p2s04-dd.rpy:645
     old "Hold longer"
-    new "Halte es auf"
+    new "Halte an"
 
     # game/code/d10p2/d10p2s04-dd.rpy:790
     old "Finally cum"
-    new "Komm endlich"
+    new "Komm' endlich"
 
     # game/code/d10p2/d10p2s04-dd.rpy:790
     old "Hold even more"
-    new "Halte es noch länger auf"
-
+    new "Halte es noch länger an"

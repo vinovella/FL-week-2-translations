@@ -376,9 +376,8 @@ translate deutsch strings:
 
     # game/code/d10p2/d10p2s09.rpy:788
     old "Cum on her face"
-    new "Komm auf ihrem Gesicht"
+    new "Komm auf ihr Gesicht"
 
     # game/code/d10p2/d10p2s09.rpy:788
     old "Cum on her tits"
     new "Komm auf ihre Titten"
-

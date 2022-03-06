@@ -890,13 +890,12 @@ translate deutsch strings:
 
     # game/code/d14p2/d14s11.rpy:228
     old "Stacy puts on your dick"
-    new "Stacy legt deinen Schwanz"
+    new "Stacy legt es auf deinen Schwanz"
 
     # game/code/d14p2/d14s11.rpy:331
     old "Go with Allison"
-    new "Geh mit Allison"
+    new "Folge Allison"
 
     # game/code/d14p2/d14s11.rpy:331
     old "Don't go with Allison"
-    new "Gehe nicht mit Allison"
-
+    new "Folge Allison nicht"

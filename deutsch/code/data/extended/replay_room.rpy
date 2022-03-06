@@ -116,7 +116,7 @@ translate deutsch strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Say yes to enema play"
-    new "Sag ja zum Klistierspiel"
+    new "Sag ja zum Einlaufspiel"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 4: Polly"
@@ -557,4 +557,3 @@ translate deutsch strings:
     # game/code/data/extended/replay_room.rpy:15
     old "Day 14: Stacy"
     new "Tag 14: Stacy"
-

@@ -124,7 +124,7 @@ translate deutsch replay_d09s06_0b8951e4:
 translate deutsch replay_d09s06_9134c7dc:
 
     # mc "But he won't try watersports?"
-    mc "Aber er probiert keine Wassersportarten?"
+    mc "Aber er probiert keinen Natursekt aus?"
 
 # game/code/d09/d09s06.rpy:49
 translate deutsch replay_d09s06_b8584585:
@@ -489,4 +489,3 @@ translate deutsch strings:
     # game/code/d09/d09s06.rpy:148
     old "Fill a couple of glasses"
     new "Befülle ein paar Glässer"
-

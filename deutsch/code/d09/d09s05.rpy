@@ -46,13 +46,13 @@ translate deutsch d09s05_8e8c7f8f:
 translate deutsch d09s05_6663c911:
 
     # sb "Did you or did you not have an enema clean before coming here?"
-    sb "Hast du dich mit einem Klistier gesäubert bevor du gekommen bist?"
+    sb "Hast du dich mit einem Einlauf gesäubert bevor du gekommen bist?"
 
 # game/code/d09/d09s05.rpy:47
 translate deutsch d09s05_0554c136:
 
     # mc "What? No, I didn't. You didn't mention squat about an enema."
-    mc "Was? Nein, sicher nicht. Du hast das Klistier nie erwähnt."
+    mc "Was? Nein, sicher nicht. Du hast den Einlauf nie erwähnt."
 
 # game/code/d09/d09s05.rpy:48
 translate deutsch d09s05_3ec63a24:
@@ -70,7 +70,7 @@ translate deutsch d09s05_1f9b3387:
 translate deutsch d09s05_69f7331c:
 
     # mc "First of all, I can't summon an enema out of nowhere."
-    mc "Erstens kann ich kein Klistier herzaubern."
+    mc "Erstens kann ich keinen Einlauf herzaubern."
 
 # game/code/d09/d09s05.rpy:52
 translate deutsch d09s05_785171d8:
@@ -658,7 +658,7 @@ translate deutsch d09s05_fucks_5b20c5be:
 translate deutsch d09s05_fucks_b42a3e42:
 
     # mc "I mean about the enema. You were absolutely right that it was necessary!"
-    mc "Ich meine wegen des Klistiers. Du hattest Recht damit, dass es notwendig war!"
+    mc "Ich meine wegen des Einlaufs. Du hattest Recht damit, dass es notwendig war!"
 
 # game/code/d09/d09s05.rpy:349
 translate deutsch d09s05_fucks_48581434:
@@ -798,7 +798,7 @@ translate deutsch strings:
 
     # game/code/d09/d09s05.rpy:376
     old "Cover the whore"
-    new "Bedecke die Hure"
+    new "Mal' die Hure an"
 
 # TODO: Translation updated at 2021-05-16 23:52
 
@@ -843,4 +843,3 @@ translate deutsch strings:
     # game/code/d09/d09s05.rpy:537
     old "\"Prank a M.I.L.F.\""
     new "\"Verarsche eine M.I.L.F.\""
-

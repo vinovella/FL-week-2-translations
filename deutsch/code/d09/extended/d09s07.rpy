@@ -1512,7 +1512,7 @@ translate deutsch strings:
 
     # game/code/d09/extended/d09s07.rpy:300
     old "Change things up"
-    new "Ändere die Dinge"
+    new "Bringe etwas Abwechslung ein"
 
     # game/code/d09/extended/d09s07.rpy:365
     old "Fuck her pussy"
@@ -1524,9 +1524,8 @@ translate deutsch strings:
 
     # game/code/d09/extended/d09s07.rpy:416
     old "Creampie the Judge"
-    new "Spritz auf der Anwältin ab"
+    new "Komme in der Anwältin"
 
     # game/code/d09/extended/d09s07.rpy:416
     old "Flip her over"
     new "Dreh sie um"
-

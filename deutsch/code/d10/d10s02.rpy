@@ -916,9 +916,8 @@ translate deutsch strings:
 
     # game/code/d10/d10s02.rpy:137
     old "Warn Maria about Fetish Locator"
-    new "Warne Maria wegen Fetisch Locator"
+    new "Warne Maria über Fetisch Locator"
 
     # game/code/d10/d10s02.rpy:137
     old "Ask her if she wants to earn some points"
     new "Frag sie, ob sie sich ein paar Punkte verdienen möchte"
-

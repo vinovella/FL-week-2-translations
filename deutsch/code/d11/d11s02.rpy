@@ -298,7 +298,7 @@ translate deutsch d11s02_71777a26:
 translate deutsch d11s02_98626d25:
 
     # kb "Yeah, but do you remember last Thursday? At least it's not enema."
-    kb "Ja, aber erinnerst du dich an letzten Donnerstag? Wenigstens ist es kein Klistier."
+    kb "Ja, aber erinnerst du dich an letzten Donnerstag? Wenigstens ist es kein Einlauf."
 
 # game/code/d11/d11s02.rpy:120
 translate deutsch d11s02_e1a76e20:
@@ -1745,4 +1745,3 @@ translate deutsch d11s02_c8046555:
 
     # arj "Just a few more days... finals are coming soon."
     arj "Nur noch ein paar Tage... bald kommt der Abschluss."
-

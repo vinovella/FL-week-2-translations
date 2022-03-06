@@ -532,5 +532,4 @@ translate deutsch strings:
 
     # game/code/d13/d13s01.rpy:148
     old "Stay and study"
-    new "Bleib und lerne"
-
+    new "Bleib' und lerne"

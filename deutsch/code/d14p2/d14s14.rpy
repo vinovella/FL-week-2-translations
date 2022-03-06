@@ -916,7 +916,7 @@ translate deutsch strings:
 
     # game/code/d14p2/d14s14.rpy:170
     old "Overpower Her Until She Submits"
-    new "Besiege sie bis sie es dir gibt"
+    new "Unterdrücke sie bis sie aufgibt"
 
     # game/code/d14p2/d14s14.rpy:170
     old "Try to Make the Her Cum"
@@ -928,5 +928,4 @@ translate deutsch strings:
 
     # game/code/d14p2/d14s14.rpy:425
     old "I Like This Feeling!!!"
-    new "Ich mag das Gefühl!!!"
-
+    new "Ich mag dieses Gefühl!!!"

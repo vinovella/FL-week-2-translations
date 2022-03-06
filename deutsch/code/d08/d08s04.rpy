@@ -124,7 +124,7 @@ translate deutsch d08s04_ee1dded4:
 translate deutsch d08s04_8b289a34:
 
     # mesfl "And I didn't cum because Min was the whole day with Anthony and he doesn't want to hear about watersports..."
-    mesfl "Und ich bin nicht gekommen, weil Min den ganzen Tag mit Anthony zusammen war und er nichts von Wassersport hören wollte..."
+    mesfl "Und ich bin nicht gekommen, weil Min den ganzen Tag mit Anthony zusammen war und er nichts von Natursekt hören wollte..."
 
 # game/code/d08/d08s04.rpy:104
 translate deutsch d08s04_214b787d:
@@ -642,7 +642,7 @@ translate deutsch replay_d08s04_62adf38b:
 translate deutsch replay_d08s04_8839f428:
 
     # mesfl "I spent the whole day with Antony and he doesn't want to hear anything about watersports..."
-    mesfl "Ich habe den ganzen Tag mit Antony verbracht und er will nichts von Wassersport hören..."
+    mesfl "Ich habe den ganzen Tag mit Antony verbracht und er will nichts von Natursekt hören..."
 
 # game/code/d08/d08s04.rpy:100
 translate deutsch replay_d08s04_aa6876c4:
@@ -1053,4 +1053,3 @@ translate deutsch replay_d08s04_3f8bc07a:
 
     # mc "You need to see this challenge as a marathon and not a race."
     mc "Du musst diese Herausforderung als einen Marathon sehen und nicht als ein Rennen."
-

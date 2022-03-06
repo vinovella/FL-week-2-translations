@@ -604,7 +604,7 @@ translate deutsch d08s03_a0c15eb0:
 translate deutsch d08s03_5ce36734:
 
     # mct "I doubt that I can find a watersports course curriculum online."
-    mct "Ich bezweifle, dass ich einen Wassersport Kurs im Online Stundenplan finden kann."
+    mct "Ich bezweifle, dass ich einen Natursekt Kurs im Online Stundenplan finden kann."
 
 # game/code/d08/d08s03.rpy:243
 translate deutsch d08s03_e1fde363:
@@ -1900,4 +1900,3 @@ translate deutsch d08s03_end_6bf3ab4e:
 
     # mct "Alright, time to meet Squizzle at the toilet."
     mct "In Ordnung, es wird Zeit Squizzle in der Toilette zu besuchen."
-

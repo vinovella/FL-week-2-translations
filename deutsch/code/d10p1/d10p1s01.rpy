@@ -832,7 +832,7 @@ translate deutsch d10p1s01_911a1208:
 translate deutsch d10p1s01_b68b4815:
 
     # mesfl "Nothing? Will set there Apples. Remember it."
-    mesfl "Nichts? Wird dort Äpfel setzen. Merk dir das."
+    mesfl "Nichts? Werde Äpfel eingeben. Merk dir das."
 
 # game/code/d10p1/d10p1s01.rpy:227
 translate deutsch d10p1s01_02d93ac8:
@@ -1281,4 +1281,3 @@ translate deutsch d10p1s01_7e7578d2:
 
     # mc "Yep. I can remember [mc_safeword!t]..."
     mc "Jap. Ich kann mir [mc_safeword!t] merken..."
-

@@ -716,13 +716,12 @@ translate deutsch strings:
 
     # game/code/d14/d14s07.rpy:248
     old "Deflower Her Renewed Virginity"
-    new "Beflecke ihre erneuerte Jungfräulichkeit"
+    new "Nimm ihre erneuerte Jungfräulichkeit"
 
     # game/code/d14/d14s07.rpy:323
     old "Creampie Her Pussy Instead"
-    new "Bespritze stattdessen ihre Pussy"
+    new "Komm' stattdessen in ihre Pussy"
 
     # game/code/d14/d14s07.rpy:323
     old "Creampie Her Ass As Requested"
-    new "Bespritze wie gewünscht ihren Arsch"
-
+    new "Komm' wie gewünscht in ihren Arsch"

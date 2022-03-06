@@ -628,7 +628,7 @@ translate deutsch strings:
 
     # game/code/d10/d10s03.rpy:193
     old "Drag Pete out with you?"
-    new "Zieh Pete mit dir raus?"
+    new "Schleife Pete mit dir raus?"
 
     # game/code/d10/d10s03.rpy:193
     old "Eh, whatever"
@@ -637,4 +637,3 @@ translate deutsch strings:
     # game/code/d10/d10s03.rpy:193
     old "Let's go"
     new "Lass uns gehen"
-

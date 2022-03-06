@@ -158,7 +158,7 @@ translate deutsch strings:
 
     # game/code/d08/prologue.rpy:148
     old "I am a gentleman (tips fedora)"
-    new "Ich bin ein Gentleman (gibt Fedora Trinkgeld)"
+    new "Ich bin ein Gentleman (ziehe den Hut)"
 
     # game/code/d08/prologue.rpy:148
     old "I want to dominate her"

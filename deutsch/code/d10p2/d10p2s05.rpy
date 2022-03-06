@@ -1048,7 +1048,7 @@ translate deutsch strings:
 
     # game/code/d10p2/d10p2s05.rpy:470
     old "If you continue, the free roam will end here. What do you want to do?"
-    new "Wenn du weitermachst, wird der freie Roam hier enden. Was willst du tun?"
+    new "Wenn du weitermachst, wird die freie Bewegung hier enden. Was willst du tun?"
 
     # game/code/d10p2/d10p2s05.rpy:470
     old "Continue"
@@ -1060,13 +1060,12 @@ translate deutsch strings:
 
     # game/code/d10p2/d10p2s05.rpy:524
     old "Reject her"
-    new "Lehn sie ab"
+    new "Ablehnen"
 
     # game/code/d10p2/d10p2s05.rpy:868
     old "Inside"
-    new "Innen"
+    new "In ihr"
 
     # game/code/d10p2/d10p2s05.rpy:868
     old "Outside"
-    new "Außerhalb"
-
+    new "Auf ihr"

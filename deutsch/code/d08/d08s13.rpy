@@ -1102,9 +1102,8 @@ translate deutsch strings:
 
     # game/code/d08/d08s13.rpy:130
     old "Well, I guess I would be a dad"
-    new "Naja, ich würde wahrscheinlich ein Vater sein"
+    new "Naja, dann wäre ich wahrscheinlich ein Vater"
 
     # game/code/d08/d08s13.rpy:130
     old "We would have to decide what to do about that"
     new "Wir müssten entscheiden, was zu tun ist"
-

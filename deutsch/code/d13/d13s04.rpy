@@ -1006,9 +1006,8 @@ translate deutsch strings:
 
     # game/code/d13/d13s04.rpy:31
     old "I will be a father"
-    new "Ich werde Vater"
+    new "Ich werde Vater sein"
 
     # game/code/d13/d13s04.rpy:31
     old "No. I'm not a father"
-    new "Nein. ich bin kein Vater"
-
+    new "Nein. Ich bin kein Vater"

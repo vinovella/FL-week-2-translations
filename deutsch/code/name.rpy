@@ -6,7 +6,7 @@ translate deutsch strings:
     new "Mädchen"
 
     old "Some dude"
-    new "Ein Typ"
+    new "Irgendein Typ"
 
     old "Tattooed Girl"
     new "Tätowiertes Mädchen"

@@ -756,7 +756,7 @@ translate deutsch strings:
 
     # game/code/d10p2/d10p2s01.rpy:140
     old "Proximity Event"
-    new "Nähe Event"
+    new "Annäherungsevent"
 
     # game/code/d10p2/d10p2s01.rpy:140
     old "Horseback Riding Event"
@@ -773,4 +773,3 @@ translate deutsch d10p2s01_a55c5cb4:
 
     # dd "Just come outside. We will be waiting for you there!"
     dd "Komm einfach raus. Wir werden da auf dich warten!"
-

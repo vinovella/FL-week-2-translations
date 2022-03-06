@@ -16,7 +16,7 @@ translate deutsch strings:
 
     # game/code/screens/screens_fl.rpy:121
     old "No save from week [FLSS.week.prev] has been detected"
-    new "Es wurde von Woche [FLSS.week.prev] keine Speicherung erkannt"
+    new "Es wurde von Woche [FLSS.week.prev] keine Speicherstand erkannt"
 
 # TODO: Translation updated at 2020-07-30 07:17
 
@@ -92,7 +92,7 @@ translate deutsch strings:
 
     # game/code/screens/screens_fl.rpy:271
     old "{u}Fill the questionnaire to play week [FLSS.week.cur] without loading a save{/u}"
-    new "{u}Beantworte die Fragen um Woche [FLSS.week.cur] ohne deinen Speicherstand zu überschreiben zu spielen{/u}"
+    new "{u}Fülle den Fragenbogen aus um Woche [FLSS.week.cur] ohne einen bestehenden Speicherstand zu spielen{/u}"
 # TODO: Translation updated at 2021-10-19 22:16
 
 translate deutsch strings:
@@ -107,7 +107,7 @@ translate deutsch strings:
 
     # game/code/screens/screens_fl.rpy:786
     old "SKIP"
-    new "ÜBERSPRINGE"
+    new "ÜBERSPRINGEN"
 
 # TODO: Translation updated at 2021-10-25 01:16
 
@@ -123,11 +123,11 @@ translate deutsch strings:
 
     # game/code/screens/screens_fl.rpy:539
     old "Go back and enable {b}Watersports{/b} fetish to be able to select Min"
-    new "Geh zurück und ermögliche den {b}Wassersportarten{/b} Fetisch, um Min wählen zu können"
+    new "Geh zurück und aktiviere den {b}Natursekt{/b} Fetisch, um Min wählen zu können"
 
     # game/code/screens/screens_fl.rpy:570
     old "Go back and enable {b}Trans Content{/b} to be able to select Lyssa"
-    new "Geh zurück und ermögliche den {b}Trans Inhalt{/b}, um Lyssa wählen zu können"
+    new "Geh zurück und aktiviere den {b}Trans Inhalte{/b}, um Lyssa wählen zu können"
 
 # TODO: Translation updated at 2022-03-01 03:38
 
@@ -143,7 +143,7 @@ translate deutsch strings:
 
     # game/code/screens/screens_fl.rpy:392
     old "Navigation"
-    new "Orientierung"
+    new "Navigation"
 
     # game/code/screens/screens_fl.rpy:393
     old "Quick Save"

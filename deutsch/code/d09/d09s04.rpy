@@ -756,9 +756,8 @@ translate deutsch strings:
 
     # game/code/d09/d09s04.rpy:74
     old "Bail Out"
-    new "Aussteigen"
+    new "Abbrechen"
 
     # game/code/d09/d09s04.rpy:88
     old "Be a gigolo"
     new "Werde ein Gigolo"
-

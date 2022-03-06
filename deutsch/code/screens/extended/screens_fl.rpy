@@ -8,7 +8,7 @@ translate deutsch strings:
 
     # game/code/screens/extended/screens_fl.rpy:17
     old "Replay Room"
-    new "Raum noch einmal spielen"
+    new "Replay Raum"
 
     # game/code/screens/extended/screens_fl.rpy:23
     old "Achievements"
@@ -16,11 +16,11 @@ translate deutsch strings:
 
     # game/code/screens/extended/screens_fl.rpy:30
     old "Hints on"
-    new "Cheats an"
+    new "Hinweise an"
 
     # game/code/screens/extended/screens_fl.rpy:30
     old "Hints off"
-    new "Cheats aus"
+    new "Hinweise aus"
 
     # game/code/screens/extended/screens_fl.rpy:45
     old "Page [page]"
@@ -41,4 +41,3 @@ translate deutsch strings:
     # game/code/screens/extended/screens_fl.rpy:46
     old "CLOSE"
     new "SCHLIEßEN"
-

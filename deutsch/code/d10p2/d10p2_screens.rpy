@@ -4,7 +4,7 @@ translate deutsch strings:
 
     # game/code/d10p2/d10p2_screens.rpy:6
     old "Give up!"
-    new "Gib auf!"
+    new "Aufgeben!"
 
     # game/code/d10p2/d10p2_screens.rpy:11
     old "Stop searching"
@@ -12,11 +12,11 @@ translate deutsch strings:
 
     # game/code/d10p2/d10p2_screens.rpy:15
     old "Skip{#d10p2s05}"
-    new "Überspringe{#d10p2s05}"
+    new "Überspringen{#d10p2s05}"
 
     # game/code/d10p2/d10p2_screens.rpy:20
     old "Skip the free roam"
-    new "Überspringe den freien Roam"
+    new "Überspringe die freie Bewegung"
 
     # game/code/d10p2/d10p2_screens.rpy:42
     old "Go to the stairs"
@@ -92,7 +92,7 @@ translate deutsch strings:
 
     # game/code/d10p2/d10p2_screens.rpy:456
     old "Check the painting"
-    new "Schau nach dem Bild"
+    new "Schau das Bild an"
 
     # game/code/d10p2/d10p2_screens.rpy:480
     old "Check the Pandora room"
@@ -124,7 +124,7 @@ translate deutsch strings:
 
     # game/code/d10p2/d10p2_screens.rpy:692
     old "Enter the room"
-    new "Betritt den Raum"
+    new "Betrete den Raum"
 
     # game/code/d10p2/d10p2_screens.rpy:717
     old "Check Chloe and Kevin"
@@ -181,4 +181,3 @@ translate deutsch strings:
     # game/code/d10p2/d10p2_screens.rpy:951
     old "Continue to the final scene"
     new "Fahre bis zur finalen Szene fort"
-

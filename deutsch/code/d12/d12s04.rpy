@@ -874,5 +874,4 @@ translate deutsch strings:
 
     # game/code/d12/d12s04.rpy:496
     old "Take the plunge; be a considerate lover"
-    new "Wag den Sprung; sei ein rücksichtsvoller Liebhaber"
-
+    new "Wag' den Sprung; sei ein rücksichtsvoller Liebhaber"

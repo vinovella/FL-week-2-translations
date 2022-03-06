@@ -44,7 +44,7 @@ translate deutsch strings:
 
     # game/code/data/prologue.rpy:14
     old "Obsessed with winning & watersports"
-    new "Besessen vom Sieg & Wassersportarten"
+    new "Besessen vom Sieg & Natursekt"
 
     # game/code/data/prologue.rpy:14
     old "Lovely Lyssa"
@@ -68,11 +68,11 @@ translate deutsch strings:
 
     # game/code/data/prologue.rpy:14
     old "The submissive free spirit"
-    new "Der unterwürfige freie Geist"
+    new "Der unterwürfige Freigeist"
 
     # game/code/data/prologue.rpy:14
     old "Dazzling Dahlia"
-    new "Blendende Dahlia"
+    new "Umwerfende Dahlia"
 
     # game/code/data/prologue.rpy:14
     old "The dominatrix"
@@ -80,19 +80,19 @@ translate deutsch strings:
 
     # game/code/data/prologue.rpy:32
     old "Cumshot"
-    new "Abspritzer"
+    new "Abspritzen"
 
     # game/code/data/prologue.rpy:32
     old "Creampie"
-    new "Sahnekuchen"
+    new "Creampie"
 
     # game/code/data/prologue.rpy:32
     old "Enema"
-    new "Klistier"
+    new "Einlauf"
 
     # game/code/data/prologue.rpy:32
     old "Watersports"
-    new "Wassersportarten"
+    new "Natursekt"
 
     # game/code/data/prologue.rpy:32
     old "Footfetish"
@@ -128,5 +128,4 @@ translate deutsch strings:
 
     # game/code/data/prologue.rpy:34
     old "Trans Content"
-    new "Trans Inhalt"
-
+    new "Trans Inhalte"

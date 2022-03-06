@@ -1000,15 +1000,15 @@ translate deutsch strings:
 
     # game/code/d10p1/d10p1s05.rpy:186
     old "Tap That Ass"
-    new "Tipp den Arsch an"
+    new "Dick den Arsch"
 
     # game/code/d10p1/d10p1s05.rpy:186
     old "Walk Away"
-    new "Geh weg"
+    new "Weggehen"
 
     # game/code/d10p1/d10p1s05.rpy:257
     old "Creampie her ass"
-    new "Bespritze ihren Arsch"
+    new "Spritze in ihren Arsch"
 
     # game/code/d10p1/d10p1s05.rpy:257
     old "ATM FTW"
@@ -1021,4 +1021,3 @@ translate deutsch d10p1s05_end_e8b03348:
 
     # mc "So, she spat piss all over him?"
     mc "Also hat sie ihn überall mit Pisse bespritzt?"
-

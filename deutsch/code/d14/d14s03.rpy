@@ -1384,5 +1384,4 @@ translate deutsch strings:
 
     # game/code/d14/d14s03.rpy:363
     old "Kiss her"
-    new "Küss sie"
-
+    new "Küss' sie"

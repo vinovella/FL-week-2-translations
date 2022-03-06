@@ -52,7 +52,7 @@ translate deutsch strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "100 patrons"
-    new "100 Patronen"
+    new "100 Patrons"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Day 5: Vanessa"
@@ -80,7 +80,7 @@ translate deutsch strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "200 patrons"
-    new "200 Patronen"
+    new "200 Patrons"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Day 6: Karen"
@@ -204,7 +204,7 @@ translate deutsch strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Fail Out"
-    new "Falle aus"
+    new "Scheitere"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Screw up on all of Samiya's tasks"
@@ -456,7 +456,7 @@ translate deutsch strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "See both endings of Week 2"
-    new "Schau dir beide Enden von Woche 2 an"
+    new "Sieh' beide Enden von Woche 2"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Lowball"
@@ -465,4 +465,3 @@ translate deutsch strings:
     # game/code/data/extended/extra_gallery.rpy:15
     old "Be with the fewest number of people by the end of the week"
     new "Sei mit den wenigsten Leuten bis zum Ende der Woche"
-

@@ -40,7 +40,7 @@ translate deutsch strings:
 
     # game/code/data/extended/cg_gallery.rpy:15
     old "Don't accept Polly's request"
-    new "Akzeptiere Polly's Anfrage nicht"
+    new "Akzeptiere Polly's Vorschlag nicht"
 
     # game/code/data/extended/cg_gallery.rpy:15
     old "Day 2: Nora - Daylight"
@@ -60,7 +60,7 @@ translate deutsch strings:
 
     # game/code/data/extended/cg_gallery.rpy:15
     old "You must NOT romance Amrose"
-    new "Du solltest Amrose NICHT romantisieren"
+    new "Du darfst Amrose NICHT daten"
 
     # game/code/data/extended/cg_gallery.rpy:15
     old "Day 3: AmRose"
@@ -84,7 +84,7 @@ translate deutsch strings:
 
     # game/code/data/extended/cg_gallery.rpy:15
     old "You must have helped Kevin"
-    new "Du hättest Kevin helfen müssen"
+    new "Du musst Kevin helfen"
 
     # game/code/data/extended/cg_gallery.rpy:15
     old "Day 3: Daisy"
@@ -124,7 +124,7 @@ translate deutsch strings:
 
     # game/code/data/extended/cg_gallery.rpy:15
     old "You must have peeked on Hana on day 1"
-    new "Du hättest Hana an Tag 1 zuschauen müssen"
+    new "Du musst Hana an Tag 1 unter die Decke lugen"
 
     # game/code/data/extended/cg_gallery.rpy:15
     old "The party: Lydia"
@@ -156,7 +156,7 @@ translate deutsch strings:
 
     # game/code/data/extended/cg_gallery.rpy:15
     old "You must be into watersports or have joined Antony's event"
-    new "Du musst auf Wassersportarten stehen oder an Antony's Event teilgenommen haben"
+    new "Du musst auf Natursekt stehen oder an Antony's Event teilgenommen haben"
 
     # game/code/data/extended/cg_gallery.rpy:15
     old "Day 5: AmRose"
@@ -256,7 +256,7 @@ translate deutsch strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "You must have helped Kevin and respected AmRose privacy"
-    new "Du hättest Kevin helfen und AmRose's Privatsphäre akzeptieren müssen"
+    new "Du musst Kevin helfen und AmRose's Privatsphäre akzeptieren"
 
 # TODO: Translation updated at 2020-07-30 07:17
 
@@ -308,7 +308,7 @@ translate deutsch strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Submit"
-    new "Einreichen"
+    new "Unterwerfe Dich"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 8: Daisy - University"
@@ -508,7 +508,7 @@ translate deutsch strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Don't intervene"
-    new "Greif nicht ein"
+    new "Schreite nicht ein"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 11: Min"
@@ -581,4 +581,3 @@ translate deutsch strings:
     # game/code/data/extended/cg_gallery.rpy:21
     old "Party 3: Participants"
     new "Party 3: Teilnehmer"
-

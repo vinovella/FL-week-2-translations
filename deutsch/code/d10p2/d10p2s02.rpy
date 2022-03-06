@@ -898,7 +898,7 @@ translate deutsch strings:
 
     # game/code/d10p2/d10p2s02.rpy:58
     old "Intervene"
-    new "Schreite ein"
+    new "Einschreiten"
 
     # game/code/d10p2/d10p2s02.rpy:58
     old "Just Watch"
@@ -906,9 +906,8 @@ translate deutsch strings:
 
     # game/code/d10p2/d10p2s02.rpy:142
     old "Came to your rescue"
-    new "Zu deiner Rettung kommen"
+    new "Zu deiner Rettung gekommen"
 
     # game/code/d10p2/d10p2s02.rpy:142
     old "Came to his rescue"
-    new "Zu seiner Rettung kommen"
-
+    new "Zu seiner Rettung gekommen"
