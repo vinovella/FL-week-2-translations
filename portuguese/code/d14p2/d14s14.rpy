@@ -919,7 +919,7 @@ translate portuguese strings:
     new "Usar Força Até Ela Desistir"
 
     # game/code/d14p2/d14s14.rpy:170
-    old "Try to Make the Her Cum"
+    old "Try to Make Her Cum"
     new "Tentar Fazer Ela Gozar"
 
     # game/code/d14p2/d14s14.rpy:425
@@ -929,4 +929,3 @@ translate portuguese strings:
     # game/code/d14p2/d14s14.rpy:425
     old "I Like This Feeling!!!"
     new "Eu Adoro Isso!!!"
-

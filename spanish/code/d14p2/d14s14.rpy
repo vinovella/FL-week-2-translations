@@ -919,7 +919,7 @@ translate spanish strings:
     new "Dominarla hasta que se someta"
 
     # game/code/d14p2/d14s14.rpy:170
-    old "Try to Make the Her Cum"
+    old "Try to Make Her Cum"
     new "Intenta hacer que ella se corra"
 
     # game/code/d14p2/d14s14.rpy:425

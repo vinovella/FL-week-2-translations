@@ -919,7 +919,7 @@ translate italian strings:
     new "Dominala Finché Non Si Arrende"
 
     # game/code/d14p2/d14s14.rpy:170
-    old "Try to Make the Her Cum"
+    old "Try to Make Her Cum"
     new "Cerca di Farla Venire"
 
     # game/code/d14p2/d14s14.rpy:425
