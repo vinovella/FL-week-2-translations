@@ -373,10 +373,10 @@ translate russian d11s01_94c4ba03:
     arj "Видишь это?"
 
 # game/code/d11/d11s01.rpy:200
-translate russian d11s01_16379474:
+translate russian d11s01_d83b4b7b:
 
-    # fl "Your next task is to help [mclogin] to fulfill his task."
-    fl "Ваша следующее задание - помочь выполнить задачу персоне известному как [mclogin]."
+    # flr "Your next task is to help [mclogin] to fulfill his task."
+    flr "Ваша следующее задание - помочь выполнить задачу персоне известному как [mclogin]."
 
 # game/code/d11/d11s01.rpy:203
 translate russian d11s01_c07210b1:
@@ -402,6 +402,12 @@ translate russian d11s01_424e0d7c:
     # fl "Your task is to have sex with 20 different people by the end of Sunday."
     fl "Твоя задача - к концу воскресенья заняться сексом с 20 разными людьми."
 
+# game/code/d11/d11s01.rpy:232
+translate russian d11s01_6c435a1d_1:
+
+    # flr "Your task is to have sex with 20 different people by the end of Sunday."
+    flr "Твоя задача - к концу воскресенья заняться сексом с 20 разными людьми."
+
 # game/code/d11/d11s01.rpy:222
 translate russian d11s01_a1b21b5a:
 
@@ -419,6 +425,12 @@ translate russian d11s01_92ad8109:
 
     # fl "If you fail to accomplish this you will be punished with your cock taken away."
     fl "Если ты не справишься с этим, то ты будешь наказан тем, что тебя лишат члена."
+
+# game/code/d11/d11s01.rpy:247
+translate russian d11s01_cc233338_1:
+
+    # flr "If you fail to accomplish this you will be punished with your cock taken away."
+    flr "Если ты не справишься с этим, то ты будешь наказан тем, что тебя лишат члена."
 
 # game/code/d11/d11s01.rpy:227
 translate russian d11s01_9f9c26f3:
