@@ -919,7 +919,7 @@ translate malay strings:
     new "Kalahkan Dia Sehingga Dia Berserah"
 
     # game/code/d14p2/d14s14.rpy:170
-    old "Try to Make the Her Cum"
+    old "Try to Make Her Cum"
     new "Cuba Buat Dia Pancut"
 
     # game/code/d14p2/d14s14.rpy:425
@@ -929,4 +929,3 @@ translate malay strings:
     # game/code/d14p2/d14s14.rpy:425
     old "I Like This Feeling!!!"
     new "Aku Suka Perasaan Ini!!!"
-

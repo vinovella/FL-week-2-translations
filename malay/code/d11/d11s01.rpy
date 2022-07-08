@@ -373,10 +373,10 @@ translate malay d11s01_94c4ba03:
     arj "Nampak?"
 
 # game/code/d11/d11s01.rpy:198
-translate malay d11s01_16379474:
+translate malay d11s01_d83b4b7b:
 
-    # fl "Your next task is to help [mclogin] to fulfill his task."
-    fl "Tugas anda seterusnya adalah membantu [mclogin] memenuhi tugasnya."
+    # flr "Your next task is to help [mclogin] to fulfill his task."
+    flr "Tugas anda seterusnya adalah membantu [mclogin] memenuhi tugasnya."
 
 # game/code/d11/d11s01.rpy:201
 translate malay d11s01_c07210b1:
@@ -402,6 +402,12 @@ translate malay d11s01_424e0d7c:
     # fl "Your task is to have sex with 20 different people by the end of Sunday."
     fl "Tugas anda ialah melakukan hubungan seks dengan 20 orang yang berbeza menjelang akhir Ahad."
 
+# game/code/d11/d11s01.rpy:232
+translate malay d11s01_6c435a1d_1:
+
+    # flr "Your task is to have sex with 20 different people by the end of Sunday."
+    flr "Tugas anda ialah melakukan hubungan seks dengan 20 orang yang berbeza menjelang akhir Ahad."
+
 # game/code/d11/d11s01.rpy:220
 translate malay d11s01_a1b21b5a:
 
@@ -419,6 +425,12 @@ translate malay d11s01_92ad8109:
 
     # fl "If you fail to accomplish this you will be punished with your cock taken away."
     fl "Sekiranya anda gagal mencapainya, anda akan dihukum dengan kote anda \"dihapuskan\"."
+
+# game/code/d11/d11s01.rpy:247
+translate malay d11s01_cc233338_1:
+
+    # flr "If you fail to accomplish this you will be punished with your cock taken away."
+    flr "Sekiranya anda gagal mencapainya, anda akan dihukum dengan kote anda \"dihapuskan\"."
 
 # game/code/d11/d11s01.rpy:225
 translate malay d11s01_9f9c26f3:

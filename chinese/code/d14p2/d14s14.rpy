@@ -919,7 +919,7 @@ translate chinese strings:
     new "制服她直到她屈服"
 
     # game/code/d14p2/d14s14.rpy:170
-    old "Try to Make the Her Cum"
+    old "Try to Make Her Cum"
     new "尝试让她高潮"
 
     # game/code/d14p2/d14s14.rpy:425

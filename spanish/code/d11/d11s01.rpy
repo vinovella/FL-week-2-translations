@@ -373,10 +373,10 @@ translate spanish d11s01_94c4ba03:
     arj "¿Ves esto?"
 
 # game/code/d11/d11s01.rpy:163
-translate spanish d11s01_16379474:
+translate spanish d11s01_d83b4b7b:
 
-    # fl "Your next task is to help [mclogin] to fulfill his task."
-    fl "Tu siguiente tarea es ayudar a [mclogin] a cumplir su tarea."
+    # flr "Your next task is to help [mclogin] to fulfill his task."
+    flr "Tu siguiente tarea es ayudar a [mclogin] a cumplir su tarea."
 
 # game/code/d11/d11s01.rpy:165
 translate spanish d11s01_c07210b1:
@@ -402,6 +402,12 @@ translate spanish d11s01_424e0d7c:
     # fl "Your task is to have sex with 20 different people by the end of Sunday."
     fl "Tu tarea es tener sexo con 20 personas diferentes para el final del domingo."
 
+# game/code/d11/d11s01.rpy:232
+translate spanish d11s01_6c435a1d_1:
+
+    # flr "Your task is to have sex with 20 different people by the end of Sunday."
+    flr "Tu tarea es tener sexo con 20 personas diferentes para el final del domingo."
+
 # game/code/d11/d11s01.rpy:182
 translate spanish d11s01_a1b21b5a:
 
@@ -419,6 +425,12 @@ translate spanish d11s01_92ad8109:
 
     # fl "If you fail to accomplish this you will be punished with your cock taken away."
     fl "Si no lo consigues serás castigado con la retirada de tu polla."
+
+# game/code/d11/d11s01.rpy:247
+translate spanish d11s01_cc233338_1:
+
+    # flr "If you fail to accomplish this you will be punished with your cock taken away."
+    flr "Si no lo consigues serás castigado con la retirada de tu polla."
 
 # game/code/d11/d11s01.rpy:186
 translate spanish d11s01_9f9c26f3:

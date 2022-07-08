@@ -919,7 +919,7 @@ translate russian strings:
     new "Дави на нее, пока она не подчинится"
 
     # game/code/d14p2/d14s14.rpy:226
-    old "Try to Make the Her Cum"
+    old "Try to Make Her Cum"
     new "Попробуй заставить ее кончить"
 
     # game/code/d14p2/d14s14.rpy:588
@@ -929,4 +929,3 @@ translate russian strings:
     # game/code/d14p2/d14s14.rpy:588
     old "I Like This Feeling!!!"
     new "Мне нравится это чувство!!!"
-

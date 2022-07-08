@@ -373,10 +373,10 @@ translate chinese d11s01_94c4ba03:
     arj "看到这个了吗？"
 
 # game/code/d11/d11s01.rpy:163
-translate chinese d11s01_16379474:
+translate chinese d11s01_d83b4b7b:
 
-    # fl "Your next task is to help [mclogin] to fulfill his task."
-    fl "你的下一个任务是帮助[mclogin]完成他的任务。"
+    # flr "Your next task is to help [mclogin] to fulfill his task."
+    flr "你的下一个任务是帮助[mclogin]完成他的任务。"
 
 # game/code/d11/d11s01.rpy:165
 translate chinese d11s01_c07210b1:
@@ -402,6 +402,12 @@ translate chinese d11s01_424e0d7c:
     # fl "Your task is to have sex with 20 different people by the end of Sunday."
     fl "你的任务是在周日结束前与20个不同的人做爱。"
 
+# game/code/d11/d11s01.rpy:232
+translate chinese d11s01_6c435a1d_1:
+
+    # flr "Your task is to have sex with 20 different people by the end of Sunday."
+    flr "你的任务是在周日结束前与20个不同的人做爱。"
+
 # game/code/d11/d11s01.rpy:182
 translate chinese d11s01_a1b21b5a:
 
@@ -419,6 +425,12 @@ translate chinese d11s01_92ad8109:
 
     # fl "If you fail to accomplish this you will be punished with your cock taken away."
     fl "如果你没能完成此任务，你将受到惩罚，你的老二将不复存在。"
+
+# game/code/d11/d11s01.rpy:247
+translate chinese d11s01_cc233338_1:
+
+    # flr "If you fail to accomplish this you will be punished with your cock taken away."
+    flr "如果你没能完成此任务，你将受到惩罚，你的老二将不复存在。"
 
 # game/code/d11/d11s01.rpy:186
 translate chinese d11s01_9f9c26f3:

@@ -373,10 +373,10 @@ translate deutsch d11s01_94c4ba03:
     arj "Siehst du das?"
 
 # game/code/d11/d11s01.rpy:163
-translate deutsch d11s01_16379474:
+translate deutsch d11s01_d83b4b7b:
 
-    # fl "Your next task is to help [mclogin] to fulfill his task."
-    fl "Deine nächste Aufgabe ist es, [mclogin] beim Erfüllen seiner Aufgabe zu helfen."
+    # flr "Your next task is to help [mclogin] to fulfill his task."
+    flr "Deine nächste Aufgabe ist es, [mclogin] beim Erfüllen seiner Aufgabe zu helfen."
 
 # game/code/d11/d11s01.rpy:165
 translate deutsch d11s01_c07210b1:
@@ -402,6 +402,12 @@ translate deutsch d11s01_424e0d7c:
     # fl "Your task is to have sex with 20 different people by the end of Sunday."
     fl "Deine Aufgabe ist es, bis zum Ende des Sonntags Sex mit 20 verschiedenen Menschen zu haben."
 
+# game/code/d11/d11s01.rpy:232
+translate deutsch d11s01_6c435a1d_1:
+
+    # flr "Your task is to have sex with 20 different people by the end of Sunday."
+    flr "Deine Aufgabe ist es, bis zum Ende des Sonntags Sex mit 20 verschiedenen Menschen zu haben."
+
 # game/code/d11/d11s01.rpy:182
 translate deutsch d11s01_a1b21b5a:
 
@@ -419,6 +425,12 @@ translate deutsch d11s01_92ad8109:
 
     # fl "If you fail to accomplish this you will be punished with your cock taken away."
     fl "Wenn du die Herausforderung nicht meisterst, wirst du bestraft, indem dein Schwanz weggenommen wird."
+
+# game/code/d11/d11s01.rpy:247
+translate deutsch d11s01_cc233338_1:
+
+    # flr "If you fail to accomplish this you will be punished with your cock taken away."
+    flr "Wenn du die Herausforderung nicht meisterst, wirst du bestraft, indem dein Schwanz weggenommen wird."
 
 # game/code/d11/d11s01.rpy:186
 translate deutsch d11s01_9f9c26f3:
