@@ -1281,3 +1281,11 @@ translate italian d10p1s01_7e7578d2:
 
     # mc "Yep. I can remember [mc_safeword!t]..."
     mc "Sì. Penso di poter ricordare [mc_safeword!t]..."
+# TODO: Translation updated at 2022-11-12 13:27
+
+# game/code/d10p1/d10p1s01.rpy:375
+translate italian d10p1s01_427f0b81:
+
+    # mct "I think I recognize that girl. Is that Hana's girlfriend?"
+    mct "I think I recognize that girl. Is that Hana's girlfriend?"
+

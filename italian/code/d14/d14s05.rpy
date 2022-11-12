@@ -2093,3 +2093,11 @@ translate italian d14s05_c2eb53da:
 
     # mc "Of course not."
     mc "Certo che no."
+# TODO: Translation updated at 2022-11-12 13:27
+
+# game/code/d14/d14s05.rpy:802
+translate italian d14s05_e89e3635:
+
+    # arj "Well, I really don't want you to lose."
+    arj "Well, I really don't want you to lose."
+

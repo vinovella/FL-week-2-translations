@@ -21,14 +21,14 @@ translate italian failed_mp_5d0c3fdc:
 # game/code/labels.rpy:54
 translate italian failed_mp_cd72322d:
 
-    # "On most devices you can set the permissions on the setting tab:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nFor any issue, please contact us on {a=https://discord.gg/b6CNu2C}Discord{/a}."
-    "Sulla maggior parte dei dispositivi puoi cambiare i permessi dalla scheda delle impostazioni:\nImpostazioni » App e notifiche » Fetish Locator » Autorizzazioni » Spazio di archiviazione\nPer qualunque problema, ti invitiamo a contattarci su {a=https://www.patreon.com/fetishlocator}Patreon{/a} o su {a=https://discord.gg/b6CNu2C}Discord{/a}."
+    # "On most devices you can set the permissions on the setting tab:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nFor any issue, please contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a}."
+    "Sulla maggior parte dei dispositivi puoi cambiare i permessi dalla scheda delle impostazioni:\nImpostazioni » App e notifiche » Fetish Locator » Autorizzazioni » Spazio di archiviazione\nPer qualunque problema, ti invitiamo a contattarci su {a=https://www.patreon.com/fetishlocator}Patreon{/a} o su {a=https://discord.gg/efmQRNtFks}Discord{/a}."
 
 # game/code/labels.rpy:56
 translate italian failed_mp_d50e830d:
 
-    # "On most devices you can set the permissions on the setting tab:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nFor any issue, please contact us on {a=https://www.patreon.com/fetishlocator}Patreon{/a} or on {a=https://discord.gg/b6CNu2C}Discord{/a}."
-    "Sulla maggior parte dei dispositivi puoi cambiare i permessi dalla scheda delle impostazioni:\nImpostazioni » App e notifiche » Fetish Locator » Autorizzazioni » Spazio di archiviazione\nPer qualunque problema, ti invitiamo a contattarci su {a=https://discord.gg/b6CNu2C}Discord{/a}."
+    # "On most devices you can set the permissions on the setting tab:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nFor any issue, please contact us on {a=https://www.patreon.com/fetishlocator}Patreon{/a} or on {a=https://discord.gg/efmQRNtFks}Discord{/a}."
+    "Sulla maggior parte dei dispositivi puoi cambiare i permessi dalla scheda delle impostazioni:\nImpostazioni » App e notifiche » Fetish Locator » Autorizzazioni » Spazio di archiviazione\nPer qualunque problema, ti invitiamo a contattarci su {a=https://discord.gg/efmQRNtFks}Discord{/a}."
 
 # game/code/labels.rpy:62
 translate italian game_over_dbc7b4ac:

@@ -42,3 +42,15 @@ translate italian strings:
     old "New character unlocked in the pool"
     new "Nuovo personaggio sbloccato in piscina"
 
+# TODO: Translation updated at 2022-11-12 13:27
+
+translate italian strings:
+
+    # game/code/functions.rpy:269
+    old "You can only select two out of Min, Lyssa and Maria"
+    new "You can only select two out of Min, Lyssa and Maria"
+
+    # game/code/functions.rpy:271
+    old "You can only select one out of Daisy and Dahlia"
+    new "You can only select one out of Daisy and Dahlia"
+

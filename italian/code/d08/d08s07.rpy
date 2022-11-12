@@ -953,3 +953,11 @@ translate italian d08s07_9aa5dd7c:
 
     # mc "Last week was awesome. I had a lot of fun, but best of all... I got to talk with you."
     mc "La scorsa settimana è stata fantastica. Mi sono divertito un mondo, ma soprattutto... sono riuscito a parlare con te."
+# TODO: Translation updated at 2022-11-12 13:27
+
+# game/code/d08/d08s07.rpy:310
+translate italian d08s07_f9a4640e:
+
+    # mct "I don't want to fuck up my chances with the VIP Challenge, but I don't wanna fuck up my chances with Lydia either..."
+    mct "I don't want to fuck up my chances with the VIP Challenge, but I don't wanna fuck up my chances with Lydia either..."
+
