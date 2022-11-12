@@ -1274,3 +1274,11 @@ translate russian strings:
     old "Apples"
     new "Яблок"
 
+# TODO: Translation updated at 2022-11-12 13:38
+
+# game/code/d10p1/d10p1s01.rpy:375
+translate russian d10p1s01_427f0b81:
+
+    # mct "I think I recognize that girl. Is that Hana's girlfriend?"
+    mct "I think I recognize that girl. Is that Hana's girlfriend?"
+

@@ -26,3 +26,15 @@ translate russian strings:
     old "The game will try to replay the scene\naccording to your current playthrough"
     new "Повтор будет воспроизведен как в вашем последнем прохождении"
 
+# TODO: Translation updated at 2022-11-12 13:38
+
+translate russian strings:
+
+    # game/code/functions.rpy:269
+    old "You can only select two out of Min, Lyssa and Maria"
+    new "You can only select two out of Min, Lyssa and Maria"
+
+    # game/code/functions.rpy:271
+    old "You can only select one out of Daisy and Dahlia"
+    new "You can only select one out of Daisy and Dahlia"
+

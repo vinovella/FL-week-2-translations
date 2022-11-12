@@ -358,3 +358,41 @@ translate russian strings:
     old "Do it. Find out the truth"
     new "Сделай это. Узнай правду"
 
+# TODO: Translation updated at 2022-11-12 13:38
+
+# game/code/d11/d11s05.rpy:140
+translate russian d11s05_791d313d:
+
+    # mct "But I really don't know if Pete is involved..."
+    mct "But I really don't know if Pete is involved..."
+
+# game/code/d11/d11s05.rpy:152
+translate russian d11s05_8f94dc42:
+
+    # mct "I could use this to put Pete in the VIP program."
+    mct "I could use this to put Pete in the VIP program."
+
+# game/code/d11/d11s05.rpy:157
+translate russian d11s05_c61d471a:
+
+    # mct "If Pete is not working for Fetish Locator, he should be eligible."
+    mct "If Pete is not working for Fetish Locator, he should be eligible."
+
+# game/code/d11/d11s05.rpy:167
+translate russian d11s05_f77136f4:
+
+    # mct "It wouldn't help my odds of winning to add Pete to the VIP challenges."
+    mct "It wouldn't help my odds of winning to add Pete to the VIP challenges."
+
+# game/code/d11/d11s05.rpy:179
+translate russian d11s05_68abdbfc:
+
+    # mct "This is a bad idea."
+    mct "This is a bad idea."
+
+# game/code/d11/d11s05.rpy:186
+translate russian d11s05_f5abed2d:
+
+    # mct "...\"Welcome to the Fetish Locator VIP Program!\""
+    mct "...\"Welcome to the Fetish Locator VIP Program!\""
+

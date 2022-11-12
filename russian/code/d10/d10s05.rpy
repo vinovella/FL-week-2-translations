@@ -1392,3 +1392,29 @@ translate russian d10s05_replay_69fd61bb:
     # arj "Yep!"
     arj "Ага!"
 
+# TODO: Translation updated at 2022-11-12 13:38
+
+# game/code/d10/d10s05.rpy:364
+translate russian d10s05_replay_95bf8394:
+
+    # hr "Iona, for the love of God. I'm just trying to help and protect you."
+    hr "Iona, for the love of God. I'm just trying to help and protect you."
+
+# game/code/d10/d10s05.rpy:365
+translate russian d10s05_replay_8d0eaa67:
+
+    # hr "I just want to be there for you."
+    hr "I just want to be there for you."
+
+# game/code/d10/d10s05.rpy:388
+translate russian d10s05_replay_a628f18c:
+
+    # hr "I just want to you to be careful with that app and let me help you."
+    hr "I just want to you to be careful with that app and let me help you."
+
+# game/code/d10/d10s05.rpy:436
+translate russian d10s05_replay_0e91c7a0:
+
+    # mc "Ding, ding, ding. You're right."
+    mc "Ding, ding, ding. You're right."
+

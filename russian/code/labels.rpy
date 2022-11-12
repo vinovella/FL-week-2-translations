@@ -9,14 +9,14 @@ translate russian failed_mp_5d0c3fdc:
 # game/code/labels.rpy:86
 translate russian failed_mp_cd72322d:
 
-    # "On most devices you can set the permissions on the setting tab:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nFor any issue, please contact us on {a=https://discord.gg/b6CNu2C}Discord{/a}."
-    "На большинстве устройств вы можете установить разрешения на вкладке настройки:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nПо любому вопросу, пожалуйста, свяжитесь с нами по адресу {a=https://discord.gg/b6CNu2C}Discord{/a}."
+    # "On most devices you can set the permissions on the setting tab:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nFor any issue, please contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a}."
+    "На большинстве устройств вы можете установить разрешения на вкладке настройки:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nПо любому вопросу, пожалуйста, свяжитесь с нами по адресу {a=https://discord.gg/efmQRNtFks}Discord{/a}."
 
 # game/code/labels.rpy:88
 translate russian failed_mp_d50e830d:
 
-    # "On most devices you can set the permissions on the setting tab:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nFor any issue, please contact us on {a=https://www.patreon.com/fetishlocator}Patreon{/a} or on {a=https://discord.gg/b6CNu2C}Discord{/a}."
-    "На большинстве устройств можно установить права доступа на вкладке настроек:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nЕсли у вас возникли вопросы, пожалуйста, свяжитесь с нами на {a=https://www.patreon.com/fetishlocator}Patreon{/a} или на {a=https://discord.gg/b6CNu2C}Discord{/a}."
+    # "On most devices you can set the permissions on the setting tab:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nFor any issue, please contact us on {a=https://www.patreon.com/fetishlocator}Patreon{/a} or on {a=https://discord.gg/efmQRNtFks}Discord{/a}."
+    "На большинстве устройств можно установить права доступа на вкладке настроек:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nЕсли у вас возникли вопросы, пожалуйста, свяжитесь с нами на {a=https://www.patreon.com/fetishlocator}Patreon{/a} или на {a=https://discord.gg/efmQRNtFks}Discord{/a}."
 
 # game/code/labels.rpy:108
 translate russian after_credits_4092fc7e:
