@@ -1304,3 +1304,11 @@ translate portuguese strings:
     old "It was an accident"
     new "Foi um acidente"
 
+# TODO: Translation updated at 2022-11-12 13:34
+
+# game/code/d08/d08s03.rpy:122
+translate portuguese d08s03_3a9860c7:
+
+    # mc "How are you doing now? You're not still short, are you?"
+    mc "How are you doing now? You're not still short, are you?"
+

@@ -546,3 +546,77 @@ translate portuguese d11s01_536d88bc:
     # mc "Mmm. Coffee."
     mc "Mmm. Café."
 
+# TODO: Translation updated at 2022-11-12 13:34
+
+# game/code/d11/d11s01.rpy:35
+translate portuguese d11s01_95292d25:
+
+    # mct "Unsurprisingly, there's a new mention from Fetish Locator's VIP Program."
+    mct "Unsurprisingly, there's a new mention from Fetish Locator's VIP Program."
+
+# game/code/d11/d11s01.rpy:41
+translate portuguese d11s01_2ff70196:
+
+    # flr "But the potential reward this time also will be different."
+    flr "But the potential reward this time also will be different."
+
+# game/code/d11/d11s01.rpy:48
+translate portuguese d11s01_28ed97c8:
+
+    # flr "If you accomplish this you will be eligible for the grand prize of $$1kk."
+    flr "If you accomplish this you will be eligible for the grand prize of $$1kk."
+
+# game/code/d11/d11s01.rpy:56
+translate portuguese d11s01_1d44b4e7:
+
+    # flr "Note that Gold Stars CANNOT be used to complete this task."
+    flr "Note that Gold Stars CANNOT be used to complete this task."
+
+# game/code/d11/d11s01.rpy:81
+translate portuguese d11s01_f0f72b5e:
+
+    # mct "What does that reward mean?"
+    mct "What does that reward mean?"
+
+# game/code/d11/d11s01.rpy:87
+translate portuguese d11s01_dc72b30a:
+
+    # mct "I will be eligible? Does that mean I get the grand prize or not?"
+    mct "I will be eligible? Does that mean I get the grand prize or not?"
+
+# game/code/d11/d11s01.rpy:88
+translate portuguese d11s01_de950b47:
+
+    # mct "Or will I still have to complete additional challenges to win the treasure?"
+    mct "Or will I still have to complete additional challenges to win the treasure?"
+
+# game/code/d11/d11s01.rpy:89
+translate portuguese d11s01_ce442908:
+
+    # mct "If I fail am I ineligible for the prize?"
+    mct "If I fail am I ineligible for the prize?"
+
+# game/code/d11/d11s01.rpy:90
+translate portuguese d11s01_1a5de442:
+
+    # mct "Why can't it be clear and simple?!"
+    mct "Why can't it be clear and simple?!"
+
+# game/code/d11/d11s01.rpy:243
+translate portuguese d11s01_38be3a8d:
+
+    # mc "Keep going... Read about the reward..."
+    mc "Keep going... Read about the reward..."
+
+# game/code/d11/d11s01.rpy:244
+translate portuguese d11s01_28ed97c8_1:
+
+    # flr "If you accomplish this you will be eligible for the grand prize of $$1kk."
+    flr "If you accomplish this you will be eligible for the grand prize of $$1kk."
+
+# game/code/d11/d11s01.rpy:251
+translate portuguese d11s01_4829437f:
+
+    # arj "What the fuck?? We could win it all?!"
+    arj "What the fuck?? We could win it all?!"
+

@@ -922,3 +922,11 @@ translate portuguese strings:
     old "Ask her if she wants to earn some points"
     new "Perguntar se ela quer uns pontos"
 
+# TODO: Translation updated at 2022-11-12 13:34
+
+# game/code/d10/d10s02.rpy:253
+translate portuguese d10s02_warning_dbc3fbdf:
+
+    # mc "Yeah. It's all very suspicious."
+    mc "Yeah. It's all very suspicious."
+

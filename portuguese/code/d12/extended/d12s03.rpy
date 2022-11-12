@@ -1310,3 +1310,23 @@ translate portuguese strings:
     old "Cum in her Mouth"
     new "Gozar na Boca"
 
+# TODO: Translation updated at 2022-11-12 13:34
+
+# game/code/d12/extended/d12s03.rpy:235
+translate portuguese d12s03_f170455d:
+
+    # mct "If I do what she says, I might not have to worry about anything ever again."
+    mct "If I do what she says, I might not have to worry about anything ever again."
+
+# game/code/d12/extended/d12s03.rpy:240
+translate portuguese d12s03_c7f9bfe6:
+
+    # mct "If I don't agree, I am certain that I can just walk away without any consequences... as long as I keep my mouth shut."
+    mct "If I don't agree, I am certain that I can just walk away without any consequences... as long as I keep my mouth shut."
+
+# game/code/d12/extended/d12s03.rpy:245
+translate portuguese d12s03_eda32b67:
+
+    # mct "It's a curious choice, but I'm ready to decide."
+    mct "It's a curious choice, but I'm ready to decide."
+

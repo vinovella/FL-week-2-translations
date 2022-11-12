@@ -2080,3 +2080,11 @@ translate portuguese strings:
     old "Let Stacy Win"
     new "Deixar Stacy Vencer"
 
+# TODO: Translation updated at 2022-11-12 13:34
+
+# game/code/d14/d14s05.rpy:802
+translate portuguese d14s05_e89e3635:
+
+    # arj "Well, I really don't want you to lose."
+    arj "Well, I really don't want you to lose."
+
