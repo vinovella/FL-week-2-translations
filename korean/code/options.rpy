@@ -7,6 +7,6 @@ translate korean strings:
     new "Fetish Locator Week 2"
 
     # game/code/options.rpy:36
-    old "Created by ViNovella Games\n\nJoin us on {a=https://discord.gg/b6CNu2C}Discord{/a}"
-    new "Created by ViNovella Games\n\nJoin us on {a=https://discord.gg/b6CNu2C}Discord{/a}"
+    old "Created by ViNovella Games\n\nJoin us on {a=https://discord.gg/efmQRNtFks}Discord{/a}"
+    new "Created by ViNovella Games\n\nJoin us on {a=https://discord.gg/efmQRNtFks}Discord{/a}"
 
