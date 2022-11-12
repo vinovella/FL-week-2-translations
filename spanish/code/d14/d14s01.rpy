@@ -269,3 +269,23 @@ translate spanish d14s01_2835e914:
 
     # sb "In your dreams! Hahahahaha..."
     sb "¡En tus sueños! Jajajajaja..."
+# TODO: Translation updated at 2022-11-12 13:40
+
+# game/code/d14/d14s01.rpy:91
+translate spanish d14s01_79ee7a04:
+
+    # sb "You're going to lose. {w}But you'll lose your Johnson first."
+    sb "You're going to lose. {w}But you'll lose your Johnson first."
+
+# game/code/d14/d14s01.rpy:121
+translate spanish d14s01_ae9021c3:
+
+    # sb "Don't you get it? The only way to win is to not play. {w}So let me relieve you of your little trouble maker down there."
+    sb "Don't you get it? The only way to win is to not play. {w}So let me relieve you of your little trouble maker down there."
+
+# game/code/d14/d14s01.rpy:130
+translate spanish d14s01_2f581f36:
+
+    # sb "Don't worry. The pain will only last a lifetime."
+    sb "Don't worry. The pain will only last a lifetime."
+

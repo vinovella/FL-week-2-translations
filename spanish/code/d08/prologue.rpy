@@ -15,13 +15,13 @@ translate spanish prologue_fresh_start_1b390ae3:
 # game/code/d08/prologue.rpy:61
 translate spanish prologue_fresh_start_1aa77e92:
 
-    # "We see that you have already completed the first chapter. If you want to keep playing with all your game progress intact, open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/b6CNu2C}Discord{/a}."
-    "Vemos que ya ha completado el primer capítulo. Si quieres seguir jugando con todo el progreso del juego intacto, abre el menú, haz clic en \"Continuar desde la semana [FLSS.week.prev]\" y carga un guardado.\nSi tienes algún problema, por favor contáctanos en {a=https://discord.gg/b6CNu2C}Discord{/a}."
+    # "We see that you have already completed the first chapter. If you want to keep playing with all your game progress intact, open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a}."
+    "Vemos que ya ha completado el primer capítulo. Si quieres seguir jugando con todo el progreso del juego intacto, abre el menú, haz clic en \"Continuar desde la semana [FLSS.week.prev]\" y carga un guardado.\nSi tienes algún problema, por favor contáctanos en {a=https://discord.gg/efmQRNtFks}Discord{/a}."
 # game/code/d08/prologue.rpy:63
 translate spanish prologue_fresh_start_16da65c2:
 
-    # "We see that you have already completed the first chapter. If you want to keep playing with all your game progress intact, open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/b6CNu2C}Discord{/a} or on {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
-    "Vemos que ya ha completado el primer capítulo. Si quieres seguir jugando con todo el progreso del juego intacto, abre el menú, haz clic en \"Continuar desde la semana [FLSS.week.prev]\" y carga un guardado.\nSi tienes algún problema, por favor contáctanos en {a=https://discord.gg/b6CNu2C}Discord{/a} o en {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
+    # "We see that you have already completed the first chapter. If you want to keep playing with all your game progress intact, open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} or on {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
+    "Vemos que ya ha completado el primer capítulo. Si quieres seguir jugando con todo el progreso del juego intacto, abre el menú, haz clic en \"Continuar desde la semana [FLSS.week.prev]\" y carga un guardado.\nSi tienes algún problema, por favor contáctanos en {a=https://discord.gg/efmQRNtFks}Discord{/a} o en {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
 
 # game/code/d08/prologue.rpy:64
 translate spanish prologue_fresh_start_56a763ee:
@@ -208,3 +208,22 @@ translate spanish prologue_fetishes_7bc3a4e5:
     # "It's time to choose your preferences.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many as you want and press \"Done\"."
     "It's time to choose your preferences.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many as you want and press \"Done\"."
 
+# TODO: Translation updated at 2022-11-12 13:40
+
+# game/code/d08/prologue.rpy:67
+translate spanish prologue_fresh_start_ab0acec6:
+
+    # "We see that you have already completed the first chapter. If you want to keep playing with all your game progress intact, open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a}."
+    "Vemos que ya ha completado el primer capítulo. Si quieres seguir jugando con todo el progreso del juego intacto, abre el menú, haz clic en \"Continuar desde la semana [FLSS.week.prev]\" y carga un guardado.\nSi tienes algún problema, por favor contáctanos en {a=https://discord.gg/efmQRNtFks}Discord{/a}."
+
+# game/code/d08/prologue.rpy:69
+translate spanish prologue_fresh_start_d7ab3300:
+
+    # "We see that you have already completed the first chapter. If you want to keep playing with all your game progress intact, open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} or on {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
+    "Vemos que ya ha completado el primer capítulo. Si quieres seguir jugando con todo el progreso del juego intacto, abre el menú, haz clic en \"Continuar desde la semana [FLSS.week.prev]\" y carga un guardado.\nSi tienes algún problema, por favor contáctanos en {a=https://discord.gg/efmQRNtFks}Discord{/a} o en {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
+
+# game/code/d08/prologue.rpy:80
+translate spanish prologue_fresh_start_5b4c2953:
+
+    # "You are {b}[mcname]{/b} and your Fetish Locator user name is {b}[mclogin]{/b}."
+    "You are {b}[mcname]{/b} and your Fetish Locator user name is {b}[mclogin]{/b}."

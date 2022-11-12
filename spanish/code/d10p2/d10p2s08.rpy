@@ -2601,3 +2601,11 @@ translate spanish d10p2s08_jf_part5_6e27356e:
 
     # mc "URLittlePony was rewarded with a drink from the Trough of Ultimate Sexual Deviancy."
     mc "TuPequeñoPony fue recompensada con un trago del abrevadero de la máxima desviación sexual."
+# TODO: Translation updated at 2022-11-12 13:40
+
+# game/code/d10p2/d10p2s08.rpy:120
+translate spanish d10p2s08_47b69fbd:
+
+    # mct "Even knowing that I'd basically be leaving AmRose and Stacy stranded, and giving up on a million dollars?"
+    mct "Even knowing that I'd basically be leaving AmRose and Stacy stranded, and giving up on a million dollars?"
+
