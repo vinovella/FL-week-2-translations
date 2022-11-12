@@ -21,14 +21,14 @@ translate malay failed_mp_5d0c3fdc:
 # game/code/labels.rpy:54
 translate malay failed_mp_cd72322d:
 
-    # "On most devices you can set the permissions on the setting tab:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nFor any issue, please contact us on {a=https://discord.gg/b6CNu2C}Discord{/a}."
-    "Pada kebanyakan peranti, anda dapat menetapkan izin pada tab tetapan:\nTetapan -> Aplikasi -> Fetish Locator -> Permintaan -> Storan.\nUntuk isu selainnya atau mahu memberikan pendapat, sila hubungi kami di{a=https://discord.gg/b6CNu2C}Discord{/a}."
+    # "On most devices you can set the permissions on the setting tab:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nFor any issue, please contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a}."
+    "Pada kebanyakan peranti, anda dapat menetapkan izin pada tab tetapan:\nTetapan -> Aplikasi -> Fetish Locator -> Permintaan -> Storan.\nUntuk isu selainnya atau mahu memberikan pendapat, sila hubungi kami di{a=https://discord.gg/efmQRNtFks}Discord{/a}."
 
 # game/code/labels.rpy:56
 translate malay failed_mp_d50e830d:
 
-    # "On most devices you can set the permissions on the setting tab:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nFor any issue, please contact us on {a=https://www.patreon.com/fetishlocator}Patreon{/a} or on {a=https://discord.gg/b6CNu2C}Discord{/a}."
-    "Pada kebanyakan peranti, anda dapat menetapkan izin pada tab tetapan:\nTetapan -> Aplikasi -> Fetish Locator -> Permintaan -> Storan.\nUntuk isu selainnya, sila hubungi kami di {a=https://www.patreon.com/fetishlocator}Patreon{/a} atau di {a=https://discord.gg/b6CNu2C}Discord{/a}.."
+    # "On most devices you can set the permissions on the setting tab:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nFor any issue, please contact us on {a=https://www.patreon.com/fetishlocator}Patreon{/a} or on {a=https://discord.gg/efmQRNtFks}Discord{/a}."
+    "Pada kebanyakan peranti, anda dapat menetapkan izin pada tab tetapan:\nTetapan -> Aplikasi -> Fetish Locator -> Permintaan -> Storan.\nUntuk isu selainnya, sila hubungi kami di {a=https://www.patreon.com/fetishlocator}Patreon{/a} atau di {a=https://discord.gg/efmQRNtFks}Discord{/a}.."
 
 # game/code/labels.rpy:62
 translate malay game_over_dbc7b4ac:

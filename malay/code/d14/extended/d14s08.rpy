@@ -844,3 +844,17 @@ translate malay strings:
     old "That's Enough"
     new "Cukuplah"
 
+# TODO: Translation updated at 2022-11-12 13:32
+
+# game/code/d14/extended/d14s08.rpy:228
+translate malay d14s08_65d3d366:
+
+    # mc "I guess it happened while I decided to go quid-pro-quo with you."
+    mc "I guess it happened while I decided to go quid-pro-quo with you."
+
+# game/code/d14/extended/d14s08.rpy:234
+translate malay d14s08_41565680:
+
+    # pw "You're going to go all Hannibal Lector on me?"
+    pw "You're going to go all Hannibal Lector on me?"
+

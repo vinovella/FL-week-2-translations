@@ -467,3 +467,11 @@ translate malay d08s08_2fff4bf6:
 
     # mc "Take it easy, and hey...{w} Thanks for trying."
     mc "Bertenanglah dan hey...{w} Terima kasih sebab mencuba."
+# TODO: Translation updated at 2022-11-12 13:32
+
+# game/code/d08/d08s08.rpy:11
+translate malay d08s08_3098df80:
+
+    # mct "\"Hi... I'm kinda, sorta your boyfriend, but I gotta be able to boink anything to win a million dollars.\""
+    mct "\"Hi... I'm kinda, sorta your boyfriend, but I gotta be able to boink anything to win a million dollars.\""
+

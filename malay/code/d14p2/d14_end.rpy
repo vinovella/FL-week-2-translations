@@ -24,3 +24,17 @@ translate malay d14_end_9443248a:
     # flr "Because you cheated!"
     flr "Sebab kau menipu!"
 
+# TODO: Translation updated at 2022-11-12 13:32
+
+# game/code/d14p2/d14_end.rpy:52
+translate malay d14_end_0a1a75cf:
+
+    # flr "Your next challenge will arrive at dawn."
+    flr "Your next challenge will arrive at dawn."
+
+# game/code/d14p2/d14_end.rpy:59
+translate malay d14_end_f58a2b9f:
+
+    # flr "Cheater."
+    flr "Cheater."
+

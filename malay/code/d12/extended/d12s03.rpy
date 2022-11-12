@@ -1309,3 +1309,23 @@ translate malay strings:
     # game/code/d12/extended/d12s03.rpy:740
     old "Cum in her Mouth"
     new "Pancut dalam Mulutnya"
+# TODO: Translation updated at 2022-11-12 13:32
+
+# game/code/d12/extended/d12s03.rpy:235
+translate malay d12s03_f170455d:
+
+    # mct "If I do what she says, I might not have to worry about anything ever again."
+    mct "If I do what she says, I might not have to worry about anything ever again."
+
+# game/code/d12/extended/d12s03.rpy:240
+translate malay d12s03_c7f9bfe6:
+
+    # mct "If I don't agree, I am certain that I can just walk away without any consequences... as long as I keep my mouth shut."
+    mct "If I don't agree, I am certain that I can just walk away without any consequences... as long as I keep my mouth shut."
+
+# game/code/d12/extended/d12s03.rpy:245
+translate malay d12s03_eda32b67:
+
+    # mct "It's a curious choice, but I'm ready to decide."
+    mct "It's a curious choice, but I'm ready to decide."
+
