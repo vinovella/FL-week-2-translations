@@ -1900,3 +1900,11 @@ translate deutsch d08s03_end_6bf3ab4e:
 
     # mct "Alright, time to meet Squizzle at the toilet."
     mct "In Ordnung, es wird Zeit Squizzle in der Toilette zu besuchen."
+# TODO: Translation updated at 2022-11-12 13:25
+
+# game/code/d08/d08s03.rpy:122
+translate deutsch d08s03_3a9860c7:
+
+    # mc "How are you doing now? You're not still short, are you?"
+    mc "How are you doing now? You're not still short, are you?"
+

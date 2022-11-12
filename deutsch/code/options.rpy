@@ -15,5 +15,5 @@ translate deutsch strings:
 translate deutsch strings:
 
     # game/code/options.rpy:33
-    old "Created by ViNovella Games\n\nJoin us on {a=https://discord.gg/b6CNu2C}Discord{/a}"
-    new "Erschaffen von ViNovella Games\n\nTritt uns bei unter {a=https://discord.gg/b6CNu2C}Discord{/a}"
+    old "Created by ViNovella Games\n\nJoin us on {a=https://discord.gg/efmQRNtFks}Discord{/a}"
+    new "Erschaffen von ViNovella Games\n\nTritt uns bei unter {a=https://discord.gg/efmQRNtFks}Discord{/a}"

@@ -1385,3 +1385,71 @@ translate deutsch strings:
     # game/code/d14/d14s03.rpy:363
     old "Kiss her"
     new "Küss' sie"
+# TODO: Translation updated at 2022-11-12 13:25
+
+# game/code/d14/d14s03.rpy:198
+translate deutsch d14s03_5f1c483b:
+
+    # mc "...for all their gold doubloons?"
+    mc "...for all their gold doubloons?"
+
+# game/code/d14/d14s03.rpy:259
+translate deutsch d14s03_fdd84e06:
+
+    # mc "She said that she knew someone in the VIP Program - and that she's found one of the people behind Fetish Locator."
+    mc "She said that she knew someone in the VIP Program - and that she's found one of the people behind Fetish Locator."
+
+# game/code/d14/d14s03.rpy:360
+translate deutsch d14s03_2b882098:
+
+    # mc "True. But at the same time. She's doing this for someone else that's in the VIP Program—"
+    mc "True. But at the same time. She's doing this for someone else that's in the VIP Program—"
+
+# game/code/d14/d14s03.rpy:399
+translate deutsch d14s03_34a75aae:
+
+    # sy "Oh... Yeah. I remember her, she was cute. So she's in The VIP Program as well?"
+    sy "Oh... Yeah. I remember her, she was cute. So she's in The VIP Program as well?"
+
+# game/code/d14/d14s03.rpy:404
+translate deutsch d14s03_630bcee0:
+
+    # sy "And Hana is her girlfriend that's trying to win her the Fetish Locator treasure?"
+    sy "And Hana is her girlfriend that's trying to win her the Fetish Locator treasure?"
+
+# game/code/d14/d14s03.rpy:452
+translate deutsch d14s03_65c58212:
+
+    # mc "Iona is in the VIP Program, so she might be down to help as well."
+    mc "Iona is in the VIP Program, so she might be down to help as well."
+
+# game/code/d14/d14s03.rpy:467
+translate deutsch d14s03_30ed6de8:
+
+    # mc "There's one other dude that I know is in the VIP Program."
+    mc "There's one other dude that I know is in the VIP Program."
+
+# game/code/d14/d14s03.rpy:487
+translate deutsch d14s03_44d99162:
+
+    # mc "He told me about the VIP Program."
+    mc "He told me about the VIP Program."
+
+# game/code/d14/d14s03.rpy:534
+translate deutsch d14s03_44bbf952:
+
+    # sy "Then figure out a proper game plan to win everything with her info."
+    sy "Then figure out a proper game plan to win everything with her info."
+
+# game/code/d14/d14s03.rpy:550
+translate deutsch d14s03_ee15e4de:
+
+    # sy "Why are you looking at me like that? This secret, undercover plotting stuff is fun!"
+    sy "Why are you looking at me like that? This secret, undercover plotting stuff is fun!"
+
+# game/code/d14/d14s03.rpy:663
+translate deutsch d14s03_91070ee1:
+
+    # sy "Well, it's your money now for a chance at a big payoff with the treasure."
+    sy "Well, it's your money now for a chance at a big payoff with the treasure."
+
