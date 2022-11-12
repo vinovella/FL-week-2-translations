@@ -927,3 +927,11 @@ translate chinese strings:
     # game/code/d08/d08s07.rpy:88
     old "You're both beautiful"
     new "你们两个都很漂亮"
+# TODO: Translation updated at 2022-11-12 13:18
+
+# game/code/d08/d08s07.rpy:310
+translate chinese d08s07_f9a4640e:
+
+    # mct "I don't want to fuck up my chances with the VIP Challenge, but I don't wanna fuck up my chances with Lydia either..."
+    mct "I don't want to fuck up my chances with the VIP Challenge, but I don't wanna fuck up my chances with Lydia either..."
+

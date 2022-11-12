@@ -30,3 +30,15 @@ translate chinese strings:
     # game/code/functions.rpy:16
     old "New character unlocked in the pool"
     new "解锁泳池中的新角色"
+# TODO: Translation updated at 2022-11-12 13:18
+
+translate chinese strings:
+
+    # game/code/functions.rpy:269
+    old "You can only select two out of Min, Lyssa and Maria"
+    new "You can only select two out of Min, Lyssa and Maria"
+
+    # game/code/functions.rpy:271
+    old "You can only select one out of Daisy and Dahlia"
+    new "You can only select one out of Daisy and Dahlia"
+

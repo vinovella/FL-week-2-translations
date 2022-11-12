@@ -2094,3 +2094,11 @@ translate chinese d14s05_c2eb53da:
     # mc "Of course not."
     mc "当然不是。"
 
+# TODO: Translation updated at 2022-11-12 13:18
+
+# game/code/d14/d14s05.rpy:802
+translate chinese d14s05_e89e3635:
+
+    # arj "Well, I really don't want you to lose."
+    arj "Well, I really don't want you to lose."
+

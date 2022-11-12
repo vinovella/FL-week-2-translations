@@ -877,3 +877,41 @@ translate chinese replay_d12s04_faf75cbc:
 
     # mh "Huh. Still, I didn't know that you were gonna come by today. How long have you been here? Why didn't you call me?"
     mh "行吧。不过，我不知道你今天会来。你在这里呆多久了？为什么不给我打电话？"
+# TODO: Translation updated at 2022-11-12 13:18
+
+# game/code/d12/d12s04.rpy:34
+translate chinese d12s04_8cc9a922:
+
+    # mct "But on the other side, I'd want to see Lyssa even if Fetish Loctator wasn't challenging me."
+    mct "But on the other side, I'd want to see Lyssa even if Fetish Loctator wasn't challenging me."
+
+# game/code/d12/d12s04.rpy:133
+translate chinese d12s04_bfdba55d:
+
+    # op "I should probably go either way, then."
+    op "I should probably go either way, then."
+
+# game/code/d12/d12s04.rpy:139
+translate chinese d12s04_b2b9e19d:
+
+    # mc "What do you mean?"
+    mc "What do you mean?"
+
+# game/code/d12/d12s04.rpy:145
+translate chinese d12s04_1dbc95fd:
+
+    # op "Do you know about their VIP Program?"
+    op "Do you know about their VIP Program?"
+
+# game/code/d12/d12s04.rpy:157
+translate chinese d12s04_991a5a6e:
+
+    # mc "Good luck, but I'm afraid I'm going to win."
+    mc "Good luck, but I'm afraid I'm going to win."
+
+# game/code/d12/d12s04.rpy:164
+translate chinese d12s04_70019087:
+
+    # op "Thank you. I'm just trying to find myself. I haven't really considered winning the treasure or anything like that."
+    op "Thank you. I'm just trying to find myself. I haven't really considered winning the treasure or anything like that."
+

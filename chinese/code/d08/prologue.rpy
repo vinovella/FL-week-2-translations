@@ -15,14 +15,14 @@ translate chinese prologue_fresh_start_1b390ae3:
 # game/code/d08/prologue.rpy:63
 translate chinese prologue_fresh_start_1aa77e92:
 
-    # "We see that you have already completed the first chapter. If you want to keep playing with all your game progress intact, open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/b6CNu2C}Discord{/a}."
-    "我们看到你已经通关了第一章。若你想保持游戏进度不变，请打开菜单，点击\"从第[FLSS.week.prev]周继续\"并加载保存。\n如有任何问题，请与我们联系：{a=https://discord.gg/b6CNu2C}Discord{/a}."
+    # "We see that you have already completed the first chapter. If you want to keep playing with all your game progress intact, open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a}."
+    "我们看到你已经通关了第一章。若你想保持游戏进度不变，请打开菜单，点击\"从第[FLSS.week.prev]周继续\"并加载保存。\n如有任何问题，请与我们联系：{a=https://discord.gg/efmQRNtFks}Discord{/a}."
 
 # game/code/d08/prologue.rpy:65
 translate chinese prologue_fresh_start_16da65c2:
 
-    # "We see that you have already completed the first chapter. If you want to keep playing with all your game progress intact, open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/b6CNu2C}Discord{/a} or on {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
-    "我们看到你已经通关了第一章。若你想保持游戏进度不变，请打开菜单，点击\"从第[FLSS.week.prev]周继续\"并加载保存。\n如有任何问题，请通过下方与我们联系：{a=https://discord.gg/b6CNu2C}Discord{/a} 或 {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
+    # "We see that you have already completed the first chapter. If you want to keep playing with all your game progress intact, open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} or on {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
+    "我们看到你已经通关了第一章。若你想保持游戏进度不变，请打开菜单，点击\"从第[FLSS.week.prev]周继续\"并加载保存。\n如有任何问题，请通过下方与我们联系：{a=https://discord.gg/efmQRNtFks}Discord{/a} 或 {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
 
 # game/code/d08/prologue.rpy:66
 translate chinese prologue_fresh_start_56a763ee:
@@ -209,3 +209,22 @@ translate chinese prologue_fetishes_7bc3a4e5:
     # "It's time to choose your preferences.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many as you want and press \"Done\"."
     "It's time to choose your preferences.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many as you want and press \"Done\"."
 
+# TODO: Translation updated at 2022-11-12 13:18
+
+# game/code/d08/prologue.rpy:67
+translate chinese prologue_fresh_start_ab0acec6:
+
+    # "We see that you have already completed the first chapter. If you want to keep playing with all your game progress intact, open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a}."
+    "我们看到你已经通关了第一章。若你想保持游戏进度不变，请打开菜单，点击\"从第[FLSS.week.prev]周继续\"并加载保存。\n如有任何问题，请与我们联系：{a=https://discord.gg/efmQRNtFks}Discord{/a}."
+
+# game/code/d08/prologue.rpy:69
+translate chinese prologue_fresh_start_d7ab3300:
+
+    # "We see that you have already completed the first chapter. If you want to keep playing with all your game progress intact, open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} or on {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
+    "我们看到你已经通关了第一章。若你想保持游戏进度不变，请打开菜单，点击\"从第[FLSS.week.prev]周继续\"并加载保存。\n如有任何问题，请通过下方与我们联系：{a=https://discord.gg/efmQRNtFks}Discord{/a} 或 {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
+
+# game/code/d08/prologue.rpy:80
+translate chinese prologue_fresh_start_5b4c2953:
+
+    # "You are {b}[mcname]{/b} and your Fetish Locator user name is {b}[mclogin]{/b}."
+    "You are {b}[mcname]{/b} and your Fetish Locator user name is {b}[mclogin]{/b}."
