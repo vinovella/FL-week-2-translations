@@ -481,7 +481,7 @@ translate korean d10p2s04_dw_cfb40a80:
     mc "없습니다, 여왕님."
 
 # game/code/d10p2/d10p2s04-dw.rpy:408
-translate korean d10p2s04_dw_ba5ㄱ22918:
+translate korean d10p2s04_dw_ba522918:
 
     # dw "I want you to take this in as far as it'll go, am I understood?"
     dw "이게 들어갈 수 있는 데까지 집어넣겠다, 알겠나?"
@@ -1187,4 +1187,3 @@ translate korean strings:
     # game/code/d10p2/d10p2s04-dw.rpy:706
     old "Hold stronger"
     new "더 굳건히 버틴다"
-
