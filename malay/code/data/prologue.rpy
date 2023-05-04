@@ -128,5 +128,5 @@ translate malay strings:
 
     # game/code/data/prologue.rpy:34
     old "Trans Content"
-    new "Trans Content"
+    new "Kandungan Trans"
 
