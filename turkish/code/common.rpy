@@ -211,24 +211,24 @@ translate turkish strings:
     new "{#month}Ağustos"
 
     # renpy/common/00action_file.rpy:47
-    old "{#month}Eylül
-    new "{#month}September"
+    old "{#month}September"
+    new "{#month}Eylül"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}October"
-    new "{#month}Ekim
+    new "{#month}Ekim"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}November"
-    new "{#month}Kasım
+    new "{#month}Kasım"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}December"
-    new "{#month}Aralık
+    new "{#month}Aralık"
 
     # renpy/common/00action_file.rpy:63
-    old "{#month_short}Ock
-    new "{#month_short}Jan"
+    old "{#month_short}Jan"
+    new "{#month_short}Ock"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Feb"
@@ -236,7 +236,7 @@ translate turkish strings:
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Mar"
-    new "{#month_short}Mar "
+    new "{#month_short}Mar"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Apr"
@@ -244,7 +244,7 @@ translate turkish strings:
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}May"
-    new "{#month_short}May "
+    new "{#month_short}May"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jun"
@@ -276,7 +276,7 @@ translate turkish strings:
 
     # renpy/common/00action_file.rpy:250
     old "%b %d, %H:%M"
-    new "%b %d, %H:%M 
+    new "%b %d, %H:%M"
 
     # renpy/common/00action_file.rpy:364
     old "Save slot %s: [text]"
@@ -348,11 +348,11 @@ translate turkish strings:
 
     # renpy/common/00director.rpy:1481
     old "⬆"
-    new "⬆ 
+    new "⬆"
 
     # renpy/common/00director.rpy:1487
     old "⬇"
-    new "⬇ 
+    new "⬇"
 
     # renpy/common/00director.rpy:1551
     old "Done"
@@ -516,11 +516,11 @@ translate turkish strings:
 
     # renpy/common/00preferences.rpy:308
     old "joystick"
-    new "joystick 
+    new "joystick"
 
     # renpy/common/00preferences.rpy:308
     old "joystick..."
-    new "joystick... 
+    new "joystick..."
 
     # renpy/common/00preferences.rpy:315
     old "skip"
@@ -672,7 +672,7 @@ translate turkish strings:
 
     # renpy/common/00preferences.rpy:534
     old "mute voice"
-    new "sesi kapat
+    new "sesi kapat"
 
     # renpy/common/00preferences.rpy:535
     old "mute all"
@@ -704,7 +704,7 @@ translate turkish strings:
 
     # renpy/common/_compat/preferences.rpym:428
     old "Joystick Mapping"
-    new "Joystick Harita
+    new "Joystick Harita"
 
     # renpy/common/_developer/developer.rpym:38
     old "Developer Menu"
@@ -752,7 +752,7 @@ translate turkish strings:
 
     # renpy/common/_developer/developer.rpym:94
     old "[name] [attributes]"
-    new "[name] [attributes] "
+    new "[name] [attributes]"
 
     # renpy/common/_developer/developer.rpym:143
     old "Nothing to inspect."
@@ -796,23 +796,23 @@ translate turkish strings:
 
     # renpy/common/_developer/developer.rpym:633
     old "Textures: [tex_count] ([tex_size_mb:.1f] MB)"
-    new "Dokular: [tex_count] ( [tex_size_mb:.1f] MB)"
+    new "Dokular: [tex_count] ([tex_size_mb:.1f] MB)"
 
     # renpy/common/_developer/developer.rpym:637
     old "Image cache: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
-    new "Görüntü önbelleği: [cache_pct:.1f] % ( [cache_size_mb:.1f] MB)"
+    new "Görüntü önbelleği: [cache_pct:.1f] % ([cache_size_mb:.1f] MB)"
 
     # renpy/common/_developer/developer.rpym:647
     old "✔ "
-    new "✔    "
+    new "✔ "
 
     # renpy/common/_developer/developer.rpym:650
     old "✘ "
-    new "✘   "
+    new "✘ "
 
     # renpy/common/_developer/developer.rpym:655
     old "\n{color=#cfc}✔ predicted image (good){/color}\n{color=#fcc}✘ unpredicted image (bad){/color}\n{color=#fff}Drag to move.{/color}"
-    new "\n {color=#cfc} ✔ tahmin edilen görüntü (iyi) {/color} \n {color=#fcc} ✘ öngörülemeyen görüntü (kötü) {/color} \n {color=#fff} Taşımak için sürükleyin.{/color}"
+    new "\n{color=#cfc}✔ tahmin edilen görüntü (iyi){/color}\n{color=#fcc}✘ öngörülemeyen görüntü (kötü){/color}\n{color=#fff}Taşımak için sürükleyin.{/color}"
 
     # renpy/common/_developer/inspector.rpym:38
     old "Displayable Inspector"
@@ -852,11 +852,11 @@ translate turkish strings:
 
     # renpy/common/_layout/classic_load_save.rpym:170
     old "a"
-    new "a 
+    new "a"
 
     # renpy/common/_layout/classic_load_save.rpym:179
     old "q"
-    new "q 
+    new "q"
 
     # renpy/common/00iap.rpy:219
     old "Contacting App Store\nPlease Wait..."
@@ -952,7 +952,7 @@ translate turkish strings:
 
     # renpy/common/00gallery.rpy:627
     old "Image [index] of [count] locked."
-    new "[count] görüntü [index] kilitli ."
+    new "[count] görüntü [index] kilitli."
 
     # renpy/common/00gallery.rpy:647
     old "prev"
@@ -984,7 +984,7 @@ translate turkish strings:
 
     # renpy/common/00gltest.rpy:105
     old "Force ANGLE Renderer"
-    new "Force ANGLE Oluşturucu
+    new "Force ANGLE Oluşturucu"
 
     # renpy/common/00gltest.rpy:110
     old "Force GLES Renderer"
@@ -1060,7 +1060,7 @@ translate turkish strings:
 
     # renpy/common/00gltest.rpy:264
     old "More details on how to fix this can be found in the {a=[url]}documentation{/a}."
-    new "Bunun nasıl düzeltileceğiyle ilgili daha fazla ayrıntıyı {a=[url]} belgelerinde {/a} bulabilirsiniz ."
+    new "Bunun nasıl düzeltileceğiyle ilgili daha fazla ayrıntıyı {a=[url]}belgelerinde{/a} bulabilirsiniz ."
 
     # renpy/common/00gltest.rpy:269
     old "Continue, Show this warning again"
