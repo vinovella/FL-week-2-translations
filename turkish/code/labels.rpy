@@ -82,7 +82,7 @@ translate turkish after_credits_b745d2c8:
 translate turkish after_credits_04bc41f8:
 
     # "{color=#f93737}Unknown Girl 1{/color}" "What is going on?"
-    "{color=#f93737} Bilinmeyen Kız 1 {/color} "  " Neler oluyor?"
+    "{color=#f93737}Bilinmeyen Kız 1{/color}"  " Neler oluyor?"
 
 # game/code/labels.rpy:197
 translate turkish after_credits_9b5218fa:
@@ -94,19 +94,19 @@ translate turkish after_credits_9b5218fa:
 translate turkish after_credits_9e887ff2:
 
     # "{color=#ba50f3}Unknown Girl 2{/color}" "Who is there?"
-    "{color=#ba50f3} Bilinmeyen Kız 2 {/color} "  " Orada kim var"
+    "{color=#ba50f3}Bilinmeyen Kız 2{/color}"  " Orada kim var"
 
 # game/code/labels.rpy:203
 translate turkish after_credits_f940c803:
 
     # "{color=#ba50f3}Unknown Girl 2{/color}" "Whom are you talking to?"
-    "{color=#ba50f3} Bilinmeyen Kız 2 {/color} "  " Kiminle konuşuyorsun?"
+    "{color=#ba50f3}Bilinmeyen Kız 2{/color}"  " Kiminle konuşuyorsun?"
 
 # game/code/labels.rpy:205
 translate turkish after_credits_2d991197:
 
     # "{color=#f93737}Unknown Girl 1{/color}" "College kids. Apparently, they can't read!"
-    "{color=#f93737} Bilinmeyen Kız 1 {/color} "  " Üniversiteli çocuklar. Görünüşe göre okuyamıyorlar!"
+    "{color=#f93737}Bilinmeyen Kız 1{/color}"  " Üniversiteli çocuklar. Görünüşe göre okuyamıyorlar!"
 
 # game/code/labels.rpy:208
 translate turkish after_credits_e5b76018:
@@ -118,61 +118,61 @@ translate turkish after_credits_e5b76018:
 translate turkish after_credits_3e0c140e:
 
     # "{color=#ba50f3}Unknown Girl 2{/color}" "Oh Daisy, Stacy!"
-    "{color=#  ba50f3 } Bilinmeyen Kız 2 {/color} " Ah Daisy, Stacy!"
+    "{color=#ba50f3}Bilinmeyen Kız 2{/color}" "Ah Daisy, Stacy!"
 
 # game/code/labels.rpy:214
 translate turkish after_credits_2124ac9d:
 
     # "{color=#ba50f3}Unknown Girl 2{/color}" "You are early!"
-    "{color=#ba50f3} Bilinmeyen Kız 2 {/color} "  " Erken geldiniz!"
+    "{color=#ba50f3}Bilinmeyen Kız 2{/color}" " Erken geldiniz!"
 
 # game/code/labels.rpy:219
 translate turkish after_credits_8e51ee0d:
 
     # "{color=#ec8664}Unknown Girl 3{/color}" "Girls! Whom are you talking to??"
-    "{color=#ec8664} Bilinmeyen Kız 3 {/color} "  " Kızlar! Kiminle konuşuyorsunuz?"
+    "{color=#ec8664}Bilinmeyen Kız 3{/color}" " Kızlar! Kiminle konuşuyorsunuz?"
 
 # game/code/labels.rpy:222
 translate turkish after_credits_7e6fe4d2:
 
     # "{color=#ba50f3}Unknown Girl 2{/color}" "They opened the door..."
-    "{color=#ba50f3} Bilinmeyen Kız 2 {/color} "  " Kapıyı açtılar..."
+    "{color=#ba50f3}Bilinmeyen Kız 2{/color}" " Kapıyı açtılar..."
 
 # game/code/labels.rpy:224
 translate turkish after_credits_a6f9597e:
 
     # "{color=#ec8664}Unknown Girl 3{/color}" "I told you - we aren't ready!"
-    "{color=#ec8664} Bilinmeyen Kız 3 {/color} "  " Sana söyledim - hazır değiliz!"
+    "{color=#ec8664}Bilinmeyen Kız 3{/color}" " Sana söyledim - hazır değiliz!"
 
 # game/code/labels.rpy:227
 translate turkish after_credits_d16b822a:
 
     # "{color=#ba50f3}Unknown Girl 2{/color}" "Sorry!"
-    "{color=#ba50f3} Bilinmeyen Kız 2 {/color} "  " Üzgünüm!"
+    "{color=#ba50f3}Bilinmeyen Kız 2{/color}" " Üzgünüm!"
 
 # game/code/labels.rpy:230
 translate turkish after_credits_38b8e047:
 
     # "{color=#f93737}Unknown Girl 1{/color}" "You heard her."
-    "{color=#f93737} Bilinmeyen Kız 1 {/color} "  " Onu duydunuz."
+    "{color=#f93737}Bilinmeyen Kız 1{/color}" " Onu duydunuz."
 
 # game/code/labels.rpy:233
 translate turkish after_credits_ec4dc5c9:
 
     # "{color=#ec8664}Unknown Girl 3{/color}" "Hey! Now is not a good time! We aren't ready yet!"
-    "{color=#ec8664} Bilinmeyen Kız 3 {/color} "  " Hey! Şimdi iyi bir zaman değil! Henüz hazır değiliz!"
+    "{color=#ec8664}Bilinmeyen Kız 3{/color}" " Hey! Şimdi iyi bir zaman değil! Henüz hazır değiliz!"
 
 # game/code/labels.rpy:236
 translate turkish after_credits_e29ad5fa:
 
     # "{color=#ec8664}Unknown Girl 3{/color}" "Zemfira! That is the wrong outfit! Chapter 4 Scene 5 isn't a sex scene! What are you wearing??"
-    "{color=#ec8664} Bilinmeyen Kız 3 {/color} "  " Zemfira! Bu yanlış kıyafet! Bölüm 4 Sahne 5 seks sahnesi değil! Ne giyiyorsun??"
+    "{color=#ec8664}Bilinmeyen Kız 3{/color}" " Zemfira! Bu yanlış kıyafet! Bölüm 4 Sahne 5 seks sahnesi değil! Ne giyiyorsun??"
 
 # game/code/labels.rpy:239
 translate turkish after_credits_d749c296:
 
     # "{color=#f93737}Zemfira{/color}" "Hey, I was just changing when they opened... And stop bossing us around! We aren't on your volleyball team!"
-    "{color=#f93737} Zemfira {/color} "  " Hey, tam üstümü değiştiriyordum ki açtılar... Ve bize patronluk taslamayı bırak! Senin voleybol takımında değiliz!"
+    "{color=#f93737}Zemfira{/color}" " Hey, tam üstümü değiştiriyordum ki açtılar... Ve bize patronluk taslamayı bırak! Senin voleybol takımında değiliz!"
 
 # game/code/labels.rpy:242
 translate turkish after_credits_d6e2149b:
@@ -184,13 +184,13 @@ translate turkish after_credits_d6e2149b:
 translate turkish after_credits_bf117a95:
 
     # "{color=#ec8664}Unknown Girl 3{/color}" "Let's call it our secret and pretend you never opened the door!"
-    "{color=#ec8664} Bilinmeyen Kız 3 {/color} "  " Buna sırrımız diyelim ve kapıyı hiç açmamış gibi yapalım!"
+    "{color=#ec8664}Bilinmeyen Kız 3{/color}"  " Buna sırrımız diyelim ve kapıyı hiç açmamış gibi yapalım!"
 
 # game/code/labels.rpy:248
 translate turkish after_credits_b7af7f44:
 
     # "{color=#ec8664}Unknown Girl 3{/color}" "Soon you will be able know more about us."
-    "{color=#ec8664} Bilinmeyen Kız 3 {/color} "  " Yakında hakkımızda daha fazlasını öğrenebileceksiniz."
+    "{color=#ec8664}Bilinmeyen Kız 3{/color}"  " Yakında hakkımızda daha fazlasını öğrenebileceksiniz."
 
 # game/code/labels.rpy:251
 translate turkish after_credits_4244eb77:
@@ -202,7 +202,7 @@ translate turkish after_credits_4244eb77:
 translate turkish after_credits_db5b7cd2:
 
     # "{color=#ba50f3}Unknown Girl 2{/color}" "Support the ViNovella team so they can share our story sooner!"
-    "{color=#ba50f3} Bilinmeyen Kız 2 {/color} "  " Hikayemizi daha erken paylaşabilmeleri için ViNovella ekibini destekleyin!"
+    "{color=#ba50f3}Bilinmeyen Kız 2{/color}"  " Hikayemizi daha erken paylaşabilmeleri için ViNovella ekibini destekleyin!"
 
 # game/code/labels.rpy:267
 translate turkish after_credits_1aef1189:

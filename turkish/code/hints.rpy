@@ -264,7 +264,7 @@ translate turkish strings:
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Jessie develops - You will \"ride\" Jessie in more than one way - You will get kicked from her path if you don't go."
-    new "Bu, Jessie ile ilişkinizin gelişme şeklini değiştiren önemli bir seçim - Jessie'yi birden fazla şekilde " bineceksin " - Gitmezsen onun yolundan atılacaksın ."
+    new "Bu, Jessie ile ilişkinizin gelişme şeklini değiştiren önemli bir seçim - Jessie'yi birden fazla şekilde \"bineceksin\" - Gitmezsen onun yolundan atılacaksın ."
 
     # game/code/hints.rpy:5
     old "You will skip any remaining events and prepare for the main event with Allison and Squizzle."
@@ -508,7 +508,7 @@ translate turkish strings:
 
     # game/code/hints.rpy:5
     old "You'll take the Judge's deal and \"rape\" her again."
-    new "Yargıcın anlaşmasını kabul edeceksin ve ona tekrar " tecavüz edeceksin."
+    new "Yargıcın anlaşmasını kabul edeceksin ve ona tekrar \"tecavüz\" edeceksin."
 
     # game/code/hints.rpy:5
     old "You won't take the Judge's deal and she won't do anything to you."
