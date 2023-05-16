@@ -3,6 +3,6 @@
 translate turkish strings:
 
     # game/code/classes/00action_file.rpy:59
-    old "Kalıcı Kaydetmeyi Yükle [slot]"
-    new "Load multipersistent save [slot]"
+    old "Load multipersistent save [slot]"
+    new "Kalıcı Kaydetmeyi Yükle [slot]"
 
