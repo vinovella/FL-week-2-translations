@@ -20,15 +20,15 @@ translate turkish strings:
 
     # game/code/screens/screens.rpy:276
     old "Save"
-    new "Kaydet
+    new "Kaydet"
 
     # game/code/screens/screens.rpy:277
     old "Q.Save"
-    new "H.Kaydet
+    new "H.Kaydet"
 
     # game/code/screens/screens.rpy:278
     old "Q.Load"
-    new "H.Yükle
+    new "H.Yükle"
 
     # game/code/screens/screens.rpy:279
     old "Prefs"
@@ -80,7 +80,7 @@ translate turkish strings:
 
     # game/code/screens/screens.rpy:404
     old "Quit"
-    new "Çıkış
+    new "Çıkış"
 
     # game/code/screens/screens.rpy:824
     old "Game"
@@ -92,7 +92,7 @@ translate turkish strings:
 
     # game/code/screens/screens.rpy:828
     old "Soundtracks"
-    new "Müzikler
+    new "Müzikler"
 
     # game/code/screens/screens.rpy:830
     old "Other Sounds"
@@ -104,7 +104,7 @@ translate turkish strings:
 
     # game/code/screens/screens.rpy:881
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]\n"
-    new "{a=https://www.renpy.org/} Ren'Py {/a}  [renpy.version_only] ile yapılmıştır . \n\n [renpy.license!t] \n"
+    new "{a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only] ile yapılmıştır.\n\n[renpy.license!t]\n"
 
     # game/code/screens/screens.rpy:1030
     old "Naming save file:"
@@ -120,7 +120,7 @@ translate turkish strings:
 
     # game/code/screens/screens.rpy:1075
     old "{#file_time}%A, %B %d %Y, %H:%M"
-    new "{#file_time}%A, %B %d %Y, %H:%M "
+    new "{#file_time}%A, %B %d %Y, %H:%M"
 
     # game/code/screens/screens.rpy:1075
     old "empty slot"
@@ -128,19 +128,19 @@ translate turkish strings:
 
     # game/code/screens/screens.rpy:1092
     old "«"
-    new " « "
+    new "«"
 
     # game/code/screens/screens.rpy:1098
     old "{#auto_page}A"
-    new "{#auto_page}A "
+    new "{#auto_page}A"
 
     # game/code/screens/screens.rpy:1101
     old "{#quick_page}Q"
-    new "{#quick_page}Q "
+    new "{#quick_page}Q"
 
     # game/code/screens/screens.rpy:1108
     old "»"
-    new " » "
+    new "»"
 
     # game/code/screens/screens.rpy:1160
     old "Display"
@@ -204,7 +204,7 @@ translate turkish strings:
 
     # game/code/screens/screens.rpy:1225
     old "Test"
-    new " Test "
+    new "Test"
 
     # game/code/screens/screens.rpy:1229
     old "Voice Volume"
@@ -264,7 +264,7 @@ translate turkish strings:
 
     # game/code/screens/screens.rpy:1460
     old "Ctrl"
-    new " Ctrl "
+    new "Ctrl"
 
     # game/code/screens/screens.rpy:1461
     old "Skips dialogue while held down."
@@ -304,7 +304,7 @@ translate turkish strings:
 
     # game/code/screens/screens.rpy:1485
     old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
-    new "Yardımcı {a=https://www.renpy.org/l/voicing} kendi kendine seslendirmeyi {/a} değiştirir ."
+    new "Yardımcı {a=https://www.renpy.org/l/voicing}kendi kendine seslendirmeyi{/a} değiştirir ."
 
     # game/code/screens/screens.rpy:1491
     old "Left Click"
@@ -320,7 +320,7 @@ translate turkish strings:
 
     # game/code/screens/screens.rpy:1503
     old "Mouse Wheel Up\nClick Rollback Side"
-    new "Fare Tekerleği Yukarı \n Geri Alma Tarafına Tıklayın"
+    new "Fare Tekerleği Yukarı\nGeri Alma Tarafına Tıklayın"
 
     # game/code/screens/screens.rpy:1507
     old "Mouse Wheel Down"
@@ -328,11 +328,11 @@ translate turkish strings:
 
     # game/code/screens/screens.rpy:1514
     old "Right Trigger\nA/Bottom Button"
-    new "Sağ Tetik \n A/Alt Düğme"
+    new "Sağ Tetik\nA/Alt Düğme"
 
     # game/code/screens/screens.rpy:1518
     old "Left Trigger\nLeft Shoulder"
-    new "Sol Tetik \n Sol Omuz"
+    new "Sol Tetik\nSol Omuz"
 
     # game/code/screens/screens.rpy:1522
     old "Right Shoulder"

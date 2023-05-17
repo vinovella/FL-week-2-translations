@@ -538,7 +538,7 @@ translate turkish d08s02_e5d30663:
 translate turkish d08s02_8569eb29:
 
     # mct "Pete said, \"Dude - total failure. No luggage. Talk later.\" {w}Well, fuck..."
-    mct "Pete, "Dostum - tam bir başarısızlık" dedi. valiz yok. Sonra konuşuruz.\" {w}Pekala, siktir..."
+    mct "Pete, \"Dostum - tam bir başarısızlık\" dedi. valiz yok. Sonra konuşuruz.\" {w}Pekala, siktir..."
 
 # game/code/d08/d08s02.rpy:225
 translate turkish d08s02_84cbc12d:

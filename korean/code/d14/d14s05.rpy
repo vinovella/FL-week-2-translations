@@ -1756,13 +1756,13 @@ translate korean d14s05_9d8f1889:
 translate korean d14s05_3cf6059b:
 
     # mc "Vegas odds are probably 1 to 3"
-    mc "확률로 따지자면 75%"
+    mc "확률로 따지자면 75%%"
 
 # game/code/d14/d14s05.rpy:906
 translate korean d14s05_dbb13a9c:
 
     # arj "Except it's you, so probably more like 3 to 1."
-    arj "너만 그렇겠지, 난 25% 같은데."
+    arj "너만 그렇겠지, 난 25%% 같은데."
 
 # game/code/d14/d14s05.rpy:908
 translate korean d14s05_f2779c60:

@@ -16,31 +16,31 @@ translate turkish prologue_fresh_start_1b390ae3:
 translate turkish prologue_fresh_start_ab0acec6:
 
     # "We see that you have already completed the first chapter. If you want to keep playing with all your game progress intact, open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a}."
-    "İlk bölümü zaten tamamladığınızı görüyoruz. Tüm oyun ilerlemeniz bozulmadan oynamaya devam etmek istiyorsanız, menüyü açın, \ " Devam haftası [FLSS.week.prev] \" seçeneğini tıklayın ve bir kaydetme yükleyin. \ n Herhangi bir sorunla karşılaşırsanız lütfen {a=https://discord.gg/efmQRNtFks} Discord {/a} üzerinden bizimle iletişime geçin ."
+    "İlk bölümü zaten tamamladığınızı görüyoruz. Tüm oyun ilerlemeniz bozulmadan oynamaya devam etmek istiyorsanız, menüyü açın, \"Devam haftası [FLSS.week.prev]\" seçeneğini tıklayın ve bir kaydetme yükleyin.\nHerhangi bir sorunla karşılaşırsanız lütfen {a=https://discord.gg/efmQRNtFks}Discord{/a} üzerinden bizimle iletişime geçin."
 
 # game/code/d08/prologue.rpy:69
 translate turkish prologue_fresh_start_d7ab3300:
 
     # "We see that you have already completed the first chapter. If you want to keep playing with all your game progress intact, open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} or on {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
-    "İlk bölümü zaten tamamladığınızı görüyoruz. Tüm oyun ilerlemeniz bozulmadan oynamaya devam etmek istiyorsanız, menüyü açın, \" Devam haftası [FLSS.week.prev] \" seçeneğini tıklayın ve bir kaydetme yükleyin. \ n Herhangi bir sorunla karşılaşırsanız lütfen {a=https://discord.gg/efmQRNtFks} Discord {/a} veya {a=https://www.patreon.com/fetishlocator} Patreon {/a üzerinden bize ulaşın } ."
+    "İlk bölümü zaten tamamladığınızı görüyoruz. Tüm oyun ilerlemeniz bozulmadan oynamaya devam etmek istiyorsanız, menüyü açın, \"Devam haftası [FLSS.week.prev]\" seçeneğini tıklayın ve bir kaydetme yükleyin.\nHerhangi bir sorunla karşılaşırsanız lütfen {a=https://discord.gg/efmQRNtFks}Discord{/a}veya{a=https://www.patreon.com/fetishlocator}Patreon{/a} üzerinden bize ulaşın."
 
 # game/code/d08/prologue.rpy:70
 translate turkish prologue_fresh_start_56a763ee:
 
     # "Now the game will ask you some questions and it will configure your profile.\nFor a better experience, we invite you to play the first chapter of Fetish Locator."
-    "Şimdi oyun size bazı sorular soracak ve profilinizi yapılandıracak. \n Daha iyi bir deneyim için sizi Fetish Locator'ın ilk bölümünü oynamaya davet ediyoruz."
+    "Şimdi oyun size bazı sorular soracak ve profilinizi yapılandıracak.\nDaha iyi bir deneyim için sizi Fetish Locator'ın ilk bölümünü oynamaya davet ediyoruz."
 
 # game/code/d08/prologue.rpy:80
 translate turkish prologue_fresh_start_5b4c2953:
 
     # "You are {b}[mcname]{/b} and your Fetish Locator user name is {b}[mclogin]{/b}."
-    "Siz {b}[mcname]{/b}' siniz ve Fetish Locator kullanıcı adınız {b}[mclogin]{/b} ."
+    "Siz {b}[mcname]{/b} siniz ve Fetish Locator kullanıcı adınız {b}[mclogin]{/b}."
 
 # game/code/d08/prologue.rpy:87
 translate turkish prologue_fresh_start_b5c6b797:
 
     # "Here's your girlfriend Lydia and your friend Amber-Rose.\nLydia is calm, romantic and sweet as much as Amber-Rose is feisty and passionate.\nLet's get to know them better!"
-    "İşte kız arkadaşın Lydia ve arkadaşın Amber-Rose. \n Amber-Rose alıngan ve tutkulu olduğu kadar Lydia da sakin, romantik ve tatlı. \n Onları daha yakından tanıyalım!"
+    "İşte kız arkadaşın Lydia ve arkadaşın Amber-Rose.\nAmber-Rose alıngan ve tutkulu olduğu kadar Lydia da sakin, romantik ve tatlı.\nOnları daha yakından tanıyalım!"
 
 # game/code/d08/prologue.rpy:89
 translate turkish prologue_fresh_start_cbd04ca6:
@@ -52,7 +52,7 @@ translate turkish prologue_fresh_start_cbd04ca6:
 translate turkish prologue_fresh_start_6907d43d:
 
     # "Lydia is a great singer, like her parents.\nWhich musical genre do you think it fits her better?"
-    "Lydia, ebeveynleri gibi harika bir şarkıcı. \n Sizce hangi müzik türü ona daha çok uyuyor?"
+    "Lydia, ebeveynleri gibi harika bir şarkıcı.\nSizce hangi müzik türü ona daha çok uyuyor?"
 
 # game/code/d08/prologue.rpy:110
 translate turkish prologue_fresh_start_36fcdd97:
@@ -64,31 +64,31 @@ translate turkish prologue_fresh_start_36fcdd97:
 translate turkish prologue_fetishes_7bc3a4e5:
 
     # "It's time to choose your preferences.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many as you want and press \"Done\"."
-    "Tercihlerinizi seçme zamanı. \n Favori sapıklığınız listede yoksa merak etmeyin: Fetiş Bulucu daha yeni başladı! \n İstediğiniz kadar seçin ve \" Bitti \" düğmesine basın ."
+    "Tercihlerinizi seçme zamanı.\nFavori sapıklığınız listede yoksa merak etmeyin: Fetiş Bulucu daha yeni başladı!\nİstediğiniz kadar seçin ve \"Bitti\" düğmesine basın ."
 
 # game/code/d08/prologue.rpy:131
 translate turkish prologue_girls_set_1_3502c4fc:
 
     # "In the first week you met several beautiful girls: some can be friends with benefits or even potential love interests.\n\nClick on their portraits to select them. When finished press \"Done\"."
-    "İlk hafta birkaç güzel kızla tanıştınız: bazıları çıkarları olan veya hatta potansiyel aşk ilgileri olan arkadaşlar olabilir. \n\n Portrelerini tıklayarak onları seçin. İşiniz bittiğinde \" Bitti \" düğmesine basın ."
+    "İlk hafta birkaç güzel kızla tanıştınız: bazıları çıkarları olan veya hatta potansiyel aşk ilgileri olan arkadaşlar olabilir.\n\nPortrelerini tıklayarak onları seçin. İşiniz bittiğinde \"Bitti\" düğmesine basın ."
 
 # game/code/d08/prologue.rpy:150
 translate turkish prologue_girls_set_2_cd61a75b:
 
     # "More girls for you! But you cannot choose all of them.\nSelect one or two girls, then press \"Done\".\n\nPS: read their description carefully ;)"
-    "Senin için daha fazla kız! Ama hepsini seçemezsin. \n Bir veya iki kız seçip ardından \" Bitti \" ye basın . \n\n Not: açıklamalarını dikkatlice okuyun ;)"
+    "Senin için daha fazla kız! Ama hepsini seçemezsin. \n Bir veya iki kız seçip ardından \"Bitti\" ye basın .\n\nNot: açıklamalarını dikkatlice okuyun ;)"
 
 # game/code/d08/prologue.rpy:162
 translate turkish prologue_girls_set_2_done_61fc0900:
 
     # "We see you chose the beautiful Melissa \"Lyssa\" Harris.\nHow do you behave toward her?"
-    "Güzeller güzeli Melissa \" Lyssa \" Harris'i seçtiğini görüyoruz . \n Ona karşı nasıl davranıyorsun?"
+    "Güzeller güzeli Melissa \"Lyssa\" Harris'i seçtiğini görüyoruz . \n Ona karşı nasıl davranıyorsun?"
 
 # game/code/d08/prologue.rpy:175
 translate turkish prologue_girls_set_3_746b6a7f:
 
     # "Last pair: do you prefer a top or a bottom? (Or neither, if they aren't your cup of tea)\nSelect up to one girl and press \"Done\"."
-    "on çift: üst mü yoksa alt mı tercih edersin? (Veya, sana göre değilse ikisini de) \n En fazla bir kız seçin ve \" Bitti \" tuşuna basın ."
+    "on çift: üst mü yoksa alt mı tercih edersin? (Veya, sana göre değilse ikisini de) \n En fazla bir kız seçin ve \"Bitti\" tuşuna basın ."
 
 # game/code/d08/prologue.rpy:183
 translate turkish prologue_girls_set_3_done_7582b991:
@@ -124,7 +124,7 @@ translate turkish strings:
 
     # game/code/d08/prologue.rpy:76
     old "What is your nickname in Fetish Locator app?\nIf empty, the game will prepend \"Not_\" to your name: e.g. Not_Mike"
-    new "Fetish Locator uygulamasında takma adınız nedir? \n Boşsa, oyun adınızın başına \" Not_ \" ekler: örn. Not_Mike"
+    new "Fetish Locator uygulamasında takma adınız nedir? \n Boşsa, oyun adınızın başına \"Not_\" ekler: örn. Not_Mike"
 
     # game/code/d08/prologue.rpy:90
     old "Her face"
