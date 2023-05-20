@@ -4,7 +4,7 @@ translate korean strings:
 
     # game/code/credit_sprites.rpy:29
     old "Story Writing -"
-    new "줄거리 작성 -"
+    new "스토리 -"
 
     # game/code/credit_sprites.rpy:41
     old "Art -"
