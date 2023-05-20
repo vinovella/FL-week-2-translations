@@ -160,7 +160,7 @@ translate turkish d08s07_c10a1144:
 translate turkish d08s07_2e3f9e1a:
 
     # lc "Oh! You're already here! What are you thinking about having for lunch?"
-    lc "Oh! Zaten buradasın! Öğle yemeğinde ne yemeyi düşünüyorsun?
+    lc "Oh! Zaten buradasın! Öğle yemeğinde ne yemeyi düşünüyorsun?"
 
 # game/code/d08/d08s07.rpy:75
 translate turkish d08s07_e6eab47b:
@@ -694,7 +694,7 @@ translate turkish d08s07_99ee4460:
 translate turkish d08s07_3dd274bc:
 
     # mes "Yeah. Points to [mcname] for trying to distract me."
-    mes ""Evet. Dikkatimi dağıtmaya çalıştığı için [mcname]'i işaret ediyor."
+    mes "Evet. Dikkatimi dağıtmaya çalıştığı için [mcname]'i işaret ediyor."
 
 # game/code/d08/d08s07.rpy:285
 translate turkish d08s07_a794c97f:

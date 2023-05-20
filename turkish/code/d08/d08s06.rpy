@@ -268,7 +268,7 @@ translate turkish d08s06_d5ae2301:
 translate turkish d08s06_4cd714a8:
 
     # sa "Allison wasn't really competing yesterday. She was just \"having fun\"."
-    sa "Allison dün gerçekten yarışmıyordu. O sadece "eğleniyordu" ."
+    sa "Allison dün gerçekten yarışmıyordu. O sadece \"eğleniyordu\" ."
 
 # game/code/d08/d08s06.rpy:114
 translate turkish d08s06_ab8112cc:

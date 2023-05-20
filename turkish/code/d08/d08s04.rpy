@@ -16,7 +16,7 @@ translate turkish d08s04_5c054653:
 translate turkish d08s04_947e6559:
 
     # mct "I didn't take any pictures... Neither did Maria... Did someone else take a photo of her giving me a head during class?"
-    mct "Ben fotoğraf çekmedim... Maria da çekmedi... Ders sırasında bana sakso çekerken başka biri onun fotoğrafını mı çekti?""
+    mct "Ben fotoğraf çekmedim... Maria da çekmedi... Ders sırasında bana sakso çekerken başka biri onun fotoğrafını mı çekti?"
 
 # game/code/d08/d08s04.rpy:47
 translate turkish d08s04_8a677757:

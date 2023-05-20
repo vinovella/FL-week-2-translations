@@ -1090,7 +1090,7 @@ translate turkish d08s05_dw_b3e5d52d:
 translate turkish d08s05_dw_317588c3:
 
     # mct "What the fuck??"
-    mct "Ne oluyor??
+    mct "Ne oluyor??"
 
 # game/code/d08/d08s05.rpy:500
 translate turkish d08s05_dw_ebf64c4f:
