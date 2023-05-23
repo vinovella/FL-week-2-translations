@@ -154,7 +154,7 @@ translate turkish d09s04_53fe863b:
 translate turkish d09s04_996a71c3:
 
     # mct "Should I do it?" nointeract
-    mct "Yapmalı mıyım?" etkileşim yok
+    mct "Yapmalı mıyım?" nointeract
 
 # game/code/d09/d09s04.rpy:84
 translate turkish d09s04_8dca5345:

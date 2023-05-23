@@ -244,7 +244,7 @@ translate turkish d10s03_b670258b:
 translate turkish d10s03_3c5646a3:
 
     # "John" "When I'm done with you, not even the fucking FBI will be able to find your whore body."
-    "John" "Seninle işim bittiğinde, kahrolası FBI bile senin fahişe vücudunu bulamayacak.
+    "John" "Seninle işim bittiğinde, kahrolası FBI bile senin fahişe vücudunu bulamayacak."
 
 # game/code/d10/d10s03.rpy:144
 translate turkish d10s03_11fccb14:

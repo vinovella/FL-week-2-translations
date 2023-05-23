@@ -208,7 +208,7 @@ translate turkish d09s07_045ac921:
 translate turkish d09s07_8f8d9e8c:
 
     # sb "100%% legal."
-    sb "%100 yasal."
+    sb "%%100 yasal."
 
 # game/code/d09/extended/d09s07.rpy:126
 translate turkish d09s07_07dfee0a:

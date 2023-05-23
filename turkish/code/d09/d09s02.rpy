@@ -40,7 +40,7 @@ translate turkish d09s02_47be7110:
 translate turkish d09s02_34af8ae9:
 
     # mc "Maybe the plumber? \"I'm just here to lay some pipe, little lady.\""
-    mc "Belki tesisatçıdır? \"Sadece boru döşemeye geldim küçük hanım.\"
+    mc "Belki tesisatçıdır? \"Sadece boru döşemeye geldim küçük hanım.\""
 
 # game/code/d09/d09s02.rpy:43
 translate turkish d09s02_8cd077ed:
@@ -148,7 +148,7 @@ translate turkish d09s02_b3ae8984:
 translate turkish d09s02_11004ae4:
 
     # mct "I could bring up the luggage now, but then again, maybe I should wait until after I fuck her?" nointeract
-    mct "Şimdi valizi dile getirebilirim, ama sonra tekrar, belki de onu becerene kadar beklemeliyim?" etkileşim yok
+    mct "Şimdi valizi dile getirebilirim, ama sonra tekrar, belki de onu becerene kadar beklemeliyim?" nointeract
 
 # game/code/d09/d09s02.rpy:96
 translate turkish d09s02_fun_0d28210b:
@@ -988,7 +988,7 @@ translate turkish d09s02_luggage_e849ff8d:
 translate turkish d09s02_luggage_fdf105da:
 
     # sb "So I want you to be my assistant."
-    sb ""Bu yüzden asistanım olmanı istiyorum."
+    sb "Bu yüzden asistanım olmanı istiyorum."
 
 # game/code/d09/d09s02.rpy:493
 translate turkish d09s02_luggage_d282cb20:

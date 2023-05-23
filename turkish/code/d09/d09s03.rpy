@@ -70,7 +70,7 @@ translate turkish d09s03_d81e1343:
 translate turkish d09s03_50e522dc:
 
     # lc "Oh. {w}Anyway, let's just have a pleasant meal."
-    lc "Ah. {w}Her neyse, hadi güzel bir yemek yiyelim.
+    lc "Ah.{w} Her neyse, hadi güzel bir yemek yiyelim."
 
 # game/code/d09/d09s03.rpy:83
 translate turkish d09s03_b4b69a4f:
@@ -1018,25 +1018,25 @@ translate turkish replay_d09s03_0db5cf2d:
 translate turkish replay_d09s03_66734d9d:
 
     # mc "Maybe 90%% real memory mixed with 10%% nostalgic fantasy?"
-    mc "Belki %90 gerçek anı ile %10 nostaljik fantazi karışımı?"
+    mc "Belki %%90 gerçek anı ile %%10 nostaljik fantazi karışımı?"
 
 # game/code/d09/d09s03.rpy:576
 translate turkish replay_d09s03_99a47f7a:
 
     # mc "Maybe 80%% real memory mixed with 20%% nostalgic fantasy?"
-    mc "Belki %80 gerçek anı ile %20 nostaljik fantazi karışmıştır?"
+    mc "Belki %%80 gerçek anı ile %%20 nostaljik fantazi karışmıştır?"
 
 # game/code/d09/d09s03.rpy:578
 translate turkish replay_d09s03_d73c2203:
 
     # mc "Maybe 70%% real memory mixed with 30%% inebriated fantasy?"
-    mc "Belki %70 gerçek anı ile %30 sarhoş fantezi karışmıştır? "
+    mc "Belki %%70 gerçek anı ile %%30 sarhoş fantezi karışmıştır? "
 
 # game/code/d09/d09s03.rpy:580
 translate turkish replay_d09s03_332841e7:
 
     # mc "Maybe 60%% real memory mixed with 40%% inebriated fantasy?"
-    mc "Belki %60 gerçek anı ile %40 sarhoş fantezi karışmıştır?"
+    mc "Belki %%60 gerçek anı ile %%40 sarhoş fantezi karışmıştır?"
 
 # game/code/d09/d09s03.rpy:583
 translate turkish replay_d09s03_1505a571:
@@ -1128,23 +1128,23 @@ translate turkish strings:
 
     # game/code/d09/d09s03.rpy:358
     old "Horse"
-    new "At
+    new "At"
 
     # game/code/d09/d09s03.rpy:358
     old "Dragon"
-    new "Ejderha
+    new "Ejderha"
 
     # game/code/d09/d09s03.rpy:361
     old "dog"
-    new "Köpek
+    new "Köpek"
 
     # game/code/d09/d09s03.rpy:365
     old "horse"
-    new "at
+    new "at"
 
     # game/code/d09/d09s03.rpy:369
     old "dragon"
-    new "ejderha
+    new "ejderha"
 
     # game/code/d09/d09s03.rpy:373
     old "Select a Verb"
@@ -1160,7 +1160,7 @@ translate turkish strings:
 
     # game/code/d09/d09s03.rpy:373
     old "Fuck"
-    new "Siktir
+    new "Siktir"
 
     # game/code/d09/d09s03.rpy:376
     old "cuddle"
@@ -1172,7 +1172,7 @@ translate turkish strings:
 
     # game/code/d09/d09s03.rpy:384
     old "fuck"
-    new "siktir
+    new "siktir"
 
     # game/code/d09/d09s03.rpy:388
     old "Choose a Box"
