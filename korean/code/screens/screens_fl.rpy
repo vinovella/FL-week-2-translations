@@ -167,14 +167,13 @@ translate korean strings:
     new "3. \"FetishLocator\" 파일의 백업을 만든 후 이 폴더를 삭제한다."
 
     # game/code/screens/screens_fl.rpy:879
-    old "5. After launching the game once you can put the backed up file back to it's location to get your Week saves back."
-    new "5. 주차의 저장 파일에 접근할 수 있도록 백업을 파일을 다시 해당 폴더에 넣은 후 게임을 실행한다."
+    old "4. After launching the game once you can put the backed up file back to it's location to get your Week saves back."
+    new "4. 주차의 저장 파일에 접근할 수 있도록 백업을 파일을 다시 해당 폴더에 넣은 후 게임을 실행한다."
 
     # game/code/screens/screens_fl.rpy:881
-    old "Contact us on {a=https://discord.gg/b6CNu2C}Discord{/a} if you need help."
-    new "도움의 필요한 경우 {a=https://discord.gg/b6CNu2C}Discord{/a}를 통해 저희에게 연락을 주십시오."
+    old "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
+    new "도움의 필요한 경우 {a=https://discord.gg/efmQRNtFks}Discord{/a}를 통해 저희에게 연락을 주십시오."
 
     # game/code/screens/screens_fl.rpy:887
     old "Confirm"
     new "확인"
-

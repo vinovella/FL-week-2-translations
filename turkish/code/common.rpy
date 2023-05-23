@@ -179,8 +179,8 @@ translate turkish strings:
     new "{#weekday_short}Paz"
 
     # renpy/common/00action_file.rpy:47
-    old "{#month}Ocak"
-    new "{#month}January"
+    old "{#month}January"
+    new "{#month}Ocak"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}February"
@@ -1169,4 +1169,3 @@ translate turkish strings:
     # renpy/common/_errorhandling.rpym:673
     old "Parsing the script failed."
     new "Komut dosyası ayrıştırılamadı."
-
