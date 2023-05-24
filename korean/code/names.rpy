@@ -3,169 +3,169 @@
 translate korean strings:
 
     old "Fetish Locator"
-    new "Fetish Locator"
+    new "페티시 로케이터"
 
     old "Fetish Locator Retention"
-    new "Fetish Locator Retention"
+    new "페티시 로케이터 유지"
 
     old "Fetish Master"
-    new "Fetish Master"
+    new "페티시 마스터"
 
     old "What is your name in Fetish Locator app?"
-    new "What is your name in Fetish Locator app?"
+    new "페티시 로케이터에서는 어떤 이용자 이름을 사용하시겠습니까?"
 
     old "Pete"
-    new "Pete"
+    new "피트"
 
     old "All"
-    new "All"
+    new "모두"
 
     old "Girl"
-    new "Girl"
+    new "여자애"
 
     old "Lydia"
-    new "Lydia"
+    new "리디아"
 
     old "Min"
-    new "Min"
+    new "민"
 
     old "Antony"
-    new "Antony"
+    new "앤토니"
 
     old "Kevin"
-    new "Kevin"
+    new "케빈"
 
     old "Chloe"
-    new "Chloe"
+    new "클로이"
 
     old "Stacy"
-    new "Stacy"
+    new "스테이시"
 
     old "Polly"
-    new "Polly"
+    new "폴리"
 
     old "Nora"
-    new "Nora"
+    new "노라"
 
     old "Zach"
-    new "Zach"
+    new "자크"
 
     old "Squizzie"
-    new "Squizzie"
+    new "스퀴지"
 
     old "Squizzle"
-    new "Squizzle"
+    new "스퀴즐"
 
     old "Daisy"
-    new "Daisy"
+    new "데이지"
 
     old "Maria"
-    new "Maria"
+    new "마리아"
 
     old "Dahlia"
-    new "Dahlia"
+    new "달리아"
 
     old "Allison"
-    new "Allison"
+    new "앨리슨"
 
     old "Vesna"
-    new "Vesna"
+    new "베스나"
 
     old "Talia"
-    new "Talia"
+    new "탈리아"
 
     old "Cynthia"
-    new "Cynthia"
+    new "신시아"
 
     old "Lyssa"
-    new "Lyssa"
+    new "리사"
 
     old "Hana"
-    new "Hana"
+    new "하나"
 
     old "Dario"
-    new "Dario"
+    new "다리오"
 
     old "Terrell"
-    new "Terrell"
+    new "테럴"
 
     old "Jessie"
-    new "Jessie"
+    new "제시"
 
     old "HairyHarry"
-    new "HairyHarry"
+    new "헤어리해리"
 
     old "Vanessa Webb"
-    new "Vanessa Webb"
+    new "버네사 웹"
 
     old "QueenB"
-    new "QueenB"
+    new "퀸비"
 
     old "Mr.D1cky"
-    new "Mr.D1cky"
+    new "미스터 ㄷ1키"
 
     old "URLittlePony"
-    new "URLittlePony"
+    new "유어리틀포니"
 
     old "Some dude"
-    new "Some dude"
+    new "어떤 자식"
 
     old "Tattooed Girl"
-    new "Tattooed Girl"
+    new "문신녀"
 
     old "Ronald Nordin"
-    new "Ronald Nordin"
+    new "로널드 노딘"
 
     old "Zarah Waller"
-    new "Zarah Waller"
+    new "자라 월러"
 
     old "Amber-Rose"
-    new "Amber-Rose"
+    new "앰버-로즈"
 
     old "Girl voice"
-    new "Girl voice"
+    new "여자 목소리"
 
     old "Anon"
-    new "Anon"
+    new "무명"
 
     old "Barista"
-    new "Barista"
+    new "바리스타"
 
     old "Voice"
-    new "Voice"
+    new "목소리"
 
     old "female voice"
-    new "female voice"
+    new "여자 목소리"
 
     old "Narrator"
-    new "Narrator"
+    new "해설자"
 
     old "Developer"
-    new "Developer"
+    new "개발자"
 
     old "ErikaRed"
-    new "ErikaRed"
+    new "에리카레드"
 
     old "SexyMinx"
-    new "SexyMinx"
+    new "섹시밍스"
 
     old "SuperNova"
-    new "SuperNova"
+    new "슈퍼노바"
 
     old "Aaleyah"
-    new "Aaleyah"
+    new "알리야"
 
     old "Samiya"
-    new "Samiya"
+    new "사미야"
 
     old "Iona"
-    new "Iona"
+    new "아이오나"
 
     old "Shontae"
-    new "Shontae"
+    new "숀티"
 
     old "Mr. Melville"
-    new "Mr. Melville"
+    new "멜빌 씨"
 
     old "Oliver"
-    new "Oliver"
+    new "올리버"
