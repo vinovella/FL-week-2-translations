@@ -754,13 +754,13 @@ translate korean d14s19_sy_end_4dbcc255:
 translate korean d14s19_sy_end_9eae3e1c:
 
     # mc "I wish I had your confidence in me."
-    mc "I wish I had your confidence in me."
+    mc "네가 믿는 반이라도 했으면 좋겠다."
 
 # game/code/d14p2/d14s19_sy.rpy:1129
 translate korean d14s19_sy_end_43f8b1c4:
 
     # sy "It's just a silly dream. {w}It's just a dream."
-    sy "그래 바보 같은 꿈이지. {w}그냥 꿈이야."
+    sy "이건 바보 같은 꿈이지. {w}그냥 꿈이야."
 
 # game/code/d14p2/d14s19_sy.rpy:1130
 translate korean d14s19_sy_end_79931047:
