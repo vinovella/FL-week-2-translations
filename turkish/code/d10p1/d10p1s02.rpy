@@ -256,7 +256,7 @@ translate turkish d10p1s02_8793732e:
 translate turkish d10p1s02_7ed659f5:
 
     # aw "Totally straight guys that are not gay at all and would never even consider being gay but is just camming for the \"community\" also make bank from gay guys that are into the \"straight turned gay\" stuff."
-    aw "Hiç gey olmayan ve asla gey olmayı düşünmeyen, sadece "topluluk" için kameraya takılan tamamen heteroseksüel erkekler, aynı zamanda "heteroseksüelden geyliğe" ilgi duyan gey erkeklerden para kazanıyor."
+    aw "Hiç gey olmayan ve asla gey olmayı düşünmeyen, sadece \"topluluk\" için kameraya takılan tamamen heteroseksüel erkekler, aynı zamanda \"heteroseksüelden geyliğe\" ilgi duyan gey erkeklerden para kazanıyor."
 
 # game/code/d10p1/d10p1s02.rpy:127
 translate turkish d10p1s02_31251cce:
@@ -268,7 +268,7 @@ translate turkish d10p1s02_31251cce:
 translate turkish d10p1s02_a385d7f5:
 
     # aw "Though, I wouldn't really recommend doing any fake trans stuff. I dunno, it doesn't feel \"right\" to me, maybe that's just me."
-    aw "Yine de, sahte trans şeyler yapmayı gerçekten tavsiye etmem. Bilmiyorum, bu bana "doğru" gelmiyor, belki de bana öyle geliyor."
+    aw "Yine de, sahte trans şeyler yapmayı gerçekten tavsiye etmem. Bilmiyorum, bu bana \"doğru\" gelmiyor, belki de bana öyle geliyor."
 
 # game/code/d10p1/d10p1s02.rpy:129
 translate turkish d10p1s02_35df6966:

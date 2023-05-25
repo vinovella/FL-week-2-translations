@@ -628,7 +628,7 @@ translate turkish d10p1s01_64211d2b:
 translate turkish d10p1s01_1321a6d4:
 
     # arjfl "Just that?"
-    arjfl "Sadece bu mu?""
+    arjfl "Sadece bu mu?"
 
 # game/code/d10p1/d10p1s01.rpy:224
 translate turkish d10p1s01_9c3486e6:

@@ -76,7 +76,7 @@ translate turkish d10p1s03_b75c3fb1:
 translate turkish d10p1s03_30633c33:
 
     # mh "Safeword? Hm... I haven't actually thought about it too much."
-    mh "Güvenli kelime? Hm... Aslında bunun hakkında fazla düşünmedim.
+    mh "Güvenli kelime? Hm... Aslında bunun hakkında fazla düşünmedim."
 
 # game/code/d10p1/d10p1s03.rpy:56
 translate turkish d10p1s03_ad02b196:
