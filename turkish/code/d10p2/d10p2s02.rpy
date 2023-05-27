@@ -154,7 +154,7 @@ translate turkish d10p2s02_53796b42:
 translate turkish d10p2s02_2fa3fcbf:
 
     # mct "Should I beat this guys ass or wait a little longer?" nointeract
-    mct "Bu adamların kıçını dövmeli miyim yoksa biraz daha beklemeli miyim?" etkileşim yok
+    mct "Bu adamların kıçını dövmeli miyim yoksa biraz daha beklemeli miyim?" nointeract
 
 # game/code/d10p2/d10p2s02.rpy:71
 translate turkish d10p2s01_intervene_a9af5f58:
@@ -706,7 +706,7 @@ translate turkish d10p2s01_end_67b538d1:
 translate turkish d10p2s01_end_dc9a27a5:
 
     # mc "No. {w}I mean, I am seriously worried that she's going to kill him."
-    mc "Hayır. {w}Yani, onun onu öldüreceğinden cidden endişeleniyorum.""
+    mc "Hayır. {w}Yani, onun onu öldüreceğinden cidden endişeleniyorum."
 
 # game/code/d10p2/d10p2s02.rpy:329
 translate turkish d10p2s01_end_0f20687d:
