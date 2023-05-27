@@ -432,7 +432,7 @@ translate korean strings:
 
     # renpy/common/00gui.rpy:423
     old "Are you sure?"
-    new "그렇게 하시겠습니까?"
+    new "그렇게 하겠습니까?"
 
     # renpy/common/00gui.rpy:424
     old "Are you sure you want to delete this save?"
@@ -452,7 +452,7 @@ translate korean strings:
 
     # renpy/common/00gui.rpy:428
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
-    new "정말로 메인 메뉴로 돌아가겠습니까?\n저장되지 않은 진행 사항을 잃게 됩니다."
+    new "정말로 메인 메뉴로 돌아가겠습니까?\n돌아가면 저장되지 않은 진행 사항을 잃게 됩니다."
 
     # renpy/common/00gui.rpy:429
     old "Are you sure you want to end the replay?"
@@ -472,7 +472,7 @@ translate korean strings:
 
     # renpy/common/00keymap.rpy:306
     old "Failed to save screenshot as %s."
-    new "%s 스크린샷 실패."
+    new "%s 스크린샷 저장 실패."
 
     # renpy/common/00keymap.rpy:318
     old "Saved screenshot as %s."
@@ -556,7 +556,7 @@ translate korean strings:
 
     # renpy/common/00preferences.rpy:357
     old "auto-forward after click"
-    new "클릭 후 자동 넘기기"
+    new "클릭 후 자동-넘기기"
 
     # renpy/common/00preferences.rpy:366
     old "automatic move"
@@ -572,19 +572,19 @@ translate korean strings:
 
     # renpy/common/00preferences.rpy:393
     old "self voicing"
-    new "셀프 보이싱"
+    new "말하기 기능"
 
     # renpy/common/00preferences.rpy:402
     old "self voicing volume drop"
-    new "셀프 보이싱 음량 감소"
+    new "말하기 기능 음량 감소"
 
     # renpy/common/00preferences.rpy:410
     old "clipboard voicing"
-    new "클립보드 보이싱"
+    new "클립보드 말하기"
 
     # renpy/common/00preferences.rpy:419
     old "debug voicing"
-    new "디버그 보이싱"
+    new "디버그 말하기"
 
     # renpy/common/00preferences.rpy:428
     old "emphasize audio"
@@ -592,7 +592,7 @@ translate korean strings:
 
     # renpy/common/00preferences.rpy:437
     old "rollback side"
-    new "뒤거 가기"
+    new "되감기 방향"
 
     # renpy/common/00preferences.rpy:447
     old "gl powersave"
@@ -600,7 +600,7 @@ translate korean strings:
 
     # renpy/common/00preferences.rpy:453
     old "gl framerate"
-    new "gl 초당 프레임 개수"
+    new "gl 초당 프레임 수"
 
     # renpy/common/00preferences.rpy:456
     old "gl tearing"
@@ -608,11 +608,11 @@ translate korean strings:
 
     # renpy/common/00preferences.rpy:459
     old "font transform"
-    new "글자 변형"
+    new "글꼴 변형"
 
     # renpy/common/00preferences.rpy:462
     old "font size"
-    new "글자 크기"
+    new "글꼴 크기"
 
     # renpy/common/00preferences.rpy:470
     old "font line spacing"
@@ -636,15 +636,15 @@ translate korean strings:
 
     # renpy/common/00preferences.rpy:512
     old "music volume"
-    new "음악 크기"
+    new "음악 음량"
 
     # renpy/common/00preferences.rpy:513
     old "sound volume"
-    new "효과음 크기"
+    new "효과음 음량"
 
     # renpy/common/00preferences.rpy:514
     old "voice volume"
-    new "목소리 크기"
+    new "목소리 음량"
 
     # renpy/common/00preferences.rpy:515
     old "mute music"
@@ -664,15 +664,15 @@ translate korean strings:
 
     # renpy/common/00preferences.rpy:599
     old "Clipboard voicing enabled. Press 'shift+C' to disable."
-    new "클립보드 보이싱 실행. 끄려면 'shift+C'를 누르시오."
+    new "클립보드 말하기 실행. 끄려면 'shift+C'를 누르시오."
 
     # renpy/common/00preferences.rpy:601
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
-    new "셀프-보이싱 기능을 \"[renpy.display.tts.last]\" 문장을 말합니다. 끄려면 'alt+shift+V'를 누르시오."
+    new "말하기 기능을 \"[renpy.display.tts.last]\" 문장을 말합니다. 끄려면 'alt+shift+V'를 누르시오."
 
     # renpy/common/00preferences.rpy:603
     old "Self-voicing enabled. Press 'v' to disable."
-    new "셀프 보이싱 실행. 끄려면 'v'를 누르시오."
+    new "말하기 기능 활성. 끄려면 'v'를 누르시오."
 
     # renpy/common/_compat/gamemenu.rpym:198
     old "Empty Slot."
@@ -700,11 +700,11 @@ translate korean strings:
 
     # renpy/common/_developer/developer.rpym:45
     old "Reload Game (Shift+R)"
-    new "게임 재실행 (Shift+R)"
+    new "게임 다시 불러오기 (Shift+R)"
 
     # renpy/common/_developer/developer.rpym:47
     old "Console (Shift+O)"
-    new "콘솔창 (Shift+O)"
+    new "콘솔 창 (Shift+O)"
 
     # renpy/common/_developer/developer.rpym:49
     old "Variable Viewer"
@@ -764,7 +764,7 @@ translate korean strings:
 
     # renpy/common/_developer/developer.rpym:453
     old "Right-click or escape to quit."
-    new "종료하려면 오른쪽-클릭 또는 이스케이프."
+    new "종료하려면 오른쪽-클릭 또는 이스케이프 키."
 
     # renpy/common/_developer/developer.rpym:485
     old "Rectangle copied to clipboard."
@@ -776,7 +776,7 @@ translate korean strings:
 
     # renpy/common/_developer/developer.rpym:506
     old "Type to filter: "
-    new "필터링 사항 입력: "
+    new "필터링 유형: "
 
     # renpy/common/_developer/developer.rpym:631
     old "Textures: [tex_count] ([tex_size_mb:.1f] MB)"
@@ -844,7 +844,7 @@ translate korean strings:
 
     # renpy/common/00iap.rpy:219
     old "Contacting App Store\nPlease Wait..."
-    new "앱 스토어에 접촉 중\n기다려 주세요..."
+    new "앱 스토어에 접촉 중\n대기 바랍니다..."
 
     # renpy/common/00updater.rpy:391
     old "The Ren'Py Updater is not supported on mobile devices."
@@ -860,7 +860,7 @@ translate korean strings:
 
     # renpy/common/00updater.rpy:718
     old "This account does not have permission to perform an update."
-    new "이 계정은 업데이트를 행하기 위한 권한을 가지고 있지 않습니다."
+    new "이 계정은 업데이트를 수행하기 위한 권한을 가지고 있지 않습니다."
 
     # renpy/common/00updater.rpy:721
     old "This account does not have permission to write the update log."
@@ -880,7 +880,7 @@ translate korean strings:
 
     # renpy/common/00updater.rpy:1181
     old "While unpacking {}, unknown type {}."
-    new "{} 언팩킹 중, {} 타일 비식별."
+    new "{} 언팩킹 중, 비식별 타입 {}."
 
     # renpy/common/00updater.rpy:1553
     old "Updater"
@@ -900,7 +900,7 @@ translate korean strings:
 
     # renpy/common/00updater.rpy:1566
     old "[u.version] is available. Do you want to install it?"
-    new "[u.version] 이용 가능. 설치하시겠습니까?"
+    new "[u.version] 이용 가능. 설치하겠습니까?"
 
     # renpy/common/00updater.rpy:1568
     old "Preparing to download the updates."
@@ -936,7 +936,7 @@ translate korean strings:
 
     # renpy/common/00gallery.rpy:590
     old "Image [index] of [count] locked."
-    new "[count]의 이미지 [index] 잠김."
+    new "[count]의 [index] 이미지 잠김."
 
     # renpy/common/00gallery.rpy:610
     old "prev"
@@ -948,7 +948,7 @@ translate korean strings:
 
     # renpy/common/00gallery.rpy:612
     old "slideshow"
-    new "슬라이드쇼"
+    new "슬라이드 쇼"
 
     # renpy/common/00gallery.rpy:613
     old "return"
@@ -988,7 +988,7 @@ translate korean strings:
 
     # renpy/common/00gltest.rpy:136
     old "Enable (No Blocklist)"
-    new "실행 (차단 항목 목록 없음)"
+    new "실행 (차단 목록 없음)"
 
     # renpy/common/00gltest.rpy:159
     old "Powersave"
@@ -1032,11 +1032,11 @@ translate korean strings:
 
     # renpy/common/00gltest.rpy:251
     old "This computer has a problem displaying graphics: [problem]."
-    new "이 컴퓨터는 그래픽을 출력하는 데 문제가 있습니다: [problem]."
+    new "이 컴퓨터에 그래픽 출력 문제가 있습니다: [problem]."
 
     # renpy/common/00gltest.rpy:255
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
-    new "그래픽 드라이버가 오래되었거나 올바르게 작동하지 않습니다. 이 문제로 인해 느리거나 올바르지 않은 그래픽 출력이 야기될 수 있습니다."
+    new "그래픽 드라이버가 오래되었거나 올바르게 작동하지 않습니다. 이 문제로 인해 그래픽 출력이 느리거나 올바르지 않는 문제가 발생할 수 있습니다."
 
     # renpy/common/00gltest.rpy:259
     old "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer."
@@ -1044,7 +1044,7 @@ translate korean strings:
 
     # renpy/common/00gltest.rpy:264
     old "More details on how to fix this can be found in the {a=[url]}documentation{/a}."
-    new "{a=[url]}설명 문서{/a}에서 이 사항을 고치는 방법에 관한 더 자세한 내용을 찾을 수 있습니다."
+    new "{a=[url]}설명 문서{/a}에서 이 문제를 고치는 방법에 관한 더 자세한 내용을 찾을 수 있습니다."
 
     # renpy/common/00gltest.rpy:269
     old "Continue, Show this warning again"
@@ -1088,7 +1088,7 @@ translate korean strings:
 
     # renpy/common/_errorhandling.rpym:555
     old "Opens the traceback.txt file in a text editor."
-    new "문서 편집기에서 traceback.txt 파일을 연다."
+    new "텍스트 편집기에서 traceback.txt 파일을 연다."
 
     # renpy/common/_errorhandling.rpym:557
     old "Copy BBCode"
@@ -1096,7 +1096,7 @@ translate korean strings:
 
     # renpy/common/_errorhandling.rpym:559
     old "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
-    new "traceback.txt 파일을 클립보드에 https://lemmasoft.renai.us/ 같은 포럼을 위한 BBcode로 복사."
+    new "https://lemmasoft.renai.us/ 같은 포럼을 위한 BBCode 형식으로 traceback.txt 파일을 클립보드에 복사."
 
     # renpy/common/_errorhandling.rpym:561
     old "Copy Markdown"
@@ -1160,16 +1160,16 @@ translate korean strings:
 
     # renpy/common/00action_other.rpy:703
     old "Open [text] directory."
-    new "Open [text] directory."
+    new "[text] 경로 열기."
 
     # renpy/common/00preferences.rpy:507
     old "audio when minimized"
-    new "audio when minimized"
+    new "최소화 중 오디오"
 
     # renpy/common/00preferences.rpy:527
     old "main volume"
-    new "main volume"
+    new "주 음량"
 
     # renpy/common/00preferences.rpy:531
     old "mute main"
-    new "mute main"
+    new "주 음소거"
