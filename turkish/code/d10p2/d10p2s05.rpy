@@ -76,7 +76,7 @@ translate turkish d10p2s05_fr_dd_aw_0be263f7:
 translate turkish d10p2s05_fr_dd_aw_6ebb1f7a:
 
     # mct "Daisy seems fine now at least."
-    mct "Daisy en azından şimdi iyi görünüyor.
+    mct "Daisy en azından şimdi iyi görünüyor."
 
 # game/code/d10p2/d10p2s05.rpy:273
 translate turkish d10p2s05_fr_dd_aw2_0be263f7:
@@ -682,7 +682,7 @@ translate turkish replay_d10p2s05_148a5509:
 translate turkish replay_d10p2s05_439bbbec:
 
     # mc "I'm ready to go to the next step! Are you?"
-    mc "Bir sonraki adıma geçmeye hazırım! Sen hazır mısın?""
+    mc "Bir sonraki adıma geçmeye hazırım! Sen hazır mısın?"
 
 # game/code/d10p2/d10p2s05.rpy:705
 translate turkish replay_d10p2s05_4547ff34:

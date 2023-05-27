@@ -1132,7 +1132,7 @@ translate turkish d10p2s08_dw_part1_24434e2c:
 translate turkish d10p2s08_dw_part1_30cbc23e:
 
     # mc "Sometimes maybe I kinda like... {w}to be dominated."
-    mc "Bazen belki de... {w}hükmedilmek hoşuma gidiyor.""
+    mc "Bazen belki de... {w}hükmedilmek hoşuma gidiyor."
 
 # game/code/d10p2/d10p2s08.rpy:448
 translate turkish d10p2s08_dw_part1_7e419cf5:

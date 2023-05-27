@@ -340,7 +340,7 @@ translate turkish d10p2s04_dw_31eff69d_1:
 translate turkish d10p2s04_dw_abf17486:
 
     # dw "I remember telling you very clearly that I will be called \"Mistress\" at all times."
-    dw "Bana her zaman \"Hanımım" diye hitap edileceğini çok net bir şekilde söylediğimi hatırlıyorum."
+    dw "Bana her zaman \"Hanımım\" diye hitap edileceğini çok net bir şekilde söylediğimi hatırlıyorum."
 
 # game/code/d10p2/d10p2s04-dw.rpy:297
 translate turkish d10p2s04_dw_71732c46:
