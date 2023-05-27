@@ -244,7 +244,7 @@ translate korean d08s00_week1synopsis_899d87f7:
 translate korean d08s00_week1synopsis_edc71a7c:
 
     # "Yet our protagonist was there to intervene {w}and violently object to Lydia's assault and abduction."
-    "그러나 우리의 주인공이 끼어들었고 {w}리디아를 습격과 납치로부터 격렬하게 구해냈다."
+    "그러나 우리의 주인공이 끼어들었고 {w}리디아를 습격과 납치로부터 격렬하게 구해 냈다."
 
 # game/code/recap.rpy:216
 translate korean d08s00_week1synopsis_db68b096:
@@ -358,7 +358,7 @@ translate korean d08s00_week1synopsis_39ede91d:
 translate korean d08s00_week1synopsis_bb3abcff:
 
     # "Unfortunately, his coffee date with the love of his life was interrupted by AmRose..."
-    "그러나 불행하게도, 평생의 사랑과 함께 한 커피 데이트는 앰로즈에 의해 방해 받았다..."
+    "그러나 불행하게도, 평생의 사랑과 함께한 커피 데이트는 앰로즈에 의해 방해 받았다..."
 
 # game/code/recap.rpy:266
 translate korean d08s00_week1synopsis_81d877e5:
@@ -388,7 +388,7 @@ translate korean d08s00_week1synopsis_65c0e46c:
 translate korean d08s00_week1synopsis_f49a455e:
 
     # "[mcname] came to her rescue, and in the process, learned that she was put into a secretive \"VIP Fetish Challenge Program\" to win one million dollars."
-    "[mcname] 영은 앰로즈를 구하러 갔고, 구조 과정에서 앰로즈가 숨겨진 \"VIP 페티시 도전 계획\"에 참가해 백만 발러를 받으려고 한다는 사실을 알게 되었다."
+    "[mcname] 영은 앰로즈를 구하러 갔고, 구조 과정에서 앰로즈가 숨겨진 \"VIP 페티시 도전 계획\"에 참가해 백만 달러를 받으려고 한다는 사실을 알게 되었다."
 
 # game/code/recap.rpy:279
 translate korean d08s00_week1synopsis_8aa2a88d:
@@ -406,7 +406,7 @@ translate korean d08s00_week1synopsis_3a50e437:
 translate korean d08s00_week1synopsis_bb08f530:
 
     # "When he tried to delete the app from his phone, he too got put into the VIP Fetish Challenge Program."
-    "주인공이 자기 휴대폰에서 페티시 로케이터 앱을 삭제하려 한 순간, 주인공 또한 VIP 페티시 도전 계획에 참여하라는 제안을 받게 된 것이다."
+    "주인공이 자기 휴대폰에서 페티시 로케이터 앱을 삭제하려던 순간, 주인공 또한 VIP 페티시 도전 계획에 참가하라는 제안을 받게 된 것이다."
 
 # game/code/recap.rpy:288
 translate korean d08s00_week1synopsis_e8352572:
@@ -436,7 +436,7 @@ translate korean d08s00_week1synopsis_49c4a807:
 translate korean d08s00_week1synopsis_c61400f6:
 
     # "He had to earn 50 points by Monday morning."
-    "월요일 아침까지 50점을 벌면 된다."
+    "월요일 아침까지 50점을 벌어야 했다."
 
 # game/code/recap.rpy:300
 translate korean d08s00_week1synopsis_99a5a592:
@@ -472,13 +472,13 @@ translate korean d08s00_week1synopsis_f4ae002e:
 translate korean d08s00_week1synopsis_f20fd82d:
 
     # "[mcname] visited home. There he saw his sister, Stacy, for the first time in many months."
-    "[mcname] 영은 본가로 돌아갔다. 거기서 주인공은 자기 여동생인 스테이시를 몇 달 만에 처음 보았다."
+    "[mcname] 영은 본가로 돌아갔다. 주인공은 몇 달 만에 자신의 여동생 스테이시를 보게 되었다."
 
 # game/code/recap.rpy:320
 translate korean d08s00_week1synopsis_67a1402c:
 
     # "[mcname] visited home. His close friend, Stacy, was living there temporarily. It was the first time he had seen her in months."
-    "[mcname] 영은 본가로 돌아갔다. 주인공의 절친인 스테이시가 잠시 그곳에 머물고 있다. 주인공은 스테이시를 몇 달 만에 처음 보았다."
+    "[mcname] 영은 본가로 돌아갔다. 주인공의 절친인 스테이시가 잠시 그곳에 머물고 있었다. 주인공은 몇 달 만에 스테이시를 보게 되었다."
 
 # game/code/recap.rpy:324
 translate korean d08s00_week1synopsis_4ef5836c:
@@ -526,7 +526,7 @@ translate korean d08s00_week1synopsis_3a14db86:
 translate korean d08s00_week1synopsis_386e2760:
 
     # "He had been dating AmRose's roommate, Karen, during Freshman year. {w}(well, more fucking than dating){w} and AmRose had often been in the room watching them."
-    "주인공은 앰로즈의 룸메이트인 캐런과 1학년 동안 데이트를 했다. {w}(말이 그렇지, 사실은 데이트보다 섹스를 더 많이 했다){w} 그리고 앰로즈는 자기 기숙사 방에서 주인공과 캐런이 그 짓을 하는 걸 종종 보았다."
+    "1학년일 때 주인공은 앰로즈의 룸메이트인 캐런과 만났다. {w}(말이 그렇지, 사실은 데이트보다 섹스를 더 많이 했다){w} 그리고 앰로즈는 자기 기숙사 방에서 주인공과 캐런이 그 짓을 하는 걸 종종 보았다."
 
 # game/code/recap.rpy:347
 translate korean d08s00_week1synopsis_dd7c140c:
@@ -598,7 +598,7 @@ translate korean d08s00_week1synopsis_227ab1f0:
 translate korean d08s00_week1synopsis_a196715c:
 
     # "Surprisingly, while he was swimming he was picked up by Hana - the girl he had spied in Pete's bed almost a week earlier."
-    "놀랍게도, 주인공이 수영을 하던 중 하나가 등장해 주인공을 채갔다 - 하나는 주초에 피트의 침대에 있었던 그 여자애. 주인공이 훔쳐봤었던 그 애였다."
+    "놀랍게도, 주인공이 수영을 하던 중 하나가 등장해 주인공을 채갔다. 하나는 주초에 피트의 침대에 있었던 그 여자애. 주인공이 훔쳐봤었던 그 애였다."
 
 # game/code/recap.rpy:386
 translate korean d08s00_week1synopsis_1743400f:
@@ -652,7 +652,7 @@ translate korean d08s00_week1synopsis_599ffb55:
 translate korean d08s00_week1synopsis_f66c063d:
 
     # "[mcname] decided that AmRose would be his secret girlfriend, while Lydia remained his public girlfriend."
-    "[mcname] 영은 앰로즈를 자신의 비밀 여자 친구로 삼겠다고 결정했다. 리디아는 공개 여자 친구로 남고 말이다."
+    "[mcname] 영은 앰로즈를 자신의 비밀 여자 친구로 삼겠다고 결정했다. 리디아는 공개 여자 친구로 두고 말이다."
 
 # game/code/recap.rpy:411
 translate korean d08s00_week1synopsis_ebbcf21a:
@@ -784,13 +784,13 @@ translate korean d08s00_week1synopsis_e5f510cd:
 translate korean d08s00_week1synopsis_b9dc0240:
 
     # "Whether it was guilt from her argument with AmRose or lingering effects from their mystical experience, Maria interrupted [mcname] in the bathroom with an unusual offer."
-    "앰로즈와의 말다툼으로 죄책감을 느꼈기 때문인지 아니면 파티에서 체험한 신비로운 경험의 지체 효과 때문인지, 마리아는 화장실에 있는 [mcname] 영을 방해하며 특이한 제안을 했다."
+    "앰로즈와의 말다툼으로 죄책감을 느꼈기 때문인지 아니면 파티에서 체험한 신비로운 경험의 지체 효과 때문인지, 마리아는 화장실에 있는 [mcname] 영을 가로막고 특이한 제안을 했다."
 
 # game/code/recap.rpy:485
 translate korean d08s00_week1synopsis_ecb0369f:
 
     # "An opportunity that [mcname] took advantage of to humiliate Maria in a way she did not expect."
-    "[mcname] 영은 이 기회를 이용해 마리아에게 굴욕을 안겼다."
+    "[mcname] 영은 이 기회를 이용해 마리아가 상상하지도 못한 방식으로 굴욕을 안겼다."
 
 # game/code/recap.rpy:490
 translate korean d08s00_week1synopsis_a8958900:
@@ -802,7 +802,7 @@ translate korean d08s00_week1synopsis_a8958900:
 translate korean d08s00_week1synopsis_0f8233ca:
 
     # "In order to get Polly and Nora together, [mcname] had to come up with a creative redefinition of a blind date."
-    "폴리와 노리가 함께 할 수 있도록 하기 위해, [mcname] 영은 양자가 얼굴도 모르는 상태로 만나는 소개팅이라는 개념을 창의적으로 재정의했다."
+    "폴리와 노리가 함께할 수 있도록, [mcname] 영은 양자가 얼굴도 모르는 상태로 만나는 소개팅이라는 개념을 창의적으로 재정의했다."
 
 # game/code/recap.rpy:498
 translate korean d08s00_week1synopsis_51e67c51:
@@ -892,7 +892,7 @@ translate korean d08s00_week1synopsis_f6e01cf2:
 translate korean d08s00_week1synopsis_59e35c21:
 
     # "Dahlia has been very clear about her role as a dominatrix."
-    "달리아는 여왕님으로서 자신의 역할에 대해 매우 투철했다."
+    "달리아는 여왕님으로서 자신의 역할에 매우 투철하다."
 
 # game/code/recap.rpy:550
 translate korean d08s00_week1synopsis_6671579e:
@@ -904,7 +904,7 @@ translate korean d08s00_week1synopsis_6671579e:
 translate korean d08s00_week1synopsis_66f54641:
 
     # "[mcname] had only a few small interactions with Allison, but she seems quite interesting."
-    "[mcname] 영은 앨리슨과 접촉할 기회가 거의 없었지만, 앨리슨은 꽤 흥미로웠다."
+    "[mcname] 영은 앨리슨과 접촉할 기회가 거의 없었지만, 앨리슨은 꽤 흥미로운 사람이라는 걸 알게 되었다."
 
 # game/code/recap.rpy:560
 translate korean d08s00_week1synopsis_ac416e4e:
@@ -916,7 +916,7 @@ translate korean d08s00_week1synopsis_ac416e4e:
 translate korean d08s00_week1synopsis_aa846a87:
 
     # "[mcname] learned that accepting the peculiar nature of Kevin's relationship with Chloe has benefits."
-    "[mcname] 영은 케빈과 클로이의 관계의 특이한 속성을 용인했고 이로써 득을 보게 되었다."
+    "[mcname] 영은 케빈과 클로이의 특이한 관계를 용인했고 이로써 득을 보게 되었다."
 
 # game/code/recap.rpy:567
 translate korean d08s00_week1synopsis_4023103c:
