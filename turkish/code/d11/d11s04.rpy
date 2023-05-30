@@ -316,7 +316,7 @@ translate turkish d11s04_9abb9fb7_1:
 translate turkish d11s04_378b102b:
 
     # "Doctor" "Would you mind taking off your sweater dress?"
-    "Doctor" "Doktor" "Elbisenizi çıkarır mısınız?"
+    "Doctor" "Elbisenizi çıkarır mısınız?"
 
 # game/code/d11/d11s04.rpy:211
 translate turkish d11s04_4425326e:
