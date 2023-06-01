@@ -246,42 +246,6 @@ translate italian d08s12_pre_mc_action_49089914:
     # mc "I've never done anything like this before..."
     mc "Non ho mai fatto nulla di simile, prima..."
 
-# game/code/d08/d08s12.rpy:173
-translate italian d08s12_pre_mc_action_642862f5:
-
-    # mh "Sure, sure."
-    mh "Immagino."
-
-# game/code/d08/d08s12.rpy:177
-translate italian d08s12_pre_mc_action_954a6ab6:
-
-    # mh "Really?"
-    mh "Davvero?"
-
-# game/code/d08/d08s12.rpy:187
-translate italian d08s12_deny_2394d0ba:
-
-    # mc "I quite enjoy, how your engorged penis is standing at attention and begging to be touched!"
-    mc "Mi piace come il tuo pisello sta lì, bello ritto, come in cerca di attenzione. Sembra quasi che chieda di essere toccato!"
-
-# game/code/d08/d08s12.rpy:189
-translate italian d08s12_deny_95edf050:
-
-    # mc "Let it be there! I don't permit you touch it!"
-    mc "Sta bene così! Non ti permetto di sfiorarlo!"
-
-# game/code/d08/d08s12.rpy:191
-translate italian d08s12_deny_3280b29a:
-
-    # mh "Oh?..."
-    mh "Oh?..."
-
-# game/code/d08/d08s12.rpy:199
-translate italian d08s12_deny_8e83664c:
-
-    # mc "Now get to work and polish my member!"
-    mc "Datti da fare, massaggiami il cazzo!"
-
 # game/code/d08/d08s12.rpy:201
 translate italian d08s12_deny_57bd43f0:
 
@@ -294,35 +258,11 @@ translate italian d08s12_deny_95675b15:
     # mc "Na-a-ah! No touching yourself!"
     mc "None! Non toccarti in alcun modo!"
 
-# game/code/d08/d08s12.rpy:205
-translate italian d08s12_deny_c8745a1f:
-
-    # mc "You are not allowed to jerk-off!"
-    mc "Non ti è permesso segarti!"
-
-# game/code/d08/d08s12.rpy:207
-translate italian d08s12_deny_6749418d:
-
-    # mh "Oh, I can't stroke it sir?"
-    mh "Oh, non posso masturbarmi?"
-
 # game/code/d08/d08s12.rpy:208
 translate italian d08s12_deny_5bc43497:
 
     # mc "Master."
     mc "Padrone."
-
-# game/code/d08/d08s12.rpy:210
-translate italian d08s12_deny_5c9bcebd:
-
-    # mh "Master. It is trembling in anticipation! Please may I stroke it?"
-    mh "Padrone. Per favore, posso toccarmi? Freme di eccitazione?"
-
-# game/code/d08/d08s12.rpy:220
-translate italian d08s12_mh_bj_1199bcb6:
-
-    # mc "Let's see how good can you suck it!"
-    mc "Vediamo quanto sei brava a succhiarlo!"
 
 # game/code/d08/d08s12.rpy:222
 translate italian d08s12_mh_bj_9c2541a5:
@@ -353,12 +293,6 @@ translate italian d08s12_mh_bj_fabf2109:
 
     # mh "With pleasure, sir!"
     mh "Con piacere, padrone!"
-
-# game/code/d08/d08s12.rpy:273
-translate italian d08s12_mh_bj_232c3f6d:
-
-    # mc "O-o-oh!"
-    mc "O-o-oh!"
 
 # game/code/d08/d08s12.rpy:280
 translate italian d08s12_mh_bj_ffa62260:
@@ -426,12 +360,6 @@ translate italian d08s12_mc_hj_188a2ddc:
     # mh "Ahhh..."
     mh "Ahhh..."
 
-# game/code/d08/d08s12.rpy:362
-translate italian d08s12_lyssa_cum_d61ecf80:
-
-    # mh "O-o-oh! Baby! I'm..."
-    mh "O-o-oh! Baby! Sto per..."
-
 # game/code/d08/d08s12.rpy:372
 translate italian d08s12_lyssa_cum_d8852cec:
 
@@ -474,24 +402,6 @@ translate italian d08s12_lyssa_cum_0feed7f8:
     # mh "Let me clean this up!"
     mh "Aspetta che ti pulisco!"
 
-# game/code/d08/d08s12.rpy:385
-translate italian d08s12_lyssa_cum_b35057f8:
-
-    # mc "You like it?"
-    mc "Ti piace?"
-
-# game/code/d08/d08s12.rpy:387
-translate italian d08s12_lyssa_cum_f92a5a00:
-
-    # mh "Best thing ever!"
-    mh "Non c'è nulla di meglio!"
-
-# game/code/d08/d08s12.rpy:390
-translate italian d08s12_lyssa_cum_6f6e929b:
-
-    # mc "Yeah, today was already a lot of new experiences for me!"
-    mc "Sì, oggi ho avuto sin troppe nuove esperienze!"
-
 # game/code/d08/d08s12.rpy:402
 translate italian d08s12_end_6eed13c6:
 
@@ -503,12 +413,6 @@ translate italian d08s12_end_0ccbcba5:
 
     # mh "You too."
     mh "Anche tu."
-
-# game/code/d08/d08s12.rpy:405
-translate italian d08s12_end_04ec5731:
-
-    # mh "If you'll excuse me, I've got to run."
-    mh "E ora perdonami ma devo scappare."
 
 # game/code/d08/d08s12.rpy:406
 translate italian d08s12_end_cfb07b86:

@@ -1,35 +1,5 @@
 ﻿# TODO: Translation updated at 2021-03-26 20:42
 
-# game/code/labels.rpy:102
-translate chinese support_me_41e42ee3:
-
-    # dd "Who?"
-    dd "谁？"
-
-# game/code/labels.rpy:140
-translate chinese coming_next_3710a879:
-
-    # dd "Yes, sweety?"
-    dd "小可爱，怎么了？"
-
-# game/code/labels.rpy:152
-translate chinese coming_next_779a284a:
-
-    # sy "Them! The one behind this screen!"
-    sy "他们啊！屏幕后面的人！"
-
-# game/code/labels.rpy:162
-translate chinese coming_next_61d845dd:
-
-    # dd "Oh, my dear! Don't you worry!"
-    dd "哦，亲爱的！不要担心！"
-
-# game/code/labels.rpy:168
-translate chinese coming_next_de7eb1b3:
-
-    # dd "And I'm sure they'll be more than happy to play once week-2 will be released in 2021!"
-    dd "我相信他们会非常乐意在 2021 年发布第二周后来玩的！"
-
 # game/code/labels.rpy:209
 translate chinese buzz_4377a2f7:
 
