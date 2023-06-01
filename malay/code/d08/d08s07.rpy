@@ -934,5 +934,5 @@ translate malay strings:
 translate malay d08s07_f9a4640e:
 
     # mct "I don't want to fuck up my chances with the VIP Challenge, but I don't wanna fuck up my chances with Lydia either..."
-    mct "I don't want to fuck up my chances with the VIP Challenge, but I don't wanna fuck up my chances with Lydia either..."
+    mct "Saya tidak mahu mensia-siakan peluang saya dengan Cabaran VIP, tetapi saya juga tidak mahu mensia-siakan peluang saya dengan Lydia..."
 
