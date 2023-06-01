@@ -42,18 +42,6 @@ translate spanish d14s08_c82567ca:
     # pw "Like a lazy ocean hugs the shore"
     pw "Como un océano perezoso abraza la orilla"
 
-# game/code/d14/extended/d14s08.rpy:61
-translate spanish d14s08_7f729581:
-
-    # mc "Hey Polly. Sounds nice."
-    mc "Hola Polly. Suena bien."
-
-# game/code/d14/extended/d14s08.rpy:63
-translate spanish d14s08_7cc79c78:
-
-    # pw "Oh, hey [mcname]. I was just thinking about us."
-    pw "Oh, hola [mcname]. Estaba pensando en nosotros."
-
 # game/code/d14/extended/d14s08.rpy:65
 translate spanish d14s08_1be789f9:
 
@@ -131,18 +119,6 @@ translate spanish d14s08_42fb7f6f:
 
     # mc "Polly enjoys being dominant and submissive, so I guess that makes her a switch."
     mc "A Polly le gusta ser dominante y sumisa, así que supongo que eso la hace cambiar."
-
-# game/code/d14/extended/d14s08.rpy:90
-translate spanish d14s08_69274ab7:
-
-    # pw "Or it just makes her Polly. Polly enjoys sex roleplay and BDSM stuff, but it's a rare treat not a regular meal."
-    pw "O simplemente la hace Polly. A Polly le gustan los juegos de rol sexuales y las cosas esclavitud y disciplina, dominio y sumisión, sadismo y masoquismo(EDDSSM), pero es un capricho raro, no una comida habitual."
-
-# game/code/d14/extended/d14s08.rpy:92
-translate spanish d14s08_95de4def:
-
-    # pw "I guess I'm an exhibitionist - like you say. Being naked, fucking in public... that's my favorite thing. I could do that everyday all day."
-    pw "Supongo que soy una exhibicionista - como tú dices. Estar desnuda, follar en público... eso es lo que más me gusta. Podría hacer eso todos los días, todo el día."
 
 # game/code/d14/extended/d14s08.rpy:94
 translate spanish d14s08_cb01c49c:
@@ -275,12 +251,6 @@ translate spanish d14s08_1e200323:
 
     # pw "Heh, thanks! {w}I think we both feel the same about you."
     pw "Ja, ¡gracias! {w}Creo que ambas sentimos lo mismo por ti."
-
-# game/code/d14/extended/d14s08.rpy:135
-translate spanish d14s08_fcf83eb2:
-
-    # pw "In fact... I think that Nora has feelings for you as well.{w}.. just like I do."
-    pw "De hecho... Creo que Nora también siente algo por ti.{w}.. al igual que yo."
 
 # game/code/d14/extended/d14s08.rpy:137
 translate spanish d14s08_4608fffd:
@@ -546,12 +516,6 @@ translate spanish replay_d14s08_449b7b03:
     # pw "Yes!"
     pw "¡Sí!"
 
-# game/code/d14/extended/d14s08.rpy:229
-translate spanish replay_d14s08_9076bfda:
-
-    # mc "Call me, \"Sir\" when you're talking to me."
-    mc "Llámame, \"Señor\" cuando me hables."
-
 # game/code/d14/extended/d14s08.rpy:230
 translate spanish replay_d14s08_bf1c53a2:
 
@@ -618,12 +582,6 @@ translate spanish replay_d14s08_fa9712c5:
     # pw "Pound my dirty shithole with your hard cock!"
     pw "¡Golpea mi sucio agujero de mierda con tu dura polla!"
 
-# game/code/d14/extended/d14s08.rpy:325
-translate spanish replay_d14s08_0ac8aa43:
-
-    # mc "Ohhhhhhh.... {w}fuck yes."
-    mc "Ohhhhhhh.... {w}Joder, sí."
-
 # game/code/d14/extended/d14s08.rpy:337
 translate spanish replay_d14s08_d095da95:
 
@@ -653,12 +611,6 @@ translate spanish replay_d14s08_363dbe11:
 
     # pw "Whatever you want!"
     pw "¡Lo que quieras!"
-
-# game/code/d14/extended/d14s08.rpy:355
-translate spanish replay_d14s08_e6cd7b5a:
-
-    # mc "I'm going to take advantage of all this cum dripping out of your creampied anus."
-    mc "Voy a aprovechar todo este semen que sale de tu ano creampado."
 
 # game/code/d14/extended/d14s08.rpy:357
 translate spanish replay_d14s08_2b3f45f9:
@@ -738,12 +690,6 @@ translate spanish replay_d14s08_766ef26f_1:
     # mc "Ask properly."
     mc "Pregunta bien."
 
-# game/code/d14/extended/d14s08.rpy:407
-translate spanish replay_d14s08_838d275a:
-
-    # pw "PLEASE SIR KEEP SIR GOING PLEASE FUCK ME!!!"
-    pw "¡¡¡POR FAVOR SEÑOR SIGA SEÑOR POR FAVOR FÓLLAME!!!"
-
 # game/code/d14/extended/d14s08.rpy:426
 translate spanish replay_d14s08_74f8bad5:
 
@@ -803,12 +749,6 @@ translate spanish d14s08_end_3860f388:
 
     # mc "Get some rest. I'm more than content for now."
     mc "Descansa un poco. Estoy más que satisfecho por ahora."
-
-# game/code/d14/extended/d14s08.rpy:455
-translate spanish d14s08_end_29d67d26:
-
-    # pw "Later [mcname]."
-    pw "Más tarde [mcname]."
 
 # game/code/d14/extended/d14s08.rpy:457
 translate spanish d14s08_end_14fad4a1:

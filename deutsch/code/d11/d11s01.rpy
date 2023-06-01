@@ -396,12 +396,6 @@ translate deutsch d11s01_17db443b:
     # mc "Yeah... about that..."
     mc "Ja... deswegen..."
 
-# game/code/d11/d11s01.rpy:174
-translate deutsch d11s01_424e0d7c:
-
-    # fl "Your task is to have sex with 20 different people by the end of Sunday."
-    fl "Deine Aufgabe ist es, bis zum Ende des Sonntags Sex mit 20 verschiedenen Menschen zu haben."
-
 # game/code/d11/d11s01.rpy:232
 translate deutsch d11s01_6c435a1d_1:
 
@@ -419,12 +413,6 @@ translate deutsch d11s01_f88846ef:
 
     # mc "Keep going... Read about the punishment..."
     mc "Lies weiter... Das mit der Bestrafung..."
-
-# game/code/d11/d11s01.rpy:184
-translate deutsch d11s01_92ad8109:
-
-    # fl "If you fail to accomplish this you will be punished with your cock taken away."
-    fl "Wenn du die Herausforderung nicht meisterst, wirst du bestraft, indem dein Schwanz weggenommen wird."
 
 # game/code/d11/d11s01.rpy:247
 translate deutsch d11s01_cc233338_1:

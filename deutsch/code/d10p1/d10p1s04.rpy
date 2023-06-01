@@ -90,12 +90,6 @@ translate deutsch d10p1s04_7562a9cf:
     # arjfl "Oh... {w}That makes sense."
     arjfl "Oh... {w}Das macht Sinn."
 
-# game/code/d10p1/d10p1s04.rpy:31
-translate deutsch d10p1s04_77ae1467:
-
-    # arjfl "Wais is URLittlePony is that the girl you took a picture of in the trashed place??"
-    arjfl "Warte, ist URLittlePony das Mädchen, von dem du ein Foto an dem vermüllten Ort gemacht hast??"
-
 # game/code/d10p1/d10p1s04.rpy:32
 translate deutsch d10p1s04_b2582b86:
 

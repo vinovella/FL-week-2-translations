@@ -1050,12 +1050,6 @@ translate italian replay_d11s07_48f589cb:
     # mct "Work, work, work..."
     mct "Lavoro, lavoro, lavoro..."
 
-# game/code/d11/d11s07.rpy:432
-translate italian replay_d11s07_e1e04952:
-
-    # "Save your game here"
-    "Salva il gioco qui."
-
 translate italian strings:
 
     # game/code/d11/d11s07.rpy:362

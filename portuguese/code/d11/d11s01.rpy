@@ -396,12 +396,6 @@ translate portuguese d11s01_17db443b:
     # mc "Yeah... about that..."
     mc "É... falando nisso..."
 
-# game/code/d11/d11s01.rpy:211
-translate portuguese d11s01_424e0d7c:
-
-    # fl "Your task is to have sex with 20 different people by the end of Sunday."
-    fl "Sua tarefa será fazer sexo com 20 pessoas diferentes até o final do domingo."
-
 # game/code/d11/d11s01.rpy:232
 translate portuguese d11s01_6c435a1d_1:
 
@@ -419,12 +413,6 @@ translate portuguese d11s01_f88846ef:
 
     # mc "Keep going... Read about the punishment..."
     mc "Continua... Dá uma lida na punição..."
-
-# game/code/d11/d11s01.rpy:222
-translate portuguese d11s01_92ad8109:
-
-    # fl "If you fail to accomplish this you will be punished with your cock taken away."
-    fl "Se você falhar e não completar esta tarefa, será punido e terá seu pau removido."
 
 # game/code/d11/d11s01.rpy:247
 translate portuguese d11s01_cc233338_1:

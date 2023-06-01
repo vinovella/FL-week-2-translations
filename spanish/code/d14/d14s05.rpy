@@ -714,18 +714,6 @@ translate spanish d14s05_3825efb2:
     # mc "Looks like there was some misunderstanding with the bartender.{w} Did you tell her to wear that?"
     mc "Parece que hubo algún malentendido con la camarera.{w} ¿Le dijiste que se pusiera eso?"
 
-# game/code/d14/d14s05.rpy:267
-translate spanish d14s05_36cb1d8f:
-
-    # mc "No, did you?"
-    mc "No, ¿y tú?"
-
-# game/code/d14/d14s05.rpy:268
-translate spanish d14s05_1033e9d1:
-
-    # arj "Of course not."
-    arj "Por supuesto que no."
-
 # game/code/d14/d14s05.rpy:270
 translate spanish d14s05_5e5f6cd8:
 

@@ -468,12 +468,6 @@ translate chinese replay_d13s08_ab277d43:
     # vw "You're too damn slick for your own good, young man."
     vw "你的小嘴可真甜，年轻人。"
 
-# game/code/d13/d13s08.rpy:481
-translate chinese replay_d13s08_5eaa7d8c:
-
-    # vw "I need clean for a bit. I will be back in a moment."
-    vw "我需要清洁一下。马上就回来。"
-
 # game/code/d13/d13s08.rpy:484
 translate chinese replay_d13s08_0639cb8a:
 

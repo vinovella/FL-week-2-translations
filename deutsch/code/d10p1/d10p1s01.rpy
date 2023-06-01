@@ -840,12 +840,6 @@ translate deutsch d10p1s01_02d93ac8:
     # mesfl "Are you sure you can remember that?"
     mesfl "Bist du sicher, dass du dir das merken kannst?"
 
-# game/code/d10p1/d10p1s01.rpy:229
-translate deutsch d10p1s01_b8630140:
-
-    # mc "Yep. I can remember [mc_safeword]..."
-    mc "Jap. Ich merke mir [mc_safeword]..."
-
 # game/code/d10p1/d10p1s01.rpy:230
 translate deutsch d10p1s01_7c4103c2:
 

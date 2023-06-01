@@ -840,12 +840,6 @@ translate chinese d10p1s01_02d93ac8:
     # mesfl "Are you sure you can remember that?"
     mesfl "你确定你能记住？"
 
-# game/code/d10p1/d10p1s01.rpy:229
-translate chinese d10p1s01_b8630140:
-
-    # mc "Yep. I can remember [mc_safeword]..."
-    mc "没错，我能记住[mc_safeword]……"
-
 # game/code/d10p1/d10p1s01.rpy:230
 translate chinese d10p1s01_7c4103c2:
 

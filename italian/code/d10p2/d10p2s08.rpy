@@ -1674,18 +1674,6 @@ translate italian d10p2s08_mh_part3_fefe1891:
     # lc "Squizzle is Min, right? Who's Lyssa? I don't think I met her."
     lc "Squizzle è Min, giusto? Ma Lyssa chi è? Non credo di averla conosciuta."
 
-# game/code/d10p2/d10p2s08.rpy:573
-translate italian d10p2s08_mh_part3_5f066d08:
-
-    # mc "You know the tall woman with blue hair that hangs around with Allison?"
-    mc "La tipa alta con i capelli blu che stava con Allison?"
-
-# game/code/d10p2/d10p2s08.rpy:575
-translate italian d10p2s08_mh_part3_69e61b82:
-
-    # lc "Oh yeah! I didn't get to talk to her, but she's incredibly beautiful. {w}Please tell me it was her."
-    lc "Oh sì! Lei? Non sono riuscita a parlarci. Cavolo, è davvero bella.{w} Ti prego, dimmi che era lei."
-
 # game/code/d10p2/d10p2s08.rpy:577
 translate italian d10p2s08_mh_part3_2f95b562:
 

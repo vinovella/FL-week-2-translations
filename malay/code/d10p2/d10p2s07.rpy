@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2021-07-15 10:22
 
-# game/code/d10p2/d10p2s07.rpy:7
-translate malay d10p2s07_b7b7542f:
-
-    # mct "Mi... Squizzle told me to go 2-nd floor bedroom..."
-    mct "Mi... Squizzle suruh aku pergi bilik tidur itu..."
-
 # game/code/d10p2/d10p2s07.rpy:11
 translate malay d10p2s07_08f2922a:
 

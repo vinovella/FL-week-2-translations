@@ -396,12 +396,6 @@ translate chinese d11s01_17db443b:
     # mc "Yeah... about that..."
     mc "是哈……关于这个……"
 
-# game/code/d11/d11s01.rpy:174
-translate chinese d11s01_424e0d7c:
-
-    # fl "Your task is to have sex with 20 different people by the end of Sunday."
-    fl "你的任务是在周日结束前与20个不同的人做爱。"
-
 # game/code/d11/d11s01.rpy:232
 translate chinese d11s01_6c435a1d_1:
 
@@ -419,12 +413,6 @@ translate chinese d11s01_f88846ef:
 
     # mc "Keep going... Read about the punishment..."
     mc "继续……看关于惩罚的内容……"
-
-# game/code/d11/d11s01.rpy:184
-translate chinese d11s01_92ad8109:
-
-    # fl "If you fail to accomplish this you will be punished with your cock taken away."
-    fl "如果你没能完成此任务，你将受到惩罚，你的老二将不复存在。"
 
 # game/code/d11/d11s01.rpy:247
 translate chinese d11s01_cc233338_1:

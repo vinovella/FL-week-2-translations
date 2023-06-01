@@ -12,18 +12,6 @@ translate korean prologue_fresh_start_1b390ae3:
     # "In the second chapter of this visual novel, you will continue playing as a young college student and you'll explore love, lust and sexual fetishes with the hottest women in town."
     "페티시 로케이터의 두 번째 장에서, 당신은 첫째 주에 계속해서 젊은 대학생으로 플레이 하게 됩니다. 그리고 도시에서 가장 섹시한 여성들과 사랑, 성욕, 성적 페티시를 탐색하게 되죠."
 
-# game/code/d08/prologue.rpy:67
-translate korean prologue_fresh_start_1aa77e92:
-
-    # "We see that you have already completed the first chapter. If you want to keep playing with all your game progress intact, open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a}."
-    "첫 번째 장을 마치셨다는 걸 압니다. 게임 진행 사항을 이어서 플레이 하고 싶으시다면, 메뉴를 열고, \"[FLSS.week.prev] 주 이어하기\"를 클릭하여 첫째 주 엔딩 저장 파일을 불러오십시오.\n이 과정에서 문제를 경험하셨다면, {a=https://discord.gg/efmQRNtFks}Discord{/a}를 통해 저희에게 연락을 주십시오."
-
-# game/code/d08/prologue.rpy:69
-translate korean prologue_fresh_start_16da65c2:
-
-    # "We see that you have already completed the first chapter. If you want to keep playing with all your game progress intact, open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} or on {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
-    "첫 번째 장을 마치셨다는 걸 압니다. 게임 진행 사항을 이어서 플레이 하고 싶으시다면, 메뉴를 열고, \"[FLSS.week.prev] 이어하기\"를 클릭하여 첫째 주 엔딩 저장 파일을 불러오십시오.\n이 과정에서 문제를 경험하셨다면, {a=https://discord.gg/efmQRNtFks}Discord{/a} 또는 {a=https://www.patreon.com/fetishlocator}Patreon{/a}를 통해 저희에게 연락을 주십시오."
-
 # game/code/d08/prologue.rpy:70
 translate korean prologue_fresh_start_56a763ee:
 

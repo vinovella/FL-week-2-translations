@@ -90,12 +90,6 @@ translate portuguese d14s19_sy_7a859f4e:
     # mc "I know we joke around a lot, but you're my sister."
     mc "Eu sei que brincamos muito, mas você é minha irmã."
 
-# game/code/d14p2/d14s19_sy.rpy:164
-translate portuguese d14s19_sy_bd9f0ccd:
-
-    # sy "And you're my brother. I'm still going to fuck you senseless."
-    sy "E você é meu irmão. Eu ainda vou te foder até não aguentar mais."
-
 # game/code/d14p2/d14s19_sy.rpy:166
 translate portuguese d14s19_sy_c15041b4:
 
@@ -180,18 +174,6 @@ translate portuguese d14s19_sy_6b85b289:
     # mc "I can't believe I'm saying this aloud, but..."
     mc "Não acredito que vou falar isso em voz alta, mas..."
 
-# game/code/d14p2/d14s19_sy.rpy:203
-translate portuguese d14s19_sy_0a8be510:
-
-    # mc "I didn't have a perfect outfit picked out."
-    mc "Não tinha a roupa perfeita escolhida."
-
-# game/code/d14p2/d14s19_sy.rpy:205
-translate portuguese d14s19_sy_d7c7153a:
-
-    # mc "I have to tell you - I've been fantasizing about this."
-    mc "Tenho que te falar - estive fantasiando sobre isso."
-
 # game/code/d14p2/d14s19_sy.rpy:207
 translate portuguese d14s19_sy_4163fac9:
 
@@ -221,12 +203,6 @@ translate portuguese d14s19_sy_ac0da949:
 
     # sy "[mcname] I want you to wreck my tight twat."
     sy "[mcname], eu quero que você acabe com minha xaninha apertada."
-
-# game/code/d14p2/d14s19_sy.rpy:251
-translate portuguese d14s19_sy_5f504b4b:
-
-    # mc "I cannot wait."
-    mc "Mal posso esperar."
 
 # game/code/d14p2/d14s19_sy.rpy:280
 translate portuguese d14s19_sy_014fbf76:
@@ -288,47 +264,11 @@ translate portuguese d14s19_sy_cum_1bc67c36:
     # mc "Alright then, I'll show you."
     mc "Tá bom então, vou te mostrar."
 
-# game/code/d14p2/d14s19_sy.rpy:822
-translate portuguese d14s19_sy_cum_face_2fb7eace:
-
-    # mc "How do you like your new facial moisturizer?"
-    mc "Gostou do seu novo creme facial?"
-
 # game/code/d14p2/d14s19_sy.rpy:824
 translate portuguese d14s19_sy_cum_face_9a3cd4c9:
 
     # sy "You're my new favorite beauty routine."
     sy "Você é minha nova rotina de beleza favorita."
-
-# game/code/d14p2/d14s19_sy.rpy:834
-translate portuguese d14s19_sy_cum_mouth_a825ff88:
-
-    # mc "I think I know just how to shut you up."
-    mc "Acho que sei como calar a sua boca."
-
-# game/code/d14p2/d14s19_sy.rpy:836
-translate portuguese d14s19_sy_cum_mouth_d7d3feae:
-
-    # mc "Your mouth was made for my cock!"
-    mc "Sua boca foi feita pro meu pau!"
-
-# game/code/d14p2/d14s19_sy.rpy:839
-translate portuguese d14s19_sy_cum_mouth_2c186f8e:
-
-    # mc "FUCK YEAHHHHH!!!"
-    mc "ISSO, POORRAAA!!!"
-
-# game/code/d14p2/d14s19_sy.rpy:841
-translate portuguese d14s19_sy_cum_mouth_b95ade8a:
-
-    # mc "I'm just going to enjoy the quiet for once."
-    mc "Vou só aproveitar um pouco essa quietude."
-
-# game/code/d14p2/d14s19_sy.rpy:848
-translate portuguese d14s19_sy_cum_mouth_81d35f9c:
-
-    # sy "You're right. My mouth was made for your cock."
-    sy "Você tá certo. Minha boca foi feita pro seu pau."
 
 # game/code/d14p2/d14s19_sy.rpy:868
 translate portuguese d14s19_sy_cum_tits_da8f1ff1:
@@ -468,23 +408,11 @@ translate portuguese d14s19_sy_end_83233e41:
     # sy "Don't worry. Even in my dreams, you're always in a rental tux, along with your groomsman."
     sy "Não se preocupa, até nos meus sonhos, você tá sempre de terno alugado, junto do seu padrinho."
 
-# game/code/d14p2/d14s19_sy.rpy:911
-translate portuguese d14s19_sy_end_78e953fe:
-
-    # sy "In my dream, my bridesmaids all made their own dresses. I wear white. They each wear a different primary color."
-    sy "No meu sonho, as madrinhas todas fizeram o próprio vestido. Eu visto branco. Elas cada uma vestem uma cor primária diferente."
-
 # game/code/d14p2/d14s19_sy.rpy:915
 translate portuguese d14s19_sy_end_7129dea6:
 
     # mc "Nice."
     mc "Legal."
-
-# game/code/d14p2/d14s19_sy.rpy:925
-translate portuguese d14s19_sy_end_cc1c746e:
-
-    # sy "Also I now imagine that AmRose is the bridesmaid wearing red."
-    sy "Agora eu também imagino AmRose sendo a madrinha de vermelho."
 
 # game/code/d14p2/d14s19_sy.rpy:927
 translate portuguese d14s19_sy_end_b2a7c242:

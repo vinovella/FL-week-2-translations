@@ -186,42 +186,6 @@ translate deutsch replay_d13s05_d5153462:
     # nr "Don't worry, I already forgot it."
     nr "Keine Sorge, ich habe es schon vergessen."
 
-# game/code/d13/d13s05.rpy:143
-translate deutsch replay_d13s05_41302107:
-
-    # nr "Speaking of which... {w}I've been thinking about changing my name."
-    nr "Wo wir dabei sind... {w}Ich habe darüber nachgedacht, meinen Namen zu ändern."
-
-# game/code/d13/d13s05.rpy:146
-translate deutsch replay_d13s05_6b1f5dab:
-
-    # nr "Which name do you prefer? Chastity or Chase?"
-    nr "Welcher ist besser? Chastity oder Chase?"
-
-# game/code/d13/d13s05.rpy:151
-translate deutsch replay_d13s05_51982b3f:
-
-    # mc "Chastity definitely sounds better."
-    mc "Chastity klingt definitiv besser."
-
-# game/code/d13/d13s05.rpy:156
-translate deutsch replay_d13s05_84af4810:
-
-    # mc "Chase definitely sounds better."
-    mc "Chase klingt definitiv besser."
-
-# game/code/d13/d13s05.rpy:160
-translate deutsch replay_d13s05_27da25af:
-
-    # lc "I agree."
-    lc "Ich denke auch."
-
-# game/code/d13/d13s05.rpy:163
-translate deutsch replay_d13s05_064920f1:
-
-    # nr "Excellent. Thanks!"
-    nr "Exzellent. Danke!"
-
 # game/code/d13/d13s05.rpy:166
 translate deutsch replay_d13s05_5601da0d:
 

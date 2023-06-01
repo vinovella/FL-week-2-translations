@@ -186,42 +186,6 @@ translate italian replay_d13s05_d5153462:
     # nr "Don't worry, I already forgot it."
     nr "Non preoccuparti, l'ho già dimenticato."
 
-# game/code/d13/d13s05.rpy:135
-translate italian replay_d13s05_41302107:
-
-    # nr "Speaking of which... {w}I've been thinking about changing my name."
-    nr "A proposito...{w} stavo pensando di cambiare il mio nome."
-
-# game/code/d13/d13s05.rpy:138
-translate italian replay_d13s05_6b1f5dab:
-
-    # nr "Which name do you prefer? Chastity or Chase?"
-    nr "Cosa preferisci? Immacolata o Imma?"
-
-# game/code/d13/d13s05.rpy:143
-translate italian replay_d13s05_51982b3f:
-
-    # mc "Chastity definitely sounds better."
-    mc "Immacolata suona decisamente meglio."
-
-# game/code/d13/d13s05.rpy:148
-translate italian replay_d13s05_84af4810:
-
-    # mc "Chase definitely sounds better."
-    mc "Imma suona decisamente meglio."
-
-# game/code/d13/d13s05.rpy:152
-translate italian replay_d13s05_27da25af:
-
-    # lc "I agree."
-    lc "Concordo."
-
-# game/code/d13/d13s05.rpy:155
-translate italian replay_d13s05_064920f1:
-
-    # nr "Excellent. Thanks!"
-    nr "Ottimo. Grazie!"
-
 # game/code/d13/d13s05.rpy:158
 translate italian replay_d13s05_5601da0d:
 

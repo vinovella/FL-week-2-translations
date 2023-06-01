@@ -582,12 +582,6 @@ translate italian d08s03_afccbe42:
     # mct "Squizzle could probably... {w}anyway, let's see what she wants."
     mct "Squizzle potrebbe... {w}In ogni caso, vediamo cosa vuole."
 
-# game/code/d08/d08s03.rpy:236
-translate italian d08s03_f3b91237:
-
-    # mct "Oh, she wants me to meet her after class... {w}in the Men's Room?!"
-    mct "Oh, vuole incontrarmi dopo lezione... {w}nel bagno dei ragazzi?!"
-
 # game/code/d08/d08s03.rpy:237
 translate italian d08s03_030896a6:
 
@@ -714,12 +708,6 @@ translate italian d08s03_bd5eaa7b:
     # mct "Okay, this is just crazy. What the hell does she want?"
     mct "Ok, adesso è troppo. Che cosa diavolo vuole da me?"
 
-# game/code/d08/d08s03.rpy:279
-translate italian d08s03_3240527e:
-
-    # rn "*blah blah blah*... Wilson's Raid into Georgia...*blah blah blah*"
-    rn "*bla bla bla*... L'assalto di Wilson in Georgia...*bla bla bla*"
-
 # game/code/d08/d08s03.rpy:280
 translate italian d08s03_8907d4f5:
 
@@ -743,12 +731,6 @@ translate italian d08s03_61d87077:
 
     # mk "I keep thinking about that event at the Party."
     mk "Continuo a pensare a quell'evento del party."
-
-# game/code/d08/d08s03.rpy:286
-translate italian d08s03_dd56af82:
-
-    # mc "Huh? Antony's magic show?"
-    mc "Huh? Lo show di magia di Antony?"
 
 # game/code/d08/d08s03.rpy:288
 translate italian d08s03_dc7b255c:
@@ -792,12 +774,6 @@ translate italian d08s03_060cdf91:
     # mk "Yes. Now."
     mk "Si. Ora."
 
-# game/code/d08/d08s03.rpy:297
-translate italian d08s03_76ab189f:
-
-    # mc "Seriously? Right here, right now?"
-    mc "Davvero? Qui, in mezzo a tutti?"
-
 # game/code/d08/d08s03.rpy:299
 translate italian d08s03_e1337149:
 
@@ -809,18 +785,6 @@ translate italian d08s03_18a295dc:
 
     # mk "I just kept thinking about sucking your cock. {w}I need it."
     mk "Continuo a pensare al tuo cazzo. {w}Ne ho bisogno."
-
-# game/code/d08/d08s03.rpy:302
-translate italian d08s03_37daaa62:
-
-    # mct "Wow. I know it's wrong, but maybe I should have some fun with her."
-    mct "Wow. So che è sbagliato, ma forse dovrei divertirmi un po' con lei."
-
-# game/code/d08/d08s03.rpy:305
-translate italian d08s03_ba026827:
-
-    # mc "Maybe I can find someone to help you with that."
-    mc "Magari posso trovare qualcuno che ti possa aiutare."
 
 # game/code/d08/d08s03.rpy:306
 translate italian d08s03_2479a251:
@@ -840,12 +804,6 @@ translate italian d08s03_6f90ed59:
     # mc "Fine. Take it out."
     mc "D'accordo. Eccoti servita."
 
-# game/code/d08/d08s03.rpy:316
-translate italian d08s03_b363fc51:
-
-    # mc "Maria. Listen here. You think that you are missing out on something but that is not the case."
-    mc "Maria. Ascoltami. So che credi che ti manchi qualcosa, ma non è questo il caso."
-
 # game/code/d08/d08s03.rpy:317
 translate italian d08s03_36723146:
 
@@ -864,29 +822,11 @@ translate italian d08s03_61f1d479:
     # mk "Wow. I didn't expect this from you. You might be right."
     mk "Wow. Non me lo aspettavo da te. Potresti avere ragione."
 
-# game/code/d08/d08s03.rpy:321
-translate italian d08s03_5923e338:
-
-    # mk "Thanks."
-    mk "Grazie."
-
 # game/code/d08/d08s03.rpy:323
 translate italian d08s03_e37de9e5:
 
     # mk "What?"
     mk "Cosa?"
-
-# game/code/d08/d08s03.rpy:325
-translate italian d08s03_75469132:
-
-    # mc "Use your hand. Unzip my pants, take it out, and feel it in your hand."
-    mc "Usa la tua mano. Abbassa la zip dei pantaloni, tiralo fuori e sentilo nella tua mano."
-
-# game/code/d08/d08s03.rpy:327
-translate italian d08s03_76101272:
-
-    # mk "I can't believe I'm doing this."
-    mk "Non posso crederci, lo sto facendo davvero."
 
 # game/code/d08/d08s03.rpy:328
 translate italian d08s03_f7339009:
@@ -1020,12 +960,6 @@ translate italian d08s03_9ea61b67:
     # mct "In the dream it felt like heaven. But it actually feels like she never done a blowjob in her life..."
     mct "Nel songo sembrava di stare in paradiso. Ma sembra che non abbia mai fatto un pompino nella sua vita..."
 
-# game/code/d08/d08s03.rpy:379
-translate italian d08s03_6f6efa65:
-
-    # mct "She is scratching it with her teeth a bit..."
-    mct "Mi sta anche graffiando un pochino con i denti..."
-
 # game/code/d08/d08s03.rpy:384
 translate italian d08s03_47f4b4c8:
 
@@ -1074,12 +1008,6 @@ translate italian d08s03_b1c9f928:
     # rn "Achem!"
     rn "Ehem!"
 
-# game/code/d08/d08s03.rpy:417
-translate italian d08s03_bb989d63:
-
-    # rn "Mr. Young. [mcname]."
-    rn "Signor [mcname]."
-
 # game/code/d08/d08s03.rpy:419
 translate italian d08s03_6934998d:
 
@@ -1091,12 +1019,6 @@ translate italian d08s03_dd68f8a3:
 
     # rn "Why was it that Pemberton mixed up that first tonic of cocaine and caffeine?"
     rn "Perchè Pemberton ha mischiato della cocaina e della caffeina per la prima volta?"
-
-# game/code/d08/d08s03.rpy:423
-translate italian d08s03_cbf695c8:
-
-    # mct "Shit... umm... I know this..."
-    mct "Merda... umm... La so..."
 
 # game/code/d08/d08s03.rpy:435
 translate italian d08s03_59df0524:
@@ -1194,12 +1116,6 @@ translate italian d08s03_acd30f0e:
     # mc "I think some people might have noticed us..."
     mc "Credo che alcune persone ci abbiano visto..."
 
-# game/code/d08/d08s03.rpy:468
-translate italian d08s03_34764a38:
-
-    # mk "Fuck fuck fuck fuck fuck..."
-    mk "Cazzo Cazzo Cazzo Cazzo..."
-
 # game/code/d08/d08s03.rpy:471
 translate italian d08s03_b592930e:
 
@@ -1272,12 +1188,6 @@ translate italian d08s03_end_2c1cb7ed:
     # rn "Alright, class. I think that is enough for today."
     rn "D'accordo, ragazzi. Per oggi ho finito."
 
-# game/code/d08/d08s03.rpy:496
-translate italian d08s03_end_56a49d16:
-
-    # mct "Alright, time to meet Squizzle in the toilet."
-    mct "Va bene, devo andare in bagno con Squizzle."
-
 # game/code/d08/d08s03.rpy:498
 translate italian d08s03_end_11796383:
 
@@ -1341,12 +1251,6 @@ translate italian d08s03_c5c7c1f2:
 
     # mct "Huh. Last Monday was cum. Today is a blowjob. I guess Mondays are for men."
     mct "Huh. Lo scorso lunedì erano le sborrate. Oggi i pompini. Mi sa che i lunedì sono dedicati agli uomini."
-
-# game/code/d08/d08s03.rpy:326
-translate italian d08s03_ab4411c4:
-
-    # mc "Take it out and feel it in your hand."
-    mc "Tiralo fuori e sentilo nella tua mano."
 
 # game/code/d08/d08s03.rpy:375
 translate italian d08s03_58c7d629:

@@ -1,17 +1,5 @@
 # TODO: Translation updated at 2020-07-30 07:17
 
-# game/code/d08/d08s02.rpy:7
-translate deutsch d08s02_09bbae53:
-
-    # arj "I dunno. I always thought the perfect amount of make-up makes it look natural."
-    arj "Ich weiß nicht. Ich dachte immer der perfekte Anteil an Make-up lässt das Ganze natürlich aussehen."
-
-# game/code/d08/d08s02.rpy:8
-translate deutsch d08s02_9292edbd:
-
-    # sy "Yeah, but the Kardashians are unrecognizable without a thick layer..."
-    sy "Ja, aber die Kardashians werden ohne eine dicke Make-up-Schicht auch nicht erkannt..."
-
 # game/code/d08/d08s02.rpy:10
 translate deutsch d08s02_802e8351:
 
@@ -131,12 +119,6 @@ translate deutsch d08s02_e82785ee:
 
     # sy "I didn't steal it. You left it behind, and I recovered it."
     sy "Ich habe sie nicht gestohlen, nur gerettet, nachdem du sie zurück gelassen hast."
-
-# game/code/d08/d08s02.rpy:46
-translate deutsch d08s02_7d99725e:
-
-    # arj "Stacy the porn archeologist. I'm impressed."
-    arj "Stacy, die Porno Archäoligin. Ich bin beeindruckt."
 
 # game/code/d08/d08s02.rpy:48
 translate deutsch d08s02_965185e4:
@@ -701,18 +683,6 @@ translate deutsch d08s02_77ad98b5:
 
     # arj "Speaking of which - you should go if you don't want to wear the same clothes as yesterday."
     arj "Wo wir davon reden - Ihr solltet gehen, wenn ihr nicht die gleichen Klamotten wie gestern zum Unterricht tragen wollt."
-
-# game/code/d08/d08s02.rpy:203
-translate deutsch d08s02_ce719ad3:
-
-    # mc "Oh, yeah. I need to swing by my dorm and get changed."
-    mc "Oh, ja. Ich muss noch in mein Zimmer und mich umziehen."
-
-# game/code/d08/d08s02.rpy:204
-translate deutsch d08s02_41414d8e:
-
-    # arj "I'll see you at class."
-    arj "Ich sehe dich dann im Unterricht."
 
 # TODO: Translation updated at 2020-11-10 12:16
 

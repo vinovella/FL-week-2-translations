@@ -438,12 +438,6 @@ translate italian replay_d13s03_ce21402a:
     # ir "Yeah you taste good. We can meet again some time."
     ir "Sì, hai un buon sapore. Uno di questi giorni potremmo rivederci."
 
-# game/code/d13/d13s03.rpy:344
-translate italian replay_d13s03_0b50b5ea:
-
-    # ir "But I want you cum several times in my panty next time. That is...{w} That turns me on!"
-    ir "Ma la prossima volta mi devi venire a ripetizione negli slip. Questo sì..{w} che mi eccita!"
-
 # game/code/d13/d13s03.rpy:347
 translate italian replay_d13s03_7ef6ca83:
 

@@ -90,12 +90,6 @@ translate italian d10p1s04_7562a9cf:
     # arjfl "Oh... {w}That makes sense."
     arjfl "Oh...{w} Capisco."
 
-# game/code/d10p1/d10p1s04.rpy:31
-translate italian d10p1s04_77ae1467:
-
-    # arjfl "Wais is URLittlePony is that the girl you took a picture of in the trashed place??"
-    arjfl "Aspetta: ma URLittlePony non era quella ragazza a cui avevi scattato una foto in quell'immondezzaio?!?"
-
 # game/code/d10p1/d10p1s04.rpy:32
 translate italian d10p1s04_b2582b86:
 

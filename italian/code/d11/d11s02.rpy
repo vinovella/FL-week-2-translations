@@ -12,12 +12,6 @@ translate italian d11s02_24f54309:
     # mc "Ah, the unavoidable mixture of terror and boredom every day that I find myself in this classroom."
     mc "Ah, quell'inevitabile mix di paura e noia, ogni giorno che varco la soglia di quest'aula."
 
-# game/code/d11/d11s02.rpy:33
-translate italian d11s02_bcd2a1d5:
-
-    # arj "Just a few more days... a week and a half until finals."
-    arj "Mancano solo pochi giorni... una settimana e mezzo prima degli esami."
-
 # game/code/d11/d11s02.rpy:34
 translate italian d11s02_08e721f5:
 

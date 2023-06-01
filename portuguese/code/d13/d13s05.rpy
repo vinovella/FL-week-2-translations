@@ -186,42 +186,6 @@ translate portuguese replay_d13s05_d5153462:
     # nr "Don't worry, I already forgot it."
     nr "Não se preocupa, já esqueci."
 
-# game/code/d13/d13s05.rpy:143
-translate portuguese replay_d13s05_41302107:
-
-    # nr "Speaking of which... {w}I've been thinking about changing my name."
-    nr "Falando nisso... {w}estava pensando em mudar meu nome."
-
-# game/code/d13/d13s05.rpy:146
-translate portuguese replay_d13s05_6b1f5dab:
-
-    # nr "Which name do you prefer? Chastity or Chase?"
-    nr "Qual nome prefere? Chastity ou Chase?"
-
-# game/code/d13/d13s05.rpy:151
-translate portuguese replay_d13s05_51982b3f:
-
-    # mc "Chastity definitely sounds better."
-    mc "Chastity com certeza parece melhor."
-
-# game/code/d13/d13s05.rpy:156
-translate portuguese replay_d13s05_84af4810:
-
-    # mc "Chase definitely sounds better."
-    mc "Chase com certeza parece melhor."
-
-# game/code/d13/d13s05.rpy:160
-translate portuguese replay_d13s05_27da25af:
-
-    # lc "I agree."
-    lc "Concordo."
-
-# game/code/d13/d13s05.rpy:163
-translate portuguese replay_d13s05_064920f1:
-
-    # nr "Excellent. Thanks!"
-    nr "Excelente. Valeu!"
-
 # game/code/d13/d13s05.rpy:166
 translate portuguese replay_d13s05_5601da0d:
 

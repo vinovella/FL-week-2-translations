@@ -438,12 +438,6 @@ translate chinese replay_d13s03_ce21402a:
     # ir "Yeah you taste good. We can meet again some time."
     ir "你尝起来很好嘛。我们可以下次再见面。"
 
-# game/code/d13/d13s03.rpy:344
-translate chinese replay_d13s03_0b50b5ea:
-
-    # ir "But I want you cum several times in my panty next time. That is...{w} That turns me on!"
-    ir "但我希望下次你能在我内裤里多来几发。那感觉真是……{w}我会很兴奋！"
-
 # game/code/d13/d13s03.rpy:347
 translate chinese replay_d13s03_7ef6ca83:
 

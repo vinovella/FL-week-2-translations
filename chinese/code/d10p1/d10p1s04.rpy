@@ -90,12 +90,6 @@ translate chinese d10p1s04_7562a9cf:
     # arjfl "Oh... {w}That makes sense."
     arjfl "哦……{w}我明白了。"
 
-# game/code/d10p1/d10p1s04.rpy:31
-translate chinese d10p1s04_77ae1467:
-
-    # arjfl "Wais is URLittlePony is that the girl you took a picture of in the trashed place??"
-    arjfl "你的小马驹是那个被你在垃圾堆里拍了照的女孩吗？？"
-
 # game/code/d10p1/d10p1s04.rpy:32
 translate chinese d10p1s04_b2582b86:
 

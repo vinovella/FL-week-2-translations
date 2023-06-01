@@ -396,12 +396,6 @@ translate italian d11s01_17db443b:
     # mc "Yeah... about that..."
     mc "Ecco, sì... Riguardo questa cosa..."
 
-# game/code/d11/d11s01.rpy:174
-translate italian d11s01_424e0d7c:
-
-    # fl "Your task is to have sex with 20 different people by the end of Sunday."
-    flr "Il tuo compito è di fare sesso con venti persone diverse entro la fine di domenica."
-
 # game/code/d11/d11s01.rpy:232
 translate italian d11s01_6c435a1d_1:
 
@@ -419,12 +413,6 @@ translate italian d11s01_f88846ef:
 
     # mc "Keep going... Read about the punishment..."
     mc "Continua a leggere... Guarda che dice sulla punizione..."
-
-# game/code/d11/d11s01.rpy:184
-translate italian d11s01_92ad8109:
-
-    # fl "If you fail to accomplish this you will be punished with your cock taken away."
-    flr "Qualora non ci riuscissi, per punizione perderai il pisello."
 
 # game/code/d11/d11s01.rpy:247
 translate italian d11s01_cc233338_1:

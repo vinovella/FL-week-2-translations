@@ -222,48 +222,6 @@ translate italian d10p1s06_08a67d40:
     # mc "Sounds like an awesome job."
     mc "Sembra un posto di lavoro fantastico."
 
-# game/code/d10p1/d10p1s06.rpy:80
-translate italian d10p1s06_8c882fb3:
-
-    # ir "It is. {w}Oh, jeez. Sorry. You were trying to leave and then I dragged you into another conversation."
-    ir "Lo è.{w} Oddio scusa. Stavi cercando di andare via e ti stavo trascinando in un'altra discussione."
-
-# game/code/d10p1/d10p1s06.rpy:81
-translate italian d10p1s06_228e2917:
-
-    # mc "Eh, there's no rush. {w}If I can't take a couple minutes to talk with a cute girl, what's the point?"
-    mc "Tranquilla, non c'è fretta.{w} Se non posso spendere due minuti a parlare con una ragazza carina, che senso ha venire alla festa?"
-
-# game/code/d10p1/d10p1s06.rpy:82
-translate italian d10p1s06_4cee5ab5:
-
-    # ir "...{i}Exactly{/i}. It's not like you come across girls {i}this{/i} cute every day, right? {w}So would you mind helping me ou—?"
-    ir "... {i}Esatto{/i}. E poi non è che tutti i giorni incontri ragazze {i}così{/i} carine, no?{w} Senti, non è che ti andrebbe di aiut...?"
-
-# game/code/d10p1/d10p1s06.rpy:83
-translate italian d10p1s06_71e9a5f2:
-
-    # mc "Oh man, gosh darn, I sure would love to, but can't keep my fans waiting y'know."
-    mc "Accidenti, mi piacerebbe un casino, ma sai, non posso far aspettare oltre le mie fan."
-
-# game/code/d10p1/d10p1s06.rpy:85
-translate italian d10p1s06_cd28c1d5:
-
-    # ir "Right, right."
-    ir "Certo, certo."
-
-# game/code/d10p1/d10p1s06.rpy:86
-translate italian d10p1s06_7a79f708:
-
-    # ir "Catch ya' around, [mcname]."
-    ir "Ci si rivede, [mcname]."
-
-# game/code/d10p1/d10p1s06.rpy:87
-translate italian d10p1s06_7e37ff87:
-
-    # mc "Same. Later, Iona."
-    mc "A dopo, Iona."
-
 # game/code/d10p1/d10p1s06.rpy:99
 translate italian replay_d10p1s06_00611834:
 

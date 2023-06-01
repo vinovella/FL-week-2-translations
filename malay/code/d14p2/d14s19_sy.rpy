@@ -90,12 +90,6 @@ translate malay d14s19_sy_7a859f4e:
     # mc "I know we joke around a lot, but you're my sister."
     mc "Aku tahu kita banyak bergurau, tapi kau adik aku."
 
-# game/code/d14p2/d14s19_sy.rpy:164
-translate malay d14s19_sy_bd9f0ccd:
-
-    # sy "And you're my brother. I'm still going to fuck you senseless."
-    sy "Dan kau abang aku. Aku masih akan kongkek kau juga."
-
 # game/code/d14p2/d14s19_sy.rpy:166
 translate malay d14s19_sy_c15041b4:
 
@@ -180,18 +174,6 @@ translate malay d14s19_sy_6b85b289:
     # mc "I can't believe I'm saying this aloud, but..."
     mc "Aku tak percaya yang aku katakan ini, tapi..."
 
-# game/code/d14p2/d14s19_sy.rpy:203
-translate malay d14s19_sy_0a8be510:
-
-    # mc "I didn't have a perfect outfit picked out."
-    mc "Aku tak ada pakaian yang sempurna yang dipilih."
-
-# game/code/d14p2/d14s19_sy.rpy:205
-translate malay d14s19_sy_d7c7153a:
-
-    # mc "I have to tell you - I've been fantasizing about this."
-    mc "Aku kena beritahu kau - aku asyik terfikir tentang ini."
-
 # game/code/d14p2/d14s19_sy.rpy:207
 translate malay d14s19_sy_4163fac9:
 
@@ -221,12 +203,6 @@ translate malay d14s19_sy_ac0da949:
 
     # sy "[mcname] I want you to wreck my tight twat."
     sy "[mcname] Saya nak awak hancurkan saya yang ketat."
-
-# game/code/d14p2/d14s19_sy.rpy:251
-translate malay d14s19_sy_5f504b4b:
-
-    # mc "I cannot wait."
-    mc "Saya tidak boleh tunggu."
 
 # game/code/d14p2/d14s19_sy.rpy:280
 translate malay d14s19_sy_014fbf76:
@@ -288,47 +264,11 @@ translate malay d14s19_sy_cum_1bc67c36:
     # mc "Alright then, I'll show you."
     mc "Baiklah, aku akan tunjukkannya kepada kau."
 
-# game/code/d14p2/d14s19_sy.rpy:822
-translate malay d14s19_sy_cum_face_2fb7eace:
-
-    # mc "How do you like your new facial moisturizer?"
-    mc "Macam mana dengan pelembap muka baru kau?"
-
 # game/code/d14p2/d14s19_sy.rpy:824
 translate malay d14s19_sy_cum_face_9a3cd4c9:
 
     # sy "You're my new favorite beauty routine."
     sy "Kau rutin kecantikan kegemaran aku yang baru."
-
-# game/code/d14p2/d14s19_sy.rpy:834
-translate malay d14s19_sy_cum_mouth_a825ff88:
-
-    # mc "I think I know just how to shut you up."
-    mc "Aku rasa aku tahu macam mana nak senyapkan kau."
-
-# game/code/d14p2/d14s19_sy.rpy:836
-translate malay d14s19_sy_cum_mouth_d7d3feae:
-
-    # mc "Your mouth was made for my cock!"
-    mc "Wow, bagus rasanya! Rasa macam seolah-olah mulut kau dibuat untuk kote aku!"
-
-# game/code/d14p2/d14s19_sy.rpy:839
-translate malay d14s19_sy_cum_mouth_2c186f8e:
-
-    # mc "FUCK YEAHHHHH!!!"
-    mc "OH YEAHHHHH!!!"
-
-# game/code/d14p2/d14s19_sy.rpy:841
-translate malay d14s19_sy_cum_mouth_b95ade8a:
-
-    # mc "I'm just going to enjoy the quiet for once."
-    mc "Aku hanya akan menikmati ketenangan buat masa sekarang."
-
-# game/code/d14p2/d14s19_sy.rpy:848
-translate malay d14s19_sy_cum_mouth_81d35f9c:
-
-    # sy "You're right. My mouth was made for your cock."
-    sy "Betul juga kata kau. Mulut aku dibuat untuk kote kau."
 
 # game/code/d14p2/d14s19_sy.rpy:868
 translate malay d14s19_sy_cum_tits_da8f1ff1:
@@ -468,23 +408,11 @@ translate malay d14s19_sy_end_83233e41:
     # sy "Don't worry. Even in my dreams, you're always in a rental tux, along with your groomsman."
     sy "Jangan risau. Walaupun dalam mimpi aku, kau sentiasa memakai tux sewa, bersama-sama dengan pengantin lelaki aku."
 
-# game/code/d14p2/d14s19_sy.rpy:911
-translate malay d14s19_sy_end_78e953fe:
-
-    # sy "In my dream, my bridesmaids all made their own dresses. I wear white. They each wear a different primary color."
-    sy "Dalam mimpi aku, pengiring pengantin aku semua membuat pakaian mereka sendiri. Aku memakai putih. Mereka masing-masing memakai warna asas yang berbeza."
-
 # game/code/d14p2/d14s19_sy.rpy:915
 translate malay d14s19_sy_end_7129dea6:
 
     # mc "Nice."
     mc "Baguslah."
-
-# game/code/d14p2/d14s19_sy.rpy:925
-translate malay d14s19_sy_end_cc1c746e:
-
-    # sy "Also I now imagine that AmRose is the bridesmaid wearing red."
-    sy "Aku juga sekarang bayangkan yang AmRose adalah pengiring pengantin yang memakai sesuatu merah."
 
 # game/code/d14p2/d14s19_sy.rpy:927
 translate malay d14s19_sy_end_b2a7c242:

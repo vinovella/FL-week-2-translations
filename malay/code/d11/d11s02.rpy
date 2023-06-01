@@ -12,12 +12,6 @@ translate malay d11s02_24f54309:
     # mc "Ah, the unavoidable mixture of terror and boredom every day that I find myself in this classroom."
     mc "Ah, campuran ketakutan dan kebosanan yang tak dapat dielakkan setiap hari yang aku dapati di dalam kelas ini."
 
-# game/code/d11/d11s02.rpy:37
-translate malay d11s02_bcd2a1d5:
-
-    # arj "Just a few more days... a week and a half until finals."
-    arj "Tinggal beberapa hari lagi... seminggu setengah dah nak peperiksaan akhir."
-
 # game/code/d11/d11s02.rpy:39
 translate malay d11s02_08e721f5:
 

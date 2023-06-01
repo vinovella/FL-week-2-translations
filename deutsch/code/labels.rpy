@@ -1,17 +1,5 @@
 # TODO: Translation updated at 2020-06-09 02:20
 
-# game/code/labels.rpy:49
-translate deutsch failed_mp_5d0c3fdc:
-
-    # "Your device cannot save the game progress through different weeks.\nPlease, allow FL to write on the external storage."
-    "Dein Gerät kann den Spielfortschritt nicht über verschiedene Wochen speichern.\nBitte erlaube FL das es auf externen Speicher zugreifen darf."
-
-# game/code/labels.rpy:50
-translate deutsch failed_mp_d50e830d:
-
-    # "On most devices you can set the permissions on the setting tab:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nFor any issue, please contact us on {a=https://www.patreon.com/fetishlocator}Patreon{/a} or on {a=https://discord.gg/efmQRNtFks}Discord{/a}."
-    "Auf den meisten Geräten kannst du das in Einstellungen ändern:\nEinstellungen -> Apps -> Fetish Locator -> Berechtigungen -> Speicher.\nFür alle Fragen und Probleme kontaktiere uns auf {a=https://www.patreon.com/fetishlocator}Patreon{/a} oder auf {a=https://discord.gg/efmQRNtFks}Discord{/a}."
-
 # TODO: Translation updated at 2020-06-27 22:20
 
 # game/code/labels.rpy:149
@@ -21,12 +9,6 @@ translate deutsch knockknock_a3fe61f9:
     "Klopf, Klopf"
 
 # TODO: Translation updated at 2020-07-01 23:25
-
-# game/code/labels.rpy:53
-translate deutsch failed_mp_cd72322d:
-
-    # "On most devices you can set the permissions on the setting tab:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nFor any issue, please contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a}."
-   "Auf den meisten Geräten kannst du das in Einstellungen ändern:\nEinstellungen -> Apps -> Fetish Locator -> Berechtigungen -> Speicher.\nFür alle Fragen und Probleme kontaktiere uns auf {a=https://www.patreon.com/fetishlocator}Patreon{/a} oder auf {a=https://discord.gg/efmQRNtFks}Discord{/a}."
 
 # TODO: Translation updated at 2021-10-03 23:28
 
@@ -191,12 +173,6 @@ translate deutsch after_credits_ec4dc5c9:
 
     # "{color=#ec8664}Unknown Girl 3{/color}" "Hey! Now is not a good time! We aren't ready yet!"
     "{color=#ec8664}Unbekanntes Mädchen 3{/color}" "Hey! Jetzt passt es nicht! Wir sind nicht bereit!"
-
-# game/code/labels.rpy:191
-translate deutsch after_credits_e8a80a14:
-
-    # "{color=#ec8664}Unknown Girl 3{/color}" "Zemfira! That is the wrong outfit! Chapter 4 Scene 5 isn't sex scene! What are you wearing??"
-    "{color=#ec8664}Unbekanntes Mädchen 3{/color}" "Zemfira! Das ist das falsche Outfit! Kapitel 4 Szene 5 ist keine Sexszene! Was trägst du da??"
 
 # game/code/labels.rpy:193
 translate deutsch after_credits_d749c296:

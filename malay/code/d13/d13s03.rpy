@@ -438,12 +438,6 @@ translate malay replay_d13s03_ce21402a:
     # ir "Yeah you taste good. We can meet again some time."
     ir "Yeah, kau rasa sedap. Kita boleh berjumpa lagi suatu masa nanti."
 
-# game/code/d13/d13s03.rpy:264
-translate malay replay_d13s03_0b50b5ea:
-
-    # ir "But I want you cum several times in my panty next time. That is...{w} That turns me on!"
-    ir "Tapi aku nak kau pancut beberapa kali dalam seluar dalam aku lain kali. Itu...{w} Itulah yang buatkan aku sangap!"
-
 # game/code/d13/d13s03.rpy:266
 translate malay replay_d13s03_7ef6ca83:
 

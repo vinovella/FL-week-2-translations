@@ -54,12 +54,6 @@ translate deutsch d08s04_a7b4d81c:
     # mc "Oh, hey Min. I was just going to look for you."
     mc "Oh, hey Min. Ich wollte gerade nach dir suchen."
 
-# game/code/d08/d08s04.rpy:78
-translate deutsch d08s04_5fa6c898:
-
-    # mes "It's Squizzle, remember?"
-    mes "Hier ist Squizzle, erinnerst du dich?"
-
 # game/code/d08/d08s04.rpy:79
 translate deutsch d08s04_578aac98:
 
@@ -101,12 +95,6 @@ translate deutsch d08s04_46bbeb2a:
 
     # mc "And have you brought your bottle?"
     mc "Und hast du deine Flasche dabei?"
-
-# game/code/d08/d08s04.rpy:98
-translate deutsch d08s04_f3982a65:
-
-    # mesfl "Can we close the door?"
-    mesfl "Können wir die Tür schließen"
 
 # game/code/d08/d08s04.rpy:99
 translate deutsch d08s04_c69e18ab:
@@ -180,35 +168,11 @@ translate deutsch d08s04_d8cf87b1:
     # mc "No, you will do it yourself. Refill with your own pee."
     mc "Nein, du wirst es selbst tun. Füll sie mit deiner eigenen Pisse nach."
 
-# game/code/d08/d08s04.rpy:140
-translate deutsch d08s04_90b8f183:
-
-    # mesfl "Oh I see!"
-    mesfl "Ach so, ich verstehe!"
-
 # game/code/d08/d08s04.rpy:141
 translate deutsch d08s04_b88ef88c:
 
     # mesfl "And what then?"
     mesfl "Und dann?"
-
-# game/code/d08/d08s04.rpy:142
-translate deutsch d08s04_4b8859fa:
-
-    # mc "You will be drinking it during the day and getting used to the taste of pee."
-    mc "Du wirst es tagsüber trinken und dich an den Geschmack von Pisse gewöhnen."
-
-# game/code/d08/d08s04.rpy:143
-translate deutsch d08s04_eb99664f:
-
-    # mc "I read that it is easier to get used to your own taste."
-    mc "Ich habe gelesen, dass es einfacher ist, sich an seinen eigenen Geschmack zu gewöhnen."
-
-# game/code/d08/d08s04.rpy:145
-translate deutsch d08s04_db4db56b:
-
-    # mesfl "I thought the challenge would be to drink your pee. My own is not that exciting..."
-    mesfl "Ich dachte, die Herausforderung wäre, deine Pisse zu trinken. Meine eigene ist nicht so aufregend..."
 
 # game/code/d08/d08s04.rpy:146
 translate deutsch d08s04_d0c9df34:
@@ -252,18 +216,6 @@ translate deutsch d08s04_1725d810:
     # mesfl "Am I allowed to get a little help?"
     mesfl "Darf ich mir helfen lassen?"
 
-# game/code/d08/d08s04.rpy:156
-translate deutsch d08s04_5af23fe7:
-
-    # mc "What did you have in mind?"
-    mc "Woran hast du gedacht?"
-
-# game/code/d08/d08s04.rpy:157
-translate deutsch d08s04_2eecb10c:
-
-    # mesfl "Could you... *sigh*"
-    mesfl "Könntest du... *seufz*"
-
 # game/code/d08/d08s04.rpy:158
 translate deutsch d08s04_ad7590e1:
 
@@ -275,12 +227,6 @@ translate deutsch d08s04_c669d651:
 
     # mc "Sorry, you need to do this yourself. Next time you would need to refill it I won't be around!"
     mc "Tut mir leid aber das musst du selbst machen. Das nächste Mal, wenn du sie nachfüllen musst, werde ich nicht mehr da sein!"
-
-# game/code/d08/d08s04.rpy:161
-translate deutsch d08s04_32ad81e4:
-
-    # mesfl "Fine. Give me a minute."
-    mesfl "Gut. Gib mir eine Minute."
 
 # game/code/d08/d08s04.rpy:170
 translate deutsch d08s04_f4fccff0:
@@ -414,12 +360,6 @@ translate deutsch d08s04_989df938:
     # mc "And don't forget to drink normal water as well, and also every second time urinate in the tolet. You still want a fresh water to flow through your body."
     mc "Und vergiss nicht auch normales Wasser zu trinken und auch jedes zweite Mal in die Toilette zu urinieren. Du willst trotzdem, dass frisches Wasser durch deinen Körper fließt."
 
-# game/code/d08/d08s04.rpy:244
-translate deutsch d08s04_083bfd50:
-
-    # mesfl "Fine. {w}What am I going to tell people?"
-    mesfl "Na gut. {w}Was soll ich denn bitte den Leuten sagen?"
-
 # game/code/d08/d08s04.rpy:245
 translate deutsch d08s04_9a26f17e:
 
@@ -444,29 +384,11 @@ translate deutsch d08s04_8fc8e4d1:
     # mesfl "Not really. Just not what I expected."
     mesfl "Nicht wirklich. Es ist nur nicht das, was ich erwartet habe."
 
-# game/code/d08/d08s04.rpy:251
-translate deutsch d08s04_8a51d91e:
-
-    # mc "Well, that's why I'm here. If we only did what you expected, you wouldn't need my help."
-    mc "Nun, deshalb bin ich ja hier. Wenn wir nur tun würden, was du erwartest, bräuchtest du meine Hilfe nicht."
-
-# game/code/d08/d08s04.rpy:253
-translate deutsch d08s04_5e81a96a:
-
-    # mesfl "Good point."
-    mesfl "Dieser Punkt geht an dich."
-
 # game/code/d08/d08s04.rpy:254
 translate deutsch d08s04_10b830f0:
 
     # mc "So, one more surprise for you."
     mc "Also, noch eine Überraschung für dich."
-
-# game/code/d08/d08s04.rpy:256
-translate deutsch d08s04_ab0c83ee:
-
-    # mesfl "What's that?"
-    mesfl "Und die wäre?"
 
 # game/code/d08/d08s04.rpy:257
 translate deutsch d08s04_82e34cfd:
@@ -474,23 +396,11 @@ translate deutsch d08s04_82e34cfd:
     # mc "I want photos. Show me that you're drinking regularly and staying healthy."
     mc "Ich will Fotos. Zeig mir, dass du regelmäßig trinkst und dich gesund hältst."
 
-# game/code/d08/d08s04.rpy:259
-translate deutsch d08s04_8c296cef:
-
-    # mesfl "Alright. I'll send you some photos later."
-    mesfl "Na gut. Ich werde dir später ein paar Fotos schicken."
-
 # game/code/d08/d08s04.rpy:260
 translate deutsch d08s04_e3247ba4:
 
     # mc "Hey Squizzle, just remember..."
     mc "Hey Squizzle, vergiss nicht..."
-
-# game/code/d08/d08s04.rpy:262
-translate deutsch d08s04_ab0c83ee_1:
-
-    # mesfl "What's that?"
-    mesfl "Was?"
 
 # game/code/d08/d08s04.rpy:263
 translate deutsch d08s04_f7a21bdd:
@@ -727,12 +637,6 @@ translate deutsch replay_d08s04_04270dba:
 
     # mesfl "I thought the challenge would be to drink your pee. Not my own..."
     mesfl "Ich dachte, die Herausforderung wäre es, deine Pisse zu trinken. Nicht meine eigene..."
-
-# game/code/d08/d08s04.rpy:121
-translate deutsch replay_d08s04_d0c9df34:
-
-    # mc "You need see this challenge as a marathon and not a race."
-    mc "Du musst diese Herausforderung als einen Marathon und nicht als ein Rennen sehen."
 
 # game/code/d08/d08s04.rpy:122
 translate deutsch replay_d08s04_25db7111:

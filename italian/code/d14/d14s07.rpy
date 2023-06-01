@@ -702,12 +702,6 @@ translate italian d14s07_cleanup_17f52e23:
     # cl "Damn..."
     cl "Dannazione..."
 
-# game/code/d14/d14s07.rpy:423
-translate italian d14s07_end_485987f5:
-
-    # "Save your game here."
-    "Salva il gioco qui."
-
 translate italian strings:
 
     # game/code/d14/d14s07.rpy:248

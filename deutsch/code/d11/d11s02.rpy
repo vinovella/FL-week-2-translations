@@ -12,12 +12,6 @@ translate deutsch d11s02_24f54309:
     # mc "Ah, the unavoidable mixture of terror and boredom every day that I find myself in this classroom."
     mc "Ah, die unvermeidbare Mischung aus Terror und Langewile, der ich jedes Mal im Unterricht begegne."
 
-# game/code/d11/d11s02.rpy:33
-translate deutsch d11s02_bcd2a1d5:
-
-    # arj "Just a few more days... a week and a half until finals."
-    arj "Nur noch ein paar Tage... anderthalb Wochen bis zum Abschluss."
-
 # game/code/d11/d11s02.rpy:34
 translate deutsch d11s02_08e721f5:
 
@@ -755,12 +749,6 @@ translate deutsch d11s02_6583f6b1:
 
     # mesfl "It's a very special something attached to a very special someone."
     mesfl "Es ist ein sehr spezielles Etwas, das an jemand sehr besonderem dran war."
-
-# game/code/d11/d11s02.rpy:277
-translate deutsch d11s02_01081e86:
-
-    # mc "Stop. Tomato Juice. [mc_safeword]. Halt."
-    mc "Warte. Tomatensuppe. [mc_safeword]. Halt."
 
 # game/code/d11/d11s02.rpy:279
 translate deutsch d11s02_05977308:

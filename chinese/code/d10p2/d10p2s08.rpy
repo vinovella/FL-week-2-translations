@@ -1674,18 +1674,6 @@ translate chinese d10p2s08_mh_part3_fefe1891:
     # lc "Squizzle is Min, right? Who's Lyssa? I don't think I met her."
     lc "斯奎兹就是明吧？丽莎是谁？我好像没有见过她。"
 
-# game/code/d10p2/d10p2s08.rpy:584
-translate chinese d10p2s08_mh_part3_5f066d08:
-
-    # mc "You know the tall woman with blue hair that hangs around with Allison?"
-    mc "你知道和艾莉森在一起的那个蓝头发高个子女人吗？"
-
-# game/code/d10p2/d10p2s08.rpy:586
-translate chinese d10p2s08_mh_part3_69e61b82:
-
-    # lc "Oh yeah! I didn't get to talk to her, but she's incredibly beautiful. {w}Please tell me it was her."
-    lc "哦，是啊! 我没和她说话，但她真漂亮。{w}希望你说的是她吧。"
-
 # game/code/d10p2/d10p2s08.rpy:588
 translate chinese d10p2s08_mh_part3_2f95b562:
 

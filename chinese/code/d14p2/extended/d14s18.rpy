@@ -210,12 +210,6 @@ translate chinese d14s18_d5d451b4:
     # dd "Or is it a siren?"
     dd "或者是海妖？"
 
-# game/code/d14p2/extended/d14s18.rpy:142
-translate chinese d14s18_40898f43:
-
-    # ir "From the way she's throwing looks at MC, I'd say the latter. *Chuckles*"
-    ir "从她看MC的眼神来看，我觉得是后者。 *笑*"
-
 # game/code/d14p2/extended/d14s18.rpy:152
 translate chinese d14s18_5e043a8d:
 

@@ -54,12 +54,6 @@ translate italian d08s04_a7b4d81c:
     # mc "Oh, hey Min. I was just going to look for you."
     mc "Oh, ehi Min. Ti stavo cercando."
 
-# game/code/d08/d08s04.rpy:78
-translate italian d08s04_5fa6c898:
-
-    # mes "It's Squizzle, remember?"
-    mes "Sono Squizzle, ti ricordi?"
-
 # game/code/d08/d08s04.rpy:79
 translate italian d08s04_578aac98:
 
@@ -180,35 +174,11 @@ translate italian d08s04_d8cf87b1:
     # mc "No, you will do it yourself. Refill with your own pee."
     mc "No, lo farai tu. Riempila con il tuo piscio."
 
-# game/code/d08/d08s04.rpy:140
-translate italian d08s04_90b8f183:
-
-    # mesfl "Oh I see!"
-    mesfl "Oh, va bene!"
-
 # game/code/d08/d08s04.rpy:141
 translate italian d08s04_b88ef88c:
 
     # mesfl "And what then?"
     mesfl "E poi?"
-
-# game/code/d08/d08s04.rpy:142
-translate italian d08s04_4b8859fa:
-
-    # mc "You will be drinking it during the day and getting used to the taste of pee."
-    mc "Te lo berrai durante il giorno e ti abituerai al sapore di pipì."
-
-# game/code/d08/d08s04.rpy:143
-translate italian d08s04_eb99664f:
-
-    # mc "I read that it is easier to get used to your own taste."
-    mc "Ho letto che è più facile abituarsi ai propri sapori."
-
-# game/code/d08/d08s04.rpy:145
-translate italian d08s04_db4db56b:
-
-    # mesfl "I thought the challenge would be to drink your pee. My own is not that exciting..."
-    mesfl "Pensavo che la challenge fosse bere il tuo piscio. Il mio non è così eccitante..."
 
 # game/code/d08/d08s04.rpy:141
 translate italian replay_d08s04_3f8bc07a:
@@ -258,12 +228,6 @@ translate italian d08s04_5af23fe7:
     # mc "What did you have in mind?"
     mc "Cioè?"
 
-# game/code/d08/d08s04.rpy:157
-translate italian d08s04_2eecb10c:
-
-    # mesfl "Could you... *sigh*"
-    mesfl "Potresti... *uff*"
-
 # game/code/d08/d08s04.rpy:158
 translate italian d08s04_ad7590e1:
 
@@ -275,12 +239,6 @@ translate italian d08s04_c669d651:
 
     # mc "Sorry, you need to do this yourself. Next time you would need to refill it I won't be around!"
     mc "Scusami, ma devi farlo tu stessa. La prossima volta che dovrai riempirla non potrò aiutarti!"
-
-# game/code/d08/d08s04.rpy:161
-translate italian d08s04_32ad81e4:
-
-    # mesfl "Fine. Give me a minute."
-    mesfl "Va bene. Dammi un minuto."
 
 # game/code/d08/d08s04.rpy:170
 translate italian d08s04_f4fccff0:
@@ -414,12 +372,6 @@ translate italian d08s04_989df938:
     # mc "And don't forget to drink normal water as well, and also every second time urinate in the tolet. You still want a fresh water to flow through your body."
     mc "E non dimenticarti di bere anche acqua normale e di pisciare in bagno dopo la seconda volta. Il tuo corpo ha comunque bisogno di acqua fresca."
 
-# game/code/d08/d08s04.rpy:244
-translate italian d08s04_083bfd50:
-
-    # mesfl "Fine. {w}What am I going to tell people?"
-    mesfl "Va bene. {w}E cosa posso dire agli altri?"
-
 # game/code/d08/d08s04.rpy:245
 translate italian d08s04_9a26f17e:
 
@@ -444,29 +396,11 @@ translate italian d08s04_8fc8e4d1:
     # mesfl "Not really. Just not what I expected."
     mesfl "Non proprio. Solo che non me lo aspettavo."
 
-# game/code/d08/d08s04.rpy:251
-translate italian d08s04_8a51d91e:
-
-    # mc "Well, that's why I'm here. If we only did what you expected, you wouldn't need my help."
-    mc "Beh, è per questo che sono qui. Se facessi solo quello che ti aspettavi, non avresti bisogno del mio aiuto."
-
-# game/code/d08/d08s04.rpy:253
-translate italian d08s04_5e81a96a:
-
-    # mesfl "Good point."
-    mesfl "Giusto."
-
 # game/code/d08/d08s04.rpy:254
 translate italian d08s04_10b830f0:
 
     # mc "So, one more surprise for you."
     mc "Quindi, ho un’altra sorpresa per te."
-
-# game/code/d08/d08s04.rpy:256
-translate italian d08s04_ab0c83ee:
-
-    # mesfl "What's that?"
-    mesfl "Cioè?"
 
 # game/code/d08/d08s04.rpy:257
 translate italian d08s04_82e34cfd:
@@ -474,23 +408,11 @@ translate italian d08s04_82e34cfd:
     # mc "I want photos. Show me that you're drinking regularly and staying healthy."
     mc "Voglio le foto. Mostrami che te lo bevi regolarmente e che resti in salute."
 
-# game/code/d08/d08s04.rpy:259
-translate italian d08s04_8c296cef:
-
-    # mesfl "Alright. I'll send you some photos later."
-    mesfl "Va bene. Più tardi ti invierò qualche foto."
-
 # game/code/d08/d08s04.rpy:260
 translate italian d08s04_e3247ba4:
 
     # mc "Hey Squizzle, just remember..."
     mc "Ehi Squizzle, ricordati solo che..."
-
-# game/code/d08/d08s04.rpy:262
-translate italian d08s04_ab0c83ee_1:
-
-    # mesfl "What's that?"
-    mesfl "Cosa?"
 
 # game/code/d08/d08s04.rpy:263
 translate italian d08s04_f7a21bdd:
@@ -674,12 +596,6 @@ translate italian d08s04_c5dad552:
     # mc "This is about making you enjoy being pissed on and drinking urine."
     mc "Si tratta invece di provare piacere dall’essere pisciata addosso e bere la pipì."
 
-# game/code/d08/d08s04.rpy:130
-translate italian d08s04_78a950f9:
-
-    # mc "That is also why I asked you to cum only with pee in your mouth. We're building a pleasurable association of this taste & smell."
-    mc "Per questo ti ho chiesto di venire solo con il piscio in bocca. In questo modo assocerai il piacere al sapore e l’odore."
-
 # game/code/d08/d08s04.rpy:131
 translate italian d08s04_b7efedb4:
 
@@ -727,12 +643,6 @@ translate italian d08s04_b72b9512:
 
     # mc "I will enjoy it when you become aroused from drinking piss."
     mc "Mi piacerebbe vederti bere la pipì ed eccitarti per questa cosa."
-
-# game/code/d08/d08s04.rpy:160
-translate italian d08s04_06cf19da:
-
-    # mesfl "I guess you're a hard man to please!"
-    mesfl "Sembra che tu sia un uomo difficile da compiacere!"
 
 # game/code/d08/d08s04.rpy:218
 translate italian d08s04_119a9262:
@@ -952,12 +862,6 @@ translate italian replay_d08s04_04270dba:
 
     # mesfl "I thought the challenge would be to drink your pee. Not my own..."
     mesfl "Pensavo che la challenge fosse bere il tuo piscio. Il mio non è così eccitante..."
-
-# game/code/d08/d08s04.rpy:121
-translate italian replay_d08s04_d0c9df34:
-
-    # mc "You need see this challenge as a marathon and not a race."
-    mc "Devi vedere questa challenge come una maratona, e non una corsetta."
 
 # game/code/d08/d08s04.rpy:122
 translate italian replay_d08s04_25db7111:

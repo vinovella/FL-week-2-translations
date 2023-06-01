@@ -840,12 +840,6 @@ translate italian d10p1s01_02d93ac8:
     # mesfl "Are you sure you can remember that?"
     mesfl "Sei sicuro di riuscire a ricordartela?"
 
-# game/code/d10p1/d10p1s01.rpy:228
-translate italian d10p1s01_b8630140:
-
-    # mc "Yep. I can remember [mc_safeword]..."
-    mc "Sì. Penso di poter ricordare [mc_safeword]..."
-
 # game/code/d10p1/d10p1s01.rpy:229
 translate italian d10p1s01_7c4103c2:
 

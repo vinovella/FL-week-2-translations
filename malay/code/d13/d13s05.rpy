@@ -186,42 +186,6 @@ translate malay replay_d13s05_d5153462:
     # nr "Don't worry, I already forgot it."
     nr "Jangan risau, aku pun dah lupa."
 
-# game/code/d13/d13s05.rpy:107
-translate malay replay_d13s05_41302107:
-
-    # nr "Speaking of which... {w}I've been thinking about changing my name."
-    nr "Bercakap tentang itu... {w}Aku dah fikir untuk tukar nama aku."
-
-# game/code/d13/d13s05.rpy:109
-translate malay replay_d13s05_6b1f5dab:
-
-    # nr "Which name do you prefer? Chastity or Chase?"
-    nr "Nama mana kau lebih suka? Chastity atau Chase?"
-
-# game/code/d13/d13s05.rpy:113
-translate malay replay_d13s05_51982b3f:
-
-    # mc "Chastity definitely sounds better."
-    mc "Chastity lagi bagus."
-
-# game/code/d13/d13s05.rpy:117
-translate malay replay_d13s05_84af4810:
-
-    # mc "Chase definitely sounds better."
-    mc "Chase dengar macam menarik."
-
-# game/code/d13/d13s05.rpy:120
-translate malay replay_d13s05_27da25af:
-
-    # lc "I agree."
-    lc "Aku setuju."
-
-# game/code/d13/d13s05.rpy:122
-translate malay replay_d13s05_064920f1:
-
-    # nr "Excellent. Thanks!"
-    nr "Bagus. Terima kasih!"
-
 # game/code/d13/d13s05.rpy:124
 translate malay replay_d13s05_5601da0d:
 

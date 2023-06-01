@@ -582,12 +582,6 @@ translate deutsch d08s03_afccbe42:
     # mct "Squizzle could probably... {w}anyway, let's see what she wants."
     mct "Squizzle könnte vielleicht... {w}auch egal, mal sehen was wie will."
 
-# game/code/d08/d08s03.rpy:236
-translate deutsch d08s03_f3b91237:
-
-    # mct "Oh, she wants me to meet her after class... {w}in the Men's Room?!"
-    mct "Oh, sie möchte mich nach dem Unterricht treffen... {w}im Männerklo?!"
-
 # game/code/d08/d08s03.rpy:237
 translate deutsch d08s03_030896a6:
 
@@ -714,12 +708,6 @@ translate deutsch d08s03_bd5eaa7b:
     # mct "Okay, this is just crazy. What the hell does she want?"
     mct "Okay, das ist einfach irre. Was zur Hölle will sie nur?"
 
-# game/code/d08/d08s03.rpy:279
-translate deutsch d08s03_3240527e:
-
-    # rn "*blah blah blah*... Wilson's Raid into Georgia...*blah blah blah*"
-    rn "*Bla Bla Bla*... Wilson's Überfall auf Georgia...*Bla Bla Bla*"
-
 # game/code/d08/d08s03.rpy:280
 translate deutsch d08s03_8907d4f5:
 
@@ -743,12 +731,6 @@ translate deutsch d08s03_61d87077:
 
     # mk "I keep thinking about that event at the Party."
     mk "Ich denke über dieses Event auf der Party nach."
-
-# game/code/d08/d08s03.rpy:286
-translate deutsch d08s03_dd56af82:
-
-    # mc "Huh? Antony's magic show?"
-    mc "Hmm? Antony's Magische Show?"
 
 # game/code/d08/d08s03.rpy:288
 translate deutsch d08s03_dc7b255c:
@@ -792,12 +774,6 @@ translate deutsch d08s03_060cdf91:
     # mk "Yes. Now."
     mk "Ja. Jetzt."
 
-# game/code/d08/d08s03.rpy:297
-translate deutsch d08s03_76ab189f:
-
-    # mc "Seriously? Right here, right now?"
-    mc "Ernsthaft? Jetzt und hier?"
-
 # game/code/d08/d08s03.rpy:299
 translate deutsch d08s03_e1337149:
 
@@ -809,18 +785,6 @@ translate deutsch d08s03_18a295dc:
 
     # mk "I just kept thinking about sucking your cock. {w}I need it."
     mk "Ich denke die ganze Zeit daran deinen Schwanz zu lutschen. {w}Ich brauche das."
-
-# game/code/d08/d08s03.rpy:302
-translate deutsch d08s03_37daaa62:
-
-    # mct "Wow. I know it's wrong, but maybe I should have some fun with her."
-    mct "Wow. Ich weiß, es ist falsch aber vielleicht kann ich ein wenig Spaß mit ihr haben."
-
-# game/code/d08/d08s03.rpy:305
-translate deutsch d08s03_ba026827:
-
-    # mc "Maybe I can find someone to help you with that."
-    mc "Ich kann vielleicht jemanden finden, der dir helfen kann."
 
 # game/code/d08/d08s03.rpy:306
 translate deutsch d08s03_2479a251:
@@ -840,12 +804,6 @@ translate deutsch d08s03_6f90ed59:
     # mc "Fine. Take it out."
     mc "In Ordnung. Hol ihn raus."
 
-# game/code/d08/d08s03.rpy:316
-translate deutsch d08s03_b363fc51:
-
-    # mc "Maria. Listen here. You think that you are missing out on something but that is not the case."
-    mc "Maria. Hör mir zu. Du denkst, dass du etwas verpasst aber das ist nicht der Fall."
-
 # game/code/d08/d08s03.rpy:317
 translate deutsch d08s03_36723146:
 
@@ -864,29 +822,11 @@ translate deutsch d08s03_61f1d479:
     # mk "Wow. I didn't expect this from you. You might be right."
     mk "Wow. Das habe ich von dir nicht erwartet. Du hast vielleicht recht."
 
-# game/code/d08/d08s03.rpy:321
-translate deutsch d08s03_5923e338:
-
-    # mk "Thanks."
-    mk "Danke."
-
 # game/code/d08/d08s03.rpy:323
 translate deutsch d08s03_e37de9e5:
 
     # mk "What?"
     mk "Was?"
-
-# game/code/d08/d08s03.rpy:325
-translate deutsch d08s03_75469132:
-
-    # mc "Use your hand. Unzip my pants, take it out, and feel it in your hand."
-    mc "Benutze deine Hand. öffne meine Hose, nimm ihn raus und fühle ihn in deiner Hand."
-
-# game/code/d08/d08s03.rpy:327
-translate deutsch d08s03_76101272:
-
-    # mk "I can't believe I'm doing this."
-    mk "Ich glaube nicht, was ich hier mache."
 
 # game/code/d08/d08s03.rpy:328
 translate deutsch d08s03_f7339009:
@@ -996,12 +936,6 @@ translate deutsch d08s03_daf5cfa4:
     # mc "Open your mouth, place it over my hard cock, and lick the tip while you stroke the shaft."
     mc "Mach den Mund weit auf, dann runter zu meinem Schwanz und leck die Eichel während du meinen Schaft reibst."
 
-# game/code/d08/d08s03.rpy:361
-translate deutsch d08s03_0062d401:
-
-    # mk "Yesss... yess... okay."
-    mk "Jaaaa... Jaa... okay."
-
 # game/code/d08/d08s03.rpy:363
 translate deutsch d08s03_2041a1f8:
 
@@ -1019,12 +953,6 @@ translate deutsch d08s03_9ea61b67:
 
     # mct "In the dream it felt like heaven. But it actually feels like she never done a blowjob in her life..."
     mct "Im Traum hat es sich wie der Himmel angefühlt. Aber eigentlich fühlt es sich so an als hätte sie noch nie einen Blow Job gemacht..."
-
-# game/code/d08/d08s03.rpy:379
-translate deutsch d08s03_6f6efa65:
-
-    # mct "She is scratching it with her teeth a bit..."
-    mct "Sie kratzt ihn ein wenig mit ihren Zähnen..."
 
 # game/code/d08/d08s03.rpy:384
 translate deutsch d08s03_47f4b4c8:
@@ -1074,12 +1002,6 @@ translate deutsch d08s03_b1c9f928:
     # rn "Achem!"
     rn "Achem!"
 
-# game/code/d08/d08s03.rpy:417
-translate deutsch d08s03_bb989d63:
-
-    # rn "Mr. Young. [mcname]."
-    rn "Mr. Young. [mcname]."
-
 # game/code/d08/d08s03.rpy:419
 translate deutsch d08s03_6934998d:
 
@@ -1091,12 +1013,6 @@ translate deutsch d08s03_dd68f8a3:
 
     # rn "Why was it that Pemberton mixed up that first tonic of cocaine and caffeine?"
     rn "Warum hat Pemberton nochmal den ersten Tonic mit Kokain und Koffein gemischt hat?"
-
-# game/code/d08/d08s03.rpy:423
-translate deutsch d08s03_cbf695c8:
-
-    # mct "Shit... umm... I know this..."
-    mct "Scheisse... hmm... Ich weiß das..."
 
 # game/code/d08/d08s03.rpy:435
 translate deutsch d08s03_59df0524:
@@ -1194,12 +1110,6 @@ translate deutsch d08s03_acd30f0e:
     # mc "I think some people might have noticed us..."
     mc "Ich denke, einige könnten uns bemerkt haben..."
 
-# game/code/d08/d08s03.rpy:468
-translate deutsch d08s03_34764a38:
-
-    # mk "Fuck fuck fuck fuck fuck..."
-    mk "Fuck Fuck Fuck Fuck..."
-
 # game/code/d08/d08s03.rpy:471
 translate deutsch d08s03_b592930e:
 
@@ -1271,12 +1181,6 @@ translate deutsch d08s03_end_2c1cb7ed:
 
     # rn "Alright, class. I think that is enough for today."
     rn "In Ordnung Klasse. Ich denke, das ist genug für heute."
-
-# game/code/d08/d08s03.rpy:496
-translate deutsch d08s03_end_56a49d16:
-
-    # mct "Alright, time to meet Squizzle in the toilet."
-    mct "In Ordnung, es ist Zeit Squizzle in der Toilette zu treffen."
 
 # game/code/d08/d08s03.rpy:498
 translate deutsch d08s03_end_11796383:

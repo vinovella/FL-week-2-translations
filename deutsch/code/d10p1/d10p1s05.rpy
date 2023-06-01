@@ -876,12 +876,6 @@ translate deutsch d10p1s05_end_a44d0b48:
     # mesfl "And she was on top, so..."
     mesfl "Und sie war oben also..."
 
-# game/code/d10p1/d10p1s05.rpy:368
-translate deutsch d10p1s05_end_221837fb:
-
-    # mc "So, she spit piss all over him?"
-    mc "Also hat sie ihn mit Pisse eingesprüht?"
-
 # game/code/d10p1/d10p1s05.rpy:370
 translate deutsch d10p1s05_end_f4cc092a:
 

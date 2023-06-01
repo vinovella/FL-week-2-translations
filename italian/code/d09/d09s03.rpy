@@ -1116,24 +1116,6 @@ translate italian replay_d09s03_97f95a57:
     # lc "I will be waiting for that!"
     lc "Non vedo l'ora!"
 
-# game/code/d09/d09s03.rpy:486
-translate italian replay_d09s03_97a53fd1:
-
-    # mct "Now I have to run to meet Samiya. I hope she isn't planning anything bad. At least I can be there to save Vanessa if something happens."
-    mct "E ora devo correre all'incontro con Samiya. Speriamo che non abbia in programma nulla di malvagio. Almeno, qualora accadesse qualcosa, sarò presente e potrò proteggere Vanessa."
-
-# game/code/d09/d09s03.rpy:488
-translate italian replay_d09s03_d5ff7835:
-
-    # mct "Now I have to run back to Samiya's place. I hope this show of hers isn't anything special..."
-    mct "E ora devo correre a casa di Samiya. Speriamo che lo spettacolo che deve mettere su non sia nulla di esagerato..."
-
-# game/code/d09/d09s03.rpy:490
-translate italian replay_d09s03_f3383e9d:
-
-    # mct "Now I have to run for this strange task... {w}Call boy... {w}I guess there is no turning back."
-    mct "E ora devo correre a quell'appuntamento...{w} Gigolò...{w} Amen, indietro non si torna."
-
 translate italian strings:
 
     # game/code/d09/d09s03.rpy:273

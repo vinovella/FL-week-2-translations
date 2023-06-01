@@ -1,70 +1,10 @@
 ﻿# TODO: Translation updated at 2021-03-26 20:42
 
-# game/code/labels.rpy:90
-translate chinese support_me_993b3326:
-
-    # sy "Hey, Daisy!"
-    sy "嘿，黛西！"
-
-# game/code/labels.rpy:94
-translate chinese support_me_3710a879:
-
-    # dd "Yes, sweety?"
-    dd "小可爱，怎么了？"
-
-# game/code/labels.rpy:98
-translate chinese support_me_d9b46b90:
-
-    # sy "Do you think they know?"
-    sy "你觉得他们知道吗？"
-
 # game/code/labels.rpy:102
 translate chinese support_me_41e42ee3:
 
     # dd "Who?"
     dd "谁？"
-
-# game/code/labels.rpy:106
-translate chinese support_me_779a284a:
-
-    # sy "Them! The one behind this screen!"
-    sy "他们啊！屏幕后面的人！"
-
-# game/code/labels.rpy:109
-translate chinese support_me_002a4473:
-
-    # dd "Know what?"
-    dd "知道什么？"
-
-# game/code/labels.rpy:113
-translate chinese support_me_a481faf7:
-
-    # sy "Do you think they know how important their support is to me?"
-    sy "你觉得玩家会明白他们的支持对我有多重要吗？"
-
-# game/code/labels.rpy:116
-translate chinese support_me_57289a79:
-
-    # dd "Oh my dear! Don't you worry!"
-    dd "哦，亲爱的！不要担心！"
-
-# game/code/labels.rpy:119
-translate chinese support_me_9ce1e5cd:
-
-    # dd "They love you!"
-    dd "他们爱你！"
-
-# game/code/labels.rpy:122
-translate chinese support_me_9581c39d:
-
-    # dd "And I'm sure they know that even a little support means a great deal to you!"
-    dd "我相信他们知道，即使是一点点支持对你来说也意义重大！"
-
-# game/code/labels.rpy:136
-translate chinese coming_next_993b3326:
-
-    # sy "Hey, Daisy!"
-    sy "嘿，黛西！"
 
 # game/code/labels.rpy:140
 translate chinese coming_next_3710a879:
@@ -72,47 +12,17 @@ translate chinese coming_next_3710a879:
     # dd "Yes, sweety?"
     dd "小可爱，怎么了？"
 
-# game/code/labels.rpy:144
-translate chinese coming_next_54ac3011:
-
-    # sy "Do you think they will wait?"
-    sy "你觉得他们会等着吗？"
-
-# game/code/labels.rpy:148
-translate chinese coming_next_41e42ee3:
-
-    # dd "Who?"
-    dd "谁？"
-
 # game/code/labels.rpy:152
 translate chinese coming_next_779a284a:
 
     # sy "Them! The one behind this screen!"
     sy "他们啊！屏幕后面的人！"
 
-# game/code/labels.rpy:155
-translate chinese coming_next_9d34f57d:
-
-    # dd "Wait for what?"
-    dd "等什么？"
-
-# game/code/labels.rpy:159
-translate chinese coming_next_20f6580c:
-
-    # sy "Wait for the next game update, silly."
-    sy "等下一次游戏更新呀，傻瓜。"
-
 # game/code/labels.rpy:162
 translate chinese coming_next_61d845dd:
 
     # dd "Oh, my dear! Don't you worry!"
     dd "哦，亲爱的！不要担心！"
-
-# game/code/labels.rpy:165
-translate chinese coming_next_9ce1e5cd:
-
-    # dd "They love you!"
-    dd "他们爱你！"
 
 # game/code/labels.rpy:168
 translate chinese coming_next_de7eb1b3:
@@ -295,12 +205,6 @@ translate chinese after_credits_ec4dc5c9:
 
     # "{color=#ec8664}Unknown Girl 3{/color}" "Hey! Now is not a good time! We aren't ready yet!"
     "{color=#ec8664}陌生女孩3{/color}" "嘿！现在不是时候！我们还没准备好呢！"
-
-# game/code/labels.rpy:191
-translate chinese after_credits_e8a80a14:
-
-    # "{color=#ec8664}Unknown Girl 3{/color}" "Zemfira! That is the wrong outfit! Chapter 4 Scene 5 isn't sex scene! What are you wearing??"
-    "{color=#ec8664}陌生女孩3{/color}" "泽菲拉！这套衣服不对！第四章第五场不是性爱戏！你穿的是什么呀??"
 
 # game/code/labels.rpy:193
 translate chinese after_credits_d749c296:

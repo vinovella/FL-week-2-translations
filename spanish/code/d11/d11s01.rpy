@@ -396,12 +396,6 @@ translate spanish d11s01_17db443b:
     # mc "Yeah... about that..."
     mc "Sí... sobre eso..."
 
-# game/code/d11/d11s01.rpy:174
-translate spanish d11s01_424e0d7c:
-
-    # fl "Your task is to have sex with 20 different people by the end of Sunday."
-    fl "Tu tarea es tener sexo con 20 personas diferentes para el final del domingo."
-
 # game/code/d11/d11s01.rpy:232
 translate spanish d11s01_6c435a1d_1:
 
@@ -419,12 +413,6 @@ translate spanish d11s01_f88846ef:
 
     # mc "Keep going... Read about the punishment..."
     mc "Sigue... Lee sobre el castigo..."
-
-# game/code/d11/d11s01.rpy:184
-translate spanish d11s01_92ad8109:
-
-    # fl "If you fail to accomplish this you will be punished with your cock taken away."
-    fl "Si no lo consigues serás castigado con la retirada de tu polla."
 
 # game/code/d11/d11s01.rpy:247
 translate spanish d11s01_cc233338_1:

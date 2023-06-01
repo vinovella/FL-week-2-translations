@@ -1116,24 +1116,6 @@ translate spanish replay_d09s03_97f95a57:
     # lc "I will be waiting for that!"
     lc "¡Estaré esperando eso!"
 
-# game/code/d09/d09s03.rpy:486
-translate spanish replay_d09s03_97a53fd1:
-
-    # mct "Now I have to run to meet Samiya. I hope she isn't planning anything bad. At least I can be there to save Vanessa if something happens."
-    mct "Ahora tengo que correr para encontrarme con Samiya. Espero que no esté planeando nada malo. Al menos puedo estar allí para salvar a Vanessa si algo sucede."
-
-# game/code/d09/d09s03.rpy:488
-translate spanish replay_d09s03_d5ff7835:
-
-    # mct "Now I have to run back to Samiya's place. I hope this show of hers isn't anything special..."
-    mct "Ahora tengo que volver corriendo a casa de Samiya. Espero que este espectáculo suyo no sea nada especial..."
-
-# game/code/d09/d09s03.rpy:490
-translate spanish replay_d09s03_f3383e9d:
-
-    # mct "Now I have to run for this strange task... {w}Call boy... {w}I guess there is no turning back."
-    mct "Ahora tengo que correr para esta extraña tarea... {w}Prostituto... {w}Supongo que no hay vuelta atrás."
-
 translate spanish strings:
 
     # game/code/d09/d09s03.rpy:273

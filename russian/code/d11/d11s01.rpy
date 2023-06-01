@@ -396,12 +396,6 @@ translate russian d11s01_17db443b:
     # mc "Yeah... about that..."
     mc "Да... насчет этого..."
 
-# game/code/d11/d11s01.rpy:213
-translate russian d11s01_424e0d7c:
-
-    # fl "Your task is to have sex with 20 different people by the end of Sunday."
-    fl "Твоя задача - к концу воскресенья заняться сексом с 20 разными людьми."
-
 # game/code/d11/d11s01.rpy:232
 translate russian d11s01_6c435a1d_1:
 
@@ -419,12 +413,6 @@ translate russian d11s01_f88846ef:
 
     # mc "Keep going... Read about the punishment..."
     mc "Продолжай... Читай о наказании..."
-
-# game/code/d11/d11s01.rpy:224
-translate russian d11s01_92ad8109:
-
-    # fl "If you fail to accomplish this you will be punished with your cock taken away."
-    fl "Если ты не справишься с этим, то ты будешь наказан тем, что тебя лишат члена."
 
 # game/code/d11/d11s01.rpy:247
 translate russian d11s01_cc233338_1:

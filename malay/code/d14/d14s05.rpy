@@ -714,18 +714,6 @@ translate malay d14s05_3825efb2:
     # mc "Looks like there was some misunderstanding with the bartender.{w} Did you tell her to wear that?"
     mc "Nampaknya ada salah faham dengan pelayan bar. {w} Kau ada suruhn dia memakainya?"
 
-# game/code/d14/d14s05.rpy:267
-translate malay d14s05_36cb1d8f:
-
-    # mc "No, did you?"
-    mc "Tak, kau?"
-
-# game/code/d14/d14s05.rpy:268
-translate malay d14s05_1033e9d1:
-
-    # arj "Of course not."
-    arj "Mestilah tak."
-
 # game/code/d14/d14s05.rpy:270
 translate malay d14s05_5e5f6cd8:
 
