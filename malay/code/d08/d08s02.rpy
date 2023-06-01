@@ -364,7 +364,7 @@ translate malay d08s02_33bab2a0:
 translate malay d08s02_60652925:
 
     # mc "Stacy! Don't say-"
-    mc "Stacy! Don't say-"
+    mc "Stacy! Jangan kata-"
 
 # game/code/d08/d08s02.rpy:146
 translate malay d08s02_e3837dd8:
