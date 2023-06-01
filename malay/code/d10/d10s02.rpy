@@ -928,5 +928,5 @@ translate malay strings:
 translate malay d10s02_warning_dbc3fbdf:
 
     # mc "Yeah. It's all very suspicious."
-    mc "Yeah. It's all very suspicious."
+    mc "Yeah. Semuanya sangat mencurigakan."
 
