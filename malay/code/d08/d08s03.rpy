@@ -1310,5 +1310,5 @@ translate malay strings:
 translate malay d08s03_3a9860c7:
 
     # mc "How are you doing now? You're not still short, are you?"
-    mc "How are you doing now? You're not still short, are you?"
+    mc "Apa khabar dengan kau sekarang?"
 
