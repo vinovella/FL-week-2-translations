@@ -1384,5 +1384,5 @@ translate malay strings:
 translate malay d08s14_336ce5e2:
 
     # mc "...But not for the reasons you're thinking of. I'm just not sure it's all it's made out to be."
-    mc "...But not for the reasons you're thinking of. I'm just not sure it's all it's made out to be."
+    mc "Tapi bukan atas sebab yang awak fikirkan. Saya cuma tidak pasti itu semua hanyalah rekaaan semata-mata."
 
