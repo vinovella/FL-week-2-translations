@@ -850,11 +850,11 @@ translate malay strings:
 translate malay d14s08_65d3d366:
 
     # mc "I guess it happened while I decided to go quid-pro-quo with you."
-    mc "I guess it happened while I decided to go quid-pro-quo with you."
+    mc "Aku rasa ia berlaku semasa aku memutuskan untuk pergi quid-pro-quo dengan kau."
 
 # game/code/d14/extended/d14s08.rpy:234
 translate malay d14s08_41565680:
 
     # pw "You're going to go all Hannibal Lector on me?"
-    pw "You're going to go all Hannibal Lector on me?"
+    pw "Kau nak pergi Hannibal Lecter dekat aku?"
 
