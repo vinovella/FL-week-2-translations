@@ -236,3 +236,15 @@ translate deutsch strings:
     old "Confirm"
     new "Confirm"
 
+# TODO: Translation updated at 2023-06-01 13:43
+
+translate deutsch strings:
+
+    # game/code/screens/screens_fl.rpy:884
+    old "Continue playing"
+    new "Continue playing"
+
+    # game/code/screens/screens_fl.rpy:888
+    old "Close the game"
+    new "Close the game"
+

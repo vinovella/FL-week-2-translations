@@ -178,3 +178,15 @@ translate turkish strings:
     old "Confirm"
     new "Onayla"
 
+# TODO: Translation updated at 2023-06-01 13:51
+
+translate turkish strings:
+
+    # game/code/screens/screens_fl.rpy:884
+    old "Continue playing"
+    new "Continue playing"
+
+    # game/code/screens/screens_fl.rpy:888
+    old "Close the game"
+    new "Close the game"
+
