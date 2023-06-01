@@ -40,7 +40,7 @@ translate malay strings:
 
     # game/code/screens/screens_fl.rpy:485
     old "X-RAY"
-    new "X-RAY"
+    new "Sinar-X"
 
 # TODO: Translation updated at 2021-09-29 22:26
 
@@ -115,11 +115,11 @@ translate malay strings:
 
     # game/code/screens/screens_fl.rpy:539
     old "Go back and enable {b}Watersports{/b} fetish to be able to select Min"
-    new "Go back and enable {b}Watersports{/b} fetish to be able to select Min"
+    new "Kembali dan dayakan fetish {b}Watersports{/b} supaya dapat memilih Min"
 
     # game/code/screens/screens_fl.rpy:570
     old "Go back and enable {b}Trans Content{/b} to be able to select Lyssa"
-    new "Go back and enable {b}Trans Content{/b} to be able to select Lyssa"
+    new "Kembali dan dayakan {b}Kandungan Trans{/b} supaya dapat memilih Lyssa"
 
 # TODO: Translation updated at 2022-11-12 13:32
 
@@ -127,99 +127,99 @@ translate malay strings:
 
     # game/code/screens/screens_fl.rpy:70
     old "Please click the save button below"
-    new "Please click the save button below"
+    new "Sila klik butang simpan di bawah"
 
     # game/code/screens/screens_fl.rpy:313
     old "Touch input supported"
-    new "Touch input supported"
+    new "Input sentuh disokong"
 
     # game/code/screens/screens_fl.rpy:314
     old "Navigation"
-    new "Navigation"
+    new "Navigasi"
 
     # game/code/screens/screens_fl.rpy:315
     old "Pause Menu"
-    new "Pause Menu"
+    new "Jeda Menu"
 
     # game/code/screens/screens_fl.rpy:316
     old "Quick Save"
-    new "Quick Save"
+    new "Simpan Cepat"
 
     # game/code/screens/screens_fl.rpy:318
     old "Roll Back"
-    new "Roll Back"
+    new "Kembali"
 
     # game/code/screens/screens_fl.rpy:321
     old "{b}A{/b} - Select"
-    new "{b}A{/b} - Select"
+    new "{b}A{/b} - Pilih"
 
     # game/code/screens/screens_fl.rpy:322
     old "{b}B{/b} - Go Back"
-    new "{b}B{/b} - Go Back"
+    new "{b}B{/b} - Kembali"
 
     # game/code/screens/screens_fl.rpy:323
     old "{b}X{/b} - Skip"
-    new "{b}X{/b} - Skip"
+    new "{b}X{/b} - Langkau"
 
     # game/code/screens/screens_fl.rpy:324
     old "{b}Y{/b} - Hide UI"
-    new "{b}Y{/b} - Hide UI"
+    new "{b}Y{/b} - Sembunyikan UI"
 
     # game/code/screens/screens_fl.rpy:325
     old "Roll Forward"
-    new "Roll Forward"
+    new "Guling Kehadapan"
 
     # game/code/screens/screens_fl.rpy:328
     old "You can find this layout in the {b}Help{/b} menu"
-    new "You can find this layout in the {b}Help{/b} menu"
+    new "Anda boleh menemui reka letak ini dalam menu {b}Bantuan{/b}"
 
     # game/code/screens/screens_fl.rpy:865
     old "Your device cannot save the game progress through different weeks. Please, allow FL App to write on the external storage."
-    new "Your device cannot save the game progress through different weeks. Please, allow FL App to write on the external storage."
+    new "Peranti anda tidak boleh menyimpan kemajuan permainan melalui minggu yang berbeza. Sila, benarkan FL App menulis pada storan luaran."
 
     # game/code/screens/screens_fl.rpy:867
     old "On most devices you can set the permissions on the Setting app."
-    new "On most devices you can set the permissions on the Setting app."
+    new "Pada kebanyakan peranti, anda boleh menetapkan kebenaran pada apl Tetapan."
 
     # game/code/screens/screens_fl.rpy:868
     old "1. Go to - Settings -> Apps -> Fetish Locator Week [FLSS.week.cur] -> Permissions -> Storage."
-    new "1. Go to - Settings -> Apps -> Fetish Locator Week [FLSS.week.cur] -> Permissions -> Storage."
+    new "1. Pergi ke - Tetapan -> Apl -> Fetish Locator Minggu [FLSS.week.cur] -> Kebenaran -> Storan."
 
     # game/code/screens/screens_fl.rpy:869
     old "2. Set the permission to -> \"Allow management of all files\"."
-    new "2. Set the permission to -> \"Allow management of all files\"."
+    new "2. Tetapkan kebenaran kepada -> \"Benarkan pengurusan semua fail\"."
 
     # game/code/screens/screens_fl.rpy:871
     old "Now the game should work."
-    new "Now the game should work."
+    new "Sekarang permainan sepatutnya berfungsi."
 
     # game/code/screens/screens_fl.rpy:873
     old "Your device cannot save the game progress through different weeks. Please, follow these instructions to fix this issue."
-    new "Your device cannot save the game progress through different weeks. Please, follow these instructions to fix this issue."
+    new "Peranti anda tidak dapat menyimpan kemajuan permainan melalui minggu yang berbeza. Sila ikut arahan ini untuk menyelesaikan isu ini."
 
     # game/code/screens/screens_fl.rpy:875
     old "1. Enable \"Show hidden items\" option in Windows Explorer."
-    new "1. Enable \"Show hidden items\" option in Windows Explorer."
+    new "1. Dayakan pilihan \"Tunjukkan item tersembunyi\" dalam Windows Explorer."
 
     # game/code/screens/screens_fl.rpy:876
     old "2. Go to - \"C:/Users/username/AppData/Roaming/RenPy/persistent/\" folder."
-    new "2. Go to - \"C:/Users/username/AppData/Roaming/RenPy/persistent/\" folder."
+    new "2. Pergi ke - fail \"C:/Users/username/AppData/Roaming/RenPy/persistent/\" "
 
     # game/code/screens/screens_fl.rpy:877
     old "3. Create a backup of the file \"FetishLocator\" and delete it."
-    new "3. Create a backup of the file \"FetishLocator\" and delete it."
+    new "3. Buat sandaran fail \"FetishLocator\" dan padamkannya."
 
     # game/code/screens/screens_fl.rpy:879
     old "4. After launching the game once you can put the backed up file back to it's location to get your Week saves back."
-    new "4. After launching the game once you can put the backed up file back to it's location to get your Week saves back."
+    new "4. Selepas melancarkan permainan sebaik sahaja anda boleh meletakkan semula fail yang disandarkan ke lokasinya untuk mendapatkan kembali simpanan Minggu anda."
 
     # game/code/screens/screens_fl.rpy:881
     old "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
-    new "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
+    new "Hubungi kami di {a=https://discord.gg/efmQRNtFks}Discord{/a} jika anda memerlukan bantuan."
 
     # game/code/screens/screens_fl.rpy:887
     old "Confirm"
-    new "Confirm"
+    new "Sahkan"
 
 # TODO: Translation updated at 2023-06-01 13:46
 
@@ -227,9 +227,9 @@ translate malay strings:
 
     # game/code/screens/screens_fl.rpy:884
     old "Continue playing"
-    new "Continue playing"
+    new "Teruskan bermain"
 
     # game/code/screens/screens_fl.rpy:888
     old "Close the game"
-    new "Close the game"
+    new "Tutup permainan"
 
