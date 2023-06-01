@@ -473,5 +473,5 @@ translate malay d08s08_2fff4bf6:
 translate malay d08s08_3098df80:
 
     # mct "\"Hi... I'm kinda, sorta your boyfriend, but I gotta be able to boink anything to win a million dollars.\""
-    mct "\"Hi... I'm kinda, sorta your boyfriend, but I gotta be able to boink anything to win a million dollars.\""
+    mct "\"Hi... Saya teman lelaki awak agaknya, tetapi saya mesti dapat kongkek apa-apa sahaja untuk memenangi satu juta dolar.\""
 
