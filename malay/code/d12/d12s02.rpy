@@ -1267,23 +1267,23 @@ translate malay strings:
 translate malay d12s02_52f7b26f:
 
     # mct "New VIP challenge. Fuck 20 girls by Sunday. If succeed, could win the whole game."
-    mct "New VIP challenge. Fuck 20 girls by Sunday. If succeed, could win the whole game."
+    mct "Cabaran VIP baharu. Kongkek 20 gadis menjelang Ahad. Jika berjaya, boleh memenangi keseluruhan permainan."
 
 # game/code/d12/d12s02.rpy:350
 translate malay d12s02_facf8920:
 
     # "Really? How many so far?"
-    "Really? How many so far?"
+    "Betul ke? Berapa ramai setakat ini?"
 
 # game/code/d12/d12s02.rpy:356
 translate malay d12s02_5e5a4749:
 
     # mct "Yes. [fl_w2_sex_count]."
-    mct "Yes. [fl_w2_sex_count]."
+    mct "Ya. [fl_w2_sex_count]."
 
 # game/code/d12/d12s02.rpy:379
 translate malay d12s02_376320a3:
 
     # mct "Should I? If Hana goes for it, that'll be plus one fuck for the VIP challenge."
-    mct "Should I? If Hana goes for it, that'll be plus one fuck for the VIP challenge."
+    mct "Patut ke? Kalau termasuk Hana, itu lebih baik untuk cabaran VIP."
 
