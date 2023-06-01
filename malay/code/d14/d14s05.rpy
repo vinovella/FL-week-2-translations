@@ -2088,5 +2088,5 @@ translate malay d14s05_c2eb53da:
 translate malay d14s05_e89e3635:
 
     # arj "Well, I really don't want you to lose."
-    arj "Well, I really don't want you to lose."
+    arj "Aku tak nak kau kalah..."
 
