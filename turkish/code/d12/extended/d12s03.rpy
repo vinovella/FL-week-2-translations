@@ -1192,7 +1192,7 @@ translate turkish d12s03_end_c9748f2e:
 translate turkish d12s03_end_e49a5de8:
 
     # mc "Is this what I think it is?"
-    mc "Düşündüğüm şey mi bu?
+    mc "Düşündüğüm şey mi bu?"
 
 # game/code/d12/extended/d12s03.rpy:953
 translate turkish d12s03_end_7ebdad4a:

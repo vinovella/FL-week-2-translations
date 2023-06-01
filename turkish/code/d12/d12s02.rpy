@@ -790,7 +790,7 @@ translate turkish d12s02_end_4885ceca:
 translate turkish d12s02_end_7920076d:
 
     # mc "We should."
-    mc Yapmalıyız."
+    mc "Yapmalıyız."
 
 # game/code/d12/d12s02.rpy:580
 translate turkish d12s02_end_9f7469fb:

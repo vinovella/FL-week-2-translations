@@ -4,7 +4,7 @@
 translate turkish d12s01_43701264:
 
     # "Friday.{w} Day-12."
-    "Cuma.{w} 12.Gün.
+    "Cuma.{w} 12.Gün."
 
 # game/code/d12/d12s01.rpy:74
 translate turkish d12s01_f746af8f:

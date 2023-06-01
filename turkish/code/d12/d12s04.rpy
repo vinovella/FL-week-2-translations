@@ -160,7 +160,7 @@ translate turkish d12s04_31a63ef0:
 translate turkish d12s04_96d1838e:
 
     # mc "Oh you don't have to worry about that. It's not an FL party."
-    mc Oh, bunun için endişelenmene gerek yok. Bu bir FL partisi değil."
+    mc "Oh, bunun için endişelenmene gerek yok. Bu bir FL partisi değil."
 
 # game/code/d12/d12s04.rpy:127
 translate turkish d12s04_dccf2bbf:
@@ -616,7 +616,7 @@ translate turkish replay_d12s04_9127b577:
 translate turkish replay_d12s04_d84e7638:
 
     # mc "Oh, please. Be as thorough as you like."
-    mc "Ah, lütfen. İstediğiniz kadar titiz olun.""
+    mc "Ah, lütfen. İstediğiniz kadar titiz olun."
 
 # game/code/d12/d12s04.rpy:415
 translate turkish replay_d12s04_e27e2b38:
@@ -808,7 +808,7 @@ translate turkish d12s04_mhmc_hj_dc9711a9:
 translate turkish d12s04_mhmc_hj_72e7b6d1:
 
     # mh "[mcname], I'm—!"
-    mh "[mcname], ben—!""
+    mh "[mcname], ben—!"
 
 # game/code/d12/d12s04.rpy:689
 translate turkish d12s04_mhmc_hj_63487642:
