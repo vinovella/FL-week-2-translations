@@ -533,11 +533,11 @@ translate malay replay_d08s04_606e2d02:
 translate malay d08s04_09e6bb19:
 
     # mct "There's no way Pete is behind this. Where the hell would he even get a million bucks?"
-    mct "There's no way Pete is behind this. Where the hell would he even get a million bucks?"
+    mct "Tak mungkin Pete terlibat dalam hal ini. Di mana dia akan mendapat satu juta dolar?"
 
 # game/code/d08/d08s04.rpy:54
 translate malay d08s04_900e258f:
 
     # mct "Still... He can be resourceful when it comes to getting his dick wet. The faster I get this over with, the better."
-    mct "Still... He can be resourceful when it comes to getting his dick wet. The faster I get this over with, the better."
+    mct "Namun... Dia boleh menjadi bijak apabila membasahkan batangnya. Lagi cepat saya selesaikan perkara ini, lagi bagus."
 
