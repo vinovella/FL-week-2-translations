@@ -1260,7 +1260,7 @@ translate malay strings:
 
     # game/code/d10p1/d10p1s01.rpy:256
     old "Samurai"
-    new "Samurai"
+    new "Pedang Samurai"
 
     # game/code/d10p1/d10p1s01.rpy:256
     old "Type Your Own"
@@ -1280,5 +1280,5 @@ translate malay strings:
 translate malay d10p1s01_427f0b81:
 
     # mct "I think I recognize that girl. Is that Hana's girlfriend?"
-    mct "I think I recognize that girl. Is that Hana's girlfriend?"
+    mct "Saya rasa saya kenal perempuan tu. Adakah itu teman wanita Hana?"
 
