@@ -2591,5 +2591,5 @@ translate malay strings:
 translate malay d10p2s08_47b69fbd:
 
     # mct "Even knowing that I'd basically be leaving AmRose and Stacy stranded, and giving up on a million dollars?"
-    mct "Even knowing that I'd basically be leaving AmRose and Stacy stranded, and giving up on a million dollars?"
+    mct "Walaupun mengetahui bahawa saya pada dasarnya akan meninggalkan AmRose dan Stacy terkandas, dan berputus asa dengan satu juta dolar?"
 
