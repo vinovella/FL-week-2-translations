@@ -1315,17 +1315,17 @@ translate malay strings:
 translate malay d12s03_f170455d:
 
     # mct "If I do what she says, I might not have to worry about anything ever again."
-    mct "If I do what she says, I might not have to worry about anything ever again."
+    mct "Jika aku lakukan apa yang dia katakan, aku mungkin tak perlu risau tentang apa-apa lagi."
 
 # game/code/d12/extended/d12s03.rpy:240
 translate malay d12s03_c7f9bfe6:
 
     # mct "If I don't agree, I am certain that I can just walk away without any consequences... as long as I keep my mouth shut."
-    mct "If I don't agree, I am certain that I can just walk away without any consequences... as long as I keep my mouth shut."
+    mct "Jika aku tak bersetuju, aku pasti aku boleh pergi tanpa sebarang akibat... asalkan aku tutup mulut."
 
 # game/code/d12/extended/d12s03.rpy:245
 translate malay d12s03_eda32b67:
 
     # mct "It's a curious choice, but I'm ready to decide."
-    mct "It's a curious choice, but I'm ready to decide."
+    mct "Ia adalah pilihan yang ingin tahu, tapi aku bersedia untuk membuat keputusan."
 
