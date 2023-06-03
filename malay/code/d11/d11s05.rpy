@@ -363,35 +363,35 @@ translate malay strings:
 translate malay d11s05_791d313d:
 
     # mct "But I really don't know if Pete is involved..."
-    mct "But I really don't know if Pete is involved..."
+    mct "Tapi aku betul-betul tak tahu sama ada Pete terlibat..."
 
 # game/code/d11/d11s05.rpy:152
 translate malay d11s05_8f94dc42:
 
     # mct "I could use this to put Pete in the VIP program."
-    mct "I could use this to put Pete in the VIP program."
+    mct "Aku boleh menggunakan ini untuk meletakkan Pete dalam program VIP."
 
 # game/code/d11/d11s05.rpy:157
 translate malay d11s05_c61d471a:
 
     # mct "If Pete is not working for Fetish Locator, he should be eligible."
-    mct "If Pete is not working for Fetish Locator, he should be eligible."
+    mct "Jika Pete tidak bekerja untuk Fetish Locator, dia sepatutnya layak."
 
 # game/code/d11/d11s05.rpy:167
 translate malay d11s05_f77136f4:
 
     # mct "It wouldn't help my odds of winning to add Pete to the VIP challenges."
-    mct "It wouldn't help my odds of winning to add Pete to the VIP challenges."
+    mct "Ia tidak akan membantu peluang aku untuk menang untuk menambah Pete kepada cabaran VIP."
 
 # game/code/d11/d11s05.rpy:179
 translate malay d11s05_68abdbfc:
 
     # mct "This is a bad idea."
-    mct "This is a bad idea."
+    mct "Ini adalah idea yang tidak baik."
 
 # game/code/d11/d11s05.rpy:186
 translate malay d11s05_f5abed2d:
 
     # mct "...\"Welcome to the Fetish Locator VIP Program!\""
-    mct "...\"Welcome to the Fetish Locator VIP Program!\""
+    mct "...\"Selamat datang ke Program VIP Fetish Locator!\""
 
