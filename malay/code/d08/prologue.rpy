@@ -184,7 +184,7 @@ translate malay strings:
 translate malay prologue_fetishes_7bc3a4e5:
 
     # "It's time to choose your preferences.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many as you want and press \"Done\"."
-    "It's time to choose your preferences.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many as you want and press \"Done\"."
+    "Sudah tiba masanya untuk memilih pilihan anda.\nJangan risau jika fetish kegemaran anda tidak disenaraikan: Fetish Locator baru sahaja bermula!\Pilih seberapa banyak yang anda mahu dan tekan \"Selesai\"."
 
 # TODO: Translation updated at 2022-11-12 13:32
 
@@ -204,4 +204,4 @@ translate malay prologue_fresh_start_d7ab3300:
 translate malay prologue_fresh_start_5b4c2953:
 
     # "You are {b}[mcname]{/b} and your Fetish Locator user name is {b}[mclogin]{/b}."
-    "You are {b}[mcname]{/b} and your Fetish Locator user name is {b}[mclogin]{/b}."
+    "Anda ialah {b}[mcname]{/b} dan nama pengguna Fetish Locator anda ialah {b}[mclogin]{/b}."
