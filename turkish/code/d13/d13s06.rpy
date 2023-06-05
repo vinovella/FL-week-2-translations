@@ -52,13 +52,13 @@ translate turkish d13s06_997d872b:
 translate turkish d13s06_606e2d02:
 
     # mc "Sure."
-    mc "Tabii.
+    mc "Tabii."
 
 # game/code/d13/d13s06.rpy:84
 translate turkish replay_d13s06_b2f6538b:
 
     # tr "[mcname],"
-    tr "[mcname],"
+    tr "[mcname]."
 
 # game/code/d13/d13s06.rpy:86
 translate turkish replay_d13s06_e2b19e33:

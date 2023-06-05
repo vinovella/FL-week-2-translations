@@ -940,7 +940,7 @@ translate turkish d14s04_fb129237:
 translate turkish d14s04_5fb08a3d:
 
     # sy "You didn't tell her about the party?"
-    sy ""Ona partiden bahsetmedin mi?"
+    sy "Ona partiden bahsetmedin mi?"
 
 # game/code/d14/d14s04.rpy:509
 translate turkish d14s04_bc93080b:

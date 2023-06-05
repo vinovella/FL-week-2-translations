@@ -256,7 +256,7 @@ translate turkish replay_d13s08_738c17b2:
 translate turkish replay_d13s08_cdb73e21:
 
     # vw "Well? Are you just gonna stand around or are you gonna fuck me?"
-    vw Pekala? Etrafta öylece duracak mısın yoksa beni becerecek misin?"
+    vw "Pekala? Etrafta öylece duracak mısın yoksa beni becerecek misin?"
 
 # game/code/d13/d13s08.rpy:235
 translate turkish replay_d13s08_2b35b6fe:

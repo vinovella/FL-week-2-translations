@@ -238,7 +238,7 @@ translate turkish d13s04_a5a85d2e:
 translate turkish d13s04_ddad4cc0:
 
     # nk "So, classes are going well?"
-    nk "Demek dersler iyi gidiyor?
+    nk "Demek dersler iyi gidiyor?"
 
 # game/code/d13/d13s04.rpy:123
 translate turkish d13s04_4af3cc0d:

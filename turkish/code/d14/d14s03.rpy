@@ -418,7 +418,7 @@ translate turkish d14s03_c73713cc:
 translate turkish d14s03_92809638:
 
     # mc "Well, I was swimming and just chilling, as you do, when she came out of nowhere in jet-ski and was like, \"Come with me if you want to live\" and—"
-    mc "Eh, ben de senin yaptığın gibi yüzüyordum ve ürperiyordum, jet-ski ile birdenbire ortaya çıkıp "Yaşamak istiyorsan benimle gel" dedi ve—"
+    mc "Eh, ben de senin yaptığın gibi yüzüyordum ve ürperiyordum, jet-ski ile birdenbire ortaya çıkıp \"Yaşamak istiyorsan benimle gel\" dedi ve—"
 
 # game/code/d14/d14s03.rpy:250
 translate turkish d14s03_edfdd2e2:
@@ -1384,7 +1384,7 @@ translate turkish d14s03_ec45252c:
 translate turkish d14s03_4fe534a2:
 
     # sy "Where are you two going anyway?"
-    sy Siz ikiniz nereye gidiyorsunuz?"
+    sy "Siz ikiniz nereye gidiyorsunuz?"
 
 # game/code/d14/d14s03.rpy:703
 translate turkish d14s03_b0ea7448:
