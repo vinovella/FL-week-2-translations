@@ -1474,7 +1474,7 @@ translate turkish d14s05_dddffe43:
 translate turkish d14s05_a39de645:
 
     # arj "I can't- {w}Really?!"
-    arj "Yapamazsın- {w}Gerçekten mi?!
+    arj "Yapamazsın- {w}Gerçekten mi?!"
 
 # game/code/d14/d14s05.rpy:763
 translate turkish d14s05_16329a92:

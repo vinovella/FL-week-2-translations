@@ -232,7 +232,7 @@ translate turkish d14s06_c8183f95:
 translate turkish d14s06_317ededa:
 
     # mes "Because it feels great in my mouth, and 90%% of sex happens in the imagination..."
-    mes "Çünkü ağzımda harika bir his var ve seksin %90'ı hayal gücümde gerçekleşiyor..."
+    mes "Çünkü ağzımda harika bir his var ve seksin %%90'ı hayal gücümde gerçekleşiyor..."
 
 # game/code/d14/d14s06.rpy:243
 translate turkish d14s06_fa843ba8:
