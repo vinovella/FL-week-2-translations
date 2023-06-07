@@ -430,7 +430,7 @@ translate turkish d12s06_dd_e8524816:
 translate turkish d12s06_dd_ba81e7e3:
 
     # mc "Okay, let's go then."
-    mc "Okay, let's go then."
+    mc "Tamam, o zaman gidelim."
 
 # game/code/d12/d12s06.rpy:445
 translate turkish d12s06_dd_186e76b5:
