@@ -382,7 +382,7 @@ translate turkish d14s15_7cee867d:
 translate turkish d14s15_6d431422:
 
     # dw "That's what I wanted to talk to you about. How we can do more things that you enjoy, and less... stuff like that."
-    dw "Seninle bunun hakkında konuşmak istiyordum. Hoşlanacağın şeyleri nasıl daha çok, bunun gibi şeyleri daha az... nasıl yapabiliriz.""
+    dw "Seninle bunun hakkında konuşmak istiyordum. Hoşlanacağın şeyleri nasıl daha çok, bunun gibi şeyleri daha az... nasıl yapabiliriz."
 
 # game/code/d14p2/d14s15.rpy:201
 translate turkish d14s15_440966e2:

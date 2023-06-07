@@ -82,7 +82,7 @@ translate turkish d14s11_7992145f:
 translate turkish d14s11_df4f37de:
 
     # sy "And Lydia provided this wonderful house for the party!"
-    sy Ve Lydia parti için bu harika evi sağladı!"
+    sy "Ve Lydia parti için bu harika evi sağladı!"
 
 # game/code/d14p2/d14s11.rpy:69
 translate turkish d14s11_36e45e27:
@@ -292,7 +292,7 @@ translate turkish d14s11_e4365d6e:
 translate turkish d14s11_dd25b747:
 
     # lc "She was trying to decide whether to call it \"Moon Sugar\" or \"Skooma\"."
-    lc "Ona \"Ay Şekeri" mı yoksa \"Skooma\" mı adını vereceğine karar vermeye çalışıyordu."
+    lc "Ona \"Ay Şekeri\" mı yoksa \"Skooma\" mı adını vereceğine karar vermeye çalışıyordu."
 
 # game/code/d14p2/d14s11.rpy:175
 translate turkish d14s11_eb806948:
