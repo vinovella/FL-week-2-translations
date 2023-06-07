@@ -1438,7 +1438,7 @@ translate turkish d11s03_5ef43fce_1:
 translate turkish d11s03_2b2b3cff:
 
     # arj "I spilled my guts. What did you think about what you saw last night at the party?"
-    arj "I spilled my guts. What did you think about what you saw last night at the party?"
+    arj "İçimi döktüm. Dün gece partide gördüklerin hakkında ne düşündün?"
 
 # game/code/d11/d11s03.rpy:641
 translate turkish d11s03_bf583411:
