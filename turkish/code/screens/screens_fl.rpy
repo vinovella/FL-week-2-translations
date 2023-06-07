@@ -184,9 +184,9 @@ translate turkish strings:
 
     # game/code/screens/screens_fl.rpy:884
     old "Continue playing"
-    new "Continue playing"
+    new "Oynamaya devam et"
 
     # game/code/screens/screens_fl.rpy:888
     old "Close the game"
-    new "Close the game"
+    new "Oyunu kapat"
 
