@@ -230,9 +230,21 @@ translate spanish strings:
 
     # game/code/screens/screens_fl.rpy:884
     old "Continue playing"
-    new "Continue playing"
+    new "Continuar jugando"
 
     # game/code/screens/screens_fl.rpy:888
     old "Close the game"
-    new "Close the game"
+    new "Cerrar el juego"
+
+# TODO: Translation updated at 2023-06-09 02:02
+
+translate spanish strings:
+
+    # game/code/screens/screens_fl.rpy:590
+    old "Yes to all"
+    new "Si a todo"
+
+    # game/code/screens/screens_fl.rpy:888
+    old "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
+    new "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
 

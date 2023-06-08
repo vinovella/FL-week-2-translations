@@ -233,3 +233,15 @@ translate malay strings:
     old "Close the game"
     new "Tutup permainan"
 
+# TODO: Translation updated at 2023-06-09 02:00
+
+translate malay strings:
+
+    # game/code/screens/screens_fl.rpy:590
+    old "Yes to all"
+    new "Ya kepada semua"
+
+    # game/code/screens/screens_fl.rpy:888
+    old "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
+    new "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
+

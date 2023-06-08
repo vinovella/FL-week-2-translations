@@ -242,9 +242,21 @@ translate deutsch strings:
 
     # game/code/screens/screens_fl.rpy:884
     old "Continue playing"
-    new "Continue playing"
+    new "Weiterspielen"
 
     # game/code/screens/screens_fl.rpy:888
     old "Close the game"
-    new "Close the game"
+    new "Schließe das Spiel"
+
+# TODO: Translation updated at 2023-06-09 01:57
+
+translate deutsch strings:
+
+    # game/code/screens/screens_fl.rpy:590
+    old "Yes to all"
+    new "Ja zu allem"
+
+    # game/code/screens/screens_fl.rpy:888
+    old "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
+    new "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
 

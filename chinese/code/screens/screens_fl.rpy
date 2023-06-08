@@ -229,9 +229,21 @@ translate chinese strings:
 
     # game/code/screens/screens_fl.rpy:884
     old "Continue playing"
-    new "Continue playing"
+    new "继续播放"
 
     # game/code/screens/screens_fl.rpy:888
     old "Close the game"
-    new "Close the game"
+    new "关闭游戏"
+
+# TODO: Translation updated at 2023-06-09 01:56
+
+translate chinese strings:
+
+    # game/code/screens/screens_fl.rpy:590
+    old "Yes to all"
+    new "全部同意"
+
+    # game/code/screens/screens_fl.rpy:888
+    old "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
+    new "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
 

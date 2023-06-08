@@ -239,9 +239,21 @@ translate italian strings:
 
     # game/code/screens/screens_fl.rpy:884
     old "Continue playing"
-    new "Continue playing"
+    new "Continua a giocare"
 
     # game/code/screens/screens_fl.rpy:888
     old "Close the game"
-    new "Close the game"
+    new "Chiudi il gioco"
+
+# TODO: Translation updated at 2023-06-09 01:58
+
+translate italian strings:
+
+    # game/code/screens/screens_fl.rpy:590
+    old "Yes to all"
+    new "Sì a tutto"
+
+    # game/code/screens/screens_fl.rpy:888
+    old "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
+    new "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
 

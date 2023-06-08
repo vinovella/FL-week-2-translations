@@ -190,3 +190,15 @@ translate turkish strings:
     old "Close the game"
     new "Oyunu kapat"
 
+# TODO: Translation updated at 2023-06-09 01:55
+
+translate turkish strings:
+
+    # game/code/screens/screens_fl.rpy:590
+    old "Yes to all"
+    new "Her şeye evet"
+
+    # game/code/screens/screens_fl.rpy:888
+    old "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
+    new "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
+

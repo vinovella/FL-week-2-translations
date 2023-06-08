@@ -182,9 +182,21 @@ translate korean strings:
 
     # game/code/screens/screens_fl.rpy:884
     old "Continue playing"
-    new "Continue playing"
+    new "계속 플레이"
 
     # game/code/screens/screens_fl.rpy:888
     old "Close the game"
-    new "Close the game"
+    new "게임 종료"
+
+# TODO: Translation updated at 2023-06-09 01:59
+
+translate korean strings:
+
+    # game/code/screens/screens_fl.rpy:590
+    old "Yes to all"
+    new "모든 것에 예"
+
+    # game/code/screens/screens_fl.rpy:888
+    old "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
+    new "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
 
