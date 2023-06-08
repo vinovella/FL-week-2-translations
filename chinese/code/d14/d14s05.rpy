@@ -714,18 +714,6 @@ translate chinese d14s05_3825efb2:
     # mc "Looks like there was some misunderstanding with the bartender.{w} Did you tell her to wear that?"
     mc "看来和调酒师之间有些误会啊。{w}是你让她穿这个的？"
 
-# game/code/d14/d14s05.rpy:245
-translate chinese d14s05_36cb1d8f:
-
-    # mc "No, did you?"
-    mc "不是啊，是你吗？"
-
-# game/code/d14/d14s05.rpy:246
-translate chinese d14s05_1033e9d1:
-
-    # arj "Of course not."
-    arj "当然不是。"
-
 # game/code/d14/d14s05.rpy:248
 translate chinese d14s05_5e5f6cd8:
 
@@ -2093,4 +2081,12 @@ translate chinese d14s05_c2eb53da:
 
     # mc "Of course not."
     mc "当然不是。"
+
+# TODO: Translation updated at 2022-11-12 13:18
+
+# game/code/d14/d14s05.rpy:802
+translate chinese d14s05_e89e3635:
+
+    # arj "Well, I really don't want you to lose."
+    arj "Well, I really don't want you to lose."
 

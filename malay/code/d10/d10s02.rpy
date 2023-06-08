@@ -922,3 +922,11 @@ translate malay strings:
     old "Ask her if she wants to earn some points"
     new "Tanya kepadanya jika dia mahu mendapatkan beberapa mata"
 
+# TODO: Translation updated at 2022-11-12 13:32
+
+# game/code/d10/d10s02.rpy:253
+translate malay d10s02_warning_dbc3fbdf:
+
+    # mc "Yeah. It's all very suspicious."
+    mc "Yeah. Semuanya sangat mencurigakan."
+

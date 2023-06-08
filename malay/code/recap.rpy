@@ -917,3 +917,35 @@ translate malay d08s00_week1synopsis_7c59af2b:
 
     # "No more waiting! Let's get into Week 2..."
     "Tak perlu menunggu lagi! Jom masuk ke Minggu 2..."
+# TODO: Translation updated at 2022-11-12 13:32
+
+# game/code/recap.rpy:277
+translate malay d08s00_week1synopsis_f49a455e:
+
+    # "[mcname] came to her rescue, and in the process, learned that she was put into a secretive \"VIP Fetish Challenge Program\" to win one million dollars."
+    "[mcname] datang untuk menyelamatkannya, dan dalam proses itu, mengetahui bahawa dia telah dimasukkan ke dalam \"Program Cabaran Fetish VIP\" untuk memenangi satu juta dolar."
+
+# game/code/recap.rpy:286
+translate malay d08s00_week1synopsis_bb08f530:
+
+    # "When he tried to delete the app from his phone, he too got put into the VIP Fetish Challenge Program."
+    "Apabila dia cuba memadamkan aplikasi daripada telefonnya, dia juga telah dimasukkan ke dalam Program Cabaran Fetish VIP."
+
+# game/code/recap.rpy:291
+translate malay d08s00_week1synopsis_f606ec88:
+
+    # "Allured by the prospect of winning the prize, he spent the night learning all he could about the app, the terms and conditions, and this strange challenge."
+    "Terpikat dengan prospek memenangi hadiah itu, dia menghabiskan malam itu mempelajari semua yang dia boleh tentang aplikasi, terma dan syarat serta cabaran aneh ini."
+
+# game/code/recap.rpy:304
+translate malay d08s00_week1synopsis_cc19b596:
+
+    # "A little later that day, he let AmRose know that they were now in the same boat."
+    "Sejurus kemudian hari itu, dia memberitahu AmRose bahawa mereka kini berada dalam situasi yang sama."
+
+# game/code/recap.rpy:386
+translate malay d08s00_week1synopsis_1743400f:
+
+    # "Hana revealed many things, including the fact that she was investigating Fetish Locator and trying to figure out a way to win the prize. She had only slept with Pete to get access to his phone."
+    "Hana mendedahkan banyak perkara, termasuk fakta bahawa dia sedang menyiasat Fetish Locator dan cuba mencari cara untuk memenangi hadiah itu. Dia hanya tidur dengan Pete untuk mendapatkan akses kepada telefonnya."
+

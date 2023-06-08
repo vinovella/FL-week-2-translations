@@ -528,12 +528,6 @@ translate italian d08s07_f2c46bd8:
     # lc "Why didn't you let me try?"
     lc "Perché non hai voluto farmela provare?"
 
-# game/code/d08/d08s07.rpy:170
-translate italian d08s07_d5539daa:
-
-    # mes "It is my diet! I only eat this! You can eat all your food!"
-    mes "Mi serve per la dieta! Ho solo questa per pranzo! Tu puoi mangiare tutto quello che vuoi!"
-
 # game/code/d08/d08s07.rpy:176
 translate italian d08s07_ebf2e3b0:
 
@@ -599,12 +593,6 @@ translate italian d08s07_372577f2:
 
     # mh "{i}It was quite good! Have a ton of work today. It was nice to remember our date yesterday!{/i}"
     mh "{i}Assolutamente sì! Ho un sacco di lavoro da fare oggi: pensare al nostro appuntamento di ieri è stato un break piacevole!{/i}"
-
-# game/code/d08/d08s07.rpy:197
-translate italian d08s07_d425ef01:
-
-    # mc "{i}When do you finish you work?{/i}"
-    mc "{i}Quando finisci di lavorare?{/i}"
 
 # game/code/d08/d08s07.rpy:198
 translate italian d08s07_c3b0119d:
@@ -810,12 +798,6 @@ translate italian d08s07_7862beeb:
     # mc "Yeah. I'm not sure how to put this."
     mc "Sì. Non so bene come spiegarmi."
 
-# game/code/d08/d08s07.rpy:252
-translate italian d08s07_707f1972:
-
-    # mc "Last week was awesome. I had a lot of fun, but best of all I got to talking with you."
-    mc "La scorsa volta è stato fantastica. Mi sono divertito un mondo, ma soprattutto ho avuto modo di parlarti."
-
 # game/code/d08/d08s07.rpy:253
 translate italian d08s07_df5b7e97:
 
@@ -918,12 +900,6 @@ translate italian d08s07_1439cafa:
     # lc "Anyone see any good movies lately?"
     lc "Avete visto qualche bel film di recente?"
 
-# game/code/d08/d08s07.rpy:292
-translate italian d08s07_e1e04952:
-
-    # "Save your game here"
-    "Salva il gioco qui."
-
 translate italian strings:
 
     # game/code/d08/d08s07.rpy:76
@@ -953,3 +929,11 @@ translate italian d08s07_9aa5dd7c:
 
     # mc "Last week was awesome. I had a lot of fun, but best of all... I got to talk with you."
     mc "La scorsa settimana è stata fantastica. Mi sono divertito un mondo, ma soprattutto... sono riuscito a parlare con te."
+# TODO: Translation updated at 2022-11-12 13:27
+
+# game/code/d08/d08s07.rpy:310
+translate italian d08s07_f9a4640e:
+
+    # mct "I don't want to fuck up my chances with the VIP Challenge, but I don't wanna fuck up my chances with Lydia either..."
+    mct "I don't want to fuck up my chances with the VIP Challenge, but I don't wanna fuck up my chances with Lydia either..."
+

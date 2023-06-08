@@ -210,12 +210,6 @@ translate italian d14s18_d5d451b4:
     # dd "Or is it a siren?"
     dd "O una sirena ammaliante?"
 
-# game/code/d14p2/extended/d14s18.rpy:142
-translate italian d14s18_40898f43:
-
-    # ir "From the way she's throwing looks at MC, I'd say the latter. *Chuckles*"
-    ir "Dal modo in cui guarda MC, direi quest’ultima. *Ridendo*"
-
 # game/code/d14p2/extended/d14s18.rpy:152
 translate italian d14s18_5e043a8d:
 

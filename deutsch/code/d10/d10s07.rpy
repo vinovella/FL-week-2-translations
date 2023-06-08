@@ -540,15 +540,3 @@ translate deutsch d10s07_ab1d44c5:
     # mc "A-a-and 50 points for ticket are gone."
     mc "U-u-u-unnd 50 Punkte für das Ticket sind weg."
 
-# game/code/d10/d10s07.rpy:190
-translate deutsch d10s07_485987f5:
-
-    # "Save your game here."
-    "Speichere dein Spiel hier."
-
-# game/code/d10/d10s07.rpy:193
-translate deutsch d10s07_38314715:
-
-    # "We will see you at the party!"
-    "Wir sehen uns auf der Party!"
-

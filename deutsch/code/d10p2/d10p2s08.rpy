@@ -1674,18 +1674,6 @@ translate deutsch d10p2s08_mh_part3_fefe1891:
     # lc "Squizzle is Min, right? Who's Lyssa? I don't think I met her."
     lc "Squizzle ist Min, oder? Wer ist Lyssa? Ich glaube, ich kenne sie nicht."
 
-# game/code/d10p2/d10p2s08.rpy:710
-translate deutsch d10p2s08_mh_part3_5f066d08:
-
-    # mc "You know the tall woman with blue hair that hangs around with Allison?"
-    mc "Kennst du die Frau mit den blauen Haaren, die mit Allison abhängt?"
-
-# game/code/d10p2/d10p2s08.rpy:713
-translate deutsch d10p2s08_mh_part3_69e61b82:
-
-    # lc "Oh yeah! I didn't get to talk to her, but she's incredibly beautiful. {w}Please tell me it was her."
-    lc "Oh ja! Ich hatte keine Chance, mit ihr zu reden, aber sie ist echt schön. {w}Sag mir bitte, dass sie es war."
-
 # game/code/d10p2/d10p2s08.rpy:715
 translate deutsch d10p2s08_mh_part3_2f95b562:
 
@@ -2601,3 +2589,11 @@ translate deutsch d10p2s08_jf_part5_6e27356e:
 
     # mc "URLittlePony was rewarded with a drink from the Trough of Ultimate Sexual Deviancy."
     mc "URLittlePony wurde mit einem Getränk aus dem Trog der Ultimate Sexual Deviancy belohnt."
+# TODO: Translation updated at 2022-11-12 13:25
+
+# game/code/d10p2/d10p2s08.rpy:120
+translate deutsch d10p2s08_47b69fbd:
+
+    # mct "Even knowing that I'd basically be leaving AmRose and Stacy stranded, and giving up on a million dollars?"
+    mct "Even knowing that I'd basically be leaving AmRose and Stacy stranded, and giving up on a million dollars?"
+

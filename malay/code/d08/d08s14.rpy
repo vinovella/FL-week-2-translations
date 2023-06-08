@@ -1378,3 +1378,11 @@ translate malay strings:
     old "Yes, but..."
     new "Ya, tapi..."
 
+# TODO: Translation updated at 2022-11-12 13:32
+
+# game/code/d08/d08s14.rpy:199
+translate malay d08s14_336ce5e2:
+
+    # mc "...But not for the reasons you're thinking of. I'm just not sure it's all it's made out to be."
+    mc "Tapi bukan atas sebab yang awak fikirkan. Saya cuma tidak pasti itu semua hanyalah rekaaan semata-mata."
+

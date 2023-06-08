@@ -1609,3 +1609,17 @@ translate malay strings:
     # game/code/d12/d12s01.rpy:852
     old "No photos"
     new "Tak ada gambar"
+# TODO: Translation updated at 2022-11-12 13:32
+
+# game/code/d12/d12s01.rpy:235
+translate malay d12s01_1b9a042d:
+
+    # mc "And we have a lot to win if I succeed."
+    mc "Dan kami mempunyai banyak untuk menang jika aku berjaya."
+
+# game/code/d12/d12s01.rpy:382
+translate malay d12s01_a2fa2c23:
+
+    # mct "Hmm... Is it related to this VIP challenge?"
+    mct "Hmm... Ada kaitan dengan cabaran VIP ni?"
+

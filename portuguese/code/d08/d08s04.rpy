@@ -528,3 +528,17 @@ translate portuguese replay_d08s04_606e2d02:
     # mc "Sure."
     mc "Beleza."
 
+# TODO: Translation updated at 2022-11-12 13:34
+
+# game/code/d08/d08s04.rpy:53
+translate portuguese d08s04_09e6bb19:
+
+    # mct "There's no way Pete is behind this. Where the hell would he even get a million bucks?"
+    mct "There's no way Pete is behind this. Where the hell would he even get a million bucks?"
+
+# game/code/d08/d08s04.rpy:54
+translate portuguese d08s04_900e258f:
+
+    # mct "Still... He can be resourceful when it comes to getting his dick wet. The faster I get this over with, the better."
+    mct "Still... He can be resourceful when it comes to getting his dick wet. The faster I get this over with, the better."
+

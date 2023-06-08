@@ -927,3 +927,11 @@ translate spanish strings:
     # game/code/d08/d08s07.rpy:77
     old "You're both beautiful"
     new "Las dos son hermosas"
+# TODO: Translation updated at 2022-11-12 13:40
+
+# game/code/d08/d08s07.rpy:310
+translate spanish d08s07_f9a4640e:
+
+    # mct "I don't want to fuck up my chances with the VIP Challenge, but I don't wanna fuck up my chances with Lydia either..."
+    mct "I don't want to fuck up my chances with the VIP Challenge, but I don't wanna fuck up my chances with Lydia either..."
+

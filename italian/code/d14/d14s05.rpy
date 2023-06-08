@@ -714,18 +714,6 @@ translate italian d14s05_3825efb2:
     # mc "Looks like there was some misunderstanding with the bartender.{w} Did you tell her to wear that?"
     mc "Mi sa che c'è stato un fraintendimento con la barlady.{w} Le hai detto tu di vestirsi così?"
 
-# game/code/d14/d14s05.rpy:267
-translate italian d14s05_36cb1d8f:
-
-    # mc "No, did you?"
-    mc "No. Forse tu?"
-
-# game/code/d14/d14s05.rpy:268
-translate italian d14s05_1033e9d1:
-
-    # arj "Of course not."
-    arj "Certo che no."
-
 # game/code/d14/d14s05.rpy:270
 translate italian d14s05_5e5f6cd8:
 
@@ -2093,3 +2081,11 @@ translate italian d14s05_c2eb53da:
 
     # mc "Of course not."
     mc "Certo che no."
+# TODO: Translation updated at 2022-11-12 13:27
+
+# game/code/d14/d14s05.rpy:802
+translate italian d14s05_e89e3635:
+
+    # arj "Well, I really don't want you to lose."
+    arj "Well, I really don't want you to lose."
+

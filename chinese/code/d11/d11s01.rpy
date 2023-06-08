@@ -396,12 +396,6 @@ translate chinese d11s01_17db443b:
     # mc "Yeah... about that..."
     mc "是哈……关于这个……"
 
-# game/code/d11/d11s01.rpy:174
-translate chinese d11s01_424e0d7c:
-
-    # fl "Your task is to have sex with 20 different people by the end of Sunday."
-    fl "你的任务是在周日结束前与20个不同的人做爱。"
-
 # game/code/d11/d11s01.rpy:232
 translate chinese d11s01_6c435a1d_1:
 
@@ -419,12 +413,6 @@ translate chinese d11s01_f88846ef:
 
     # mc "Keep going... Read about the punishment..."
     mc "继续……看关于惩罚的内容……"
-
-# game/code/d11/d11s01.rpy:184
-translate chinese d11s01_92ad8109:
-
-    # fl "If you fail to accomplish this you will be punished with your cock taken away."
-    fl "如果你没能完成此任务，你将受到惩罚，你的老二将不复存在。"
 
 # game/code/d11/d11s01.rpy:247
 translate chinese d11s01_cc233338_1:
@@ -545,3 +533,77 @@ translate chinese d11s01_536d88bc:
 
     # mc "Mmm. Coffee."
     mc "嗯。咖啡啊。"
+# TODO: Translation updated at 2022-11-12 13:18
+
+# game/code/d11/d11s01.rpy:35
+translate chinese d11s01_95292d25:
+
+    # mct "Unsurprisingly, there's a new mention from Fetish Locator's VIP Program."
+    mct "Unsurprisingly, there's a new mention from Fetish Locator's VIP Program."
+
+# game/code/d11/d11s01.rpy:41
+translate chinese d11s01_2ff70196:
+
+    # flr "But the potential reward this time also will be different."
+    flr "But the potential reward this time also will be different."
+
+# game/code/d11/d11s01.rpy:48
+translate chinese d11s01_28ed97c8:
+
+    # flr "If you accomplish this you will be eligible for the grand prize of $$1kk."
+    flr "If you accomplish this you will be eligible for the grand prize of $$1kk."
+
+# game/code/d11/d11s01.rpy:56
+translate chinese d11s01_1d44b4e7:
+
+    # flr "Note that Gold Stars CANNOT be used to complete this task."
+    flr "Note that Gold Stars CANNOT be used to complete this task."
+
+# game/code/d11/d11s01.rpy:81
+translate chinese d11s01_f0f72b5e:
+
+    # mct "What does that reward mean?"
+    mct "What does that reward mean?"
+
+# game/code/d11/d11s01.rpy:87
+translate chinese d11s01_dc72b30a:
+
+    # mct "I will be eligible? Does that mean I get the grand prize or not?"
+    mct "I will be eligible? Does that mean I get the grand prize or not?"
+
+# game/code/d11/d11s01.rpy:88
+translate chinese d11s01_de950b47:
+
+    # mct "Or will I still have to complete additional challenges to win the treasure?"
+    mct "Or will I still have to complete additional challenges to win the treasure?"
+
+# game/code/d11/d11s01.rpy:89
+translate chinese d11s01_ce442908:
+
+    # mct "If I fail am I ineligible for the prize?"
+    mct "If I fail am I ineligible for the prize?"
+
+# game/code/d11/d11s01.rpy:90
+translate chinese d11s01_1a5de442:
+
+    # mct "Why can't it be clear and simple?!"
+    mct "Why can't it be clear and simple?!"
+
+# game/code/d11/d11s01.rpy:243
+translate chinese d11s01_38be3a8d:
+
+    # mc "Keep going... Read about the reward..."
+    mc "Keep going... Read about the reward..."
+
+# game/code/d11/d11s01.rpy:244
+translate chinese d11s01_28ed97c8_1:
+
+    # flr "If you accomplish this you will be eligible for the grand prize of $$1kk."
+    flr "If you accomplish this you will be eligible for the grand prize of $$1kk."
+
+# game/code/d11/d11s01.rpy:251
+translate chinese d11s01_4829437f:
+
+    # arj "What the fuck?? We could win it all?!"
+    arj "What the fuck?? We could win it all?!"
+

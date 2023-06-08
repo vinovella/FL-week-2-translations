@@ -1654,3 +1654,23 @@ translate deutsch strings:
     old "Laugh in Her Face"
     new "Lache sie aus"
 
+# TODO: Translation updated at 2022-11-12 13:25
+
+# game/code/d11/d11s03.rpy:282
+translate deutsch d11s03_4a1f60c6:
+
+    # cl "That you pinned me against the wall and pounded on my backdoor, then later with Min you alternated between pissing on and pussy pounding."
+    cl "That you pinned me against the wall and pounded on my backdoor, then later with Min you alternated between pissing on and pussy pounding."
+
+# game/code/d11/d11s03.rpy:313
+translate deutsch d11s03_f1593ce8:
+
+    # mct "This is almost funny. She thinks she can play me."
+    mct "This is almost funny. She thinks she can play me."
+
+# game/code/d11/d11s03.rpy:679
+translate deutsch d11s03_cb1d4e54:
+
+    # mct "Oh crap! Did she say anything about the VIP Program or the potential reward?"
+    mct "Oh crap! Did she say anything about the VIP Program or the potential reward?"
+

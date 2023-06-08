@@ -186,42 +186,6 @@ translate chinese replay_d13s05_d5153462:
     # nr "Don't worry, I already forgot it."
     nr "别担心，我已经忘了。"
 
-# game/code/d13/d13s05.rpy:135
-translate chinese replay_d13s05_41302107:
-
-    # nr "Speaking of which... {w}I've been thinking about changing my name."
-    nr "说到这个……{w}我一直在考虑改个名字。"
-
-# game/code/d13/d13s05.rpy:138
-translate chinese replay_d13s05_6b1f5dab:
-
-    # nr "Which name do you prefer? Chastity or Chase?"
-    nr "你更喜欢哪个名字？贞洁还是小贞？"
-
-# game/code/d13/d13s05.rpy:143
-translate chinese replay_d13s05_51982b3f:
-
-    # mc "Chastity definitely sounds better."
-    mc "贞洁听起来更好。"
-
-# game/code/d13/d13s05.rpy:148
-translate chinese replay_d13s05_84af4810:
-
-    # mc "Chase definitely sounds better."
-    mc "小贞听起来更好。"
-
-# game/code/d13/d13s05.rpy:152
-translate chinese replay_d13s05_27da25af:
-
-    # lc "I agree."
-    lc "我也这么觉得。"
-
-# game/code/d13/d13s05.rpy:155
-translate chinese replay_d13s05_064920f1:
-
-    # nr "Excellent. Thanks!"
-    nr "完美，多谢！"
-
 # game/code/d13/d13s05.rpy:158
 translate chinese replay_d13s05_5601da0d:
 

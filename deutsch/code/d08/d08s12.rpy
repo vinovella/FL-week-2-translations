@@ -276,12 +276,6 @@ translate deutsch d08s12_pre_mc_action_49089914:
     # mc "I've never done anything like this before..."
     mc "Ich habe so etwas noch nie getan..."
 
-# game/code/d08/d08s12.rpy:166
-translate deutsch d08s12_pre_mc_action_40be50e4:
-
-    # mct "I'm I really gonna do this? I barely even know what the hell I'm supposed to be doing!"
-    mct "Tue ich das wirklich? Ich weiß ja kaum, was zur Hölle ich machen soll!"
-
 # game/code/d08/d08s12.rpy:169
 translate deutsch d08s12_pre_mc_action_b17e9733:
 
@@ -371,12 +365,6 @@ translate deutsch d08s12_deny_07662e23:
 
     # mh "Master. Please! Please may I stroke it?"
     mh "Master. Bitte! Darf ich ihn bitte berühren?"
-
-# game/code/d08/d08s12.rpy:215
-translate deutsch d08s12_deny_7a18c32e:
-
-    # mc "Hm... Be a good girl and make me cum."
-    mc "Hm... Sei ein gutes Mädchen und lass mich kommen."
 
 # game/code/d08/d08s12.rpy:216
 translate deutsch d08s12_deny_e9e9d431:
@@ -719,4 +707,12 @@ translate deutsch d08s12_deny_8b37064c:
 
     # mc "Nope... Be a good girl and make me cum."
     mc "Nope... Sei ein gutes Mädchen und lass mich kommen."
+
+# TODO: Translation updated at 2022-11-12 13:25
+
+# game/code/d08/d08s12.rpy:545
+translate deutsch d08s12_end_ebe54fab:
+
+    # mct "Just going to leave her a little warning about FL's privacy issues. She has more to worry about there than me."
+    mct "Just going to leave her a little warning about FL's privacy issues. She has more to worry about there than me."
 

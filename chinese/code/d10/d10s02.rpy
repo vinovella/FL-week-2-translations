@@ -922,3 +922,11 @@ translate chinese strings:
     old "Ask her if she wants to earn some points"
     new "问她想不想赚点数"
 
+# TODO: Translation updated at 2022-11-12 13:18
+
+# game/code/d10/d10s02.rpy:253
+translate chinese d10s02_warning_dbc3fbdf:
+
+    # mc "Yeah. It's all very suspicious."
+    mc "Yeah. It's all very suspicious."
+

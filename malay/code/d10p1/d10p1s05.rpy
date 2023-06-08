@@ -876,12 +876,6 @@ translate malay d10p1s05_end_a44d0b48:
     # mesfl "And she was on top, so..."
     mesfl "Dan dia berada diatas, jadi..."
 
-# game/code/d10p1/d10p1s05.rpy:491
-translate malay d10p1s05_end_221837fb:
-
-    # mc "So, she spit piss all over him?"
-    mc "Jadi, dia semburkan kencing pada dia?"
-
 # game/code/d10p1/d10p1s05.rpy:493
 translate malay d10p1s05_end_f4cc092a:
 

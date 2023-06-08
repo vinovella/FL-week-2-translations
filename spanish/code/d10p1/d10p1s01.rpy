@@ -840,12 +840,6 @@ translate spanish d10p1s01_02d93ac8:
     # mesfl "Are you sure you can remember that?"
     mesfl "¿Estás seguro de que puedes recordarlo?"
 
-# game/code/d10p1/d10p1s01.rpy:229
-translate spanish d10p1s01_b8630140:
-
-    # mc "Yep. I can remember [mc_safeword]..."
-    mc "Sí. Puedo recordar [mc_safeword]..."
-
 # game/code/d10p1/d10p1s01.rpy:230
 translate spanish d10p1s01_7c4103c2:
 
@@ -1281,3 +1275,11 @@ translate spanish d10p1s01_7e7578d2:
 
     # mc "Yep. I can remember [mc_safeword!t]..."
     mc "Sí. Puedo recordar [mc_safeword!t]..."
+# TODO: Translation updated at 2022-11-12 13:40
+
+# game/code/d10p1/d10p1s01.rpy:375
+translate spanish d10p1s01_427f0b81:
+
+    # mct "I think I recognize that girl. Is that Hana's girlfriend?"
+    mct "I think I recognize that girl. Is that Hana's girlfriend?"
+

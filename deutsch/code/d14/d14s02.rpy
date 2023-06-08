@@ -389,3 +389,35 @@ translate deutsch d14s02_09879994:
 
     # sy "Aarghhh..."
     sy "Aarghhh..."
+# TODO: Translation updated at 2022-11-12 13:25
+
+# game/code/d14/d14s02.rpy:105
+translate deutsch d14s02_6869e014:
+
+    # mc "Tells me that I'm gonna fail the challenge, and that the only way to win is to not play."
+    mc "Tells me that I'm gonna fail the challenge, and that the only way to win is to not play."
+
+# game/code/d14/d14s02.rpy:110
+translate deutsch d14s02_bf7c2b0c:
+
+    # mc "And then she's like \"You won't lose if I take your dick first muahaha!\" and then brings out this huge fuck off pair of scissors from God knows where and goes to chop off my dick."
+    mc "And then she's like \"You won't lose if I take your dick first muahaha!\" and then brings out this huge fuck off pair of scissors from God knows where and goes to chop off my dick."
+
+# game/code/d14/d14s02.rpy:199
+translate deutsch d14s02_5602733c:
+
+    # arj "Hey, we're gonna get this prize. And you're gonna complete your challenge."
+    arj "Hey, we're gonna get this prize. And you're gonna complete your challenge."
+
+# game/code/d14/d14s02.rpy:200
+translate deutsch d14s02_9f898f54:
+
+    # arj "If some crazy succubus wants your dick, she will have to go through me first."
+    arj "If some crazy succubus wants your dick, she will have to go through me first."
+
+# game/code/d14/d14s02.rpy:356
+translate deutsch d14s02_df770e8e:
+
+    # sy "In and out in 5 minutes top 'cause, unlike you, I have a work ethic and a desire to win this thing."
+    sy "In and out in 5 minutes top 'cause, unlike you, I have a work ethic and a desire to win this thing."
+

@@ -396,12 +396,6 @@ translate malay d11s01_17db443b:
     # mc "Yeah... about that..."
     mc "Yeah... pasal itu..."
 
-# game/code/d11/d11s01.rpy:211
-translate malay d11s01_424e0d7c:
-
-    # fl "Your task is to have sex with 20 different people by the end of Sunday."
-    fl "Tugas anda ialah melakukan hubungan seks dengan 20 orang yang berbeza menjelang akhir Ahad."
-
 # game/code/d11/d11s01.rpy:232
 translate malay d11s01_6c435a1d_1:
 
@@ -419,12 +413,6 @@ translate malay d11s01_f88846ef:
 
     # mc "Keep going... Read about the punishment..."
     mc "Teruskan ... Baca tentang hukuman ..."
-
-# game/code/d11/d11s01.rpy:222
-translate malay d11s01_92ad8109:
-
-    # fl "If you fail to accomplish this you will be punished with your cock taken away."
-    fl "Sekiranya anda gagal mencapainya, anda akan dihukum dengan kote anda \"dihapuskan\"."
 
 # game/code/d11/d11s01.rpy:247
 translate malay d11s01_cc233338_1:
@@ -526,7 +514,7 @@ translate malay d11s01_f349599f:
 translate malay d11s01_812abc04:
 
     # arj "Sure! Okay!"
-    arj "Sure! Okay!"
+    arj "Baiklah! Okay!"
 
 # game/code/d11/d11s01.rpy:263
 translate malay d11s01_9696cc87:
@@ -545,4 +533,78 @@ translate malay d11s01_536d88bc:
 
     # mc "Mmm. Coffee."
     mc "Mmm. Kopi."
+
+# TODO: Translation updated at 2022-11-12 13:32
+
+# game/code/d11/d11s01.rpy:35
+translate malay d11s01_95292d25:
+
+    # mct "Unsurprisingly, there's a new mention from Fetish Locator's VIP Program."
+    mct "Tidak menghairankan, terdapat sebutan baharu daripada Program VIP Fetish Locator."
+
+# game/code/d11/d11s01.rpy:41
+translate malay d11s01_2ff70196:
+
+    # flr "But the potential reward this time also will be different."
+    flr "Tetapi potensi ganjaran kali ini juga berbeza."
+
+# game/code/d11/d11s01.rpy:48
+translate malay d11s01_28ed97c8:
+
+    # flr "If you accomplish this you will be eligible for the grand prize of $$1kk."
+    flr "Jika anda mencapai ini, anda akan layak mendapat hadiah utama $$1kk."
+
+# game/code/d11/d11s01.rpy:56
+translate malay d11s01_1d44b4e7:
+
+    # flr "Note that Gold Stars CANNOT be used to complete this task."
+    flr "Bintang Emas TIDAK BOLEH digunakan untuk menyelesaikan tugasan ini."
+
+# game/code/d11/d11s01.rpy:81
+translate malay d11s01_f0f72b5e:
+
+    # mct "What does that reward mean?"
+    mct "Apa maksud ganjaran itu?"
+
+# game/code/d11/d11s01.rpy:87
+translate malay d11s01_dc72b30a:
+
+    # mct "I will be eligible? Does that mean I get the grand prize or not?"
+    mct "Saya akan layak? Adakah itu bermakna saya mendapat hadiah utama atau tidak?"
+
+# game/code/d11/d11s01.rpy:88
+translate malay d11s01_de950b47:
+
+    # mct "Or will I still have to complete additional challenges to win the treasure?"
+    mct "Atau adakah saya masih perlu menyelesaikan cabaran tambahan untuk memenangi harta karun itu?"
+
+# game/code/d11/d11s01.rpy:89
+translate malay d11s01_ce442908:
+
+    # mct "If I fail am I ineligible for the prize?"
+    mct "Jika saya gagal adakah saya tidak layak untuk hadiah itu?"
+
+# game/code/d11/d11s01.rpy:90
+translate malay d11s01_1a5de442:
+
+    # mct "Why can't it be clear and simple?!"
+    mct "Kenapa ia tidak boleh jelas dan mudah?!"
+
+# game/code/d11/d11s01.rpy:243
+translate malay d11s01_38be3a8d:
+
+    # mc "Keep going... Read about the reward..."
+    mc "Teruskan... Baca tentang ganjarannya..."
+
+# game/code/d11/d11s01.rpy:244
+translate malay d11s01_28ed97c8_1:
+
+    # flr "If you accomplish this you will be eligible for the grand prize of $$1kk."
+    flr "Jika anda mencapai ini, anda akan layak mendapat hadiah utama $$1kk."
+
+# game/code/d11/d11s01.rpy:251
+translate malay d11s01_4829437f:
+
+    # arj "What the fuck?? We could win it all?!"
+    arj "Apakah? Kita boleh menang semuanya?!"
 

@@ -12,17 +12,6 @@ translate spanish prologue_fresh_start_1b390ae3:
     # "In the second chapter of this visual novel, you will continue playing as a young college student and you'll explore love, lust and sexual fetishes with the hottest women in town."
     "En el segundo capítulo de esta novela visual, seguirás jugando como un joven estudiante universitario y explorarás el amor, la lujuria y los fetiches sexuales con las mujeres más calientes de la ciudad."
 
-# game/code/d08/prologue.rpy:61
-translate spanish prologue_fresh_start_1aa77e92:
-
-    # "We see that you have already completed the first chapter. If you want to keep playing with all your game progress intact, open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/b6CNu2C}Discord{/a}."
-    "Vemos que ya ha completado el primer capítulo. Si quieres seguir jugando con todo el progreso del juego intacto, abre el menú, haz clic en \"Continuar desde la semana [FLSS.week.prev]\" y carga un guardado.\nSi tienes algún problema, por favor contáctanos en {a=https://discord.gg/b6CNu2C}Discord{/a}."
-# game/code/d08/prologue.rpy:63
-translate spanish prologue_fresh_start_16da65c2:
-
-    # "We see that you have already completed the first chapter. If you want to keep playing with all your game progress intact, open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/b6CNu2C}Discord{/a} or on {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
-    "Vemos que ya ha completado el primer capítulo. Si quieres seguir jugando con todo el progreso del juego intacto, abre el menú, haz clic en \"Continuar desde la semana [FLSS.week.prev]\" y carga un guardado.\nSi tienes algún problema, por favor contáctanos en {a=https://discord.gg/b6CNu2C}Discord{/a} o en {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
-
 # game/code/d08/prologue.rpy:64
 translate spanish prologue_fresh_start_56a763ee:
 
@@ -59,12 +48,6 @@ translate spanish prologue_girls_set_1_3502c4fc:
     # "In the first week you met several beautiful girls: some can be friends with benefits or even potential love interests.\n\nClick on their portraits to select them. When finished press \"Done\"."
     "En la primera semana conociste a varias chicas hermosas: algunas pueden ser amigas con beneficios o incluso potenciales intereses amorosos.\n\nHaga clic en sus retratos para seleccionarlas. Cuando termine, pulse en \"Hecho\"."
 
-# game/code/d08/prologue.rpy:117
-translate spanish prologue_girls_set_1_done_922f3b6c:
-
-    # "Stacy is going to move to your college and you have found a nice apartment for her. The owner is Lyssa (you are going to meet her next).\n\nWhat do you propose to her?"
-    "Stacy se va a mudar a tu universidad y tú has encontrado un bonito apartamento para ella. La dueña es Lyssa (la conocerás en pronto).\n\n¿Qué le propones?"
-
 # game/code/d08/prologue.rpy:132
 translate spanish prologue_girls_set_2_cd61a75b:
 
@@ -88,12 +71,6 @@ translate spanish prologue_girls_set_3_done_7582b991:
 
     # "Into femdom, eh?\nOK, if your Mistress ordered to adore her body right now, which part would you focus on?"
     "¿Te gusta femdom, eh?\nOK, si tu Ama ordenara adorar su cuerpo ahora mismo, ¿en qué parte te centrarías?"
-
-# game/code/d08/prologue.rpy:175
-translate spanish prologue_fetishes_4cc3c0e4:
-
-    # "And now it's time to choose your fetishes.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many fetishes as you want and press \"Done\"."
-    "Y ahora es el momento de elegir tus fetiches.\nNo te preocupes si tu perversión favorita no está en la lista: ¡Fetish Locator acaba de empezar!\nEscoge tantos fetiches como quieras y pulsa \"Hecho\"."
 
 # game/code/d08/prologue.rpy:183
 translate spanish prologue_finalize_b8dc714d:
@@ -208,3 +185,22 @@ translate spanish prologue_fetishes_7bc3a4e5:
     # "It's time to choose your preferences.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many as you want and press \"Done\"."
     "It's time to choose your preferences.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many as you want and press \"Done\"."
 
+# TODO: Translation updated at 2022-11-12 13:40
+
+# game/code/d08/prologue.rpy:67
+translate spanish prologue_fresh_start_ab0acec6:
+
+    # "We see that you have already completed the first chapter. If you want to keep playing with all your game progress intact, open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a}."
+    "Vemos que ya ha completado el primer capítulo. Si quieres seguir jugando con todo el progreso del juego intacto, abre el menú, haz clic en \"Continuar desde la semana [FLSS.week.prev]\" y carga un guardado.\nSi tienes algún problema, por favor contáctanos en {a=https://discord.gg/efmQRNtFks}Discord{/a}."
+
+# game/code/d08/prologue.rpy:69
+translate spanish prologue_fresh_start_d7ab3300:
+
+    # "We see that you have already completed the first chapter. If you want to keep playing with all your game progress intact, open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} or on {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
+    "Vemos que ya ha completado el primer capítulo. Si quieres seguir jugando con todo el progreso del juego intacto, abre el menú, haz clic en \"Continuar desde la semana [FLSS.week.prev]\" y carga un guardado.\nSi tienes algún problema, por favor contáctanos en {a=https://discord.gg/efmQRNtFks}Discord{/a} o en {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
+
+# game/code/d08/prologue.rpy:80
+translate spanish prologue_fresh_start_5b4c2953:
+
+    # "You are {b}[mcname]{/b} and your Fetish Locator user name is {b}[mclogin]{/b}."
+    "You are {b}[mcname]{/b} and your Fetish Locator user name is {b}[mclogin]{/b}."

@@ -921,3 +921,11 @@ translate deutsch strings:
     # game/code/d10/d10s02.rpy:137
     old "Ask her if she wants to earn some points"
     new "Frag sie, ob sie sich ein paar Punkte verdienen möchte"
+# TODO: Translation updated at 2022-11-12 13:25
+
+# game/code/d10/d10s02.rpy:253
+translate deutsch d10s02_warning_dbc3fbdf:
+
+    # mc "Yeah. It's all very suspicious."
+    mc "Yeah. It's all very suspicious."
+

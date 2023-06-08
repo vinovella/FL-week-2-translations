@@ -672,12 +672,6 @@ translate chinese d10p2s04_dwmc_dickslap_fed03ca2:
     # mc "Ah!"
     mc "啊！"
 
-# game/code/d10p2/d10p2s04-dw.rpy:471
-translate chinese d10p2s04_dwmc_dickslap_7f1d462f:
-
-    # mc "[mc_safeword]!"
-    mc "[mc_safeword]!"
-
 # game/code/d10p2/d10p2s04-dw.rpy:479
 translate chinese d10p2s04_dwmc_dickslap_ea46bf5e:
 

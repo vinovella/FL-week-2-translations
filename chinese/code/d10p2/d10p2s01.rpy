@@ -132,23 +132,11 @@ translate chinese d10p2s01_5705689d:
     # mc "Uh, what?"
     mc "呃，什么？"
 
-# game/code/d10p2/d10p2s01.rpy:95
-translate chinese d10p2s01_25a3316b:
-
-    # dd "Oh! Wait! I forgot something. {w}Can we do this later?"
-    dd "哦！等等！我忘了一件事。{w}我们能晚点再谈吗？"
-
 # game/code/d10p2/d10p2s01.rpy:96
 translate chinese d10p2s01_76cbe5f4:
 
     # mc "Umm...{w} sure."
     mc "呃……{w}当然可以。"
-
-# game/code/d10p2/d10p2s01.rpy:97
-translate chinese d10p2s01_524f0d0b:
-
-    # dd "Terrific! I'll find you."
-    dd "太好了！我去找你。"
 
 # game/code/d10p2/d10p2s01.rpy:122
 translate chinese d10p2s01_event_menu_f4e55bee:
@@ -743,12 +731,6 @@ translate chinese replay_d10p2s01_00377d23:
 
     # arjfl "Will do!"
     arjfl "好的！"
-
-# game/code/d10p2/d10p2s01.rpy:111
-translate chinese d10p2s01_e91fa22a:
-
-    # dd "Just come outside will be waiting for you there!"
-    dd "出来吧，我就在外面等你！"
 
 # game/code/d10p2/d10p2s01.rpy:113
 translate chinese d10p2s01_6112aeb1:

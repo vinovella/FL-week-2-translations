@@ -198,12 +198,6 @@ translate chinese d13s07_c92f1c01:
     # mc "It was pretty clear that the receptionist and manager were looking for bribes, but they had screwed up royally."
     mc "很明显，前台和经理想趁机捞一笔，但他们把事情搞砸了。"
 
-# game/code/d13/d13s07.rpy:123
-translate chinese d13s07_96603a07:
-
-    # mc "I told the manager this story about newlyweds getting extorted on their honeymoon, named dropped a couple of travel magazines that might run the story, and then gave him an out."
-    mc "我把这对新婚夫妇在度蜜月时被敲诈的事告诉了经理，扔了几本本来可以刊登整件事的旅游杂志，给了他一个机会。"
-
 # game/code/d13/d13s07.rpy:126
 translate chinese d13s07_006c1cad:
 

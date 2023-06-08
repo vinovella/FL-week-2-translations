@@ -132,42 +132,6 @@ translate deutsch d08s01_af3d94dd:
     # mct "Nah, too risky with Stacy around."
     mct "Nah, zu gefährlich mit Stacy hier."
 
-# game/code/d08/d08s01.rpy:70
-translate deutsch d08s01_8a7eb859:
-
-    # mct "Speak of the devil and she shall appear."
-    mct "Wenn man vom Teufel spricht."
-
-# game/code/d08/d08s01.rpy:73
-translate deutsch d08s01_f74029b7:
-
-    # sy "Oops! Sorry."
-    sy "Oops! Sorry."
-
-# game/code/d08/d08s01.rpy:84
-translate deutsch d08s01_5aa5acd8:
-
-    # mct "She is doing it again!"
-    mct "Sie tut es schon wieder!"
-
-# game/code/d08/d08s01.rpy:86
-translate deutsch d08s01_bbfb9223:
-
-    # mct "But now we are not back home! AmRose is close!"
-    mct "Aber jetzt sind wir wieder zuhause! AmRose ist nah!"
-
-# game/code/d08/d08s01.rpy:91
-translate deutsch d08s01_95ba79f5:
-
-    # mc "No, go wait your turn. I'll be quick."
-    mc "Nein, warte bis du dran bist. Ich beeile mich."
-
-# game/code/d08/d08s01.rpy:103
-translate deutsch d08s01_solo_2eee624b:
-
-    # mct "It is for the best."
-    mct "Es ist für das beste."
-
 # game/code/d08/d08s01.rpy:108
 translate deutsch d08s01_bathe_14b03a2d:
 
@@ -324,23 +288,11 @@ translate deutsch d08s01_bathe_1850262c:
     # sy "If you break her heart, well... {w}I'm sure you can imagine."
     sy "Wenn du ihr Herz brichst, tja... {w}Du kannst es dir bestimmt vorstellen."
 
-# game/code/d08/d08s01.rpy:180
-translate deutsch d08s01_bathe_8dc8bf2c:
-
-    # mct "Oh! She is squizing my balls!"
-    mct "Oh! Sie zerquetscht meine Eier"
-
 # game/code/d08/d08s01.rpy:181
 translate deutsch d08s01_bathe_dd0a5092:
 
     # sy "You don't want to disappoint me."
     sy "Du willst mich nicht entäuschen."
-
-# game/code/d08/d08s01.rpy:182
-translate deutsch d08s01_bathe_1951595e:
-
-    # sy "You want to AmRose to be happy... {w}and so do I."
-    sy "Du möchtest, dass AmRose glücklich ist... {w}und das will ich auch."
 
 # game/code/d08/d08s01.rpy:185
 translate deutsch d08s01_bathe_47bbd1e5:

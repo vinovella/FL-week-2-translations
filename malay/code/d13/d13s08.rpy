@@ -468,12 +468,6 @@ translate malay replay_d13s08_ab277d43:
     # vw "You're too damn slick for your own good, young man."
     vw "Kau terlalu licik untuk kebaikan kau sendiri."
 
-# game/code/d13/d13s08.rpy:369
-translate malay replay_d13s08_5eaa7d8c:
-
-    # vw "I need clean for a bit. I will be back in a moment."
-    vw "Aku nak bersihkan diri aku sekejap. Nanti aku datang balik."
-
 # game/code/d13/d13s08.rpy:371
 translate malay replay_d13s08_0639cb8a:
 

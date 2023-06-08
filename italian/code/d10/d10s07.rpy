@@ -540,15 +540,3 @@ translate italian d10s07_ab1d44c5:
     # mc "A-a-and 50 points for ticket are gone."
     mc "E... i cinquanta punti per il biglietto d'ingresso sono andati."
 
-# game/code/d10/d10s07.rpy:190
-translate italian d10s07_485987f5:
-
-    # "Save your game here."
-    "Salva il gioco qui"
-
-# game/code/d10/d10s07.rpy:193
-translate italian d10s07_38314715:
-
-    # "We will see you at the party!"
-    "Ci vediamo al party!"
-

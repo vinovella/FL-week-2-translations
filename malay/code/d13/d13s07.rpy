@@ -198,12 +198,6 @@ translate malay d13s07_c92f1c01:
     # mc "It was pretty clear that the receptionist and manager were looking for bribes, but they had screwed up royally."
     mc "Agak jelas yang penyambut tetamu dan pengurus sedang mencari rasuah, tapi mereka tak berjaya."
 
-# game/code/d13/d13s07.rpy:81
-translate malay d13s07_96603a07:
-
-    # mc "I told the manager this story about newlyweds getting extorted on their honeymoon, named dropped a couple of travel magazines that might run the story, and then gave him an out."
-    mc "Aku beritahu pengurus kisah ini tentang pengantin baru yang diperas pada bulan madu mereka, menamakan beberapa majalah pelancongan yang mungkin menyiarkan cerita itu, jike dia tak mahu itu berlaku dia kena buat sesuatu."
-
 # game/code/d13/d13s07.rpy:83
 translate malay d13s07_006c1cad:
 

@@ -26,3 +26,15 @@ translate malay strings:
     old "The game will try to replay the scene\naccording to your current playthrough"
     new "Permainan ini akan cuba memainkan semula adegan\nmengikut perkembangan permainan anda"
 
+# TODO: Translation updated at 2022-11-12 13:32
+
+translate malay strings:
+
+    # game/code/functions.rpy:269
+    old "You can only select two out of Min, Lyssa and Maria"
+    new "Anda hanya boleh memilih dua daripada Min, Lyssa dan Maria"
+
+    # game/code/functions.rpy:271
+    old "You can only select one out of Daisy and Dahlia"
+    new "Anda hanya boleh memilih satu daripada Daisy dan Dahlia"
+

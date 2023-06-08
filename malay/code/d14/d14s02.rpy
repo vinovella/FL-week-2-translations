@@ -390,3 +390,35 @@ translate malay d14s02_09879994:
     # sy "Aarghhh..."
     sy "Aarghhh..."
 
+# TODO: Translation updated at 2022-11-12 13:32
+
+# game/code/d14/d14s02.rpy:105
+translate malay d14s02_6869e014:
+
+    # mc "Tells me that I'm gonna fail the challenge, and that the only way to win is to not play."
+    mc "Beritahu aku yang aku akan gagal dalam cabaran, dan satu-satunya cara untuk menang adalah dengan tidak bermain."
+
+# game/code/d14/d14s02.rpy:110
+translate malay d14s02_bf7c2b0c:
+
+    # mc "And then she's like \"You won't lose if I take your dick first muahaha!\" and then brings out this huge fuck off pair of scissors from God knows where and goes to chop off my dick."
+    mc "Dan kemudian dia seperti \"Kau tak akan kalah jika aku mengambil kote dahulu muahaha!\" dan kemudian mengeluarkan sepasang gunting besar ini dan pergi untuk memotong kote aku."
+
+# game/code/d14/d14s02.rpy:199
+translate malay d14s02_5602733c:
+
+    # arj "Hey, we're gonna get this prize. And you're gonna complete your challenge."
+    arj "Hey, kita akan dapat hadiah ini. Dan kau akan melengkapkan cabaran kau."
+
+# game/code/d14/d14s02.rpy:200
+translate malay d14s02_9f898f54:
+
+    # arj "If some crazy succubus wants your dick, she will have to go through me first."
+    arj "Jika setan gila nak kote kau, dia kena langkah mayat aku dulu."
+
+# game/code/d14/d14s02.rpy:356
+translate malay d14s02_df770e8e:
+
+    # sy "In and out in 5 minutes top 'cause, unlike you, I have a work ethic and a desire to win this thing."
+    sy "Masuk dan keluar dalam 5 minit, sebab tak macamkau, aku ada etika kerja dan keinginan untuk memenangi perkara ini."
+

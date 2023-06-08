@@ -1377,3 +1377,11 @@ translate spanish strings:
     # game/code/d08/d08s14.rpy:152
     old "Yes, but..."
     new "Sí, pero..."
+# TODO: Translation updated at 2022-11-12 13:40
+
+# game/code/d08/d08s14.rpy:199
+translate spanish d08s14_336ce5e2:
+
+    # mc "...But not for the reasons you're thinking of. I'm just not sure it's all it's made out to be."
+    mc "...But not for the reasons you're thinking of. I'm just not sure it's all it's made out to be."
+

@@ -1378,3 +1378,11 @@ translate portuguese strings:
     old "Yes, but..."
     new "Sim, mas..."
 
+# TODO: Translation updated at 2022-11-12 13:34
+
+# game/code/d08/d08s14.rpy:199
+translate portuguese d08s14_336ce5e2:
+
+    # mc "...But not for the reasons you're thinking of. I'm just not sure it's all it's made out to be."
+    mc "...But not for the reasons you're thinking of. I'm just not sure it's all it's made out to be."
+

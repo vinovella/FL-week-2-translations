@@ -222,48 +222,6 @@ translate deutsch d10p1s06_08a67d40:
     # mc "Sounds like an awesome job."
     mc "Klingt nach einem tollen Job."
 
-# game/code/d10p1/d10p1s06.rpy:80
-translate deutsch d10p1s06_8c882fb3:
-
-    # ir "It is. {w}Oh, jeez. Sorry. You were trying to leave and then I dragged you into another conversation."
-    ir "Ist es. {w}Oh, Mann. Sorry. Du wolltest gehen und ich habe dich in ein neues Gespräch mit reingezogen."
-
-# game/code/d10p1/d10p1s06.rpy:81
-translate deutsch d10p1s06_228e2917:
-
-    # mc "Eh, there's no rush. {w}If I can't take a couple minutes to talk with a cute girl, what's the point?"
-    mc "Ach, keine Eile. {w}Wenn ich nichtmal ein paar Minuten mit einem süßen Mädchen reden kann, wo bleibt denn da der Sinn?"
-
-# game/code/d10p1/d10p1s06.rpy:82
-translate deutsch d10p1s06_4cee5ab5:
-
-    # ir "...{i}Exactly{/i}. It's not like you come across girls {i}this{/i} cute every day, right? {w}So would you mind helping me ou—?"
-    ir "...{i}Genau{/i}. Ist ja nicht so, als würdest du jeden Tag auf {i}so{/i} süße Mädchen treffen, oder? {w}Könntest du mir also helfe—?"
-
-# game/code/d10p1/d10p1s06.rpy:83
-translate deutsch d10p1s06_71e9a5f2:
-
-    # mc "Oh man, gosh darn, I sure would love to, but can't keep my fans waiting y'know."
-    mc "Oh Mann, ich würde liebend gerne aber ich kann meine Fans nicht warten lassen."
-
-# game/code/d10p1/d10p1s06.rpy:85
-translate deutsch d10p1s06_cd28c1d5:
-
-    # ir "Right, right."
-    ir "Richtig, richtig."
-
-# game/code/d10p1/d10p1s06.rpy:86
-translate deutsch d10p1s06_7a79f708:
-
-    # ir "Catch ya' around, [mcname]."
-    ir "Bis dann, [mcname]."
-
-# game/code/d10p1/d10p1s06.rpy:87
-translate deutsch d10p1s06_7e37ff87:
-
-    # mc "Same. Later, Iona."
-    mc "Bis dann, Iona."
-
 # game/code/d10p1/d10p1s06.rpy:99
 translate deutsch replay_d10p1s06_00611834:
 

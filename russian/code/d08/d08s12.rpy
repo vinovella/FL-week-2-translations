@@ -706,3 +706,11 @@ translate russian strings:
     old "It is your turn now"
     new "Теперь твоя очередь"
 
+# TODO: Translation updated at 2022-11-12 13:38
+
+# game/code/d08/d08s12.rpy:545
+translate russian d08s12_end_ebe54fab:
+
+    # mct "Just going to leave her a little warning about FL's privacy issues. She has more to worry about there than me."
+    mct "Just going to leave her a little warning about FL's privacy issues. She has more to worry about there than me."
+

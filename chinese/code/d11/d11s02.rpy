@@ -12,12 +12,6 @@ translate chinese d11s02_24f54309:
     # mc "Ah, the unavoidable mixture of terror and boredom every day that I find myself in this classroom."
     mc "啊，我发现自己每天在这个教室里，永远都觉得恐惧和无聊。"
 
-# game/code/d11/d11s02.rpy:33
-translate chinese d11s02_bcd2a1d5:
-
-    # arj "Just a few more days... a week and a half until finals."
-    arj "再过几天……离期末考试还有一周半。"
-
 # game/code/d11/d11s02.rpy:34
 translate chinese d11s02_08e721f5:
 
@@ -755,12 +749,6 @@ translate chinese d11s02_6583f6b1:
 
     # mesfl "It's a very special something attached to a very special someone."
     mesfl "是件很特别的东西，属于一个相当特别的人。"
-
-# game/code/d11/d11s02.rpy:277
-translate chinese d11s02_01081e86:
-
-    # mc "Stop. Tomato Juice. [mc_safeword]. Halt."
-    mc "停。番茄汁。[mc_safeword]。停。"
 
 # game/code/d11/d11s02.rpy:279
 translate chinese d11s02_05977308:

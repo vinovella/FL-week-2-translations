@@ -817,3 +817,29 @@ translate italian strings:
     # game/code/d12/d12s02.rpy:278
     old "Do it (spend [d12_cost_of_blitz] points)"
     new "Lo fai (consumi [d12_cost_of_blitz] punti)"
+# TODO: Translation updated at 2022-11-12 13:27
+
+# game/code/d12/d12s02.rpy:327
+translate italian d12s02_52f7b26f:
+
+    # mct "New VIP challenge. Fuck 20 girls by Sunday. If succeed, could win the whole game."
+    mct "New VIP challenge. Fuck 20 girls by Sunday. If succeed, could win the whole game."
+
+# game/code/d12/d12s02.rpy:350
+translate italian d12s02_facf8920:
+
+    # "Really? How many so far?"
+    "Really? How many so far?"
+
+# game/code/d12/d12s02.rpy:356
+translate italian d12s02_5e5a4749:
+
+    # mct "Yes. [fl_w2_sex_count]."
+    mct "Yes. [fl_w2_sex_count]."
+
+# game/code/d12/d12s02.rpy:379
+translate italian d12s02_376320a3:
+
+    # mct "Should I? If Hana goes for it, that'll be plus one fuck for the VIP challenge."
+    mct "Should I? If Hana goes for it, that'll be plus one fuck for the VIP challenge."
+

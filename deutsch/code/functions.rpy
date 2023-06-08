@@ -33,3 +33,15 @@ translate deutsch strings:
     # game/code/functions.rpy:16
     old "New character unlocked in the pool"
     new "Neuer Charakter im Pool freigeschaltet"
+# TODO: Translation updated at 2022-11-12 13:25
+
+translate deutsch strings:
+
+    # game/code/functions.rpy:269
+    old "You can only select two out of Min, Lyssa and Maria"
+    new "You can only select two out of Min, Lyssa and Maria"
+
+    # game/code/functions.rpy:271
+    old "You can only select one out of Daisy and Dahlia"
+    new "You can only select one out of Daisy and Dahlia"
+

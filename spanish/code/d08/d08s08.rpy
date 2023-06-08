@@ -467,3 +467,11 @@ translate spanish d08s08_2fff4bf6:
 
     # mc "Take it easy, and hey...{w} Thanks for trying."
     mc "Tómalo con calma, y hey... {w} Gracias por intentarlo."
+# TODO: Translation updated at 2022-11-12 13:40
+
+# game/code/d08/d08s08.rpy:11
+translate spanish d08s08_3098df80:
+
+    # mct "\"Hi... I'm kinda, sorta your boyfriend, but I gotta be able to boink anything to win a million dollars.\""
+    mct "\"Hi... I'm kinda, sorta your boyfriend, but I gotta be able to boink anything to win a million dollars.\""
+

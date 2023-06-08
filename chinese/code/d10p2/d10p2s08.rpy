@@ -1674,18 +1674,6 @@ translate chinese d10p2s08_mh_part3_fefe1891:
     # lc "Squizzle is Min, right? Who's Lyssa? I don't think I met her."
     lc "斯奎兹就是明吧？丽莎是谁？我好像没有见过她。"
 
-# game/code/d10p2/d10p2s08.rpy:584
-translate chinese d10p2s08_mh_part3_5f066d08:
-
-    # mc "You know the tall woman with blue hair that hangs around with Allison?"
-    mc "你知道和艾莉森在一起的那个蓝头发高个子女人吗？"
-
-# game/code/d10p2/d10p2s08.rpy:586
-translate chinese d10p2s08_mh_part3_69e61b82:
-
-    # lc "Oh yeah! I didn't get to talk to her, but she's incredibly beautiful. {w}Please tell me it was her."
-    lc "哦，是啊! 我没和她说话，但她真漂亮。{w}希望你说的是她吧。"
-
 # game/code/d10p2/d10p2s08.rpy:588
 translate chinese d10p2s08_mh_part3_2f95b562:
 
@@ -2601,3 +2589,11 @@ translate chinese d10p2s08_jf_part5_6e27356e:
 
     # mc "URLittlePony was rewarded with a drink from the Trough of Ultimate Sexual Deviancy."
     mc "你的小马驹被奖励了一杯终极性变态谷的喝的。"
+# TODO: Translation updated at 2022-11-12 13:18
+
+# game/code/d10p2/d10p2s08.rpy:120
+translate chinese d10p2s08_47b69fbd:
+
+    # mct "Even knowing that I'd basically be leaving AmRose and Stacy stranded, and giving up on a million dollars?"
+    mct "Even knowing that I'd basically be leaving AmRose and Stacy stranded, and giving up on a million dollars?"
+

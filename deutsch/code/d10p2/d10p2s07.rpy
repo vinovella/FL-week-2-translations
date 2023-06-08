@@ -1,11 +1,5 @@
 # TODO: Translation updated at 2021-04-10 22:31
 
-# game/code/d10p2/d10p2s07.rpy:7
-translate deutsch d10p2s07_b7b7542f:
-
-    # mct "Mi... Squizzle told me to go 2-nd floor bedroom..."
-    mct "Mi... Squizzle meinte, ich soll ins Schlafzimmer im zweiten Stock gehen..."
-
 # game/code/d10p2/d10p2s07.rpy:11
 translate deutsch d10p2s07_08f2922a:
 

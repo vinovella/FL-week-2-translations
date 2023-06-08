@@ -714,18 +714,6 @@ translate deutsch d14s05_3825efb2:
     # mc "Looks like there was some misunderstanding with the bartender.{w} Did you tell her to wear that?"
     mc "Sieht so aus als hätte es ein Missverständnis mit der Barkeeperin gegeben. {w} Hast du ihr gesagt, dass sie das tragen soll?"
 
-# game/code/d14/d14s05.rpy:267
-translate deutsch d14s05_36cb1d8f:
-
-    # mc "No, did you?"
-    mc "Nein, du?"
-
-# game/code/d14/d14s05.rpy:268
-translate deutsch d14s05_1033e9d1:
-
-    # arj "Of course not."
-    arj "Natürlich nicht."
-
 # game/code/d14/d14s05.rpy:270
 translate deutsch d14s05_5e5f6cd8:
 
@@ -2094,3 +2082,11 @@ translate deutsch d14s05_c2eb53da:
 
     # mc "Of course not."
     mc "Natürlich nicht."
+# TODO: Translation updated at 2022-11-12 13:25
+
+# game/code/d14/d14s05.rpy:802
+translate deutsch d14s05_e89e3635:
+
+    # arj "Well, I really don't want you to lose."
+    arj "Well, I really don't want you to lose."
+

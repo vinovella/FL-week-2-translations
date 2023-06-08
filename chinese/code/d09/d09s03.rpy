@@ -1116,24 +1116,6 @@ translate chinese replay_d09s03_97f95a57:
     # lc "I will be waiting for that!"
     lc "我会等你哦！"
 
-# game/code/d09/d09s03.rpy:580
-translate chinese replay_d09s03_97a53fd1:
-
-    # mct "Now I have to run to meet Samiya. I hope she isn't planning anything bad. At least I can be there to save Vanessa if something happens."
-    mct "现在我得跑去见萨米亚了。希望她没有在计划什么坏事。要是发生什么事，至少我可以去救瓦妮莎。"
-
-# game/code/d09/d09s03.rpy:582
-translate chinese replay_d09s03_d5ff7835:
-
-    # mct "Now I have to run back to Samiya's place. I hope this show of hers isn't anything special..."
-    mct "现在我得跑回萨米亚那里了。希望她的这场表演没搞什么幺蛾子……"
-
-# game/code/d09/d09s03.rpy:584
-translate chinese replay_d09s03_f3383e9d:
-
-    # mct "Now I have to run for this strange task... {w}Call boy... {w}I guess there is no turning back."
-    mct "现在我得赶去做这个奇怪的任务了……{w}应召牛郎……{w}我想自己已经没有回头路了。"
-
 translate chinese strings:
 
     # game/code/d09/d09s03.rpy:334

@@ -90,12 +90,6 @@ translate italian d14s19_sy_7a859f4e:
     # mc "I know we joke around a lot, but you're my sister."
     mc "So che ci abbiamo scherzato molto su, ma sei mia sorella."
 
-# game/code/d14p2/d14s19_sy.rpy:164
-translate italian d14s19_sy_bd9f0ccd:
-
-    # sy "And you're my brother. I'm still going to fuck you senseless."
-    sy "E tu sei mio fratello. E comunque ti scoperò fino all’inverosimile."
-
 # game/code/d14p2/d14s19_sy.rpy:166
 translate italian d14s19_sy_c15041b4:
 
@@ -180,18 +174,6 @@ translate italian d14s19_sy_6b85b289:
     # mc "I can't believe I'm saying this aloud, but..."
     mc "È incredibile che lo stia dicendo ad alta voce, ma..."
 
-# game/code/d14p2/d14s19_sy.rpy:203
-translate italian d14s19_sy_0a8be510:
-
-    # mc "I didn't have a perfect outfit picked out."
-    mc "Non avevo in mente l’abito perfetto per l’occasione."
-
-# game/code/d14p2/d14s19_sy.rpy:205
-translate italian d14s19_sy_d7c7153a:
-
-    # mc "I have to tell you - I've been fantasizing about this."
-    mc "Ma devo confessarti che anche io ci ho fantasticato sopra."
-
 # game/code/d14p2/d14s19_sy.rpy:207
 translate italian d14s19_sy_4163fac9:
 
@@ -221,12 +203,6 @@ translate italian d14s19_sy_ac0da949:
 
     # sy "[mcname] I want you to wreck my tight twat."
     sy "[mcname] voglio che tu distrugga la mia figa stretta."
-
-# game/code/d14p2/d14s19_sy.rpy:251
-translate italian d14s19_sy_5f504b4b:
-
-    # mc "I cannot wait."
-    mc "Non vedo l’ora."
 
 # game/code/d14p2/d14s19_sy.rpy:280
 translate italian d14s19_sy_014fbf76:
@@ -288,47 +264,11 @@ translate italian d14s19_sy_cum_1bc67c36:
     # mc "Alright then, I'll show you."
     mc "Va bene allora, ti faccio vedere io."
 
-# game/code/d14p2/d14s19_sy.rpy:822
-translate italian d14s19_sy_cum_face_2fb7eace:
-
-    # mc "How do you like your new facial moisturizer?"
-    mc "Ti piace la tua nuova crema idratante?"
-
 # game/code/d14p2/d14s19_sy.rpy:824
 translate italian d14s19_sy_cum_face_9a3cd4c9:
 
     # sy "You're my new favorite beauty routine."
     sy "Sei la mia nuova routine di bellezza preferita."
-
-# game/code/d14p2/d14s19_sy.rpy:834
-translate italian d14s19_sy_cum_mouth_a825ff88:
-
-    # mc "I think I know just how to shut you up."
-    mc "Penso di sapere ora come farti stare zitta."
-
-# game/code/d14p2/d14s19_sy.rpy:836
-translate italian d14s19_sy_cum_mouth_d7d3feae:
-
-    # mc "Your mouth was made for my cock!"
-    mc "La tua bocca è stata fatta per il mio cazzo!"
-
-# game/code/d14p2/d14s19_sy.rpy:839
-translate italian d14s19_sy_cum_mouth_2c186f8e:
-
-    # mc "FUCK YEAHHHHH!!!"
-    mc "CAZZO Sìììììììììììììììì !!!"
-
-# game/code/d14p2/d14s19_sy.rpy:841
-translate italian d14s19_sy_cum_mouth_b95ade8a:
-
-    # mc "I'm just going to enjoy the quiet for once."
-    mc "Mi voglio godere il silenzio per una volta."
-
-# game/code/d14p2/d14s19_sy.rpy:848
-translate italian d14s19_sy_cum_mouth_81d35f9c:
-
-    # sy "You're right. My mouth was made for your cock."
-    sy "Hai ragione. La mia bocca è stata fatta proprio per il tuo cazzo."
 
 # game/code/d14p2/d14s19_sy.rpy:868
 translate italian d14s19_sy_cum_tits_da8f1ff1:
@@ -468,23 +408,11 @@ translate italian d14s19_sy_end_83233e41:
     # sy "Don't worry. Even in my dreams, you're always in a rental tux, along with your groomsman."
     sy "Non preoccuparti. Anche nei miei sogni sei sempre in uno smoking a noleggio insieme al tuo testimone di nozze."
 
-# game/code/d14p2/d14s19_sy.rpy:911
-translate italian d14s19_sy_end_78e953fe:
-
-    # sy "In my dream, my bridesmaids all made their own dresses. I wear white. They each wear a different primary color."
-    sy "Nel mio sogno, le mie damigelle si sono fatte tutte il vestito da sole. Io indosso un vestito bianco, mentre ognuna di loro indossa un colore primario diverso."
-
 # game/code/d14p2/d14s19_sy.rpy:915
 translate italian d14s19_sy_end_7129dea6:
 
     # mc "Nice."
     mc "Carino."
-
-# game/code/d14p2/d14s19_sy.rpy:925
-translate italian d14s19_sy_end_cc1c746e:
-
-    # sy "Also I now imagine that AmRose is the bridesmaid wearing red."
-    sy "E ora mi immagino che AmRose sia la damigella che indossa il rosso."
 
 # game/code/d14p2/d14s19_sy.rpy:927
 translate italian d14s19_sy_end_b2a7c242:

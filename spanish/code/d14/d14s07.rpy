@@ -702,12 +702,6 @@ translate spanish d14s07_cleanup_17f52e23:
     # cl "Damn..."
     cl "Maldito..."
 
-# game/code/d14/d14s07.rpy:423
-translate spanish d14s07_end_485987f5:
-
-    # "Save your game here."
-    "Guarde su juego aquí."
-
 translate spanish strings:
 
     # game/code/d14/d14s07.rpy:248

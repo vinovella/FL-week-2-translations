@@ -12,18 +12,6 @@ translate russian prologue_fresh_start_1b390ae3:
     # "In the second chapter of this visual novel, you will continue playing as a young college student and you'll explore love, lust and sexual fetishes with the hottest women in town."
     "Во второй главе этого визуального романа ты продолжишь играть в качестве молодого студента колледжа и будешь исследовать любовь, похоть и сексуальные фетиши с самыми горячими девушками в городе."
 
-# game/code/d08/prologue.rpy:62
-translate russian prologue_fresh_start_1aa77e92:
-
-    # "We see that you have already completed the first chapter. If you want to keep playing with all your game progress intact, open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/b6CNu2C}Discord{/a}."
-    "Мы видим, что ты уже закончил первую главу. Если ты хочешь продолжить играть со всем твоим игровым прогрессом, открой меню и нажми кнопку \"Продолжить с недели [FLSS.week.prev]\" и загрузи сохранение.\nЕсли возникли какие-либо проблемы, пожалуйста, свяжись с нами на {a=https://discord.gg/b6CNu2C}Discord{/a}."
-
-# game/code/d08/prologue.rpy:64
-translate russian prologue_fresh_start_16da65c2:
-
-    # "We see that you have already completed the first chapter. If you want to keep playing with all your game progress intact, open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/b6CNu2C}Discord{/a} or on {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
-    "Мы видим, что ты уже закончил первую главу. Если ты хочешь продолжить играть со всем твоим игровым прогрессом, открой меню и нажми кнопку \"Продолжить с недели [FLSS.week.prev]\" и загрузи сохранение.\nЕсли возникли какие-либо проблемы, пожалуйста, свяжись с нами на {a=https://discord.gg/b6CNu2C}Discord{/a}. или на {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
-
 # game/code/d08/prologue.rpy:65
 translate russian prologue_fresh_start_56a763ee:
 
@@ -83,12 +71,6 @@ translate russian prologue_girls_set_3_done_7582b991:
 
     # "Into femdom, eh?\nOK, if your Mistress ordered to adore her body right now, which part would you focus on?"
     "Женское доминирование, да?\nХорошо, если бы твоя Госпожа приказала обожать ее тело прямо сейчас, на какой части ты бы сосредоточился?"
-
-# game/code/d08/prologue.rpy:180
-translate russian prologue_fetishes_4cc3c0e4:
-
-    # "And now it's time to choose your fetishes.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many fetishes as you want and press \"Done\"."
-    "А теперь пришло время выбирать себе фетиши.\nНе волнуйся, если твой любимый фетиш не указан: Фетиш Локатор только начался!\nВыбери столько фетишей, сколько захочешь, и нажми кнопку \"Принять\"."
 
 # game/code/d08/prologue.rpy:185
 translate russian prologue_nora_creampie_fcd0a635:
@@ -192,3 +174,22 @@ translate russian prologue_fetishes_7bc3a4e5:
     # "It's time to choose your preferences.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many as you want and press \"Done\"."
     "It's time to choose your preferences.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many as you want and press \"Done\"."
 
+# TODO: Translation updated at 2022-11-12 13:38
+
+# game/code/d08/prologue.rpy:67
+translate russian prologue_fresh_start_ab0acec6:
+
+    # "We see that you have already completed the first chapter. If you want to keep playing with all your game progress intact, open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a}."
+    "Мы видим, что ты уже закончил первую главу. Если ты хочешь продолжить играть со всем твоим игровым прогрессом, открой меню и нажми кнопку \"Продолжить с недели [FLSS.week.prev]\" и загрузи сохранение.\nЕсли возникли какие-либо проблемы, пожалуйста, свяжись с нами на {a=https://discord.gg/efmQRNtFks}Discord{/a}."
+
+# game/code/d08/prologue.rpy:69
+translate russian prologue_fresh_start_d7ab3300:
+
+    # "We see that you have already completed the first chapter. If you want to keep playing with all your game progress intact, open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} or on {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
+    "Мы видим, что ты уже закончил первую главу. Если ты хочешь продолжить играть со всем твоим игровым прогрессом, открой меню и нажми кнопку \"Продолжить с недели [FLSS.week.prev]\" и загрузи сохранение.\nЕсли возникли какие-либо проблемы, пожалуйста, свяжись с нами на {a=https://discord.gg/efmQRNtFks}Discord{/a}. или на {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
+
+# game/code/d08/prologue.rpy:80
+translate russian prologue_fresh_start_5b4c2953:
+
+    # "You are {b}[mcname]{/b} and your Fetish Locator user name is {b}[mclogin]{/b}."
+    "You are {b}[mcname]{/b} and your Fetish Locator user name is {b}[mclogin]{/b}."

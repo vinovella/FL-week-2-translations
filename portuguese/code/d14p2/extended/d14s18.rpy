@@ -210,12 +210,6 @@ translate portuguese d14s18_d5d451b4:
     # dd "Or is it a siren?"
     dd "Ou é uma sereia do mal?"
 
-# game/code/d14p2/extended/d14s18.rpy:142
-translate portuguese d14s18_40898f43:
-
-    # ir "From the way she's throwing looks at MC, I'd say the latter. *Chuckles*"
-    ir "Pela maneira que ela tá olhando pro [mcname], diria que é o próximo. *Risos*"
-
 # game/code/d14p2/extended/d14s18.rpy:152
 translate portuguese d14s18_5e043a8d:
 

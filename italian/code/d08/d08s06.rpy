@@ -432,12 +432,6 @@ translate italian d08s06_09518e22:
     # mc "We just need to know how to find her door room."
     mc "Ci manca solo di sapere dove sia la sua stanza."
 
-# game/code/d08/d08s06.rpy:131
-translate italian d08s06_206bd4ad:
-
-    # sa "Didn't you said you are friends?"
-    sa "Ma non avevate detto di essere suoi amici?"
-
 # game/code/d08/d08s06.rpy:132
 translate italian d08s06_1d0397f7:
 

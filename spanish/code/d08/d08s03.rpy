@@ -1303,3 +1303,11 @@ translate spanish strings:
     # game/code/d08/d08s03.rpy:424
     old "It was an accident"
     new "Fue un accidente"
+# TODO: Translation updated at 2022-11-12 13:40
+
+# game/code/d08/d08s03.rpy:122
+translate spanish d08s03_3a9860c7:
+
+    # mc "How are you doing now? You're not still short, are you?"
+    mc "How are you doing now? You're not still short, are you?"
+

@@ -2585,3 +2585,11 @@ translate malay strings:
     # game/code/d10p2/d10p2s08.rpy:272
     old "Blowjob from AmRose"
     new "Blowjob dari AmRose "
+# TODO: Translation updated at 2022-11-12 13:32
+
+# game/code/d10p2/d10p2s08.rpy:120
+translate malay d10p2s08_47b69fbd:
+
+    # mct "Even knowing that I'd basically be leaving AmRose and Stacy stranded, and giving up on a million dollars?"
+    mct "Walaupun mengetahui bahawa saya pada dasarnya akan meninggalkan AmRose dan Stacy terkandas, dan berputus asa dengan satu juta dolar?"
+

@@ -2586,3 +2586,11 @@ translate russian strings:
     old "Blowjob from AmRose"
     new "Минет от АмРоуз"
 
+# TODO: Translation updated at 2022-11-12 13:38
+
+# game/code/d10p2/d10p2s08.rpy:120
+translate russian d10p2s08_47b69fbd:
+
+    # mct "Even knowing that I'd basically be leaving AmRose and Stacy stranded, and giving up on a million dollars?"
+    mct "Even knowing that I'd basically be leaving AmRose and Stacy stranded, and giving up on a million dollars?"
+

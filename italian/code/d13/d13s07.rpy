@@ -198,12 +198,6 @@ translate italian d13s07_c92f1c01:
     # mc "It was pretty clear that the receptionist and manager were looking for bribes, but they had screwed up royally."
     mc "Era evidente che il receptionist e il manager cercavano bustarelle, ma stavolta avevano fatto un casino assurdo."
 
-# game/code/d13/d13s07.rpy:123
-translate italian d13s07_96603a07:
-
-    # mc "I told the manager this story about newlyweds getting extorted on their honeymoon, named dropped a couple of travel magazines that might run the story, and then gave him an out."
-    mc "Allora ho raccontato al manager la storiella dei due sposini ricattati durante la luna di miele, buttato lì un paio di riviste di viaggi che avrebbero potuto pubblicare il tutto... e poi gli ho proposto una soluzione."
-
 # game/code/d13/d13s07.rpy:126
 translate italian d13s07_006c1cad:
 

@@ -270,9 +270,3 @@ translate italian d10p2s10_c69e04a5:
     # arj "I'll join you."
     arj "Farò lo stesso."
 
-# game/code/d10p2/d10p2s10.rpy:100
-translate italian d10p2s10_d48347b0:
-
-    # "Save your game here ;)"
-    "Salva il gioco qui. ;)"
-

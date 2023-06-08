@@ -1116,48 +1116,6 @@ translate deutsch d09s02_choice_5b7d345d_1:
     # mct "Oh boy, it better be fun. It's like I'm hunting for a long lost artifact or something here. Maybe I should buy a fedora and a whip?"
     mct "Oh Junge, es sollte besser Spass machen. Das ist ja, wie nach einem lange verschollenem Artefakt oder sowas in der Art zu suchen. Vielleicht sollte ich mir einen Hut und eine Peitsche kaufen??"
 
-# game/code/d09/d09s02.rpy:403
-translate deutsch d09s02_choice_c5037bcd:
-
-    # mct "I mean... I don't have to only pick {i}one{/i} here, do I?"
-    mct "Ich meine... ich muss mich nicht nur für {i}eine{/i} Aufgabe entscheiden, oder?"
-
-# game/code/d09/d09s02.rpy:404
-translate deutsch d09s02_choice_b4ac2651:
-
-    # mct "They all sound pretty fun and interesting I suppose."
-    mct "Die klingen alle sehr spaßig und interessant würde ich sagen."
-
-# game/code/d09/d09s02.rpy:405
-translate deutsch d09s02_choice_ea17e7c9:
-
-    # mct "I wouldn't mind giving the others a go as well."
-    mct "Würde mich nicht stören, die anderen ebenfalls zu versuchen."
-
-# game/code/d09/d09s02.rpy:408
-translate deutsch d09s02_choice_3fb88a21:
-
-    # mc "Can I pick more than one option?"
-    mc "Kann ich mehr als nur eine Aufgabe wählen?"
-
-# game/code/d09/d09s02.rpy:410
-translate deutsch d09s02_choice_21d70301:
-
-    # sb "Wow, daring aren't we?"
-    sb "Wow, da wird jemand aber wagemutig?"
-
-# game/code/d09/d09s02.rpy:411
-translate deutsch d09s02_choice_cd991257:
-
-    # sb "I like it."
-    sb "Das gefällt mir."
-
-# game/code/d09/d09s02.rpy:413
-translate deutsch d09s02_choice_25a0e435:
-
-    # sb "Go ahead. Pick whatever you want, baby."
-    sb "Mach weiter. Wähle was immer du willst, Baby."
-
 translate deutsch strings:
 
     # game/code/d09/d09s02.rpy:60

@@ -702,12 +702,6 @@ translate deutsch d14s07_cleanup_17f52e23:
     # cl "Damn..."
     cl "Verdammt..."
 
-# game/code/d14/d14s07.rpy:423
-translate deutsch d14s07_end_485987f5:
-
-    # "Save your game here."
-    "Speichere das Spiel hier."
-
 translate deutsch strings:
 
     # game/code/d14/d14s07.rpy:248

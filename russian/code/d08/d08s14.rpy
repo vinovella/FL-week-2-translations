@@ -1378,3 +1378,11 @@ translate russian strings:
     old "Yes, but..."
     new "Да, но..."
 
+# TODO: Translation updated at 2022-11-12 13:38
+
+# game/code/d08/d08s14.rpy:199
+translate russian d08s14_336ce5e2:
+
+    # mc "...But not for the reasons you're thinking of. I'm just not sure it's all it's made out to be."
+    mc "...But not for the reasons you're thinking of. I'm just not sure it's all it's made out to be."
+

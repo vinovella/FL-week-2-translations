@@ -929,3 +929,11 @@ translate italian strings:
     # game/code/d14p2/d14s14.rpy:425
     old "I Like This Feeling!!!"
     new "Mi Piace Questa Sensazione!!!"
+# TODO: Translation updated at 2022-11-12 13:27
+
+# game/code/d14p2/d14s14.rpy:117
+translate italian d14s14_e6e632d2:
+
+    # mct "On the other hand, I don't really have to win this. I only need the fuck for my current challenge."
+    mct "On the other hand, I don't really have to win this. I only need the fuck for my current challenge."
+

@@ -702,12 +702,6 @@ translate chinese d14s07_cleanup_17f52e23:
     # cl "Damn..."
     cl "该死……"
 
-# game/code/d14/d14s07.rpy:411
-translate chinese d14s07_end_485987f5:
-
-    # "Save your game here."
-    "于此处保存游戏。"
-
 translate chinese strings:
 
     # game/code/d14/d14s07.rpy:237

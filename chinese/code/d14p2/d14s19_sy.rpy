@@ -90,12 +90,6 @@ translate chinese d14s19_sy_7a859f4e:
     # mc "I know we joke around a lot, but you're my sister."
     mc "我知道我们经常开玩笑，但你是我妹妹。"
 
-# game/code/d14p2/d14s19_sy.rpy:164
-translate chinese d14s19_sy_bd9f0ccd:
-
-    # sy "And you're my brother. I'm still going to fuck you senseless."
-    sy "而你是我老哥。我还是会把你干得不省人事。"
-
 # game/code/d14p2/d14s19_sy.rpy:166
 translate chinese d14s19_sy_c15041b4:
 
@@ -180,18 +174,6 @@ translate chinese d14s19_sy_6b85b289:
     # mc "I can't believe I'm saying this aloud, but..."
     mc "真不敢相信我会这么说，但是……"
 
-# game/code/d14p2/d14s19_sy.rpy:203
-translate chinese d14s19_sy_0a8be510:
-
-    # mc "I didn't have a perfect outfit picked out."
-    mc "可惜我没选出一套完美造型。"
-
-# game/code/d14p2/d14s19_sy.rpy:205
-translate chinese d14s19_sy_d7c7153a:
-
-    # mc "I have to tell you - I've been fantasizing about this."
-    mc "我必须要告诉你--我一直在幻想今晚。"
-
 # game/code/d14p2/d14s19_sy.rpy:207
 translate chinese d14s19_sy_4163fac9:
 
@@ -221,12 +203,6 @@ translate chinese d14s19_sy_ac0da949:
 
     # sy "[mcname] I want you to wreck my tight twat."
     sy "[mcname]，我想让你尽情蹂躏我紧致的小穴。"
-
-# game/code/d14p2/d14s19_sy.rpy:251
-translate chinese d14s19_sy_5f504b4b:
-
-    # mc "I cannot wait."
-    mc "我等不及了。"
 
 # game/code/d14p2/d14s19_sy.rpy:280
 translate chinese d14s19_sy_014fbf76:
@@ -288,47 +264,11 @@ translate chinese d14s19_sy_cum_1bc67c36:
     # mc "Alright then, I'll show you."
     mc "那行，我让你看看我的威力。"
 
-# game/code/d14p2/d14s19_sy.rpy:822
-translate chinese d14s19_sy_cum_face_2fb7eace:
-
-    # mc "How do you like your new facial moisturizer?"
-    mc "你觉得这种面部保湿法怎么样？"
-
 # game/code/d14p2/d14s19_sy.rpy:824
 translate chinese d14s19_sy_cum_face_9a3cd4c9:
 
     # sy "You're my new favorite beauty routine."
     sy "你是我最喜欢的新晋美容法了。"
-
-# game/code/d14p2/d14s19_sy.rpy:834
-translate chinese d14s19_sy_cum_mouth_a825ff88:
-
-    # mc "I think I know just how to shut you up."
-    mc "我知道怎么让你闭嘴了。"
-
-# game/code/d14p2/d14s19_sy.rpy:836
-translate chinese d14s19_sy_cum_mouth_d7d3feae:
-
-    # mc "Your mouth was made for my cock!"
-    mc "你的小嘴就是为我的大鸡巴而生的！"
-
-# game/code/d14p2/d14s19_sy.rpy:839
-translate chinese d14s19_sy_cum_mouth_2c186f8e:
-
-    # mc "FUCK YEAHHHHH!!!"
-    mc "妈的，爽死我了!!!"
-
-# game/code/d14p2/d14s19_sy.rpy:841
-translate chinese d14s19_sy_cum_mouth_b95ade8a:
-
-    # mc "I'm just going to enjoy the quiet for once."
-    mc "我只想享受一下安宁。"
-
-# game/code/d14p2/d14s19_sy.rpy:848
-translate chinese d14s19_sy_cum_mouth_81d35f9c:
-
-    # sy "You're right. My mouth was made for your cock."
-    sy "你说对了。我的嘴就是为你的鸡巴而生。"
 
 # game/code/d14p2/d14s19_sy.rpy:868
 translate chinese d14s19_sy_cum_tits_da8f1ff1:
@@ -468,23 +408,11 @@ translate chinese d14s19_sy_end_83233e41:
     # sy "Don't worry. Even in my dreams, you're always in a rental tux, along with your groomsman."
     sy "别担心。即使在我梦里，你也总是穿着租来的礼服，和你的伴郎一样。"
 
-# game/code/d14p2/d14s19_sy.rpy:911
-translate chinese d14s19_sy_end_78e953fe:
-
-    # sy "In my dream, my bridesmaids all made their own dresses. I wear white. They each wear a different primary color."
-    sy "在我梦里，我的伴娘都是自己做衣服。我穿白色的。她们每个人都穿不同的主色调。"
-
 # game/code/d14p2/d14s19_sy.rpy:915
 translate chinese d14s19_sy_end_7129dea6:
 
     # mc "Nice."
     mc "不错。"
-
-# game/code/d14p2/d14s19_sy.rpy:925
-translate chinese d14s19_sy_end_cc1c746e:
-
-    # sy "Also I now imagine that AmRose is the bridesmaid wearing red."
-    sy "而且我现在想象爱洛丝会是穿红色的伴娘。"
 
 # game/code/d14p2/d14s19_sy.rpy:927
 translate chinese d14s19_sy_end_b2a7c242:

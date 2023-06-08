@@ -1116,48 +1116,6 @@ translate chinese d09s02_choice_5b7d345d_1:
     # mct "Oh boy, it better be fun. It's like I'm hunting for a long lost artifact or something here. Maybe I should buy a fedora and a whip?"
     mct "哦拜托，最好是好玩一点。我在这就像在寻找一件失传已久的文物一样兴奋。也许我该买顶软帽，再来条鞭子？"
 
-# game/code/d09/d09s02.rpy:525
-translate chinese d09s02_choice_c5037bcd:
-
-    # mct "I mean... I don't have to only pick {i}one{/i} here, do I?"
-    mct "我觉得……没必要只选{i}一个{/i}任务吧？"
-
-# game/code/d09/d09s02.rpy:526
-translate chinese d09s02_choice_b4ac2651:
-
-    # mct "They all sound pretty fun and interesting I suppose."
-    mct "感觉它们听起来都挺有趣的。"
-
-# game/code/d09/d09s02.rpy:527
-translate chinese d09s02_choice_ea17e7c9:
-
-    # mct "I wouldn't mind giving the others a go as well."
-    mct "我不介意也试试其他的。"
-
-# game/code/d09/d09s02.rpy:530
-translate chinese d09s02_choice_3fb88a21:
-
-    # mc "Can I pick more than one option?"
-    mc "我可以选多个选项吗？"
-
-# game/code/d09/d09s02.rpy:533
-translate chinese d09s02_choice_21d70301:
-
-    # sb "Wow, daring aren't we?"
-    sb "哇，这么大胆？"
-
-# game/code/d09/d09s02.rpy:534
-translate chinese d09s02_choice_cd991257:
-
-    # sb "I like it."
-    sb "我喜欢。"
-
-# game/code/d09/d09s02.rpy:536
-translate chinese d09s02_choice_25a0e435:
-
-    # sb "Go ahead. Pick whatever you want, baby."
-    sb "随你。想选什么就选什么，宝贝儿。"
-
 translate chinese strings:
 
     # game/code/d09/d09s02.rpy:78

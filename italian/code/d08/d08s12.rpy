@@ -144,12 +144,6 @@ translate italian d08s12_dcae0c21:
     # mh "Oh I certainly did!"
     mh "Oh, non immagini quanto!"
 
-# game/code/d08/d08s12.rpy:91
-translate italian d08s12_3f302219:
-
-    # mc "Does it excite you that you are in my power and I can be doing anything to you?"
-    mc "Ti eccita saperti in mio potere e che posso farti qualunque cosa?"
-
 # game/code/d08/d08s12.rpy:93
 translate italian d08s12_bb4d6582:
 
@@ -185,12 +179,6 @@ translate italian d08s12_155346cc:
 
     # mh "Come here! I need you!"
     mh "Vieni qui! Ti voglio!"
-
-# game/code/d08/d08s12.rpy:115
-translate italian d08s12_06dd257f:
-
-    # mh "Oh! I'm burning with desire!"
-    mh "Oh! Brucio di desiderio!"
 
 # game/code/d08/d08s12.rpy:121
 translate italian d08s12_8ad73aa8:
@@ -252,95 +240,11 @@ translate italian d08s12_e3b6cd7f:
     # mc "We might need a full treatment here!"
     mc "Mi sa che occorre il trattamento completo!"
 
-# game/code/d08/d08s12.rpy:149
-translate italian d08s12_91b0fcaa:
-
-    # mh "O-o-oh! The first touch! It feels electric!"
-    mh "O-o-oh! Solo che mi hai sfiorata, ho sentito una scossa!"
-
-# game/code/d08/d08s12.rpy:151
-translate italian d08s12_37ad478e:
-
-    # mc "It is so hard! Like it might explode from the tension!"
-    mc "Cavolo, è proprio duro. Potrebbe esplodere per quanto è teso!"
-
-# game/code/d08/d08s12.rpy:153
-translate italian d08s12_e797794d:
-
-    # mh "O-o-oh, yes baby! It can when you touch it!"
-    mh "O-o-oh, sì, tesoro! E se lo tocchi, lo farà!"
-
 # game/code/d08/d08s12.rpy:165
 translate italian d08s12_pre_mc_action_49089914:
 
     # mc "I've never done anything like this before..."
     mc "Non ho mai fatto nulla di simile, prima..."
-
-# game/code/d08/d08s12.rpy:168
-translate italian d08s12_pre_mc_action_ca03c402:
-
-    # mh "No worries, baby! Your touch feels amazing!"
-    mh "Non preoccuparti! Le tue mani mi fanno impazzire!"
-
-# game/code/d08/d08s12.rpy:170
-translate italian d08s12_pre_mc_action_f60e025d:
-
-    # mc "Wow! I never thought I would do this!"
-    mc "Wow! Non avrei mai pensato di fare una cosa simile!"
-
-# game/code/d08/d08s12.rpy:173
-translate italian d08s12_pre_mc_action_642862f5:
-
-    # mh "Sure, sure."
-    mh "Immagino."
-
-# game/code/d08/d08s12.rpy:174
-translate italian d08s12_pre_mc_action_b39c6dd8:
-
-    # mc "Well, not to anyone else."
-    mc "Beh, non a chiunque."
-
-# game/code/d08/d08s12.rpy:177
-translate italian d08s12_pre_mc_action_954a6ab6:
-
-    # mh "Really?"
-    mh "Davvero?"
-
-# game/code/d08/d08s12.rpy:178
-translate italian d08s12_pre_mc_action_7ff3de8d:
-
-    # mc "First time."
-    mc "Prima volta."
-
-# game/code/d08/d08s12.rpy:187
-translate italian d08s12_deny_2394d0ba:
-
-    # mc "I quite enjoy, how your engorged penis is standing at attention and begging to be touched!"
-    mc "Mi piace come il tuo pisello sta lì, bello ritto, come in cerca di attenzione. Sembra quasi che chieda di essere toccato!"
-
-# game/code/d08/d08s12.rpy:189
-translate italian d08s12_deny_95edf050:
-
-    # mc "Let it be there! I don't permit you touch it!"
-    mc "Sta bene così! Non ti permetto di sfiorarlo!"
-
-# game/code/d08/d08s12.rpy:191
-translate italian d08s12_deny_3280b29a:
-
-    # mh "Oh?..."
-    mh "Oh?..."
-
-# game/code/d08/d08s12.rpy:193
-translate italian d08s12_deny_7fb4c409:
-
-    # mc "And you, my beautiful girl, get on your knees!"
-    mc "E tu, luce dei miei occhi... Mettiti in ginocchio! Ora!"
-
-# game/code/d08/d08s12.rpy:199
-translate italian d08s12_deny_8e83664c:
-
-    # mc "Now get to work and polish my member!"
-    mc "Datti da fare, massaggiami il cazzo!"
 
 # game/code/d08/d08s12.rpy:201
 translate italian d08s12_deny_57bd43f0:
@@ -354,41 +258,11 @@ translate italian d08s12_deny_95675b15:
     # mc "Na-a-ah! No touching yourself!"
     mc "None! Non toccarti in alcun modo!"
 
-# game/code/d08/d08s12.rpy:205
-translate italian d08s12_deny_c8745a1f:
-
-    # mc "You are not allowed to jerk-off!"
-    mc "Non ti è permesso segarti!"
-
-# game/code/d08/d08s12.rpy:207
-translate italian d08s12_deny_6749418d:
-
-    # mh "Oh, I can't stroke it sir?"
-    mh "Oh, non posso masturbarmi?"
-
 # game/code/d08/d08s12.rpy:208
 translate italian d08s12_deny_5bc43497:
 
     # mc "Master."
     mc "Padrone."
-
-# game/code/d08/d08s12.rpy:210
-translate italian d08s12_deny_5c9bcebd:
-
-    # mh "Master. It is trembling in anticipation! Please may I stroke it?"
-    mh "Padrone. Per favore, posso toccarmi? Freme di eccitazione?"
-
-# game/code/d08/d08s12.rpy:211
-translate italian d08s12_deny_b7176135:
-
-    # mc "Nope. Be a good girl and make me cum!"
-    mc "Assolutamente no. Fa' la brava e fammi venire!"
-
-# game/code/d08/d08s12.rpy:220
-translate italian d08s12_mh_bj_1199bcb6:
-
-    # mc "Let's see how good can you suck it!"
-    mc "Vediamo quanto sei brava a succhiarlo!"
 
 # game/code/d08/d08s12.rpy:222
 translate italian d08s12_mh_bj_9c2541a5:
@@ -419,12 +293,6 @@ translate italian d08s12_mh_bj_fabf2109:
 
     # mh "With pleasure, sir!"
     mh "Con piacere, padrone!"
-
-# game/code/d08/d08s12.rpy:273
-translate italian d08s12_mh_bj_232c3f6d:
-
-    # mc "O-o-oh!"
-    mc "O-o-oh!"
 
 # game/code/d08/d08s12.rpy:280
 translate italian d08s12_mh_bj_ffa62260:
@@ -486,29 +354,11 @@ translate italian d08s12_mh_bj_80d9518d:
     # mc "Happy to provide!"
     mc "Mi fa piacere!"
 
-# game/code/d08/d08s12.rpy:308
-translate italian d08s12_mh_bj_4a61a023:
-
-    # mh "I already can't wait for the next time!"
-    mh "Non vedo l'ora che giunga la prossima volta!"
-
-# game/code/d08/d08s12.rpy:333
-translate italian d08s12_mc_hj_7dd3877f:
-
-    # mh "A-a-ah!!"
-    mh "A-a-ah!!"
-
 # game/code/d08/d08s12.rpy:340
 translate italian d08s12_mc_hj_188a2ddc:
 
     # mh "Ahhh..."
     mh "Ahhh..."
-
-# game/code/d08/d08s12.rpy:362
-translate italian d08s12_lyssa_cum_d61ecf80:
-
-    # mh "O-o-oh! Baby! I'm..."
-    mh "O-o-oh! Baby! Sto per..."
 
 # game/code/d08/d08s12.rpy:372
 translate italian d08s12_lyssa_cum_d8852cec:
@@ -552,30 +402,6 @@ translate italian d08s12_lyssa_cum_0feed7f8:
     # mh "Let me clean this up!"
     mh "Aspetta che ti pulisco!"
 
-# game/code/d08/d08s12.rpy:385
-translate italian d08s12_lyssa_cum_b35057f8:
-
-    # mc "You like it?"
-    mc "Ti piace?"
-
-# game/code/d08/d08s12.rpy:387
-translate italian d08s12_lyssa_cum_f92a5a00:
-
-    # mh "Best thing ever!"
-    mh "Non c'è nulla di meglio!"
-
-# game/code/d08/d08s12.rpy:389
-translate italian d08s12_lyssa_cum_3e0525bb:
-
-    # mh "I think it is enough for this time. Maybe you will enjoy sampling it yourself some day!"
-    mh "Bene, per questa volta penso basti così. Forse, un giorno, te lo gusterai di persona!"
-
-# game/code/d08/d08s12.rpy:390
-translate italian d08s12_lyssa_cum_6f6e929b:
-
-    # mc "Yeah, today was already a lot of new experiences for me!"
-    mc "Sì, oggi ho avuto sin troppe nuove esperienze!"
-
 # game/code/d08/d08s12.rpy:402
 translate italian d08s12_end_6eed13c6:
 
@@ -587,12 +413,6 @@ translate italian d08s12_end_0ccbcba5:
 
     # mh "You too."
     mh "Anche tu."
-
-# game/code/d08/d08s12.rpy:405
-translate italian d08s12_end_04ec5731:
-
-    # mh "If you'll excuse me, I've got to run."
-    mh "E ora perdonami ma devo scappare."
 
 # game/code/d08/d08s12.rpy:406
 translate italian d08s12_end_cfb07b86:
@@ -611,12 +431,6 @@ translate italian d08s12_end_fb6b1ef2:
 
     # mc "I know. Just giving you a hard time."
     mc "Lo so. Ti stavo solo stuzzicando."
-
-# game/code/d08/d08s12.rpy:410
-translate italian d08s12_end_9af91313:
-
-    # mh "The door will lock on your way out."
-    mh "La porta si chiuderà da sé quando uscirai."
 
 # game/code/d08/d08s12.rpy:411
 translate italian d08s12_end_c079e6e2:
@@ -828,12 +642,6 @@ translate italian d08s12_end_6c907290:
     # mh "Hey, I don't really wanna leave right now, but I gotta run for a thing."
     mh "Senti, vorrei tanto restare: ma purtroppo ora devo scappare, ho un impegno."
 
-# game/code/d08/d08s12.rpy:417
-translate italian d08s12_end_f71c5abf:
-
-    # mh "Heh, I can't wait to see you again!"
-    mh "Eh, non vedo l'ora di rivederti!"
-
 # game/code/d08/d08s12.rpy:418
 translate italian d08s12_end_0b11053a:
 
@@ -905,3 +713,11 @@ translate italian d08s12_end_6c5544fb:
 
     # mh "Heh, I can't wait to see you again!."
     mh "Eh, non vedo l'ora di rivederti!"
+# TODO: Translation updated at 2022-11-12 13:27
+
+# game/code/d08/d08s12.rpy:545
+translate italian d08s12_end_ebe54fab:
+
+    # mct "Just going to leave her a little warning about FL's privacy issues. She has more to worry about there than me."
+    mct "Just going to leave her a little warning about FL's privacy issues. She has more to worry about there than me."
+

@@ -132,12 +132,6 @@ translate spanish d10p2s01_5705689d:
     # mc "Uh, what?"
     mc "Uh, ¿qué?"
 
-# game/code/d10p2/d10p2s01.rpy:111
-translate spanish d10p2s01_e91fa22a:
-
-    # dd "Just come outside will be waiting for you there!"
-    dd "¡Sólo tienes que salir y te esperará allí!"
-
 # game/code/d10p2/d10p2s01.rpy:112
 translate spanish d10p2s01_76cbe5f4:
 

@@ -26,3 +26,15 @@ translate portuguese strings:
     old "The game will try to replay the scene\naccording to your current playthrough"
     new "O jogo tentará repetir a cena\nde acordo com sua campanha atual"
 
+# TODO: Translation updated at 2022-11-12 13:34
+
+translate portuguese strings:
+
+    # game/code/functions.rpy:269
+    old "You can only select two out of Min, Lyssa and Maria"
+    new "You can only select two out of Min, Lyssa and Maria"
+
+    # game/code/functions.rpy:271
+    old "You can only select one out of Daisy and Dahlia"
+    new "You can only select one out of Daisy and Dahlia"
+

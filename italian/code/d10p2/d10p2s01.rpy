@@ -132,23 +132,11 @@ translate italian d10p2s01_5705689d:
     # mc "Uh, what?"
     mc "Eh? Cosa?"
 
-# game/code/d10p2/d10p2s01.rpy:95
-translate italian d10p2s01_25a3316b:
-
-    # dd "Oh! Wait! I forgot something. {w}Can we do this later?"
-    dd "Oh! Aspetta! Ho dimenticato qualcosa.{w} Possiamo farlo più tardi?"
-
 # game/code/d10p2/d10p2s01.rpy:96
 translate italian d10p2s01_76cbe5f4:
 
     # mc "Umm...{w} sure."
     mc "Uhm...{w} certo."
-
-# game/code/d10p2/d10p2s01.rpy:97
-translate italian d10p2s01_524f0d0b:
-
-    # dd "Terrific! I'll find you."
-    dd "Ottimo! Ti trovo io."
 
 # game/code/d10p2/d10p2s01.rpy:122
 translate italian d10p2s01_event_menu_f4e55bee:

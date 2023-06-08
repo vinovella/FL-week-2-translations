@@ -1116,48 +1116,6 @@ translate spanish d09s02_choice_5b7d345d_1:
     # mct "Oh boy, it better be fun. It's like I'm hunting for a long lost artifact or something here. Maybe I should buy a fedora and a whip?"
     mct "Oh chico, más vale que sea divertido. Es como si estuviera buscando un artefacto perdido hace mucho tiempo o algo así. ¿Tal vez debería comprar un sombrero y un látigo?"
 
-# game/code/d09/d09s02.rpy:403
-translate spanish d09s02_choice_c5037bcd:
-
-    # mct "I mean... I don't have to only pick {i}one{/i} here, do I?"
-    mct "Quiero decir... No tengo que elegir sólo {i}uno{/i} aquí, ¿verdad?"
-
-# game/code/d09/d09s02.rpy:404
-translate spanish d09s02_choice_b4ac2651:
-
-    # mct "They all sound pretty fun and interesting I suppose."
-    mct "Todos suenan bastante divertidos e interesantes, supongo."
-
-# game/code/d09/d09s02.rpy:405
-translate spanish d09s02_choice_ea17e7c9:
-
-    # mct "I wouldn't mind giving the others a go as well."
-    mct "No me importaría darle una oportunidad a los otros también."
-
-# game/code/d09/d09s02.rpy:408
-translate spanish d09s02_choice_3fb88a21:
-
-    # mc "Can I pick more than one option?"
-    mc "¿Puedo elegir más de una opción?"
-
-# game/code/d09/d09s02.rpy:410
-translate spanish d09s02_choice_21d70301:
-
-    # sb "Wow, daring aren't we?"
-    sb "Vaya, qué atrevidos somos ¿no?"
-
-# game/code/d09/d09s02.rpy:411
-translate spanish d09s02_choice_cd991257:
-
-    # sb "I like it."
-    sb "Me gusta."
-
-# game/code/d09/d09s02.rpy:413
-translate spanish d09s02_choice_25a0e435:
-
-    # sb "Go ahead. Pick whatever you want, baby."
-    sb "Adelante. Elige lo que quieras, cariño."
-
 translate spanish strings:
 
     # game/code/d09/d09s02.rpy:60

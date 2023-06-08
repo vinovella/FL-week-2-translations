@@ -12,18 +12,6 @@ translate malay prologue_fresh_start_1b390ae3:
     # "In the second chapter of this visual novel, you will continue playing as a young college student and you'll explore love, lust and sexual fetishes with the hottest women in town."
     "Dalam bab kedua novel visual ini, anda akan terus bermain sebagai seorang pelajar dan anda akan menjelajahi cinta, nafsu dan fetish seksual dengan wanita tercantik di bandar."
 
-# game/code/d08/prologue.rpy:63
-translate malay prologue_fresh_start_1aa77e92:
-
-    # "We see that you have already completed the first chapter. If you want to keep playing with all your game progress intact, open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/b6CNu2C}Discord{/a}."
-    "Kami melihat bahawa anda telah menyelesaikan bab pertama. Jika anda ingin terus bermain dengan semua kemajuan permainan anda secara utuh, buka menu, klik \"Teruskan dari minggu [FLSS.week.prev]\" dan muatkan simpanan.\nJika anda mengalami sebarang masalah, sila hubungi kami di {a=https://discord.gg/b6CNu2C}Discord{/a}."
-
-# game/code/d08/prologue.rpy:65
-translate malay prologue_fresh_start_16da65c2:
-
-    # "We see that you have already completed the first chapter. If you want to keep playing with all your game progress intact, open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/b6CNu2C}Discord{/a} or on {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
-    "Kami lihat bahawa anda telah menyelesaikan bab pertama. Sekiranya anda mahu terus bermain dengan semua kemajuan permainan anda yang sedia ada, buka menu, klik pada \"Sambung dari minggu [FLSS.week.prev]\" dan muatkan simpanan anda.\nSekiranya anda mengalami sebarang masalah, sila hubungi kami di {a=https://discord.gg/b6CNu2C}Discord{/a} atau di {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
-
 # game/code/d08/prologue.rpy:66
 translate malay prologue_fresh_start_56a763ee:
 
@@ -60,12 +48,6 @@ translate malay prologue_girls_set_1_3502c4fc:
     # "In the first week you met several beautiful girls: some can be friends with benefits or even potential love interests.\n\nClick on their portraits to select them. When finished press \"Done\"."
     "Pada minggu pertama anda bertemu dengan beberapa gadis yang cantik: ada yang boleh berkawan dengan faedah atau bahkan minat cinta yang berpotensi tinggi.\n\nKlik pada gambar untuk memilih mereka. Apa bila sudah, klik \"Selesai\"."
 
-# game/code/d08/prologue.rpy:119
-translate malay prologue_girls_set_1_done_922f3b6c:
-
-    # "Stacy is going to move to your college and you have found a nice apartment for her. The owner is Lyssa (you are going to meet her next).\n\nWhat do you propose to her?"
-    "Stacy akan berpindah ke kolej anda dan anda telah menemui sebuah pangsapuri yang bagus untuknya. Pemiliknya adalah Lyssa (anda akan bertemu dengannya nanti).\n\nApa yang anda cadangkan kepadanya?"
-
 # game/code/d08/prologue.rpy:134
 translate malay prologue_girls_set_2_cd61a75b:
 
@@ -89,12 +71,6 @@ translate malay prologue_girls_set_3_done_7582b991:
 
     # "Into femdom, eh?\nOK, if your Mistress ordered to adore her body right now, which part would you focus on?"
     "Minat femdom, eh?\nOK, jika Puan anda memerintahkan untuk memuja tubuhnya sekarang, bahagian mana yang akan anda fokuskan?"
-
-# game/code/d08/prologue.rpy:177
-translate malay prologue_fetishes_4cc3c0e4:
-
-    # "And now it's time to choose your fetishes.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many fetishes as you want and press \"Done\"."
-    "Dan sekarang masanya untuk memilih fetish anda.\nJangan risau jika kini kegemaran anda tidak disenaraikan: Fetish Locator baru sahaja bermula!\nPilih seberapa banyak fetish yang anda mahu dan tekan \"Selesai\"."
 
 # game/code/d08/prologue.rpy:186
 translate malay prologue_finalize_b8dc714d:
@@ -208,5 +184,24 @@ translate malay strings:
 translate malay prologue_fetishes_7bc3a4e5:
 
     # "It's time to choose your preferences.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many as you want and press \"Done\"."
-    "It's time to choose your preferences.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many as you want and press \"Done\"."
+    "Sudah tiba masanya untuk memilih pilihan anda.\nJangan risau jika fetish kegemaran anda tidak disenaraikan: Fetish Locator baru sahaja bermula!\Pilih seberapa banyak yang anda mahu dan tekan \"Selesai\"."
 
+# TODO: Translation updated at 2022-11-12 13:32
+
+# game/code/d08/prologue.rpy:67
+translate malay prologue_fresh_start_ab0acec6:
+
+    # "We see that you have already completed the first chapter. If you want to keep playing with all your game progress intact, open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a}."
+    "Kami melihat bahawa anda telah menyelesaikan bab pertama. Jika anda ingin terus bermain dengan semua kemajuan permainan anda secara utuh, buka menu, klik \"Teruskan dari minggu [FLSS.week.prev]\" dan muatkan simpanan.\nJika anda mengalami sebarang masalah, sila hubungi kami di {a=https://discord.gg/efmQRNtFks}Discord{/a}."
+
+# game/code/d08/prologue.rpy:69
+translate malay prologue_fresh_start_d7ab3300:
+
+    # "We see that you have already completed the first chapter. If you want to keep playing with all your game progress intact, open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} or on {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
+    "Kami lihat bahawa anda telah menyelesaikan bab pertama. Sekiranya anda mahu terus bermain dengan semua kemajuan permainan anda yang sedia ada, buka menu, klik pada \"Sambung dari minggu [FLSS.week.prev]\" dan muatkan simpanan anda.\nSekiranya anda mengalami sebarang masalah, sila hubungi kami di {a=https://discord.gg/efmQRNtFks}Discord{/a} atau di {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
+
+# game/code/d08/prologue.rpy:80
+translate malay prologue_fresh_start_5b4c2953:
+
+    # "You are {b}[mcname]{/b} and your Fetish Locator user name is {b}[mclogin]{/b}."
+    "Anda ialah {b}[mcname]{/b} dan nama pengguna Fetish Locator anda ialah {b}[mclogin]{/b}."

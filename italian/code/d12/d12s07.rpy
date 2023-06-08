@@ -318,9 +318,3 @@ translate italian d12s07_a8cbc9d9:
     # mc "We were in a crowded coffee shop and she got on stage to sing an amazing song just for me..."
     mc "Stavamo in un bar affollatissimo e lei sale sulla pedana per cantare una canzone fantastica solo per me..."
 
-# game/code/d12/d12s07.rpy:112
-translate italian d12s07_e1e04952:
-
-    # "Save your game here"
-    "Salva il gioco qui."
-

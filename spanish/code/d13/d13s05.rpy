@@ -186,42 +186,6 @@ translate spanish replay_d13s05_d5153462:
     # nr "Don't worry, I already forgot it."
     nr "No te preocupes, ya lo he olvidado."
 
-# game/code/d13/d13s05.rpy:143
-translate spanish replay_d13s05_41302107:
-
-    # nr "Speaking of which... {w}I've been thinking about changing my name."
-    nr "Hablando de eso... {w}He estado pensando en cambiar mi nombre."
-
-# game/code/d13/d13s05.rpy:146
-translate spanish replay_d13s05_6b1f5dab:
-
-    # nr "Which name do you prefer? Chastity or Chase?"
-    nr "¿Qué nombre prefieres? ¿Castidad o Perseguida?"
-
-# game/code/d13/d13s05.rpy:151
-translate spanish replay_d13s05_51982b3f:
-
-    # mc "Chastity definitely sounds better."
-    mc "La Castidad definitivamente suena mejor."
-
-# game/code/d13/d13s05.rpy:156
-translate spanish replay_d13s05_84af4810:
-
-    # mc "Chase definitely sounds better."
-    mc "Perseguida definitivamente suena mejor."
-
-# game/code/d13/d13s05.rpy:160
-translate spanish replay_d13s05_27da25af:
-
-    # lc "I agree."
-    lc "Estoy de acuerdo."
-
-# game/code/d13/d13s05.rpy:163
-translate spanish replay_d13s05_064920f1:
-
-    # nr "Excellent. Thanks!"
-    nr "Excelente. ¡Gracias!"
-
 # game/code/d13/d13s05.rpy:166
 translate spanish replay_d13s05_5601da0d:
 

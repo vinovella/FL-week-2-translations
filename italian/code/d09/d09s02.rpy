@@ -1116,48 +1116,6 @@ translate italian d09s02_choice_5b7d345d_1:
     # mct "Oh boy, it better be fun. It's like I'm hunting for a long lost artifact or something here. Maybe I should buy a fedora and a whip?"
     mct "Speriamo davvero che sia divertente. Sembra una di quelle missioni dove vai in cerca di un manufatto perduto da tempo. Forse dovrei comprarmi anche un borsalino e una frusta?"
 
-# game/code/d09/d09s02.rpy:403
-translate italian d09s02_choice_c5037bcd:
-
-    # mct "I mean... I don't have to only pick {i}one{/i} here, do I?"
-    mct "Voglio dire... Non devo scegliere {i}un solo{/i} compito, vero?"
-
-# game/code/d09/d09s02.rpy:404
-translate italian d09s02_choice_b4ac2651:
-
-    # mct "They all sound pretty fun and interesting I suppose."
-    mct "A me sembrano tutti interessanti e divertenti."
-
-# game/code/d09/d09s02.rpy:405
-translate italian d09s02_choice_ea17e7c9:
-
-    # mct "I wouldn't mind giving the others a go as well."
-    mct "Non mi dispiacerebbe provarne anche altri."
-
-# game/code/d09/d09s02.rpy:408
-translate italian d09s02_choice_3fb88a21:
-
-    # mc "Can I pick more than one option?"
-    mc "Posso scegliere più di un compito?"
-
-# game/code/d09/d09s02.rpy:410
-translate italian d09s02_choice_21d70301:
-
-    # sb "Wow, daring aren't we?"
-    sb "Wow. Ce la sentiamo calda, eh?"
-
-# game/code/d09/d09s02.rpy:411
-translate italian d09s02_choice_cd991257:
-
-    # sb "I like it."
-    sb "Mi piace."
-
-# game/code/d09/d09s02.rpy:413
-translate italian d09s02_choice_25a0e435:
-
-    # sb "Go ahead. Pick whatever you want, baby."
-    sb "Fai pure. Scegline quanti ne vuoi, tesoro."
-
 translate italian strings:
 
     # game/code/d09/d09s02.rpy:60

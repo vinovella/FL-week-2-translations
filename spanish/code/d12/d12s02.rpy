@@ -817,3 +817,29 @@ translate spanish strings:
     # game/code/d12/d12s02.rpy:363
     old "Do it (spend [d12_cost_of_blitz] points)"
     new "Hacerlo (gastar [d12_cost_of_blitz] puntos)"
+# TODO: Translation updated at 2022-11-12 13:40
+
+# game/code/d12/d12s02.rpy:327
+translate spanish d12s02_52f7b26f:
+
+    # mct "New VIP challenge. Fuck 20 girls by Sunday. If succeed, could win the whole game."
+    mct "New VIP challenge. Fuck 20 girls by Sunday. If succeed, could win the whole game."
+
+# game/code/d12/d12s02.rpy:350
+translate spanish d12s02_facf8920:
+
+    # "Really? How many so far?"
+    "Really? How many so far?"
+
+# game/code/d12/d12s02.rpy:356
+translate spanish d12s02_5e5a4749:
+
+    # mct "Yes. [fl_w2_sex_count]."
+    mct "Yes. [fl_w2_sex_count]."
+
+# game/code/d12/d12s02.rpy:379
+translate spanish d12s02_376320a3:
+
+    # mct "Should I? If Hana goes for it, that'll be plus one fuck for the VIP challenge."
+    mct "Should I? If Hana goes for it, that'll be plus one fuck for the VIP challenge."
+

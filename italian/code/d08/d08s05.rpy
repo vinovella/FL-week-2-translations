@@ -222,12 +222,6 @@ translate italian d08s05_dd_6c0f74f9:
     # mc "Well, not you exactly."
     mc "Beh, non proprio per te."
 
-# game/code/d08/d08s05.rpy:87
-translate italian d08s05_dd_19e3d80a:
-
-    # sy "We're looking for Samiya. Or Dahlia, who can help us finding her."
-    sy "Stiamo cercando Samiya. O Dahlia, sperando che ci aiuti a trovarla."
-
 # game/code/d08/d08s05.rpy:88
 translate italian d08s05_dd_51e70fe8:
 
@@ -569,12 +563,6 @@ translate italian d08s05_dd_00765a01:
 
     # mc "Not really, but sure."
     mc "Non proprio, ma sì."
-
-# game/code/d08/d08s05.rpy:182
-translate italian d08s05_dd_a8a37161:
-
-    # dd "Not that night. Samiya and I and a couple guys went over to the the gym-"
-    dd "Beh, non quella notte. Samiya ed io andiamo alla palestra con un paio di ragazzi..."
 
 # game/code/d08/d08s05.rpy:183
 translate italian d08s05_dd_fda4f73e:

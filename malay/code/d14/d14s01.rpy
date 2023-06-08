@@ -270,3 +270,23 @@ translate malay d14s01_2835e914:
     # sb "In your dreams! Hahahahaha..."
     sb "Jangan beranganlah! Hahahahaha..."
 
+# TODO: Translation updated at 2022-11-12 13:32
+
+# game/code/d14/d14s01.rpy:91
+translate malay d14s01_79ee7a04:
+
+    # sb "You're going to lose. {w}But you'll lose your Johnson first."
+    sb "Kau akan kalah. {w}Kau akan hilang kau punya kote dulu."
+
+# game/code/d14/d14s01.rpy:121
+translate malay d14s01_ae9021c3:
+
+    # sb "Don't you get it? The only way to win is to not play. {w}So let me relieve you of your little trouble maker down there."
+    sb "Kau tak faham? Satu-satunya cara untuk menang ialah dengan tak bermain. {w}Jadi izinkan aku melepaskan kau daripada pembuat masalah kecil kau di bawah sana."
+
+# game/code/d14/d14s01.rpy:130
+translate malay d14s01_2f581f36:
+
+    # sb "Don't worry. The pain will only last a lifetime."
+    sb "Jangan risau. Sakit hanya akan berlarutan seumur hidup."
+

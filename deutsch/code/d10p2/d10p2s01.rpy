@@ -132,12 +132,6 @@ translate deutsch d10p2s01_5705689d:
     # mc "Uh, what?"
     mc "Ähm, was?"
 
-# game/code/d10p2/d10p2s01.rpy:111
-translate deutsch d10p2s01_e91fa22a:
-
-    # dd "Just come outside will be waiting for you there!"
-    dd "Komm einfach raus, wir werden da auf dich warten!"
-
 # game/code/d10p2/d10p2s01.rpy:112
 translate deutsch d10p2s01_76cbe5f4:
 

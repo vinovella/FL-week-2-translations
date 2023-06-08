@@ -928,3 +928,11 @@ translate russian strings:
     old "You're both beautiful"
     new "Вы обе прекрасны"
 
+# TODO: Translation updated at 2022-11-12 13:38
+
+# game/code/d08/d08s07.rpy:310
+translate russian d08s07_f9a4640e:
+
+    # mct "I don't want to fuck up my chances with the VIP Challenge, but I don't wanna fuck up my chances with Lydia either..."
+    mct "I don't want to fuck up my chances with the VIP Challenge, but I don't wanna fuck up my chances with Lydia either..."
+

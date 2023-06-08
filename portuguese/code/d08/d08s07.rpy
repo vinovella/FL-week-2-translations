@@ -928,3 +928,11 @@ translate portuguese strings:
     old "You're both beautiful"
     new "Vocês duas são lindas"
 
+# TODO: Translation updated at 2022-11-12 13:34
+
+# game/code/d08/d08s07.rpy:310
+translate portuguese d08s07_f9a4640e:
+
+    # mct "I don't want to fuck up my chances with the VIP Challenge, but I don't wanna fuck up my chances with Lydia either..."
+    mct "I don't want to fuck up my chances with the VIP Challenge, but I don't wanna fuck up my chances with Lydia either..."
+

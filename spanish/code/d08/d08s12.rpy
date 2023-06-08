@@ -276,12 +276,6 @@ translate spanish d08s12_pre_mc_action_49089914:
     # mc "I've never done anything like this before..."
     mc "Nunca había hecho algo como esto..."
 
-# game/code/d08/d08s12.rpy:166
-translate spanish d08s12_pre_mc_action_40be50e4:
-
-    # mct "I'm I really gonna do this? I barely even know what the hell I'm supposed to be doing!"
-    mct "¿De verdad voy a hacer esto? ¡Apenas sé qué diablos se supone que debo estar haciendo!"
-
 # game/code/d08/d08s12.rpy:169
 translate spanish d08s12_pre_mc_action_b17e9733:
 
@@ -371,12 +365,6 @@ translate spanish d08s12_deny_07662e23:
 
     # mh "Master. Please! Please may I stroke it?"
     mh "Maestro. ¡Por favor! Por favor, ¿puedo acariciarlo?"
-
-# game/code/d08/d08s12.rpy:215
-translate spanish d08s12_deny_7a18c32e:
-
-    # mc "Hm... Be a good girl and make me cum."
-    mc "Hm... Sé una buena chica y haz que me corra."
 
 # game/code/d08/d08s12.rpy:216
 translate spanish d08s12_deny_e9e9d431:
@@ -719,3 +707,11 @@ translate spanish d08s12_deny_8b37064c:
 
     # mc "Nope... Be a good girl and make me cum."
     mc "No... Sé una buena chica y haz que me corra."
+# TODO: Translation updated at 2022-11-12 13:40
+
+# game/code/d08/d08s12.rpy:545
+translate spanish d08s12_end_ebe54fab:
+
+    # mct "Just going to leave her a little warning about FL's privacy issues. She has more to worry about there than me."
+    mct "Just going to leave her a little warning about FL's privacy issues. She has more to worry about there than me."
+

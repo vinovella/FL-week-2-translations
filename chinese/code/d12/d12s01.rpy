@@ -1610,3 +1610,17 @@ translate chinese strings:
     old "No photos"
     new "不要照片"
 
+# TODO: Translation updated at 2022-11-12 13:18
+
+# game/code/d12/d12s01.rpy:235
+translate chinese d12s01_1b9a042d:
+
+    # mc "And we have a lot to win if I succeed."
+    mc "And we have a lot to win if I succeed."
+
+# game/code/d12/d12s01.rpy:382
+translate chinese d12s01_a2fa2c23:
+
+    # mct "Hmm... Is it related to this VIP challenge?"
+    mct "Hmm... Is it related to this VIP challenge?"
+

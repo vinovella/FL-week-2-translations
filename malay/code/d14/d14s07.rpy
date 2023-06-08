@@ -702,12 +702,6 @@ translate malay d14s07_cleanup_17f52e23:
     # cl "Damn..."
     cl "Sialan..."
 
-# game/code/d14/d14s07.rpy:423
-translate malay d14s07_end_485987f5:
-
-    # "Save your game here."
-    "Simpan permainan anda disini."
-
 translate malay strings:
 
     # game/code/d14/d14s07.rpy:248

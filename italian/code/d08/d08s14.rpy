@@ -1378,3 +1378,11 @@ translate italian strings:
     old "Yes, but..."
     new "Sì, ma..."
 
+# TODO: Translation updated at 2022-11-12 13:27
+
+# game/code/d08/d08s14.rpy:199
+translate italian d08s14_336ce5e2:
+
+    # mc "...But not for the reasons you're thinking of. I'm just not sure it's all it's made out to be."
+    mc "...But not for the reasons you're thinking of. I'm just not sure it's all it's made out to be."
+

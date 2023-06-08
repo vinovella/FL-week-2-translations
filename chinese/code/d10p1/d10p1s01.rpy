@@ -840,12 +840,6 @@ translate chinese d10p1s01_02d93ac8:
     # mesfl "Are you sure you can remember that?"
     mesfl "你确定你能记住？"
 
-# game/code/d10p1/d10p1s01.rpy:229
-translate chinese d10p1s01_b8630140:
-
-    # mc "Yep. I can remember [mc_safeword]..."
-    mc "没错，我能记住[mc_safeword]……"
-
 # game/code/d10p1/d10p1s01.rpy:230
 translate chinese d10p1s01_7c4103c2:
 
@@ -1281,3 +1275,11 @@ translate chinese d10p1s01_7e7578d2:
 
     # mc "Yep. I can remember [mc_safeword!t]..."
     mc "没错，我能记住[mc_safeword!t]……"
+# TODO: Translation updated at 2022-11-12 13:18
+
+# game/code/d10p1/d10p1s01.rpy:375
+translate chinese d10p1s01_427f0b81:
+
+    # mct "I think I recognize that girl. Is that Hana's girlfriend?"
+    mct "I think I recognize that girl. Is that Hana's girlfriend?"
+

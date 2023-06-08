@@ -12,18 +12,6 @@ translate chinese prologue_fresh_start_1b390ae3:
     # "In the second chapter of this visual novel, you will continue playing as a young college student and you'll explore love, lust and sexual fetishes with the hottest women in town."
     "在这部视觉小说的第二章，你将继续扮演一名年轻的大学生，并与城里最性感的女人一起探索爱情、情欲和性癖。"
 
-# game/code/d08/prologue.rpy:63
-translate chinese prologue_fresh_start_1aa77e92:
-
-    # "We see that you have already completed the first chapter. If you want to keep playing with all your game progress intact, open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/b6CNu2C}Discord{/a}."
-    "我们看到你已经通关了第一章。若你想保持游戏进度不变，请打开菜单，点击\"从第[FLSS.week.prev]周继续\"并加载保存。\n如有任何问题，请与我们联系：{a=https://discord.gg/b6CNu2C}Discord{/a}."
-
-# game/code/d08/prologue.rpy:65
-translate chinese prologue_fresh_start_16da65c2:
-
-    # "We see that you have already completed the first chapter. If you want to keep playing with all your game progress intact, open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/b6CNu2C}Discord{/a} or on {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
-    "我们看到你已经通关了第一章。若你想保持游戏进度不变，请打开菜单，点击\"从第[FLSS.week.prev]周继续\"并加载保存。\n如有任何问题，请通过下方与我们联系：{a=https://discord.gg/b6CNu2C}Discord{/a} 或 {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
-
 # game/code/d08/prologue.rpy:66
 translate chinese prologue_fresh_start_56a763ee:
 
@@ -60,12 +48,6 @@ translate chinese prologue_girls_set_1_3502c4fc:
     # "In the first week you met several beautiful girls: some can be friends with benefits or even potential love interests.\n\nClick on their portraits to select them. When finished press \"Done\"."
     "在第一周，你遇到了几个漂亮的女孩：有些可能是炮友，有些可能是潜在恋人。\n\n点击头像进行选择。完成后按\"完成\"。"
 
-# game/code/d08/prologue.rpy:119
-translate chinese prologue_girls_set_1_done_922f3b6c:
-
-    # "Stacy is going to move to your college and you have found a nice apartment for her. The owner is Lyssa (you are going to meet her next).\n\nWhat do you propose to her?"
-    "史黛西要搬到你们学校去住，你为她找了一套很好的公寓。房主是丽莎(你接下来会见到她)。\n\n你对她有什么建议？"
-
 # game/code/d08/prologue.rpy:134
 translate chinese prologue_girls_set_2_cd61a75b:
 
@@ -89,12 +71,6 @@ translate chinese prologue_girls_set_3_done_7582b991:
 
     # "Into femdom, eh?\nOK, if your Mistress ordered to adore her body right now, which part would you focus on?"
     "喜欢强势女王，嗯？\n好的，如果你的女主人命令你现在欣赏她的身体，你会集中注意哪一部位？"
-
-# game/code/d08/prologue.rpy:177
-translate chinese prologue_fetishes_4cc3c0e4:
-
-    # "And now it's time to choose your fetishes.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many fetishes as you want and press \"Done\"."
-    "现在是时候选择你的癖好了。\n若你喜欢的癖好未被列出，不要担心：性趣探测器才刚刚开始！\n随心选择任意性癖，数量不限，然后按\"完成\"。"
 
 # game/code/d08/prologue.rpy:186
 translate chinese prologue_finalize_b8dc714d:
@@ -209,3 +185,22 @@ translate chinese prologue_fetishes_7bc3a4e5:
     # "It's time to choose your preferences.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many as you want and press \"Done\"."
     "It's time to choose your preferences.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many as you want and press \"Done\"."
 
+# TODO: Translation updated at 2022-11-12 13:18
+
+# game/code/d08/prologue.rpy:67
+translate chinese prologue_fresh_start_ab0acec6:
+
+    # "We see that you have already completed the first chapter. If you want to keep playing with all your game progress intact, open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a}."
+    "我们看到你已经通关了第一章。若你想保持游戏进度不变，请打开菜单，点击\"从第[FLSS.week.prev]周继续\"并加载保存。\n如有任何问题，请与我们联系：{a=https://discord.gg/efmQRNtFks}Discord{/a}."
+
+# game/code/d08/prologue.rpy:69
+translate chinese prologue_fresh_start_d7ab3300:
+
+    # "We see that you have already completed the first chapter. If you want to keep playing with all your game progress intact, open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} or on {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
+    "我们看到你已经通关了第一章。若你想保持游戏进度不变，请打开菜单，点击\"从第[FLSS.week.prev]周继续\"并加载保存。\n如有任何问题，请通过下方与我们联系：{a=https://discord.gg/efmQRNtFks}Discord{/a} 或 {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
+
+# game/code/d08/prologue.rpy:80
+translate chinese prologue_fresh_start_5b4c2953:
+
+    # "You are {b}[mcname]{/b} and your Fetish Locator user name is {b}[mclogin]{/b}."
+    "You are {b}[mcname]{/b} and your Fetish Locator user name is {b}[mclogin]{/b}."

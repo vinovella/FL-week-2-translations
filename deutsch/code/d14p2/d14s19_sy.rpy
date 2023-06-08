@@ -90,12 +90,6 @@ translate deutsch d14s19_sy_7a859f4e:
     # mc "I know we joke around a lot, but you're my sister."
     mc "Ich weiß wir ärgern uns viel, aber du bist meine Schwester."
 
-# game/code/d14p2/d14s19_sy.rpy:164
-translate deutsch d14s19_sy_bd9f0ccd:
-
-    # sy "And you're my brother. I'm still going to fuck you senseless."
-    sy "Und du bist mein Bruder. Ich ficke dich trotzdem bis in die Nacht hinein."
-
 # game/code/d14p2/d14s19_sy.rpy:166
 translate deutsch d14s19_sy_c15041b4:
 
@@ -180,18 +174,6 @@ translate deutsch d14s19_sy_6b85b289:
     # mc "I can't believe I'm saying this aloud, but..."
     mc "Ich fasse es nicht das ich das Laut sage, aber..."
 
-# game/code/d14p2/d14s19_sy.rpy:203
-translate deutsch d14s19_sy_0a8be510:
-
-    # mc "I didn't have a perfect outfit picked out."
-    mc "Ich habe kein perfektes Outfit gefunden."
-
-# game/code/d14p2/d14s19_sy.rpy:205
-translate deutsch d14s19_sy_d7c7153a:
-
-    # mc "I have to tell you - I've been fantasizing about this."
-    mc "Ich gebe zu, ich habe darüber fantasiert."
-
 # game/code/d14p2/d14s19_sy.rpy:207
 translate deutsch d14s19_sy_4163fac9:
 
@@ -221,12 +203,6 @@ translate deutsch d14s19_sy_ac0da949:
 
     # sy "[mcname] I want you to wreck my tight twat."
     sy "[mcname] Ich will das du mich durchnimmst."
-
-# game/code/d14p2/d14s19_sy.rpy:251
-translate deutsch d14s19_sy_5f504b4b:
-
-    # mc "I cannot wait."
-    mc "Ich kann nicht mehr wartenw."
 
 # game/code/d14p2/d14s19_sy.rpy:280
 translate deutsch d14s19_sy_014fbf76:
@@ -288,47 +264,11 @@ translate deutsch d14s19_sy_cum_1bc67c36:
     # mc "Alright then, I'll show you."
     mc "Alles klar, ich zeige es dir."
 
-# game/code/d14p2/d14s19_sy.rpy:822
-translate deutsch d14s19_sy_cum_face_2fb7eace:
-
-    # mc "How do you like your new facial moisturizer?"
-    mc "Wie magst du deinen neuen Face-moisturizer?"
-
 # game/code/d14p2/d14s19_sy.rpy:824
 translate deutsch d14s19_sy_cum_face_9a3cd4c9:
 
     # sy "You're my new favorite beauty routine."
     sy "Du bist meine neue Lieblings-Beauty-Routine."
-
-# game/code/d14p2/d14s19_sy.rpy:834
-translate deutsch d14s19_sy_cum_mouth_a825ff88:
-
-    # mc "I think I know just how to shut you up."
-    mc "Ich denke ich weiß wie ich dich ruhig bekomme."
-
-# game/code/d14p2/d14s19_sy.rpy:836
-translate deutsch d14s19_sy_cum_mouth_d7d3feae:
-
-    # mc "Your mouth was made for my cock!"
-    mc "Dein Mund ist für meinen Schwanz gemacht!"
-
-# game/code/d14p2/d14s19_sy.rpy:839
-translate deutsch d14s19_sy_cum_mouth_2c186f8e:
-
-    # mc "FUCK YEAHHHHH!!!"
-    mc "FUCK YEAHHHHH!!!"
-
-# game/code/d14p2/d14s19_sy.rpy:841
-translate deutsch d14s19_sy_cum_mouth_b95ade8a:
-
-    # mc "I'm just going to enjoy the quiet for once."
-    mc "Ich genieße einmalig diese Stille."
-
-# game/code/d14p2/d14s19_sy.rpy:848
-translate deutsch d14s19_sy_cum_mouth_81d35f9c:
-
-    # sy "You're right. My mouth was made for your cock."
-    sy "Du hast recht. Mein Mund ist für deinen Schwanz gemacht."
 
 # game/code/d14p2/d14s19_sy.rpy:868
 translate deutsch d14s19_sy_cum_tits_da8f1ff1:
@@ -468,23 +408,11 @@ translate deutsch d14s19_sy_end_83233e41:
     # sy "Don't worry. Even in my dreams, you're always in a rental tux, along with your groomsman."
     sy "Mach dir keine Gedanken. In meinen Träumen, bist du schon immer der ideale Mann gewesen."
 
-# game/code/d14p2/d14s19_sy.rpy:911
-translate deutsch d14s19_sy_end_78e953fe:
-
-    # sy "In my dream, my bridesmaids all made their own dresses. I wear white. They each wear a different primary color."
-    sy "In meinen Träumen, hatten alle eigene Kleider an. Ich trage weiß. Alle anderen eine andere Farbe"
-
 # game/code/d14p2/d14s19_sy.rpy:915
 translate deutsch d14s19_sy_end_7129dea6:
 
     # mc "Nice."
     mc "Nice."
-
-# game/code/d14p2/d14s19_sy.rpy:925
-translate deutsch d14s19_sy_end_cc1c746e:
-
-    # sy "Also I now imagine that AmRose is the bridesmaid wearing red."
-    sy "AmRose ist dabei die Dame an meiner Seite mit einem roten Kleid."
 
 # game/code/d14p2/d14s19_sy.rpy:927
 translate deutsch d14s19_sy_end_b2a7c242:
