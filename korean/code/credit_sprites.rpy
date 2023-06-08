@@ -36,11 +36,11 @@ translate korean strings:
 
     # game/code/credit_sprites.rpy:125
     old "This game was only\nmade possible with\nall the support we have\nfrom Patreon\nand SubscribeStar"
-    new "이 게임은\nPatreon과\nSubscribeStar를 통해\n여러분이 주신 지원이 있었기에\n만들어질 수 있었습니다"
+    new "이 게임은 Patreon과\nSubscribeStar를\n통해 여러분이 주신\n지원이 있었기에\n만들어질 수 있었습니다"
 
     # game/code/credit_sprites.rpy:133
     old "Huge thanks to\nall of our fans\nand everyone who\nsupported us and\nhelped to bring\nthis story to life"
-    new "팬 여러분과\n저희를 지원해 주시고\n이 이야기를 실현하는 데\n도움을 주신\n모든 분들께\n진심으로 감사 드립니다" 
+    new "팬 여러분과\n저희를 지원해 주시고\n이 이야기를 실현하는 데\n도움을 주신\n모든 분들께\n진심으로 감사 드립니다"
 
     # game/code/credit_sprites.rpy:142
     old "SKIP"
@@ -53,4 +53,3 @@ translate korean strings:
     # game/code/credit_sprites.rpy:171
     old "We'll see you in Week Three!"
     new "3주차에서 뵙겠습니다!"
-

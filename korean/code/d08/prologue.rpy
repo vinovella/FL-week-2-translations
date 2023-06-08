@@ -10,7 +10,7 @@ translate korean prologue_fresh_start_4063ae17:
 translate korean prologue_fresh_start_1b390ae3:
 
     # "In the second chapter of this visual novel, you will continue playing as a young college student and you'll explore love, lust and sexual fetishes with the hottest women in town."
-    "페티시 로케이터의 두 번째 장에서, 당신은 첫째 주에 계속해서 젊은 대학생으로 플레이 하게 됩니다. 그리고 도시에서 가장 섹시한 여성들과 사랑, 성욕, 성적 페티시를 탐색하게 되죠."
+    "{size=30}페티시 로케이터의 두 번째 장에서, 당신은 첫째 주에 계속해서 젊은 대학생으로 플레이 하게 됩니다. 그리고 도시에서 가장 섹시한 여성들과 사랑, 성욕, 성적 페티시를 탐색하게 되죠.{/size}"
 
 # game/code/d08/prologue.rpy:70
 translate korean prologue_fresh_start_56a763ee:
@@ -22,7 +22,7 @@ translate korean prologue_fresh_start_56a763ee:
 translate korean prologue_fresh_start_b5c6b797:
 
     # "Here's your girlfriend Lydia and your friend Amber-Rose.\nLydia is calm, romantic and sweet as much as Amber-Rose is feisty and passionate.\nLet's get to know them better!"
-    "여기 당신의 여자 친구인 리디아와 당신의 친구인 앰버-로즈가 있습니다.\n리디아는 차분하고, 낭만적이며, 친절합니다. 그리고 그만큼 앰버-로즈는 성마르고 열정적입니다.\n이제 더 잘 알아보죠!"
+    "{size=30}여기 당신의 여자 친구인 리디아와 당신의 친구인 앰버-로즈가 있습니다.\n리디아는 차분하고, 낭만적이며, 친절합니다. 그리고 그만큼 앰버-로즈는 성마르고 열정적입니다.\n이제 더 잘 알아보죠!{/size}"
 
 # game/code/d08/prologue.rpy:89
 translate korean prologue_fresh_start_cbd04ca6:
@@ -46,19 +46,19 @@ translate korean prologue_fresh_start_36fcdd97:
 translate korean prologue_fetishes_7bc3a4e5:
 
     # "It's time to choose your preferences.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many as you want and press \"Done\"."
-    "이제 당신의 취향을 고를 때입니다.\n가장 좋아하는 성벽이 목록에 없다고 해서 걱정하지 마세요: 페티시 로케이터는 막 시작되었으니까요!\n원하는 만큼 고르신 후 \"완료\"를 누르세요."
+    "{size=30}이제 당신의 취향을 고를 때입니다.\n가장 좋아하는 성벽이 목록에 없다고 해서 걱정하지 마세요: 페티시 로케이터는 막 시작되었으니까요!\n원하는 만큼 고르신 후 \"완료\"를 누르세요.{size=30}"
 
 # game/code/d08/prologue.rpy:131
 translate korean prologue_girls_set_1_3502c4fc:
 
     # "In the first week you met several beautiful girls: some can be friends with benefits or even potential love interests.\n\nClick on their portraits to select them. When finished press \"Done\"."
-    "첫째 주에 당신은 아름다운 여자 몇 명을 만났습니다: 단순히 성관계만 같이 하는 친구일 수도 있고 잠재적인 연애 대상일 수도 있습니다.\n\n이미지를 클릭해 선택하십시오. 선택이 끝냈다면 \"완료\"를 누르세요."
+    "{size=29}첫째 주에 당신은 아름다운 여자 몇 명을 만났습니다: 단순히 성관계만 같이 하는 친구일 수도 있고 잠재적인 연애 대상일 수도 있습니다.\n\n이미지를 클릭해 선택하십시오. 선택이 끝냈다면 \"완료\"를 누르세요.{/size}"
 
 # game/code/d08/prologue.rpy:150
 translate korean prologue_girls_set_2_cd61a75b:
 
     # "More girls for you! But you cannot choose all of them.\nSelect one or two girls, then press \"Done\".\n\nPS: read their description carefully ;)"
-    "더 많은 여자들이 있습니다! 하지만 모두 고를 수는 없습니다.\n한두 명을 고르시고, \"완료\"를 누르세요.\n\n추신: 소개 문구를 주의 깊게 읽으세요 ;)"
+    "{size=30}더 많은 여자들이 있습니다! 하지만 모두 고를 수는 없습니다.\n한두 명을 고르시고, \"완료\"를 누르세요.\n\n추신: 소개 문구를 주의 깊게 읽으세요 ;){/size}"
 
 # game/code/d08/prologue.rpy:162
 translate korean prologue_girls_set_2_done_61fc0900:
@@ -178,10 +178,10 @@ translate korean strings:
 translate korean prologue_fresh_start_ab0acec6:
 
     # "We see that you have already completed the first chapter. If you want to keep playing with all your game progress intact, open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a}."
-    "첫 번째 장을 마치셨다는 걸 압니다. 게임 진행 사항을 이어서 플레이 하고 싶으시다면, 메뉴를 열고, \"[FLSS.week.prev] 주 이어하기\"를 클릭하여 첫째 주 엔딩 저장 파일을 불러오십시오.\n이 과정에서 문제를 경험하셨다면, {a=https://discord.gg/efmQRNtFks}Discord{/a}를 통해 저희에게 연락을 주십시오."
+    "{size=29}첫 번째 장을 마치셨다는 걸 압니다. 게임 진행 사항을 이어서 플레이 하고 싶으시다면, 메뉴를 열고, \"[FLSS.week.prev] 주 이어하기\"를 클릭하여 첫째 주 엔딩 저장 파일을 불러오십시오.\n이 과정에서 문제를 경험하셨다면, {a=https://discord.gg/efmQRNtFks}Discord{/a}를 통해 저희에게 연락을 주십시오.{/size}"
 
 # game/code/d08/prologue.rpy:69
 translate korean prologue_fresh_start_d7ab3300:
 
     # "We see that you have already completed the first chapter. If you want to keep playing with all your game progress intact, open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} or on {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
-    "첫 번째 장을 마치셨다는 걸 압니다. 게임 진행 사항을 이어서 플레이 하고 싶으시다면, 메뉴를 열고, \"[FLSS.week.prev] 이어하기\"를 클릭하여 첫째 주 엔딩 저장 파일을 불러오십시오.\n이 과정에서 문제를 경험하셨다면, {a=https://discord.gg/efmQRNtFks}Discord{/a} 또는 {a=https://www.patreon.com/fetishlocator}Patreon{/a}를 통해 저희에게 연락을 주십시오."
+    "{size=29}첫 번째 장을 마치셨다는 걸 압니다. 게임 진행 사항을 이어서 플레이 하고 싶으시다면, 메뉴를 열고, \"[FLSS.week.prev] 이어하기\"를 클릭하여 첫째 주 엔딩 저장 파일을 불러오십시오.\n이 과정에서 문제를 경험하셨다면, {a=https://discord.gg/efmQRNtFks}Discord{/a} 또는 {a=https://www.patreon.com/fetishlocator}Patreon{/a}를 통해 저희에게 연락을 주십시오.{/size}"
