@@ -28,13 +28,13 @@ translate turkish d14s14_9e42ddcd:
 translate turkish d14s14_c2947e97:
 
     # dd "Representing the Male Gender - you know him, you love him, you want his hard manmeat pounding away at your uterus...{w} [mcname] the Fornicator!"
-    dd "Erkek Cinsiyeti Temsil Eden - Onu tanıyorsun, seviyorsun, sert erkek etinin rahminde güm güm atmasını istiyorsun...{ w} [mcname] Zina Yapan!"
+    dd "Erkek Cinsiyeti Temsil Eden - Onu tanıyorsun, seviyorsun, sert erkek etinin rahminde güm güm atmasını istiyorsun...{w} [mcname] Zina Yapan!"
 
 # game/code/d14p2/d14s14.rpy:67
 translate turkish d14s14_14bc14c7:
 
     # dd "Representing the Female Gender - that salacious succubus, that saccharine slitch, that scintillating seductress...{w} Slammin' Samiya!"
-    dd "Dişi Cinsiyeti temsil eden - o müstehcen şeytan, o sakarin sürtük, o parıldayan baştan çıkarıcı kadın... { w} Slammin' Samiya!"
+    dd "Dişi Cinsiyeti temsil eden - o müstehcen şeytan, o sakarin sürtük, o parıldayan baştan çıkarıcı kadın... {w} Slammin' Samiya!"
 
 # game/code/d14p2/d14s14.rpy:70
 translate turkish d14s14_85c2b36a:

@@ -442,7 +442,7 @@ translate turkish d13s05_cowgirl_a64d0b92:
 translate turkish d13s05_cowgirl_d7295566:
 
     # nr "You just earned yourself 10%% off of your next purchase!"
-    nr "Bir sonraki alışverişinizde kendinize %10 indirim kazandınız!"
+    nr "Bir sonraki alışverişinizde kendinize %%10 indirim kazandınız!"
 
 # game/code/d13/d13s05.rpy:423
 translate turkish d13s05_wallsex_44554c61:

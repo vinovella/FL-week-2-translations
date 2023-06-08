@@ -178,7 +178,7 @@ translate turkish d08s11_237b52e1:
 translate turkish d08s11_77f2810e:
 
     # ceo "I am 100%% human, with a proper mother and father."
-    ceo "Düzgün bir anne ve babaya sahip %100 insanım."
+    ceo "Düzgün bir anne ve babaya sahip %%100 insanım."
 
 # game/code/d08/d08s11.rpy:89
 translate turkish d08s11_379774b1:

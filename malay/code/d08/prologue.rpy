@@ -200,8 +200,3 @@ translate malay prologue_fresh_start_d7ab3300:
     # "We see that you have already completed the first chapter. If you want to keep playing with all your game progress intact, open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} or on {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
     "Kami lihat bahawa anda telah menyelesaikan bab pertama. Sekiranya anda mahu terus bermain dengan semua kemajuan permainan anda yang sedia ada, buka menu, klik pada \"Sambung dari minggu [FLSS.week.prev]\" dan muatkan simpanan anda.\nSekiranya anda mengalami sebarang masalah, sila hubungi kami di {a=https://discord.gg/efmQRNtFks}Discord{/a} atau di {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
 
-# game/code/d08/prologue.rpy:80
-translate malay prologue_fresh_start_5b4c2953:
-
-    # "You are {b}[mcname]{/b} and your Fetish Locator user name is {b}[mclogin]{/b}."
-    "Anda ialah {b}[mcname]{/b} dan nama pengguna Fetish Locator anda ialah {b}[mclogin]{/b}."

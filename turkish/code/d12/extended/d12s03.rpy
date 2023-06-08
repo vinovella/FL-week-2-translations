@@ -346,7 +346,7 @@ translate turkish d12s03_54dca20f:
 translate turkish d12s03_3cc4d8a4:
 
     # jdg "You were wearing a mask. I can't be 100%% certain that you are the same person."
-    jdg "Maske takıyordun. Aynı kişi olduğundan %100 emin olamam."
+    jdg "Maske takıyordun. Aynı kişi olduğundan %%100 emin olamam."
 
 # game/code/d12/extended/d12s03.rpy:217
 translate turkish d12s03_0a2b5735:

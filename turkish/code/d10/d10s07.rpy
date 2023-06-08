@@ -340,13 +340,13 @@ translate turkish d10s07_518751fe:
 translate turkish d10s07_8334e8fa:
 
     # mc "They cost 50 points. I have [fl_points], so it's not a problem."
-    mc "50 puana mal oldular. [fl_puanlarım] var, bu yüzden sorun değil."
+    mc "50 puana mal oldular. [fl_points] var, bu yüzden sorun değil."
 
 # game/code/d10/d10s07.rpy:146
 translate turkish d10s07_06e92e33:
 
     # mc "They cost 50 points. I only have [fl_points], so I'll need to earn [d10s07_points_needed] more."
-    mc "50 puana mal oldular. Yalnızca [fl_puanlarım] var , bu yüzden [d10s07_points_needed] daha kazanmam gerekecek."
+    mc "50 puana mal oldular. Yalnızca [fl_points] var , bu yüzden [d10s07_points_needed] daha kazanmam gerekecek."
 
 # game/code/d10/d10s07.rpy:148
 translate turkish d10s07_4d25d684:

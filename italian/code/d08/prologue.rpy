@@ -192,8 +192,3 @@ translate italian prologue_fresh_start_d7ab3300:
     # "We see that you have already completed the first chapter. If you want to keep playing with all your game progress intact, open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} or on {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
     "Notiamo che hai già completato la prima parte. Se vuoi continuare la tua precedente partita con tutti i dati, apri il menu, clicca \"Continua dalla [FLSS.week.prev]ª sett.\" e carica il salvataggio.\nPer ogni problema, ti invitiamo a contattarci su {a=https://discord.gg/efmQRNtFks}Discord{/a} o su {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
 
-# game/code/d08/prologue.rpy:80
-translate italian prologue_fresh_start_5b4c2953:
-
-    # "You are {b}[mcname]{/b} and your Fetish Locator user name is {b}[mclogin]{/b}."
-    "You are {b}[mcname]{/b} and your Fetish Locator user name is {b}[mclogin]{/b}."

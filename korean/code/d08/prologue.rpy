@@ -18,12 +18,6 @@ translate korean prologue_fresh_start_56a763ee:
     # "Now the game will ask you some questions and it will configure your profile.\nFor a better experience, we invite you to play the first chapter of Fetish Locator."
     "이제 몇몇 질문을 통해 주인공의 선택을 구성하고자 합니다.\n최고의 경험을 위해, 페티시 로케이터 첫 장을 플레이 하시길 권합니다."
 
-# game/code/d08/prologue.rpy:80
-translate korean prologue_fresh_start_5b4c2953:
-
-    # "You are {b}[mcname]{/b} and your Fetish Locator user name is {b}[mclogin]{/b}."
-    "당신은 {b}[mcname]{/b}입니다. 그리고 당신이 페티시 로케이터 사용자 이름은 {b}[mclogin]{/b}입니다."
-
 # game/code/d08/prologue.rpy:87
 translate korean prologue_fresh_start_b5c6b797:
 

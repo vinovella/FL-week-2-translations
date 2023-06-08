@@ -188,8 +188,3 @@ translate russian prologue_fresh_start_d7ab3300:
     # "We see that you have already completed the first chapter. If you want to keep playing with all your game progress intact, open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} or on {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
     "Мы видим, что ты уже закончил первую главу. Если ты хочешь продолжить играть со всем твоим игровым прогрессом, открой меню и нажми кнопку \"Продолжить с недели [FLSS.week.prev]\" и загрузи сохранение.\nЕсли возникли какие-либо проблемы, пожалуйста, свяжись с нами на {a=https://discord.gg/efmQRNtFks}Discord{/a}. или на {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
 
-# game/code/d08/prologue.rpy:80
-translate russian prologue_fresh_start_5b4c2953:
-
-    # "You are {b}[mcname]{/b} and your Fetish Locator user name is {b}[mclogin]{/b}."
-    "You are {b}[mcname]{/b} and your Fetish Locator user name is {b}[mclogin]{/b}."

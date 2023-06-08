@@ -30,12 +30,6 @@ translate turkish prologue_fresh_start_56a763ee:
     # "Now the game will ask you some questions and it will configure your profile.\nFor a better experience, we invite you to play the first chapter of Fetish Locator."
     "Şimdi oyun size bazı sorular soracak ve profilinizi yapılandıracak.\nDaha iyi bir deneyim için sizi Fetish Locator'ın ilk bölümünü oynamaya davet ediyoruz."
 
-# game/code/d08/prologue.rpy:80
-translate turkish prologue_fresh_start_5b4c2953:
-
-    # "You are {b}[mcname]{/b} and your Fetish Locator user name is {b}[mclogin]{/b}."
-    "Siz {b}[mcname]{/b} siniz ve Fetish Locator kullanıcı adınız {b}[mclogin]{/b}."
-
 # game/code/d08/prologue.rpy:87
 translate turkish prologue_fresh_start_b5c6b797:
 

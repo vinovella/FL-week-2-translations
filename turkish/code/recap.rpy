@@ -592,7 +592,7 @@ translate turkish d08s00_week1synopsis_c0bddbf9:
 translate turkish d08s00_week1synopsis_227ab1f0:
 
     # "On Sunday, [mcname] headed out to the beach with AmRose and Stacy for the \"Officially Unofficial\" start of the summer."
-    "Pazar günü [mcname], AmRose ve Stacy ile birlikte " Resmi Olarak Gayri Resmi " yaz başlangıcı için sahile gitti."
+    "Pazar günü [mcname], AmRose ve Stacy ile birlikte \"Resmi Olarak Gayri Resmi\" yaz başlangıcı için sahile gitti."
 
 # game/code/recap.rpy:383
 translate turkish d08s00_week1synopsis_a196715c:

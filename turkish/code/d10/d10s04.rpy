@@ -388,7 +388,7 @@ translate turkish d10s04_9e791118:
 translate turkish d10s04_1f9efbd8:
 
     # vw "40%% off. Employee special."
-    vw "%40 indirim. Çalışana özel."
+    vw "%%40 indirim. Çalışana özel."
 
 # game/code/d10/d10s04.rpy:216
 translate turkish d10s04_566beecf:
