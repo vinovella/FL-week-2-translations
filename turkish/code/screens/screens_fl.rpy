@@ -200,5 +200,5 @@ translate turkish strings:
 
     # game/code/screens/screens_fl.rpy:888
     old "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
-    new "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
+    new "Devam etmeye karar verirseniz, kayıtlarınız farklı haftalar arasında çalışmayabilir. Size tekrar bildirim gönderilmeyecek. Emin misiniz?"
 
