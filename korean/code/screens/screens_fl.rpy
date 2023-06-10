@@ -4,7 +4,7 @@ translate korean strings:
 
     # game/code/screens/screens_fl.rpy:55
     old "Your second week on Fetish Locator ends here"
-    new "페티시 로케이터에서의 두 번째 주는 여기서 끝납니다"
+    new "페티시 로케이터에서의 두 번째 주 이야기는 여기서 끝납니다"
 
     # game/code/screens/screens_fl.rpy:64
     old "Please type a name for the save file below and click save"
@@ -48,7 +48,7 @@ translate korean strings:
 
     # game/code/screens/screens_fl.rpy:232
     old "{u}Fill the questionnaire to play week [FLSS.week.cur] without loading a save{/u}"
-    new "{u}저장 파일을 불러오지 않고 질문을 채워 [FLSS.week.cur]주차를 플레이 하십시오{/u}"
+    new "{u}저장 파일을 불러오지 않고 설문을 채워 [FLSS.week.cur]주차를 플레이 하십시오{/u}"
 
     # game/code/screens/screens_fl.rpy:313
     old "Touch input supported"
@@ -104,7 +104,7 @@ translate korean strings:
 
     # game/code/screens/screens_fl.rpy:547
     old "Go back and enable {b}Trans Content{/b} to be able to select Lyssa"
-    new "민을 선택하려면 뒤로 가서 {b}성전환 콘텐츠{/b}를 활성화 하십시오"
+    new "리사를 선택하려면 뒤로 가서 {b}성 전환 콘텐츠{/b}를 활성화 하십시오"
 
     # game/code/screens/screens_fl.rpy:641
     old "How do you want to name your save?"
@@ -120,7 +120,7 @@ translate korean strings:
 
     # game/code/screens/screens_fl.rpy:765
     old "Fetish Locator is intended for a mature audience\nof 18 years or older. Please abide by your local laws.\nAll characters are 18 years or older. No exceptions.\nThe characters in Fetish Locator explore relationships and their sexuality in both healthy and unhealthy ways. Some of these may be offensive to some players. Viewer discretion is advised. To that end, much of the content is optional and often there are alternative paths available. This is necessary to the story. The content explored should not be treated as an endorsement of particular fetishes, kinks, or patterns of behaviour. Please explore your own relationships and sexuality responsibly.\n\nEnjoy!"
-    new "페티시 로케이터는 성년을 넘은 성인 사용자를 대상으로 하는 게임입니다.\n성년은 귀하가 준수해야 하는 법령에 따릅니다. 법령을 준수하여 주십시오.\n게임 속 모든 등장 인물은 성년이 지난 성인입니다. 예외는 없습니다.\n페티시 로케이 터의 등장 인물은 건전한 방식과 불건전한 방식으로 관계와 성행위를 탐험합니다.\n등장 인물의 일부 언행은 일부 사용자에게 불쾌감을 줄 수 있습니다.\n사용자의 주의를 권고합니다. 사용자의 재량권을 보장하기 위해,\n게임 내 대부분 의 콘텐츠는 선택이 가능하고 많은 경우에 대안이 준비되어 있습니다.\n선택은 게임의 이야기가 밀접하게 연결되어 있습니다.\n게임은 특정 성적 집착, 성적 기벽. 행동 양식을 권장하지 않습니다.\n여러분 책임 아래 관계와 성행위를 직접 탐험해 보십시오.\n\n즐거운 시간 보내시길 바랍니다!!"
+    new "페티시 로케이터는 성년을 넘은 성인 사용자를 대상으로 하는 게임입니다.\n성년은 귀하가 준수해야 하는 법령에 따릅니다. 법령을 준수하여 주십시오.\n게임 속 모든 등장 인물은 성년이 지난 성인입니다. 예외는 없습니다.\n페티시 로케이터의 등장 인물은 건전한 방식과 \n불건전한 방식으로 관계와 성행위를 탐험합니다.\n등장 인물의 일부 언행은 일부 사용자에게 불쾌감을 줄 수 있습니다.\n사용자의 주의를 권고합니다. 사용자의 재량권을 보장하기 위해,\n게임 내 대부분의 콘텐츠는 선택이 가능하고 \n많은 경우에 대안이 준비되어 있습니다.\n선택은 게임의 이야기가 밀접하게 연결되어 있습니다.\n게임은 특정 성적 집착, 성적 기벽. 행동 양식을 권장하지 않습니다.\n여러분 책임 아래 관계와 성행위를 직접 탐험해 보십시오.\n\n즐거운 시간 보내시길 바랍니다!!"
 
     # game/code/screens/screens_fl.rpy:806
     old "X-RAY"
@@ -132,7 +132,7 @@ translate korean strings:
 
     # game/code/screens/screens_fl.rpy:865
     old "Your device cannot save the game progress through different weeks. Please, allow FL App to write on the external storage."
-    new "기기에서 다른 주차의 진행 사항에 접근할 수 없습니다. 페티시 로케이터 앱이 외부 저장소를 사용할 수 있도록 허용해 주십시오."
+    new "기기에서 다른 주차의 진행 사항에 접근할 수 없습니다. 페티시 로케이터 앱이 외부 저장소를 사용할 수 있도록 권한을 부여해 주십시오."
 
     # game/code/screens/screens_fl.rpy:867
     old "On most devices you can set the permissions on the Setting app."
@@ -176,7 +176,9 @@ translate korean strings:
 
     # game/code/screens/screens_fl.rpy:887
     old "Confirm"
-    new "확인"# TODO: Translation updated at 2023-06-01 13:45
+    new "확인"
+    
+# TODO: Translation updated at 2023-06-01 13:45
 
 translate korean strings:
 
@@ -194,9 +196,9 @@ translate korean strings:
 
     # game/code/screens/screens_fl.rpy:590
     old "Yes to all"
-    new "모든 것에 예"
+    new "모든 성벽 허용"
 
     # game/code/screens/screens_fl.rpy:888
     old "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
-    new "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
+    new "계속 진행하는 경우, 다른 주 사이의 저장 파일이 작동하지 않을 수 있습니다. 다시 경고를 받지 않게 됩니다. 괜찮겠습니까?"
 
