@@ -108,7 +108,7 @@ translate korean strings:
 
     # game/code/data/prologue.rpy:34
     old "Trans Content"
-    new "성 전환 컨텐츠"
+    new "성 전환 콘텐츠"
 
     # game/code/data/prologue.rpy:34
     old "Anal play"
