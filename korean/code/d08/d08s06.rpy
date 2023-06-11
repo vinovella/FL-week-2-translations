@@ -34,13 +34,13 @@ translate korean d08s06_a31340dd:
 translate korean d08s06_811c7687:
 
     # sy "Yeah, she kicked ass in that competition, and then later she showed me how to kayak."
-    sy "응, 경기에서 끗발 좀 날리더라. 경기 끝나곤 나한테 카약 타는 거 알려 줬어."
+    sy "응, 경기에서 끗발 좀 날리더라. 경기 끝나곤 나한테 카약 타는 법을 알려 줬어."
 
 # game/code/d08/d08s06.rpy:27
 translate korean d08s06_8c2cb593:
 
     # sy "I'm pretty good at it. I was paddling around on my own in no time!"
-    sy "나도 꽤 잘 탔다구. 알려 주자마자 내가 직접 노로 돌아다녔다니까!"
+    sy "나도 스스로도 꽤 잘 탔다구. 알려 주자마자 직접 노로 돌아다녔다니까!"
 
 # game/code/d08/d08s06.rpy:29
 translate korean d08s06_25c8a8d8:
@@ -64,7 +64,7 @@ translate korean d08s06_a762c957:
 translate korean d08s06_1b59d494:
 
     # "???" "No you don't."
-    "???" "안 돼."
+    "???" "안 된다."
 
 # game/code/d08/d08s06.rpy:45
 translate korean d08s06_5ef43fce:
@@ -76,7 +76,7 @@ translate korean d08s06_5ef43fce:
 translate korean d08s06_03cfb98b:
 
     # "???" "I heard you two talking. You want to talk to Allison, but she can't be bothered now."
-    "???" "너희가 말하는 거 들었다. 말하고 싶은 게 있는 모양인데, 지금은 끼어들지 마."
+    "???" "너희가 말하는 거 들었다. 말하고 싶은 게 있는 모양인데, 지금은 끼어들지 마라."
 
 # game/code/d08/d08s06.rpy:50
 translate korean d08s06_1e980c4b:
@@ -106,7 +106,7 @@ translate korean d08s06_0ced3ed9:
 translate korean d08s06_40f67880:
 
     # mc "Cool, so why can't we speak to Allison?"
-    mc "대단하네요. 그런데 왜 앨리슨한테 말을 걸면 안 되는 거예요?"
+    mc "대단하네요. 그런데 왜 앨리슨한테 말을 걸면 안 되는 건가요?"
 
 # game/code/d08/d08s06.rpy:60
 translate korean d08s06_ded0dfcc:
@@ -124,7 +124,7 @@ translate korean d08s06_a2ea6237:
 translate korean d08s06_2f3b6373:
 
     # sa "Then she has her cool down exercises."
-    sa "그다음엔 정리 운동을 하지."
+    sa "그다음엔 정리 운동을 해야 하지."
 
 # game/code/d08/d08s06.rpy:66
 translate korean d08s06_c134df8a:
@@ -220,7 +220,7 @@ translate korean d08s06_72a9443d:
 translate korean d08s06_ebd7bb17:
 
     # sa "Probably something to do with her family. It usually does, anyway."
-    sa "가족 관련으로 무슨 문제가 있어. 대개 그렇지만."
+    sa "앨리슨한텐 가족에 관한 문제가 있다. 대개 그렇지만."
 
 # game/code/d08/d08s06.rpy:99
 translate korean d08s06_50320392:
@@ -286,7 +286,7 @@ translate korean d08s06_f50f4a6c:
 translate korean d08s06_ae2ccf84:
 
     # sa "Yes! Exactly. {w}I'm going to use that."
-    sa "그래! 바로 그거야. {w}나중에 써먹어야겠군."
+    sa "그래! 바로 그거다. {w}나중에 써먹어야겠군."
 
 # game/code/d08/d08s06.rpy:120
 translate korean d08s06_2e6358fb:
@@ -334,19 +334,19 @@ translate korean d08s06_94010d91:
 translate korean d08s06_ff371cee:
 
     # mc "Stacy and I are friends with Allison..."
-    mc "스테이시랑 전 앨리슨이랑 친군데요..."
+    mc "스테이시랑 전 앨리슨 친군데요..."
 
 # game/code/d08/d08s06.rpy:136
 translate korean d08s06_e5db1ae3:
 
     # mct "Well, that's sorta true."
-    mct "음, 사실이라고 할 수 있으니까."
+    mct "음, 적어도 거짓말은 아니니까."
 
 # game/code/d08/d08s06.rpy:138
 translate korean d08s06_dac7a29f:
 
     # mc "... we might be able to figure out what's blocking her motivation and encourage her to take your training more seriously."
-    mc "... 저희가 앨리슨이 전념하지 못하게 막는 걸 찾고 더 열심히 훈련에 임하게 할 수도 있어요."
+    mc "... 저희가 앨리슨이 전념하지 못하게 막는 걸 찾아서 더 열심히 훈련에 임하게 할 수도 있어요."
 
 # game/code/d08/d08s06.rpy:141
 translate korean d08s06_3b2b5e52:
@@ -406,7 +406,7 @@ translate korean d08s06_251e0c2a:
 translate korean d08s06_cb3704d9:
 
     # mc "And obviously we wouldn't want to interrupt her studies. That's important."
-    mc "그리고 우리는 앨리슨의 학업을 방해하고 싶지도 않을 거구요. 그것도 중요하니까요."
+    mc "그리고 저희도 앨리슨의 학업을 방해하고 싶지도 않구요. 그것도 중요하니까요."
 
 # game/code/d08/d08s06.rpy:160
 translate korean d08s06_efc9022a:
@@ -424,7 +424,7 @@ translate korean d08s06_258e9ff8:
 translate korean d08s06_e34a34bc:
 
     # sa "So, you might want to drop by her dorm room around then. Before she makes other plans for the evening."
-    sa "그러니, 그즈음에 앨리슨 기숙사 방에 들러. 앨리슨이 저녁에 다른 계획 잡기 전에."
+    sa "그러니, 그즈음에 앨리슨 기숙사 방에 들러라. 앨리슨이 저녁에 다른 계획 잡기 전에."
 
 # game/code/d08/d08s06.rpy:165
 translate korean d08s06_09518e22:
@@ -436,7 +436,7 @@ translate korean d08s06_09518e22:
 translate korean d08s06_0be38e4b:
 
     # sa "Didn't you say that you are friends?"
-    sa "너희 친구라고 하지 않았어?"
+    sa "너희 친구라고 하지 않았나?"
 
 # game/code/d08/d08s06.rpy:171
 translate korean d08s06_1d0397f7:
@@ -466,5 +466,5 @@ translate korean d08s06_13b6ff08:
 translate korean d08s06_ca44a1f9:
 
     # sy "Oh yeah, your lunch \"date\"."
-    sy "아 맞아, 너 점심 \"데이트\" 있지."
+    sy "아, 맞아. 너 점심 \"데이트\" 있지."
 

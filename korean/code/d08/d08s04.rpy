@@ -28,7 +28,7 @@ translate korean d08s04_8a677757:
 translate korean d08s04_292fdcff:
 
     # mct "It sucks that I need to earn those damn points again..."
-    mct "망할 점수를 다시 벌어야 하다니 좆같네..."
+    mct "망할. 점수를 다시 벌어야 한다니까 좆 같네..."
 
 # game/code/d08/d08s04.rpy:51
 translate korean d08s04_6beac8e5:
@@ -58,7 +58,7 @@ translate korean d08s04_9e1369a5:
 translate korean d08s04_673e9068:
 
     # mct "After all Hana is only interested in figuring out this situation - not scapegoating innocent people."
-    mct "무고한 사람들을 제물로 삼는 거라곤 할 수 없지만, 결국 하나가 관심에 있는 건 이 상황을 파악하는 것 뿐이니까."
+    mct "이 조사가 무고한 사람들을 구하자는 게 아니긴 해. 결국 하나가 관심에 있는 건 이 상황을 파악하는 것 뿐이니까."
 
 # game/code/d08/d08s04.rpy:85
 translate korean replay_d08s04_a7b4d81c:
@@ -136,7 +136,7 @@ translate korean replay_d08s04_62adf38b:
 translate korean replay_d08s04_8839f428:
 
     # mesfl "I spent the whole day with Antony and he doesn't want to hear anything about watersports..."
-    mesfl "종일 앤토니랑 있었어. 걘 워터스포츠에 관해서 일절 듣고 싶어하지 않거든..."
+    mesfl "종일 앤토니랑 있었어. 걘 워터스포츠에 관해선 일절 듣고 싶어하지 않거든..."
 
 # game/code/d08/d08s04.rpy:125
 translate korean replay_d08s04_aa6876c4:
@@ -214,13 +214,13 @@ translate korean replay_d08s04_d956bcde:
 translate korean replay_d08s04_eb99664f:
 
     # mc "I read that it is easier to get used to your own taste."
-    mc "다른 사람 걸 마시는 것보다 네 자신의 오줌 맛에 익숙해 지는 게 더 쉬울 거야."
+    mc "다른 사람 걸 마시는 것보다 자기 오줌 맛에 익숙해 지는 게 더 쉬울 거야."
 
 # game/code/d08/d08s04.rpy:157
 translate korean replay_d08s04_04270dba:
 
     # mesfl "I thought the challenge would be to drink your pee. Not my own..."
-    mesfl "니 오줌을 마시는 게 과제라고 생각했는데. 내 거가 아니라..."
+    mesfl "네 오줌을 마시는 게 과제라고 생각했는데. 내 거가 아니라..."
 
 # game/code/d08/d08s04.rpy:159
 translate korean replay_d08s04_3f8bc07a:
@@ -250,13 +250,13 @@ translate korean replay_d08s04_c5dad552:
 translate korean replay_d08s04_78a950f9:
 
     # mc "That is also why I asked you to cum only with pee in your mouth. We're building a pleasurable association of this taste & smell."
-    mc "그래서 갈 때는 입에 오줌을 머금으라고 말했던 거지. 이 맛과 항의 조합을 즐길 수 있게 하는 거야."
+    mc "그래서 갈 때는 입에 오줌을 머금으라고 했던 거야. 이 맛과 항의 조합을 즐길 수 있도록 말이지."
 
 # game/code/d08/d08s04.rpy:166
 translate korean replay_d08s04_b7efedb4:
 
     # mesfl "Huh. Sounds like you really know what you are doing."
-    mesfl "허어. 너 정말 제대로 알고 말하는 거처럼 말하네."
+    mesfl "허어. 제대로 알는 거처럼 말하네."
 
 # game/code/d08/d08s04.rpy:167
 translate korean replay_d08s04_240f244d:
@@ -268,13 +268,13 @@ translate korean replay_d08s04_240f244d:
 translate korean replay_d08s04_1725d810:
 
     # mesfl "Am I allowed to get a little help?"
-    mesfl "약간의 도움은 받아도 되는 거지?"
+    mesfl "좀 도와줄 수는 있지?"
 
 # game/code/d08/d08s04.rpy:172
 translate korean replay_d08s04_5af23fe7:
 
     # mc "What did you have in mind?"
-    mc "뭐 생각해 두는 거라고 있어?"
+    mc "뭐 생각하는 거라도 있어?"
 
 # game/code/d08/d08s04.rpy:175
 translate korean replay_d08s04_2eecb10c:
@@ -286,7 +286,7 @@ translate korean replay_d08s04_2eecb10c:
 translate korean replay_d08s04_ad7590e1:
 
     # mesfl "Could you hold the bottle for me. I've never had to aim for a target this small before."
-    mesfl "이 병 좀 잡고 있어 줄 수 있겠지. 이렇게 작은 걸 목표로 삼은 적은 없단 말야."
+    mesfl "이 병 좀 잡고 있어 줄래. 이렇게 작은 걸 목표로 삼은 적은 없단 말야."
 
 # game/code/d08/d08s04.rpy:178
 translate korean replay_d08s04_25e96f6a:
@@ -400,7 +400,7 @@ translate korean replay_d08s04_28381c06:
 translate korean replay_d08s04_bcdd65dd:
 
     # mc "It will get better."
-    mc "괜찮아 질 거야."
+    mc "익숙해질 거야."
 
 # game/code/d08/d08s04.rpy:280
 translate korean replay_d08s04_02f0e7bc:
@@ -412,13 +412,13 @@ translate korean replay_d08s04_02f0e7bc:
 translate korean replay_d08s04_119a9262:
 
     # mc "Yep. Remember that it is all about how you are feeling when you do it."
-    mc "응. 마시는 순간의 느낌을 잘 기억하는 거야."
+    mc "응. 마시는 순간의 느낌을 잘 기억해."
 
 # game/code/d08/d08s04.rpy:283
 translate korean replay_d08s04_c3a6ceba:
 
     # mc "Drink small portions but as often as you can. Then try to do something enjoyable."
-    mc "조금씩 마셔도 괜찮지만 가능한 여러 번 마셔. 그다음엔 오줌 마시는 걸 즐길 수 있도록 뭔가를 하는 거야."
+    mc "조금씩 마셔도 괜찮지만 가능한 여러 번 마셔. 그다음엔 오줌 마시는 걸 즐길 수 있는 어떤 일을 하는 거야."
 
 # game/code/d08/d08s04.rpy:285
 translate korean replay_d08s04_6d4ff1de:
@@ -496,7 +496,7 @@ translate korean replay_d08s04_82e34cfd:
 translate korean replay_d08s04_8c296cef:
 
     # mesfl "Alright. I'll send you some photos later."
-    mesfl "알겠어. 나중에 사진 보낼 게."
+    mesfl "알겠어. 나중에 사진 보낼게."
 
 # game/code/d08/d08s04.rpy:314
 translate korean replay_d08s04_e3247ba4:
@@ -520,23 +520,23 @@ translate korean replay_d08s04_f7a21bdd:
 translate korean replay_d08s04_761bd7d5:
 
     # mesfl "Don't push it."
-    mesfl "너무 무리시킨다."
+    mesfl "너무 무리하게 한다."
 
 # game/code/d08/d08s04.rpy:326
 translate korean replay_d08s04_b376ac62:
 
     # mc "Do you need any more help?"
-    mc "다른 도움 필요한 거 있어?"
+    mc "또 뭐 도와줄 거 있어?"
 
 # game/code/d08/d08s04.rpy:328
 translate korean replay_d08s04_6800fbff:
 
     # mesfl "Nope. If you don't mind... I'll be out in a minute."
-    mesfl "아니. 너만 괜찮다면... 난 잠시 후에 나갈 게."
+    mesfl "없어. 너만 괜찮다면... 난 조금 있다가 나갈게."
 
 # game/code/d08/d08s04.rpy:330
 translate korean replay_d08s04_606e2d02:
 
     # mc "Sure."
-    mc "그럼."
+    mc "그래."
 
