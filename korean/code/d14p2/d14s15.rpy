@@ -608,7 +608,10 @@ translate korean strings:
     old "Maybe"
     new "아마도"
 
-    # game/code/d14p2/d14s15.rpy:311
-    old "No"
-    new "아니다"
+# TODO: Translation updated at 2023-06-11 15:20
 
+translate korean strings:
+
+    # game/code/d14p2/d14s15.rpy:311
+    old "No {#d14s15}"
+    new "아니다 {#d14s15}"

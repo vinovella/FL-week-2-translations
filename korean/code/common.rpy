@@ -1286,3 +1286,6 @@ translate korean strings:
     old "Sync Error"
     new "동기화 오류"
 
+    # renpy/common/00sync.rpy:541
+    old "No"
+    new "아니오"

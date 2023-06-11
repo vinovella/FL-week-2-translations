@@ -169,3 +169,9 @@ translate korean strings:
 
     old "Oliver"
     new "올리버"
+
+    old "Woman"
+    new "여성"
+
+    old "Judge"
+    new "판사"
