@@ -1362,3 +1362,6 @@ translate russian strings:
     old "Sync Error"
     new "Sync Error"
 
+    # renpy/common/00sync.rpy:541
+    old "No"
+    new "Нет"

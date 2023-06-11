@@ -608,3 +608,6 @@ translate malay strings:
     old "Maybe"
     new "Mungkin"
 
+    # game/code/d14p2/d14s15.rpy:311
+    old "No {#d14s15}"
+    new "Tidak {#d14s15}"

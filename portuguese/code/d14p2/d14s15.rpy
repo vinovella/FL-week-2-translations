@@ -608,3 +608,10 @@ translate portuguese strings:
     old "Maybe"
     new "Talvez"
 
+# TODO: Translation updated at 2023-06-11 15:28
+
+translate portuguese strings:
+
+    # game/code/d14p2/d14s15.rpy:311
+    old "No {#d14s15}"
+    new "Não {#d14s15}"

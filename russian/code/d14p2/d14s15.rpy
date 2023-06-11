@@ -608,7 +608,10 @@ translate russian strings:
     old "Maybe"
     new "Возможно"
 
-    # game/code/d14p2/d14s15.rpy:311
-    old "No"
-    new "Нет"
+# TODO: Translation updated at 2023-06-11 15:29
 
+translate russian strings:
+
+    # game/code/d14p2/d14s15.rpy:311
+    old "No {#d14s15}"
+    new "Нет {#d14s15}"
