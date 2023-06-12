@@ -22,13 +22,13 @@ translate korean d08s05_f25d77a6:
 translate korean d08s05_7bfd3d68:
 
     # sy "So, now that we're here... {w}What's the plan?"
-    sy "그래, 이제 도착했어... {w}계획이 뭐야?"
+    sy "그래, 이제 도착했네... {w}그래서 계획이 뭐야?"
 
 # game/code/d08/d08s05.rpy:19
 translate korean d08s05_62eb5652:
 
     # mc "Are you sure you want to go through with this?"
-    mc "정말 같이 갈 거야?"
+    mc "정말 같이 가도 괜찮겠어?"
 
 # game/code/d08/d08s05.rpy:21
 translate korean d08s05_938b7516:
@@ -40,7 +40,7 @@ translate korean d08s05_938b7516:
 translate korean d08s05_e74eeec9:
 
     # mc "I told you what Samiya is like - what she did to the Prom King and Prom Queen."
-    mc "사미야가 어떤 인간인지 말했잖아. 킹카랑 퀸카로 뽑했다고 한 짓 말한 거 기억하지?"
+    mc "사미야가 어떤 인간인지 말했잖아. 킹카랑 퀸카로 뽑혔다고 한 짓 기억하지?"
 
 # game/code/d08/d08s05.rpy:25
 translate korean d08s05_7e30384d:
@@ -112,7 +112,7 @@ translate korean d08s05_b4dc6ce9:
 translate korean d08s05_dd_fd8a6781:
 
     # mc "So - see that woman over there? That's Daisy."
-    mc "그렇지 - 저기에 있는 여자애 보이지? 쟨 데이지라고 해."
+    mc "그렇지. 저기에 있는 여자애 보이지? 쟨 데이지라고 해."
 
 # game/code/d08/d08s05.rpy:68
 translate korean d08s05_dd_ba59fc42:
@@ -256,7 +256,7 @@ translate korean d08s05_dd_14041de3:
 translate korean d08s05_dd_0b6586b9:
 
     # dd "I mean, we were close back in high school, but don't really see each other much since we came to University."
-    dd "내 말은 말야, 우리 고등학교 시절에는 가까이 지냈어, 그런데 대학교에 온 뒤론 거의 보지 못했거든."
+    dd "내 말은 말야, 우린 고등학교 시절에는 가까이 지냈어, 그런데 대학교에 온 뒤론 거의 보지 못했거든."
 
 # game/code/d08/d08s05.rpy:126
 translate korean d08s05_dd_5ef43fce:
@@ -454,13 +454,13 @@ translate korean d08s05_dd_d58a287d:
 translate korean d08s05_dd_052d4031:
 
     # dd "No, the B-word. And then that bitch had the nerve to really rub it in Dahlia's face."
-    dd "아니, 비읍으로 시작하는 걔. 그런데 그 년이 뻔뻔하게 자기가 퀸카로 뽑혔다고 달리아를 놀렸던 거 있지."
+    dd "아니, 비읍으로 시작하는 걔. 그런데 그년이 뻔뻔하게 자기가 퀸카로 뽑혔다고 달리아를 놀렸던 거 있지."
 
 # game/code/d08/d08s05.rpy:200
 translate korean d08s05_dd_7238fc03:
 
     # mc "Oh no."
-    mc "아 젠장."
+    mc "아, 젠장."
 
 # game/code/d08/d08s05.rpy:201
 translate korean d08s05_dd_954291b6:
@@ -568,7 +568,7 @@ translate korean d08s05_dd_698d7569:
 translate korean d08s05_dd_0106c1b2:
 
     # dd "You know how I said Samiya never did anything herself? She would get someone else to do it for her?"
-    dd "사미야가 직접하지는 않았다고 말했던 거 기억하지? 사미야를 위해서 대신해 줄 사람이 있을 거라고?"
+    dd "사미야가 직접 하지는 않았다고 말했던 거 기억하지? 사미야를 위해서 대신해 줄 사람이 있을 거라고?"
 
 # game/code/d08/d08s05.rpy:234
 translate korean d08s05_dd_00765a01:
@@ -628,7 +628,7 @@ translate korean d08s05_dd_6214cc14:
 translate korean d08s05_dd_fd36e2df:
 
     # dd "Yeah, well. You know how it goes. {w}I guess Samiya didn't want anyone messing with Dahlia except for her."
-    dd "그래, 그렇지. 일이 어떻게 된 건지 알겠지. {w}내 생각엔 사미야가 자기 빼곤 달리아를 놀릴 수 있는 사람은 없다고 생각했던 거 같아."
+    dd "그래, 그렇지. 이제 일이 어떻게 된 건지 알겠지. {w}내 생각엔 사미야가 자기 말고 다른 사람이 달리아를 놀리면 안 된다고 생각했던 거 같아."
 
 # game/code/d08/d08s05.rpy:257
 translate korean d08s05_dd_74079c8b:
@@ -652,7 +652,7 @@ translate korean d08s05_dd_a3efa3a7:
 translate korean d08s05_dd_0c802f51:
 
     # dd "Oh, yeah! You were at that Party last week - did you meet Allison?"
-    dd "아, 맞다! 지난주 파티에 너도 있었지 - 그럼 앨리슨이랑은 만났지?"
+    dd "아, 맞다! 지난주 파티에 너도 있었지. 그럼 앨리슨이랑은 만났어?"
 
 # game/code/d08/d08s05.rpy:266
 translate korean d08s05_dd_cb22420e:
@@ -670,13 +670,13 @@ translate korean d08s05_dd_133f952e:
 translate korean d08s05_dd_7763faa5:
 
     # mc "Oh right! Allison!"
-    mc "아 맞다! 앨리슨!"
+    mc "아, 맞다! 앨리슨!"
 
 # game/code/d08/d08s05.rpy:313
 translate korean d08s05_dd_fcbc2278:
 
     # mc "Of course, she gave me a tour of the place when I got there."
-    mc "물론 알지, 내가 파티에 갔을 때 앨리슨이 소개를 해 줬는 걸."
+    mc "물론 알지, 내가 파티에 갔을 때 앨리슨이 안내를 해 줬는 걸."
 
 # game/code/d08/d08s05.rpy:316
 translate korean d08s05_dd_94ac3014:
@@ -802,7 +802,7 @@ translate korean d08s05_dw_d868b172:
 translate korean d08s05_dw_f61f66e0:
 
     # dw "Come now, don't tell me you've forgotten how to properly address me."
-    dw "이런, 어떻게 날 불러야 하는지 잊은 건 아니지."
+    dw "이런, 날 어떻게 불러야 하는지 잊은 건 아니겠지."
 
 # game/code/d08/d08s05.rpy:377
 translate korean d08s05_dw_08f1b822:
@@ -832,7 +832,7 @@ translate korean d08s05_dw_7458e4ba:
 translate korean d08s05_dw_5ee80470:
 
     # dw "No, no, no. Don't lie. You know you want to play."
-    dw "아니, 아니, 아니지. 거짓말은 마. 네가 하고 싶은 건 네가 알잖아."
+    dw "아니, 아니, 아니지. 거짓말은 마. 네가 하고 싶은 건 너 스스로 잘 알잖아."
 
 # game/code/d08/d08s05.rpy:391
 translate korean d08s05_dw_4b5ff222:
@@ -910,7 +910,7 @@ translate korean d08s05_dw_6bac721e:
 translate korean d08s05_dw_549e8ea5:
 
     # dw "There's plenty of room here for another slave kneeling before me."
-    dw "내 앞에 무릎 꿇을 노예를 위해서라면 자리야 언제든지 있으니까."
+    dw "내 앞에 무릎 꿇을 노예를 위해서라면 자리야 항상 준비되어 있으니까."
 
 # game/code/d08/d08s05.rpy:430
 translate korean d08s05_dw_e2f543a6:
@@ -1048,7 +1048,7 @@ translate korean d08s05_dw_80a5c16f:
 translate korean d08s05_dw_da6a3daa:
 
     # sy "I hate to interrupt. This is a lot of fun, but-"
-    sy "끼어들기 정말 싫다. 엄청 재미있긴 한데, 그런데-"
+    sy "끼어들기 정말 싫은데. 엄청 재미있긴 한데, 그런데-"
 
 # game/code/d08/d08s05.rpy:483
 translate korean d08s05_dw_662a103c:
@@ -1060,7 +1060,7 @@ translate korean d08s05_dw_662a103c:
 translate korean d08s05_dw_953507d0:
 
     # sy "We're actually here to get my stuff back. Do you know where we can find Samiya?"
-    sy "우린 사실 내 짐을 찾으러 여기에 온 거야. 사미야 어디에서 찾을 수 있는지 알아?"
+    sy "우린 사실 내 짐을 찾으러 여기에 온 거야. 사미야가 어디에 있는지 알아?"
 
 # game/code/d08/d08s05.rpy:488
 translate korean d08s05_dw_4b0fc891:
@@ -1078,13 +1078,13 @@ translate korean d08s05_dw_a0a7a5a7:
 translate korean d08s05_dw_bda7583a:
 
     # dw "Whatever... {w}Fine. I'll tell you where you can find someone who will know where she is."
-    dw "뭐든 간에... {w}좋아. 장소를 알 만한 사람이 어디에 있는지 말해 줄 게."
+    dw "뭐든 간에... {w}좋아. 장소를 알 만한 사람이 있을 만한 곳을 알려 줄게."
 
 # game/code/d08/d08s05.rpy:494
 translate korean d08s05_dw_b3e5d52d:
 
     # sy "Can't you just-"
-    sy "바로 어디에-"
+    sy "바로 말해 주면-"
 
 # game/code/d08/d08s05.rpy:498
 translate korean d08s05_dw_317588c3:
@@ -1096,13 +1096,13 @@ translate korean d08s05_dw_317588c3:
 translate korean d08s05_dw_ebf64c4f:
 
     # dw "Well, first of all, I don't care where that bitch is these days. As long as she stays away from me."
-    dw "흠, 가장 먼저 이 말부터 할 게. 난 그 썅년이 요즘 어디에 있는지는 전혀 신경 안 써. 나한테 멀리 떨어져 있기만 하다면 말야."
+    dw "흠, 가장 먼저 이 말부터 하자. 난 그 썅년이 요즘 어디에 있는지는 전혀 신경 안 써. 나한테 멀리 떨어져 있기만 하다면 말야."
 
 # game/code/d08/d08s05.rpy:501
 translate korean d08s05_dw_ae352a33:
 
     # dw "Second, I wouldn't tell you even if I knew where she was."
-    dw "그다음으로, 어디에 있는지 안다고 해도 말하지 않을 거야."
+    dw "그다음으로, 내가 그년이 어디에 있는지 안다고 해도 말하지 않을 거야."
 
 # game/code/d08/d08s05.rpy:504
 translate korean d08s05_dw_74abaaf7:
@@ -1114,7 +1114,7 @@ translate korean d08s05_dw_74abaaf7:
 translate korean d08s05_dw_882f79fd:
 
     # dw "Don't you get it? She's bad news. Forget about your missing stuff and forget about finding her."
-    dw "모르겠어? 그년은 골칫거리야. 잃어버린 짐에 대해선 잊어 그리고 그년을 찾는 것도 잊고."
+    dw "아직도 이해를 못하겠어? 그년은 골칫거리야. 잃어버린 짐에 대해선 잊어 그리고 그년을 찾는 것도 잊고."
 
 # game/code/d08/d08s05.rpy:510
 translate korean d08s05_dw_9581568c:
@@ -1126,7 +1126,7 @@ translate korean d08s05_dw_9581568c:
 translate korean d08s05_dw_44fd1839:
 
     # dw "Which brings us to what I am willing to tell you - if you two will listen."
-    dw "조용히 듣는다면 너희에게 기꺼이 말해 주겠어."
+    dw "조용히 듣는다면 기꺼이 말해 주겠어."
 
 # game/code/d08/d08s05.rpy:515
 translate korean d08s05_dw_f4a296e2:
@@ -1138,7 +1138,7 @@ translate korean d08s05_dw_f4a296e2:
 translate korean d08s05_dw_dd5eddfc:
 
     # sy "I'm all ears!"
-    sy "듣고 있어"
+    sy "듣고 있어!"
 
 # game/code/d08/d08s05.rpy:522
 translate korean d08s05_dw_2f9aed17:
@@ -1168,19 +1168,19 @@ translate korean d08s05_dw_6d8d2ea3:
 translate korean d08s05_dw_9ebf841f:
 
     # sy "Any ideas where we could find her?"
-    sy "어디서 앨리슨을 찾을 수 있는지 알아?"
+    sy "앨리슨은 어디에 있는지 알아?"
 
 # game/code/d08/d08s05.rpy:531
 translate korean d08s05_dw_dbaf6043:
 
     # dw "Of course. She's always at the pool."
-    dw "물론이지. 걘 항상 수영장에 있어."
+    dw "물론이지. 걘 항상 수영장에 있으니까."
 
 # game/code/d08/d08s05.rpy:535
 translate korean d08s05_dw_73f71408:
 
     # mc "What the fuck was that?!"
-    mc "씨발 그건 뭐였어?!"
+    mc "씨발 방금 뭐였어?!"
 
 # game/code/d08/d08s05.rpy:538
 translate korean d08s05_dw_f73ca9ad:

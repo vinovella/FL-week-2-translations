@@ -16,13 +16,13 @@ translate korean d08s00_week1synopsis_c5c04ebc:
 translate korean d08s00_week1synopsis_28064d5b:
 
     # "[mcname] promptly took in the sights, but she was not for him."
-    "[mcname] 눈에 바로 장관이 보였지만, 그림의 떡이었다."
+    "[mcname] 영의 눈에 바로 장관이 보였지만, 그림의 떡이었다."
 
 # game/code/recap.rpy:72
 translate korean d08s00_week1synopsis_1aec8a12:
 
     # "[mcname] ignored the woman in his roommate's bed and went for a shower."
-    "[mcname] 눈에 보인 여자를 무시하고 샤워를 하러 갔다."
+    "[mcname] 영은 눈에 보인 여자를 무시하고 샤워를 하러 갔다."
 
 # game/code/recap.rpy:75
 translate korean d08s00_week1synopsis_4f889512:
@@ -52,7 +52,7 @@ translate korean d08s00_week1synopsis_1036b95b:
 translate korean d08s00_week1synopsis_ae7bbf76:
 
     # "[mcname] promptly signed up for the app."
-    "[mcname] 영은 즉시 앱에 가입했다."
+    "[mcname] 영은 즉시 페티시 로케이터에 가입했다."
 
 # game/code/recap.rpy:92
 translate korean d08s00_week1synopsis_8e5b1af6:
@@ -112,13 +112,13 @@ translate korean d08s00_week1synopsis_9014903a:
 translate korean d08s00_week1synopsis_3397b1a7:
 
     # "[mcname] talked to Pete after the game."
-    "경기가 끝난 뒤 [mcname] 영은 피터에게 말을 걸었다."
+    "경기가 끝난 뒤 [mcname] 영은 피트에게 말을 걸었다."
 
 # game/code/recap.rpy:125
 translate korean d08s00_week1synopsis_68dd0c96:
 
     # "Pete told [mcname] that Lydia would be at a Fetish Locator Party on Wednesday night, and that tickets cost 50 points!"
-    "피트는 [mcname]에게 수요일 밤에 있을 페티시 로케이터 파티에 리디아가 올 것이며, 파티에 입장하기 위해 필요한 표의 가격이 50점이라는 점을 알려 주었다!"
+    "피트는 [mcname]에게 수요일 밤에 있을 페티시 로케이터 파티에 리디아가 올 것이며, 파티 입장표의 가격이 50점이라는 점을 알려 주었다!"
 
 # game/code/recap.rpy:133
 translate korean d08s00_week1synopsis_3dacd3b1:
@@ -136,19 +136,19 @@ translate korean d08s00_week1synopsis_1df7e0c2:
 translate korean d08s00_week1synopsis_364e992e:
 
     # "On Tuesday, Kevin informed [mcname] that it was possible to post ads on Fetish Locator."
-    "화요일, 케빈은 [mcname]에게 페티시 로케이터에 광고를 올릴 수 있다는 걸 알려 주었다."
+    "화요일, 케빈은 [mcname]에게 페티시 로케이터에 광고를 올릴 수 있다는 사실을 알려 주었다."
 
 # game/code/recap.rpy:147
 translate korean d08s00_week1synopsis_688d5b95:
 
     # "[mcname] took the plunge and posted an ad that he hoped would score him some points on Fetish Locator."
-    "[mcname] 영은 고민을 했지만 결국 광고를 올려 자기가 페티시 로케이터로 점수를 따고 싶다는 걸 알렸다."
+    "[mcname] 영은 고민을 했지만 결국 광고를 올려 자기가 페티시 로케이터에서 점수를 따고 싶다는 걸 알렸다."
 
 # game/code/recap.rpy:150
 translate korean d08s00_week1synopsis_2b906c7b:
 
     # "After class, he saw the sweet, lovely Lydia that he obsessed over, but couldn't bring himself to talk to her yet."
-    "수업이 끝난 뒤, 주인공은 예쁘고, 사랑스러운 리디아, 그가 빠져 있는 리디아를 보았지만, 아직 그녀에게 말을 걸 수가 없었다."
+    "수업이 끝난 뒤, 주인공은 예쁘고, 사랑스러운 리디아, 그가 빠져 있는 리디아를 보았지만, 아직 그녀에게 말을 걸 수 없었다."
 
 # game/code/recap.rpy:154
 translate korean d08s00_week1synopsis_0cc7b989:
@@ -166,7 +166,7 @@ translate korean d08s00_week1synopsis_7e655ba7:
 translate korean d08s00_week1synopsis_17eac08a:
 
     # "Each day, Fetish Locator provided users with a specific fetish they could do to earn more points than usual."
-    "매일, 페티시 로케이터는 이용자에게 특정한 페티시를 알려 그 페티시를 수행하면 평소보다 더 많은 점수를 벌 수 있게 하였다."
+    "페티시 로케이터는 매일 이용자에게 특정한 페티시를 알리고 그 페티시를 수행하면 평소보다 더 많은 점수를 벌 수 있게 하였다."
 
 # game/code/recap.rpy:169
 translate korean d08s00_week1synopsis_0335f0f9:
@@ -196,7 +196,7 @@ translate korean d08s00_week1synopsis_dd38013c:
 translate korean d08s00_week1synopsis_5001a40a:
 
     # "Luckily, [mcname] was able to earn enough points for the ticket to the Party."
-    "다행히도, [mcname] 영은 파티행 표를 사기에 충분한 점수를 벌 수 있었다."
+    "다행히도, [mcname] 영은 파티 입장표를 사기에 충분한 점수를 벌 수 있었다."
 
 # game/code/recap.rpy:192
 translate korean d08s00_week1synopsis_0da9d890:
@@ -316,7 +316,7 @@ translate korean d08s00_week1synopsis_c93df0da:
 translate korean d08s00_week1synopsis_420c50f5:
 
     # "Despite his best attempts, he failed. Although he didn't realize this yet."
-    "최대한 노력했음에도 불구하고, 주인공은 업로드를 막을 수 없었다. 주인공이 아직 그 사실을 몰랐지만 말이다."
+    "최대한 노력했음에도 불구하고, 주인공은 업로드를 막을 수 없었다. 주인공은 아직 그 사실을 몰랐지만 말이다."
 
 # game/code/recap.rpy:251
 translate korean d08s00_week1synopsis_ef5f3351:
@@ -328,13 +328,13 @@ translate korean d08s00_week1synopsis_ef5f3351:
 translate korean d08s00_week1synopsis_11371832:
 
     # "It wasn't a DATE date, but it wasn't NOT a date either. It was a \"coffee date\"."
-    "이건 데이트라고도 할 수 없는 데이트였지만, 그렇다고 데이트가 아닌 그런 만남이었다.  \"커피 데이트\"라는 게 그렇게 미묘한 거 아닌가."
+    "이건 데이트라고도 할 수 없는 데이트였지만, 그렇다고 데이트가 아니라곤 할 수 없는 만남이었다.  \"커피 데이트\"라는 게 원래 미묘한 거 아닌가."
 
 # game/code/recap.rpy:255
 translate korean d08s00_week1synopsis_f6056607:
 
     # "It turned out that the barista is Lydia's biggest fan, and a plan to save the coffee house formed in [mcname]'s mind."
-    "그곳에서 우리의 바리스타가 리디아의 대단한 팬이라는 사실이 밝혀졌다. 그리고 그 순간 [mcname]의 머릿속에 이 커피숍을 살리기 위한 계획이 떠올랐다."
+    "그 자리에서 우리의 바리스타가 리디아의 대단한 팬이라는 사실이 밝혀졌다. 그리고 그 순간 [mcname]의 머릿속에 이 커피숍을 살리기 위한 계획이 떠올랐다."
 
 # game/code/recap.rpy:258
 translate korean d08s00_week1synopsis_255f6be0:
@@ -346,7 +346,7 @@ translate korean d08s00_week1synopsis_255f6be0:
 translate korean d08s00_week1synopsis_be9a62da:
 
     # "...IF [mcname] met her for their first REAL date before the concert."
-    "...만약 [mcname] 영이 그 공연 전에 리디아와 진짜 첫 데이트를 가진다면."
+    "...만약 [mcname] 영이 그 공연 전에 리디아와 처음으로 진짜 데이트를 한다면."
 
 # game/code/recap.rpy:260
 translate korean d08s00_week1synopsis_39ede91d:
@@ -400,7 +400,7 @@ translate korean d08s00_week1synopsis_8aa2a88d:
 translate korean d08s00_week1synopsis_3a50e437:
 
     # "When he returned home that evening, [mcname] discovered he was in a nearly identical situation."
-    "그날 저녁 기숙사 방으로 돌아온 후, [mcname] 영은 자신이 앰로즈와 거의 같은 상황에 놓였다는 사실을 발견한다."
+    "그날 저녁 기숙사 방으로 돌아온 후, [mcname] 영은 자신이 앰로즈와 거의 같은 처지에 놓였다는 사실을 알게 된다."
 
 # game/code/recap.rpy:286
 translate korean d08s00_week1synopsis_bb08f530:
@@ -454,7 +454,7 @@ translate korean d08s00_week1synopsis_cc19b596:
 translate korean d08s00_week1synopsis_923fc443:
 
     # "A little later that day, he let AmRose know that they were in the same boat of being blackmailed."
-    "그날 조금 늦게, 주인공은 앰로즈에게 자기도 협박을 받게 됐으니 둘이 같은 배를 타게 되었다고 말했다."
+    "그날 조금 늦게, 주인공은 앰로즈에게 자기도 협박을 받게 됐으니 둘이 같은 배를 타게 된 셈이라고 말했다."
 
 # game/code/recap.rpy:308
 translate korean d08s00_week1synopsis_69ddebfd:
@@ -520,19 +520,19 @@ translate korean d08s00_week1synopsis_a7b86fb9:
 translate korean d08s00_week1synopsis_3a14db86:
 
     # "During lunch, AmRose shared how she met [mcname]..."
-    "점심을 먹던 중, 앰로즈는 자기가 [mcname] 영을 어떻게 만나게 되었는지 이야기를 했다..."
+    "점심을 먹던 중, 앰로즈는 스테이시에게 자신이 [mcname] 영을 만나게 된 경위를 말해 주었다..."
 
 # game/code/recap.rpy:345
 translate korean d08s00_week1synopsis_386e2760:
 
     # "He had been dating AmRose's roommate, Karen, during Freshman year. {w}(well, more fucking than dating){w} and AmRose had often been in the room watching them."
-    "1학년일 때 주인공은 앰로즈의 룸메이트인 캐런과 만났다. {w}(말이 그렇지, 사실은 데이트보다 섹스를 더 많이 했다){w} 그리고 앰로즈는 자기 기숙사 방에서 주인공과 캐런이 그 짓을 하는 걸 종종 보았다."
+    "1학년일 때 주인공은 앰로즈의 룸메이트인 캐런과 사귀었다. {w}(말이 그렇지, 사실은 데이트보다 섹스를 더 많이 했다){w} 그리고 앰로즈는 자기 기숙사 방에서 주인공과 캐런이 그 짓을 하는 걸 종종 보았다."
 
 # game/code/recap.rpy:347
 translate korean d08s00_week1synopsis_dd7c140c:
 
     # "This came as a surprise to [mcname], especially when he found out that Karen was a virgin when he met her."
-    "[mcname]에게 앰로즈의 이야기가 놀라웠다. 더군다나 자기를 만나기 전까지 캐런이 처녀였다는 사실은 특히 놀라웠다."
+    "[mcname]에게 앰로즈의 이야기가 놀라웠다. 더군다나 자기를 만나기 전까지 캐런이 처녀였다는 사실은 특히나 놀라웠다."
 
 # game/code/recap.rpy:350
 translate korean d08s00_week1synopsis_2e85499e:
@@ -568,13 +568,13 @@ translate korean d08s00_week1synopsis_45842161:
 translate korean d08s00_week1synopsis_3ce00fc6:
 
     # "But in the darkness of the night, her luggage was stolen from [mcname]'s room."
-    "하지만 그날 밤의 어둠을 틈타, 스테이시의 짐이 [mcname]의 방에서 도둑을 맞았다."
+    "하지만 그날 밤의 어둠을 틈타, 스테이시의 짐이 [mcname]의 방에서 도둑맞았다."
 
 # game/code/recap.rpy:369
 translate korean d08s00_week1synopsis_14c3b0f0:
 
     # "Stacy's luggage was stolen from [mcname]'s room that night."
-    "그날 밤 스테이시의 짐이 [mcname]의 방에서 도둑을 맞았다."
+    "그날 밤 스테이시의 짐이 [mcname]의 방에서 도둑맞았다."
 
 # game/code/recap.rpy:371
 translate korean d08s00_week1synopsis_8c06d600:
@@ -598,7 +598,7 @@ translate korean d08s00_week1synopsis_227ab1f0:
 translate korean d08s00_week1synopsis_a196715c:
 
     # "Surprisingly, while he was swimming he was picked up by Hana - the girl he had spied in Pete's bed almost a week earlier."
-    "놀랍게도, 주인공이 수영을 하던 중 하나가 등장해 주인공을 채갔다. 하나는 주초에 피트의 침대에 있었던 그 여자애. 주인공이 훔쳐봤었던 그 애였다."
+    "놀랍게도, 주인공이 수영을 하던 중 하나가 등장해 주인공을 채갔다. 하나는 주초에 피트의 침대에 있었던 여자애. 주인공이 훔쳐봤었던 그 애였다."
 
 # game/code/recap.rpy:386
 translate korean d08s00_week1synopsis_1743400f:
@@ -616,19 +616,19 @@ translate korean d08s00_week1synopsis_2f28a84b:
 translate korean d08s00_week1synopsis_378fac55:
 
     # "She felt certain Pete was involved in Fetish Locator, but [mcname] wasn't so sure."
-    "하나는 피트가 페티시 로케이터랑 관련이 있다고 믿었지만, [mcname] 영은 그렇게 믿을 수는 없었다."
+    "하나는 피트가 페티시 로케이터랑 관련이 있다고 확신했지만, [mcname] 영은 그렇게 생각할 수 없었다."
 
 # game/code/recap.rpy:394
 translate korean d08s00_week1synopsis_54357276:
 
     # "As a form of proof, Hana revealed footage she had from hacking Pete's phone..."
-    "그 증거로, 하나는 피트의 폰을 해킹해서 구한 영상을 공개했다..."
+    "하나는 그 증거로 피트의 폰을 해킹해서 구한 영상을 보여 주었다..."
 
 # game/code/recap.rpy:396
 translate korean d08s00_week1synopsis_6c6dca79:
 
     # "...footage that showed what AmRose and Maria had done for the Wednesday foot fetish challenge."
-    "...그 영상은 앰로즈와 마리아가 수요일 발 페티시 도전을 위해 일을 벌이는 영상이었다."
+    "...그 영상은 앰로즈와 마리아가 수요일 발 페티시 도전을 위해 일을 치루는 영상이었다."
 
 # game/code/recap.rpy:399
 translate korean d08s00_week1synopsis_276d48a4:
@@ -646,7 +646,7 @@ translate korean d08s00_week1synopsis_cb640fa6:
 translate korean d08s00_week1synopsis_599ffb55:
 
     # "She didn't want to interfere with their relationship, but she wanted to be more than just friends with him."
-    "앰로즈는 주인공과 리디아의 관계에 끼어들고 싶진 않았지만, 주인공에게 그저 친구로 남고 싶지는 않았다."
+    "앰로즈는 주인공과 리디아의 관계에 끼어들고 싶진 않았지만, 주인공에게 그저 친구로 남고 싶지도 않았다."
 
 # game/code/recap.rpy:407
 translate korean d08s00_week1synopsis_f66c063d:
@@ -664,7 +664,7 @@ translate korean d08s00_week1synopsis_ebbcf21a:
 translate korean d08s00_week1synopsis_afca3128:
 
     # "There was much rejoicing."
-    "그 자리에서 많은 걸 축하했다."
+    "둘은 그 자리에서 많은 기쁨을 즐겼다."
 
 # game/code/recap.rpy:417
 translate korean d08s00_week1synopsis_487f838a:
@@ -676,19 +676,19 @@ translate korean d08s00_week1synopsis_487f838a:
 translate korean d08s00_week1synopsis_a12050dd:
 
     # "At the end of the night, [mcname] found himself all alone on AmRose's couch, while Stacy and AmRose went off to bed."
-    "그날 밤의 끝에, [mcname] 영은 앰로즈의 소파에 혼자 남은 자신을 발견했다. 스테이시와 앰로즈는 침대에 가버린 뒤였다."
+    "그날 밤의 끝에, [mcname] 영은 앰로즈의 소파에 혼자 남은 자신을 발견했다. 스테이시와 앰로즈는 침대로 가 버렸다."
 
 # game/code/recap.rpy:423
 translate korean d08s00_week1synopsis_73c88376:
 
     # "He woke up long enough to discover that Fetish Locator confirmed he had succeeded in his most recent challenge."
-    "주인공은 자신이 도전에 성공했다는 페티시 로케이터의 알림을 보게 되었다."
+    "주인공은 페티시 로케이터의 알림을 보게 되었다. 자신이 도전에 성공했다는 알림이었다."
 
 # game/code/recap.rpy:426
 translate korean d08s00_week1synopsis_857cb5d9:
 
     # "With that, he rested more comfortably and drifted off into pleasant slumber."
-    "그 사실을 알게 된 주인공은 편안하게 쉬며 기쁨 잠에 빠져들 수 있었다."
+    "그 사실을 알게 된 주인공은 편안하게 쉬며 단잠에 들 수 있었다."
 
 # game/code/recap.rpy:429
 translate korean d08s00_week1synopsis_0bf1a4c1:
@@ -844,7 +844,7 @@ translate korean d08s00_week1synopsis_732bfaab:
 translate korean d08s00_week1synopsis_56ca8129:
 
     # "BUTT WEIGHT... {w}THERE'S EVEN MORE!!! {# intentional misspell #}"
-    "엉덩이를 붙이시라... {w}심지어 아직 이야기는 끝나지 않았으니!!! {# intentional misspell #}"
+    "엉덩이를 붙이시라... {w}심지어 아직도 이야기는 끝나지 않았으니!!! {# intentional misspell #}"
 
 # game/code/recap.rpy:525
 translate korean d08s00_week1synopsis_5e6afc40:
@@ -856,7 +856,7 @@ translate korean d08s00_week1synopsis_5e6afc40:
 translate korean d08s00_week1synopsis_83f2da96:
 
     # "Daisy has an infectious personality and seems to spread joy wherever she goes."
-    "데이지는 다른 사람들에게 쉽게 영향을 주는 성격을 가졌고 데이지가 가는 곳이 어디는 즐거움이 퍼지는 것 같았다."
+    "데이지는 다른 사람들에게 쉽게 영향을 주는 성격을 가졌고 데이지가 가는 곳이 어디든 즐거움이 퍼지는 것 같았다."
 
 # game/code/recap.rpy:531
 translate korean d08s00_week1synopsis_4150d943:
@@ -868,7 +868,7 @@ translate korean d08s00_week1synopsis_4150d943:
 translate korean d08s00_week1synopsis_4416f062:
 
     # "By Friday night, there was clearly something more than just friendship between them."
-    "금요일 저녁에 있었던 일은 분명히 둘 사이에 있는 게 우정 이상의 무언가 있다는 걸 보여 주었다."
+    "금요일 저녁에 있었던 일은 분명히 둘 사이에 우정 이상의 무언가 있다는 걸 보여 주었다."
 
 # game/code/recap.rpy:537
 translate korean d08s00_week1synopsis_f6053844:
@@ -904,7 +904,7 @@ translate korean d08s00_week1synopsis_6671579e:
 translate korean d08s00_week1synopsis_66f54641:
 
     # "[mcname] had only a few small interactions with Allison, but she seems quite interesting."
-    "[mcname] 영은 앨리슨과 접촉할 기회가 거의 없었지만, 앨리슨은 꽤 흥미로운 사람이라는 걸 알게 되었다."
+    "[mcname] 영은 앨리슨과 접촉할 기회가 거의 없었지만, 앨리슨이 꽤 흥미로운 사람이라는 걸 알게 되었다."
 
 # game/code/recap.rpy:560
 translate korean d08s00_week1synopsis_ac416e4e:

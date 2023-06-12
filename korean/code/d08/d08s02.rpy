@@ -4,13 +4,13 @@
 translate korean d08s02_7ed15712:
 
     # arj "I dunno. I always thought the perfect amount makes it look natural."
-    arj "잘 모르겠다. 완벽한 양이면 자연스러워 보인다고 항상 생각했어."
+    arj "잘 모르겠네. 난 자연스럽게 보이면 딱 맞는 양이라고 생각했는데."
 
 # game/code/d08/d08s02.rpy:11
 translate korean d08s02_38ca337f:
 
     # sy "Yeah, but the Kardashians are unrecognizable without a thick layer..."
-    sy "그렇지, 그래도 그 두꺼운 겹이 없으면 카다시안 자매를 누가 알아보겠어..."
+    sy "그렇지. 하지만 그 두꺼운 겹이 없으면 카다시안 자매를 누가 알아보겠어..."
 
 # game/code/d08/d08s02.rpy:15
 translate korean d08s02_802e8351:
@@ -52,13 +52,13 @@ translate korean d08s02_6321213c:
 translate korean d08s02_9f2e4146:
 
     # sy "That is true... and honest."
-    sy "그 말은 맞지... 그건 정직하네."
+    sy "그 말은 맞지... 그건 진심이네."
 
 # game/code/d08/d08s02.rpy:31
 translate korean d08s02_d9da64b7:
 
     # mc "I think AmRose has figured out how to tell the difference over the years."
-    mc "앰로즈가 요 몇 년 사이에 진심이랑 가식을 구별하는 방법을 알게 된 거 같아."
+    mc "앰로즈가 너랑 몇 년 동안 알면서 네 진심이랑 가식을 구별하는 방법을 알게 된 모양이더라."
 
 # game/code/d08/d08s02.rpy:33
 translate korean d08s02_932a87bd:
@@ -178,19 +178,19 @@ translate korean d08s02_e57e7d5e:
 translate korean d08s02_064f115b:
 
     # sy "Well, it usually starts with some food porn."
-    sy "음, 보통은 무슨 음식 포르노 같은 걸로 시작돼."
+    sy "음, 보통은 무슨 음식 포르노 같은 걸로 시작해."
 
 # game/code/d08/d08s02.rpy:88
 translate korean d08s02_2352cce5:
 
     # arj "I'm guessing you don't mean photos of delicious meals."
-    arj "맛있는 음식 사진 같은 걸 말하는 건 아니지."
+    arj "맛있는 음식 사진 같은 걸 본다는 건 아닐 테고."
 
 # game/code/d08/d08s02.rpy:91
 translate korean d08s02_14ff7ff7:
 
     # sy "No, like if it was a girl, she might start with a large cucumber in her vag..."
-    sy "아냐, 여자가 나오는 거라면, 큰 오이 같은 걸로 시작하는 거지. 그걸 자기 보..."
+    sy "사진은 아냐. 여자가 나오는 거면, 큰 오이 같은 걸로 시작해. 그걸 자기 보..."
 
 # game/code/d08/d08s02.rpy:95
 translate korean d08s02_7cb49289:
@@ -202,13 +202,13 @@ translate korean d08s02_7cb49289:
 translate korean d08s02_82ccae64:
 
     # sy "Then she might add a couple more cucumbers."
-    sy "경우에 따라선 거기에 오이를 몇 개 더 넣어."
+    sy "경우에 따라선 거기에 오이를 두 개 정도 더 넣기도 하지."
 
 # game/code/d08/d08s02.rpy:100
 translate korean d08s02_5a939688:
 
     # arj "Woah! Three large cucumbers? That's insane."
-    arj "우아! 큰 오이가 세 개나? 난리나겠네."
+    arj "우아! 큰 오이를 세 개나? 난리나겠네."
 
 # game/code/d08/d08s02.rpy:103
 translate korean d08s02_4d6f365a:
@@ -226,13 +226,13 @@ translate korean d08s02_682c2874:
 translate korean d08s02_6ca98622:
 
     # mc "Please stop."
-    mc "제발 멈춰."
+    mc "제발 멈춰 주라."
 
 # game/code/d08/d08s02.rpy:109
 translate korean d08s02_29a0c7b1:
 
     # sy "Yeah, that seems to be a bit of a magic trick. I mean, they're just balloons."
-    sy "응, 무슨 마술 속임수 같은 거 같아. 그러니까, 풍선 같은 거지."
+    sy "응, 무슨 마술 속임수 같아. 그러니까, 풍선 같은 거지."
 
 # game/code/d08/d08s02.rpy:111
 translate korean d08s02_61b989fa:
@@ -256,7 +256,7 @@ translate korean d08s02_4c5a51fd:
 translate korean d08s02_019f8827:
 
     # sy "Yeah. I've heard that some of those porn stars can't even orgasm without something larger than a baseball bat inside them anymore."
-    sy "맞아. 포르노 스타 중에는 야구 방망이보다 큰 게 들어오지 않으면 오르가즘을 느끼지 못하는 사람도 있다더라."
+    sy "맞아. 포르노 스타 중에는 야구 방망이보다 큰 걸 넣지 않으면 절정을 느끼지 못하는 사람도 있다더라."
 
 # game/code/d08/d08s02.rpy:121
 translate korean d08s02_213757b7:
@@ -268,13 +268,13 @@ translate korean d08s02_213757b7:
 translate korean d08s02_d6a708f5:
 
     # mc "Seriously, I'm trying to eat here."
-    mc "진지하게 말야, 나 여기서 밥 먹으려고 하고 있거든."
+    mc "진심인데, 나 지금 밥 먹으려고 하거든."
 
 # game/code/d08/d08s02.rpy:126
 translate korean d08s02_0eb195e2:
 
     # sy "So, anyway, I wanted to ask you if you've ever tried it."
-    sy "그래서, 어쨌든, 내가 묻고 싶었던 건 말야 이걸 시도해 본 적이 있냐는 거야."
+    sy "그래서, 아무튼, 내가 묻고 싶었던 건 말이지. 이걸 해 본 적이 있냐는 거야."
 
 # game/code/d08/d08s02.rpy:129
 translate korean d08s02_809ed845:
@@ -304,7 +304,7 @@ translate korean d08s02_c122e1f8:
 translate korean d08s02_e55c617e:
 
     # mc "Nope, not listening to this."
-    mc "아냐, 난 안 들려."
+    mc "아냐, 난 안 들린다."
 
 # game/code/d08/d08s02.rpy:138
 translate korean d08s02_f1b59e15:
@@ -340,7 +340,7 @@ translate korean d08s02_16e06539:
 translate korean d08s02_83b8a4b5:
 
     # mc "Nope! Nope! Nope!"
-    mc "아니! 아냐! 난 아니라고!"
+    mc "아니! 없어! 난 해 본 적 없다고!"
 
 # game/code/d08/d08s02.rpy:151
 translate korean d08s02_1263dd0d:
@@ -352,13 +352,13 @@ translate korean d08s02_1263dd0d:
 translate korean d08s02_85d124a2:
 
     # arj "Wait. Are you saying that [mcname]'s box of porn included guys doing... that?"
-    arj "잠깐. 지금 말은 [mcname] 포르노 상자 안에 남자가 하는 것도 있었단 말야... 그걸?"
+    arj "잠깐. 지금 말은 [mcname] 포르노 상자 안엔 남자가 하는 것도 있었단 말야... 그런 일을?"
 
 # game/code/d08/d08s02.rpy:157
 translate korean d08s02_33bab2a0:
 
     # sy "Oh yeah. It had a bit of everything."
-    sy "오 그럼. 그 상자엔 모든 게 조금씩은 다 있었다구."
+    sy "오 당연하지. 그 상자엔 모든 게 조금씩은 다 있었다구."
 
 # game/code/d08/d08s02.rpy:161
 translate korean d08s02_60652925:
@@ -418,7 +418,7 @@ translate korean d08s02_7c847d41:
 translate korean d08s02_39d123f6:
 
     # arj "I mean, you are pretty much the most vanilla guy I've ever met."
-    arj "그러니까, 넌 내가 봤던 남자 중에 가장 평범한 녀석이야."
+    arj "그러니까, 넌 내가 봤던 남자 중에 가장 평범해 보이는 녀석이라서."
 
 # game/code/d08/d08s02.rpy:180
 translate korean d08s02_9a51bc91:
@@ -442,19 +442,19 @@ translate korean d08s02_e9a7efb3:
 translate korean d08s02_3d890773:
 
     # sy "Well, aside from letting you watch."
-    sy "음, 옆에서 네가 보게 둔 채로 말이지."
+    sy "음, 옆에선 네가 보게 해 두곤 말이지."
 
 # game/code/d08/d08s02.rpy:191
 translate korean d08s02_453decdb:
 
     # arj "That wasn't kinky. They were just oblivious to anyone else around them."
-    arj "그 정도론 변태라고 할 순 없지. 당시에 둘은 주변에 있는 사람이 안중에도 없었으니까."
+    arj "그 정도론 변태라고 할 순 없지. 당시엔 주변에 있는 사람은 안중에도 없었으니까."
 
 # game/code/d08/d08s02.rpy:192
 translate korean d08s02_6a30bcdc:
 
     # sy "But they must have done something..."
-    sy "그래도 뭘 하긴 했을 게 틀림없어..."
+    sy "그래도 무슨 변태 짓을 하긴 했겠지..."
 
 # game/code/d08/d08s02.rpy:194
 translate korean d08s02_a8f52312:
@@ -472,19 +472,19 @@ translate korean d08s02_71152dd8:
 translate korean d08s02_945e046c:
 
     # sy "There's like 5 different books on the Kama Sutra in his box!"
-    sy "맞아, 그 상자에 카마수트라를 다룬 책만 해도 다섯 권이나 있었어!"
+    sy "맞다, 그 상자에 카마수트라를 다룬 책만 해도 다섯 권이나 있었어!"
 
 # game/code/d08/d08s02.rpy:199
 translate korean d08s02_1dca356a:
 
     # arj "Well, maybe he just liked the pictures?"
-    arj "음, 책에 있는 사진이 퍽 마음에 들었나 봐?"
+    arj "음, 책에 있는 그림이 퍽 마음에 들었나 봐?"
 
 # game/code/d08/d08s02.rpy:201
 translate korean d08s02_9b62cf79:
 
     # mc "Sometimes I really hate you guys."
-    mc "가끔은 너희 정말 싫어."
+    mc "가끔은 너희 정말 싫어진다니까."
 
 # game/code/d08/d08s02.rpy:202
 translate korean d08s02_eb62d547:
@@ -496,7 +496,7 @@ translate korean d08s02_eb62d547:
 translate korean d08s02_7b440d99:
 
     # sy "You love us."
-    sy "우리 좋아하면서."
+    sy "우릴 좋아하면서."
 
 # game/code/d08/d08s02.rpy:207
 translate korean d08s02_b5da96bc:
@@ -508,7 +508,7 @@ translate korean d08s02_b5da96bc:
 translate korean d08s02_d8649032:
 
     # mct "What's this? Oh, it's a text from Lydia."
-    mct "이건 뭐지? 아, 리디아한테 문자 왔네."
+    mct "무슨 문자지? 아, 리디아한테 문자가 왔네."
 
 # game/code/d08/d08s02.rpy:216
 translate korean d08s02_81f95519:
@@ -520,7 +520,7 @@ translate korean d08s02_81f95519:
 translate korean d08s02_50f50c7f:
 
     # mc "Lydia wants to get together at lunch in the cafeteria."
-    mc "리디아가 구내식당에서 같이 점심을 먹자고 하네."
+    mc "리디아가 구내식당에서 같이 점심 먹자고 하네."
 
 # game/code/d08/d08s02.rpy:219
 translate korean d08s02_15831298:
@@ -544,31 +544,31 @@ translate korean d08s02_8569eb29:
 translate korean d08s02_84cbc12d:
 
     # sy "Lydia - is that the virgin you're kinda dating?"
-    sy "리디아라면 - 네가 만난다는 그 처녀?"
+    sy "리디아면, 네가 만난다는 그 처녀?"
 
 # game/code/d08/d08s02.rpy:227
 translate korean d08s02_dcabad5a:
 
     # mc "Yes, Lydia is the girl I am dating."
-    mc "응, 리디아가 나랑 만나는 여자애야."
+    mc "그래, 나랑 만나는 여자애야."
 
 # game/code/d08/d08s02.rpy:228
 translate korean d08s02_88ab3635:
 
     # sy "How many dates?"
-    sy "얼마나 많이 만났는데?"
+    sy "데이트는 얼마나 했는데?"
 
 # game/code/d08/d08s02.rpy:229
 translate korean d08s02_84e5ec97:
 
     # mc "We've been together a few times, but only one official date so far."
-    mc "같이 몇 번 보긴 했는데, 지금까진 데이트라고 할 만한 건 못 했어."
+    mc "같이 몇 번 보긴 했는데, 지금까진 데이트라고 할 만한 건 못 해 봤어."
 
 # game/code/d08/d08s02.rpy:236
 translate korean d08s02_98ab720d:
 
     # sy "That fetish game you two are playing?"
-    sy "너희 둘 지금 그 페티시 게임 하는 거야?"
+    sy "너희 둘 지금 그 페티시인가 하는 게임 하는 거야?"
 
 # game/code/d08/d08s02.rpy:238
 translate korean d08s02_3249af37:
@@ -610,13 +610,13 @@ translate korean d08s02_097f0689:
 translate korean d08s02_8fdbd92f:
 
     # mc "No, that's news to me."
-    mc "아니, 나한테도 새로운 이야긴데."
+    mc "아니, 나도 금시초문이야."
 
 # game/code/d08/d08s02.rpy:249
 translate korean d08s02_2a2055d6:
 
     # flr "New Goal: Attend the Party AND participate in the Main Event."
-    flr "새로운 목표: 파티에 참석하고 주 행사에 참여하세요."
+    flr "새로운 목표: 파티에 참석하고 주 행사에 참가하세요."
 
 # game/code/d08/d08s02.rpy:250
 translate korean d08s02_e88c3bd3:
@@ -634,13 +634,13 @@ translate korean d08s02_873dbba3:
 translate korean d08s02_c5b31f4f:
 
     # arj "I'd rather not say..."
-    arj "말하지 않는 게 좋겠어..."
+    arj "말하지 않는 편이 좋겠다..."
 
 # game/code/d08/d08s02.rpy:257
 translate korean d08s02_a3be9952:
 
     # mc "Sorry Stacy, sometimes these messages are private."
-    mc "미안 스테이시, 가끔 이런 메시지는 사적인 거라서."
+    mc "미안 스테이시. 이런 메시지는 좀 사적인 거라서."
 
 # game/code/d08/d08s02.rpy:259
 translate korean d08s02_a7c62671:
@@ -652,19 +652,19 @@ translate korean d08s02_a7c62671:
 translate korean d08s02_ff3c53c9:
 
     # sy "Oh... okay."
-    sy "어... 좋아."
+    sy "어... 알겠어."
 
 # game/code/d08/d08s02.rpy:266
 translate korean d08s02_00d9a386:
 
     # sy "Well, if you guys are both done staring at your phones..."
-    sy "흠, 너희 둘 다 폰 보는 거 끝났으면..."
+    sy "흠, 너희 둘 다 폰 다 봤으면..."
 
 # game/code/d08/d08s02.rpy:269
 translate korean d08s02_b63f0842:
 
     # arj "Oh, yeah. Sorry."
-    arj "아, 맞아. 미안."
+    arj "아, 참. 미안."
 
 # game/code/d08/d08s02.rpy:270
 translate korean d08s02_d60af7b4:
@@ -676,13 +676,13 @@ translate korean d08s02_d60af7b4:
 translate korean d08s02_83d71a26:
 
     # sy "What's the plan for getting my luggage back?"
-    sy "내 짐을 찾을 계획이 뭐야?"
+    sy "내 짐은 어떻게 찾을 거야?"
 
 # game/code/d08/d08s02.rpy:275
 translate korean d08s02_a8ae42a4:
 
     # mc "Oh, okay. Yeah. Let's see..."
-    mc "아, 맞아. 그렇지. 보자..."
+    mc "아, 맞다. 그렇지. 보자..."
 
 # game/code/d08/d08s02.rpy:276
 translate korean d08s02_ae582667:
@@ -694,7 +694,7 @@ translate korean d08s02_ae582667:
 translate korean d08s02_b43bd301:
 
     # mc "Not yet. Meet me after class and we'll figure something out."
-    mc "아직은 없어. 수업 끝나면 보자 같이 알아볼 게 있어."
+    mc "아직은 없어. 수업 끝나면 보자. 같이 알아볼 게 있으니까."
 
 # game/code/d08/d08s02.rpy:278
 translate korean d08s02_0357c851:
@@ -706,13 +706,13 @@ translate korean d08s02_0357c851:
 translate korean d08s02_77ad98b5:
 
     # arj "Speaking of which - you should go if you don't want to wear the same clothes as yesterday."
-    arj "말이 나와서 말인데 - 어제랑 똑같은 옷 안 입으려면 지금 가야지."
+    arj "짐 이야기가 나와서 말인데. 어제랑 똑같은 옷 안 입으려면 지금 가야 돼."
 
 # game/code/d08/d08s02.rpy:283
 translate korean d08s02_589db33a:
 
     # mc "Good thinking. I need to swing by my dorm and get changed."
-    mc "좋은 생각이야. 기숙사 좀 들러서 옷 좀 갈아입어야겠다."
+    mc "알려 줘서 고마워. 기숙사 좀 들러서 옷 좀 갈아입어야겠네."
 
 # game/code/d08/d08s02.rpy:284
 translate korean d08s02_d4dcfd6e:

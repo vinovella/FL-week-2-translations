@@ -32,7 +32,7 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Stacy develops - Stacy will come and bathe with you."
-    new "중요한 선택지입니다. 스테이시와의 관계를 바꿉니다. 스테이시가 와서 당신과 욕조에 들어갑니다."
+    new "중요한 선택지입니다. 스테이시와의 관계를 바꿉니다. 스테이시가 당신과 함께 욕조에 들어갑니다."
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Maria develops - You will get a blowjob from her."
@@ -68,11 +68,11 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "She will suck your cock, but you will receive less points."
-    new "리사가 당신의 성기를 빨아 줍니다. 하지만 상대적으로 적은 점수를 받게 됩니다."
+    new "리사가 당신의 성기를 빨아 줍니다. 하지만 적은 점수를 받게 됩니다."
 
     # game/code/hints.rpy:5
     old "You will give Lyssa a handjob, but you will receive less points."
-    new "당신이 리사에게 손으로 해 줍니다. 하지만 상대적으로 적은 점수를 받게 됩니다."
+    new "당신이 리사에게 손으로 해 줍니다. 하지만 적은 점수를 받게 됩니다."
 
     # game/code/hints.rpy:5
     old "You will get the highest number of FL points and give Lyssa a blowjob"
@@ -124,15 +124,15 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "Pick this and continue picking the first most option if you want to not look like a psycho in front of Lydia and get the highest number of points."
-    new "이 선택지를 고르고 계속 첫 번째 선택지를 고르면, 리디아에게 정신병자처럼 보이지 않게 되지만 가장 많은 점수를 받을 수 없습니다."
+    new "계속 첫 번째 선택지를 고르면, 리디아에게 정신병자처럼 보이지 않게 됩니다."
 
     # game/code/hints.rpy:5
     old "Pick this if you want to be weird and not get the highest number of points."
-    new "이 선택지를 고르면, 이상한 인간이 될 수는 있지만 가장 많은 점수는 받을 수 없습니다."
+    new "계속 두 번째 선택지를 고르면, 리디아에게 이상한 인간처럼 보이게 됩니다."
 
     # game/code/hints.rpy:5
     old "Pick this and continue picking the third most option if you want to look like a psycho in front of Lydia and get the highest number of points."
-    new "이 선택지를 고르고 계속 세 번째 선택지를 고르면, 리디아에게 정신병자처럼 보이게 되고 가장 많은 점수를 받을 수 있습니다."
+    new "계속 세 번째 선택지를 고르면, 리디아에게 정신병자처럼 보이게 됩니다. 가장 많은 점수를 받을 수 있습니다."
 
     # game/code/hints.rpy:5
     old "Pick this if you want to not look like a psycho in front of Lydia and get the highest number of points."

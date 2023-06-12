@@ -10,31 +10,31 @@ translate korean d08s10_56849fdc:
 translate korean d08s10_f366e04b:
 
     # "[mcname] met with Stacy and they are heading to University."
-    "[mcname] 영은 스테이시를 합류하여 대학교에 향하고 있다."
+    "[mcname] 영은 스테이시와 합류하여 다시 대학교로 향하고 있다."
 
 # game/code/d08/d08s10.rpy:10
 translate korean d08s10_570f5a5f:
 
     # "They found the room 316 and knocked."
-    "그들은 316호를 찾고 문을 두드렸다."
+    "둘은 316호를 찾고 문을 두드렸다."
 
 # game/code/d08/d08s10.rpy:15
 translate korean d08s10_ffbc2f32:
 
     # aw "Hi?! Oh! [mcname]! Please enter! {w} I need to close the door!"
-    aw "안녕?! 아! [mcname]! 들어와! {w} 문은 닫고!"
+    aw "안녕?! 아! [mcname]! 들어와! {w}문은 닫고!"
 
 # game/code/d08/d08s10.rpy:17
 translate korean d08s10_16bd0442:
 
     # mc "Hi Allison!..."
-    mc "안녕 앨리슨!..."
+    mc "안녕, 앨리슨!..."
 
 # game/code/d08/d08s10.rpy:19
 translate korean d08s10_242e87fc:
 
     # aw "Yea, quick. I don't want many people to see me like this."
-    aw "그래, 빨리. 많은 사람들이 이런 모습인 날 보는 건 싫어서."
+    aw "그래, 어서. 다른 사람들한테 보여 줄 만한 꼴은 아니니까."
 
 # game/code/d08/d08s10.rpy:23
 translate korean d08s10_d69986c8:
@@ -76,25 +76,25 @@ translate korean d08s10_e2e421ec:
 translate korean d08s10_40f80967:
 
     # aw "Hey boys! I'm sorry, I have some unexpected guests! Let's make a pause and I will be back in 20 minutes! Love you all my champions!"
-    aw "어이 애들아! 미안, 예상치 못한 손님이 왔어! 잠깐 방송 좀 멈춰야겠어. 20분 뒤에 돌아올게! 내 영웅 모두 사랑해!"
+    aw "애들아! 미안, 예상치 못한 손님이 왔어! 잠깐 방송 좀 멈춰야겠네. 20분 뒤에 돌아올게! 내 영웅 모두 사랑해!"
 
 # game/code/d08/d08s10.rpy:52
 translate korean d08s10_5d625c77:
 
     # aw "So what is the matter?"
-    aw "그래 무슨 일이야?"
+    aw "그래서 무슨 일이야?"
 
 # game/code/d08/d08s10.rpy:56
 translate korean d08s10_1ca1f381:
 
     # mc "Hey Allison this is my sister Stacy."
-    mc "어 앨리슨 얜 내 여동생 스테이시야."
+    mc "어 앨리슨. 얜 내 여동생 스테이시야."
 
 # game/code/d08/d08s10.rpy:58
 translate korean d08s10_2a9d00b9:
 
     # mc "Hey Allison this is my old friend Stacy."
-    mc "어 앨리슨 얜 내 오랜 친구인 스테이시야."
+    mc "어 앨리슨. 얜 내 오랜 친구 스테이시야."
 
 # game/code/d08/d08s10.rpy:60
 translate korean d08s10_9f0f5ea7:
@@ -106,7 +106,7 @@ translate korean d08s10_9f0f5ea7:
 translate korean d08s10_00cdce25:
 
     # mc "Stacy just a couple days ago came to town, and unfortunately her luggage was stolen on the first night here by Samiya."
-    mc "스테이시는 이틀 전에 여기에 왔는데, 불행하게도 여기 온 첫날 밤에 짐을 사미야한테 도둑질 당했어."
+    mc "스테이시는 이틀 전에 여기에 왔어. 그런데 불행하게도 여기 온 첫날 밤에 짐을 사미야한테 도둑질을 당했지."
 
 # game/code/d08/d08s10.rpy:65
 translate korean d08s10_e980596d:
@@ -130,13 +130,13 @@ translate korean d08s10_0f4af75c:
 translate korean d08s10_8bf8565f:
 
     # aw "I just got a note from Samiya that she found a bikini for me and I decided to wear it on my stream..."
-    aw "사미야가 나에게 어울리는 비키니를 찾았다고 쪽지를 남긴 걸 방금 봤어 그래서 방송에서 입자고 생각했는데..."
+    aw "사미야가 나에게 어울리는 비키니를 찾았다고 쪽지를 남겼거든. 방금 쪽지랑 비키니를 봤어, 그래서 방송에 입자고 생각했는데..."
 
 # game/code/d08/d08s10.rpy:78
 translate korean d08s10_87568044:
 
     # aw "I had no idea that she stole it..."
-    aw "사미야가 훔친 거라곤 생각도 못했네..."
+    aw "사미야가 훔친 건 줄은 몰랐네..."
 
 # game/code/d08/d08s10.rpy:82
 translate korean d08s10_5227c267:
@@ -160,7 +160,7 @@ translate korean d08s10_9a6005db:
 translate korean d08s10_97fffee4:
 
     # sy "Me? Not at all! But [mcname] might not be able to speak again."
-    sy "나? 난 완전 괜찮아! 그런데 [mcname] 얘는 말을 꺼내기 어려울 수도 있겠네."
+    sy "나? 난 완전 괜찮아! 그런데 [mcname] 얘는 말문이 막힌 거 같네."
 
 # game/code/d08/d08s10.rpy:93
 translate korean d08s10_746bfa72:
@@ -184,13 +184,13 @@ translate korean d08s10_53494d9e:
 translate korean d08s10_0a3404dd:
 
     # aw "I'm just used to be naked, even with an audience."
-    aw "난 알몸이 편해서, 보는 사람이 있어도 말야."
+    aw "난 알몸이 편해. 보는 사람이 있어도 말야."
 
 # game/code/d08/d08s10.rpy:105
 translate korean d08s10_f89a7b9d:
 
     # sy "So you are a cam girl?"
-    sy "그래서 너 여캠 방송하는 거야?"
+    sy "그래서 너 여캠 하는 거야?"
 
 # game/code/d08/d08s10.rpy:107
 translate korean d08s10_d499735c:
@@ -208,7 +208,7 @@ translate korean d08s10_bfa46947:
 translate korean d08s10_a4ab24de:
 
     # aw "Well it is actually a step down after working in a stripclub. But it helps me keep afloat."
-    aw "음, 사실 클럽에서 스트립쇼를 하는 거에선 한 단계 내려온 거야. 그래도 입에 풀칠은 하게 해 주지만."
+    aw "음, 사실 클럽에서 스트립쇼를 하던 거에선 한 단계 내려온 거야. 그래도 입에 풀칠은 하게 해 주니까."
 
 # game/code/d08/d08s10.rpy:112
 translate korean d08s10_635fac8c:
@@ -220,13 +220,13 @@ translate korean d08s10_635fac8c:
 translate korean d08s10_d7f498aa:
 
     # aw "Yes. For a short time. Actually, both me and Samiya. We challenged each other and worked in the same gentlemen's club for about a year."
-    aw "응. 잠깐 동안은. 사실, 나랑 사미야 둘 다 했어. 우리 둘은 같은 스트립 클럽에서 일년 동안 일하면서 서로 경쟁을 했었지."
+    aw "응. 잠깐 동안은. 사실, 나랑 사미야 같이 했었어. 우리 둘은 같은 스트립 클럽에서 서로 경쟁을 하며 일년 동안 일했지."
 
 # game/code/d08/d08s10.rpy:116
 translate korean d08s10_77bb2b65:
 
     # aw "But after that we went different ways. I'm now more focused on sports and doing this cam stuff more for fun and a little cash. Maybe it is my family influence."
-    aw "그리고 그 뒤엔 서로 다른 길을 가게 되었지만. 이제 난 운동에 더 집중하면서 이 캠방을 하고 있어. 재미도 보고 돈도 조금 버는 거지. 내 가족 때문일 수도 있겠다."
+    aw "그 뒤엔 서로 다른 길을 가게 되었지만. 이제 난 운동에 더 집중하면서 이 캠방을 하고 있어. 재미도 보고 돈도 조금 버는 거지. 내 가족 때문일 수도 있겠다."
 
 # game/code/d08/d08s10.rpy:118
 translate korean d08s10_c3b45b06:
@@ -244,31 +244,31 @@ translate korean d08s10_76522f0b:
 translate korean d08s10_8644dcb5:
 
     # aw "We haven't spoken since I told her that I was working as a stripper."
-    aw "내가 스트립퍼로 일한다는 걸 말한 이후론 말을 한 적이 없지."
+    aw "내가 스트립퍼로 일한다는 걸 말한 이후론 서로 말한 적이 없지."
 
 # game/code/d08/d08s10.rpy:123
 translate korean d08s10_12f77d00:
 
     # sy "That is a bit sad. I know myself how hard it can be when your mother isn't supporting you."
-    sy "그건 좀 슬픈데. 엄마가 자길 지지해 주지 않을 때 얼마나 힘든지 나도 알아."
+    sy "그건 좀 슬프다. 엄마가 자길 지지해 주지 않을 때 얼마나 힘든진 나도 잘 알아."
 
 # game/code/d08/d08s10.rpy:126
 translate korean d08s10_b64fcbca:
 
     # aw "Yea. I guess she just can't understand that I actually enjoy it. I don't do it just for the money."
-    aw "그치. 내가 정말로 즐긴다는 걸 이해하지 못해서 그러신 거 같아. 그냥 돈 때문에 하는 건 아닌데."
+    aw "맞아. 내가 정말로 즐긴다는 걸 이해하지 못해서 그러신 거 같아. 그냥 돈 때문에 하는 건 아닌데."
 
 # game/code/d08/d08s10.rpy:129
 translate korean d08s10_f0a094b2:
 
     # sy "Maybe you didn't explain it well enough so that she would get how you feel about this?"
-    sy "네가 어떻게 생각하고 있는지 이해하실 수 있도록 충분히 설명하지 않은 건 아냐?"
+    sy "네가 어떻게 생각하고 있는지 이해하실 수 있도록 충분히 설명하지 않은 건 아니구?"
 
 # game/code/d08/d08s10.rpy:130
 translate korean d08s10_2b49a68e:
 
     # sy "On the other hand I didn't even manage to fix the problems with my own mother, so I probably shouldn't try to give advice on that."
-    sy "내가 남 말할 처지는 아니지. 우리 엄마랑 내 사이의 문제도 해결하고 있지 못한데 말야. 난 충고할 자격이 없겠다."
+    sy "내가 남 말할 처지는 아니지. 우리 엄마랑 나 사이의 문제도 해결하고 있지 못한데 말야. 난 충고할 자격이 없겠네."
 
 # game/code/d08/d08s10.rpy:132
 translate korean d08s10_b7ee204e:
@@ -286,25 +286,25 @@ translate korean d08s10_e9da2bc5:
 translate korean d08s10_f89f0990:
 
     # aw "We haven't spoken since they found out that I was working as a stripper."
-    aw "내가 스트립퍼로 일한다는 걸 알게 된 이후론 말을 한 적이 없지."
+    aw "내가 스트립퍼로 일한다는 걸 알게 된 이후론 서로 말한 적이 없어."
 
 # game/code/d08/d08s10.rpy:135
 translate korean d08s10_269507d9:
 
     # sy "That's a bit sad. I know how hard it can be when someone close isn't supporting your decisions."
-    sy "그건 좀 슬픈데. 가까운 사람이 자기 결정을 지지해 주지 않을 때 얼마나 힘든지 나도 알아."
+    sy "그건 좀 슬픈데. 가까운 사람이 자기 결정을 지지해 주지 않을 때 얼마나 힘든지 나도 잘 알아."
 
 # game/code/d08/d08s10.rpy:138
 translate korean d08s10_3f4d58b2:
 
     # aw "Yea. I guess they just can't understand that I actually enjoy it. I don't do it just for the money."
-    aw "그치. 내가 정말로 즐긴다는 걸 이해하지 못해서 그러신 것 같아. 그냥 돈 때문에 하는 건 아닌데."
+    aw "맞아. 내가 정말로 즐긴다는 걸 이해하지 못해서 그러신 것 같아. 그냥 돈 때문에 하는 건 아닌데."
 
 # game/code/d08/d08s10.rpy:141
 translate korean d08s10_7e7e0845:
 
     # sy "Maybe you didn't explain it well enough so that they would get how you feel about this?"
-    sy "네가 어떻게 생각하고 있는지 이해하실 수 있도록 충분히 설명하지 않은 건 아냐?"
+    sy "네가 어떻게 생각하고 있는지 이해하실 수 있도록 충분히 설명하지 않은 건 아니구?"
 
 # game/code/d08/d08s10.rpy:142
 translate korean d08s10_d804efb3:
@@ -316,7 +316,7 @@ translate korean d08s10_d804efb3:
 translate korean d08s10_ae45905f:
 
     # aw "Ahah! Well I think we are a lost cause. All the bridges were already burned by both of us..."
-    aw "아하하! 흠 우리 둘 다 아픈 손가락이구나. 나을 가망은 없겠지..."
+    aw "아하하! 흠 우리 둘 다 아픈 손가락이구나. 사이가 나아질 가망은 없지..."
 
 # game/code/d08/d08s10.rpy:146
 translate korean d08s10_6f84b3da:
@@ -346,7 +346,7 @@ translate korean d08s10_3f66154d:
 translate korean d08s10_91bd9648:
 
     # sy "Well... It is not like we were even introduced. She just got fucked in the room where I was sleeping and stole my luggage on the way out..."
-    sy "음... 걔랑 난 통성명도 안 했어. 내가 자고 있던 방에서 걔가 떡을 치다가 내 짐을 가지고 튀었다고..."
+    sy "음... 걔랑 난 통성명도 안 했어. 내가 자고 있던 방에서 걔가 떡을 치다가 내 짐을 가지고 튀었다구..."
 
 # game/code/d08/d08s10.rpy:155
 translate korean d08s10_ff542a9f:
@@ -358,13 +358,13 @@ translate korean d08s10_ff542a9f:
 translate korean d08s10_991aa510:
 
     # sy "So you were saying?"
-    sy "그래서 무슨 말하고 있었어?"
+    sy "그래서 하던 말이 뭐야?"
 
 # game/code/d08/d08s10.rpy:159
 translate korean d08s10_2401430e:
 
     # aw "Ah yea. Well, after the strip club she started working as an escort."
-    aw "아 맞아. 흠, 스트립 클럽 이후로 사미야는 동반을 하기 시작했지."
+    aw "아, 맞다. 흠, 스트립 클럽 이후로 사미야는 동반을 하기 시작했지."
 
 # game/code/d08/d08s10.rpy:161
 translate korean d08s10_73658b0f:
@@ -394,7 +394,7 @@ translate korean d08s10_69c7f1be:
 translate korean d08s10_93ec41cf:
 
     # sy "Okay whatever she wants to call herself... Does that mean that Pete was her client?"
-    sy "좋아 걔가 자길 뭐라고 부르든 간에... 그러면 그 피트라는 녀석이 걔 손님이라는 거야?"
+    sy "좋아. 걔가 스스로 뭐라고 불리고 싶든 간에... 그러면 그 피트라는 녀석이 걔 손님이라는 거야?"
 
 # game/code/d08/d08s10.rpy:167
 translate korean d08s10_733adc57:
@@ -412,7 +412,7 @@ translate korean d08s10_581c21d9:
 translate korean d08s10_e3aed8a6:
 
     # aw "I don't think so. Pete is her type of guy. I've never heard of her taking a student as a client. She works with a different crowd..."
-    aw "그렇지는 않을 거야. 피트는 사미야 취향의 남자니까. 걔가 학생을 손님으로 받는다는 얘기도 못 들었고. 사미야는 다른 부류의 사람을 손님으로 받으니까..."
+    aw "그렇지는 않을 거야. 피트는 사미야 취향의 남자니까. 걔가 학생을 손님으로 받는다는 얘기도 못 들었고. 사미야가 손님으로 받는 건 다른 부류야..."
 
 # game/code/d08/d08s10.rpy:175
 translate korean d08s10_be3edc74:
@@ -424,13 +424,13 @@ translate korean d08s10_be3edc74:
 translate korean d08s10_bd71a999:
 
     # aw "Maybe it was a mutual attraction. Or she was horny after a dull client. You'd have to ask her about that."
-    aw "서로 끌렸던 걸 수도 있고. 아님 멍청한 손님 받고 꼴려서 그런 걸 수도 있고. 그건 직접 물어봐야 알겠지."
+    aw "서로 끌렸던 걸 수도 있고. 아니면 멍청한 손님 받고 꼴려서 그런 걸 수도 있고. 그건 직접 물어봐야 알겠지."
 
 # game/code/d08/d08s10.rpy:177
 translate korean d08s10_4dbba726:
 
     # sy "Would love to! Any idea how we can find her? Or maybe you have seen my luggage?"
-    sy "그러고 싶어! 걘 어떻게 찾을 수 있어? 모르면 내 가방이라도 봤어?"
+    sy "그러고 싶다 정말! 걘 어떻게 찾을 수 있어? 아니면 내 가방이라도 봤어?"
 
 # game/code/d08/d08s10.rpy:180
 translate korean d08s10_d71bd943:
@@ -442,37 +442,37 @@ translate korean d08s10_d71bd943:
 translate korean d08s10_37d35488:
 
     # aw "I will give you her number. Maybe you can just call her?"
-    aw "사미야 전화번호는 줄 수 있어. 전화해서 물어보면 어때?"
+    aw "사미야 전화번호라도 알려 줄게. 전화해서 직접 물어보면 어때?"
 
 # game/code/d08/d08s10.rpy:189
 translate korean d08s10_2ce1a19c:
 
     # mc "Well, at least we confirmed that Samiya took the luggage."
-    mc "음, 적어도 사미아가 그 짐을 가저간 건 확인했네."
+    mc "음, 적어도 사미아가 그 짐을 가져간 건 확인했네."
 
 # game/code/d08/d08s10.rpy:191
 translate korean d08s10_3688606f:
 
     # sy "Was there ever any doubt?"
-    sy "의심의 여기가 있긴 했어?"
+    sy "의심의 여지가 있긴 했어?"
 
 # game/code/d08/d08s10.rpy:192
 translate korean d08s10_00663e42:
 
     # mc "No, but we didn't actually see her."
-    mc "아니, 그런데 보지는 못했잖아."
+    mc "아니, 그런데 직접 보지는 못했잖아."
 
 # game/code/d08/d08s10.rpy:194
 translate korean d08s10_0af96d0a:
 
     # sy "Yeah, I guess.{w} I just want my stuff back."
-    sy "그래, 그렇긴 했지.{w} 어쨌든 물건만 찾으면 돼."
+    sy "그래, 그렇긴 했지.{w} 아무튼 난 내 물건만 찾으면 돼."
 
 # game/code/d08/d08s10.rpy:195
 translate korean d08s10_c54d57c6:
 
     # mc "Well, let's see what I can do about that."
-    mc "음, 뭘 할 수 있나 볼까."
+    mc "음, 뭘 할 수 있나 알아 보자구."
 
 # game/code/d08/d08s10.rpy:200
 translate korean d08s10_3b1e781d:
@@ -496,7 +496,7 @@ translate korean d08s10_8852e77f:
 translate korean d08s10_87406777:
 
     # mc "Exactly. So, could we meet later today or..."
-    mc "바로 그렇죠. 그래서, 오늘 늦게..."
+    mc "그렇죠. 그래서, 오늘 늦게라도..."
 
 # game/code/d08/d08s10.rpy:206
 translate korean d08s10_a86c9980:
@@ -508,7 +508,7 @@ translate korean d08s10_a86c9980:
 translate korean d08s10_61aee8c3:
 
     # mc "A website?"
-    mc "웹 사이트요?"
+    mc "웹 사이트라구요?"
 
 # game/code/d08/d08s10.rpy:211
 translate korean d08s10_6ed28335:
@@ -526,7 +526,7 @@ translate korean d08s10_ad1eaa57:
 translate korean d08s10_f2463f23:
 
     # mc "Yeah, bye."
-    mc "네, 끊어요."
+    mc "네, 끊을게요."
 
 # game/code/d08/d08s10.rpy:216
 translate korean d08s10_23fb7dc9:
@@ -550,7 +550,7 @@ translate korean d08s10_4e025ffd:
 translate korean d08s10_3a61c3cd:
 
     # mc "I think I just solicited a prostitute."
-    mc "내 생각엔 내가 방금 매춘부를 산 거 같은데."
+    mc "내가 방금 매춘부를 산 거 같은데."
 
 # game/code/d08/d08s10.rpy:224
 translate korean d08s10_03a5a0dc:
@@ -568,19 +568,19 @@ translate korean d08s10_d410c681:
 translate korean d08s10_64e139b1:
 
     # sy "How much does she charge?"
-    sy "얼마라고 했는데?"
+    sy "얼마래?"
 
 # game/code/d08/d08s10.rpy:230
 translate korean d08s10_4e522ece:
 
     # mc "Looking to hire her yourself?"
-    mc "너도 걜 사려고?"
+    mc "너도 사려고?"
 
 # game/code/d08/d08s10.rpy:231
 translate korean d08s10_bf58152c:
 
     # sy "Just curious. I've never...{w} I mean, what does someone even charge for that?"
-    sy "그냥 궁금해서 그래. 난 한 번도...{w} 내 말은 그러니까, 그 일에 대한 대가가 궁금하잖아."
+    sy "그냥 궁금해서 그래. 난 한 번도...{w} 내 말은 그러니까, 그 일로 얼마를 받는지 궁금하잖아."
 
 # game/code/d08/d08s10.rpy:233
 translate korean d08s10_e4fb0d2d:
@@ -598,25 +598,25 @@ translate korean d08s10_614d22c9:
 translate korean d08s10_055e30d6:
 
     # mc "No worries. I've already booked a meeting for noon tomorrow. I just need to submit payment online sometime today."
-    mc "걱정 안해도 돼. 내일 정오로 보기로 했으니까. 오늘 중으로 인터넷으로 돈을 보내기만 하면 돼."
+    mc "이제 걱정 안해도 돼. 내일 정오로 보기로 했으니까. 오늘 중으로 인터넷으로 돈을 보내기만 하면 되니까."
 
 # game/code/d08/d08s10.rpy:237
 translate korean d08s10_4f687ae2:
 
     # sy "Wait... are you going to hit that?"
-    sy "잠깐... 가서 하려고?"
+    sy "잠깐... 가서 본방까지 하려고?"
 
 # game/code/d08/d08s10.rpy:239
 translate korean d08s10_b4a375b4:
 
     # mc "I have no idea. I doubt it. I just want to get your stuff back."
-    mc "모르겠어. 잘 모르겠네. 네 물건만 찾으면 되긴 하는데."
+    mc "모르겠어. 잘 모르겠는데. 네 물건만 찾으면 되긴 하는데."
 
 # game/code/d08/d08s10.rpy:241
 translate korean d08s10_3b37eae4:
 
     # sy "Well, if you do, just don't tell me about it."
-    sy "음, 할 거면, 나한테 말하지 마."
+    sy "음, 할 거면, 나한테 말하진 마라."
 
 # game/code/d08/d08s10.rpy:242
 translate korean d08s10_4bfbf8af:
@@ -634,13 +634,13 @@ translate korean d08s10_2d0d88f3:
 translate korean d08s10_ea79db31:
 
     # sy "Yeah, AmRose and I are going shopping."
-    sy "응, 앰로즈랑 난 쇼핑하러 갈 거야."
+    sy "응, 앰로즈랑 쇼핑하러 갈 거야."
 
 # game/code/d08/d08s10.rpy:247
 translate korean d08s10_fb8de466:
 
     # mc "Oh good. Just the essentials?"
-    mc "오 잘 됐네. 뭐 사려고?"
+    mc "오, 잘 됐네. 뭐 사려고?"
 
 # game/code/d08/d08s10.rpy:249
 translate korean d08s10_436e30c4:
@@ -652,7 +652,7 @@ translate korean d08s10_436e30c4:
 translate korean d08s10_05439293:
 
     # mc "No thanks. You can hold your own purses this time."
-    mc "난 사양할 게. 이번엔 가방 직접 들고 있으라구."
+    mc "난 사양할게. 이번엔 가방 직접 들라구."
 
 # game/code/d08/d08s10.rpy:253
 translate korean d08s10_0a95bb21:
@@ -670,13 +670,13 @@ translate korean d08s10_e843e1e3:
 translate korean d08s10_b2ec33a6:
 
     # mc "Best case scenario I spend 3 hours standing in the lingerie section looking like a total perv..."
-    mc "잘 풀려 봐야 속옷 부문에서 세 시간 동안 서있다가 완전 변태로 보이게 될 뿐이야..."
+    mc "잘 풀려 봐야 속옷 부문에서 세 시간 동안 서있다가 완전 변태로 보이게 될 뿐이고..."
 
 # game/code/d08/d08s10.rpy:258
 translate korean d08s10_436af6a8:
 
     # mc "Holding a purse and getting strange looks from everyone passing by..."
-    mc "가방 든 채로 지나가는 모든 사람한테 이상하다는 눈길을 받으며..."
+    mc "가방 든 채로 지나가는 모든 사람한테 이상하다는 눈길을 받은 다음에야..."
 
 # game/code/d08/d08s10.rpy:259
 translate korean d08s10_14a975b4:

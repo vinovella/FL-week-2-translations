@@ -8,7 +8,7 @@ translate korean strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Fill out the questionnaire"
-    new "물음을 모두 채운다"
+    new "설문을 모두 채운다"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Been there done that"

@@ -82,7 +82,7 @@ translate korean d08s14_4e85cb4d:
 translate korean d08s14_fbd83197:
 
     # lc "Hey [mcname]... I'm sorry, were you sleeping?"
-    lc "안녕 [mcname]... 미안, 자고 있었어?"
+    lc "안녕 [mcname]... 미안, 자고 있었니?"
 
 # game/code/d08/d08s14.rpy:39
 translate korean d08s14_0184386f:
@@ -94,7 +94,7 @@ translate korean d08s14_0184386f:
 translate korean d08s14_af9d0b26:
 
     # lc "Oh, you can call me anytime. I'm pretty much an insomniac."
-    lc "아, 언제든지 전화해도 돼. 난 불면증이 상당히 심해니까."
+    lc "아, 언제든지 전화해도 돼. 난 불면증이 상당히 심하니까."
 
 # game/code/d08/d08s14.rpy:43
 translate korean d08s14_ffe7c7f6:
@@ -142,7 +142,7 @@ translate korean d08s14_27522bcc:
 translate korean d08s14_9f46f640:
 
     # lc "Oh, thanks!{w} So, I wanted to say something to you..."
-    lc "아, 고마워!{w} 그래서, 내가 너한테 말하고 싶었던 건..."
+    lc "아, 고마워!{w} 그래서, 내가 말하고 싶었던 건..."
 
 # game/code/d08/d08s14.rpy:57
 translate korean d08s14_fadb9955:
@@ -208,7 +208,7 @@ translate korean d08s14_dc9dd842:
 translate korean d08s14_519188bb:
 
     # lc "Thanks.{w} I like you, so I don't want to ever put you in a position where you feel that you have to lie to me."
-    lc "고마워.{w} 난 네가 마음에 들어, 그래서 네가 나한테 거짓말을 해야 한다고 느끼는 상황에 두지 않고 싶어."
+    lc "고마워.{w} 난 네가 마음에 들어, 그래서 네가 나한테 거짓말을 해야 한다고 생각하게 만들고 않아."
 
 # game/code/d08/d08s14.rpy:77
 translate korean d08s14_05500ff6:
@@ -256,7 +256,7 @@ translate korean d08s14_3ce3bca2:
 translate korean d08s14_fc924438:
 
     # lc "No! No, nothing like that.{w} You're great. It's just...{w} me."
-    lc "아냐! 아냐, 그런 거 없어.{w} 넌 대단해.  그냥...{w} 나 때문이야."
+    lc "아냐! 아냐, 그런 거 아냐.{w} 넌 대단해. 그냥...{w} 나 때문이야."
 
 # game/code/d08/d08s14.rpy:89
 translate korean d08s14_06f67a61:
@@ -286,13 +286,13 @@ translate korean d08s14_216b9803:
 translate korean d08s14_9a63b394:
 
     # lc "I'm afraid that I might make you lie to me, and cause distrust, and ruin everything that's good between us."
-    lc "난 너한테 거짓말을 할 수도 있고, 믿지 못하게 할 수도 있어, 우리 사이에 좋은 모든 걸 망칠 수도 있고."
+    lc "난 너한테 거짓말을 할 수도 있고, 믿지 못하게 할 수도 있어, 우리 사이에 좋은 일을 전부 망칠 수도 있고."
 
 # game/code/d08/d08s14.rpy:96
 translate korean d08s14_d19976cd:
 
     # mc "I understand the words you are saying, but I think I'm missing the meaning."
-    mc "말은 알겠지만, 네가 의미하는 건 놓치고 있는 거 같아."
+    mc "말은 알겠지만, 네가 속뜻은 잘 모르겠어."
 
 # game/code/d08/d08s14.rpy:98
 translate korean d08s14_9b3411c2:
@@ -304,13 +304,13 @@ translate korean d08s14_9b3411c2:
 translate korean d08s14_ea99eb97:
 
     # mc "I only believe the good stuff I hear about you."
-    mc "오직 좋은 소문만 믿고 있어."
+    mc "난 좋은 말만 믿고 있어."
 
 # game/code/d08/d08s14.rpy:101
 translate korean d08s14_3e57100c:
 
     # lc "That's sweet, but I've got a line of ex-boyfriends that must call me names behind my back. I'm sure you must have heard them all."
-    lc "신경 써 주니 고마워, 하지만 내 뒤에 험담을 하는 예전 남자 친구들이 많아. 그런 이야기 전부 들어 봤을 거구."
+    lc "신경 써 주니 고맙네. 그치만 내 뒤에 험담을 하는 예전 남자 친구들이 많아. 그런 이야기 전부 들어 봤을 거구."
 
 # game/code/d08/d08s14.rpy:103
 translate korean d08s14_b91f2ead:
@@ -376,7 +376,7 @@ translate korean d08s14_b967bda0:
 translate korean d08s14_2917ddf2:
 
     # mc "Don't worry. I would never do anything like that to you."
-    mc "걱정 마. 난 너한테 그런 짓을 하지 않을 거야."
+    mc "걱정 마. 난 그런 짓을 하지 않을 거야."
 
 # game/code/d08/d08s14.rpy:122
 translate korean d08s14_43a11443:
@@ -400,7 +400,7 @@ translate korean d08s14_3981883e:
 translate korean d08s14_8d469bfe:
 
     # mc "Umm...{w} yeah."
-    mc "으으음...{w} 그랬어."
+    mc "으으음...{w} 그랬지."
 
 # game/code/d08/d08s14.rpy:129
 translate korean d08s14_1948fd41:
@@ -430,7 +430,7 @@ translate korean d08s14_af788747:
 translate korean d08s14_6d8b6bdf:
 
     # lc "You're an awesome, excellent, attractive man that I want to spend a lot more time with, but I don't want you to stop being you."
-    lc "넌 대단하고, 훌륭하고, 매력적인 남성이야. 난 너랑 많은 시간을 함께 보내고 싶어. 그렇다고 해도 네가 너이지 않게 하고 싶진 않아."
+    lc "넌 대단하고, 훌륭하고, 매력적인 남성이야. 난 너랑 많은 시간을 함께 보내고 싶어. 그렇지만 네가 너답지 않은 일을 하게 만들고 싶진 않아."
 
 # game/code/d08/d08s14.rpy:136
 translate korean d08s14_fcb35cc6:
@@ -442,7 +442,7 @@ translate korean d08s14_fcb35cc6:
 translate korean d08s14_e934d540:
 
     # lc "What I'm saying is that I don't want to hold you back, or make you wait for me, when it comes to taking care of...{w} your needs."
-    lc "내가 말하는 건 내가 널 억누르지 않을 거란 거야, 날 기다리게 하지도 않을 거구, 그러니까...{w} 네 욕구 처리하는 데 있어서."
+    lc "내 말은 널 억누르지 않을 거란 거야, 날 기다리게 하지도 않을 거구, 그러니까...{w} 네 욕구 처리하는 데 있어서 말이야."
 
 # game/code/d08/d08s14.rpy:139
 translate korean d08s14_acb1d4c6:
@@ -466,7 +466,7 @@ translate korean d08s14_bc9eef2a:
 translate korean d08s14_3836c228:
 
     # lc "I just don't want you to lie to me about it. I don't want you to pretend that you're dating me and sneak around behind my back."
-    lc "네가 거짓말 하고 만들고 싶지 않아. 그리고 네가 나랑 데이트하면서 나 몰래 다른 사람과 놀게 하고 싶지도 않고."
+    lc "네가 거짓말하게 만들고 싶지 않아. 그리고 네가 나랑 데이트하면서 나 몰래 다른 사람과 놀게 하고 싶지도 않고."
 
 # game/code/d08/d08s14.rpy:145
 translate korean d08s14_f62c81b6:
@@ -490,7 +490,7 @@ translate korean d08s14_55310c42:
 translate korean d08s14_c3ada1a4:
 
     # lc "I just want us to be honest with each other...{w} So, I want you to tell me about it."
-    lc "난 우리가 서로에게 정직하면 좋겠어...{w} 그래, 난 너에게 말하고 싶어."
+    lc "난 우리가 서로에게 정직하면 좋겠어...{w} 그래, 나한테 말해 줬으면 좋겠어."
 
 # game/code/d08/d08s14.rpy:150
 translate korean d08s14_05500ff6_1:
@@ -502,7 +502,7 @@ translate korean d08s14_05500ff6_1:
 translate korean d08s14_5a4cc994:
 
     # lc "I want you to be able... and willing... to talk to me about that other stuff. Even if we can't do it together."
-    lc "난 말할 수 있고... 기꺼이 말할 거야... 그 다른 일에 대해서 너에게 말할 거라구. 우리가 함께 할 수 없어도 말야."
+    lc "나한테 말해도 돼... 기꺼이 말해 줘... 나 없이 했던 일에 관해서 말해 달라구. 우리가 아직 그런 일을 같이 할 수는 없지만."
 
 # game/code/d08/d08s14.rpy:154
 translate korean d08s14_6bd19203:
@@ -520,7 +520,7 @@ translate korean d08s14_15f7106d:
 translate korean d08s14_c0b335b9:
 
     # lc "Can you do this for me? Can you tell me something you did?"
-    lc "날 위해 할 수 있겠어? 네가 한 일을 나한테 말할 수 있겠어?"
+    lc "나한테 해 줄 수 있겠어? 네가 한 일을 나한테 말할 수 있겠어?"
 
 # game/code/d08/d08s14.rpy:159
 translate korean d08s14_3706adfd:
@@ -538,7 +538,7 @@ translate korean d08s14_fc2e6c9f:
 translate korean d08s14_dc4c1eae:
 
     # lc "For points... in that app?"
-    lc "점수를 받으려고 하는 거지... 그 앱에서?"
+    lc "점수를 받으려고 한 일을... 그 앱에서?"
 
 # game/code/d08/d08s14.rpy:167
 translate korean d08s14_0311181c:
@@ -664,7 +664,7 @@ translate korean d08s14_8e1e0071:
 translate korean d08s14_873c76f5:
 
     # mc "This is weird...{w} Is this some sort of test or a trap or something?"
-    mc "이상해...{w} 이거 무슨 시험이나 함정이나 그런 거야?"
+    mc "이상한데...{w} 이거 무슨 시험이나 함정이나 그런 거야?"
 
 # game/code/d08/d08s14.rpy:222
 translate korean d08s14_816ea7d3:
@@ -676,7 +676,7 @@ translate korean d08s14_816ea7d3:
 translate korean d08s14_d7bc24e6:
 
     # lc "I just want us to be honest with each other. I don't want you to feel like you need to hide things from me, or run around behind my back."
-    lc "그저 우리가 서로에게 정직했으면 해서 그래. 난 네가 나한테 뭘 숨기거나 내 뒤로 해야겠다고 생각하게 하고 싶지 않아."
+    lc "그저 우리가 서로에게 정직했으면 해서 그래. 난 네가 나한테 뭘 숨기거나 내 뒤로 몰래 해야겠다고 생각하게 만들고 싶지 않아."
 
 # game/code/d08/d08s14.rpy:227
 translate korean d08s14_26d6403b:
@@ -754,7 +754,7 @@ translate korean d08s14_457f534c:
 translate korean d08s14_24e7c60c:
 
     # mc "Like this one girl that I know... she gave head to a guy and had him cum on her so she could take a picture of it."
-    mc "내가 하는 한 여자애는... 걘 한 남자애 껄 빨아 줬고 자기 몸에 싸게 해서 그 사진을 찍었지."
+    mc "내가 아는 한 여자애는... 걘 어떤 남자애 껄 빨아 줬고 자기 몸에 싸게 해서 그 사진을 찍었지."
 
 # game/code/d08/d08s14.rpy:251
 translate korean d08s14_500dc95c:
@@ -778,13 +778,13 @@ translate korean d08s14_59b61d69:
 translate korean d08s14_cd8e870f:
 
     # mc "No. I was just in the room at the time."
-    mc "아니. 그냥 그 때 그방에 있었어."
+    mc "아니. 그냥 그때 그 장소에 있었어."
 
 # game/code/d08/d08s14.rpy:257
 translate korean d08s14_4264e0fc:
 
     # lc "Wow. That's something... so what did you do for that day?"
-    lc "와아. 그거 대단한데... 그럼 넌 그 날 뭘 했어?"
+    lc "와아. 그거 대단한데... 그럼 그날 넌 뭘 했어?"
 
 # game/code/d08/d08s14.rpy:258
 translate korean d08s14_a3b71dbe:
@@ -1030,7 +1030,7 @@ translate korean d08s14_0e3db184:
 translate korean d08s14_2987695c:
 
     # mc "Okay, but you gotta understand, I'm trusting you on this."
-    mc "좋아, 그런데 지금 듣는 건 이해해 줘야 해, 정말로 믿을게."
+    mc "좋아, 그런데 지금 듣는 건 이해해 줘야 돼. 정말로 이해해 줄 거라고 믿을 테니까."
 
 # game/code/d08/d08s14.rpy:345
 translate korean d08s14_6cd5c564:
@@ -1066,7 +1066,7 @@ translate korean d08s14_a7d85d7e:
 translate korean d08s14_076fc7e6:
 
     # mc "So, that evening I was hanging out with a friend of mine and watching a movie."
-    mc "그래서, 그날 저녁에 나는 내 친구 중 한 명이랑 시간을 보냈어. 영화를 봤지."
+    mc "그래서, 그날 저녁에 나는 내 친구 중 한 명이랑 같이 시간을 보냈어. 영화를 봤지."
 
 # game/code/d08/d08s14.rpy:355
 translate korean d08s14_678b7b83:
@@ -1096,7 +1096,7 @@ translate korean d08s14_d94287a8:
 translate korean d08s14_005fab60:
 
     # lc "Tell you in a minute. Please continue."
-    lc "잠시 후에 말해 줄게. 부디 계속해."
+    lc "좀 있다가 말해 줄게. 부디 계속해."
 
 # game/code/d08/d08s14.rpy:363
 translate korean d08s14_39cfc677:
@@ -1294,7 +1294,7 @@ translate korean d08s14_9c755f05:
 translate korean d08s14_cd9ab661:
 
     # lc "What do you think?"
-    lc "무슨 생각해?"
+    lc "어떻게 생각해?"
 
 # game/code/d08/d08s14.rpy:425
 translate korean d08s14_4f6e4de0:
@@ -1312,7 +1312,7 @@ translate korean d08s14_99a0ebc8:
 translate korean d08s14_bb021530:
 
     # mc "Not in the slightest. If anything I lo...{w} I like you even more."
-    mc "아니 조금도. 내가 할...{w} 더 좋아졌어."
+    mc "아니 조금도. 난...{w} 네가 더 좋아졌어."
 
 # game/code/d08/d08s14.rpy:430
 translate korean d08s14_39489d75:
@@ -1324,13 +1324,13 @@ translate korean d08s14_39489d75:
 translate korean d08s14_d5f79f88:
 
     # mc "I mean, that must have been really difficult to admit. I'm really honored that you feel safe enough to tell me that."
-    mc "그러니까 분명히 받아들이기 어려웠을 텐데. 나한테 말했다는 건 날 믿을 만한 사람이라고 생각했다는 거니까 정말 영광이라구."
+    mc "그러니까 분명히 인정하기 어려웠을 거잖아. 그런데도 나한테 말했다는 건 날 믿을 만한 사람이라고 생각했다는 거니까 정말 영광인 거지."
 
 # game/code/d08/d08s14.rpy:434
 translate korean d08s14_1ea58e63:
 
     # lc "Yeah. I guess so."
-    lc "맞아. 그런가 봐."
+    lc "맞아. 그렇네."
 
 # game/code/d08/d08s14.rpy:437
 translate korean d08s14_5eed6bad:

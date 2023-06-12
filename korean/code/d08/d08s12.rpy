@@ -28,7 +28,7 @@ translate korean d08s12_46664b36:
 translate korean d08s12_ebccab4c:
 
     # mh "Get undressed. I need you...now!"
-    mh "벗어. 당신이 필요해...당장!"
+    mh "벗어. 당신이 필요해... 당장!"
 
 # game/code/d08/d08s12.rpy:61
 translate korean d08s12_59e95539:
@@ -112,7 +112,7 @@ translate korean d08s12_357e51a0:
 translate korean d08s12_a06e304d:
 
     # mh "Here we are in my office and I'm sure we are safe to do anything here."
-    mh "우린 여기 내 사무실에 있어 그리고 여기에서 무슨 일을 하든 안전하다고 장담할 게."
+    mh "우린 여기 내 사무실에 있어 그리고 여기에서 무슨 일을 하든 안전하다고 장담할게."
 
 # game/code/d08/d08s12.rpy:94
 translate korean d08s12_8207ae96:
@@ -202,13 +202,13 @@ translate korean d08s12_8ad73aa8:
 translate korean d08s12_e0f20f94:
 
     # mh "I can't hold it any longer!"
-    mh "더 이상 못 참을 수가 없어!"
+    mh "더 이상 못 참겠어!"
 
 # game/code/d08/d08s12.rpy:153
 translate korean d08s12_8bf30a97:
 
     # mc "Wow, you are about to tear your skirt apart!"
-    mc "와아, 치마를 찢을 정도야!"
+    mc "와아, 치마를 찢을 정돈데!"
 
 # game/code/d08/d08s12.rpy:155
 translate korean d08s12_6ccc0ccd:
@@ -238,7 +238,7 @@ translate korean d08s12_8e0740c1:
 translate korean d08s12_72ef6f7e:
 
     # mh "Would you like to help me with this?..."
-    mh "나 좀 도와줄 수 있어?..."
+    mh "나 좀 도와줄 수 있겠어?..."
 
 # game/code/d08/d08s12.rpy:176
 translate korean d08s12_ebcb3d18:
@@ -250,7 +250,7 @@ translate korean d08s12_ebcb3d18:
 translate korean d08s12_e3b6cd7f:
 
     # mc "We might need a full treatment here!"
-    mc "아주 융숭한 환대가 필요하겠어!"
+    mc "아주 융숭한 환대가 필요하겠네!"
 
 # game/code/d08/d08s12.rpy:182
 translate korean d08s12_1cb7a1fc:
@@ -292,7 +292,7 @@ translate korean d08s12_pre_mc_action_b17e9733:
 translate korean d08s12_pre_mc_action_72a01c1a:
 
     # mc "No, no, it's fine. I wanna do this...for you."
-    mc "아냐, 아냐, 괜찮아. 하고 싶어...널 위해."
+    mc "아냐, 아냐, 괜찮아. 하고 싶어... 널 위해."
 
 # game/code/d08/d08s12.rpy:227
 translate korean d08s12_deny_da75052f:
@@ -346,7 +346,7 @@ translate korean d08s12_deny_95675b15:
 translate korean d08s12_deny_a5a94f12:
 
     # mc "You are not allowed to jerk-off."
-    mc "딸치는 허락 받지 않았잖아."
+    mc "딸치는 허락을 받지 않았잖아."
 
 # game/code/d08/d08s12.rpy:253
 translate korean d08s12_deny_b3c6b384:
@@ -406,7 +406,7 @@ translate korean d08s12_mh_bj_9c2541a5:
 translate korean d08s12_mh_bj_65ed2b87:
 
     # mh "I'll do my best!"
-    mh "최선을 다할 게!"
+    mh "최선을 다할게!"
 
 # game/code/d08/d08s12.rpy:320
 translate korean d08s12_mh_bj_b0a8c6a9:
@@ -544,13 +544,13 @@ translate korean d08s12_lyssa_cum_245049a7:
 translate korean d08s12_lyssa_cum_0feed7f8:
 
     # mh "Let me clean this up!"
-    mh "내가 깨끗하게 해 줄 게!"
+    mh "내가 깨끗하게 해 줄게!"
 
 # game/code/d08/d08s12.rpy:491
 translate korean d08s12_lyssa_cum_b525b5d5:
 
     # mc "Did you uh...did you like it?"
-    mc "마음에 어...마음에 들었어?"
+    mc "마음에 어... 마음에 들었어?"
 
 # game/code/d08/d08s12.rpy:495
 translate korean d08s12_lyssa_cum_ee9cb140:
@@ -592,7 +592,7 @@ translate korean d08s12_end_6c907290:
 translate korean d08s12_end_cfb07b86:
 
     # mc "Okay, cool. I'll get out of your hair."
-    mc "알겠어, 괜찮아. 귀찮게 하지 않을 게."
+    mc "알겠어, 괜찮아. 귀찮게 하지 않을게."
 
 # game/code/d08/d08s12.rpy:519
 translate korean d08s12_end_86d6b291:

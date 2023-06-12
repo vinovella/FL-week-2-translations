@@ -80,7 +80,7 @@ translate korean strings:
 
     # game/code/screens/screens.rpy:404
     old "Quit"
-    new "끄기"
+    new "종료"
 
     # game/code/screens/screens.rpy:798
     old "Game"

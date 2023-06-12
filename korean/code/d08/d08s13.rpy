@@ -160,13 +160,13 @@ translate korean d08s13_bad_da7eeebc:
 translate korean d08s13_bad_5b4dd44c:
 
     # nk "In fact... I'm not going to tell anyone else about any of this. Not for you, but because I don't want myself or my business associated with you."
-    nk "사실...  이 일에 관해선 누구한테도 말할 생각은 없어. 널 위해서가 아니야. 나나 내 사업에 네가 끼어드는 건 더 이상 바라지 않기 때문이야."
+    nk "사실... 이 일에 관해선 누구한테도 말할 생각은 없어. 널 위해서가 아니야. 네가 나나 내 사업에 더 이상 바라지 않기 때문이야."
 
 # game/code/d08/d08s13.rpy:129
 translate korean d08s13_bad_8342f3c1:
 
     # nk "We're not friends. I don't trust you. I don't want to see you in here ever again."
-    nk "우린 친구 같은 것도 아니고, 난 널 믿을 수도 없어. 여기에서 다시는 보지 않길 바라."
+    nk "우린 친구 같은 것도 아냐. 난 널 믿을 수가 없어. 여기에서 다시는 보지 않길 바란다."
 
 # game/code/d08/d08s13.rpy:131
 translate korean d08s13_bad_4c6d584d:
@@ -238,7 +238,7 @@ translate korean d08s13_bad_38c1c13f:
 translate korean d08s13_bad_5630f8f2:
 
     # mc "Yeah, okay."
-    mc "예, 좋아요."
+    mc "예, 알겠어요."
 
 # game/code/d08/d08s13.rpy:166
 translate korean d08s13_bad_d11f678e:
@@ -274,7 +274,7 @@ translate korean d08s13_bad_b2472b88:
 translate korean d08s13_bad_ab25b77a:
 
     # pw "FUCK OFF! FUCK YOURSELF!! AND STAY THE FUCK AWAY FROM ME!!!"
-    pw "꺼져! 좆 까!! 그리고 나한테 다시는 가까이 오지마 씨발!!!"
+    pw "꺼져! 좆 까!! 그리고 나한테 다시는 가까이 오지 마 씨발!!!"
 
 # game/code/d08/d08s13.rpy:191
 translate korean d08s13_good_6e9977d0:
@@ -316,7 +316,7 @@ translate korean d08s13_good_7a80a7c6:
 translate korean d08s13_good_ebd20eeb:
 
     # nk "Yeah, I guess I've got you to thank for that."
-    nk "응, 너 덕분이지."
+    nk "응, 네 덕분이지."
 
 # game/code/d08/d08s13.rpy:203
 translate korean d08s13_good_86607bf1:
@@ -430,7 +430,7 @@ translate korean d08s13_good_f0d1939d:
 translate korean d08s13_good_3717aeb9:
 
     # mc "Probably wouldn't be too good for business."
-    mc "붐비는 게 사업에 좋지는 않겠네요."
+    mc "그런 일로 붐비는 게 사업에 좋지는 않겠네요."
 
 # game/code/d08/d08s13.rpy:231
 translate korean d08s13_good_eefe5415:
@@ -862,7 +862,7 @@ translate korean d08s13_good_a8f56c49:
 translate korean d08s13_good_c7445d83:
 
     # nk "No, you hadn't mentioned that!"
-    nk "아니, 그런 말은 전혀 안 했잖어!"
+    nk "아니, 그런 말은 전혀 안 했잖아!"
 
 # game/code/d08/d08s13.rpy:427
 translate korean d08s13_good_78efd70b:
