@@ -4,7 +4,7 @@
 translate korean d09s06_fd7a39cb:
 
     # mct "This would be a good time to visit Min."
-    mct "지금이 민을 보러가기 좋은 시간 같은데."
+    mct "지금이 민을 보러 가기 좋을 때 같은데."
 
 # game/code/d09/d09s06.rpy:12
 translate korean d09s06_7399c8c0:
@@ -28,13 +28,13 @@ translate korean d09s06_35e1f4cb:
 translate korean d09s06_962ad0f8:
 
     # mc "I noticed that. What's going on with you today?"
-    mc "그래 보이네. 오늘은 뭘 하려고?"
+    mc "좋아 보이네. 오늘은 뭘 하려고?"
 
 # game/code/d09/d09s06.rpy:32
 translate korean replay_d09s06_67f53773:
 
     # mesfl "I need to pee. {w}And I really really need to cum."
-    mesfl "오줌 싸야 해. {w}그리고 정말 진짜로 싸야 돼고."
+    mesfl "오줌 싸야 해. {w}그리고 정말 진짜로 싸야 된다고."
 
 # game/code/d09/d09s06.rpy:34
 translate korean replay_d09s06_6cb30a38:
@@ -100,7 +100,7 @@ translate korean replay_d09s06_25b7aece:
 translate korean replay_d09s06_141af2c3:
 
     # mc "So, when was the last time you came?"
-    mc "그럼, 마지막으로 간 건 언제야?"
+    mc "그럼, 마지막으로 간 게 언제야?"
 
 # game/code/d09/d09s06.rpy:58
 translate korean replay_d09s06_f9bd4c48:
@@ -118,7 +118,7 @@ translate korean replay_d09s06_fa129b7b:
 translate korean replay_d09s06_0b8951e4:
 
     # mesfl "No! And Mr. D1cky knows when I fake it, so he's been trying hard to get me off!"
-    mesfl "그래! 그리고 미스터 ㄷ1키는 절정을 흉내 내는 걸 알아챈다고, 그래서 날 가게 하려고 안달이 난단 말이야!"
+    mesfl "그래! 그리고 미스터 ㄷ1키는 절정을 흉내 내는 걸 알아챈다고, 그래서 날 가게 하려고 안달을 낸단 말이야!"
 
 # game/code/d09/d09s06.rpy:63
 translate korean replay_d09s06_9134c7dc:
@@ -220,7 +220,7 @@ translate korean replay_d09s06_771ae1c2:
 translate korean replay_d09s06_fd6af0b2:
 
     # mc "Hold it. Just a little bit longer."
-    mc "참아. 잠깐이면 돼니까."
+    mc "참아. 잠깐이면 되니까."
 
 # game/code/d09/d09s06.rpy:110
 translate korean replay_d09s06_245be633:
@@ -244,7 +244,7 @@ translate korean replay_d09s06_2d9c9ead:
 translate korean replay_d09s06_d596c549:
 
     # mc "... but don't swallow."
-    mc "... 하지만 삼키진 말고."
+    mc "... 그치만 삼키진 말고."
 
 # game/code/d09/d09s06.rpy:127
 translate korean replay_d09s06_d14c2780:
@@ -316,7 +316,7 @@ translate korean replay_d09s06_b2ab7142:
 translate korean replay_d09s06_bd7dfc35:
 
     # mc "With the added stimulation of my tongue."
-    mc "내 혀로 자극을 더하는 방법말야."
+    mc "내 혀로 자극을 더하는 방법말이야."
 
 # game/code/d09/d09s06.rpy:189
 translate korean replay_d09s06_bdf62385:

@@ -10,7 +10,7 @@ translate korean d09s05_ef5e49b3:
 translate korean d09s05_d5ff7835:
 
     # mct "Now I have to run back to Samiya's place. I hope this show of hers isn't anything special..."
-    mct "사미야네 장소에 다시 와야 한다니. 사미야가 한다는 공연이 무슨 특이한 게 아니면 좋겠는데..."
+    mct "사미야네로 다시 와야 한다니. 사미야가 한다는 공연이 무슨 특이한 게 아니면 좋겠는데..."
 
 # game/code/d09/d09s05.rpy:31
 translate korean d09s05_57f407bc:
@@ -28,13 +28,13 @@ translate korean d09s05_679d860c:
 translate korean d09s05_bbc3c28e:
 
     # mc "I'm literally five minutes {i}early{/i}. What are you talking about?"
-    mc "말 그래도 5분 {i}일찍{/i} 왔는데. 무슨 말을 하는 거야?"
+    mc "말 그대도 5분 {i}일찍{/i} 왔는데. 무슨 말을 하는 거야?"
 
 # game/code/d09/d09s05.rpy:37
 translate korean d09s05_77f8b437:
 
     # sb "Whatever, you're here. It's fine."
-    sb "어쨌든, 왔으니까. 됐어."
+    sb "어쨌든, 왔으니까. 됐다."
 
 # game/code/d09/d09s05.rpy:38
 translate korean d09s05_1c50dcab:
@@ -88,7 +88,7 @@ translate korean d09s05_69f7331c:
 translate korean d09s05_785171d8:
 
     # mc "Second of all, why the hell would I even need one!?"
-    mc "그다음으로, 망할 왜 내가 심지어 관장까지 해야 돼냐고!?"
+    mc "그다음으로, 망할 왜 내가 관장까지 해야 돼냐고!?"
 
 # game/code/d09/d09s05.rpy:54
 translate korean d09s05_f9be13c1:
@@ -142,7 +142,7 @@ translate korean d09s05_44052c51:
 translate korean d09s05_5f170cc6:
 
     # sb "Shut up and do it!"
-    sb "닥치고 해!"
+    sb "닥치고 시키는 대로 해!"
 
 # game/code/d09/d09s05.rpy:72
 translate korean d09s05_2756c089:
@@ -178,7 +178,7 @@ translate korean d09s05_e5988d37:
 translate korean d09s05_2bc8f657:
 
     # mct "At least I'm sure that I was far back in the room for him to remember me."
-    mct "그래도 뒤에 앉아 있었으니까 날 기억하지는 못하겠지만."
+    mct "그래도 난 뒤에 앉아 있었으니까. 날 기억하지는 못하겠지만."
 
 # game/code/d09/d09s05.rpy:97
 translate korean d09s05_488903b7:
@@ -202,13 +202,13 @@ translate korean d09s05_5e9536c5:
 translate korean d09s05_dec65353:
 
     # sb "A little...\"toy\", if you will."
-    sb "말하자면, 귀여운...\"장난감\"이요."
+    sb "귀여운... \"장난감\"이요."
 
 # game/code/d09/d09s05.rpy:108
 translate korean d09s05_c7a89450:
 
     # sb "You just wait right here."
-    sb "여기서 잠깐 기다리세요."
+    sb "여기서 잠시만 기다리세요."
 
 # game/code/d09/d09s05.rpy:119
 translate korean replay_d09s05_953b4071:
@@ -226,7 +226,7 @@ translate korean replay_d09s05_bc71c2ac:
 translate korean replay_d09s05_28f46c24:
 
     # sb "Shut up and just go with it. I'll make it worth your while."
-    sb "닥치고 그냥 맞추기나 해. 대가는 나중에 잘 치룰 테니까."
+    sb "닥치고 그냥 어울리기나 해. 대가는 나중에 잘 치룰 테니까."
 
 # game/code/d09/d09s05.rpy:124
 translate korean replay_d09s05_41734239:
@@ -244,7 +244,7 @@ translate korean replay_d09s05_ce3c8190:
 translate korean replay_d09s05_67422079:
 
     # sb "Isn't his tiny little dick cute, Mr. Melville? I think he's the perfect little sissy for you."
-    sb "얘 작고 조그만 좆이 귀엽지 않나요, 멜빌 씨? 제 생각엔 얘가 멜빌 씨에게 딱 맞는 완벽하고 귀여운 씨씨(sissy)죠."
+    sb "얘의 작고 조그만 좆이 귀엽지 않나요, 멜빌 씨? 제 생각엔 얘가 멜빌 씨에게 딱 맞는 완벽하고 귀여운 씨씨(sissy)죠."
 
 # game/code/d09/d09s05.rpy:140
 translate korean replay_d09s05_ac4b9c2d:
@@ -310,7 +310,7 @@ translate korean replay_d09s05_6cdcdeaa:
 translate korean replay_d09s05_529fb3e1:
 
     # mc "...Yes."
-    mc "...응."
+    mc "... 응."
 
 # game/code/d09/d09s05.rpy:168
 translate korean replay_d09s05_b6a6f08d:
@@ -388,7 +388,7 @@ translate korean replay_d09s05_00d99e2e:
 translate korean replay_d09s05_d1510d5e:
 
     # ceo "Hm... In the meantime, why don't you crawl to me and suck my fingers like a good little slut?"
-    ceo "흠... 그러는 중에, 자넨 나한테 기어 와서 내 손가락을 빨지 않겠나. 고분고분하고 귀여운 창녀처럼 말이야?"
+    ceo "흠... 그 사이에 자넨 나한테 기어 와서 내 손가락을 빨지 않겠나. 고분고분하고 귀여운 창녀처럼 말이야?"
 
 # game/code/d09/d09s05.rpy:223
 translate korean replay_d09s05_3e65d91d:
@@ -400,13 +400,13 @@ translate korean replay_d09s05_3e65d91d:
 translate korean replay_d09s05_831c5cc4:
 
     # mc "...[mcname]."
-    mc "...[mcname]."
+    mc "... [mcname]."
 
 # game/code/d09/d09s05.rpy:227
 translate korean replay_d09s05_285334ab:
 
     # ceo "[mcname], you're a good sissy. Very good indeed. But tell me..."
-    ceo "[mcname], 자넨 좋은 씨씨야. 실제로 아주 좋아. 하지만 답해 보게..."
+    ceo "[mcname], 자넨 좋은 씨씨야. 실제로 아주 좋아. 하지만 나에게 답해 보게..."
 
 # game/code/d09/d09s05.rpy:230
 translate korean replay_d09s05_46432ae5:
@@ -448,7 +448,7 @@ translate korean replay_d09s05_f4f632ae:
 translate korean d09s05_fucked_82e55831:
 
     # mc "I...I can be a sissy."
-    mc "저...저 씨씨가 될 수 있어요."
+    mc "저... 저 씨씨가 될 수 있어요."
 
 # game/code/d09/d09s05.rpy:261
 translate korean d09s05_fucked_f9e1de33:
@@ -778,7 +778,7 @@ translate korean d09s05_end_19b8090f:
 translate korean d09s05_end_dfdba905:
 
     # mc "I think I will prank the \"M.I.L.F\" then."
-    mc "그러면 \"밀프\" 놀리는 거 할 게."
+    mc "그러면 \"밀프\" 놀리는 거 할게."
 
 # game/code/d09/d09s05.rpy:555
 translate korean d09s05_end_3ad4bc9c:

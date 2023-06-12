@@ -28,7 +28,7 @@ translate korean d09s02_7fb62f5f:
 translate korean d09s02_2c0fbd5b:
 
     # mc "Oh, should I be the cable guy instead?"
-    mc "아, 대신 케이블 설치하러 온 걸로 해야 하나요?"
+    mc "아, 케이블 설치하러 온 걸로 해야 하나요?"
 
 # game/code/d09/d09s02.rpy:39
 translate korean d09s02_47be7110:
@@ -40,7 +40,7 @@ translate korean d09s02_47be7110:
 translate korean d09s02_34af8ae9:
 
     # mc "Maybe the plumber? \"I'm just here to lay some pipe, little lady.\""
-    mc "배관공은요? \"작은 관을 설치하러 왔을 뿐입니다, 아가씨.\""
+    mc "배관공은요? \"전 관을 설치하러 왔을 뿐입니다, 아가씨.\""
 
 # game/code/d09/d09s02.rpy:43
 translate korean d09s02_8cd077ed:
@@ -52,13 +52,13 @@ translate korean d09s02_8cd077ed:
 translate korean d09s02_591cbebe:
 
     # mc "I called you yesterda—"
-    mc "어제 전화했는—"
+    mc "어제 전화한—"
 
 # game/code/d09/d09s02.rpy:49
 translate korean d09s02_9c27b77f:
 
     # sb "Oh right, sorry. You're the new client. Come on in then."
-    sb "아 맞아, 미안. 새 손님이네. 그럼 들어와요."
+    sb "아, 맞아. 미안. 새 손님이네. 그럼 들어와요."
 
 # game/code/d09/d09s02.rpy:50
 translate korean d09s02_fa45f281:
@@ -70,7 +70,7 @@ translate korean d09s02_fa45f281:
 translate korean d09s02_8281dd72:
 
     # mct "Interesting place. Doesn't really look lived-in; seems to be pretty rundown actually."
-    mct "흥미로운 장손데. 전혀 사람 사는 곳 같지가 않아; 상당히 그런데."
+    mct "흥미로운 장손데. 전혀 사람 사는 곳 같지가 않아. 그냥 사람 사는 곳을 흉내를 내는 거 같네."
 
 # game/code/d09/d09s02.rpy:55
 translate korean d09s02_9908df1a:
@@ -82,13 +82,13 @@ translate korean d09s02_9908df1a:
 translate korean d09s02_f20aac88:
 
     # mct "...She isn't gonna drug and rob me, is she?"
-    mct "...약을 하거나 날 털진 않을 거지?"
+    mct "... 약을 하거나 날 털진 않겠지?"
 
 # game/code/d09/d09s02.rpy:58
 translate korean d09s02_c1ea6981:
 
     # mct "I hope there isn't a bathtub full of ice. I've grown rather attached to my kidneys."
-    mct "얼음으로 가득 찬 욕조가 있진 않겠지. 난 신장이 있는 채로 사는 게 좋아."
+    mct "얼음으로 가득 찬 욕조는 없으면 좋겠는데. 난 신장이 있는 채로 사는 게 좋으니까."
 
 # game/code/d09/d09s02.rpy:61
 translate korean d09s02_34709391:
@@ -118,13 +118,13 @@ translate korean d09s02_2898210a:
 translate korean d09s02_2dc0e5a8:
 
     # mct "Ah. Probably only older men can afford her \"service charge\"."
-    mct "아. \"용역 비용\"을 댈 수 있는 사람은 다 나이가 지긋하니 그렇겠지."
+    mct "아. 사미야의 \"용역 비용\"을 댈 수 있는 사람은 나이가 다 지긋하겠지."
 
 # game/code/d09/d09s02.rpy:70
 translate korean d09s02_b7441607:
 
     # sb "So, [mcname]—can I call you [mcname]?"
-    sb "그러면, [mcname]. 그러니까 [mcname] 이렇게 불러도 돼죠?"
+    sb "그러면, [mcname]. 그러니까 [mcname]라고 불러도 되겠죠?"
 
 # game/code/d09/d09s02.rpy:72
 translate korean d09s02_606e2d02:
@@ -160,7 +160,7 @@ translate korean d09s02_fun_0d28210b:
 translate korean d09s02_fun_1cf54578:
 
     # sb "No nonsense; I like that in a man."
-    sb "간단하고 좋네; 그런 남자가 좋더라."
+    sb "간단하고 좋네. 난 이런 남자가 좋더라."
 
 # game/code/d09/d09s02.rpy:101
 translate korean d09s02_fun_024eec4f:
@@ -172,7 +172,7 @@ translate korean d09s02_fun_024eec4f:
 translate korean d09s02_fun_babbcd99:
 
     # mc "...Toys?"
-    mc "...장난감?"
+    mc "... 장난감?"
 
 # game/code/d09/d09s02.rpy:105
 translate korean d09s02_fun_59c09040:
@@ -202,13 +202,13 @@ translate korean d09s02_fun_6967c620:
 translate korean d09s02_fun_fcf8ae74:
 
     # mc "So you're telling me I paid all that money to get {i}you{/i} off with toys?"
-    mc "그럼 제가 {i}당신{/i}을 장난감으로 가게 하는 데 그 돈을 다 썼다는 거예요?"
+    mc "그럼 제가 {i}당신{/i}을 장난감으로 가게 하려고 그 돈을 다 치뤘다는 소리에요?"
 
 # game/code/d09/d09s02.rpy:116
 translate korean d09s02_fun_282a9582:
 
     # sb "Yep. If you were hoping for something...{i}more{/i}, I'm sorry to say it's also gonna cost you more."
-    sb "글쵸. 다른 걸 원하면...{i}더{/i}, 이런 말해서 미안하지만 돈을 더 내야 해요."
+    sb "글쵸. 다른 걸 원하면... {i}더{/i}, 이런 말해서 미안하지만 돈을 더 내야 해요."
 
 # game/code/d09/d09s02.rpy:119
 translate korean d09s02_fun_54a263bf:
@@ -220,13 +220,13 @@ translate korean d09s02_fun_54a263bf:
 translate korean d09s02_fun_33463185:
 
     # sb "So what do you say?"
-    sb "그러면 어떻게 해요?"
+    sb "그러면 어떻게 할 거예요?"
 
 # game/code/d09/d09s02.rpy:122
 translate korean d09s02_fun_1eb7e556:
 
     # mct "You know, it's my fault. I should've known. Might as well get {i}something{/i} out of this then."
-    mct "너도 알잖아, 이건 내 책임인 거. 알아야 했잖아. 그래도 여기에서 {i}무언가{/i}를 뽑아낼 수도 있겠지."
+    mct "너도 알잖아, 이건 내 책임인 거. 알아야 했잖아. 그래도 여기에서 {i}뭐라도{/i}를 뽑을 수도 있겠지."
 
 # game/code/d09/d09s02.rpy:124
 translate korean d09s02_fun_a645e116:
@@ -268,7 +268,7 @@ translate korean d09s02_fun_9547ad2a:
 translate korean d09s02_fun_d646ddb9:
 
     # sb "A young guy like you hiring a girl like me... {w}I should have realized you're a virgin."
-    sb "너처럼 여자를 사는 젊은 애는... {w}동정이라는 걸 눈치챘어야 했는데."
+    sb "너처럼 여자를 사는 젊은 애면... {w}당연히 동정이라는 걸 눈치챘어야 했는데."
 
 # game/code/d09/d09s02.rpy:145
 translate korean d09s02_fun_b9edd2de:
@@ -316,13 +316,13 @@ translate korean d09s02_fun_099b73ae:
 translate korean d09s02_fun_1620e829:
 
     # sb "Just remember - I can touch you, but you can't touch me."
-    sb "이건 명심해 - 난 널 만져도 돼지만, 넌 날 만지면 안 돼."
+    sb "이거 하나 명심해. 난 널 만져도 돼지만, 넌 날 만지면 안 돼."
 
 # game/code/d09/d09s02.rpy:160
 translate korean d09s02_fun_86a29086:
 
     # mc "Except with this."
-    mc "이거로만 말이죠."
+    mc "이거로만 만지란 소리죠."
 
 # game/code/d09/d09s02.rpy:163
 translate korean d09s02_fun_ab1ec6e4:
@@ -394,7 +394,7 @@ translate korean d09s02_fun_06339fce:
 translate korean d09s02_fun_f95d62fd:
 
     # mc "Anytime"
-    mc "천만해요"
+    mc "천만해요."
 
 # game/code/d09/d09s02.rpy:243
 translate korean d09s02_fun_26e82b6b:
@@ -412,7 +412,7 @@ translate korean d09s02_luggage_ec5f1a9f:
 translate korean d09s02_luggage_10c0e199:
 
     # mct "Looks like Fetish Locator is already aware that I used dildos to fuck Samiya."
-    mct "페티시 로케이터가 사미야를 딜도로 쑤신 걸 벌써 알아챈 모양인데."
+    mct "사미야를 딜도로 쑤신 걸 페티시 로케이터가 벌써 알아챈 모양인데."
 
 # game/code/d09/d09s02.rpy:265
 translate korean d09s02_luggage_37b96121:
@@ -436,7 +436,7 @@ translate korean d09s02_luggage_97832c10:
 translate korean d09s02_luggage_701eccf2:
 
     # sb "I'm sorry but I told you, you get what you paid for."
-    sb "미안하지만 말했잖아, 돈 낸 것만 받을 수 있어."
+    sb "미안하지만 말했잖아, 돈 낸 것만 해 줄 수 있어."
 
 # game/code/d09/d09s02.rpy:274
 translate korean d09s02_luggage_6d11c6cf:
@@ -448,7 +448,7 @@ translate korean d09s02_luggage_6d11c6cf:
 translate korean d09s02_luggage_5b4d9b41:
 
     # mc "Would you mind sitting down?"
-    mc "앉아도 될까요?"
+    mc "괜찮다면 앉아서 이야기할까요?"
 
 # game/code/d09/d09s02.rpy:277
 translate korean d09s02_luggage_958fd9b6:
@@ -472,7 +472,7 @@ translate korean d09s02_luggage_f0c9b00c:
 translate korean d09s02_luggage_a4e232a1:
 
     # sb "Alright then. This is a little unusual. Men prefer to talk before or not at all. You're the first that's ever wanted to talk {i}after{/i} everything."
-    sb "그렇긴 하네. 이건 좀 특이하네. 남자들은 하기 전에 말을 하거나 전혀 안 하거든. 전부 다 한 {i}다음에{/i} 이야길 하고 싶어 하는 건 네가 처음이야."
+    sb "그렇긴 하네. 이건 좀 별난데. 남자들은 하기 전에 말을 하거나 전혀 안 하거든. 전부 다 한 {i}다음에{/i} 이야길 하고 싶어 하는 건 네가 처음이야."
 
 # game/code/d09/d09s02.rpy:285
 translate korean d09s02_luggage_1dd6e6f5:
@@ -502,7 +502,7 @@ translate korean d09s02_luggage_c14c584c:
 translate korean d09s02_luggage_05a98f20:
 
     # mct "Alright, [mcname]. This is it. She doesn't seem as crazy as Dahlia made her out to be, but still, don't get shanked."
-    mct "괜찮아, [mcname]. 시작해. 달리아가 말했던 거처럼 미친 것 같지는 않지만, 여전히 정강이 조심은 하자고."
+    mct "괜찮아, [mcname]. 시작해. 달리아가 말했던 거처럼 미친 것 같지는 않지만, 그래도 정강이 조심은 하자고."
 
 # game/code/d09/d09s02.rpy:297
 translate korean d09s02_luggage_ed4c8ef8:
@@ -562,13 +562,13 @@ translate korean d09s02_luggage_42ff87df:
 translate korean d09s02_luggage_2c5aa9e0:
 
     # sb "But yeah, if you can call that fucking, then I fucked him the other night."
-    sb "그래도 맞아. 그걸 떡이라고 부를 수 있다면, 걔랑 떡을 치긴 했어."
+    sb "그래도 맞아. 그걸 떡이라고 부를 수 있다면, 걔랑 떡을 치긴 했지."
 
 # game/code/d09/d09s02.rpy:316
 translate korean d09s02_luggage_49233834:
 
     # sb "You get used to disappointment as a woman, but that was just sad."
-    sb "여자로서 실망하는 데 익숙하지만, 그건 좀 슬폈지."
+    sb "여자로서 실망하는 데 익숙하지만, 그건 그냥 통탄할 노릇이었지."
 
 # game/code/d09/d09s02.rpy:319
 translate korean d09s02_luggage_5aaf03dc:
@@ -592,13 +592,13 @@ translate korean d09s02_luggage_15164332:
 translate korean d09s02_luggage_e52d2726:
 
     # sb "I didn't see you too well, but I managed to get a glance."
-    sb "잘 보진 못했지만, 보긴 했다고."
+    sb "잘 보진 못했지만, 보긴 봤다고."
 
 # game/code/d09/d09s02.rpy:326
 translate korean d09s02_luggage_25ac08a9:
 
     # sb "You're his roommate, aren't you? You were sleeping with some chick if I remember correctly."
-    sb "너 걔 룸메이트지? 내가 기억하는 게 맞다면 어떤 여자애랑 같이 자고 있었어."
+    sb "너 걔 룸메이트지? 내 기억이 맞으면, 어떤 여자애랑 같이 자고 있었지."
 
 # game/code/d09/d09s02.rpy:329
 translate korean d09s02_luggage_21d7ffc3:
@@ -658,13 +658,13 @@ translate korean d09s02_luggage_61ff3001:
 translate korean d09s02_luggage_2c483a29:
 
     # mc "I want to get it back to her."
-    mc "그 가방을 돌려주고 싶어서."
+    mc "난 그 가방을 걔한테 돌려주고 싶어서 온 거야."
 
 # game/code/d09/d09s02.rpy:352
 translate korean d09s02_luggage_fcf140c8:
 
     # sb "So you're telling me that you hired me, {i}just{/i} so that you can get the bag back?"
-    sb "그러면 이런 말이네, {i}단지{/i} 가방을 되찾으려고 날 빌렸다는 거야?"
+    sb "그러면 이런 소리네, {i}단지{/i} 가방을 되찾으려고 날 샀다는 소리야?"
 
 # game/code/d09/d09s02.rpy:354
 translate korean d09s02_luggage_1a3ce239:
@@ -676,7 +676,7 @@ translate korean d09s02_luggage_1a3ce239:
 translate korean d09s02_luggage_23de970e:
 
     # sb "And then you came here and was like, \"Welp, might as well get my money's worth\"?"
-    sb "그러면 이런 마음으로 온 거야, \"훔, 낸 돈 만큼 값어치는 할 거다\"?"
+    sb "그러면 이런 생각이라도 하면서 온 거니, \"훔, 낸 돈 만큼 받아내긴 해야지\"?"
 
 # game/code/d09/d09s02.rpy:357
 translate korean d09s02_luggage_a87a337b:
@@ -718,13 +718,13 @@ translate korean d09s02_luggage_a20c8060:
 translate korean d09s02_luggage_4973c1fc:
 
     # mc "Uhm... Well, it's good that {i}somebody{/i} is getting a laugh out of it I suppose."
-    mc "으음... 그러니까, {i}누가{/i} 웃게 되면 그걸로 좋은 거지."
+    mc "으음... 그러니까, {i}누구라도{/i} 웃으면 그걸로 좋은 거니까."
 
 # game/code/d09/d09s02.rpy:369
 translate korean d09s02_luggage_635d056e:
 
     # sb "Oh come on. Don't you think it's just a {i}little{/i} funny?"
-    sb "아 제발. 너 설마 가방도 찾고 {i}조금{/i} 재미도 볼 거라고 생각하면서 온 거야?"
+    sb "아, 제발. 너 설마 가방도 찾고 {i}조금{/i} 재미도 볼 거라고 생각하면서 온 거야?"
 
 # game/code/d09/d09s02.rpy:371
 translate korean d09s02_luggage_83010160:
@@ -742,7 +742,7 @@ translate korean d09s02_luggage_5f847c3a:
 translate korean d09s02_luggage_dfe65b50:
 
     # sb "Sorry. Anyway, you want the luggage, do you?"
-    sb "미안. 어쨌든, 짐 때문에 온 거네?"
+    sb "미안. 어쨌든, 짐 때문에 온 거지?"
 
 # game/code/d09/d09s02.rpy:377
 translate korean d09s02_luggage_70c56421:
@@ -790,7 +790,7 @@ translate korean d09s02_luggage_8d9dc6e5:
 translate korean d09s02_luggage_27f8fb99:
 
     # mc "Well, why can't you!?"
-    mc "글쎄, 왜 말 못하는데!?"
+    mc "왜!?"
 
 # game/code/d09/d09s02.rpy:396
 translate korean d09s02_luggage_178aa339:
@@ -874,7 +874,7 @@ translate korean d09s02_luggage_0c64a4d0:
 translate korean d09s02_luggage_76312e6c:
 
     # sb "Lemme just get my phone real quick."
-    sb "잠깐만 전화 빨리할 테니까."
+    sb "잠깐만 전화 좀 돌릴 테니까."
 
 # game/code/d09/d09s02.rpy:441
 translate korean d09s02_luggage_dc175690:
@@ -886,7 +886,7 @@ translate korean d09s02_luggage_dc175690:
 translate korean d09s02_luggage_234b953a:
 
     # sb "{i}You{/i}, have to pull a little prank on a hot M.I.L.F for me, and I have just the one in mind."
-    sb "{i}넌{/i}, 날 위해서 핫 한 밀프에게 작은 장난 하나 해 줘야겠어. 하나 점찍어 둔 사람이 있거든."
+    sb "{i}넌{/i}, 날 위해서 핫 한 밀프한테 작은 장난 하나 해 줘야겠어. 하나 점찍어 둔 사람이 있거든."
 
 # game/code/d09/d09s02.rpy:447
 translate korean d09s02_luggage_0aa8076c:
@@ -928,7 +928,7 @@ translate korean d09s02_luggage_ce6d1a29:
 translate korean d09s02_luggage_51f5e881:
 
     # sb "On to the next one."
-    sb "그 다음 일."
+    sb "다음 일."
 
 # game/code/d09/d09s02.rpy:467
 translate korean d09s02_luggage_ebf96e02:
@@ -958,7 +958,7 @@ translate korean d09s02_luggage_1085199c:
 translate korean d09s02_luggage_4dfada53:
 
     # sb "For one night, but yes."
-    sb "하룻밤만, 맞아 그러라는 거지."
+    sb "맞아. 하룻밤만 그러라는 거야."
 
 # game/code/d09/d09s02.rpy:481
 translate korean d09s02_luggage_73a9d35a:
@@ -982,7 +982,7 @@ translate korean d09s02_luggage_87a71109:
 translate korean d09s02_luggage_e849ff8d:
 
     # sb "It's {i}so{/i} hard doing these things with just little ol' me you know."
-    sb "작고 늙은 나 혼자 이런저런 일을 하기엔 {i}너무{/i} 힘들단 말이지."
+    sb "작고 늙은 나 혼자 이런저런 일을 하기엔 {i}너무나{/i} 힘들단 말이지."
 
 # game/code/d09/d09s02.rpy:491
 translate korean d09s02_luggage_fdf105da:
@@ -994,7 +994,7 @@ translate korean d09s02_luggage_fdf105da:
 translate korean d09s02_luggage_d282cb20:
 
     # mc "...Alright, and what exactly do I have to do as your assistant?"
-    mc "...알겠어, 그런데 조수가 되서 정확히 무슨 일을 하라는 거야?"
+    mc "... 알겠어, 그런데 조수가 되서 정확히 무슨 일을 하라는 거야?"
 
 # game/code/d09/d09s02.rpy:494
 translate korean d09s02_luggage_0bc9c5fb:
@@ -1072,7 +1072,7 @@ translate korean d09s02_choice_ae45ad01:
 translate korean d09s02_choice_94bb6f3b:
 
     # sb "That's a weird condition, but alright. I thought you were gonna say no sounding or something, but you do you I suppose."
-    sb "거 참 이상한 조건이네, 그래도 좋아. 사운딩(sounding) 같은 걸 안 된다고 할 줄 알았는데, 여하튼 좋을 대로 해."
+    sb "거 참 이상한 조건이네, 그래도 좋아. 사운딩(sounding) 같은 건 안 된다고 할 줄 알았는데, 여하튼 좋을 대로 해."
 
 # game/code/d09/d09s02.rpy:538
 translate korean d09s02_choice_075d2b64:
@@ -1084,13 +1084,13 @@ translate korean d09s02_choice_075d2b64:
 translate korean d09s02_choice_042be473:
 
     # sb "Inserting a metal rod into your urethra."
-    sb "금속 막대를 네 요도에 넣는 거."
+    sb "금속 막대기를 네 요도에 꽂는 거."
 
 # game/code/d09/d09s02.rpy:541
 translate korean d09s02_choice_bb704644:
 
     # mc "...I'd like to amend my previous statement!"
-    mc "...방금 발언을 수정하겠어!"
+    mc "... 방금 발언을 수정하겠어!"
 
 # game/code/d09/d09s02.rpy:547
 translate korean d09s02_choice_eeb3cedb_1:

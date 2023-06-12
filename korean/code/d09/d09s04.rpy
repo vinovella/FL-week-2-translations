@@ -40,7 +40,7 @@ translate korean d09s04_98d1e8d0:
 translate korean d09s04_4cd4e2d4:
 
     # sb "Here's what you have to do."
-    sb "네가 해야 하는 건 여기에 있어."
+    sb "여기서 일을 벌이면 돼."
 
 # game/code/d09/d09s04.rpy:43
 translate korean d09s04_cb1e70aa:
@@ -52,31 +52,31 @@ translate korean d09s04_cb1e70aa:
 translate korean d09s04_13db56fa:
 
     # sb "—and leave her ass naked somewhere in here. Preferably around a lot of people."
-    sb "—여기 어딘가에서 엉덩이가 까진 채로 두는 거야. 사람들이 많은 곳에서 하면 더할 나위 없이 좋아."
+    sb "— 어디든 좋으니까, 그 여자 엉덩이가 까진 채로 두면 되는 거야. 사람들이 많은 곳에서 하면 더할 나위 없이 좋고."
 
 # game/code/d09/d09s04.rpy:46
 translate korean d09s04_b2829d57:
 
     # mc "Jesus, how am I supposed to do that!?"
-    mc "세상에, 나보고 어떻게 그 짓을 하란 말이야!?"
+    mc "세상에, 어떻게 그런 짓을 하란 말이야!?"
 
 # game/code/d09/d09s04.rpy:49
 translate korean d09s04_5c2b6844:
 
     # sb "How am I supposed to know? That's why I brought your big brains along. Think something up!"
-    sb "내가 어떻게 알아? 그 잘난 머리를 끌고 온 이유가 그거니까. 뭔가 생각해 내!"
+    sb "나라고 아냐? 그 잘난 머리를 끌고 온 이유가 그거니까. 뭔가 생각해 내!"
 
 # game/code/d09/d09s04.rpy:50
 translate korean d09s04_c2019964:
 
     # mc "Look, alright, how about this? A counter proposal."
-    mc "봐 봐, 알겠는데, 이렇게 하는 건 어때? 역제안을 하지."
+    mc "봐 봐, 알겠는데, 이렇게 하는 건 어때? 역제안을 할게."
 
 # game/code/d09/d09s04.rpy:51
 translate korean d09s04_b5757e72:
 
     # mc "Something that might actually be a little doable."
-    mc "조금이라도 실제로 할 수 있는 걸 하자구."
+    mc "조금이라도 말이 되는 일을 하자구."
 
 # game/code/d09/d09s04.rpy:52
 translate korean d09s04_4a98cff9:
@@ -94,7 +94,7 @@ translate korean d09s04_23528c81:
 translate korean d09s04_96156ece:
 
     # sb "...In public?"
-    sb "...공공장소에서?"
+    sb "... 공공장소에서?"
 
 # game/code/d09/d09s04.rpy:59
 translate korean d09s04_cf1adef2:
@@ -124,13 +124,13 @@ translate korean d09s04_411e8c05:
 translate korean d09s04_169c84e9:
 
     # mc "And I can't just forcefully undress a woman in the middle of the day in a packed store and just walk away all willy-nilly without getting tackled by 5 - 6 guys before I lay one foot in front of the other."
-    mc "그리고 대낮에 사람으로 붐비는 매장에서 여성의 옷을 강제로 벗게 한 다음에 걸어 나갈 수 있는 게 아니라고. 좋든 싫든 내가 발을 올리기도 전에 장정 대여섯은 달라붙을 텐데.."
+    mc "그리고 대낮에 사람으로 붐비는 매장에서 여성의 옷을 강제로 벗게 한 다음에 걸어 나갈 수 있는 사람은 없다고. 좋든 싫든 내가 발을 떼기도 전에 장정 대여섯은 달라붙을 텐데.."
 
 # game/code/d09/d09s04.rpy:67
 translate korean d09s04_b15242d2:
 
     # sb "...Alright, I'll give you that one. That's a good point."
-    sb "...알겠어, 그렇게 하게 해 주지. 좋은 지적이야."
+    sb "... 알겠어, 그렇게 하게 해 주지. 좋은 지적이야."
 
 # game/code/d09/d09s04.rpy:68
 translate korean d09s04_77b03bc0:
@@ -142,7 +142,7 @@ translate korean d09s04_77b03bc0:
 translate korean d09s04_ca6a0f6e:
 
     # sb "And there she is, right on time."
-    sb "그리고 다른 사람이 제시간에 버네사를 봐야 돼."
+    sb "그리고 다른 사람이 그 여자를 봐야 돼."
 
 # game/code/d09/d09s04.rpy:72
 translate korean d09s04_53fe863b:
@@ -166,7 +166,7 @@ translate korean d09s04_8dca5345:
 translate korean d09s04_ebcffca4:
 
     # sb "Chicken much, huh?"
-    sb "대단한 겁쟁이잖아, 응?"
+    sb "대단한 겁쟁이 나셨네, 응?"
 
 # game/code/d09/d09s04.rpy:89
 translate korean d09s04_3fe53486:
@@ -178,13 +178,13 @@ translate korean d09s04_3fe53486:
 translate korean d09s04_83c5ce1e:
 
     # sb "Then do something else for me."
-    sb "그럼 다른 일을 해"
+    sb "그럼 다른 일을 해."
 
 # game/code/d09/d09s04.rpy:96
 translate korean d09s04_eeb3cedb:
 
     # mc "Fine. I'll be your assistant then."
-    mc "좋아. 조수가 되지."
+    mc "좋아. 조수가 될게."
 
 # game/code/d09/d09s04.rpy:98
 translate korean d09s04_4cf5fee8:
@@ -220,7 +220,7 @@ translate korean d09s04_41da771c:
 translate korean d09s04_7cfe6739:
 
     # mc "Actually, I've been meaning to ask you this. What exactly are you getting from this again?"
-    mc "사실, 계속 물으려고 했는데. 뭐가 좋아서 이걸 하라는 거야?"
+    mc "사실, 계속 물으려고 했는데. 넌 뭐가 좋아서 이런 짓을 하라는 거야?"
 
 # game/code/d09/d09s04.rpy:125
 translate korean d09s04_6791f652:
@@ -280,7 +280,7 @@ translate korean replay_d09s04_d08db075:
 translate korean replay_d09s04_89211be3:
 
     # vw "Sorry. I'm just blabbering on."
-    vw "미안. 내가 말이 너무 많았지."
+    vw "미안. 내가 말이 너무 많았네."
 
 # game/code/d09/d09s04.rpy:154
 translate korean replay_d09s04_522c89e2:
@@ -304,7 +304,7 @@ translate korean replay_d09s04_b3144f7c:
 translate korean replay_d09s04_2c35d787:
 
     # vw "You know... I don't really have any plans for tonight. I wouldn't mind you coming over. I could show you some of my new...{i}recipes{/i}."
-    vw "그렇지... 오늘 밤에 아무런 일정이 정말 없거든. 들러도 괜찮아. 오면 보여줄 게 내 새로운...{i}요리법{/i}."
+    vw "그렇지... 오늘 밤에 아무런 일정이 정말 없거든. 들러도 괜찮아. 오면 보여줄 게 내 새로운... {i}요리법{/i}."
 
 # game/code/d09/d09s04.rpy:163
 translate korean replay_d09s04_81a6d986:
@@ -346,7 +346,7 @@ translate korean replay_d09s04_d107260f:
 translate korean replay_d09s04_9a07b9ba:
 
     # vw "...God, what are you doing to me?"
-    vw "...세상에, 나한테 뭘 할 생각이니?"
+    vw "... 세상에, 나한테 뭘 할 생각이니?"
 
 # game/code/d09/d09s04.rpy:189
 translate korean replay_d09s04_e7113e40:
@@ -418,7 +418,7 @@ translate korean replay_d09s04_f36e5aec:
 translate korean replay_d09s04_517b61a9:
 
     # vw "I...fine. You're a damn incubus, you know that?"
-    vw "난...좋아. 넌 망할 색마 녀석이야. 너도 알지?"
+    vw "난... 좋아. 이 색마 녀석 같으니라고. 너도 그런 거 알지?"
 
 # game/code/d09/d09s04.rpy:214
 translate korean replay_d09s04_1e943cfd:
@@ -436,7 +436,7 @@ translate korean replay_d09s04_f5ac24ec:
 translate korean replay_d09s04_4ec7ec13:
 
     # vw "This isn't going to work."
-    vw "이렇게 하는 게 아니잖아."
+    vw "이렇게 하는 게 아니란다."
 
 # game/code/d09/d09s04.rpy:223
 translate korean replay_d09s04_7b0ba0c2:
@@ -466,7 +466,7 @@ translate korean replay_d09s04_bc33b676:
 translate korean replay_d09s04_ae32eb0b:
 
     # mc "...For my great benefit of course."
-    mc "...그러니 저에게 엄청난 도움이 되구요."
+    mc "... 그러니 저에게 엄청난 도움이 되구요."
 
 # game/code/d09/d09s04.rpy:235
 translate korean replay_d09s04_bc0bbdd1:
@@ -478,7 +478,7 @@ translate korean replay_d09s04_bc0bbdd1:
 translate korean replay_d09s04_d06d733e:
 
     # mc "Where else? It's fine, there's nobody else around. Just concentrate on me."
-    mc "다른 곳에서 할 거 없잔하요? 여기 괜찮네요, 주변에 아무도 없고. 그냥 나한테만 집중해요."
+    mc "다른 곳에서 할 거 없잖아요? 여기 괜찮네요. 주변에 아무도 없고. 그냥 나한테만 집중해요."
 
 # game/code/d09/d09s04.rpy:244
 translate korean replay_d09s04_545e6afe:
@@ -508,13 +508,13 @@ translate korean replay_d09s04_403a2e1b:
 translate korean replay_d09s04_40bdfe55:
 
     # mc "...At the same time?"
-    mc "...한번에요?"
+    mc "... 한번에요?"
 
 # game/code/d09/d09s04.rpy:258
 translate korean replay_d09s04_c558aba5:
 
     # vw "Yes. You started this, you'll finish it, mister."
-    vw "그래. 결사해지라는 거죠, 선생님."
+    vw "그래. 결자해지라는 거죠, 선생님."
 
 # game/code/d09/d09s04.rpy:259
 translate korean replay_d09s04_4689d278:
@@ -526,7 +526,7 @@ translate korean replay_d09s04_4689d278:
 translate korean replay_d09s04_6467396f:
 
     # vw "Come on, baby. I want to feel you inside me."
-    vw "어서, 자기야. 내 안에서 널 느끼고 싶어."
+    vw "어서, 자기야. 내 안으로 널 느끼고 싶어."
 
 # game/code/d09/d09s04.rpy:281
 translate korean replay_d09s04_20f4e427:
@@ -634,7 +634,7 @@ translate korean replay_d09s04_09c53c65:
 translate korean replay_d09s04_ca736f7d:
 
     # "Store Manager" "I'm sorry about this, but, ya'know... rules and whatnot"
-    "매장 관리자" "이런 말하게 되서 유감인데, 그러니까, 알죠... 규칙 같은 게 있으니까"
+    "매장 관리자" "이런 말하게 되서 유감인데, 그러니까, 알죠... 규칙 같은 게 있으니까."
 
 # game/code/d09/d09s04.rpy:362
 translate korean replay_d09s04_85fb8d0e:

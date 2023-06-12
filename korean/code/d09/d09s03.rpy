@@ -4,7 +4,7 @@
 translate korean d09s03_79966fa3:
 
     # mct "Ok, at least I had some progress with Samiya. That is giving me hope to actually get back Stacy's luggage."
-    mct "됐어, 적어도 사미야 일은 진전이 있어. 스테이시의 짐을 되찾을 수 있다는 희망을 주긴 하잖아."
+    mct "됐다. 적어도 사미야 일은 진전이 있어. 스테이시의 짐을 되찾을 수 있다는 희망이 생기긴 했잖아."
 
 # game/code/d09/d09s03.rpy:53
 translate korean d09s03_af4f853b:
@@ -16,7 +16,7 @@ translate korean d09s03_af4f853b:
 translate korean d09s03_d1208a1e:
 
     # mc "Sorry that I fell asleep on you last night."
-    mc "어젯밤에 자서 미안해."
+    mc "어젯밤에 이야기하다가 자 버려서 미안해."
 
 # game/code/d09/d09s03.rpy:62
 translate korean d09s03_08eb0f14:
@@ -28,7 +28,7 @@ translate korean d09s03_08eb0f14:
 translate korean d09s03_a509486c:
 
     # mc "Not really. I don't really-"
-    mc "사실은 반대야. 난 정말로-"
+    mc "사실은 반대야. 사실은-"
 
 # game/code/d09/d09s03.rpy:67
 translate korean d09s03_016c8c89:
@@ -40,37 +40,37 @@ translate korean d09s03_016c8c89:
 translate korean d09s03_3d716781:
 
     # mc "You know that dream where you're drowning in the shower?"
-    mc "샤워하다 익사하는 꿈 알지?"
+    mc "샤워하다가 익사하는 꿈 알지?"
 
 # game/code/d09/d09s03.rpy:71
 translate korean d09s03_8b2b7759:
 
     # lc "Oh. The one where dozens of scary clowns are standing over you and-"
-    lc "아. 한 다스는 되는 무서운 광대가 옆에서 널 지켜보고 있고-"
+    lc "아. 열두 명은 되는 무서운 광대가 널 지켜보고 있고-"
 
 # game/code/d09/d09s03.rpy:75
 translate korean d09s03_865c1f30:
 
     # mc "No, no. Just where the shower fills up with water."
-    mc "아니, 그런 건 아니구. 그냥 샤워기에서 나오는 물로 차는 꿈."
+    mc "아니, 그런 건 아니구. 그냥 샤워기에서 나오는 물이 차오르는 꿈."
 
 # game/code/d09/d09s03.rpy:76
 translate korean d09s03_c0f38968:
 
     # lc "No acid spraying from their flowers burning your skin?"
-    lc "광대의 꽃에서 나온 산성 액체 분사로 네 피부가 불타진 않았어?"
+    lc "광대가 가슴에 단 꽃에서 산성 액체를 뿌려서 네 피부가 불타진 않았어?"
 
 # game/code/d09/d09s03.rpy:78
 translate korean d09s03_d81e1343:
 
     # mc "I don't think I've ever had that one."
-    mc "그런 건 생각해 본 적도 없네."
+    mc "그런 건 상상해 본 적도 없네."
 
 # game/code/d09/d09s03.rpy:80
 translate korean d09s03_50e522dc:
 
     # lc "Oh. {w}Anyway, let's just have a pleasant meal."
-    lc "아. {w}어쨌든, 일단 이 맛있는 식사부터 하자구."
+    lc "아. {w}아무튼, 맛있게 식사부터 하자."
 
 # game/code/d09/d09s03.rpy:83
 translate korean d09s03_b4b69a4f:
@@ -88,7 +88,7 @@ translate korean d09s03_6dfc0e82:
 translate korean d09s03_a4e5a95b:
 
     # lc "It's not over yet... time for the best part of any meal."
-    lc "아직 끝난게 아니지... 이제 식사에서 가장 좋은 부분이 남았으니까."
+    lc "아직 끝난 게 아냐... 식사에서 가장 좋은 부분이 남았으니까."
 
 # game/code/d09/d09s03.rpy:92
 translate korean d09s03_1e1ddf9c:
@@ -160,7 +160,7 @@ translate korean d09s03_f4314603:
 translate korean d09s03_11a5f90e:
 
     # lc "I sang a half-assed song that I just kinda tossed together on the spot."
-    lc "그 자리에서 내가 부른 노래라고 해 봐야 엉성하게 만든 노래였는 걸."
+    lc "그 자리에서 내가 부른 노래라고 해 봐야 엉성하게 만든 노래가 다였는 걸."
 
 # game/code/d09/d09s03.rpy:117
 translate korean d09s03_34344b45:
@@ -178,7 +178,7 @@ translate korean d09s03_c17ef8ec:
 translate korean d09s03_369cfb49:
 
     # lc "I need to write my own music and sing my own songs."
-    lc "직접 작곡을 해서 내가 만든 노래를 불러야 한다는 거."
+    lc "내가 만든 노래를 불러야 한다는 거."
 
 # game/code/d09/d09s03.rpy:123
 translate korean d09s03_85d475fe:
@@ -190,7 +190,7 @@ translate korean d09s03_85d475fe:
 translate korean d09s03_044e7292:
 
     # lc "Ha! Maybe I just needed you to point out the obvious."
-    lc "하! 그 당연한 걸 네가 말한 후에야 깨달았어."
+    lc "하! 그 당연한 사실을 네가 말해 준 다음에야 깨달았어."
 
 # game/code/d09/d09s03.rpy:127
 translate korean d09s03_a3ce470e:
@@ -244,19 +244,19 @@ translate korean d09s03_bf0ad310:
 translate korean d09s03_0c9d7621:
 
     # mct "This is a really lovely restaurant. I'm glad she took me here..."
-    mct "여긴 정말 멋진 식당인데. 리디아가 날 데려와 줘서 기쁘긴..."
+    mct "여긴 정말 멋진 식당인데. 리디아가 데려와 줘서 기쁘긴..."
 
 # game/code/d09/d09s03.rpy:152
 translate korean d09s03_3a3b453f:
 
     # mct "... but I don't know that I could ever afford to take her out to a place like this."
-    mct "... 하지만 내가 이런 장소에 리디아를 데리고 올 형편이 될지 모르겠네."
+    mct "... 하지만 이런 장소에 리디아를 데리고 올 형편이 될지 모르겠네."
 
 # game/code/d09/d09s03.rpy:153
 translate korean d09s03_84799d9d:
 
     # mct "I'm definitely going to have to come up with something good for our next date."
-    mct "우리 다음 데이트에 좋을 만한 걸 떠올려야겠어."
+    mct "다음 데이트로 괜찮을 만한 걸 떠올려야겠어."
 
 # game/code/d09/d09s03.rpy:156
 translate korean d09s03_a8eff729:
@@ -280,7 +280,7 @@ translate korean d09s03_59f5b92b:
 translate korean d09s03_d3dfc95c:
 
     # mct "What the hell is she doing here?"
-    mct "씨발 얘는 여기에서 뭘 하는 거야?"
+    mct "씨발 쟤는 여기에서 뭘 하는 거야?"
 
 # game/code/d09/d09s03.rpy:177
 translate korean d09s03_6a0b0629:
@@ -304,19 +304,19 @@ translate korean d09s03_81d0ece7:
 translate korean d09s03_0e9013c7:
 
     # mc "Why is that?"
-    mc "왜 그런데?"
+    mc "왜 말하기가 어려운데?"
 
 # game/code/d09/d09s03.rpy:186
 translate korean d09s03_4fcf5f4f:
 
     # arj "Because it will sound like I'm insanely jealous and stalking you two on your date."
-    arj "내가 질투심 때문에 제정신이 아니라서 데이트하는 너희를 스토킹 했다고 들릴까 봐."
+    arj "내가 질투심 때문에 정신이 나가서 데이트하는 너희를 스토킹 했다고 들릴까 봐."
 
 # game/code/d09/d09s03.rpy:188
 translate korean d09s03_c42b05ac:
 
     # mc "And?"
-    mc "그래서 왜 왔는데?"
+    mc "그래서 넌 왜 왔는데?"
 
 # game/code/d09/d09s03.rpy:191
 translate korean d09s03_042a5cd1:
@@ -334,13 +334,13 @@ translate korean d09s03_c446cecb:
 translate korean d09s03_20f49147:
 
     # arj "...but I don't want to lie to you either."
-    arj "...하지만 너에게 거짓말은 하고 싶진 않아."
+    arj "... 하지만 너에게 거짓말은 하고 싶진 않아."
 
 # game/code/d09/d09s03.rpy:196
 translate korean d09s03_25f5fcf0:
 
     # mc "So, you actually are insanely jealous and stalking us on our date."
-    mc "그럼, 넌 진짜로 질투심에 제정신이 아니라서 데이트 중인 우리를 스토킹 했다는 거네."
+    mc "그럼, 넌 진짜로 질투심에 정신이 나가서 데이트 중인 우리를 스토킹 했다는 거네."
 
 # game/code/d09/d09s03.rpy:198
 translate korean d09s03_47fc2d1f:
@@ -352,7 +352,7 @@ translate korean d09s03_47fc2d1f:
 translate korean d09s03_e24f98aa:
 
     # arj "I'm sorry. I'm sorry. I don't mean to be crazy. It's just..."
-    arj "미안해. 미안해. 내가 정말 제정신이 아니라는 게 아니라. 그냥..."
+    arj "미안해. 미안해. 내가 정말 정신이 나갔다는 게 아니라. 그냥..."
 
 # game/code/d09/d09s03.rpy:203
 translate korean d09s03_66b8bdb1:
@@ -364,7 +364,7 @@ translate korean d09s03_66b8bdb1:
 translate korean d09s03_76924a7f:
 
     # arj "The rational part of me says to leave it alone and let you two do your thing..."
-    arj "내 이성적인 부분은 너희들이 알아서 하도록 그대로 두라곤 했는데..."
+    arj "내 이성적인 부분은 너희들이 알아서 하도록 내버려 두라곤 했어..."
 
 # game/code/d09/d09s03.rpy:205
 translate korean d09s03_c2101aa4:
@@ -376,7 +376,7 @@ translate korean d09s03_c2101aa4:
 translate korean d09s03_432c03c4:
 
     # arj "... but..."
-    arj "... 하지만..."
+    arj "... 그치만..."
 
 # game/code/d09/d09s03.rpy:209
 translate korean d09s03_6df11091:
@@ -394,7 +394,7 @@ translate korean d09s03_f1ca834c:
 translate korean d09s03_827ca850:
 
     # arj "I want to be rational, but..."
-    arj "나도 이성적이게 되고 싶어, 그런데..."
+    arj "나도 이성적으로 굴고 싶어, 그런데..."
 
 # game/code/d09/d09s03.rpy:228
 translate korean replay_d09s03_6f6aecba:
@@ -544,13 +544,13 @@ translate korean replay_d09s03_0c089754:
 translate korean replay_d09s03_5dd9e348:
 
     # mc "Maybe it's time to switch to water?"
-    mc "이제 물이랑 바뀔 시간인가 봐?"
+    mc "이제 물로 바꿀까?"
 
 # game/code/d09/d09s03.rpy:299
 translate korean replay_d09s03_d7fc0734:
 
     # lc "I'm totally fine! What were we talking about?"
-    lc "완전히 괜찮아! 우리 무슨 이야기하고 있었더라?"
+    lc "난 완전히 괜찮아! 우리 무슨 이야기하고 있었더라?"
 
 # game/code/d09/d09s03.rpy:322
 translate korean replay_d09s03_1b4faa7d:
@@ -622,7 +622,7 @@ translate korean replay_d09s03_bd7716bb:
 translate korean replay_d09s03_0fc5bc9d:
 
     # mc "Okay, a story it is. Let me think for just a second..."
-    mc "좋아, 이런 이야기인데. 잠깐 생각 좀 할 게..."
+    mc "좋아, 이런 이야기인데. 잠깐 생각 좀 할게..."
 
 # game/code/d09/d09s03.rpy:405
 translate korean replay_d09s03_1fbf5754:
@@ -634,7 +634,7 @@ translate korean replay_d09s03_1fbf5754:
 translate korean replay_d09s03_6b88cf19:
 
     # mc "Not really a sex story. But this the only thing I can remember now."
-    mc "섹스 이야기는 사실 아니야. 그래도 지금 기억나는 이야기는 이거뿐이라서."
+    mc "사실 섹스 이야기는 아니야. 그래도 지금 기억나는 이야기는 이거뿐이라서."
 
 # game/code/d09/d09s03.rpy:408
 translate korean replay_d09s03_70d0901c:
@@ -664,7 +664,7 @@ translate korean replay_d09s03_03c62655:
 translate korean replay_d09s03_161f6ecc:
 
     # mc "Every night, my [d09s03_pet!t] and I would climb into bed together and [d09s03_verb!t]!"
-    mc "매일 밤, 내 [d09s03_pet!t] 그리고 난 같이 침대에서 같이 [d09s03_verb!t]!"
+    mc "매일 저녁이 되면 난 [d09s03_pet!t] 녀석이랑 같이 침대에서 [d09s03_verb!t]... 그러니까 좋은 시간을 보냈지!"
 
 # game/code/d09/d09s03.rpy:422
 translate korean replay_d09s03_19f574ef:
@@ -682,7 +682,7 @@ translate korean replay_d09s03_2181fbc7:
 translate korean replay_d09s03_c39bc40d:
 
     # lc "...{w} You and your [d09s03_pet!t] would [d09s03_verb!t] on your bed every night?"
-    lc "...{w} 너랑 네 [d09s03_pet!t] 둘이서 매일 밤 침대에서 같이 [d09s03_verb!t], 정말로 그랬다는 말이야?"
+    lc "...{w} 너랑 네 [d09s03_pet!t]... 둘이서 매일 밤 침대에서 같이... 정말로 그랬다는 말이야?"
 
 # game/code/d09/d09s03.rpy:433
 translate korean replay_d09s03_af566bc7:
@@ -706,7 +706,7 @@ translate korean replay_d09s03_3bd52983:
 translate korean replay_d09s03_abfb037f:
 
     # mc "I wasn't supposed to go into the forest alone, but I would cheat by bringing my [d09s03_pet!t] with me."
-    mc "숲에 혼자 가지 말아야 하는데, 꾀를 부려서 나랑 [d09s03_pet!t] 둘이서 숲에 가곤 했어."
+    mc "숲에 혼자 가지 말아야 하는데, 꾀를 부려서 나랑 [d09s03_pet!t] 녀석이랑 둘이서 숲에 가곤 했어."
 
 # game/code/d09/d09s03.rpy:442
 translate korean replay_d09s03_24258dd8:
@@ -856,7 +856,7 @@ translate korean replay_d09s03_3e2f7ebc:
 translate korean replay_d09s03_3442f570:
 
     # lc "Huh. You know... I remember quite a few power outages like that when I was a kid, but nothing like that as a teenager or an adult."
-    lc "어. 그렇지... 내가 꼬마였을 땐 정전이 꽤 있었던 기억이 나네, 십대가 되고 성인이 된 다음엔 겪지 보지 못했지만."
+    lc "어. 그렇지... 내가 꼬마였을 땐 정전이 꽤 있었던 기억이 나네. 십대가 되고 성인이 된 다음엔 겪지 보지 못했지만."
 
 # game/code/d09/d09s03.rpy:496
 translate korean replay_d09s03_4bf39568:
@@ -910,7 +910,7 @@ translate korean replay_d09s03_f656a38d:
 translate korean replay_d09s03_53dcfb9d:
 
     # mct "Damn! AmRose is sucking the life out of me!"
-    mct "젠장! 앰로즈가 나한테서 생명을 빨아잖아!"
+    mct "젠장! 앰로즈가 나한테서 생명을 빨아내잖아!"
 
 # game/code/d09/d09s03.rpy:511
 translate korean replay_d09s03_e33e2195:
@@ -922,7 +922,7 @@ translate korean replay_d09s03_e33e2195:
 translate korean replay_d09s03_8503cd6e:
 
     # mct "Hell yeah! Suck every drop you redheaded vixen!"
-    mct "씨발 이거야! 빨강 머리 암여우 년 한 방울도 남기지 않고 다 빨라고!"
+    mct "씨발 이거야! 빨강 머리 암여우 년아 한 방울도 남기지 않고 다 빨라고!"
 
 # game/code/d09/d09s03.rpy:523
 translate korean replay_d09s03_3a4b6978:
@@ -982,13 +982,13 @@ translate korean replay_d09s03_cf01fdc7:
 translate korean replay_d09s03_7eb713e6:
 
     # mc "Yeah, sorry. I guess I'm just not used to drinking wine during the day."
-    mc "응, 미안. 낮에 와인을 마시는 거에 익숙하지 않아서 그런 거 같아."
+    mc "응, 미안. 낮에 와인을 마시는 거에 익숙하지 않아서 그런가 봐."
 
 # game/code/d09/d09s03.rpy:552
 translate korean replay_d09s03_8c7c3e51:
 
     # lc "Yeah, it's easy to misjudge and get a bit tipsy."
-    lc "그래, 잘못 생각하고 약간 취하기 쉽지."
+    lc "그래, 판단도 흐려지고 좀 취하기 쉬우니까."
 
 # game/code/d09/d09s03.rpy:565
 translate korean replay_d09s03_7573b941:
@@ -1012,7 +1012,7 @@ translate korean replay_d09s03_e1b2241e:
 translate korean replay_d09s03_0db5cf2d:
 
     # mc "I don't know. It's like a half forgotten memory from when I was a little kid."
-    mc "나도 모르겠네. 아주 꼬맹이 때라서 거의 잊고 있었으니까."
+    mc "나도 모르겠네. 아주 꼬맹이 때라서 거의 잊고 있었던 거니까."
 
 # game/code/d09/d09s03.rpy:574
 translate korean replay_d09s03_66734d9d:
@@ -1042,31 +1042,31 @@ translate korean replay_d09s03_332841e7:
 translate korean replay_d09s03_1505a571:
 
     # lc "That sounds about right.{w}.. are you okay to take a little walk?"
-    lc "그 말이 맞는 것 같네.{w}.. 조금 같이 걸어도 괜찮겠어?"
+    lc "그 말이 맞는 것 같네.{w}.. 좀 걸어도 괜찮겠어?"
 
 # game/code/d09/d09s03.rpy:585
 translate korean replay_d09s03_2a1acefb:
 
     # mc "Better than ever. {w}You did say that you wanted a story."
-    mc "언제나 괜찮지. {w}이야기가 듣고 싶다고 했었지."
+    mc "언제나 괜찮지. {w}이야기가 듣고 싶다고 했었잖아."
 
 # game/code/d09/d09s03.rpy:588
 translate korean replay_d09s03_2d541934:
 
     # lc "Well, I was counting on something else. But might got much more!"
-    lc "글쎄, 다른 이야기를 기대하긴 했는데. 엄청난 경험을 했네!"
+    lc "음, 다른 이야기를 기대하긴 했는데. 기대 이상이었어!"
 
 # game/code/d09/d09s03.rpy:589
 translate korean replay_d09s03_13977be6:
 
     # mc "Perfect. Shall we go?"
-    mc "완벽하네. 가실까요?"
+    mc "완벽하네. 그럼 가실까요?"
 
 # game/code/d09/d09s03.rpy:590
 translate korean replay_d09s03_18ce0546:
 
     # lc "Sounds good."
-    lc "그럼 좋죠."
+    lc "좋고 말구요."
 
 # game/code/d09/d09s03.rpy:593
 translate korean replay_d09s03_41739002:
@@ -1084,7 +1084,7 @@ translate korean replay_d09s03_4fc30be0:
 translate korean replay_d09s03_dd9fdea2:
 
     # lc "Have you ever considered painting abstract art or avant-garde poetry contests?"
-    lc "추상화 그리기나 아방가르드 시 대회를 생각해 본 적은 있어?"
+    lc "추상화 그리기나 아방가르드 시 대회 참가를 생각해 본 적은 있어?"
 
 # game/code/d09/d09s03.rpy:599
 translate korean replay_d09s03_84928f52:
@@ -1108,13 +1108,13 @@ translate korean replay_d09s03_cf53bf7d:
 translate korean replay_d09s03_a2a07f79:
 
     # mc "I loved it as well! Can I call you tonight!"
-    mc "나도 같이 시간 보내니 좋았어! 오늘 밤에 전화해도 돼?"
+    mc "나도 같이 시간 보내니 정말 좋았어! 오늘 밤에 전화해도 돼?"
 
 # game/code/d09/d09s03.rpy:608
 translate korean replay_d09s03_97f95a57:
 
     # lc "I will be waiting for that!"
-    lc "기다리고 있을 게!"
+    lc "기다리고 있을게!"
 
 translate korean strings:
 

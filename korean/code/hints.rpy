@@ -124,15 +124,15 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "Pick this and continue picking the first most option if you want to not look like a psycho in front of Lydia and get the highest number of points."
-    new "이 선택지를 고르고 계속 첫 번째 선택지를 고르면, 리디아에게 정신병자처럼 보이지 않게 되지만 가장 많은 점수를 받을 수 없습니다."
+    new "계속 첫 번째 선택지를 고르면, 리디아에게 정신병자처럼 보이지 않게 됩니다."
 
     # game/code/hints.rpy:5
     old "Pick this if you want to be weird and not get the highest number of points."
-    new "이 선택지를 고르면, 이상한 인간이 될 수는 있지만 가장 많은 점수는 받을 수 없습니다."
+    new "계속 두 번째 선택지를 고르면, 리디아에게 이상한 인간처럼 보이게 됩니다."
 
     # game/code/hints.rpy:5
     old "Pick this and continue picking the third most option if you want to look like a psycho in front of Lydia and get the highest number of points."
-    new "이 선택지를 고르고 계속 세 번째 선택지를 고르면, 리디아에게 정신병자처럼 보이게 되고 가장 많은 점수를 받을 수 있습니다."
+    new "계속 세 번째 선택지를 고르면, 리디아에게 정신병자처럼 보이게 됩니다. 가장 많은 점수를 받을 수 있습니다."
 
     # game/code/hints.rpy:5
     old "Pick this if you want to not look like a psycho in front of Lydia and get the highest number of points."
