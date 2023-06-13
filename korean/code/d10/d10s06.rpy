@@ -64,7 +64,7 @@ translate korean d10s06_9e04144e:
 translate korean d10s06_4fb2d7dd:
 
     # nk "Nice to meet you! [mcname] here is always bringing interesting people around. But I ain't complaining! He is practically the reason I am still open today!"
-    nk "만나서 반가워요! [mcname], 넌 항상 흥미로운 분들은 모시고 오는구나. 그러니 불평할 수가 없네! 그게 오늘 가게 문을 연 이유이기도 하고 말야!"
+    nk "만나서 반가워요! [mcname], 넌 항상 흥미로운 분들은 모시고 오는구나. 그러니 불평할 수가 없지! 그게 오늘 가게 문을 연 이유이기도 하고 말이야!"
 
 # game/code/d10/d10s06.rpy:39
 translate korean d10s06_96fb0672:
@@ -178,13 +178,13 @@ translate korean d10s06_2b35b6fe:
 translate korean d10s06_e008cc01:
 
     # nk "Oh, come on. Don't tell me that you didn't think I'd figure it out. There's only one person crazy enough to try something like that, and that's her."
-    nk "오, 제발. 내가 눈치채지도 못할 거라고 생각한 건 아니지. 이런 일을 할 정도로 미친 애는 한 사람 밖에 없고, 그게 폴리야."
+    nk "오, 제발. 내가 눈치채지도 못할 거라고 생각한 건 아니지. 이런 일을 할 정도로 미친 애는 한 사람밖에 없고, 그러면 폴리야."
 
 # game/code/d10/d10s06.rpy:81
 translate korean d10s06_25e373f4:
 
     # nk "She's been trying to show me \"what a woman can do\" for ages now. I've always told her no, but I guess she found out a way to get into my pants regardless."
-    nk "폴리는 나한테 \"여자가 뭘 할 수 있는 걸\" 보여 줄 수 있다고 했다고 한참은 말했단 말이지. 난 항상 됐다고 하긴 했지만, 드디어 그런 건 상관없이 내 바지 안으로 들어올 방법은 찾은 거겠지."
+    nk "폴리는 나한테 \"여자가 뭘 할 수 있는지\" 보여 주겠다고 한참 전부터 말했단 말이지. 항상 됐다고 하긴 했지만, 내 말이 어떻든 간에 마침내 내 바지 안으로 들어올 방법은 찾은 거겠지."
 
 # game/code/d10/d10s06.rpy:83
 translate korean d10s06_ae98f407:
@@ -196,13 +196,13 @@ translate korean d10s06_ae98f407:
 translate korean d10s06_1de7e246:
 
     # nk "No, it's alright. I...I think I actually kinda like it. I dunno, maybe."
-    nk "됐어, 괜찮아. 내...난 사실 마음에 들었어. 모르겠다, 아마도."
+    nk "됐어, 괜찮아. 나... 난 사실 마음에 들었어. 모르겠다, 아마도."
 
 # game/code/d10/d10s06.rpy:88
 translate korean d10s06_1001fb96:
 
     # nk "I'm not a lesbian by any means, but...maybe I'm not as straight as I thought either."
-    nk "난 분명히 동성애자는 아냐. 하지만... 내가 생각하던 거처럼 철두철미한 이성애자도 아닌가 봐."
+    nk "난 확실히 동성애자는 아냐. 하지만... 내가 생각하던 거처럼 철두철미한 이성애자도 아닌가 봐."
 
 # game/code/d10/d10s06.rpy:93
 translate korean d10s06_0e310e64:
@@ -214,7 +214,7 @@ translate korean d10s06_0e310e64:
 translate korean d10s06_d20d3ba5:
 
     # nk "I don't know if I would go that far, but what I do know is that I want to get back at her. I might have enjoyed it, but that doesn't mean I'm not at least a little pissed at her."
-    nk "내가 양성애자로 지낼 수 있을진 모르겠지만, 분명한 건 폴리한테 복수를 하고 싶다는 거야. 즐기긴 했지만, 그렇다고 내가 폴리한테 화가 안 난 건 아니니까."
+    nk "양성애자로 잘 지낼 수 있을진 모르겠다. 그래도 분명한 건 폴리한테 복수를 하고 싶다는 거야. 즐기긴 했지만, 그렇다고 폴리한테 화가 안 난 건 아니니까."
 
 # game/code/d10/d10s06.rpy:96
 translate korean d10s06_0bd5d7dd:
@@ -292,7 +292,7 @@ translate korean d10s06_559e21c3:
 translate korean d10s06_e4e17269:
 
     # mc "She just wants to pull a little prank on someone and wanted my help."
-    mc "노라가 놀라게 해 주고 싶은 사람이 있다고 하네 그리고 내 도움도 필요하고."
+    mc "노라가 놀라게 해 주고 싶은 사람이 있다고 하시네. 그리고 내 도움이 필요한 건일이고 말이지."
 
 # game/code/d10/d10s06.rpy:122
 translate korean d10s06_c2734c44:
@@ -304,5 +304,5 @@ translate korean d10s06_c2734c44:
 translate korean d10s06_38cf5d59:
 
     # mc "Right? That woman sure knows how to make a good cup of Joe."
-    mc "그치? 노라는 다른 사람의 취향을 제대로 아는 사람이라니까."
+    mc "그치? 노라는 취향을 제대로 맞추는 사람이라니까."
 

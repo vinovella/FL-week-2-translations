@@ -200,7 +200,7 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "This is an important choice that can change the way your relationship with Pete, Samiya, and Dahlia develops - This path will close off the path of you and Pete getting dominated by Samiya and Dahlia."
-    new "중요한 선택지입니다. 피트, 사미야, 달리아와의 관계를 바꿉니다. 당신과 피트가 사미야와 달리아에게 지배되는 분기를 파단합니다."
+    new "중요한 선택지입니다. 피트, 사미야, 달리아와의 관계를 바꿉니다. 당신과 피트가 사미야와 달리아에게 지배되는 분기를 차단합니다."
 
     # game/code/hints.rpy:5
     old "You will continue to frot with Lyssa."
