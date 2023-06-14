@@ -10,19 +10,19 @@ translate korean d10s05_be2623d1:
 translate korean d10s05_c19773ab:
 
     # arj "Hey, guys! This is the place."
-    arj "자, 얘들아! 여기야."
+    arj "자, 애들아! 여기야."
 
 # game/code/d10/d10s05.rpy:13
 translate korean d10s05_f0ee8f65:
 
     # sy "What is this place? It looks really... Normal."
-    sy "여기야? 보기엔... 평범한데."
+    sy "여기? 보기엔... 평범한데."
 
 # game/code/d10/d10s05.rpy:15
 translate korean d10s05_f714dc5b:
 
     # arj "That's the charm of it. It really doesn't look like a fetish clothing shop, does it? {i}Well{/i}, that's because it isn't one."
-    arj "그게 이 가게의 매력이지. 변태 같은 옷을 파는 가게지만 그런 티가 안 나잖아? {i}사실{/i}, 그런 것만 취급하는 가겐 아니야."
+    arj "그 점이 이 가게의 매력이지. 변태 같은 옷을 파는 가게지만 그런 티가 안 나잖아? {i}사실{/i}, 그런 것만 취급하는 가겐 아니야."
 
 # game/code/d10/d10s05.rpy:18
 translate korean d10s05_1f1b5d28:
@@ -40,7 +40,7 @@ translate korean d10s05_02d37b57:
 translate korean d10s05_77600090:
 
     # mc "So... It {i}is{/i} a fetish shop?"
-    mc "그럼... {i}정말로{/i} 변태를 위한 물건을 취급하는 가게다?"
+    mc "그럼... {i}정말로{/i} 변태적인 가게다?"
 
 # game/code/d10/d10s05.rpy:23
 translate korean d10s05_16f8af1b:
@@ -52,7 +52,7 @@ translate korean d10s05_16f8af1b:
 translate korean d10s05_caec537b:
 
     # arj "Exactly! You can walk in here and buy whatever you want and leave without having to feel embarrassed."
-    arj "정확해! 들어가서 원하는 걸 사고 창피할 것 없이 나올 수 있는 거야."
+    arj "정확해! 들어가서 원하는 걸 산 다음 창피할 일 없이 나올 수 있는 거야."
 
 # game/code/d10/d10s05.rpy:28
 translate korean d10s05_1862ac48:
@@ -88,25 +88,25 @@ translate korean d10s05_30fadbe2:
 translate korean d10s05_7f5d804e:
 
     # arj "Honestly, this place is great. Get this, the employees don't bother you here!"
-    arj "정말, 여긴 괜찮은 곳이야. 봐, 우릴 괴롭히는 직원도 없다구!"
+    arj "정말로, 여긴 괜찮은 곳이야. 봐, 우릴 괴롭히는 직원도 없다구!"
 
 # game/code/d10/d10s05.rpy:40
 translate korean d10s05_84273d2d:
 
     # arj "You can just browse all you want without a care in the world. They mind their business; you mind yours. I love it!"
-    arj "근심 걱정 없이 원하는 건 전부 살펴볼 수 있단 말씀이야. 직원들은 자기 일 하고, 우리는 우리 일 신경 쓰고. 정말 마음에 들어!"
+    arj "근심 걱정 없이 원하는 건 전부 살펴볼 수 있단 말씀이지. 직원들은 자기 일 하고, 우리는 우리 일 신경 쓰고. 정말 마음에 들어!"
 
 # game/code/d10/d10s05.rpy:43
 translate korean d10s05_9fe69540:
 
     # mc "Doesn't that mean that the employees are just lazy?"
-    mc "까놓고 말해서 여기 직원들이 게으르다는 소리 아냐?"
+    mc "까놓고 말하면 여기 직원들이 게으르다는 소리 아냐?"
 
 # game/code/d10/d10s05.rpy:44
 translate korean d10s05_8118f02e:
 
     # arj "Or it could mean that they finally realized that no one wants to be bothered while they're picking something."
-    arj "물건 고르는 중에 방해 받고 싶은 사람이 없다는 걸 마침내 알게 된 걸 수도 있다구."
+    arj "물건 고르는 중에 방해 받고 싶은 사람은 없다는 걸 마침내 알게 된 걸 수도 있자."
 
 # game/code/d10/d10s05.rpy:46
 translate korean d10s05_dcd482f6:
@@ -118,7 +118,7 @@ translate korean d10s05_dcd482f6:
 translate korean d10s05_75b13580:
 
     # mc "Maybe you just have very antisocial friends?"
-    mc "반사회적인 친구만 있어서 그런 건 아니구?"
+    mc "너한테 반사회적인 친구만 있어서 그런 건 아니구?"
 
 # game/code/d10/d10s05.rpy:50
 translate korean d10s05_b213e10a:
@@ -136,7 +136,7 @@ translate korean d10s05_7967b1e2:
 translate korean d10s05_c84a8ae8:
 
     # mc "I'm not messing with her! I'm making some very good points here."
-    mc "괴롭히는 거 아냐! 충고를 해 주는 것 뿐이지."
+    mc "괴롭히는 거 아냐! 충고를 해 주는 것뿐이지."
 
 # game/code/d10/d10s05.rpy:56
 translate korean d10s05_bd5ab4ea:
@@ -178,37 +178,37 @@ translate korean d10s05_d9d759e7:
 translate korean d10s05_51bfaa27:
 
     # arj "Yeah, I saw the place while I was walking around and decided to see what it was about. Saw the maid costume, and it was perfect, so I bought it."
-    arj "응, 산책 중에 이 가게가 눈에 들어와서 무슨 가게인가 살펴보게 된 거지. 하녀 의상이 눈에 띄어서, 완벽하다 싶었고, 그래서 산 거야."
+    arj "응, 산책 중에 이 가게가 눈에 들어왔어. 뭘 파나 둘러보게 됐는데. 하녀 의상이 눈에 들어오더라구. 딱 맞겠다 싶어서 샀지."
 
 # game/code/d10/d10s05.rpy:74
 translate korean d10s05_1369ae24:
 
     # mc "So I'm the only one getting something today?"
-    mc "그러면 오늘 내 옷 사려고 여기 왔단 소리야?"
+    mc "그러면 오늘 내 옷 사려고 왔단 소리야?"
 
 # game/code/d10/d10s05.rpy:75
 translate korean d10s05_f650e03f:
 
     # arj "Pretty much."
-    arj "거의 그렇지."
+    arj "그렇다고 할 수 있지."
 
 # game/code/d10/d10s05.rpy:76
 translate korean d10s05_07a0cc00:
 
     # mc "In that case, I could've just come here and gotten something without having to bother you two. Not that I'm complaining, of course."
-    mc "그런 거라면, 너희 둘 번거롭게 할 것도 없이 내가 와서 뭘 사면 끝이었잖아. 물론 불평하는 건 아닌데."
+    mc "그런 거라면, 너희 둘 번거롭게 할 것도 없잖아. 내가 와서 아무거나 사면 끝인데. 물론 불평하는 건 아니구."
 
 # game/code/d10/d10s05.rpy:80
 translate korean d10s05_4cec53b5:
 
     # arj "You wouldn't be able to pick anything without us being here. Your entire wardrobe consists of like 3 shirts and a pair of civil war era jeans."
-    arj "우리가 같이 안 왔으면 혼자선 뭘 고르지도 못하셨겠죠. 옷장에 있는 옷이라곤 상의 세 벌이랑 남북 전쟁 당시에 입었을 법한 청바지 두 벌이 다이신 분이니 말이죠."
+    arj "우리랑 같이 안 왔으면 혼자선 뭘 고르지도 못하셨겠죠. 옷장에 있는 옷이라곤 상의 세 벌이랑 남북 전쟁 당시에 입었을 법한 청바지 두 벌이 다이신 분이."
 
 # game/code/d10/d10s05.rpy:81
 translate korean d10s05_51a670b6:
 
     # arj "When's the last time you got new clothes anyway?"
-    arj "도대체 마지막으로 새 옷을 산 게 언제야?"
+    arj "마지막으로 새 옷을 산 게 도대체 언제야?"
 
 # game/code/d10/d10s05.rpy:84
 translate korean d10s05_c14c584c:
@@ -226,13 +226,13 @@ translate korean d10s05_fbb696ac:
 translate korean d10s05_f3e2d7f4:
 
     # sy "Good to see that he hasn't changed at all since coming to college."
-    sy "대학에 가도 변치 않은 모습을 보니 좋아."
+    sy "대학에 가도 변치 않는 모습이 참 좋다."
 
 # game/code/d10/d10s05.rpy:92
 translate korean d10s05_457ce25a:
 
     # mc "Hey! I have like...5 shirts, and that's more than enough. We have to think of the environment, people!"
-    mc "야! 그래도...상의가 다섯 벌은 있다고, 이거면 충분해. 우리는 환경을 생각해야 합니다, 여러분!"
+    mc "야! 그래도... 상의 다섯 벌은 있다고, 이거면 충분해. 우리는 환경을 생각해야 합니다, 여러분!"
 
 # game/code/d10/d10s05.rpy:94
 translate korean d10s05_6a72b46c:
@@ -256,7 +256,7 @@ translate korean d10s05_04e983cd:
 translate korean d10s05_032ef49f:
 
     # sy "Bruno? Never heard of that brand. Though, it's not like I've ever shopped for fetish clothing before."
-    sy "브뤼노? 들어 본 적도 없는 상표인데. 내가 이런 옷 가게 온 게 처음이긴 하지만."
+    sy "브뤼노? 들어 본 적도 없는 상표인데. 내가 이런 옷 가게 온 게 처음이긴 한데."
 
 # game/code/d10/d10s05.rpy:103
 translate korean d10s05_ee527b89:
@@ -286,7 +286,7 @@ translate korean d10s05_813176bd:
 translate korean d10s05_86addca0:
 
     # sy "What are they, some sort of Russian heavyweight champion turned fetish fashion designer?"
-    sy "뭐 하는 사람들이람, 무슨 러시아 헤비급 챔피언이었다가 변태 옷 만들기 시작한 건가?"
+    sy "뭐 하는 사람들이람, 무슨 러시아 헤비급 챔피언였던 사람이 변태적인 옷을 만들기 시작한 건가?"
 
 # game/code/d10/d10s05.rpy:115
 translate korean d10s05_0ea7c3e0:
@@ -382,7 +382,7 @@ translate korean d10s05_18df8def:
 translate korean d10s05_6d59c408:
 
     # mct "I would've been the only one that Stacy knew here if it weren't for AmRose."
-    mct "앰로즈가 아니었다면 스테이시가 이 타지에서 아는 사람이라곤 나뿐이었을 테니까."
+    mct "앰로즈가 없었으면, 이 타지에서 스테이시가 아는 사람이라곤 나뿐이었을 테니까."
 
 # game/code/d10/d10s05.rpy:152
 translate korean d10s05_2c281d51:
@@ -400,13 +400,13 @@ translate korean d10s05_fac7628a:
 translate korean d10s05_ed235f64:
 
     # mct "I haven't exactly had time to work out or anything lately what with all the Fetish Locator stuff."
-    mct "페티시 로케이터 때문에 최근 운동이다 뭐다 제대로 할 시간이 없었으니."
+    mct "최근엔 페티시 로케이터 때문에 운동이다 뭐다 제대로 할 시간이 없었으니."
 
 # game/code/d10/d10s05.rpy:166
 translate korean d10s05_e97a46c1:
 
     # mct "At least I haven't put on {i}that{/i} much flab."
-    mct "적어도 {i}그렇게{/i} 군살이 많이 붙진 않았어."
+    mct "그래도 {i}그렇게{/i} 군살 붙진 않았네."
 
 # game/code/d10/d10s05.rpy:180
 translate korean d10s05_replay_2e3c518b:
@@ -424,19 +424,19 @@ translate korean d10s05_replay_7677a71b:
 translate korean d10s05_replay_7a1c514c:
 
     # mc "Ah! Jesus, Stacy, what the hell? Don't sneak up on me like that! And what are you even doing here? This place probably has cameras everywhere."
-    mc "아! 세상에, 스테이시, 뭐야 제길? 갑자기 그렇게 말 걸지 마! 그리고 여긴 왜 온 거야? 이 가게 사방에 카메라가 있을 거라고."
+    mc "아! 세상에, 스테이시, 뭐야 제길? 갑자기 이렇게 말 걸지 마! 그리고 여긴 왜 온 거야? 가게 사방에 카메라가 있을 거라고."
 
 # game/code/d10/d10s05.rpy:191
 translate korean d10s05_replay_b2b759c8:
 
     # sy "Relax, nobody saw me coming in and I didn't see any obvious cameras."
-    sy "진정해, 내가 여기 들어오는 거 본 사람 아무도 없어. 그리고 눈에 띄는 카메라도 못 봤다구."
+    sy "진정해, 내가 여기 들어오는 거 본 사람 아무도 없으니까. 그리고 눈에 띄는 카메라도 못 봤다구."
 
 # game/code/d10/d10s05.rpy:193
 translate korean d10s05_replay_4769afa3:
 
     # mc "What about the unobvious cameras then?"
-    mc "눈에 띄지 않는 카메라라도 있으면 어쩌려구?"
+    mc "눈에 띄지 않은 카메라는 어쩌려구?"
 
 # game/code/d10/d10s05.rpy:195
 translate korean d10s05_replay_10880304:
@@ -448,7 +448,7 @@ translate korean d10s05_replay_10880304:
 translate korean d10s05_replay_570f40bb:
 
     # mc "What about AmRose? Won't she wonder where you've gone?"
-    mc "앰로즈는 어쩌고? 네가 어디로 사라졌는지 궁금해하지 않겠어?"
+    mc "앰로즈는? 네가 어디로 사라졌는지 알고 싶을 텐데?"
 
 # game/code/d10/d10s05.rpy:202
 translate korean d10s05_replay_e015decc:
@@ -520,7 +520,7 @@ translate korean d10s05_replay_11455b53:
 translate korean d10s05_replay_71ca7ce8:
 
     # sy "I want to go to the party with you two. It sounds fun."
-    sy "나도 너희 둘이랑 그 파티에 가고 싶다구. 재밌을 거 같아."
+    sy "나도 너희 둘이랑 같이 그 파티에 가고 싶다구. 재밌을 거 같아."
 
 # game/code/d10/d10s05.rpy:230
 translate korean d10s05_replay_492dabb3:
@@ -532,13 +532,13 @@ translate korean d10s05_replay_492dabb3:
 translate korean d10s05_replay_c95e99bc:
 
     # sy "Why not? If you and AmRose can go, why can't I?"
-    sy "왜 안 되는데? 너랑 앰로즈는 가면서, 왜 난 안 된다는 거야?"
+    sy "왜 안 되는데? 너랑 앰로즈는 가면서, 난 왜 안 된다는 거야?"
 
 # game/code/d10/d10s05.rpy:235
 translate korean d10s05_replay_80e505d9:
 
     # mc "I can't tell you this right now."
-    mc "당장은 말할 수 없는 이유가 있어서 그래."
+    mc "지금 당장은 말할 수 없는 이유가 있어서 그래."
 
 # game/code/d10/d10s05.rpy:238
 translate korean d10s05_replay_c62638bf:
@@ -562,7 +562,7 @@ translate korean d10s05_replay_ed1346cd:
 translate korean d10s05_replay_69c5dbde:
 
     # sy "I just want to go to the party with you two."
-    sy "그냥 너희 둘이랑 파티 가고 싶은 게 다잖아."
+    sy "그냥 너희 둘이랑 파티 가고 싶다는 게 다잖아."
 
 # game/code/d10/d10s05.rpy:249
 translate korean d10s05_replay_d1cf065e:
@@ -574,7 +574,7 @@ translate korean d10s05_replay_d1cf065e:
 translate korean d10s05_replay_2af86f2b:
 
     # sy "...Okay, when can you tell me then?"
-    sy "...좋아, 그럼 언제 그 이유라는 걸 말할 수 있는데?"
+    sy "... 좋아, 그럼 그 이유라는 건 언제 말해 줄 수 있는데?"
 
 # game/code/d10/d10s05.rpy:253
 translate korean d10s05_replay_75165a63:
@@ -586,7 +586,7 @@ translate korean d10s05_replay_75165a63:
 translate korean d10s05_replay_b1c74c71:
 
     # sy "[mcname]... You're never like this, is everything alright?"
-    sy "[mcname]... 한 번도 이런 말한 적 없잔아, 괜찮은 거야?"
+    sy "[mcname]... 한 번도 이런 식으로 말한 적 없잔아, 괜찮은 거야?"
 
 # game/code/d10/d10s05.rpy:257
 translate korean d10s05_replay_9938916a:
@@ -622,7 +622,7 @@ translate korean d10s05_replay_6b7d6b46:
 translate korean d10s05_replay_256a3a9d:
 
     # hr "There are people here."
-    hr "사람 있으니까."
+    hr "여기 우리만 있는 거 아냐."
 
 # game/code/d10/d10s05.rpy:272
 translate korean d10s05_replay_82b40cf2:
@@ -760,7 +760,7 @@ translate korean d10s05_replay_6b7d6b46_1:
 translate korean d10s05_replay_256a3a9d_1:
 
     # hr "There are people here."
-    hr "사람 있으니까."
+    hr "여기 우리만 있는 거 아냐."
 
 # game/code/d10/d10s05.rpy:330
 translate korean d10s05_replay_fef6ccff:
@@ -814,7 +814,7 @@ translate korean d10s05_replay_aa1179a1:
 translate korean d10s05_replay_f99647e3:
 
     # ir "I'm sick and tired of you trying to control my life."
-    ir "네가 내 삶을 통제하려는 데 질렸어 넌더리가 나."
+    ir "네가 내 삶을 통제하려는 데 질렸어. 넌더리가 난다고."
 
 # game/code/d10/d10s05.rpy:362
 translate korean d10s05_replay_21b6856e:
@@ -826,7 +826,7 @@ translate korean d10s05_replay_21b6856e:
 translate korean d10s05_replay_95bf8394:
 
     # hr "Iona, for the love of God. I'm just trying to help and protect you."
-    hr "아이오나, 제발 좀 빌어먹을, 난 널 도우려고 하는 거야 지키려고 하는 거라고."
+    hr "아이오나, 제발 좀 빌어먹을, 난 널 도우려고 하는 거야. 지키려고 하는 거라고."
 
 # game/code/d10/d10s05.rpy:365
 translate korean d10s05_replay_8d0eaa67:
@@ -838,7 +838,7 @@ translate korean d10s05_replay_8d0eaa67:
 translate korean d10s05_replay_fab05cbd:
 
     # ir "Protect me from what? I can protect myself fine."
-    ir "뭐로부터 날 지키는데? 내 몸은 내가 충분히 지킬 수 이어."
+    ir "뭐로부터 날 지키는데? 내 몸은 스스로 지킬 수 있어."
 
 # game/code/d10/d10s05.rpy:371
 translate korean d10s05_replay_51a990b3:
@@ -850,7 +850,7 @@ translate korean d10s05_replay_51a990b3:
 translate korean d10s05_replay_c4e80cd9:
 
     # ir "Look, I was a naive kid and I messed up once, {b}{i}just once{/i}{/b}. It's been years, when are you gonna let that go?"
-    ir "들어 봐, 난 순진한 꼬맹이였고 한 번 실수했어, {b}{i}그때 딱 한 번{/i}{/b}. 몇 년이 지났다고, 도대체 언제가 돼야 날 놔줄 건데?"
+    ir "들어 봐, 난 순진한 꼬맹이였고 한 번 실수했어, {b}{i}그때 딱 한 번{/i}{/b}. 몇 년이 지났다고, 도대체 얼마나 시간이 지나야 하는데, 언제가 돼야 날 놔줄 거냐고?"
 
 # game/code/d10/d10s05.rpy:375
 translate korean d10s05_replay_64403e96:
@@ -868,13 +868,13 @@ translate korean d10s05_replay_ec59c066:
 translate korean d10s05_replay_2e0ea696:
 
     # hr "We both know that it's not a \"costume party\"."
-    hr "우리 둘 다 알잖아. 이건 \"가장 파티\"가 아냐."
+    hr "우리 둘 다 알잖아. 이건 그냥 \"가장 파티\"가 아냐."
 
 # game/code/d10/d10s05.rpy:382
 translate korean d10s05_replay_d6f3158d:
 
     # hr "Look, you know I'm fine with you...\"doing stuff\"."
-    hr "너도 알잖아, 네가...\"그런 일을 해도\" 난 괜찮다는 거."
+    hr "너도 알잖아, 네가... \"그런 일을 해도\" 난 괜찮다는 거."
 
 # game/code/d10/d10s05.rpy:385
 translate korean d10s05_replay_c1e81c75:
@@ -886,13 +886,13 @@ translate korean d10s05_replay_c1e81c75:
 translate korean d10s05_replay_a628f18c:
 
     # hr "I just want to you to be careful with that app and let me help you."
-    hr "그냥 그 앱 관련해서 조심하라는 거야 그리고 내가 널 돕게 해 달라고."
+    hr "그냥 그 앱 관련해서 조심하라는 거야. 그리고 내가 널 돕게 해 달라고."
 
 # game/code/d10/d10s05.rpy:390
 translate korean d10s05_replay_3124b11b:
 
     # hr "It's just that I don't want you to do anything with that app."
-    hr "그냥 앱에 관련해선 아무것도 하지 않았면 해."
+    hr "그냥 앱에 관련해선 아무런 일도 안 했으면 좋겠어."
 
 # game/code/d10/d10s05.rpy:392
 translate korean d10s05_replay_cf409fc3:
@@ -940,7 +940,7 @@ translate korean d10s05_replay_ee6892a3:
 translate korean d10s05_replay_8541a73b:
 
     # hr "Are you just going to go out without even chan—"
-    hr "다시 갈아입지도 않고 가려고—"
+    hr "다시 갈아입지도 않고 갈—"
 
 # game/code/d10/d10s05.rpy:412
 translate korean d10s05_replay_8dc0d007:
@@ -958,13 +958,13 @@ translate korean d10s05_replay_96b0003a:
 translate korean d10s05_replay_8e471b3c:
 
     # hr "[mcname]? Oh, great, you're here as well. I'm guessing you had a nice front-row seat to all that?"
-    hr "[mcname]? 아, 설상가상이네, 너도 여기 있었구나. 앞 자리에서 공연은 잘 관람하셨겠죠?"
+    hr "[mcname]? 아, 설상가상이다. 너도 여기 있었구나. 앞 자리에서 공연은 잘 관람하셨겠죠?"
 
 # game/code/d10/d10s05.rpy:422
 translate korean d10s05_replay_9e59a9c9:
 
     # mc "There was this big ass wall that blocked the entire show. The organizers really dropped the ball on that one."
-    mc "거대한 벽이 있어서 공연을 제대로 볼 수는 없었지만 말야. 공연 준비하는 사람이 실수를 한 모양이야."
+    mc "거대한 벽이 있어서 공연을 제대로 볼 수는 없었지만 말이지. 공연 준비하는 사람이 실수를 한 모양이야."
 
 # game/code/d10/d10s05.rpy:425
 translate korean d10s05_replay_84dc0ecd:
@@ -1048,25 +1048,25 @@ translate korean d10s05_replay_8e042165:
 translate korean d10s05_replay_41dae5b4:
 
     # hr "That's fine. Just, make sure that she's safe and doesn't get into anything that she can't handle. She's... prickly, at times."
-    hr "그거면 돼. 그냥, 안전하게 자기가 감당할 수 없는 문제에 얽히지만 않게만 해 줘. 걘... 성마른 구석이 있거든, 가끔."
+    hr "그거면 돼. 그냥, 안전하게 자기가 감당할 수 없는 문제에 얽히지만 않게만 해 줘. 걘... 성마른 구석이 있어. 가끔은."
 
 # game/code/d10/d10s05.rpy:456
 translate korean d10s05_replay_3df311b7:
 
     # hr "Oh, by the way, did you manage to open up Pete's laptop yet?"
-    hr "아, 그런 그렇고, 피트의 노트북은 열어 봤어?"
+    hr "아, 그런 그렇고, 피트 노트북은 열어 봤어?"
 
 # game/code/d10/d10s05.rpy:458
 translate korean d10s05_replay_63e001dc:
 
     # mc "No, nothing yet. I've been going slow to not raise any alarms or whatever. I still feel weird about doing this you know."
-    mc "아니, 아직은 못 열였어. 경고 같은 게 작동하지 않게 천천히 하고 있어. 이걸 하는 게 이상하기도 하고 말야."
+    mc "아니, 아직은 못 열였어. 경고 같은 게 작동하지 않게 천천히 하고 있어. 아직은 이런 일을 한다는 게 이상하기도 하고 말이야."
 
 # game/code/d10/d10s05.rpy:460
 translate korean d10s05_replay_a9a81f6e:
 
     # hr "I'm sure all of that is gonna vanish when you find what's in there."
-    hr "안에 뭐가 알게 되면 모든 게 분명해지는 거야."
+    hr "안에 뭐가 알게 되면 모든 게 분명해져."
 
 # game/code/d10/d10s05.rpy:461
 translate korean d10s05_replay_06a221b1:
@@ -1078,13 +1078,13 @@ translate korean d10s05_replay_06a221b1:
 translate korean d10s05_replay_c448c8f3:
 
     # mc "Alright, see you later. And, uh, I'll try and keep an eye on your sister."
-    mc "알겠어, 나중에 봐. 그리고, 어, 네 동생은 신경 쓸 게."
+    mc "알겠어, 나중에 봐. 그리고, 어, 네 동생은 신경 쓸게."
 
 # game/code/d10/d10s05.rpy:467
 translate korean d10s05_replay_9b1c1bb9:
 
     # mc "Alright, see you later. And, uh, I'll try and keep an eye on your girlfriend."
-    mc "알겠어, 나중에 봐. 그리고, 어, 네 여자 친구는 신경 쓸 게."
+    mc "알겠어, 나중에 봐. 그리고, 어, 네 여자 친구는 신경 쓸게."
 
 # game/code/d10/d10s05.rpy:469
 translate korean d10s05_replay_317baead:
@@ -1102,7 +1102,7 @@ translate korean d10s05_replay_10133eb2:
 translate korean d10s05_replay_5f7e2877:
 
     # hr "I got some protection for you for the party."
-    hr "그 파티에서 널 지킬 수 있는 방법을 구했거든."
+    hr "그 파티에서 널 지킬 수 있는 방법을 찾았으니까."
 
 # game/code/d10/d10s05.rpy:477
 translate korean d10s05_replay_95e65495:
@@ -1132,7 +1132,7 @@ translate korean d10s05_replay_7e1c4671:
 translate korean d10s05_replay_e93e4ce9:
 
     # ir "*Sigh* You know what? Fine. {i}Fine{/i}. If that's gonna keep you from getting on my case, fine."
-    ir "*한숨* 너 이러는 걸 뭐라고 하는지 알아? 됐다. {i}됐어{/i}. 나한테 관여하지 않으면, 그걸로 됐어."
+    ir "*한숨* 너 이러는 걸 뭐라고 하는지 알아? 됐다. {i}됐어{/i}. 나한테 관여하지 않으면, 그걸로 됐다고."
 
 # game/code/d10/d10s05.rpy:487
 translate korean d10s05_replay_473709e8:
@@ -1228,7 +1228,7 @@ translate korean d10s05_replay_56d99367:
 translate korean d10s05_replay_24e0ee82:
 
     # mct "Look who's talking..."
-    mct "내 말할 처지냐..."
+    mct "다른 사람 말할 처지냐..."
 
 # game/code/d10/d10s05.rpy:519
 translate korean d10s05_replay_5a4da153:
@@ -1258,7 +1258,7 @@ translate korean d10s05_replay_d279fb9c:
 translate korean d10s05_replay_14bb84b3:
 
     # sy "And I'm sure you won't find anything 'cause who the hell has porn collections these days anyway? Your outdated methods won't work on me, granddad."
-    sy "그리고 네가 찾을 수 있는 건 없겠지. 요즘 세상에 누가 포르노 콜렉션을 차리겠어? 그 오래된 방법은 저한텐 안 통해서요, 할아버지."
+    sy "그리고 찾을 수 있는 건 없겠지. 요즘 세상에 누가 포르노 콜렉션을 실물로 가지고 있겠냐? 그 오래된 수작은 저한텐 안 통해서요, 할아버지."
 
 # game/code/d10/d10s05.rpy:530
 translate korean d10s05_replay_09f4998f:
@@ -1270,19 +1270,19 @@ translate korean d10s05_replay_09f4998f:
 translate korean d10s05_replay_58d58f92:
 
     # sy "I think I need to come here again. They have some pretty cool stuff."
-    sy "나중에 또 와야겠어. 여기 괜찮은 물건 좀 있다."
+    sy "다음에 또 와야겠어. 여기 괜찮은 물건 좀 있네."
 
 # game/code/d10/d10s05.rpy:534
 translate korean d10s05_replay_ac6612c8:
 
     # arj "Right? That top we looked at looked amazing on you!"
-    arj "그치? 우리가 찾은 상의가 너한터 엄청 잘 어울려 보이더라구!"
+    arj "그치? 우리가 윗옷 하나 찾았어. 너한터 엄청 잘 어울려 보이더라구!"
 
 # game/code/d10/d10s05.rpy:537
 translate korean d10s05_replay_c31f7db1:
 
     # mc "If I ever need another costume, I'm gonna find a non-inconspicuous fetish shop to get mine from."
-    mc "다른 의상이 필요하면, 내 건 눈에 띄지 않는 변태 옷 가게에서 찾겠어."
+    mc "다른 의상이 필요하면, 내 건 눈에 띄는 변태 옷 가게에서 찾겠어."
 
 # game/code/d10/d10s05.rpy:539
 translate korean d10s05_replay_01b76648:
@@ -1312,7 +1312,7 @@ translate korean d10s05_replay_bdfef045:
 translate korean d10s05_replay_531bfbf1:
 
     # sy "Sure."
-    sy "그럼."
+    sy "좋지."
 
 # game/code/d10/d10s05.rpy:548
 translate korean d10s05_replay_e248f645:
@@ -1324,13 +1324,13 @@ translate korean d10s05_replay_e248f645:
 translate korean d10s05_replay_9d2e92e0:
 
     # sy "Actually, I think I'm just gonna go back to my apartment. There's still a lot of stuff that needs to be done there, and I'm itching to get right into it."
-    sy "사실, 난 아파트로 돌아가야 할 것 같아. 아직 할 일이 많이 있어서 말야. 바로 하고 싶어서 몸이 근질근질하네."
+    sy "사실, 난 아파트로 돌아가야 할 것 같아. 아직 할 일이 많아서. 바로 착수하고 싶어서 몸이 근질근질하네."
 
 # game/code/d10/d10s05.rpy:552
 translate korean d10s05_replay_a7d4b58c:
 
     # sy "I've also kinda been monopolizing AmRose for a bit now, you two go on ahead and get some coffee."
-    sy "나는 앰로즈를 만끽했으니, 둘이서 커피 마셔."
+    sy "나는 앰로즈를 만끽했으니, 커피는 둘이서 마셔."
 
 # game/code/d10/d10s05.rpy:555
 translate korean d10s05_replay_89ff9325:
@@ -1408,7 +1408,7 @@ translate korean d10s05_replay_48dab64f:
 translate korean d10s05_replay_ec6ff410:
 
     # mc "Anyway, coffee?"
-    mc "아무튼, 커피 마시러?"
+    mc "아무튼, 커피 마시러 갈까?"
 
 # game/code/d10/d10s05.rpy:593
 translate korean d10s05_replay_69fd61bb:
