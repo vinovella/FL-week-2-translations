@@ -232,11 +232,11 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "You will fuck Cynthia's ass."
-    new "신시아의 엉덩이를 박습니다."
+    new "신시아의 엉덩이에 박습니다."
 
     # game/code/hints.rpy:5
     old "You will walk away from the holy ass - You will miss some future content with Cynthia because of this."
-    new "신시아의 성스런 엉덩이를 외면하고 자리를 떠납니다. 이로 인해 신시아와의 콘텐츠를 일부 놓치게 됩니다."
+    new "신시아의 성스런 엉덩이를 외면하고 자리를 떠납니다. 이로 인해 신시아와의 콘텐츠 일부를 놓치게 됩니다."
 
     # game/code/hints.rpy:5
     old "You will keep watching Chloe get throat fucked by Antony."

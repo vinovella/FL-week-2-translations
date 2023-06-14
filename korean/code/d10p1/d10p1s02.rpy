@@ -4,13 +4,13 @@
 translate korean d10p1s02_216924c4:
 
     # mc "Hey, Allison. Y'know, I was actually wondering if I was gonna bump into you or not."
-    mc "안녕, 앨리슨. 있잖아, 실은 네가 파티에 올까 궁금하던 차였어. 다행히도 보게 됐네."
+    mc "안녕, 앨리슨. 있잖아, 실은 네가 파티에 올까 궁금하던 참이었어. 다행히도 바로 보게 됐네."
 
 # game/code/d10p1/d10p1s02.rpy:39
 translate korean d10p1s02_88b4c06c:
 
     # aw "I love these parties and Min asked again if I wanted to come, so here I am. "
-    aw "이런 파티 좋아하거든. 그리고 민이 오고 싶은지 다시 물어보기도 했고 말야. 그래서 이렇게 왔지."
+    aw "이런 파티 좋아하거든. 그리고 민이 오고 싶은지 재차 물어보기도 했고 말이야. 그래서 이렇게 왔지."
 
 # game/code/d10p1/d10p1s02.rpy:40
 translate korean d10p1s02_35fb5360:
@@ -34,7 +34,7 @@ translate korean d10p1s02_ea6f5c02:
 translate korean d10p1s02_aea88f04:
 
     # aw "There's the orgasm main event thing that she has probably already told you about."
-    aw "절정에 관한 본 행사에 관해선 민이 말했을 테고."
+    aw "절정에 관한 본 행사는 민이 말했을 테고."
 
 # game/code/d10p1/d10p1s02.rpy:49
 translate korean d10p1s02_aa5adfc8:
@@ -76,7 +76,7 @@ translate korean d10p1s02_f423e3e3:
 translate korean d10p1s02_dc8a1a32:
 
     # aw "From all the shit that I saw Min bringing in there, it just might be a torture room."
-    aw "민이 그 방에 가져다 둔 망할 것들로 보면, 꼭 고문실 같더라."
+    aw "민이 그 방에 가져다 둔 망할 것들로 보면, 꼭 고문실 같더라니까."
 
 # game/code/d10p1/d10p1s02.rpy:65
 translate korean d10p1s02_feec4d56:
@@ -100,19 +100,19 @@ translate korean d10p1s02_513ce703:
 translate korean d10p1s02_547108ee:
 
     # aw "I'm sure Min has made it so that it's completely safe."
-    aw "민이 완전히 안전하게 만들었을 거고 말야."
+    aw "민이 완전히 안전하게 만들었을 거고 말이지."
 
 # game/code/d10p1/d10p1s02.rpy:71
 translate korean d10p1s02_2e373a56:
 
     # aw "Oh! I also heard that there might be an event or something with these tracker thingies."
-    aw "아! 또 듣기론 추적기 같은 걸로 하는 행사인가 뭔가도 있을 거라고 하더라고."
+    aw "아! 또 듣기론 추적기 같은 걸로 하는 행사인가 뭔가도 있을 거라고 하더라."
 
 # game/code/d10p1/d10p1s02.rpy:72
 translate korean d10p1s02_5ec7b19f:
 
     # aw "She actually tried to explain that one, but uh...I didn't really get it."
-    aw "사실 민이 설명해 주긴 했는데, 어... 정말 이해를 못하겠더라."
+    aw "사실 민이 설명해 주긴 했는데, 어... 정말 이해를 못하겠더라니까."
 
 # game/code/d10p1/d10p1s02.rpy:74
 translate korean d10p1s02_c6677074:
@@ -178,7 +178,7 @@ translate korean d10p1s02_f9012c46:
 translate korean d10p1s02_058cdec0:
 
     # aw "...A...Are you talking to my vagina right now?"
-    aw "...너...너 지금 내 질이랑 이야기하니?"
+    aw "...너... 너 지금 내 질이랑 이야기하니?"
 
 # game/code/d10p1/d10p1s02.rpy:100
 translate korean d10p1s02_4aad109d:
@@ -208,7 +208,7 @@ translate korean d10p1s02_85d20467:
 translate korean d10p1s02_53c7baa1:
 
     # mc "You're like those cam girls that fake an orgasm after like 2 minutes of getting off and quivers like they're experiencing a sudden world-shattering earthquake localized entirely between their legs, except real."
-    mc "몸캠 같을 걸 보면 느낀 지 2분밖에 안 지났는데 간 척을 하면서 몸을 떠는 여자들이면 가능하겠다. 세상을 박살 낼 정도의 지진이 갑자기 자기 다리 사이에서 일어난 것처럼 구는 애들 있잖아. 진짜로 그런 사람도 있겠지만."
+    mc "몸캠 같을 걸 보면 느낀 지 2분밖에 안 지났는데 간 척을 하면서 몸을 떠는 여자들이라면 가능하겠다. 세상을 박살 낼 정도의 지진이 갑자기 자기 다리 사이에서 일어난 것처럼 구는 애들 있잖아. 진짜로 그런 사람도 있겠지만."
 
 # game/code/d10p1/d10p1s02.rpy:112
 translate korean d10p1s02_078de239:
@@ -238,7 +238,7 @@ translate korean d10p1s02_037848a5:
 translate korean d10p1s02_61353d4c:
 
     # aw "Add in some roleplay from time to time to make it seem like it's a one on one special thing even when they haven't paid for one and one, and boom. You'll be swimming in cash."
-    aw "그리고 가끔씩 역할극 같은 걸 곁들이면 일대일로 특별 대우를 하는 느낌이 들게 할 수 있어. 보는 사람이 일대일로 상대해 달라고 돈을 내지 않았어도 말야. 이렇게 하면 빰. 돈에서 수영을 하게 되는 거지."
+    aw "그리고 가끔씩 역할극 같은 걸 곁들이면 일대일로 특별 대우를 하는 느낌이 들게 할 수 있지. 보는 사람이 일대일로 상대해 달라고 돈을 내지 않았어도 말야. 이렇게 하면 빰. 돈에서 수영을 하게 된다고."
 
 # game/code/d10p1/d10p1s02.rpy:122
 translate korean d10p1s02_15d16df5:
@@ -256,7 +256,7 @@ translate korean d10p1s02_8793732e:
 translate korean d10p1s02_7ed659f5:
 
     # aw "Totally straight guys that are not gay at all and would never even consider being gay but is just camming for the \"community\" also make bank from gay guys that are into the \"straight turned gay\" stuff."
-    aw "전혀 동성애자도 아니고 동성애자라고 생각해 본 적도 없는 철두철미한 이성애자 남자애들이 그런 \"공동체\"를 대상으로 캠방을 하기도 하니까. \"동성애자가 되어 버린 이성애자\" 물을 좋아하는 동성애자 남자애들한테 갈퀴로 돈을 긁는다니까."
+    aw "전혀 동성애자도 아니고 자기를 동성애자라고 한 번도 생각해 본 적도 없는 철두철미한 이성애자 남자애들이 그런 \"공동체\"를 대상으로 캠방을 하기도 하니까. \"동성애자가 되어 버린 이성애자\" 물을 좋아하는 동성애자 남자애들한테 갈퀴로 돈을 긁는다니까."
 
 # game/code/d10p1/d10p1s02.rpy:127
 translate korean d10p1s02_31251cce:
@@ -274,7 +274,7 @@ translate korean d10p1s02_a385d7f5:
 translate korean d10p1s02_35df6966:
 
     # aw "Not to mention, get found out and you're probably gonna get some very creatively written emails about your gruesome demise."
-    aw "두말할 필요도 없이, 그런 짓을 하다가 들키면 너 자신의 소름끼치는 부고 선언을 아주 창의적으로 적은 메일을 받게 될 거야."
+    aw "두말할 필요도 없이, 그런 짓을 하다가 들키면 너 자신의 소름끼치는 부고 선언을 아주 창의적으로 적은 메일을 받게 될 테니까."
 
 # game/code/d10p1/d10p1s02.rpy:132
 translate korean d10p1s02_f236ec5a:
@@ -340,13 +340,13 @@ translate korean d10p1s02_dfa440c0:
 translate korean d10p1s02_a06801b0:
 
     # aw "Not saying that you're not normal, just that lots of people out there generally tend to look down on our kind. Even {i}if{/i} they secretly wish that they could have what we have."
-    aw "네가 보통이 아니라는 말은 아냐, 단지 밖에서 많은 사람들은 일반적으로 우리라는 부류를 무시하고 깔보는 경향이 있어. {i}내심은{/i} 우리나 우리가 하는 일을 바라는 사람도 말야."
+    aw "네가 보통이 아니라는 말은 아냐, 단지 밖에서 많은 사람들은 일반적으로 우리라는 부류를 무시하고 깔보는 경향이 있어. {i}내심은{/i} 우리나 우리가 하는 일을 바라는 사람도 그렇고."
 
 # game/code/d10p1/d10p1s02.rpy:153
 translate korean d10p1s02_1f426f2d:
 
     # mc "True."
-    mc "맞는 말이야."
+    mc "맞는 말이네."
 
 # game/code/d10p1/d10p1s02.rpy:155
 translate korean d10p1s02_f63a007d:
@@ -388,13 +388,13 @@ translate korean d10p1s02_6f587f2f:
 translate korean d10p1s02_b3154631:
 
     # mc "No, it's cool. It was interesting hearing about it all."
-    mc "아냐, 괜찮아. 전부 듣고 나니 흥미로웠어."
+    mc "아냐, 괜찮아. 들으니 흥미롭네."
 
 # game/code/d10p1/d10p1s02.rpy:167
 translate korean d10p1s02_26355bf9:
 
     # aw "Yeah. {w}So anyway. Like I said, I'm {i}pretty{/i} sure I'm gonna ace this thing."
-    aw "다행이네. {w}그래서 아무튼. 아까 말했던 거처럼, 이쪽 일에 관해선 내가 {i}상당히{/i} 확신한단 말이지."
+    aw "그럼 다행이고. {w}그래서 아무튼. 아까 말했던 거처럼, 이쪽 일에 관해선 내가 {i}상당히{/i} 자신이 있단 말이지."
 
 # game/code/d10p1/d10p1s02.rpy:169
 translate korean d10p1s02_23f7b300:
@@ -412,7 +412,7 @@ translate korean d10p1s02_c7075b4f:
 translate korean d10p1s02_3f9df27f:
 
     # mc "...What?"
-    mc "...뭐?"
+    mc "... 뭐?"
 
 # game/code/d10p1/d10p1s02.rpy:174
 translate korean d10p1s02_4947cec5:
@@ -622,7 +622,7 @@ translate korean replay_d10p1s02_b12907fb:
 translate korean replay_d10p1s02_a7f6081e:
 
     # aw "Wow, that was...yeah. Thank you."
-    aw "와아, 이거...괜찮았어. 고마워."
+    aw "와아, 이거... 괜찮았어. 고마워."
 
 # game/code/d10p1/d10p1s02.rpy:324
 translate korean replay_d10p1s02_551b8412:

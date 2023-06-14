@@ -142,7 +142,7 @@ translate korean d10p1s07_5b84776c:
 translate korean d10p1s07_6a61c7f4:
 
     # mc "Stacy has no place at a Party like this, but you told me you would escort her and keep her out of trouble."
-    mc "이런 파티에서 스테이시가 있을 곳이 있겠냐고, 그래도 네가 스테이시를 지켜보고 문제 안 생기게 한다면서."
+    mc "이런 파티에서 스테이시가 있을 곳이 있겠냐고, 그래도 네가 스테이시를 지켜 주고 문제 안 생기게 한다면서."
 
 # game/code/d10p1/d10p1s07.rpy:59
 translate korean d10p1s07_8198d06f:
@@ -196,7 +196,7 @@ translate korean d10p1s07_52ecc938:
 translate korean d10p1s07_152dd4ea:
 
     # arjfl "Dude, you're only like a couple years older than she is."
-    arjfl "야, 스테이시랑 넌 두 살 차이밖에 안 나."
+    arjfl "야, 스테이시랑 넌 두 살밖에 차이 안 나."
 
 # game/code/d10p1/d10p1s07.rpy:80
 translate korean d10p1s07_79bfb159:
@@ -286,7 +286,7 @@ translate korean d10p1s07_25154780:
 translate korean d10p1s07_51238975:
 
     # arjfl "Stacy is an adult. She's going to make her own decisions."
-    arjfl "스테이시는 성인이야. 자기 결정은 스스로 내려."
+    arjfl "스테이시는 성인이야. 자기 결정은 자기가 해."
 
 # game/code/d10p1/d10p1s07.rpy:105
 translate korean d10p1s07_774e9fd6:
