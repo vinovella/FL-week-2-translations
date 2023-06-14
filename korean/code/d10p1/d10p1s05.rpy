@@ -70,7 +70,7 @@ translate korean d10p1s05_05500ff6:
 translate korean d10p1s05_c601092a:
 
     # mct "Oh! {w}Right! Lydia told me that Cynthia is back!"
-    mct "아! {w}맞아! 리디아가 신시아가 돌아왔다고 했었지!"
+    mct "아! {w}맞아! 신시아가 돌아왔다고 리디아한테 들었지!"
 
 # game/code/d10p1/d10p1s05.rpy:76
 translate korean d10p1s05_16193be8:
@@ -568,7 +568,7 @@ translate korean d10p1s05_sex_95672ec5:
 translate korean d10p1s05_sex_3d76e6e4:
 
     # cl "Have I driven your oxen to the precipice of ecstasy?"
-    cl "스승님의 숫소를 절정의 벼랑으로 잘 이끈 건가요?"
+    cl "제가 스승님의 숫소를 절정의 벼랑으로 잘 이끌었나요?"
 
 # game/code/d10p1/d10p1s05.rpy:334
 translate korean d10p1s05_sex_107b2116:
@@ -610,7 +610,7 @@ translate korean d10p1s05_creampie_73aebebc:
 translate korean d10p1s05_creampie_1dc069a8:
 
     # cl "YES! Flood my embankments with your river of debauchery!"
-    cl "그래요! 제 둑을 스승님의 방탕한 강으로 범람하게 하세요!"
+    cl "그래요! 스승님의 방탕한 강으로 제 둑을 범람하게 하세요!"
 
 # game/code/d10p1/d10p1s05.rpy:359
 translate korean d10p1s05_creampie_89c7eca6:
@@ -694,7 +694,7 @@ translate korean d10p1s05_afterglow_35ab8f09:
 translate korean d10p1s05_afterglow_63760992:
 
     # cl "Where you decided to climax."
-    cl "절정한 곳 말야."
+    cl "절정한 위치 말이야."
 
 # game/code/d10p1/d10p1s05.rpy:429
 translate korean d10p1s05_afterglow_6668ee0b:
@@ -724,7 +724,7 @@ translate korean d10p1s05_afterglow_1c08fb7f:
 translate korean d10p1s05_afterglow_0da1b3ff:
 
     # mc "Wow. You can be really nasty."
-    mc "와아. 너 정말 지저분할 때도 있구나."
+    mc "와아. 너 정말 지저분할 수도 있구나."
 
 # game/code/d10p1/d10p1s05.rpy:439
 translate korean d10p1s05_afterglow_fe1c31e0:
@@ -826,7 +826,7 @@ translate korean d10p1s05_end_dfa13299:
 translate korean d10p1s05_end_74848fdb:
 
     # mc "Sorry, but you don't look fine. {w}You can talk to me if you want."
-    mc "미안하지만, 안 괜찮아 보이는데. {w}들어 줄 사람이 필요하면 나한테 말해."
+    mc "미안하지만, 안 괜찮아 보이는데. {w}들어 줄 사람이 필요하면 나한테 말해도 돼."
 
 # game/code/d10p1/d10p1s05.rpy:487
 translate korean d10p1s05_end_71386146:

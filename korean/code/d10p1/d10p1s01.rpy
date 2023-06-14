@@ -28,7 +28,7 @@ translate korean d10p1s01_a9c45db1:
 translate korean d10p1s01_4e1d671e:
 
     # mc "Hey Squizzle!"
-    mc "안녕 스퀴즐!"
+    mc "안녕, 스퀴즐!"
 
 # game/code/d10p1/d10p1s01.rpy:29
 translate korean d10p1s01_1cbe095c:
@@ -40,7 +40,7 @@ translate korean d10p1s01_1cbe095c:
 translate korean d10p1s01_abcbafa0:
 
     # arj "Hi Min! This place looks awesome!"
-    arj "안녕 민! 이 집 멋지네!"
+    arj "안녕, 민! 집 멋지네!"
 
 # game/code/d10p1/d10p1s01.rpy:35
 translate korean d10p1s01_4c935e09:
@@ -58,7 +58,7 @@ translate korean d10p1s01_113cf047:
 translate korean d10p1s01_d6c4fbca:
 
     # mc "Most people use their Fetish names here."
-    mc "여기선 대부분 페티시 로케이터 사용자 이름을 써."
+    mc "여기선 대부분 페티시 앱 이름을 써."
 
 # game/code/d10p1/d10p1s01.rpy:41
 translate korean d10p1s01_e784665c:
@@ -88,13 +88,13 @@ translate korean d10p1s01_07b483f2:
 translate korean d10p1s01_01edd8b0:
 
     # mesfl "Nope. It says [mclogin] right here."
-    mesfl "안 돼. 데이터베이스에 따라, [mclogin]."
+    mesfl "안 돼. 데이터베이스에 따라서, [mclogin]."
 
 # game/code/d10p1/d10p1s01.rpy:49
 translate korean d10p1s01_a780415d:
 
     # mc "Sure, but... {w}nevermind."
-    mc "그래, 하지만... {w}괜찮아."
+    mc "그래, 하지만... {w}신경 쓰지 마."
 
 # game/code/d10p1/d10p1s01.rpy:51
 translate korean d10p1s01_eea9b6c5:
@@ -124,19 +124,19 @@ translate korean d10p1s01_782646cf:
 translate korean d10p1s01_f0ed2804:
 
     # mesfl "Oxygen levels, blood pressure, sleep quality... {w}All the bells and whistles."
-    mesfl "산소 포화도, 혈압, 수면 품질... {w}이런 부가 기능이 전부 있지."
+    mesfl "산소 포화도, 혈압, 수면 품질... {w}이런 요소를 전부 측정할 수 있지."
 
 # game/code/d10p1/d10p1s01.rpy:61
 translate korean d10p1s01_e5c0723c:
 
     # mesfl "[mclogin], you were here before. Can you explain the rules to ErikaRed while I pair your devices?"
-    mesfl "[mclogin], 넌 전에 와 봤지. 내가 너희 기기를 페어링 하는 동안 에리카레드에게 규칙을 설명해 주겠어?"
+    mesfl "[mclogin], 넌 전에 와 봤지. 내가 페어링 하는 동안 에리카레드에게 규칙을 설명해 주겠어?"
 
 # game/code/d10p1/d10p1s01.rpy:64
 translate korean d10p1s01_68c5df9d:
 
     # mc "Um, sure. As far as I remember."
-    mc "음, 그럼. 내가 기억하는 한 해 볼게."
+    mc "음, 그럼. 내가 기억하는 내에서 알려 줘 볼게."
 
 # game/code/d10p1/d10p1s01.rpy:65
 translate korean d10p1s01_adb6833d:
@@ -196,7 +196,7 @@ translate korean d10p1s01_dd575473:
 translate korean d10p1s01_3a7256c3:
 
     # mc "Oh, right!"
-    mc "아, 맞아!"
+    mc "아, 맞다!"
 
 # game/code/d10p1/d10p1s01.rpy:83
 translate korean d10p1s01_f1282f88:
@@ -214,7 +214,7 @@ translate korean d10p1s01_d333ffe1:
 translate korean d10p1s01_33329805:
 
     # mesfl "Not exactly how I would phrase it, but..."
-    mesfl "내가 했던 말은 정확히 그게 아니긴 하지만, 그래도..."
+    mesfl "내가 했던 말이랑은 좀 차이가 있긴 하지만, 그래도..."
 
 # game/code/d10p1/d10p1s01.rpy:88
 translate korean d10p1s01_6259245d:
@@ -238,7 +238,7 @@ translate korean d10p1s01_c16118e6:
 translate korean d10p1s01_0e876c95:
 
     # mc "Squizzle's cohost. The guy who-"
-    mc "스퀴즐처럼 공동 추최자. 걘-"
+    mc "스퀴즐의 공동 추최자. 걘-"
 
 # game/code/d10p1/d10p1s01.rpy:95
 translate korean d10p1s01_268fd8f6_1:
@@ -250,19 +250,19 @@ translate korean d10p1s01_268fd8f6_1:
 translate korean d10p1s01_33c68717:
 
     # mesfl "Let me rephrase that last rule slightly from what my counterpart told you last week."
-    mesfl "내 상대가 지난 주에 너한테 말했던 규칙을 내 식대로 약간 바꿔 볼게."
+    mesfl "지난 주에 내 상대가 너한테 알려 준 규칙을 내 식대로 약간 바꿔 볼게."
 
 # game/code/d10p1/d10p1s01.rpy:99
 translate korean d10p1s01_62ba59f4:
 
     # mesfl "Tonight's events are all about respect and consent."
-    mesfl "오늘 밤 모든 행사는 존중과 동의를 기본으로 합니다."
+    mesfl "오늘 밤 모든 행사는 존중과 동의를 근간으로 합니다."
 
 # game/code/d10p1/d10p1s01.rpy:100
 translate korean d10p1s01_84faec87:
 
     # mesfl "Show respect to others, and ensure their consent in all activities."
-    mesfl "상대에게 존경을 표하고, 모든 활동에서 상대의 동의를 구하십시오."
+    mesfl "상대방에게 존경을 표하고, 모든 활동에서 상대의 동의를 구하십시오."
 
 # game/code/d10p1/d10p1s01.rpy:101
 translate korean d10p1s01_4dd885ab:
@@ -298,7 +298,7 @@ translate korean d10p1s01_2e06ef89:
 translate korean d10p1s01_91535561:
 
     # mesfl "Excuse me?"
-    mesfl "실례지만 뭐?"
+    mesfl "미안한데 뭐라고?"
 
 # game/code/d10p1/d10p1s01.rpy:115
 translate korean d10p1s01_9d47e974:
@@ -316,7 +316,7 @@ translate korean d10p1s01_cbb7da0f:
 translate korean d10p1s01_5694fa99:
 
     # mesfl "Go on."
-    mesfl "계속해."
+    mesfl "말해 봐."
 
 # game/code/d10p1/d10p1s01.rpy:121
 translate korean d10p1s01_e54512a2:
@@ -364,7 +364,7 @@ translate korean d10p1s01_dc0ff26a:
 translate korean d10p1s01_2721d4f3:
 
     # arjfl "I just mean... {w}Damn it. Every time I thought I was certain to win..."
-    arjfl "그러니까 내 말은... {w}젠장. 내가 이겼다고 생각하는 때마다..."
+    arjfl "그러니까 내 말은... {w}젠장. 내가 이겼다고 좋아할 때마다..."
 
 # game/code/d10p1/d10p1s01.rpy:138
 translate korean d10p1s01_103f343f:
@@ -382,7 +382,7 @@ translate korean d10p1s01_f3308ba7:
 translate korean d10p1s01_b3a061e6:
 
     # mesfl "Well, I guess you'll just have to step up your game."
-    mesfl "으음, 이기려면 노력을 더 하셔야겠는데."
+    mesfl "으음, 날 이기려면 노력을 더 하셔야겠는데."
 
 # game/code/d10p1/d10p1s01.rpy:143
 translate korean d10p1s01_bc5d41ce:
@@ -394,7 +394,7 @@ translate korean d10p1s01_bc5d41ce:
 translate korean d10p1s01_c17d0644:
 
     # mesfl "What? You expect me to apologize for doing well?"
-    mesfl "뭐? 내가 이겼다고 내가 사과라도 해야 한다는 거야?"
+    mesfl "뭐? 이겨서 미안하다고 사과라도 해야 한다는 거야?"
 
 # game/code/d10p1/d10p1s01.rpy:148
 translate korean d10p1s01_4a54c6f3:
@@ -406,7 +406,7 @@ translate korean d10p1s01_4a54c6f3:
 translate korean d10p1s01_54dfd22a:
 
     # arjfl "Yeah, I mean you don't have to be..."
-    arjfl "그래, 그렇게 할 필욘..."
+    arjfl "그래, 그렇게까지 말할 필욘..."
 
 # game/code/d10p1/d10p1s01.rpy:153
 translate korean d10p1s01_68482a54:
@@ -424,7 +424,7 @@ translate korean d10p1s01_aea12ebe:
 translate korean d10p1s01_63db9bb4:
 
     # mesfl "The number of orgasms you experience will determine who participates in the main event at the end of the night."
-    mesfl "절정 횟수를 기준으로 이 밤 말미에 있을 본 행사에 참여할 사람이 결정돼."
+    mesfl "절정 횟수를 기준으로 본 행사에 참여할 사람이 결정돼. 이 밤 말미에 있을 거야."
 
 # game/code/d10p1/d10p1s01.rpy:158
 translate korean d10p1s01_c2138384:
@@ -448,19 +448,19 @@ translate korean d10p1s01_e89a8462:
 translate korean d10p1s01_29b08038:
 
     # mesfl "Will most likely be those who got the most out of the evening's activities."
-    mesfl "저녁에 있을 각종 활동을 최대한 활용한 사람이 될 가능성이 높겠지."
+    mesfl "저녁 활동에서 활약한 사람이 될 가능성이 높지."
 
 # game/code/d10p1/d10p1s01.rpy:166
 translate korean d10p1s01_2732990d:
 
     # mesfl "Of course, there are also special prizes, like highest BPM or most calories burned."
-    mesfl "물론, 특별상도 있어. 심장 박동 수가 가장 높은 사람이나 가장 열량을 많이 소모한 사람한테 주는 상 같은 거지."
+    mesfl "물론, 특별상도 있어. 심장 박동 수가 가장 높은 사람이나 열량을 가장 많이 소모한 사람한테 주는 상 같은 거."
 
 # game/code/d10p1/d10p1s01.rpy:168
 translate korean d10p1s01_f6df9295:
 
     # mc "Seems like the winners of the main event would win those as well."
-    mc "본 행사에 나가는 사람 정도라면 특별상도 다 받을 거 같은데."
+    mc "본 행사에 나갈 정도면 특별상도 다 받을 거 같은데."
 
 # game/code/d10p1/d10p1s01.rpy:169
 translate korean d10p1s01_38e10af8:
@@ -490,7 +490,7 @@ translate korean d10p1s01_fe9698d7:
 translate korean d10p1s01_52c2fcbd:
 
     # mesfl "Just a precaution. I log your safe word with the Fetish Trackers, so if you ever need to use it, someone can make sure it is respected and enforced."
-    mesfl "그냥 미리 조심하자는 거야. 페티시 추적기에 안전어를 기록할 거고, 안전어를  사용하면 사람이 가서 존중과 강제를 확인하는 거지."
+    mesfl "그냥 미리 조심하자는 거야. 페티시 추적기에 안전어를 기록할 거고, 안전어를 사용하면 누가 가서 존중과 강제를 판별할 거야."
 
 # game/code/d10p1/d10p1s01.rpy:180
 translate korean d10p1s01_e5987b43:
@@ -514,7 +514,7 @@ translate korean d10p1s01_58b97541:
 translate korean d10p1s01_2ce14466:
 
     # mct "And could have been very useful last week when Jerome harassed Lydia."
-    mct "지난주에 제롬이 리디아를 괴롭히기 전에 있었으면 정말 유용했겠는데."
+    mct "지난주에 제롬이 리디아를 괴롭힌 사건 전에 있었으면 정말 유용했겠는데."
 
 # game/code/d10p1/d10p1s01.rpy:188
 translate korean d10p1s01_62c6a66b:
@@ -526,7 +526,7 @@ translate korean d10p1s01_62c6a66b:
 translate korean d10p1s01_8b00f324:
 
     # arjfl "Boof"
-    arjfl "부프"
+    arjfl "부프."
 
 # game/code/d10p1/d10p1s01.rpy:191
 translate korean d10p1s01_be32eb9e:
@@ -604,13 +604,13 @@ translate korean d10p1s01_e255ab96:
 translate korean d10p1s01_3fead6c8:
 
     # arjfl "If a girl has to use her safe word, she might as well get a drink out of it."
-    arjfl "여자가 안전어를 써야 할 정도의 상황이면, 거기로 술을 마셔 보겠다는 말 정도는 할 수도 있겠지."
+    arjfl "여자가 안전어를 써야 할 정도의 상황이면, 거기로 술을 마셔 보겠다는 정도의 말이라도 해 봐야 할 테니까."
 
 # game/code/d10p1/d10p1s01.rpy:217
 translate korean d10p1s01_f6c49514:
 
     # mesfl "That is very clever. I'll have to remember that."
-    mesfl "똑똑도 하셔라. 기억해 둬야 겠네."
+    mesfl "똑똑도 하셔라. 기억해 둬야겠네."
 
 # game/code/d10p1/d10p1s01.rpy:219
 translate korean d10p1s01_7f0d9905:
@@ -628,13 +628,13 @@ translate korean d10p1s01_64211d2b:
 translate korean d10p1s01_1321a6d4:
 
     # arjfl "Just that?"
-    arjfl "그것 뿐이야?"
+    arjfl "그것뿐이야?"
 
 # game/code/d10p1/d10p1s01.rpy:224
 translate korean d10p1s01_9c3486e6:
 
     # mesfl "Just that. Anywhere people might be thirsty, you'll find yourself serving libations."
-    mesfl "그것 뿐. 목마른 사람을 갈증에서 벗어나게 봉사하는 게 네 역할이야."
+    mesfl "그것뿐. 목마른 사람을 갈증에서 벗어나게 봉사하는 게 네 역할이야."
 
 # game/code/d10p1/d10p1s01.rpy:226
 translate korean d10p1s01_b87b392f:
@@ -688,19 +688,19 @@ translate korean d10p1s01_d8b33c67:
 translate korean d10p1s01_c58c265c:
 
     # arjfl "And if not, I can always use my safe word."
-    arjfl "그리고 여의치 않을 땐, 언제나 안전어를 쓰면 돼고."
+    arjfl "그리고 여의치 않을 땐, 언제나 안전어를 쓰면 되고 말이지."
 
 # game/code/d10p1/d10p1s01.rpy:242
 translate korean d10p1s01_8d5c70ad:
 
     # mesfl "And if someone doesn't respect that, then they disrespect me and my house."
-    mesfl "이 규칙을 존중하지 않는 사람은, 나와 내 집을 욕보이는 거니까."
+    mesfl "이 규칙을 존중하지 않는 사람은 나와 우리 집안을 욕보이는 거니까."
 
 # game/code/d10p1/d10p1s01.rpy:243
 translate korean d10p1s01_cd699405:
 
     # mesfl "If that happens, I will handle them."
-    mesfl "그러면, 나도 상응의 조치를 취할 거야."
+    mesfl "그렇다면 나도 상응의 조치를 취해야지."
 
 # game/code/d10p1/d10p1s01.rpy:246
 translate korean d10p1s01_e068e5a6:
@@ -814,7 +814,7 @@ translate korean d10p1s01_9c63ea6e:
 translate korean d10p1s01_7a0df018:
 
     # mc "No promises. I have to increase my street cred somehow."
-    mc "장담할 수는 없겠는데. 스크리트 크레드는 좀 올려야 하거든."
+    mc "장담할 수는 없겠는데. 스크리트 크레드를 좀 올려야 하거든."
 
 # game/code/d10p1/d10p1s01.rpy:295
 translate korean d10p1s01_9b3de287:
@@ -1060,7 +1060,7 @@ translate korean d10p1s01_5a7a819e:
 translate korean d10p1s01_ed507635:
 
     # arjfl "I mean, I'm ErikaRed. {w}I'll be serving drinks around the Party tonight."
-    arjfl "내 말은, 난 에리카레드라구. {w}오늘 밤 파티에서 음료를 나를 거야."
+    arjfl "그러니까 난 에리카레드야. {w}오늘 밤 파티에서 음료를 나를 거야."
 
 # game/code/d10p1/d10p1s01.rpy:404
 translate korean d10p1s01_5ca26ab3:
@@ -1120,7 +1120,7 @@ translate korean d10p1s01_e8337056:
 translate korean d10p1s01_28bc221e:
 
     # irfl "No... [mclogin] fits you much better."
-    irfl "사양하겠어... [mclogin] 이게 너한테 더 맞는 거 같으니까."
+    irfl "사양하겠어... [mclogin] 이게 너한텐 이쪽이 더 맞는 거 같으니까."
 
 # game/code/d10p1/d10p1s01.rpy:427
 translate korean d10p1s01_75271993:
@@ -1162,7 +1162,7 @@ translate korean d10p1s01_b2e70951:
 translate korean d10p1s01_73f6d2b0:
 
     # irfl "Interesting. I guess whatever is really going on between you is supposed to be a secret?"
-    irfl "흥미로운데. 너희 사이에 뭔가 있는데 그게 비밀이라는 거 같네?"
+    irfl "흥미로운데. 너희 사이에 뭔가 있는데, 그건 비밀이라는 거로군?"
 
 # game/code/d10p1/d10p1s01.rpy:443
 translate korean d10p1s01_35e38a70:
@@ -1192,7 +1192,7 @@ translate korean d10p1s01_ed8f6c66:
 translate korean d10p1s01_eb275a4b:
 
     # irfl "Bartender-patron privilege is paramount to the profession."
-    irfl "바텐더와 고객 사이의 비밀 유지 의무가 이쪽 직종에선 최고고."
+    irfl "바텐더와 고객 사이의 비밀 유지 의무가 이쪽 직종에선 최고지."
 
 # game/code/d10p1/d10p1s01.rpy:456
 translate korean d10p1s01_b4f8e9bb:
@@ -1204,7 +1204,7 @@ translate korean d10p1s01_b4f8e9bb:
 translate korean d10p1s01_3888334b:
 
     # arjfl "Squizzle was very clear on that. We don't have to do anything with guests without our consent."
-    arjfl "스퀴즐이 그 점에 관해선 매우 분명하게 말하더라. 동의 없인 손님과 뭐 할 생각도 말라고 하더라."
+    arjfl "스퀴즐이 그 점에 관해선 매우 분명하게 말하더라. 동의 없인 손님과 뭐 할 생각도 말라고 하더라니까."
 
 # game/code/d10p1/d10p1s01.rpy:461
 translate korean d10p1s01_28d03956:

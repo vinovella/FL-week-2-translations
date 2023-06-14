@@ -160,7 +160,7 @@ translate korean d10p1s03_f9c63d43:
 translate korean d10p1s03_13e47b11:
 
     # mh "My half-starving collage self would probably have a heart attack if she heard that I spent that much on a dress for a party."
-    mh "이런 옷을 사는 건 대학생 시절 나라면 꿈도 꾸지 못할 일이었는데. 네기 파티용 옷에 이 정도 돈을 썼다는 걸 알면 걘 심장마비에 걸릴 걸."
+    mh "이런 옷을 사는 건 대학생 시절 나라면 꿈도 꾸지 못할 일이었는데. 파티용 옷에 이 정도 돈을 썼다는 걸 당시의 나한테 알려 주면 걘 심장마비에 걸릴 걸."
 
 # game/code/d10p1/d10p1s03.rpy:92
 translate korean d10p1s03_a5df7ecc:
@@ -460,7 +460,7 @@ translate korean d10p1s03_ae637277:
 translate korean d10p1s03_a4a0b9ae:
 
     # dd "Lyssa, right? I think I met you last time as well, but I have a really crappy memory."
-    dd "리사, 맞지? 저번에도 만났던 거 같은데, 내가 정말 기억력이 안 좋아서 말야."
+    dd "리사, 맞지? 저번에도 만났던 거 같은데, 내가 기억력이 정말 안 좋아서 말야."
 
 # game/code/d10p1/d10p1s03.rpy:224
 translate korean d10p1s03_4dcdfd08:
@@ -616,13 +616,13 @@ translate korean d10p1s03_06955e9a:
 translate korean d10p1s03_9bb39001:
 
     # dd "Maybe next time."
-    dd "다음 번엔 해 봐야겠어."
+    dd "다음번엔 해 봐야겠어."
 
 # game/code/d10p1/d10p1s03.rpy:307
 translate korean d10p1s03_50eba4e4:
 
     # dd "Anyway. I'm gonna go see if I can talk some other people up as well."
-    dd "아무튼. 다른 사람한테도 이야기하러 가야겠다."
+    dd "아무튼. 다른 사람도 보러 가야겠다."
 
 # game/code/d10p1/d10p1s03.rpy:308
 translate korean d10p1s03_0df85c65:
@@ -634,7 +634,7 @@ translate korean d10p1s03_0df85c65:
 translate korean d10p1s03_94183ee9:
 
     # dd "And lemme know if you ever get yourself into more... \"drinking competitions.\""
-    dd "그리고 더 할 생각 있으면 알려 줘... \"마시기 경기\" 말야."
+    dd "그리고 더 할 생각 있으면 알려 줘... \"마시기 경기\" 같은 거."
 
 # game/code/d10p1/d10p1s03.rpy:313
 translate korean d10p1s03_57a5abb7:
@@ -664,7 +664,7 @@ translate korean d10p1s03_43404792:
 translate korean d10p1s03_2bdd03f8:
 
     # "{color=#f56e56}???{/color}" "Come on! But why!? I've seen like...10 people go in with masks that barely cover their face!"
-    "{color=#f56e56}???{/color}" "제발요! 왜 안 되는 거에요!? 내가 본 걸론... 10명은 얼굴을 제대로 가리지도 않는 가면을 쓰고 들어 갔다구요!"
+    "{color=#f56e56}???{/color}" "제발요! 왜 안 되는 거에요!? 제가 본 걸론... 10명은 얼굴을 제대로 가리지도 못하는 가면을 쓰고 들어 갔다구요!"
 
 # game/code/d10p1/d10p1s03.rpy:329
 translate korean d10p1s03_59e95aff:
@@ -1012,7 +1012,7 @@ translate korean d10p1s03_dfd42eee:
 translate korean d10p1s03_928c6c95:
 
     # mc "Come on, let's go inside. It's freezing out here. Feel like my tits are just about ready to pierce steel."
-    mc "자, 안으로 들어가자. 밖은 춥네. 젖꼭지로 강철도 뚫겠다."
+    mc "자, 안으로 들어가자. 밖은 춥네. 젖꼭지로 강철도 뚫을 수 있겠다."
 
 # game/code/d10p1/d10p1s03.rpy:486
 translate korean d10p1s03_cad5d4a6:
@@ -1024,7 +1024,7 @@ translate korean d10p1s03_cad5d4a6:
 translate korean d10p1s03_83e768e8:
 
     # mc "There ya' go. You're in."
-    mc "자 보시라. 들어왔어."
+    mc "자, 보시라. 들어왔네."
 
 # game/code/d10p1/d10p1s03.rpy:495
 translate korean d10p1s03_8ef5b754:
