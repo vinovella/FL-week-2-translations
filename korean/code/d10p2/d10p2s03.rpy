@@ -220,7 +220,7 @@ translate korean d10p2s03_22cc9567:
 translate korean d10p2s03_bbb487f2:
 
     # tm "Honestly? No clue. I {i}think{/i} we were shrunk or something, I don't know."
-    tm "솔직하게 말하라는 거야? 나도 몰라. 내 {i}생각엔{/i} 우리가 작아진 거 같은데, 잘 모르겠네."
+    tm "진짜로? 나도 몰라. 내 {i}생각엔{/i} 우리가 작아진 거 같은데, 잘 모르겠네."
 
 # game/code/d10p2/d10p2s03.rpy:191
 translate korean d10p2s03_42ae86c3:
@@ -298,7 +298,7 @@ translate korean d10p2s03_de4da4e4:
 translate korean d10p2s03_33151b97:
 
     # mc "How the fuck did we get here!?"
-    mc "씨발 어떻게 우리가 여기로 온 거야!?"
+    mc "씨발 우리가 어떻게 여기로 온 거야!?"
 
 # game/code/d10p2/d10p2s03.rpy:239
 translate korean d10p2s03_be4e3129:
@@ -358,7 +358,7 @@ translate korean d10p2s03_8f16add8:
 translate korean d10p2s03_9d306309:
 
     # tm "*Content sigh*"
-    tm "*만족한 한숨*"
+    tm "*만족한 탄성*"
 
 # game/code/d10p2/d10p2s03.rpy:295
 translate korean d10p2s03_d32fa665:

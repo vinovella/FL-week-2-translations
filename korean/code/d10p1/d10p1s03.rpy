@@ -1236,5 +1236,5 @@ translate korean strings:
 
     # game/code/d10p1/d10p1s03.rpy:447
     old "Don't"
-    new "돕지 않는다"
+    new "사용하지 않는다"
 

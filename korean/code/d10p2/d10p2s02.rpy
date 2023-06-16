@@ -10,7 +10,7 @@ translate korean d10p2s02_ab6e5f7b:
 translate korean d10p2s02_ddaa4f68:
 
     # irfl "We don't offer those kinds of services."
-    irfl "저흰 그런 종류의 용역은 제공하지 않습니다."
+    irfl "저흰 그런 종류의 용역을 제공하지 않습니다."
 
 # game/code/d10p2/d10p2s02.rpy:15
 translate korean d10p2s02_abe84034:
@@ -64,7 +64,7 @@ translate korean d10p2s02_0aab0a84:
 translate korean d10p2s02_0c7356f6:
 
     # irfl "I'm going to do you a favor. {w}I'm going to let you walk away right now before I break something."
-    irfl "한 번은 봐줄게. {w}어디 아작 내기 전에 자기 발로 직접 나갈 수 있게 해 주겠다고."
+    irfl "한 번은 봐줄게. {w}어디 아작 안 해고 자기 발로 직접 나갈 수 있게 해 주겠다고."
 
 # game/code/d10p2/d10p2s02.rpy:33
 translate korean d10p2s02_38176240:
@@ -76,7 +76,7 @@ translate korean d10p2s02_38176240:
 translate korean d10p2s02_4742fbc9:
 
     # "{color=#374980}???{/color}" "I'm going to do you a favor, and let you cum before I get started."
-    "{color=#374980}???{/color}" "나도 한 번은 봐줄 테니까, 내가 시동 걸리기 전에 잘 싸 두셔."
+    "{color=#374980}???{/color}" "나도 한 번은 봐줄 테니까, 내가 시동 걸리기 전에 잘 적셔 두셔."
 
 # game/code/d10p2/d10p2s02.rpy:36
 translate korean d10p2s02_c9dad38c:
@@ -88,7 +88,7 @@ translate korean d10p2s02_c9dad38c:
 translate korean d10p2s02_1fbfc477:
 
     # mct "I don't recognize him, but I definitely know that voice."
-    mct "모습은 잘 모르겠는데, 분명히 아는 목소리야."
+    mct "보기만 해선 잘 모르겠는데, 분명히 아는 목소리야."
 
 # game/code/d10p2/d10p2s02.rpy:41
 translate korean d10p2s02_7496471a:
@@ -178,7 +178,7 @@ translate korean d10p2s01_intervene_cf7c95b5:
 translate korean d10p2s01_intervene_537746cb:
 
     # irfl "Fun for who, asshole?!"
-    irfl "누구한테 재미있는데, 병신아?!"
+    irfl "누가 재미있는데, 병신아?!"
 
 # game/code/d10p2/d10p2s02.rpy:81
 translate korean d10p2s01_intervene_0cf82127:
@@ -226,7 +226,7 @@ translate korean d10p2s01_intervene_1d40ff77:
 translate korean d10p2s01_intervene_9b230d62:
 
     # irfl "You're violating my space."
-    irfl "내 공간으로 넘어오셨거든요."
+    irfl "내 공간을 침범하셨거든요."
 
 # game/code/d10p2/d10p2s02.rpy:101
 translate korean d10p2s01_intervene_cfc694d4:
@@ -268,7 +268,7 @@ translate korean d10p2s01_intervene_b688999f:
 translate korean d10p2s01_intervene_59bf7922:
 
     # irfl "Either way you're shit out of luck."
-    irfl "어떻게 만들든 간에 너한텐 망할 놈의 운은 없겠네."
+    irfl "어떻게 만들든 간에 너한텐 망할 놈의 운이 없겠네."
 
 # game/code/d10p2/d10p2s02.rpy:121
 translate korean d10p2s01_intervene_c5059461:
@@ -400,7 +400,7 @@ translate korean d10p2s01_watch_88b1fe9e:
 translate korean d10p2s01_watch_2123ac37:
 
     # irfl "I doubt you've ever felt a pussy before, and hope you never feel one again."
-    irfl "너 보지를 느껴 본 적은 있긴 한 거야, 뭐 앞으로도 느낄 기회는 없길 바란다."
+    irfl "너 보지를 느껴 본 적은 있긴 한 거냐? 뭐 앞으로도 느낄 기회는 없길 바란다."
 
 # game/code/d10p2/d10p2s02.rpy:191
 translate korean d10p2s01_watch_1b17a359:
@@ -478,7 +478,7 @@ translate korean d10p2s01_watch_4ecfcb1b:
 translate korean d10p2s01_watch_9783aee4:
 
     # irfl "Now get the fuck out of here."
-    irfl "이제 씨발 껴져라."
+    irfl "씨발 이제 껴져라."
 
 # game/code/d10p2/d10p2s02.rpy:223
 translate korean d10p2s01_watch_3b01f811:
@@ -526,7 +526,7 @@ translate korean d10p2s01_watch_3c84e996:
 translate korean d10p2s01_watch_3ab06e34:
 
     # mc "Not at all. Fucker earned every bit of that."
-    mc "전혀 아니지. 저런 머저리 같은 놈은 그래도 싸."
+    mc "전혀 아니지. 저런 머저리 같은 놈은 그렇게 당해도 싸."
 
 # game/code/d10p2/d10p2s02.rpy:243
 translate korean d10p2s01_watch_e0649255:
@@ -544,13 +544,13 @@ translate korean d10p2s01_watch_05500ff6:
 translate korean d10p2s01_watch_557c0d5e:
 
     # irfl "Poor little girl getting her twat fingered against her will and you just stand there watching?"
-    irfl "가련하고 귀여운 소녀가 원하지도 않았는데 소중이에 손가락이 닿았네. 그런데 넌 그걸 지켜만 보고 있었어?"
+    irfl "가련하고 귀여운 소녀가 원하지도 않았는데 소중이에 손가락이 닿았어. 그런데 넌 그걸 지켜만 보고 있었던 거야?"
 
 # game/code/d10p2/d10p2s02.rpy:249
 translate korean d10p2s01_watch_acda7c71:
 
     # mc "You seemed to have everything under control."
-    mc "네가 전부 상황 통제하고 있던 거처럼 보였거든."
+    mc "네가 제대로 상황 통제하고 있던 거처럼 보였거든."
 
 # game/code/d10p2/d10p2s02.rpy:252
 translate korean d10p2s01_watch_c9573e97:
@@ -592,7 +592,7 @@ translate korean d10p2s01_watch_f4a22172:
 translate korean d10p2s01_watch_816330c8:
 
     # irfl "Yeah, but I know the difference between a good drink and a great drink."
-    irfl "맞아, 하지만 난 좋은 술과 엄청난 술을 분간할 수는 지식이 있거든."
+    irfl "맞아, 하지만 나한텐 좋은 술과 엄청난 술을 분간할 수는 지식이 있거든."
 
 # game/code/d10p2/d10p2s02.rpy:272
 translate korean d10p2s01_watch_33b372a9:
@@ -664,7 +664,7 @@ translate korean d10p2s01_end_72e0eeb7:
 translate korean d10p2s01_end_38a6fc25:
 
     # mct "Then again, maybe I want her to overreact and end that fucker for good."
-    mct "그러면 이번에도 다시 그런 거네, 민이 과민 반응하면 좋겠는데. 그 머저리 자식 인생 종 치게."
+    mct "그러면 이번에 또 그런 거네, 민이 과민 반응하면 좋겠는데. 그 머저리 자식 인생 종 치게."
 
 # game/code/d10p2/d10p2s02.rpy:308
 translate korean d10p2s01_end_8a019f0f:
@@ -832,7 +832,7 @@ translate korean d10p2s01_end_58f6decd:
 translate korean d10p2s01_end_b2d86e39:
 
     # irfl "You sure you don't just like watching women get harassed?"
-    irfl "너 정말로 괴롭힘 당하는 여자 보고 있는 걸 좋아하는 건 아니지?"
+    irfl "너 정말로 괴롭힘 당하는 여자 보는 걸 좋아하는 건 아니지?"
 
 # game/code/d10p2/d10p2s02.rpy:408
 translate korean d10p2s01_end_0a73aa7b:
@@ -844,13 +844,13 @@ translate korean d10p2s01_end_0a73aa7b:
 translate korean d10p2s01_end_66ccc53e:
 
     # mc "Even though you hurt him bad {w}and Squizzle is probably going to end him..."
-    mc "네가 그 인간을 제대로 손보긴 했고{w} 아마 스퀴즐이 그 인간을 끝장내겠지만..."
+    mc "네가 그 인간을 제대로 손보기도 했고{w} 아마 스퀴즐이 그 인간을 끝장내겠지만..."
 
 # game/code/d10p2/d10p2s02.rpy:411
 translate korean d10p2s01_end_8d8db5cd:
 
     # mc "... I wish I had strangled the life out of that motherfucker myself."
-    mc "... 내가 직접 그 씹새끼 목을 졸라 버렸으면 좋았을 거야."
+    mc "... 내 손으로 직접 그 씹새끼 목을 졸라 버렸으면 좋겠다니까."
 
 # game/code/d10p2/d10p2s02.rpy:414
 translate korean d10p2s01_end_1422b0d5:
@@ -892,7 +892,7 @@ translate korean d10p2s01_end_bf2eef07:
 translate korean d10p2s01_end_4f882407:
 
     # irfl "You might want to sip this one."
-    irfl "이걸 홀짝이는 걸로 충분할 거야."
+    irfl "이 한 잔 홀짝이는 걸로도 다른 술은 필요 없을 거야."
 
 translate korean strings:
 
