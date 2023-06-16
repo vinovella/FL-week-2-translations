@@ -22,7 +22,7 @@ translate korean d10p2s09_779b7d0b:
 translate korean d10p2s09_e98cdf1e:
 
     # mesfl "And here comes our contest winners!"
-    mesfl "우리의 승리자들이 이 자리에 소개합니다!"
+    mesfl "우리의 승리자들을 이 자리에 소개합니다!"
 
 # game/code/d10p2/d10p2s09.rpy:107
 translate korean d10p2s09_76564a0a:
@@ -94,7 +94,7 @@ translate korean d10p2s09_4ee5abcb:
 translate korean d10p2s09_10f0b954:
 
     # mesfl "...Alright."
-    mesfl "...괜찮아."
+    mesfl "... 괜찮아."
 
 # game/code/d10p2/d10p2s09.rpy:164
 translate korean d10p2s09_a9654626:
@@ -208,7 +208,7 @@ translate korean d10p2s09_continue_46844325:
 translate korean d10p2s09_continue_f580b0ee:
 
     # mesfl "I'm...fine, heh."
-    mesfl "난...괜찮아, 헤에."
+    mesfl "난... 괜찮아, 헤에."
 
 # game/code/d10p2/d10p2s09.rpy:654
 translate korean d10p2s09_continue_0451feed:

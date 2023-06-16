@@ -214,13 +214,13 @@ translate korean d10p2s10_ab61caaf:
 translate korean d10p2s10_b6943d77:
 
     # sy "Besides. I think someone else will be in your bed tonight."
-    sy "게다가. 어떤 분께서 네 침대에서 자고 싶어하시는 모양이니까 말야."
+    sy "게다가. 어떤 분께서 네 침대를 차치하고 싶은 모양이니까 말이지."
 
 # game/code/d10p2/d10p2s10.rpy:121
 translate korean d10p2s10_0df60139:
 
     # mc "You don't need to hug me yet. {w}We can walk by your apartment before..."
-    mc "이제 나한테 포옹 안 해도 돼. {w}우리 아파트까지 같이 갈..."
+    mc "나한텐 포옹 안 해도 돼. {w}우리 아파트까지 같이 갈..."
 
 # game/code/d10p2/d10p2s10.rpy:123
 translate korean d10p2s10_ca58ca91:
@@ -268,5 +268,5 @@ translate korean d10p2s10_e15bab02:
 translate korean d10p2s10_c69e04a5:
 
     # arj "I'll join you."
-    arj "함께 할게."
+    arj "나도 같은 생각이야."
 

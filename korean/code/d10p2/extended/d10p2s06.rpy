@@ -46,7 +46,7 @@ translate korean d10p2s06_4ca732b3:
 translate korean d10p2s06_82cefcf7:
 
     # dd "Think I found our rider."
-    dd "우리 기수님을 찾았어요."
+    dd "우리 기수를 찾았어."
 
 # game/code/d10p2/extended/d10p2s06.rpy:57
 translate korean d10p2s06_51f8ea77:
@@ -70,7 +70,7 @@ translate korean d10p2s06_7624e59d:
 translate korean d10p2s06_217cc636:
 
     # dd "Come over to the garden and I'll explain the game."
-    dd "여기 정원으로 넘어 와. 내가 게임에 관해서 설명할게."
+    dd "여기 정원으로 넘어 와. 게임에 관해서 설명할게."
 
 # game/code/d10p2/extended/d10p2s06.rpy:66
 translate korean d10p2s06_84ad8513:
@@ -274,7 +274,7 @@ translate korean d10p2s06_6d4aef0f:
 translate korean d10p2s06_1ddf5dcf:
 
     # dd "It's off to an explosive start, Ladies and Gentlemen, as Kevin takes an early lead over our neon girl URLittlePony!"
-    dd "폭발적인 시작입니다, 신사 숙녀 여러분, 우리의 네온 소녀 유어리틀포니를 케빈이 앞지릅니다!"
+    dd "폭발적인 시작입니다, 신사 숙녀 여러분, 케빈이 우리의 네온 소녀 유어리틀포니를 앞지릅니다!"
 
 # game/code/d10p2/extended/d10p2s06.rpy:158
 translate korean d10p2s06_cf4d743a:
@@ -382,7 +382,7 @@ translate korean replay_d10p2s06_cfdb0c74:
 translate korean replay_d10p2s06_d8e248f3:
 
     # dd "And now, as Champion Equine, URLittlePony gets to drink out of the legendary Trough of Ultimate Sexual Deviancy, and be truly known through out the lands as the one and only Champion Equine."
-    dd "그리고 이제 우승마인 유어리틀포니는 궁국 성적 일탈의 전설적인 구유에서 한 잔을 마시게 됩니다. 유어리틀포니는 유일무이한 전설적인 우승마로서 전역에 알려지게 될 겁니다."
+    dd "그리고 이제 우승마인 유어리틀포니는 궁극 성적 일탈의 전설적인 구유에서 한 잔을 마시게 됩니다. 유어리틀포니는 유일무이한 전설적인 우승마로서 전역에 알려지게 될 겁니다."
 
 # game/code/d10p2/extended/d10p2s06.rpy:372
 translate korean replay_d10p2s06_2794fd31:

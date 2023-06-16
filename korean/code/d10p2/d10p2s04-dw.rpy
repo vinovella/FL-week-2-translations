@@ -124,7 +124,7 @@ translate korean d10p2s04_dw_f476ba79:
 translate korean d10p2s04_dw_2ac2c61e:
 
     # dw "My favorite little plaything is here as well."
-    dw "내가 가장 좋아하는 장난감이 바로 여기에 있잖아."
+    dw "내가 가장 좋아하는 장난감이 바로 여기 있잖아."
 
 # game/code/d10p2/d10p2s04-dw.rpy:157
 translate korean d10p2s04_dw_6bf81e7b:
@@ -232,7 +232,7 @@ translate korean d10p2s04_dw_ae31ede1:
 translate korean d10p2s04_dw_08dc91cf:
 
     # mc "I think I'm gonna go see what else is there to do."
-    mc "할 행사가 있나 보러 가야 겠어."
+    mc "난 다른 행사나 보러 가야 겠다."
 
 # game/code/d10p2/d10p2s04-dw.rpy:233
 translate korean d10p2s04_dw_2e806df9:
@@ -352,7 +352,7 @@ translate korean d10p2s04_dw_71732c46:
 translate korean d10p2s04_dw_7fd3a623_1:
 
     # mc "Yes, Mistress."
-    mc "그렇습니다, 여왕님."
+    mc "그러셨습니다, 여왕님."
 
 # game/code/d10p2/d10p2s04-dw.rpy:301
 translate korean d10p2s04_dw_f276f3d2:
@@ -400,7 +400,7 @@ translate korean d10p2s04_dw_5b245ca1:
 translate korean d10p2s04_dw_3e678e06:
 
     # dw "I don't appreciate having to say things twice!"
-    dw "같은 말을 또 하게 하다니!"
+    dw "같은 말을 반복하게 하다니!"
 
 # game/code/d10p2/d10p2s04-dw.rpy:356
 translate korean d10p2s04_dw_c0faa0eb:
@@ -424,7 +424,7 @@ translate korean d10p2s04_dw_672b944d:
 translate korean d10p2s04_dw_ed3bcf3e:
 
     # dw "Hm, this will work nicely."
-    dw "흠, 이거라면 쓰임을 충분히 다하겠어."
+    dw "흠, 이거라면 제대로 구실을 하겠지."
 
 # game/code/d10p2/d10p2s04-dw.rpy:385
 translate korean d10p2s04_dw_7ebc9581:
@@ -484,7 +484,7 @@ translate korean d10p2s04_dw_cfb40a80:
 translate korean d10p2s04_dw_ba522918:
 
     # dw "I want you to take this in as far as it'll go, am I understood?"
-    dw "이게 들어갈 수 있는 데까지 집어넣겠다, 알겠나?"
+    dw "이걸 들어갈 수 있는 데까지 집어넣겠다, 알겠나?"
 
 # game/code/d10p2/d10p2s04-dw.rpy:411
 translate korean d10p2s04_dw_2b35b6fe:
@@ -706,7 +706,7 @@ translate korean d10p2s04_dwmc_dickslap_2b35b6fe:
 translate korean d10p2s04_dwmc_dickslap_e7f6a7b1:
 
     # mc "Y...yes. Yes, Mistress."
-    mc "예...그렇습니다. 알겠습니다, 여왕님."
+    mc "예... 그렇습니다. 이해했습니다, 여왕님."
 
 # game/code/d10p2/d10p2s04-dw.rpy:626
 translate korean d10p2s04_dwmc_dickslap_31a73f5f:
@@ -1154,7 +1154,7 @@ translate korean strings:
 
     # game/code/d10p2/d10p2s04-dw.rpy:159
     old "Stay and see what happens"
-    new "머물러서 무슨 일이 일어나는지 본다"
+    new "무슨 일이 일어나는지 본다"
 
     # game/code/d10p2/d10p2s04-dw.rpy:329
     old "Let go; get hard"
@@ -1166,7 +1166,7 @@ translate korean strings:
 
     # game/code/d10p2/d10p2s04-dw.rpy:463
     old "Try to take it all in"
-    new "전부 받으려 한다"
+    new "전부 입에 넣으려 해 본다"
 
     # game/code/d10p2/d10p2s04-dw.rpy:463
     old "Give up"

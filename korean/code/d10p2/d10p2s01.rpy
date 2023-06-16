@@ -4,7 +4,7 @@
 translate korean d10p2s01_c52271c1:
 
     # arjfl "And there she is!"
-    arjfl "스테이시가 여기 있답니다!"
+    arjfl "스테이시는 여기 있답니다!"
 
 # game/code/d10p2/d10p2s01.rpy:61
 translate korean d10p2s01_81b3b0ab:
@@ -106,7 +106,7 @@ translate korean d10p2s01_17a6a509:
 translate korean d10p2s01_fa62c19a:
 
     # sy "Cool, well, get to it. {w}At least one of us should enjoy everything this Party has to offer."
-    sy "멋지네, 그럼, 시작해. {w}우리 중 한 사람이라도 이 파티에서 할 수 있는 건 전부 즐겨야지."
+    sy "멋지네, 그럼, 시작해. {w}우리 중 한 사람이라도 이 파티에서 즐길 수 있는 건 전부 즐겨야지."
 
 # game/code/d10p2/d10p2s01.rpy:106
 translate korean d10p2s01_e865c1bd:
@@ -196,7 +196,7 @@ translate korean replay_d10p2s01_b9047ae5:
 translate korean replay_d10p2s01_8e069de8:
 
     # mc "You were being a snarky bitch giving me a hard time about Stacy, but I understand why you did it."
-    mc "쌍년처럼 굴면서 스테이시에 관한 걸로 날 짜증나게 만들긴 했지만, 왜 그렇게 굴었던 건지 이해해."
+    mc "쌍년처럼 굴면서 스테이시에 관한 일로 날 짜증나게 만들긴 했지만, 왜 그렇게 굴었던 건지 이해하니까."
 
 # game/code/d10p2/d10p2s01.rpy:214
 translate korean replay_d10p2s01_bc845402:
@@ -220,7 +220,7 @@ translate korean replay_d10p2s01_73deb4bb:
 translate korean replay_d10p2s01_4e29f529:
 
     # mc "This isn't really a punishment.{w} It's just a way you can be nice and make it up to me."
-    mc "이건 벌 같은 게 아냐.{w} 나한테 제대로 감사를 표하는 기회지."
+    mc "이건 벌 같은 게 아냐.{w} 나한테 제대로 감사를 표하는 기회를 주는 거니까."
 
 # game/code/d10p2/d10p2s01.rpy:226
 translate korean replay_d10p2s01_f6452c6e:
@@ -358,7 +358,7 @@ translate korean replay_d10p2s01_f1411890:
 translate korean replay_d10p2s01_c1d3b347:
 
     # tr "I heard that Maria even blew you in class with everyone watching."
-    tr "수업 중에 사람들 다 보는 앞에서 심지어 마리아도 널 빨아 줬다면서."
+    tr "수업 중에 사람들 다 보는 앞에서 그 마리아가 널 빨아 줬다면서."
 
 # game/code/d10p2/d10p2s01.rpy:306
 translate korean replay_d10p2s01_7c78e8ea:
@@ -370,13 +370,13 @@ translate korean replay_d10p2s01_7c78e8ea:
 translate korean replay_d10p2s01_9ebb09e1:
 
     # tr "And that thing you arranged for me in the bathroom with her..."
-    tr "그리고 네가 화장실에서 마리아한테 그런 일도 하게 해 줬잖아..."
+    tr "그리고 화장실에서 마리아가 나한테 그런 일도 하게 해 줬잖아..."
 
 # game/code/d10p2/d10p2s01.rpy:312
 translate korean replay_d10p2s01_87271c5a:
 
     # mc "Oh yeah. That was something else entirely."
-    mc "아 맞다. 그거 완전히 대단했지."
+    mc "아, 맞다. 그거 완전 대단했지."
 
 # game/code/d10p2/d10p2s01.rpy:314
 translate korean replay_d10p2s01_cd0d2056:
@@ -406,7 +406,7 @@ translate korean replay_d10p2s01_8278dce4:
 translate korean replay_d10p2s01_bea91a5f:
 
     # mct "She was incredibly hungry for my cock, and she was trying to make it up to AmRose."
-    mct "마리아는 내 좆에 대해서 말도 안 될 정도로 굶주려 했고, 앰로즈한테 사과를 하고 싶어 했지."
+    mct "마리아는 내 좆에 대해서 말도 안 될 정도로 굶주려 했고, 앰로즈한테 사과를 하고 싶어 했으니까."
 
 # game/code/d10p2/d10p2s01.rpy:321
 translate korean replay_d10p2s01_c6e83769:
@@ -430,7 +430,7 @@ translate korean replay_d10p2s01_eb5ad3a1:
 translate korean replay_d10p2s01_0e86ce48:
 
     # mc "No, I was just lost in thought about your suggestion."
-    mc "아냐, 네 제안 때문에 생각에 빠져서 그래."
+    mc "아냐, 네 제안 고민 좀 하느라 그래."
 
 # game/code/d10p2/d10p2s01.rpy:330
 translate korean replay_d10p2s01_4a6b3611:
@@ -448,7 +448,7 @@ translate korean replay_d10p2s01_9adf5502:
 translate korean replay_d10p2s01_d2d8848b:
 
     # tr "I can imagine. I've tried talking her up and trying to... ya'know."
-    tr "그렇긴 해. 마리아한테 말을 걸고 부탁을 좀... 너도 알지."
+    tr "그렇긴 해. 나도 마리아한테 말을 걸거서 부탁을 좀 해 보려고... 결과야 너도 알겠지만."
 
 # game/code/d10p2/d10p2s01.rpy:336
 translate korean replay_d10p2s01_7a6d6edf:
@@ -460,7 +460,7 @@ translate korean replay_d10p2s01_7a6d6edf:
 translate korean replay_d10p2s01_ccb191ed:
 
     # mc "I bet. {w}I don't know what to tell you. I don't think I could arrange something like that again."
-    mc "그렇겠지. {w}무슨 말을 하면 될지 모르겠다. 그런 일을 다시 주선할 수는 없을 거 같아."
+    mc "그렇겠지. {w}어떻게 말하면 될지 모르겠네. 주선할 수는 없을 거 같아."
 
 # game/code/d10p2/d10p2s01.rpy:343
 translate korean replay_d10p2s01_343b485e_1:
@@ -484,13 +484,13 @@ translate korean replay_d10p2s01_9e645d5a:
 translate korean replay_d10p2s01_35ab8f09:
 
     # mc "How's that?"
-    mc "어떻게 그런데?"
+    mc "어떻게 가능한데?"
 
 # game/code/d10p2/d10p2s01.rpy:353
 translate korean replay_d10p2s01_f27a2e8a:
 
     # arjfl "Trust me. We could get Maria to do just about anything or anyone."
-    arjfl "날 믿어. 마리아한테 그런 일이든 누구랑이든 하게 할 수 있으니까."
+    arjfl "날 믿어. 마리아한테 그런 일이든 누구랑이든 하게 만들 수 있으니까."
 
 # game/code/d10p2/d10p2s01.rpy:356
 translate korean replay_d10p2s01_daa7373d:
@@ -502,25 +502,25 @@ translate korean replay_d10p2s01_daa7373d:
 translate korean replay_d10p2s01_5d3098b9:
 
     # tr "I mean, I just jerked off in front of her and came in her mouth that one time."
-    tr "그러니까, 난 마리아 앞에서 딸을 치고 걔 입에 쌌었어."
+    tr "그러니까, 난 마리아 앞에서 딸을 치고 걔 입에 쌌었어. 그때, 딱 한 번."
 
 # game/code/d10p2/d10p2s01.rpy:361
 translate korean replay_d10p2s01_ce38a974:
 
     # tr "I mean, I just whipped out my dick and pissed in her mouth that one time."
-    tr "그러니까, 난 내 좆을 꺼내서 마리아 입에 오줌을 갈겼어."
+    tr "그러니까, 난 내 좆을 꺼내서 마리아 입에 오줌을 갈겼어. 그때, 딱 한 번."
 
 # game/code/d10p2/d10p2s01.rpy:363
 translate korean replay_d10p2s01_fd25dfda:
 
     # tr "But since then I've had all sorts of ideas and fantasies about what I might do with her if I had the chance."
-    tr "그런 일을 겪고 나니까 내 머리 속에서 마리아랑 할 수도 있지 않을까 하는 기대랑 꿈이 가시질 않는 거야."
+    tr "그런 일을 겪고 나니까 내 머리 속에서 마리아랑 할 수도 있지 않을까 하는 생각이 잊혀지지가 않는 거야."
 
 # game/code/d10p2/d10p2s01.rpy:364
 translate korean replay_d10p2s01_fd9515d7:
 
     # tr "Like, do you think you could, I don't know... maybe could you arrange a blowjob or something like that?"
-    tr "그러니까, 해 줄 수 있을까... 그 뭐냐... 빨아 주는 거나 그런 일을 하게 주선해 줄 수 있을까?"
+    tr "그러니까, 하게 해 줄 수 있을까... 그 뭐냐... 빨아 주는 거나 그런 일을 하게 주선해 줄 수 있어?"
 
 # game/code/d10p2/d10p2s01.rpy:367
 translate korean replay_d10p2s01_f34e5c78:
@@ -544,7 +544,7 @@ translate korean replay_d10p2s01_93b0e28d:
 translate korean replay_d10p2s01_50004a0f:
 
     # mct "Would that make me Maria's pimp or something? I mean, I suppose I should get something out of it."
-    mct "마리아 포주 노릇 같은 걸 하게 되는 거잖아? 그러니까, 억지로 그렇고 저렇고 한 일을 하게 만들어야 한다는 거잖아."
+    mct "마리아 포주 노릇 같은 걸 하게 되는 거잖아? 그러니까, 억지로 그렇고 저렇고 한 일을 하게 만들어야 한다라."
 
 # game/code/d10p2/d10p2s01.rpy:374
 translate korean replay_d10p2s01_690ed523:
@@ -610,7 +610,7 @@ translate korean replay_d10p2s01_acc4854d:
 translate korean replay_d10p2s01_95f055bf:
 
     # mct "That was weird."
-    mct "참 이상하네."
+    mct "거 이상하네."
 
 # game/code/d10p2/d10p2s01.rpy:425
 translate korean replay_d10p2s01_0f8b6571:
@@ -718,7 +718,7 @@ translate korean replay_d10p2s01_b2b78069:
 translate korean replay_d10p2s01_5bc8d254:
 
     # arjfl "I don't know. I do kinda want to show off to everyone that you've marked me as yours."
-    arjfl "모르겠어. 네 거라고 표시해 둔 걸 모두한테 보여 주고 싶긴 한데."
+    arjfl "모르겠어. 모두한테 난 네 거라고 보여 주고 싶긴 해."
 
 # game/code/d10p2/d10p2s01.rpy:471
 translate korean replay_d10p2s01_07eef455:

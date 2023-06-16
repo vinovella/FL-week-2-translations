@@ -52,15 +52,15 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "This choice doesn't have any great consequence currently."
-    new "이 선택지는 현재 중요한 영향을 미치지 않습니다."
+    new "이 선택지는 현재 중대한 영향을 미치지 않습니다."
 
     # game/code/hints.rpy:5
     old "This choice doesn't have any great consequence currently - You will bend the knee either way."
-    new "이 선택지는 현재 중요한 영향을 미치지 않습니다. 어느 선택지든 당신은 무릎을 꿇게 됩니다."
+    new "이 선택지는 현재 중대한 영향을 미치지 않습니다. 어느 선택지든 당신은 무릎을 꿇게 됩니다."
 
     # game/code/hints.rpy:5
     old "This choice doesn't have any great consequence currently - You will unlock a new CG in the gallery."
-    new "이 선택지는 현재 중요한 영향을 미치지 않습니다. CG 갤러리에 새로운 CG가 해금됩니다."
+    new "이 선택지는 현재 중대한 영향을 미치지 않습니다. CG 갤러리에 새로운 CG가 해금됩니다."
 
     # game/code/hints.rpy:5
     old "You will get the highest number of FL points and deny her from using her dick."
@@ -84,7 +84,7 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "This choice doesn't have any great consequence currently - Cruel."
-    new "이 선택지는 현재 중요한 영향을 미치지 않습니다. 잔혹하군요."
+    new "이 선택지는 현재 중대한 영향을 미치지 않습니다. 잔혹하군요."
 
     # game/code/hints.rpy:5
     old "Takes you to the end of the scene."
@@ -212,7 +212,7 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "This choice doesn't have any great consequence currently - If you use your safe word with Dahlia in her scene, you will unlock a CG in the gallery."
-    new "이 선택지는 현재 중요한 영향을 미치지 않습니다. 달리아와의 장면에서 이 안전어를 사용하면, CG 갤러리에서 새로운 CG가 해금됩니다."
+    new "이 선택지는 현재 중대한 영향을 미치지 않습니다. 달리아와의 장면에서 이 안전어를 사용하면, CG 갤러리에서 새로운 CG가 해금됩니다."
 
     # game/code/hints.rpy:5
     old "If you select this and don't input anything, you can find an Easter Egg in a future scene with Iona."
@@ -256,7 +256,7 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Daisy or Dahlia develops - You will either get to toy with Daisy or get toyed with by Dahlia depending on what path you're on. You'll get kicked from their paths if you don't go."
-    new "중요한 선택지입니다. 데이지 또는 달리아와의 관계를 바꿉니다. 당신이 선택한 분기에 따라 데이지를 가지고 놀거나, 달리아가 당신을 가지고 놀게 됩니다. 가지 않으면 분기가 차단됩니다."
+    new "중요한 선택지입니다. 데이지 또는 달리아와의 관계를 바꿉니다. 당신이 선택한 분기에 따라 데이지를 가지고 놀거나, 달리아가 당신을 가지고 놀게 됩니다. 가지 않으면 해당 분기가 차단됩니다."
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Lyssa develops - You will have some anal fun with Lyssa - You will get kicked from her path if you don't go."
@@ -412,7 +412,7 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "This choice doesn't have any great consequence currently, but might have drastic consequences in the future."
-    new "이 선택지는 현재 중요한 영향을 미치지 않습니다. 하지만 추후 극적인 영향을 가질 수 있습니다."
+    new "이 선택지는 현재 중대한 영향을 미치지 않습니다. 하지만 추후 극적인 영향을 미칠 수 있습니다."
 
     # game/code/hints.rpy:5
     old "You will see AmRose eat your cum."

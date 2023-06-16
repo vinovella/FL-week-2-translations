@@ -10,7 +10,7 @@ translate korean d10p2s05_255d6989:
 translate korean d10p2s05_2a1d7a01:
 
     # fl "You've now entered into the Proximity Event."
-    fl "지금부터 근접 행사에 참가하시게 됩니다."
+    fl "지금부터 당신은 근접 행사에 참가하게 됩니다."
 
 # game/code/d10p2/d10p2s05.rpy:66
 translate korean d10p2s05_4d6ee40c:
@@ -268,7 +268,7 @@ translate korean d10p2s05_fr_cl_chat_a856ba42:
 translate korean d10p2s05_fr_op_chat_4c22be04:
 
     # op "Huh!{w} Oh, hi."
-    op "헉!{w}. 아, 안녕하세요"
+    op "헉!{w}. 아, 안녕하세요."
 
 # game/code/d10p2/d10p2s05.rpy:425
 translate korean d10p2s05_fr_op_chat_bb14ea7e:
@@ -358,7 +358,7 @@ translate korean d10p2s05_fr_end_76359310:
 translate korean d10p2s05_fr_end_7f099cd0:
 
     # mh "Yeah, I just went to the ladies room and don't remember where I left it."
-    mh "응. 아까 화장실에 갔었는데 가면 둔 곳을 찾을 수가 없었어."
+    mh "응. 아까 화장실에 갔었는데 가면 둔 곳을 찾을 수가 없더라."
 
 # game/code/d10p2/d10p2s05.rpy:506
 translate korean d10p2s05_fr_end_7ea11328:
@@ -370,7 +370,7 @@ translate korean d10p2s05_fr_end_7ea11328:
 translate korean d10p2s05_fr_end_975d93c7:
 
     # mesfl "I guess that is the proximity event. [mclogin], are you looking for your partner?"
-    mesfl "근접 행사 때문인 모양이네. [mclogin], 동반자 찾던 거야?"
+    mesfl "근접 행사 때문인 모양인데. [mclogin], 동반자 찾던 거야?"
 
 # game/code/d10p2/d10p2s05.rpy:510
 translate korean d10p2s05_fr_end_b180829a:
@@ -424,7 +424,7 @@ translate korean replay_d10p2s05_a43c4dbc:
 translate korean replay_d10p2s05_ca50ed50:
 
     # mh "Do you want me to give you a blowjob then?{w} That'll probably be the fastest."
-    mh "그러면 당신한테 블로우잡을 해 주길 바라?{w} 이 안이 가장 빠를 텐데."
+    mh "그러면 당신한테 블로우잡을 해 주길 바라?{w} 이 편이 가장 빠를 텐데."
 
 # game/code/d10p2/d10p2s05.rpy:550
 translate korean replay_d10p2s05_27f46eea:
@@ -592,7 +592,7 @@ translate korean replay_d10p2s05_0e09cba4:
 translate korean replay_d10p2s05_89e1ebe9:
 
     # mc "I think you know what I'm thinking of."
-    mc "내가 하고 싶은 걸 알잖아."
+    mc "내가 하고 싶은 건 알잖아."
 
 # game/code/d10p2/d10p2s05.rpy:662
 translate korean replay_d10p2s05_7a4af0ef:
@@ -652,19 +652,19 @@ translate korean replay_d10p2s05_7c820176:
 translate korean replay_d10p2s05_72068500:
 
     # mh "I'm getting addicted to your cock, you know?"
-    mh "당신 자지에 중독되려고 해, 알고 있어?"
+    mh "당신 자지에서 빠져 나오질 못하겠어, 알고 있어?"
 
 # game/code/d10p2/d10p2s05.rpy:686
 translate korean replay_d10p2s05_837419db:
 
     # mc "And I just might get addicted to you!"
-    mc "그리고 리사한테 중독되겠는데!"
+    mc "난 리사한테 빠져 나오질 못하겠는걸!"
 
 # game/code/d10p2/d10p2s05.rpy:695
 translate korean replay_d10p2s05_cbda9a8d:
 
     # mc "The time is quite limited, but I want to try something new!"
-    mc "주어진 시간은 꽤 짧지만, 새로운 걸 해 보고 싶어!"
+    mc "주어진 시간은 정말 적지만, 새로운 걸 해 보고 싶어!"
 
 # game/code/d10p2/d10p2s05.rpy:698
 translate korean replay_d10p2s05_fb8a9a3c:
@@ -682,7 +682,7 @@ translate korean replay_d10p2s05_148a5509:
 translate korean replay_d10p2s05_439bbbec:
 
     # mc "I'm ready to go to the next step! Are you?"
-    mc "난 다음 단계로 갈 준비됐어! 어때?"
+    mc "난 다음 단계로 갈 준비됐어! 리사는 어때?"
 
 # game/code/d10p2/d10p2s05.rpy:705
 translate korean replay_d10p2s05_4547ff34:
@@ -814,7 +814,7 @@ translate korean replay_d10p2s05_dcd935c5:
 translate korean replay_d10p2s05_ff1e3fa6:
 
     # mh "Nah, I prefer the real thing right away!"
-    mh "아니, 실물로 바로 하는 게 좋아!"
+    mh "아니, 실물로 바로 하는 쪽이 좋아!"
 
 # game/code/d10p2/d10p2s05.rpy:782
 translate korean replay_d10p2s05_7e88f8d1:
@@ -844,13 +844,13 @@ translate korean replay_d10p2s05_d9590eed:
 translate korean replay_d10p2s05_3bd00545:
 
     # mc "Oh my! Your ass feels amazing!"
-    mc "아 이런! 네 엉덩이는 정말 놀라워!"
+    mc "아, 이런! 네 엉덩이는 정말 대단해!"
 
 # game/code/d10p2/d10p2s05.rpy:799
 translate korean replay_d10p2s05_1bb47070:
 
     # mh "Your... {w} Dick... {w} Even better!"
-    mh "당신... {w} 자지가... {w} 훨씬 좋아!"
+    mh "당신... {w} 자지... {w} 정말 좋아!"
 
 # game/code/d10p2/d10p2s05.rpy:806
 translate korean replay_d10p2s05_b007b238:
@@ -868,7 +868,7 @@ translate korean replay_d10p2s05_c1c70d14:
 translate korean replay_d10p2s05_6ca03fba:
 
     # mc "Stay like this!"
-    mc "이렇게!"
+    mc "자 이렇게 하자고!"
 
 # game/code/d10p2/d10p2s05.rpy:829
 translate korean replay_d10p2s05_560f9b70:
@@ -958,19 +958,19 @@ translate korean replay_d10p2s05_d8ae21f4:
 translate korean replay_d10p2s05_0f88ef6c:
 
     # mh "It's...it's been a while."
-    mh "정말... 정말 오랜만."
+    mh "정말... 정말 오랜만에."
 
 # game/code/d10p2/d10p2s05.rpy:927
 translate korean replay_d10p2s05_14435632:
 
     # mh "That was nice... Thank you."
-    mh "좋았어... 고마워."
+    mh "정말 좋았어... 고마워."
 
 # game/code/d10p2/d10p2s05.rpy:929
 translate korean replay_d10p2s05_72eb8b58:
 
     # mc "We need to do that again sometime. {w}Without a time restriction hanging over us next time."
-    mc "다음에 다시 하자구. {w}다음 번에는 숨막히는 시간 제한 없이 말야."
+    mc "그럼 또 해야지. {w}다음엔 숨막히는 시간 제한 없이 즐기자구."
 
 # game/code/d10p2/d10p2s05.rpy:932
 translate korean replay_d10p2s05_b2c84e9c:

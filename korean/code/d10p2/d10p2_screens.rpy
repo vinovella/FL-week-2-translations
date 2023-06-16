@@ -32,7 +32,7 @@ translate korean strings:
 
     # game/code/d10p2/d10p2_screens.rpy:85
     old "Go near Stacy"
-    new "스테이시에게 가까이 간다"
+    new "스테이시에게 다가간다"
 
     # game/code/d10p2/d10p2_screens.rpy:95
     old "Go to the balcony door"
