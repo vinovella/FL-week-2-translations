@@ -2086,5 +2086,5 @@ translate russian strings:
 translate russian d14s05_e89e3635:
 
     # arj "Well, I really don't want you to lose."
-    arj "Well, I really don't want you to lose."
+    arj "Ну, я действительно не хочу, чтобы ты проиграл."
 

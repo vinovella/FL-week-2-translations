@@ -1310,5 +1310,5 @@ translate russian strings:
 translate russian d08s03_3a9860c7:
 
     # mc "How are you doing now? You're not still short, are you?"
-    mc "How are you doing now? You're not still short, are you?"
+    mc "Как твои дела сейчас? Тебе все еще не хватает очков?"
 

@@ -934,5 +934,5 @@ translate russian strings:
 translate russian d08s07_f9a4640e:
 
     # mct "I don't want to fuck up my chances with the VIP Challenge, but I don't wanna fuck up my chances with Lydia either..."
-    mct "I don't want to fuck up my chances with the VIP Challenge, but I don't wanna fuck up my chances with Lydia either..."
+    mct "Я не хочу ухудшить свои шансы в VIP Challenge, но я также не хочу испортить отношения с Лидией..."
 

@@ -540,71 +540,71 @@ translate russian d11s01_536d88bc:
 translate russian d11s01_95292d25:
 
     # mct "Unsurprisingly, there's a new mention from Fetish Locator's VIP Program."
-    mct "Unsurprisingly, there's a new mention from Fetish Locator's VIP Program."
+    mct "Неудивительно, что в VIP-программе Fetish Locator появилось новое упоминание."
 
 # game/code/d11/d11s01.rpy:41
 translate russian d11s01_2ff70196:
 
     # flr "But the potential reward this time also will be different."
-    flr "But the potential reward this time also will be different."
+    flr "Но и потенциальная награда на этот раз будет другой."
 
 # game/code/d11/d11s01.rpy:48
 translate russian d11s01_28ed97c8:
 
     # flr "If you accomplish this you will be eligible for the grand prize of $$1kk."
-    flr "If you accomplish this you will be eligible for the grand prize of $$1kk."
+    flr "Если вы это сделаете, то получите право на главный приз в размере $$1kk."
 
 # game/code/d11/d11s01.rpy:56
 translate russian d11s01_1d44b4e7:
 
     # flr "Note that Gold Stars CANNOT be used to complete this task."
-    flr "Note that Gold Stars CANNOT be used to complete this task."
+    flr "Обратите внимание, что при выполнении этого задания Золотые Звезды НЕ МОГУТ быть использованы."
 
 # game/code/d11/d11s01.rpy:81
 translate russian d11s01_f0f72b5e:
 
     # mct "What does that reward mean?"
-    mct "What does that reward mean?"
+    mct "Что означает эта награда?"
 
 # game/code/d11/d11s01.rpy:87
 translate russian d11s01_dc72b30a:
 
     # mct "I will be eligible? Does that mean I get the grand prize or not?"
-    mct "I will be eligible? Does that mean I get the grand prize or not?"
+    mct "Я получу право на участие? Это значит, что я получу главный приз или нет?"
 
 # game/code/d11/d11s01.rpy:88
 translate russian d11s01_de950b47:
 
     # mct "Or will I still have to complete additional challenges to win the treasure?"
-    mct "Or will I still have to complete additional challenges to win the treasure?"
+    mct "Или мне все же придется пройти дополнительные испытания, чтобы выиграть приз?"
 
 # game/code/d11/d11s01.rpy:89
 translate russian d11s01_ce442908:
 
     # mct "If I fail am I ineligible for the prize?"
-    mct "If I fail am I ineligible for the prize?"
+    mct "Если я потерплю неудачу, то не смогу претендовать на приз?"
 
 # game/code/d11/d11s01.rpy:90
 translate russian d11s01_1a5de442:
 
     # mct "Why can't it be clear and simple?!"
-    mct "Why can't it be clear and simple?!"
+    mct "Почему нельзя быть простым и четким?!"
 
 # game/code/d11/d11s01.rpy:243
 translate russian d11s01_38be3a8d:
 
     # mc "Keep going... Read about the reward..."
-    mc "Keep going... Read about the reward..."
+    mc "Продолжаем... Ознакомиться с вознаграждением..."
 
 # game/code/d11/d11s01.rpy:244
 translate russian d11s01_28ed97c8_1:
 
     # flr "If you accomplish this you will be eligible for the grand prize of $$1kk."
-    flr "If you accomplish this you will be eligible for the grand prize of $$1kk."
+    flr "Если вы это сделаете, то получите возможность участвовать в розыгрыше главного приза в размере $$1kk."
 
 # game/code/d11/d11s01.rpy:251
 translate russian d11s01_4829437f:
 
     # arj "What the fuck?? We could win it all?!"
-    arj "What the fuck?? We could win it all?!"
+    arj "Какого хрена??? Неужели мы можем выиграть все?!"
 

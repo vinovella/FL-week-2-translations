@@ -2592,5 +2592,5 @@ translate russian strings:
 translate russian d10p2s08_47b69fbd:
 
     # mct "Even knowing that I'd basically be leaving AmRose and Stacy stranded, and giving up on a million dollars?"
-    mct "Even knowing that I'd basically be leaving AmRose and Stacy stranded, and giving up on a million dollars?"
+    mct "Даже зная, что я, по сути, брошу АмРоуз и Стейси на произвол судьбы и откажусь от миллиона долларов?"
 

@@ -935,5 +935,5 @@ translate russian strings:
 translate russian d14s14_e6e632d2:
 
     # mct "On the other hand, I don't really have to win this. I only need the fuck for my current challenge."
-    mct "On the other hand, I don't really have to win this. I only need the fuck for my current challenge."
+    mct "С другой стороны, мне не обязательно побеждать. Мне просто нужен трах для выполнения текущего испытания."
 

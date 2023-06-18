@@ -1316,17 +1316,17 @@ translate russian strings:
 translate russian d12s03_f170455d:
 
     # mct "If I do what she says, I might not have to worry about anything ever again."
-    mct "If I do what she says, I might not have to worry about anything ever again."
+    mct "Если я сделаю то, что она говорит, я могу больше ни о чем не беспокоиться."
 
 # game/code/d12/extended/d12s03.rpy:240
 translate russian d12s03_c7f9bfe6:
 
     # mct "If I don't agree, I am certain that I can just walk away without any consequences... as long as I keep my mouth shut."
-    mct "If I don't agree, I am certain that I can just walk away without any consequences... as long as I keep my mouth shut."
+    mct "Если я не соглашусь, я уверен, что могу просто уйти без каких-либо последствий... пока держу рот на замке."
 
 # game/code/d12/extended/d12s03.rpy:245
 translate russian d12s03_eda32b67:
 
     # mct "It's a curious choice, but I'm ready to decide."
-    mct "It's a curious choice, but I'm ready to decide."
+    mct "Это непростой выбор, но я готов его сделать."
 

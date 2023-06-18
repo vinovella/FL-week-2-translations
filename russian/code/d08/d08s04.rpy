@@ -534,11 +534,11 @@ translate russian replay_d08s04_606e2d02:
 translate russian d08s04_09e6bb19:
 
     # mct "There's no way Pete is behind this. Where the hell would he even get a million bucks?"
-    mct "There's no way Pete is behind this. Where the hell would he even get a million bucks?"
+    mct "Пит никак не может стоять за этим. Откуда, черт возьми, он вообще смог бы взять миллион баксов?"
 
 # game/code/d08/d08s04.rpy:54
 translate russian d08s04_900e258f:
 
     # mct "Still... He can be resourceful when it comes to getting his dick wet. The faster I get this over with, the better."
-    mct "Still... He can be resourceful when it comes to getting his dick wet. The faster I get this over with, the better."
+    mct "Тем не менее... Он может быть изобретательным, когда дело доходит до того, чтобы намочить свой член. Чем быстрее я покончу с этим, тем лучше."
 

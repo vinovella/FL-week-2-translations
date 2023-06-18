@@ -882,35 +882,35 @@ translate russian strings:
 translate russian d12s04_8cc9a922:
 
     # mct "But on the other side, I'd want to see Lyssa even if Fetish Loctator wasn't challenging me."
-    mct "But on the other side, I'd want to see Lyssa even if Fetish Loctator wasn't challenging me."
+    mct "Но с другой стороны, я бы хотел увидеть Лиссу, даже если бы Фетиш Локтатор не бросил мне вызов."
 
 # game/code/d12/d12s04.rpy:133
 translate russian d12s04_bfdba55d:
 
     # op "I should probably go either way, then."
-    op "I should probably go either way, then."
+    op "Тогда я, пожалуй, пойду в любом случае."
 
 # game/code/d12/d12s04.rpy:139
 translate russian d12s04_b2b9e19d:
 
     # mc "What do you mean?"
-    mc "What do you mean?"
+    mc "Что ты имеешь в виду?"
 
 # game/code/d12/d12s04.rpy:145
 translate russian d12s04_1dbc95fd:
 
     # op "Do you know about their VIP Program?"
-    op "Do you know about their VIP Program?"
+    op "Ты знаешь о VIP-программе?"
 
 # game/code/d12/d12s04.rpy:157
 translate russian d12s04_991a5a6e:
 
     # mc "Good luck, but I'm afraid I'm going to win."
-    mc "Good luck, but I'm afraid I'm going to win."
+    mc "Удачи, но боюсь, что победа будет за мной."
 
 # game/code/d12/d12s04.rpy:164
 translate russian d12s04_70019087:
 
     # op "Thank you. I'm just trying to find myself. I haven't really considered winning the treasure or anything like that."
-    op "Thank you. I'm just trying to find myself. I haven't really considered winning the treasure or anything like that."
+    op "Спасибо. Я просто пытаюсь найти себя. Я не думал о том, чтобы выиграть приз или что-то в этом роде."
 

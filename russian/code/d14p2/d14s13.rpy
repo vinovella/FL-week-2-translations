@@ -486,29 +486,29 @@ translate russian d14s13_5af089f0:
 translate russian d14s13_2abde1da:
 
     # arj "What she means is that we're trying to win The VIP Challenge as well."
-    arj "What she means is that we're trying to win The VIP Challenge as well."
+    arj "Она имеет в виду, что мы также пытаемся победить в "VIP состязании"."
 
 # game/code/d14p2/d14s13.rpy:111
 translate russian d14s13_f725c244:
 
     # mc "Hana, you want this as much as we do. But the only way we're getting it is if we work together."
-    mc "Hana, you want this as much as we do. But the only way we're getting it is if we work together."
+    mc "Хана, ты хочешь этого так же сильно, как и мы. Но мы добьемся этого лишь действуя сообща."
 
 # game/code/d14p2/d14s13.rpy:136
 translate russian d14s13_884f0583:
 
     # sy "Got any ideas we should hear about?"
-    sy "Got any ideas we should hear about?"
+    sy "Есть предложения, которые нам стоит обсудить?"
 
 # game/code/d14p2/d14s13.rpy:158
 translate russian d14s13_152bfbe5:
 
     # hr "Yes."
-    hr "Yes."
+    hr "Да."
 
 # game/code/d14p2/d14s13.rpy:218
 translate russian d14s13_3bbb3149:
 
     # mc "And I'll try to stay on top of my challenge to not get booted."
-    mc "And I'll try to stay on top of my challenge to not get booted."
+    mc "И я постараюсь оставаться на высоте, чтобы не оказаться в списке исключенных."
 

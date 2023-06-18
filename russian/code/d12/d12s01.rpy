@@ -1616,11 +1616,11 @@ translate russian strings:
 translate russian d12s01_1b9a042d:
 
     # mc "And we have a lot to win if I succeed."
-    mc "And we have a lot to win if I succeed."
+    mc "В случае моего успеха мы многое выиграем."
 
 # game/code/d12/d12s01.rpy:382
 translate russian d12s01_a2fa2c23:
 
     # mct "Hmm... Is it related to this VIP challenge?"
-    mct "Hmm... Is it related to this VIP challenge?"
+    mct "Хм... Это связано с этим VIP испытанием?"
 

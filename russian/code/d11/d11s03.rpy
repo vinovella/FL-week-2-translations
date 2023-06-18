@@ -1660,17 +1660,17 @@ translate russian strings:
 translate russian d11s03_4a1f60c6:
 
     # cl "That you pinned me against the wall and pounded on my backdoor, then later with Min you alternated between pissing on and pussy pounding."
-    cl "That you pinned me against the wall and pounded on my backdoor, then later with Min you alternated between pissing on and pussy pounding."
+    cl "Как ты прижал меня к стене и долбил в задний проход, а затем с Мин ты чередовал мочеиспускание и долбежку в киску."
 
 # game/code/d11/d11s03.rpy:313
 translate russian d11s03_f1593ce8:
 
     # mct "This is almost funny. She thinks she can play me."
-    mct "This is almost funny. She thinks she can play me."
+    mct "Это почти смешно. Она думает, что может обыграть меня."
 
 # game/code/d11/d11s03.rpy:679
 translate russian d11s03_cb1d4e54:
 
     # mct "Oh crap! Did she say anything about the VIP Program or the potential reward?"
-    mct "Oh crap! Did she say anything about the VIP Program or the potential reward?"
+    mct "Вот дерьмо! Она что-нибудь говорила о VIP-программе или потенциальном вознаграждении?"
 

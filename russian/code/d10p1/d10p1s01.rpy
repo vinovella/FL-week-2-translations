@@ -1280,5 +1280,5 @@ translate russian strings:
 translate russian d10p1s01_427f0b81:
 
     # mct "I think I recognize that girl. Is that Hana's girlfriend?"
-    mct "I think I recognize that girl. Is that Hana's girlfriend?"
+    mct "Кажется, я узнаю эту девушку. Она подруга Ханы?"
 

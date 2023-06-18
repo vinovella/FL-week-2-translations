@@ -1398,23 +1398,23 @@ translate russian d10s05_replay_69fd61bb:
 translate russian d10s05_replay_95bf8394:
 
     # hr "Iona, for the love of God. I'm just trying to help and protect you."
-    hr "Iona, for the love of God. I'm just trying to help and protect you."
+    hr "Иона, ради Бога. Я просто пытаюсь помочь и защитить тебя."
 
 # game/code/d10/d10s05.rpy:365
 translate russian d10s05_replay_8d0eaa67:
 
     # hr "I just want to be there for you."
-    hr "I just want to be there for you."
+    hr "Я просто хочу быть рядом с тобой."
 
 # game/code/d10/d10s05.rpy:388
 translate russian d10s05_replay_a628f18c:
 
     # hr "I just want to you to be careful with that app and let me help you."
-    hr "I just want to you to be careful with that app and let me help you."
+    hr "Я просто хочу, чтобы ты была осторожна с этим приложением и позволила мне помочь тебе."
 
 # game/code/d10/d10s05.rpy:436
 translate russian d10s05_replay_0e91c7a0:
 
     # mc "Ding, ding, ding. You're right."
-    mc "Ding, ding, ding. You're right."
+    mc "Динь, динь, динь. Ты права."
 

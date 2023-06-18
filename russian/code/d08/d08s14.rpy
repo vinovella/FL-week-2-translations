@@ -1384,5 +1384,5 @@ translate russian strings:
 translate russian d08s14_336ce5e2:
 
     # mc "...But not for the reasons you're thinking of. I'm just not sure it's all it's made out to be."
-    mc "...But not for the reasons you're thinking of. I'm just not sure it's all it's made out to be."
+    mc "...Но не по тем причинам, о которых ты думаешь. Я просто не уверен, что это действительно то, чем его представляют."
 

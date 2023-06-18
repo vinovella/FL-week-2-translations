@@ -396,29 +396,29 @@ translate russian d14s02_09879994:
 translate russian d14s02_6869e014:
 
     # mc "Tells me that I'm gonna fail the challenge, and that the only way to win is to not play."
-    mc "Tells me that I'm gonna fail the challenge, and that the only way to win is to not play."
+    mc "Говорит мне, что я провалю испытание, и что единственный способ победить - не играть."
 
 # game/code/d14/d14s02.rpy:110
 translate russian d14s02_bf7c2b0c:
 
     # mc "And then she's like \"You won't lose if I take your dick first muahaha!\" and then brings out this huge fuck off pair of scissors from God knows where and goes to chop off my dick."
-    mc "And then she's like \"You won't lose if I take your dick first muahaha!\" and then brings out this huge fuck off pair of scissors from God knows where and goes to chop off my dick."
+    mc "И тут она говорит: \"Ты не проиграешь, если я возьму твой член первой, муахаха!\", а потом достает из бог знает откуда огромные ножницы и начинает отрезать мне член."
 
 # game/code/d14/d14s02.rpy:199
 translate russian d14s02_5602733c:
 
     # arj "Hey, we're gonna get this prize. And you're gonna complete your challenge."
-    arj "Hey, we're gonna get this prize. And you're gonna complete your challenge."
+    arj "Эй, мы получим этот приз. И ты пройдешь свое испытание."
 
 # game/code/d14/d14s02.rpy:200
 translate russian d14s02_9f898f54:
 
     # arj "If some crazy succubus wants your dick, she will have to go through me first."
-    arj "If some crazy succubus wants your dick, she will have to go through me first."
+    arj "Если какая-нибудь сумасшедшая суккуба захочет забрать твой член, ей придется пройти через меня."
 
 # game/code/d14/d14s02.rpy:356
 translate russian d14s02_df770e8e:
 
     # sy "In and out in 5 minutes top 'cause, unlike you, I have a work ethic and a desire to win this thing."
-    sy "In and out in 5 minutes top 'cause, unlike you, I have a work ethic and a desire to win this thing."
+    sy "Вошла и вышла за 5 минут, потому что, в отличие от вас, я настроена решительно и стремлюсь к победе."
 
