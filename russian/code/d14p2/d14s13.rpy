@@ -486,7 +486,7 @@ translate russian d14s13_5af089f0:
 translate russian d14s13_2abde1da:
 
     # arj "What she means is that we're trying to win The VIP Challenge as well."
-    arj "Она имеет в виду, что мы также пытаемся победить в "VIP состязании"."
+    arj "Она имеет в виду, что мы также пытаемся победить в \"VIP состязании\"."
 
 # game/code/d14p2/d14s13.rpy:111
 translate russian d14s13_f725c244:
