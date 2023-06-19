@@ -10,7 +10,7 @@ translate korean d11s03b_d02856eb:
 translate korean d11s03b_699878f6:
 
     # mc "Hey!"
-    mc "어이!"
+    mc "안녕!"
 
 # game/code/d11/extended/d11s03b.rpy:22
 translate korean d11s03b_6e385227:
@@ -28,7 +28,7 @@ translate korean d11s03b_38e52425:
 translate korean d11s03b_f2565dcc:
 
     # aw "Yeah... I spent the night at Min's place and am just heading home now."
-    aw "맞아... 민네에서 밤을 새우고 이제 막 집에 가는 중이거든."
+    aw "맞아... 민네 집에서 밤을 새우고 이제 막 집으로 돌아가는 중이거든."
 
 # game/code/d11/extended/d11s03b.rpy:31
 translate korean d11s03b_1c0e4f40:
@@ -52,7 +52,7 @@ translate korean d11s03b_4363cc93:
 translate korean d11s03b_374c5246:
 
     # aw "I'm kidding! But stick around. You look like you have something to say."
-    aw "장난이야! 그리고 잠깐 있어 봐. 묻고 싶은 것도 있는 눈치고."
+    aw "장난이야! 그리고 잠깐 있어 봐. 묻고 싶은 것도 있는 눈치니까."
 
 # game/code/d11/extended/d11s03b.rpy:43
 translate korean d11s03b_572f0e82:
@@ -64,7 +64,7 @@ translate korean d11s03b_572f0e82:
 translate korean d11s03b_98df89b7:
 
     # aw "Worried about your public performance?"
-    aw "사람들 앞에서 공연한 거 걱정되서 그래?"
+    aw "사람들 앞에서 공연한 게 걱정되서 그래?"
 
 # game/code/d11/extended/d11s03b.rpy:49
 translate korean d11s03b_9077c770:
@@ -76,7 +76,7 @@ translate korean d11s03b_9077c770:
 translate korean d11s03b_1872433f:
 
     # aw "Not in the slightest. So, what's up?"
-    aw "조금도 그럴 필욘 없어. 그래서, 무슨 일이야?"
+    aw "조금도 그럴 필욘 없지. 그래서, 마음에 걸린다는 게 뭐야?"
 
 # game/code/d11/extended/d11s03b.rpy:55
 translate korean d11s03b_af756eba:
@@ -88,7 +88,7 @@ translate korean d11s03b_af756eba:
 translate korean d11s03b_c7ad38ea:
 
     # mc "What happens when Lyssa figures out what kind of guy I really am?"
-    mc "네가 진짜 어떤 인간인지 리사가 알면 무슨 일이 생길까?"
+    mc "내가 진짜 어떤 인간인지 리사가 알면 어떻게 될까?"
 
 # game/code/d11/extended/d11s03b.rpy:61
 translate korean d11s03b_953cb93f:
@@ -274,25 +274,25 @@ translate korean replay_d11s03b_a01a0f08:
 translate korean replay_d11s03b_32eb005a:
 
     # aw "Oh! Don't mention that story to Lyssa. She might be upset that I told anyone - even you."
-    aw "아! 리사한텐 이 이야기하지 마. 내가 누구한테 말한 거 알면 화낼 거야. 너한테 말했다고 해도 말야."
+    aw "아! 리사한텐 이 이야기하지 마. 내가 누구한테 말한 거 알면 화낼 거야. 너한테 말했다고 해도 말이야."
 
 # game/code/d11/extended/d11s03b.rpy:248
 translate korean replay_d11s03b_14f9c877:
 
     # mc "Of course. Maybe she'll tell me someday. I imagine you two had a lot of private moments like that."
-    mc "당연하지. 언젠간 나한테도 말하겠지만. 둘이서 그런 사적인 시간을 많이 가졌을 거 같네."
+    mc "당연하지. 언젠간 나한테도 말해 주겠지. 둘이서 그런 사적인 시간을 많이 보냈나 보네."
 
 # game/code/d11/extended/d11s03b.rpy:250
 translate korean replay_d11s03b_273c258d:
 
     # aw "Not really. She's won a few more cases since then, but we never did go back there."
-    aw "사실 아냐. 리사는 이 이후로도 사건에서 이기긴 했지만, 또 갈 일은 없었어."
+    aw "사실은 아냐. 리사는 이 이후로도 사건에서 이기긴 했지만, 또 갈 일은 없었어."
 
 # game/code/d11/extended/d11s03b.rpy:253
 translate korean replay_d11s03b_26ad01d2:
 
     # aw "Last time she won a case we celebrated with beer, pizza, and a chick flick."
-    aw "최근에 이겼을 땐, 맥주, 피자, 여자들 좋아하는 영화를 보며 축하했지."
+    aw "최근에 이겼을 땐, 맥주랑 피자에 여자들 좋아하는 영화로 축하했지."
 
 # game/code/d11/extended/d11s03b.rpy:254
 translate korean replay_d11s03b_b2ad6f0f:

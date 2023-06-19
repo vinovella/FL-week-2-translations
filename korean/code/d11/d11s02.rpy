@@ -10,7 +10,7 @@ translate korean d11s02_4ee8cc8f:
 translate korean d11s02_24f54309:
 
     # mc "Ah, the unavoidable mixture of terror and boredom every day that I find myself in this classroom."
-    mc "아, 교실에 있으면 피할 수 없는 공포와 따분함이여."
+    mc "아, 강의실에 있으면 피할 수 없는 공포와 따분함이여."
 
 # game/code/d11/d11s02.rpy:36
 translate korean d11s02_c8046555:
@@ -40,7 +40,7 @@ translate korean d11s02_351d3e61:
 translate korean d11s02_5923cb9c:
 
     # mct "Weird. No Min today? She's always the first one here. Eager to learn, or just to show off how much she knows."
-    mct "이상하네. 오늘은 민이 없네? 배우는 데 열심인 건지, 아니면 그냥 자기가 얼마나 많이 아는지 뽐내려고 하는 건진 몰라도, 항상 첫 줄에 앉는데."
+    mct "이상하네. 오늘은 민이 없네? 배우는 데 열심인 건지, 아니면 그냥 자기가 얼마나 많이 아는지 뽐내려고 하는 건진 몰라도, 항상 맨 앞줄에 앉는데."
 
 # game/code/d11/d11s02.rpy:48
 translate korean d11s02_170c8c70:
@@ -94,19 +94,19 @@ translate korean d11s02_35ab8f09:
 translate korean d11s02_baca4730:
 
     # kb "Seemed like you were drowning in pussy. Viagra has side effects, ya'know?"
-    kb "보지를 흠뻑 젖게 했잖냐. 비아그라는 부작용있다고, 알지?"
+    kb "보지를 흠뻑 젖게 했잖냐. 비아그라는 부작용 있는 거알지?"
 
 # game/code/d11/d11s02.rpy:72
 translate korean d11s02_b4a6fabe:
 
     # mc "Ha! No pills for me, just a healthy breakfast and I'm good to go."
-    mc "하! 약 먹은 거 아니거든, 그냥 몸에 좋은 아침만 먹으면 거뜬하다고."
+    mc "하! 약 먹은 거 아니거든. 그냥 몸에 좋은 아침만 먹으면 거뜬하다고."
 
 # game/code/d11/d11s02.rpy:75
 translate korean d11s02_bc9fdddc:
 
     # kb "You should be on one of those cereal boxes. Charming & Lucky or something."
-    kb "시리얼 박스에 얼굴이라도 박으셔야겠네. 매력과 행운 같은 상품명으로다가."
+    kb "시리얼 박스에 얼굴이라도 박으셔야겠네. 상자엔 매력과 행운 같은 글자도 박고 말이야."
 
 # game/code/d11/d11s02.rpy:77
 translate korean d11s02_4e3eb2a5:
@@ -118,7 +118,7 @@ translate korean d11s02_4e3eb2a5:
 translate korean d11s02_79c1dbd4:
 
     # kb "Seriously, though. When I first heard that you won the cum contest, I figured you spent the night jacking off in a closet."
-    kb "그건 그렇고, 진심으로 하는 말인데. 네가 가장 많이 쌌다고 듣고선, 밤새 옷장에서 딸딸이라도 쳤다고 생각했다니까."
+    kb "그건 그렇고, 진심으로 하는 말인데. 네가 가장 많이 쌌다고 듣고선, 밤새 옷장에서 딸딸이라도 친 건가 했다니까."
 
 # game/code/d11/d11s02.rpy:82
 translate korean d11s02_ccffe6f9:
@@ -166,7 +166,7 @@ translate korean d11s02_8ef41c97:
 translate korean d11s02_e0544c1b:
 
     # mc "Ugh, thanks, I guess..."
-    mc "어, 고마워, 아마도..."
+    mc "어, 고마워, 그래..."
 
 # game/code/d11/d11s02.rpy:100
 translate korean d11s02_f7c7e624:
@@ -280,7 +280,7 @@ translate korean d11s02_e65f7a46:
 translate korean d11s02_a022017a:
 
     # kb "Oh good, at least this time the notification isn't interrupting the class."
-    kb "오 다행이네. 이번엔 알림이 수업 중에 울리진 않았잖아."
+    kb "오 다행이네. 이번엔 수업 중에 알림이 울리진 않았잖아."
 
 # game/code/d11/d11s02.rpy:138
 translate korean d11s02_b9f111d5:
@@ -334,7 +334,7 @@ translate korean d11s02_c5cb2ffc:
 translate korean d11s02_a7992be4:
 
     # mct "She looks excited. I wonder what AmRose is planning."
-    mct "들뜬 거 같은데. 앰로즈가 뭘 꾸미고 있는 건가 궁금하네."
+    mct "앰로즈가 들뜬 거 같은데. 뭘 꾸미고 있는 건가 궁금하네."
 
 # game/code/d11/d11s02.rpy:186
 translate korean d11s02_c0029e2c:
@@ -406,7 +406,7 @@ translate korean d11s02_f6412ed2:
 translate korean d11s02_c4b46220:
 
     # kb "Huh. It never occurred to me that I could keep it."
-    kb "허. 챙길 수 있다는 건 생각도 못했네."
+    kb "허. 챙길 수 있는 줄은 몰랐네."
 
 # game/code/d11/d11s02.rpy:211
 translate korean d11s02_e929e133:
@@ -460,7 +460,7 @@ translate korean d11s02_c0480290:
 translate korean d11s02_766ffb19:
 
     # kb "Wow. You're joking, right?"
-    kb "와우. 농담 하는 거지?"
+    kb "워어. 농담 하는 거지?"
 
 # game/code/d11/d11s02.rpy:237
 translate korean d11s02_2deaf1dd:
@@ -478,13 +478,13 @@ translate korean d11s02_6465145d:
 translate korean d11s02_bf1ee777:
 
     # kb "Heads up. Min's coming this way."
-    kb "머리 들어. 이쪽으로 민이 온다."
+    kb "머리 들어. 민이 이쪽으로 온다."
 
 # game/code/d11/d11s02.rpy:247
 translate korean d11s02_37558c78:
 
     # kb "I heard she and Antony are on the outs again."
-    kb "듣기론 민이랑 앤토니가 다시 사이가 나빠졌다던데."
+    kb "듣기론 민이랑 앤토니 사이가 다시 나빠졌다던데."
 
 # game/code/d11/d11s02.rpy:249
 translate korean d11s02_56d04b46:
@@ -496,19 +496,19 @@ translate korean d11s02_56d04b46:
 translate korean d11s02_aae4c5ce:
 
     # mct "I mean, weren't they arguing about something earlier in the night?"
-    mct "뭐 때문인진 몰라도 파티 중에도 다투지 않았던가?"
+    mct "뭐 때문인진 몰라도 파티 중에도 다투기도 했잖아?"
 
 # game/code/d11/d11s02.rpy:252
 translate korean d11s02_770d9825:
 
     # mct "Still, maybe I shouldn't have fucked her in front of everyone during the main event."
-    mct "설상가상으로 본 행사 중엔 사람 다 보는 앞에 나랑 떡을 쳤으니."
+    mct "설상가상으로 본 행사 중엔 사람 다 보는 앞에서 나랑 떡을 쳤으니."
 
 # game/code/d11/d11s02.rpy:257
 translate korean d11s02_ec28bd90:
 
     # mes "Hey [mcname] & Kevin. Would you mind scooching over a seat so I can have the aisle?"
-    mes "안녕 [mcname] 그리고 케빈. 앉으려고 하는데, 괜찮다면 옆으로 가 줄 수 있겠니?"
+    mes "안녕, [mcname] 그리고 케빈. 앉으려고 하는데, 괜찮다면 옆으로 가 줄 수 있겠니?"
 
 # game/code/d11/d11s02.rpy:261
 translate korean d11s02_bdc6c613:
@@ -544,7 +544,7 @@ translate korean d11s02_bceb9531:
 translate korean d11s02_7144ce4a:
 
     # mes "Well, honestly, I'd rather he didn't exist anymore."
-    mes "음, 솔직히 말해서, 걔가 더 이상 존재하지 않으면 좋겠으니까."
+    mes "음, 솔직히 말하면, 걔가 더 이상 존재하지 않으면 좋겠다니까."
 
 # game/code/d11/d11s02.rpy:276
 translate korean d11s02_230fdb06:
@@ -556,7 +556,7 @@ translate korean d11s02_230fdb06:
 translate korean d11s02_f863fe12:
 
     # mes "More like I realized this aisle is much better than the front row in every way."
-    mes "이 줄이 앞 줄보다 모든 의미에서 다 낮다는 걸 깨달았다고 해 둘게."
+    mes "이 줄이 앞 줄보다 모든 의미에서 다 낫다는 걸 깨달았다고 해 둘게."
 
 # game/code/d11/d11s02.rpy:282
 translate korean d11s02_6abed58a:
@@ -568,7 +568,7 @@ translate korean d11s02_6abed58a:
 translate korean d11s02_3421744c:
 
     # mes "This morning Allison couldn't stop talking about how amazing you were last night."
-    mes "오늘 아침에 앨리슨이 니가 어젯밤에 얼마나 대단했는지 계속 말하더라."
+    mes "오늘 아침에 앨리슨이 네가 어젯밤에 얼마나 대단했는지 계속 말하더라."
 
 # game/code/d11/d11s02.rpy:287
 translate korean d11s02_638521ac:
@@ -664,19 +664,19 @@ translate korean d11s02_964e3083:
 translate korean d11s02_d566cad7:
 
     # mes "I was thinking, maybe Squizzle and [mclogin] could do lunch."
-    mes "스퀴즐과 [mclogin] 영이 같이 점심을 하면 어떨까 생각하고 있었어."
+    mes "스퀴즐과 [mclogin] 영이 점심을 같이하면 어떨까 하는데."
 
 # game/code/d11/d11s02.rpy:322
 translate korean d11s02_1ee9688c:
 
     # mes "Maybe they could find a way to accomplish today's challenge while they're at it."
-    mes "식사 중에 오늘의 도전을 함께 달성할 수 있는 방법을 찾을 수 있겠지."
+    mes "식사 중에 오늘의 도전을 함께 달성할 수 있는 방법을 찾을 수도 있을 테니까."
 
 # game/code/d11/d11s02.rpy:325
 translate korean d11s02_00bd6751:
 
     # mc "Squizzle, or Min?"
-    mc "스퀴즐이랑 같이, 아니면 민이랑?"
+    mc "스퀴즐이랑 아니면 민이랑?"
 
 # game/code/d11/d11s02.rpy:328
 translate korean d11s02_8b6a037c:
@@ -700,7 +700,7 @@ translate korean d11s02_02f0e7bc:
 translate korean d11s02_569a3833:
 
     # mc "I was hoping to talk to her about her boyfriend."
-    mc "걔 남자 친구에 대해 이야기하고 싶어서."
+    mc "걔 남자 친구에 관해서 이야기하고 싶어서."
 
 # game/code/d11/d11s02.rpy:337
 translate korean d11s02_76d1267f:
@@ -742,7 +742,7 @@ translate korean d11s02_0d5900ed:
 translate korean d11s02_1d8e111f:
 
     # mesfl "You know, Antony was a great fuck, but last night Squizzle found something even better."
-    mesfl "너도 알겠지만, 앤토니는 대단한 자식이었지만, 어제 밤 스퀴즐이 더 나은 물건을 찾았어."
+    mesfl "너도 알 거야. 앤토니는 대단한 자식이었지만, 어제 밤 스퀴즐이 더 나은 물건을 찾았다는 걸."
 
 # game/code/d11/d11s02.rpy:353
 translate korean d11s02_3812ec01:
@@ -766,13 +766,13 @@ translate korean d11s02_76e2bd99:
 translate korean d11s02_05977308:
 
     # mes "What? What's wrong?"
-    mes "왜야? 무슨 문제야?"
+    mes "왜? 뭐가 문젠데?"
 
 # game/code/d11/d11s02.rpy:361
 translate korean d11s02_2dc7eb8f:
 
     # mct "I know I need to fuck 20 people, but fuck that game right now."
-    mct "20명이랑 박이야 돼고, 망할 놈의 도전도 해야 돼고."
+    mct "20명이랑 박이야 돼고, 망할 놈의 도전도 해야 돼고. 그게 문제지."
 
 # game/code/d11/d11s02.rpy:364
 translate korean d11s02_616980be:
@@ -832,13 +832,13 @@ translate korean d11s02_f6691097:
 translate korean d11s02_182aecd9:
 
     # mes "I'm not sure that's what I need right now."
-    mes "그 말이 내가 지금 당장 듣고 싶은 말인지 모르겠네."
+    mes "그 말이 지금 당장 듣고 싶은 말인지 모르겠다."
 
 # game/code/d11/d11s02.rpy:387
 translate korean d11s02_87c30772:
 
     # mc "I can understand that. {w}I have needs too. I need to know Min, not just fuck around with Squizzle."
-    mc "그런 마음이 들어도 이해해. {w}나도 하고 싶은 게 있어. 민을 알고 싶어, 그냥 스퀴즐이랑 장난 치는 게 아니라."
+    mc "그런 마음이 들어도 이해해. {w}나도 말해 줬으면 하는 게 있어. 민에 대해 말해 줬으면 해. 난 그냥 스퀴즐이랑 장난 치는 걸 원하는 게 아냐."
 
 # game/code/d11/d11s02.rpy:390
 translate korean d11s02_b8824d4a:
@@ -946,7 +946,7 @@ translate korean d11s02_f810a0b4:
 translate korean d11s02_50b652c8:
 
     # mes "I wouldn't call it my nature. I'm competitive, sure, but that's just part of being the best."
-    mes "난 내 본성이라고 생각 안 해. 나 경쟁적인 거 맞아. 하지만 최고가 되기 위해서 그런 것뿐이야."
+    mes "난 내 본능이라고 생각 안 해. 나 경쟁적인 거 맞아. 하지만 최고가 되기 위해서 그런 것뿐이야."
 
 # game/code/d11/d11s02.rpy:425
 translate korean d11s02_faf615d0:
@@ -976,7 +976,7 @@ translate korean d11s02_ac2b6558:
 translate korean d11s02_7fbb97ce:
 
     # mc "You do realize that no one else is anywhere near as competitive as you are."
-    mc "그 정도로 경쟁적으로 하면 주변에 남는 사람이 없을 거야."
+    mc "그렇게 경쟁적으로 굴면 주변에 남는 사람이 없을 거야."
 
 # game/code/d11/d11s02.rpy:435
 translate korean d11s02_4dbcae06:
@@ -1030,7 +1030,7 @@ translate korean d11s02_6db0455f:
 translate korean d11s02_2779853b:
 
     # mc "And his daughter?"
-    mc "그리고 넌 그 분의 딸이고?"
+    mc "그리고 넌 그분의 딸이고?"
 
 # game/code/d11/d11s02.rpy:454
 translate korean d11s02_25a13bf0:
@@ -1048,7 +1048,7 @@ translate korean d11s02_982841a7:
 translate korean d11s02_7c79f046:
 
     # mes "Antony. Last night..."
-    mes "안토니. 어젯밤에..."
+    mes "앤토니. 어젯밤에..."
 
 # game/code/d11/d11s02.rpy:461
 translate korean d11s02_4e6ac679:
@@ -1066,13 +1066,13 @@ translate korean d11s02_82358055:
 translate korean d11s02_dd16e008:
 
     # mc "Turning it against yourself?"
-    mc "너 자신한테 너무 매몰찬 거야?"
+    mc "자신한테 너무 매몰찬 거야?"
 
 # game/code/d11/d11s02.rpy:469
 translate korean d11s02_8579ef0c:
 
     # mes "Well, yeah. It's what I deserve. {w}He was a weak piece of shit who kept cheating on me and finally ended hiding behind a phone without even using his voice."
-    mes "음, 맞아. 사실이니까. {w}그 새끼는 계속 파람을 피우더니, 마지막에는 직접 보고 말하지도 않고 폰 뒤에 숨어서 끝을 내는 개자식이고."
+    mes "음, 그래도 싸. 사실이니까. {w}그 새끼는 계속 파람을 피우더니, 마지막에는 직접 보고 말하지도 않고 폰 뒤에 숨어서 끝을 내는 개자식이고."
 
 # game/code/d11/d11s02.rpy:470
 translate korean d11s02_9ece899b:
@@ -1084,7 +1084,7 @@ translate korean d11s02_9ece899b:
 translate korean d11s02_a9047516:
 
     # mes "What does that say about me? That I could be such a poor judge of character and settle for such a cheap pile of crap?"
-    mes "왜 그랬던 걸까? 내가 사람 보는 눈에 문제가 있는 걸까? 나한텐 그런 졸렬한 쓰레기 자식으로 충분했던 걸까?"
+    mes "왜 그랬던 걸까? 사람 보는 눈에 문제가 있는 걸까? 나한텐 그런 졸렬한 쓰레기 자식으로 충분했던 걸까?"
 
 # game/code/d11/d11s02.rpy:474
 translate korean d11s02_a4d1d345:
@@ -1210,7 +1210,7 @@ translate korean d11s02_57300e30:
 translate korean d11s02_8293b49a:
 
     # mc "Look, I'm going to give you some time to think about things."
-    mc "자, 생각할 시간을 가져."
+    mc "자, 생각할 시간을 줄게."
 
 # game/code/d11/d11s02.rpy:537
 translate korean d11s02_9ca4e96f:
@@ -1312,13 +1312,13 @@ translate korean d11s02_bb4a610f:
 translate korean d11s02_119354cb:
 
     # tr "I figured either you already left, or you were very busy after class."
-    tr "네가 떠난 건지, 아니면 수업 끝나고 일인 있는 건지 모르겠더라."
+    tr "네가 떠난 건지, 아니면 수업 끝나고 일이 있는 건지 모르겠더라."
 
 # game/code/d11/d11s02.rpy:606
 translate korean d11s02_00d5a7a4:
 
     # mc "Eh, you know. Just talking about stuff."
-    mc "에, 이런 일 있잖아. 그냥 이야기 좀 하느라고"
+    mc "에, 이럴 때도 있는 거지. 그냥 이야기 좀 하느라고"
 
 # game/code/d11/d11s02.rpy:608
 translate korean d11s02_209000ac:
@@ -1336,7 +1336,7 @@ translate korean d11s02_389f9e77:
 translate korean d11s02_5b7aaafb:
 
     # mc "Heya Terrell. How's life treating you?"
-    mc "야 테럴. 요즘 기분 좀 어떠냐?"
+    mc "야, 테럴. 요즘 기분 좀 어떠냐?"
 
 # game/code/d11/d11s02.rpy:616
 translate korean d11s02_da1969eb:
@@ -1492,7 +1492,7 @@ translate korean d11s02_423c4291:
 translate korean d11s02_3031ed06:
 
     # mc "I'll tell you what. If you can arrange someone for me, I'll talk to Maria for you."
-    mc "말 좀 하자. 나한테 사람을 대 줄 수 있다면, 마리아한테 네 이야기 해 볼게 "
+    mc "말 좀 하자. 나한테 사람을 대 줄 수 있다면, 마리아한테 네 이야기 해 볼게."
 
 # game/code/d11/d11s02.rpy:670
 translate korean d11s02_2e858d5c:

@@ -10,31 +10,31 @@ translate korean d11s01_0be1c487:
 translate korean d11s01_b30f8aa4:
 
     # mct "Even before I open my eyes I feel the texture of an unfamiliar bed and start to remember."
-    mct "눈을 뜨기 전인데도 익숙하지 않은 침대의 감촉이 느껴지고, 기억도 나기 시작하는군."
+    mct "눈을 뜨기 전인데 익숙하지 않은 침대의 감촉이 느껴지고 기억도 나기 시작하는군."
 
 # game/code/d11/d11s01.rpy:20
 translate korean d11s01_d8f5b8f4:
 
     # mct "I'm in AmRose's bedroom. In the silence I hear only my own breathing. She must have already woken up and started the day."
-    mct "난 앰로즈의 침실에 있어. 정적 속에서 나 자신의 숨소리만 들려. 앰로즈는 벌써 일어나서 하루를 시작했겠지."
+    mct "난 앰로즈의 침실에 있어. 정적 속에서 내 숨소리만 들려. 앰로즈는 벌써 일어나서 하루를 시작했겠지."
 
 # game/code/d11/d11s01.rpy:22
 translate korean d11s01_13624a50:
 
     # mct "My eyelids tell me it is early morning, but somehow I can feel the sunlight coming in through the window."
-    mct "내 눈꺼풀이 지금은 이른 아침이라고 하고 있어. 창문을 통해서 햇볕도 느껴져."
+    mct "내 눈꺼풀이 지금은 이른 아침이라고 하고 있어. 창문을 통해 햇볕이 느껴져."
 
 # game/code/d11/d11s01.rpy:24
 translate korean d11s01_3a81dc13:
 
     # mct "I want to fall back to sleep, but an imaginary alarm clock starts playing \"I've got you, babe\"."
-    mct "다시 잠에 들고 싶지만, 상상 속의 자명종이 \"알아, 자기야\"를 연주하기 시작해."
+    mct "다시 잠에 들고 싶지만, 머릿속 자명종이 \"알아, 자기야\"를 연주하기 시작해."
 
 # game/code/d11/d11s01.rpy:26
 translate korean d11s01_8a5bb9c3:
 
     # mct "I can smell breakfast cooking. I guess AmRose is in the kitchen."
-    mct "아침을 준비하는 냄새가 나. 앰로즈가 주방에 있겠지."
+    mct "아침 식사를 차리는 냄새가 나. 앰로즈는 주방에 있겠지."
 
 # game/code/d11/d11s01.rpy:31
 translate korean d11s01_9d95c190:
@@ -46,7 +46,7 @@ translate korean d11s01_9d95c190:
 translate korean d11s01_e7241c39:
 
     # mct "Before I ponder all the things - and people - I did last night, let's check my messages."
-    mct "모든 일, 사람, 내가 어제 한 일에 관해 생각하기 전에, 문자부터 확인하자."
+    mct "모든 일, 사람, 내가 어제 한 일에 관해 생각하기 전에 문자부터 확인하자."
 
 # game/code/d11/d11s01.rpy:35
 translate korean d11s01_95292d25:
@@ -172,7 +172,7 @@ translate korean d11s01_f0f72b5e:
 translate korean d11s01_7adaf980:
 
     # mct "What's up with that punishment?"
-    mct "도대체 왜 이런 벌이야?"
+    mct "도대체 무슨 벌이 이따위야?"
 
 # game/code/d11/d11s01.rpy:87
 translate korean d11s01_dc72b30a:
@@ -184,13 +184,13 @@ translate korean d11s01_dc72b30a:
 translate korean d11s01_de950b47:
 
     # mct "Or will I still have to complete additional challenges to win the treasure?"
-    mct "상금을 받으려면 과제가 더 있을 거란 소린가?"
+    mct "상금을 받으려면 과제가 더 해야 한다는 말인가?"
 
 # game/code/d11/d11s01.rpy:89
 translate korean d11s01_ce442908:
 
     # mct "If I fail am I ineligible for the prize?"
-    mct "실패하면 상을 받을 자격이 없는 거고?"
+    mct "실패하면 상 받을 자격이 없는 거고?"
 
 # game/code/d11/d11s01.rpy:90
 translate korean d11s01_1a5de442:
@@ -304,7 +304,7 @@ translate korean d11s01_e4127198:
 translate korean d11s01_3d19e378:
 
     # mct "Vanessa is a hot M.I.L.F. who definitely wants my D."
-    mct "버네사는 핫 한 밀프고 분명히 내 ㅈ을 원해."
+    mct "버네사는 핫 한 밀프고 분명히 내 지읏을 원해."
 
 # game/code/d11/d11s01.rpy:153
 translate korean d11s01_936514ac:
@@ -460,7 +460,7 @@ translate korean d11s01_6c435a1d_1:
 translate korean d11s01_a1b21b5a:
 
     # arj "But... How do I..."
-    arj "하지만... 어떻게 내가..."
+    arj "그래도... 어떻게 내가 잘하면..."
 
 # game/code/d11/d11s01.rpy:243
 translate korean d11s01_38be3a8d:
@@ -556,7 +556,7 @@ translate korean d11s01_0c55d991:
 translate korean d11s01_bb9cc54d:
 
     # mc "It isn't about... {w}It's 20 different people! And 4 fucking days!"
-    mc "그런 게 아냐... {w}20명 각각 해야 한다구! 그리고 좆 같이 나흘 안에!"
+    mc "그런 게 아냐... {w}20명 각각 해야 한다구! 그리고 좆 같은 나흘 안에!"
 
 # game/code/d11/d11s01.rpy:281
 translate korean d11s01_0efdab50:
@@ -598,7 +598,7 @@ translate korean d11s01_9696cc87:
 translate korean d11s01_f6afb873:
 
     # arj "I'll watch the clock. Just try to enjoy your breakfast."
-    arj "시계 볼게. 아침이나 즐기고 있으라구."
+    arj "시간 확인할게. 아침이나 즐기고 있으라구."
 
 # game/code/d11/d11s01.rpy:299
 translate korean d11s01_536d88bc:
