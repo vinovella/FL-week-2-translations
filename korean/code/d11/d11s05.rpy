@@ -10,7 +10,7 @@ translate korean d11s05_d53e0c53:
 translate korean d11s05_fdff4ad1:
 
     # mct "I hope Daisy is alright... Wish I could've stayed with her."
-    mct "데이지가 괜찮으면 좋겠는데... 함께 있을 수 있다면 좋았을 텐데."
+    mct "데이지가 괜찮으면 좋겠는데... 함께 있을 수 있으면 좋았을 텐데."
 
 # game/code/d11/d11s05.rpy:36
 translate korean d11s05_541c5fd9:
@@ -124,7 +124,7 @@ translate korean d11s05_791d313d:
 translate korean d11s05_b2e3d1d1:
 
     # mct "But I don't know if Pete truly is innocent..."
-    mct "그래도 피트 녀석이 결백한지는 잘 모르겠단 말야..."
+    mct "그래도 피트 녀석이 결백한지는 잘 모르겠단 말이야..."
 
 # game/code/d11/d11s05.rpy:143
 translate korean d11s05_783527c4:
@@ -136,13 +136,13 @@ translate korean d11s05_783527c4:
 translate korean d11s05_780ad7ac:
 
     # mct "I need a decisive way to find out if Pete is in on this or not..."
-    mct "피트 녀석이 이 일에 연관이 된 건지, 아닌 건지 확인할 결정적인 방법이 필요해..."
+    mct "피트 녀석이 이 일에 연관이 된 건지, 아닌 건지 확인할 결정적인 수단이 필요해..."
 
 # game/code/d11/d11s05.rpy:148
 translate korean d11s05_11b34958:
 
     # mct "Wait.{w}..can I?"
-    mct "잠깐만.{w}..혹시 내가?"
+    mct "잠깐만.{w}.. 혹시 내가?"
 
 # game/code/d11/d11s05.rpy:150
 translate korean d11s05_02761ca0:
@@ -244,7 +244,7 @@ translate korean d11s05_cb745021:
 translate korean d11s05_5bdbe7be:
 
     # mct "...I need to call Hana."
-    mct "...하나한테 연락해야 돼."
+    mct "... 하나한테 연락해야 돼."
 
 # game/code/d11/d11s05.rpy:199
 translate korean d11s05_a341148f:
@@ -292,13 +292,13 @@ translate korean d11s05_4938da2e:
 translate korean d11s05_44d5fb34:
 
     # mc "I just remembered those amazing...{i}things{/i} you showed me at that party!"
-    mc "방금 기억나서 말야. 그 엄청난... {i}걸{/i}이 말야. 파티에서 나한테 보여 줬잖아!"
+    mc "방금 기억나서 말야. 그 엄청난... {i}거{/i} 말이야. 파티에서 나한테 보여 줬잖아!"
 
 # game/code/d11/d11s05.rpy:230
 translate korean d11s05_b7a240ef:
 
     # mct "\"Things\"!?"
-    mct "\"걸\"!?"
+    mct "\"거\"!?"
 
 # game/code/d11/d11s05.rpy:233
 translate korean d11s05_82bead1d:

@@ -172,13 +172,13 @@ translate korean d11s07_f5e5c079:
 translate korean d11s07_2fef8237:
 
     # mc "I was the Ringleader."
-    mc "내가 당사자였어."
+    mc "내가 당사자였는걸."
 
 # game/code/d11/d11s07.rpy:163
 translate korean d11s07_c9f782f4:
 
     # lc "I definitely want to hear about that."
-    lc "꼭 듣고 싶어지는걸."
+    lc "꼭 듣고 싶어지는데."
 
 # game/code/d11/d11s07.rpy:164
 translate korean d11s07_fef54017:
@@ -190,7 +190,7 @@ translate korean d11s07_fef54017:
 translate korean d11s07_5d129d08:
 
     # mc "The woman who won stripped naked, put on a collar, and handed me her leash so I could drag her out in front of the audience."
-    mc "여자 중 이긴 얘가 옷을 벗고, 개 목걸이를 차고, 나한테 그 줄을 넘겨 줬어. 관객들 앞에 자길 끌고 갈 수 있게 말야."
+    mc "여자 중 이긴 애가 옷을 벗고 개 목걸이를 차고 나한테 목걸이 줄을 넘겨 줬어. 관객들 앞에 자길 끌고 갈 수 있게 말야."
 
 # game/code/d11/d11s07.rpy:171
 translate korean d11s07_879a33ad:
@@ -202,7 +202,7 @@ translate korean d11s07_879a33ad:
 translate korean d11s07_deea4a41:
 
     # mc "Allison - the redhead."
-    mc "앨리슨. 빨강 머리 한 얘."
+    mc "앨리슨. 붉은 머리 애."
 
 # game/code/d11/d11s07.rpy:178
 translate korean d11s07_30968c8b:
@@ -298,13 +298,13 @@ translate korean d11s07_87e0a508:
 translate korean d11s07_2bc82720:
 
     # mc "So... did you want to talk about it?"
-    mc "그럼... 이 이야길 할까?"
+    mc "그럼... 이 이야기 계속할까?"
 
 # game/code/d11/d11s07.rpy:214
 translate korean d11s07_5aa894a5:
 
     # lc "Of course! I love hearing your sex stories."
-    lc "당연하지! 난 네 섹스 이야기 듣는 게 너무 좋아."
+    lc "당연하지! 난 네 섹스 이야기 듣는 게 정말 좋아."
 
 # game/code/d11/d11s07.rpy:215
 translate korean d11s07_7c65f708:
@@ -316,7 +316,7 @@ translate korean d11s07_7c65f708:
 translate korean d11s07_ab0e1a16:
 
     # lc "I've never thought about it before. I guess I was surprised to learn that either of you were into that, but it's kinda sexy. I'd like to know more."
-    lc "생각해 본 적이 없는 주제야. 너희 둘이 좋아한다는 사실에 놀랐지만, 섹시한 거 같아. 더 알고 싶어."
+    lc "생각해 본 적이 없는 주제네. 너희 둘이 좋아한다는 사실에 놀랐지만, 섹시한 거 같아. 더 알고 싶어."
 
 # game/code/d11/d11s07.rpy:224
 translate korean d11s07_c402644d:
@@ -388,7 +388,7 @@ translate korean d11s07_2c5c525f:
 translate korean d11s07_4b81a709:
 
     # mc "Just the watersports. I hadn't had sex with her until last night. And she had a very strict rule that \"Squizzle\" was not \"Min\"."
-    mc "워터스포츠만. 어젯밤까진 섹스하진 않았어. 그리고 민은 \"스퀴즐\"이랑 \"민\"을 철처히 구분하니까. 그런 점에선 나랑 섹스한 건 스퀴즐이지."
+    mc "워터스포츠만. 어젯밤까진 섹스를 하진 않았어. 그리고 민은 \"스퀴즐\"이랑 \"민\"을 철처히 구분하니까. 그런 점에선 나랑 섹스한 건 스퀴즐이지."
 
 # game/code/d11/d11s07.rpy:252
 translate korean d11s07_081ed8f7:
@@ -466,7 +466,7 @@ translate korean replay_d11s07_b052d6b2:
 translate korean replay_d11s07_4ecdba4e:
 
     # mc "I want your face here, right now."
-    mc "지금 당장 네 얼굴을 보고 싶어지네."
+    mc "지금 당장 네 얼굴이 보고 싶어지네."
 
 # game/code/d11/d11s07.rpy:309
 translate korean replay_d11s07_4871923e:
@@ -610,7 +610,7 @@ translate korean replay_d11s07_7671e3c2:
 translate korean replay_d11s07_24e9175d:
 
     # lc "Tell me about the... what-do-you-call-it? The finale. The money changer or whatever."
-    lc "그 장면을 말해 줘... 뭐라고 부르더라? 대단원 말야. 머니 체인저리거 하든가."
+    lc "그 장면을 말해 줘... 뭐라고 부르더라? 대단원 말야. 머니 체인저라고 하든가."
 
 # game/code/d11/d11s07.rpy:385
 translate korean replay_d11s07_e3756f77:
@@ -724,13 +724,13 @@ translate korean replay_d11s07_699878f6:
 translate korean replay_d11s07_33dbdab8:
 
     # arj "I just meant... {w}Do you have any idea how much I want your cock inside me right now?"
-    arj "난 그냥 한 소리야... {w}내가 지금 당장 네 자지를 얼마나 넣고 싶은지 상상이라도 해 봤어?"
+    arj "난 그냥 한 소리야... {w}내가 지금 당장 네 자지를 얼마나 넣고 싶은지 상상이 돼?"
 
 # game/code/d11/d11s07.rpy:439
 translate korean replay_d11s07_fb0e434d:
 
     # mc "Oh really? Well, you're going to get it."
-    mc "오 그랬어? 그래, 넣게 될 거야."
+    mc "오 그랬어? 이제 넣게 될 거야."
 
 # game/code/d11/d11s07.rpy:441
 translate korean replay_d11s07_5cf5bb0c:
@@ -754,7 +754,7 @@ translate korean replay_d11s07_d0326d78:
 translate korean replay_d11s07_aafc4acf:
 
     # arj "The hardest part about watching you last night was not being the one you were fucking at the time."
-    arj "어젯밤 에 널 보면서 가장 힘들었던 점은 네가 떡 친다는 게 아니었어."
+    arj "어젯밤에 널 보면서 가장 힘들었던 점은 네가 떡 친다는 게 아니었어."
 
 # game/code/d11/d11s07.rpy:456
 translate korean replay_d11s07_f6336745:
@@ -772,7 +772,7 @@ translate korean replay_d11s07_b2fcb046:
 translate korean replay_d11s07_ff64e386:
 
     # arj "I want to be yours - always. I don't want you to need anyone else."
-    arj "항상 니 게 되고 싶어. 다른 사람은 필요하지 않게."
+    arj "항상 니 게 되고 싶어. 나 말고 다른 사람은 필요하지 않게."
 
 # game/code/d11/d11s07.rpy:460
 translate korean replay_d11s07_472a0d52:

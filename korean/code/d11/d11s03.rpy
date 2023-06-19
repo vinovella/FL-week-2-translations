@@ -16,19 +16,19 @@ translate korean d11s03_bd23fd9d:
 translate korean d11s03_67310fbb:
 
     # mct "Woah! {w}What is Stacy wearing?!"
-    mct "와아! {w}스테이시가 뭘 입는 거야?!"
+    mct "와아! {w}스테이시가 뭘 입은 거야?!"
 
 # game/code/d11/d11s03.rpy:16
 translate korean d11s03_6ca407a8:
 
     # arj "A little whipped and a lot of half and half."
-    arj "휘핑 약간이랑 우유랑 크림 반반으로 섞은 거야."
+    arj "휘핑 약간에 우유랑 크림 반반 넣은 거야."
 
 # game/code/d11/d11s03.rpy:17
 translate korean d11s03_aab27f19:
 
     # mct "I'm far too happy to pretend that I'm angry."
-    mct "저렇게 입었다고 화내기엔 너무 기분이 좋은데."
+    mct "저렇게 입었다고 화내기엔 너무 좋은데."
 
 # game/code/d11/d11s03.rpy:20
 translate korean d11s03_b896c976:
@@ -178,7 +178,7 @@ translate korean d11s03_05500ff6:
 translate korean d11s03_ad461e97:
 
     # lc "I'm sure we're both beautiful, but it would be a bit odd if my boyfriend called you that - wouldn't it?"
-    lc "우리 둘 다 예쁘겠지만, 내 남자 친구가 널 그렇게 부르면 좀 이상해지잖아."
+    lc "우리 둘 다 예쁘겠지만, 내 남자 친구가 널 그렇게 부르면 분위기가 좀 이상해지잖아."
 
 # game/code/d11/d11s03.rpy:112
 translate korean d11s03_054c5ee0:
@@ -196,7 +196,7 @@ translate korean d11s03_8ee02c81:
 translate korean d11s03_7fb8995e:
 
     # mc "So, what's new with you two beautiful women?"
-    mc "그래서, 두 아름다운 여성 분들껜 새로운 소식이라도 있어?"
+    mc "그래서, 두 아름다운 여성 분들껜 무슨 이야길 하고 있었나요?"
 
 # game/code/d11/d11s03.rpy:122
 translate korean d11s03_1e24b003:
@@ -238,7 +238,7 @@ translate korean d11s03_b00e57f9:
 translate korean d11s03_bbd29f6c:
 
     # lc "Min is going to kick his ass when she finds out, and I wouldn't blame her."
-    lc "민이 이 사실을 알면 걜 박살내겠지. 그래도 될 만한 일이고."
+    lc "민이 이 사실을 알면 걜 박살내겠지. 그래도 될 만한 일이니까."
 
 # game/code/d11/d11s03.rpy:138
 translate korean d11s03_bb02bceb:
@@ -256,7 +256,7 @@ translate korean d11s03_0c6f7c71:
 translate korean d11s03_918b205e:
 
     # cl "I'm sure he was drunk at the time. He'd never have the balls to go after Min like that if he was sober."
-    cl "술 취해서 쓴 거겠지. 그 인간은 맨 정신에 민한테 가서 말할 배짱도 없으니까."
+    cl "술 취해서 쓴 거겠지. 그 인간은 맨 정신엔 민한테 가서 말할 배짱도 없으니까."
 
 # game/code/d11/d11s03.rpy:145
 translate korean d11s03_2bbfbf26:
@@ -268,19 +268,19 @@ translate korean d11s03_2bbfbf26:
 translate korean d11s03_0debc89b:
 
     # cl "I mean, sure. He's a macho neanderthal who couldn't stop cheating on her, and gets all bent out of shape the first time she cheats on him..."
-    cl "그거야, 그렇지. 걘 민이랑 사귀면서도 계속 바람을 피운 구닥다리 원시인 같은 자식이니까. 그리고 이번엔 민이 바람을 피우면서 상황이 완전히 변한 거지."
+    cl "그거야, 그렇지. 걘 민이랑 사귀면서도 계속 바람을 피운 구닥다리 원시인 같은 자식이니까. 그리고 이번엔 민이 바람을 피우면서 상황이 완전히 변한 거고..."
 
 # game/code/d11/d11s03.rpy:150
 translate korean d11s03_3ac4cef5:
 
     # cl "...but he's not that bad of a guy. I'd still throw him a fuck or two."
-    cl "...그래도 나쁜 인간은 아냐. 난 걔라면 한 두 번 정도는 대 줄 수도 있어."
+    cl "... 그래도 나쁜 인간은 아냐. 난 걔라면 한 두 번 정도는 대 줄 수도 있어."
 
 # game/code/d11/d11s03.rpy:152
 translate korean d11s03_ef9482e9:
 
     # lc "You wouldn't - "
-    lc "너 설마 - "
+    lc "너 설마-"
 
 # game/code/d11/d11s03.rpy:155
 translate korean d11s03_375467f3:
@@ -406,7 +406,7 @@ translate korean d11s03_744338bc:
 translate korean d11s03_b624427f:
 
     # lc "You still didn't tell me why you got those bruises. Just that you enjoyed it."
-    lc "멍은 어떻게 든 건지 말 안 해 줬잖아. 재미있었다는 거 말곤 말야."
+    lc "재미있었다고만 말만 하고, 멍은 어떻게 든 건지 말 안 해 줬잖아."
 
 # game/code/d11/d11s03.rpy:203
 translate korean d11s03_92181399:
@@ -418,13 +418,13 @@ translate korean d11s03_92181399:
 translate korean d11s03_1e3f1bcb:
 
     # mc "Well, you know we aren't supposed to talk about this sort of thing - what happens in Vegas stays in Vegas."
-    mc "음, 너도 이런 일은 말하면 안 되는 거 알잖아. 라스베이거스에서 있던 일은 라스베이거스에 묻어 두어라."
+    mc "음, 우리 그때 일은 말하면 안 되는 것 같은데. 이런 말도 있잖아. 라스베이거스에서 있던 일은 라스베이거스에 묻어 두어라."
 
 # game/code/d11/d11s03.rpy:209
 translate korean d11s03_3d0c7425:
 
     # lc "Oh, c'mon. I was invited. I just didn't go this time. It should be fine to tell me."
-    lc "아, 제발. 나도 초대 받았어. 그냥 이번엔 가지 않았을 뿐이지. 그러니 나한텐 말해도 돼."
+    lc "아, 제발. 나도 초대 받았어. 그냥 이번엔 가지 않았을 뿐이라구. 그러니 나한텐 말해도 돼."
 
 # game/code/d11/d11s03.rpy:212
 translate korean d11s03_4211037f:
@@ -592,7 +592,7 @@ translate korean d11s03_e1de5751:
 translate korean d11s03_0b2bf9ba:
 
     # cl "One or the other she might forgive, or might not believe, but both on the same night?"
-    cl "한 명이었다면 용서해 주거나, 그 사실을 믿지 않을 수도 있겠지만, 같은 날 둘이랑 했다면 어떨까?"
+    cl "한 명이었다면 용서해 주거나, 그 사실을 믿지 않을 수도 있겠지. 하지만 같은 날 둘이랑 했다면 어떨까?"
 
 # game/code/d11/d11s03.rpy:288
 translate korean d11s03_daeb7d70:
@@ -616,7 +616,7 @@ translate korean d11s03_a49ed4f8:
 translate korean d11s03_ba4fb461:
 
     # cl "Unless I must."
-    cl "반드시 말해야 할 때까 아니라면 말이지."
+    cl "반드시 말해야 할 때가 오지 않는다면 말이지."
 
 # game/code/d11/d11s03.rpy:298
 translate korean d11s03_8852e77f:
@@ -652,7 +652,7 @@ translate korean d11s03_866dba6a:
 translate korean d11s03_ddd584c4:
 
     # cl "Unless you want Lydia to find out that you're cheating on her."
-    cl "네가 바람핀다는 사실을 알게 하고 싶지 않으면, 뭘 해야 알겠지."
+    cl "네가 바람핀다는 사실을 알게 하고 싶지 않으면, 뭘 해야 하는지 알겠지."
 
 # game/code/d11/d11s03.rpy:313
 translate korean d11s03_f1593ce8:
@@ -892,7 +892,7 @@ translate korean d11s03_6074c71b:
 translate korean d11s03_2bfe9637:
 
     # cl "At least it's not a dress rehearsal. My character wears short shorts."
-    cl "내가 연기하는 인물은 핫팬츠를 입는데. 아직은 최종 예행 연습은 아니까. 무대 의상은 입진 않거든."
+    cl "내가 연기하는 인물은 핫팬츠를 입지만, 아직은 최종 예행 연습은 아니라서 무대 의상은 입진 않거든."
 
 # game/code/d11/d11s03.rpy:411
 translate korean d11s03_ca9d7df4:
@@ -1144,7 +1144,7 @@ translate korean d11s03_026c7681:
 translate korean d11s03_93507fb6:
 
     # arj "Don't feel bad. You get to hang out with us!"
-    arj "속상하지 마. 우리랑 같이 놀러 갈 거니까!"
+    arj "속상해 하지 마. 우리랑 같이 놀러 갈 거니까!"
 
 # game/code/d11/d11s03.rpy:527
 translate korean d11s03_28799c91:
@@ -1192,7 +1192,7 @@ translate korean d11s03_140d770a:
 translate korean d11s03_e6e270c5:
 
     # mct "At least they've stopped talking about my porn collection."
-    mct "이번엔 내 포르노 컬렉션 이야기는 안 하니까."
+    mct "이번엔 내 포르노 컬렉션 이야기는 안 하니까 다행이네."
 
 # game/code/d11/d11s03.rpy:544
 translate korean d11s03_52f08b9e:
@@ -1270,7 +1270,7 @@ translate korean d11s03_5058e05d:
 translate korean d11s03_618f8b50:
 
     # sy "I'm being serious. You two are together, sorta. Even if you aren't officially dating."
-    sy "나 진심이거든. 너희 둘 사귀는 것 같은 사이잖아. 공식적으론 아니여도."
+    sy "나 진심이거든. 너희 둘 사귄다고 할 수 있는 사이잖아. 공식적으론 아니어도."
 
 # game/code/d11/d11s03.rpy:576
 translate korean d11s03_6a8be63e:
@@ -1294,7 +1294,7 @@ translate korean d11s03_250d44ab:
 translate korean d11s03_415c4360:
 
     # sy "Relax. It's no big deal. It looked quite romantic."
-    sy "진정해. 호들갑 떨 일도 아니고. 꽤 낭만적이던데."
+    sy "진정해. 호들갑 떨 일도 아니고. 꽤 낭만적이던걸."
 
 # game/code/d11/d11s03.rpy:587
 translate korean d11s03_eca6b3c3:
@@ -1402,7 +1402,7 @@ translate korean d11s03_84be4ebc:
 translate korean d11s03_4a70f3d7:
 
     # arj "When I woke up this morning - he was there."
-    arj "내가 아침에 일어났을 때도 있었구."
+    arj "내가 아침에 일어났을 때도 같이 있었구."
 
 # game/code/d11/d11s03.rpy:628
 translate korean d11s03_3a5466d9:
@@ -1438,7 +1438,7 @@ translate korean d11s03_5ef43fce_1:
 translate korean d11s03_2b2b3cff:
 
     # arj "I spilled my guts. What did you think about what you saw last night at the party?"
-    arj "난 내 속내를 털어놨잖아. 파티에서 그 광경을 보고 넌 어떤 생각이 들었어?"
+    arj "내 속내는 털어놨잖아. 파티에서 그 광경을 보고 넌 어떤 생각이 들었어?"
 
 # game/code/d11/d11s03.rpy:641
 translate korean d11s03_bf583411:
@@ -1486,7 +1486,7 @@ translate korean d11s03_572bcec9:
 translate korean d11s03_4e0f9f72:
 
     # sy "AmRose told me about your challenge."
-    sy "앰로즈가 네 과제를 말해 줬거든."
+    sy "앰로즈가 네 과제를 알려 줬거든."
 
 # game/code/d11/d11s03.rpy:673
 translate korean d11s03_bfc21211:
@@ -1504,13 +1504,13 @@ translate korean d11s03_49f9bf11:
 translate korean d11s03_cb1d4e54:
 
     # mct "Oh crap! Did she say anything about the VIP Program or the potential reward?"
-    mct "아 젠장! VIP 계획이나 보상 같은 것도 말한 건가?"
+    mct "아, 망할! VIP 계획이나 보상 같은 것도 말한 건가?"
 
 # game/code/d11/d11s03.rpy:681
 translate korean d11s03_b5e4c679:
 
     # mct "Oh crap! Did she say anything about the Retention Program?"
-    mct "아 젠장! 유지 계획에 관한 것도 말한 건가?"
+    mct "아, 망할! 유지 계획에 관한 것도 말한 건가?"
 
 # game/code/d11/d11s03.rpy:683
 translate korean d11s03_339e65a4:
@@ -1528,7 +1528,7 @@ translate korean d11s03_a292fc31:
 translate korean d11s03_fe452c50:
 
     # mc "Oh, good. {w}So, what were you saying?"
-    mc "아, 다행이네. {w}그래사 무슨 이야길 하는 거야?"
+    mc "아, 다행이네. {w}그래서 무슨 이야길 하는 거야?"
 
 # game/code/d11/d11s03.rpy:691
 translate korean d11s03_cbf3a1c0:
@@ -1618,7 +1618,7 @@ translate korean d11s03_9e00f950:
 translate korean d11s03_50d3a46d:
 
     # sy "Good, then buzz off. We need to brainstorm."
-    sy "좋아, 그럼 꺼져. 우린 머리 맞대야겠으니까."
+    sy "좋아, 그럼 꺼져. 우린 머리를 맞대야겠으니까."
 
 # game/code/d11/d11s03.rpy:733
 translate korean d11s03_7c29358c:
