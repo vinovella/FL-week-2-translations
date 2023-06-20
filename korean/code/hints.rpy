@@ -492,7 +492,7 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "You'll give Hana the password and completely betray your friend, but it'll make Hana happy and more willing to fuck you."
-    new "하나에게 비밀 번호를 줍니다. 친구를 완전히 배신합니다. 하나를 기뻐하고 기꺼이 당신과 합니다."
+    new "하나에게 비밀번호를 줍니다. 친구를 완전히 배신합니다. 하나를 기뻐하고 기꺼이 당신과 합니다."
 
     # game/code/hints.rpy:5
     old "You won't betray your friend even more, but Hana will be kinda pissed and you won't get to have sex with her during the Blitz challenge if you didn't help Iona."
@@ -500,7 +500,7 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "Hana will take you into the bathroom and fuck you, but only if you gave her the password or if you helped out Iona."
-    new "하나에게 비밀 번호를 주었거나 아이오나를 도운 경우, 하나가 당신을 화장실로 데리고 가서 당신과 섹스합니다."
+    new "하나에게 비밀번호를 주었거나 아이오나를 도운 경우, 하나가 당신을 화장실로 데리고 가서 당신과 섹스합니다."
 
     # game/code/hints.rpy:5
     old "You don't fuck Hana."
@@ -524,7 +524,7 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Lydia develops - Lydia will make you cum, but she won't be happy. And you won't get to fuck Chastity, the prostitute that Lydia gets for you."
-    new "중요한 선택지입니다. 리디아와의 관계를 바꿉니다. 리디아가 당신을 싸게 만듭니다. 하지만 기뻐하지 않습니다. 리디아가 당신을 위해 준비한 매춘부인 채스터티를 박지 못하게 됩니다."
+    new "중요한 선택지입니다. 리디아와의 관계를 바꿉니다. 리디아가 당신을 싸게 만듭니다. 하지만 리디아는 당신의 결정에 기뻐하지 않습니다. 리디아가 당신을 위해 준비한 매춘부인 채스터티를 박지 못하게 됩니다."
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Lydia develops - You will stop Lydia from continuing. Lydia will be thankful and get you Chastity, a prostitute, later on."

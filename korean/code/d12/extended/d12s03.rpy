@@ -40,7 +40,7 @@ translate korean d12s03_9753b269:
 translate korean d12s03_a6c766ff:
 
     # mct "Sorry Lyssa. I'm not here because of you."
-    mct "미안 리사. 너 보러 여기에 들어온 건 아냐."
+    mct "미안 리사. 이번엔 널 보러 온 게 아냐."
 
 # game/code/d12/extended/d12s03.rpy:65
 translate korean d12s03_75f5ba38:
@@ -88,7 +88,7 @@ translate korean d12s03_2552805b:
 translate korean d12s03_503fb64e:
 
     # jdg "You were rather difficult to track down. {w}Samiya didn't want to give me your name."
-    jdg "추적하기 좀 어렵던데. {w}사미야가 이름을 알려 주고 싶어하지 않더라."
+    jdg "추적하기 좀 어렵던데. {w}사미야가 이름을 알려 주고 싶어하지 않아하더라."
 
 # game/code/d12/extended/d12s03.rpy:92
 translate korean d12s03_6c75a323:
@@ -106,13 +106,13 @@ translate korean d12s03_0b639f71:
 translate korean d12s03_e268cce7:
 
     # jdg "No, no. She called my bluff, and I didn't see the point in punishing her for... {w}discretion."
-    jdg "아니, 아냐. 나한테 해 보라고 배짱을 부리더군. 그 애를 처벌할 필요는 없다고 생각했지... {w}비밀을 지킨다고 해서 말이야."
+    jdg "아니, 아냐. 나한테 해 보라고 배짱을 부리더군. 그 애를 처벌할 필요는 없다고 생각했지... {w}비밀을 잘 지킨다고 해서 말이야."
 
 # game/code/d12/extended/d12s03.rpy:100
 translate korean d12s03_21d841ee:
 
     # mc "I hate to ask, but how did you find me?"
-    mc "이런 질문을 드리긴 싫습니다만, 어떻게 절 찾으신 거에요?"
+    mc "이런 걸 여쭙긴 싫습니다만, 어떻게 절 찾으신 거에요?"
 
 # game/code/d12/extended/d12s03.rpy:104
 translate korean d12s03_4154d63d:
@@ -214,7 +214,7 @@ translate korean d12s03_2447c87a:
 translate korean d12s03_3e374961:
 
     # jdg "I am a person in a position of power. The fates of multitudes are mine to decide every day. {w}I've been doing this a long time."
-    jdg "나는 권력이 있는 사람이야. 대중의 운명을 매일 내 손으로 결정하지. {w}난 이 일을 오래 해 왔어."
+    jdg "나는 권력을 가진 사람이야. 대중의 운명을 매일 내 손으로 결정해. {w}난 이 일을 오래 해 왔어."
 
 # game/code/d12/extended/d12s03.rpy:156
 translate korean d12s03_e323a08e:
@@ -226,7 +226,7 @@ translate korean d12s03_e323a08e:
 translate korean d12s03_b271ffbb:
 
     # jdg "What happened the other day was completely unlike anything I've ever experienced."
-    jdg "그때 일은 내가 겪었던 것과는 완전히 달랐어."
+    jdg "그때 일은 내가 겪어 왔던 일과는 완전히 달랐어."
 
 # game/code/d12/extended/d12s03.rpy:161
 translate korean d12s03_628c719f:
@@ -238,7 +238,7 @@ translate korean d12s03_628c719f:
 translate korean d12s03_cba2301e:
 
     # jdg "I was incredibly fond of my body's reaction to that event."
-    jdg "그 사건을 겪으면서 내 몸이 보인 반응이 정말 마음에 들었더라구."
+    jdg "그 사건을 겪으면서 내 몸이 보인 반응이 정말 마음에 들더라."
 
 # game/code/d12/extended/d12s03.rpy:166
 translate korean d12s03_0cc87f40:
@@ -298,7 +298,7 @@ translate korean d12s03_d7f9a2d1:
 translate korean d12s03_c31036b4:
 
     # mc "What would be expected of me?"
-    mc "저한테 바라시는 바거라도 있으세요?"
+    mc "제가 하길 원하는 일이라도 있으세요?"
 
 # game/code/d12/extended/d12s03.rpy:196
 translate korean d12s03_98ae8680:
@@ -532,7 +532,7 @@ translate korean d12s03_fake_rape_b6b63117:
 translate korean d12s03_fake_rape_56466df7:
 
     # jdg "This courtroom is sealed and soundproofed."
-    jdg "이 법정은 숨겨진 출입구도 없고 방음 처리가 되어 있어."
+    jdg "이 법정은 숨겨진 출입구도 없고 방음 처리가 되어 있지."
 
 # game/code/d12/extended/d12s03.rpy:332
 translate korean d12s03_fake_rape_371d0a91:
@@ -748,7 +748,7 @@ translate korean d12s03_fake_rape_1e9131bb:
 translate korean d12s03_fake_rape_8b762998:
 
     # jdg "Whenever you are ready, I suggest you start by grabbing my hair and either throwing me over the desk or to the ground."
-    jdg "준비되면 언제든지 시작해. 내 머리채를 잡고 날 책상이나 바닥에 던지는 걸로 시작하는 게 좋겠네."
+    jdg "준비되면 언제든지 시작해. 내 머리채를 잡고 날 책상이나 바닥에 던지는 걸로 시작하면 좋겠네."
 
 # game/code/d12/extended/d12s03.rpy:443
 translate korean d12s03_fake_rape_c8a0491e:
@@ -1156,7 +1156,7 @@ translate korean d12s03_end_7aa1e37b:
 translate korean d12s03_end_57dd896e:
 
     # jdg "Don't worry about that. I am extremely happy with the results."
-    jdg "너무 걱정하지 마. 난 엄청나게 행복하니까."
+    jdg "너무 걱정하진 마. 난 엄청나게 행복하니까."
 
 # game/code/d12/extended/d12s03.rpy:930
 translate korean d12s03_end_d1e0caed:
@@ -1288,7 +1288,7 @@ translate korean d12s03_end_df58292a:
 translate korean d12s03_end_e5d3c12d:
 
     # jdg "We'll see."
-    jdg "알게 될 거야."
+    jdg "보자고."
 
 # game/code/d12/extended/d12s03.rpy:1001
 translate korean d12s03_end_d2e28ed3:
