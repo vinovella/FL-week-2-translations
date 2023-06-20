@@ -4,7 +4,7 @@
 translate korean d11s04_95a7047b:
 
     # mct "I should go and meet Daisy now"
-    mct "가서 데이터 만나러 가야 돼."
+    mct "데이지 만나러 가야 돼."
 
 # game/code/d11/d11s04.rpy:16
 translate korean d11s04_8331de4a:
@@ -22,7 +22,7 @@ translate korean d11s04_bf6ad955:
 translate korean d11s04_060f55d0:
 
     # mc "That's like the 15th time you've told me that. Why are you so afraid of hospitals?"
-    mc "15번째 말하는 거 같네. 왜 그렇게 병원이 무서운 거야?"
+    mc "괜찮다는 말은 15번째 말하는 거 같네. 왜 그렇게 병원이 무서운 거야?"
 
 # game/code/d11/d11s04.rpy:24
 translate korean d11s04_43495e89:
@@ -52,13 +52,13 @@ translate korean d11s04_ad36558e:
 translate korean d11s04_a9ce2dca:
 
     # mc "...Let's go."
-    mc "...가자."
+    mc "... 가자."
 
 # game/code/d11/d11s04.rpy:44
 translate korean d11s04_7f07a492:
 
     # dd "I'll go talk with the receptionist. You can go sit."
-    dd "접수부터 할게. 가서 앉아."
+    dd "접수부터 할게. 가서 앉아 있어."
 
 # game/code/d11/d11s04.rpy:67
 translate korean d11s04_40ef45ef:
@@ -112,13 +112,13 @@ translate korean d11s04_0c4c8ba1:
 translate korean d11s04_57643ce3:
 
     # dd "Who the fuck knows anyway really?"
-    dd "씨발 누가 제대로 아는 거야?"
+    dd "씨발 누가 제대로 아는 건데?"
 
 # game/code/d11/d11s04.rpy:93
 translate korean d11s04_a50f4007:
 
     # dd "He was working on the fence around our old farm one day, and I was playing with our dog, Willow."
-    dd "그 날 우리 아빤 우리 농장 주변의 울타리 작업을 하고 계셨어. 난 우리 집 개 윌로우랑 놀고 있었고."
+    dd "그날 우리 아빤 우리 농장 주변의 울타리 작업을 하고 계셨어. 난 우리 집 개 윌로우랑 놀고 있었고."
 
 # game/code/d11/d11s04.rpy:95
 translate korean d11s04_fd2c30c1:
@@ -160,13 +160,13 @@ translate korean d11s04_7efbcade:
 translate korean d11s04_110ed781:
 
     # dd "...So yeah. I don't exactly trust these people."
-    dd "...그러면, 내가 왜 그런 사람들을 믿지 않는지 알겠지."
+    dd "... 그러면, 내가 왜 그런 사람들을 믿지 않는지 알겠지."
 
 # game/code/d11/d11s04.rpy:118
 translate korean d11s04_581d7b68:
 
     # "Receptionist" "Miss. Diamond? {w}Daisy Diamond?"
-    "접수원" "다이아몬드 양? {w}데이지 다이아몬드?"
+    "접수원" "다이아몬드 양? {w}데이지 다이아몬드 계신가요?"
 
 # game/code/d11/d11s04.rpy:126
 translate korean d11s04_879887c7:
@@ -208,7 +208,7 @@ translate korean d11s04_86b8b43a:
 translate korean d11s04_70ff2547:
 
     # dd "I...uhm, I have this thing, where I fall unconscious sometimes."
-    dd "저...어흠, 제한테 일이 좀 있어서요. 수시로 의식을 잃고 쓰러져요."
+    dd "저... 어흠, 저한테 일이 좀 있어서요. 수시로 의식을 잃고 쓰러져요."
 
 # game/code/d11/d11s04.rpy:159
 translate korean d11s04_c55aeb3d:
@@ -220,7 +220,7 @@ translate korean d11s04_c55aeb3d:
 translate korean d11s04_f828709d:
 
     # dd "Well, I haven't exactly kept track of it. But usually when I do something, I dunno, intense, or high energy."
-    dd "글쎄요. 정확하겐 기억하진 못하겠어요. 하지만 뭐랄까, 제가 강하고 힘이 많이 드는 일을 할 때 그런 일이 생겨요."
+    dd "글쎄요. 정확하겐 기억하진 못하겠어요. 하지만 뭐랄까, 제가 격렬하고 힘이 많이 드는 일을 할 때 그런 일이 생겨요."
 
 # game/code/d11/d11s04.rpy:162
 translate korean d11s04_9dacab18:
@@ -232,7 +232,7 @@ translate korean d11s04_9dacab18:
 translate korean d11s04_3d5dbb23:
 
     # dd "It doesn't always happen. Sometimes I feel like that but don't fall unconscious, and just get better if I rest for a bit. {w}Sometimes I just wake up with no memory of feeling faint or passing out."
-    dd "항상 일어나는 일은 아니에요. 어떨 땐 그런 기분이 들더라도 기절하진 않아요. 그냥 조금 쉬면 나아지더라구요. {w}가끔은 기절하거나 쓰러지기 전에 기억이 나지 않은 채로 일어나요."
+    dd "항상 일어나는 일은 아니에요. 어떨 땐 그런 기분이 들더라도 기절하진 않았어요. 그냥 조금 쉬면 나아지더라구요. {w}가끔은 기절하거나 쓰러지기 전 기억이 나지 않은 채로 일어나요."
 
 # game/code/d11/d11s04.rpy:166
 translate korean d11s04_b8f49847:
@@ -250,13 +250,13 @@ translate korean d11s04_80eacc17:
 translate korean d11s04_951ef747:
 
     # "Doctor" "Hm, so it's been going on for a bit then. Why did it take you so long to get it checked out?"
-    "의사" "흠, 이렇게 된지는 꽤 된 거군요. 왜 이렇게 오랫동안 검사를 받지 않으신 거죠?"
+    "의사" "흠, 이렇게 된지는 꽤 된 거군요. 왜 이렇게 오래 검사를 받지 않으신 거죠?"
 
 # game/code/d11/d11s04.rpy:175
 translate korean d11s04_f0a2325d:
 
     # dd "...I didn't think it was a big deal."
-    dd "...큰 문제가 아니라고 생각했어요."
+    dd "... 큰 문제가 아니라고 생각했어요."
 
 # game/code/d11/d11s04.rpy:178
 translate korean d11s04_c77adea2:
@@ -286,13 +286,13 @@ translate korean d11s04_ad012e85:
 translate korean d11s04_5e78a875:
 
     # dd "...Yes. My father."
-    dd "...예. 아버지요."
+    dd "... 예. 아버지요."
 
 # game/code/d11/d11s04.rpy:189
 translate korean d11s04_ad90cd10:
 
     # "Doctor" "Hm, let's run a few tests."
-    "의사" "흠, 몇 가지 검사를 해 보십다."
+    "의사" "흠, 몇 가지 검사를 해 보죠."
 
 # game/code/d11/d11s04.rpy:196
 translate korean d11s04_affaaf7e:
@@ -340,7 +340,7 @@ translate korean d11s04_994c904d:
 translate korean d11s04_fb17ed4f:
 
     # mct "...Partner?"
-    mct "...동반자?"
+    mct "... 동반자?"
 
 # game/code/d11/d11s04.rpy:223
 translate korean d11s04_8a6a3e15:
@@ -376,7 +376,7 @@ translate korean d11s04_9330d28c:
 translate korean d11s04_eea027e0:
 
     # "Doctor" "We are going to keep you for observation overnight."
-    "의사" "하루 동안 검사를 위해 입원하시길 바랍니다."
+    "의사" "하루 동안 검사를 위해 입원하시길 권합니다."
 
 # game/code/d11/d11s04.rpy:255
 translate korean d11s04_0b7eb2fe:
