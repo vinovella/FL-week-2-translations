@@ -106,7 +106,7 @@ translate korean d12s05_43c3e7dc:
 translate korean d12s05_929a42c7:
 
     # mct "I guess I've lingered here long enough."
-    mct "여기서 너무 꾸물거리고 있잖아."
+    mct "여기서 너무 꾸물거린다."
 
 # game/code/d12/d12s05.rpy:73
 translate korean d12s05_aab7ba59:
@@ -136,7 +136,7 @@ translate korean d12s05_a40e3b14:
 translate korean d12s05_862d3374:
 
     # mct "Oh good, it looks like Nora's going to pretend that she isn't pissed off at me."
-    mct "오 다행인데. 노라가 나한테 화낸 적 없는 척할 모양이야."
+    mct "오, 다행인데. 노라가 나한테 화낸 적 없는 척할 모양이야."
 
 # game/code/d12/d12s05.rpy:113
 translate korean d12s05_0ff377c2:
@@ -148,7 +148,7 @@ translate korean d12s05_0ff377c2:
 translate korean d12s05_02c6cb87:
 
     # mc "Hey Nora. How's business?"
-    mc "안녕하세요 노라. 사업은 어때요?"
+    mc "안녕하세요, 노라. 사업은 어때요?"
 
 # game/code/d12/d12s05.rpy:120
 translate korean d12s05_9a932d26:
@@ -226,19 +226,19 @@ translate korean d12s05_5cbff10b:
 translate korean d12s05_49b039c9:
 
     # lc "Baby there is no way I'm holding back."
-    lc "자기야, 더 이상 참을 수 없어."
+    lc "자기야, 더는 참을 수가 없어."
 
 # game/code/d12/d12s05.rpy:162
 translate korean d12s05_bf45a119:
 
     # lc "Cause my passion is the only thing I follow."
-    lc "난 내 열정만을 따를 수 있으니까."
+    lc "내 열정은 차오르고 난 내 열정만 따르니까."
 
 # game/code/d12/d12s05.rpy:163
 translate korean d12s05_60052c0e:
 
     # lc "Tell me when and where your love is at."
-    lc "네 사랑이 있는 때와 장소를 말해 줘."
+    lc "네 사랑이 있을 순간과 장소를 알려 줘."
 
 # game/code/d12/d12s05.rpy:165
 translate korean d12s05_4c9a4bce:
@@ -250,7 +250,7 @@ translate korean d12s05_4c9a4bce:
 translate korean d12s05_e6880152:
 
     # lc "Hands on your skin."
-    lc "네 살결을 느끼게."
+    lc "네 살결 위에 내 손을 올려."
 
 # game/code/d12/d12s05.rpy:168
 translate korean d12s05_62ac6924:
@@ -286,7 +286,7 @@ translate korean d12s05_3980ae64:
 translate korean d12s05_d262cb86:
 
     # lc "Oh maybe then, no I know then."
-    lc "오 만약 그렇다고 해도, 내가 그 순간 몰랐다고 해도"
+    lc "오, 만약 그때가 온다면, 언제 올 줄 모를 그 때가 온다면."
 
 # game/code/d12/d12s05.rpy:177
 translate korean d12s05_9c96fc53:
@@ -598,13 +598,13 @@ translate korean d12s05_part2_eb5b81ed:
 translate korean d12s05_part2_d4df9412:
 
     # mc "Really? I didn't know you could even do that."
-    mc "정말? 대절하는 게 가능하다는 것도 처음 알았네."
+    mc "정말? 영화관을 대절할 수 있다는 것도 처음 알았네."
 
 # game/code/d12/d12s05.rpy:362
 translate korean d12s05_part2_9ac0b13c:
 
     # lc "Well, I know what a fan of classic cinema you are!"
-    lc "음, 네가 고전 영화광이라는 거 알아!"
+    lc "음, 네가 고전 영화광이라는 거 알고 있어!"
 
 # game/code/d12/d12s05.rpy:365
 translate korean d12s05_part2_636a66db:
@@ -724,49 +724,49 @@ translate korean d12s05_part2_829344a9:
 translate korean d12s05_part2_6c257185:
 
     # mc "When I was telling you about being with Allison on the stairs?"
-    mc "앨리슨이랑 층계참에서 있었던 일을 말할 때였어?"
+    mc "앨리슨이랑 층계참에서 있었던 일을 들려 줬을 때였어?"
 
 # game/code/d12/d12s05.rpy:418
 translate korean d12s05_part2_fc4ba8ee:
 
     # mc "When I was telling you about fucking Cynthia in the ass?"
-    mc "신시아의 엉덩이를 박았던 걸 말할 때였어?"
+    mc "신시아의 엉덩이를 박았던 걸 들려 줬을 때였어?"
 
 # game/code/d12/d12s05.rpy:420
 translate korean d12s05_part2_f5509921:
 
     # mc "When I was telling you about my alone time with Lyssa?"
-    mc "리사랑 둘이서 시간 보낸 걸 말할 때였어?"
+    mc "리사랑 둘이서 시간 보낸 걸 들려 줬을 때였어?"
 
 # game/code/d12/d12s05.rpy:422
 translate korean d12s05_part2_306b2249:
 
     # mc "When I was telling you about Talia on the pirate ship?"
-    mc "탈리아랑 해적선 위에서 있었던 일을 말할 때였어?"
+    mc "탈리아랑 해적선 위에서 있었던 일을 들려 줬을 때였어?"
 
 # game/code/d12/d12s05.rpy:424
 translate korean d12s05_part2_eb6a0c75:
 
     # mc "When I told you what Dahlia did to me in the Pandora room?"
-    mc "판도라 방에서 달리아가 나한테 한 일을 말할 때였어?"
+    mc "판도라 방에서 달리아가 나한테 한 일을 들려 줬을 때였어?"
 
 # game/code/d12/d12s05.rpy:426
 translate korean d12s05_part2_e24a0d19:
 
     # mc "When I told you what I did to Daisy in the Pandora room?"
-    mc "판도라 방에서 내가 데이지한테 한 일을 말할 때였어?"
+    mc "판도라 방에서 내가 데이지한테 한 일을 들려 줬을 때였어?"
 
 # game/code/d12/d12s05.rpy:428
 translate korean d12s05_part2_fcc3ed69:
 
     # mc "When I was telling you about that whacky horse race?"
-    mc "별난 경마 경기에 관한 걸 말할 때였어?"
+    mc "별난 경마 경기에 관한 걸 들려 줬을 때였어?"
 
 # game/code/d12/d12s05.rpy:430
 translate korean d12s05_part2_1f0314cb:
 
     # mc "When I was telling you about-"
-    mc "내가 말할 때-"
+    mc "내가 들려 줬을 때였-"
 
 # game/code/d12/d12s05.rpy:433
 translate korean d12s05_part2_243c91a7:
@@ -802,13 +802,13 @@ translate korean d12s05_part2_9f58b072:
 translate korean d12s05_part2_972eec12:
 
     # lc "You have sex with a lot of people, right?"
-    lc "넌 많은 사람들이랑 성관계해 왔지?"
+    lc "넌 많은 사람들이랑 섹스를 해 왔지?"
 
 # game/code/d12/d12s05.rpy:448
 translate korean d12s05_part2_5f0fea93:
 
     # mc "Lately, yes.{w} I mean, before a couple weeks ago-"
-    mc "최근에는, 그랬지.{w} 그러니까, 보름 전만 해도-"
+    mc "최근엔 그랬지.{w} 그러니까, 보름 전만 해도-"
 
 # game/code/d12/d12s05.rpy:450
 translate korean d12s05_part2_1448efbc:
@@ -862,7 +862,7 @@ translate korean d12s05_part2_213533a4:
 translate korean d12s05_part2_f7f6822d:
 
     # mc "I see what you're saying. {w}Sometimes I wonder if I might get addicted to Fetish Locator."
-    mc "무슨 말은 하는진 알겠어. {w}가끔은 내가 페티시 로케이터에 너무 빠지게 된 건 아닌가 하는 생각이 들긴 해."
+    mc "무슨 말은 하는진 알겠어. {w}가끔은 페티시 로케이터에 너무 빠지게 된 건 아닌가 하는 생각이 들긴 해."
 
 # game/code/d12/d12s05.rpy:467
 translate korean d12s05_part2_b5231666:
@@ -886,7 +886,7 @@ translate korean d12s05_part2_bea65db4:
 translate korean d12s05_part2_d2f89647:
 
     # mc "But, I think a little compulsion now & then might be a very good thing."
-    mc "그치만, 예전이나 지금이나 약간의 강박은 좋다고 생각해."
+    mc "그치만, 전이나 지금이나 약간의 강박은 좋다고 생각해."
 
 # game/code/d12/d12s05.rpy:476
 translate korean d12s05_part2_16cf56e7:
@@ -904,7 +904,7 @@ translate korean d12s05_part2_08acb59f:
 translate korean d12s05_part2_6bc3b2a9:
 
     # lc "Then when it's achieved, you can go on to something else?"
-    lc "그러면 목표를 달성되면 다른 일에 집중할 수 있어?"
+    lc "그러면 목표를 달성하면 다른 일에 집중할 수 있어?"
 
 # game/code/d12/d12s05.rpy:483
 translate korean d12s05_part2_f1a002ca:
@@ -922,7 +922,7 @@ translate korean d12s05_part2_62274acd:
 translate korean d12s05_part2_a7a6d4f1:
 
     # lc "It makes me afraid to try new things - and more afraid to obsess over anything."
-    lc "그래서 새로운 일을 해 보기 두려워. 내가 집착하는 건 더 두렵구."
+    lc "그래서 새로운 일을 해 보기가 두려워. 내가 집착하는 건 더 두렵구."
 
 # game/code/d12/d12s05.rpy:490
 translate korean d12s05_part2_d5e5d9d9:
@@ -1192,7 +1192,7 @@ translate korean d12s05_end_26b3a8c8:
 translate korean d12s05_end_ec5f67dd:
 
     # mct "Note to self: Remember to call Lydia tonight."
-    mct "메모: 오늘 밤에 리디아한테 전화할 것."
+    mct "기억하자, 오늘 밤에 리디아한테 전화해야 돼."
 
 translate korean strings:
 
