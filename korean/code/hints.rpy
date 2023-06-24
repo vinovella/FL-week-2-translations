@@ -528,7 +528,7 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Lydia develops - You will stop Lydia from continuing. Lydia will be thankful and get you Chastity, a prostitute, later on."
-    new "중요한 선택지입니다. 리디아와의 관계를 바꿉니다. 리디아가 더 이상 계속하지 않게 합니다. 리디아가 고마워 합니다. 추후에 리디아가 매춘부 채스터티를 준비합니다."
+    new "중요한 선택지입니다. 리디아와의 관계를 바꿉니다. 리디아가 이 이상 계속하지 않게 합니다. 리디아가 고마워 합니다. 추후에 리디아가 매춘부 채스터티를 준비합니다."
 
     # game/code/hints.rpy:5
     old "You'll get to fuck Chloe in the ass and see Kevin eat out your creampie from her ass, but you'll have a much harder time come the exams."
@@ -556,7 +556,7 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "Vanessa cleans up the cum from the shoe."
-    new "버네사가 신발에서 정액을 청소합니다."
+    new "버네사가 신발의 정액을 청소합니다."
 
     # game/code/hints.rpy:5
     old "Vanessa will wear the cum covered shoe later."

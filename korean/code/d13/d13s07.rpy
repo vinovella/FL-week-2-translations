@@ -4,7 +4,7 @@
 translate korean d13s07_cd8be750:
 
     # mct "Lydia told me to wait at the park entrance for Min."
-    mct "리디아가 공원 입구에서 민을 기다리고 했는데."
+    mct "리디아 말론 공원 입구에서 민을 기다리면 된다고 했는데."
 
 # game/code/d13/d13s07.rpy:15
 translate korean d13s07_30c5ee03:
@@ -22,7 +22,7 @@ translate korean d13s07_2fa40668:
 translate korean d13s07_0bfdab73:
 
     # mc "Whoa!{w} Hey Min.{w}.. Lydia said that I should meet you?"
-    mc "와아!{w} 안녕 민.{w}.. 리디아가 널 봐야 한다고 하던데?"
+    mc "와아!{w} 안녕, 민.{w}.. 리디아가 널 꼭 봐야 한다고 하던데?"
 
 # game/code/d13/d13s07.rpy:25
 translate korean d13s07_bdd1185f:
@@ -76,7 +76,7 @@ translate korean d13s07_de9e480e:
 translate korean d13s07_c9bd3a5c:
 
     # mes "I brought my own beverage."
-    mes "난 내가 마실 걸 직접 가져 왔어."
+    mes "내가 마실 건 직접 가져 왔어."
 
 # game/code/d13/d13s07.rpy:67
 translate korean d13s07_7663d2fe:
@@ -106,7 +106,7 @@ translate korean d13s07_c6c60251:
 translate korean d13s07_aab0190d:
 
     # mc "Oh, yeah. During the summers I used to work at a travel agency."
-    mc "아, 맞아. 여름에 여행사에서 있했거든."
+    mc "아, 맞아. 여름에 여행사에서 일했거든."
 
 # game/code/d13/d13s07.rpy:86
 translate korean d13s07_d0c5822b:
@@ -154,7 +154,7 @@ translate korean d13s07_4caf7c91:
 translate korean d13s07_e1a2d0d7:
 
     # mc "They got down to the resort for their honeymoon, and were told the hotel was overbooked."
-    mc "신혼여행으로 잡은 리조트에 도착을 했는데, 호텔이 정원 이상으로 예약을 받아서 방이 없다는 소리를 들었다는 거야."
+    mc "신혼여행을 위해 잡은 리조트에 도착을 했는데, 호텔에서 정원 이상으로 예약을 받아서 방이 없다는 소리를 들었다는 거야."
 
 # game/code/d13/d13s07.rpy:106
 translate korean d13s07_07282627:
@@ -166,19 +166,19 @@ translate korean d13s07_07282627:
 translate korean d13s07_30e11b22:
 
     # mc "I know, right? {w}If they had arranged their tickets through the internet they would have been shit outta luck, but instead they called me."
-    mc "그러니까 말야, 신기하지? {w}여행사를 안 통하고 인터넷으로 방을 잡았으면 완전 재수 없게 될 뻔한 거지. 하지만 다행히도 나한테 전화를 건 거야."
+    mc "그러니까 말야, 신기하지? {w}여행사를 안 통하고 인터넷으로 방을 잡았으면 완전 재수 없게 될 뻔한 거지. 그런 상황에서 나한테 전화를 건 거야."
 
 # game/code/d13/d13s07.rpy:112
 translate korean d13s07_0a1fad7c:
 
     # mes "What do you even do in a situation like that?"
-    mes "그런 상황에서 어떻게 한 거야?"
+    mes "그런 상황에서 어떻게 거야?"
 
 # game/code/d13/d13s07.rpy:115
 translate korean d13s07_6301fd94:
 
     # mc "First thing I got them drinks at the bar, so they could relax and start their honeymoon."
-    mc "가장 먼저 바에 가서 한 잔 걸칠 수 있게 해 줬지, 진정하고 신혼여행을 다시 시작할 수 있도록 말야."
+    mc "가장 먼저 신혼부부가 호텔 바에 가서 한 잔 걸칠 수 있게 해 줬지. 진정하고 신혼여행을 다시 시작할 수 있도록 말야."
 
 # game/code/d13/d13s07.rpy:116
 translate korean d13s07_467ec2b2:
@@ -214,13 +214,13 @@ translate korean d13s07_006c1cad:
 translate korean d13s07_d15bb3e3:
 
     # mc "He upgraded them for free, and in exchange I spoke to his boss about how deftly and responsibly he handled this tricky situation."
-    mc "관리자는 예약했던 방을 스위트룸으로 높혀 주고, 난 관리자 상사한테 이 가따로운 상황을 얼마나 기민하고 책임감 있게 처리했는지 말해 주고."
+    mc "관리자는 예약했던 방을 스위트룸으로 높혀 주고, 난 관리자 상사한테 그 관리자가 이 가따로운 상황을 얼마나 기민하고 책임감 있게 처리했는지 말해 주고."
 
 # game/code/d13/d13s07.rpy:132
 translate korean d13s07_bd1bfdd2:
 
     # mes "Ha! You got him a bribe after all - and weren't even the one to pay for it."
-    mes "하! 결국 뇌물을 주긴 했네. 돈을 주진 않았어도 말야."
+    mes "하! 결국 뇌물 같은 걸 주긴 했네. 돈을 주진 않았어도 말이야."
 
 # game/code/d13/d13s07.rpy:135
 translate korean d13s07_eaf6f616:
@@ -256,7 +256,7 @@ translate korean d13s07_7655a7cb:
 translate korean d13s07_7975ceee:
 
     # mes "That and economics. I have been thinking about starting my own company, being the CEO, and trying to build something from the ground up."
-    mes "경영학이랑 경제학 복수 전공. 나 스스로 회사를 세우고 싶단 생각을 해 왔지, 내가 최고 경영 책임자가 되서 밑바닥부터 제대로 만들어 보는 거야."
+    mes "경영학이랑 경제학 복수 전공. 나 스스로 회사를 세우고 싶단 생각을 해 왔어. 내가 최고 경영 책임자가 되서 밑바닥부터 제대로 만들어 보는 거야."
 
 # game/code/d13/d13s07.rpy:152
 translate korean d13s07_775894b2:
@@ -358,7 +358,7 @@ translate korean d13s07_cf1adef2:
 translate korean d13s07_66d6ff5e:
 
     # mes "I don't get it. {w}You're dating Lydia, but I know you two aren't fucking."
-    mes "이해가 안 돼. {w}넌 리디아랑 사귀잖아, 그런데 내가 알기론 너희 둘은 본방은 하지 않았단 말이지."
+    mes "이해가 안 돼. {w}넌 리디아랑 사귀잖아, 그런데 내가 알기론 너희 둘은 본방엔 들어가지 않았단 말이지."
 
 # game/code/d13/d13s07.rpy:201
 translate korean d13s07_2b35b6fe:
@@ -436,7 +436,7 @@ translate korean d13s07_27fe36b0:
 translate korean d13s07_8ac2cb67:
 
     # mc "Monday.{w} Probably Monday morning, but I don't think it said."
-    mc "월요일 전까지.{w} 잘하면 월요일 아침까지, 그런데 정확힌 모르겠어."
+    mc "월요일 되기 전까지.{w} 잘하면 월요일 아침까지, 그런데 정확힌 모르겠어."
 
 # game/code/d13/d13s07.rpy:238
 translate korean d13s07_7b3bc59d:
@@ -532,13 +532,13 @@ translate korean d13s07_f11c1c24:
 translate korean d13s07_8fb5588e:
 
     # mc "I'm throwing a little \"Fuck me\" party at Lydia's house tomorrow."
-    mc "내일 작게 \"나랑 해 줘\" 파티를 리디아 집에서 열려고 해."
+    mc "내일 리디아 집에서 조촐하게 \"나랑 해 줘\" 파티를 열려고 해."
 
 # game/code/d13/d13s07.rpy:284
 translate korean d13s07_8fcf5f70:
 
     # mes "Seriously? {w}I mean, I knew she was cool with you...{w} but at her house?"
-    mes "진짜로? {w}그러니까, 리디아가 네가 하는 일에 큰 상관 안 한다는 건 알았지만...{w} 그런데 자기 집에서 그런 파티를 열게 해 줬다고?"
+    mes "진짜로? {w}그러니까, 리디아가 네가 하는 일에 크게 개의치 않는다는 건 알았지만...{w} 그런데 자기 집에서 그런 파티를 열게 해 줬다고?"
 
 # game/code/d13/d13s07.rpy:287
 translate korean d13s07_ee5006ad:
@@ -682,7 +682,7 @@ translate korean d13s07_f003ab48:
 translate korean d13s07_496e96bf:
 
     # mc "Oh no!{w} Not the friendzone!"
-    mc "아 안 돼!{w} 친구 영역은 안 돼!"
+    mc "아, 안 돼!{w} 친구 영역은 안 돼!"
 
 # game/code/d13/d13s07.rpy:390
 translate korean d13s07_092180ba:
@@ -718,17 +718,17 @@ translate korean d13s07_df8d2e46:
 translate korean d13s07_c790e1ad:
 
     # mc "But I want you too."
-    mc "그래도 나도 널 원해."
+    mc "그치만 나도 널 원해."
 
 # game/code/d13/d13s07.rpy:410
 translate korean d13s07_9f9f36d2:
 
     # mes "Good night, [mcname]."
-    mes "잘 가, [mcname]."
+    mes "좋은 밤 보내, [mcname]."
 
 # game/code/d13/d13s07.rpy:413
 translate korean d13s07_9b0423ef:
 
     # mc "Good night."
-    mc "좋은 밤 보내."
+    mc "너도 좋은 밤 보내."
 

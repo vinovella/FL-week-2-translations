@@ -76,13 +76,13 @@ translate korean d13s03_1416a96b:
 translate korean d13s03_92cd2c5b:
 
     # ir "{i}Definitely{/i}."
-    ir "{i}확실히{/i}."
+    ir "{i}확실히 좋은 의미로{/i}."
 
 # game/code/d13/d13s03.rpy:96
 translate korean d13s03_fb6c4e68:
 
     # ir "So what's up, what's happening? AmRose contacted me and set this up. Something about a party and me being its bartender?"
-    ir "그래서 어떻게 지냈어, 별일 없었고? 앰로즈 나한테 전화를 해서 만나자고 하더라. 파티랑 바텐더 건?"
+    ir "그래서 어떻게 지냈어, 별일 없었고? 앰로즈 전화를 해서 만나자고 하던데. 파티랑 바텐더 건?"
 
 # game/code/d13/d13s03.rpy:99
 translate korean d13s03_ef655e71:
@@ -124,7 +124,7 @@ translate korean d13s03_47c3d4db:
 translate korean d13s03_adbf2d3c:
 
     # mc "Yeah, sure. I don't see why not."
-    mc "응, 물론이지. 안 될 이유 없지."
+    mc "응, 물론이야. 안 될 이유 없지."
 
 # game/code/d13/d13s03.rpy:120
 translate korean d13s03_680db1ff:
@@ -136,13 +136,13 @@ translate korean d13s03_680db1ff:
 translate korean d13s03_8ef88241:
 
     # mc "Uhm... You'd have to talk with AmRose about that."
-    mc "으흠... 그 건은 앰로즈랑 얘길 나눠 보는 게 좋을 거야."
+    mc "으흠... 그 건에 관해선 앰로즈랑 얘길 나눠 보는 편이 좋을 거야."
 
 # game/code/d13/d13s03.rpy:126
 translate korean d13s03_e5b374e5:
 
     # ir "Will do. How big is this thing gonna be? Guest-wise I mean."
-    ir "그러지. 파티는 얼마나 크게 할 건데? 손님 수에서 말이야."
+    ir "그러지. 파티는 얼마나 크게 할 건데? 손님 수 말이야."
 
 # game/code/d13/d13s03.rpy:129
 translate korean d13s03_7979716b:
@@ -196,7 +196,7 @@ translate korean d13s03_7f8a7c88:
 translate korean d13s03_78f53309:
 
     # mc "Please save it then."
-    mc "그러면 저장해 줘."
+    mc "그러면 저장해 둬."
 
 # game/code/d13/d13s03.rpy:151
 translate korean d13s03_ce138d6f:
@@ -406,7 +406,7 @@ translate korean replay_d13s03_a5de5c7a:
 translate korean replay_d13s03_b9317c3c:
 
     # ir "Mmm, I can feel my panties getting soaked."
-    ir "으으음, 속옷이 적는 느낌."
+    ir "으으음, 속옷이 젖는 이 느낌."
 
 # game/code/d13/d13s03.rpy:320
 translate korean replay_d13s03_872506e8:

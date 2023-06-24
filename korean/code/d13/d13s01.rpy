@@ -136,13 +136,13 @@ translate korean d13s01_5a0f281c:
 translate korean d13s01_fff3933b:
 
     # mc "Oh shit, Kev, what's up?"
-    mc "아 젠장, 케브, 무슨 일이냐?"
+    mc "아, 젠장, 케브, 무슨 일이냐?"
 
 # game/code/d13/d13s01.rpy:109
 translate korean d13s01_fc511f0e:
 
     # cb "Hey [mcname]."
-    cb "안녕 [mcname]."
+    cb "안녕, [mcname]."
 
 # game/code/d13/d13s01.rpy:112
 translate korean d13s01_e689408e:
@@ -154,7 +154,7 @@ translate korean d13s01_e689408e:
 translate korean d13s01_aa4c4f9f:
 
     # mc "You two don't come here often. What's up, everything alright?"
-    mc "너희 둘이 여길 다 오고. 무슨 일이라도 있어? 괜찮은 거 맞지?"
+    mc "너희 둘이 여길 다 오고, 무슨 일이라도 있어? 괜찮은 거 맞지?"
 
 # game/code/d13/d13s01.rpy:118
 translate korean d13s01_4c721389:
@@ -178,13 +178,13 @@ translate korean d13s01_bae7a334:
 translate korean d13s01_558a0658:
 
     # cb "Seems like someone is going to top the exams."
-    cb "공부 열심히 하는 걸 보니 1등 하겠는걸."
+    cb "공부 열심히 하는 걸 보니 일등 하겠는걸."
 
 # game/code/d13/d13s01.rpy:130
 translate korean d13s01_b9c20aad:
 
     # mc "I am just tryna cram everything and hoping to God that I at least pass."
-    mc "그냥 전 과목 벼락치기를 하고 있는 거니까. 그저 통과만 하면 여한이 없겠어."
+    mc "그냥 전 과목 벼락치기를 하고 있는 거니까. 그저 통과만 하면 여한이 없겠네."
 
 # game/code/d13/d13s01.rpy:133
 translate korean d13s01_92df2c1d:
@@ -244,7 +244,7 @@ translate korean d13s01_5bc66efd:
 translate korean d13s01_df5ea838:
 
     # mc "Sorry. I'm already way behind. {w}Gotta at least try to catch up or I'm gonna get fucked."
-    mc "미안. 진도까지 나갈려면 한참은 남아서. {w}진도까지 빼려고 시도라도 하지 않으면 좆 될 상태라서."
+    mc "미안. 진도까지 나갈려면 한참은 남아서. {w}진도까지 빼려고 시도라도 하지 않으면 좆 될 상태야."
 
 # game/code/d13/d13s01.rpy:169
 translate korean d13s01_9567101f:
@@ -382,7 +382,7 @@ translate korean d13s01_sex_0e4901bf:
 translate korean d13s01_sex_dfa5341d:
 
     # cb "I want you to bend me over, put your big, fat cock in my ass, and fuck me till you cum inside of me. Alright?"
-    cb "날 숙여, 네 크고 두꺼운 좆을 내 엉덩이에 넣고, 내 안이 정액으로 가득 찰 때까지 박는 거야. 알겠지?"
+    cb "날 숙여, 내 엉덩이에 네 크고 두꺼운 좆을 넣고, 내 안이 네 정액으로 가득 찰 때까지 박는 거야. 알겠지?"
 
 # game/code/d13/d13s01.rpy:277
 translate korean d13s01_sex_42c5f35f:
@@ -424,7 +424,7 @@ translate korean d13s01_sex_a0039149:
 translate korean d13s01_sex_26079ceb:
 
     # mc "Almost."
-    mc "고민도 없이 말야."
+    mc "거의 고민하지도 않고 말이야."
 
 # game/code/d13/d13s01.rpy:314
 translate korean d13s01_sex_6f1c1338:
