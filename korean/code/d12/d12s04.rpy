@@ -16,7 +16,7 @@ translate korean d12s04_8cc9a922:
 translate korean d12s04_6e45bc8b:
 
     # mct "But on the other side, I want to see Lyssa even if Fetish Locator wasn't pressuring me..."
-    mct "페티시 로케이터 압박 때문이 아니라도, 리사는 보고 싶으니까..."
+    mct "페티시 로케이터 때문에 압박 받아서 그런 게 아니라도, 리사는 보고 싶으니까..."
 
 # game/code/d12/d12s04.rpy:51
 translate korean d12s04_e0d23727:
@@ -58,7 +58,7 @@ translate korean d12s04_4f0b94ab:
 translate korean d12s04_b8c1163a:
 
     # op "N—no, Ms. Harris went to meet with a client."
-    op "아—아뇨, 해리스 씨는 고객 만나러 가셨어요."
+    op "아—아뇨, 해리스 선생님은 고객 만나러 가셨어요."
 
 # game/code/d12/d12s04.rpy:74
 translate korean d12s04_abd362e3:
@@ -70,7 +70,7 @@ translate korean d12s04_abd362e3:
 translate korean d12s04_65ada01a:
 
     # op "No, it shouldn't."
-    op "아뇨, 그렇게 오래 걸리지 않을 거에요."
+    op "아뇨, 그렇게 오래 걸리진 않을 거에요."
 
 # game/code/d12/d12s04.rpy:80
 translate korean d12s04_e1decfed:
@@ -214,7 +214,7 @@ translate korean d12s04_dbd819de:
 translate korean d12s04_5a3765d8:
 
     # mc "Oh shit."
-    mc "아 젠장."
+    mc "아, 젠장."
 
 # game/code/d12/d12s04.rpy:153
 translate korean d12s04_c406367b:
@@ -250,19 +250,19 @@ translate korean d12s04_70019087:
 translate korean d12s04_11256cf2:
 
     # op "Thank you. I'm trying to find a way to get out without...y'know, but uh, yeah. I haven't found a way yet."
-    op "신경 써 주셔서 감사합니다. 저는 그냥 벗어날 방법을 찾고 있었어요... 아시겠지만요. 그래도 어, 그렇죠. 아직 방법은 못 찾았지만요."
+    op "신경 써 주셔서 감사합니다. 저는 그냥 벗어날 방법을 찾고 있었어요... 아시겠지만요. 그래도, 어, 그렇죠. 아직 방법은 못 찾았지만요."
 
 # game/code/d12/d12s04.rpy:167
 translate korean d12s04_40f8359e:
 
     # op "I just don't want Ms. Harris to find out..."
-    op "그냥 해리스 씨가 알게 되시는 일만 없으면 좋겠어요..."
+    op "그냥 해리스 선생님께서 알게 되시는 일만 없으면 좋겠어요..."
 
 # game/code/d12/d12s04.rpy:170
 translate korean d12s04_1c6812aa:
 
     # mc "My lips are sealed. {w}Truth be told... I'm in—"
-    mc "입도 뻥긋 안 할 테니까 걱정마. {w}사실은... 나도—"
+    mc "입도 뻥긋 안 할 테니까 걱정 마. {w}사실은... 나도—"
 
 # game/code/d12/d12s04.rpy:175
 translate korean d12s04_37a39183:
@@ -280,7 +280,7 @@ translate korean d12s04_6ce94777:
 translate korean d12s04_8029ce43:
 
     # op "Ms. Harris usually never has people in her office like that without an appointment or something and there wasn't any that day, so I thought that nobody would be there, so I—"
-    op "해리스 씨는 예약 같은 일이 없으면 본인 사무실에 사람을 들이지 않으세요. 그 날은 예약도 없어서, 사람이 있을 거라는 생각도 못했죠. 그래서-"
+    op "해리스 선생님은 예약 같은 일이 없으면 본인 사무실에 사람을 들이지 않으세요. 그날은 예약도 없어서, 사람이 있을 거라는 생각도 못했죠. 그래서-"
 
 # game/code/d12/d12s04.rpy:188
 translate korean d12s04_2cf52e98:
@@ -298,7 +298,7 @@ translate korean d12s04_e068d95b:
 translate korean d12s04_24d2f6cb:
 
     # op "Would you mind telling Ms. Harris that I left?"
-    op "괜찮으시다면 해리스 씨에게 제가 잠시 자리를 비웠다고 말씀 좀 전해 주시겠어요?"
+    op "괜찮으시다면 해리스 선생님께 제가 잠시 자리를 비웠다고 말씀 좀 전해 주시겠어요?"
 
 # game/code/d12/d12s04.rpy:198
 translate korean d12s04_606e2d02:
@@ -358,7 +358,7 @@ translate korean replay_d12s04_928b0ded:
 translate korean replay_d12s04_ca26d0bf:
 
     # mc "I know her from a bit back. Don't worry about it."
-    mc "판사님이랑 얼마 전에 알게 된 사인데. 걱정할 만한 일은 아냐."
+    mc "판사님이랑 얼마 전에 알게 된 사이가 됐는데. 걱정할 만한 일은 아냐."
 
 # game/code/d12/d12s04.rpy:245
 translate korean replay_d12s04_faf75cbc:
@@ -616,7 +616,7 @@ translate korean replay_d12s04_9127b577:
 translate korean replay_d12s04_d84e7638:
 
     # mc "Oh, please. Be as thorough as you like."
-    mc "오, 부탁 드립니다. 경관님. 제발 원하시는 만큼 철저하게 수색해 주세요."
+    mc "오, 부탁 드립니다. 경관님. 제발 원하시는 만큼 철저하게 제 몸을 수색해 주세요."
 
 # game/code/d12/d12s04.rpy:415
 translate korean replay_d12s04_e27e2b38:
@@ -688,7 +688,7 @@ translate korean replay_d12s04_51ef6c12:
 translate korean replay_d12s04_e78c9586:
 
     # mh "Now I can continue with the search."
-    mh "이제 수색을 계속하겠습니다."
+    mh "그럼 수색을 계속하겠습니다."
 
 # game/code/d12/d12s04.rpy:467
 translate korean replay_d12s04_dbcebaaf:
@@ -850,13 +850,13 @@ translate korean d12s04_end_aa2c2a41:
 translate korean d12s04_end_d4a8f7ee:
 
     # mc "Well, I'm always here to help relieve some of that, stress, {i}officer{/i}."
-    mc "음, 이런 일, 그러니까 스트레스를 해소하실 일이 있다면 불러만 주세요. {i}경관님{/i}."
+    mc "음, 이런 일, 그러니까 스트레스를 해소하실 일이 있다면 언제든지 불러만 주세요. {i}경관님{/i}."
 
 # game/code/d12/d12s04.rpy:752
 translate korean d12s04_end_cc09cb78:
 
     # mh "I know. I wish we could have some time for ourselves again."
-    mh "그렇네. 우리만의 시간을 보내면 좋을 텐데."
+    mh "잘 기억해 둘게. 우리만의 시간을 보내면 좋을 텐데."
 
 # game/code/d12/d12s04.rpy:753
 translate korean d12s04_end_a2671411:
@@ -910,5 +910,5 @@ translate korean strings:
 
     # game/code/d12/d12s04.rpy:518
     old "Take the plunge; be a considerate lover"
-    new "감행한다; 마음씨 좋은 연인이 된다"
+    new "감행한다. 마음씨 좋은 연인이 된다"
 

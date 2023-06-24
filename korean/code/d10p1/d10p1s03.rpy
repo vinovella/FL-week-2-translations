@@ -784,7 +784,7 @@ translate korean d10p1s03_6ce94777:
 translate korean d10p1s03_8029ce43:
 
     # op "Ms. Harris usually never has people in her office like that without an appointment or something and there wasn't any that day, so I thought that nobody would be there, so I—"
-    op "해리스 씨는 예약 같은 일이 없으면 본인 사무실에 사람을 들이지 않으세요. 그 날은 예약도 없어서, 사람이 있을 거라는 생각도 못했죠. 그래서-"
+    op "해리스 선생님은 예약 같은 일이 없으면 본인 사무실에 사람을 들이지 않으세요. 그 날은 예약도 없어서, 사람이 있을 거라는 생각도 못했죠. 그래서-"
 
 # game/code/d10p1/d10p1s03.rpy:392
 translate korean d10p1s03_c48479a9:
@@ -838,7 +838,7 @@ translate korean d10p1s03_1e70b733:
 translate korean d10p1s03_ca1324b9:
 
     # op "Ms. Harris!? Oh no, please don't tell her about me. I really don't want her to know that I was here."
-    op "해리스 씨요!? 아 안 돼, 제발 해리스 씨에게 제 이야긴 하지 말아 주세요. 제가 여기 있었단 사실도 알리고 싶지 않아요."
+    op "해리스 선생님이요!? 아 안 돼, 제발 해리스 선생님께 제 이야긴 하지 말아 주세요. 제가 여기 있었단 사실도 알리고 싶지 않아요."
 
 # game/code/d10p1/d10p1s03.rpy:413
 translate korean d10p1s03_24353198:
@@ -886,13 +886,13 @@ translate korean d10p1s03_55ea36d9:
 translate korean d10p1s03_0e091403:
 
     # op "Well, it's not like she wouldn't want me here, it's just that... I don't know, I just don't want her to know that I'm here with her."
-    op "음, 해리스 씨가 제가 여기에 오길 바라지 않기 때문은 아니에요. 그냥... 제대로 말은 못하겠지만, 제가 해리스 씨랑 같은 파티에 왔다는 사실을 알게 하고 싶지 않아요."
+    op "음, 해리스 선생님께서 제가 여기에 오길 바라시지 않는다든가 그런 거 때문이 아니에요. 그냥... 제대로 말은 못하겠지만, 제가 해리스 선생님이랑 같은 파티에 왔다는 사실을 알리고 싶지 않아요."
 
 # game/code/d10p1/d10p1s03.rpy:430
 translate korean d10p1s03_d3d65c6c:
 
     # op "I...I really admire her."
-    op "전... 전 정말로 해리스 씨를 존경해요."
+    op "전... 전 정말로 해리스 선생님을 존경해요."
 
 # game/code/d10p1/d10p1s03.rpy:433
 translate korean d10p1s03_408dc603:
@@ -916,7 +916,7 @@ translate korean d10p1s03_f0fdf90a:
 translate korean d10p1s03_0123072c:
 
     # op "She's confident, she's smart, she's...she's just {i}herself{/i}. And she doesn't care what other people think or say."
-    op "해리스 씨는 매사에 자신만만하고, 똑똑하고, 그리고... 그리고 해리스 씨는 그저 {i}해리스 씨{/i}에요. 다른 사람들이 어떻게 생각하든 뭐라고 말하든 개의치 않으시죠."
+    op "해리스 선생님은 매사에 자신만만하고, 똑똑하고, 그리고... 그리고 해리스 선생님은 그저 {i}해리스 선생님{/i}이에요. 다른 사람들이 어떻게 생각하든 뭐라고 말하든 개의치 않으시죠."
 
 # game/code/d10p1/d10p1s03.rpy:442
 translate korean d10p1s03_d49279e5:
@@ -928,7 +928,7 @@ translate korean d10p1s03_d49279e5:
 translate korean d10p1s03_74edd4cd:
 
     # op "So, I dunno. I just, I was free today and I knew that she was going to the party, so...I thought I'd see what it was about as well."
-    op "그래서, 그러니까. 그냥, 오늘 마침 쉬는 날이고 해리스 씨가 이 파티에 온다는 사실을 알아서, 그래서... 이 파티가 무슨 파티인지 직접 보고 싶었어요."
+    op "그래서, 그러니까. 그냥, 오늘 마침 쉬는 날이고 해리스 선생님께서 이 파티에 온신다는 걸 알게 되서, 그래서... 이 파티가 무슨 파티인지 직접 보고 싶었어요."
 
 # game/code/d10p1/d10p1s03.rpy:446
 translate korean d10p1s03_3868503d:
@@ -1144,7 +1144,7 @@ translate korean d10p1s03_e621f563:
 translate korean d10p1s03_db9743f3:
 
     # op "Please, don't tell Ms. Harris about me."
-    op "제발, 해리스 씨에겐 제 얘긴 하지 말아 주세요."
+    op "제발, 해리스 선생님껜 제 얘긴 하지 말아 주세요."
 
 # game/code/d10p1/d10p1s03.rpy:543
 translate korean d10p1s03_97f13b1e:

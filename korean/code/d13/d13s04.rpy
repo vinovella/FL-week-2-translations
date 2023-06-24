@@ -130,7 +130,7 @@ translate korean d13s04_ba6c78af:
 translate korean d13s04_0f773217:
 
     # nk "At least you didn't try to kill me and throw my body in the boiler of a large building."
-    nk "최소한 날 죽인 다음 큰 건물 화로에 던질 생각은 안하는 모양이니까."
+    nk "적어도 날 죽인 다음 큰 건물 화로에 던질 생각은 안하는 모양이니까."
 
 # game/code/d13/d13s04.rpy:71
 translate korean d13s04_0bb7ff1c:
@@ -148,19 +148,19 @@ translate korean d13s04_fdbc5db7:
 translate korean d13s04_745d6e0e:
 
     # mc "Great film. I never read the book. Sounds like I don't want to, now."
-    mc "영화는 훌륭했는데. 책은 읽어 본 적이 없네요. 이젠 싫고 싶은 생각도 달아났지만요."
+    mc "영화는 훌륭했는데. 책은 읽어 본 적이 없어요. 이젠 읽고 싶은 생각도 달아났지만요."
 
 # game/code/d13/d13s04.rpy:80
 translate korean d13s04_fc38cb29:
 
     # nk "Sorry, was just trying to break the tension with dark humor. It didn't work."
-    nk "미안, 어두운 농담이라도 해서 긴장을 풀고 싶어서. 먹히진 않았네."
+    nk "미안, 어두운 농담이라도 해서 긴장을 풀고 싶었는데. 먹히진 않았네."
 
 # game/code/d13/d13s04.rpy:83
 translate korean d13s04_dbda74e1:
 
     # mc "It's okay. You should get some rest. I can tell this has been stressing you out."
-    mc "괜찮아요. 좀 쉬어야 해요. 이 일로 너무 걱정해서 그런가 보네요."
+    mc "괜찮아요. 노라 좀 쉬어야 해요. 이 일로 너무 걱정해서 그런가 보네요."
 
 # game/code/d13/d13s04.rpy:86
 translate korean d13s04_03544b9d:
@@ -220,7 +220,7 @@ translate korean d13s04_f73b67e3:
 translate korean d13s04_790a145f:
 
     # mc "Nah, it's more of a...{w} fetish party."
-    mc "아뇨, 그런 파티는 아니고...{w} 성벽 파티 같은 거에요."
+    mc "아뇨, 그런 파티는 아니고...{w} 페티시 파티 같은 거에요."
 
 # game/code/d13/d13s04.rpy:115
 translate korean d13s04_1dd374bf:
@@ -310,13 +310,13 @@ translate korean d13s04_a84b824b:
 translate korean d13s04_799f8bb3:
 
     # arj "Hey [mcname]! How did it go?"
-    arj "안녕 [mcname]! 일은 잘 됐어?"
+    arj "안녕, [mcname]! 일은 잘 됐어?"
 
 # game/code/d13/d13s04.rpy:174
 translate korean d13s04_57d03c04:
 
     # mc "Yeah, I was just having a little talk with Iona. She's going to tend the bar for us at the party."
-    mc "응, 막 아이오나랑 이야길 했어. 파티에서 바를 맡아 준대."
+    mc "응, 막 아이오나랑 이야길 마쳤어. 파티에서 바를 맡아 준대."
 
 # game/code/d13/d13s04.rpy:175
 translate korean d13s04_9147d216:
@@ -328,7 +328,7 @@ translate korean d13s04_9147d216:
 translate korean d13s04_38862c8b:
 
     # arj "Nice! Stacy and I have been working on party planning as well."
-    arj "다행이네! 스테이시랑 내가 다른 계획도 세워 놨어."
+    arj "좋았어! 스테이시랑 내가 다른 계획도 세워 놨지."
 
 # game/code/d13/d13s04.rpy:179
 translate korean d13s04_4365b037:
@@ -478,7 +478,7 @@ translate korean d13s04_3b4113ec:
 translate korean d13s04_dbd16495:
 
     # lc "Hey Love! {w}Sorry, I hope I'm not interrupting."
-    lc "안녕 내 사랑! {w}미안, 내가 방해한 아니길 바라."
+    lc "안녕, 내 사랑! {w}미안, 내가 방해한 아니길 바라."
 
 # game/code/d13/d13s04.rpy:251
 translate korean d13s04_5a86862f:
@@ -544,7 +544,7 @@ translate korean d13s04_1a682563:
 translate korean d13s04_455c4f60:
 
     # arj "We've got everything set up for [mcname] to throw a big party tomorrow, but we haven't decided where it will be yet."
-    arj "[mcname] 얠 위해서 큰 파티를 열 준비를 전부 해 놨는데, 아직 파티를 열 장소를 못 찾았어."
+    arj "[mcname] 얠 위해서 큰 파티를 열 준비를 전부 마쳤는데, 아직 파티를 열 장소를 못 찾았어."
 
 # game/code/d13/d13s04.rpy:287
 translate korean d13s04_fdb836ce:
@@ -562,7 +562,7 @@ translate korean d13s04_886662f5:
 translate korean d13s04_23bf3c86:
 
     # lc "How many people are you planning on inviting?"
-    lc "몇 명이나 초대할 생각이야?"
+    lc "몇 명이나 초대하려고?"
 
 # game/code/d13/d13s04.rpy:294
 translate korean d13s04_2f48a677:
@@ -574,7 +574,7 @@ translate korean d13s04_2f48a677:
 translate korean d13s04_f46a6094:
 
     # arj "Plus the people we invite will probably invite others."
-    arj "거기에 우리 초대한 사람들도 다른 사람을 초대할 테고."
+    arj "거기에 초대한 사람들도 부를 사람들도 고려해야 하고."
 
 # game/code/d13/d13s04.rpy:299
 translate korean d13s04_bf80a9a1:
@@ -700,7 +700,7 @@ translate korean d13s04_b4bed416:
 translate korean d13s04_93b1d69e:
 
     # sy "You have a house, a pool, and a cleaning staff?"
-    sy "집에 수영장도 있고, 청소해 주는 사람도 있는 거야?"
+    sy "집에 수영장도 있고, 청소해 주는 사람도 있어?"
 
 # game/code/d13/d13s04.rpy:353
 translate korean d13s04_f55e48a3:
@@ -724,7 +724,7 @@ translate korean d13s04_4a12a661:
 translate korean d13s04_e7939185:
 
     # mc "Sorry, AmRose. You're her old favorite person, now."
-    mc "유감이야, 앰로즈. 이제 넌 스테이시가 예전에 가장 좋아하는 사람이 됐네."
+    mc "유감이야, 앰로즈. 이제 넌 스테이시가 예전에 가장 좋아하던 사람이 됐네."
 
 # game/code/d13/d13s04.rpy:364
 translate korean d13s04_72fc52aa:
@@ -778,7 +778,7 @@ translate korean d13s04_7b6e9e56:
 translate korean d13s04_4692c7e2:
 
     # sy "That's me!"
-    sy "바로 그렇답니다!"
+    sy "그게 바로 저랍니다!"
 
 # game/code/d13/d13s04.rpy:386
 translate korean d13s04_4c7c29f4:
@@ -808,7 +808,7 @@ translate korean d13s04_df0213a0:
 translate korean d13s04_ff9884f8:
 
     # lc "Shush. We're throwing this party at my house tomorrow, and I won't hear any arguments against it."
-    lc "쉬이. 내일 우리 집에서 파티를 여는 거야. 반론은 허용하지 않겠어."
+    lc "쉬잇. 내일 우리 집에서 파티를 여는 거야. 반론은 허용하지 않겠어."
 
 # game/code/d13/d13s04.rpy:400
 translate korean d13s04_ad486357:
@@ -922,7 +922,7 @@ translate korean d13s04_bcae1764:
 translate korean d13s04_b57ff3f4:
 
     # lc "Oh, Min wants to get to know you better. She wants to take you out to a restaurant."
-    lc "아, 민이 널 더 알고 싶어해. 너랑 밥을 같이 먹자고 하더라."
+    lc "아, 민이 널 더 알고 싶어해. 너랑 같이 밥을 먹자고 하더라."
 
 # game/code/d13/d13s04.rpy:456
 translate korean d13s04_eddfeb85:

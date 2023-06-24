@@ -70,7 +70,7 @@ translate korean d12s06_dw_8c25079a:
 translate korean d12s06_dw_631b2afd:
 
     # dw "Why do you think, pissface?"
-    dw "왜 생각을 하지, 똥싸개?"
+    dw "네가 왜 생각을 하지, 똥싸개?"
 
 # game/code/d12/d12s06.rpy:146
 translate korean d12s06_dw_0cdff5a2:
@@ -130,7 +130,7 @@ translate korean d12s06_dw_fb78245d:
 translate korean d12s06_dw_5aacb5cc:
 
     # dw "Next time you show up asking all this what, why, and how shit, I'm gonna—"
-    dw "다음번에 나타나서 감히 뭐니, 왜니, 어떻게니 같은 개수작을 하면, 네 녀석을—"
+    dw "다음번에 나타나서 감히 뭐니, 왜니, 어떻게니 같은 개수작을 부리면, 네 녀석을—"
 
 # game/code/d12/d12s06.rpy:175
 translate korean d12s06_dw_eb9027ea:
@@ -742,7 +742,7 @@ translate korean replay_d12s06_dd_ad36558e:
 translate korean replay_d12s06_dd_5d15fd4b:
 
     # mc "...How about this?"
-    mc "...이렇게 하면 어떨까?"
+    mc "... 이렇게 하면 어떨까?"
 
 # game/code/d12/d12s06.rpy:628
 translate korean replay_d12s06_dd_7a4bc00a:

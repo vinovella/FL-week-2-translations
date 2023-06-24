@@ -748,13 +748,13 @@ translate korean d08s11_f52d2647:
 translate korean d08s11_d1a0d4cc:
 
     # op "Miss Harris!"
-    op "해리스 씨!"
+    op "해리스 선생님!"
 
 # game/code/d08/d08s11.rpy:329
 translate korean d08s11_0cd4518d:
 
     # mh "Yes, Oliver. Please wait for me. I need a break."
-    mh "응, 올리버. 잠깐 기다려 주겠어. 휴식이 필요해."
+    mh "응, 올리버. 잠깐 기다려 주겠니. 휴식이 필요해."
 
 # game/code/d08/d08s11.rpy:332
 translate korean d08s11_3ce6c41d:

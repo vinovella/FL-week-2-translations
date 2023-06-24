@@ -124,13 +124,13 @@ translate korean d12s07_afad276e:
 translate korean d12s07_e564104b:
 
     # mc "Exactly like that - except my current goal is through Fetish Locator. {w}I'm trying to fuck 20 people before Monday."
-    mc "정확해. 지금 내 목표가 페티시 로케이터를 이용한다는 점만 빼면. {w}월요일되기 전까지 20명이랑 하는 게 내 목표야."
+    mc "정확해. 페티시 로케이터를 이용해서 목표를 추적한다는 점만 빼면. {w}월요일되기 전까지 20명이랑 하는 게 내 목표야."
 
 # game/code/d12/d12s07.rpy:85
 translate korean d12s07_7a342a2c:
 
     # lc "Wow! {w}I didn't even know you could set personal goals through the app like that."
-    lc "와아! {w}그 앱으로 그런 목표도 해 볼 수 있다는 건 생각도 못했네."
+    lc "와아! {w}그 앱으로 그런 목표도 추적할 수 있다는 건 생각도 못했네."
 
 # game/code/d12/d12s07.rpy:86
 translate korean d12s07_cb0c8e2b:
@@ -196,7 +196,7 @@ translate korean d12s07_746f5271:
 translate korean d12s07_7907c630:
 
     # lc "But we didn't actually, ya'know..."
-    lc "그치만 우린 실제로 한 건 아니잖아, 그걸 한 건..."
+    lc "그치만 우린 실제로 한 건 아니잖아, 그런 일을 한 건..."
 
 # game/code/d12/d12s07.rpy:123
 translate korean d12s07_29505367:

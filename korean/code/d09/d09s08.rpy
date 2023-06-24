@@ -250,13 +250,13 @@ translate korean d09s08_069ec8d2:
 translate korean d09s08_da92c621:
 
     # vw "I'll text you the info. Ms. Harris will be ready with the keys and the contract anytime tomorrow."
-    vw "관련 사항은 문자로 보낼게. 내일 언제든지 해리스 씨가 열쇠랑 계약서 준비할 수 있어."
+    vw "관련 사항은 문자로 보낼게. 내일 언제든지 해리스 선생이 열쇠랑 계약서 준비할 수 있어."
 
 # game/code/d09/d09s08.rpy:87
 translate korean d09s08_110bbe39:
 
     # mc "Ms. Harris? Oh, yeah. Lyssa. {w}Sorry, I guess I'm a little tired."
-    mc "해리스 씨요? 아, 맞아. 리사. {w}죄송해요, 조금 피곤해서 말 실수를 했네요."
+    mc "해리스 선생이요? 아, 맞아. 리사. {w}죄송해요, 조금 피곤해서 말 실수를 했네요."
 
 # game/code/d09/d09s08.rpy:88
 translate korean d09s08_b66280e8:
@@ -328,13 +328,13 @@ translate korean d09s08_069ec8d2_1:
 translate korean d09s08_da92c621_1:
 
     # vw "I'll text you the info. Ms. Harris will be ready with the keys and the contract anytime tomorrow."
-    vw "관련 사항은 문자로 보낼게요. 내일은 언제든지 해리스 씨가 열쇠와 계약서를 준비할 수 있어요."
+    vw "관련 사항은 문자로 보낼게요. 내일은 언제든지 해리스 선생이 열쇠와 계약서를 준비할 수 있어요."
 
 # game/code/d09/d09s08.rpy:111
 translate korean d09s08_24b24091:
 
     # mc "Ms. Harris?{w} Oh, yeah. Lyssa. Sorry, I guess I'm a little tired."
-    mc "해리스 씨?{w} 아, 맞다. 리사. 미안해요, 좀 피곤해서 말실수를 했네요."
+    mc "해리스 선생이요?{w} 아, 맞다. 리사. 미안해요, 좀 피곤해서 말실수를 했네요."
 
 # game/code/d09/d09s08.rpy:112
 translate korean d09s08_82b47c2c:

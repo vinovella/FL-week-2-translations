@@ -16,7 +16,7 @@ translate korean d12s02_4618f722:
 translate korean d12s02_382a8b6a:
 
     # mct "I'll just wait then."
-    mct "그럼 그냥 기다려야지."
+    mct "그럼 그냥 기다려야겠네."
 
 # game/code/d12/d12s02.rpy:52
 translate korean d12s02_c57a25d0:
@@ -64,13 +64,13 @@ translate korean d12s02_abe22177:
 translate korean d12s02_c832bcf4:
 
     # "Mysterious Woman" "Maybe that jogged your mind a little?"
-    "수수께끼의 여성" "머리 속에 떠오르는 게 있겠지?"
+    "수수께끼의 여성" "머릿속에 떠오르는 게 있겠지?"
 
 # game/code/d12/d12s02.rpy:90
 translate korean d12s02_080d9677:
 
     # mc "How...how did you...?"
-    mc "어떻게...어떻게 제 번호를...?"
+    mc "어떻게... 어떻게 제 번호를...?"
 
 # game/code/d12/d12s02.rpy:92
 translate korean d12s02_0b4fc516:
@@ -82,13 +82,13 @@ translate korean d12s02_0b4fc516:
 translate korean d12s02_281c8952:
 
     # "Mysterious Woman" "Anyway. You don't have to worry about anything. Well, not if you do as I say."
-    "수수께끼의 여성" "아무튼. 걱정한 건 없어. 음, 내가 말한 대로 하기만 하면 말이지."
+    "수수께끼의 여성" "아무튼. 걱정할 건 없단다. 음, 내가 말한 대로 하기만 하면 말이지."
 
 # game/code/d12/d12s02.rpy:95
 translate korean d12s02_d5023dd3:
 
     # "Mysterious Woman" "Our...\"mutual friend\" gave me your number."
-    "수수께끼의 여성" "우리가...\"서로 아는 친구\"한테 네 번호를 받았거든."
+    "수수께끼의 여성" "우리가... \"서로 아는 친구\"한테 번호를 받았거든."
 
 # game/code/d12/d12s02.rpy:98
 translate korean d12s02_8d8b28fe:
@@ -100,7 +100,7 @@ translate korean d12s02_8d8b28fe:
 translate korean d12s02_12ed7df1:
 
     # "Mysterious Woman" "Anyway. You don't have to worry about anything."
-    "수수께끼의 여성" "아무튼. 걱정할 거 없어."
+    "수수께끼의 여성" "아무튼. 걱정할 거 없단다."
 
 # game/code/d12/d12s02.rpy:101
 translate korean d12s02_a201c0d9:
@@ -184,13 +184,13 @@ translate korean d12s02_0ba37ca7:
 translate korean d12s02_29c12e15:
 
     # hr "Hey [mcname]."
-    hr "야 [mcname]."
+    hr "안녕, [mcname]."
 
 # game/code/d12/d12s02.rpy:143
 translate korean d12s02_6eff7f44:
 
     # mc "Hi Hana."
-    mc "안녕 하나."
+    mc "안녕, 하나."
 
 # game/code/d12/d12s02.rpy:146
 translate korean d12s02_957895e4:
@@ -226,7 +226,7 @@ translate korean d12s02_3e1f15cc:
 translate korean d12s02_64867a1e:
 
     # hr "Same here [mcname]."
-    hr "나도 그래 [mcname]."
+    hr "나도 그래, [mcname]."
 
 # game/code/d12/d12s02.rpy:166
 translate korean d12s02_a525eb25:
@@ -244,7 +244,7 @@ translate korean d12s02_5bd4c850:
 translate korean d12s02_6d4f429e:
 
     # hr "Oh? You seemed confident enough at the party."
-    hr "오? 파티에선 충분히 자신감 있어 보였는 걸."
+    hr "오? 파티에선 충분히 자신감 있어 보였는데."
 
 # game/code/d12/d12s02.rpy:177
 translate korean d12s02_69f02c1b:
@@ -280,7 +280,7 @@ translate korean d12s02_7f8b786c:
 translate korean d12s02_c0636618:
 
     # mc "Um... Excuse me!"
-    mc "음... 여기요!"
+    mc "음... 실례합니다!"
 
 # game/code/d12/d12s02.rpy:194
 translate korean d12s02_ebce6a45:
@@ -352,7 +352,7 @@ translate korean d12s02_1910ad44:
 translate korean d12s02_685d1647:
 
     # hr "Oh, yeah. I heard about that."
-    hr "아, 맞다. 나도 파티 이야긴 들었어."
+    hr "아, 맞다. 나도 파티가 있단 이야긴 들었어."
 
 # game/code/d12/d12s02.rpy:229
 translate korean d12s02_3eb34946:
@@ -394,13 +394,13 @@ translate korean d12s02_fc46eac6_1:
 translate korean d12s02_40d409a4:
 
     # mc "But I'm pretty sure I ran into your sister there. That was pretty fun."
-    mc "그런데 거기서 네 여동생을 만난 거 같아. 꽤 즐거웠어."
+    mc "그런데 거기서 네 여동생을 만난 거 같아. 꽤 즐거운 만남이었지."
 
 # game/code/d12/d12s02.rpy:255
 translate korean d12s02_ba132489:
 
     # mc "But I'm pretty sure I ran into your girlfriend there. That was pretty fun."
-    mc "그런데 거기서 네 여자 친구를 만난 거 같아. 꽤 즐거웠어."
+    mc "그런데 거기서 네 여자 친구를 만난 거 같아. 꽤 즐거운 만남이었지."
 
 # game/code/d12/d12s02.rpy:259
 translate korean d12s02_fd92423d:
@@ -502,7 +502,7 @@ translate korean d12s02_442ffc7f:
 translate korean d12s02_18f3dd9d:
 
     # hr "Nothing super interesting."
-    hr "대단히 흥미로운 일은 없었지."
+    hr "그렇게 엄청 흥미로운 일은 없었지."
 
 # game/code/d12/d12s02.rpy:323
 translate korean d12s02_981aada3:
@@ -520,7 +520,7 @@ translate korean d12s02_52f7b26f:
 translate korean d12s02_7d3293ea:
 
     # mct "New retention challenge. Fuck 20 girls by Sun. If failed, \"cock taken away\"."
-    mct "새로운 유지 도전. 일요일까지 20명이랑 떡 치기. 실패하면, \"자지 뺏겨\"."
+    mct "새로운 유지 도전. 일요일까지 20명이랑 떡 치기. 실패하면, \"자지 털림\"."
 
 # game/code/d12/d12s02.rpy:331
 translate korean d12s02_a16e83c3:
@@ -550,7 +550,7 @@ translate korean d12s02_f1c57b74:
 translate korean d12s02_d0d7aba8:
 
     # hr "Been running around town seeing if there's anything interesting to write about."
-    hr "글감 찾으려고 도시에서 분주하게 돌아다니지."
+    hr "글감 찾으려고 도시를 분주하게 돌아다니지."
 
 # game/code/d12/d12s02.rpy:347
 translate korean d12s02_fa858424:
@@ -724,7 +724,7 @@ translate korean d12s02_ae6e2de3:
 translate korean d12s02_f16c1f6d:
 
     # hr "Mm, smells great. I could eat a moose right about now."
-    hr "으음, 냄새 좋은데. 너무 배 고파서 소라도 다 잡아 먹겠네."
+    hr "으음, 냄새 좋은데. 배고파서 소라도 통째로 잡아먹겠다니까."
 
 # game/code/d12/d12s02.rpy:447
 translate korean d12s02_1d9b9775:
@@ -772,7 +772,7 @@ translate korean d12s02_blitz_a933923a:
 translate korean d12s02_blitz_ce5b5a99:
 
     # hr "What? I don't want the poor janitor here to deal with that."
-    hr "뭐가 문제야? 불쌍한 청소부한테 청소하라고 할 순 없잖아."
+    hr "뭐? 불쌍한 청소부한테 청소하라고 할 순 없잖아."
 
 # game/code/d12/d12s02.rpy:540
 translate korean d12s02_blitz_52c2aab6:
@@ -836,7 +836,7 @@ translate korean strings:
 
     # game/code/d12/d12s02.rpy:295
     old "Give her the password"
-    new "비밀번호를 건네주다"
+    new "비밀번호를 건네준다"
 
     # game/code/d12/d12s02.rpy:384
     old "Do it (spend [d12_cost_of_blitz] points)"

@@ -46,7 +46,7 @@ translate korean d13s09_dbf9d24a:
 translate korean d13s09_7aac410a:
 
     # mc "Yeah... sure!"
-    mc "그렇겠지... 맞아!"
+    mc "그렇겠지... 그래!"
 
 # game/code/d13/d13s09.rpy:54
 translate korean d13s09_e851a065:
@@ -106,19 +106,19 @@ translate korean d13s09_3284d67c:
 translate korean d13s09_b132a1de:
 
     # sy "Is she? Or maybe this is her only choice?"
-    sy "정말 만족해? 아니면 그게 유일한 선택지라서 그런 건 아니고?"
+    sy "앰로즈가 정말 만족해? 그게 유일한 선택지라서 그런 건 아니고?"
 
 # game/code/d13/d13s09.rpy:99
 translate korean d13s09_4ae1d413:
 
     # mc "What do you mean? No one is forcing her!"
-    mc "무슨 소리야? 앰로즈한테 억지로 어떻게 하라고 한 사람 없어!"
+    mc "무슨 뜻이야? 앰로즈한테 억지로 하라고 한 사람 없어!"
 
 # game/code/d13/d13s09.rpy:102
 translate korean d13s09_126992c6:
 
     # sy "But she loves you! Her only option to be with you is to be your sidekick, but maybe she wants something different!"
-    sy "그치만 앰로즈는 널 사랑하잖아! 앰로즈가 너와 같이 있을 수 있는 유일한 방법은 네 졸개가 되는 거였여. 하지만 앰로즈가 원한 건 그게 아니었을 수도 있잖아!"
+    sy "그치만 앰로즈는 널 사랑하잖아! 앰로즈가 너와 같이 있을 수 있는 유일한 방법은 네 졸개가 되는 거였여. 하지만 앰로즈가 원한 건 그게 아닐 수도 있다고!"
 
 # game/code/d13/d13s09.rpy:105
 translate korean d13s09_23ce4815:
@@ -280,7 +280,7 @@ translate korean replay_d13s09_7add0d96:
 translate korean replay_d13s09_44048e90:
 
     # sy "AmRose! She was... I forgot!"
-    sy "앰로즈! 오기로 했는데... 까먹었네!"
+    sy "앰로즈! 오기로 했는데... 까먹었어!"
 
 # game/code/d13/d13s09.rpy:311
 translate korean replay_d13s09_716b85ff:
@@ -304,7 +304,7 @@ translate korean replay_d13s09_8507bd45:
 translate korean replay_d13s09_d0f077f7:
 
     # mc "Hey AmRose!"
-    mc "안녕 앰로즈!"
+    mc "안녕, 앰로즈!"
 
 # game/code/d13/d13s09.rpy:337
 translate korean replay_d13s09_5c3444f0:
@@ -370,7 +370,7 @@ translate korean replay_d13s09_52e44460:
 translate korean replay_d13s09_2363ba5b:
 
     # mc "Oh right, she was shouting something about her bathrobe right before I heard you knocking..."
-    mc "아 맞다, 네가 오기 전에 목욕 타월 이야길 하던데..."
+    mc "아, 맞다. 네가 오기 전에 목욕 타월 이야길 하던데..."
 
 # game/code/d13/d13s09.rpy:375
 translate korean replay_d13s09_db74168a:
