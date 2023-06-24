@@ -88,7 +88,7 @@ translate korean replay_d13s02_374f7cc5:
 translate korean replay_d13s02_d8032b8b:
 
     # mk "... Yeah. This is kinda like that."
-    mk "... 응. 이것도 그런 거야."
+    mk "... 응. 이 일도 그런 거야."
 
 # game/code/d13/extended/d13s02.rpy:85
 translate korean replay_d13s02_ba1c7c77:
@@ -166,7 +166,7 @@ translate korean replay_d13s02_6c865abc:
 translate korean replay_d13s02_d55d1473:
 
     # mk "Yeah. I had a little trouble with... ya'know, my teeth got in the way."
-    mk "응. 좀 어렵네... 알겠지만, 이 쓰는 게 익숙하지가 않아서."
+    mk "응. 좀 어렵네... 알겠지만, 이 쓰는 데 익숙하지가 않아서."
 
 # game/code/d13/extended/d13s02.rpy:125
 translate korean replay_d13s02_38d0c432:

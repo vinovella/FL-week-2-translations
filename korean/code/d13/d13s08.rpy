@@ -40,7 +40,7 @@ translate korean d13s08_2bca3cee:
 translate korean d13s08_02077cfb:
 
     # mc "Thinking about me? In what way?"
-    mc "제 생각이 났어요? 어떤 생각?"
+    mc "제 생각 했어요? 어떤 생각?"
 
 # game/code/d13/d13s08.rpy:87
 translate korean d13s08_2a611ffd:
@@ -106,7 +106,7 @@ translate korean d13s08_9c808085:
 translate korean d13s08_0e942cae:
 
     # vw "You remember that place above that nice French boutique?{w} You met Harris there."
-    vw "멋진 프랑스 부티크 위에 있는 곳 기억하니?{w} 거기서 해리스랑 만났잖아."
+    vw "멋진 프랑스 부티크 위에 있는 곳 기억하지?{w} 거기서 해리스랑 만났잖아."
 
 # game/code/d13/d13s08.rpy:119
 translate korean d13s08_33ed6f58:
@@ -280,7 +280,7 @@ translate korean replay_d13s08_9ce8e223:
 translate korean replay_d13s08_9ed43ee7:
 
     # mc "Exactly what you asked."
-    mc "바란 일을 하는 거죠."
+    mc "바라셨던 일을 하는 거죠."
 
 # game/code/d13/d13s08.rpy:264
 translate korean replay_d13s08_4c40fc1f:
@@ -466,13 +466,13 @@ translate korean replay_d13s08_8353165b:
 translate korean replay_d13s08_ab277d43:
 
     # vw "You're too damn slick for your own good, young man."
-    vw "너무 잘난 척하는 거 아냐, 이 청년아."
+    vw "이 청년 보게. 너무 잘난 척하는 거 아니니."
 
 # game/code/d13/d13s08.rpy:479
 translate korean replay_d13s08_1b18d17e:
 
     # vw "I need to clean up for a bit. I will be back in a moment."
-    vw "난 좀 정리 좀 해야겠다. 금방 돌아올게."
+    vw "난 정리 좀 해야겠다. 금방 돌아올게."
 
 # game/code/d13/d13s08.rpy:482
 translate korean replay_d13s08_0639cb8a:
@@ -526,19 +526,19 @@ translate korean d13s08_call_stacy_f5d64e17:
 translate korean d13s08_call_stacy_5af4532a:
 
     # sy "Hey Jimbo! If you're not dead come over to my place tonight."
-    sy "야 왕바우! 안 뒈졌으면 오늘 밤엔 우리 집에 와라."
+    sy "야, 왕바우! 안 뒈졌으면 오늘 밤엔 우리 집에 와라."
 
 # game/code/d13/d13s08.rpy:548
 translate korean d13s08_call_stacy_e4771dbb:
 
     # sy "Am and I are getting started first thing tomorrow on the renos and you can help as well."
-    sy "앰이랑 내가 내일 아침 일어나자마자 집 개조할 거야. 그러니까 너도 도와야지."
+    sy "앰이랑 내일 아침 일어나자마자 집 개조할 거야. 그러니까 너도 도와야지."
 
 # game/code/d13/d13s08.rpy:550
 translate korean d13s08_call_stacy_6b8bb658:
 
     # sy "Better be there! Byeeee xoxo"
-    sy "오는 게 좋을 거야! 안녕 쪽쪽"
+    sy "오는 게 좋을 거야! 이만 쪽쪽"
 
 translate korean strings:
 
