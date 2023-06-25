@@ -34,7 +34,7 @@ translate russian d14s08_c6566c5b:
 translate russian d14s08_05876913:
 
     # mct "I've never met a woman who loves the water like she does."
-    mct "Я никого не встречал кого-либо, кто так любит воду."
+    mct "Я никогда не встречал женщину, которая бы так любила воду, как она."
 
 # game/code/d14/extended/d14s08.rpy:68
 translate russian d14s08_c82567ca:
@@ -316,7 +316,7 @@ translate russian d14s08_6bdbf871:
 translate russian d14s08_a7ad44a7:
 
     # pw "All that stupid old shit. Love letters and sonnets. Sharing a soda pop down at the 1950's diner...with both of us."
-    pw "Все это глупое старое дерьмо. Любовные письма и сонеты. Угощаться газировкой в закусочной 1950-х годов... с нами обоими."
+    pw "Все это глупое старое дерьмо. Любовные письма и сонеты. Угощаться газировкой в закусочной 1950-х годов... с нами обеими."
 
 # game/code/d14/extended/d14s08.rpy:196
 translate russian d14s08_1910a953:
@@ -358,7 +358,7 @@ translate russian d14s08_6139bb8b:
 translate russian d14s08_fa091ead:
 
     # mc "I was just helping you at first, sure, but I've realized that I have some feelings for you both."
-    mc "Сначала я просто помогал тебе, конечно, но потом я понял, что у меня тоже есть некоторые чувства к вам обоим."
+    mc "Сначала я просто помогал тебе, конечно, но потом я понял, что у меня тоже есть некоторые чувства к вам обеим."
 
 # game/code/d14/extended/d14s08.rpy:215
 translate russian d14s08_86087b74:
@@ -388,7 +388,7 @@ translate russian d14s08_cdbfabd7:
 translate russian d14s08_a562b012:
 
     # pw "Oh yeah. When you had me topless in your dorm - soaking wet at the thought that anyone could walk in the door."
-    pw "Ах да. Когда ты заставил меня раздется топлесс в твоей комнате общежития - мокрую от мысли, что кто-то может неожиданно войти в дверь."
+    pw "Ах да. Когда ты заставил меня раздеться топлесс в твоей комнате общежития - мокрую от мысли, что кто-то может неожиданно войти в дверь."
 
 # game/code/d14/extended/d14s08.rpy:227
 translate russian d14s08_f36e5aec:

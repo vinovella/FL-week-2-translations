@@ -502,7 +502,7 @@ translate russian d12s01_ce377403:
 translate russian d12s01_a5c7a3de:
 
     # arj "More than I expected, but still a long way from the twenty we need."
-    arj "Больше, чем я ожидала, но все еще далеко до двадцати, которые нам нужно."
+    arj "Больше, чем я ожидала, но все еще далеко от необходимых нам двадцати."
 
 # game/code/d12/d12s01.rpy:288
 translate russian d12s01_93314b13:

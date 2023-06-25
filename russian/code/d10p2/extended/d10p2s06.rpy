@@ -70,7 +70,7 @@ translate russian d10p2s06_7624e59d:
 translate russian d10p2s06_217cc636:
 
     # dd "Come over to the garden and I'll explain the game."
-    dd "Пойдем в сад, и я объясню тебе суть игры."
+    dd "Пройдем в сад, и я объясню суть игры."
 
 # game/code/d10p2/extended/d10p2s06.rpy:66
 translate russian d10p2s06_84ad8513:
@@ -382,7 +382,7 @@ translate russian replay_d10p2s06_cfdb0c74:
 translate russian replay_d10p2s06_d8e248f3:
 
     # dd "And now, as Champion Equine, URLittlePony gets to drink out of the legendary Trough of Ultimate Sexual Deviancy, and be truly known through out the lands as the one and only Champion Equine."
-    dd "И теперь, как лошадь-чемпион, ТвояМаленькаяПони получает возможность выпить из легендарного Корыта Максимальной Сексуальной Девиантности, и будешь известной во всех землях как единственная и неповторимая лошадь-чемпион."
+    dd "И теперь, как лошадь-чемпион, ТвояМаленькаяПони получает возможность выпить из легендарного Корыта Максимальной Сексуальной Девиантности, и будет известной во всех землях как единственная и неповторимая лошадь-чемпион."
 
 # game/code/d10p2/extended/d10p2s06.rpy:372
 translate russian replay_d10p2s06_2794fd31:

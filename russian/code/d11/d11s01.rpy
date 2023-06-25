@@ -376,7 +376,7 @@ translate russian d11s01_94c4ba03:
 translate russian d11s01_d83b4b7b:
 
     # flr "Your next task is to help [mclogin] to fulfill his task."
-    flr "Ваша следующее задание - помочь выполнить задачу персоне известному как [mclogin]."
+    flr "Твое следующее задание - помочь [mclogin] выполнить его задание."
 
 # game/code/d11/d11s01.rpy:203
 translate russian d11s01_c07210b1:

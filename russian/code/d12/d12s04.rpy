@@ -64,7 +64,7 @@ translate russian d12s04_abd362e3:
 translate russian d12s04_65ada01a:
 
     # op "No, it shouldn't."
-    op "Нет, она уже скоро должна вернутся."
+    op "Нет, она уже скоро должна вернуться."
 
 # game/code/d12/d12s04.rpy:77
 translate russian d12s04_e1decfed:

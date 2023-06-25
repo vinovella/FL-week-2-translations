@@ -88,7 +88,7 @@ translate russian d08s11_1c9f4504:
 translate russian d08s11_49b93e5e:
 
     # peon "Well, you see Mister Moneybags up there on the witness stand?"
-    peon "Ну, видишь Мистера Денежного Мешка на свидетельской трибуне?"
+    peon "Ну, видишь Мистера Денежного Мешка на месте свидетеля?"
 
 # game/code/d08/d08s11.rpy:50
 translate russian d08s11_f800bed0:
@@ -394,7 +394,7 @@ translate russian d08s11_84f38f06:
 translate russian d08s11_971b8c8b:
 
     # jdg "You will respond in a calm manner to the defense counsel's questions, just as the defendant responded calmly to your questions earlier today."
-    jdg "Вы должны спокойно отвечать на вопросы защитника, так же, как недавно обвиняемый спокойно отвечал на вопросы."
+    jdg "Вы должны спокойно отвечать на вопросы защитника, так же, как недавно обвиняемый спокойно отвечал на ваши вопросы."
 
 # game/code/d08/d08s11.rpy:182
 translate russian d08s11_0a606d2a:

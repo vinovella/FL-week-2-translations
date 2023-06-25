@@ -346,7 +346,7 @@ translate russian d14s02_f052696e:
 translate russian d14s02_10f8986b:
 
     # sy "You wasted time {i}and{/i} you failed to show her a good time. I expect more from you, come on now."
-    sy "Ты потратил время впустую и не смог обеспечить ей хорошее времяпрепровождение. Я ждала от тебя большего."
+    sy "Ты потратил время впустую {i}и{/i} не смог обеспечить ей хорошее времяпрепровождение. Я ждала от тебя большего."
 
 # game/code/d14/d14s02.rpy:332
 translate russian d14s02_9240574e:

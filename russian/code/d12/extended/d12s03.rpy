@@ -280,7 +280,7 @@ translate russian d12s03_336af094:
 translate russian d12s03_a4a7a98d:
 
     # mc "I'm all ears."
-    mc "Я весь внимание."
+    mc "Я весь во внимании."
 
 # game/code/d12/extended/d12s03.rpy:187
 translate russian d12s03_85cc49f1:

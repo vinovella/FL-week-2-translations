@@ -256,7 +256,7 @@ translate russian replay_d08s04_240f244d:
 translate russian replay_d08s04_1725d810:
 
     # mesfl "Am I allowed to get a little help?"
-    mesfl "Можно мне немного помочь?"
+    mesfl "Могу ли я получить небольшую помощь?"
 
 # game/code/d08/d08s04.rpy:167
 translate russian replay_d08s04_5af23fe7:
@@ -304,13 +304,13 @@ translate russian replay_d08s04_5b956149:
 translate russian replay_d08s04_d3f5a784:
 
     # mesfl "Which part is more exciting for you?"
-    mesfl "Какая часть тебя больше волнует?"
+    mesfl "Какая часть тебя больше возбуждает?"
 
 # game/code/d08/d08s04.rpy:198
 translate russian replay_d08s04_aab11994:
 
     # mesfl "That I'm undressed or that I'm about to pee in front of you?"
-    mesfl "Что я раздета или что собираюсь пописать перед тобой?"
+    mesfl "Что я раздета или то, что собираюсь помочиться у тебя на глазах?"
 
 # game/code/d08/d08s04.rpy:200
 translate russian replay_d08s04_b72b9512:
@@ -358,7 +358,7 @@ translate russian replay_d08s04_be198482:
 translate russian replay_d08s04_c97e5574:
 
     # mc "Alright. That's your water bottle. If it gets empty, just refill it."
-    mc "Хорошо. Это будет твоя бутылка с питьём. Если она опустеет, просто наполни его снова."
+    mc "Хорошо. Это будет твоя бутылка с питьём. Если она опустеет, просто наполни ее снова."
 
 # game/code/d08/d08s04.rpy:256
 translate russian replay_d08s04_5ef4cd65:
@@ -400,7 +400,7 @@ translate russian replay_d08s04_02f0e7bc:
 translate russian replay_d08s04_119a9262:
 
     # mc "Yep. Remember that it is all about how you are feeling when you do it."
-    mc "Ага. Помни, что все дело в том, как ты себя чувствуешь, когда делаешь это."
+    mc "Да. Запомни, что всё зависит от твоих ощущений, когда ты это делаешь."
 
 # game/code/d08/d08s04.rpy:278
 translate russian replay_d08s04_c3a6ceba:
@@ -454,7 +454,7 @@ translate russian replay_d08s04_a39cf2f6:
 translate russian replay_d08s04_8a51d91e:
 
     # mc "Well, that's why I'm here. If we only did what you expected, you wouldn't need my help."
-    mc "Ну, поэтому я здесь. Если бы мы делали только то, чего ты ожидаешь, то тебе бы не понадобилась моя помощь."
+    mc "Ну, поэтому я здесь. Если б мы делали только то, что ты ожидаешь, тебе бы не потребовалась моя помощь."
 
 # game/code/d08/d08s04.rpy:298
 translate russian replay_d08s04_5e81a96a:
@@ -478,7 +478,7 @@ translate russian replay_d08s04_ab0c83ee:
 translate russian replay_d08s04_82e34cfd:
 
     # mc "I want photos. Show me that you're drinking regularly and staying healthy."
-    mc "Мне нужны фотографии. Показывай мне, что ты пьёшь регулярно и остаёшься здоровой."
+    mc "Мне нужны фотографии. Покажи мне, что ты регулярно пьешь и следишь за своим здоровьем."
 
 # game/code/d08/d08s04.rpy:307
 translate russian replay_d08s04_8c296cef:

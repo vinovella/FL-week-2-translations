@@ -160,7 +160,7 @@ translate russian d10p2s04_dd_4c6b116b:
 translate russian d10p2s04_dd_e5c16aba:
 
     # dd "So diving headfirst into this {i}probably{/i} isn't the greatest idea I've had."
-    dd "Так что нырнуть с головой во всё это, {i}наверное{/i}, не самая лучшая идея, которая у меня только могла появится."
+    dd "Так что нырять с головой в это {i}возможно{/i} не самая лучшая идея, которая у меня была."
 
 # game/code/d10p2/d10p2s04-dd.rpy:214
 translate russian d10p2s04_dd_47ce2cb9:

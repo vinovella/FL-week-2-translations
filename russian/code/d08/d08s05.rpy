@@ -178,7 +178,7 @@ translate russian d08s05_dd_7cf82f6d:
 translate russian d08s05_dd_cf7150be:
 
     # dd "Oh! I didn't mean to embarrass you in front of your special lady friend."
-    dd "Ох! Я не хотела ставить тебя в неловкое положение перед твоей лучшей подругой."
+    dd "Ох! Я не хотела смутить тебя перед твоей особенной подругой."
 
 # game/code/d08/d08s05.rpy:97
 translate russian d08s05_dd_e9af3fbe:
@@ -322,7 +322,7 @@ translate russian d08s05_dd_ff251ef7:
 translate russian d08s05_dd_3859fa41:
 
     # dd "Meanwhile I was there, friends with both of them, and just like \"Ugh, you're as bad as Batman and the Joker. Just fuck already!\""
-    dd "Я была там, дружила с ними обоими, и это было похоже на: \"Тьфу, ты такая же плохая, как Бэтмен и Джокер.\""
+    dd "В то время я была рядом, дружила с ними обеими, и просто думала: \"Фу, вы такие же плохие, как Бэтмен и Джокер. Просто потрахайтесь уже!\""
 
 # game/code/d08/d08s05.rpy:151
 translate russian d08s05_dd_24fb4913:

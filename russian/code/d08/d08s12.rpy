@@ -268,7 +268,7 @@ translate russian d08s12_447601f0:
 translate russian d08s12_aa2dc97a:
 
     # mh "*Moans* It just might when you touch it."
-    mh "*Стонет* Это случиться, когда ты прикоснёшься к нему."
+    mh "*Стонет* Это может случиться, когда ты прикасаешься к нему."
 
 # game/code/d08/d08s12.rpy:203
 translate russian d08s12_pre_mc_action_49089914:

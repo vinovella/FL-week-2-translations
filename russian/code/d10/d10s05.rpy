@@ -346,7 +346,7 @@ translate russian d10s05_7cf35f29:
 translate russian d10s05_34219f28:
 
     # mc "There has to be a middle ground between whatever this is and a mankini."
-    mc "Должна же быть что-то среднее между этим и мужским бикини."
+    mc "Должно же быть что-то среднее между этим и мужским бикини."
 
 # game/code/d10/d10s05.rpy:140
 translate russian d10s05_d7c2e112:
@@ -1228,7 +1228,7 @@ translate russian d10s05_replay_2d15a8a8:
 translate russian d10s05_replay_d279fb9c:
 
     # mc "This is very unfair, y'know. I'm sure I'd find some very interesting stuff if I had a look at your porn collections."
-    mc "Это очень несправедливо, знаешь ли. Я уверен, что нашел бы кое-что очень интересное, если бы взглянул на твою коллекции порно."
+    mc "Это очень несправедливо, знаешь ли. Я уверен, что нашел бы кое-что очень интересное, если бы взглянул на твою коллекцию порно."
 
 # game/code/d10/d10s05.rpy:519
 translate russian d10s05_replay_14bb84b3:

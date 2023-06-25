@@ -316,7 +316,7 @@ translate russian d14s03_deb80f57:
 translate russian d14s03_d23931ce:
 
     # sy "We tried to look up any info about the company, but there's literally nothing about it that we can find."
-    sy "Мы попытались найти любую информацию о этой компании, но о ней буквально нет ничего, что нам удалось бы узнать."
+    sy "Мы попытались найти любую информацию об этой компании, но о ней буквально нет ничего, что нам удалось бы узнать."
 
 # game/code/d14/d14s03.rpy:208
 translate russian d14s03_33a32690:
@@ -1222,7 +1222,7 @@ translate russian d14s03_e843f07b:
 translate russian d14s03_329188e9:
 
     # sy "Hey, do you remember that escort that you had to-"
-    sy "Эй, ты помнишь ту эскортницу, с который тебе пришлось..."
+    sy "Эй, ты помнишь ту эскортницу, с которой тебе пришлось..."
 
 # game/code/d14/d14s03.rpy:625
 translate russian d14s03_f49fff8f:
@@ -1446,7 +1446,7 @@ translate russian d14s03_44bbf952:
 translate russian d14s03_ee15e4de:
 
     # sy "Why are you looking at me like that? This secret, undercover plotting stuff is fun!"
-    sy "Почему ты так на меня смотришь? Тайные, закулисные заговоры - это весело!"
+    sy "Почему ты так на меня смотришь? Тайны, закулисные заговоры - это весело!"
 
 # game/code/d14/d14s03.rpy:663
 translate russian d14s03_91070ee1:

@@ -238,13 +238,13 @@ translate russian replay_d08s09_65c7376f:
 translate russian replay_d08s09_2fb33105:
 
     # jf "Not really... I undercharged on this one. But that is my fault as I wasn't familiar what all the costs would be."
-    jf "Не совсем... Я снизила цену на этот раз. Но это моя вина, так как я не знала, каковы будут все расходы."
+    jf "Не совсем... Я неправильно рассчитала цену, так как я не знала, во сколько обойдутся все затраты."
 
 # game/code/d08/extended/d08s09.rpy:230
 translate russian replay_d08s09_337436e1:
 
     # mc "Undercharged? How much did all the stuff for it cost?"
-    mc "Снизила цену? Сколько же все это стоило?"
+    mc "Цена занижена? Во сколько обошлось все необходимое для него?"
 
 # game/code/d08/extended/d08s09.rpy:231
 translate russian replay_d08s09_e477c1b6:
@@ -256,7 +256,7 @@ translate russian replay_d08s09_e477c1b6:
 translate russian replay_d08s09_154edb50:
 
     # jf "I probably have another $500 in materials and hardware. The light sword is from a specialty maker on the east coast. Charges $750 for a light up sword with sound chip. $300 for other materials."
-    jf "У меня ушло еще $500 на материалы и оборудование. Световой меч от специализированного производителя с восточного побережья. Цена составила $750 за световой меч со звуковым чипом. Плюс ещё $300 за другие расходы."
+    jf "У меня ушло еще $500 на материалы и оборудование. Световой меч от специализированного производителя с восточного побережья. Цена составила $750 за световой меч со звуковым чипом. Плюс ещё $300 за другие материалы."
 
 # game/code/d08/extended/d08s09.rpy:235
 translate russian replay_d08s09_5393e073:
@@ -364,7 +364,7 @@ translate russian replay_d08s09_c8f95901:
 translate russian replay_d08s09_8456a741:
 
     # mc "The business side of my brain is kicking into overdrive.{w} Are you sure he is into this costume kink thing? Smelling you in the suit and all that shit?"
-    mc "Деловая часть моего мозга работает в усиленном режиме.{w} Ты уверена, что ему нравится эти штуки с извращениями костюма? Нюхать его и все такое дерьмо?"
+    mc "Деловая часть моего мозга работает в усиленном режиме.{w} Ты уверена, что ему нравится это костюмированное извращение? Чувствовать твой запах от костюма и все такое?"
 
 # game/code/d08/extended/d08s09.rpy:267
 translate russian replay_d08s09_2ab9140f:
@@ -436,7 +436,7 @@ translate russian replay_d08s09_0d64cd69:
 translate russian replay_d08s09_c3f00249:
 
     # jf "This is my business, my reputation. I can't let you fuck it up in an instant."
-    jf "Это моя специальность, моя репутация. Я не могу позволить себе все испортить."
+    jf "Это моя специальность, моя репутация. Я не могу позволить тебе все испортить."
 
 # game/code/d08/extended/d08s09.rpy:288
 translate russian replay_d08s09_d3d62a4c:
@@ -610,7 +610,7 @@ translate russian replay_d08s09_c174c775:
 translate russian replay_d08s09_9d368df7:
 
     # mc "That means, he is in it for AT LEAST $1000. Otherwise he would have said, \"Just ship it.\", since it is already paid for."
-    mc "Это означает, что он уже согласен по МЕНЬШЕЙ МЕРЕ на $1000. В противном случае он бы просто написал: \"Просто отправь костюм.\", так как за него уже оплачено."
+    mc "Это означает, что он уже согласен по МЕНЬШЕЙ МЕРЕ на $1000. В противном случае он бы просто написал: \"Просто отправь костюм.\", так как он уже оплачен."
 
 # game/code/d08/extended/d08s09.rpy:352
 translate russian replay_d08s09_dffd9cd1:

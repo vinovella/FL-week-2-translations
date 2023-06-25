@@ -46,7 +46,7 @@ translate russian d13s08_02077cfb:
 translate russian d13s08_2a611ffd:
 
     # vw "You know in what way."
-    vw "Ты знаешь, в каким смысле."
+    vw "Ты знаешь, в каком смысле."
 
 # game/code/d13/d13s08.rpy:89
 translate russian d13s08_22fff191:

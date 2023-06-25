@@ -160,7 +160,7 @@ translate russian d10p1s03_f9c63d43:
 translate russian d10p1s03_13e47b11:
 
     # mh "My half-starving collage self would probably have a heart attack if she heard that I spent that much on a dress for a party."
-    mh "Моя полуголодная колледж-ная юность, наверное, получила бы сердечный приступ, если бы узнала, что я потратила столько денег на платье для вечеринки."
+    mh "Моя полуголодная колледжная юность, наверное, получила бы сердечный приступ, если бы узнала, что я потратила столько денег на платье для вечеринки."
 
 # game/code/d10p1/d10p1s03.rpy:92
 translate russian d10p1s03_a5df7ecc:
@@ -502,7 +502,7 @@ translate russian d10p1s03_2062984f:
 translate russian d10p1s03_a7cacf61:
 
     # mc "Yeah... Tell me about it. Who'd've thought that skimpy clothes wouldn't be very insulating?"
-    mc "Да... Действительно. Кто бы мог подумать, что эта скудная одежда не защищает от от холода?"
+    mc "Да... Действительно. Кто бы мог подумать, что эта скудная одежда не защищает от холода?"
 
 # game/code/d10p1/d10p1s03.rpy:243
 translate russian d10p1s03_bb2cd00f:

@@ -34,7 +34,7 @@ translate russian d11s02_b00602d2:
 translate russian d11s02_351d3e61:
 
     # arj "Sounds good. I'll catch up with you and Stacy at lunch."
-    arj "Хорошо. Я встречусь с тобой и Стейси на ланче."
+    arj "Хорошо. Я встречусь с тобой и Стейси за ланчем."
 
 # game/code/d11/d11s02.rpy:45
 translate russian d11s02_5923cb9c:
@@ -940,7 +940,7 @@ translate russian d11s02_a86d1ae7:
 translate russian d11s02_f810a0b4:
 
     # mc "It fed into your competitive nature?"
-    mc "Это подпитывало вашу конкурентную натуру?"
+    mc "Это подпитывало твою конкурентную натуру?"
 
 # game/code/d11/d11s02.rpy:423
 translate russian d11s02_50b652c8:
@@ -1072,7 +1072,7 @@ translate russian d11s02_dd16e008:
 translate russian d11s02_8579ef0c:
 
     # mes "Well, yeah. It's what I deserve. {w}He was a weak piece of shit who kept cheating on me and finally ended hiding behind a phone without even using his voice."
-    mes "Ну, да. Это то, что я заслуживаю. {w}Он был слабым куском дерьма, который продолжал мне изменять и в конце концов спрятался за смской, не пожалав даже использовать свой голос."
+    mes "Ну, да. Это то, что я заслуживаю. {w}Он был куском дерьма, который продолжал мне изменять и в конце концов спрятался за смской."
 
 # game/code/d11/d11s02.rpy:470
 translate russian d11s02_9ece899b:

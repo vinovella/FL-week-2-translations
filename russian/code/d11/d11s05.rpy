@@ -34,7 +34,7 @@ translate russian d11s05_75470d74:
 translate russian d11s05_1318af3e:
 
     # mct "Mixen? Dixen? Pixen? God, I'd lose to a Goldfish on a memory test."
-    mct "Миксен? Диксен? Пиксен? Боже, я бы проиграл золотой рыбке на тесте на память."
+    mct "Миксен? Диксен? Пиксен? Боже, я бы проиграл золотой рыбке в тесте на память."
 
 # game/code/d11/d11s05.rpy:55
 translate russian d11s05_ba2a0138:

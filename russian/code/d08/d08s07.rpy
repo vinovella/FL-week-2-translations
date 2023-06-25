@@ -580,7 +580,7 @@ translate russian d08s07_dbc36167:
 translate russian d08s07_4409bd16:
 
     # mct "Oh there is a message from Lyssa."
-    mct "А вот и сообщение из Лиссы."
+    mct "А вот и сообщение от Лиссы."
 
 # game/code/d08/d08s07.rpy:249
 translate russian d08s07_22bf109b:
@@ -694,7 +694,7 @@ translate russian d08s07_99ee4460:
 translate russian d08s07_3dd274bc:
 
     # mes "Yeah. Points to [mcname] for trying to distract me."
-    mes "Да. Поблагодари [mcname] за попытку отвлечь меня."
+    mes "Да. Поблагодари [mcname]а за попытку отвлечь меня."
 
 # game/code/d08/d08s07.rpy:285
 translate russian d08s07_a794c97f:

@@ -958,7 +958,7 @@ translate russian replay_d10s04_47de0419:
 translate russian replay_d10s04_fa906d30:
 
     # mc "So, we just have to make sure we don't take so long they wonder what happened to us."
-    mc "Так что нам просто нужно постараться не потратить на это много времени, что они не заметили."
+    mc "Так что нам нужно следить за временем, чтобы они не задались целью проверить, что с нами случилось."
 
 # game/code/d10/d10s04.rpy:482
 translate russian replay_d10s04_87c10b71:
