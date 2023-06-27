@@ -10,7 +10,7 @@ translate korean d14s01_09b2c302:
 translate korean d14s01_ef9e584d:
 
     # mct "Dammit, why am I awake? It's the middle of the damn night."
-    mct "망할, 왜 지금 깨는 거야? 염병 아직 한밤중이구만."
+    mct "망할, 왜 지금 깬 거야? 염병 아직 한밤중이구만."
 
 # game/code/d14/d14s01.rpy:20
 translate korean d14s01_9ba0eafc:
@@ -22,7 +22,7 @@ translate korean d14s01_9ba0eafc:
 translate korean d14s01_18478012:
 
     # mct "WHAT'S GOING ON?! {w}WHERE ARE THE GIRLS?! {w}WHY CAN'T I MOVE?!"
-    mct "무슨 일이 일어난 거야?! {w}얘들은 어디에 있고?! {w}왜 움직일 수가 없냐고?!"
+    mct "무슨 일이 일어난 거야?! {w}애들은 어디에 있고?! {w}왜 움직일 수가 없냐고?!"
 
 # game/code/d14/d14s01.rpy:24
 translate korean d14s01_7f38c856:
@@ -46,25 +46,25 @@ translate korean d14s01_2847dbc0:
 translate korean d14s01_ecc1ea1d:
 
     # mct "Otherwise we'd run in our sleep like dogs."
-    mct "이런 화학 작용이 없으면 개처럼 자다가 뛰어다니는 거라구."
+    mct "이런 화학 작용이 없으면 자다가 뛰어다니는 거라구. 개처럼 말이지."
 
 # game/code/d14/d14s01.rpy:29
 translate korean d14s01_8226a6cb:
 
     # mct "Still, where are Stacy and AmRose? {w}This is Stacy's bed; we were all sleeping together."
-    mct "그건 그렇고, 스테이시랑 앰로즈는 어디에 있는 거야? {w}여긴 스테이시 침대가 맞아. 그리고 우린 함께 침대에 누웠어."
+    mct "그건 그렇고, 스테이시랑 앰로즈는 어디에 있는 거야? {w}내가 누워 있는 건 스테이시 침대가 맞아. 우리 모두 이 침대에 누웠어."
 
 # game/code/d14/d14s01.rpy:34
 translate korean d14s01_136fdba2:
 
     # mct "Damn this is annoying. I've read this feels like it goes on for hours, but people who could see clocks noticed it only lasted a minute or two."
-    mct "망할 짜증나네. 그래 이것도 읽은 적 있어. 시계를 보면 일이 분 흐는 건데 체감상으론 몇 시간 지나는 것처럼 느껴지는 거야."
+    mct "망할 짜증나네. 그래, 이것도 읽어 본 적 있어. 시계를 보면 일이 분 흐른 건데, 체감상으론 몇 시간 지나는 것처럼 느껴지는 거야."
 
 # game/code/d14/d14s01.rpy:35
 translate korean d14s01_cbbc0dd4:
 
     # mct "People used to freak out feeling like there was someone invisible holding them down. That's house Succubi and-"
-    mct "그런 감각 때문에 사람들이 가위눌린다고 놀랐던 거야. 귀신이니 서큐버스니 하는 것도-"
+    mct "그런 감각 때문에 사람들이 가위눌린다고 놀랐던 거지. 귀신이니 서큐버스니 하는 것도-"
 
 # game/code/d14/d14s01.rpy:39
 translate korean d14s01_848ed3ac:
@@ -76,7 +76,7 @@ translate korean d14s01_848ed3ac:
 translate korean d14s01_f2b93e45:
 
     # mct "What the fuck is going on?! {w}GOD DAMMIT LET ME TURN MY HEAD!!!"
-    mct "씨발 무슨 일이 일어나는 거냐고?! {w}좆 같은 고개 좀 돌려!!!"
+    mct "씨발 무슨 일이 일어나는 거냐고?! {w}머리야 좆 같은 고개 좀 돌려!!!"
 
 # game/code/d14/d14s01.rpy:45
 translate korean d14s01_da9984d3:
@@ -166,7 +166,7 @@ translate korean d14s01_a8ab4edb:
 translate korean d14s01_e8e95017:
 
     # sb "Even if you somehow fucked 50 people, there would be some technicality to make sure you lose."
-    sb "네가 50명을 따 먹든, 넌 확실히 지게 되어 있다니까."
+    sb "네가 50명을 따먹든 몇 명을 따먹든, 넌 확실히 지게 되어 있다니까."
 
 # game/code/d14/d14s01.rpy:82
 translate korean d14s01_29f71f58:
@@ -178,7 +178,7 @@ translate korean d14s01_29f71f58:
 translate korean d14s01_80edfd68:
 
     # sb "Trust me, you could turn your ass over to be used by every Uni sports team and it wouldn't count."
-    sb "날 믿어, 대학교 운동선수들 전부한테 네 엉덩이를 대줘도 지게 되어 있단 말야."
+    sb "날 믿어, 대학교 운동선수들 전부한테 네 엉덩이를 대 줘도 지게 되어 있단 말야."
 
 # game/code/d14/d14s01.rpy:89
 translate korean d14s01_9fee6a9c:
@@ -256,13 +256,13 @@ translate korean d14s01_ae9021c3:
 translate korean d14s01_786a2c17:
 
     # sb "There's one way to prevent that silly app from taking your prick away from you."
-    sb "그 바보 같은 게임이 네 좆을 가져가게 못하는 방법이지."
+    sb "그 바보 같은 게임이 네 좆을 가져가지 못하는 방법이지."
 
 # game/code/d14/d14s01.rpy:128
 translate korean d14s01_f413f5fb:
 
     # sb "I Will Take It First."
-    sb "내가 먼저 가져가는 거."
+    sb "내가 먼저 가져가는 거야."
 
 # game/code/d14/d14s01.rpy:130
 translate korean d14s01_2f581f36:
