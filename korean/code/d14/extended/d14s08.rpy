@@ -184,7 +184,7 @@ translate korean d14s08_fa4dc77f:
 translate korean d14s08_96c9484f:
 
     # mc "I think she really likes you, and she doesn't seem to have a problem being on display and fucking with all those windows in her café."
-    mc "노라는 널 정말 좋아하는 것 같아. 내보여도 전혀 문제 없는 것 같던데. 그리고 자기 가게 창은 가리지도 않고 해댔잖아."
+    mc "노라는 널 정말 좋아하는 것 같아. 내보여도 전혀 문제 없는 것 같던데. 그리고 자기 가게 창을 가리지도 않고 해댔잖아."
 
 # game/code/d14/extended/d14s08.rpy:153
 translate korean d14s08_b46d8a6b:
@@ -376,7 +376,7 @@ translate korean d14s08_65d3d366:
 translate korean d14s08_0f4bff77:
 
     # mc "I guess it happened when I decided to blackmail you."
-    mc "넌 협박하겠다고 마음 먹으면서 생긴 감정 같아."
+    mc "널 협박하겠다고 마음 먹으면서 생긴 감정 같아."
 
 # game/code/d14/extended/d14s08.rpy:234
 translate korean d14s08_41565680:
@@ -400,7 +400,7 @@ translate korean d14s08_cdbfabd7:
 translate korean d14s08_a562b012:
 
     # pw "Oh yeah. When you had me topless in your dorm - soaking wet at the thought that anyone could walk in the door."
-    pw "아 맞다. 네 기숙사 방에서 내가 웃통을 깠을 때 말이지. 그때 누가 들어오면 어떨까 하는 생각에 푹 젖었는데."
+    pw "아, 맞다. 네 기숙사 방에서 내가 웃통을 깠을 때 말이지. 그때 누가 들어오면 어떨까 하는 생각에 푹 젖었는데."
 
 # game/code/d14/extended/d14s08.rpy:244
 translate korean d14s08_f36e5aec:
@@ -532,7 +532,7 @@ translate korean replay_d14s08_e5852777:
 translate korean replay_d14s08_f5ba86e9:
 
     # mc "Something I've noticed about you. You're not just an exhibitionist."
-    mc "내가 널 보면서 안 게 있는데. 넌 단순히 노출증만 있는 게 아니라는 거야."
+    mc "내가 널 보면서 알게 된 게 있는데. 넌 단순히 노출증만 있는 게 아니라는 거야."
 
 # game/code/d14/extended/d14s08.rpy:318
 translate korean replay_d14s08_eb2094d3:
@@ -730,7 +730,7 @@ translate korean replay_d14s08_0ba88048:
 translate korean replay_d14s08_2caa3131:
 
     # pw "I CAN'T BELIEVE HOW AMAZING THIS FEELS!!!"
-    pw "이게 이렇게 기분이 좋은 줄 몰랐어!!!"
+    pw "그게 이렇게 기분이 좋은 줄 몰랐어!!!"
 
 # game/code/d14/extended/d14s08.rpy:549
 translate korean replay_d14s08_46e71cda_1:
@@ -850,7 +850,7 @@ translate korean strings:
 
     # game/code/d14/extended/d14s08.rpy:452
     old "Keep Going - Fist Polly's Ass"
-    new "계속한다 - 주먹을 폴리의 엉덩이에 박는다"
+    new "계속한다 - 폴리의 엉덩이에 주먹을 박는다"
 
     # game/code/d14/extended/d14s08.rpy:452
     old "That's Enough"

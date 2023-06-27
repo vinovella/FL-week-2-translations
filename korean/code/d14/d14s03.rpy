@@ -58,7 +58,7 @@ translate korean d14s03_3827d7dd:
 translate korean d14s03_4aeb46a7:
 
     # mc "You two forgot to get me a pair, didn't you?"
-    mc "너희 둘 내 거 사는 건 잊었구나, 맞지?"
+    mc "너희들 내 거 사는 건 잊었구나, 맞지?"
 
 # game/code/d14/d14s03.rpy:37
 translate korean d14s03_025bde24:
@@ -238,13 +238,13 @@ translate korean d14s03_7d07c531:
 translate korean d14s03_a8c695d6:
 
     # sy "What? No! I just nicely asked for it."
-    sy "뭐? 아냐! 그냥 정중하게 부탁했을 뿐입니다."
+    sy "뭐? 아냐! 그냥 정중하게 부탁했을 뿐이랍니다."
 
 # game/code/d14/d14s03.rpy:171
 translate korean d14s03_a839fcff:
 
     # mc "And they gave it to you for free?"
-    mc "그래서 옆집이 너한테 꽁짜로 쓰게 해 줬다?"
+    mc "그래서 옆집에서 꽁짜로 쓰게 해 줬다?"
 
 # game/code/d14/d14s03.rpy:174
 translate korean d14s03_ac1d2edb:
@@ -256,7 +256,7 @@ translate korean d14s03_ac1d2edb:
 translate korean d14s03_d9b303be:
 
     # mc "...Your neighbor's a dude, isn't he?"
-    mc "... 옆집에 사는 사람, 남자지?"
+    mc "... 옆집에 사는 녀석, 남자지?"
 
 # game/code/d14/d14s03.rpy:178
 translate korean d14s03_64f93bd8:
@@ -268,7 +268,7 @@ translate korean d14s03_64f93bd8:
 translate korean d14s03_7c08bd96:
 
     # arj "Now that it's fully working, we can talk in peace. Finally."
-    arj "이제 제대로 먹히는 거 확인했으니까, 편하게 말해도 되겠네. 드디어."
+    arj "이제 제대로 먹히는 거 확인했으니까. 편하게 말해도 되겠네. 드디어."
 
 # game/code/d14/d14s03.rpy:189
 translate korean d14s03_06f1cf7e:
@@ -322,13 +322,13 @@ translate korean d14s03_deb80f57:
 translate korean d14s03_d23931ce:
 
     # sy "We tried to look up any info about the company, but there's literally nothing about it that we can find."
-    sy "회사에 관한 정보를 찾아 보려고 했지는데, 찾을 수 있는 게 뭐 하나 없었어."
+    sy "회사에 관한 정보를 찾아 보려고 했는데, 찾을 수 있는 게 뭐 하나 없었어."
 
 # game/code/d14/d14s03.rpy:211
 translate korean d14s03_33a32690:
 
     # arj "Only thing we found was this weird porn game."
-    arj "우리가 알고 있는 건 이 이상한 포르노 게임뿐이란 거지."
+    arj "우리가 알고 있는 건 이 이상한 포르노 게임이 다란 거지."
 
 # game/code/d14/d14s03.rpy:214
 translate korean d14s03_0f1891f7:
@@ -370,7 +370,7 @@ translate korean d14s03_49045e06:
 translate korean d14s03_648357a5:
 
     # sy "So I dunno. They could be using cryptocurrencies to anonymize their transactions, but even if that was true, knowing that doesn't really help us."
-    sy "그래서 모르겠다. 거래를 익명으로 하기 위해서 암호 화폐를 사용할 수 있겠지만, 그렇다고 해도 우리가 알 수 있는 건 아무것도 없으니까."
+    sy "그래서 결론은 모르겠다는 거야. 거래를 익명으로 하기 위해서 암호 화폐를 사용할 수 있겠지만, 그렇다고 해도 우리가 알 수 있는 건 아무것도 없으니까."
 
 # game/code/d14/d14s03.rpy:231
 translate korean d14s03_eb271437:
@@ -556,13 +556,13 @@ translate korean d14s03_f4620406:
 translate korean d14s03_8d96159c:
 
     # mc "No clue. I wasn't into spying on him, but I had to be sure."
-    mc "단서가 없었어. 염탐하고 싶진 않았지만, 확인은 해야 해서 봤는데 말이지."
+    mc "단서가 없었어. 염탐하고 싶진 않았지만, 확인은 해야 돼서 봤는데 말이지."
 
 # game/code/d14/d14s03.rpy:301
 translate korean d14s03_b01b24da:
 
     # mc "All I found on it were pictures that I uploaded to Fetish Locator."
-    mc "내가 찾은 거라곤 내가 페티시 로케이터에 올린 사진이 다야."
+    mc "찾은 거라곤 내가 페티시 로케이터에 올린 사진이 다야."
 
 # game/code/d14/d14s03.rpy:304
 translate korean d14s03_d3c4de28:
@@ -592,7 +592,7 @@ translate korean d14s03_9a52994b:
 translate korean d14s03_f9f2f229:
 
     # sy "Maybe he has another laptop? Maybe he doesn't store anything about Fetish Locator on his laptop?"
-    sy "다른 노트북이 있었던 거라면? 자기 노트북에 페티시 로케이터에 관한 모든 자료를 저장해 둔 게 아니라면?"
+    sy "다른 노트북을 가지고 있었던 거라면? 자기 노트북에 페티시 로케이터에 관한 모든 자료를 저장해 둔 게 아니라면?"
 
 # game/code/d14/d14s03.rpy:316
 translate korean d14s03_40fa7b18:
@@ -616,7 +616,7 @@ translate korean d14s03_37a34c12:
 translate korean d14s03_84dd92e0:
 
     # arj "Oh no."
-    arj "아 이런."
+    arj "아, 이런."
 
 # game/code/d14/d14s03.rpy:327
 translate korean d14s03_4d838391:
@@ -628,7 +628,7 @@ translate korean d14s03_4d838391:
 translate korean d14s03_2492fc8f:
 
     # mc "It's alright. I feel like shit about betraying him like this, but...we had to be sure.{w} {size=21}I had to be sure.{/size}"
-    mc "괜찮아. 피트를 이렇게 배신하게 되니 기분은 엿 같지만... 우리는 확인을 해야 했으니까.{w} {size=21}아니, 내가 확인을 해야 했으니까.{/size}"
+    mc "괜찮아. 피트를 이렇게 배신하게 되니 기분은 엿 같지만... 우리가 확인을 해야 했으니까.{w} {size=21}아니, 내가 확인을 해야 했으니까.{/size}"
 
 # game/code/d14/d14s03.rpy:332
 translate korean d14s03_0c490352:
@@ -658,7 +658,7 @@ translate korean d14s03_b1238959:
 translate korean d14s03_1228d21b:
 
     # mc "He's a good enough dude, but I doubt he'd be able to set up something like this if he wanted to."
-    mc "피트는 나쁘진 않은 녀석이지만, 뭘 꾸미고 준비할 머리는 없어."
+    mc "피트는 괜찮은 녀석이고, 뭘 꾸미고 준비할 머리는 없어."
 
 # game/code/d14/d14s03.rpy:342
 translate korean d14s03_bbd3f0f5:
@@ -676,7 +676,7 @@ translate korean d14s03_bd82ae40:
 translate korean d14s03_d44b38a6:
 
     # sy "But I dunno. Maybe it's a red herring."
-    sy "그치만 나도 이유는 모르니까. 허풍일 수도 있고."
+    sy "그치만 나도 그 이유는 모르니까. 허풍일 수도 있고."
 
 # game/code/d14/d14s03.rpy:348
 translate korean d14s03_cc098f1b:
@@ -706,7 +706,7 @@ translate korean d14s03_3b7ed30d:
 translate korean d14s03_f01d4d48:
 
     # arj "How do we know that she got it from Pete's phone? She could've paid for them and set it all up to mislead you."
-    arj "어떻게 피트 전화기에서 나온 거라고 믿어? 하나가 사진을 사선 피트 거라고 착각하게 만들었을 수도 있고."
+    arj "어떻게 피트 전화기에서 나온 거라고 믿어? 하나가 사진을 사선 피트 거라고 착각하게 만들었을 수도 있어."
 
 # game/code/d14/d14s03.rpy:360
 translate korean d14s03_2b882098:
@@ -820,7 +820,7 @@ translate korean d14s03_a87a337b:
 translate korean d14s03_8c82333a:
 
     # sy "Okay. Hm, well, we don't really have a lot of allies here, so we need what we can get."
-    sy "알겠어. 흠, 음, 지금 우리를 도울 사람도 없으니까. 같이 할 수 있는 사람은 죄다 모아야지."
+    sy "알겠어. 흠, 음, 지금 우리를 도울 사람도 없으니까. 함께할 수 있는 사람은 죄다 모아야지."
 
 # game/code/d14/d14s03.rpy:415
 translate korean d14s03_442aa7e2:
@@ -856,7 +856,7 @@ translate korean d14s03_209ad492:
 translate korean d14s03_d72d0b49:
 
     # arj "But when and where are we gonna talk though? We don't really have a ton of time."
-    arj "그런데 어디서 언제 말을 해? 우리한텐 시간이 많은 게 아니라고."
+    arj "그런데 어디서 언제 말을 걸지? 우리한텐 시간이 많은 게 아니라고."
 
 # game/code/d14/d14s03.rpy:427
 translate korean d14s03_5008aeed:
@@ -898,7 +898,7 @@ translate korean d14s03_3589bc38:
 translate korean d14s03_f081eae0:
 
     # arj "Is there anyone else we can get help from?"
-    arj "또 도움을 받을 만한 사람은 있어?"
+    arj "도움을 받을 만한 사람 또 있어?"
 
 # game/code/d14/d14s03.rpy:452
 translate korean d14s03_65c58212:
@@ -1042,7 +1042,7 @@ translate korean d14s03_09c1093b:
 translate korean d14s03_c7a6cd9b:
 
     # arj "Uhm, now that Pete is in the retention program, maybe he might be willing to help?"
-    arj "어음, 이제 피트도 유지 계획에 있잖아, 우릴 돕진 않을까?"
+    arj "으흠, 이제 피트도 유지 계획에 있잖아, 우릴 돕진 않을까?"
 
 # game/code/d14/d14s03.rpy:515
 translate korean d14s03_2d620b02:
@@ -1096,7 +1096,7 @@ translate korean d14s03_81d4a624:
 translate korean d14s03_44bbf952:
 
     # sy "Then figure out a proper game plan to win everything with her info."
-    sy "그리고 걔 정보를 기반으로 삼아서 이길 수 있는 전략을 세우는 거야."
+    sy "그리고 걔 정보를 기반으로 삼아서 전부 따내는 전략을 세우는 거야."
 
 # game/code/d14/d14s03.rpy:536
 translate korean d14s03_728f1e1f:
@@ -1126,7 +1126,7 @@ translate korean d14s03_52813174:
 translate korean d14s03_8e81b8a5:
 
     # sy "Hell yeah! This is awesome."
-    sy "좋아 아자! 이거 쩌는데."
+    sy "좋았어 아자! 이거 쩌는데."
 
 # game/code/d14/d14s03.rpy:550
 translate korean d14s03_ee15e4de:
@@ -1138,13 +1138,13 @@ translate korean d14s03_ee15e4de:
 translate korean d14s03_b6c3a1af:
 
     # sy "Well, not you getting your dick chopped off, of course, but this secret, undercover plotting stuff is kinda fun, not gonna lie."
-    sy "에, 네 자지 안 털리자고 이러는 거잖아. 그리고 솔직히 말해서 이 비밀스럽고 은밀한 계획 세우기도 재미있잖아."
+    sy "그러니까, 네 자지 안 털리자고 이러는 거잖아. 그리고 솔직히 이 비밀스럽고 은밀한 계획 세우기도 재미있단 말야."
 
 # game/code/d14/d14s03.rpy:555
 translate korean d14s03_c36db152:
 
     # mc "Can't really argue with you there. It {i}is{/i} kinda cool."
-    mc "그건 뭐라고 할 수 없겠네. 좀 {i}멋지긴{/i} 하니까."
+    mc "그 점은 뭐라고 할 수 없겠네. 좀 {i}멋지긴{/i} 하니까."
 
 # game/code/d14/d14s03.rpy:558
 translate korean d14s03_f1aa0f09:
@@ -1156,7 +1156,7 @@ translate korean d14s03_f1aa0f09:
 translate korean d14s03_82737367:
 
     # sy "What? You're just gonna leave us to clean all of this up on our lonesome while you go galavant around with some tramp!?"
-    sy "뭐라? 네가 무슨 놈팡이랑 놀아나는 동안 우리가 이 난장판을 치우란 말이냐!?"
+    sy "뭐라? 네가 무슨 놈팡이랑 놀아나는 동안 우리보고 이 난장판을 치우란 말이더냐!?"
 
 # game/code/d14/d14s03.rpy:564
 translate korean d14s03_d422e9c4:
@@ -1192,13 +1192,13 @@ translate korean d14s03_e4486ff9:
 translate korean d14s03_99b77881:
 
     # sy "{i}Nice{/i}."
-    sy "{i}쩌는대{/i}."
+    sy "{i}쩌는데{/i}."
 
 # game/code/d14/d14s03.rpy:596
 translate korean d14s03_4d13e5ea:
 
     # mc "Oh fuck off."
-    mc "아 하여간."
+    mc "아, 하여간."
 
 # game/code/d14/d14s03.rpy:612
 translate korean d14s03_3a820bc3_1:
@@ -1252,7 +1252,7 @@ translate korean d14s03_684af4de:
 translate korean d14s03_5ab1514a:
 
     # sy "You better apologize to her later."
-    sy "나중에 사과하는 게 좋을 거야."
+    sy "나중에 사과하는 게 좋을 거다."
 
 # game/code/d14/d14s03.rpy:640
 translate korean d14s03_2b35b6fe:
@@ -1264,7 +1264,7 @@ translate korean d14s03_2b35b6fe:
 translate korean d14s03_7f153769:
 
     # sy "Come on, at least help me pick this stuff up."
-    sy "자아, 적어도 치우는 거나 도와."
+    sy "자아, 적어도 치우는 건 도와라."
 
 # game/code/d14/d14s03.rpy:646
 translate korean d14s03_c0052b5c:
@@ -1342,7 +1342,7 @@ translate korean d14s03_8f40fb46:
 translate korean d14s03_5cbc709f:
 
     # mc "Actually, I have to go do a thing right now as well."
-    mc "그런데 실은 지금 당장 해야 하는 일이 있어서."
+    mc "그데 실은 지금 당장 해야 하는 일이 있어서."
 
 # game/code/d14/d14s03.rpy:687
 translate korean d14s03_b5aa17f4:

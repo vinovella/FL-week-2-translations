@@ -130,7 +130,7 @@ translate korean d14s04_33abb026:
 translate korean d14s04_bef5ff0e:
 
     # mh "Yes actually. We had one in the common room of the University that I went to."
-    mh "응. 내가 다녔던 대학교 휴게실에 한 대 있었거든."
+    mh "응. 다녔던 대학교 휴게실에 한 대 있었거든."
 
 # game/code/d14/d14s04.rpy:85
 translate korean d14s04_3b99de7f:
@@ -160,7 +160,7 @@ translate korean d14s04_1c6c13f9:
 translate korean d14s04_2c3ee3b9:
 
     # mh "How about the best three out of three goals?"
-    mh "세 판 이기는 사람이 승자인 걸로 해 볼까?"
+    mh "세 판 해서 가장 많이 이기는 사람이 승자인 걸로 해 볼까?"
 
 # game/code/d14/d14s04.rpy:112
 translate korean d14s04_606e2d02:
@@ -178,7 +178,7 @@ translate korean d14s04_83239112:
 translate korean d14s04_c2ea84bb:
 
     # mc "Oh shit!"
-    mc "아 젠장!"
+    mc "아, 젠장!"
 
 # game/code/d14/d14s04.rpy:132
 translate korean d14s04_bd21a258:
@@ -190,7 +190,7 @@ translate korean d14s04_bd21a258:
 translate korean d14s04_734fc01b:
 
     # mh "It'll give you more control and better dexterity."
-    mh "이렇게 하면 채 쓰는 게 더 편하고 더 빨라."
+    mh "이렇게 하면 채 쓰는 게 더 편하고 더 빨라져."
 
 # game/code/d14/d14s04.rpy:139
 translate korean d14s04_5009bbd1:
@@ -442,7 +442,7 @@ translate korean d14s04_a16aa47e:
 translate korean d14s04_e8c1d965:
 
     # mh "You don't \"bore\" me. You're not boring to me. I... I want to be there for you. I want to help you if I can."
-    mh "당신 일로 \"지루할\" 일 없어. 당신은 나에게 지루하지 않아. 난... 당신이랑 함께 있고 싶어. 내가 할 수 있으면 당신을 돕고 싶고."
+    mh "당신 일로 \"지루할\" 일 없어. 나에게 당신은 지루하지 않아. 난... 당신이랑 함께 있고 싶어. 내가 도울 수 있을 땐 당신을 돕고 싶고."
 
 # game/code/d14/d14s04.rpy:300
 translate korean d14s04_9cfa8fd7:
@@ -496,7 +496,7 @@ translate korean d14s04_1816d3fb:
 translate korean d14s04_84344c5c:
 
     # mc "How did lawyer extraordinaire Miss Melissa Harris become who she is, hmm?"
-    mc "비범한 변호사 멀리사 해리스 양께서 어떻게 지금의 모습이 되셨는지, 흐음?"
+    mc "비범한 변호사 멀리사 해리스 선생님께서 어떻게 지금의 모습이 되셨는지, 흐음?"
 
 # game/code/d14/d14s04.rpy:324
 translate korean d14s04_da484720:
@@ -514,7 +514,7 @@ translate korean d14s04_beaa5dad:
 translate korean d14s04_b706d23a:
 
     # mc "{i}But{/i}, at the same time, you can't just be this mysterious and cool and expect me to not ask questions. {w}That's just unfair."
-    mc "{i}그치만{/i}, 마음 한 켠엔 소소한 호기심이 있습죠. 이렇게 신비하고 멋진 인물에게 그냥 탄생하진 않았을 테니까 말입니다. {w} 안 알려주면 이게 치사한 거지."
+    mc "{i}그치만{/i}, 마음 한 켠엔 소소한 호기심이 있습죠. 이렇게 신비하고 멋진 사람이 그냥 탄생하진 않았을 테니까 말입니다. {w} 안 알려주면 이게 치사한 거지."
 
 # game/code/d14/d14s04.rpy:334
 translate korean d14s04_8b25ab08:
@@ -556,13 +556,13 @@ translate korean d14s04_4daa6a1e:
 translate korean d14s04_f77486dd:
 
     # mh "...I don't actually know. I suppose it just never came up."
-    mh "... 사실 잘 모르겠네. 전부 말할 일이 없었나 봐."
+    mh "... 사실 잘 모르겠네. 전부 말할 기회가 없었나 봐."
 
 # game/code/d14/d14s04.rpy:347
 translate korean d14s04_0095ef64:
 
     # mh "I always had goals. Things that I wanted to do."
-    mh "나에겐 항상 목표가 있었어. 내가 할 일이 있었지."
+    mh "나에겐 항상 목표가 있었어. 나한텐 하고자 한 일이 있었지."
 
 # game/code/d14/d14s04.rpy:350
 translate korean d14s04_d886559b:
@@ -574,13 +574,13 @@ translate korean d14s04_d886559b:
 translate korean d14s04_e3b88e7e:
 
     # mh "I didn't want to strain any relationships because of my work or studies."
-    mh "내 일이나 공부에 열중한다고 다른 사람과 사이를 나쁘게 만들고 싶지도 않았지."
+    mh "내 일이나 공부에 열중한다고 다른 사람과 사이를 나쁘게 만들고 싶지도 않았어."
 
 # game/code/d14/d14s04.rpy:354
 translate korean d14s04_26ea0927:
 
     # mh "Doesn't mean that I didn't have any relationships. You already know about Allison."
-    mh "인간관계를 피한 건 아냐. 너도 알겠지만 앨리슨도 있었으니까."
+    mh "인간관계를 피한 건 아냐. 당신도 알겠지만 앨리슨도 있었으니까."
 
 # game/code/d14/d14s04.rpy:355
 translate korean d14s04_4934930d:
@@ -706,13 +706,13 @@ translate korean d14s04_ada6f14b:
 translate korean d14s04_37166f20:
 
     # mh "So I was mostly a homebody. Both of my parents were lawyers and were...very busy, to say the least."
-    mh "그래서 난 보통은 집에만 있었어. 부모님은 두 분 다 변호사라서... 정말 바쁘셨다고 할까."
+    mh "그래서 난 보통 집에만 있었어. 부모님은 두 분 다 변호사라서... 정말 바쁘셨다고 해야 하려나."
 
 # game/code/d14/d14s04.rpy:406
 translate korean d14s04_96bd5ca0:
 
     # mh "We had it good, but I spent more time with my toys and books than my parents."
-    mh "우린 괜찮은 가족이었지만, 난 부모님과 같이 시간을 보내기 보단 혼자 장난감 가지고 놀고 책을 보면서 시간을 보냈어."
+    mh "우린 괜찮은 가족이었지만, 부모님과 같이 시간을 보내기 보단 나 혼자 장난감 가지고 놀고 책을 보면서 시간을 보냈지."
 
 # game/code/d14/d14s04.rpy:409
 translate korean d14s04_9553e7d8:
@@ -766,7 +766,7 @@ translate korean d14s04_2c7f8bca:
 translate korean d14s04_c0f01ecf:
 
     # mh "I don't know the specifics. I was too young, so they never told me, and I didn't bother looking it up when I could."
-    mh "구체적인 내용은 몰라. 너무 어렸을 때니까 나한테 어떻게 된 건지 알려 준 사람도 없었고. 내가 직접 알아볼 수 있는 나이가 된 후에도 일부러 알아보진 않았어."
+    mh "구체적인 내용은 몰라. 너무 어렸을 때라서 나한테 어떻게 된 건지 알려 준 사람도 없었고. 내가 직접 알아볼 수 있는 나이가 된 후에도 일부러 알아보진 않았어."
 
 # game/code/d14/d14s04.rpy:428
 translate korean d14s04_b0b462de:
@@ -784,19 +784,19 @@ translate korean d14s04_e5544801:
 translate korean d14s04_657254ea:
 
     # mh "Anyway. After getting shuffled around from relative to relative for a bit, I was eventually put into the foster system."
-    mh "아무튼. 한동안 친척 집을 전전하다가, 고아원에 맡겨졌어."
+    mh "그렇다면야. 난 한동안 친척 집을 전전하다가, 고아원에 맡겨졌어."
 
 # game/code/d14/d14s04.rpy:435
 translate korean d14s04_8c821906:
 
     # mh "I was very lucky actually. I wasn't in for long. My adoptive parents took me in and gave me a stable home."
-    mh "사실 난 운이 좋은 편이었지. 얼마 지나지 않아 입양이 됐고, 양부모님은 나에게 따뜻한 가족이 되어 주었어."
+    mh "사실 난 운이 좋은 편이었지. 얼마 지나지 않아 입양이 됐고, 양부모님은 나에게 따뜻한 가족이 되어 주셨으니까."
 
 # game/code/d14/d14s04.rpy:436
 translate korean d14s04_439cb2aa:
 
     # mh "Honestly, I don't remember much from that time in my life. My early childhood is mostly a blur to me—"
-    mh "사실, 그 시절 기억은 많지 않아. 내 어릴 때 기억은 거의 흐릿해서—"
+    mh "사실, 그 시절 기억은 많지 않아. 내 어릴 때 기억은 대부분 흐릿해서—"
 
 # game/code/d14/d14s04.rpy:440
 translate korean d14s04_4b28a3e7:
@@ -814,7 +814,7 @@ translate korean d14s04_7c6073fd:
 translate korean d14s04_a66fe960:
 
     # mc "This might not have been the greatest place for a date now that I think about it."
-    mc "지금 생각해 보니 여기가 데이트 장소로 맞지는 않았나 봐."
+    mc "지금 생각해 보니까, 여기가 데이트 장소로 좋은 선택은 아니었나 봐."
 
 # game/code/d14/d14s04.rpy:451
 translate korean d14s04_5009131c:
@@ -850,7 +850,7 @@ translate korean d14s04_2db35b69:
 translate korean d14s04_8a72ceb5:
 
     # mh "Great. I want to make more time for us. I'll find something we can do."
-    mh "훌륭해. 우리 둘만의 시간을 보내고 싶으니까. 고민을 좀 해 볼게."
+    mh "훌륭해. 우리 둘만의 시간을 보내고 싶으니까. 고민 좀 해 볼게."
 
 # game/code/d14/d14s04.rpy:467
 translate korean d14s04_6094cd7b:
@@ -880,19 +880,19 @@ translate korean d14s04_169bca4a:
 translate korean d14s04_0863c78e:
 
     # mc "What are you doing!?"
-    mc "뭐 해!?"
+    mc "여기서 뭐 하는 거야!?"
 
 # game/code/d14/d14s04.rpy:481
 translate korean d14s04_9caf0457:
 
     # sy "I came to get you, dummy. The party is on and you're missing it."
-    sy "너 데리러 왔지, 멍청아. 파티 시작한다고 네가 빠지면 말이 되냐."
+    sy "너 데리러 왔지, 멍청아. 파티 시작한다구. 네가 빠지면 말이 되냐."
 
 # game/code/d14/d14s04.rpy:484
 translate korean d14s04_5a3765d8:
 
     # mc "Oh shit."
-    mc "아 젠장."
+    mc "아, 젠장."
 
 # game/code/d14/d14s04.rpy:487
 translate korean d14s04_c7cf2826:
@@ -958,7 +958,7 @@ translate korean d14s04_db9ef2cd:
 translate korean d14s04_44f1e4d9:
 
     # mh "Oh, that sounds fun! I'd love to come. But I can't, sadly."
-    mh "아, 재미있겠네요! 저도 가고 싶지만, 아쉽게도 갈 처지가 못되네요."
+    mh "아, 재미있겠네요! 저도 가고 싶지만, 아쉽게도 갈 처지가 되지 않아서요."
 
 # game/code/d14/d14s04.rpy:518
 translate korean d14s04_ab386622:
@@ -970,13 +970,13 @@ translate korean d14s04_ab386622:
 translate korean d14s04_77971642:
 
     # mh "I have an early case tomorrow. I don't want to do that while I'm hungover and sore."
-    mh "내일 아침 일찍 재판이 있어서요. 숙취나 통증이 있는 상태에서 임하고 싶진 않네요."
+    mh "내일 아침 일찍 재판이 있어요. 숙취나 통증이 있는 상태에서 임하고 싶진 않아요."
 
 # game/code/d14/d14s04.rpy:523
 translate korean d14s04_ee626d31:
 
     # mh "You two go have fun."
-    mh "전 신경 쓰지 마시고, 두이서 모두 즐거운 시간 보내세요."
+    mh "전 신경 쓰지 마시고, 두 분 즐거운 시간 보내세요."
 
 # game/code/d14/d14s04.rpy:526
 translate korean d14s04_ef8e4ba7:
@@ -1066,7 +1066,7 @@ translate korean d14s04_1f7efd37:
 translate korean d14s04_e75acdf2:
 
     # sy "You know what, you two should come over sometime!"
-    sy "있죠, 나중에 둘이 같이 집에 들러 주세요!"
+    sy "있죠, 나중에 둘이 같이 우리 집에 들러 주세요!"
 
 # game/code/d14/d14s04.rpy:568
 translate korean d14s04_9df5825f:
@@ -1090,7 +1090,7 @@ translate korean d14s04_93c3f7bd:
 translate korean d14s04_1f381eb0:
 
     # sy "Oh! That sounds great. It can be a bit of a potluck thing then."
-    sy "오우! 그거 좋네요. 먹을 걸 각자 준비해서 만찬을 하는 거에요."
+    sy "오우! 그거 좋네요. 먹을 걸 각자 준비해서 만찬회를 하는 거에요."
 
 # game/code/d14/d14s04.rpy:584
 translate korean d14s04_819d8c18:
@@ -1114,7 +1114,7 @@ translate korean d14s04_c3017041:
 translate korean d14s04_2eb4879d:
 
     # mh "Right. I've been keeping you."
-    mh "참. 내가 너무 시간을 뺐었네."
+    mh "참. 내가 시간을 너무 뺐었네."
 
 # game/code/d14/d14s04.rpy:600
 translate korean d14s04_b3278138:
@@ -1144,7 +1144,7 @@ translate korean d14s04_1a846c36:
 translate korean d14s04_5d1c170a:
 
     # mh "Be careful!"
-    mh "가는 길 조심하시길!"
+    mh "가는 길 조심히!"
 
 # game/code/d14/d14s04.rpy:612
 translate korean d14s04_4fc90834:
