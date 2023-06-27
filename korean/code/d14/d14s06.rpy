@@ -28,7 +28,7 @@ translate korean d14s06_09cd7f5b:
 translate korean d14s06_d5df24c8:
 
     # lc "I thought you two might give me a private show."
-    lc "너희 둘이 나한테 사적인 공연을 해 줄 수 있을 거란 생각이 들었어."
+    lc "너희 둘이 나에게 사적인 공연을 해 줄 수 있을 거란 생각이 들었어."
 
 # game/code/d14/d14s06.rpy:67
 translate korean d14s06_5fb0a519:
@@ -172,7 +172,7 @@ translate korean d14s06_7a38c6dc:
 translate korean d14s06_a6b45c65:
 
     # mes "I love the way it feels in my mouth. You should try it sometime."
-    mes "내 입에 닿는 기분이 정말 마음에 들어. 너도 나중에 한 번 해 봐."
+    mes "내 입에 닿는 기분이 정말 마음에 들어. 너도 나중에 한번 해 봐."
 
 # game/code/d14/d14s06.rpy:213
 translate korean d14s06_7f927eb0:
@@ -190,7 +190,7 @@ translate korean d14s06_ab1143ae:
 translate korean d14s06_a8a1102d:
 
     # lc "I'll... uh...{w} I'll give it some thought."
-    lc "나... 어...{w} 한 번 생각은 해 볼게."
+    lc "나... 어...{w} 한번 생각은 해 볼게."
 
 # game/code/d14/d14s06.rpy:222
 translate korean d14s06_5a45363b:
@@ -202,7 +202,7 @@ translate korean d14s06_5a45363b:
 translate korean d14s06_759d0e04:
 
     # mes "If you're insecure about your blowjob skills, or really want to surprise him, you can always tease the tip."
-    mes "블로우잡을 하기 어렵거나 정말 상대를 놀라게 해 주고 싶으면, 언제든지 이 끝을 괴롭히는 거야.."
+    mes "블로우잡을 하기 어렵거나 정말 상대를 놀라게 해 주고 싶으면, 언제든지 끝을 괴롭히는 거야.."
 
 # game/code/d14/d14s06.rpy:231
 translate korean d14s06_e6b3b267:
@@ -214,7 +214,7 @@ translate korean d14s06_e6b3b267:
 translate korean d14s06_9355ade5:
 
     # mes "That's something else. The tip - particularly the underside - is the most sensitive portion, so-"
-    mes "좀 달라. 이 끝, 특히 아래 부분은 매우 민감한 부위거든, 그러니까-"
+    mes "좀 달라. 끝, 특히 아래 부분은 매우 민감한 부위거든. 그러니까-"
 
 # game/code/d14/d14s06.rpy:236
 translate korean d14s06_9ee406c1:
@@ -280,7 +280,7 @@ translate korean d14s06_437f59a0:
 translate korean d14s06_7f1d655e:
 
     # mes "Lydia, this is the best part of sucking a guy's dick."
-    mes "리디아, 이게 남자 좆을 빨 때 가장 좋은 점이야."
+    mes "리디아, 이게 남자 좆을 빨 때 가장 좋은 부분이야."
 
 # game/code/d14/d14s06.rpy:310
 translate korean d14s06_eeda768e:
@@ -304,13 +304,13 @@ translate korean d14s06_3a2b0757:
 translate korean d14s06_ceda9357:
 
     # mes "The creamy finish."
-    mes "크림이 가득한 끝."
+    mes "크림 가득한 끝."
 
 # game/code/d14/d14s06.rpy:366
 translate korean d14s06_584a5b92:
 
     # mes "Now. Can I have your pee please?"
-    mes "이제. 오줌 마셔도 되지?"
+    mes "이제 오줌 마셔도 되지?"
 
 # game/code/d14/d14s06.rpy:369
 translate korean d14s06_dff0995e:
@@ -352,7 +352,7 @@ translate korean d14s06_b13b37d6:
 translate korean d14s06_c16350a4:
 
     # mc "And maybe we should skip that portion because we have an audience."
-    mc "그리고 관객이 있으니까 그 부분은 넘겨야 할 수도 있겠다."
+    mc "그리고 관객이 있으니까. 그 부분은 넘겨야 할 수도 있겠다."
 
 # game/code/d14/d14s06.rpy:385
 translate korean d14s06_550432e2:
@@ -436,13 +436,13 @@ translate korean d14s06_feaac2eb:
 translate korean d14s06_2c0b3c43:
 
     # lc "Oh, what the hell. Why not?"
-    lc "아, 도대체 뭐람. 안 될 게 있겠어?"
+    lc "아, 도대체 뭐람. 안 될 게 뭐 있겠어?"
 
 # game/code/d14/d14s06.rpy:421
 translate korean d14s06_04eb08e7:
 
     # lc "This is so weird, but..."
-    lc "이거 정말 이상해, 그래도..."
+    lc "이거 정말 이상해, 그치만..."
 
 # game/code/d14/d14s06.rpy:422
 translate korean d14s06_48b22c21:
@@ -466,7 +466,7 @@ translate korean d14s06_dc72f3f1:
 translate korean d14s06_9e9877b4:
 
     # lc "Second, can you back off a bit? This is weird enough without feeling your breath on my kitty."
-    lc "두 번째로 조금 물러 설 수 있겠어? 내 소중이에 네 숨결이 닿지 않아도 지금 충분히 기분 이상하단 말야."
+    lc "두 번째로 조금 물러 설 수 있겠어? 네 숨결이 내 소중이에 닿지 않아도 충분히 기분 이상하단 말야."
 
 # game/code/d14/d14s06.rpy:430
 translate korean d14s06_0879ef7b:

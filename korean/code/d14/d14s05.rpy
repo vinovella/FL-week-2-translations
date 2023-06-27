@@ -52,7 +52,7 @@ translate korean d14s05_c5d56cda:
 translate korean d14s05_3610ad15:
 
     # mc "I've missed you too.{w} This is a beautiful house you have here."
-    mc "나도 그리웠어.{w} 여기 집이 정말 예쁘네."
+    mc "나도 그리웠어.{w} 이 집 정말 예쁘네."
 
 # game/code/d14/d14s05.rpy:36
 translate korean d14s05_af56a9cb:
@@ -70,7 +70,7 @@ translate korean d14s05_e5b1bdf4:
 translate korean d14s05_b47c717c:
 
     # arj "Um, yes."
-    arj "음, 그렇지."
+    arj "음, 그래."
 
 # game/code/d14/d14s05.rpy:47
 translate korean d14s05_e6cdb3de:
@@ -88,19 +88,19 @@ translate korean d14s05_44f6d2b0:
 translate korean d14s05_b3b3554e:
 
     # lc "You've barely seen it."
-    lc "아직 보여 줄 게 한참은 더 있는 걸."
+    lc "보여 줄 게 한참은 더 있는 걸."
 
 # game/code/d14/d14s05.rpy:55
 translate korean d14s05_1465c05b:
 
     # mc "Who has an aquarium?"
-    mc "누가 이런 수조관을 집에 가지고 있겠냐구?"
+    mc "누가 집에 이런 수조관을 가지고 있겠냐구?"
 
 # game/code/d14/d14s05.rpy:58
 translate korean d14s05_b309ddd4:
 
     # mc "How many gallons is that?"
-    mc "물은 얼마나 들어 있는 거야?"
+    mc "물이 얼마나 들어 있는 거야?"
 
 # game/code/d14/d14s05.rpy:60
 translate korean d14s05_00567153:
@@ -112,7 +112,7 @@ translate korean d14s05_00567153:
 translate korean d14s05_792be192:
 
     # mc "I can't even imagine."
-    mc "난 상상도 못할 수준이야."
+    mc "난 상상도 못하겠어."
 
 # game/code/d14/d14s05.rpy:65
 translate korean d14s05_25e6dac0:
@@ -142,7 +142,7 @@ translate korean d14s05_f2342ad3:
 translate korean d14s05_54955c87:
 
     # arj "Stacy just needs a moment to get it ready for you..."
-    arj "스테이시가 준비를 해서 올 테니까 잠깐 기다려..."
+    arj "스테이시가 준비해 줄 테니까 잠깐 기다려..."
 
 # game/code/d14/d14s05.rpy:89
 translate korean d14s05_957abc2f:
@@ -214,7 +214,7 @@ translate korean d14s05_162c1c95:
 translate korean d14s05_2b5a8cc0:
 
     # arj "We just need to help you get dressed appropriately."
-    arj "적절한 차림새를 하도록 도와주려는 거야."
+    arj "알맞은 차림새를 하도록 도와주려는 거야."
 
 # game/code/d14/d14s05.rpy:134
 translate korean d14s05_e7710d80:
@@ -394,7 +394,7 @@ translate korean d14s05_ca51a6db_1:
 translate korean d14s05_c361a80b:
 
     # lc "AmRose said this was going to be a clothing optional party.{w}.. You're not planning on forcibly stripping the guests, are you?"
-    lc "앰로즈가 오늘 파티에선 옷은 선택 사항으로 하겠다고 했어.{w}.. 손님들을 강제로 벗길 생각은 없는 거지?"
+    lc "앰로즈가 오늘 파티엔 옷을 선택 사항으로 하겠다고 했어.{w}.. 손님들까지 강제로 벗길 생각은 없는 거지?"
 
 # game/code/d14/d14s05.rpy:233
 translate korean d14s05_efaec6b8:
@@ -418,7 +418,7 @@ translate korean d14s05_40f17b3c:
 translate korean d14s05_cedaf02d:
 
     # arj "Nope! You're setting a good example for the rest of the party goers."
-    arj "없어! 넌 다른 파티 참가자들에게 귀감이 되어야 하니까."
+    arj "없어! 넌 다른 참가자들에게 귀감이 되어야 하니까."
 
 # game/code/d14/d14s05.rpy:244
 translate korean d14s05_55310c42:
@@ -490,7 +490,7 @@ translate korean d14s05_70e7de7c:
 translate korean d14s05_7a4ad0e8:
 
     # mc "Hey! Hi Allison!"
-    mc "이런! 안녕 앨리슨!"
+    mc "왔네! 안녕 앨리슨!"
 
 # game/code/d14/d14s05.rpy:289
 translate korean d14s05_14e0fc30:
@@ -532,7 +532,7 @@ translate korean d14s05_f99bf874:
 translate korean d14s05_b7739786:
 
     # arj "That's one way of describing it. Yeah."
-    arj "그렇게 말할 수도 있네. 맞아."
+    arj "그렇게 말할 수도 있겠네. 맞아."
 
 # game/code/d14/d14s05.rpy:312
 translate korean d14s05_80a810e6:
@@ -634,7 +634,7 @@ translate korean d14s05_1adebd95:
 translate korean d14s05_e2a087ec:
 
     # arj "So far. {w}It's hard to tell with them, but I think they're still together."
-    arj "지금까지는 그럴 거야. {w}걔들이랑 이야기한 적은 거의 없진 하지만, 아직 사귀긴 하고 있을걸."
+    arj "지금까지는 그럴 거야. {w}걔들이랑 이야기한 적은 거의 없진 하지만, 아직 사귀고 있긴 할걸."
 
 # game/code/d14/d14s05.rpy:363
 translate korean d14s05_6c37a3ca:
@@ -664,7 +664,7 @@ translate korean d14s05_8950faaa:
 translate korean d14s05_676b763f:
 
     # arj "Well, I doubt we could... {w}I wouldn't call this party \"competition\"."
-    arj "음, 우리가 따로... {w}이 파티에 \"경쟁\"할 만한 건 준비하진 않아서."
+    arj "음, 우리가 이 파티에... {w}\"경쟁\"이라고 할 만한 건 준비하진 않아서."
 
 # game/code/d14/d14s05.rpy:378
 translate korean d14s05_cba05aeb:
@@ -754,7 +754,7 @@ translate korean d14s05_e52116c3:
 translate korean d14s05_b6d80ffe:
 
     # ir "I guess I can get rid of this."
-    ir "난 벗어도 괜찮긴 한데."
+    ir "난 벗어도 괜찮긴 해."
 
 # game/code/d14/d14s05.rpy:420
 translate korean d14s05_5c3a0622:
@@ -826,7 +826,7 @@ translate korean d14s05_0f5b85b1:
 translate korean d14s05_8fe96207:
 
     # arj "No! Of course not. {w}You gotta get your twenty."
-    arj "아니! 당연히 없지. {w}나중에 20달러 받아."
+    arj "아니! 당연히 없지. {w}나중에 20달러 받아 가."
 
 # game/code/d14/d14s05.rpy:451
 translate korean d14s05_c04593bd:
@@ -880,13 +880,13 @@ translate korean d14s05_4d76efb6:
 translate korean d14s05_6aaf8688:
 
     # mc "Heya Oliver. This is AmRose. She's basically my best friend."
-    mc "안녕 올리버. 얜 앰로즈야. 요컨대 나랑 제일 친한 친구지."
+    mc "안녕, 올리버. 얜 앰로즈야. 요컨대 나랑 제일 친한 친구지."
 
 # game/code/d14/d14s05.rpy:480
 translate korean d14s05_062ad719:
 
     # op "Nice to meet you. {w}This is a lovely house you have."
-    op "처음 뵙겠습니다. {w}아주 훌륭한 댁이네요."
+    op "처음 뵙겠습니다. {w}아주 훌륭한 집이네요."
 
 # game/code/d14/d14s05.rpy:482
 translate korean d14s05_61dfcd5b:
@@ -934,7 +934,7 @@ translate korean d14s05_7fa6fac0:
 translate korean d14s05_f95c9f51:
 
     # arj "I don't suppose..."
-    arj "정말 그렇다는 말은 아닌데..."
+    arj "꼭 그러라는 말은 아닌데..."
 
 # game/code/d14/d14s05.rpy:504
 translate korean d14s05_b85746b1:
@@ -952,7 +952,7 @@ translate korean d14s05_914f416a:
 translate korean d14s05_f7b1469f:
 
     # arj "(laughing) You gonna tap that ass?"
-    arj "(웃음) 저 엉덩이도 두들겨 보든지?"
+    arj "(웃음) 쟤 엉덩이도 두들겨 보든지?"
 
 # game/code/d14/d14s05.rpy:512
 translate korean d14s05_0e0cb4a9:
@@ -1036,7 +1036,7 @@ translate korean d14s05_b84addcc:
 translate korean d14s05_74df96a7:
 
     # mc "Um, hey Hana. I'm [mcname]. I think I've seen you around campus."
-    mc "음, 안녕, 하나. 난 [mcname] 영이야. 학교 근처에서 본 적 있어."
+    mc "음, 안녕, 하나. 난 [mcname] 영이야. 학교 근처에서 본 적 있지."
 
 # game/code/d14/d14s05.rpy:549
 translate korean d14s05_04a9f118:
@@ -1096,7 +1096,7 @@ translate korean d14s05_f31e6af8:
 translate korean d14s05_0a95418e:
 
     # hr "Nice. I am planning on spending a lot of time in the pool today."
-    hr "좋아. 오늘은 수영장에서 한참 시간을 보낼 작정이니까."
+    hr "좋아. 오늘은 수영장에서 한참 시간을 보낼 생각이니까."
 
 # game/code/d14/d14s05.rpy:581
 translate korean d14s05_bf4813cd:
@@ -1120,7 +1120,7 @@ translate korean d14s05_e5be2635:
 translate korean d14s05_92bb99ec:
 
     # pw "And AmRose. Good to see you both here."
-    pw "그리고 앰로즈도 안녕. 둘 다 여기서 봐서 반가워."
+    pw "그리고 앰로즈도 안녕. 둘 다 반가워."
 
 # game/code/d14/d14s05.rpy:592
 translate korean d14s05_eac73b49:
@@ -1180,7 +1180,7 @@ translate korean d14s05_70b8cc59:
 translate korean d14s05_704133b0:
 
     # pw "I don't do labels."
-    pw "난 그런 이름표를 안 붙이니까."
+    pw "난 그런 꼬리표를 안 붙이니까."
 
 # game/code/d14/d14s05.rpy:623
 translate korean d14s05_6c08a2b0:
@@ -1210,7 +1210,7 @@ translate korean d14s05_f3638179:
 translate korean d14s05_5ce48be3:
 
     # arj "Oh, is that who you were with before you were with me? {w}Interesting."
-    arj "아, 나랑 하기 전에 했다는 얘가 쟤구나. {w}흥미로운데."
+    arj "아, 나랑 하기 전에 했다는 애가 쟤구나. {w}흥미로운데."
 
 # game/code/d14/d14s05.rpy:640
 translate korean d14s05_9409dafa:
@@ -1222,13 +1222,13 @@ translate korean d14s05_9409dafa:
 translate korean d14s05_74674fe4:
 
     # arj "Yeah, she's here to serve lunch... you know her?"
-    arj "응, 접대를 맡기로 했어... 아는 얘지?"
+    arj "응, 접대를 맡기로 했어... 아는 애지?"
 
 # game/code/d14/d14s05.rpy:645
 translate korean d14s05_a65df7bc:
 
     # sb "Hello [mcname], I bet you weren't expecting to see me again."
-    sb "안녕 [mcname], 널 다시 보게 될 일은 없을 거라고 생각했는데."
+    sb "안녕, [mcname]. 널 다시 보게 될 일은 없을 거라고 생각했는데."
 
 # game/code/d14/d14s05.rpy:648
 translate korean d14s05_5efbb4a8:
@@ -1270,13 +1270,13 @@ translate korean d14s05_50a9c614:
 translate korean d14s05_25804387:
 
     # arj "Iona should be behind the bar to your right. She'll have all the food and instructions."
-    arj "아이오나는 오른편 바에 있어. 걔한테 음식이랑 방법 부탁하면 돼."
+    arj "아이오나는 오른편 바에 있어. 걔한테 음식이랑 방법을 부탁하면 돼."
 
 # game/code/d14/d14s05.rpy:668
 translate korean d14s05_0e354d27:
 
     # sb "Excellent. {w}Well, duty calls."
-    sb "훌륭해. {w}그럼, 할 일이 있어서 이만."
+    sb "훌륭하네. {w}그럼, 할 일이 있어서 이만."
 
 # game/code/d14/d14s05.rpy:670
 translate korean d14s05_57ce03e3:
@@ -1336,7 +1336,7 @@ translate korean d14s05_bc8b2f36:
 translate korean d14s05_4b3fb7c3:
 
     # mc "Yeah, that whore Pete was fucking who stole Stacy's luggage? She literally is a whore."
-    mc "그래, 피트랑 떡을 치고 스테이시를 짐을 훔쳤던 그 창녀 기억하지? 말그대로 그 창녀가 창녀라는 거지."
+    mc "그래, 피트랑 떡을 치고 스테이시 짐을 훔쳤던 그 창녀 기억하지? 말그대로 그 창녀가 진짜 창녀라는 거지."
 
 # game/code/d14/d14s05.rpy:696
 translate korean d14s05_cf382400:
@@ -1384,7 +1384,7 @@ translate korean d14s05_183560f2:
 translate korean d14s05_7ecb52a3:
 
     # arj "Hi Cynthia!"
-    arj "안녕 신시아!"
+    arj "안녕, 신시아!"
 
 # game/code/d14/d14s05.rpy:719
 translate korean d14s05_5694380a:
@@ -1420,7 +1420,7 @@ translate korean d14s05_9b1160db:
 translate korean d14s05_86d6cd65:
 
     # arj "I wish! It's such a pleasure to finally meet you in person."
-    arj "그랬으면 좋았을 텐데! 드디어 직접 널 보게 되나니 정말 기쁘다."
+    arj "그랬으면 좋았을 텐데! 마침내 널 직접 보게 되나니 정말 기뻐."
 
 # game/code/d14/d14s05.rpy:737
 translate korean d14s05_52bb0e13:
@@ -1438,7 +1438,7 @@ translate korean d14s05_d4b98aa6:
 translate korean d14s05_58207333:
 
     # mc "Hey Cynthia. {w}How's your backside feeling today?"
-    mc "안녕 신시아. {w}오늘 뒤쪽은 어때?"
+    mc "안녕, 신시아. {w}오늘 뒤쪽은 어때?"
 
 # game/code/d14/d14s05.rpy:745
 translate korean d14s05_b4e0ebdc:
@@ -1720,7 +1720,7 @@ translate korean d14s05_38e2be11:
 translate korean d14s05_77a2f0fb:
 
     # mc "She was all Sithed out when I came down her throat. I'm pretty sure I was the first guy to do that."
-    mc "입으로 했을 땐 시스 의상이었지. 입은 나랑 처음 써 봤을 걸."
+    mc "입으로 했을 땐 시스 의상이었지. 입으로 하는 건 나랑 하면서 처음 해 봤을 걸."
 
 # game/code/d14/d14s05.rpy:891
 translate korean d14s05_2bb1f103:
@@ -1774,7 +1774,7 @@ translate korean d14s05_f2779c60:
 translate korean d14s05_5e17dbef:
 
     # arj "Anal virginities, apparently."
-    arj "처음으로 내 엉덩이로 하게 해 줄게."
+    arj "처음으로 내 엉덩이 쓰게 해 줄게."
 
 # game/code/d14/d14s05.rpy:913
 translate korean d14s05_01406b3d:
@@ -1804,7 +1804,7 @@ translate korean d14s05_81555541:
 translate korean d14s05_a0305e3d:
 
     # mc "Hey Daisy! How are you doing on this fine day?"
-    mc "안녕 데이지! 오늘 날씨도 좋은데 기분은 어때?"
+    mc "안녕, 데이지! 오늘 날씨도 좋은데 기분은 어때?"
 
 # game/code/d14/d14s05.rpy:929
 translate korean d14s05_6b36ddaa:
@@ -1918,7 +1918,7 @@ translate korean d14s05_f0f903bc:
 translate korean d14s05_9e78792a:
 
     # dd "Tell you later. Right now I need a dip in the pool and then to find your opponent."
-    dd "나중에 말해 줄게. 당장 난 수영장에 몸 좀 담구고 상대 찾아 봐야겠다."
+    dd "나중에 말해 줄게. 지금은 수영장에 몸 좀 담구고 상대나 찾아 봐야겠다."
 
 # game/code/d14/d14s05.rpy:978
 translate korean d14s05_5f1fab88:
@@ -1948,13 +1948,13 @@ translate korean d14s05_ae45d47e:
 translate korean d14s05_fb8e4d6f:
 
     # arj "And ruin her fun? Just have some patience. You'll find out - all in good time."
-    arj "재미를 망칠 생각이야? 좀 참아. 때가 되면 어차피 알게 될 텐데."
+    arj "재미를 망칠 생각이야? 좀 참아. 어차피 때가 되면 알게 될 텐데."
 
 # game/code/d14/d14s05.rpy:991
 translate korean d14s05_8a2e14d5:
 
     # mc "It better be a good time."
-    mc "좋은 때면 좋겠네."
+    mc "그때라는 게 좋은 때면 좋겠다."
 
 # game/code/d14/d14s05.rpy:993
 translate korean d14s05_5b6f9b70:
@@ -1972,13 +1972,13 @@ translate korean d14s05_e2d570c6:
 translate korean d14s05_1e5f04e3:
 
     # mc "Hey beautiful - all done with your girl stuff?"
-    mc "안녕, 미인 분. 두 분께서 모든 준비 마치신 거야?"
+    mc "안녕, 미인 분. 둘이서 할 일은 전부 마친 거야?"
 
 # game/code/d14/d14s05.rpy:1013
 translate korean d14s05_96f9670f:
 
     # sy "Yep! Thank you so much for your help, Lydia."
-    sy "응! 나 네 덕택이야, 리디아."
+    sy "응! 다 네 덕택이야, 리디아."
 
 # game/code/d14/d14s05.rpy:1016
 translate korean d14s05_fcef64cf:
@@ -2032,13 +2032,13 @@ translate korean d14s05_dfb9b54c:
 translate korean d14s05_2bb4f063:
 
     # lc "[mcname], I need you."
-    lc "[mcname], 같이 갈 일이 있어."
+    lc "[mcname], 같이할 일이 있어."
 
 # game/code/d14/d14s05.rpy:1042
 translate korean d14s05_b91821f6:
 
     # mc "Tell me something I don't know. {w}What for?"
-    mc "기꺼이 갈게. {w}무슨 일인데?"
+    mc "기꺼이 할게. {w}무슨 일인데?"
 
 # game/code/d14/d14s05.rpy:1044
 translate korean d14s05_f70cc4be:

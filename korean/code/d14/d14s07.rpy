@@ -112,7 +112,7 @@ translate korean d14s07_c5bceaae:
 translate korean d14s07_78ab909b:
 
     # cl "Shut it! Listen.{w} Before he died, he told you all about his wife and life and everything you needed to know."
-    cl "닥쳐! 듣기나 해.{w} 남편은 죽기 전, 자기 부인, 자신의 삶, 네가 알아야 하는 모든 걸 알려 줬어."
+    cl "닥쳐! 듣기나 해.{w} 남편은 죽기 전에 자기 부인, 자신의 삶, 네가 알아야 하는 모든 걸 알려 줬어."
 
 # game/code/d14/d14s07.rpy:125
 translate korean d14s07_a064c830:
@@ -130,7 +130,7 @@ translate korean d14s07_b95aa2d3:
 translate korean d14s07_7c1e88dd:
 
     # mc "And then we have sex?"
-    mc "그리고 나서 우리가 섹스를 한다?"
+    mc "그리고 나서 우리는 섹스를 한다?"
 
 # game/code/d14/d14s07.rpy:133
 translate korean d14s07_21911d70:
@@ -256,7 +256,7 @@ translate korean d14s07_e97bc3c2:
 translate korean d14s07_d138ee11:
 
     # mc "Thoughts of me must have kept you awake at night."
-    mc "넌 날 잊을 수 없어 밤엔 잠도 못 이뤘겠지."
+    mc "넌 날 잊을 수 없어서 밤엔 잠도 못 이뤘겠지."
 
 # game/code/d14/d14s07.rpy:201
 translate korean d14s07_4f6a24ba:
@@ -274,7 +274,7 @@ translate korean d14s07_b8626c29:
 translate korean d14s07_de484faf:
 
     # cl "...and the horrible orders you must have followed just to survive."
-    cl "... 그리고 제가 그저 살기 위해 따라야만 했던 당신의 끔찍한 명령 모두."
+    cl "... 그리고 그저 살기 위해 제가 따라야만 했던 당신의 끔찍한 명령 모두."
 
 # game/code/d14/d14s07.rpy:206
 translate korean d14s07_99a1853d:
@@ -508,13 +508,13 @@ translate korean d14s07_pussy_f262f870:
 translate korean d14s07_pussy_da9b733f:
 
     # mc "Yeah, but... just metaphysically. I didn't expect them to surgically reattach-"
-    mc "그렇긴 한데... 그냥 비유적으로 그런 줄 알았지. 수술로 다시 붙였단느 소리인 줄은-"
+    mc "그렇긴 한데... 그냥 비유적으로 그런 줄 알았지. 수술로 다시 붙였다는 소리인 줄은-"
 
 # game/code/d14/d14s07.rpy:388
 translate korean d14s07_pussy_88f4c62f:
 
     # cl "You don't need to understand the metaphysics right now!"
-    cl "지금 무슨 형이상학 이해하려고 해!"
+    cl "지금 무슨 비유니 은유니 뭘 따지려고 해!"
 
 # game/code/d14/d14s07.rpy:394
 translate korean d14s07_pussy_02690b1c:
@@ -670,7 +670,7 @@ translate korean d14s07_cleanup_47250789:
 translate korean d14s07_cleanup_843c29d2:
 
     # mc "You're a pretty good fuck."
-    mc "너랑 꽤 괜찮게 한판했어."
+    mc "너랑은 꽤 괜찮게 한판했어."
 
 # game/code/d14/d14s07.rpy:506
 translate korean d14s07_cleanup_1af18d84:
