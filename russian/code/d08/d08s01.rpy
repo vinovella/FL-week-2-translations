@@ -346,7 +346,7 @@ translate russian d08s01_bathe_e5a4cd9b:
 translate russian d08s01_bathe_1850262c:
 
     # sy "If you break her heart, well... {w}I'm sure you can imagine."
-    sy "Если ты разобьешь её сердце, что ж... {w}Я уверена, что ты понимаешь."
+    sy "Если ты разобьешь её сердце, то... {w}Я уверена, что ты понимаешь."
 
 # game/code/d08/d08s01.rpy:253
 translate russian d08s01_bathe_3dc90035:
