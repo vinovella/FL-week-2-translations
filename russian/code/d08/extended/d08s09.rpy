@@ -238,7 +238,7 @@ translate russian replay_d08s09_65c7376f:
 translate russian replay_d08s09_2fb33105:
 
     # jf "Not really... I undercharged on this one. But that is my fault as I wasn't familiar what all the costs would be."
-    jf "Не совсем... Я неправильно рассчитала цену, так как я не знала, во сколько обойдутся все затраты."
+    jf "Не совсем... Я неправильно рассчитала цену, так как не знала, во сколько обойдутся все затраты."
 
 # game/code/d08/extended/d08s09.rpy:230
 translate russian replay_d08s09_337436e1:
