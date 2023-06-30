@@ -112,7 +112,7 @@ translate korean d14s15_cf1adef2:
 translate korean d14s15_90dfc847:
 
     # sb "If you ask Dahlia, Daisy, or anyone else who went to school with us you'll get a completely different story about what happened."
-    sb "달리아, 데이지, 우리랑 같은 학교에 다녔던 얘들 누구한테 물어 봤어도, 그때 일에 관해선 전혀 다른 이야기를 들었을 거야."
+    sb "달리아, 데이지, 우리랑 같은 학교에 다녔던 애들 누구한테 물어 봤어도, 그때 일에 관해선 전혀 다른 이야기를 들었을 거야."
 
 # game/code/d14p2/d14s15.rpy:71
 translate korean d14s15_23359b9d:

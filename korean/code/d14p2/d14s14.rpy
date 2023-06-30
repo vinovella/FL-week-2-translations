@@ -370,7 +370,7 @@ translate korean d14s14_winner_2b88bfb2:
 translate korean d14s14_winner_9437fd55:
 
     # dd "[mcname] definitely has full control of the situation!"
-    dd "[mcname] 선수 이 상황은 완전히 통제합니다!"
+    dd "[mcname] 선수 이 상황을 완전히 통제합니다!"
 
 # game/code/d14p2/d14s14.rpy:274
 translate korean d14s14_winner_44860ab8:
@@ -382,7 +382,7 @@ translate korean d14s14_winner_44860ab8:
 translate korean d14s14_winner_4f4dc8b6:
 
     # dd "It's just a question of whether [mcname] is evil enough to push past her pain threshold!"
-    dd "[mcname] 선수가 더 이상 참을 수 없을 때까지 사미야 선수를 아프게 만들 정도로 나쁜 사람인지가 문제군요!"
+    dd "[mcname] 선수가 더 이상 참을 수 없을 때까지 사미야 선수를 아프게 만들 정도로 나쁜 사람인지가 관건이로군요!"
 
 # game/code/d14p2/d14s14.rpy:279
 translate korean d14s14_winner_9a5e9d16:
@@ -934,5 +934,5 @@ translate korean strings:
 
     # game/code/d14p2/d14s14.rpy:591
     old "I Like This Feeling!!!"
-    new "이 느낌이 마음에 든다!!!"
+    new "이 느낌 마음에 든다!!!"
 

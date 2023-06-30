@@ -10,7 +10,7 @@ translate korean d14s11_68347417:
 translate korean d14s11_7ab7777a:
 
     # sy "Isn't that why we're all here?"
-    sy "그래서 있는 거잖아?"
+    sy "그래서 우리가 여기 다 모여 있는 거잖아?"
 
 # game/code/d14p2/d14s11.rpy:33
 translate korean d14s11_91d5a63c:
@@ -40,7 +40,7 @@ translate korean d14s11_44361b36:
 translate korean d14s11_b5af82b8:
 
     # lc "Shhh... tables don't talk."
-    lc "쉬이이잇... 상은 말하지 않아."
+    lc "쉬이이잇... 식탁은 말하지 않아."
 
 # game/code/d14p2/d14s11.rpy:48
 translate korean d14s11_4e475969:
@@ -166,7 +166,7 @@ translate korean d14s11_25e53132:
 translate korean d14s11_87b7898f:
 
     # aw "Just as long as [mcname] doesn't forget who his main squeeze is, you're good with that?"
-    aw "[mcname] 얘가 진짜 여자 친구가 누구인지 잊지만 않으면, 넌 전부 괜찮다?"
+    aw "[mcname] 얘가 누가 진짜 여자 친구인지 잊지만 않으면, 넌 전부 괜찮다?"
 
 # game/code/d14p2/d14s11.rpy:114
 translate korean d14s11_10bdbab7:
@@ -286,7 +286,7 @@ translate korean d14s11_044b11fa:
 translate korean d14s11_e4365d6e:
 
     # arj "What did Iona call this?"
-    arj "아이오나가 이 술이 무슨 술이라고 했더라?"
+    arj "아이오나가 이게 무슨 술이라고 했더라?"
 
 # game/code/d14p2/d14s11.rpy:172
 translate korean d14s11_dd25b747:
@@ -508,7 +508,7 @@ translate korean d14s11_7366d431:
 translate korean d14s11_425d38e1:
 
     # sy "Stacy. You stole my luggage."
-    sy "난 스테이시. 네가 내 가방을 훔쳤었지."
+    sy "난 스테이시야. 네가 내 가방을 훔쳤었지."
 
 # game/code/d14p2/d14s11.rpy:280
 translate korean d14s11_861e6cff:
@@ -832,7 +832,7 @@ translate korean d14s11_b615ddd6:
 translate korean d14s11_aw_f800bed0:
 
     # mc "Yes."
-    mc "그치."
+    mc "그렇지."
 
 # game/code/d14p2/d14s11.rpy:489
 translate korean d14s11_aw_4d7606a2:
