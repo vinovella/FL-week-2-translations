@@ -94,7 +94,7 @@ translate korean d14s17_73b32406:
 translate korean d14s17_e748a158:
 
     # op "I'm sorry, that was...just, I'm sorry. I shouldn't have asked."
-    op "죄송해요, 이건... 그냥, 죄송해요. 여쭈어보지 말아야 했는데."
+    op "죄송해요, 이건... 그냥, 죄송해요. 이런 건 여쭈어보지 말아야 했는데."
 
 # game/code/d14p2/d14s17.rpy:98
 translate korean d14s17_266679ea:
@@ -148,7 +148,7 @@ translate korean d14s17_69c25b65:
 translate korean d14s17_68683a72:
 
     # op "The party was fun though!"
-    op "참 파티 정말 재미있었어요!"
+    op "파티 정말 재미있었어요!"
 
 # game/code/d14p2/d14s17.rpy:129
 translate korean d14s17_dc58bff7:

@@ -34,7 +34,7 @@ translate korean d14s19_sy_c2ff0052:
 translate korean d14s19_sy_a5e69829:
 
     # sy "I wanted everything to be just perfect. I wanted to look just perfect for you."
-    sy "난 그저 모든 게 완벽했으면 해. 너한테 내가 완벽해 보이길 바란단 말야."
+    sy "난 그저 모든 게 완벽했으면 해. 내가 너한테 완벽해 보이길 바란단 말야."
 
 # game/code/d14p2/d14s19_sy.rpy:156
 translate korean d14s19_sy_f3f8e0f5:
@@ -58,7 +58,7 @@ translate korean d14s19_sy_ee3b8bb1:
 translate korean d14s19_sy_f355bc8a:
 
     # sy "Even though we've done a lot of teasing, I just didn't think this would ever happen."
-    sy "서로 잔뜩 지분거리긴 했어도, 정말 이런 일이 일어날 거라곤 생각도 못했어."
+    sy "서로 잔뜩 지분거리긴 했어도, 정말 이런 일이 생기게 될 거라곤 생각도 못했어."
 
 # game/code/d14p2/d14s19_sy.rpy:167
 translate korean d14s19_sy_7aff92b9:
@@ -142,7 +142,7 @@ translate korean d14s19_sy_bb1bd386:
 translate korean d14s19_sy_ad9a0c28:
 
     # sy "We've been keeping track. You are at 19 right now."
-    sy "우리가 계속 확인을 했어. 지금까지 19명이야."
+    sy "우리가 계속 확인했어. 지금까지 19명이야."
 
 # game/code/d14p2/d14s19_sy.rpy:208
 translate korean d14s19_sy_b8de06d3:
@@ -184,7 +184,7 @@ translate korean d14s19_sy_6b85b289:
 translate korean d14s19_sy_c8c947dc:
 
     # mc "I didn't have a perfect outfit picked out. {w}Hell, I'm not even wearing an outfit today."
-    mc "난 이 순간을 위한 옷 같은 걸 골라 둔 것도 아냐. {w}망할, 오늘은 옷 같은 건 입지도 못했어."
+    mc "내가 이 순간을 위해 옷 같은 걸 골라 둔 것도 아냐. {w}망할, 오늘은 옷 같은 건 입지도 못했어."
 
 # game/code/d14p2/d14s19_sy.rpy:240
 translate korean d14s19_sy_3fa931cb:
@@ -196,7 +196,7 @@ translate korean d14s19_sy_3fa931cb:
 translate korean d14s19_sy_4163fac9:
 
     # mc "And I can't imagine you ever looking sexier than you do right now."
-    mc "그리고 지금보다 더 섹시한 네 모습은 상상할 수도 없어."
+    mc "그리고 지금 네 모습보다 더 섹시한 모습은 상상조차 할 수도 없어."
 
 # game/code/d14p2/d14s19_sy.rpy:248
 translate korean d14s19_sy_1c99c683:
@@ -256,7 +256,7 @@ translate korean d14s19_sy_bed_37bd4c02:
 translate korean d14s19_sy_bed_a3cf6706:
 
     # mc "I agree! You need to teach me some of that later."
-    mc "나도 같은 생각이야! 나중에 나도 좀 알려 줘."
+    mc "나도 같은 생각이야! 나중에 나한테도 좀 알려 줘."
 
 # game/code/d14p2/d14s19_sy.rpy:389
 translate korean d14s19_sy_bed_cda15693:
@@ -286,7 +286,7 @@ translate korean d14s19_sy_bed_1b970b6a:
 translate korean d14s19_sy_eggchair_76da22b0:
 
     # mc "Oh Stacy! That feels amazing!"
-    mc "아 스테이시! 놀라운 느낌이 들어!"
+    mc "아 스테이시! 놀라운 느낌이야!"
 
 # game/code/d14p2/d14s19_sy.rpy:463
 translate korean d14s19_sy_eggchair_3542a592:
@@ -418,13 +418,13 @@ translate korean d14s19_sy_mirror_35a77214:
 translate korean d14s19_sy_mirror_cda4eaa7:
 
     # sy "You've really gotten my engine going!"
-    sy "정말 열심히 한다고!"
+    sy "넌 내가 정말 열심히 움직이게 만들어!"
 
 # game/code/d14p2/d14s19_sy.rpy:848
 translate korean d14s19_sy_mirror_18d5d69b:
 
     # mc "Fuck! You're making me so hard!"
-    mc "씨발! 단단하게 만들긴!"
+    mc "씨발! 네가 이렇게 단단하게 만들었잖아!"
 
 # game/code/d14p2/d14s19_sy.rpy:852
 translate korean d14s19_sy_mirror_d633cd10:
@@ -526,7 +526,7 @@ translate korean d14s19_sy_cum_mouth_59375e63:
 translate korean d14s19_sy_cum_mouth_cb5624c6:
 
     # mct "I still can't believe this is happening."
-    mct "아직도 이런 일이 생겼다는 게 믿기지가 않아"
+    mct "아직도 이런 일이 했다는 게 믿기지가 않아"
 
 # game/code/d14p2/d14s19_sy.rpy:993
 translate korean d14s19_sy_cum_mouth_d27cfc80:
@@ -700,7 +700,7 @@ translate korean d14s19_sy_end_b2a7c242:
 translate korean d14s19_sy_end_c98be381:
 
     # sy "You're too much for one woman to handle. So, we have to team up on you."
-    sy "넌 한 여자가 다루기엔 너무 과분해. 그래서 우린 협력해 돼."
+    sy "넌 한 여자가 다루기엔 너무 과분해. 그래서 우린 협력해야 돼."
 
 # game/code/d14p2/d14s19_sy.rpy:1103
 translate korean d14s19_sy_end_6f0ba34d:
@@ -712,7 +712,7 @@ translate korean d14s19_sy_end_6f0ba34d:
 translate korean d14s19_sy_end_42378901:
 
     # sy "It's a recent development."
-    sy "최근 관심을 갖고 있어."
+    sy "최근에 관심을 갖기 시작했지."
 
 # game/code/d14p2/d14s19_sy.rpy:1109
 translate korean d14s19_sy_end_1581d095:
@@ -916,7 +916,7 @@ translate korean d14s19_sy_end_415fc9f3:
 translate korean d14s19_sy_end_509c7a65:
 
     # mct "Oh, right. Stacy prefers it that way."
-    mct "아, 맞다. 스테이시는 이 편을 좋아하지."
+    mct "아, 맞다. 스테이시는 이 편을 더 좋아하지."
 
 # game/code/d14p2/d14s19_sy.rpy:1225
 translate korean d14s19_sy_end_9a659982:

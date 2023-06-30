@@ -142,7 +142,7 @@ translate korean d14s18_3870f8ed:
 translate korean d14s18_bbb594f6:
 
     # ir "Cool off a bit and I'll think about it."
-    ir "술 좀 깨면, 생각해 볼게."
+    ir "술 좀 깨면, 고려해 볼게."
 
 # game/code/d14p2/extended/d14s18.rpy:137
 translate korean d14s18_ed7e57c4:
@@ -256,7 +256,7 @@ translate korean d14s18_aae4c389:
 translate korean d14s18_82419126:
 
     # dd "Alright. I'm gonna piss and see what everyone is up to."
-    dd "알겠어. 난 오줌 좀 싸고 다른 얘들 얼굴 좀 상태 좀 보러 갈게."
+    dd "알겠어. 난 오줌 좀 싸고 다른 애들 상태 좀 보러 갈게."
 
 # game/code/d14p2/extended/d14s18.rpy:223
 translate korean d14s18_6b7c9608:
@@ -268,7 +268,7 @@ translate korean d14s18_6b7c9608:
 translate korean d14s18_0419d335:
 
     # mc "Later."
-    mc "나중에."
+    mc "나중에 봐."
 
 # game/code/d14p2/extended/d14s18.rpy:229
 translate korean d14s18_090b199d:
@@ -352,7 +352,7 @@ translate korean replay_d14s18_fa3e9da8:
 translate korean replay_d14s18_520a90c7:
 
     # mc "There's a perfectly fine pool out there and you {i}had{/i} to swim in here, didn't you?"
-    mc "밖에 멀정한 수영장이 있는데, 넌 여기서 수영을 {i}해야 한 거로군{/i}?"
+    mc "밖에 멀쩡한 수영장이 있는데, 넌 여기서 수영을 {i}해야 한 거로군{/i}?"
 
 # game/code/d14p2/extended/d14s18.rpy:301
 translate korean replay_d14s18_dcbcaff5:
