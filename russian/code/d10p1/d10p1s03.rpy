@@ -1220,7 +1220,7 @@ translate russian strings:
 
     # game/code/d10p1/d10p1s03.rpy:344
     old "Don't bother"
-    new "Не беспокоится"
+    new "Не беспокоиться"
 
     # game/code/d10p1/d10p1s03.rpy:344
     old "See what's going on"

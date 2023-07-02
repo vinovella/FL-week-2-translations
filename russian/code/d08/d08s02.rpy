@@ -274,7 +274,7 @@ translate russian d08s02_d6a708f5:
 translate russian d08s02_0eb195e2:
 
     # sy "So, anyway, I wanted to ask you if you've ever tried it."
-    sy "В общем, я хотела спросить, пробовали ли вы когда-нибудь это делать."
+    sy "В общем, я хотела спросить, пробовал ли ты когда-нибудь это делать."
 
 # game/code/d08/d08s02.rpy:129
 translate russian d08s02_809ed845:

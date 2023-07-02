@@ -994,7 +994,7 @@ translate russian d10p1s01_9e7d54f0:
 translate russian d10p1s01_476b6604:
 
     # mct "Oh, and there's Allison, wearing a pink tracker."
-    mct "О, а вот и Эллисон с розовом трекером."
+    mct "О, а вот и Эллисон с розовым трекером."
 
 # game/code/d10p1/d10p1s01.rpy:378
 translate russian d10p1s01_7f7e464c:
@@ -1006,7 +1006,7 @@ translate russian d10p1s01_7f7e464c:
 translate russian d10p1s01_2d91ba4e:
 
     # arjfl "You mean the maid outfit? {w}I mean, I was required to wear this."
-    arjfl "Ты имеешь в виду наряд горничной? {w}У меня такое-же."
+    arjfl "Ты имеешь в виду наряд горничной? {w}У меня такой-же."
 
 # game/code/d10p1/d10p1s01.rpy:382
 translate russian d10p1s01_84a19406:

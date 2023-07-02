@@ -244,7 +244,7 @@ translate russian d10s07_b0b77813:
 translate russian d10s07_a57c82f5:
 
     # arj "Naked, wet, and waiting for you?"
-    arj "Голый, мокрый и ждущей тебя?"
+    arj "Голой, мокрой и ждущей тебя?"
 
 # game/code/d10/d10s07.rpy:106
 translate russian d10s07_f36e5aec:

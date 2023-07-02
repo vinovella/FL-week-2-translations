@@ -552,7 +552,7 @@ translate russian d11s01_2ff70196:
 translate russian d11s01_28ed97c8:
 
     # flr "If you accomplish this you will be eligible for the grand prize of $$1kk."
-    flr "Если вы это сделаете, то получите право на главный приз в размере $$1kk."
+    flr "Если вы это сделаете, то получите право на главный приз в размере {i}одного миллиона долларов{/i}."
 
 # game/code/d11/d11s01.rpy:56
 translate russian d11s01_1d44b4e7:
@@ -600,7 +600,7 @@ translate russian d11s01_38be3a8d:
 translate russian d11s01_28ed97c8_1:
 
     # flr "If you accomplish this you will be eligible for the grand prize of $$1kk."
-    flr "Если вы это сделаете, то получите возможность участвовать в розыгрыше главного приза в размере $$1kk."
+    flr "Если вы это сделаете, то получите возможность участвовать в розыгрыше главного приза в размере {i}одного миллиона долларов{/i}."
 
 # game/code/d11/d11s01.rpy:251
 translate russian d11s01_4829437f:

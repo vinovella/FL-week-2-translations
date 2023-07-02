@@ -916,7 +916,7 @@ translate russian d12s01_mk_sex_64256753:
 translate russian d12s01_mk_sex_d86da8e1:
 
     # arj "Master, would you mind applying some of that lubricant to your massive engorged penis?"
-    arj "Господин, не мог бы ты нанести немного этой смазки на свой огромный пенис?"
+    arj "Господин, не мог бы ты нанести немного этой смазки на свой огромный член?"
 
 # game/code/d12/d12s01.rpy:482
 translate russian d12s01_mk_sex_e8d6f139:

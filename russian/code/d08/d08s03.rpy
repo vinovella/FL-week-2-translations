@@ -310,7 +310,7 @@ translate russian d08s03_d661624e:
 translate russian d08s03_c18f900e:
 
     # arj "Oh! You can use it like a \"Get out of jail free\" to pass on a goal that you otherwise would have failed."
-    arj "О! Её можно использовать как \"Освобождение от наказания\", чтобы избежать наказания, который в противном случае настигло бы меня."
+    arj "О! Её можно использовать как \"Освобождение от наказания\", чтобы избежать наказания, которое в противном случае настигло бы меня."
 
 # game/code/d08/d08s03.rpy:138
 translate russian d08s03_876c474c:
