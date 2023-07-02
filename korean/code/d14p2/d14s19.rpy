@@ -16,7 +16,7 @@ translate korean d14s19_c17ef8ec:
 translate korean d14s19_101b5c95:
 
     # ir "Equal parts Vodka and Peach Schnapps, a couple splashes of Chambord, with whipped cream, and a cherry on top."
-    ir "보드카와 복숭아 슈냅스를 같은 비율로 넣고, 샹보르를 두 번 끼얹은 다음, 휘핑크림 얹고, 체리를 올렸답니ㄷ."
+    ir "보드카와 복숭아 슈냅스를 같은 비율로 넣고, 샹보르를 두 번 끼얹은 다음, 휘핑크림 얹고, 체리를 올렸답니다."
 
 # game/code/d14p2/d14s19.rpy:32
 translate korean d14s19_5c80c827:
@@ -88,7 +88,7 @@ translate korean d14s19_e980f8a5:
 translate korean d14s19_903715ef:
 
     # ir "Nicely played. How's your drink?"
-    ir "캘러한이 따로 없는데. 그래 마시니 어때?"
+    ir "캘러한이 따로 없는데. 그건 그렇고 칵테일은 어때?"
 
 # game/code/d14p2/d14s19.rpy:68
 translate korean d14s19_aa50c947:
@@ -148,7 +148,7 @@ translate korean d14s19_ffd64f6c:
 translate korean d14s19_b1fb1dda:
 
     # mc "Only if you ask me nicely."
-    mc "정중하게 부탁하면."
+    mc "정중하게 부탁하면 고려해 보지."
 
 # game/code/d14p2/d14s19.rpy:96
 translate korean d14s19_a3b82987:
@@ -178,7 +178,7 @@ translate korean d14s19_cc8f1880:
 translate korean d14s19_f6ef13ca:
 
     # ir "If you like I can pour you another drink, but that's it. {w}I promised Hana that I wouldn't mess around with anyone during this party."
-    ir "한 잔 더 원하는 거면 줄 수 있어. 하지만 그거 뿐이야. {w}오늘 파티에서 누구하고도 장난 안 치겠다고 하나한테 약속했거든."
+    ir "한 잔 더 원하는 거면 줄 수 있어. 하지만 그거 뿐이야. {w}오늘 파티에서 누구하고도 장난 안 치겠다고 하나랑 약속했거든."
 
 # game/code/d14p2/d14s19.rpy:110
 translate korean d14s19_c407246b:
