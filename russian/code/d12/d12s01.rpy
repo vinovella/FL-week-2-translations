@@ -1600,7 +1600,7 @@ translate russian strings:
 
     # game/code/d12/d12s01.rpy:680
     old "Creampie Maria's Ass"
-    new "Кремпай в заднице Мари"
+    new "Кремпай в заднице Марии"
 
     # game/code/d12/d12s01.rpy:857
     old "I want to see the photos"

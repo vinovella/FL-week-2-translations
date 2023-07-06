@@ -178,7 +178,7 @@ translate russian d10p2s04_dd_b228d90a:
 translate russian d10p2s04_dd_81fdd5e1:
 
     # mc "\"For the most part?\""
-    mc "\"Больше всех?\""
+    mc "\"Больше всех\"?"
 
 # game/code/d10p2/d10p2s04-dd.rpy:220
 translate russian d10p2s04_dd_bf9cae10:
@@ -838,7 +838,7 @@ translate russian d10p2s04_dd_e55a82b8:
 translate russian d10p2s04_dd_83fa573a:
 
     # dd "My tits are sensitive! I'll slap {i}your{/i} tits if you ever try to paddle mine."
-    dd "У меня такие чувствительные сиськи!  отшлёпаю {i}твои{/i} сиськи, если ты когда-нибудь попытаешься сделать это."
+    dd "У меня такие чувствительные сиськи! Я отшлёпаю {i}твои{/i} сиськи, если ты когда-нибудь попытаешься сделать это."
 
 # game/code/d10p2/d10p2s04-dd.rpy:619
 translate russian d10p2s04_dd_a35d69c8:

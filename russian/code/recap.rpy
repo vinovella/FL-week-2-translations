@@ -22,7 +22,7 @@ translate russian d08s00_week1synopsis_28064d5b:
 translate russian d08s00_week1synopsis_1aec8a12:
 
     # "[mcname] ignored the woman in his roommate's bed and went for a shower."
-    "[mcname] проигнорировал девушку в постели своей соседа и пошел в душ."
+    "[mcname] проигнорировал девушку в постели своего соседа и пошел в душ."
 
 # game/code/recap.rpy:74
 translate russian d08s00_week1synopsis_4f889512:

@@ -1232,7 +1232,7 @@ translate russian strings:
 
     # game/code/d10p1/d10p1s03.rpy:447
     old "Help{#d10p1s03}"
-    new "Помощь {#d10p1s03}"
+    new "Помочь {#d10p1s03}"
 
     # game/code/d10p1/d10p1s03.rpy:447
     old "Don't"

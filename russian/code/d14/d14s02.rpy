@@ -82,13 +82,13 @@ translate russian d14s02_b1fc04c7:
 translate russian d14s02_4e0439b2:
 
     # mc "Tells me that I'm gonna fail the challenge, that I'm gonna have my dick taken away."
-    mc "И она стала говорить мне, что я провалю задание, что у меня отрежут член."
+    mc "И она стала говорить мне, что я провалю задание, что мне отрежут член."
 
 # game/code/d14/d14s02.rpy:104
 translate russian d14s02_09cd86e6:
 
     # mc "And then she's like \"Well I'm gonna take it first muahaha!\" and then brings out this huge fuck off pair of scissors from God knows where and goes to chop off my dick."
-    mc "А потом она говорит: \"Но я заберу его первой, муахаха!\" и достает, бог знает откуда, огромные ножницы и начинает отрезать мне член."
+    mc "А потом она говорит: \"Но я заберу его первой, муахаха!\" и достает, бог знает откуда, огромные ножницы и начинает отрезать мой член."
 
 # game/code/d14/d14s02.rpy:106
 translate russian d14s02_e0f7c330:

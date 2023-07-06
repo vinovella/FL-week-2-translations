@@ -178,7 +178,7 @@ translate russian d11s05_ff53b3b1:
 translate russian d11s05_10e272df:
 
     # mct "I would be fucking over my friend big time if he turns out to be innocent."
-    mct "Я бы сильно подставил своего друга, если он окажется невиновен."
+    mct "Я могу подставить своего друга, если он невиновен."
 
 # game/code/d11/d11s05.rpy:163
 translate russian d11s05_74ad775a:
