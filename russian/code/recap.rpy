@@ -924,29 +924,29 @@ translate russian d08s00_week1synopsis_7c59af2b:
 translate russian d08s00_week1synopsis_f49a455e:
 
     # "[mcname] came to her rescue, and in the process, learned that she was put into a secretive \"VIP Fetish Challenge Program\" to win one million dollars."
-    "[mcname] came to her rescue, and in the process, learned that she was put into a secretive \"VIP Fetish Challenge Program\" to win one million dollars."
+    "[mcname] пришел ей на помощь и в процессе узнал, что она стала участницей секретной программы \"VIP Fetish Challenge Program\", чтобы выиграть один миллион долларов."
 
 # game/code/recap.rpy:286
 translate russian d08s00_week1synopsis_bb08f530:
 
     # "When he tried to delete the app from his phone, he too got put into the VIP Fetish Challenge Program."
-    "When he tried to delete the app from his phone, he too got put into the VIP Fetish Challenge Program."
+    "Когда он попытался удалить приложение со своего телефона, он тоже попал в программу VIP Fetish Challenge."
 
 # game/code/recap.rpy:291
 translate russian d08s00_week1synopsis_f606ec88:
 
     # "Allured by the prospect of winning the prize, he spent the night learning all he could about the app, the terms and conditions, and this strange challenge."
-    "Allured by the prospect of winning the prize, he spent the night learning all he could about the app, the terms and conditions, and this strange challenge."
+    "Окрыленный перспективой выиграть приз, он провел ночь, изучая все, что мог, о приложении, условиях и этом странном испытании."
 
 # game/code/recap.rpy:304
 translate russian d08s00_week1synopsis_cc19b596:
 
     # "A little later that day, he let AmRose know that they were now in the same boat."
-    "A little later that day, he let AmRose know that they were now in the same boat."
+    "Чуть позже в тот же день он сообщил АмРоуз, что они теперь в одной лодке."
 
 # game/code/recap.rpy:386
 translate russian d08s00_week1synopsis_1743400f:
 
     # "Hana revealed many things, including the fact that she was investigating Fetish Locator and trying to figure out a way to win the prize. She had only slept with Pete to get access to his phone."
-    "Hana revealed many things, including the fact that she was investigating Fetish Locator and trying to figure out a way to win the prize. She had only slept with Pete to get access to his phone."
+    "Хана рассказала много нового, в том числе и о том, что она расследует деятельность Фетиш Локатора и пытается найти способ выиграть приз. Она переспала с Питом только для того, чтобы получить доступ к его телефону."
 

@@ -32,9 +32,9 @@ translate russian strings:
 
     # game/code/functions.rpy:269
     old "You can only select two out of Min, Lyssa and Maria"
-    new "You can only select two out of Min, Lyssa and Maria"
+    new "Вы можете выбрать только двух персонажей среди Мин, Лиссы или Марии."
 
     # game/code/functions.rpy:271
     old "You can only select one out of Daisy and Dahlia"
-    new "You can only select one out of Daisy and Dahlia"
+    new "Вы можете выбрать только одну девушку: Дейзи или Далию"
 
