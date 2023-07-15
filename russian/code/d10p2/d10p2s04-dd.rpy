@@ -184,7 +184,7 @@ translate russian d10p2s04_dd_81fdd5e1:
 translate russian d10p2s04_dd_bf9cae10:
 
     # dd "I trust you a hell of a lot more than some rando that might come in here and do God knows what to me at least."
-    dd "Я доверяю тебе гораздо больше, чем какому-нибудь другому, который может прийти сюда и сделать бог знает что со мной."
+    dd "Я доверяю тебе гораздо больше, чем какому-нибудь незнакомцу, который может прийти сюда и сделать бог знает что со мной."
 
 # game/code/d10p2/d10p2s04-dd.rpy:223
 translate russian d10p2s04_dd_96f6ea80:

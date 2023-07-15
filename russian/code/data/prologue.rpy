@@ -124,5 +124,5 @@ translate russian strings:
 
     # game/code/data/prologue.rpy:34
     old "Trans Content"
-    new "Trans Content"
+    new "Транс-контент"
 

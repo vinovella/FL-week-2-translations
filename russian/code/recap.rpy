@@ -154,7 +154,7 @@ translate russian d08s00_week1synopsis_2b906c7b:
 translate russian d08s00_week1synopsis_0cc7b989:
 
     # "His advertisement brought him to Polly Wilson, who had something special planned."
-    "Объявление привела его к Полли Уилсон, у которой было запланировано нечто особенное."
+    "Объявление привело его к Полли Уилсон, у которой было запланировано нечто особенное."
 
 # game/code/recap.rpy:166
 translate russian d08s00_week1synopsis_7e655ba7:
@@ -346,7 +346,7 @@ translate russian d08s00_week1synopsis_255f6be0:
 translate russian d08s00_week1synopsis_be9a62da:
 
     # "...IF [mcname] met her for their first REAL date before the concert."
-    "... Ах, ЕСЛИ бы [mcname] познакомился с ней их первом НАСТОЯЩЕМ свидании перед концертом."
+    "... Ах, ЕСЛИ бы [mcname] познакомился с ней на их первом НАСТОЯЩЕМ свидании перед концертом."
 
 # game/code/recap.rpy:259
 translate russian d08s00_week1synopsis_39ede91d:
@@ -430,7 +430,7 @@ translate russian d08s00_week1synopsis_99a5a592:
 translate russian d08s00_week1synopsis_923fc443:
 
     # "A little later that day, he let AmRose know that they were in the same boat of being blackmailed."
-    "Чуть позже в тот же день он дал понять АмРоуз, что они находятся в одной лодке с шантажом."
+    "Чуть позже в тот же день он дал понять АмРоуз, что они находятся в одной лодке - его тоже шантажируют."
 
 # game/code/recap.rpy:295
 translate russian d08s00_week1synopsis_69ddebfd:
@@ -586,7 +586,7 @@ translate russian d08s00_week1synopsis_2f28a84b:
 translate russian d08s00_week1synopsis_378fac55:
 
     # "She felt certain Pete was involved in Fetish Locator, but [mcname] wasn't so sure."
-    "Она была уверена, что Пит участвует управлении Фетиш Локатора, но [mcname] не был в этом уверен."
+    "Она была уверена, что Пит причастен к Фетиш Локатору, но [mcname] не был в этом уверен."
 
 # game/code/recap.rpy:378
 translate russian d08s00_week1synopsis_54357276:
@@ -718,7 +718,7 @@ translate russian d08s00_week1synopsis_821d0429:
 translate russian d08s00_week1synopsis_a9648965:
 
     # "In addition to being a lawyer, she also owns a few properties around the city. Arrangements have been made for Stacy to rent one of her apartments."
-    "Помимо того, что она юрист, она также владеет некоторой недвижимостью по всему городу. Удалось договорится, чтобы Стейси сняла одну из её квартир."
+    "Помимо того, что она юрист, она также владеет некоторой недвижимостью по всему городу. Удалось договориться, чтобы Стейси сняла одну из её квартир."
 
 # game/code/recap.rpy:448
 translate russian d08s00_week1synopsis_9600fb72:
