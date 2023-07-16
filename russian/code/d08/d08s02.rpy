@@ -76,13 +76,13 @@ translate russian d08s02_3c701cb0:
 translate russian d08s02_e6c50c5b:
 
     # arj "Well, yeah. I guess it would be worse if you were a good liar, but still..."
-    arj "Ну, да. Думаю, что было бы хуже, если бы ты был хорошим лжецом, но все же..."
+    arj "Ну, да. Думаю, было бы куда хуже, будь ты хорошим лжецом, но все же..."
 
 # game/code/d08/d08s02.rpy:40
 translate russian d08s02_9f904d03:
 
     # mc "Maybe I just need more practice."
-    mc "Может быть, мне просто нужно больше практики."
+    mc "Может мне просто нужно больше практиковаться."
 
 # game/code/d08/d08s02.rpy:43
 translate russian d08s02_aa573f2e:
@@ -274,7 +274,7 @@ translate russian d08s02_d6a708f5:
 translate russian d08s02_0eb195e2:
 
     # sy "So, anyway, I wanted to ask you if you've ever tried it."
-    sy "В общем, я хотела спросить, пробовали ли вы когда-нибудь это делать."
+    sy "В общем, я хотела спросить, пробовал ли ты когда-нибудь это делать."
 
 # game/code/d08/d08s02.rpy:129
 translate russian d08s02_809ed845:
@@ -352,7 +352,7 @@ translate russian d08s02_1263dd0d:
 translate russian d08s02_85d124a2:
 
     # arj "Wait. Are you saying that [mcname]'s box of porn included guys doing... that?"
-    arj "Подожди. Ты хочешь сказать, что в коробке с порнографией [mcname]а были парни, делающих... это?"
+    arj "Подожди. Ты хочешь сказать, что в коробке с порнографией [mcname]а были парни, делающие... это?"
 
 # game/code/d08/d08s02.rpy:157
 translate russian d08s02_33bab2a0:

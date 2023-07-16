@@ -118,7 +118,7 @@ translate russian d13s03_2ad2c462:
 translate russian d13s03_47c3d4db:
 
     # ir "Okay. Will you allow tips and/or tip jars?"
-    ir "Хорошо. Будет ли разрешены чаевые и/или банки для чаевых?"
+    ir "Хорошо. Будут ли разрешены чаевые и/или банки для чаевых?"
 
 # game/code/d13/d13s03.rpy:117
 translate russian d13s03_adbf2d3c:
@@ -142,7 +142,7 @@ translate russian d13s03_8ef88241:
 translate russian d13s03_e5b374e5:
 
     # ir "Will do. How big is this thing gonna be? Guest-wise I mean."
-    ir "Поговорю. Какого размера будет эта вечеринка? Я имею в виду, с плане количества гостей."
+    ir "Поговорю. Какого размера будет эта вечеринка? Я имею в виду, в плане количества гостей."
 
 # game/code/d13/d13s03.rpy:129
 translate russian d13s03_7979716b:
@@ -358,7 +358,7 @@ translate russian replay_d13s03_b2b1b1cc:
 translate russian replay_d13s03_55d606a7:
 
     # ir "So excitable."
-    ir "Такой возбудимый."
+    ir "Такой возбужденный."
 
 # game/code/d13/d13s03.rpy:268
 translate russian replay_d13s03_bcbb2310:

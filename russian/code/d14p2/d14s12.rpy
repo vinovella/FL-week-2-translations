@@ -214,7 +214,7 @@ translate russian d14s12_41aea3ed:
 translate russian d14s12_e89e7d64:
 
     # aw "Mhm, I'd like that."
-    aw "Мхм, мне бы этого понравилось."
+    aw "Мхм, мне бы это понравилось."
 
 # game/code/d14p2/d14s12.rpy:326
 translate russian d14s12_ccaf7487:

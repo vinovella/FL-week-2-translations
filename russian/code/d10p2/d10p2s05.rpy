@@ -244,7 +244,7 @@ translate russian d10p2s05_fr_cl_chat_d8783e6e:
 translate russian d10p2s05_fr_cl_chat_13c2b920:
 
     # mc "You get assigned someone random and you have to find them within 20 minutes and have a double orgasm with them."
-    mc "Это когда назначают кого-то случайного партнера, и нужно найти его в течение 20 минут и получить с ним взаимный оргазм."
+    mc "Это когда назначают случайного партнера, и нужно найти его в течение 20 минут и получить с ним взаимный оргазм."
 
 # game/code/d10p2/d10p2s05.rpy:404
 translate russian d10p2s05_fr_cl_chat_5a57fd0a:
@@ -652,7 +652,7 @@ translate russian replay_d10p2s05_7c820176:
 translate russian replay_d10p2s05_72068500:
 
     # mh "I'm getting addicted to your cock, you know?"
-    mh "У меня уже зависимость от твоего члена, ты знаешь?"
+    mh "Знаешь, что я пристрастилась к твоему члену?"
 
 # game/code/d10p2/d10p2s05.rpy:681
 translate russian replay_d10p2s05_837419db:

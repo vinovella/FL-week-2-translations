@@ -682,7 +682,7 @@ translate russian d14s14_looser_d723b206:
 translate russian d14s14_looser_78ba33c3:
 
     # dd "That means [mcname] has to do whatever she wants..."
-    dd "Это означает, что [mcname] должна сделать все, что она захочет..."
+    dd "Это означает, что [mcname] должен сделать все, что она захочет..."
 
 # game/code/d14p2/d14s14.rpy:523
 translate russian d14s14_looser_f1edde9d:
@@ -826,7 +826,7 @@ translate russian d14s14_looser_7345d375:
 translate russian d14s14_looser_da98ce16:
 
     # mc "I fucking hate you both."
-    mc "Я ненавижу вас обоих."
+    mc "Я ненавижу вас обеих."
 
 # game/code/d14p2/d14s14.rpy:657
 translate russian d14s14_looser_8fc0ada9:
@@ -935,5 +935,5 @@ translate russian strings:
 translate russian d14s14_e6e632d2:
 
     # mct "On the other hand, I don't really have to win this. I only need the fuck for my current challenge."
-    mct "On the other hand, I don't really have to win this. I only need the fuck for my current challenge."
+    mct "С другой стороны, мне не обязательно побеждать. Мне просто нужен трах для выполнения текущего испытания."
 

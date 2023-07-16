@@ -580,7 +580,7 @@ translate russian d08s10_4e522ece:
 translate russian d08s10_bf58152c:
 
     # sy "Just curious. I've never...{w} I mean, what does someone even charge for that?"
-    sy "Мне просто любопытно. Я никогда... {w}Я имею в виду, что сколько вообще за это берут?"
+    sy "Мне просто любопытно. Я никогда... {w}Я имею в виду, сколько вообще за это берут?"
 
 # game/code/d08/d08s10.rpy:233
 translate russian d08s10_e4fb0d2d:

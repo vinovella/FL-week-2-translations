@@ -70,7 +70,7 @@ translate russian d13s04_59927b5b:
 translate russian d13s04_9d8b36ae:
 
     # mc "I'll always be there for my child. No matter what happens between you and me."
-    mc "Я всегда буду рядом со своим ребенком. Неважно, что будет происходит между нами."
+    mc "Я всегда буду рядом со своим ребенком. Неважно, что будет происходить между нами."
 
 # game/code/d13/d13s04.rpy:42
 translate russian d13s04_0d9f0442:

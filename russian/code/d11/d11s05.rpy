@@ -34,7 +34,7 @@ translate russian d11s05_75470d74:
 translate russian d11s05_1318af3e:
 
     # mct "Mixen? Dixen? Pixen? God, I'd lose to a Goldfish on a memory test."
-    mct "Миксен? Диксен? Пиксен? Боже, я бы проиграл золотой рыбке на тесте на память."
+    mct "Миксен? Диксен? Пиксен? Боже, я бы проиграл золотой рыбке в тесте на память."
 
 # game/code/d11/d11s05.rpy:55
 translate russian d11s05_ba2a0138:
@@ -178,7 +178,7 @@ translate russian d11s05_ff53b3b1:
 translate russian d11s05_10e272df:
 
     # mct "I would be fucking over my friend big time if he turns out to be innocent."
-    mct "Я бы сильно подставил своего друга, если он окажется невиновен."
+    mct "Я могу подставить своего друга, если он невиновен."
 
 # game/code/d11/d11s05.rpy:163
 translate russian d11s05_74ad775a:
@@ -364,35 +364,35 @@ translate russian strings:
 translate russian d11s05_791d313d:
 
     # mct "But I really don't know if Pete is involved..."
-    mct "But I really don't know if Pete is involved..."
+    mct "Но я действительно не уверен, замешан ли Пит..."
 
 # game/code/d11/d11s05.rpy:152
 translate russian d11s05_8f94dc42:
 
     # mct "I could use this to put Pete in the VIP program."
-    mct "I could use this to put Pete in the VIP program."
+    mct "Я могу использовать это, чтобы включить Пита в VIP-программу."
 
 # game/code/d11/d11s05.rpy:157
 translate russian d11s05_c61d471a:
 
     # mct "If Pete is not working for Fetish Locator, he should be eligible."
-    mct "If Pete is not working for Fetish Locator, he should be eligible."
+    mct "Если Пит не работает на Fetish Locator, он должен иметь на это право."
 
 # game/code/d11/d11s05.rpy:167
 translate russian d11s05_f77136f4:
 
     # mct "It wouldn't help my odds of winning to add Pete to the VIP challenges."
-    mct "It wouldn't help my odds of winning to add Pete to the VIP challenges."
+    mct "Добавление Пита в число участников VIP-турнира не увеличит мои шансы на победу."
 
 # game/code/d11/d11s05.rpy:179
 translate russian d11s05_68abdbfc:
 
     # mct "This is a bad idea."
-    mct "This is a bad idea."
+    mct "Это плохая идея."
 
 # game/code/d11/d11s05.rpy:186
 translate russian d11s05_f5abed2d:
 
     # mct "...\"Welcome to the Fetish Locator VIP Program!\""
-    mct "...\"Welcome to the Fetish Locator VIP Program!\""
+    mct "...\"Добро пожаловать в VIP-программу Fetish Locator!\""
 

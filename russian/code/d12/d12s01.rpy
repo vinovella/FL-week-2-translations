@@ -502,7 +502,7 @@ translate russian d12s01_ce377403:
 translate russian d12s01_a5c7a3de:
 
     # arj "More than I expected, but still a long way from the twenty we need."
-    arj "Больше, чем я ожидала, но все еще далеко до двадцати, которые нам нужно."
+    arj "Больше, чем я ожидала, но все еще далеко от необходимых нам двадцати."
 
 # game/code/d12/d12s01.rpy:288
 translate russian d12s01_93314b13:
@@ -916,7 +916,7 @@ translate russian d12s01_mk_sex_64256753:
 translate russian d12s01_mk_sex_d86da8e1:
 
     # arj "Master, would you mind applying some of that lubricant to your massive engorged penis?"
-    arj "Господин, не мог бы ты нанести немного этой смазки на свой огромный пенис?"
+    arj "Господин, не мог бы ты нанести немного этой смазки на свой огромный член?"
 
 # game/code/d12/d12s01.rpy:482
 translate russian d12s01_mk_sex_e8d6f139:
@@ -1600,7 +1600,7 @@ translate russian strings:
 
     # game/code/d12/d12s01.rpy:680
     old "Creampie Maria's Ass"
-    new "Кремпай в заднице Мари"
+    new "Кремпай в заднице Марии"
 
     # game/code/d12/d12s01.rpy:857
     old "I want to see the photos"
@@ -1616,11 +1616,11 @@ translate russian strings:
 translate russian d12s01_1b9a042d:
 
     # mc "And we have a lot to win if I succeed."
-    mc "And we have a lot to win if I succeed."
+    mc "В случае моего успеха мы многое выиграем."
 
 # game/code/d12/d12s01.rpy:382
 translate russian d12s01_a2fa2c23:
 
     # mct "Hmm... Is it related to this VIP challenge?"
-    mct "Hmm... Is it related to this VIP challenge?"
+    mct "Хм... Это связано с этим VIP испытанием?"
 

@@ -322,7 +322,7 @@ translate russian d13s05_bj_aea033d0:
 translate russian d13s05_bj_0e99eacf:
 
     # lc "Although it might be nice if he performed orally on me..."
-    lc "Хотя было бы неплохо, если бы он тоже орально по взаимодействовал со мной..."
+    lc "Хотя было бы неплохо, если бы он занялся оральным сексом со мной..."
 
 # game/code/d13/d13s05.rpy:303
 translate russian d13s05_sidesex_26abe075:

@@ -256,7 +256,7 @@ translate russian d08s01_bathe_11503db8:
 translate russian d08s01_bathe_d8d80034:
 
     # mct "How did she get so sexy?"
-    mct "Как она стала такой сексуальной?"
+    mct "Как ей удалось стать такой сексуальной?"
 
 # game/code/d08/d08s01.rpy:198
 translate russian d08s01_bathe_6d4e0429:
@@ -334,19 +334,19 @@ translate russian d08s01_bathe_22f718c8:
 translate russian d08s01_bathe_28cdfc68:
 
     # sy "So don't even think about hurting her."
-    sy "Так что даже не думай о том, чтобы причинить ей боль."
+    sy "Поэтому даже не вздумай причинить ей боль."
 
 # game/code/d08/d08s01.rpy:248
 translate russian d08s01_bathe_e5a4cd9b:
 
     # sy "She has strong feelings for you."
-    sy "У неё сильное чувство к тебе."
+    sy "У нее сильные чувства к тебе."
 
 # game/code/d08/d08s01.rpy:251
 translate russian d08s01_bathe_1850262c:
 
     # sy "If you break her heart, well... {w}I'm sure you can imagine."
-    sy "Если ты разобьешь ей сердце, то тогда... {w}Уверена, ты можешь себе это представить."
+    sy "Если ты разобьешь её сердце, то... {w}Я уверена, что ты понимаешь."
 
 # game/code/d08/d08s01.rpy:253
 translate russian d08s01_bathe_3dc90035:

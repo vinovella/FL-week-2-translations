@@ -304,13 +304,13 @@ translate russian d11s03_12b2fa40:
 translate russian d11s03_af377c00:
 
     # cl "Well, I won't be letting him throw me on any pool tables and pound me deeply with his cue - I'll tell you that much."
-    cl "Что ж, я не позволю ему швырнуть меня на бильярдный столы и хорошенько наказать своим кием - вот что я скажу."
+    cl "Что ж, я не позволю ему швырнуть меня на бильярдный стол и хорошенько наказать своим кием - вот что я скажу."
 
 # game/code/d11/d11s03.rpy:162
 translate russian d11s03_c24937e8:
 
     # lc "You're impossible."
-    lc "Ты невозможна."
+    lc "Ты неисправима."
 
 # game/code/d11/d11s03.rpy:166
 translate russian d11s03_74de57fb:
@@ -394,7 +394,7 @@ translate russian d11s03_36fc83c9:
 translate russian d11s03_e0237213:
 
     # lc "Still. Neither of those were in the classroom."
-    lc "И все же. Ни того, ни другого в классе на мне не было."
+    lc "И все же. Ни того, ни другого в классе на тебе не было."
 
 # game/code/d11/d11s03.rpy:198
 translate russian d11s03_744338bc:
@@ -574,7 +574,7 @@ translate russian d11s03_12a5256d:
 translate russian d11s03_613e8fac:
 
     # cl "What do you think will happen if she learns that you fucked both of her closest friends?"
-    cl "Как ты думаешь, что будет, если она узнает, что ты трахнул обоих ее самых близких подруг?"
+    cl "Как ты думаешь, что будет, если она узнает, что ты трахнул обеих ее самых близких подруг?"
 
 # game/code/d11/d11s03.rpy:281
 translate russian d11s03_e1de5751:
@@ -760,7 +760,7 @@ translate russian d11s03_4bd3a4d6:
 translate russian d11s03_8248b385:
 
     # cl "You're messing with me. You wouldn't tell her about what we did."
-    cl "Ты меня разыгрываешь. Ты никогда не сказал бы ей о том, что мы сделали."
+    cl "Ты меня разыгрываешь. Ты никогда не сказал бы ей о том, что мы делали."
 
 # game/code/d11/d11s03.rpy:357
 translate russian d11s03_e3726eee:
@@ -1660,17 +1660,17 @@ translate russian strings:
 translate russian d11s03_4a1f60c6:
 
     # cl "That you pinned me against the wall and pounded on my backdoor, then later with Min you alternated between pissing on and pussy pounding."
-    cl "That you pinned me against the wall and pounded on my backdoor, then later with Min you alternated between pissing on and pussy pounding."
+    cl "Как ты прижал меня к стене и долбил в задний проход, а затем с Мин ты чередовал мочеиспускание и долбежку в киску."
 
 # game/code/d11/d11s03.rpy:313
 translate russian d11s03_f1593ce8:
 
     # mct "This is almost funny. She thinks she can play me."
-    mct "This is almost funny. She thinks she can play me."
+    mct "Это почти смешно. Она думает, что может обыграть меня."
 
 # game/code/d11/d11s03.rpy:679
 translate russian d11s03_cb1d4e54:
 
     # mct "Oh crap! Did she say anything about the VIP Program or the potential reward?"
-    mct "Oh crap! Did she say anything about the VIP Program or the potential reward?"
+    mct "Вот дерьмо! Она что-нибудь говорила о VIP-программе или потенциальном вознаграждении?"
 

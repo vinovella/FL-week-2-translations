@@ -830,7 +830,7 @@ translate russian strings:
 
     # game/code/d09/d09s05.rpy:478
     old "Cum inside that whore"
-    new "Кончить внутрь этой шлюхе"
+    new "Кончить внутрь этой шлюхи"
 
     # game/code/d09/d09s05.rpy:478
     old "Cover the whore"

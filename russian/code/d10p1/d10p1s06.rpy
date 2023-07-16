@@ -148,7 +148,7 @@ translate russian d10p1s06_3656a527:
 translate russian d10p1s06_1bf2ce4e:
 
     # ir "Yeah. I mean, I wasn't {i}too{/i} into anybody knowing my name here, but it's not like this dinky little thing will protect my identity."
-    ir "Да. Я имею в виду, что мне бы не хотелось, что кто-то узнал здесь мое имя, но не думаю, что эта маленькая глупая маска защитит мою личность."
+    ir "Да. Я имею в виду, мне не очень хочется, чтобы кто-то знал мое настоящее имя, но не похоже, что эта маленькая штучка защитит мою личность."
 
 # game/code/d10p1/d10p1s06.rpy:81
 translate russian d10p1s06_3fd5220a:

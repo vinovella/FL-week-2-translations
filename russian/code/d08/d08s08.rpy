@@ -112,7 +112,7 @@ translate russian d08s08_660ab639:
 translate russian d08s08_4478f179:
 
     # mct "That's so weird. Pete's too much of a perverteer to be in love with anyone."
-    mct "Это так странно. Пит слишком извращенец, чтобы влюбиться в кого-то."
+    mct "Это так странно. Пит слишком большой извращенец, чтобы в кого-то влюбиться."
 
 # game/code/d08/d08s08.rpy:71
 translate russian d08s08_b663e7ad:
@@ -474,5 +474,5 @@ translate russian d08s08_2fff4bf6:
 translate russian d08s08_3098df80:
 
     # mct "\"Hi... I'm kinda, sorta your boyfriend, but I gotta be able to boink anything to win a million dollars.\""
-    mct "\"Hi... I'm kinda, sorta your boyfriend, but I gotta be able to boink anything to win a million dollars.\""
+    mct "\"Привет... Я вроде как твой парень, но я должен быть в состоянии трахнуть что угодно, чтобы выиграть миллион долларов.\""
 

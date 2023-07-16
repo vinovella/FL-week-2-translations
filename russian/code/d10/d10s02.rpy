@@ -928,5 +928,5 @@ translate russian strings:
 translate russian d10s02_warning_dbc3fbdf:
 
     # mc "Yeah. It's all very suspicious."
-    mc "Yeah. It's all very suspicious."
+    mc "Да. Все это очень подозрительно."
 
