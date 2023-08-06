@@ -88,7 +88,7 @@ translate korean d08s01_ae2bf745:
 translate korean d08s01_ec65327c:
 
     # arj "We might have a few minutes. Is there anything I can do for you?"
-    arj "우리 시간이 좀 있어. 내가 뭐라도 해 줄 게 있을까?"
+    arj "우리 시간이 좀 있어. 내가 뭐라도 해 줄까?"
 
 # game/code/d08/d08s01.rpy:72
 translate korean d08s01_03517d2d:
@@ -106,13 +106,13 @@ translate korean d08s01_1a71f71e:
 translate korean d08s01_0370dbe7:
 
     # arj "You might want to get a shower before your sister and I use up all the hot water."
-    arj "동생이랑 내가 온수 다 쓰기 전에 샤워를 하는 게 좋겠다."
+    arj "네 동생이랑 내가 온수 다 쓰기 전에 샤워를 하는 게 좋을 거야."
 
 # game/code/d08/d08s01.rpy:81
 translate korean d08s01_5ef05107:
 
     # arj "You might want to get a shower before Stacy and I use up all the hot water."
-    arj "스테이시랑 내가 온수 다 쓰기 전에 샤워를 하는 게 좋겠다."
+    arj "스테이시랑 내가 온수 다 쓰기 전에 샤워를 하는 게 좋을 거야."
 
 # game/code/d08/d08s01.rpy:83
 translate korean d08s01_fafbfb54:
@@ -166,7 +166,7 @@ translate korean replay_d08s01_f74029b7:
 translate korean replay_d08s01_5aa5acd8:
 
     # mct "She is doing it again!"
-    mct "스테이시가 또 이러잖아!"
+    mct "스테이시가 또 이러네!"
 
 # game/code/d08/d08s01.rpy:133
 translate korean replay_d08s01_68bbf00d:
@@ -214,7 +214,7 @@ translate korean d08s01_bathe_69dc8a6b:
 translate korean d08s01_bathe_a7af89fd:
 
     # mct "I don't want to stop her..."
-    mct "그만 두게 하고 싶진 않은데..."
+    mct "하지 말라고 하긴 싫은데..."
 
 # game/code/d08/d08s01.rpy:172
 translate korean d08s01_bathe_17459a78:
@@ -286,7 +286,7 @@ translate korean d08s01_bathe_63a6d232:
 translate korean d08s01_bathe_50eaf5b5:
 
     # sy "Feels good doesn't it?"
-    sy "기분 좋지 그렇지?"
+    sy "기분 좋지. 그렇지?"
 
 # game/code/d08/d08s01.rpy:233
 translate korean d08s01_bathe_c7260dc8:
@@ -304,7 +304,7 @@ translate korean d08s01_bathe_a3fb7535:
 translate korean d08s01_bathe_dc26bdcb:
 
     # sy "I couldn't help noticing you fucking AmRose yesterday."
-    sy "어제 네가 앰로즈랑 떡치는 걸 못 볼 수가 없었어."
+    sy "어제 네가 앰로즈랑 떡 치는 걸 못 볼 수가 없었어."
 
 # game/code/d08/d08s01.rpy:242
 translate korean d08s01_bathe_131eebe5:
@@ -328,7 +328,7 @@ translate korean d08s01_bathe_9f8f6e75:
 translate korean d08s01_bathe_22f718c8:
 
     # sy "I really like her. She's like the sister I never had."
-    sy "난 앰로즈가 정말 좋아. 앰로즈는 내가 처음으로 갖는 자매 같아."
+    sy "난 앰로즈가 정말 좋아. 앰로즈는 내 자매 같이 느껴져."
 
 # game/code/d08/d08s01.rpy:248
 translate korean d08s01_bathe_28cdfc68:
@@ -346,7 +346,7 @@ translate korean d08s01_bathe_e5a4cd9b:
 translate korean d08s01_bathe_1850262c:
 
     # sy "If you break her heart, well... {w}I'm sure you can imagine."
-    sy "앰로즈 맘이 상하면, 자... {w}너도 무슨 일이 일어날지 알 거야."
+    sy "앰로즈 맘이 상하면, 자... {w}너도 무슨 일이 일어날지 잘 알 거야."
 
 # game/code/d08/d08s01.rpy:254
 translate korean d08s01_bathe_3dc90035:
@@ -358,19 +358,19 @@ translate korean d08s01_bathe_3dc90035:
 translate korean d08s01_bathe_dd0a5092:
 
     # sy "You don't want to disappoint me."
-    sy "날 실망시키고 싶진 않겠지."
+    sy "날 실망시키고 싶진 않지."
 
 # game/code/d08/d08s01.rpy:257
 translate korean d08s01_bathe_b4583873:
 
     # sy "You want AmRose to be happy... {w}and so do I."
-    sy "난 앰로즈가 행복하면 좋겠어... {w}그리고 나도 그러고 싶고."
+    sy "난 앰로즈가 행복하면 좋겠어... {w}그리고 나도 행복하고 싶고."
 
 # game/code/d08/d08s01.rpy:261
 translate korean d08s01_bathe_47bbd1e5:
 
     # sy "Let me show you a little sample of how happy you can be."
-    sy "네가 어떻게 행복할 수 있는지 약간 보여줄 게."
+    sy "얼마나 행복할 수 있는지 약간 보여줄게."
 
 # game/code/d08/d08s01.rpy:263
 translate korean d08s01_bathe_0c7f7b66:
@@ -382,7 +382,7 @@ translate korean d08s01_bathe_0c7f7b66:
 translate korean d08s01_bathe_bfaa8011:
 
     # sy "You liked watching me pee."
-    sy "내가 오줌 싸는 거 보는 걸 좋아했지."
+    sy "내가 오줌 싸는 걸 좋아라 봤었지."
 
 # game/code/d08/d08s01.rpy:268
 translate korean d08s01_bathe_b5b13864:
@@ -442,13 +442,13 @@ translate korean d08s01_bathe_232c3f6d:
 translate korean d08s01_bathe_fb970540:
 
     # sy "Tsh-h-h! Not so loud!"
-    sy "치-이-잇! 시끄럽게 하진 마!"
+    sy "치-이-잇! 너무 소리 내진 말고!"
 
 # game/code/d08/d08s01.rpy:339
 translate korean d08s01_bathe_b395490b:
 
     # sy "Let me just rinse this off... {w}then you can finish cleaning yourself."
-    sy "난 이것 좀 씻어 내야 하겠다... {w}그 뒤에 너도 마저 씻어."
+    sy "난 이것 좀 씻어 내야겠다... {w}그 뒤에 너도 마저 씻어."
 
 translate korean strings:
 

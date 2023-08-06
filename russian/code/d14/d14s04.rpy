@@ -568,7 +568,7 @@ translate russian d14s04_0095ef64:
 translate russian d14s04_d886559b:
 
     # mh "Committed relationships of any kind came in second because I didn't want it to affect my goals."
-    mh "Подобные отношения такого рода стояли для меня на втором месте, потому что я не хотела, чтобы это влияло на мои цели."
+    mh "Отношения любого рода стояли на втором месте, потому что я не хотела, чтобы они влияли на мои цели."
 
 # game/code/d14/d14s04.rpy:351
 translate russian d14s04_e3b88e7e:

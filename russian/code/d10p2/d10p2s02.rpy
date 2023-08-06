@@ -862,7 +862,7 @@ translate russian d10p2s01_end_1422b0d5:
 translate russian d10p2s01_end_9bf7899e:
 
     # mc "Damn. {w}That's some good shit."
-    mc "Черт. {w}Это хорошее дерьмо."
+    mc "Черт. {w}Это отличная штука."
 
 # game/code/d10p2/d10p2s02.rpy:426
 translate russian d10p2s01_end_1f779ffb:

@@ -58,7 +58,7 @@ translate korean d14s19_lc_6ae416fb:
 translate korean d14s19_lc_394578ab:
 
     # lc "You're incorrigible."
-    lc "정말 구제불능이야."
+    lc "넌 정말 구제불능이야."
 
 # game/code/d14p2/d14s19_lc.rpy:57
 translate korean d14s19_lc_6cbf6d9f:
@@ -100,7 +100,7 @@ translate korean d14s19_lc_6bc2485f:
 translate korean d14s19_lc_bb386caf:
 
     # lc "Just don't put your penis inside me. Is that okay?"
-    lc "그냥 성기만 내 안으로 넣자만 않으면 돼. 그러면 괜찮지?"
+    lc "그냥 성기만 내 안으로 넣지만 않으면 돼. 그러면 괜찮지?"
 
 # game/code/d14p2/d14s19_lc.rpy:76
 translate korean d14s19_lc_f9910b38:
@@ -286,7 +286,7 @@ translate korean d14s19_lc_b4013ca8:
 translate korean d14s19_lc_d114e532:
 
     # lc "I've never felt..."
-    lc "이렇게 느껴 본 적이 없어..."
+    lc "이렇게 느껴 본 적 없어..."
 
 # game/code/d14p2/d14s19_lc.rpy:164
 translate korean d14s19_lc_4e81938d:
@@ -322,7 +322,7 @@ translate korean d14s19_lc_37056d18:
 translate korean d14s19_lc_ddada350:
 
     # lc "Like a half dozen of you - just you - all over me."
-    lc "그냥 여섯 명 네가 내 온 몸에 있으면 좋겠어."
+    lc "그냥 네가 여섯 명이고 내 온몸에 붙어 있으면 좋겠어."
 
 # game/code/d14p2/d14s19_lc.rpy:180
 translate korean d14s19_lc_efae0602:

@@ -172,7 +172,7 @@ translate russian strings:
 translate russian prologue_fetishes_7bc3a4e5:
 
     # "It's time to choose your preferences.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many as you want and press \"Done\"."
-    "It's time to choose your preferences.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many as you want and press \"Done\"."
+    "Пришло время выбрать свои предпочтения.\nНе волнуйтесь, если вашего любимого фетиша нет в списке: Fetish Locator только появился!\nВыбирайте столько, сколько хотите, и нажмите кнопку \"Готово\"."
 
 # TODO: Translation updated at 2022-11-12 13:38
 

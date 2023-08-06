@@ -84,7 +84,7 @@ translate russian strings:
 
     # renpy/common/00accessibility.rpy:175
     old "Off"
-    new "Off"
+    new "Выкл"
 
     # renpy/common/00accessibility.rpy:179
     old "Text-to-speech"
@@ -940,27 +940,27 @@ translate russian strings:
 
     # renpy/common/00gltest.rpy:100
     old "Force GL Renderer"
-    new "Force GL Renderer"
+    new "Использовать GL"
 
     # renpy/common/00gltest.rpy:105
     old "Force ANGLE Renderer"
-    new "Force ANGLE Renderer"
+    new "Использовать ANGLE"
 
     # renpy/common/00gltest.rpy:110
     old "Force GLES Renderer"
-    new "Force GLES Renderer"
+    new "Использовать GLES"
 
     # renpy/common/00gltest.rpy:116
     old "Force GL2 Renderer"
-    new "Force GL2 Renderer"
+    new "Использовать GL2"
 
     # renpy/common/00gltest.rpy:121
     old "Force ANGLE2 Renderer"
-    new "Force ANGLE2 Renderer"
+    new "Использовать ANGLE2"
 
     # renpy/common/00gltest.rpy:126
     old "Force GLES2 Renderer"
-    new "Force GLES2 Renderer"
+    new "Использовать GLES2"
 
     # renpy/common/00gltest.rpy:136
     old "Enable (No Blocklist)"
@@ -1160,15 +1160,15 @@ translate russian strings:
 
     # renpy/common/00gltest.rpy:79
     old "Force Angle/DirectX Renderer"
-    new "Force Angle/DirectX Renderer"
+    new "Использовать Angle/DirectX"
 
     # renpy/common/00gltest.rpy:83
     old "Force OpenGL Renderer"
-    new "Force OpenGL Renderer"
+    new "Использовать OpenGL"
 
     # renpy/common/00gltest.rpy:87
     old "Force Software Renderer"
-    new "Force Software Renderer"
+    new "Использовать аппаратный рендер"
 
     # renpy/common/00gltest.rpy:93
     old "NPOT"
@@ -1216,19 +1216,19 @@ translate russian strings:
 
     # renpy/common/00accessibility.rpy:180
     old "High Contrast Text"
-    new "High Contrast Text"
+    new "Высококонтрастный текст"
 
     # renpy/common/00preferences.rpy:487
     old "renderer menu"
-    new "renderer menu"
+    new "меню отрисовки"
 
     # renpy/common/00preferences.rpy:490
     old "accessibility menu"
-    new "accessibility menu"
+    new "меню доступа"
 
     # renpy/common/00preferences.rpy:493
     old "high contrast text"
-    new "high contrast text"
+    new "высококонтрастный текст"
 
 # TODO: Translation updated at 2023-05-23 16:07
 
@@ -1236,19 +1236,19 @@ translate russian strings:
 
     # renpy/common/00action_other.rpy:703
     old "Open [text] directory."
-    new "Open [text] directory."
+    new "Открыть папку [text]."
 
     # renpy/common/00preferences.rpy:507
     old "audio when minimized"
-    new "audio when minimized"
+    new "звук при сворачивании"
 
     # renpy/common/00preferences.rpy:527
     old "main volume"
-    new "main volume"
+    new "общая громкость"
 
     # renpy/common/00preferences.rpy:531
     old "mute main"
-    new "mute main"
+    new "заглушить звук"
 
 # TODO: Translation updated at 2023-06-01 13:49
 
@@ -1268,11 +1268,11 @@ translate russian strings:
 
     # renpy/common/00gui.rpy:456
     old "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
-    new "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
+    new "Это сохранение было создано на другом устройстве. Вредоносные файлы сохранения могут нанести вред компьютеру. Доверяете ли вы создателю этого сохранения и всем, кто мог изменить файл?"
 
     # renpy/common/00gui.rpy:457
     old "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
-    new "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
+    new "Доверяете ли вы устройству, на котором было создано сохранение? Выбирать \"Да\" следует только в том случае, если вы являетесь единственным пользователем устройства."
 
     # renpy/common/00preferences.rpy:528
     old "audio when unfocused"
@@ -1296,69 +1296,72 @@ translate russian strings:
 
     # renpy/common/00sync.rpy:70
     old "Sync downloaded."
-    new "Sync downloaded."
+    new "Сохранения загружены."
 
     # renpy/common/00sync.rpy:190
     old "Could not connect to the Ren'Py Sync server."
-    new "Could not connect to the Ren'Py Sync server."
+    new "Не удалось подключиться к серверу Ren'Py Sync."
 
     # renpy/common/00sync.rpy:192
     old "The Ren'Py Sync server timed out."
-    new "The Ren'Py Sync server timed out."
+    new "Время ожидания ответа от сервера Ren'Py Sync истекло."
 
     # renpy/common/00sync.rpy:194
     old "An unknown error occurred while connecting to the Ren'Py Sync server."
-    new "An unknown error occurred while connecting to the Ren'Py Sync server."
+    new "При подключении к серверу Ren'Py Sync произошла неизвестная ошибка."
 
     # renpy/common/00sync.rpy:267
     old "The Ren'Py Sync server does not have a copy of this sync. The sync ID may be invalid, or it may have timed out."
-    new "The Ren'Py Sync server does not have a copy of this sync. The sync ID may be invalid, or it may have timed out."
+    new "Сервер Ren'Py Sync не хранит копии этого сохранения. Возможно, идентификатор для синхронизации данных недействителен или истекло время ожидания ответа."
 
     # renpy/common/00sync.rpy:409
     old "Please enter the sync ID you generated.\nNever enter a sync ID you didn't create yourself."
-    new "Please enter the sync ID you generated.\nNever enter a sync ID you didn't create yourself."
+    new "Введите идентификатор для синхронизации данных, который вы создали.\nНикогда не вводите идентификатор, который вы не создавали сами."
 
     # renpy/common/00sync.rpy:428
     old "The sync ID is not in the correct format."
-    new "The sync ID is not in the correct format."
+    new "Идентификатор для синхронизации данных имеет неправильный формат."
 
     # renpy/common/00sync.rpy:448
     old "The sync could not be decrypted."
-    new "The sync could not be decrypted."
+    new "Сохранение не может быть восстановлено."
 
     # renpy/common/00sync.rpy:471
     old "The sync belongs to a different game."
-    new "The sync belongs to a different game."
+    new "Сохранение относится к другой игре."
 
     # renpy/common/00sync.rpy:476
     old "The sync contains a file with an invalid name."
-    new "The sync contains a file with an invalid name."
+    new "Сохранение содержит файл с недопустимым именем."
 
     # renpy/common/00sync.rpy:529
     old "This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nDo you want to continue?"
-    new "This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nDo you want to continue?"
+    new "Будет выполнена загрузка ваших сохранений на {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nПродолжить?"
 
     # renpy/common/00sync.rpy:558
     old "Enter Sync ID"
-    new "Enter Sync ID"
+    new "Введите идентификатор для синхронизации данных"
 
     # renpy/common/00sync.rpy:569
     old "This will contact the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}."
-    new "This will contact the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}."
+    new "Будет установлена связь с сервером {a=https://sync.renpy.org}Ren'Py Sync Server{/a}."
 
     # renpy/common/00sync.rpy:596
     old "Sync Success"
-    new "Sync Success"
+    new "Синхронизация выполнена успешно"
 
     # renpy/common/00sync.rpy:599
     old "The Sync ID is:"
-    new "The Sync ID is:"
+    new "Идентификатор для синхронизации данных:"
 
     # renpy/common/00sync.rpy:605
     old "You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
-    new "You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
+    new "Вы можете использовать этот идентификатор для загрузки сохранений на другом устройстве.\nЭта синхронизация закончится через час.\nRen'Py Sync поддерживается спонсорами {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
 
     # renpy/common/00sync.rpy:631
     old "Sync Error"
-    new "Sync Error"
+    new "Ошибка синхронизации"
 
+    # renpy/common/00sync.rpy:541
+    old "No"
+    new "Нет"

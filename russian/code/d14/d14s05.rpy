@@ -52,13 +52,13 @@ translate russian d14s05_c5d56cda:
 translate russian d14s05_3610ad15:
 
     # mc "I've missed you too.{w} This is a beautiful house you have here."
-    mc "Я тоже скучал по тебе. {w}У тебя здесь прекрасный дом."
+    mc "Я тоже скучал по тебе. {w}У тебя прекрасный дом."
 
 # game/code/d14/d14s05.rpy:36
 translate russian d14s05_af56a9cb:
 
     # arj "I gotta admit, I am jealous."
-    arj "Должна признаться, я завидую."
+    arj "Должна признаться - я завидую."
 
 # game/code/d14/d14s05.rpy:38
 translate russian d14s05_e5b1bdf4:
@@ -1204,7 +1204,7 @@ translate russian d14s05_54661920:
 translate russian d14s05_f3638179:
 
     # mc "Yeah, I kinda fucked them both on Thursday."
-    mc "Да, я трахал их обоих в четверг."
+    mc "Да, я трахал их обеих в четверг."
 
 # game/code/d14/d14s05.rpy:636
 translate russian d14s05_5ce48be3:
@@ -1228,7 +1228,7 @@ translate russian d14s05_74674fe4:
 translate russian d14s05_a65df7bc:
 
     # sb "Hello [mcname], I bet you weren't expecting to see me again."
-    sb "Привет [mcname], уверена, ты не ожидала увидеть меня снова."
+    sb "Привет [mcname], уверена, ты не ожидал увидеть меня снова."
 
 # game/code/d14/d14s05.rpy:648
 translate russian d14s05_5efbb4a8:
@@ -1492,7 +1492,7 @@ translate russian d14s05_f3d3b5ba:
 translate russian d14s05_b806b732:
 
     # mc "Wednesday night. {w}I still need to fuck her to get to 20."
-    mc "В среду вечером. {w}Мне еще нужно трахнуть ее, чтобы добавить до 20."
+    mc "В среду вечером. {w}Мне еще нужно трахнуть ее, чтобы добить до 20."
 
 # game/code/d14/d14s05.rpy:771
 translate russian d14s05_ff1f22da:
@@ -1888,7 +1888,7 @@ translate russian d14s05_5e035e25:
 translate russian d14s05_e6d7755a:
 
     # mc "Alright, alright. I trust you both. {w}Whatever it is, I'm in."
-    mc "Ладно, ладно. Я доверяю вам обоим. {w}Что бы это ни было, я в деле."
+    mc "Ладно, ладно. Я доверяю вам обеим. {w}Что бы это ни было, я в деле."
 
 # game/code/d14/d14s05.rpy:964
 translate russian d14s05_3579a302:
@@ -2086,5 +2086,5 @@ translate russian strings:
 translate russian d14s05_e89e3635:
 
     # arj "Well, I really don't want you to lose."
-    arj "Well, I really don't want you to lose."
+    arj "Ну, я действительно не хочу, чтобы ты проиграл."
 

@@ -28,7 +28,7 @@ translate korean d10p2s07_2aa117b6:
 translate korean d10p2s07_f857cff3:
 
     # aw "I don't know if you'd call it \"dating\", but yeah, we used to do stuff together."
-    aw "어떤 의미로 \"만났다\"고 하는 건지는 모르겠지만, 맞아, 함께 이런저런 일을 했었지."
+    aw "어떤 의미로 \"만났다\"고 하는 건지는 모르겠지만, 맞아, 이런저런 일을 함께했었지."
 
 # game/code/d10p2/d10p2s07.rpy:26
 translate korean d10p2s07_d1c8ab6c:
@@ -64,7 +64,7 @@ translate korean d10p2s07_6de3ad40:
 translate korean d10p2s07_717001ba:
 
     # aw "I guess she needed a buddy more than a fuckbuddy. She keeps herself so busy there's barely time for anything or anyone else."
-    aw "리사에겐 단순히 섹스 상대 이상의 친구가 필요했었던 거 같아. 리사는 항상 바쁘게 지냈으니까. 뭘 하거나 사람을 만날 시간이 없었어."
+    aw "리사에겐 단순한 섹스 상대 이상의 친구가 필요했었던 거 같아. 리사는 항상 바쁘게 지냈으니까. 뭘 하거나 사람을 만날 시간이 없었어."
 
 # game/code/d10p2/d10p2s07.rpy:39
 translate korean d10p2s07_7305baba:
@@ -172,31 +172,31 @@ translate korean d10p2s07_3d6a041a:
 translate korean d10p2s07_f388eed8:
 
     # aw "Yep. She might be even more open-minded than I am sexually, but romantically..."
-    aw "응. 성에 관해서는 나보다 리사가 훨씬 개방적일 거야, 하지만 연애 상대는..."
+    aw "응. 성적으로는 나보다 리사가 훨씬 개방적일 거야, 하지만 연애 상대는..."
 
 # game/code/d10p2/d10p2s07.rpy:82
 translate korean d10p2s07_3bc69c2c:
 
     # aw "She wants to be seen in public as an elegant, powerful, successful woman on the arm of a man who knows how to treat her right..."
-    aw "공적으론 리사는 자길 제대로 대할 줄 아는 남자 팔에 안긴 우아하고 강력하며 성공적인 여성으로 보이고 싶어해..."
+    aw "공적인 상황에서 리사는 자길 제대로 대할 줄 아는 남자 팔에 안긴 우아하고 강력하며 성공적인 여성으로 보이고 싶어해..."
 
 # game/code/d10p2/d10p2s07.rpy:83
 translate korean d10p2s07_21c4a84e:
 
     # aw "... while in private she wants to have bruised knees from sucking her husband's cock and letting him fuck her ass anytime he wants."
-    aw "...그치만 사적으론 자기 무릎에 멍이 들든 말든 남편이 원할 때마 자지를 빨아 주고 엉덩이를 대 주길 원하는 거야."
+    aw "... 그치만 사적으론 자기 무릎에 멍이 들든 말든 남편이 원할 땐 언제든지 자지를 빨아 주고 엉덩이를 대 주길 바라는 거야."
 
 # game/code/d10p2/d10p2s07.rpy:85
 translate korean d10p2s07_16753499:
 
     # mc "Wow. That's really something... {w}Anything else I should know?"
-    mc "와아. 정말 대단한데... {w}또 알아야 하는 게 있어?"
+    mc "와아. 정말 대단한데... {w}내가 알아 둬어야 하는 게 또 있을까?"
 
 # game/code/d10p2/d10p2s07.rpy:88
 translate korean d10p2s07_717fad5f:
 
     # aw "I don't think she's sexually attracted to me anymore."
-    aw "리사는 나한테 성적인 매력을 더 이상 느끼지 못할 거야."
+    aw "리사는 더 이상 나한테 성적인 매력을 느끼지 못할 거야."
 
 # game/code/d10p2/d10p2s07.rpy:90
 translate korean d10p2s07_2876efd9:
@@ -208,13 +208,13 @@ translate korean d10p2s07_2876efd9:
 translate korean d10p2s07_247e7de0:
 
     # aw "Relationships change. {w}Lyssa thinks of people in categories."
-    aw "관계가 변했으니까. {w}리사는 사람을 분류하고 대해."
+    aw "관계가 변했으니까. {w}리사는 사람을 분류해서 대해."
 
 # game/code/d10p2/d10p2s07.rpy:94
 translate korean d10p2s07_3413daba:
 
     # aw "Once I became her friend, she couldn't think of me as her fuckbuddy anymore."
-    aw "일단 친구가 되면, 더 이상 박을 대상으로 보지 않아."
+    aw "일단 친구가 되면, 더 이상은 박을 대상으로 보지 않지."
 
 # game/code/d10p2/d10p2s07.rpy:95
 translate korean d10p2s07_5dedf76b:
@@ -256,7 +256,7 @@ translate korean d10p2s07_80652ecb:
 translate korean d10p2s07_0df2618b:
 
     # aw "I wouldn't mind fucking her again - or getting fucked by her again - but I take what comes."
-    aw "나는 다시 리사랑 박고 박히는 사이가 되도 괜찮지만, 지금 관계도 만족해."
+    aw "나는 다시 리사랑 박고 박히는 사이가 되도 괜찮지만, 지금 관계로도 만족해."
 
 # game/code/d10p2/d10p2s07.rpy:106
 translate korean d10p2s07_2486b9f5:
@@ -688,7 +688,7 @@ translate korean d10p2s07_4cc780f4:
 translate korean d10p2s07_da42a5a0:
 
     # mc "Oh, thanks. {w}I doubt that I'll need to do that, but I'll keep that in mind."
-    mc "아, 고마워. {w}필요할지는 모르겠지만, 기억해 둘 게."
+    mc "아, 고마워. {w}필요할지는 모르겠지만, 기억해 둘게."
 
 # game/code/d10p2/d10p2s07.rpy:276
 translate korean d10p2s07_73dba87a:
@@ -706,7 +706,7 @@ translate korean d10p2s07_6776cdbc:
 translate korean d10p2s07_e1fefc02:
 
     # mct "Huh, I might be able to learn a bit more about her family... and those family problems affecting her."
-    mct "허, 네 가족에 관해서 또 알게 되었네... 가족의 문제도 그렇고."
+    mct "허, 앨리슨 가족에 관해서 또 알게 되었네... 가족 문제도 그렇고."
 
 # game/code/d10p2/d10p2s07.rpy:281
 translate korean d10p2s07_c99d89db:
@@ -730,7 +730,7 @@ translate korean d10p2s07_0f256e6a:
 translate korean d10p2s07_ef1a5c50:
 
     # aw "Maybe, I guess. {w}Anyway, when I was little I would run around the house as this blur of hair would look like..."
-    aw "그래서 그럴 수도 있지. {w}아무튼, 어릴 땐 이 흐릿한 머리처럼 휘날리면서 집 주변을 뛰어다녔어..."
+    aw "그래서 그럴 수도 있지. {w}아무튼, 어릴 땐 이 머리처럼 휘날리면서 집 주변을 뛰어다녔어..."
 
 # game/code/d10p2/d10p2s07.rpy:290
 translate korean d10p2s07_4570a276:
@@ -832,7 +832,7 @@ translate korean d10p2s07_5d37e166:
 translate korean d10p2s07_430592a7:
 
     # aw "I'll come pick you up when I'm ready."
-    aw "준비 끝나면 데리러 갈게."
+    aw "준비 끝나면 데리러 올게."
 
 # game/code/d10p2/d10p2s07.rpy:321
 translate korean d10p2s07_aa77db00:

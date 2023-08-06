@@ -592,7 +592,7 @@ translate russian d10p1s04_b9bcc6e4:
 translate russian d10p1s04_db5fa62c:
 
     # syfl "No. I'll be good."
-    syfl "Нет. Я буду слушатся."
+    syfl "Нет. Я буду слушаться."
 
 # game/code/d10p1/d10p1s04.rpy:272
 translate russian d10p1s04_aad92de0:

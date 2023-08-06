@@ -16,13 +16,13 @@ translate korean d08s03_23c37cdf:
 translate korean d08s03_014606bc:
 
     # mc "Hey Min, Antony, are you hosting another... ?"
-    mc "안녕 민, 앤토니, 너희 혹시 다른... ?"
+    mc "안녕 민, 앤토니. 너희 혹시 다른... ?"
 
 # game/code/d08/d08s03.rpy:35
 translate korean d08s03_7c8ad1b9:
 
     # mes "Hey [mcname]!"
-    mes "안녕 [mcname]!"
+    mes "안녕, [mcname]!"
 
 # game/code/d08/d08s03.rpy:37
 translate korean d08s03_476d3299:
@@ -40,7 +40,7 @@ translate korean d08s03_ffd853cf:
 translate korean d08s03_20ef59dd:
 
     # mes "Shhhhh. {w}Don't yell it out to everybody."
-    mes "쉬이이이잇. {w}소리쳐서 모두에게 알리진 마."
+    mes "쉬이이이잇. {w}소리쳐서 동네방네 알리진 마."
 
 # game/code/d08/d08s03.rpy:44
 translate korean d08s03_23d05496:
@@ -52,7 +52,7 @@ translate korean d08s03_23d05496:
 translate korean d08s03_38fc3e2b:
 
     # mc "Oh good, good. I wasn't sure how to ask."
-    mc "아 좋아, 좋네. 어떻게 물어보면 좋을지 모르겠어서."
+    mc "아, 좋아, 좋네. 어떻게 물어보면 좋을까 하던 참이었는데."
 
 # game/code/d08/d08s03.rpy:47
 translate korean d08s03_f61da1d5:
@@ -76,19 +76,19 @@ translate korean d08s03_e8924c39:
 translate korean d08s03_2a513d79:
 
     # am "As much as we'd love to invite you and a few others, we're trying to..."
-    am "너랑 몇몇 사람을 초대하려곤 하지만, 우리는..."
+    am "너랑 몇몇 사람을 초대하고 싶긴 한데, 우리는..."
 
 # game/code/d08/d08s03.rpy:54
 translate korean d08s03_9875b977:
 
     # mes "We don't want to give away invites, especially to people who can earn their own way."
-    mes "초대장을 거저 주진 않을 거야, 특히 직접 점수를 모을 수 있는 사람한텐 말야."
+    mes "초대장을 거저 주진 않을 거야. 특히 직접 점수를 모을 수 있는 사람한텐 말야."
 
 # game/code/d08/d08s03.rpy:56
 translate korean d08s03_ee47e49d:
 
     # mc "But if you're sure that I can get enough points for the Party, why not just invite me?"
-    mc "하지만 내가 파티에 가기 충분한 점수를 모을 수 있다고 확신한다면, 그냥 초대장을 줘도 되잖아?"
+    mc "내가 직접 점수를 벌어서 가나, 초대장을 받아서 가나, 어차피 파티에 갈 거라면 그냥 초대장을 줘도 되잖아?"
 
 # game/code/d08/d08s03.rpy:60
 translate korean d08s03_7dfaf170:
@@ -118,19 +118,19 @@ translate korean d08s03_1acabea5:
 translate korean d08s03_9fa7debd:
 
     # mes "Besides, the more people that pay with points, the more money we get from the app, the better the next Party will be."
-    mes "게다가, 점수로 지불하는 사람이 많아지면, 우리가 앱에서 받는 돈도 많아지니, 다음에 열릴 파티도 더 좋아지는 거라구."
+    mes "그리고 점수를 써서 파티에 오는 사람이 많을수록 우리가 앱에서 받는 돈도 많아지니, 다음에 열릴 파티도 더 나아지는 거라구."
 
 # game/code/d08/d08s03.rpy:70
 translate korean d08s03_8e4d8272:
 
     # am "Shhhh. {w}Don't tell anyone, but this week is going to be EPIC."
-    am "쉬이이잇. {w}아무한테도 말하지 마, 이번 주는 전설이 될 거라고."
+    am "쉬이이잇. {w}아무한테도 말하지 마. 이번 주는 전설이 될 거니까."
 
 # game/code/d08/d08s03.rpy:71
 translate korean d08s03_15570c18:
 
     # mc "Cool, cool. Looking forward to it."
-    mc "훌륭하네, 훌륭해. 기대하고 있을 게."
+    mc "훌륭하네, 훌륭해. 기대하고 있을게."
 
 # game/code/d08/d08s03.rpy:74
 translate korean d08s03_e3da725d:
@@ -172,7 +172,7 @@ translate korean d08s03_c25c2fcc:
 translate korean d08s03_b01dd5cf:
 
     # mc "The Party will be Wednesday night."
-    mc "수요일 저녁에 파티가 있을 거래."
+    mc "수요일 저녁에 파티가 있을 거라고 하더라."
 
 # game/code/d08/d08s03.rpy:92
 translate korean d08s03_ef789455:
@@ -232,19 +232,19 @@ translate korean d08s03_315dea22:
 translate korean d08s03_d3fceaab:
 
     # arj "Is that why you sent me a ton of points this morning?"
-    arj "그래서 오늘 아침에 그렇게 많은 점수를 보낸 거야?"
+    arj "그래서 오늘 아침에 그렇게 많이 점수를 보낸 거야?"
 
 # game/code/d08/d08s03.rpy:113
 translate korean d08s03_fceb4365:
 
     # mc "Yeah, it wouldn't tell me how short you were, so I just tried to guess."
-    mc "응, 얼마나 부족한 건지는 말하지 않아서, 감으로 보냈어."
+    mc "응, 얼마나 부족한지는 몰라서 그냥 감으로 보냈어."
 
 # game/code/d08/d08s03.rpy:115
 translate korean d08s03_01a3e0cd:
 
     # arj "That's really sweet. Remind me to thank you later."
-    arj "정말 상냥한데. 나중에 감사 선물이라도 해야겠는 걸."
+    arj "정말 상냥하기도 해라. 나중에 감사 선물이라도 해야겠네."
 
 # game/code/d08/d08s03.rpy:117
 translate korean d08s03_0c2e0e96:
@@ -286,7 +286,7 @@ translate korean d08s03_c9bb4b8c:
 translate korean d08s03_3d84fa54:
 
     # arj "I was going to use my Gold Star, but you sent me so many points that I didn't have to do that."
-    arj "황금 별을 쓰려고 했어, 그런데 네가 점수를 엄청 많이 보내 줘서 쓸 필요가 없더라구."
+    arj "황금 별을 쓰려고 했지. 그런데 네가 점수를 엄청 많이 보내 줘서 쓸 필요가 없더라."
 
 # game/code/d08/d08s03.rpy:132
 translate korean d08s03_e06398e6:
@@ -388,13 +388,13 @@ translate korean d08s03_87200cb2:
 translate korean d08s03_2d975032:
 
     # kb "A-maz-ing. You wouldn't even believe what I got up to yesterday if I told you."
-    kb "끝-내-줬지. 내가 어제 무슨 짓을 했는지 말해도 못 믿을 걸."
+    kb "끝-내-줬지. 내가 어제 무슨 짓을 했는지 말해 줘도 못 믿을 걸."
 
 # game/code/d08/d08s03.rpy:185
 translate korean d08s03_9a1c051d:
 
     # mct "Considering what I learned about him last week... {w}Yeah, he's probably right."
-    mct "지난주에 케브에 관해 알게 된 걸 고려하면... {w}그렇지, 확실히 못 믿을 짓을 했겠네."
+    mct "지난주에 케브에 관해 알게 된 걸 고려하면... {w}그렇네, 확실히 못 믿을 짓을 했겠네."
 
 # game/code/d08/d08s03.rpy:187
 translate korean d08s03_12d3c264:
@@ -418,25 +418,25 @@ translate korean d08s03_573312da:
 translate korean d08s03_b7f9c574:
 
     # mc "Lydia and I had our first date on Saturday."
-    mc "토요일에 리디아랑 내가 첫 데이트를 했지."
+    mc "토요일에 리디아랑 첫 데이트를 했지."
 
 # game/code/d08/d08s03.rpy:193
 translate korean d08s03_92e7f101:
 
     # kb "You mean her concert at the coffee shop, where she jumped off the stage and kissed you in front of everyone?"
-    kb "커피숍에 있었던 리디아의 공연 말하는 거지, 리다아가 무대에서 뛰어내려서 사람들 다 있는데 너한테 키스했던 그 공연?"
+    kb "커피숍에 있었던 리디아의 공연 말하는 거지. 리디아가 무대에서 뛰어내려선 사람들 다 있는 앞에서 너한테 키스했던 그 공연?"
 
 # game/code/d08/d08s03.rpy:195
 translate korean d08s03_5c829999:
 
     # mc "Exactly. It was so amazing."
-    mc "바로 그거야. 정말 대단했어."
+    mc "바로 그거야. 정말 대단했지."
 
 # game/code/d08/d08s03.rpy:196
 translate korean d08s03_61320ef8:
 
     # mc "She's got this perfect voice and afterwards we just sat there talking for hours..."
-    mc "리디아 목소린 정말 완벽했어. 거기 앉아서 몇 시간이나 그저 이야기를 했고..."
+    mc "리디아 목소린 정말 완벽했어. 공연 다음엔 몇 시간이나 앉아서 이야기를 했고..."
 
 # game/code/d08/d08s03.rpy:199
 translate korean d08s03_bdaffafe:
@@ -448,19 +448,19 @@ translate korean d08s03_bdaffafe:
 translate korean d08s03_7234564e:
 
     # mc "Oh, shit. That's right. {w}I kinda forgot anyone else was there."
-    mc "아, 젠장. 맞아. {w}다른 사람도 있었다는 걸 까먹고 있었네."
+    mc "아, 젠장. 맞다. {w}다른 사람도 있었는데 까먹고 있었네."
 
 # game/code/d08/d08s03.rpy:201
 translate korean d08s03_457ae91c:
 
     # mc "It felt like she was singing just for me."
-    mc "리디아가 나만을 위해서 노래를 부른 느낌이었어."
+    mc "리디아가 나만을 위해서 노래를 부른 기분이었어."
 
 # game/code/d08/d08s03.rpy:203
 translate korean d08s03_43c3ded7:
 
     # kb "Yeah, but the room was full of people."
-    kb "그랬겠지, 그런데 커피숍에는 사람으로 가득 찼었거든."
+    kb "그랬겠지. 그런데 커피숍엔 사람이 잔뜩 있었거든."
 
 # game/code/d08/d08s03.rpy:209
 translate korean d08s03_53c693da:
@@ -472,25 +472,25 @@ translate korean d08s03_53c693da:
 translate korean d08s03_4b062766:
 
     # mc "Fine. So, yeah, then yesterday I was at the beach."
-    mc "좋아. 그래서, 맞아, 그리고 나서 어젠 해변에 갔지."
+    mc "좋아. 그래서, 맞다. 그리고 어젠 해변에 갔어."
 
 # game/code/d08/d08s03.rpy:213
 translate korean d08s03_e104beb9:
 
     # kb "For that kayaking competition? How was it?"
-    kb "그 카약 경기 때문에? 어땠는데?"
+    kb "그 카약 경기 보러? 어땠는데?"
 
 # game/code/d08/d08s03.rpy:214
 translate korean d08s03_f658d5bd:
 
     # mc "Let's just say that I didn't see any of the kayaking."
-    mc "카약 같은 걸 보러 간 건 아니라고 해 두지."
+    mc "카약 경기 같은 걸 보러 간 건 아니었다고 해 두지."
 
 # game/code/d08/d08s03.rpy:216
 translate korean d08s03_848aa8ff:
 
     # kb "Nice. {w}Ah, shit. Looks like the lecture is about to start."
-    kb "좋네. {w}아, 젠장. 강의 시작하려고 한다."
+    kb "좋았나 본데. {w}아, 젠장. 강의 시작하려고 한다."
 
 # game/code/d08/d08s03.rpy:218
 translate korean d08s03_a6be913e:
@@ -514,13 +514,13 @@ translate korean d08s03_be86f2ed:
 translate korean d08s03_b706c3fc:
 
     # kb "We both need to buckle something and pay attention if we're going to be ready for finals."
-    kb "졸라게 매든 졸라 매든 간에 집중해야 한다고 그래야 기말 시험 준비를 하지."
+    kb "졸라게 매든 졸라 매든 간에 집중해야 한단 소리야. 그래야 기말 시험 대비를 하지."
 
 # game/code/d08/d08s03.rpy:225
 translate korean d08s03_a42ad403:
 
     # mc "Yeah, I guess you're right."
-    mc "그래, 네 말이 맞네."
+    mc "그래, 네 말이 맞다."
 
 # game/code/d08/d08s03.rpy:232
 translate korean d08s03_51142325:
@@ -550,13 +550,13 @@ translate korean d08s03_c24affd4:
 translate korean d08s03_665c43c1:
 
     # mct "I wonder why Min isn't just texting me - she knows who I am."
-    mct "왜 민은 굳이 페티시 로케이터로 메시지를 보내는 거지 문자 보내면 될 텐데 - 얘도 내가 누군지 알잖아."
+    mct "왜 민은 굳이 페티시 로케이터로 메시지를 보내는 거지. 그냥 문자를 보내면 될 텐데. 내가 누군진 알잖아."
 
 # game/code/d08/d08s03.rpy:248
 translate korean d08s03_cdb4c145:
 
     # mct "Oh, right. She's got that whole thing where Squizzle can do things Min never would."
-    mct "아, 맞다. 민이 절대로 하지 않을 짓을 스퀴즐이라면 할 수 있다고 생각하는 거야."
+    mct "아, 맞다. 민이라면 절대로 하지 않을 짓을 스퀴즐이라면 할 수 있다고 생각하는 거지."
 
 # game/code/d08/d08s03.rpy:255
 translate korean d08s03_9426416c:
@@ -610,7 +610,7 @@ translate korean d08s03_a0c15eb0:
 translate korean d08s03_5ce36734:
 
     # mct "I doubt that I can find a watersports course curriculum online."
-    mct "인터넷에서 워터스포츠 강좌를 찾을 수나 있을까."
+    mct "인터넷에 워터스포츠 강좌가 있긴 할까."
 
 # game/code/d08/d08s03.rpy:285
 translate korean d08s03_e1fde363:
@@ -634,7 +634,7 @@ translate korean d08s03_ab0e4d14:
 translate korean d08s03_b69f5a07:
 
     # rn "Very well. Mr. Bennet. Kevin, is there some urgent news? Maybe a terrorist attack?"
-    rn "잘 알겠네. 베넷 군. 케빈, 급한 소식이라도 있는 건가? 테러리스트가 공격이라도 했는가?"
+    rn "잘 알겠네. 베넷 군. 케빈, 급한 소식이라도 있는 건가? 테러리스트가 공격을 가하기라도 했는가?"
 
 # game/code/d08/d08s03.rpy:295
 translate korean d08s03_99f98c53:
@@ -658,7 +658,7 @@ translate korean d08s03_3e6aff8e:
 translate korean d08s03_d14c87d9:
 
     # rn "Any objections if I continue with class? Fine, good. Let's continue."
-    rn "그럼 내가 강의를 이어 가는 데 반대 의견은 있나? 됐네, 좋아. 계속하지."
+    rn "그럼 누구 내가 강의를 이어 가는 데 반대 의견 있나? 됐네, 좋아. 계속하지."
 
 # game/code/d08/d08s03.rpy:302
 translate korean d08s03_d3a88b30:
@@ -1270,7 +1270,7 @@ translate korean d08s03_end_8bac5718:
 translate korean d08s03_end_2c1cb7ed:
 
     # rn "Alright, class. I think that is enough for today."
-    rn "좋습니다, 여러분. 오늘은 이것으로 충분하다고 생각합니다."
+    rn "좋네, 제군들. 오늘은 이만으로 충분하겠지."
 
 # game/code/d08/d08s03.rpy:615
 translate korean d08s03_end_6bf3ab4e:

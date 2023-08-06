@@ -607,3 +607,11 @@ translate spanish strings:
     # game/code/d14p2/d14s15.rpy:221
     old "Maybe"
     new "Quizás"
+# TODO: Translation updated at 2023-06-11 15:29
+
+translate spanish strings:
+
+    # game/code/d14p2/d14s15.rpy:311
+    old "No {#d14s15}"
+    new "No {#d14s15}"
+

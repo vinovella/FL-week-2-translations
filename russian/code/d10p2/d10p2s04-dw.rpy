@@ -748,7 +748,7 @@ translate russian d10p2s04_dwmc_dickslap_1f74aecd:
 translate russian d10p2s04_dwmc_dickslap_f5c87a2c:
 
     # dw "Do you want to cum while getting jerked off by me?"
-    dw "Хочешь кончить, пока я тебя дрочу?"
+    dw "Хочешь кончить, пока я тебе дрочу?"
 
 # game/code/d10p2/d10p2s04-dw.rpy:652
 translate russian d10p2s04_dwmc_dickslap_c54a5290:

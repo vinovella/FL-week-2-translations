@@ -922,7 +922,7 @@ translate russian replay_d11s07_5f19f4ce:
 translate russian replay_d11s07_de7d2014:
 
     # arj "Fucking cum on this for me!"
-    arj "Кончи сперму сюда для меня!"
+    arj "Кончи на него для меня!"
 
 # game/code/d11/d11s07.rpy:519
 translate russian replay_d11s07_32757cc3:

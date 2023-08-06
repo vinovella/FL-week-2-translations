@@ -70,7 +70,7 @@ translate korean d14s02_682c2874:
 translate korean d14s02_51933003:
 
     # mc "I was pinned to the bed and you two weren't here."
-    mc "꿈속에서 난 침대에 오도 가도 못하는 상태였고 너희 둘은 없었어."
+    mc "꿈속에서 난 침대에서 오도 가도 못하는 상태였고 너희 둘은 없었어."
 
 # game/code/d14/d14s02.rpy:101
 translate korean d14s02_b1fc04c7:
@@ -82,7 +82,7 @@ translate korean d14s02_b1fc04c7:
 translate korean d14s02_4e0439b2:
 
     # mc "Tells me that I'm gonna fail the challenge, that I'm gonna have my dick taken away."
-    mc "그리고 내가 도전에서 실패할 거라고 말했어, 내 좆을 털어 갈 그 도전에서 말이야."
+    mc "그리고 내가 도전에서 실패할 거라고 말했어. 내 좆을 털어 갈 그 도전에서 질 수밖에 없다고 말이야."
 
 # game/code/d14/d14s02.rpy:105
 translate korean d14s02_6869e014:
@@ -100,7 +100,7 @@ translate korean d14s02_09cd86e6:
 translate korean d14s02_bf7c2b0c:
 
     # mc "And then she's like \"You won't lose if I take your dick first muahaha!\" and then brings out this huge fuck off pair of scissors from God knows where and goes to chop off my dick."
-    mc "그러더니 \"내가 좆을 먼저 가져가면 너는 지지 않는 거나 다름업겠지 음화하하하\" 하는 식으로 말했어. 그리곤 어디에선가 존나게 큰 가위를 꺼내더니 내 좆을 자르려고 했다고."
+    mc "그러더니 \"내가 좆을 먼저 가져가면 너는 지지 않는 거나 다름없겠지 음화하하하\" 하는 식으로 말했어. 그리곤 어디에선가 존나게 큰 가위를 꺼내더니 내 좆을 자르려고 했다고."
 
 # game/code/d14/d14s02.rpy:112
 translate korean d14s02_e0f7c330:
@@ -112,13 +112,13 @@ translate korean d14s02_e0f7c330:
 translate korean d14s02_bf497e3c:
 
     # mc "But don't ask me how I got a hard-on from that though, I got no clue."
-    mc "그치만 좆이 잘리는 꿈을 꿨으면서 왜 이렇게 선 건지는 묻지마, 전혀 모르겠으니까."
+    mc "그치만 좆이 잘리는 꿈을 꿨으면서 왜 이렇게 선 건지는 묻지 마, 전혀 모르겠으니까."
 
 # game/code/d14/d14s02.rpy:119
 translate korean d14s02_8d34cb43:
 
     # arj "Wow, maybe you really {i}are{/i} into getting your dick chopped then."
-    arj "와아, 정말 좆 잘리는 거에 신경이 {i}많이{/i} 쓰이나 보구나."
+    arj "와아, 정말 좆 잘리는 거에 {i}정말{/i} 신경이 쓰이나 보구나."
 
 # game/code/d14/d14s02.rpy:121
 translate korean d14s02_ed215e22:
@@ -130,7 +130,7 @@ translate korean d14s02_ed215e22:
 translate korean d14s02_6c8f1ad2:
 
     # arj "Phew. We should probably go get cleaned up."
-    arj "휴우. 우리 가서 씻자."
+    arj "휴우. 우리 가서 씻어야겠다."
 
 # game/code/d14/d14s02.rpy:134
 translate korean d14s02_21a555ec:
@@ -142,7 +142,7 @@ translate korean d14s02_21a555ec:
 translate korean d14s02_0b0dce0a:
 
     # mc "That would've been one awkward conversation if she woke up."
-    mc "스테이시가 깼으면 정말 어색했겠다."
+    mc "스테이시가 깼으면 정말 어색했겠네."
 
 # game/code/d14/d14s02.rpy:141
 translate korean d14s02_fe55c6b1:
@@ -154,7 +154,7 @@ translate korean d14s02_fe55c6b1:
 translate korean d14s02_6c8f0924:
 
     # mc "Am, I don't think there's a man in this world that'd complain about getting a morning handjob from his..."
-    mc "앰, 그런 말 마. 이 세상에서 아침에 핸드잡 받는 걸로 불명하는 남자는 없다구. 그것도 자기..."
+    mc "앰, 그런 말 마. 이 세상에서 아침에 핸드잡 받는 걸로 불평하는 남자는 없다구. 그것도 자기..."
 
 # game/code/d14/d14s02.rpy:148
 translate korean d14s02_b94d020a:
@@ -166,7 +166,7 @@ translate korean d14s02_b94d020a:
 translate korean d14s02_a75395f1:
 
     # arj "Mistress?"
-    arj "애인한테서?"
+    arj "정인한테서?"
 
 # game/code/d14/d14s02.rpy:151
 translate korean d14s02_2b35b6fe:
@@ -226,13 +226,13 @@ translate korean d14s02_3ab71ba1:
 translate korean d14s02_0ed97a83:
 
     # arj "Hey, I'm not gonna let your dick be taken away. Not by some app, and certainly not by some crazy succubus."
-    arj "있잖아, 내가 네 자지를 지켜 줄게. 무슨 앱 같은 거한테서도 그리고 무슨 미친 서큐버스한테서도 말이야."
+    arj "있잖아, 네 자지는 내가 지켜 줄게. 무슨 앱 같은 거한테서도 그리고 무슨 미친 서큐버스한테서도 말이야."
 
 # game/code/d14/d14s02.rpy:197
 translate korean d14s02_24b782c0:
 
     # arj "We're gonna stop it. No matter what. I promise."
-    arj "무슨 일이 있어도 우리가 같이 지켜 낼 거야. 약속할게."
+    arj "무슨 일이 있어도 우린 네 자지를 지켜 낼 거야. 약속할게."
 
 # game/code/d14/d14s02.rpy:199
 translate korean d14s02_5602733c:
@@ -244,13 +244,13 @@ translate korean d14s02_5602733c:
 translate korean d14s02_9f898f54:
 
     # arj "If some crazy succubus wants your dick, she will have to go through me first."
-    arj "무슨 미친 서큐버스나 네 자지를 원하면, 나부터 이겨야 할 거야."
+    arj "무슨 미친 서큐버스가 네 자지를 원하면, 나부터 이겨야 할 거야."
 
 # game/code/d14/d14s02.rpy:203
 translate korean d14s02_b3b16748:
 
     # arj "Now fuck me, [mcname]. Please."
-    arj "이제 날 박아 줘, [mcname]. 부탁해."
+    arj "이제 날 박아 줘, [mcname]. 제발."
 
 # game/code/d14/d14s02.rpy:208
 translate korean d14s02_cf3074d9:
@@ -388,7 +388,7 @@ translate korean d14s02_8d82db7a:
 translate korean d14s02_20d73784:
 
     # arj "Alright, alright, we really should get to it. Time's tick-tocking."
-    arj "알겠어, 알겠어, 이제 시작해야 돼. 시간이 다 가겠다."
+    arj "알겠어, 알겠어, 이제 시작해야 돼. 시간 다 가겠다."
 
 # game/code/d14/d14s02.rpy:350
 translate korean d14s02_6c11442f:

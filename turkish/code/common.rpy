@@ -1282,3 +1282,6 @@ translate turkish strings:
     old "Sync Error"
     new "Senkronizasyon Hatası"
 
+    # renpy/common/00sync.rpy:541
+    old "No"
+    new "Hayır"

@@ -22,7 +22,7 @@ translate korean d11s06_df5397d4:
 translate korean d11s06_9b3ab300:
 
     # mc "I am... {w}Aren't you excited?"
-    mc "저... {w}노라 흥분되지 않아요?"
+    mc "저... {w}노라 들떠 보이네요?"
 
 # game/code/d11/d11s06.rpy:84
 translate korean d11s06_f2be3240:
@@ -34,7 +34,7 @@ translate korean d11s06_f2be3240:
 translate korean d11s06_6f1debbd:
 
     # nk "I get anxious when I get too much time to think."
-    nk "생각할 시간이 너무 많아서 도리어 걱정이 되더라구."
+    nk "생각할 시간이 너무 많아서 도리어 안달이 나더라니까."
 
 # game/code/d11/d11s06.rpy:88
 translate korean d11s06_bc8e7f6c:
@@ -112,13 +112,13 @@ translate korean replay_d11s06_51ef5cb5:
 translate korean replay_d11s06_5f62acb6:
 
     # pw "Going into a random backroom with a dude while nobody is around takes a lot of trust."
-    pw "주변에 아무도 없는데 남자 녀석이랑 무슨 뒷방으로 간다는 건 어지간히 믿지 않고는 힘든 일이거든."
+    pw "주변에 아무도 없는데 남자 녀석이랑 무슨 뒷방으로 간다는 건 어지간히 믿지 않고는 하기 힘든 일이거든."
 
 # game/code/d11/d11s06.rpy:146
 translate korean replay_d11s06_ac7c8773:
 
     # pw "Don't blame me if I kick your balls in if something sketchy happens."
-    pw "무슨 일 생겨서 불알 차도 뭐라고 하지 마."
+    pw "무슨 일 생겨서 불알 차여도 뭐라고 하지 마."
 
 # game/code/d11/d11s06.rpy:149
 translate korean replay_d11s06_671ade0b:
@@ -286,7 +286,7 @@ translate korean replay_d11s06_33d905ad:
 translate korean replay_d11s06_649786fd:
 
     # mc "Oh? Don't mind if I do."
-    mc "아? 이렇게 해도 괜찮길 바라."
+    mc "아? 폴리, 이렇게 해도 괜찮길 바라."
 
 # game/code/d11/d11s06.rpy:335
 translate korean replay_d11s06_421ba0c7:
@@ -370,13 +370,13 @@ translate korean replay_d11s06_5e7fa98c:
 translate korean replay_d11s06_a0f10498:
 
     # nk "...Well, I guess you deserve a little reward for that."
-    nk "...음, 그동안 벌인 일에 대한 작은 보상을 받으셔야지."
+    nk "...음, 그동안 벌인 일에 대한 작은 보상은 받으셔야지."
 
 # game/code/d11/d11s06.rpy:540
 translate korean replay_d11s06_c3efbb29:
 
     # pw "Your cum doesn't taste bad—with enough coffee."
-    pw "커피랑 같이 마시면 네 정액 맛도 나쁘지 않은데."
+    pw "커피랑 같이 마시면 네 정액 맛도 나쁘진 않네."
 
 # game/code/d11/d11s06.rpy:546
 translate korean replay_d11s06_f82a247b:
@@ -424,13 +424,13 @@ translate korean replay_d11s06_a8533818:
 translate korean replay_d11s06_011b9371:
 
     # pw "I just...I really like you—"
-    pw "전 그냥... 정말로 노라가 좋아서—"
+    pw "전 그냥... 정말 노라가 좋아서—"
 
 # game/code/d11/d11s06.rpy:581
 translate korean replay_d11s06_a45c67a0:
 
     # nk "Honestly, I should fucking report you to the police."
-    nk "솔직히 말해서, 넌 씨발 경찰한테 신고해야 돼."
+    nk "솔직히 말하면, 넌 씨발 경찰한테 신고 당해야 돼."
 
 # game/code/d11/d11s06.rpy:584
 translate korean replay_d11s06_ab234c13:
@@ -448,11 +448,11 @@ translate korean replay_d11s06_2b35b6fe:
 translate korean replay_d11s06_e9d0af5e:
 
     # nk "...But my dumbass decided to go and like it, so yeah. Whatever. {w}All is forgiven I guess."
-    nk "...그대로 우리 등신이 즐겨 보자고 했고, 그래 좋았어. 아무튼. {w}용서할게."
+    nk "... 그래도 즐겨나 보자고 했어. 그러고 나니 좋았어. 아무튼. {w}용서할게."
 
 # game/code/d11/d11s06.rpy:593
 translate korean replay_d11s06_c0680056:
 
     # pw "...Thank you."
-    pw "...고마워요."
+    pw "... 고마워요."
 

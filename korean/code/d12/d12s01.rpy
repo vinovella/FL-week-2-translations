@@ -10,13 +10,13 @@ translate korean d12s01_43701264:
 translate korean d12s01_f746af8f:
 
     # mct "Huh. I feel strangely rested for once. {w}I wonder what time it is."
-    mct "허. 이번엔 이상하게 잘 쉰 느낌인데. {w}지금이 몇 시야."
+    mct "허. 이번엔 이상하게 잘 쉰 느낌인데. {w}지금 몇 시지."
 
 # game/code/d12/d12s01.rpy:79
 translate korean d12s01_88a50e80:
 
     # mct "*sigh* What does Fetish Locator want from me this time?"
-    mct "*한숨* 이 시간에 페티시 로케이터가 뭘 원하는 거야?"
+    mct "*한숨* 이 시간에 페티시 로케이터는 뭘 원하는 거야?"
 
 # game/code/d12/d12s01.rpy:81
 translate korean d12s01_f1b6e695:
@@ -46,19 +46,19 @@ translate korean d12s01_d845b343:
 translate korean d12s01_890e4839:
 
     # mc "Oh shit! We're late for class!"
-    mc "오 망할! 우리 수업 늦었어!"
+    mc "오, 망할! 우리 강의 늦었어!"
 
 # game/code/d12/d12s01.rpy:108
 translate korean d12s01_cc6d8384:
 
     # mc "Where are my clothes? What is today?"
-    mc "내 옷 어디에 있지? 오늘 뭐지?"
+    mc "내 옷 어디에 있어? 오늘 뭐 들어야 하더라?"
 
 # game/code/d12/d12s01.rpy:110
 translate korean d12s01_471ad49c:
 
     # arj "Relax. {w}Relax. {w}It was gym class today, and it was cancelled."
-    arj "진정해. {w}진정해. {w}오늘 체육 수업인데, 취소됐어."
+    arj "진정해. {w}진정해. {w}오늘 체육인데, 취소됐어."
 
 # game/code/d12/d12s01.rpy:113
 translate korean d12s01_dd1c268b:
@@ -112,19 +112,19 @@ translate korean d12s01_d778ae26:
 translate korean d12s01_1a843fa8:
 
     # mc "Oh. {w}That's very responsible of you."
-    mc "아. {w}엄청 든든한 걸."
+    mc "아. {w}엄청 성실한 걸."
 
 # game/code/d12/d12s01.rpy:135
 translate korean d12s01_845b7c89:
 
     # arj "You're going to love it. {w}We're just figuring out her outfit now."
-    arj "너도 마음에 들 거야. {w}아깐 걔 옷 고르고 있었어."
+    arj "집에 하는 운동이 네 마음에도 들 거야. {w}아깐 걔 옷 고르고 있었어."
 
 # game/code/d12/d12s01.rpy:137
 translate korean d12s01_fcc9012d:
 
     # mct "Weird, but I guess girls have multiple outfits even for just going to the gym."
-    mct "이상하네, 그래도 여자애들은 운동하러 가는 데도 옷을 고르니까."
+    mct "이상하네. 그래도 여자애들은 운동하러 갈 때 입는 옷도 여러 벌 가지고 있으니까."
 
 # game/code/d12/d12s01.rpy:139
 translate korean d12s01_65bb26c9:
@@ -142,13 +142,13 @@ translate korean d12s01_7ff55a29:
 translate korean d12s01_0993dee3:
 
     # mc "Exactly what I mean. Half the time you can't stand her. The other half she's following you around like a puppy."
-    mc "궁금한 게 그거야. 넌 마리아를 견디지 못하잖아. 그냥 네 꽁무니를 따라다니는 개 취급을 한다구."
+    mc "그게 의문이야. 넌 마리아를 견디지 못하잖아. 그냥 네 꽁무니를 따라다니는 개 취급을 한다구."
 
 # game/code/d12/d12s01.rpy:147
 translate korean d12s01_6200e3e4:
 
     # arj "Ha! She really does."
-    arj "하! 그렇긴 하지."
+    arj "하! 걔가 그렇긴 하지."
 
 # game/code/d12/d12s01.rpy:150
 translate korean d12s01_55730db4:
@@ -160,7 +160,7 @@ translate korean d12s01_55730db4:
 translate korean d12s01_8e1f940a:
 
     # arj "Oh hell no. I don't think she even thinks that."
-    arj "아 망할 아냐. 마리아도 그렇게 생각하진 않을 걸."
+    arj "아, 망할 아냐. 마리아도 그렇게 생각하진 않을 걸."
 
 # game/code/d12/d12s01.rpy:155
 translate korean d12s01_9a4c0782:
@@ -190,7 +190,7 @@ translate korean d12s01_c3243810:
 translate korean d12s01_d3870517:
 
     # arj "Not really. {w}She'll just do anything I tell her."
-    arj "꼭 그렇다는 건 아냐. {w}그냥 마리아는 내가 시키는 건 전부 한다는 거지."
+    arj "꼭 그렇다는 건 아냐. {w}그냥 마리아는 내가 시키는 건 전부 한다는 소리지."
 
 # game/code/d12/d12s01.rpy:165
 translate korean d12s01_35ab8f09:
@@ -214,7 +214,7 @@ translate korean d12s01_716019b8:
 translate korean d12s01_a3b8c090:
 
     # arj "Well, I'm not her master, but it's pretty much the same thing."
-    arj "음, 내가 마리아의 주인님은 아니지만, 꽤 그거랑 비슷한 존재라고 할 수 있지."
+    arj "음, 내가 마리아의 주인님은 아니지만, 꽤 주인이랑 비슷한 존재라고 할 수 있지."
 
 # game/code/d12/d12s01.rpy:175
 translate korean d12s01_d217830b:
@@ -238,7 +238,7 @@ translate korean d12s01_f6380bb8:
 translate korean d12s01_80604e21:
 
     # arj "Well, she's not in love with me, but it's kinda similar."
-    arj "음, 마리아가 날 사랑하는 건 아니지만, 비슷한 상태라곤 할 수 있지."
+    arj "음, 마리아가 날 사랑하는 건 아니지만, 비슷한 감정을 가지고 있다곤 할 수 있지."
 
 # game/code/d12/d12s01.rpy:185
 translate korean d12s01_093f0831:
@@ -256,7 +256,7 @@ translate korean d12s01_50fa55c3:
 translate korean d12s01_5cc418b2:
 
     # arj "But, anything you want her to do, I'll be happy to tell her to do for me."
-    arj "그래도 네가 원하는 거라면, 마리아한테 해 달라고 부탁할 거야."
+    arj "그래도 네가 원하는 거라면, 마리아한테 해 달라고 말해 볼게."
 
 # game/code/d12/d12s01.rpy:193
 translate korean d12s01_7129dea6:
@@ -316,7 +316,7 @@ translate korean d12s01_1b23596c:
 translate korean d12s01_afe62041:
 
     # arj "Last night, it sounded like she at least knew about the Fetish Party."
-    arj "어젯밤 듣기론 걔도 페티시 파티에 관해선 아는 것 같긴 하던데."
+    arj "어젯밤 듣기론 걔도 페티시 파티에 관해선 아는 모양이던데."
 
 # game/code/d12/d12s01.rpy:215
 translate korean d12s01_2ccde66f:
@@ -328,7 +328,7 @@ translate korean d12s01_2ccde66f:
 translate korean d12s01_0ec6b723:
 
     # arj "Have you told her about us?"
-    arj "우리에 관해선 말했어?"
+    arj "우리 사이에 관해선 말했어?"
 
 # game/code/d12/d12s01.rpy:220
 translate korean d12s01_70e7de7c:
@@ -364,7 +364,7 @@ translate korean d12s01_0e82bcc3:
 translate korean d12s01_aa67627f:
 
     # arj "It's a difficult challenge - it will require assistants. Not just women, but connections and ideas."
-    arj "어려운 도전이잖아. 도와주는 사람이 있어야지. 상대만 해 주는 사람아 아니라, 주선이나 발안을 도와주는 사람 말이야."
+    arj "어려운 도전이잖아. 도와주는 사람이 있어야지. 상대만 해 주는 사람이 아니라, 주선이나 발안을 도와주는 사람이 필요하다구."
 
 # game/code/d12/d12s01.rpy:235
 translate korean d12s01_1b9a042d:
@@ -376,7 +376,7 @@ translate korean d12s01_1b9a042d:
 translate korean d12s01_d4172c91:
 
     # mc "And it is my cock on the chopping block if I fail."
-    mc "그래 내가 실패하면 썰리는 건 내 자지니까."
+    mc "그래 실패하면 썰리는 건 내 자지니까."
 
 # game/code/d12/d12s01.rpy:240
 translate korean d12s01_4df3657c:
@@ -388,13 +388,13 @@ translate korean d12s01_4df3657c:
 translate korean d12s01_cda9ed9b:
 
     # arj "If I were your girlfriend I would want to know.{w}.. and help you in any way that I could."
-    arj "내가 네 여자 친구라면 무슨 일인지 알고 싶을 거야.{w}.. 그리고 자기가 도와줄 수 있는 방식으로 널 돕겠지."
+    arj "내가 네 여자 친구라면 무슨 일인지 알고 싶을 거야.{w}.. 그리고 자기가 할 수 있는 선에서 널 돕겠지."
 
 # game/code/d12/d12s01.rpy:244
 translate korean d12s01_ee90289a:
 
     # arj "If I were your real girlfriend I would want to know.{w}.. and help you in any way that I could."
-    arj "내가 네 진짜 여자 친구라면 무슨 일인지 알고 싶을 거야.{w}.. 그리고 자기가 도와줄 수 있는 방법으로 널 돕겠지."
+    arj "내가 네 진짜 여자 친구라면 무슨 일인지 알고 싶을 거야.{w}.. 그리고 자기가 할 수 있는 선에서 널 돕겠지."
 
 # game/code/d12/d12s01.rpy:246
 translate korean d12s01_b6c71e76:
@@ -412,7 +412,7 @@ translate korean d12s01_bfc01616:
 translate korean d12s01_d846ad9b:
 
     # mc "Just like I should be the one to tell her about us, when the time is right."
-    mc "때가 되면 우리 관계도 내가 말해야 하니까."
+    mc "때가 되면 우리 사이에 관해서도 말해야 하니까."
 
 # game/code/d12/d12s01.rpy:252
 translate korean d12s01_2a88f511:
@@ -436,7 +436,7 @@ translate korean d12s01_33def34f:
 translate korean d12s01_c8bd53e1:
 
     # mc "I was thinking about that yesterday. I only came up with [d11s01_pfucks]."
-    mc "어젠 [d11s01_pfucks]명이랑 한 거 같네."
+    mc "어제 한 거까지 생각해 보면, 한 [d11s01_pfucks]명까지는 될 수 있을 거 같아."
 
 # game/code/d12/d12s01.rpy:262
 translate korean d12s01_83991a96:
@@ -454,7 +454,7 @@ translate korean d12s01_11f60e5c:
 translate korean d12s01_26337c55:
 
     # mc "I'm pretty sure I only counted two of the three people I got fucks for yesterday."
-    mc "세 명이서 떡 친 걸 두 명으로 떡 친 걸로 해서 센 거지만."
+    mc "어제 세 명이서 한 걸 두 명으로 떡 친 걸로 계산한 거지만."
 
 # game/code/d12/d12s01.rpy:267
 translate korean d12s01_1ad2d2e7:
@@ -466,7 +466,7 @@ translate korean d12s01_1ad2d2e7:
 translate korean d12s01_dc740ee5:
 
     # mc "Yes. First I had a threesome with-"
-    mc "응. 처음 세 명이서 같이 했는데-"
+    mc "응. 처음 세 명이서 했는데-"
 
 # game/code/d12/d12s01.rpy:271
 translate korean d12s01_6b43d660:
@@ -490,7 +490,7 @@ translate korean d12s01_6bbc4437:
 translate korean d12s01_aad02603:
 
     # mc "Anyway, so it should be [d11s01_pfucks] plus 1 possible fucks now."
-    mc "아무튼, 지금까지 [d11s01_pfucks]명이고 여기에 잘하면 한 명 더할 수 있겠네."
+    mc "아무튼, [d11s01_pfucks]명은 가능할 거 같고, 잘하면 여기에 한 명 더할 수 있겠네."
 
 # game/code/d12/d12s01.rpy:282
 translate korean d12s01_db581ccd:
@@ -514,7 +514,7 @@ translate korean d12s01_a5c7a3de:
 translate korean d12s01_93314b13:
 
     # mc "Yeah. It's not very many."
-    mc "그래. 많진 않아."
+    mc "그래. 많진 않지."
 
 # game/code/d12/d12s01.rpy:293
 translate korean d12s01_bde01cf9:
@@ -550,13 +550,13 @@ translate korean d12s01_63202d87:
 translate korean d12s01_6604131b:
 
     # arj "So, we're going to need to find more people you can fuck."
-    arj "그래서 너랑 할 사람을 더 찾아야 돼."
+    arj "그러니 너랑 할 사람을 더 찾아야 돼."
 
 # game/code/d12/d12s01.rpy:310
 translate korean d12s01_9e0cd0fa:
 
     # arj "What about that woman with the purple hair? I think her name is Lyssa?"
-    arj "보라색 머리를 한 여성 분은 어때? 리사라는 이름이었지?"
+    arj "보라색 머리를 한 여성 분은 어때? 리사라는 분이었지?"
 
 # game/code/d12/d12s01.rpy:313
 translate korean d12s01_2a7fadef:
@@ -604,7 +604,7 @@ translate korean d12s01_c951392b:
 translate korean d12s01_97eeb6c7:
 
     # arj "So, we're going to need to find more women you can fuck."
-    arj "그래서 너랑 할 사람을 더 찾아야 돼."
+    arj "그러니 너랑 할 사람을 더 찾아야 돼."
 
 # game/code/d12/d12s01.rpy:334
 translate korean d12s01_9c31bece:
@@ -718,7 +718,7 @@ translate korean d12s01_2db8430b:
 translate korean d12s01_0ee63cd7:
 
     # mct "I wonder why I haven't gotten any points on Fetish Locator recently."
-    mct "최근엔 페티시 로케이터에서 점수 못 받은 이유가 뭘까."
+    mct "최근에 페티시 로케이터에서 점수 못 받은 이유가 뭘까."
 
 # game/code/d12/d12s01.rpy:382
 translate korean d12s01_a2fa2c23:
@@ -766,7 +766,7 @@ translate korean d12s01_mk_sex_bff87c10:
 translate korean d12s01_mk_sex_53394ce2:
 
     # arj "You seem hesitant. It's okay. If you don't want to-"
-    arj "내키진 않아 보이는데. 됐어. 하고 싶지 않으면-"
+    arj "내키지 않아 보이는데. 됐어. 하고 싶지 않으면-"
 
 # game/code/d12/d12s01.rpy:410
 translate korean d12s01_mk_sex_a2a4dce1:
@@ -850,7 +850,7 @@ translate korean d12s01_mk_sex_35afdc4a:
 translate korean d12s01_mk_sex_4d0adb5e:
 
     # mk "Thanks. I might need it in case-"
-    mk "고마워. 할 때 필요할 수도 있을 테니까-"
+    mk "고마워. 할 때 필요할 수도 있으니까-"
 
 # game/code/d12/d12s01.rpy:449
 translate korean d12s01_mk_sex_b84ccd0f:
@@ -1000,7 +1000,7 @@ translate korean d12s01_mk_sex_66cb81c5:
 translate korean d12s01_mk_sex_2f40c143:
 
     # arj "It's not that big of a deal. She's been fucked by dildos, strap-ons, vibrators... hell, once she got her personal massager stuck in there and called me to help take it out."
-    arj "큰 일 아냐. 얜 자기 몸에 뭐든 박아 왔다고. 딜도, 스트랩온, 바이브레이터... 망할, 한 번은 자기 마사지 기계가 거기에 박혔다니까. 빼게 도와 달라고 나한테 전화를 다 했다니까."
+    arj "큰 일 아냐. 얜 자기 몸에 뭐든 박아 왔다고. 딜도, 스트랩온, 바이브레이터... 망할, 한 번은 자기 마사지 기계가 거기에 박혀선, 나한테 빼게 도와 달라고 전화를 다 했다니까."
 
 # game/code/d12/d12s01.rpy:527
 translate korean d12s01_mk_sex_0cd1477e:
@@ -1012,7 +1012,7 @@ translate korean d12s01_mk_sex_0cd1477e:
 translate korean d12s01_mk_sex_20836ce6:
 
     # arj "You're already the first guy to put his cock inside her - during class the other day."
-    arj "벌써 좆을 얘 몸에 집어넣은 첫 번째 녀석이면서. 전에 수업 중에 했었잖아."
+    arj "넌 얘 몸에 좆을 집어넣은 첫 번째 녀석이잖아. 전에 수업 중에 했으면서."
 
 # game/code/d12/d12s01.rpy:530
 translate korean d12s01_mk_sex_6b67d9d5:
@@ -1024,7 +1024,7 @@ translate korean d12s01_mk_sex_6b67d9d5:
 translate korean d12s01_mk_sex_402587d7:
 
     # arj "You can be the first man to use all of her holes, if you want."
-    arj "얘의 구멍이란 구멍은 다 쓴 첫 번째 남자가 되는 거야, 네가 원하면."
+    arj "얘의 구멍이란 구멍은 다 쓴 첫 번째 남자가 되는 거야, 네가 원한다면."
 
 # game/code/d12/d12s01.rpy:534
 translate korean d12s01_mk_sex_baa21b61_1:
@@ -1138,7 +1138,7 @@ translate korean d12s01_arj_cum_a76f22c5:
 translate korean d12s01_arj_cum_16a0784d:
 
     # mct "AmRose is about to cum. {w}I've gotta see this."
-    mct "앰로즈가 쌀 것 같은데. {w}볼 만하겠는데."
+    mct "앰로즈가 쌀 것 같네. {w}볼 만하겠는데."
 
 # game/code/d12/d12s01.rpy:758
 translate korean d12s01_arj_cum_cf3074d9:
@@ -1234,13 +1234,13 @@ translate korean d12s01_arj_cum_36b14ee3:
 translate korean d12s01_arj_cum_f08c690d:
 
     # mc "Yes. {w}AmRose, there's that other item we talked about."
-    mc "응. {w}앰로즈, 아까 말한 거 있어."
+    mc "응. {w}앰로즈, 아까 말한 거 있잖아."
 
 # game/code/d12/d12s01.rpy:836
 translate korean d12s01_arj_cum_0ad6b079:
 
     # arj "Oh, right. There's someone else you need to serve."
-    arj "아, 맞다. 넌 해 줄 사람이 있으니까."
+    arj "아, 맞다. 해 줄 사람이 있으니까."
 
 # game/code/d12/d12s01.rpy:838
 translate korean d12s01_arj_cum_8e9f4fca:
@@ -1318,7 +1318,7 @@ translate korean d12s01_arj_cum_9d6b25b2:
 translate korean d12s01_arj_cum_c951392b:
 
     # mc "Definitely."
-    mc "확실히."
+    mc "당연하지."
 
 # game/code/d12/d12s01.rpy:871
 translate korean d12s01_arj_cum_ceb873f7:
@@ -1396,7 +1396,7 @@ translate korean d12s01_arj_cum_15be55ec:
 translate korean d12s01_arj_cum_fab547a6:
 
     # arj "This is a lot of fun.{w} I feel important. Like your personal secretary."
-    arj "엄청 재미있네.{w} 내가 중요한 사람처럼 느껴진다. 네 개인 비서 같아."
+    arj "엄청 재미있네.{w} 내가 중요한 사람처럼 느껴져. 네 개인 비서 같아."
 
 # game/code/d12/d12s01.rpy:917
 translate korean d12s01_arj_cum_18595a2e:
@@ -1474,7 +1474,7 @@ translate korean d12s01_end_cdde180a:
 translate korean d12s01_end_c2ef74fc:
 
     # mc "Who would even know I was here? {w}Or send me a shirt like this?"
-    mc "게다가 내가 여기에 있는 걸 누가 알고 있던 거야? {w}그리고 나한테 이런 옷도 보냈다고?"
+    mc "그런데 내가 여기에 있는 걸 누가 알고 있던 거야? {w}그리고 나한테 이런 옷도 보냈다고?"
 
 # game/code/d12/d12s01.rpy:957
 translate korean d12s01_end_7fd11cca:
@@ -1486,7 +1486,7 @@ translate korean d12s01_end_7fd11cca:
 translate korean d12s01_end_da66531a:
 
     # mc "... ?"
-    mc "... ?"
+    mc "...?"
 
 # game/code/d12/d12s01.rpy:961
 translate korean d12s01_end_630ee83e:
@@ -1576,7 +1576,7 @@ translate korean d12s01_end_2004f966:
 translate korean d12s01_end_e2fd31b6:
 
     # arj "Well, then. Business first. Get going!"
-    arj "음, 나중에. 일이 먼저지. 출발해!"
+    arj "음, 그러면 나중에 하자. 일이 먼저지. 출발해!"
 
 # game/code/d12/d12s01.rpy:993
 translate korean d12s01_end_5c7420ae:

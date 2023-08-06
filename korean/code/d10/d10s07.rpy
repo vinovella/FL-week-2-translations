@@ -10,7 +10,7 @@ translate korean d10s07_fad11a7d:
 translate korean d10s07_9cc8f245:
 
     # mc "The coffee helped, but today was exhausting."
-    mc "커피가 도움이 되긴 하지만, 오늘은 정말 지치네."
+    mc "커피가 도움이 되긴 해도, 오늘은 정말 지친다."
 
 # game/code/d10/d10s07.rpy:18
 translate korean d10s07_ea5c28ff:
@@ -22,7 +22,7 @@ translate korean d10s07_ea5c28ff:
 translate korean d10s07_f3b56f1f:
 
     # arj "No different than usual, except that I keep thinking about what might happen tonight."
-    arj "평소랑 다른 건 없었어, 오늘 밤 무슨 일이 일어날까 계속 생각하긴 했지만."
+    arj "평소랑 다른 건 없었어, 오늘 밤 무슨 일이 일어날까 계속 그 생각만 했지."
 
 # game/code/d10/d10s07.rpy:23
 translate korean d10s07_cf117063:
@@ -46,7 +46,7 @@ translate korean d10s07_1e490821:
 translate korean d10s07_55f114fa:
 
     # mc "Mostly it seemed like everyone was conspiring together to edge me."
-    mc "날 못 가게 하려도 전부 짠 건 아닌가 했다니까."
+    mc "날 못 가게 하려고, 파티에 있는 전부가 작당한 건 아닌가 했다니까."
 
 # game/code/d10/d10s07.rpy:30
 translate korean d10s07_356acec4:
@@ -148,13 +148,13 @@ translate korean d10s07_6e955937:
 translate korean d10s07_e544eff7:
 
     # mc "If you find yourself struggling with your duties, just remember that you're mine."
-    mc "네 의무에 어려움을 느끼면, 넌 네 거라는 사실을 기억해."
+    mc "곤란하고 힘든 일이 생기면, 넌 네 거라는 사실을 기억해."
 
 # game/code/d10/d10s07.rpy:69
 translate korean d10s07_ad09ff19:
 
     # mc "You'll do everything perfectly because you don't want to embarrass me."
-    mc "넌 뭐든지 완벽하게 할 수 있어 날 부끄럽게 하고 싶지 않을 테니까."
+    mc "넌 뭐든지 완벽하게 할 수 있어. 날 부끄럽게 하고 싶지 않을 테니까."
 
 # game/code/d10/d10s07.rpy:70
 translate korean d10s07_30ab9f82:
@@ -172,13 +172,13 @@ translate korean d10s07_9a6f869a:
 translate korean d10s07_f28fe7ee:
 
     # mc "I know you will."
-    mc "그럴 거라고 생각해."
+    mc "그래야지."
 
 # game/code/d10/d10s07.rpy:77
 translate korean d10s07_faba7a70:
 
     # mc "Now you should take a shower to wake up."
-    mc "깨어 있으려면 샤워를 해야겠어."
+    mc "눈 뜨고 있으려면 샤워라도 해야겠어."
 
 # game/code/d10/d10s07.rpy:79
 translate korean d10s07_24ec5354:
@@ -238,7 +238,7 @@ translate korean d10s07_9f2e62bb:
 translate korean d10s07_b0b77813:
 
     # mc "If I could, I would keep you like this all the time."
-    mc "할 수만 있으면, 널 항상 그 상태도 두고 싶을 정도야."
+    mc "할 수만 있으면, 널 평생 그대로 두고 싶을 정도네."
 
 # game/code/d10/d10s07.rpy:104
 translate korean d10s07_a57c82f5:
@@ -280,13 +280,13 @@ translate korean d10s07_9b6bbbfe:
 translate korean d10s07_d12f5f9c:
 
     # mc "Oh. Part of my instructions were to get an invite for myself."
-    mc "아. 나 지시 사항에는 스스로 초대장을 구하라도 하던데."
+    mc "아. 내가 받은 지시 사항에는 초대장 스스로 구하라고 하던데."
 
 # game/code/d10/d10s07.rpy:121
 translate korean d10s07_a89145b3:
 
     # arj "Weird. I just assumed you would be serving drinks or something like me."
-    arj "이상하네. 너도 나처럼 음료 같은 걸 나르는 일을 할 거라고 생각했는데."
+    arj "이상하네. 너도 나처럼 음료든 뭐든 대접하는 일을 할 거라고 생각했는데."
 
 # game/code/d10/d10s07.rpy:122
 translate korean d10s07_bfddc60e:
@@ -298,7 +298,7 @@ translate korean d10s07_bfddc60e:
 translate korean d10s07_2d86e078:
 
     # mc "I have to participate in the main event..."
-    mc "본 행사에 참가해야 돼..."
+    mc "본 행사에 참가해야 된다고 하더라..."
 
 # game/code/d10/d10s07.rpy:128
 translate korean d10s07_4e7280bf:
@@ -310,7 +310,7 @@ translate korean d10s07_4e7280bf:
 translate korean d10s07_579aab55:
 
     # mc "I have no idea what it will be this week, but last week Min was assfucked by Antony in front of everyone as a main event."
-    mc "이번 주엔 뭘 할지 모르겠지만, 지난 주 본 행사에서는 모든 사람 앞에서 민이 앤토니한테 엉덩이를 박혔어."
+    mc "이번 주엔 뭘 할지 몰라. 지난 주 본 행사에서는 모든 사람 앞에서 민이 앤토니한테 엉덩이를 박혔지."
 
 # game/code/d10/d10s07.rpy:132
 translate korean d10s07_93bb8cb4:
@@ -322,7 +322,7 @@ translate korean d10s07_93bb8cb4:
 translate korean d10s07_09f8f56f:
 
     # mc "No idea... {w}Hopefully I won't have to get assfucked by Antony."
-    mc "모르지... {w}제발 앤토니한테 엉덩이가 박히는 건 아니면 좋겠네."
+    mc "모르지... {w}앤토니한테 엉덩이가 박히는 건 아니면 좋겠네."
 
 # game/code/d10/d10s07.rpy:137
 translate korean d10s07_1ef9a628:
@@ -388,7 +388,7 @@ translate korean d10s07_c914fd54:
 translate korean d10s07_3f2982de:
 
     # arj "Shush, okay? {w}Don't ask questions you don't want answered."
-    arj "쉿, 알겠어? {w}들을 수도 없는 걸 묻지 말라구."
+    arj "쉿, 알겠어? {w}들을 수 없는 답은 구하지도 말라구."
 
 # game/code/d10/d10s07.rpy:166
 translate korean d10s07_83fc1b16:
@@ -400,13 +400,13 @@ translate korean d10s07_83fc1b16:
 translate korean d10s07_40ceab31:
 
     # arj "Oh, yeah. Yeah. That would make sense."
-    arj "아, 그래. 맞아. 그러면 말이 되네."
+    arj "아, 그래. 맞아. 그러면 말이 되겠네."
 
 # game/code/d10/d10s07.rpy:171
 translate korean d10s07_c9be2db3:
 
     # mc "Now you've got me wondering..."
-    mc "그러면 궁금한데..."
+    mc "그렇게 구니까 더 궁금한데..."
 
 # game/code/d10/d10s07.rpy:173
 translate korean d10s07_3291c4b7:
@@ -418,7 +418,7 @@ translate korean d10s07_3291c4b7:
 translate korean d10s07_dcea32d2:
 
     # mct "Now I'm pretty sure I don't believe her."
-    mct "점점 더 믿기가 어려워 지는데."
+    mct "점점 더 믿기가 어려워지는데."
 
 # game/code/d10/d10s07.rpy:178
 translate korean d10s07_21db13dd:
@@ -430,7 +430,7 @@ translate korean d10s07_21db13dd:
 translate korean d10s07_68824110:
 
     # mc "Now we can get ready for this shindig."
-    mc "이제 이 놈의 파티 갈 준비나 해야겠네."
+    mc "이제 그 놈의 파티 갈 준비나 해야겠다."
 
 # game/code/d10/d10s07.rpy:184
 translate korean d10s07_7e116f76:
@@ -442,13 +442,13 @@ translate korean d10s07_7e116f76:
 translate korean d10s07_23e53b43:
 
     # mc "Gah! I look like I'm going to the The Blue Oyster."
-    mc "으악! 나 좀 봐. 블루 오이스터라도 가는 거 같네."
+    mc "으악! 내 꼴 좀 봐. 블루 오이스터라도 가는 거 같네."
 
 # game/code/d10/d10s07.rpy:201
 translate korean d10s07_6031d704:
 
     # arj "Ha! {w}You might discover the best \"Salad\" bar in town!"
-    arj "하! {w}이 도시에서 가장 훌륭한 \"샐러드\" 바를 찾으신 모양이네요!"
+    arj "하! {w}이 도시에서 가장 훌륭한 \"샐러드\" 바를 찾으실 모양이네요!"
 
 # game/code/d10/d10s07.rpy:204
 translate korean d10s07_98274296:
@@ -478,7 +478,7 @@ translate korean d10s07_14065745:
 translate korean d10s07_876f16e1:
 
     # mc "You look really cute like this."
-    mc "이러니까 정말 귀여워 보이는데."
+    mc "그러니까 정말 귀여워 보이는데."
 
 # game/code/d10/d10s07.rpy:214
 translate korean d10s07_960ce124:
@@ -490,13 +490,13 @@ translate korean d10s07_960ce124:
 translate korean d10s07_0fe433cb:
 
     # mc "Maybe. You just look damn cute in that outfit too."
-    mc "아마. 그 옷도 입으니까 정말 귀여워."
+    mc "그렇기도 하지. 그리고 그 옷도 입으니까 정말 귀여워."
 
 # game/code/d10/d10s07.rpy:219
 translate korean d10s07_56dbef88:
 
     # arj "Um, good. {w}Is there anything else I should know about tonight?"
-    arj "음, 좋아. {w}내가 오늘 저녁에 알아야 둬야 하는 다른 내용이라도 있어?"
+    arj "음, 좋아. {w}오늘 저녁에 알아야 둬야 하는 게 더 있어?"
 
 # game/code/d10/d10s07.rpy:220
 translate korean d10s07_9ce7b311:

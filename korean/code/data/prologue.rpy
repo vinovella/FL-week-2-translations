@@ -4,7 +4,7 @@ translate korean strings:
 
     # game/code/data/prologue.rpy:16
     old "Scintillating Stacy"
-    new "재치 넘치는 스테이시"
+    new "재치 있는 스테이시"
 
     # game/code/data/prologue.rpy:16
     old "The sister"
@@ -52,7 +52,7 @@ translate korean strings:
 
     # game/code/data/prologue.rpy:16
     old "Obsessed with winning & watersports"
-    new "승리와 워터스포츠에 집착"
+    new "승리와 워터스포츠에 집착함"
 
     # game/code/data/prologue.rpy:16
     old "Maidenly Maria"
@@ -108,7 +108,7 @@ translate korean strings:
 
     # game/code/data/prologue.rpy:34
     old "Trans Content"
-    new "성 전환 컨텐츠"
+    new "성 전환 콘텐츠"
 
     # game/code/data/prologue.rpy:34
     old "Anal play"
@@ -120,5 +120,5 @@ translate korean strings:
 
     # game/code/data/prologue.rpy:51
     old "Not_Mike"
-    new "마이크_아님"
+    new "아님_마이크"
 

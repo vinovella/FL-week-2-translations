@@ -148,13 +148,13 @@ translate korean d14s16_f2bdcd24:
 translate korean d14s16_cf11340f:
 
     # arj "Your \"significant other\" thinks that she can boss me around."
-    arj "네 \"소중한 반쪽\"이 지가 상전인냥 굴잖아."
+    arj "네 \"소중한 반쪽\"께서 지가 상전인냥 굴잖아."
 
 # game/code/d14p2/d14s16.rpy:86
 translate korean d14s16_10574580:
 
     # lc "Your best friend and her little helper have been doing their best to keep me away from you all day today."
-    lc "네 절친이자 충견이 오늘 날 너한테서 떼어 놓으려고 발악을 하잖아."
+    lc "네 절친이자 충견이 오늘 너한테서 날 떼어 놓으려고 발악을 하잖아."
 
 # game/code/d14p2/d14s16.rpy:89
 translate korean d14s16_31b99572:
@@ -166,7 +166,7 @@ translate korean d14s16_31b99572:
 translate korean d14s16_73312afb:
 
     # lc "Please. You've both been saying you need my help with every minute detail, even though I'm not necessary."
-    lc "작작 좀 해. 너희 둘이 왠 사소한 구실 잡아서 내 도움이 필요하다고 날 부르고 있잖아. 난 전혀 필요한 일도 아닌데."
+    lc "작작 좀 해. 너희 둘이 왠 사소한 구실을 잡아선 내 도움이 필요하다고 계속 불렀잖아. 내가 필요한 일도 전혀 아니었는데."
 
 # game/code/d14p2/d14s16.rpy:95
 translate korean d14s16_11749bc1:
@@ -178,19 +178,19 @@ translate korean d14s16_11749bc1:
 translate korean d14s16_7720e166:
 
     # lc "Don't bother pretending. Stacy and you collaborated on your party and have been collaborating on-"
-    lc "아닌 척하지 마. 스테이시랑 네가 합작을 해선 네 파티는 물론이고 나도-"
+    lc "아닌 척하지 마. 스테이시랑 네가 작당을 해선 네 파티는 물론이고 나도-"
 
 # game/code/d14p2/d14s16.rpy:101
 translate korean d14s16_90ca1fbb:
 
     # arj "My party? It's [mcname]'s party."
-    arj "내 파티라고? 이건 [mcname] 얘의 파티야."
+    arj "내 파티라고? 이건 [mcname]의 파티야."
 
 # game/code/d14p2/d14s16.rpy:104
 translate korean d14s16_765f2df7:
 
     # lc "Sure, in name only. You two planned and put it all together."
-    lc "그래, 이름은 그렇겠지. 너희 둘이 계획은 하고 전부 준비한 파티인데도 말이야."
+    lc "그래, 이름은 그렇겠지. 너희 둘이 계획도 준비도 전부 한 파티인데도 말이야."
 
 # game/code/d14p2/d14s16.rpy:107
 translate korean d14s16_19ca7d92:

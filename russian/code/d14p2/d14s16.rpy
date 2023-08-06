@@ -382,7 +382,7 @@ translate russian d14s16_761a544b:
 translate russian d14s16_49a50cf3:
 
     # lc "Thanks. {w}I'm sorry for my part in this miscommunication."
-    lc "Спасибо. {w}Сожалею о этом недопонимании."
+    lc "Спасибо. {w}Сожалею об этом недопонимании."
 
 # game/code/d14p2/d14s16.rpy:191
 translate russian d14s16_0e297967:

@@ -850,7 +850,7 @@ translate russian d10p1s05_end_b8de06d3:
 translate russian d10p1s05_end_da2fe9dc:
 
     # mesfl "She knew her boyfriend wouldn't like what she had to do, so she tried to hide it from him."
-    mesfl "Она знала, что ее парню не понравится это, что она должна была это сделать, поэтому она пыталась скрыть это от него."
+    mesfl "Она знала, что ее парню не понравится то, что она должна была сделать, поэтому она пыталась скрыть это от него."
 
 # game/code/d10p1/d10p1s05.rpy:493
 translate russian d10p1s05_end_7c3fa1ae:

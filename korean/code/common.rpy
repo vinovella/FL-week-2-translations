@@ -1180,39 +1180,39 @@ translate korean strings:
 
     # renpy/common/00director.rpy:1745
     old "Click to toggle attribute, right click to toggle negative attribute."
-    new "Click to toggle attribute, right click to toggle negative attribute."
+    new "속성을 활성화하려면 왼쪽 클릭을 누르십시오. 부정 속성을 활성화하려면 오른쪽 클릭을 누르십시오."
 
     # renpy/common/00director.rpy:1768
     old "Click to set transform, right click to add to transform list."
-    new "Click to set transform, right click to add to transform list."
+    new "변형을 설정하려면 클릭을 누르십시오. 변형 목록에 추가하려면 오른쪽 클릭을 누르십시오."
 
     # renpy/common/00director.rpy:1789
     old "Click to set, right click to add to behind list."
-    new "Click to set, right click to add to behind list."
+    new "설정하려면 클릭을 누르십시오. 목록 뒤에 추가하려면 오른쪽 클릭을 누르십시오."
 
     # renpy/common/00gui.rpy:456
     old "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
-    new "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
+    new "이 저장 파일은 다른 장치에서 생성되었습니다. 잘못 만들어진 저장 파일은 컴퓨터에 악영향을 미칠 수 있습니다. 이 저장 파일의 생성자와 수정자를 신뢰하십니까?"
 
     # renpy/common/00gui.rpy:457
     old "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
-    new "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
+    new "저장 파일이 생성된 장치를 신뢰하십니까? 해당 장치의 유일한 사용자인 경우, 동의하시면 됩니다."
 
     # renpy/common/00preferences.rpy:528
     old "audio when unfocused"
-    new "audio when unfocused"
+    new "집중하지 않을 시 소리"
 
     # renpy/common/00preferences.rpy:537
     old "web cache preload"
-    new "web cache preload"
+    new "웹 캐시 사전 설치"
 
     # renpy/common/00preferences.rpy:552
     old "voice after game menu"
-    new "voice after game menu"
+    new "게임 메뉴 이후 목소리"
 
     # renpy/common/00speechbubble.rpy:344
     old "Speech Bubble Editor"
-    new "Speech Bubble Editor"
+    new "말풍선 편집기"
 
     # renpy/common/00speechbubble.rpy:349
     old "(hide)"
@@ -1220,39 +1220,39 @@ translate korean strings:
 
     # renpy/common/00sync.rpy:70
     old "Sync downloaded."
-    new "Sync downloaded."
+    new "다운로드 내역 동기화."
 
     # renpy/common/00sync.rpy:190
     old "Could not connect to the Ren'Py Sync server."
-    new "Could not connect to the Ren'Py Sync server."
+    new "Ren'Py 동기화 서버에 접속할 수 없습니다."
 
     # renpy/common/00sync.rpy:192
     old "The Ren'Py Sync server timed out."
-    new "The Ren'Py Sync server timed out."
+    new "Ren'Py 동기화 서버가 시간내 반응하지 않습니다."
 
     # renpy/common/00sync.rpy:194
     old "An unknown error occurred while connecting to the Ren'Py Sync server."
-    new "An unknown error occurred while connecting to the Ren'Py Sync server."
+    new "Ren'Py 동기화 서버 접송 중 미상의 오류가 발생했습니다."
 
     # renpy/common/00sync.rpy:267
     old "The Ren'Py Sync server does not have a copy of this sync. The sync ID may be invalid, or it may have timed out."
-    new "The Ren'Py Sync server does not have a copy of this sync. The sync ID may be invalid, or it may have timed out."
+    new "Ren'Py 동기화 서버는 해당 싱크의 복사본을 가지고 있지 않습니다. 동기화 ID가 유요하지 않으면, 시간내 반응하지 않을 수 있습니다."
 
     # renpy/common/00sync.rpy:409
     old "Please enter the sync ID you generated.\nNever enter a sync ID you didn't create yourself."
-    new "Please enter the sync ID you generated.\nNever enter a sync ID you didn't create yourself."
+    new "생성한 동기화 ID를 입력해 주십시오.\n본인 직접 생성하지 않은 동기화 ID는 절대 입력하지 마십시오."
 
     # renpy/common/00sync.rpy:428
     old "The sync ID is not in the correct format."
-    new "The sync ID is not in the correct format."
+    new "동기화 ID가 유효한 형식을 가지고 있지 않습니다."
 
     # renpy/common/00sync.rpy:448
     old "The sync could not be decrypted."
-    new "The sync could not be decrypted."
+    new "동기화 내역을 복호화할 수 없습니다."
 
     # renpy/common/00sync.rpy:471
     old "The sync belongs to a different game."
-    new "The sync belongs to a different game."
+    new "해당 동기화는 다른 게임에 속합니다."
 
     # renpy/common/00sync.rpy:476
     old "The sync contains a file with an invalid name."
@@ -1260,29 +1260,32 @@ translate korean strings:
 
     # renpy/common/00sync.rpy:529
     old "This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nDo you want to continue?"
-    new "This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nDo you want to continue?"
+    new "이 저장 내역을 {a=https://sync.renpy.org}Ren'Py 동기화 서버{/a}에 올리게 됩니다.\n계속하시겠습니까?"
 
     # renpy/common/00sync.rpy:558
     old "Enter Sync ID"
-    new "Enter Sync ID"
+    new "동기화 ID 입력"
 
     # renpy/common/00sync.rpy:569
     old "This will contact the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}."
-    new "This will contact the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}."
+    new "{a=https://sync.renpy.org}Ren'Py 동기화 서버{/a}에 연결됩니다."
 
     # renpy/common/00sync.rpy:596
     old "Sync Success"
-    new "Sync Success"
+    new "동기화 성공"
 
     # renpy/common/00sync.rpy:599
     old "The Sync ID is:"
-    new "The Sync ID is:"
+    new "동기화 ID:"
 
     # renpy/common/00sync.rpy:605
     old "You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
-    new "You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
+    new "다른 기기에서 저장 파일을 다운로드하기 위해 이 ID를 사용할 수 있습니다.\n이 동기화는 한 시간 후 만료됩니다.\nRen'Py 동기화는 {a=https://www.renpy.org/sponsors.html}Ren'Py의 후원자{/a}에 의해 제공됩니다."
 
     # renpy/common/00sync.rpy:631
     old "Sync Error"
-    new "Sync Error"
+    new "동기화 오류"
 
+    # renpy/common/00sync.rpy:541
+    old "No"
+    new "아니오"

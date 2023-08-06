@@ -10,7 +10,7 @@ translate korean d08s07_ce6bbf32:
 translate korean d08s07_4d20eea3:
 
     # sy "I'm going to grab some food and join AmRose."
-    sy "난 먹을 것 좀 챙겨서 앰로즈한테 갈 게."
+    sy "난 먹을 것 좀 챙겨서 앰로즈한테 갈게."
 
 # game/code/d08/d08s07.rpy:18
 translate korean d08s07_99a6dbdf:
@@ -28,7 +28,7 @@ translate korean d08s07_b495adbf:
 translate korean d08s07_bcbf67d4:
 
     # sy "Do you sit with your favorite ladies or with that-{w} I mean, with Lydia and her friend?"
-    sy "네가 가장 좋아하는 여성들과 앉을 거야 아니면 저 ㄴ-{w} 달리 말하자면, 리디아와 걔 친구랑 앉을 거야?"
+    sy "네가 가장 좋아하는 여성들과 앉을 거야. 아니면 저 ㄴ-{w} 그러니까, 리디아와 걔 친구랑 앉을 거야?"
 
 # game/code/d08/d08s07.rpy:25
 translate korean d08s07_3b287fb3:
@@ -58,13 +58,13 @@ translate korean d08s07_c15dd178:
 translate korean d08s07_be1a7797:
 
     # mct "Damn. Why didn't I see it before? {w}AmRose has been totally jealous of Lydia."
-    mct "젠장. 왜 전에는 이걸 눈치채지 못했을까? {w}앰로즈는 리디아를 완전히 질투해 왔어."
+    mct "젠장. 왜 전에는 이걸 눈치채지 못했을까? {w}앰로즈는 리디아를 진짜 질투해 왔는데."
 
 # game/code/d08/d08s07.rpy:32
 translate korean d08s07_461482f0:
 
     # mct "I really am an idiot sometimes."
-    mct "가끔씩 난 정말 등신 같다니까."
+    mct "가끔 정말 난 등신 같다니까."
 
 # game/code/d08/d08s07.rpy:35
 translate korean d08s07_a0f35268:
@@ -76,13 +76,13 @@ translate korean d08s07_a0f35268:
 translate korean d08s07_b22f923e:
 
     # mc "I was just thinking \"I really am an idiot sometimes.\""
-    mc "그냥 \"가끔씩 난 정말 등신 같다니까.\"라고 생각하고 있었어"
+    mc "그냥 \"가끔 정말 난 등신 같다니까\"라고 생각하고 있었어."
 
 # game/code/d08/d08s07.rpy:38
 translate korean d08s07_187603fc:
 
     # sy "No kidding. So, I guess you're sitting with your girlfriend instead of us?"
-    sy "진짜 그렇긴 하지. 그래서, 우리 대신에 니 여자 친구랑 앉을 거지?"
+    sy "진짜 그렇긴 하지. 그래서, 우리랑 같이 앉는 대신에 여자 친구랑 앉을 거지?"
 
 # game/code/d08/d08s07.rpy:39
 translate korean d08s07_82c6722a:
@@ -160,13 +160,13 @@ translate korean d08s07_c10a1144:
 translate korean d08s07_2e3f9e1a:
 
     # lc "Oh! You're already here! What are you thinking about having for lunch?"
-    lc "아! 왔네! 같이 점심 먹을래?"
+    lc "아! 왔구나! 같이 점심 먹을래?"
 
 # game/code/d08/d08s07.rpy:75
 translate korean d08s07_e6eab47b:
 
     # mc "Just grab a seat and I'll bring you something. Any preferences?"
-    mc "앉아 있어 내가 음식 가져올 게. 원하는 메뉴라도 있어?"
+    mc "앉아 있어. 음식은 내가 가져올게. 어떤 걸로 할래?"
 
 # game/code/d08/d08s07.rpy:76
 translate korean d08s07_e611a3b2:
@@ -178,7 +178,7 @@ translate korean d08s07_e611a3b2:
 translate korean d08s07_e10be3c7:
 
     # mc "And you, Min?"
-    mc "넌 어떤 걸로 할 거야, 민?"
+    mc "넌 민?"
 
 # game/code/d08/d08s07.rpy:80
 translate korean d08s07_2d71f814:
@@ -190,7 +190,7 @@ translate korean d08s07_2d71f814:
 translate korean d08s07_521a32f1:
 
     # mc "Cool. I'll be right back."
-    mc "좋아. 금방 가져올 게."
+    mc "좋아. 금방 가져올게."
 
 # game/code/d08/d08s07.rpy:88
 translate korean d08s07_33fcb73d:
@@ -208,13 +208,13 @@ translate korean d08s07_ba0ad214:
 translate korean d08s07_bd8755c1:
 
     # mct "Did she just call me sexy?! [mcname] FTW!!!"
-    mct "방금 나한테 섹시하다고 한 거야?! [mcname] 짱인데!!!"
+    mct "방금 나한테 섹시하다고 한 거야?! [mcname] 쩌는데!!!"
 
 # game/code/d08/d08s07.rpy:95
 translate korean d08s07_ccb60c44:
 
     # mes "Awww{w}, you too are so cute together it makes me sick. No love for me?"
-    mes "어우우우{w}, 너희가 쌍으로 너무 귀여워서 토가 나올 지경이네. 나에게 줄 애정은 없는 거야?"
+    mes "어우우우{w}, 너희가 쌍으로 너무 귀여워서 토가 나올 지경이다. 나에게 줄 애정은 없는 거야?"
 
 # game/code/d08/d08s07.rpy:98
 translate korean d08s07_e2229453:
@@ -244,19 +244,19 @@ translate korean d08s07_aa5d6a1f:
 translate korean d08s07_a8746d83:
 
     # lc "I kinda noticed that."
-    lc "나도 알겠어."
+    lc "나도 진심인 거 알겠어."
 
 # game/code/d08/d08s07.rpy:118
 translate korean d08s07_0d89fc22:
 
     # mc "Now you're both just trying to make me blush."
-    mc "이젠 너희가 내 볼을 빨갛게 만드는구나."
+    mc "이젠 내가 다 부끄럽네."
 
 # game/code/d08/d08s07.rpy:119
 translate korean d08s07_2d9b4af4:
 
     # mes "So, I know when, but you've both been very cagey about how you hooked up."
-    mes "맞다. 너희가 언제 사귀게 된 건진 알아. 그런데 어떻게 엮이게 된 건진 너희 둘 다 숨기고 있단 말야."
+    mes "맞다. 너희가 언제 사귀게 된 건진 알거든. 그런데 어떻게 엮이게 된 건진 너희 둘 다 숨기고 있단 말야."
 
 # game/code/d08/d08s07.rpy:122
 translate korean d08s07_f720d270:
@@ -268,7 +268,7 @@ translate korean d08s07_f720d270:
 translate korean d08s07_8f38acde:
 
     # lc "I can't imagine."
-    lc "상상도 못 했네."
+    lc "상상도 못했네."
 
 # game/code/d08/d08s07.rpy:126
 translate korean d08s07_15899572:
@@ -580,7 +580,7 @@ translate korean d08s07_dbc36167:
 translate korean d08s07_4409bd16:
 
     # mct "Oh there is a message from Lyssa."
-    mct "아 리사한테 문자가 왔네."
+    mct "아, 리사한테 문자가 왔네."
 
 # game/code/d08/d08s07.rpy:249
 translate korean d08s07_22bf109b:
@@ -628,7 +628,7 @@ translate korean d08s07_10ef6fba:
 translate korean d08s07_51625cac:
 
     # mc "{i}Sure that's a great idea - See you then!{/i}"
-    mc "{i}좋아 그거 대단한 생각이야 - 그때 보자구!{/i}"
+    mc "{i}좋아. 엄청 기대가 되는데. 그때 보자구!{/i}"
 
 # game/code/d08/d08s07.rpy:265
 translate korean d08s07_3edec2c1:
@@ -676,13 +676,13 @@ translate korean d08s07_59a6d556:
 translate korean d08s07_de9d394f:
 
     # mes "You were telling me why you won't be at the party this week."
-    mes "네가 이번 주 파티에 안 오는 이유 말하고 있었잖아."
+    mes "네가 이번 주 파티에 안 오는 이유를 말하고 있었잖아."
 
 # game/code/d08/d08s07.rpy:277
 translate korean d08s07_54c0aed8:
 
     # mct "Wait, the king of the world died frozen in the ocean."
-    mct "잠깐만, 세상의 왕은 바다에 빠져 얼어 죽잖아."
+    mct "잠깐만, 세상의 왕은 바다에 빠져서 얼어 죽잖아."
 
 # game/code/d08/d08s07.rpy:280
 translate korean d08s07_99ee4460:
@@ -826,13 +826,13 @@ translate korean d08s07_9aa5dd7c:
 translate korean d08s07_df5b7e97:
 
     # mc "Like Min said earlier, last week at the party we \"hooked up\"."
-    mc "민이 아까 말한 것처럼, 지난주 파티에서 우리가 \"엮인 거지\"."
+    mc "민이 아까 말했던 거처럼, 지난주 파티에서 우리가 \"엮인 거지\"."
 
 # game/code/d08/d08s07.rpy:330
 translate korean d08s07_b03cb304:
 
     # mc "So, I just assumed you'd be there again this week."
-    mc "그래서, 이번 주 파티에 너도 다시 갈 거라고 생각했어."
+    mc "그래서, 이번 주 파티에 너도 갈 거라고 생각했어."
 
 # game/code/d08/d08s07.rpy:332
 translate korean d08s07_ab57b8e3:
@@ -874,19 +874,19 @@ translate korean d08s07_b805585e:
 translate korean d08s07_accecc8b:
 
     # lc "But it sounds like you want to go again this week. That you enjoy that kinda thing."
-    lc "하지만 넌 이번 주에도 가고 싶다는 말이네. 그건 네가 그런 걸 즐길 거란 거고."
+    lc "하지만 넌 이번 주에도 가고 싶다는 말이네. 그건 네가 그런 걸 즐길 거란 말이고."
 
 # game/code/d08/d08s07.rpy:349
 translate korean d08s07_de11f980:
 
     # mc "I... {w}I don't know what to say."
-    mc "난... {w}뭐라고 말하면 될지 모르겠어."
+    mc "난... {w}뭐라고 말하면 될지 모르겠네."
 
 # game/code/d08/d08s07.rpy:354
 translate korean d08s07_a9eb078b:
 
     # mes "It sounds like I should leave you two alone."
-    mes "너희 둘이 이야길 하게 난 자리를 비워야 할 것 같네"
+    mes "너희 둘이 이야길 하게 난 자리를 비워야 할 것 같은데."
 
 # game/code/d08/d08s07.rpy:356
 translate korean d08s07_ceb5d1dc:

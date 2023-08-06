@@ -22,7 +22,7 @@ translate russian d08s00_week1synopsis_28064d5b:
 translate russian d08s00_week1synopsis_1aec8a12:
 
     # "[mcname] ignored the woman in his roommate's bed and went for a shower."
-    "[mcname] проигнорировал девушку в постели своей соседа и пошел в душ."
+    "[mcname] проигнорировал девушку в постели своего соседа и пошел в душ."
 
 # game/code/recap.rpy:74
 translate russian d08s00_week1synopsis_4f889512:
@@ -154,7 +154,7 @@ translate russian d08s00_week1synopsis_2b906c7b:
 translate russian d08s00_week1synopsis_0cc7b989:
 
     # "His advertisement brought him to Polly Wilson, who had something special planned."
-    "Объявление привела его к Полли Уилсон, у которой было запланировано нечто особенное."
+    "Объявление привело его к Полли Уилсон, у которой было запланировано нечто особенное."
 
 # game/code/recap.rpy:166
 translate russian d08s00_week1synopsis_7e655ba7:
@@ -346,7 +346,7 @@ translate russian d08s00_week1synopsis_255f6be0:
 translate russian d08s00_week1synopsis_be9a62da:
 
     # "...IF [mcname] met her for their first REAL date before the concert."
-    "... Ах, ЕСЛИ бы [mcname] познакомился с ней их первом НАСТОЯЩЕМ свидании перед концертом."
+    "... Ах, ЕСЛИ бы [mcname] познакомился с ней на их первом НАСТОЯЩЕМ свидании перед концертом."
 
 # game/code/recap.rpy:259
 translate russian d08s00_week1synopsis_39ede91d:
@@ -430,7 +430,7 @@ translate russian d08s00_week1synopsis_99a5a592:
 translate russian d08s00_week1synopsis_923fc443:
 
     # "A little later that day, he let AmRose know that they were in the same boat of being blackmailed."
-    "Чуть позже в тот же день он дал понять АмРоуз, что они находятся в одной лодке с шантажом."
+    "Чуть позже в тот же день он дал понять АмРоуз, что они находятся в одной лодке - его тоже шантажируют."
 
 # game/code/recap.rpy:295
 translate russian d08s00_week1synopsis_69ddebfd:
@@ -586,7 +586,7 @@ translate russian d08s00_week1synopsis_2f28a84b:
 translate russian d08s00_week1synopsis_378fac55:
 
     # "She felt certain Pete was involved in Fetish Locator, but [mcname] wasn't so sure."
-    "Она была уверена, что Пит участвует управлении Фетиш Локатора, но [mcname] не был в этом уверен."
+    "Она была уверена, что Пит причастен к Фетиш Локатору, но [mcname] не был в этом уверен."
 
 # game/code/recap.rpy:378
 translate russian d08s00_week1synopsis_54357276:
@@ -718,7 +718,7 @@ translate russian d08s00_week1synopsis_821d0429:
 translate russian d08s00_week1synopsis_a9648965:
 
     # "In addition to being a lawyer, she also owns a few properties around the city. Arrangements have been made for Stacy to rent one of her apartments."
-    "Помимо того, что она юрист, она также владеет некоторой недвижимостью по всему городу. Удалось договорится, чтобы Стейси сняла одну из её квартир."
+    "Помимо того, что она юрист, она также владеет некоторой недвижимостью по всему городу. Удалось договориться, чтобы Стейси сняла одну из её квартир."
 
 # game/code/recap.rpy:448
 translate russian d08s00_week1synopsis_9600fb72:
@@ -924,29 +924,29 @@ translate russian d08s00_week1synopsis_7c59af2b:
 translate russian d08s00_week1synopsis_f49a455e:
 
     # "[mcname] came to her rescue, and in the process, learned that she was put into a secretive \"VIP Fetish Challenge Program\" to win one million dollars."
-    "[mcname] came to her rescue, and in the process, learned that she was put into a secretive \"VIP Fetish Challenge Program\" to win one million dollars."
+    "[mcname] пришел ей на помощь и в процессе узнал, что она стала участницей секретной программы \"VIP Fetish Challenge Program\", чтобы выиграть один миллион долларов."
 
 # game/code/recap.rpy:286
 translate russian d08s00_week1synopsis_bb08f530:
 
     # "When he tried to delete the app from his phone, he too got put into the VIP Fetish Challenge Program."
-    "When he tried to delete the app from his phone, he too got put into the VIP Fetish Challenge Program."
+    "Когда он попытался удалить приложение со своего телефона, он тоже попал в программу VIP Fetish Challenge."
 
 # game/code/recap.rpy:291
 translate russian d08s00_week1synopsis_f606ec88:
 
     # "Allured by the prospect of winning the prize, he spent the night learning all he could about the app, the terms and conditions, and this strange challenge."
-    "Allured by the prospect of winning the prize, he spent the night learning all he could about the app, the terms and conditions, and this strange challenge."
+    "Окрыленный перспективой выиграть приз, он провел ночь, изучая все, что мог, о приложении, условиях и этом странном испытании."
 
 # game/code/recap.rpy:304
 translate russian d08s00_week1synopsis_cc19b596:
 
     # "A little later that day, he let AmRose know that they were now in the same boat."
-    "A little later that day, he let AmRose know that they were now in the same boat."
+    "Чуть позже в тот же день он сообщил АмРоуз, что они теперь в одной лодке."
 
 # game/code/recap.rpy:386
 translate russian d08s00_week1synopsis_1743400f:
 
     # "Hana revealed many things, including the fact that she was investigating Fetish Locator and trying to figure out a way to win the prize. She had only slept with Pete to get access to his phone."
-    "Hana revealed many things, including the fact that she was investigating Fetish Locator and trying to figure out a way to win the prize. She had only slept with Pete to get access to his phone."
+    "Хана рассказала много нового, в том числе и о том, что она расследует деятельность Фетиш Локатора и пытается найти способ выиграть приз. Она переспала с Питом только для того, чтобы получить доступ к его телефону."
 

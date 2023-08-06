@@ -310,7 +310,7 @@ translate russian d08s03_d661624e:
 translate russian d08s03_c18f900e:
 
     # arj "Oh! You can use it like a \"Get out of jail free\" to pass on a goal that you otherwise would have failed."
-    arj "О! Её можно использовать как \"Освобождение от наказания\", чтобы избежать наказания, который в противном случае настигло бы меня."
+    arj "О! Её можно использовать как \"Освобождение от наказания\", чтобы избежать наказания, которое в противном случае настигло бы меня."
 
 # game/code/d08/d08s03.rpy:138
 translate russian d08s03_876c474c:
@@ -334,7 +334,7 @@ translate russian d08s03_58aba63d:
 translate russian d08s03_72b9536c:
 
     # mc "Oh, right. I totally forgot you won that challenge last week."
-    mc "А, ну да. Я совсем забыла, что ты выиграл это задание на прошлой неделе."
+    mc "А, ну да. Я совсем забыл, что ты выиграла это задание на прошлой неделе."
 
 # game/code/d08/d08s03.rpy:147
 translate russian d08s03_68799ee0:
@@ -400,7 +400,7 @@ translate russian d08s03_12d3c264:
 translate russian d08s03_d5222758:
 
     # mc "Great weekend. You might not believe it."
-    mc "Отлично провёл. Ты тоже не не поверишь."
+    mc "Отлично провёл. Ты тоже не поверишь."
 
 # game/code/d08/d08s03.rpy:186
 translate russian d08s03_573312da:
@@ -1310,5 +1310,5 @@ translate russian strings:
 translate russian d08s03_3a9860c7:
 
     # mc "How are you doing now? You're not still short, are you?"
-    mc "How are you doing now? You're not still short, are you?"
+    mc "Как твои дела сейчас? Тебе все еще не хватает очков?"
 

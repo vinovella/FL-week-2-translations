@@ -166,7 +166,7 @@ translate korean d10p2s08_0bace671:
 translate korean d10p2s08_6d696924:
 
     # mc "Who cares whether you should be this or should be that?"
-    mc "너한테 질투해야 한다, 하지 말아야 한다고 누가 정할 수 있겠어?"
+    mc "너한테 질투해야 한다, 하지 말아야 한다, 누가 정할 수 있겠어?"
 
 # game/code/d10p2/d10p2s08.rpy:88
 translate korean d10p2s08_4ac5680d:
@@ -178,7 +178,7 @@ translate korean d10p2s08_4ac5680d:
 translate korean d10p2s08_50b680f2:
 
     # mc "Lydia, listen. I care about you. You believe that?"
-    mc "리디아, 잘 들어 봐. 난 널 소중히 해. 이건 믿지?"
+    mc "리디아, 잘 들어 봐. 난 널 소중히 여겨. 이건 믿지?"
 
 # game/code/d10p2/d10p2s08.rpy:92
 translate korean d10p2s08_c117bfaa:
@@ -208,7 +208,7 @@ translate korean d10p2s08_8355c76a:
 translate korean d10p2s08_2ae1cc5f:
 
     # lc "Like, will you think less of me and our relationship if I don't get jealous about this?"
-    lc "내가 질투하지 않으면, 나랑 우리 관계를 진지하지 않게 볼 수도 있잖아?"
+    lc "내가 질투하지 않으면, 나나 우리 관계를 진지하지 않게 여기게 될 수도 있잖아?"
 
 # game/code/d10p2/d10p2s08.rpy:98
 translate korean d10p2s08_e699cd10:
@@ -226,13 +226,13 @@ translate korean d10p2s08_67b56329:
 translate korean d10p2s08_2f6655f9:
 
     # lc "What am I supposed to do?"
-    lc "내가 어떻게 해야 돼?"
+    lc "내가 어떻게 해야 할까?"
 
 # game/code/d10p2/d10p2s08.rpy:104
 translate korean d10p2s08_44e2aeeb:
 
     # mc "Give me a second. {w}I'm trying to figure out how to say this."
-    mc "잠깐만. {w}말 좀 정리할게."
+    mc "잠깐만. {w}생각 좀 정리할게."
 
 # game/code/d10p2/d10p2s08.rpy:105
 translate korean d10p2s08_427fad1e:
@@ -268,7 +268,7 @@ translate korean d10p2s08_8515f081:
 translate korean d10p2s08_a4435e3b:
 
     # mc "So, my only concern is how you actually feel about this arrangement."
-    mc "그래서 이 약속 때문에 네가 갖는 감정만이 내가 신경 쓰는 유일한 문제야."
+    mc "그래서 일 때문에 네가 갖는 감정만이 내 유일한 관심사야."
 
 # game/code/d10p2/d10p2s08.rpy:116
 translate korean d10p2s08_019199a7:
@@ -346,7 +346,7 @@ translate korean d10p2s08_634b198d:
 translate korean d10p2s08_b04d2141:
 
     # lc "Let me finish. {w}On that same hand, I really enjoy hearing your stories about your sexual adventures."
-    lc "일단 내 말 마칠게. {w}그리고, 네 성적 모험에 관한 이야길 듣는 건 정말 즐거워."
+    lc "일단 내 말 마칠게. {w}그래, 네 성적 모험에 관한 이야길 듣는 건 정말 즐거워."
 
 # game/code/d10p2/d10p2s08.rpy:138
 translate korean d10p2s08_a31340dd:
@@ -466,7 +466,7 @@ translate korean d10p2s08_83078e78:
 translate korean d10p2s08_b2ef9293:
 
     # lc "Oh, wow. {w}I feel so... {w}Thank you."
-    lc "아, 와아. {w}너무 기분... {w}고마워."
+    lc "아, 와아. {w}정말 기분... {w}고마워."
 
 # game/code/d10p2/d10p2s08.rpy:181
 translate korean d10p2s08_8e194c8d:
@@ -526,7 +526,7 @@ translate korean d10p2s08_b898a49a:
 translate korean d10p2s08_706f0f7a:
 
     # mc "May I live a thousand years and never cum again."
-    mc "천년 넘게 절대로 다시 못 싼다고 해도."
+    mc "천년 지나도록 못 싼다고 해도."
 
 # game/code/d10p2/d10p2s08.rpy:199
 translate korean d10p2s08_683d70f4:
@@ -946,7 +946,7 @@ translate korean d10p2s08_mh_part1_a127e966:
 translate korean d10p2s08_mh_part1_f91b968c:
 
     # lc "Sorta. Not really. Min is my best friend; Min is friends with Allison, and so on."
-    lc "그렇다고 할 수 있긴 하지만. 친구 사이는 아냐. 민은 나랑 가장 친한 친구고, 민은 앨리슨이랑 친구고, 이런 거지."
+    lc "그렇다고 할 수 있긴 하지만. 친구 사이는 아냐. 민은 나랑 가장 친한 친구고, 민은 앨리슨이랑 친구고, 그런 거지."
 
 # game/code/d10p2/d10p2s08.rpy:381
 translate korean d10p2s08_mh_part1_1bb7096b:
@@ -1060,7 +1060,7 @@ translate korean d10p2s08_tm_part1_c14aacbc:
 translate korean d10p2s08_tm_part1_fe5a8f35:
 
     # lc "Yes. {w}Did you know it was originally from an Italian sexploitation flick? Svezia, inferno e paradiso."
-    lc "응. {w}이 노래가 스웨덴 성 문화에 관한 이탈리아의 영화 삽입곡에서 따왔다는 거 알고 있어? 스베치아, 인페르노 에 파르디소."
+    lc "응. {w}이 노래가 스웨덴 성 문화에 관한 이탈리아의 영화 삽입곡에서 따왔다는 거 알고 있어? 스베치아, 인페르노 에 파라디소."
 
 # game/code/d10p2/d10p2s08.rpy:420
 translate korean d10p2s08_tm_part1_e9dad22d:
@@ -1444,7 +1444,7 @@ translate korean d10p2s08_part2_7ac02be0:
 translate korean d10p2s08_aw_part3_a1a413b0:
 
     # mc "So, Allison and I found ourselves on the stairs and started messing around..."
-    mc "그리고 앨리슨이랑 난 계산 위로 가서 지분거리기 시작했어..."
+    mc "그리고 앨리슨이랑 난 계단 위로 가서 지분거리기 시작했어..."
 
 # game/code/d10p2/d10p2s08.rpy:592
 translate korean d10p2s08_aw_part3_765219bd:
@@ -1468,7 +1468,7 @@ translate korean d10p2s08_aw_part3_96e8ed3a:
 translate korean d10p2s08_aw_part3_a3839847:
 
     # mc "She's a camgirl. She likes it when people watch her live streams."
-    mc "앨리슨은 몸캠 방송을 해. 사람들이 자기 생방송을 보러 오는 걸 좋아해."
+    mc "앨리슨은 몸캠 방송을 해. 사람들이 자기 생방송 보러 오는 걸 좋아하지."
 
 # game/code/d10p2/d10p2s08.rpy:601
 translate korean d10p2s08_aw_part3_d6c8831c:
@@ -1558,13 +1558,13 @@ translate korean d10p2s08_cl_part3_8762c772:
 translate korean d10p2s08_cl_part3_e07bd2e7:
 
     # lc "You're serious?"
-    lc "정말로?"
+    lc "진짜로?"
 
 # game/code/d10p2/d10p2s08.rpy:652
 translate korean d10p2s08_cl_part3_68797e0d:
 
     # mc "Of course. At first she just wanted to tell me about the religious retreat she went on, but she was talking kinda weird."
-    mc "당연하지. 처음엔 신시아가 자기가 갔던 묵상회 이야기를 하고 싶어했는데, 갑자기 이상하게 말을 하는 거야"
+    mc "진짜로. 처음엔 신시아가 자기가 갔던 묵상회 이야기를 하고 싶은가 보다 했는데, 갑자기 이상하게 말을 하는 거야"
 
 # game/code/d10p2/d10p2s08.rpy:655
 translate korean d10p2s08_cl_part3_956ded28:
@@ -1576,7 +1576,7 @@ translate korean d10p2s08_cl_part3_956ded28:
 translate korean d10p2s08_cl_part3_c40545ec:
 
     # mc "No, I mean, like she started speaking in parables. There was something about palm trees. It was weird."
-    mc "아냐 그런 정도가 아니었어, 무슨 성경처럼 말을 하기 시작하더라. 무슨 야자수 같은 이야기였는데, 이상했다니까."
+    mc "아냐 그런 정도가 아니었어, 무슨 성경 구절처럼 말을 하기 시작했다니까. 무슨 야자수 같은 이야기였는데, 이상하더라."
 
 # game/code/d10p2/d10p2s08.rpy:660
 translate korean d10p2s08_cl_part3_25ab30fc:
@@ -1660,7 +1660,7 @@ translate korean d10p2s08_mh_part3_006b2c13:
 translate korean d10p2s08_mh_part3_601a5d84:
 
     # mc "Kinda like \"Hot or Cold\" where you have to find someone else at the Party."
-    mc "\숫자 맞추기\" 같은 행사야. 숫자가 아니라 정해진 사람을 파티에서 찾아야 한다는 건 다르지만."
+    mc "\"숫자 맞추기\" 같은 행사야. 숫자가 아니라 정해진 사람을 파티에서 찾아야 한다는 건 다르지만."
 
 # game/code/d10p2/d10p2s08.rpy:707
 translate korean d10p2s08_mh_part3_4576a09c:
@@ -1702,13 +1702,13 @@ translate korean d10p2s08_mh_part3_20d947bf:
 translate korean d10p2s08_mh_part3_2f95b562:
 
     # mc "Because you find her attractive or because you don't want it to be Squizzle?"
-    mc "리사가 매력적이라서 그런 거야, 아님 스퀴즐이 상대가 아니길 바라서 그런 거야?"
+    mc "리사가 매력적이라서 그런 거야, 아님 스퀴즐이 아니길 바라서 그런 거야?"
 
 # game/code/d10p2/d10p2s08.rpy:721
 translate korean d10p2s08_mh_part3_1b5a97d9:
 
     # lc "A little of both?"
-    lc "둘 다 조금씩은?"
+    lc "둘 다 조금씩?"
 
 # game/code/d10p2/d10p2s08.rpy:723
 translate korean d10p2s08_mh_part3_5407d716:
@@ -1858,7 +1858,7 @@ translate korean d10p2s08_tm_part3_49b0ae75:
 translate korean d10p2s08_tm_part3_8f530e94:
 
     # mc "I was wondering that too, because next thing I knew I was sinking into the water and the pool was like the size of an ocean."
-    mc "나도 궁금하다니까. 내가 다음으로 기억하는 게 수영장 물속으로 내가 빠지는 거였어. 그리고 수영장은 무슨 바다 크기가 되버렸고."
+    mc "나도 궁금하다니까. 내가 다음으로 기억하는 건 수영장 물속으로 내가 빠지는 거야. 수영장이 무슨 바다 크기가 되어 버렸다니까."
 
 # game/code/d10p2/d10p2s08.rpy:803
 translate korean d10p2s08_tm_part3_09b48071:
@@ -1870,7 +1870,7 @@ translate korean d10p2s08_tm_part3_09b48071:
 translate korean d10p2s08_tm_part3_f59a89e9:
 
     # mc "I found myself close to the old pirate ship, but now it was full sized, and there was someone on it."
-    mc "난 그 오래된 해적선 근처에 있었지. 하지만 해적선은 진짜가 되어 있었고, 그 위에 누가 타고 있었어."
+    mc "난 그 오래된 해적선 근처에 있었어. 하지만 해적선은 진짜가 되어 있었고, 그 위에 누가 타고 있었어."
 
 # game/code/d10p2/d10p2s08.rpy:807
 translate korean d10p2s08_tm_part3_2f4a1e96:
@@ -2278,7 +2278,7 @@ translate korean d10p2s08_jf_part3_11ed5a0a:
 translate korean d10p2s08_jf_part3_2f652389:
 
     # mc "... so while she was chomping at the bit I shot my load all over her lower back."
-    mc "... 걔가 어물거리는 동안 나도 걔 허리에 한 발 비웠지."
+    mc "... 걔가 어물거리는 동안 나도 걔 뒤에 한 발 비웠지."
 
 # game/code/d10p2/d10p2s08.rpy:1068
 translate korean d10p2s08_aw_part5_3e8f0a42:
@@ -2326,7 +2326,7 @@ translate korean d10p2s08_cl_part5_4fadbf48:
 translate korean d10p2s08_mh_part5_9e70f021:
 
     # mc "I climaxed hard. After I finished there was just cum everywhere."
-    mc "난 강한 절정을 했지. 내가 끝낸 다음엔 사방이 정액이었지."
+    mc "난 강한 절정을 했어. 내가 끝낸 다음엔 사방에 정액이 있었지."
 
 # game/code/d10p2/d10p2s08.rpy:1095
 translate korean d10p2s08_mh_part5_230aa7e8:
@@ -2356,7 +2356,7 @@ translate korean d10p2s08_mh_part5_be6d1553:
 translate korean d10p2s08_mh_part5_231c093d:
 
     # mc "We won the event, and I had a great time, but I can't shake the feeling that there's something mysterious about her."
-    mc "우린 행사를 잘 마쳤어, 난 대단한 시간을 보냈지만, 리사에 관해서 뭔가 숨겨진 게 있다는 느낌을 떨칠 수가 없어."
+    mc "우린 행사를 잘 마쳤어, 난 대단한 시간을 보냈지만, 리사에 관해선 뭔가 숨겨진 게 있다는 느낌을 떨칠 수가 없어."
 
 # game/code/d10p2/d10p2s08.rpy:1112
 translate korean d10p2s08_tm_part5_b593bf64:

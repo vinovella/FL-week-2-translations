@@ -250,7 +250,7 @@ translate korean d08s11_49a4c822:
 translate korean d08s11_77e60a00:
 
     # mh "Perhaps it's an honest mistake. Have you sodomized the Prime Minister of another country?"
-    mh "명백한 착오인가 보군요. 다른 나랑의 총리와 비역을 하신 일이 있습니까?"
+    mh "명백한 착오인가 보군요. 타국의 총리와 비역을 하신 일이 있습니까?"
 
 # game/code/d08/d08s11.rpy:122
 translate korean d08s11_4aedf70c:
@@ -268,7 +268,7 @@ translate korean d08s11_476f2ac6:
 translate korean d08s11_5df3c4ce:
 
     # ceo "Hell no!{w} That is exactly the type of defamation-"
-    ceo "세상에 없었소!{w} 그건 정확히 명예 훼손이-"
+    ceo "세상에, 없었소!{w} 그건 정확히 명예 훼손이-"
 
 # game/code/d08/d08s11.rpy:132
 translate korean d08s11_d48f9edc:
@@ -322,7 +322,7 @@ translate korean d08s11_4aedf70c_1:
 translate korean d08s11_d7e1996f:
 
     # mh "So, you don't enjoy publicly masturbating while being covered in food?"
-    mh "그렇다면, 증인은 음식에 뒤덮혀 공개적으로 자위하는 걸 즐기지 않는다는 말이십니까?"
+    mh "그렇다면, 증인은 음식에 뒤덮혀 공개적으로 자위하는 걸 즐기지 않는다는 말씀입니까?"
 
 # game/code/d08/d08s11.rpy:151
 translate korean d08s11_5f7cf9f3:
@@ -454,7 +454,7 @@ translate korean d08s11_d2f5868e:
 translate korean d08s11_e62558c8:
 
     # mh "Would you say that it is filled with lies?"
-    mh "이 책이 거짓말로 가득하디고 말씀하셨죠?"
+    mh "이 책이 거짓말로 가득하다고 말씀하셨죠?"
 
 # game/code/d08/d08s11.rpy:202
 translate korean d08s11_76ab9682:
@@ -586,7 +586,7 @@ translate korean d08s11_b2f378fc:
 translate korean d08s11_894b8900:
 
     # ceo "It's not like I could have him committed, but yes, it is perfectly clear that he is suffering a mental illness and should be hospitalized or incarcerated."
-    ceo "본인이 할 수 있는 아니지만, 그렇소. 이 자는 분명히 정신 질환을 앓고 있소. 입원하거나 투옥되어야 한단 말이지."
+    ceo "이 자에게 본인이 하게 할 수 있는 있는 아니겠소만, 이 자는 분명히 정신 질환을 앓고 있소. 입원하거나 투옥되어야 한단 말이지."
 
 # game/code/d08/d08s11.rpy:248
 translate korean d08s11_c676f7f4:
@@ -748,13 +748,13 @@ translate korean d08s11_f52d2647:
 translate korean d08s11_d1a0d4cc:
 
     # op "Miss Harris!"
-    op "해리스 씨!"
+    op "해리스 선생님!"
 
 # game/code/d08/d08s11.rpy:329
 translate korean d08s11_0cd4518d:
 
     # mh "Yes, Oliver. Please wait for me. I need a break."
-    mh "응, 올리버. 잠깐 기다려 주겠어. 휴식이 필요해."
+    mh "응, 올리버. 잠깐 기다려 주겠니. 휴식이 필요해."
 
 # game/code/d08/d08s11.rpy:332
 translate korean d08s11_3ce6c41d:

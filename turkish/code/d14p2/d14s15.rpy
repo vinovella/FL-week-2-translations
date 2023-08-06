@@ -608,7 +608,10 @@ translate turkish strings:
     old "Maybe"
     new "Belki"
 
-    # game/code/d14p2/d14s15.rpy:311
-    old "No"
-    new "Hayır"
+# TODO: Translation updated at 2023-06-11 15:30
 
+translate turkish strings:
+
+    # game/code/d14p2/d14s15.rpy:311
+    old "No {#d14s15}"
+    new "Hayır {#d14s15}"

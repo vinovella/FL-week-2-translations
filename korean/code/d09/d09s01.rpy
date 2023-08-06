@@ -22,19 +22,19 @@ translate korean d09s01_0c6c2c41:
 translate korean d09s01_9723e90b:
 
     # mc "So, the room keeps filling up with water and I can't shut off the shower..."
-    mc "그리고, 그 화장실이 물로 차기 시작했고 난 샤워기를 끌 수 없었지..."
+    mc "그리고 화장실에 물로 차기 시작했지. 난 샤워기를 끌 수가 없었어..."
 
 # game/code/d09/d09s01.rpy:15
 translate korean d09s01_1aa24ed9:
 
     # mc "I scrub myself as clean as possible hoping that will appease whatever put me in this situation..."
-    mc "이 상황에 날 빠지게 한 원인을 달래기 바라면서 내 몸을 가능한 깨끗하게 문질렀지만..."
+    mc "난 날 이런 상황에 집어넣은 존재를 달래기 바라면서 내 몸을 가능한 깨끗하게 문질렀지만..."
 
 # game/code/d09/d09s01.rpy:16
 translate korean d09s01_a58d4994:
 
     # mc "But before I know it I'm floating in a room filled with water and trying to take a few last gasps of air before..."
-    mc "방에 물이 차서 내 몸은 떠올랐고 마지막으로 숨을 들이마실려고 했지만..."
+    mc "방엔 물이 찼고 내 몸은 떠올랐어. 마지막으로 숨을 들이마실려고 한 순간..."
 
 # game/code/d09/d09s01.rpy:17
 translate korean d09s01_51ab4180:
@@ -52,7 +52,7 @@ translate korean d09s01_efd0d0f9:
 translate korean d09s01_4cf2d1b7:
 
     # mc "On the other hand, Pete's afk... Now's as good a time as any."
-    mc "그래도, 피트가 키보드 앞에 없으니... 가장 좋은 순간이지."
+    mc "그래도, 피트가 키보드 앞에 없으니... 좋은 기회로군."
 
 # game/code/d09/d09s01.rpy:25
 translate korean d09s01_412b3d09:
@@ -94,7 +94,7 @@ translate korean d09s01_0246bcf5:
 translate korean d09s01_f2b9703f:
 
     # mct "Alright, let's get back to my usual morning rituals."
-    mct "좋았어, 평상시 아침 일정으로 돌아가자."
+    mct "좋았어, 평상시 아침으로 돌아가자."
 
 # game/code/d09/d09s01.rpy:42
 translate korean d09s01_9f7ad367:
@@ -106,13 +106,13 @@ translate korean d09s01_9f7ad367:
 translate korean d09s01_bf31a3de:
 
     # mct "From Min? Why would Min be blowing up my phone in the middle of the night?"
-    mct "민한테? 한밤중에 문자로 폰을 날려버릴려고 한 건가?"
+    mct "민한테? 한밤중에 문자로 폰을 날려버리고 싶었던 건가?"
 
 # game/code/d09/d09s01.rpy:44
 translate korean d09s01_a9fa17ce:
 
     # mct "OH! It's yesterday's photos from Squizzle."
-    mct "아! 어제 스퀴즐한테 사진이 온 거군."
+    mct "아! 어제 스퀴즐한테 사진이 온 거구만."
 
 # game/code/d09/d09s01.rpy:56
 translate korean d09s01_df8f884d:
@@ -124,7 +124,7 @@ translate korean d09s01_df8f884d:
 translate korean d09s01_c9e46179:
 
     # mct "That was hot."
-    mct "핫 했어."
+    mct "핫 한데."
 
 # game/code/d09/d09s01.rpy:61
 translate korean d09s01_428e0f7d:
@@ -184,7 +184,7 @@ translate korean d09s01_062d5495:
 translate korean d09s01_c09274c3:
 
     # mct "Quick quick quick... remember... what did I say?"
-    mct "어서 어서 어서... 떠올려... 내가 무슨 말을 했지?"
+    mct "어서 어서 어서... 떠올려... 무슨 말을 한 거냐, 나?"
 
 # game/code/d09/d09s01.rpy:81
 translate korean d09s01_ec754de8:
@@ -196,7 +196,7 @@ translate korean d09s01_ec754de8:
 translate korean d09s01_843da6c1:
 
     # mct "Fuck. I think I fell asleep on the phone last night telling Lydia sex stories about my ex-girlfriend."
-    mct "씨발. 내 전 여친이랑 어떻게 섹스를 했냐는 이야기를 리디아한테 하다가 잠든 것 같은데."
+    mct "씨발. 리디아한테 내 전 여친이랑 어떻게 섹스를 했었다는 이야기를 하다가 잠에 든 것 같은데."
 
 # game/code/d09/d09s01.rpy:83
 translate korean d09s01_24404a72:
@@ -208,29 +208,29 @@ translate korean d09s01_24404a72:
 translate korean d09s01_24c9d171:
 
     # mct "But first things first. Stacy's luggage."
-    mct "그래도 먼저 할 일이 있으니. 스테이시의 짐."
+    mct "그래도 먼저 할 일이 있잖아. 스테이시의 짐을 찾아야지."
 
 # game/code/d09/d09s01.rpy:86
 translate korean d09s01_02f62bc7:
 
     # mct "I need to go this place, that Samiya sent me. Let's hope she is more reasonable than what others think about her."
-    mct "사미야가 나한테 보낸 주소로 가야 돼. 다른 사람들이 말하는 것보단 합리적인 애이길 바라자."
+    mct "사미야가 보낸 주소로 가야 돼. 다른 사람들이 말하는 것보단 합리적인 애이길 바라자."
 
 # game/code/d09/d09s01.rpy:88
 translate korean d09s01_61e6906b:
 
     # mct "It's weird. I've fucked...how many chicks now? But something about actually paying for sex, let alone paying {i}this{/i} much, is... odd."
-    mct "어색한데. 내가...지금까지 몇 명이랑 떡을 친 거지? 이만큼 돈을 낸다는 건 차치하고 섹스를 하려고 돈을 내는 거 자체가... 이상해."
+    mct "어색한데. 내가... 지금까지 몇 명이랑 떡을 친 거지? 이만큼 돈을 낸다는 건 차치하고 섹스를 하려고 돈을 내는 거 자체가... 이상한데."
 
 # game/code/d09/d09s01.rpy:89
 translate korean d09s01_df2d2a72:
 
     # mct "I'm kinda looking forward to it I think."
-    mct "왠지 내가 기대하고 있는 거 같은데."
+    mct "왠지 기대가 되는 걸."
 
 # game/code/d09/d09s01.rpy:90
 translate korean d09s01_4bb6af1f:
 
     # mct "I just hope she doesn't shank me or something the moment I bring up the luggage."
-    mct "내가 짐을 가져가려고 할 때 사미야가 내 정강이든 뭐든 차지 말아야 하는데."
+    mct "짐을 찾으러 왔다고 정강이든 뭐든 차려고 들진 않겠지."
 

@@ -16,7 +16,7 @@ translate korean d10p2s04_68516ac9:
 translate korean d10p2s04_afb1e15a:
 
     # mc "The four horsemen of the apocalypse ain't gonna bust out of that room, are they?"
-    mc "묵시록의 네 기수가 방에서 튀어나오진 않겠지?"
+    mc "방에서 묵시록의 네 기수가 튀어나오진 않겠지?"
 
 # game/code/d10p2/d10p2s04.rpy:45
 translate korean d10p2s04_92442bef:
@@ -106,7 +106,7 @@ translate korean d10p2s04_39496f40:
 translate korean d10p2s04_f08586a1:
 
     # mesfl "If you hear a safe word, you immediately stop whatever you're doing and check up on whoever you're with."
-    mesfl "안전어를 들으면, 뭘 하고 있던 바로 멈추고 상대를 확인해."
+    mesfl "안전어를 들으면, 뭘 하고 있던 간에 바로 멈추고 상대를 확인해."
 
 # game/code/d10p2/d10p2s04.rpy:79
 translate korean d10p2s04_6d48aa4a:

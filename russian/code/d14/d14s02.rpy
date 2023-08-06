@@ -82,13 +82,13 @@ translate russian d14s02_b1fc04c7:
 translate russian d14s02_4e0439b2:
 
     # mc "Tells me that I'm gonna fail the challenge, that I'm gonna have my dick taken away."
-    mc "И она стала говорить мне, что я провалю задание, что у меня отрежут член."
+    mc "И она стала говорить мне, что я провалю задание, что мне отрежут член."
 
 # game/code/d14/d14s02.rpy:104
 translate russian d14s02_09cd86e6:
 
     # mc "And then she's like \"Well I'm gonna take it first muahaha!\" and then brings out this huge fuck off pair of scissors from God knows where and goes to chop off my dick."
-    mc "А потом она говорит: \"Но я заберу его первой, муахаха!\" и достает, бог знает откуда, огромные ножницы и начинает отрезать мне член."
+    mc "А потом она говорит: \"Но я заберу его первой, муахаха!\" и достает, бог знает откуда, огромные ножницы и начинает отрезать мой член."
 
 # game/code/d14/d14s02.rpy:106
 translate russian d14s02_e0f7c330:
@@ -346,7 +346,7 @@ translate russian d14s02_f052696e:
 translate russian d14s02_10f8986b:
 
     # sy "You wasted time {i}and{/i} you failed to show her a good time. I expect more from you, come on now."
-    sy "Ты потратил время впустую и не смог обеспечить ей хорошее времяпрепровождение. Я ждала от тебя большего."
+    sy "Ты потратил время впустую {i}и{/i} не смог обеспечить ей хорошее времяпрепровождение. Я ждала от тебя большего."
 
 # game/code/d14/d14s02.rpy:332
 translate russian d14s02_9240574e:
@@ -396,29 +396,29 @@ translate russian d14s02_09879994:
 translate russian d14s02_6869e014:
 
     # mc "Tells me that I'm gonna fail the challenge, and that the only way to win is to not play."
-    mc "Tells me that I'm gonna fail the challenge, and that the only way to win is to not play."
+    mc "Говорит мне, что я провалю испытание, и что единственный способ победить - не играть."
 
 # game/code/d14/d14s02.rpy:110
 translate russian d14s02_bf7c2b0c:
 
     # mc "And then she's like \"You won't lose if I take your dick first muahaha!\" and then brings out this huge fuck off pair of scissors from God knows where and goes to chop off my dick."
-    mc "And then she's like \"You won't lose if I take your dick first muahaha!\" and then brings out this huge fuck off pair of scissors from God knows where and goes to chop off my dick."
+    mc "И тут она говорит: \"Ты не проиграешь, если я возьму твой член первой, муахаха!\", а потом достает из бог знает откуда огромные ножницы и начинает отрезать мне член."
 
 # game/code/d14/d14s02.rpy:199
 translate russian d14s02_5602733c:
 
     # arj "Hey, we're gonna get this prize. And you're gonna complete your challenge."
-    arj "Hey, we're gonna get this prize. And you're gonna complete your challenge."
+    arj "Эй, мы получим этот приз. И ты пройдешь свое испытание."
 
 # game/code/d14/d14s02.rpy:200
 translate russian d14s02_9f898f54:
 
     # arj "If some crazy succubus wants your dick, she will have to go through me first."
-    arj "If some crazy succubus wants your dick, she will have to go through me first."
+    arj "Если какая-нибудь сумасшедшая суккуба захочет забрать твой член, ей придется пройти через меня."
 
 # game/code/d14/d14s02.rpy:356
 translate russian d14s02_df770e8e:
 
     # sy "In and out in 5 minutes top 'cause, unlike you, I have a work ethic and a desire to win this thing."
-    sy "In and out in 5 minutes top 'cause, unlike you, I have a work ethic and a desire to win this thing."
+    sy "Вошла и вышла за 5 минут, потому что, в отличие от вас, я настроена решительно и стремлюсь к победе."
 

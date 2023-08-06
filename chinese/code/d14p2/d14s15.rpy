@@ -608,3 +608,6 @@ translate chinese strings:
     old "Maybe"
     new "或许吧"
 
+    # game/code/d14p2/d14s15.rpy:311
+    old "No {#d14s15}"
+    new "否 {#d14s15}"

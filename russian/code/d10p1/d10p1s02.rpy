@@ -274,7 +274,7 @@ translate russian d10p1s02_a385d7f5:
 translate russian d10p1s02_35df6966:
 
     # aw "Not to mention, get found out and you're probably gonna get some very creatively written emails about your gruesome demise."
-    aw "Не говоря уже о том, что если об этом узнают, то ты, вероятно, получишь несколько очень креативно написанных писем с пожеланиями твоей ужасной кончине."
+    aw "Не говоря уже о том, что если об этом узнают, то ты, вероятно, получишь несколько очень креативно написанных писем с пожеланиями твоей ужасной кончины."
 
 # game/code/d10p1/d10p1s02.rpy:132
 translate russian d10p1s02_f236ec5a:
@@ -358,7 +358,7 @@ translate russian d10p1s02_f63a007d:
 translate russian d10p1s02_34d13e74:
 
     # mc "Something about trying to get cum on your back I think."
-    mc "Что-то о одежде со следами спермы."
+    mc "Что-то об одежде со следами спермы."
 
 # game/code/d10p1/d10p1s02.rpy:158
 translate russian d10p1s02_51414571:
@@ -382,7 +382,7 @@ translate russian d10p1s02_72254f8d:
 translate russian d10p1s02_6f587f2f:
 
     # aw "Haha, yeah. Sorry. Get me talking about this stuff and I can go on for ages."
-    aw "Ха-ха, да. Извини. Позволь меня говорить об этом, и я буду продолжать целую вечность."
+    aw "Ха-ха, да. Извини. Позволь мне говорить об этом, и я буду продолжать целую вечность."
 
 # game/code/d10p1/d10p1s02.rpy:164
 translate russian d10p1s02_b3154631:
@@ -646,7 +646,7 @@ translate russian replay_d10p1s02_34092cce:
 translate russian replay_d10p1s02_fcb5400b:
 
     # mc "You just wear it around like that?"
-    mc "Ты просто так его носишь?"
+    mc "Ты просто так ее носишь?"
 
 # game/code/d10p1/d10p1s02.rpy:334
 translate russian replay_d10p1s02_a1d9c805:

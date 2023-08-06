@@ -100,7 +100,7 @@ translate russian d14s06_3d729f9f:
 translate russian d14s06_618326ec:
 
     # mes "Let's give Lydia a better show."
-    mes "Давайте устроим Лидии шоу получше."
+    mes "Давай устроим Лидии шоу получше."
 
 # game/code/d14/d14s06.rpy:147
 translate russian d14s06_adc4bd4f:

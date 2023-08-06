@@ -8,7 +8,7 @@ translate korean strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Fill out the questionnaire"
-    new "물음을 모두 채운다"
+    new "설문을 모두 채운다"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Been there done that"
@@ -56,11 +56,11 @@ translate korean strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Do not allow Lyssa to achieve completion before Min's party"
-    new "민의 파티 전까지 리사가 달성하도록 허락하지 않는다"
+    new "민의 파티 전까지 리사가 완성에 이르도록 허락하지 않는다"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Welcome to the party"
-    new "파티에 어서오 세요"
+    new "파티에 어서오세요"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Play it safe"
@@ -72,7 +72,7 @@ translate korean strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Choose and use an absurd safeword"
-    new "터무니 없는 안전어를 고르고 사용한다"
+    new "터무니없는 안전어를 고르고 사용한다"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Daisy all the way"
@@ -104,7 +104,7 @@ translate korean strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Tell Lydia all the stories"
-    new "리디아에게 모두 이야기를 해 준다"
+    new "리디아에게 모든 이야기를 해 준다"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Outstanding Performance"
@@ -144,7 +144,7 @@ translate korean strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Send a girl to the hospital"
-    new "애를 병원에 보낸다"
+    new "소녀를 병원에 보낸다"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Death By Snu-Snu"

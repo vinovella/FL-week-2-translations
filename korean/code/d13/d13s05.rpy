@@ -244,7 +244,7 @@ translate korean replay_d13s05_c95edf53:
 translate korean replay_d13s05_40d607e8:
 
     # nr "Let's keep this nice and simple - no kissing."
-    nr "우린 깔끔하고 간단하게 가자. 입맞춤은 안 돼."
+    nr "깔끔하고 간단하게 가자. 입맞춤은 안 돼."
 
 # game/code/d13/d13s05.rpy:213
 translate korean replay_d13s05_16fade99:
@@ -310,7 +310,7 @@ translate korean d13s05_bj_03cea5e5:
 translate korean d13s05_bj_a9b69b95:
 
     # lc "Oh! She must be performing oral sex on him..."
-    lc "아! 구강 성교를 수행하는 중인 거구나..."
+    lc "아! 구강 성교를 행하는 중인 거구나..."
 
 # game/code/d13/d13s05.rpy:270
 translate korean d13s05_bj_aea033d0:
@@ -400,7 +400,7 @@ translate korean d13s05_cowgirl_5e1c711e:
 translate korean d13s05_cowgirl_ea0315e2:
 
     # mc "Are you flexing your pussy around my cock?! That feels amazing!!"
-    mc "내 자지를 감싸고 보지를 수축시키는 거라고?! 엄청난데!!"
+    mc "내 자지를 감싸면서 보지를 수축시키는 거라고?! 엄청난데!!"
 
 # game/code/d13/d13s05.rpy:392
 translate korean d13s05_cowgirl_f8cfdae8:
@@ -442,7 +442,7 @@ translate korean d13s05_cowgirl_a64d0b92:
 translate korean d13s05_cowgirl_d7295566:
 
     # nr "You just earned yourself 10%% off of your next purchase!"
-    nr "다음번에도 살 땐 10%% 할인해 줄게!"
+    nr "다음번에 살 땐 10%% 할인해 줄게!"
 
 # game/code/d13/d13s05.rpy:426
 translate korean d13s05_wallsex_44554c61:
@@ -574,7 +574,7 @@ translate korean d13s05_end_b3191c78:
 translate korean d13s05_end_caed92ea:
 
     # mc "That's how it works..."
-    mc "구조적으로 그렇지..."
+    mc "구조적으론 그렇지..."
 
 # game/code/d13/d13s05.rpy:576
 translate korean d13s05_end_a1203137:
@@ -646,13 +646,13 @@ translate korean d13s05_end_ded1f25a:
 translate korean d13s05_end_8d1cea18:
 
     # lc "Yeah, but you weren't the only one that had an orgasm here today."
-    lc "그래두 여기서 절정한 건 너 뿐만이 아닌걸."
+    lc "그래두 여기서 절정한 건 너뿐만이 아닌걸."
 
 # game/code/d13/d13s05.rpy:639
 translate korean d13s05_end_2fc35d6c:
 
     # mc "That is awesome! How do you feel?"
-    mc "절정한 거야? 대단하네! 느낌 어땠어?"
+    mc "절정한 거야? 대단한데! 느낌 어땠어?"
 
 # game/code/d13/d13s05.rpy:642
 translate korean d13s05_end_862a3ade:

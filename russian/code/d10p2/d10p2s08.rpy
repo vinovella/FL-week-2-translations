@@ -1396,7 +1396,7 @@ translate russian d10p2s08_part2_10029a1a:
 translate russian d10p2s08_part2_109c578b:
 
     # lc "It's just a whole fascinating ball of complex emotions running through me right now."
-    lc "Это просто целый ком сложных эмоций, который сейчас проходят через меня."
+    lc "Это просто целый ком сложных эмоций, который сейчас проходит через меня."
 
 # game/code/d10p2/d10p2s08.rpy:550
 translate russian d10p2s08_part2_860626d0:
@@ -1840,7 +1840,7 @@ translate russian d10p2s08_tm_part3_fb95a296:
 translate russian d10p2s08_tm_part3_4975e668:
 
     # mc "I don't know. It was huge. Although, it started off small enough that he could hold it in his hands."
-    mc "Я не знаю. Корабль был огромен. Хотя вначале он был достаточно маленькой, когда его держали в руках."
+    mc "Я не знаю. Корабль был огромен. Хотя вначале он был достаточно маленьким, когда его держали в руках."
 
 # game/code/d10p2/d10p2s08.rpy:796
 translate russian d10p2s08_tm_part3_49b0ae75:
@@ -1894,7 +1894,7 @@ translate russian d10p2s08_tm_part3_acb838f3:
 translate russian d10p2s08_tm_part3_79d0c188:
 
     # mc "No. She had some sort of pirate costume. It was skin tight and showed off all of her curves."
-    mc "Нет. На ней был пиратский костюм. Он было обтягивающим и подчеркивал все изгибы ее тела."
+    mc "Нет. На ней был пиратский костюм. Он был обтягивающим и подчеркивал все изгибы ее тела."
 
 # game/code/d10p2/d10p2s08.rpy:817
 translate russian d10p2s08_tm_part3_e2f52f11:
@@ -2592,5 +2592,5 @@ translate russian strings:
 translate russian d10p2s08_47b69fbd:
 
     # mct "Even knowing that I'd basically be leaving AmRose and Stacy stranded, and giving up on a million dollars?"
-    mct "Even knowing that I'd basically be leaving AmRose and Stacy stranded, and giving up on a million dollars?"
+    mct "Даже зная, что я, по сути, брошу АмРоуз и Стейси на произвол судьбы и откажусь от миллиона долларов?"
 

@@ -316,7 +316,7 @@ translate russian d14s03_deb80f57:
 translate russian d14s03_d23931ce:
 
     # sy "We tried to look up any info about the company, but there's literally nothing about it that we can find."
-    sy "Мы попытались найти любую информацию о этой компании, но о ней буквально нет ничего, что нам удалось бы узнать."
+    sy "Мы попытались найти любую информацию об этой компании, но о ней буквально нет ничего, что нам удалось бы узнать."
 
 # game/code/d14/d14s03.rpy:208
 translate russian d14s03_33a32690:
@@ -1222,7 +1222,7 @@ translate russian d14s03_e843f07b:
 translate russian d14s03_329188e9:
 
     # sy "Hey, do you remember that escort that you had to-"
-    sy "Эй, ты помнишь ту эскортницу, с который тебе пришлось..."
+    sy "Эй, ты помнишь ту эскортницу, с которой тебе пришлось..."
 
 # game/code/d14/d14s03.rpy:625
 translate russian d14s03_f49fff8f:
@@ -1392,65 +1392,65 @@ translate russian strings:
 translate russian d14s03_5f1c483b:
 
     # mc "...for all their gold doubloons?"
-    mc "...for all their gold doubloons?"
+    mc "...и получить все их золотые дублоны?"
 
 # game/code/d14/d14s03.rpy:259
 translate russian d14s03_fdd84e06:
 
     # mc "She said that she knew someone in the VIP Program - and that she's found one of the people behind Fetish Locator."
-    mc "She said that she knew someone in the VIP Program - and that she's found one of the people behind Fetish Locator."
+    mc "Она сказала, что знает кого-то из VIP-программы - и что она нашла кого-то кто стоит за Fetish Locator."
 
 # game/code/d14/d14s03.rpy:360
 translate russian d14s03_2b882098:
 
     # mc "True. But at the same time. She's doing this for someone else that's in the VIP Program—"
-    mc "True. But at the same time. She's doing this for someone else that's in the VIP Program—"
+    mc "Верно. Но в то же время. Она делает это для другого участника VIP-программы..."
 
 # game/code/d14/d14s03.rpy:399
 translate russian d14s03_34a75aae:
 
     # sy "Oh... Yeah. I remember her, she was cute. So she's in The VIP Program as well?"
-    sy "Oh... Yeah. I remember her, she was cute. So she's in The VIP Program as well?"
+    sy "О... Да. Я помню ее, была миленькая. Так она тоже в VIP-программе?"
 
 # game/code/d14/d14s03.rpy:404
 translate russian d14s03_630bcee0:
 
     # sy "And Hana is her girlfriend that's trying to win her the Fetish Locator treasure?"
-    sy "And Hana is her girlfriend that's trying to win her the Fetish Locator treasure?"
+    sy "А Хана - ее подружка, которая пытается выиграть для нее приз в Fetish Locator?"
 
 # game/code/d14/d14s03.rpy:452
 translate russian d14s03_65c58212:
 
     # mc "Iona is in the VIP Program, so she might be down to help as well."
-    mc "Iona is in the VIP Program, so she might be down to help as well."
+    mc "Иона участвует в VIP-программе, так что она тоже может помочь."
 
 # game/code/d14/d14s03.rpy:467
 translate russian d14s03_30ed6de8:
 
     # mc "There's one other dude that I know is in the VIP Program."
-    mc "There's one other dude that I know is in the VIP Program."
+    mc "Есть еще один чувак, который, как я знаю, участвует в VIP-программе."
 
 # game/code/d14/d14s03.rpy:487
 translate russian d14s03_44d99162:
 
     # mc "He told me about the VIP Program."
-    mc "He told me about the VIP Program."
+    mc "Он рассказал мне о VIP-программе."
 
 # game/code/d14/d14s03.rpy:534
 translate russian d14s03_44bbf952:
 
     # sy "Then figure out a proper game plan to win everything with her info."
-    sy "Then figure out a proper game plan to win everything with her info."
+    sy "Тогда выработайте подходящий план действий, чтобы выиграть все, используя информацию от нее."
 
 # game/code/d14/d14s03.rpy:550
 translate russian d14s03_ee15e4de:
 
     # sy "Why are you looking at me like that? This secret, undercover plotting stuff is fun!"
-    sy "Why are you looking at me like that? This secret, undercover plotting stuff is fun!"
+    sy "Почему ты так на меня смотришь? Тайны, закулисные заговоры - это весело!"
 
 # game/code/d14/d14s03.rpy:663
 translate russian d14s03_91070ee1:
 
     # sy "Well, it's your money now for a chance at a big payoff with the treasure."
-    sy "Well, it's your money now for a chance at a big payoff with the treasure."
+    sy "Что ж, ваши деньги сейчас - это шанс сорвать солидный куш."
 

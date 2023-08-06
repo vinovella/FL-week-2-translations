@@ -10,7 +10,7 @@ translate korean after_credits_4092fc7e:
 translate korean after_credits_b41e5758:
 
     # sy "Oh Daisy! Why are we dressed like that?"
-    sy "아 데이지! 우리 꼴이 이게 뭐야?"
+    sy "아, 데이지! 우리 꼴이 이게 뭐야?"
 
 # game/code/labels.rpy:106
 translate korean after_credits_656f6347:
@@ -88,7 +88,7 @@ translate korean after_credits_04bc41f8:
 translate korean after_credits_9b5218fa:
 
     # sy "Oh hi!"
-    sy "아 안녕!"
+    sy "아, 안녕!"
 
 # game/code/labels.rpy:200
 translate korean after_credits_9e887ff2:
@@ -118,7 +118,7 @@ translate korean after_credits_e5b76018:
 translate korean after_credits_3e0c140e:
 
     # "{color=#ba50f3}Unknown Girl 2{/color}" "Oh Daisy, Stacy!"
-    "{color=#ba50f3}신원 미상의 여자 2{/color}" "아 데이지, 스테이시!"
+    "{color=#ba50f3}신원 미상의 여자 2{/color}" "아, 데이지, 스테이시!"
 
 # game/code/labels.rpy:214
 translate korean after_credits_2124ac9d:
@@ -130,7 +130,7 @@ translate korean after_credits_2124ac9d:
 translate korean after_credits_8e51ee0d:
 
     # "{color=#ec8664}Unknown Girl 3{/color}" "Girls! Whom are you talking to??"
-    "{color=#ec8664}신원 미상의 여자 3{/color}" "얘들아! 누구랑 이야기하는 거야??"
+    "{color=#ec8664}신원 미상의 여자 3{/color}" "애들아! 누구랑 이야기하는 거야??"
 
 # game/code/labels.rpy:222
 translate korean after_credits_7e6fe4d2:
@@ -142,7 +142,7 @@ translate korean after_credits_7e6fe4d2:
 translate korean after_credits_a6f9597e:
 
     # "{color=#ec8664}Unknown Girl 3{/color}" "I told you - we aren't ready!"
-    "{color=#ec8664}신원 미상의 여자 3{/color}" "말했잖아. 아직 우린 준비가 안 됐다구!"
+    "{color=#ec8664}신원 미상의 여자 3{/color}" "말했잖아. 우린 아직 준비가 안 됐다구!"
 
 # game/code/labels.rpy:227
 translate korean after_credits_d16b822a:
@@ -190,7 +190,7 @@ translate korean after_credits_bf117a95:
 translate korean after_credits_b7af7f44:
 
     # "{color=#ec8664}Unknown Girl 3{/color}" "Soon you will be able know more about us."
-    "{color=#ec8664}신원 미상의 여자 3{/color}" "곧 우리에 관해서 알게 될 거야."
+    "{color=#ec8664}신원 미상의 여자 3{/color}" "우리에 관해선 곧 알게 될 거야."
 
 # game/code/labels.rpy:251
 translate korean after_credits_4244eb77:

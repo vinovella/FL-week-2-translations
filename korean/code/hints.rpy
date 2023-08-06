@@ -32,7 +32,7 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Stacy develops - Stacy will come and bathe with you."
-    new "중요한 선택지입니다. 스테이시와의 관계를 바꿉니다. 스테이시가 와서 당신과 욕조에 들어갑니다."
+    new "중요한 선택지입니다. 스테이시와의 관계를 바꿉니다. 스테이시가 당신과 함께 욕조에 들어갑니다."
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Maria develops - You will get a blowjob from her."
@@ -52,15 +52,15 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "This choice doesn't have any great consequence currently."
-    new "이 선택지는 현재 중요한 영향을 미치지 않습니다."
+    new "이 선택지는 현재 중대한 영향을 미치지 않습니다."
 
     # game/code/hints.rpy:5
     old "This choice doesn't have any great consequence currently - You will bend the knee either way."
-    new "이 선택지는 현재 중요한 영향을 미치지 않습니다. 어느 선택지든 당신은 무릎을 꿇게 됩니다."
+    new "이 선택지는 현재 중대한 영향을 미치지 않습니다. 어느 선택지든 당신은 무릎을 꿇게 됩니다."
 
     # game/code/hints.rpy:5
     old "This choice doesn't have any great consequence currently - You will unlock a new CG in the gallery."
-    new "이 선택지는 현재 중요한 영향을 미치지 않습니다. CG 갤러리에 새로운 CG가 해금됩니다."
+    new "이 선택지는 현재 중대한 영향을 미치지 않습니다. CG 갤러리에 새로운 CG가 해금됩니다."
 
     # game/code/hints.rpy:5
     old "You will get the highest number of FL points and deny her from using her dick."
@@ -68,11 +68,11 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "She will suck your cock, but you will receive less points."
-    new "리사가 당신의 성기를 빨아 줍니다. 하지만 상대적으로 적은 점수를 받게 됩니다."
+    new "리사가 당신의 성기를 빨아 줍니다. 하지만 적은 점수를 받게 됩니다."
 
     # game/code/hints.rpy:5
     old "You will give Lyssa a handjob, but you will receive less points."
-    new "당신이 리사에게 손으로 해 줍니다. 하지만 상대적으로 적은 점수를 받게 됩니다."
+    new "당신이 리사에게 손으로 해 줍니다. 하지만 적은 점수를 받게 됩니다."
 
     # game/code/hints.rpy:5
     old "You will get the highest number of FL points and give Lyssa a blowjob"
@@ -84,7 +84,7 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "This choice doesn't have any great consequence currently - Cruel."
-    new "이 선택지는 현재 중요한 영향을 미치지 않습니다. 잔혹하군요."
+    new "이 선택지는 현재 중대한 영향을 미치지 않습니다. 잔혹하군요."
 
     # game/code/hints.rpy:5
     old "Takes you to the end of the scene."
@@ -124,15 +124,15 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "Pick this and continue picking the first most option if you want to not look like a psycho in front of Lydia and get the highest number of points."
-    new "이 선택지를 고르고 계속 첫 번째 선택지를 고르면, 리디아에게 정신병자처럼 보이지 않게 되지만 가장 많은 점수를 받을 수 없습니다."
+    new "계속 첫 번째 선택지를 고르면, 리디아에게 정신병자처럼 보이지 않게 됩니다."
 
     # game/code/hints.rpy:5
     old "Pick this if you want to be weird and not get the highest number of points."
-    new "이 선택지를 고르면, 이상한 인간이 될 수는 있지만 가장 많은 점수는 받을 수 없습니다."
+    new "계속 두 번째 선택지를 고르면, 리디아에게 이상한 인간처럼 보이게 됩니다."
 
     # game/code/hints.rpy:5
     old "Pick this and continue picking the third most option if you want to look like a psycho in front of Lydia and get the highest number of points."
-    new "이 선택지를 고르고 계속 세 번째 선택지를 고르면, 리디아에게 정신병자처럼 보이게 되고 가장 많은 점수를 받을 수 있습니다."
+    new "계속 세 번째 선택지를 고르면, 리디아에게 정신병자처럼 보이게 됩니다. 가장 많은 점수를 받을 수 있습니다."
 
     # game/code/hints.rpy:5
     old "Pick this if you want to not look like a psycho in front of Lydia and get the highest number of points."
@@ -200,7 +200,7 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "This is an important choice that can change the way your relationship with Pete, Samiya, and Dahlia develops - This path will close off the path of you and Pete getting dominated by Samiya and Dahlia."
-    new "중요한 선택지입니다. 피트, 사미야, 달리아와의 관계를 바꿉니다. 당신과 피트가 사미야와 달리아에게 지배되는 분기를 파단합니다."
+    new "중요한 선택지입니다. 피트, 사미야, 달리아와의 관계를 바꿉니다. 당신과 피트가 사미야와 달리아에게 지배되는 분기를 차단합니다."
 
     # game/code/hints.rpy:5
     old "You will continue to frot with Lyssa."
@@ -212,7 +212,7 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "This choice doesn't have any great consequence currently - If you use your safe word with Dahlia in her scene, you will unlock a CG in the gallery."
-    new "이 선택지는 현재 중요한 영향을 미치지 않습니다. 달리아와의 장면에서 이 안전어를 사용하면, CG 갤러리에서 새로운 CG가 해금됩니다."
+    new "이 선택지는 현재 중대한 영향을 미치지 않습니다. 달리아와의 장면에서 이 안전어를 사용하면, CG 갤러리에서 새로운 CG가 해금됩니다."
 
     # game/code/hints.rpy:5
     old "If you select this and don't input anything, you can find an Easter Egg in a future scene with Iona."
@@ -232,11 +232,11 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "You will fuck Cynthia's ass."
-    new "신시아의 엉덩이를 박습니다."
+    new "신시아의 엉덩이에 박습니다."
 
     # game/code/hints.rpy:5
     old "You will walk away from the holy ass - You will miss some future content with Cynthia because of this."
-    new "신시아의 성스런 엉덩이를 외면하고 자리를 떠납니다. 이로 인해 신시아와의 콘텐츠를 일부 놓치게 됩니다."
+    new "신시아의 성스런 엉덩이를 외면하고 자리를 떠납니다. 이로 인해 신시아와의 콘텐츠 일부를 놓치게 됩니다."
 
     # game/code/hints.rpy:5
     old "You will keep watching Chloe get throat fucked by Antony."
@@ -256,7 +256,7 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Daisy or Dahlia develops - You will either get to toy with Daisy or get toyed with by Dahlia depending on what path you're on. You'll get kicked from their paths if you don't go."
-    new "중요한 선택지입니다. 데이지 또는 달리아와의 관계를 바꿉니다. 당신이 선택한 분기에 따라 데이지를 가지고 놀거나, 달리아가 당신을 가지고 놀게 됩니다. 가지 않으면 분기가 차단됩니다."
+    new "중요한 선택지입니다. 데이지 또는 달리아와의 관계를 바꿉니다. 당신이 선택한 분기에 따라 데이지를 가지고 놀거나, 달리아가 당신을 가지고 놀게 됩니다. 가지 않으면 해당 분기가 차단됩니다."
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Lyssa develops - You will have some anal fun with Lyssa - You will get kicked from her path if you don't go."
@@ -412,7 +412,7 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "This choice doesn't have any great consequence currently, but might have drastic consequences in the future."
-    new "이 선택지는 현재 중요한 영향을 미치지 않습니다. 하지만 추후 극적인 영향을 가질 수 있습니다."
+    new "이 선택지는 현재 중대한 영향을 미치지 않습니다. 하지만 추후 극적인 영향을 미칠 수 있습니다."
 
     # game/code/hints.rpy:5
     old "You will see AmRose eat your cum."
@@ -492,7 +492,7 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "You'll give Hana the password and completely betray your friend, but it'll make Hana happy and more willing to fuck you."
-    new "하나에게 비밀 번호를 줍니다. 친구를 완전히 배신합니다. 하나를 기뻐하고 기꺼이 당신과 합니다."
+    new "하나에게 비밀번호를 줍니다. 친구를 완전히 배신합니다. 하나를 기뻐하고 기꺼이 당신과 합니다."
 
     # game/code/hints.rpy:5
     old "You won't betray your friend even more, but Hana will be kinda pissed and you won't get to have sex with her during the Blitz challenge if you didn't help Iona."
@@ -500,7 +500,7 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "Hana will take you into the bathroom and fuck you, but only if you gave her the password or if you helped out Iona."
-    new "하나에게 비밀 번호를 주었거나 아이오나를 도운 경우, 하나가 당신을 화장실로 데리고 가서 당신과 섹스합니다."
+    new "하나에게 비밀번호를 주었거나 아이오나를 도운 경우, 하나가 당신을 화장실로 데리고 가서 당신과 섹스합니다."
 
     # game/code/hints.rpy:5
     old "You don't fuck Hana."
@@ -524,11 +524,11 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Lydia develops - Lydia will make you cum, but she won't be happy. And you won't get to fuck Chastity, the prostitute that Lydia gets for you."
-    new "중요한 선택지입니다. 리디아와의 관계를 바꿉니다. 리디아가 당신을 싸게 만듭니다. 하지만 기뻐하지 않습니다. 리디아가 당신을 위해 준비한 매춘부인 채스터티를 박지 못하게 됩니다."
+    new "중요한 선택지입니다. 리디아와의 관계를 바꿉니다. 리디아가 당신을 싸게 만듭니다. 하지만 리디아는 당신의 결정에 기뻐하지 않습니다. 리디아가 당신을 위해 준비한 매춘부인 채스터티를 박지 못하게 됩니다."
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Lydia develops - You will stop Lydia from continuing. Lydia will be thankful and get you Chastity, a prostitute, later on."
-    new "중요한 선택지입니다. 리디아와의 관계를 바꿉니다. 리디아가 더 이상 계속하지 않게 합니다. 리디아가 고마워 합니다. 추후에 리디아가 매춘부 채스터티를 준비합니다."
+    new "중요한 선택지입니다. 리디아와의 관계를 바꿉니다. 리디아가 이 이상 계속하지 않게 합니다. 리디아가 고마워 합니다. 추후에 리디아가 매춘부 채스터티를 준비합니다."
 
     # game/code/hints.rpy:5
     old "You'll get to fuck Chloe in the ass and see Kevin eat out your creampie from her ass, but you'll have a much harder time come the exams."
@@ -556,7 +556,7 @@ translate korean strings:
 
     # game/code/hints.rpy:5
     old "Vanessa cleans up the cum from the shoe."
-    new "버네사가 신발에서 정액을 청소합니다."
+    new "버네사가 신발의 정액을 청소합니다."
 
     # game/code/hints.rpy:5
     old "Vanessa will wear the cum covered shoe later."

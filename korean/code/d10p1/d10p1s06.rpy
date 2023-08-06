@@ -82,13 +82,13 @@ translate korean d10p1s06_c679c7c6:
 translate korean d10p1s06_c54fb455:
 
     # mc "Heh, more so if this was a normal party. {w}I'd bet more than half the women here would probably be down to flash their tits if you asked nicely enough."
-    mc "헤, 보통 파티였으면 기다리면서 볼 만했겠다. {w}이 파티에선 내가 예의 바르게 부탁만 하면 자기 옷을 내려서 가슴을 보여줄 얘들이 절반은 될 테니까 여기선 기다릴 이득이 없긴 하지만 말야."
+    mc "헤, 보통 파티였으면 기다리면서 볼 만했겠다. {w}이 파티에선 내가 예의 바르게 부탁만 하면 자기 옷을 내려서 가슴을 보여줄 애들이 절반은 될 테니까. 거기서 기다릴 이득이 없긴 하지만 말야."
 
 # game/code/d10p1/d10p1s06.rpy:57
 translate korean d10p1s06_bc01e6a2:
 
     # mc "So it kinda loses that thrill a bit. {w}Not that getting flashed by a pair of nice tits is ever {i}not{/i} fun."
-    mc "쓸쩍 보는 전율 같은 게 없지. {w}그래도 좋은 가슴 한 짝을 보여주는 건 {i}언제나{/i} 즐겁지만."
+    mc "쓸쩍 보는 전율 같은 게 없겠지만. {w}그래도 좋은 가슴 한 짝을 보여 주면 {i}언제나{/i} 즐겁지."
 
 # game/code/d10p1/d10p1s06.rpy:60
 translate korean d10p1s06_23b35e01:
@@ -124,7 +124,7 @@ translate korean d10p1s06_c2810b49:
 translate korean d10p1s06_78088978:
 
     # mc "Yeah... Y'know, I really want to shout out my name for some reason right now."
-    mc "맞아... 당장 다른 이유로 내 이름을 외치고 싶을 정도야."
+    mc "맞아... 행복에 겨워서 내 이름을 외치고 싶을 정도라니까."
 
 # game/code/d10p1/d10p1s06.rpy:72
 translate korean d10p1s06_d070388f:
@@ -148,7 +148,7 @@ translate korean d10p1s06_3656a527:
 translate korean d10p1s06_1bf2ce4e:
 
     # ir "Yeah. I mean, I wasn't {i}too{/i} into anybody knowing my name here, but it's not like this dinky little thing will protect my identity."
-    ir "그래. 여기에 내 이름을 아는 사람이 있는 건 {i}정말{/i} 마음에 드는 건 아니지만, 이름은 안 알려 주는 깜찍한 짓을 한다고 해서 날 모르게 할 수 있는 건 아니니까."
+    ir "그래. 여기에 내 이름을 아는 사람이 있는 게 {i}정말{/i} 마음에 드는 건 아니지만, 이름은 안 알려 주는 깜찍한 짓을 한다고 해서 날 모르게 할 수 있는 것도 아니니까."
 
 # game/code/d10p1/d10p1s06.rpy:81
 translate korean d10p1s06_3fd5220a:
@@ -160,7 +160,7 @@ translate korean d10p1s06_3fd5220a:
 translate korean d10p1s06_12d8f1eb:
 
     # ir "But most of the people here seem decent enough, so who cares?"
-    ir "그리고 여기에 있는 사람들 대부분은 꽤 좋은 사람들처럼 보이니까, 걱정할 게 뭐 있겠어?"
+    ir "그리고 여기에 있는 사람들 대부분은 꽤 좋은 사람들처럼 보이기도 하고. 걱정할 게 뭐 있겠어?"
 
 # game/code/d10p1/d10p1s06.rpy:86
 translate korean d10p1s06_e200d8eb:
@@ -196,7 +196,7 @@ translate korean d10p1s06_309fcd75:
 translate korean d10p1s06_113397f2:
 
     # mc "Squizy's running a pretty tight ship, so I doubt anything {i}bad{/i} would happen, but people seem to get a lot more assholey around the people serving them."
-    mc "스퀴즐이 정말 빈틈없이 운영하고 있으니까, 무슨 {i}나쁜{/i} 일이 생기진 않겠지. 그래도 사람들 중엔 시중드는 사람한텐 뭐 같이 굴곤 하잖아."
+    mc "스퀴즐이 정말 빈틈없이 운영하고 있으니까, 무슨 {i}나쁜{/i} 일이 생기진 않겠지. 그래도 접대 사람한테 뭐 같이 구는 인간들은 항상 있으니까."
 
 # game/code/d10p1/d10p1s06.rpy:99
 translate korean d10p1s06_98b91328:
@@ -214,7 +214,7 @@ translate korean d10p1s06_461ece48:
 translate korean d10p1s06_4d125c49:
 
     # ir "My boss hates them as well, so I get free rein to just go wild. I love it."
-    ir "우리 사장도 그런 인간은 싫어하니까, 나한텐 재량권이 주어졌고, 그래서 거칠게 나가기로 했지. 마음에 들어."
+    ir "우리 대장도 그런 인간은 싫어해서, 나한테 재량권을 줬지. 그래서 난 거칠게 나가기로 했다는 말씀. 마음에 들어."
 
 # game/code/d10p1/d10p1s06.rpy:104
 translate korean d10p1s06_08a67d40:
@@ -226,13 +226,13 @@ translate korean d10p1s06_08a67d40:
 translate korean d10p1s06_part_2_28802472:
 
     # ir "That's True. {w}Oh, jeez. Sorry. You were trying to leave and then I dragged you into another conversation."
-    ir "그건 맞아. {w}아, 세상에. 미안. 떠나려던 차에 내가 다른 이야기를 꺼냈네."
+    ir "그건 맞아. {w}아, 세상에. 미안. 어디 가려는 사람한테 다른 이야기를 꺼냈네."
 
 # game/code/d10p1/d10p1s06.rpy:117
 translate korean d10p1s06_part_2_228e2917:
 
     # mc "Eh, there's no rush. {w}If I can't take a couple minutes to talk with a cute girl, what's the point?"
-    mc "에, 서두를 필욘 없으니까. {w}귀여운 애랑 애기할 시간도 없으면, 파티에 온 게 무슨 소용이겠어?"
+    mc "에, 서두를 필욘 없으니까. {w}귀여운 애랑 애기할 시간도 없으면, 파티에 온 게 무슨 보람이겠어?"
 
 # game/code/d10p1/d10p1s06.rpy:119
 translate korean d10p1s06_part_2_4cee5ab5:
@@ -244,7 +244,7 @@ translate korean d10p1s06_part_2_4cee5ab5:
 translate korean d10p1s06_part_2_71e9a5f2:
 
     # mc "Oh man, gosh darn, I sure would love to, but can't keep my fans waiting y'know."
-    mc "오 이런, 줸장, 나도 정말 돕고 싶긴 한데, 내 팬들을 더 이상 기다리게 할 순 없네."
+    mc "오 이런, 줸장, 나도 정말 돕고 싶긴 한데, 내 팬들을 더 이상 기다리게 할 순 없어서 말이지."
 
 # game/code/d10p1/d10p1s06.rpy:124
 translate korean d10p1s06_part_2_cd28c1d5:

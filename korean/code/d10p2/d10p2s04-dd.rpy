@@ -28,7 +28,7 @@ translate korean d10p2s04_dd_8c9dfa6a:
 translate korean d10p2s04_dd_0d980fc2:
 
     # mesfl "Not a fan of whoever is in there I'm guessing?"
-    mesfl "거기 있는 사람을 좋아하진 않았나 봐?"
+    mesfl "거기 있는 사람이 마음에 들진 않았나 봐?"
 
 # game/code/d10p2/d10p2s04-dd.rpy:139
 translate korean d10p2s04_dd_c1c95d6f:
@@ -82,7 +82,7 @@ translate korean d10p2s04_dd_1f9e35fe:
 translate korean d10p2s04_dd_91fd55e8:
 
     # dd "So, you know, you wouldn't be mad if I—"
-    dd "그렇지, 그런데 말야, 화내지 마. 내가—"
+    dd "그렇지, 그런데 말야, 화내진 마. 내가—"
 
 # game/code/d10p2/d10p2s04-dd.rpy:183
 translate korean d10p2s04_dd_aca5d234:
@@ -232,19 +232,19 @@ translate korean d10p2s04_dd_708e9439:
 translate korean d10p2s04_dd_c1e21195:
 
     # mc "You really want me to pick? Alright."
-    mc "정말 나한테 고르라고 한 거야? 알겠어."
+    mc "진짜로 나한테 고르라고 한 거다? 좋아."
 
 # game/code/d10p2/d10p2s04-dd.rpy:245
 translate korean d10p2s04_dd_1ac07a93:
 
     # dd "Oh no, that sounds ominous."
-    dd "오 이런, 이거 불길한데."
+    dd "오 이런, 불길한데."
 
 # game/code/d10p2/d10p2s04-dd.rpy:248
 translate korean d10p2s04_dd_71b7dc74:
 
     # mc "I guess you'll just have to wait and see. Or feel, in this case."
-    mc "기다려 보시라고 그러면 알게 될 테니까. 아니다 이 경우라면, 느끼게 될 테니까."
+    mc "기다려 보시라고 그러면 알게 될 테니까. 아니다 이 경우면, 느끼게 될 테니까."
 
 # game/code/d10p2/d10p2s04-dd.rpy:272
 translate korean d10p2s04_dd_44faa513:
@@ -364,7 +364,7 @@ translate korean d10p2s04_dd_c1933cd6:
 translate korean d10p2s04_dd_3ad7de10:
 
     # mc "Hey, don't blame me, I gave you a choice."
-    mc "야, 뭐라고 하지 말라구, 직접 고르지 않는다고 한 사람은 선생님이세요."
+    mc "야, 뭐라고 하지 말라구. 직접 고르지 않은 건 선생님이시니까."
 
 # game/code/d10p2/d10p2s04-dd.rpy:320
 translate korean d10p2s04_dd_aa3c6a58:
@@ -628,7 +628,7 @@ translate korean d10p2s04_dd_bc946c4d:
 translate korean d10p2s04_dd_08f4d903:
 
     # dd "God, I can feel it all over me."
-    dd "세상에, 온몸에서 느껴져."
+    dd "세상에, 온몸으로 느껴져."
 
 # game/code/d10p2/d10p2s04-dd.rpy:477
 translate korean d10p2s04_dd_1a26a06d:
@@ -1228,7 +1228,7 @@ translate korean d10p2s04_minmc_dw_dd_endtalk_ecdb9b87:
 translate korean d10p2s04_minmc_dw_dd_endtalk_6d8ec4a2:
 
     # dd "I'm just not into doing this sorta stuff with strangers I guess."
-    dd "모르는 사람이랑 이런저런 일은 내키지 않고 말야."
+    dd "모르는 사람이랑 이런저런 일 하는 건 내키지 않고 말야."
 
 # game/code/d10p2/d10p2s04-dd.rpy:997
 translate korean d10p2s04_minmc_dw_dd_endtalk_03d6efb2:
@@ -1390,7 +1390,7 @@ translate korean d10p2s04_minmc_dw_dd_endtalk_22e61e20:
 translate korean d10p2s04_minmc_dw_dd_endtalk_0c15a34d:
 
     # dd "Could do without this headache and the world spinning."
-    dd "두통이랑 눈이 빙빙 돌지만 않으면 좋겠어."
+    dd "두통이랑 눈이 빙빙 돌지만 않으면 좋겠다."
 
 # game/code/d10p2/d10p2s04-dd.rpy:1089
 translate korean d10p2s04_minmc_dw_dd_endtalk_c11c5901:
@@ -1468,7 +1468,7 @@ translate korean d10p2s04_minmc_dw_dd_endtalk_fa6a24af:
 translate korean d10p2s04_minmc_dw_dd_endtalk_d7d8537e:
 
     # dd "...No."
-    dd "...없어."
+    dd "... 없어."
 
 # game/code/d10p2/d10p2s04-dd.rpy:1115
 translate korean d10p2s04_minmc_dw_dd_endtalk_56c3991c:

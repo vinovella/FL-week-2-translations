@@ -160,7 +160,7 @@ translate russian d10p2s04_dd_4c6b116b:
 translate russian d10p2s04_dd_e5c16aba:
 
     # dd "So diving headfirst into this {i}probably{/i} isn't the greatest idea I've had."
-    dd "Так что нырнуть с головой во всё это, {i}наверное{/i}, не самая лучшая идея, которая у меня только могла появится."
+    dd "Так что нырять с головой в это {i}возможно{/i} не самая лучшая идея, которая у меня была."
 
 # game/code/d10p2/d10p2s04-dd.rpy:214
 translate russian d10p2s04_dd_47ce2cb9:
@@ -178,13 +178,13 @@ translate russian d10p2s04_dd_b228d90a:
 translate russian d10p2s04_dd_81fdd5e1:
 
     # mc "\"For the most part?\""
-    mc "\"Больше всех?\""
+    mc "\"Больше всех\"?"
 
 # game/code/d10p2/d10p2s04-dd.rpy:220
 translate russian d10p2s04_dd_bf9cae10:
 
     # dd "I trust you a hell of a lot more than some rando that might come in here and do God knows what to me at least."
-    dd "Я доверяю тебе гораздо больше, чем какому-нибудь другому, который может прийти сюда и сделать бог знает что со мной."
+    dd "Я доверяю тебе гораздо больше, чем какому-нибудь незнакомцу, который может прийти сюда и сделать бог знает что со мной."
 
 # game/code/d10p2/d10p2s04-dd.rpy:223
 translate russian d10p2s04_dd_96f6ea80:
@@ -838,7 +838,7 @@ translate russian d10p2s04_dd_e55a82b8:
 translate russian d10p2s04_dd_83fa573a:
 
     # dd "My tits are sensitive! I'll slap {i}your{/i} tits if you ever try to paddle mine."
-    dd "У меня такие чувствительные сиськи!  отшлёпаю {i}твои{/i} сиськи, если ты когда-нибудь попытаешься сделать это."
+    dd "У меня такие чувствительные сиськи! Я отшлёпаю {i}твои{/i} сиськи, если ты когда-нибудь попытаешься сделать это."
 
 # game/code/d10p2/d10p2s04-dd.rpy:619
 translate russian d10p2s04_dd_a35d69c8:
