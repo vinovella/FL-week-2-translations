@@ -358,3 +358,15 @@ translate french strings:
     old "Menu"
     new "Menu"
 
+# TODO: Translation updated at 2023-10-24 14:07
+
+translate french strings:
+
+    # game/code/screens/screens.rpy:653
+    old "Wishlist Taboo University in Steam"
+    new "Wishlist Taboo University in Steam"
+
+    # game/code/screens/screens.rpy:656
+    old "Try our new game Taboo University"
+    new "Try our new game Taboo University"
+

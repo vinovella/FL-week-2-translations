@@ -402,33 +402,17 @@ translate italian strings:
     old "Delete all"
     new "Cancella tutto"
 
-# TODO: Translation updated at 2021-08-23 21:59
-
-translate italian strings:
-
     # game/code/screens/screens.rpy:486
     old "Character Gallery"
     new "Galleria personaggi"
-
-# TODO: Translation updated at 2021-10-13 01:39
-
-translate italian strings:
 
     # game/code/screens/screens.rpy:847
     old "Naming save file:"
     new "Nominare i salvataggi:"
 
-# TODO: Translation updated at 2021-10-25 01:06
-
-translate italian strings:
-
     # game/code/screens/screens.rpy:1028
     old "Low Memory Mode"
     new "Modalità bassa memoria"
-
-# TODO: Translation updated at 2021-11-14 23:00
-
-translate italian strings:
 
     # game/code/screens/screens.rpy:789
     old "Game"
@@ -449,3 +433,11 @@ translate italian strings:
     # game/code/screens/screens.rpy:796
     old "Others"
     new "Altro"
+
+    # game/code/screens/screens.rpy:653
+    old "Wishlist Taboo University in Steam"
+    new "Wishlist Taboo University in Steam"
+
+    # game/code/screens/screens.rpy:656
+    old "Try our new game Taboo University"
+    new "Try our new game Taboo University"
