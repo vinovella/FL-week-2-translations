@@ -36,21 +36,21 @@ translate french strings:
 
     # game/code/credit_sprites.rpy:125
     old "This game was only\nmade possible with\nall the support we have\nfrom Patreon\nand SubscribeStar"
-    new "This game was only\nmade possible with\nall the support we have\nfrom Patreon\nand SubscribeStar"
+    new "Ce jeu n'a été rendu possible\nque avec tout le soutien\n que nous avons\de Patreon\net de SubscribeStar"
 
     # game/code/credit_sprites.rpy:133
     old "Huge thanks to\nall of our fans\nand everyone who\nsupported us and\nhelped to bring\nthis story to life"
-    new "Huge thanks to\nall of our fans\nand everyone who\nsupported us and\nhelped to bring\nthis story to life"
+    new "Un grand merci à\ntous nos fans\net à tous ceux qui\nous ont soutenus et\ont aidé à donner vie à cette histoire."
 
     # game/code/credit_sprites.rpy:142
     old "SKIP"
-    new "SKIP"
+    new "SAUTER"
 
     # game/code/credit_sprites.rpy:170
     old "Thank you for playing the game!"
-    new "Thank you for playing the game!"
+    new "Merci d'avoir joué au jeu!"
 
     # game/code/credit_sprites.rpy:171
     old "We'll see you in Week Three!"
-    new "We'll see you in Week Three!"
+    new "A bientôt pour la semaine 3!"
 
