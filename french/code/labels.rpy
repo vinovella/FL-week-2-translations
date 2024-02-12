@@ -256,5 +256,5 @@ translate french buzz_4377a2f7:
 translate french knockknock_a3fe61f9:
 
     # "Knock knock"
-    "Knock knock"
+    "Toc Toc"
 
