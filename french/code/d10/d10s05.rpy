@@ -4,13 +4,13 @@
 translate french d10s05_be2623d1:
 
     # "15 minutes later"
-    "15 minutes later"
+    "15 minutes plus tard"
 
 # game/code/d10/d10s05.rpy:11
 translate french d10s05_c19773ab:
 
     # arj "Hey, guys! This is the place."
-    arj "Salut les gars! C'est l'endroit idéal."
+    arj "Salut les gars! C'est ici."
 
 # game/code/d10/d10s05.rpy:13
 translate french d10s05_f0ee8f65:
@@ -22,7 +22,7 @@ translate french d10s05_f0ee8f65:
 translate french d10s05_f714dc5b:
 
     # arj "That's the charm of it. It really doesn't look like a fetish clothing shop, does it? {i}Well{/i}, that's because it isn't one."
-    arj "{i}Bien{/i}"
+    arj "C'est ce qui en fait son charme. Ça ne ressemble vraiment pas à un magasin de vêtements fétichistes, n'est-ce pas ? {i}Et bien{/i}, c'est parce que ce n'en est pas un."
 
 # game/code/d10/d10s05.rpy:18
 translate french d10s05_1f1b5d28:
@@ -34,13 +34,13 @@ translate french d10s05_1f1b5d28:
 translate french d10s05_02d37b57:
 
     # arj "Because it still has fetish stuff."
-    arj "Parce qu'il y a encore des trucs fétichistes."
+    arj "Parce qu'il y a encore des articles fétichistes."
 
 # game/code/d10/d10s05.rpy:21
 translate french d10s05_77600090:
 
     # mc "So... It {i}is{/i} a fetish shop?"
-    mc "{i}est{/i}"
+    mc "Donc, {i}c'est{/i} un magasin de fétichisme ?"
 
 # game/code/d10/d10s05.rpy:23
 translate french d10s05_16f8af1b:
@@ -94,7 +94,7 @@ translate french d10s05_7f5d804e:
 translate french d10s05_84273d2d:
 
     # arj "You can just browse all you want without a care in the world. They mind their business; you mind yours. I love it!"
-    arj "Vous pouvez simplement parcourir tout ce que vous voulez sans vous soucier du monde. Ils s'occupent de leurs affaires ; tu t'occupes du tien. Je l'aime!"
+    arj "Vous pouvez simplement parcourir tout ce que vous voulez sans vous soucier du monde. Ils s'occupent de leurs affaires ; tu t'occupes du tien. Je l'adore!"
 
 # game/code/d10/d10s05.rpy:43
 translate french d10s05_9fe69540:
@@ -112,13 +112,13 @@ translate french d10s05_8118f02e:
 translate french d10s05_dcd482f6:
 
     # arj "Seriously, I don't think I've ever met anybody that {i}likes{/i} being harassed by the employees."
-    arj "{i}aime{/i}"
+    arj "Sérieusement, je ne pense pas avoir rencontré quelqu'un qui {i}aime{/i} être harcelé par les employés."
 
 # game/code/d10/d10s05.rpy:49
 translate french d10s05_75b13580:
 
     # mc "Maybe you just have very antisocial friends?"
-    mc "Peut-être avez-vous simplement des amis très antisociaux ?"
+    mc "Peut-être as-tu simplement des amis très antisociaux ?"
 
 # game/code/d10/d10s05.rpy:50
 translate french d10s05_b213e10a:
@@ -130,7 +130,7 @@ translate french d10s05_b213e10a:
 translate french d10s05_7967b1e2:
 
     # sy "[mcname], stop messing with AmRose."
-    sy "[mcname], arrête de jouer avec AmRose."
+    sy "[mcname], arrête d'embêter AmRose."
 
 # game/code/d10/d10s05.rpy:54
 translate french d10s05_c84a8ae8:
@@ -148,7 +148,7 @@ translate french d10s05_bd5ab4ea:
 translate french d10s05_c85f18c5:
 
     # sy "Well, good thing we're not having a debate here, are we? And seriously, do {i}you{/i} like being approached by staff?"
-    sy "{i}toi{/i}"
+    sy "Heureusement que nous ne sommes pas en train de débattre, n'est-ce pas ? Et sérieusement, est-ce que {i}tu{/i} aimes être approché par le personnel ?"
 
 # game/code/d10/d10s05.rpy:61
 translate french d10s05_bde6a889:
@@ -184,13 +184,13 @@ translate french d10s05_51bfaa27:
 translate french d10s05_1369ae24:
 
     # mc "So I'm the only one getting something today?"
-    mc "Donc je suis le seul à recevoir quelque chose aujourd'hui ?"
+    mc "Donc je suis le seul à devoir acheter quelque chose aujourd'hui ?"
 
 # game/code/d10/d10s05.rpy:75
 translate french d10s05_f650e03f:
 
     # arj "Pretty much."
-    arj "Plutôt."
+    arj "Ouais."
 
 # game/code/d10/d10s05.rpy:76
 translate french d10s05_07a0cc00:
@@ -214,7 +214,7 @@ translate french d10s05_51a670b6:
 translate french d10s05_c14c584c:
 
     # mc "Well..."
-    mc "Bien..."
+    mc "Et Bien..."
 
 # game/code/d10/d10s05.rpy:87
 translate french d10s05_fbb696ac:
@@ -244,13 +244,13 @@ translate french d10s05_6a72b46c:
 translate french d10s05_01c44ea6:
 
     # arj "What do you think of this?"
-    arj "Que pensez-vous de cela?"
+    arj "Que penses-tu de cela?"
 
 # game/code/d10/d10s05.rpy:98
 translate french d10s05_04e983cd:
 
     # arj "It's \"Bruno\", apparently."
-    arj "C'est \"Bruno\", apparently."
+    arj "C'est du \"Bruno\", apparament."
 
 # game/code/d10/d10s05.rpy:101
 translate french d10s05_032ef49f:
@@ -262,13 +262,13 @@ translate french d10s05_032ef49f:
 translate french d10s05_ee527b89:
 
     # arj "\"Bruno, for the man with delicate sensibilities.\""
-    arj "\"Bruno, for the man with delicate sensibilities.\""
+    arj "\"Bruno, pour l'homme à la sensibilité délicate.\""
 
 # game/code/d10/d10s05.rpy:104
 translate french d10s05_40b9eeb4:
 
     # arj "Says here that it's -\n\n{size=26}\"Madewithallnaturalingredientsfreerangeglutenfreenutfreeknowntocausecancerinthestateofcalifornia...\"{/size}"
-    arj "Il est dit ici que c'est -\n\n{size=26}\"Madewithallnaturalingredientsfreerangeglutenfreenutfreeknowntocausecancerinthestateofcalifornia...\"{/size}"
+    arj "Il est dit ici que c'est -\n\n{size=26}\"Fabriquéavecdesingrédientsnaturelssansmélangesansglutensansarachidesanscariesanscancerdansl'étatdeCalifornie...\"{/size}"
 
 # game/code/d10/d10s05.rpy:107
 translate french d10s05_a53b37b1:
@@ -358,13 +358,13 @@ translate french d10s05_d7c2e112:
 translate french d10s05_98033b7a:
 
     # mc "*Sigh* Fine, I'll take the Bruno. I'm gonna go check if this thing even fits."
-    mc "*Soupir* Très bien, je prends le Bruno. Je vais aller vérifier si ce truc convient."
+    mc "*Soupir* Très bien, je prends le Bruno. Je vais aller vérifier si ce truc me va."
 
 # game/code/d10/d10s05.rpy:144
 translate french d10s05_8820ae5b:
 
     # mc "I don't want to be uncomfortable {i}and{/i} wearing this at the same time."
-    mc "{i}et{/i}"
+    mc "Je ne veux pas être incommodé {i}et{/i} porter cela en même temps."
 
 # game/code/d10/d10s05.rpy:147
 translate french d10s05_38a0c0e8:
@@ -394,7 +394,7 @@ translate french d10s05_2c281d51:
 translate french d10s05_fac7628a:
 
     # mct "Nice. Still got it."
-    mct "Bon. Je l'ai quand même eu."
+    mct "Bien. Je garde toujours la forme."
 
 # game/code/d10/d10s05.rpy:163
 translate french d10s05_ed235f64:
@@ -406,7 +406,7 @@ translate french d10s05_ed235f64:
 translate french d10s05_e97a46c1:
 
     # mct "At least I haven't put on {i}that{/i} much flab."
-    mct "{i}que{/i}"
+    mct "Au moins, je n'ai pas pris {i}autant{/i} de graisse que ça."
 
 # game/code/d10/d10s05.rpy:180
 translate french d10s05_replay_2e3c518b:
@@ -418,7 +418,7 @@ translate french d10s05_replay_2e3c518b:
 translate french d10s05_replay_7677a71b:
 
     # sy "Would you like me to oil you up for your competition, Mister Muscle Man?"
-    sy "Voudriez-vous que je vous huile pour votre compétition, Monsieur Muscle Man ?"
+    sy "Voudriez-vous que je vous huile pour votre compétition, Monsieur Muscle ?"
 
 # game/code/d10/d10s05.rpy:186
 translate french d10s05_replay_7a1c514c:
@@ -430,7 +430,7 @@ translate french d10s05_replay_7a1c514c:
 translate french d10s05_replay_b2b759c8:
 
     # sy "Relax, nobody saw me coming in and I didn't see any obvious cameras."
-    sy "Détendez-vous, personne ne m'a vu entrer et je n'ai vu aucune caméra évidente."
+    sy "Détendes-toi, personne ne m'a vu entrer et je n'ai vu aucune caméra évidente."
 
 # game/code/d10/d10s05.rpy:193
 translate french d10s05_replay_4769afa3:
@@ -478,7 +478,7 @@ translate french d10s05_replay_a5084da6:
 translate french d10s05_replay_215df452:
 
     # sy "You're not seriously thinking about going to the party in these crusty jeans, are you?"
-    sy "Vous n'envisagez pas sérieusement d'aller à la fête dans ce jean croustillant, n'est-ce pas ?"
+    sy "Tu n'envisages pas sérieusement d'aller à la fête dans ce jean croustillant, n'est-ce pas ?"
 
 # game/code/d10/d10s05.rpy:216
 translate french d10s05_replay_6aaabe84:
@@ -508,7 +508,7 @@ translate french d10s05_replay_8033e123:
 translate french d10s05_replay_7568fcfa:
 
     # sy "I want in."
-    sy "Je veux entrer."
+    sy "Je veux y aller."
 
 # game/code/d10/d10s05.rpy:227
 translate french d10s05_replay_11455b53:
@@ -550,7 +550,7 @@ translate french d10s05_replay_c62638bf:
 translate french d10s05_replay_f39a8212:
 
     # mc "I can't tell you that either."
-    mc "Je ne peux pas vous le dire non plus."
+    mc "Je ne peux pas tu le dire non plus."
 
 # game/code/d10/d10s05.rpy:243
 translate french d10s05_replay_ed1346cd:
@@ -592,7 +592,7 @@ translate french d10s05_replay_b1c74c71:
 translate french d10s05_replay_9938916a:
 
     # mc "I just..."
-    mc "Je viens de..."
+    mc "J'ai juste..."
 
 # game/code/d10/d10s05.rpy:260
 translate french d10s05_replay_d516ba3a:
@@ -610,7 +610,7 @@ translate french d10s05_replay_7dc7e123:
 translate french d10s05_replay_a3d47bdf:
 
     # mct "Huh? Hana? Wait, It's not {i}that{/i} Hana, is it?"
-    mct "{i}que{/i}"
+    mct "Huh ? Hana ? Attendez, ce n'est pas Hana, si ?"
 
 # game/code/d10/d10s05.rpy:268
 translate french d10s05_replay_6b7d6b46:
@@ -850,7 +850,7 @@ translate french d10s05_replay_51a990b3:
 translate french d10s05_replay_c4e80cd9:
 
     # ir "Look, I was a naive kid and I messed up once, {b}{i}just once{/i}{/b}. It's been years, when are you gonna let that go?"
-    ir "{i}juste une fois{/i}"
+    ir "Ecoute, j'étais une gamine naïve et j'ai déconné une fois, {b}{i}juste une fois{/i}{/b}. Ça fait des années, quand vas-tu laisser tomber ?"
 
 # game/code/d10/d10s05.rpy:375
 translate french d10s05_replay_64403e96:
@@ -868,13 +868,13 @@ translate french d10s05_replay_ec59c066:
 translate french d10s05_replay_2e0ea696:
 
     # hr "We both know that it's not a \"costume party\"."
-    hr "Nous savons tous les deux que ce n'est pas un \"costume party\"."
+    hr "Nous savons tous les deux que ce n'est pas une simple \"fête costumée\"."
 
 # game/code/d10/d10s05.rpy:382
 translate french d10s05_replay_d6f3158d:
 
     # hr "Look, you know I'm fine with you...\"doing stuff\"."
-    hr "Écoute, tu sais que je vais bien avec toi...\"doing stuff\"."
+    hr "Écoute, tu sais que je suis d'accord pour que tu... \"fasses des trucs\".."
 
 # game/code/d10/d10s05.rpy:385
 translate french d10s05_replay_c1e81c75:
@@ -886,7 +886,7 @@ translate french d10s05_replay_c1e81c75:
 translate french d10s05_replay_a628f18c:
 
     # hr "I just want to you to be careful with that app and let me help you."
-    hr "Je veux juste que vous fassiez attention avec cette application et laissez-moi vous aider."
+    hr "Je veux juste que tu fasse attention avec cette application et laisse-moi t'aider."
 
 # game/code/d10/d10s05.rpy:390
 translate french d10s05_replay_3124b11b:
@@ -1036,7 +1036,7 @@ translate french d10s05_replay_a16788ca:
 translate french d10s05_replay_5dbdf822:
 
     # hr "Pretty much."
-    hr "Plutôt."
+    hr "en quelque sorte."
 
 # game/code/d10/d10s05.rpy:452
 translate french d10s05_replay_8e042165:
@@ -1072,7 +1072,7 @@ translate french d10s05_replay_a9a81f6e:
 translate french d10s05_replay_06a221b1:
 
     # hr "Anyway, that's all I wanted to ask you. Don't let me keep you."
-    hr "Quoi qu'il en soit, c'est tout ce que je voulais te demander. Ne me laisse pas te garder."
+    hr "Quoi qu'il en soit, c'est tout ce que je voulais te demander. Ne me fais pas attendre."
 
 # game/code/d10/d10s05.rpy:465
 translate french d10s05_replay_c448c8f3:
@@ -1132,7 +1132,7 @@ translate french d10s05_replay_7e1c4671:
 translate french d10s05_replay_e93e4ce9:
 
     # ir "*Sigh* You know what? Fine. {i}Fine{/i}. If that's gonna keep you from getting on my case, fine."
-    ir "{i}Bien{/i}"
+    ir ""*Soupir* Tu sais quoi ? Bien. {i}Bien{/i}. Si ça peut t'empêcher de t'occuper de mon cas, très bien.""
 
 # game/code/d10/d10s05.rpy:487
 translate french d10s05_replay_473709e8:
@@ -1162,7 +1162,7 @@ translate french d10s05_replay_1b4215e7:
 translate french d10s05_replay_14f09fb6:
 
     # ir "That \"most likely\" doesn't inspire a lot of confidence."
-    ir "Que \"most likely\" doesn't inspire a lot of confidence."
+    ir "Ce \"probablement\" ne m'inspire pas beaucoup de confiance."
 
 # game/code/d10/d10s05.rpy:495
 translate french d10s05_replay_955e81f0:
@@ -1174,7 +1174,7 @@ translate french d10s05_replay_955e81f0:
 translate french d10s05_replay_3700fb95:
 
     # ir "Fine, fine. Will you let me try this one on without lecturing me now?"
-    ir "Bien bien. Me laisserez-vous essayer celui-ci sans me faire la leçon maintenant ?"
+    ir "Bien bien. Me laisseres-tu essayer celui-ci sans me faire la leçon maintenant ?"
 
 # game/code/d10/d10s05.rpy:500
 translate french d10s05_replay_3cee31ed:
@@ -1192,7 +1192,7 @@ translate french d10s05_replay_b9aa47c5:
 translate french d10s05_replay_3c369a6b:
 
     # sy "...I couldn't believe it. It just went on and on up in there. Coming out, it was like a human-sized version of that magic trick where you pull a mile of handkerchief from your hand."
-    sy "...Je ne pouvais pas y croire. Cela a continué encore et encore là-haut. En sortant, c'était comme une version à taille humaine de ce tour de magie où vous retirez un kilomètre de mouchoir de votre main."
+    sy "...Je ne pouvais pas y croire. Cela a continué encore et encore là-haut. En sortant, c'était comme une version à taille humaine de ce tour de magie où tu retires un kilomètre de mouchoir de ta main."
 
 # game/code/d10/d10s05.rpy:508
 translate french d10s05_replay_29944307:
@@ -1234,7 +1234,7 @@ translate french d10s05_replay_24e0ee82:
 translate french d10s05_replay_5a4da153:
 
     # mc "Could you two stop double-teaming me like this, please?"
-    mc "Pourriez-vous arrêter de me doubler comme ça, s'il vous plaît ?"
+    mc "Pourriez-vous arrêter de vous liguer contre moi, s'il vous plaît ?"
 
 # game/code/d10/d10s05.rpy:521
 translate french d10s05_replay_645ee322:
@@ -1246,13 +1246,13 @@ translate french d10s05_replay_645ee322:
 translate french d10s05_replay_2d15a8a8:
 
     # sy "Having seen some of the stuff in there, I'm sure you'd love it if we double-teamed you."
-    sy "Après avoir vu certaines choses là-dedans, je suis sûr que vous aimeriez que nous vous fassions équipe en double."
+    sy "Après avoir vu certaines choses là-dedans, je suis sûr que tu aimerais que nous nous liguons contre toi."
 
 # game/code/d10/d10s05.rpy:527
 translate french d10s05_replay_d279fb9c:
 
     # mc "This is very unfair, y'know. I'm sure I'd find some very interesting stuff if I had a look at your porn collections."
-    mc "C'est très injuste, tu sais. Je suis sûr que je trouverais des choses très intéressantes si je jetais un œil à vos collections pornographiques."
+    mc "C'est très injuste, tu sais. Je suis sûr que je trouverais des choses très intéressantes si je jetais un œil à tes collections pornographiques."
 
 # game/code/d10/d10s05.rpy:529
 translate french d10s05_replay_14bb84b3:
@@ -1270,13 +1270,13 @@ translate french d10s05_replay_09f4998f:
 translate french d10s05_replay_58d58f92:
 
     # sy "I think I need to come here again. They have some pretty cool stuff."
-    sy "Je pense que je dois revenir ici. Ils ont des trucs plutôt sympas."
+    sy "Je pense que je vais revenir ici. Ils ont des trucs plutôt sympas."
 
 # game/code/d10/d10s05.rpy:534
 translate french d10s05_replay_ac6612c8:
 
     # arj "Right? That top we looked at looked amazing on you!"
-    arj "Droite? Le haut que nous avons regardé te va à merveille !"
+    arj "T'as vu? Le haut que nous avons regardé te va à merveille !"
 
 # game/code/d10/d10s05.rpy:537
 translate french d10s05_replay_c31f7db1:
@@ -1288,7 +1288,7 @@ translate french d10s05_replay_c31f7db1:
 translate french d10s05_replay_01b76648:
 
     # sy "Oh, lighten up. You look great in that."
-    sy "Oh, détendez-vous. Tu es superbe là-dedans."
+    sy "Oh, détend-toi. Tu es superbe là-dedans."
 
 # game/code/d10/d10s05.rpy:540
 translate french d10s05_replay_c9d84c97:
@@ -1378,7 +1378,7 @@ translate french d10s05_replay_b66b119e:
 translate french d10s05_replay_2e698c36:
 
     # mct "What the fuck? Did I just got points for her rubbing my dick??"
-    mct "C'est quoi ce bordel ? Est-ce que je viens d'avoir des points pour qu'elle me frotte la bite ??"
+    mct "C'est quoi ce bordel ? Est-ce que je viens d'avoir des points de son frottement de ma bite ??"
 
 # game/code/d10/d10s05.rpy:579
 translate french d10s05_replay_a1ad1b96:
@@ -1390,7 +1390,7 @@ translate french d10s05_replay_a1ad1b96:
 translate french d10s05_replay_4281c3dc:
 
     # mc "Yeah, it's the first time she's been out on her own, and knowing her, she probably spent countless hours going through \"What you should do when you rent your first apartment!\" articles and is now going to do them."
-    mc "Ouais, c'est la première fois qu'elle sort seule, et la connaissant, elle a probablement passé d'innombrables heures à vivre cette expérience."What you should do when you rent your first apartment!\" articles and is now going to do them."
+    mc Oui, c'est la première fois qu'elle est seule, et la connaissant, elle a probablement passé d'innombrables heures à lire les articles."Ce qu'il faut faire quand on loue son premier appartement !\" et elle va maintenant le faire."
 
 # game/code/d10/d10s05.rpy:585
 translate french d10s05_replay_b69d0ed5:
@@ -1402,7 +1402,7 @@ translate french d10s05_replay_b69d0ed5:
 translate french d10s05_replay_48dab64f:
 
     # mc "There you go."
-    mc "Voilà."
+    mc "Bingo!."
 
 # game/code/d10/d10s05.rpy:590
 translate french d10s05_replay_ec6ff410:
