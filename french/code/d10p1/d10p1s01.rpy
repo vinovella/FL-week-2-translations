@@ -4,25 +4,25 @@
 translate french d10p1s01_27b48bcf:
 
     # "A short walk to Min's house"
-
+    "Une courte balade jusqu'à la maison de Min"
 
 # game/code/d10p1/d10p1s01.rpy:16
 translate french d10p1s01_e842f754:
 
     # mc "We're here."
-    mc "Nous sommes là."
+    mc "Nous y sommes."
 
 # game/code/d10p1/d10p1s01.rpy:18
 translate french d10p1s01_0ce0d444:
 
     # arj "*nervously* Yay..."
-    arj "*nerveusement* Ouais..."
+    arj "*nerveux* Yay..."
 
 # game/code/d10p1/d10p1s01.rpy:23
 translate french d10p1s01_a9c45db1:
 
     # mesfl "Party Time!"
-    mesfl "L'heure de la fête!"
+    mesfl "Elle l'heure de la fête!"
 
 # game/code/d10p1/d10p1s01.rpy:28
 translate french d10p1s01_4e1d671e:
@@ -100,7 +100,7 @@ translate french d10p1s01_a780415d:
 translate french d10p1s01_eea9b6c5:
 
     # mesfl "Let's see. I have you both down for black Fetish Trackers tonight."
-    mesfl "Voyons. Je vous ai tous les deux partants pour les Fetish Trackers noirs ce soir."
+    mesfl "Voyons voir. Je vous ai inscrit tous les deux pour des traqueurs de fétiches noirs ce soir."
 
 # game/code/d10p1/d10p1s01.rpy:53
 translate french d10p1s01_5d688307:
@@ -118,19 +118,19 @@ translate french d10p1s01_75f8dae5:
 translate french d10p1s01_782646cf:
 
     # mc "Orgasms?"
-    mc "Des orgasmes ?"
+    mc "Nos orgasmes ?"
 
 # game/code/d10p1/d10p1s01.rpy:59
 translate french d10p1s01_f0ed2804:
 
     # mesfl "Oxygen levels, blood pressure, sleep quality... {w}All the bells and whistles."
-    mesfl "Niveaux d'oxygène, tension artérielle, qualité du sommeil...{w}Toutes les cloches et les sifflets."
+    mesfl "Niveaux d'oxygène, tension artérielle, qualité du sommeil...{w}Toute la panoplie."
 
 # game/code/d10p1/d10p1s01.rpy:61
 translate french d10p1s01_e5c0723c:
 
     # mesfl "[mclogin], you were here before. Can you explain the rules to ErikaRed while I pair your devices?"
-    mesfl "[mclogin], tu étais ici avant. Pouvez-vous expliquer les règles à ErikaRed pendant que je couple vos appareils ?"
+    mesfl "[mclogin], tu étais ici avant. Peux-tu expliquer les règles à ErikaRed pendant que je couple vos appareils ?"
 
 # game/code/d10p1/d10p1s01.rpy:64
 translate french d10p1s01_68c5df9d:
@@ -202,7 +202,7 @@ translate french d10p1s01_3a7256c3:
 translate french d10p1s01_f1282f88:
 
     # mc "Don't be a dick."
-    mc "Ne sois pas un connard."
+    mc "Ne fais pas le con."
 
 # game/code/d10p1/d10p1s01.rpy:85
 translate french d10p1s01_d333ffe1:
@@ -250,7 +250,7 @@ translate french d10p1s01_268fd8f6_1:
 translate french d10p1s01_33c68717:
 
     # mesfl "Let me rephrase that last rule slightly from what my counterpart told you last week."
-    mesfl "Permettez-moi de reformuler légèrement cette dernière règle à partir de ce que mon homologue vous a dit la semaine dernière."
+    mesfl "Permettez-moi de reformuler légèrement cette dernière règle à partir de ce que mon homologue t'a dit la semaine dernière."
 
 # game/code/d10p1/d10p1s01.rpy:99
 translate french d10p1s01_62ba59f4:
@@ -280,7 +280,7 @@ translate french d10p1s01_a1d16746:
 translate french d10p1s01_cbe43492:
 
     # arjfl "Wait a sec- You're Squizzle?!"
-    arjfl "Attendez une seconde. Vous êtes Squizzle ?!"
+    arjfl "Attendez une seconde. Tu es Squizzle ?!"
 
 # game/code/d10p1/d10p1s01.rpy:107
 translate french d10p1s01_dc5c0dbb:
@@ -298,7 +298,7 @@ translate french d10p1s01_2e06ef89:
 translate french d10p1s01_91535561:
 
     # mesfl "Excuse me?"
-    mesfl "Excusez-moi?"
+    mesfl "Excuse-moi?"
 
 # game/code/d10p1/d10p1s01.rpy:115
 translate french d10p1s01_9d47e974:
@@ -382,7 +382,7 @@ translate french d10p1s01_f3308ba7:
 translate french d10p1s01_b3a061e6:
 
     # mesfl "Well, I guess you'll just have to step up your game."
-    mesfl "Eh bien, je suppose que vous devrez simplement intensifier votre jeu."
+    mesfl "Eh bien, je suppose que tu dois simplement intensifier ton jeu."
 
 # game/code/d10p1/d10p1s01.rpy:143
 translate french d10p1s01_bc5d41ce:
@@ -436,7 +436,7 @@ translate french d10p1s01_c2138384:
 translate french d10p1s01_81c58366:
 
     # mesfl "Exactly. Also, there will be prizes awarded, and each big O creates one ticket for entry in the lottery."
-    mesfl "Exactement. De plus, des prix seront attribués et chaque grand O crée un ticket pour entrer à la loterie."
+    mesfl "Exactement. De plus, des prix seront attribués et chaque orgasme crée un ticket pour entrer à la loterie."
 
 # game/code/d10p1/d10p1s01.rpy:162
 translate french d10p1s01_e89a8462:
@@ -448,7 +448,7 @@ translate french d10p1s01_e89a8462:
 translate french d10p1s01_29b08038:
 
     # mesfl "Will most likely be those who got the most out of the evening's activities."
-    mesfl "Ce seront très probablement ceux qui ont tiré le meilleur parti des activités de la soirée."
+    mesfl "Ce seront très probablement ceux qui ont tiré le meilleur des activités de la soirée."
 
 # game/code/d10p1/d10p1s01.rpy:166
 translate french d10p1s01_2732990d:
@@ -526,7 +526,7 @@ translate french d10p1s01_62c6a66b:
 translate french d10p1s01_8b00f324:
 
     # arjfl "Boof"
-    arjfl "Bouffon"
+    arjfl "Boof"
 
 # game/code/d10p1/d10p1s01.rpy:191
 translate french d10p1s01_be32eb9e:
@@ -550,7 +550,7 @@ translate french d10p1s01_7288b39c:
 translate french d10p1s01_556b0b48:
 
     # arjfl "Who?"
-    arjfl "OMS?"
+    arjfl "Qui?"
 
 # game/code/d10p1/d10p1s01.rpy:200
 translate french d10p1s01_c94c6141:
@@ -592,7 +592,7 @@ translate french d10p1s01_05500ff6:
 translate french d10p1s01_871db131:
 
     # mesfl "It's a reference to boofing, isn't it?"
-    mesfl "C'est une référence au boofing, n'est-ce pas ?"
+    mesfl "C'est une référence au boofing (terme d'argot qui fait référence à l'ingestion de drogues par voie anale), n'est-ce pas ?"
 
 # game/code/d10p1/d10p1s01.rpy:214
 translate french d10p1s01_e255ab96:
@@ -712,19 +712,19 @@ translate french d10p1s01_e068e5a6:
 translate french d10p1s01_02b55b96:
 
     # mct "\"And though she be but little, she is fierce.\""
-    mct "\"And though she be but little, she is fierce.\""
+    mct "\"Et bien qu'elle soit petite, elle est féroce.\""
 
 # game/code/d10p1/d10p1s01.rpy:251
 translate french d10p1s01_c2b051d4:
 
     # mesfl "Alright.{w} And [mclogin], what about you?"
-    mesfl "Très bien.{w} Et [mclogin], et vous ?"
+    mesfl "Très bien.{w} Et [mclogin], et toi ?"
 
 # game/code/d10p1/d10p1s01.rpy:254
 translate french d10p1s01_4d0e3540:
 
     # mc "Oh, I hadn't..."
-    mc "Oh, je ne l'avais pas fait..."
+    mc "Oh, je ne avais pas fait..."
 
 # game/code/d10p1/d10p1s01.rpy:255
 translate french d10p1s01_0fdabec4:
@@ -742,7 +742,7 @@ translate french d10p1s01_51a8bb20:
 translate french d10p1s01_c7bc2bc1:
 
     # mesfl "Your safe word is \"Meatloaf\"?"
-    mesfl "Votre mot de sécurité est \"Meatloaf\"?"
+    mesfl "Votre mot de sécurité est \"Pain de viande\"?"
 
 # game/code/d10p1/d10p1s01.rpy:265
 translate french d10p1s01_861f45ac:
@@ -784,7 +784,7 @@ translate french d10p1s01_01e42652:
 translate french d10p1s01_00d8d6f9:
 
     # mc "FLÜGGÅӘNKб€ČHIŒßØLĮÊN. {w}It's European{w}-ish."
-    mc "FLÜGGÅÖNKб€ČHIŒßØLĮÊN. {w}C'est européen{w}-ish."
+    mc "FLÜGGÅÖNKб€ČHIŒßØLĮÊN. {w}C'est européen{w}"
 
 # game/code/d10p1/d10p1s01.rpy:282
 translate french d10p1s01_d97de54e:
@@ -796,7 +796,7 @@ translate french d10p1s01_d97de54e:
 translate french d10p1s01_11788101:
 
     # mc "It means, \"This is my safe word.\""
-    mc "Ça veut dire, \"This is my safe word.\""
+    mc "Ça veut dire, \"C'est mon mot de sécurité.\""
 
 # game/code/d10p1/d10p1s01.rpy:288
 translate french d10p1s01_370b3517:
@@ -976,7 +976,7 @@ translate french d10p1s01_028acc27:
 translate french d10p1s01_c39b617e:
 
     # mc "For Squizzle. Not Min."
-    mc "Pour Squizz. Pas Min."
+    mc "Pour Squizzle. Pas Min."
 
 # game/code/d10p1/d10p1s01.rpy:370
 translate french d10p1s01_ff551960:
@@ -1018,7 +1018,7 @@ translate french d10p1s01_2d91ba4e:
 translate french d10p1s01_84a19406:
 
     # mc "You think she is also...? {w}Like us?"
-    mc "Vous pensez qu'elle est aussi...? {w}Vous aimez nous ?"
+    mc "Vous pensez qu'elle est aussi...? {w}Comme nous ?"
 
 # game/code/d10p1/d10p1s01.rpy:385
 translate french d10p1s01_95a207f7:
@@ -1048,7 +1048,7 @@ translate french d10p1s01_81c5fcf7:
 translate french d10p1s01_80fe0554:
 
     # "{color=#778faa}???{/color}" "Great dress! Are you my waitress?"
-{color=#778faa}???{/color}" "Great dress! Are you my waitress?
+{color=#778faa}???{/color}" "Superbe robe ! Êtes-vous ma serveuse ?
 
 # game/code/d10p1/d10p1s01.rpy:400
 translate french d10p1s01_5a7a819e:
@@ -1204,7 +1204,7 @@ translate french d10p1s01_b4f8e9bb:
 translate french d10p1s01_3888334b:
 
     # arjfl "Squizzle was very clear on that. We don't have to do anything with guests without our consent."
-    arjfl "Squizzle a été très clair à ce sujet. Nous ne devons rien faire avec les voyageurs sans notre consentement."
+    arjfl "Squizzle a été très clair à ce sujet. Nous ne devons rien faire avec les invités sans leur consentement."
 
 # game/code/d10p1/d10p1s01.rpy:461
 translate french d10p1s01_28d03956:
@@ -1274,10 +1274,10 @@ translate french strings:
 
     # game/code/d10p1/d10p1s01.rpy:300
     old "Please enter a safe word!"
-    new "Please enter a safe word!"
+    new "Veuillez saisir un mot de sécurité !"
 
 
     old "Apples"
-    new "Apples"
+    new "Pommes"
 
 
