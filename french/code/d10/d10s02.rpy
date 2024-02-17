@@ -10,7 +10,7 @@ translate french d10s02_f28413eb:
 translate french d10s02_2e028253:
 
     # mct "Okay, I am done with the gym. I've got some time before I need to meet Samiya."
-    mct "OK, j'en ai fini avec la salle de sport. Il me reste du temps avant de devoir rencontrer Samiya."
+    mct "OK, j'en ai fini avec la gym. Il me reste du temps avant de devoir rencontrer Samiya."
 
 # game/code/d10/d10s02.rpy:18
 translate french d10s02_84d81f62:
@@ -22,13 +22,13 @@ translate french d10s02_84d81f62:
 translate french d10s02_285ba1b2:
 
     # mct "I already have enough points for that. Not a problem."
-    mct "J'ai déjà assez de points pour ça. Pas de problème."
+    mct "J'ai déjà assez de points. Plus de souci."
 
 # game/code/d10/d10s02.rpy:24
 translate french d10s02_a2c3bd88:
 
     # mct "I'm a little short, but should have no problem earning enough points today."
-    mct "Je suis un peu petit, mais je ne devrais avoir aucun problème à gagner suffisamment de points aujourd'hui."
+    mct "Je suis un peu short, mais je ne devrais avoir aucun problème à gagner suffisamment de points aujourd'hui."
 
 # game/code/d10/d10s02.rpy:26
 translate french d10s02_65a959d6:
@@ -46,7 +46,7 @@ translate french d10s02_46545484:
 translate french d10s02_4856c53e:
 
     # mct "I still have no idea how I'm supposed to participate in the main event."
-    mct "Je n'ai toujours aucune idée de la manière dont je suis censé participer à l'événement principal."
+    mct "Je n'ai toujours aucune idée de la manière comment je suis censé participer à l'événement principal."
 
 # game/code/d10/d10s02.rpy:33
 translate french d10s02_d1d08df8:
@@ -124,7 +124,7 @@ translate french d10s02_f32a3e3c:
 translate french d10s02_d8afc7c7:
 
     # mk "Oh, gotcha. I hadn't really noticed. {w}I need to shower too. Mind if I do it here?"
-    mk "Oh, je t'ai eu. Je n'avais pas vraiment remarqué. {w}Je dois aussi me doucher. Ça vous dérange si je le fais ici ?"
+    mk "Oh, Tu m'as eu. Je n'avais pas vraiment remarqué. {w}Je dois aussi me doucher. Ça vous dérange si je le fais ici ?"
 
 # game/code/d10/d10s02.rpy:68
 translate french d10s02_07ac449c:
@@ -136,7 +136,7 @@ translate french d10s02_07ac449c:
 translate french d10s02_ddfe5204:
 
     # mct "I wonder what she has planned for us to do in the shower together."
-    mct "Je me demande ce qu'elle a prévu pour nous de faire ensemble sous la douche."
+    mct "Je me demande ce qu'elle a prévu de faire sous la douche."
 
 # game/code/d10/d10s02.rpy:71
 translate french d10s02_e1e0aa1c:
@@ -154,7 +154,7 @@ translate french d10s02_e3ea8903:
 translate french d10s02_5fa26227:
 
     # mct "She already blew me IRL. Maybe she wants to lose her virginity?"
-    mct "Elle m'a déjà fait exploser IRL. Peut-être qu'elle veut perdre sa virginité ?"
+    mct "Elle m'a déjà sucé IRL. Peut-être qu'elle veut perdre sa virginité ?"
 
 # game/code/d10/d10s02.rpy:81
 translate french d10s02_edafe016:
@@ -166,7 +166,7 @@ translate french d10s02_edafe016:
 translate french d10s02_dc9d62bf:
 
     # mct "If she needs my cock in her pussy like that today, maybe I can get something more out of it."
-    mct "Si elle a besoin de ma bite dans sa chatte comme ça aujourd'hui, je peux peut-être en tirer quelque chose de plus."
+    mct "Si elle a besoin de ma bite dans sa chatte aujourd'hui, je peux peut-être en tirer quelque chose de plus."
 
 # game/code/d10/d10s02.rpy:83
 translate french d10s02_d8e6aee4:
@@ -178,7 +178,7 @@ translate french d10s02_d8e6aee4:
 translate french d10s02_f4c5eade:
 
     # mct "Damn. I forgot how good she looks."
-    mct "Condamner. J'avais oublié à quel point elle était belle."
+    mct "Merde. J'avais oublié à quel point elle était belle."
 
 # game/code/d10/d10s02.rpy:87
 translate french d10s02_7fc4ea04:
@@ -190,7 +190,7 @@ translate french d10s02_7fc4ea04:
 translate french d10s02_99247312:
 
     # mc "You wanted to say something?"
-    mc "Tu voulais dire quelque chose ?"
+    mc "Tu voulais dire me quelque chose ?"
 
 # game/code/d10/d10s02.rpy:93
 translate french d10s02_2b5a8205:
@@ -226,7 +226,7 @@ translate french d10s02_3f73daae:
 translate french d10s02_a154fb7b:
 
     # mc "Try me."
-    mc "Essaie-moi."
+    mc "Essaie."
 
 # game/code/d10/d10s02.rpy:111
 translate french d10s02_da0fffbf:
@@ -292,13 +292,13 @@ translate french d10s02_42d0b5c5:
 translate french d10s02_19b28bf0:
 
     # mk "I just didn't realize until recently how obsessive I can be.{w}.. and have been."
-    mk "Je n'ai tout simplement pas réalisé jusqu'à récemment à quel point je pouvais être obsessionnel.{w}.. et je l'ai été."
+    mk "Je n'ai tout simplement pas réalisé jusqu'à récemment à quel point je pouvais être aussi obsessionnel.{w}.. que ça."
 
 # game/code/d10/d10s02.rpy:136
 translate french d10s02_b4d0fab4:
 
     # mc "I guess I can see that. Your passionate determination makes you succeed at things."
-    mc "Je suppose que je peux voir ça. Votre détermination passionnée vous permet de réussir dans vos projets."
+    mc "Je suppose que je peux voir ça. Ta détermination passionnée te permet de réussir dans tes projets."
 
 # game/code/d10/d10s02.rpy:139
 translate french d10s02_e09228f4:
@@ -310,13 +310,13 @@ translate french d10s02_e09228f4:
 translate french d10s02_fc8b26f5:
 
     # mc "Yet, that same single-minded determination makes you ignore other people's feelings."
-    mc "Pourtant, cette même détermination résolue vous fait ignorer les sentiments des autres."
+    mc "Pourtant, cette même détermination résolue te fait ignorer les sentiments des autres."
 
 # game/code/d10/d10s02.rpy:145
 translate french d10s02_6c3d0411:
 
     # mk "Yeah. I guess I haven't been a very good friend over the years."
-    mk "Ouais. Je suppose que je n'ai pas été un très bon ami au fil des ans."
+    mk "Ouais. Je suppose que je n'ai pas été une très bone amie au fil des ans."
 
 # game/code/d10/d10s02.rpy:148
 translate french d10s02_7c2d6a99:
@@ -328,7 +328,7 @@ translate french d10s02_7c2d6a99:
 translate french d10s02_aa9af602:
 
     # mk "Yeah. That's learned behavior, ya'know?"
-    mk "Ouais. C’est un comportement appris, tu sais ?"
+    mk "Ouais. C’est un comportement acquis, tu sais ?"
 
 # game/code/d10/d10s02.rpy:153
 translate french d10s02_8b975684:
@@ -340,13 +340,13 @@ translate french d10s02_8b975684:
 translate french d10s02_37c52f30:
 
     # mk "Never take \"No\" for an answer. Do whatever it takes to win. Never give up."
-    mk "Ne prenez jamais \"No\" for an answer. Do whatever it takes to win. Never give up."
+    mk "Ne prenez jamais \"No\" pour une réponse. Faites tout ce qu'il faut pour gagner. Ne jamais abandonner."
 
 # game/code/d10/d10s02.rpy:156
 translate french d10s02_3db42fa6:
 
     # mc "Good for sales, bad for friendships."
-    mc "Bon pour les ventes, mauvais pour les amitiés."
+    mc "Bon pour un vendeur, mauvais pour une amie."
 
 # game/code/d10/d10s02.rpy:159
 translate french d10s02_9d3053c7:
@@ -370,13 +370,13 @@ translate french d10s02_f236ec5a:
 translate french d10s02_24d5d0c0:
 
     # mk "Yeah, and they don't take \"Lesbian\" for an answer. They're determined to change me."
-    mk "Ouais, et ils ne prennent pas \"Lesbian\" for an answer. They're determined to change me."
+    mk "Ouais, et ils ne prennent jamais \"Lesbianne\" pour une réponse. Ils sont bien décidés à me faire changer."
 
 # game/code/d10/d10s02.rpy:166
 translate french d10s02_6b1e84da:
 
     # mk "\"You just haven't been fucked by the right man yet.\" or whatever, ya'know?"
-    mk "\"You just haven't been fucked by the right man yet.\" or whatever, ya'know?"
+    mk "\"Tu n'as pas encore été baisée par le bon mec.\" or quelque chose de ce genre, tu sais?"
 
 # game/code/d10/d10s02.rpy:169
 translate french d10s02_d55f61cb:
@@ -424,7 +424,7 @@ translate french d10s02_1df1e72c:
 translate french d10s02_2c25907b:
 
     # mk "I've got a lot of bad habits to unlearn. I need to try to be a better person."
-    mk "J'ai beaucoup de mauvaises habitudes à désapprendre. Je dois essayer d'être une meilleure personne."
+    mk "J'ai beaucoup de mauvaises habitudes à perdre. Je dois essayer d'être une meilleure personne."
 
 # game/code/d10/d10s02.rpy:185
 translate french d10s02_ca799b43:
@@ -484,7 +484,7 @@ translate french d10s02_warning_1791daf4:
 translate french d10s02_warning_c92d1130:
 
     # mc "I was just thinking about how much access Fetish Locator has to our devices."
-    mc "Je pensais juste à l'accès de Fetish Locator à nos appareils."
+    mc "Je pensais juste à l'accès que a Fetish Locator sur nos appareils."
 
 # game/code/d10/d10s02.rpy:218
 translate french d10s02_warning_b2e6ad87:
@@ -532,13 +532,13 @@ translate french d10s02_warning_84a58ec6:
 translate french d10s02_warning_38be99ca:
 
     # mc "DO NOT Uninstall it!"
-    mc "NE PAS le désinstaller !"
+    mc "NE LE désinstalle PAS !"
 
 # game/code/d10/d10s02.rpy:238
 translate french d10s02_warning_7fbffa41:
 
     # mk "I know, I know. Relax..."
-    mk "Je sais je sais. Se détendre..."
+    mk "Je sais je sais. Relax..."
 
 # game/code/d10/d10s02.rpy:241
 translate french d10s02_warning_886c974c:
@@ -682,13 +682,13 @@ translate french d10s02_for_points_965c41c1:
 translate french d10s02_for_points_073bf7c2:
 
     # mk "... then doing something that makes me all sticky..."
-    mk "...puis je fais quelque chose qui me rend collant..."
+    mk "...si je fais quelque chose qui me rend collante..."
 
 # game/code/d10/d10s02.rpy:298
 translate french d10s02_for_points_d8c7ca62:
 
     # mk "... then me coming back here for another shower."
-    mk "...puis je reviens ici pour une autre douche."
+    mk "...je devrais revenir ici pour une autre douche."
 
 # game/code/d10/d10s02.rpy:301
 translate french d10s02_for_points_ab60551b:
@@ -760,31 +760,31 @@ translate french d10s02_end_ba1d3c67:
 translate french d10s02_end_2186bfdc:
 
     # mc "So, like that whole, \"would never let a guy near my pussy\" thing last week...?"
-    mc "Donc, comme tout ça, \"would never let a guy near my pussy\" thing last week...?"
+    mc "Donc, le \"Je ne laisserais jamais un homme s'approcher de ma chatte\" de la semaine dernière...?"
 
 # game/code/d10/d10s02.rpy:338
 translate french d10s02_end_b13dfa65:
 
     # mk "Exactly. I'm not going to let some guy lick my kitty, but I'm going to try not to be such a bitch about it either."
-    mk "Exactement. Je ne vais pas laisser un gars lécher mon chat, mais je vais essayer de ne pas être aussi garce à ce sujet non plus."
+    mk "Exactement. Je ne vais pas laisser un gars lécher ma chatte, mais je vais essayer de ne pas être aussi garce à ce sujet non plus."
 
 # game/code/d10/d10s02.rpy:342
 translate french d10s02_end_f4464b53:
 
     # mc "So, not so militant about intergender play?"
-    mc "Alors, pas si militant en faveur du jeu intergenre ?"
+    mc "Alors, pas si militant en faveur des intergenres ?"
 
 # game/code/d10/d10s02.rpy:344
 translate french d10s02_end_f35928c6:
 
     # mk "Well, I'm not disgusted by the idea... or the memory. I'm just not into it."
-    mk "Eh bien, je ne suis pas dégoûté par l'idée...ni par le souvenir. Je ne suis pas dedans."
+    mk "Eh bien, je ne suis pas dégoûté par l'idée...ni par le souvenir. Je ne suis pas là-dedans."
 
 # game/code/d10/d10s02.rpy:346
 translate french d10s02_end_4783640a:
 
     # mc "No worries there."
-    mc "Pas de soucis là-bas."
+    mc "Pas de soucis ici."
 
 # game/code/d10/d10s02.rpy:349
 translate french d10s02_end_d4a2dfeb:
@@ -796,7 +796,7 @@ translate french d10s02_end_d4a2dfeb:
 translate french d10s02_end_3e96b889:
 
     # mk "I've played with toys, but that vision made me wonder if I'm missing out on something."
-    mk "J'ai joué avec des jouets, mais cette vision m'a fait me demander si je manquais quelque chose."
+    mk "J'ai utilisé avec des jouets, mais cette vision m'a fait me demander si je ne manquais pas quelque chose."
 
 # game/code/d10/d10s02.rpy:352
 translate french d10s02_end_f52629c0:
@@ -850,7 +850,7 @@ translate french d10s02_end_81141d6e:
 translate french d10s02_end_79e9e188:
 
     # mk "Well, I might give you a call."
-    mk "Eh bien, je pourrais vous appeler."
+    mk "Eh bien, je pourrais t'appeler."
 
 # game/code/d10/d10s02.rpy:375
 translate french d10s02_end_ebffe84b:
@@ -910,7 +910,7 @@ translate french d10s02_end_5923e338:
 translate french d10s02_end_cdd54cb0:
 
     # mc "Let's get out of here before we're all pruney."
-    mc "Partons d'ici avant que nous soyons tous ébréchés."
+    mc "Partons d'ici avant que nous ne soyons réduits à l'état de pruneaux."
 
 # game/code/d10/d10s02.rpy:398
 translate french d10s02_end_c44f91e3:
@@ -922,8 +922,8 @@ translate french strings:
 
     # game/code/d10/d10s02.rpy:201
     old "Warn Maria about Fetish Locator"
-    new "Avertir Maria du localisateur de fétichisme"
+    new "Avertir Maria du Fetish Locator"
 
     # game/code/d10/d10s02.rpy:201
     old "Ask her if she wants to earn some points"
-    new "Ask her if she wants to earn some points"
+    new "Demandez-lui si elle veut gagner quelques points"
