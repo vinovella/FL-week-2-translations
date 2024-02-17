@@ -4,13 +4,13 @@
 translate french d10s07_fad11a7d:
 
     # "After a short walk to AmRose's home..."
-
+    "Après une courte marche vers le domicile d'AmRose..."
 
 # game/code/d10/d10s07.rpy:17
 translate french d10s07_9cc8f245:
 
     # mc "The coffee helped, but today was exhausting."
-    mc "Le café m'a aidé, mais aujourd'hui c'était épuisant."
+    mc "Le café m'a bien aidé, mais aujourd'hui c'était épuisant."
 
 # game/code/d10/d10s07.rpy:18
 translate french d10s07_ea5c28ff:
@@ -34,7 +34,7 @@ translate french d10s07_cf117063:
 translate french d10s07_e78655fe:
 
     # arj "I have no idea. You were at the Party last week. Can you tell me about it?"
-    arj "Je n'ai aucune idée. Vous étiez à la fête la semaine dernière. Pouvez-vous m'en parler ?"
+    arj "Je n'ai aucune idée. Tu étais à la fête la semaine dernière. Poux-tu m'en parler ?"
 
 # game/code/d10/d10s07.rpy:26
 translate french d10s07_1e490821:
@@ -46,7 +46,7 @@ translate french d10s07_1e490821:
 translate french d10s07_55f114fa:
 
     # mc "Mostly it seemed like everyone was conspiring together to edge me."
-    mc "La plupart du temps, c’était comme si tout le monde conspirait pour me devancer."
+    mc "La plupart du temps, on avait l'impression que tout le monde conspirait pour me mettre à bout."
 
 # game/code/d10/d10s07.rpy:30
 translate french d10s07_356acec4:
@@ -76,13 +76,13 @@ translate french d10s07_716f6c35:
 translate french d10s07_b9bfb19d:
 
     # mc "Well, just remember that no matter what happens - I'll be there too."
-    mc "Eh bien, rappelez-vous simplement que quoi qu'il arrive, je serai là aussi."
+    mc "Eh bien, rappele-toi simplement que quoi qu'il arrive, je serai là aussi."
 
 # game/code/d10/d10s07.rpy:43
 translate french d10s07_5780cf1c:
 
     # mc "If you find yourself in over-your-head or needing help, find me."
-    mc "Si vous vous sentez dépassé ou si vous avez besoin d'aide, trouvez-moi."
+    mc "Si te sentes dépassé ou si tu a besoin d'aide, trouve-moi."
 
 # game/code/d10/d10s07.rpy:44
 translate french d10s07_18533cf4:
@@ -124,7 +124,7 @@ translate french d10s07_58032ece:
 translate french d10s07_6de4f32a:
 
     # mc "Go ahead. I'm good."
-    mc "Poursuivre. Je vais bien."
+    mc "Va y. Je vais bien."
 
 # game/code/d10/d10s07.rpy:61
 translate french d10s07_d8a881e2:
@@ -154,7 +154,7 @@ translate french d10s07_e544eff7:
 translate french d10s07_ad09ff19:
 
     # mc "You'll do everything perfectly because you don't want to embarrass me."
-    mc "Vous ferez tout parfaitement parce que vous ne voulez pas m'embarrasser."
+    mc "Tu feras tout parfaitement parce que tu ne veux pas m'embarrasser."
 
 # game/code/d10/d10s07.rpy:70
 translate french d10s07_30ab9f82:
@@ -178,7 +178,7 @@ translate french d10s07_f28fe7ee:
 translate french d10s07_faba7a70:
 
     # mc "Now you should take a shower to wake up."
-    mc "Maintenant, vous devriez prendre une douche pour vous réveiller."
+    mc "Maintenant, tu dois prendre une douche pour te réveiller."
 
 # game/code/d10/d10s07.rpy:79
 translate french d10s07_24ec5354:
@@ -220,13 +220,13 @@ translate french d10s07_d4ee84ca:
 translate french d10s07_d7f1ebb3:
 
     # mct "I'll just have to roll through whatever comes. {w}Hopefully I'll get to come this time."
-    mct "Je devrai simplement faire face à tout ce qui arrivera. {w}J'espère que je pourrai venir cette fois."
+    mct "Je devrai simplement faire face à tout ce qui arrivera. {w}J'espère que je pourrai jouir cette fois."
 
 # game/code/d10/d10s07.rpy:95
 translate french d10s07_ea56992d:
 
     # mc "I hope you don't mind if I join you."
-    mc "J'espère que cela ne vous dérange pas si je vous rejoins."
+    mc "J'espère que cela ne te dérange pas si je te rejoins."
 
 # game/code/d10/d10s07.rpy:98
 translate french d10s07_9f2e62bb:
@@ -244,7 +244,7 @@ translate french d10s07_b0b77813:
 translate french d10s07_a57c82f5:
 
     # arj "Naked, wet, and waiting for you?"
-    arj "Nue, mouillée et vous attend ?"
+    arj "Nue, mouillée et t'attendant ?"
 
 # game/code/d10/d10s07.rpy:106
 translate french d10s07_f36e5aec:
@@ -292,7 +292,7 @@ translate french d10s07_a89145b3:
 translate french d10s07_bfddc60e:
 
     # arj "Are there more parts to your instructions?"
-    arj "Y a-t-il d'autres parties dans vos instructions ?"
+    arj "Y a-t-il d'autres parties dans tes instructions ?"
 
 # game/code/d10/d10s07.rpy:125
 translate french d10s07_2d86e078:
@@ -304,7 +304,7 @@ translate french d10s07_2d86e078:
 translate french d10s07_4e7280bf:
 
     # arj "Main event? What is that?"
-    arj "Événement principal? Qu'est-ce que c'est?"
+    arj "l'Événement principal? Qu'est-ce que c'est?"
 
 # game/code/d10/d10s07.rpy:129
 translate french d10s07_579aab55:
@@ -340,7 +340,7 @@ translate french d10s07_518751fe:
 translate french d10s07_8334e8fa:
 
     # mc "They cost 50 points. I have [fl_points], so it's not a problem."
-    mc "Ils coûtent 50 points. J'ai [fl_points], donc ce n'est pas un problème."
+    mc "50 points. J'ai [fl_points], donc ce n'est pas un problème."
 
 # game/code/d10/d10s07.rpy:146
 translate french d10s07_06e92e33:
@@ -388,7 +388,7 @@ translate french d10s07_c914fd54:
 translate french d10s07_3f2982de:
 
     # arj "Shush, okay? {w}Don't ask questions you don't want answered."
-    arj "Chut, d'accord ? {w}Ne posez pas de questions auxquelles vous ne voulez pas de réponse."
+    arj "Chut, d'accord ? {w}Ne pose pas de questions auxquelles tu ne veux pas de réponse."
 
 # game/code/d10/d10s07.rpy:166
 translate french d10s07_83fc1b16:
@@ -442,13 +442,13 @@ translate french d10s07_7e116f76:
 translate french d10s07_23e53b43:
 
     # mc "Gah! I look like I'm going to the The Blue Oyster."
-    mc "Waouh ! J'ai l'air d'aller au Blue Oyster."
+    mc "Waouh ! J'ai l'air d'aller dans le Marais."
 
 # game/code/d10/d10s07.rpy:201
 translate french d10s07_6031d704:
 
     # arj "Ha! {w}You might discover the best \"Salad\" bar in town!"
-    arj "Ha! {w}Vous découvrirez peut-être le meilleur \"Salad\" bar in town!"
+    arj Ha ! {w}Tu pourrais découvrir le meilleur bar à salades de la ville !"
 
 # game/code/d10/d10s07.rpy:204
 translate french d10s07_98274296:
@@ -460,13 +460,13 @@ translate french d10s07_98274296:
 translate french d10s07_3d806caa:
 
     # arj "I would cry laughing, but I'm afraid I'd lose a contact."
-    arj "Je pleurerais de rire, mais j'ai peur de perdre un contact."
+    arj "Je pleurerais de rire, mais j'ai peur de perdre une lentille."
 
 # game/code/d10/d10s07.rpy:208
 translate french d10s07_ab46c860:
 
     # mc "Oh, yeah. You're not wearing your glasses."
-    mc "Oh ouais. Vous ne portez pas vos lunettes."
+    mc "Oh ouais. tu ne ported pas tes lunettes."
 
 # game/code/d10/d10s07.rpy:211
 translate french d10s07_14065745:
@@ -478,13 +478,13 @@ translate french d10s07_14065745:
 translate french d10s07_876f16e1:
 
     # mc "You look really cute like this."
-    mc "Tu es vraiment mignon comme ça."
+    mc "Tu es vraiment mignone comme ça."
 
 # game/code/d10/d10s07.rpy:214
 translate french d10s07_960ce124:
 
     # arj "Do I? I thought I looked better in glasses."
-    arj "Est ce que je? Je pensais que j'étais plus belle avec des lunettes."
+    arj "Ah bon? Je pensais que j'étais plus belle avec des lunettes."
 
 # game/code/d10/d10s07.rpy:216
 translate french d10s07_0fe433cb:
@@ -502,7 +502,7 @@ translate french d10s07_56dbef88:
 translate french d10s07_9ce7b311:
 
     # mc "Just have fun and don't do anything I wouldn't do."
-    mc "Amusez-vous simplement et ne faites rien que je ne ferais pas."
+    mc "Amuses-toi simplement et ne fait rien que je ne ferais pas."
 
 # game/code/d10/d10s07.rpy:223
 translate french d10s07_f0a647d4:
@@ -514,19 +514,19 @@ translate french d10s07_f0a647d4:
 translate french d10s07_a48e3706:
 
     # mc "Just have fun and don't do anything you don't want to do."
-    mc "Amusez-vous simplement et ne faites rien que vous ne voulez pas faire."
+    mc "Amuse-toi simplement et ne fait rien que tu ne veux pas faire."
 
 # game/code/d10/d10s07.rpy:230
 translate french d10s07_07cae94a:
 
     # arj "Oh, the points you needed... {w}Here you go."
-    arj "Oh, les points dont vous aviez besoin...{w} Et voilà."
+    arj "Oh, les points dont tu as besoin...{w} Et voilà."
 
 # game/code/d10/d10s07.rpy:232
 translate french d10s07_940a0e0d:
 
     # arj "I have sent you [d10s07_points_needed] points."
-    arj "Je vous ai envoyé [d10s07_points_needed] points."
+    arj "Je t'ai envoyé [d10s07_points_needed] points."
 
 # game/code/d10/d10s07.rpy:235
 translate french d10s07_48b721a7:
@@ -538,6 +538,6 @@ translate french d10s07_48b721a7:
 translate french d10s07_ab1d44c5:
 
     # mc "A-a-and 50 points for ticket are gone."
-    mc "Aa-et 50 points pour le ticket ont disparu."
+    mc "E-e-et 50 points pour le ticket ont disparu."
 
 
