@@ -10,7 +10,7 @@ translate french d10s01_c266f695:
 translate french d10s01_8a61ec7e:
 
     # mct "Gah! {w}What is that noise?"
-    mct "Waouh ! {w}Quel est ce bruit ?"
+    mct "Arhh! {w}C'est quoi ce bruit ?"
 
 # game/code/d10/d10s01.rpy:12
 translate french d10s01_5d7065dd:
@@ -46,7 +46,7 @@ translate french d10s01_09e9fe23:
 translate french d10s01_7f7f9162:
 
     # mct "Where is the sun? I'm so used to a nice weather, that moody dull sky like this makes me all depressed..."
-    mct "Où est le soleil? Je suis tellement habitué au beau temps, ce ciel maussade et terne comme celui-ci me déprime..."
+    mct "Où est le soleil? Je suis tellement habitué au beau temps que ce ciel maussade et terne comme celui-ci me déprime..."
 
 # game/code/d10/d10s01.rpy:28
 translate french d10s01_546c02ee:
@@ -136,25 +136,25 @@ translate french d10s01_9524b1d6:
 translate french d10s01_06a67988:
 
     # mct "Fetish Locator? {w}This is really damn early."
-    mct "Localisateur de fétichisme ? {w}C'est vraiment très tôt."
+    mct "Fetish Locator ? {w}C'est vraiment très tôt."
 
 # game/code/d10/d10s01.rpy:59
 translate french d10s01_a9e0ee93:
 
     # mct "Alright, so today's Fetish is... {w}Outercourse?"
-    mct "Très bien, donc le fétichisme d'aujourd'hui est...{w}Outercourse ?"
+    mct "Très bien, donc le fétichisme d'aujourd'hui est...{w}Stimulation exterieure ?"
 
 # game/code/d10/d10s01.rpy:60
 translate french d10s01_0eec42b0:
 
     # mct "Boobjobs, thighjobs, grinding, lapdances... {w}I guess that could be fun."
-    mct "Seins, cuisses, broyage, lapdances...{w}Je suppose que ça pourrait être amusant."
+    mct "Branlette espagnole, frotter la cuisse, les parties intimes, faire des lapdances...{w}Je suppose que ça pourrait être amusant."
 
 # game/code/d10/d10s01.rpy:63
 translate french d10s01_e4dcf492:
 
     # mct "Pete is out cold. {w}This is kinda stupid, but at least he won't walk in on me by surprise."
-    mct "Pete est froid. {w}C'est un peu stupide, mais au moins il ne me surprendra pas par surprise."
+    mct "Pete est mort là. {w}C'est un peu stupide, mais au moins il ne me surprendra pas par surprise."
 
 # game/code/d10/d10s01.rpy:68
 translate french d10s01_c4040c42:
@@ -208,7 +208,7 @@ translate french d10s01_e395827e:
 translate french d10s01_48cae3f6:
 
     # mct "Screw it. Pete's still sleeping. It's not going to wake him."
-    mct "Au diable. Pete dort toujours. Cela ne va pas le réveiller."
+    mct "Et puis merde alors. Pete dort toujours. Cela ne va pas le réveiller."
 
 # game/code/d10/d10s01.rpy:89
 translate french d10s01_c17180b4:
@@ -238,7 +238,7 @@ translate french d10s01_edd119a8:
 translate french d10s01_997779d4:
 
     # mc "Your apartment is ready."
-    mc "Votre appartement est prêt."
+    mc "Ton appart est prêt."
 
 # game/code/d10/d10s01.rpy:97
 translate french d10s01_5feffd2e:
@@ -250,7 +250,7 @@ translate french d10s01_5feffd2e:
 translate french d10s01_9dd9b6ee:
 
     # mc "Cool. We can go over this afternoon to sign papers and move you in."
-    mc "Cool. Nous pouvons y aller cet après-midi pour signer les papiers et vous emménager."
+    mc "Super. Nous pouvons y aller cet après-midi pour signer les papiers et te faire emménager."
 
 # game/code/d10/d10s01.rpy:101
 translate french d10s01_40921b7b:
@@ -262,7 +262,7 @@ translate french d10s01_40921b7b:
 translate french d10s01_1ac40f5e:
 
     # mc "See you then. You can go back to sleep now."
-    mc "À plus tard. Vous pouvez vous rendormir maintenant."
+    mc "À plus tard. Tu poux te rendormir maintenant."
 
 # game/code/d10/d10s01.rpy:104
 translate french d10s01_f1fb4a66:
