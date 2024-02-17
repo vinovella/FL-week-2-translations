@@ -4,19 +4,19 @@
 translate french d10s04_0d4d03ce:
 
     # "After a short walk to the location sent by Lyssa"
-
+    "Après une courte marche jusqu'à la localisation envoyée par Lyssa"
 
 # game/code/d10/d10s04.rpy:84
 translate french d10s04_7bdf11d5:
 
     # "After a short walk to the location sent by Vanessa"
-
+    "Après une courte marche jusqu'à la localisation envoyée par Vanessa"
 
 # game/code/d10/d10s04.rpy:88
 translate french d10s04_5ad93678:
 
     # mc "Hey Vanessa. Mind if I come in?"
-    mc "Salut Vanessa. Ça vous dérange si j'entre ?"
+    mc "Salut Vanessa. Ça te dérange si j'entre ?"
 
 # game/code/d10/d10s04.rpy:91
 translate french d10s04_801e3361:
@@ -28,7 +28,7 @@ translate french d10s04_801e3361:
 translate french d10s04_6f96b443:
 
     # vw "What's with the luggage? I thought it was your..."
-    vw "C'est quoi ces bagages ? Je pensais que c'était ton..."
+    vw "C'est quoi ces bagages ? Je pensais que c'était pour ta..."
 
 # game/code/d10/d10s04.rpy:97
 translate french d10s04_e3415ada:
@@ -58,7 +58,7 @@ translate french d10s04_9494bf49:
 translate french d10s04_695bc6dd:
 
     # vw "Oh, nice. Well, don't be a stranger. Come on in!"
-    vw "Oh sympa. Eh bien, ne soyez pas un étranger. Entre!"
+    vw "Oh sympa. Eh bien, ne reste pas là. Entre!"
 
 # game/code/d10/d10s04.rpy:110
 translate french d10s04_42bd3d24:
@@ -76,13 +76,13 @@ translate french d10s04_9cd26ef6:
 translate french d10s04_577e9da8:
 
     # vw "I know I'm supposed to feel embarrassed and all that, but really..."
-    vw "Je sais que je suis censé me sentir gêné et tout ça, mais vraiment..."
+    vw "Je sais que je suis censé me sentir gêné et tout ça, mais honnêtement..."
 
 # game/code/d10/d10s04.rpy:116
 translate french d10s04_f41029aa:
 
     # vw "It was kinda hot."
-    vw "Il faisait plutôt chaud."
+    vw "c'était plutôt chaud."
 
 # game/code/d10/d10s04.rpy:118
 translate french d10s04_11455b53:
@@ -112,7 +112,7 @@ translate french d10s04_81ae9735:
 translate french d10s04_037fbf31:
 
     # vw "Do you think you could arrange something like that for us?"
-    vw "Pensez-vous que vous pourriez organiser quelque chose comme ça pour nous ?"
+    vw "Pensez-vous que tu peux organiser quelque chose comme ça pour nous ?"
 
 # game/code/d10/d10s04.rpy:127
 translate french d10s04_37c39ee1:
@@ -124,13 +124,13 @@ translate french d10s04_37c39ee1:
 translate french d10s04_bc74de18:
 
     # vw "Thanks. {w}I want it to feel dangerous, but not be dangerous, understand?"
-    vw "Merci. {w}Je veux que cela semble dangereux, mais pas dangereux, compris ?"
+    vw "Merci. {w}Je veux que cela semble dangereux, mais pas réellement, compris ?"
 
 # game/code/d10/d10s04.rpy:130
 translate french d10s04_1e242248:
 
     # mc "Do you mind if we get caught?"
-    mc "Ça vous dérange si on se fait prendre ?"
+    mc "Ça te dérange si on se fait prendre ?"
 
 # game/code/d10/d10s04.rpy:133
 translate french d10s04_50afc553:
@@ -142,7 +142,7 @@ translate french d10s04_50afc553:
 translate french d10s04_40511e6c:
 
     # "*knock knock*"
-
+    "*toc toc*"
 
 # game/code/d10/d10s04.rpy:138
 translate french d10s04_c7d50b36:
@@ -196,13 +196,13 @@ translate french d10s04_f0322620:
 translate french d10s04_672ebc19:
 
     # vw "Well, in the ladies room at the store. It wasn't a porta-john or something."
-    vw "Eh bien, dans les toilettes pour dames du magasin. Ce n'était pas un porta-john ou quelque chose comme ça."
+    vw "Eh bien, dans les toilettes pour dames du magasin. Ce n'était pas des W.C. Portables ou quelque chose comme ça."
 
 # game/code/d10/d10s04.rpy:157
 translate french d10s04_0cd1477e:
 
     # mc "Still."
-    mc "Toujours."
+    mc "ok..."
 
 # game/code/d10/d10s04.rpy:158
 translate french d10s04_7456a197:
@@ -220,13 +220,13 @@ translate french d10s04_77b9e678:
 translate french d10s04_1a526bff:
 
     # vw "Will you just listen? {w}I'm just getting warmed up when another woman comes in the bathroom."
-    vw "Allez-vous simplement écouter ? {w}Je m'échauffe juste lorsqu'une autre femme entre dans la salle de bain."
+    vw "Allez-vous simplement écouter ? {w}Je m'échauffe juste lorsqu'une autre femme est entré dans la salle de bain."
 
 # game/code/d10/d10s04.rpy:164
 translate french d10s04_2ec74fac:
 
     # mc "She came, or she walked into-"
-    mc "Elle est venue, ou elle est entrée..."
+    mc "Elle est venue..."
 
 # game/code/d10/d10s04.rpy:166
 translate french d10s04_49c7f0db:
@@ -256,13 +256,13 @@ translate french d10s04_4d1b4aa7:
 translate french d10s04_dde90f1b:
 
     # vw "Yeah, some stripper named Samiya. I promise you she hasn't seen the last of me."
-    vw "Ouais, une strip-teaseuse nommée Samiya. Je vous promets qu'elle n'a pas fini de me voir."
+    vw "Ouais, une strip-teaseuse nommée Samiya. Je te promets qu'elle n'a pas fini de me voir."
 
 # game/code/d10/d10s04.rpy:177
 translate french d10s04_998f66ed:
 
     # mc "Weird, because it sounds like she saw all of you."
-    mc "Bizarre, parce qu'on dirait qu'elle vous a tous vu."
+    mc "Bizarre, parce qu'on dirait qu'elle vu tout de toi."
 
 # game/code/d10/d10s04.rpy:178
 translate french d10s04_db141c2a:
@@ -274,7 +274,7 @@ translate french d10s04_db141c2a:
 translate french d10s04_e3ea0d60:
 
     # mc "Sorry, I'll let you finish."
-    mc "Désolé, je vais vous laisser finir."
+    mc "Désolé, je vais te laisser finir."
 
 # game/code/d10/d10s04.rpy:181
 translate french d10s04_673cbe2e:
@@ -346,13 +346,13 @@ translate french d10s04_0386d7fd:
 translate french d10s04_43393439:
 
     # mc "Did you?"
-    mc "As-tu?"
+    mc "tu l'as..?"
 
 # game/code/d10/d10s04.rpy:202
 translate french d10s04_59f7e088:
 
     # vw "Of course not! What kind of woman do you think I am?"
-    vw "Bien sûr que non! Quel genre de femme pensez-vous que je suis ?"
+    vw "Bien sûr que non! Quel genre de femme penses-tu que je suis ?"
 
 # game/code/d10/d10s04.rpy:204
 translate french d10s04_493b3a12:
@@ -382,7 +382,7 @@ translate french d10s04_f7dd03dd:
 translate french d10s04_9e791118:
 
     # mc "Did he at least give you a discount on the clothing?"
-    mc "Vous a-t-il au moins accordé une réduction sur les vêtements ?"
+    mc "t'a-t-il au moins accordé une réduction sur les vêtements ?"
 
 # game/code/d10/d10s04.rpy:214
 translate french d10s04_1f9efbd8:
@@ -400,7 +400,7 @@ translate french d10s04_566beecf:
 translate french d10s04_40511e6c_1:
 
     # "*knock knock*"
-
+    "*toc toc*"
 
 # game/code/d10/d10s04.rpy:221
 translate french d10s04_c7d50b36_1:
@@ -412,13 +412,13 @@ translate french d10s04_c7d50b36_1:
 translate french d10s04_c8b0e594:
 
     # vw "Let me show you around the-"
-    vw "Laissez-moi vous faire visiter le..."
+    vw "Laissez-moi te faire visiter le..."
 
 # game/code/d10/d10s04.rpy:226
 translate french d10s04_40511e6c_2:
 
     # "*knock knock*"
-
+    "*toc toc*"
 
 # game/code/d10/d10s04.rpy:229
 translate french d10s04_c7d50b36_2:
@@ -448,7 +448,7 @@ translate french d10s04_f539263a:
 translate french d10s04_a4630ee5:
 
     # mh "Vanessa! As lovely as always."
-    mh "Vanessa ! Aussi charmant que toujours."
+    mh "Vanessa ! Aussi charmante que toujours."
 
 # game/code/d10/d10s04.rpy:244
 translate french d10s04_bd5286b2:
@@ -466,13 +466,13 @@ translate french d10s04_0456c338:
 translate french d10s04_9a20e6ed:
 
     # mh "So, what do you think of this apartment?"
-    mh "Alors, que pensez-vous de cet appartement ?"
+    mh "Alors, que penses-tu de cet appartement ?"
 
 # game/code/d10/d10s04.rpy:250
 translate french d10s04_2c5292c5:
 
     # vw "It's amazing! I am always impressed with your work."
-    vw "C'est incroyable! Je suis toujours impressionné par votre travail."
+    vw "C'est incroyable! Je suis toujours impressionné par ton travail."
 
 # game/code/d10/d10s04.rpy:251
 translate french d10s04_dc91df57:
@@ -526,7 +526,7 @@ translate french d10s04_11f8f976:
 translate french d10s04_3ccdb0e9:
 
     # sy "Nothing good I h-"
-    sy "Rien de bon, je h-"
+    sy "Rien de bon, je p-"
 
 # game/code/d10/d10s04.rpy:277
 translate french d10s04_4e97a356:
@@ -562,7 +562,7 @@ translate french d10s04_98219242:
 translate french d10s04_dbaf894f:
 
     # sy "OMGOMGOMGOMGOMGILUVYOU!!!"
-    sy "OMGOMGOMGOMGOMGILUVVOUS !!!"
+    sy "OMGOMGOMGOMGOMGJETAIME!!!"
 
 # game/code/d10/d10s04.rpy:290
 translate french d10s04_49daa062:
@@ -580,7 +580,7 @@ translate french d10s04_43e33e4d:
 translate french d10s04_0aef6a9d:
 
     # sy "ISTHISMYNEWPLACE?!?!?!?!?!"
-    sy "ISTHISMYNEWPLACE?!?!?!?!?!"
+    sy "CESTMOMNOUVEAUCHEZMOI?!?!?!?!?!"
 
 # game/code/d10/d10s04.rpy:297
 translate french d10s04_a9444b23:
@@ -592,13 +592,13 @@ translate french d10s04_a9444b23:
 translate french d10s04_9df35804:
 
     # sy "Come here lighty switchy..."
-    sy "Viens ici légèrement switchy..."
+    sy "Viens ici petit interrupteur..."
 
 # game/code/d10/d10s04.rpy:302
 translate french d10s04_623f6eb0:
 
     # sy "There you go!"
-    sy "Voilà!"
+    sy "Te voilà!"
 
 # game/code/d10/d10s04.rpy:304
 translate french d10s04_df4feac5:
@@ -610,37 +610,37 @@ translate french d10s04_df4feac5:
 translate french d10s04_cc293a81:
 
     # sy "...let there be..."
-    sy "...qu'il y ait..."
+    sy "...que la lumière..."
 
 # game/code/d10/d10s04.rpy:309
 translate french d10s04_0a95851c:
 
     # sy "...interior lighting!"
-    sy "...L'éclairage intérieur!"
+    sy "...Intérieur soit!"
 
 # game/code/d10/d10s04.rpy:313
 translate french d10s04_1dd318ab:
 
     # sy "What's this?!"
-    sy "Qu'est-ce que c'est ça?!"
+    sy "Que vois-je?!"
 
 # game/code/d10/d10s04.rpy:317
 translate french d10s04_267d3d55:
 
     # sy "What's this? What's this? {w}There's beauty everywhere!"
-    sy "Qu'est-ce que c'est ça? Qu'est-ce que c'est ça? {w}Il y a de la beauté partout !"
+    sy "Que vois-je? Que vois-je? {w}Il y a de la beauté partout !"
 
 # game/code/d10/d10s04.rpy:318
 translate french d10s04_6c6894ae:
 
     # sy "What's this? What's this? {w}I even got a chair!"
-    sy "Qu'est-ce que c'est ça? Qu'est-ce que c'est ça? {w}J'ai même une chaise !"
+    sy "Que vois-je? Que vois-je? {w}J'ai même une chaise !"
 
 # game/code/d10/d10s04.rpy:319
 translate french d10s04_2a099215:
 
     # sy "What's this? What's this? {w}I can't believe my senses - I must be dreaming!"
-    sy "Qu'est-ce que c'est ça? Qu'est-ce que c'est ça? {w}Je n'en crois pas mes sens : je dois rêver !"
+    sy "Que vois-je? Que vois-je? {w}Je n'en crois pas mes sens : je dois rêver !"
 
 # game/code/d10/d10s04.rpy:320
 translate french d10s04_2c5dfc42:
@@ -670,7 +670,7 @@ translate french d10s04_b82a1e9f:
 translate french d10s04_bb5d7275:
 
     # sy "What's this?! What's this!?"
-    sy "Qu'est-ce que c'est ça?! Qu'est-ce que c'est ça!?"
+    sy "Que vois-je?! Que vois-je!?"
 
 # game/code/d10/d10s04.rpy:332
 translate french d10s04_980b2a5e:
@@ -682,43 +682,43 @@ translate french d10s04_980b2a5e:
 translate french d10s04_d1b80a4e:
 
     # sy "What is this?!"
-    sy "Qu'est-ce que c'est?!"
+    sy "Que vois-je?!"
 
 # game/code/d10/d10s04.rpy:339
 translate french d10s04_d66803cd:
 
     # mc "Enough! You're going to get us-"
-    mc "Assez! Tu vas nous avoir-"
+    mc "Assez! Tu vas nous faire avoir-"
 
 # game/code/d10/d10s04.rpy:346
 translate french d10s04_34d29bf1:
 
     # mh "Mute."
-    mh "Muet."
+    mh "Mute."
 
 # game/code/d10/d10s04.rpy:347
 translate french d10s04_e762b77e:
 
     # "*silence*"
-
+    "*silence*"
 
 # game/code/d10/d10s04.rpy:351
 translate french d10s04_48fc4563:
 
     # "*continued silence*"
-
+    "*silence persistant*"
 
 # game/code/d10/d10s04.rpy:354
 translate french d10s04_00eaf02e:
 
     # "*even more silence*"
-
+   "*encore plus de silence*"
 
 # game/code/d10/d10s04.rpy:357
 translate french d10s04_05bf71ec:
 
     # "*yet more oppressive silence as Stacy continues singing copyrighted music*"
-
+    "*silence encore plus oppressant alors que Stacy continue de chanter de la musique protégée par le droit d'auteur*"
 
 # game/code/d10/d10s04.rpy:365
 translate french d10s04_65731320:
@@ -754,7 +754,7 @@ translate french d10s04_a244414c:
 translate french d10s04_260612c9:
 
     # sy "What is this place that I have found? What's this?"
-    sy "Quel est cet endroit que j'ai trouvé ? Qu'est-ce que c'est ça?"
+    sy "Quel est cet endroit que j'ai trouvé ? Que vois-je"
 
 # game/code/d10/d10s04.rpy:381
 translate french d10s04_9568c245:
@@ -784,13 +784,13 @@ translate french d10s04_2faef0f8:
 translate french d10s04_2f9caf69:
 
     # mct "Praise be to Vanessa. The singing has finally stopped."
-    mct "Louange à Vanessa. Le chant s'est finalement arrêté."
+    mct "Loué soit Vanessa. La musique s'est finalement arrêté."
 
 # game/code/d10/d10s04.rpy:397
 translate french d10s04_237045b5:
 
     # vw "This is your new apartment."
-    vw "C'est votre nouvel appartement."
+    vw "C'est ton nouvel appartement."
 
 # game/code/d10/d10s04.rpy:399
 translate french d10s04_3183f234:
@@ -820,13 +820,13 @@ translate french d10s04_0834fb89:
 translate french d10s04_c7db4701:
 
     # vw "Let's go over your contract."
-    vw "Passons en revue votre contrat."
+    vw "Passons en revue ton contrat."
 
 # game/code/d10/d10s04.rpy:414
 translate french d10s04_58e1ae3d:
 
     # sy "By law you have to notify me if there there were any violent deaths on the premises!"
-    sy "Selon la loi, vous devez me prévenir s'il y a eu des morts violentes dans les locaux !"
+    sy "Selon la loi, vous devez me prévenir s'il y a eu des morts violentes dans ces locaux !"
 
 # game/code/d10/d10s04.rpy:416
 translate french d10s04_acdf4dfc:
@@ -868,7 +868,7 @@ translate french d10s04_0a2d10cd:
 translate french d10s04_382eff21:
 
     # vw "No, that is standard form of contract. Such info is given in a form of notice. There are also some exceptions..."
-    vw "Non, c'est une forme standard de contrat. Ces informations sont fournies sous forme de notification. Il y a aussi quelques exceptions..."
+    vw "Non, c'est une forme standard de contrat. Ces informations sont fournies sous forme de note. Il y a aussi quelques exceptions..."
 
 # game/code/d10/d10s04.rpy:431
 translate french d10s04_54f61690:
@@ -910,7 +910,7 @@ translate french replay_d10s04_b5c8178e:
 translate french replay_d10s04_bad3966e:
 
     # mc "What can I do for you...{w} or possibly to you?"
-    mc "Que puis-je faire pour vous...{w} ou éventuellement pour vous ?"
+    mc "Que puis-je faire pour toi...{w} ou éventuellement avec vous ?"
 
 # game/code/d10/d10s04.rpy:459
 translate french replay_d10s04_84362156:
@@ -1084,7 +1084,7 @@ translate french replay_d10s04_12d9a0f6:
 translate french replay_d10s04_bfea29aa:
 
     # mh "Interesting good or interesting bad?"
-    mh "Intéressant, bon ou intéressant, mauvais ?"
+    mh "Intéressant, bien ou intéressant, mauvais ?"
 
 # game/code/d10/d10s04.rpy:558
 translate french replay_d10s04_c96816a3:
@@ -1132,7 +1132,7 @@ translate french replay_d10s04_6f066dcc:
 translate french replay_d10s04_bb743d53:
 
     # sy "-and this bit about \"throughout the universe, in perpetuity\"?"
-    sy "-et ceci à propos de \"throughout the universe, in perpetuity\"?"
+    sy "-et ceci à propos de \"dans l'univers entier, à perpétuité\"?"
 
 # game/code/d10/d10s04.rpy:591
 translate french replay_d10s04_16af6ae1:
@@ -1162,7 +1162,7 @@ translate french replay_d10s04_2e9c9cfb:
 translate french replay_d10s04_daf4d840:
 
     # "A little longer than a few minutes later."
-
+    "Un peu plus que quelques minutes plus tard".
 
 # game/code/d10/d10s04.rpy:654
 translate french d10s04_cum_d2dbc43c:
@@ -1240,7 +1240,7 @@ translate french d10s04_cum_fbce4aa5:
 translate french d10s04_cum_bb743d53:
 
     # sy "-and this bit about \"throughout the universe, in perpetuity\"?"
-    sy "-et ceci à propos de \"throughout the universe, in perpetuity\"?"
+    sy "-et ceci à propos de \"dans l'univers entier, à perpétuité\"?"
 
 # game/code/d10/d10s04.rpy:709
 translate french d10s04_cum_16af6ae1:
@@ -1276,7 +1276,7 @@ translate french d10s04_cum_c1aa597a:
 translate french d10s04_end_e73689de:
 
     # sy "\"To my greatest fan, Love, Stacy.\""
-    sy "\"To my greatest fan, Love, Stacy.\""
+    sy "\"A mon plus grand fan, je t'aime, Stacy.\""
 
 # game/code/d10/d10s04.rpy:732
 translate french d10s04_end_eacbdc93:
@@ -1318,13 +1318,13 @@ translate french d10s04_end_b4a9a71d:
 translate french d10s04_end_80d8908d:
 
     # sy "Sign away, [mcname]. You've got nothing to lose."
-    sy "Déconnectez-vous, [mcname]. Vous n'avez rien à perdre."
+    sy "Signe à la fin du contrat, [mcname]. tu n'as rien à perdre."
 
 # game/code/d10/d10s04.rpy:749
 translate french d10s04_end_a2e7e037:
 
     # mh "Nothing that you haven't verbally agreed to already, that is."
-    mh "Rien que vous n’ayez déjà accepté verbalement, bien sûr."
+    mh "Rien que tu n’as déjà accepté verbalement, bien sûr."
 
 # game/code/d10/d10s04.rpy:752
 translate french d10s04_end_19bd36f7:
@@ -1342,25 +1342,25 @@ translate french d10s04_end_ab68610b:
 translate french d10s04_end_385317f7:
 
     # mh "You do?"
-    mh "Tu fais?"
+    mh "Ah bon?"
 
 # game/code/d10/d10s04.rpy:759
 translate french d10s04_end_e36d666b:
 
     # mc "We do?"
-    mc "Nous faisons?"
+    mc "Vraiment?"
 
 # game/code/d10/d10s04.rpy:762
 translate french d10s04_end_8c6d6bf5:
 
     # vw "Well, we won't keep you any longer."
-    vw "Eh bien, nous ne vous garderons plus."
+    vw ""Eh bien, nous ne vous retiendrons pas plus longtemps."
 
 # game/code/d10/d10s04.rpy:763
 translate french d10s04_end_fcb1e975:
 
     # mc "What are we doing?"
-    mc "Qu'est-ce que nous faisons?"
+    mc "Où allons-nous ?"
 
 # game/code/d10/d10s04.rpy:765
 translate french d10s04_end_7c1cfe15:
@@ -1378,7 +1378,7 @@ translate french d10s04_end_b9932ad4:
 translate french d10s04_end_da99fd9b:
 
     # sy "Because this time we're shopping for you, dummy!"
-    sy "Parce que cette fois, on fait du shopping pour toi, idiot !"
+    sy "Parce que cette fois, on fait aussi du shopping pour toi, idiot !"
 
 # game/code/d10/d10s04.rpy:772
 translate french d10s04_end_8a56deca:
@@ -1394,6 +1394,6 @@ translate french strings:
 
     # game/code/d10/d10s04.rpy:553
     old "Not my thing"
-    new "Not my thing"
+    new "Pas mon truc"
 
 
