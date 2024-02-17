@@ -28,7 +28,7 @@ translate french d08s04_8a677757:
 translate french d08s04_292fdcff:
 
     # mct "It sucks that I need to earn those damn points again..."
-    mct "It sucks that I need to earn those damn points again..."
+    mct "Cela craint que je doive à nouveau gagner ces maudits points...."
 
 # game/code/d08/d08s04.rpy:51
 translate french d08s04_6beac8e5:
