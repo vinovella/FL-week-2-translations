@@ -1,7 +1,7 @@
 ﻿# TODO: Translation updated at 2023-07-31 15:26
 
     # "Arriving at Nora's"
-
+    "Au café de Nora."
 
 # game/code/d10/d10s06.rpy:14
 translate french d10s06_d4c9c97f:
@@ -25,7 +25,7 @@ translate french d10s06_53d89f87:
 translate french d10s06_d84e1b4d:
 
     # mc "And I missed those wonderful hair wraps of yours."
-    mc "Et j'ai raté vos merveilleux enveloppements de cheveux."
+    mc "Et ta merveilleuse coiffure m'a manqué."
 
 # game/code/d10/d10s06.rpy:24
 translate french d10s06_64c3a576:
@@ -37,7 +37,7 @@ translate french d10s06_64c3a576:
 translate french d10s06_76a88bce:
 
     # mc "Really? Perish the thought."
-    mc "Vraiment? Périsse la pensée."
+    mc "Vraiment? n'y pense pas."
 
 # game/code/d10/d10s06.rpy:29
 translate french d10s06_bc9e70b7:
@@ -67,7 +67,7 @@ translate french d10s06_4fb2d7dd:
 translate french d10s06_96fb0672:
 
     # nk "So what can I get ya', hun?"
-    nk "Alors qu'est-ce que je peux t'offrir, chéri ?"
+    nk "Alors qu'est-ce que je peux t'offrir, chérie ?"
 
 # game/code/d10/d10s06.rpy:40
 translate french d10s06_62cf9afd:
@@ -97,7 +97,7 @@ translate french d10s06_606e2d02:
 translate french d10s06_dfd014ed:
 
     # nk "You bring in all the hotties, huh? You need to bring in more sexy hunks too."
-    nk "Tu amènes toutes les filles, hein ? Vous devez également faire venir des mecs plus sexy."
+    nk "Tu amènes toutes tes filles, hein ? Vous devez également faire venir des mecs plus sexy."
 
 # game/code/d10/d10s06.rpy:51
 translate french d10s06_41bfbbb5:
@@ -121,7 +121,7 @@ translate french d10s06_c8cf7512:
 translate french d10s06_90c5c0d1:
 
     # nk "That's all I can ask for. Anyway, can I get you anything?"
-    nk "C'est tout ce que je peux demander. Quoi qu'il en soit, je peux t'apporter quelque chose ?"
+    nk "C'est tout ce que je demande. Quoi qu'il en soit, je peux t'apporter quelque chose ?"
 
 # game/code/d10/d10s06.rpy:58
 translate french d10s06_306e8d06:
@@ -133,7 +133,7 @@ translate french d10s06_306e8d06:
 translate french d10s06_79875089:
 
     # nk "Coming right up."
-    nk "À venir."
+    nk "Tout de suite."
 
 # game/code/d10/d10s06.rpy:63
 translate french d10s06_720aae3e:
@@ -151,7 +151,7 @@ translate french d10s06_eaa8ee47:
 translate french d10s06_edbdf43d:
 
     # nk "Our little...\"nighttime activities.\""
-    nk "Notre petit...\"nighttime activities.\""
+    nk "Nos petit...\"activités nocturnes.\""
 
 # game/code/d10/d10s06.rpy:72
 translate french d10s06_c42b05ac:
@@ -181,7 +181,7 @@ translate french d10s06_e008cc01:
 translate french d10s06_25e373f4:
 
     # nk "She's been trying to show me \"what a woman can do\" for ages now. I've always told her no, but I guess she found out a way to get into my pants regardless."
-    nk "Elle a essayé de me montrer \"what a woman can do\" for ages now. I've always told her no, but I guess she found out a way to get into my pants regardless."
+    nk "Elle essaie de me montrer "ce qu'une femme peut faire" depuis longtemps. Je lui ai toujours dit non, mais je suppose qu'elle a trouvé un moyen d'entrer dans mon pantalon malgré tout."
 
 # game/code/d10/d10s06.rpy:83
 translate french d10s06_ae98f407:
@@ -193,7 +193,7 @@ translate french d10s06_ae98f407:
 translate french d10s06_1de7e246:
 
     # nk "No, it's alright. I...I think I actually kinda like it. I dunno, maybe."
-    nk "Non, c'est bon. Je...je crois que j'aime plutôt ça. Je ne sais pas, peut-être."
+    nk "Non, tout va bien. Je...je crois que j'aime plutôt ça. Je ne sais pas, peut-être."
 
 # game/code/d10/d10s06.rpy:88
 translate french d10s06_1001fb96:
@@ -241,7 +241,7 @@ translate french d10s06_674c5ea2:
 translate french d10s06_809feca8:
 
     # nk "Anyway, what do you say? You in?"
-    nk "Quoi qu'il en soit, qu'en dis-tu ? Vous êtes partants ?"
+    nk "Quoi qu'il en soit, qu'en dis-tu ? tu es partant ?"
 
 # game/code/d10/d10s06.rpy:107
 translate french d10s06_8fc88ecc:
@@ -259,7 +259,7 @@ translate french d10s06_ac382d2a:
 translate french d10s06_d9775ec0:
 
     # nk "You two probably got places to be, so I'll tell you more about it later."
-    nk "Vous avez probablement un endroit où aller, alors je vous en dirai plus plus tard."
+    nk "Vous avez probablement un endroit où aller, alors je t'en dirai plus, plus tard."
 
 # game/code/d10/d10s06.rpy:111
 translate french d10s06_cde8573f:
@@ -277,7 +277,7 @@ translate french d10s06_5225a0f4:
 translate french d10s06_059091eb:
 
     # arj "I will."
-    arj "Je vais."
+    arj "Au revoir."
 
 # game/code/d10/d10s06.rpy:117
 translate french d10s06_559e21c3:
@@ -295,11 +295,11 @@ translate french d10s06_e4e17269:
 translate french d10s06_c2734c44:
 
     # arj "Oh, who— Woah, this is really good."
-    arj "Oh, qui...Woah, c'est vraiment bien."
+    arj "Oh, qui...Woah, c'est vraiment bon."
 
 # game/code/d10/d10s06.rpy:124
 translate french d10s06_38cf5d59:
 
     # mc "Right? That woman sure knows how to make a good cup of Joe."
-    mc "Droite? Cette femme sait vraiment comment préparer une bonne tasse de Joe."
+    mc "T'as vu? Cette femme sait vraiment comment préparer une bonne tasse de café."
 
