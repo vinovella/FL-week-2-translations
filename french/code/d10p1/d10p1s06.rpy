@@ -34,7 +34,7 @@ translate french d10p1s06_376b70e3:
 translate french d10p1s06_d4333dc8:
 
     # mc "Actually, no. The party's young. Don't wanna get blasted early and miss on the rest of it."
-    mc "En fait non. Le parti est jeune. Je ne veux pas me faire exploser plus tôt et rater le reste."
+    mc "En fait non. La fête est encore jeune. Je ne veux pas me faire exploser plus tôt et rater le reste."
 
 # game/code/d10p1/d10p1s06.rpy:41
 translate french d10p1s06_f5635ae3:
@@ -52,7 +52,7 @@ translate french d10p1s06_604cfe07:
 translate french d10p1s06_c7ac1552:
 
     # mc "I like the view from the top floor. Helps me relax."
-    mc "J'aime la vue depuis le dernier étage. M'aide à me détendre."
+    mc "J'aime la vue depuis le dernier étage. ça M'aide à me détendre."
 
 # game/code/d10p1/d10p1s06.rpy:46
 translate french d10p1s06_8d418061:
@@ -70,25 +70,25 @@ translate french d10p1s06_8f4d9ae3:
 translate french d10p1s06_47384cf7:
 
     # irfl "I can see why you might like it."
-    irfl "Je peux voir pourquoi cela pourrait vous plaire."
+    irfl "Je peux voir pourquoi cela pourrait te plaire."
 
 # game/code/d10p1/d10p1s06.rpy:54
 translate french d10p1s06_c679c7c6:
 
     # irfl "Plus, it is a very strategic location to look down women's blouses too, so that probably adds to the relaxation factor as well."
-    irfl "De plus, c'est un endroit très stratégique pour admirer les chemisiers pour femmes, ce qui ajoute probablement aussi au facteur de détente."
+    irfl "De plus, c'est un endroit très stratégique pour admirer les chemisiers des femmes, ce qui ajoute probablement aussi au facteur de détente."
 
 # game/code/d10p1/d10p1s06.rpy:56
 translate french d10p1s06_c54fb455:
 
     # mc "Heh, more so if this was a normal party. {w}I'd bet more than half the women here would probably be down to flash their tits if you asked nicely enough."
-    mc "Hé, encore plus si c'était une fête normale. {w}Je parierais que plus de la moitié des femmes ici seraient probablement prêtes à montrer leurs seins si vous le leur demandiez gentiment."
+    mc "Hé, encore plus que si c'était une fête normale. {w}Je parierais que plus de la moitié des femmes ici seraient probablement prêtes à montrer leurs seins si tu le leur demandes gentiment."
 
 # game/code/d10p1/d10p1s06.rpy:57
 translate french d10p1s06_bc01e6a2:
 
     # mc "So it kinda loses that thrill a bit. {w}Not that getting flashed by a pair of nice tits is ever {i}not{/i} fun."
-    mc "{i}pas{/i}"
+    mc "Cela perd donc un peu de son intérêt.{w}Non {i}pas{/i} qu'il soit toujours amusant de se faire éblouir par une paire de jolis nichons."
 
 # game/code/d10p1/d10p1s06.rpy:60
 translate french d10p1s06_23b35e01:
@@ -106,7 +106,7 @@ translate french d10p1s06_af29dfbe:
 translate french d10p1s06_60bf28e5:
 
     # irfl "Well, don't let me keep you then. I'm sure there are tons of girls running over themselves to flash you."
-    irfl "Eh bien, ne me laisse pas te garder alors. Je suis sûr qu'il y a des tonnes de filles qui se précipitent pour vous montrer."
+    irfl "Eh bien, ne me laisse pas te garder alors. Je suis sûr qu'il y a des tonnes de filles qui se précipitent pour te les montrer."
 
 # game/code/d10p1/d10p1s06.rpy:66
 translate french d10p1s06_8e67e622:
@@ -142,13 +142,13 @@ translate french d10p1s06_d885e5e5:
 translate french d10p1s06_3656a527:
 
     # mc "You sure?"
-    mc "Vous êtes sûr?"
+    mc "Tu es sûr?"
 
 # game/code/d10p1/d10p1s06.rpy:80
 translate french d10p1s06_1bf2ce4e:
 
     # ir "Yeah. I mean, I wasn't {i}too{/i} into anybody knowing my name here, but it's not like this dinky little thing will protect my identity."
-    ir "{i}aussi{/i}"
+    ir "Oui. Je veux dire que je ne voulais pas que quelqu'un sache mon nom ici, mais ce n'est pas comme si ce petit truc allait protéger mon identité."
 
 # game/code/d10p1/d10p1s06.rpy:81
 translate french d10p1s06_3fd5220a:
@@ -196,7 +196,7 @@ translate french d10p1s06_309fcd75:
 translate french d10p1s06_113397f2:
 
     # mc "Squizy's running a pretty tight ship, so I doubt anything {i}bad{/i} would happen, but people seem to get a lot more assholey around the people serving them."
-    mc "{i}mauvais{/i}"
+    mc "Squizy dirige un navire assez stable, donc je doute que quelque chose de {i}mauvais{/i} se produise, mais les gens ont l'air d'être beaucoup plus trouillards quand ils sont au service de quelqu'un d'autre."
 
 # game/code/d10p1/d10p1s06.rpy:99
 translate french d10p1s06_98b91328:
@@ -238,7 +238,7 @@ translate french d10p1s06_part_2_228e2917:
 translate french d10p1s06_part_2_4cee5ab5:
 
     # ir "...{i}Exactly{/i}. It's not like you come across girls {i}this{/i} cute every day, right? {w}So would you mind helping me ou—?"
-    ir "{i}Exactement{/i}"
+    ir "{i}Exactement{/i}. Ce n'est pas comme si tu rencontries des filles aussi mignonnes tous les jours, n'est-ce pas ? {w}Alors, pourriez-vous m'aider à... ?"
 
 # game/code/d10p1/d10p1s06.rpy:121
 translate french d10p1s06_part_2_71e9a5f2:
@@ -256,13 +256,13 @@ translate french d10p1s06_part_2_cd28c1d5:
 translate french d10p1s06_part_2_7a79f708:
 
     # ir "Catch ya' around, [mcname]."
-    ir "On se retrouve, [mcname]."
+    ir "On se voit plus tard, [mcname]."
 
 # game/code/d10p1/d10p1s06.rpy:126
 translate french d10p1s06_part_2_7e37ff87:
 
     # mc "Same. Later, Iona."
-    mc "Même. Plus tard, Iona."
+    mc "pareil. Plus tard, Iona."
 
 # game/code/d10p1/d10p1s06.rpy:145
 translate french replay_d10p1s06_00611834:
@@ -286,7 +286,7 @@ translate french replay_d10p1s06_056e5a40:
 translate french replay_d10p1s06_a62ad5f9:
 
     # kb "Jesus, dude. You startled me! {w}Keep your voice down."
-    kb "Jésus, mec. Vous m'avez surpris ! {w}Gardez la voix basse."
+    kb "Jésus, mec. Tu m'as surpris ! {w}Parle moins fort."
 
 # game/code/d10p1/d10p1s06.rpy:159
 translate french replay_d10p1s06_28452cf4:
@@ -310,7 +310,7 @@ translate french replay_d10p1s06_9d77893c:
 translate french replay_d10p1s06_cd39eff9:
 
     # mc "Who's the chi—"
-    mc "Qui est le chi—"
+    mc "Qui est la chi—"
 
 # game/code/d10p1/d10p1s06.rpy:170
 translate french replay_d10p1s06_dc4d93f0:
@@ -376,7 +376,7 @@ translate french replay_d10p1s06_2dc751de:
 translate french replay_d10p1s06_a5a77981:
 
     # mct "Oh shit! Is that Antony!?"
-    mct "Oh merde! C'est Antoine !?"
+    mct "Oh merde! C'est Antony !?"
 
 # game/code/d10p1/d10p1s06.rpy:217
 translate french replay_d10p1s06_4a50c700:
@@ -442,7 +442,7 @@ translate french d10p1s06_watch_bad95faa:
 translate french d10p1s06_watch_eedd5a47:
 
     # kb "...He {i}is{/i} being kinda rough with her."
-    kb "{i}est{/i}"
+    kb "Il est {i}un peu{/i} brutal avec elle."
 
 # game/code/d10p1/d10p1s06.rpy:287
 translate french d10p1s06_watch_a885f859:
@@ -508,7 +508,7 @@ translate french d10p1s06_watch_8f0330f5:
 translate french d10p1s06_watch_d9d300ad:
 
     # mc "Damn..."
-    mc "Condamner..."
+    mc "Merde..."
 
 # game/code/d10p1/d10p1s06.rpy:335
 translate french d10p1s06_watch_bfa18fb3:
@@ -632,5 +632,5 @@ translate french strings:
 
     # game/code/d10p1/d10p1s06.rpy:237
     old "I don't want to see this"
-    new "I don't want to see this"
+    new "Je veux pas voir ça"
 
