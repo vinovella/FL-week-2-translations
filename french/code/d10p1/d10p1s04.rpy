@@ -52,13 +52,13 @@ translate french d10p1s04_19d757ba:
 translate french d10p1s04_48c1fa7c:
 
     # arjfl "Nice and boring. {w}What are you up to?"
-    arjfl "Agréable et ennuyeux. {w}Que faites-vous ?"
+    arjfl "Sympa et ennuyeux. {w}Que fait-tu ?"
 
 # game/code/d10p1/d10p1s04.rpy:35
 translate french d10p1s04_a06e2a49:
 
     # mc "Right now? Just watching people and waiting to see what happens next."
-    mc "Tout de suite? Je regarde simplement les gens et j'attends de voir ce qui se passera ensuite."
+    mc " la Tout de suite? Je regarde simplement les gens et j'attends de voir ce qui se passera ensuite."
 
 # game/code/d10p1/d10p1s04.rpy:41
 translate french d10p1s04_8267daa9:
@@ -94,7 +94,7 @@ translate french d10p1s04_7562a9cf:
 translate french d10p1s04_f1a8019a:
 
     # arjfl "Wait, is URLittlePony is that the girl you took a picture of in the trashed place??"
-    arjfl "Attendez, est-ce qu'URLittlePony est la fille que vous avez prise en photo dans l'endroit saccagé ??"
+    arjfl "Attendez, est-ce qu'URLittlePony est la fille que tu as prise en photo dans l'endroit saccagé ??"
 
 # game/code/d10p1/d10p1s04.rpy:53
 translate french d10p1s04_b2582b86:
@@ -112,13 +112,13 @@ translate french d10p1s04_82720df9:
 translate french d10p1s04_46c0c823:
 
     # arjfl "Definitely not something you buy off-the-rack."
-    arjfl "Certainement pas quelque chose que vous achetez dans le commerce."
+    arjfl "Certainement pas quelque chose que tu achetes dans le commerce."
 
 # game/code/d10p1/d10p1s04.rpy:60
 translate french d10p1s04_1059aa3b:
 
     # mc "I don't know. If you're into that sort of thing - I'm not sure what is available."
-    mc "Je ne sais pas. Si vous aimez ce genre de choses, je ne suis pas sûr de ce qui est disponible."
+    mc "Je ne sais pas. Si tu aimes ce genre de choses, je ne suis pas sûr de ce qui est disponible."
 
 # game/code/d10p1/d10p1s04.rpy:62
 translate french d10p1s04_e33abfb1:
@@ -160,7 +160,7 @@ translate french d10p1s04_469d5c25:
 translate french d10p1s04_9babc492:
 
     # arjfl "Based on her wrists, I'd say she's crashing the Party."
-    arjfl "D'après ses poignets, je dirais qu'elle fait la fête."
+    arjfl "D'après ses poignets, je dirais qu'elle s'incruste à la fête."
 
 # game/code/d10p1/d10p1s04.rpy:77
 translate french d10p1s04_b2b9e19d:
@@ -196,7 +196,7 @@ translate french d10p1s04_a0f3b783:
 translate french d10p1s04_5e92b34c:
 
     # mc "Cut the bullshit. Do you have any idea how much trouble you're in?!"
-    mc "Arrêtez les conneries. Avez-vous une idée des ennuis dans lesquels vous vous trouvez ?!"
+    mc "Arrêtes les conneries. As tu une idée des ennuis dans lesquels tu te trouves ?!"
 
 # game/code/d10p1/d10p1s04.rpy:96
 translate french d10p1s04_5b64d878:
@@ -208,7 +208,7 @@ translate french d10p1s04_5b64d878:
 translate french d10p1s04_34f8262b:
 
     # mc "The hell it is! This is a private Party - and you don't have an invite!"
-    mc "Bon sang ! Il s'agit d'une soirée privée - et vous n'avez pas d'invitation !"
+    mc "Bon sang ! Il s'agit d'une soirée privée - et tu n'aves pas d'invitation !"
 
 # game/code/d10p1/d10p1s04.rpy:103
 translate french d10p1s04_29bde9ae:
@@ -220,7 +220,7 @@ translate french d10p1s04_29bde9ae:
 translate french d10p1s04_3328d3b9:
 
     # arjfl "Actually, they will."
-    arjfl "En fait, ils le feront."
+    arjfl "En fait, ils le seront."
 
 # game/code/d10p1/d10p1s04.rpy:109
 translate french d10p1s04_5d0c156a:
@@ -232,7 +232,7 @@ translate french d10p1s04_5d0c156a:
 translate french d10p1s04_c4ea8802:
 
     # mc "You're not wearing a tracker. It doesn't look like you're even carrying your phone..."
-    mc "Vous ne portez pas de tracker. On ne dirait même pas que vous portez votre téléphone sur vous..."
+    mc "T ne portes pas de tracker. On ne dirait même pas que tu as ton téléphone sur toi..."
 
 # game/code/d10p1/d10p1s04.rpy:115
 translate french d10p1s04_45658ec4:
@@ -244,7 +244,7 @@ translate french d10p1s04_45658ec4:
 translate french d10p1s04_bd75f0df:
 
     # mc "Fucking shit, girl! WHERE ARE YOUR CLOTHES?!?!"
-    mc "Putain de merde, ma fille ! OÙ SONT VOS VÊTEMENTS?!?!"
+    mc "Putain de merde, meuf ! OÙ SONT TES VÊTEMENTS?!?!"
 
 # game/code/d10p1/d10p1s04.rpy:122
 translate french d10p1s04_4e81e693:
@@ -274,13 +274,13 @@ translate french d10p1s04_71152dd8:
 translate french d10p1s04_e29ed2e2:
 
     # arjfl "Do you even have a Fetish Locator account?"
-    arjfl "Avez-vous au moins un compte Fetish Locator ?"
+    arjfl "As-tu au moins un compte Fetish Locator ?"
 
 # game/code/d10p1/d10p1s04.rpy:135
 translate french d10p1s04_5b99d0e8:
 
     # mct "Please say, \"No.\" Please say, \"No.\""
-    mct "S'il te plaît dis, \"No.\" Please say, \"No.\""
+    mct "S'il te plaît dis, \"Non.\"S'il te plaît dis, \"Non.\""
 
 # game/code/d10p1/d10p1s04.rpy:138
 translate french d10p1s04_8290631b:
@@ -298,13 +298,13 @@ translate french d10p1s04_8958d0fb:
 translate french d10p1s04_213f93f9:
 
     # arjfl "SexyMinx? Is that what your username is?"
-    arjfl "SexyMinx? Est-ce que c'est votre nom d'utilisateur ?"
+    arjfl "SexyMinx? Est-ce que c'est ton nom d'utilisateur ?"
 
 # game/code/d10p1/d10p1s04.rpy:147
 translate french d10p1s04_ce2f02cd:
 
     # syfl "Correct. {w}Where were you hiding that?"
-    syfl "Correct. {w}Où cachiez-vous cela ?"
+    syfl "Correct. {w}Où cachies-tu cela ?"
 
 # game/code/d10p1/d10p1s04.rpy:149
 translate french d10p1s04_68105385:
@@ -322,7 +322,7 @@ translate french d10p1s04_bf89fb7f:
 translate french d10p1s04_ffb4a480:
 
     # arjfl "I said \"No comment.\""
-    arjfl "J'ai dit \"No comment.\""
+    arjfl "J'ai dit \"Aucun commentaire.\""
 
 # game/code/d10p1/d10p1s04.rpy:157
 translate french d10p1s04_8fb1d0bb:
@@ -364,7 +364,7 @@ translate french d10p1s04_9a40ed5e:
 translate french d10p1s04_c88fc3ff:
 
     # mc "Yes, it is!{w} You can't be here doing...{w} stuff like this!"
-    mc "Oui, c'est vrai !{w} Vous ne pouvez pas être ici à faire...{w} des trucs comme ça !"
+    mc "Oui, c'est vrai !{w} Tu ne peux pas être ici à faire...{w} des trucs comme ça !"
 
 # game/code/d10p1/d10p1s04.rpy:175
 translate french d10p1s04_fdc12775:
@@ -436,7 +436,7 @@ translate french d10p1s04_20e81178:
 translate french d10p1s04_34c9d46f:
 
     # mc "And put some damn clothes on."
-    mc "Et mets de foutus vêtements."
+    mc "Et mets tes foutus vêtements."
 
 # game/code/d10p1/d10p1s04.rpy:206
 translate french d10p1s04_e8c08772:
@@ -448,13 +448,13 @@ translate french d10p1s04_e8c08772:
 translate french d10p1s04_fcfa0089:
 
     # arjfl "I said, \"SHUSH\". Both of you."
-    arjfl "J'ai dit, \"SHUSH\". Both of you."
+    arjfl "J'ai dit, \"CHUT\". à vous deux."
 
 # game/code/d10p1/d10p1s04.rpy:213
 translate french d10p1s04_deead39e:
 
     # arjfl "[mcname] - you are going to sneak downstairs and get her a Fetish Tracker so nobody else questions what she is doing here."
-    arjfl "[mcname] - vous allez vous faufiler en bas et lui procurer un Fetish Tracker pour que personne d'autre ne se demande ce qu'elle fait ici."
+    arjfl "[mcname] - tu va te faufiler en bas et lui procurer un Fetish Tracker pour que personne d'autre ne se demande ce qu'elle fait ici."
 
 # game/code/d10p1/d10p1s04.rpy:216
 translate french d10p1s04_0d66afe2:
@@ -490,13 +490,13 @@ translate french d10p1s04_b99381db:
 translate french d10p1s04_f5c467a9:
 
     # arjfl "It is either that, or I tell Squizzle there's a gate crasher, and you know what she'll do?"
-    arjfl "C'est soit ça, soit je dis à Squizzle qu'il y a un casse-porte, et tu sais ce qu'elle va faire ?"
+    arjfl "C'est soit ça, soit je dis à Squizzle qu'il y a un intrus, et tu sais ce qu'elle va faire ?"
 
 # game/code/d10p1/d10p1s04.rpy:231
 translate french d10p1s04_2f193d64:
 
     # syfl "Um, I don't."
-    syfl "Euh, je ne le fais pas."
+    syfl "Euh, je ne le sais pas."
 
 # game/code/d10p1/d10p1s04.rpy:233
 translate french d10p1s04_50ac34bf:
@@ -508,7 +508,7 @@ translate french d10p1s04_50ac34bf:
 translate french d10p1s04_da2430ed:
 
     # arjfl "Yeah. If we're lucky she'll only shut down the Party entirely and have Stacy arrested."
-    arjfl "Ouais. Si nous avons de la chance, elle fermera complètement le Parti et fera arrêter Stacy."
+    arjfl "Ouais. Si nous avons de la chance, elle fermera complètement la fête et fera arrêter Stacy."
 
 # game/code/d10p1/d10p1s04.rpy:238
 translate french d10p1s04_dc326e55:
@@ -532,7 +532,7 @@ translate french d10p1s04_d51ed1df:
 translate french d10p1s04_b8b9b16e:
 
     # arjfl "Not to the people here. This is a private fetish party. People expect secrecy."
-    arjfl "Pas aux gens d'ici. C'est une soirée fétichiste privée. Les gens attendent le secret."
+    arjfl "Pas pour les gens d'ici. C'est une soirée fétichiste privée. Les gens attendent le secret."
 
 # game/code/d10p1/d10p1s04.rpy:247
 translate french d10p1s04_614cfe58:
