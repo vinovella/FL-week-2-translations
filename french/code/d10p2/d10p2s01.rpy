@@ -16,7 +16,7 @@ translate french d10p2s01_81b3b0ab:
 translate french d10p2s01_15111b24:
 
     # mc "Yes. {w}Where were you?"
-    mc "Oui. {w}Où étiez-vous ?"
+    mc "Oui. {w}T'étais où?"
 
 # game/code/d10p2/d10p2s01.rpy:66
 translate french d10p2s01_c10d8e8c:
@@ -34,7 +34,7 @@ translate french d10p2s01_bbeeb44e:
 translate french d10p2s01_c630a4e6:
 
     # arjfl "She was powdering her nose."
-    arjfl "Elle se poudrait le nez."
+    arjfl "Elle se repoudrait le nez."
 
 # game/code/d10p2/d10p2s01.rpy:72
 translate french d10p2s01_bc4fd44d:
@@ -46,7 +46,7 @@ translate french d10p2s01_bc4fd44d:
 translate french d10p2s01_7fbf05eb:
 
     # irfl "Refreshing in the refresher."
-    irfl "Rafraîchissant dans le rafraîchissement."
+    irfl "Méditer sur le trône de la pensée universelle."
 
 # game/code/d10p2/d10p2s01.rpy:76
 translate french d10p2s01_52556d99:
@@ -64,7 +64,7 @@ translate french d10p2s01_e5544801:
 translate french d10p2s01_6feb6100:
 
     # mc "Anyway, here's your tracker."
-    mc "Quoi qu'il en soit, voici votre tracker."
+    mc "Quoi qu'il en soit, voici ton tracker."
 
 # game/code/d10p2/d10p2s01.rpy:83
 translate french d10p2s01_5f7222d0:
@@ -76,7 +76,7 @@ translate french d10p2s01_5f7222d0:
 translate french d10p2s01_e0ea0e63:
 
     # sy "You three are all wearing black trackers. Why is my tracker blue?"
-    sy "Vous portez tous des trackers noirs. Pourquoi mon tracker est-il bleu ?"
+    sy "Vous portez tous des trackers noirs. Pourquoi mon tracker est bleu ?"
 
 # game/code/d10p2/d10p2s01.rpy:88
 translate french d10p2s01_79809f16:
@@ -106,7 +106,7 @@ translate french d10p2s01_17a6a509:
 translate french d10p2s01_fa62c19a:
 
     # sy "Cool, well, get to it. {w}At least one of us should enjoy everything this Party has to offer."
-    sy "Cool, eh bien, allez-y. {w}Au moins l'un d'entre nous devrait profiter de tout ce que cette fête a à offrir."
+    sy "Cool, eh bien, va-y. {w}Au moins l'un d'entre nous devrait profiter de tout ce que cette fête a à offrir."
 
 # game/code/d10p2/d10p2s01.rpy:106
 translate french d10p2s01_e865c1bd:
@@ -136,7 +136,7 @@ translate french d10p2s01_5705689d:
 translate french d10p2s01_a55c5cb4:
 
     # dd "Just come outside. We will be waiting for you there!"
-    dd "Sortez. Nous vous y attendrons !"
+    dd "Sort juste dehors. Nous t'y attendrons !"
 
 # game/code/d10p2/d10p2s01.rpy:116
 translate french d10p2s01_76cbe5f4:
@@ -166,19 +166,19 @@ translate french replay_d10p2s01_633178d4:
 translate french replay_d10p2s01_e9dd73b4:
 
     # mc "You need to learn your place."
-    mc "Vous devez apprendre votre place."
+    mc "Tu dois apprendre ta place."
 
 # game/code/d10p2/d10p2s01.rpy:203
 translate french replay_d10p2s01_bf43530c:
 
     # arjfl "Excuse me?"
-    arjfl "Excusez-moi?"
+    arjfl "Excuse-moi?"
 
 # game/code/d10p2/d10p2s01.rpy:205
 translate french replay_d10p2s01_75ae8e55:
 
     # mc "Get on your knees and suck my dick."
-    mc "Mettez-vous à genoux et sucez-moi la bite."
+    mc "Met-toi à genoux et suce-moi la bite."
 
 # game/code/d10p2/d10p2s01.rpy:207
 translate french replay_d10p2s01_a1e2b100:
@@ -214,7 +214,7 @@ translate french replay_d10p2s01_1f19eee0:
 translate french replay_d10p2s01_73deb4bb:
 
     # mc "Still, your actions have consequences."
-    mc "Pourtant, vos actes ont des conséquences."
+    mc "Pourtant, tes actes ont des conséquences."
 
 # game/code/d10p2/d10p2s01.rpy:222
 translate french replay_d10p2s01_4e29f529:
@@ -280,7 +280,7 @@ translate french replay_d10p2s01_5549b1ae:
 translate french replay_d10p2s01_0a1564c1:
 
     # mct "Ah. This is the Life."
-    mct "Ah. C'est la vie."
+    mct "Ah. C'est la Vie."
 
 # game/code/d10p2/d10p2s01.rpy:264
 translate french replay_d10p2s01_b8904bb3:
@@ -298,7 +298,7 @@ translate french replay_d10p2s01_e32fa69a:
 translate french replay_d10p2s01_bc74a8ad:
 
     # tr "Um, uh... {w}It looks like you're busy."
-    tr "Euh, euh...{w}On dirait que vous êtes occupé."
+    tr "Euh, euh...{w}On dirait que tu es occupé."
 
 # game/code/d10p2/d10p2s01.rpy:273
 translate french replay_d10p2s01_e4f8604b:
@@ -346,7 +346,7 @@ translate french replay_d10p2s01_19a5396b:
 translate french replay_d10p2s01_5b33f47f:
 
     # tr "Damn, man. How do you do it?"
-    tr "P * tain mec. Comment faites-vous?"
+    tr "Putain mec. Comment fait-tu?"
 
 # game/code/d10p2/d10p2s01.rpy:299
 translate french replay_d10p2s01_f1411890:
@@ -394,7 +394,7 @@ translate french replay_d10p2s01_11455b53:
 translate french replay_d10p2s01_209d1fbe:
 
     # tr "Do you think you could arrange something like that again? For me, I mean. With Maria."
-    tr "Pensez-vous que vous pourriez organiser à nouveau quelque chose comme ça ? Pour moi, je veux dire. Avec Marie."
+    tr "Pensez-vous que tu pourraid organiser à nouveau quelque chose comme ça ? Pour moi, je veux dire. Avec Maria."
 
 # game/code/d10p2/d10p2s01.rpy:319
 translate french replay_d10p2s01_8278dce4:
@@ -430,7 +430,7 @@ translate french replay_d10p2s01_eb5ad3a1:
 translate french replay_d10p2s01_0e86ce48:
 
     # mc "No, I was just lost in thought about your suggestion."
-    mc "Non, j'étais juste perdu dans mes pensées à propos de votre suggestion."
+    mc "Non, j'étais juste perdu dans mes pensées à propos de ta suggestion."
 
 # game/code/d10p2/d10p2s01.rpy:330
 translate french replay_d10p2s01_4a6b3611:
@@ -460,7 +460,7 @@ translate french replay_d10p2s01_7a6d6edf:
 translate french replay_d10p2s01_ccb191ed:
 
     # mc "I bet. {w}I don't know what to tell you. I don't think I could arrange something like that again."
-    mc "Je parie. {w}Je ne sais pas quoi vous dire. Je ne pense pas que je pourrais organiser à nouveau quelque chose comme ça."
+    mc "Je parie. {w}Je ne sais pas quoi te dire. Je ne pense pas que je pourrais organiser à nouveau quelque chose comme ça."
 
 # game/code/d10p2/d10p2s01.rpy:343
 translate french replay_d10p2s01_343b485e_1:
@@ -556,7 +556,7 @@ translate french replay_d10p2s01_690ed523:
 translate french replay_d10p2s01_1999dada:
 
     # tr "Cool! You're the best! {w}Do you think you could talk to her tonight?"
-    tr "Cool! Tu es le meilleur! {w}Pensez-vous que vous pourriez lui parler ce soir ?"
+    tr "Cool! Tu es le meilleur! {w}Penses-tu que vous pourais lui parler ce soir ?"
 
 # game/code/d10p2/d10p2s01.rpy:380
 translate french replay_d10p2s01_84ab5901:
@@ -568,7 +568,7 @@ translate french replay_d10p2s01_84ab5901:
 translate french replay_d10p2s01_2a2ae341:
 
     # tr "Okay, okay. I gotcha."
-    tr "OK OK. Je t'ai."
+    tr "OK OK. J'ai compris."
 
 # game/code/d10p2/d10p2s01.rpy:386
 translate french replay_d10p2s01_e8813225:
@@ -616,13 +616,13 @@ translate french replay_d10p2s01_95f055bf:
 translate french replay_d10p2s01_0f8b6571:
 
     # mc "Get ready.{w}.. I'm almost there."
-    mc "Préparez-vous.{w}.. J'y suis presque."
+    mc "Prépares-toi.{w}.. J'y suis presque."
 
 # game/code/d10p2/d10p2s01.rpy:429
 translate french replay_d10p2s01_857c3e2a:
 
     # mc "Pull it out and cover your face with my cum."
-    mc "Retirez-le et couvrez votre visage de mon sperme."
+    mc "Retires-toi et couvres ton visage de mon sperme."
 
 # game/code/d10p2/d10p2s01.rpy:434
 translate french replay_d10p2s01_df5b5dce:
@@ -658,7 +658,7 @@ translate french replay_d10p2s01_eaa3d112:
 translate french replay_d10p2s01_6c4b47fa:
 
     # mc "Covered in my cum. {w}Now you can get back to work."
-    mc "Couvert de mon sperme. {w}Vous pouvez maintenant retourner au travail."
+    mc "Couvert de mon sperme. {w}tu peux maintenant retourner au travail."
 
 # game/code/d10p2/d10p2s01.rpy:452
 translate french replay_d10p2s01_32ba8f31:
@@ -712,13 +712,13 @@ translate french replay_d10p2s01_e2f86f41:
 translate french replay_d10p2s01_b2b78069:
 
     # mc "Would you? {w}Really?"
-    mc "Voudriez-vous? {w}Vraiment ?"
+    mc "Voudrais-tu? {w}Vraiment ?"
 
 # game/code/d10p2/d10p2s01.rpy:468
 translate french replay_d10p2s01_5bc8d254:
 
     # arjfl "I don't know. I do kinda want to show off to everyone that you've marked me as yours."
-    arjfl "Je ne sais pas. Je veux en quelque sorte montrer à tout le monde que vous m'avez marqué comme étant le vôtre."
+    arjfl "Je ne sais pas. Je veux en quelque sorte montrer à tout le monde que tu m'as marqué comme étant à toi."
 
 # game/code/d10p2/d10p2s01.rpy:471
 translate french replay_d10p2s01_07eef455:
@@ -736,33 +736,34 @@ translate french replay_d10p2s01_cfbcc1b5:
 translate french replay_d10p2s01_3451f5b8:
 
     # mc "Oh, yeah. Definitely go wash up first."
-    mc "Oh ouais. Allez certainement vous laver d'abord."
+    mc "Oh ouais. va certainement te laver d'abord."
 
 # game/code/d10p2/d10p2s01.rpy:477
 translate french replay_d10p2s01_00377d23:
 
     # arjfl "Will do!"
-    arjfl "Ça ira!"
+    arjfl "Ça marche!"
 
 translate french strings:
 
     # game/code/d10p2/d10p2s01.rpy:144
-    old ^Magic & Mysticism^
-    new ^Magie et mysticisme^
+    old "Magic & Mysticism"
+    new "Magie et mysticisme"
 
     # game/code/d10p2/d10p2s01.rpy:144
-    old ^Pandora Room^
-    new ^Chambre Pandore^
+    old "Pandora Room"
+    new "Salle Pandora"
 
     # game/code/d10p2/d10p2s01.rpy:144
-    old ^Proximity Event^
-    new ^Événement de proximité^
+    old "Proximity Event"
+    new "Événement de proximité"
 
     # game/code/d10p2/d10p2s01.rpy:144
-    old ^Horseback Riding Event^
-    new ^Événement d'équitation^
+    old "Horseback Riding Event"
+    new "Événement d'équitation"
 
     # game/code/d10p2/d10p2s01.rpy:144
-    old ^Prepare for Main Event^
-    new ^Préparez-vous pour l'événement principal^
+    old "Prepare for Main Event"
+    new "Préparez-vous pour l'événement principal"
+
 
