@@ -994,7 +994,7 @@ translate french d10p1s05_end_c76ea871:
 translate french d10p1s05_end_0e53e96a:
 
     # mct "Fuck it, serves Stacy right. {w}Maybe it will even help her stay away from the Party games."
-    mct "Putain, c'est bien Stacy. {w}Peut-être que cela l'aidera même à rester à l'écart des jeux de la fete"
+    mct "Et puis merde, ça sert à Stacy {w}Peut-être que cela l'aidera même à rester à l'écart des jeux de la fete"
 
 translate french strings:
 
