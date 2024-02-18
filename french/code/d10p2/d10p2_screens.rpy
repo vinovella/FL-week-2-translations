@@ -12,7 +12,7 @@ translate french strings:
 
     # game/code/d10p2/d10p2_screens.rpy:15
     old "Skip{#d10p2s05}"
-    new "Sauter{#d10p2s05}"
+    new "Passer{#d10p2s05}"
 
     # game/code/d10p2/d10p2_screens.rpy:21
     old "Skip the free roam"
@@ -108,7 +108,7 @@ translate french strings:
 
     # game/code/d10p2/d10p2_screens.rpy:625
     old "Check Antony"
-    new "Vérifiez Antoine"
+    new "Vérifiez Antony"
 
     # game/code/d10p2/d10p2_screens.rpy:662
     old "Turn right"
