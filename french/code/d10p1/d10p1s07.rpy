@@ -10,7 +10,7 @@ translate french d10p1s07_26261cfb:
 translate french d10p1s07_54318564:
 
     # mct "And where is AmRose."
-    mct "Et où est AmRose."
+    mct "Et où est AmRose..."
 
 # game/code/d10p1/d10p1s07.rpy:15
 translate french d10p1s07_e7baf7a6:
@@ -70,7 +70,7 @@ translate french d10p1s07_950b9b36:
 translate french d10p1s07_84c81437:
 
     # mc "I don't see Stacy fucking anywhere."
-    mc "Je ne vois Stacy baiser nulle part."
+    mc "Je ne vois Stacy nulle part."
 
 # game/code/d10p1/d10p1s07.rpy:35
 translate french d10p1s07_37d534cf:
@@ -106,7 +106,7 @@ translate french d10p1s07_f0645b96:
 translate french d10p1s07_c4890b1a:
 
     # irfl "You look tense, [mcname]. Have a drink!"
-    irfl "Tu as l'air tendu, [mcname]. Prendre un verre!"
+    irfl "Tu as l'air tendu, [mcname]. Prend un verre!"
 
 # game/code/d10p1/d10p1s07.rpy:49
 translate french d10p1s07_1bf6b1d3:
@@ -124,7 +124,7 @@ translate french d10p1s07_dfb01463:
 translate french d10p1s07_be577ab2:
 
     # mc "Does that seem funny to you?!"
-    mc "Cela vous semble drôle ?!"
+    mc "Cela te semble drôle ?!"
 
 # game/code/d10p1/d10p1s07.rpy:54
 translate french d10p1s07_48ccc6ca:
@@ -136,7 +136,7 @@ translate french d10p1s07_48ccc6ca:
 translate french d10p1s07_5b84776c:
 
     # mc "You're supposed to be watching out for her! Protecting her!"
-    mc "Vous êtes censé faire attention à elle ! La protéger !"
+    mc "Tu es censé faire attention à elle ! La protéger !"
 
 # game/code/d10p1/d10p1s07.rpy:57
 translate french d10p1s07_6a61c7f4:
@@ -172,7 +172,7 @@ translate french d10p1s07_5ee76e8c:
 translate french d10p1s07_30de2d60:
 
     # mc "That didn't come out right. {w}I just mean that she's young and immature."
-    mc "Cela ne s’est pas bien passé. {w}Je veux juste dire qu'elle est jeune et immature."
+    mc "Cela ne s’est pas sorti comme je voulais. {w}Je veux juste dire qu'elle est jeune et immature."
 
 # game/code/d10p1/d10p1s07.rpy:70
 translate french d10p1s07_2278c7f0:
@@ -226,7 +226,7 @@ translate french d10p1s07_79da6c6f:
 translate french d10p1s07_58bb9d64:
 
     # mc "Yeah, well. Karen is a great example. {w}If you asked her now, do you think she'd regret her first freshman semester?"
-    mc "Ouais, eh bien. Karen est un excellent exemple. {w}Si vous lui demandiez maintenant, pensez-vous qu'elle regretterait son premier semestre de première année ?"
+    mc "Ouais, eh bien. Karen est un excellent exemple. {w}Si tu lui demandes maintenant, penses-tu qu'elle regretterait son premier semestre de première année ?"
 
 # game/code/d10p1/d10p1s07.rpy:88
 translate french d10p1s07_3cd0446a:
@@ -244,7 +244,7 @@ translate french d10p1s07_47be1ef0:
 translate french d10p1s07_94f0695b:
 
     # arjfl "For her to hook up with some guy that treats her as a cumrag because he doesn't know any better?"
-    arjfl "Pour qu'elle sorte avec un gars qui la traite de connard parce qu'il ne sait pas mieux ?"
+    arjfl "Pour qu'elle sorte avec un gars qui la traite de connard parce qu'il ne sait pas faire mieux ?"
 
 # game/code/d10p1/d10p1s07.rpy:94
 translate french d10p1s07_20ed5c19:
@@ -298,7 +298,7 @@ translate french d10p1s07_774e9fd6:
 translate french d10p1s07_dec41406:
 
     # arjfl "You can be there to help her pick up the pieces and put herself back together."
-    arjfl "Vous pouvez être là pour l’aider à recoller les morceaux et à se remettre sur pied."
+    arjfl "Tu pourais être là pour l’aider à recoller les morceaux et à se remettre sur pied."
 
 # game/code/d10p1/d10p1s07.rpy:107
 translate french d10p1s07_15042ac0:
