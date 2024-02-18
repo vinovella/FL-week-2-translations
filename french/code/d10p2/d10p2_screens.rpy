@@ -16,7 +16,7 @@ translate french strings:
 
     # game/code/d10p2/d10p2_screens.rpy:21
     old "Skip the free roam"
-    new "Évitez l'itinérance gratuite"
+    new "Passer l'exploration"
 
     # game/code/d10p2/d10p2_screens.rpy:45
     old "Go to the stairs"
