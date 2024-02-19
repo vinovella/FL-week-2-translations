@@ -328,7 +328,7 @@ translate french replay_d10p2s01_7ae3411c:
 translate french replay_d10p2s01_9c9d823e:
 
     # mc "It's a good time for me. What about you, ErikaRed? Do you mind if Terrell and I shoot the shit while you work?"
-    mc "C'est un bon moment pour moi. Et toi, ErikaRed ? Ça te dérange si Terrell et moi tirons des conneries pendant que tu travailles ?"
+    mc "C'est un bon moment pour moi. Et toi, ErikaRed ? Ça te dérange si Terrell et moi tirons le bout de gras pendant que tu travailles ?"
 
 # game/code/d10p2/d10p2s01.rpy:290
 translate french replay_d10p2s01_343b485e:
