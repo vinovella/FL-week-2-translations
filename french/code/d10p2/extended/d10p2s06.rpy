@@ -4,13 +4,13 @@
 translate french d10p2s06_aca5d234:
 
     # mc "Daisy?"
-    mc "Marguerite?"
+    mc "Daisy?"
 
 # game/code/d10p2/extended/d10p2s06.rpy:39
 translate french d10p2s06_5fd598ed:
 
     # dd "Oh, [mcname]. Good timing."
-    dd "Oh, [nom de Mc]. Bon timing."
+    dd "Oh, [mcname]. Bon timing."
 
 # game/code/d10p2/extended/d10p2s06.rpy:40
 translate french d10p2s06_8c26cb31:
@@ -70,13 +70,13 @@ translate french d10p2s06_7624e59d:
 translate french d10p2s06_217cc636:
 
     # dd "Come over to the garden and I'll explain the game."
-    dd "Venez au jardin et je vous expliquerai le jeu."
+    dd "Allons dans le jardin et je vous expliquerai le jeu."
 
 # game/code/d10p2/extended/d10p2s06.rpy:66
 translate french d10p2s06_84ad8513:
 
     # jf "Heeoo."
-    jf "Heeoo."
+    jf "Shhhlut."
 
 # game/code/d10p2/extended/d10p2s06.rpy:68
 translate french d10p2s06_92651b6c:
@@ -94,19 +94,19 @@ translate french d10p2s06_9b3afac0:
 translate french d10p2s06_92b1031e:
 
     # dd "There are two teams of two people each playing."
-    dd "Il y a deux équipes de deux personnes chacune qui jouent."
+    dd "Il y a deux équipes de deux personnes qui jouent."
 
 # game/code/d10p2/extended/d10p2s06.rpy:74
 translate french d10p2s06_679b7adb:
 
     # dd "Each team will have one \"jockey\" and one \"equine\"."
-    dd "Chaque équipe en aura un \"jockey\" and one \"equine\"."
+    dd "Chaque équipe en aura un \"jockey\" and one \"équidé\"."
 
 # game/code/d10p2/extended/d10p2s06.rpy:75
 translate french d10p2s06_7eb9c1db:
 
     # mct "\"Equine\"? Didn't know she was a horse girl."
-    mct "\"Equine\"? Didn't know she was a horse girl."
+    mct "\"équidé\"? Je ne savais pas que c'était une fille à cheveaux.."
 
 # game/code/d10p2/extended/d10p2s06.rpy:77
 translate french d10p2s06_b8461c1d:
@@ -130,7 +130,7 @@ translate french d10p2s06_cbc4de03:
 translate french d10p2s06_0ecc8c63:
 
     # dd "The horse will then be crowned \"Champion Equine.\" A very noble and honorable title."
-    dd "Le cheval sera alors couronné\"Champion Equine.\" A very noble and honorable title."
+    dd "Le cheval sera alors couronné\"Champion équestre.\" Un titre très noble et honorable."
 
 # game/code/d10p2/extended/d10p2s06.rpy:88
 translate french d10p2s06_1acde8ea:
@@ -142,7 +142,7 @@ translate french d10p2s06_1acde8ea:
 translate french d10p2s06_dea5b734:
 
     # dd "Not when you're on all fours it's not."
-    dd "Pas quand on est à quatre pattes, ce n'est pas le cas."
+    dd "Quand on est à quatre pattes, ce n'est pas le cas."
 
 # game/code/d10p2/extended/d10p2s06.rpy:93
 translate french d10p2s06_542a105f:
@@ -172,7 +172,7 @@ translate french d10p2s06_7bcbda08:
 translate french d10p2s06_7b491b26:
 
     # jf "*Silent and slightly awkward wave*"
-    jf "*Vague silencieuse et légèrement gênante*"
+    jf "*Vague silencieuse et un peu gênante*"
 
 # game/code/d10p2/extended/d10p2s06.rpy:105
 translate french d10p2s06_36f96ceb:
@@ -184,25 +184,25 @@ translate french d10p2s06_36f96ceb:
 translate french d10p2s06_28226e37:
 
     # mc "Okay, I can work with that. But uh, would she be able to handle my weight?"
-    mc "D'accord, je peux travailler avec ça. Mais euh, serait-elle capable de supporter mon poids ?"
+    mc "D'accord,  Je peux m'en accommoder. Mais euh, sera t-elle capable de supporter mon poids ?"
 
 # game/code/d10p2/extended/d10p2s06.rpy:111
 translate french d10p2s06_7d419cdc:
 
     # jf "I caaa."
-    jf "Je caaa."
+    jf "'e peeeuuux."
 
 # game/code/d10p2/extended/d10p2s06.rpy:114
 translate french d10p2s06_c6dd9539:
 
     # mc "Is...that a yes?"
-    mc "Est-ce un oui?"
+    mc "C'est... un oui?"
 
 # game/code/d10p2/extended/d10p2s06.rpy:115
 translate french d10p2s06_46176c4d:
 
     # jf "*Intensely agreeing noises*"
-    jf "*Bruits intensément concordants*"
+    jf "*Bruits intensément  agréables*"
 
 # game/code/d10p2/extended/d10p2s06.rpy:117
 translate french d10p2s06_4e69b159:
@@ -214,13 +214,13 @@ translate french d10p2s06_4e69b159:
 translate french d10p2s06_63ca821e:
 
     # jf "Ooey"
-    jf "Ooh"
+    jf "Okh"
 
 # game/code/d10p2/extended/d10p2s06.rpy:122
 translate french d10p2s06_3901b1ba:
 
     # mc "And what are you doing?"
-    mc "Et que fais-tu?"
+    mc "Et toi que feras-tu?"
 
 # game/code/d10p2/extended/d10p2s06.rpy:124
 translate french d10p2s06_fa438d9c:
@@ -238,25 +238,25 @@ translate french d10p2s06_3c87a588:
 translate french d10p2s06_3788f252:
 
     # "Everybody" "Nope."
-    "Tout le monde" "Nope."
+    "Tout le monde" "Non."
 
 # game/code/d10p2/extended/d10p2s06.rpy:135
 translate french d10p2s06_a378dc4f:
 
     # dd "Great. {w}Equines, assume the position!"
-    dd "Super. {w}Équins, prenez le poste !"
+    dd "Super. {w}Equidés, prenez vos positions !"
 
 # game/code/d10p2/extended/d10p2s06.rpy:139
 translate french d10p2s06_cfed0969:
 
     # dd "And a three."
-    dd "Et un trois."
+    dd "Et  trois."
 
 # game/code/d10p2/extended/d10p2s06.rpy:143
 translate french d10p2s06_db00bd81:
 
     # dd "And a two."
-    dd "Et un deux."
+    dd " deux."
 
 # game/code/d10p2/extended/d10p2s06.rpy:147
 translate french d10p2s06_5edd01c9:
@@ -268,13 +268,13 @@ translate french d10p2s06_5edd01c9:
 translate french d10p2s06_6d4aef0f:
 
     # dd "Go..."
-    dd "Aller..."
+    dd "Go..."
 
 # game/code/d10p2/extended/d10p2s06.rpy:156
 translate french d10p2s06_1ddf5dcf:
 
     # dd "It's off to an explosive start, Ladies and Gentlemen, as Kevin takes an early lead over our neon girl URLittlePony!"
-    dd "C'est un début explosif, Mesdames et Messieurs, alors que Kevin prend rapidement l'avantage sur notre fille néon URLittlePony !"
+    dd "C'est un début explosif, Mesdames et Messieurs, alors que Kevin prend rapidement l'avantage sur notre fille aux néons URLittlePony !"
 
 # game/code/d10p2/extended/d10p2s06.rpy:158
 translate french d10p2s06_cf4d743a:
@@ -304,7 +304,7 @@ translate french d10p2s06_f028505f:
 translate french d10p2s06_08111f0f:
 
     # dd "And they did it! Kevin and Chloe reach the first mark and relax a little while [mclogin] and URLittlePony are close behind."
-    dd "Et ils l'ont fait ! Kevin et Chloé atteignent la première marque et se détendent un peu tandis que [mclogin] et URLittlePony sont juste derrière."
+    dd "Et ils l'ont fait ! Kevin et Chloé atteignent la première étape  et se détendent un peu tandis que [mclogin] et URLittlePony sont juste derrière."
 
 # game/code/d10p2/extended/d10p2s06.rpy:182
 translate french replay_d10p2s06_c5f94e54:
@@ -340,7 +340,7 @@ translate french replay_d10p2s06_6b2940e0:
 translate french replay_d10p2s06_1d15fb3d:
 
     # dd "Our previous lead seems to still be going at it vigorously."
-    dd "Notre précédent leader semble continuer avec vigueur."
+    dd "Notre précédent meneur semble continuer avec vigueur."
 
 # game/code/d10p2/extended/d10p2s06.rpy:349
 translate french replay_d10p2s06_401a6215:
@@ -382,11 +382,11 @@ translate french replay_d10p2s06_cfdb0c74:
 translate french replay_d10p2s06_d8e248f3:
 
     # dd "And now, as Champion Equine, URLittlePony gets to drink out of the legendary Trough of Ultimate Sexual Deviancy, and be truly known through out the lands as the one and only Champion Equine."
-    dd "Et maintenant, en tant que Champion Equine, URLittlePony peut s'abreuver au légendaire Auge de l'Ultime Sexual Deviancy et être véritablement connu dans tout le pays comme le seul et unique Champion Equine."
+    dd "Et maintenant, en tant que Champion équestre, URLittlePony peut s'abreuver au légendaire Auge de l'Ultime Déviance sexuelle et être véritablement connu dans tout le pays comme le seul et unique Champion équestre."
 
 # game/code/d10p2/extended/d10p2s06.rpy:372
 translate french replay_d10p2s06_2794fd31:
 
     # "Everybody" "*Chuckles*"
-    "Tout le monde" "*Chuckles*"
+    "Tout le monde" "*Rires*"
 
