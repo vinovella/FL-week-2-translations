@@ -280,7 +280,7 @@ translate french replay_d10p2s01_5549b1ae:
 translate french replay_d10p2s01_0a1564c1:
 
     # mct "Ah. This is the Life."
-    mct "Ah. C'est la Vie."
+    mct "Ah.ça, C'est la Vie."
 
 # game/code/d10p2/d10p2s01.rpy:264
 translate french replay_d10p2s01_b8904bb3:
