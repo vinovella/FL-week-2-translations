@@ -172,7 +172,7 @@ translate french d10p2s04_87dcfb89:
 translate french d10p2s04_706ae4c4:
 
     # mesfl "Fifth rule of the Pandora— Nah, I'm just kidding."
-    mesfl "Cinquième règle de Pandora : Non, je plaisante."
+    mesfl "Cinquième règle de la salle... : Non, je plaisante."
 
 # game/code/d10p2/d10p2s04.rpy:107
 translate french d10p2s04_ff5f5f4f:
