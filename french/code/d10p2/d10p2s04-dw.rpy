@@ -16,13 +16,13 @@ translate french d10p2s04_dw_e64fc703:
 translate french d10p2s04_dw_8ac490c7:
 
     # mesfl "There's no one here right now. That means you're the Sub."
-    mesfl "Il n'y a personne ici en ce moment. Cela signifie que vous êtes le Sub."
+    mesfl "Il n'y a personne ici en ce moment. Cela signifie que vous êtes le Soumis."
 
 # game/code/d10p2/d10p2s04-dw.rpy:60
 translate french d10p2s04_dw_76ab5ad6:
 
     # mesfl "Like I said previously, you can choose to leave now if you're not into that."
-    mesfl "Comme je l'ai dit précédemment, vous pouvez choisir de partir maintenant si cela ne vous plaît pas."
+    mesfl "Comme je l'ai dit précédemment, tu peux choisir de partir maintenant si cela ne te plaît pas."
 
 # game/code/d10p2/d10p2s04-dw.rpy:64
 translate french d10p2s04_dw_22a7f619:
@@ -34,7 +34,7 @@ translate french d10p2s04_dw_22a7f619:
 translate french d10p2s04_dw_d80c2b5c:
 
     # mesfl "Great. You'll need to remove your clothes then."
-    mesfl "Super. Vous devrez alors retirer vos vêtements."
+    mesfl "Super. Tu dois alors retirer tes vêtements."
 
 # game/code/d10p2/d10p2s04-dw.rpy:69
 translate french d10p2s04_dw_3484a003:
@@ -46,7 +46,7 @@ translate french d10p2s04_dw_3484a003:
 translate french d10p2s04_dw_15ea08e9:
 
     # mesfl "I need to make sure that you are bound and ready for the next person that comes in here."
-    mesfl "Je dois m'assurer que vous êtes prêt et prêt à accueillir la prochaine personne qui viendra ici."
+    mesfl "Je dois m'assurer que tu sois attaché et prêt à accueillir la prochaine personne qui viendra ici."
 
 # game/code/d10p2/d10p2s04-dw.rpy:73
 translate french d10p2s04_dw_bfd624c3:
@@ -70,7 +70,7 @@ translate french d10p2s04_dw_72d8c7c3:
 translate french d10p2s04_dw_df598372:
 
     # mesfl "Alright. Please get on the seat now. Your arms and legs should rest on the pads at the sides."
-    mesfl "Bien. Veuillez vous asseoir maintenant. Vos bras et vos jambes doivent reposer sur les coussinets latéraux."
+    mesfl "Bien. Va t'asseoir maintenant. tes bras et tes jambes doivent reposer sur les coussinets latéraux."
 
 # game/code/d10p2/d10p2s04-dw.rpy:105
 translate french d10p2s04_dw_d19cc490:
@@ -148,7 +148,7 @@ translate french d10p2s04_dw_ded1b6b9:
 translate french d10p2s04_dw_2a569e80:
 
     # mc "Would you mind help—?"
-    mc "Pourriez-vous m'aider... ?"
+    mc "Peux tu m'aider... ?"
 
 # game/code/d10p2/d10p2s04-dw.rpy:181
 translate french d10p2s04_dw_cda5f636:
@@ -166,7 +166,7 @@ translate french d10p2s04_dw_4c0bfd44:
 translate french d10p2s04_dw_9c4ce180:
 
     # mc "Yeah... Would you mind helping me out of here?"
-    mc "Ouais...Pourriez-vous m'aider à sortir d'ici ?"
+    mc "Ouais...Peux-tu m'aider à sortir d'ici ?"
 
 # game/code/d10p2/d10p2s04-dw.rpy:201
 translate french d10p2s04_dw_b9608272:
@@ -196,7 +196,7 @@ translate french d10p2s04_dw_9d226254:
 translate french d10p2s04_dw_afbfd2e0:
 
     # mc "I didn't want to be a sub for her."
-    mc "Je ne voulais pas être un remplaçant pour elle."
+    mc "Je ne voulais pas être un soumis pour elle."
 
 # game/code/d10p2/d10p2s04-dw.rpy:212
 translate french d10p2s04_dw_9d601e3e:
@@ -220,13 +220,13 @@ translate french d10p2s04_dw_bb0eeaf4:
 translate french d10p2s04_dw_9bdba415:
 
     # mesfl "Sorry you didn't get to experience the room."
-    mesfl "Désolé, vous n'avez pas pu découvrir la pièce."
+    mesfl "Désolé, tu n'as pas pu découvrir la pièce."
 
 # game/code/d10p2/d10p2s04-dw.rpy:227
 translate french d10p2s04_dw_ae31ede1:
 
     # mc "It's alright."
-    mc "C'est d'accord."
+    mc "C'est bon."
 
 # game/code/d10p2/d10p2s04-dw.rpy:229
 translate french d10p2s04_dw_08dc91cf:
@@ -238,7 +238,7 @@ translate french d10p2s04_dw_08dc91cf:
 translate french d10p2s04_dw_2e806df9:
 
     # mesfl "Sure. Have fun."
-    mesfl "Bien sûr. Amusez-vous."
+    mesfl "Bien sûr. Amuse-toi."
 
 # game/code/d10p2/d10p2s04-dw.rpy:235
 translate french d10p2s04_dw_19f9f37b:
@@ -286,19 +286,19 @@ translate french d10p2s04_dw_31eff69d:
 translate french d10p2s04_dw_e89997a1:
 
     # dw "You better not. You're nothing to me."
-    dw "Tu ferais mieux de ne pas. Tu n'es rien pour moi."
+    dw "Tu ferais mieux de ne pas le faire. Tu n'es rien pour moi."
 
 # game/code/d10p2/d10p2s04-dw.rpy:262
 translate french d10p2s04_dw_c9e438ac:
 
     # dw "You exist solely to entertain me."
-    dw "Vous existez uniquement pour me divertir."
+    dw "Tu n'existes uniquement pour me divertir."
 
 # game/code/d10p2/d10p2s04-dw.rpy:267
 translate french d10p2s04_dw_d9493875:
 
     # dw "Am I understood, pet?"
-    dw "Ai-je compris, mon animal de compagnie ?"
+    dw "Me suis-je bien fait comprendre, mon animal de compagnie ?"
 
 # game/code/d10p2/d10p2s04-dw.rpy:269
 translate french d10p2s04_dw_1f1991d0:
@@ -340,7 +340,7 @@ translate french d10p2s04_dw_31eff69d_1:
 translate french d10p2s04_dw_abf17486:
 
     # dw "I remember telling you very clearly that I will be called \"Mistress\" at all times."
-    dw "Je me souviens de t'avoir dit très clairement que je serai appelé \"Mistress\" at all times."
+    dw "Je me souviens de t'avoir dit très clairement que je serai appelé \"maîtresse\" à tout instant."
 
 # game/code/d10p2/d10p2s04-dw.rpy:297
 translate french d10p2s04_dw_71732c46:
@@ -484,7 +484,7 @@ translate french d10p2s04_dw_cfb40a80:
 translate french d10p2s04_dw_ba522918:
 
     # dw "I want you to take this in as far as it'll go, am I understood?"
-    dw "Je veux que vous preniez cela aussi loin que possible, est-ce que j'ai compris ?"
+    dw "Je veux que tu prennes cela aussi loin que possible, est-ce que j'ai compris ?"
 
 # game/code/d10p2/d10p2s04-dw.rpy:411
 translate french d10p2s04_dw_2b35b6fe:
