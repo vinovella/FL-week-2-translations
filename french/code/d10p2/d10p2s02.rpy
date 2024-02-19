@@ -4,7 +4,7 @@
 translate french d10p2s02_ab6e5f7b:
 
     # mct "Huh, what's going on?"
-    mct "Hein, que se passe-t-il ?"
+    mct "Hein, qu'est qui se passe?"
 
 # game/code/d10p2/d10p2s02.rpy:13
 translate french d10p2s02_ddaa4f68:
@@ -16,7 +16,7 @@ translate french d10p2s02_ddaa4f68:
 translate french d10p2s02_abe84034:
 
     # "{color=#374980}???{/color}" "You could if you wanted to... {w}and I know you want it."
-    "{color=#374980}???{/color}" "You could if you wanted to... {w}and I know you want it."
+    "{color=#374980}???{/color}" "Tu pourrais si tu le voulais... {w}et je sais que tu le veux."
 
 # game/code/d10p2/d10p2s02.rpy:17
 translate french d10p2s02_7702f6e2:
@@ -28,31 +28,31 @@ translate french d10p2s02_7702f6e2:
 translate french d10p2s02_f58ecce3:
 
     # "{color=#374980}???{/color}" "You're right. I am drunk."
-    "{color=#374980}???{/color}" "You're right. I am drunk."
+    "{color=#374980}???{/color}" "Tu as raison. Je suis ivre."
 
 # game/code/d10p2/d10p2s02.rpy:20
 translate french d10p2s02_e024a92a:
 
     # "{color=#374980}???{/color}" "I'm so drunk I don't know if my dick is hard or I just need to pee."
-    "{color=#374980}???{/color}" "I'm so drunk I don't know if my dick is hard or I just need to pee."
+    "{color=#374980}???{/color}" "Je suis tellement bourré que je ne sais pas si ma bite est dure ou si j'ai juste envie de faire pipi."
 
 # game/code/d10p2/d10p2s02.rpy:22
 translate french d10p2s02_94fed64c:
 
     # "{color=#374980}???{/color}" "I'm so drunk I don't know if I want to fuck your cunt or piss in your throat."
-    "{color=#374980}???{/color}" "I'm so drunk I don't know if I want to fuck your cunt or piss in your throat."
+    "{color=#374980}???{/color}" "Je suis tellement ivre que je ne sais pas si j'ai envie de baiser ta chatte ou de te pisser dans la gorge."
 
 # game/code/d10p2/d10p2s02.rpy:23
 translate french d10p2s02_f70a6396:
 
     # "{color=#374980}???{/color}" "I just know that I want myself deep inside you."
-    "{color=#374980}???{/color}" "I just know that I want myself deep inside you."
+    "{color=#374980}???{/color}" "Je sais juste que je me veux au plus profond de toi."
 
 # game/code/d10p2/d10p2s02.rpy:24
 translate french d10p2s02_29a87e2d:
 
     # "{color=#374980}???{/color}" "Pumping deep with some kind of liquid."
-    "{color=#374980}???{/color}" "Pumping deep with some kind of liquid."
+    "{color=#374980}???{/color}" "Remplir de liquide une partie profonde de ce corps."
 
 # game/code/d10p2/d10p2s02.rpy:27
 translate french d10p2s02_0aab0a84:
@@ -64,25 +64,25 @@ translate french d10p2s02_0aab0a84:
 translate french d10p2s02_0c7356f6:
 
     # irfl "I'm going to do you a favor. {w}I'm going to let you walk away right now before I break something."
-    irfl "Je vais te rendre service. {w}Je vais te laisser partir tout de suite avant de casser quelque chose."
+    irfl "Je vais te rendre service. {w}Je vais te laisser partir tout de suite avant de te casser quelque chose."
 
 # game/code/d10p2/d10p2s02.rpy:33
 translate french d10p2s02_38176240:
 
     # "{color=#374980}???{/color}" "I have a better idea."
-    "{color=#374980}???{/color}" "I have a better idea."
+    "{color=#374980}???{/color}" "J'ai une meilleure idée."
 
 # game/code/d10p2/d10p2s02.rpy:34
 translate french d10p2s02_4742fbc9:
 
     # "{color=#374980}???{/color}" "I'm going to do you a favor, and let you cum before I get started."
-    "{color=#374980}???{/color}" "I'm going to do you a favor, and let you cum before I get started."
+    "{color=#374980}???{/color}" "Je vais te faire une faveur et te laisser jouir avant de commencer."
 
 # game/code/d10p2/d10p2s02.rpy:36
 translate french d10p2s02_c9dad38c:
 
     # mct "That guy's voice is familiar."
-    mct "La voix de ce type est familière."
+    mct "La voix de ce mec m'est familière."
 
 # game/code/d10p2/d10p2s02.rpy:37
 translate french d10p2s02_1fbfc477:
@@ -100,7 +100,7 @@ translate french d10p2s02_7496471a:
 translate french d10p2s02_49866edb:
 
     # "{color=#374980}???{/color}" "And when you're wet and ready..."
-    "{color=#374980}???{/color}" "And when you're wet and ready..."
+    "{color=#374980}???{/color}" "Et quand tu seras mouillée et prête..."
 
 # game/code/d10p2/d10p2s02.rpy:46
 translate french d10p2s02_4b6d1b61:
@@ -112,25 +112,25 @@ translate french d10p2s02_4b6d1b61:
 translate french d10p2s02_7eac653c:
 
     # "{color=#374980}???{/color}" "Huh?"
-    "{color=#374980}???{/color}" "Huh?"
+    "{color=#374980}???{/color}" "Hein?"
 
 # game/code/d10p2/d10p2s02.rpy:49
 translate french d10p2s02_ad96c68c:
 
     # irfl "My safe word is \"rutabaga\". Get away from me right the fuck now you asshole."
-    irfl "Mon mot de sécurité est \"rutabaga\". Get away from me right the fuck now you asshole."
+    irfl "Mon mot de sécurité est \"rutabaga\". Éloigne-toi de moi tout de suite, connard !."
 
 # game/code/d10p2/d10p2s02.rpy:50
 translate french d10p2s02_be59095b:
 
     # "{color=#374980}???{/color}" "You don't have to be like that. {w}I can tell you're enjoying yourself."
-    "{color=#374980}???{/color}" "You don't have to be like that. {w}I can tell you're enjoying yourself."
+    "{color=#374980}???{/color}" "Tu n'es pas obligé d'être comme ça. {w}Je peux voir que tu t'amuses."
 
 # game/code/d10p2/d10p2s02.rpy:51
 translate french d10p2s02_20ff0610:
 
     # "{color=#374980}???{/color}" "I've never felt a pussy that was so dripping wet as yours is right now."
-    "{color=#374980}???{/color}" "I've never felt a pussy that was so dripping wet as yours is right now."
+    "{color=#374980}???{/color}" "Je n'ai jamais senti une chatte aussi humide que la tienne en ce moment."
 
 # game/code/d10p2/d10p2s02.rpy:53
 translate french d10p2s02_63dd4e71:
@@ -172,19 +172,19 @@ translate french d10p2s01_intervene_1e811f61:
 translate french d10p2s01_intervene_cf7c95b5:
 
     # "{color=#374980}???{/color}" "You again?! {w}Why can't you just let me have a little fun?"
-    "{color=#374980}???{/color}" "You again?! {w}Why can't you just let me have a little fun?"
+    "{color=#374980}???{/color}" "Encore toi ?! {w}Pourquoi ne peux-tu pas me laisser avoir un peu de plaisir ?"
 
 # game/code/d10p2/d10p2s02.rpy:79
 translate french d10p2s01_intervene_537746cb:
 
     # irfl "Fun for who, asshole?!"
-    irfl "Du fun pour qui, connard ?!"
+    irfl "Du plaisir pour qui, connard ?!"
 
 # game/code/d10p2/d10p2s02.rpy:81
 translate french d10p2s01_intervene_0cf82127:
 
     # "{color=#374980}???{/color}" "Fine, fine. Screw you guys - I'm outta here."
-    "{color=#374980}???{/color}" "Fine, fine. Screw you guys - I'm outta here."
+    "{color=#374980}???{/color}" "D'accord, d'accord. Allez vous faire foutre, je me casse."
 
 # game/code/d10p2/d10p2s02.rpy:84
 translate french d10p2s01_intervene_91d8a70c:
@@ -214,7 +214,7 @@ translate french d10p2s01_intervene_afa073d8:
 translate french d10p2s01_intervene_2b7d2e32:
 
     # mc "Um, sure. Do you have any Stoli?"
-    mc "Um sûr. Avez-vous des Stoli ?"
+    mc "Um sûr. As-tu des Stoli ?"
 
 # game/code/d10p2/d10p2s02.rpy:97
 translate french d10p2s01_intervene_1d40ff77:
@@ -346,7 +346,7 @@ translate french d10p2s01_intervene_f958a248:
 translate french d10p2s01_intervene_0b4db2a1:
 
     # mc "True that. I got your back, you got mine."
-    mc "Vrai que. Je te soutiens, tu as le mien."
+    mc "C'est Vrai. J'assure tes arrières, tu assures les miens."
 
 # game/code/d10p2/d10p2s02.rpy:161
 translate french d10p2s01_intervene_6df6e941:
@@ -382,7 +382,7 @@ translate french d10p2s01_intervene_43bf6d27:
 translate french d10p2s01_intervene_6f9537d7:
 
     # mc "Serious as a heart attack. You would have broken more than his heart if I hadn't stepped in and gotten involved."
-    mc "Grave comme une crise cardiaque. Vous auriez brisé bien plus que son cœur si je n'étais pas intervenu et impliqué."
+    mc "Grave comme une crise cardiaque. tu aurais brisé bien plus que son cœur si je ne m'étais pas impliqué."
 
 # game/code/d10p2/d10p2s02.rpy:180
 translate french d10p2s01_intervene_0f042d6f:
@@ -412,19 +412,19 @@ translate french d10p2s01_watch_1b17a359:
 translate french d10p2s01_watch_d029d58f:
 
     # "{color=#374980}???{/color}" "You know you- {w}AAAAAAAHHHHHHHHHH!!!!"
-    "{color=#374980}???{/color}" "You know you- {w}AAAAAAAHHHHHHHHHH!!!!"
+    "{color=#374980}???{/color}" "Tu sais que tu... {w}AAAAAAAHHHHHHHHHH!!!!"
 
 # game/code/d10p2/d10p2s02.rpy:195
 translate french d10p2s01_watch_3247af26:
 
     # "{color=#374980}???{/color}" "My fuckin' arm! Let go!"
-    "{color=#374980}???{/color}" "My fuckin' arm! Let go!"
+    "{color=#374980}???{/color}" "Mon putain de bras ! Lâche-le !"
 
 # game/code/d10p2/d10p2s02.rpy:198
 translate french d10p2s01_watch_6a464a83:
 
     # irfl "You've got a choice, fuckface. {w}Listen to your options carefully."
-    irfl "Tu as le choix, connard. {w}Écoutez attentivement vos options."
+    irfl "Tu as le choix, connard. {w}Écoutez attentivement tes options."
 
 # game/code/d10p2/d10p2s02.rpy:200
 translate french d10p2s01_watch_c61e0bdd:
@@ -454,7 +454,7 @@ translate french d10p2s01_watch_ff07fd79:
 translate french d10p2s01_watch_dc415646:
 
     # "{color=#374980}???{/color}" "Let go of me you fucking BITCH!!!"
-    "{color=#374980}???{/color}" "Let go of me you fucking BITCH!!!"
+    "{color=#374980}???{/color}" "Lâche-moi, espèce de salope !!!"
 
 # game/code/d10p2/d10p2s02.rpy:212
 translate french d10p2s01_watch_02dd6f61:
@@ -472,7 +472,7 @@ translate french d10p2s01_watch_43dfe615:
 translate french d10p2s01_watch_4ecfcb1b:
 
     # "{color=#374980}???{/color}" "*incomprehensible screaming*"
-    "{color=#374980}???{/color}" "*incomprehensible screaming*"
+    "{color=#374980}???{/color}" "*cri incompréhensible*"
 
 # game/code/d10p2/d10p2s02.rpy:222
 translate french d10p2s01_watch_9783aee4:
@@ -484,7 +484,7 @@ translate french d10p2s01_watch_9783aee4:
 translate french d10p2s01_watch_3b01f811:
 
     # "{color=#374980}???{/color}" "Fine, fine... {w}cunt."
-    "{color=#374980}???{/color}" "Fine, fine... {w}cunt."
+    "{color=#374980}???{/color}" "Très bien, très bien... {w}pétasse."
 
 # game/code/d10p2/d10p2s02.rpy:226
 translate french d10p2s01_watch_988aec13:
@@ -496,7 +496,7 @@ translate french d10p2s01_watch_988aec13:
 translate french d10p2s01_watch_3fbde455:
 
     # "{color=#374980}???{/color}" "Fuck you. {w}I'm leaving you dumb slut whore."
-    "{color=#374980}???{/color}" "Fuck you. {w}I'm leaving you dumb slut whore."
+    "{color=#374980}???{/color}" "Va te faire foutre. {w}Je m'en vais, espèce de pute stupide."
 
 # game/code/d10p2/d10p2s02.rpy:231
 translate french d10p2s01_watch_d974a0b8:
@@ -526,13 +526,13 @@ translate french d10p2s01_watch_3c84e996:
 translate french d10p2s01_watch_3ab06e34:
 
     # mc "Not at all. Fucker earned every bit of that."
-    mc "Pas du tout. Cet enfoiré a tout mérité."
+    mc "Pas du tout. Cet enfoiré l'a mérité."
 
 # game/code/d10p2/d10p2s02.rpy:243
 translate french d10p2s01_watch_e0649255:
 
     # irfl "And what about you? {w}You just like to watch?"
-    irfl "Et vous ? {w}Vous aimez juste regarder ?"
+    irfl "Et toi ? {w}Tu as juste regarder ?"
 
 # game/code/d10p2/d10p2s02.rpy:245
 translate french d10p2s01_watch_05500ff6:
@@ -550,19 +550,19 @@ translate french d10p2s01_watch_557c0d5e:
 translate french d10p2s01_watch_acda7c71:
 
     # mc "You seemed to have everything under control."
-    mc "Vous sembliez avoir tout sous contrôle."
+    mc "Tu semblais avoir tout sous contrôle."
 
 # game/code/d10p2/d10p2s02.rpy:252
 translate french d10p2s01_watch_c9573e97:
 
     # irfl "I'm just fucking with you. {w}Thanks for letting me take care of that myself."
-    irfl "Je ne fais que baiser avec toi. {w}Merci de m'avoir laissé m'en occuper moi-même."
+    irfl "Je te fais marcher. {w}Merci de m'avoir laissé m'en occuper moi-même."
 
 # game/code/d10p2/d10p2s02.rpy:255
 translate french d10p2s01_watch_f42664c6:
 
     # mc "You aren't pissed that I took a back seat?"
-    mc "Tu n'es pas énervé que je sois relégué au second plan ?"
+    mc "Tu n'es pas énervé que je sois resté en arrière ?"
 
 # game/code/d10p2/d10p2s02.rpy:258
 translate french d10p2s01_watch_820d9fba:
@@ -574,7 +574,7 @@ translate french d10p2s01_watch_820d9fba:
 translate french d10p2s01_watch_a793b845:
 
     # mc "How glad?"
-    mc "À quel point je suis content ?"
+    mc "À quel point ?"
 
 # game/code/d10p2/d10p2s02.rpy:263
 translate french d10p2s01_watch_dd0a6444:
@@ -592,13 +592,13 @@ translate french d10p2s01_watch_f4a22172:
 translate french d10p2s01_watch_816330c8:
 
     # irfl "Yeah, but I know the difference between a good drink and a great drink."
-    irfl "Ouais, mais je connais la différence entre un bon verre et un bon verre."
+    irfl "Ouais, mais je connais la différence entre un bon verre et un super verre."
 
 # game/code/d10p2/d10p2s02.rpy:272
 translate french d10p2s01_watch_33b372a9:
 
     # mc "I look forward to enjoying the benefits of your knowledge."
-    mc "J'ai hâte de profiter des bénéfices de vos connaissances."
+    mc "J'ai hâte de profiter des bénéfices de tes connaissances."
 
 # game/code/d10p2/d10p2s02.rpy:281
 translate french d10p2s01_end_a7174c62:
@@ -616,7 +616,7 @@ translate french d10p2s01_end_6bb3ef10:
 translate french d10p2s01_end_4d1d4185:
 
     # irfl "Fucker got behind the bar and fingered me while I told him to fuck off."
-    irfl "Fucker s'est mis derrière le bar et m'a doigté pendant que je lui disais de se faire foutre."
+    irfl "Cet enfoiré s'est mis derrière le bar et m'a doigté pendant que je lui disais de se faire foutre."
 
 # game/code/d10p2/d10p2s02.rpy:289
 translate french d10p2s01_end_b627dc1f:
@@ -664,7 +664,7 @@ translate french d10p2s01_end_72e0eeb7:
 translate french d10p2s01_end_38a6fc25:
 
     # mct "Then again, maybe I want her to overreact and end that fucker for good."
-    mct "Là encore, peut-être que je veux qu’elle réagisse de manière excessive et mette fin à cet enfoiré pour de bon."
+    mct "Là encore, peut-être que je veux qu’elle réagisse de manière excessive et qu'elle en finisse avec cet enfoiré pour de bon."
 
 # game/code/d10p2/d10p2s02.rpy:308
 translate french d10p2s01_end_8a019f0f:
@@ -742,13 +742,13 @@ translate french d10p2s01_end_7f08e5f1:
 translate french d10p2s01_end_1974dc6e:
 
     # irfl "Same."
-    irfl "Même."
+    irfl "Pareil."
 
 # game/code/d10p2/d10p2s02.rpy:349
 translate french d10p2s01_end_dc20875f:
 
     # mc "How about a drink?"
-    mc "Un verre vous tente?"
+    mc "Un verre te tente?"
 
 # game/code/d10p2/d10p2s02.rpy:352
 translate french d10p2s01_end_2059d363:
@@ -772,7 +772,7 @@ translate french d10p2s01_end_cb6ea19e:
 translate french d10p2s01_end_a5047747:
 
     # mc "I am standing right here."
-    mc "Je suis debout ici."
+    mc "Je suis juste ici."
 
 # game/code/d10p2/d10p2s02.rpy:373
 translate french d10p2s01_end_70ca1abd:
@@ -808,7 +808,7 @@ translate french d10p2s01_end_253c92a0:
 translate french d10p2s01_end_4e80e348:
 
     # irfl "Refresh my memory{w} - which one of us got molested?"
-    irfl "Rafraîchir ma mémoire{w} : lequel d'entre nous a été agressé ?"
+    irfl "Rafraîchi ma mémoire{w} : lequel d'entre nous a été agressé ?"
 
 # game/code/d10p2/d10p2s02.rpy:392
 translate french d10p2s01_end_8de90664:
@@ -826,13 +826,13 @@ translate french d10p2s01_end_bdc713ec:
 translate french d10p2s01_end_58f6decd:
 
     # mc "I... {w}I guess I'll just leave you to it."
-    mc "Je...{w}Je suppose que je vais vous laisser faire."
+    mc "Je...{w}Je suppose que je vais te laisser."
 
 # game/code/d10p2/d10p2s02.rpy:405
 translate french d10p2s01_end_b2d86e39:
 
     # irfl "You sure you don't just like watching women get harassed?"
-    irfl "Vous êtes sûr que vous n'aimez pas simplement regarder les femmes se faire harceler ?"
+    irfl "Vous êtes sûr que tu n'aimes pas simplement regarder les femmes se faire harceler ?"
 
 # game/code/d10p2/d10p2s02.rpy:408
 translate french d10p2s01_end_0a73aa7b:
@@ -844,25 +844,25 @@ translate french d10p2s01_end_0a73aa7b:
 translate french d10p2s01_end_66ccc53e:
 
     # mc "Even though you hurt him bad {w}and Squizzle is probably going to end him..."
-    mc "Même si vous l'avez gravement blessé {w} et que Squizzle va probablement le tuer..."
+    mc "Même si tu l'as gravement blessé {w} et que Squizzle va probablement le tuer..."
 
 # game/code/d10p2/d10p2s02.rpy:411
 translate french d10p2s01_end_8d8db5cd:
 
     # mc "... I wish I had strangled the life out of that motherfucker myself."
-    mc "...J'aurais aimé étrangler moi-même la vie de cet enfoiré."
+    mc "...J'aurais aimé étrangler moi-même cet enfoiré."
 
 # game/code/d10p2/d10p2s02.rpy:414
 translate french d10p2s01_end_1422b0d5:
 
     # irfl "Top shelf. Best in the house. Just for you."
-    irfl "Étagère supérieure. Le meilleur de la maison. Juste pour toi."
+    irfl "Du haut de gamme. Le meilleur de la maison. Juste pour toi."
 
 # game/code/d10p2/d10p2s02.rpy:423
 translate french d10p2s01_end_9bf7899e:
 
     # mc "Damn. {w}That's some good shit."
-    mc "Condamner. {w}C'est de la bonne merde."
+    mc "Merde. {w}C'est de la bonne."
 
 # game/code/d10p2/d10p2s02.rpy:426
 translate french d10p2s01_end_1f779ffb:
@@ -874,7 +874,7 @@ translate french d10p2s01_end_1f779ffb:
 translate french d10p2s01_end_ebfd5839:
 
     # irfl "Rotten Little Bastard - Coosa Cut Bourbon."
-    irfl "Petit bâtard pourri - Bourbon coupé Coosa."
+    irfl "Petit bâtard pourri - Coosa coupé avec du Bourbon."
 
 # game/code/d10p2/d10p2s02.rpy:428
 translate french d10p2s01_end_61a50450:
@@ -892,7 +892,7 @@ translate french d10p2s01_end_bf2eef07:
 translate french d10p2s01_end_4f882407:
 
     # irfl "You might want to sip this one."
-    irfl "Vous voudrez peut-être siroter celui-ci."
+    irfl "Tu voudrais peut-être siroter celui-ci."
 
 translate french strings:
 
@@ -902,11 +902,11 @@ translate french strings:
 
     # game/code/d10p2/d10p2s02.rpy:58
     old "Just Watch"
-    new "Regarde juste"
+    new "Observer"
 
     # game/code/d10p2/d10p2s02.rpy:143
     old "Came to your rescue"
-    new "Je suis venu à votre secours"
+    new "Je suis venu à ton secours"
 
     # game/code/d10p2/d10p2s02.rpy:143
     old "Came to his rescue"
