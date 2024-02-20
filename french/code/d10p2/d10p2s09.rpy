@@ -334,7 +334,7 @@ translate french d10p2s09_continue_93df2891:
 translate french d10p2s09_continue_dd1a634c:
 
     # aw "Done already?"
-    aw "C'est déjà fait ?"
+    aw "C'est déjà fini ?"
 
 # game/code/d10p2/d10p2s09.rpy:749
 translate french d10p2s09_continue_de618bd8:
