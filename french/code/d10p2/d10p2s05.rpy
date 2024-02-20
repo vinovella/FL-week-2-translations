@@ -4,7 +4,7 @@
 translate french d10p2s05_255d6989:
 
     # mct "Huh. What is going on?"
-    mct "Hein. Que se passe-t-il?"
+    mct "Hein. Qu'est que c'est?"
 
 # game/code/d10p2/d10p2s05.rpy:65
 translate french d10p2s05_2a1d7a01:
@@ -22,7 +22,7 @@ translate french d10p2s05_4d6ee40c:
 translate french d10p2s05_2acb222c:
 
     # fl "You will not be informed about who your partner will be. You will have to go out in search of them."
-    fl "Vous ne serez pas informé de qui sera votre partenaire. Vous devrez partir à leur recherche."
+    fl "Vous ne serez pas informé de qui sera votre partenaire. Vous devrez partir à sa recherche."
 
 # game/code/d10p2/d10p2s05.rpy:68
 translate french d10p2s05_8a32419e:
@@ -40,7 +40,7 @@ translate french d10p2s05_57540a63:
 translate french d10p2s05_bde11749:
 
     # mct "Am I supposed to just look for them blindly!?"
-    mct "Suis-je censé les chercher aveuglément !?"
+    mct "Je suis censé chercher aveuglément !?"
 
 # game/code/d10p2/d10p2s05.rpy:81
 translate french d10p2s05_4929fa63:
@@ -76,7 +76,7 @@ translate french d10p2s05_fr_dd_aw_0be263f7:
 translate french d10p2s05_fr_dd_aw_6ebb1f7a:
 
     # mct "Daisy seems fine now at least."
-    mct "Daisy semble bien, au moins maintenant."
+    mct "Daisy semble bien maintenant, au moins."
 
 # game/code/d10p2/d10p2s05.rpy:273
 translate french d10p2s05_fr_dd_aw2_0be263f7:
@@ -88,7 +88,7 @@ translate french d10p2s05_fr_dd_aw2_0be263f7:
 translate french d10p2s05_fr_dd_aw2_6ebb1f7a:
 
     # mct "Daisy seems fine now at least."
-    mct "Daisy semble bien, au moins maintenant."
+    mct "Daisy semble bien maintenant, au moins."
 
 # game/code/d10p2/d10p2s05.rpy:285
 translate french d10p2s05_fr_arj_ir_bar_8a2c1c71:
@@ -190,7 +190,7 @@ translate french d10p2s05_fr_cl_chat_669664cb:
 translate french d10p2s05_fr_cl_chat_a458071f:
 
     # cl "What are you doing up here, {i}master{/i}?"
-    cl "{i}maître{/i}"
+    cl "Que faites-vous ici, {i}maître{/i}"
 
 # game/code/d10p2/d10p2s05.rpy:387
 translate french d10p2s05_fr_cl_chat_1cbec7b6:
@@ -238,7 +238,7 @@ translate french d10p2s05_fr_cl_chat_ae409746:
 translate french d10p2s05_fr_cl_chat_d8783e6e:
 
     # cl "What's the \"proximity thing\"?"
-    cl "Quel est le \"proximity thing\"?"
+    cl "Quel est ce \"truc de proximité\"?"
 
 # game/code/d10p2/d10p2s05.rpy:405
 translate french d10p2s05_fr_cl_chat_13c2b920:
@@ -460,7 +460,7 @@ translate french replay_d10p2s05_0b1a568b:
 translate french replay_d10p2s05_7ca08ae0:
 
     # mc "Way..."
-    mc "Chemin..."
+    mc "Oauis..."
 
 # game/code/d10p2/d10p2s05.rpy:592
 translate french replay_d10p2s05_f272b6df:
@@ -850,7 +850,7 @@ translate french replay_d10p2s05_3bd00545:
 translate french replay_d10p2s05_1bb47070:
 
     # mh "Your... {w} Dick... {w} Even better!"
-    mh "Votre...{w} Dick...{w} Encore mieux !"
+    mh "Votre...{w} Bite...{w} Encore mieux !"
 
 # game/code/d10p2/d10p2s05.rpy:806
 translate french replay_d10p2s05_b007b238:
@@ -952,7 +952,7 @@ translate french replay_d10p2s05_823a982d:
 translate french replay_d10p2s05_d8ae21f4:
 
     # mh "{i}That{/i}."
-    mh "{i}Que{/i}"
+    mh "{i}ça{/i}"
 
 # game/code/d10p2/d10p2s05.rpy:924
 translate french replay_d10p2s05_0f88ef6c:
@@ -1048,7 +1048,7 @@ translate french strings:
 
     # game/code/d10p2/d10p2s05.rpy:479
     old "If you continue, the free roam will end here. What do you want to do?"
-    new "Si vous continuez, l'itinérance gratuite se terminera ici. Qu'est-ce que vous voulez faire?"
+    new "Si vous continuez, le Déplacement libre s'arrêtera ici. Que voulez-vous faire ?"
 
     # game/code/d10p2/d10p2s05.rpy:534
     old "Go for it"
