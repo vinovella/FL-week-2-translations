@@ -28,7 +28,7 @@ translate french d10p2s07_2aa117b6:
 translate french d10p2s07_f857cff3:
 
     # aw "I don't know if you'd call it \"dating\", but yeah, we used to do stuff together."
-    aw "Je ne sais pas si tu l'appellerais \"dating\", but yeah, we used to do stuff together."
+    aw "Je ne sais pas si tu l'appellerais \"sortie\", mais oui, nous avions l'habitude de faire des choses ensemble."
 
 # game/code/d10p2/d10p2s07.rpy:26
 translate french d10p2s07_d1c8ab6c:
@@ -40,7 +40,7 @@ translate french d10p2s07_d1c8ab6c:
 translate french d10p2s07_fe22efca:
 
     # aw "A physical relationship, sure. Lyssa needed a fuckbuddy, and I was always D.T.F."
-    aw "Une relation physique, bien sûr. Lyssa avait besoin d'un copain, et j'ai toujours été DTF"
+    aw "Une relation physique, bien sûr. Lyssa avait besoin d'un compagnon de baise, et j'ai toujours été prêt à baiser."
 
 # game/code/d10p2/d10p2s07.rpy:30
 translate french d10p2s07_ffe7c7f6:
@@ -52,7 +52,7 @@ translate french d10p2s07_ffe7c7f6:
 translate french d10p2s07_d94e4566:
 
     # aw "Well, I'm always down to fuck her.{w} Actually, I'm almost always down to fuck, but it really depends on the person."
-    aw "Eh bien, je suis toujours prêt à la baiser.{w} En fait, je suis presque toujours prêt à la baiser, mais cela dépend vraiment de la personne."
+    aw "Eh bien, je suis toujours prêt à la baiser.{w} En fait, je suis presque toujours prêt à baiser, mais cela dépend vraiment de la personne."
 
 # game/code/d10p2/d10p2s07.rpy:34
 translate french d10p2s07_6de3ad40:
@@ -64,7 +64,7 @@ translate french d10p2s07_6de3ad40:
 translate french d10p2s07_717001ba:
 
     # aw "I guess she needed a buddy more than a fuckbuddy. She keeps herself so busy there's barely time for anything or anyone else."
-    aw "Je suppose qu'elle avait plus besoin d'un copain que d'un putain de copain. Elle est tellement occupée qu'elle a à peine le temps de s'occuper de quoi que ce soit ou de quelqu'un d'autre."
+    aw "Je suppose qu'elle avait plus besoin d'un copain que d'un compagnon de baise. Elle est tellement occupée qu'elle a à peine le temps de s'occuper de quoi que ce soit ou de quelqu'un d'autre."
 
 # game/code/d10p2/d10p2s07.rpy:39
 translate french d10p2s07_7305baba:
@@ -88,7 +88,7 @@ translate french d10p2s07_05500ff6:
 translate french d10p2s07_9f4a86aa:
 
     # aw "You're asking all this because you're interested in her, right? {w}I mean, you trying to pursue Lyssa romantically?"
-    aw "Vous demandez tout cela parce qu'elle vous intéresse, n'est-ce pas ? {w}Je veux dire, tu essaies de poursuivre Lyssa de façon romantique ?"
+    aw "Tu demandes tout cela parce qu'elle t'intéresse, n'est-ce pas ? {w}Je veux dire, tu essaies de poursuivre Lyssa de façon romantique ?"
 
 # game/code/d10p2/d10p2s07.rpy:50
 translate french d10p2s07_7d3f7873:
@@ -106,7 +106,7 @@ translate french d10p2s07_c951392b:
 translate french d10p2s07_7f49514a:
 
     # aw "Okay, so there are a few things you should know."
-    aw "D'accord, il y a donc quelques choses que vous devriez savoir."
+    aw "D'accord, il y a donc quelques choses que tu devries savoir."
 
 # game/code/d10p2/d10p2s07.rpy:58
 translate french d10p2s07_9b3d0e08:
@@ -250,7 +250,7 @@ translate french d10p2s07_a75cd861:
 translate french d10p2s07_80652ecb:
 
     # mc "Huh. {w}How do you feel about that?"
-    mc "Hein. {w}Que pensez-vous de cela ?"
+    mc "Hein. {w}Que penses-tu de cela ?"
 
 # game/code/d10p2/d10p2s07.rpy:105
 translate french d10p2s07_0df2618b:
@@ -274,7 +274,7 @@ translate french d10p2s07_859f381f:
 translate french d10p2s07_9da21074:
 
     # aw "Did that answer your concern?"
-    aw "Cela a-t-il répondu à votre préoccupation ?"
+    aw "Cela a-t-il répondu à ta préoccupation ?"
 
 # game/code/d10p2/d10p2s07.rpy:113
 translate french d10p2s07_0b81e0c5:
@@ -316,7 +316,7 @@ translate french d10p2s07_28fc3cea:
 translate french d10p2s07_d485a445:
 
     # aw "We won the contest, silly! You & I are performing the main event!"
-    aw "Nous avons gagné le concours, idiot ! Vous et moi jouons l'événement principal !"
+    aw "Nous avons gagné le concours, idiot ! toi et moi jouons l'événement principal !"
 
 # game/code/d10p2/d10p2s07.rpy:134
 translate french d10p2s07_e97abbe2:
@@ -376,7 +376,7 @@ translate french d10p2s07_20126545:
 translate french d10p2s07_a46a9088:
 
     # aw "Don't sell yourself short, sexy. {w}You're hot as fuck, and I want to get screwed by you tonight."
-    aw "Ne vous vendez pas à découvert, sexy. {w}Tu es sexy comme de la merde, et je veux me faire baiser par toi ce soir."
+    aw "Ne te sous-estime pas, sexy {w}Tu es sexy comme de la merde, et je veux me faire baiser par toi ce soir."
 
 # game/code/d10p2/d10p2s07.rpy:159
 translate french d10p2s07_066ac5f7:
@@ -388,7 +388,7 @@ translate french d10p2s07_066ac5f7:
 translate french d10p2s07_27f8058c:
 
     # aw "Pretty much. We have a little time to prepare while everyone assembles on the roof."
-    aw "Plutôt. Nous avons un peu de temps pour nous préparer pendant que tout le monde se rassemble sur le toit."
+    aw "En quelque sorte. Nous avons un peu de temps pour nous préparer pendant que tout le monde se rassemble sur le toit."
 
 # game/code/d10p2/d10p2s07.rpy:163
 translate french d10p2s07_be633724:
@@ -400,7 +400,7 @@ translate french d10p2s07_be633724:
 translate french d10p2s07_d413636d:
 
     # aw "Ha! I wish!{w} Nah, nobody will be able to see us up there except the Party guests."
-    aw "Ha! J'aimerais !{w} Non, personne ne pourra nous voir là-haut à part les invités de la fête."
+    aw "Ha! J'aimerais nien!{w} Non, personne ne pourra nous voir là-haut à part les invités de la fête."
 
 # game/code/d10p2/d10p2s07.rpy:168
 translate french d10p2s07_29ded0a3:
@@ -418,19 +418,19 @@ translate french d10p2s07_c0630f9c:
 translate french d10p2s07_e94f3e75:
 
     # mc "Oiled & lubed? {w}Wait, you're not planning on pegging me, are you?!"
-    mc "Huilé et lubrifié ? {w}Attendez, vous n'avez pas l'intention de m'attacher, n'est-ce pas ?!"
+    mc "Huilé et lubrifié ? {w}Attendez, tu n'as pas l'intention de m'attacher, n'est-ce pas ?!"
 
 # game/code/d10p2/d10p2s07.rpy:175
 translate french d10p2s07_2b32b51f:
 
     # aw "Not unless you really want it."
-    aw "Non, sauf si vous le voulez vraiment."
+    aw "Non, sauf si tu le veux vraiment."
 
 # game/code/d10p2/d10p2s07.rpy:179
 translate french d10p2s07_4918e594:
 
     # mc "Nope! Definitely not!"
-    mc "Non! Définitivement pas!"
+    mc "Non! Définitivement non!"
 
 # game/code/d10p2/d10p2s07.rpy:183
 translate french d10p2s07_573972eb:
@@ -460,7 +460,7 @@ translate french d10p2s07_6998b1a5:
 translate french d10p2s07_1bbf8248:
 
     # aw "Sure, sure. {w}Would you like to hear what I do have in mind?"
-    aw "Bien-sûr. {w}Voulez-vous savoir ce que j'ai en tête ?"
+    aw "Bien-sûr. {w}Veux-tu savoir ce que j'ai en tête ?"
 
 # game/code/d10p2/d10p2s07.rpy:193
 translate french d10p2s07_aaed0a93:
@@ -472,7 +472,7 @@ translate french d10p2s07_aaed0a93:
 translate french d10p2s07_b5be729e:
 
     # aw "Relax, this is going to be fun for both of us. Neither of us is going to do anything they aren't interested in doing."
-    aw "Détendez-vous, ça va être amusant pour nous deux. Aucun de nous ne fera quelque chose qui ne l’intéresse pas."
+    aw "Détend-toi, ça va être amusant pour nous deux. Aucun de nous ne fera quelque chose qui ne l’intéresse pas."
 
 # game/code/d10p2/d10p2s07.rpy:203
 translate french d10p2s07_e87f3ed9:
@@ -490,7 +490,7 @@ translate french d10p2s07_e8648018:
 translate french d10p2s07_498c040f:
 
     # aw "I'll hold my hands behind my back, and you can drag me in on a leash."
-    aw "Je tiendrai mes mains derrière mon dos et vous pourrez me traîner en laisse."
+    aw "Je tiendrai mes mains derrière mon dos et tu pourras me traîner en laisse."
 
 # game/code/d10p2/d10p2s07.rpy:208
 translate french d10p2s07_04fd2c72:
@@ -502,19 +502,19 @@ translate french d10p2s07_04fd2c72:
 translate french d10p2s07_3b70e269:
 
     # aw "Good. So, you play the dominant male; I play your submissive slut."
-    aw "Bien. Donc, vous jouez le mâle dominant ; Je joue ta salope soumise."
+    aw "Bien. Donc, tu joues le mâle dominant ; Je joue ta salope soumise."
 
 # game/code/d10p2/d10p2s07.rpy:211
 translate french d10p2s07_8af37878:
 
     # aw "You present me to the audience, then have your way with me."
-    aw "Vous me présentez au public, puis faites ce que vous voulez avec moi."
+    aw "tu me présentes au public, puis fait ce que tu veux avec moi."
 
 # game/code/d10p2/d10p2s07.rpy:213
 translate french d10p2s07_a00becc9:
 
     # aw "We fuck for as long as you like, in as many ways as you like, until you're done."
-    aw "Nous baisons aussi longtemps que vous le souhaitez, de toutes les manières que vous souhaitez, jusqu'à ce que vous ayez fini."
+    aw "Nous baisons aussi longtemps que vous le souhaitez, de toutes les manières que vous souhaitez, jusqu'à ce que tu as fini."
 
 # game/code/d10p2/d10p2s07.rpy:214
 translate french d10p2s07_2e31bb32:
@@ -532,7 +532,7 @@ translate french d10p2s07_1c467b6e:
 translate french d10p2s07_168723dc:
 
     # aw "No, it's not about that. {w}It just plays better for the audience. They'll want to see you ejaculate."
-    aw "Non, il ne s'agit pas de ça. {w}Cela joue simplement mieux pour le public. Ils voudront vous voir éjaculer."
+    aw "Non, il ne s'agit pas de ça. {w}Cela joue simplement mieux pour le public. Ils voudront te voir éjaculer."
 
 # game/code/d10p2/d10p2s07.rpy:222
 translate french d10p2s07_7e1955a7:
@@ -544,7 +544,7 @@ translate french d10p2s07_7e1955a7:
 translate french d10p2s07_209352df:
 
     # aw "Have you ever performed in front of people before?"
-    aw "Avez-vous déjà joué devant des gens auparavant ?"
+    aw "Aves-tu déjà joué devant des gens auparavant ?"
 
 # game/code/d10p2/d10p2s07.rpy:227
 translate french d10p2s07_b26fce90:
@@ -556,7 +556,7 @@ translate french d10p2s07_b26fce90:
 translate french d10p2s07_5867839d:
 
     # aw "Wow. {w}Well, this will be sorta like that. You focus on me; let me focus on the audience."
-    aw "Ouah. {w}Eh bien, ce sera un peu comme ça. Vous vous concentrez sur moi ; permettez-moi de me concentrer sur le public."
+    aw "Ouah. {w}Eh bien, ce sera un peu comme ça. tu te concentres sur moi ; permet-moi de me concentrer sur le public."
 
 # game/code/d10p2/d10p2s07.rpy:231
 translate french d10p2s07_12ddf388:
@@ -568,19 +568,19 @@ translate french d10p2s07_12ddf388:
 translate french d10p2s07_1befe32d:
 
     # aw "Definitely. You know that feeling when you're in front of a crowd?"
-    aw "Certainement. Vous connaissez cette sensation lorsque vous êtes devant une foule ?"
+    aw "Certainement. tu connaiscette sensation lorsque tu es devant une foule ?"
 
 # game/code/d10p2/d10p2s07.rpy:236
 translate french d10p2s07_4bf06118:
 
     # mc "You mean, like when a teacher singles you out in class and you can feel everyone watching you?"
-    mc "Vous voulez dire, comme lorsqu'un professeur vous cible en classe et que vous sentez que tout le monde vous regarde ?"
+    mc "tu veux dire, comme lorsqu'un professeur te cible en classe et que tu sentes que tout le monde te regarde ?"
 
 # game/code/d10p2/d10p2s07.rpy:239
 translate french d10p2s07_6ac379f5:
 
     # aw "Exactly. {w}There's that electric feeling. Your skin gets warm and blood rushes everywhere."
-    aw "Exactement. {w}Il y a cette sensation électrique. Votre peau se réchauffe et le sang afflue partout."
+    aw "Exactement. {w}Il y a cette sensation électrique. ta peau se réchauffe et le sang afflue partout."
 
 # game/code/d10p2/d10p2s07.rpy:240
 translate french d10p2s07_cb69e669:
@@ -598,7 +598,7 @@ translate french d10p2s07_5c5edf49:
 translate french d10p2s07_3050430a:
 
     # mc "I can see that. {w}So, what should I do between the time that I present you to the audience and when I jerk off on your tits?"
-    mc "Je peux voir ça. {w}Alors, que dois-je faire entre le moment où je vous présente au public et celui où je me branle sur vos seins ?"
+    mc "Je peux voir ça. {w}Alors, que dois-je faire entre le moment où je te présente au public et celui où je me branle sur tes seins ?"
 
 # game/code/d10p2/d10p2s07.rpy:246
 translate french d10p2s07_1a9216d8:
@@ -616,7 +616,7 @@ translate french d10p2s07_ed747f93:
 translate french d10p2s07_de206c09:
 
     # aw "You've danced before, right?"
-    aw "Vous avez déjà dansé, n'est-ce pas ?"
+    aw "tu as déjà dansé, n'est-ce pas ?"
 
 # game/code/d10p2/d10p2s07.rpy:253
 translate french d10p2s07_1f2dbeba:
@@ -628,7 +628,7 @@ translate french d10p2s07_1f2dbeba:
 translate french d10p2s07_43ff938a:
 
     # aw "So, this will be like a dance. You know what the man does while dancing?"
-    aw "Donc, ce sera comme une danse. Vous savez ce que fait l'homme en dansant ?"
+    aw "Donc, ce sera comme une danse. tu sais ce que fait l'homme en dansant ?"
 
 # game/code/d10p2/d10p2s07.rpy:255
 translate french d10p2s07_20075280:
@@ -658,7 +658,7 @@ translate french d10p2s07_ff57599d:
 translate french d10p2s07_66ba84de:
 
     # aw "Do what gives you pleasure, and let me worry about making it look good to the audience."
-    aw "Faites ce qui vous fait plaisir et laissez-moi me soucier de le rendre beau aux yeux du public."
+    aw "Fait ce qui te fait plaisir et laisses-moi me soucier de le rendre beau aux yeux du public."
 
 # game/code/d10p2/d10p2s07.rpy:267
 translate french d10p2s07_c3694256:
@@ -670,7 +670,7 @@ translate french d10p2s07_c3694256:
 translate french d10p2s07_65accbef:
 
     # mc "Yeah, Squizzle told me it was \"Red Rocket\"."
-    mc "Ouais, Squizzle m'a dit que c'était \"Red Rocket\"."
+    mc "Ouais, Squizzle m'a dit que c'était \"Fusée rouge\"."
 
 # game/code/d10p2/d10p2s07.rpy:271
 translate french d10p2s07_62b33f4c:
@@ -682,7 +682,7 @@ translate french d10p2s07_62b33f4c:
 translate french d10p2s07_4cc780f4:
 
     # aw "If you need a break, just tell me my safeword, and I'll entertain the audience solo until you feel ready to rejoin me."
-    aw "Si vous avez besoin d'une pause, dites-moi simplement mon mot de passe et je divertirai le public en solo jusqu'à ce que vous vous sentiez prêt à me rejoindre."
+    aw "Si tu as besoin d'une pause, dit-moi simplement mon mot de passe et je divertirai le public en solo jusqu'à ce que tu te senties prêt à me rejoindre."
 
 # game/code/d10p2/d10p2s07.rpy:275
 translate french d10p2s07_da42a5a0:
@@ -694,7 +694,7 @@ translate french d10p2s07_da42a5a0:
 translate french d10p2s07_73dba87a:
 
     # mc "Do you mind if I ask, why is that your safeword anyway?"
-    mc "Cela vous dérange si je vous demande, pourquoi est-ce votre mot de passe de toute façon ?"
+    mc "Cela te dérange si je te demande, pourquoi est-ce ton mot de passe de toute façon ?"
 
 # game/code/d10p2/d10p2s07.rpy:279
 translate french d10p2s07_6776cdbc:
@@ -730,13 +730,13 @@ translate french d10p2s07_0f256e6a:
 translate french d10p2s07_ef1a5c50:
 
     # aw "Maybe, I guess. {w}Anyway, when I was little I would run around the house as this blur of hair would look like..."
-    aw "Peut-être, je suppose. {w}Quoi qu'il en soit, quand j'étais petite, je courais dans la maison à quoi ressemblait cette mèche de cheveux..."
+    aw "Peut-être, je suppose. {w}Quoi qu'il en soit, quand j'étais petite, Je courrais dans toute la maison et ce flou de cheveux ressemblerait à..."
 
 # game/code/d10p2/d10p2s07.rpy:290
 translate french d10p2s07_4570a276:
 
     # mc "Like a red rocket. Gotcha."
-    mc "Comme une fusée rouge. Je t'ai eu."
+    mc "une fusée rouge. Je t'ai eu."
 
 # game/code/d10p2/d10p2s07.rpy:292
 translate french d10p2s07_a1d9c805:
@@ -784,7 +784,7 @@ translate french d10p2s07_489cb874:
 translate french d10p2s07_bf49ebbb:
 
     # mc "So, with your safe word... {w}It's kinda like he's still looking out for you if you get in trouble?"
-    mc "Alors, avec votre mot de sécurité...{w}C'est un peu comme s'il veillait toujours sur vous si vous aviez des ennuis ?"
+    mc "Alors, avec ton mot de sécurité...{w}C'est un peu comme s'il veillait toujours sur toi si tu as des ennuis ?"
 
 # game/code/d10p2/d10p2s07.rpy:308
 translate french d10p2s07_4e5cf066:
@@ -802,7 +802,7 @@ translate french d10p2s07_2cb53b1c:
 translate french d10p2s07_e0b5529a:
 
     # aw "Anyway, sorry. {w}I didn't mean to bring down the room."
-    aw "Quoi qu'il en soit, désolé. {w}Je ne voulais pas détruire la pièce."
+    aw "Quoi qu'il en soit, désolé. {w}Je ne voulais pas casser l'ambience."
 
 # game/code/d10p2/d10p2s07.rpy:313
 translate french d10p2s07_3d369976:
@@ -814,13 +814,13 @@ translate french d10p2s07_3d369976:
 translate french d10p2s07_e0569004:
 
     # aw "Ha! You're right about that."
-    aw "Ha! Vous avez raison à ce sujet."
+    aw "Ha! tu as raison."
 
 # game/code/d10p2/d10p2s07.rpy:316
 translate french d10p2s07_08d6e8da:
 
     # mc "So, are you ready to get started?"
-    mc "Alors, prêt à vous lancer ?"
+    mc "Alors, prêt à te lancer ?"
 
 # game/code/d10p2/d10p2s07.rpy:319
 translate french d10p2s07_5d37e166:
