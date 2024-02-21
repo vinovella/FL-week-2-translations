@@ -34,7 +34,7 @@ translate french d11s03_aab27f19:
 translate french d11s03_b896c976:
 
     # sy "I got you the lowfat soy decaf."
-    sy "Je t'ai acheté du déca de soja faible en gras."
+    sy "Je t'ai acheté du déca de soja faible allégé."
 
 # game/code/d11/d11s03.rpy:23
 translate french d11s03_e0dfa00b:
@@ -82,7 +82,7 @@ translate french d11s03_d4fe9f2c:
 translate french d11s03_16086ea7:
 
     # mct "Focus on her eyes."
-    mct "Concentrez-vous sur ses yeux."
+    mct "Concentres-toi sur ses yeux."
 
 # game/code/d11/d11s03.rpy:41
 translate french d11s03_295b2f6a:
@@ -106,7 +106,7 @@ translate french d11s03_5ef43fce:
 translate french d11s03_930772d2:
 
     # arj "Sit with his girlfriend."
-    arj "Asseyez-vous avec sa petite amie."
+    arj "S'asseoir avec sa petite amie."
 
 # game/code/d11/d11s03.rpy:50
 translate french d11s03_5dd47cca:
@@ -166,7 +166,7 @@ translate french d11s03_802e7bd9:
 translate french d11s03_68f4a724:
 
     # cl "Are you saying I'm not beautiful?"
-    cl "Êtes-vous en train de dire que je ne suis pas belle ?"
+    cl "Es-tu en train de dire que je ne suis pas belle ?"
 
 # game/code/d11/d11s03.rpy:107
 translate french d11s03_05500ff6:
@@ -178,7 +178,7 @@ translate french d11s03_05500ff6:
 translate french d11s03_ad461e97:
 
     # lc "I'm sure we're both beautiful, but it would be a bit odd if my boyfriend called you that - wouldn't it?"
-    lc "Je suis sûr que nous sommes tous les deux beaux, mais ce serait un peu étrange si mon petit ami t'appelait comme ça, n'est-ce pas ?"
+    lc "Je suis sûr que nous sommes tous les deux belles, mais ce serait un peu étrange si mon petit ami t'appelait comme ça, n'est-ce pas ?"
 
 # game/code/d11/d11s03.rpy:112
 translate french d11s03_054c5ee0:
@@ -190,13 +190,13 @@ translate french d11s03_054c5ee0:
 translate french d11s03_8ee02c81:
 
     # cl "You have a point. {w}I was just playing around."
-    cl "Vous avez raison. {w}Je jouais juste."
+    cl "Tu marques un point.. {w}Je jouais juste."
 
 # game/code/d11/d11s03.rpy:118
 translate french d11s03_7fb8995e:
 
     # mc "So, what's new with you two beautiful women?"
-    mc "Alors, quoi de neuf entre vous deux belles femmes ?"
+    mc "Alors, quoi de neuf  pour ces deux belles femmes ?"
 
 # game/code/d11/d11s03.rpy:122
 translate french d11s03_1e24b003:
@@ -214,7 +214,7 @@ translate french d11s03_9f3783e9:
 translate french d11s03_3050e7a9:
 
     # lc "Min and Antony's break-up. {w}Antony is being an exceptional ass about it."
-    lc "La rupture de Min et Antony. {w}Antony est un connard exceptionnel à ce sujet."
+    lc "La rupture de Min et Antony. {w}Antony est un exceptionnel connard sur ce coup."
 
 # game/code/d11/d11s03.rpy:128
 translate french d11s03_b5641d5b:
@@ -232,7 +232,7 @@ translate french d11s03_742f765c:
 translate french d11s03_b00e57f9:
 
     # cl "I got one too. \"Disgusting slut pig whore\" was used about twenty times."
-    cl "J'en ai un aussi. \"Disgusting slut pig whore\" was used about twenty times."
+    cl "J'en ai un aussi. \"L'expression "dégoûtante salope de pute\" a été utilisée une vingtaine de fois."
 
 # game/code/d11/d11s03.rpy:135
 translate french d11s03_bbd29f6c:
@@ -250,7 +250,7 @@ translate french d11s03_bb02bceb:
 translate french d11s03_0c6f7c71:
 
     # lc "Are you kidding me? After the things he wrote?"
-    lc "Vous plaisantez j'espère? Après les choses qu'il a écrites ?"
+    lc "Tu plaisantes j'espère? Après les choses qu'il a écrites ?"
 
 # game/code/d11/d11s03.rpy:143
 translate french d11s03_918b205e:
@@ -268,7 +268,7 @@ translate french d11s03_2bbfbf26:
 translate french d11s03_0debc89b:
 
     # cl "I mean, sure. He's a macho neanderthal who couldn't stop cheating on her, and gets all bent out of shape the first time she cheats on him..."
-    cl "Je veux dire, bien sûr. C'est un Néandertalien macho qui ne pouvait s'empêcher de la tromper, et se déforme la première fois qu'elle le trompe..."
+    cl "Je veux dire, bien sûr. C'est un Néandertalien macho qui ne pouvait s'empêcher de la tromper, et qui se met dans tous ses états la première fois qu'elle le trompe..."
 
 # game/code/d11/d11s03.rpy:150
 translate french d11s03_3ac4cef5:
@@ -304,13 +304,13 @@ translate french d11s03_12b2fa40:
 translate french d11s03_af377c00:
 
     # cl "Well, I won't be letting him throw me on any pool tables and pound me deeply with his cue - I'll tell you that much."
-    cl "Eh bien, je ne le laisserai pas me jeter sur une table de billard et me frapper profondément avec sa queue – je vais vous le dire."
+    cl "Eh bien, je ne le laisserai pas me jeter sur une table de billard et me frapper profondément avec sa queue – je vais te le dire."
 
 # game/code/d11/d11s03.rpy:162
 translate french d11s03_c24937e8:
 
     # lc "You're impossible."
-    lc "Vous êtes impossible."
+    lc "Ty es impossible."
 
 # game/code/d11/d11s03.rpy:166
 translate french d11s03_74de57fb:
@@ -364,31 +364,31 @@ translate french d11s03_39ed49ab:
 translate french d11s03_6e12bb67:
 
     # cl "You can call it that. What I said was that it hurts to sit down."
-    cl "Vous pouvez l'appeler ainsi. Ce que j'ai dit, c'est que ça fait mal de s'asseoir."
+    cl "Tu peux l'appeler ainsi. Ce que j'ai dit, c'est que ça fait mal de s'asseoir."
 
 # game/code/d11/d11s03.rpy:189
 translate french d11s03_32889b51:
 
     # lc "You didn't just say that - you practically flashed half the class showing off your bruises!"
-    lc "Vous n'avez pas simplement dit cela : vous avez pratiquement montré la moitié de la classe en montrant vos bleus !"
+    lc "Tu n'as pas simplement dit cela : tu as pratiquement flashé la moitié de la classe en montrant tes bleus ! !"
 
 # game/code/d11/d11s03.rpy:191
 translate french d11s03_ed6aa3b9:
 
     # cl "Well, you asked. Besides, I'm wearing underwear."
-    cl "Eh bien, vous avez demandé. En plus, je porte des sous-vêtements."
+    cl "Eh bien, tu avais demandé. En plus, je porte des sous-vêtements."
 
 # game/code/d11/d11s03.rpy:194
 translate french d11s03_b440ae4e:
 
     # lc "I know, I know. You've worn less than that at the beach..."
-    lc "Je sais je sais. Vous en avez porté moins à la plage..."
+    lc "Je sais je sais. Tu as porté moins que ça à la plage..."
 
 # game/code/d11/d11s03.rpy:195
 translate french d11s03_36fc83c9:
 
     # cl "And on stage. Don't forget last Spring's performance of-"
-    cl "Et sur scène. N'oubliez pas la performance du printemps dernier de-"
+    cl "Et sur scène. N'oublie pas la performance du printemps dernier de-"
 
 # game/code/d11/d11s03.rpy:197
 translate french d11s03_e0237213:
@@ -412,13 +412,13 @@ translate french d11s03_b624427f:
 translate french d11s03_92181399:
 
     # cl "Are you sure you want to hear about what I did? Your boyfriend probably has some good stories."
-    cl "Êtes-vous sûr de vouloir entendre parler de ce que j'ai fait ? Votre petit ami a probablement de bonnes histoires."
+    cl "Es-tu sûr de vouloir entendre parler de ce que j'ai fait ? Ton petit ami a probablement de bonnes histoires."
 
 # game/code/d11/d11s03.rpy:206
 translate french d11s03_1e3f1bcb:
 
     # mc "Well, you know we aren't supposed to talk about this sort of thing - what happens in Vegas stays in Vegas."
-    mc "Eh bien, vous savez, nous ne sommes pas censés parler de ce genre de choses : ce qui se passe à Vegas reste à Vegas."
+    mc "Eh bien, tu sais, nous ne sommes pas censés parler de ce genre de choses : ce qui se passe à Vegas reste à Vegas."
 
 # game/code/d11/d11s03.rpy:209
 translate french d11s03_3d0c7425:
@@ -430,13 +430,13 @@ translate french d11s03_3d0c7425:
 translate french d11s03_4211037f:
 
     # cl "He's right, but you're also correct. Hmm."
-    cl "Il a raison, mais vous avez également raison. Hmm."
+    cl "Il a raison, mais tu as également raison. Hmm."
 
 # game/code/d11/d11s03.rpy:214
 translate french d11s03_bd7d6798:
 
     # cl "Maybe we could tell you at the next Party. Are you going to that?"
-    cl "Peut-être qu'on pourrait vous le dire lors de la prochaine soirée. Est-ce que tu vas à ça ?"
+    cl "Peut-être qu'on pourrait te le dire lors de la prochaine soirée. Est-ce que tu y vas?"
 
 # game/code/d11/d11s03.rpy:216
 translate french d11s03_3b711c7b:
@@ -460,7 +460,7 @@ translate french d11s03_ac210da1:
 translate french d11s03_1c9edac7:
 
     # arj "Shh... Other people are around. We're interrupting."
-    arj "Chut...Il y a d'autres personnes dans les parages. Nous vous interrompons."
+    arj "Chut... Il y a d'autres personnes autour. On les dérange.."
 
 # game/code/d11/d11s03.rpy:232
 translate french d11s03_3e5dd6ff:
@@ -478,7 +478,7 @@ translate french d11s03_64f6c9cf:
 translate french d11s03_f9fe03c4:
 
     # mc "Don't worry. I'll tell you all about it later."
-    mc "Ne t'inquiète pas. Je vous raconterai tout plus tard."
+    mc "Ne t'inquiète pas. Je te raconterai tout plus tard."
 
 # game/code/d11/d11s03.rpy:240
 translate french d11s03_7ea0ea0e:
@@ -496,13 +496,13 @@ translate french d11s03_b124a111:
 translate french d11s03_52cb97be:
 
     # lc "This was fun, but alas, it's time to get back to the slog."
-    lc "C'était amusant, mais hélas, il est temps de revenir au travail."
+    lc "C'était amusant, mais hélas, il est temps de retourner au charbon."
 
 # game/code/d11/d11s03.rpy:248
 translate french d11s03_cb69b9fd:
 
     # mc "You sound like you're going off to serve hard labor."
-    mc "On dirait que vous partez aux travaux forcés."
+    mc "On dirait que tu partes aux travaux forcés."
 
 # game/code/d11/d11s03.rpy:251
 translate french d11s03_4ff046a3:
@@ -520,13 +520,13 @@ translate french d11s03_1cb79e45:
 translate french d11s03_fc2a0f22:
 
     # mc "Won't you get in trouble for being late?"
-    mc "N'aurez-vous pas des ennuis à cause de votre retard ?"
+    mc "Tu n'auras pas des ennuis à cause de ton retard ?"
 
 # game/code/d11/d11s03.rpy:259
 translate french d11s03_9c6e3673:
 
     # lc "Yeah. Someone might think you deserve a spanking."
-    lc "Ouais. Quelqu’un pourrait penser que vous méritez une fessée."
+    lc "Ouais. Quelqu’un pourrait penser que tu mérites une fessée."
 
 # game/code/d11/d11s03.rpy:261
 translate french d11s03_ffe016c4:
@@ -556,13 +556,13 @@ translate french d11s03_b7583ae3:
 translate french d11s03_e0010acc:
 
     # mc "Oh? What's that?"
-    mc "Oh? Qu'est ce que c'est?"
+    mc "Oh? Que veux-tu dire ?"
 
 # game/code/d11/d11s03.rpy:275
 translate french d11s03_f40f1a84:
 
     # cl "Imagine what would happen if your girlfriend learned how much fun you really had at last night's party."
-    cl "Imaginez ce qui se passerait si votre petite amie apprenait à quel point vous vous êtes vraiment amusé lors de la fête d'hier soir."
+    cl "Imaginez ce qui se passerait si ta petite amie apprenait à quel point tu t'es vraiment amusé lors de la fête d'hier soir."
 
 # game/code/d11/d11s03.rpy:277
 translate french d11s03_12a5256d:
@@ -574,19 +574,19 @@ translate french d11s03_12a5256d:
 translate french d11s03_613e8fac:
 
     # cl "What do you think will happen if she learns that you fucked both of her closest friends?"
-    cl "À votre avis, que se passera-t-il si elle apprend que vous avez baisé ses deux amis les plus proches ?"
+    cl "À ton avis, que se passera-t-il si elle apprend que tu as baisé ses deux amis les plus proches ?"
 
 # game/code/d11/d11s03.rpy:282
 translate french d11s03_4a1f60c6:
 
     # cl "That you pinned me against the wall and pounded on my backdoor, then later with Min you alternated between pissing on and pussy pounding."
-    cl "Que tu m'as plaqué contre le mur et que tu as frappé sur ma porte arrière, puis plus tard avec Min tu as alterné entre pisser et marteler la chatte."
+    cl "Que tu m'as plaqué contre le mur et que tu as frappé ma porte arrière, puis plus tard avec Min tu as alterné entre lui pisser sa bouche et marteler sa chatte."
 
 # game/code/d11/d11s03.rpy:284
 translate french d11s03_e1de5751:
 
     # cl "That you pinned me against the wall and violated my backdoor, then later with Min you alternated between pissing on and pussy pounding."
-    cl "Que tu m'as plaqué contre le mur et violé ma porte dérobée, puis plus tard avec Min tu as alterné entre pisser et marteler la chatte."
+    cl "Que tu m'as plaqué contre le mur et violé ma porte dérobée, puis plus tard avec Min tu as alterné entre lui pisser sa bouche et marteler sa chatte."
 
 # game/code/d11/d11s03.rpy:285
 translate french d11s03_0b2bf9ba:
@@ -598,7 +598,7 @@ translate french d11s03_0b2bf9ba:
 translate french d11s03_daeb7d70:
 
     # mc "I... {w}What are you suggesting?"
-    mc "Je...{w}Que suggérez-vous ?"
+    mc "Je...{w}Que suggéres-tu ?"
 
 # game/code/d11/d11s03.rpy:291
 translate french d11s03_c6912e33:
@@ -628,13 +628,13 @@ translate french d11s03_8852e77f:
 translate french d11s03_02897717:
 
     # cl "Do you understand what I'm saying?"
-    cl "Comprenez-vous ce que je dis?"
+    cl "Comprenes-tu ce que je dis?"
 
 # game/code/d11/d11s03.rpy:303
 translate french d11s03_6bf95422:
 
     # mc "Not in the slightest."
-    mc "Pas du tout."
+    mc "Pas le moins du monde."
 
 # game/code/d11/d11s03.rpy:306
 translate french d11s03_f8fbfc90:
@@ -658,7 +658,7 @@ translate french d11s03_ddd584c4:
 translate french d11s03_f1593ce8:
 
     # mct "This is almost funny. She thinks she can play me."
-    mct "C'est presque drôle. Elle pense qu'elle peut me jouer."
+    mct "C'est presque drôle. Elle pense qu'elle peut jouer avec moi."
 
 # game/code/d11/d11s03.rpy:315
 translate french d11s03_9b75d505:
@@ -676,13 +676,13 @@ translate french d11s03_a98f461c:
 translate french d11s03_a1fd6321:
 
     # mc "What do you want from me?"
-    mc "Que voulez-vous de moi?"
+    mc "Que veux-tu de moi?"
 
 # game/code/d11/d11s03.rpy:325
 translate french d11s03_5743abf0:
 
     # cl "I don't know yet, but you'll find out soon."
-    cl "Je ne le sais pas encore, mais vous le saurez bientôt."
+    cl "Je ne le sais pas encore, mais tu le sauras bientôt."
 
 # game/code/d11/d11s03.rpy:326
 translate french d11s03_592a17f3_1:
@@ -700,7 +700,7 @@ translate french d11s03_941b5923:
 translate french d11s03_1a279eae:
 
     # mc "L-O-Fucking-L."
-    mc "LO-Putain-L."
+    mc "L-O- Attend la suite L."
 
 # game/code/d11/d11s03.rpy:336
 translate french d11s03_692be019:
@@ -712,7 +712,7 @@ translate french d11s03_692be019:
 translate french d11s03_be90e0c9:
 
     # mc "You want to tell her? Go ahead."
-    mc "Tu veux lui dire ? Poursuivre."
+    mc "Tu veux lui dire ? Va-y."
 
 # game/code/d11/d11s03.rpy:341
 translate french d11s03_a2c20e1e:
@@ -724,13 +724,13 @@ translate french d11s03_a2c20e1e:
 translate french d11s03_6215796a:
 
     # mc "I don't think you understand."
-    mc "Je ne pense pas que tu comprennes."
+    mc "JE ne pense pas que tu comprennes."
 
 # game/code/d11/d11s03.rpy:345
 translate french d11s03_c991a27d:
 
     # mc "I've already told her about pounding your ass."
-    mc "Je lui ai déjà parlé de te botter le cul."
+    mc "Je lui ai déjà parlé que je t'ai botter le cul."
 
 # game/code/d11/d11s03.rpy:347
 translate french d11s03_42e49392:
@@ -760,7 +760,7 @@ translate french d11s03_49512324:
 translate french d11s03_486f5a07:
 
     # mc "Do you really think I would cheat - on HER???"
-    mc "Pensez-vous vraiment que je la tromperais ???"
+    mc "Penses-tu vraiment que je la tromperais ???"
 
 # game/code/d11/d11s03.rpy:359
 translate french d11s03_4bd3a4d6:
@@ -772,19 +772,19 @@ translate french d11s03_4bd3a4d6:
 translate french d11s03_8248b385:
 
     # cl "You're messing with me. You wouldn't tell her about what we did."
-    cl "Vous me dérangez. Tu ne lui dirais pas ce que nous avons fait."
+    cl "Tu te fous de moi. Tu ne lui dirais pas ce que nous avons fait."
 
 # game/code/d11/d11s03.rpy:363
 translate french d11s03_e3726eee:
 
     # mc "Believe what you want."
-    mc "Croyez ce que vous voulez."
+    mc "Crois ce que tu veux."
 
 # game/code/d11/d11s03.rpy:364
 translate french d11s03_e32f2360:
 
     # mc "I'm sure she'll be very amused to know you tried to blackmail her boyfriend, though."
-    mc "Je suis sûr qu'elle sera très amusée d'apprendre que vous avez essayé de faire chanter son petit ami."
+    mc "Je suis sûr qu'elle sera très amusée d'apprendre que tu as essayé de faire chanter son petit ami."
 
 # game/code/d11/d11s03.rpy:367
 translate french d11s03_7739149e:
@@ -814,7 +814,7 @@ translate french d11s03_be0d3112:
 translate french d11s03_198c5226:
 
     # cl "Oh, good. {w}Wait - why not?"
-    cl "Oh super. {w}Attendez, pourquoi pas ?"
+    cl "Oh super. {w}Attend, pourquoi pas ?"
 
 # game/code/d11/d11s03.rpy:379
 translate french d11s03_bb86e639:
@@ -826,7 +826,7 @@ translate french d11s03_bb86e639:
 translate french d11s03_8235ee0d:
 
     # mc "Just relax. I'm not going to blackmail you."
-    mc "Détends-toi. Je ne vais pas vous faire chanter."
+    mc "Détends-toi. Je ne vais pas te faire chanter."
 
 # game/code/d11/d11s03.rpy:383
 translate french d11s03_812d91eb:
@@ -856,7 +856,7 @@ translate french d11s03_66ded5f5:
 translate french d11s03_470a30fd:
 
     # mc "Do you know who?"
-    mc "Savez-vous qui ?"
+    mc "Tu sais qui ?"
 
 # game/code/d11/d11s03.rpy:399
 translate french d11s03_10bbbad2:
@@ -916,13 +916,13 @@ translate french d11s03_8d84c0eb:
 translate french d11s03_5507db92:
 
     # mc "Hello, ladies. Whatcha talking about?"
-    mc "Salut les filles. De quoi tu parles ?"
+    mc "Salut les filles. De quoi vous parlez ?"
 
 # game/code/d11/d11s03.rpy:426
 translate french d11s03_8a62a165:
 
     # sy "Oh! [mcname]!{w} We're just talking about some delicious sauce that you made."
-    sy "Oh! [mcname] !{w} Nous parlons juste d'une délicieuse sauce que vous avez préparée."
+    sy "Oh! [mcname] !{w} Nous parlons juste d'une délicieuse sauce que tu as préparée."
 
 # game/code/d11/d11s03.rpy:428
 translate french d11s03_48b5c9ee:
@@ -952,7 +952,7 @@ translate french d11s03_12a841e3:
 translate french d11s03_7bce524a:
 
     # mc "The trick of it is using a little ginger and brown sugar."
-    mc "L’astuce consiste à utiliser un peu de gingembre et de cassonade."
+    mc "L’astuce consiste à utiliser un peu de gingembre et de sucre roux."
 
 # game/code/d11/d11s03.rpy:439
 translate french d11s03_f31e6828:
@@ -964,7 +964,7 @@ translate french d11s03_f31e6828:
 translate french d11s03_dd07ac3e:
 
     # mc "You can add red wine if you like... {w}What - why are you two giggling?"
-    mc "Vous pouvez ajouter du vin rouge si vous le souhaitez...{w}Quoi ? Pourquoi vous riez tous les deux ?"
+    mc "Tu peux ajouter du vin rouge si tu le souhaites...{w}Quoi ? Pourquoi vous riez tous les deux ?"
 
 # game/code/d11/d11s03.rpy:444
 translate french d11s03_2751be23:
@@ -976,7 +976,7 @@ translate french d11s03_2751be23:
 translate french d11s03_0324c327:
 
     # sy "We didn't mean-"
-    sy "Nous ne voulions pas dire-"
+    sy "Nous ne voulions pas-"
 
 # game/code/d11/d11s03.rpy:449
 translate french d11s03_7ff41209:
@@ -1042,7 +1042,7 @@ translate french d11s03_74e09821:
 translate french d11s03_b4f74e24:
 
     # sy "You don't like it?"
-    sy "Vous n'aimez pas ça ?"
+    sy "Tu n'as pas ça ?"
 
 # game/code/d11/d11s03.rpy:484
 translate french d11s03_b1ecebeb:
@@ -1072,7 +1072,7 @@ translate french d11s03_211ac65e:
 translate french d11s03_9a18775d:
 
     # arj "Except she didn't use temporary color. She dyed permanently."
-    arj "Sauf qu'elle n'a pas utilisé de couleur temporaire. Elle est morte définitivement."
+    arj "Sauf qu'elle n'a pas utilisé de couleur temporaire. Elle s'est teinte de façon permanente."
 
 # game/code/d11/d11s03.rpy:496
 translate french d11s03_495b75c3:
@@ -1084,7 +1084,7 @@ translate french d11s03_495b75c3:
 translate french d11s03_a56cbef8:
 
     # arj "I can show her how to fix it later."
-    arj "Je pourrai lui montrer comment résoudre ce problème plus tard."
+    arj "Je pourrai lui montrer comment résoudre plus tard."
 
 # game/code/d11/d11s03.rpy:501
 translate french d11s03_94c41330:
@@ -1096,7 +1096,7 @@ translate french d11s03_94c41330:
 translate french d11s03_27ed0fec:
 
     # mc "It is very cool. {w}Maybe too cool for you."
-    mc "C'est très cool. {w}Peut-être trop cool pour vous."
+    mc "C'est très cool. {w}Peut-être trop cool pour toi."
 
 # game/code/d11/d11s03.rpy:506
 translate french d11s03_aa00bed1:
@@ -1126,13 +1126,13 @@ translate french d11s03_cfe93093:
 translate french d11s03_89fc6124:
 
     # sy "[mcname]."
-    sy "[nom mc]."
+    sy "[mcname]."
 
 # game/code/d11/d11s03.rpy:519
 translate french d11s03_055b7d05:
 
     # arj "Yup. Just plain ole' [mcname]."
-    arj "Ouais. Tout simplement vieux [mcname]."
+    arj "Ouais. Tout simplement le bon vieux [mcname]."
 
 # game/code/d11/d11s03.rpy:521
 translate french d11s03_026c7681:
@@ -1144,7 +1144,7 @@ translate french d11s03_026c7681:
 translate french d11s03_93507fb6:
 
     # arj "Don't feel bad. You get to hang out with us!"
-    arj "Ne vous sentez pas mal. Vous pouvez passer du temps avec nous !"
+    arj "Ne te sentes pas mal. tu peux passer du temps avec nous !"
 
 # game/code/d11/d11s03.rpy:527
 translate french d11s03_28799c91:
@@ -1204,7 +1204,7 @@ translate french d11s03_52f08b9e:
 translate french d11s03_791f65a2:
 
     # arj "Still. You shouldn't know the size of-"
-    arj "Toujours. Tu ne devrais pas connaître la taille de-"
+    arj "Toujours est-il que Tu ne devrais pas connaître la taille de-"
 
 # game/code/d11/d11s03.rpy:550
 translate french d11s03_944ea3e9:
@@ -1222,7 +1222,7 @@ translate french d11s03_1f0db785:
 translate french d11s03_2f9e4549:
 
     # mc "We probably shouldn't talk about that in public like this."
-    mc "Nous ne devrions probablement pas en parler en public de cette façon."
+    mc "Nous ne devrions probablement pas en parler en public."
 
 # game/code/d11/d11s03.rpy:557
 translate french d11s03_6b5dd039:
@@ -1246,7 +1246,7 @@ translate french d11s03_27e7b876:
 translate french d11s03_8891eb76:
 
     # sy "How did you feel watching that?"
-    sy "Qu’avez-vous ressenti en regardant ça ?"
+    sy "Qu’as-tu ressenti en regardant ça ?"
 
 # game/code/d11/d11s03.rpy:567
 translate french d11s03_4407e3a0:
@@ -1294,7 +1294,7 @@ translate french d11s03_250d44ab:
 translate french d11s03_415c4360:
 
     # sy "Relax. It's no big deal. It looked quite romantic."
-    sy "Se détendre. Ce n'est pas grand chose. Cela avait l'air assez romantique."
+    sy "Relax. Ce n'est pas grand chose. Cela avait l'air assez romantique."
 
 # game/code/d11/d11s03.rpy:587
 translate french d11s03_eca6b3c3:
@@ -1312,13 +1312,13 @@ translate french d11s03_888bfef5:
 translate french d11s03_dc20b638:
 
     # mc "When you were watching the main event last night, how did you feel about it?"
-    mc "Hier soir, lorsque vous regardiez l’événement principal, qu’avez-vous ressenti ?"
+    mc "Hier soir, lorsque tu regardais l’événement principal, qu’as-tu ressenti ?"
 
 # game/code/d11/d11s03.rpy:592
 translate french d11s03_f529fdb4:
 
     # sy "How do you feel about watching your not-boyfriend having sex with someone else?"
-    sy "Que pensez-vous de voir votre non-petit-ami coucher avec quelqu'un d'autre ?"
+    sy "qu'as tu pensé en voyant ton non-petit-ami coucher avec quelqu'un d'autre ?"
 
 # game/code/d11/d11s03.rpy:595
 translate french d11s03_cfbf55d2:
@@ -1372,13 +1372,13 @@ translate french d11s03_2566cedc:
 translate french d11s03_ac4f0c92:
 
     # arj "I was just envious. I wished that it was me in their place."
-    arj "J'étais juste envieux. J'aurais aimé que ce soit moi à leur place."
+    arj "J'étais juste envieux. J'aurais aimé que ce soit moi à la place."
 
 # game/code/d11/d11s03.rpy:613
 translate french d11s03_d02ddd67:
 
     # mc "You're not upset or angry at me?"
-    mc "Vous n'êtes pas contrarié ou en colère contre moi ?"
+    mc "Tu n'es pas contrarié ou en colère contre moi ?"
 
 # game/code/d11/d11s03.rpy:616
 translate french d11s03_4e65bc4d:
@@ -1390,7 +1390,7 @@ translate french d11s03_4e65bc4d:
 translate french d11s03_34c6664a:
 
     # sy "So if you are not upset... are you happy?"
-    sy "Alors si vous n'êtes pas contrarié...êtes-vous heureux ?"
+    sy "Alors si tu n'es pas contrarié...es-tu heureux ?"
 
 # game/code/d11/d11s03.rpy:626
 translate french d11s03_84be4ebc:
@@ -1438,13 +1438,13 @@ translate french d11s03_5ef43fce_1:
 translate french d11s03_2b2b3cff:
 
     # arj "I spilled my guts. What did you think about what you saw last night at the party?"
-    arj "J'ai renversé mes tripes. Qu'avez-vous pensé de ce que vous avez vu hier soir à la fête ?"
+    arj "J'ai craché le morceau. Qu'as-tu pensé de ce que tu as vu hier soir à la fête ?"
 
 # game/code/d11/d11s03.rpy:641
 translate french d11s03_bf583411:
 
     # sy "I mean, at first I was thinking, \"Is this what college is like?\""
-    sy "Je veux dire, au début je pensais, \"Is this what college is like?\""
+    sy "Je veux dire, au début je pensais, \"C'est à ça que ressemble l'université ?\""
 
 # game/code/d11/d11s03.rpy:644
 translate french d11s03_7f08e5f1:
@@ -1486,7 +1486,7 @@ translate french d11s03_572bcec9:
 translate french d11s03_4e0f9f72:
 
     # sy "AmRose told me about your challenge."
-    sy "AmRose m'a parlé de votre défi."
+    sy "AmRose m'a parlé de ton défi."
 
 # game/code/d11/d11s03.rpy:673
 translate french d11s03_bfc21211:
@@ -1498,7 +1498,7 @@ translate french d11s03_bfc21211:
 translate french d11s03_49f9bf11:
 
     # arj "My job is to help you with your challenge. Part of that is telling other people about your goal."
-    arj "Mon travail consiste à vous aider à relever votre défi. Cela consiste en partie à parler de votre objectif aux autres."
+    arj "Mon travail consiste à t'aider à relever ton défi. Cela consiste en partie à parler de ton objectif aux autres."
 
 # game/code/d11/d11s03.rpy:679
 translate french d11s03_cb1d4e54:
@@ -1546,7 +1546,7 @@ translate french d11s03_5ce4b801:
 translate french d11s03_73ecae14:
 
     # sy "Are you kidding? It's a terrific idea!"
-    sy "Est-ce que vous plaisantez? C'est une superbe idée !"
+    sy "Est-ce que tu plaisantes? C'est une superbe idée !"
 
 # game/code/d11/d11s03.rpy:698
 translate french d11s03_ef7f2028:
@@ -1576,7 +1576,7 @@ translate french d11s03_8d4359e9:
 translate french d11s03_4cb81fb9:
 
     # arj "You know what I meant. {w}It's not like we could just say \"Come to the Fuck our Friend Party\""
-    arj "Tu sais ce que je voulais dire. {w}Ce n'est pas comme si nous pouvions simplement dire \"Come to the Fuck our Friend Party\""
+    arj "Tu sais ce que je voulais dire. {w}Ce n'est pas comme si nous pouvions simplement dire \"Venez à la fête pour baiser notre ami\""
 
 # game/code/d11/d11s03.rpy:710
 translate french d11s03_0e78ba79:
@@ -1588,7 +1588,7 @@ translate french d11s03_0e78ba79:
 translate french d11s03_d8bbe249:
 
     # arj "How many people do you know that would actually go to an orgy?"
-    arj "Combien de personnes connaissez-vous qui iraient réellement à une orgie ?"
+    arj "Combien de personnes connais-tu qui iraient réellement à une orgie ?"
 
 # game/code/d11/d11s03.rpy:715
 translate french d11s03_3bff5968:
@@ -1618,7 +1618,7 @@ translate french d11s03_9e00f950:
 translate french d11s03_50d3a46d:
 
     # sy "Good, then buzz off. We need to brainstorm."
-    sy "Bien, alors partez. Nous devons réfléchir."
+    sy "Bien, alors vas-y. Nous devons réfléchir."
 
 # game/code/d11/d11s03.rpy:733
 translate french d11s03_7c29358c:
