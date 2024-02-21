@@ -136,19 +136,19 @@ translate french d11s01_45a490d4:
 translate french d11s01_df5ef0a5:
 
     # mc "What."
-    mc "Quoi."
+    mc "Putain."
 
 # game/code/d11/d11s01.rpy:70
 translate french d11s01_21d2b7cd:
 
     # mc "The."
-    mc "Le."
+    mc "De."
 
 # game/code/d11/d11s01.rpy:71
 translate french d11s01_628bf4a3:
 
     # mc "Fuck."
-    mc "Putain."
+    mc "Merde."
 
 # game/code/d11/d11s01.rpy:78
 translate french d11s01_8958d0fb:
@@ -160,7 +160,7 @@ translate french d11s01_8958d0fb:
 translate french d11s01_c7478b7d:
 
     # mct "Forget the task for the moment. Forget the damn tracker on my wrist."
-    mct "Oubliez la tâche pour le moment. Oubliez ce foutu tracker à mon poignet."
+    mct "Oublions la tâche pour le moment. Oublions ce foutu tracker à mon poignet."
 
 # game/code/d11/d11s01.rpy:81
 translate french d11s01_f0f72b5e:
@@ -208,7 +208,7 @@ translate french d11s01_4d3455e8:
 translate french d11s01_33fd8edc:
 
     # mct "Fuck that. Can't make me do it. {w}I won't allow it."
-    mct "Putain ça. Je ne peux pas m'y obliger. {w}Je ne le permettrai pas."
+    mct "Putain ça. on ne peux pas m'y obliger. {w}Je ne le permettrai pas."
 
 # game/code/d11/d11s01.rpy:94
 translate french d11s01_b4624e6c:
@@ -280,7 +280,7 @@ translate french d11s01_77778bd7:
 translate french d11s01_ee3f84ef:
 
     # mct "Daisy seems like she's always D.T.F. when I'm involved."
-    mct "Daisy a l'air d'être toujours DTF quand je suis impliqué."
+    mct "Daisy a l'air d'être toujours partante quand je suis impliqué."
 
 # game/code/d11/d11s01.rpy:135
 translate french d11s01_83b85279:
@@ -304,7 +304,7 @@ translate french d11s01_e4127198:
 translate french d11s01_3d19e378:
 
     # mct "Vanessa is a hot M.I.L.F. who definitely wants my D."
-    mct "Vanessa est une MILF chaude qui veut vraiment mon D."
+    mct "Vanessa est une MILF chaude qui veut vraiment Ma B."
 
 # game/code/d11/d11s01.rpy:153
 translate french d11s01_936514ac:
@@ -328,7 +328,7 @@ translate french d11s01_d2deae19:
 translate french d11s01_64de1bfd:
 
     # mct "That's [d11s01_pfucks]. More than I would have imagined before this app existed, but still a long way from 20 different people I could have sex with."
-    mct "C'est [d11s01_pfucks]. Plus que ce que j'aurais imaginé avant que cette application n'existe, mais encore loin des 20 personnes différentes avec qui je pourrais coucher."
+    mct "ça fait [d11s01_pfucks]. Plus que ce que j'aurais imaginé avant que cette application n'existe, mais encore loin des 20 personnes différentes avec qui je pourrais coucher."
 
 # game/code/d11/d11s01.rpy:167
 translate french d11s01_28fc6daf:
@@ -394,7 +394,7 @@ translate french d11s01_8bac87f1:
 translate french d11s01_e0584415:
 
     # mc "You seem rather chipper this morning."
-    mc "Vous semblez plutôt joyeux ce matin."
+    mc "Tu sembles plutôt joyeux ce matin."
 
 # game/code/d11/d11s01.rpy:203
 translate french d11s01_6a10466d:
@@ -412,7 +412,7 @@ translate french d11s01_3a3ccdfb:
 translate french d11s01_9fa7ca11:
 
     # arj "First, drink your coffee. That's the second best way to start the day!"
-    arj "Tout d’abord, buvez votre café. C'est la deuxième meilleure façon de commencer la journée !"
+    arj "Tout d’abord, boit votre café. C'est la deuxième meilleure façon de commencer la journée !"
 
 # game/code/d11/d11s01.rpy:213
 translate french d11s01_332539e9:
@@ -466,7 +466,7 @@ translate french d11s01_a1b21b5a:
 translate french d11s01_38be3a8d:
 
     # mc "Keep going... Read about the reward..."
-    mc "Continuez...Découvrez la récompense..."
+    mc "Continue...Découvre la récompense..."
 
 # game/code/d11/d11s01.rpy:244
 translate french d11s01_28ed97c8_1:
@@ -478,7 +478,7 @@ translate french d11s01_28ed97c8_1:
 translate french d11s01_f88846ef:
 
     # mc "Keep going... Read about the punishment..."
-    mc "Continuez...Lisez à propos de la punition..."
+    mc "Continue...Lise à propos de la punition..."
 
 # game/code/d11/d11s01.rpy:247
 translate french d11s01_cc233338_1:
@@ -496,7 +496,7 @@ translate french d11s01_4829437f:
 translate french d11s01_9f9c26f3:
 
     # arj "What the fuck?? How is that??"
-    arj "C'est quoi ce bordel ?? Comment c'est??"
+    arj "C'est quoi ce bordel ?? Qu'est que c'est??"
 
 # game/code/d11/d11s01.rpy:256
 translate french d11s01_771be156:
@@ -526,7 +526,7 @@ translate french d11s01_d9909d16:
 translate french d11s01_7183937e:
 
     # arj "What the hell! Didn't you read? You need to fuck me!"
-    arj "Que diable! Vous n'avez pas lu ? Tu dois me baiser !"
+    arj "Que diable! Tu n'as pas lu ? Tu dois me baiser !"
 
 # game/code/d11/d11s01.rpy:269
 translate french d11s01_c892ab9e:
@@ -544,7 +544,7 @@ translate french d11s01_5ba2b867:
 translate french d11s01_125681c2:
 
     # mc "I'm sure you will be."
-    mc "Je suis sûr que vous le serez."
+    mc "Je suis sûr que tu le seras."
 
 # game/code/d11/d11s01.rpy:277
 translate french d11s01_0c55d991:
@@ -598,11 +598,11 @@ translate french d11s01_9696cc87:
 translate french d11s01_f6afb873:
 
     # arj "I'll watch the clock. Just try to enjoy your breakfast."
-    arj "Je vais surveiller l'heure. Essayez simplement de profiter de votre petit-déjeuner."
+    arj "Je vais surveiller l'heure. Essayez simplement de profiter de ton petit-déjeuner."
 
 # game/code/d11/d11s01.rpy:299
 translate french d11s01_536d88bc:
 
     # mc "Mmm. Coffee."
-    mc "Mmmm. Café."
+    mc "Mmmm. Du Café."
 
