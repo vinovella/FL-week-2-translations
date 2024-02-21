@@ -22,13 +22,13 @@ translate french d10p2s10_f7842525:
 translate french d10p2s10_f42a7b81:
 
     # mct "I should check my phone. Find out if Lydia fell asleep or is pissed at me."
-    mct "Je devrais vérifier mon téléphone. Découvrez si Lydia s'est endormie ou est en colère contre moi."
+    mct "Je devrais vérifier mon téléphone. Découvrir si Lydia s'est endormie ou est en colère contre moi."
 
 # game/code/d10p2/d10p2s10.rpy:17
 translate french d10p2s10_150c4ffd:
 
     # mct "Fuck me, that's hot."
-    mct "Baise-moi, c'est chaud."
+    mct "Putain de merde, c'est chaud."
 
 # game/code/d10p2/d10p2s10.rpy:18
 translate french d10p2s10_2335f3f0:
@@ -46,7 +46,7 @@ translate french d10p2s10_f0003e97:
 translate french d10p2s10_901a24dd:
 
     # mesfl "Oh, the Party is just wrapping up. Most of the guests have gone home. You?"
-    mesfl "Oh, la fête vient juste de se terminer. La plupart des invités sont rentrés chez eux. Toi?"
+    mesfl "Oh, la fête vient juste de se terminer. La plupart des invités sont rentrés chez eux. Et Toi?"
 
 # game/code/d10p2/d10p2s10.rpy:35
 translate french d10p2s10_88249c1e:
@@ -58,7 +58,7 @@ translate french d10p2s10_88249c1e:
 translate french d10p2s10_fddc7fd7:
 
     # mesfl "Cool. {w}Are you heading out, or do you need someplace to sleep?"
-    mesfl "Cool. {w}Vous partez dehors ou avez-vous besoin d'un endroit où dormir ?"
+    mesfl "Cool. {w}Tu pars ou tu as besoin d'un endroit où dormir ?"
 
 # game/code/d10p2/d10p2s10.rpy:42
 translate french d10p2s10_d46ff9a4:
@@ -70,7 +70,7 @@ translate french d10p2s10_d46ff9a4:
 translate french d10p2s10_350b13d2:
 
     # mesfl "Don't misunderstand what we have here. You're dating Min's best friend."
-    mesfl "Ne vous méprenez pas sur ce que nous avons ici. Tu sors avec le meilleur ami de Min."
+    mesfl "Ne te méprenes pas sur ce que nous avons ici. Tu sors avec le meilleur ami de Min."
 
 # game/code/d10p2/d10p2s10.rpy:55
 translate french d10p2s10_6dd5c660:
@@ -124,7 +124,7 @@ translate french d10p2s10_dc3ffc59:
 translate french d10p2s10_c962ccd1:
 
     # syfl "You don't have to go home, but you can't stay here!"
-    syfl "Vous n'êtes pas obligé de rentrer chez vous, mais vous ne pouvez pas rester ici !"
+    syfl "Tu n'es pas obligé de rentrer au dortoir, mais tu ne peux pas rester ici !"
 
 # game/code/d10p2/d10p2s10.rpy:78
 translate french d10p2s10_57edfa68:
@@ -142,7 +142,7 @@ translate french d10p2s10_4033ef54:
 translate french d10p2s10_23f714c8:
 
     # mc "I hope you didn't enjoy yourself too much."
-    mc "J'espère que vous ne vous êtes pas trop amusé."
+    mc "J'espère que tu ne t'es pas trop amusé."
 
 # game/code/d10p2/d10p2s10.rpy:87
 translate french d10p2s10_5e66388a:
@@ -160,13 +160,13 @@ translate french d10p2s10_21e673d7:
 translate french d10p2s10_5a2e3143:
 
     # arj "I think he's worried we had too much to drink. {w}Don't worry, Stacy sipped only virgin cocktails all evening."
-    arj "Je pense qu'il craint que nous ayons trop bu. {w}Ne vous inquiétez pas, Stacy n'a siroté que des cocktails vierges toute la soirée."
+    arj "Je pense qu'il craint que nous ayons trop bu. {w}Ne t'inquiétes pas, Stacy n'a siroté que des cocktails sans alcool toute la soirée."
 
 # game/code/d10p2/d10p2s10.rpy:96
 translate french d10p2s10_22b03434:
 
     # mc "I guess alcohol isn't part of your diet?"
-    mc "Je suppose que l'alcool ne fait pas partie de votre alimentation ?"
+    mc "Je suppose que l'alcool ne fait pas partie de ton alimentation ?"
 
 # game/code/d10p2/d10p2s10.rpy:98
 translate french d10p2s10_692a5e10:
@@ -178,7 +178,7 @@ translate french d10p2s10_692a5e10:
 translate french d10p2s10_ffe7c7f6:
 
     # mc "Good to know."
-    mc "Bon à savoir."
+    mc "C'est bon à savoir."
 
 # game/code/d10p2/d10p2s10.rpy:104
 translate french d10p2s10_9e65001e:
@@ -208,7 +208,7 @@ translate french d10p2s10_b13e202e:
 translate french d10p2s10_ab61caaf:
 
     # arj "You're welcome there anytime."
-    arj "Vous y êtes le bienvenu à tout moment."
+    arj "Tu y es le bienvenu à tout moment."
 
 # game/code/d10p2/d10p2s10.rpy:118
 translate french d10p2s10_b6943d77:
@@ -220,7 +220,7 @@ translate french d10p2s10_b6943d77:
 translate french d10p2s10_0df60139:
 
     # mc "You don't need to hug me yet. {w}We can walk by your apartment before..."
-    mc "Tu n'as pas encore besoin de me serrer dans tes bras. {w}Nous pouvons passer devant votre appartement avant..."
+    mc "Tu n'as pas encore besoin de me serrer dans tes bras. {w}Nous pouvons passer devant ton appartement avant..."
 
 # game/code/d10p2/d10p2s10.rpy:123
 translate french d10p2s10_ca58ca91:
@@ -238,13 +238,13 @@ translate french d10p2s10_87add3f5:
 translate french d10p2s10_b4544e87:
 
     # sy "Don't worry, I'll be fine."
-    sy "Ne vous inquiétez pas, tout ira bien."
+    sy "Ne t'inquiétes pas, tout ira bien."
 
 # game/code/d10p2/d10p2s10.rpy:131
 translate french d10p2s10_3656a527:
 
     # mc "You sure?"
-    mc "Vous êtes sûr?"
+    mc "Tu es sûr?"
 
 # game/code/d10p2/d10p2s10.rpy:134
 translate french d10p2s10_434f4662:
@@ -268,6 +268,6 @@ translate french d10p2s10_e15bab02:
 translate french d10p2s10_c69e04a5:
 
     # arj "I'll join you."
-    arj "Je vais te rejoindre."
+    arj "Moi aussi."
 
 
