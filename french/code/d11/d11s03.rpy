@@ -1670,6 +1670,6 @@ translate french strings:
 
     # game/code/d11/d11s03.rpy:317
     old "Laugh in Her Face"
-    new "Rire en face"
+    new "Lui rire au visage"
 
 
