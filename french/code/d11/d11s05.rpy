@@ -4,7 +4,7 @@
 translate french d11s05_d53e0c53:
 
     # "After short walk back to the dorm room"
-    "After short walk back to the dorm room"
+    "Après une courte marche jusqu'au dortoir"
 
 # game/code/d11/d11s05.rpy:31
 translate french d11s05_fdff4ad1:
@@ -28,13 +28,13 @@ translate french d11s05_295bbea7:
 translate french d11s05_75470d74:
 
     # mct "Fuck. {w}What was the other password?"
-    mct "Putain. {w}Quel était l'autre mot de passe ?"
+    mct "Merde. {w}Quel était l'autre mot de passe ?"
 
 # game/code/d11/d11s05.rpy:52
 translate french d11s05_1318af3e:
 
     # mct "Mixen? Dixen? Pixen? God, I'd lose to a Goldfish on a memory test."
-    mct "Mixé ? Dixen? Pixen ? Mon Dieu, je perdrais contre un poisson rouge à un test de mémoire."
+    mct "Mixen ? Dixen? Pixen ? Mon Dieu, je perdrais contre un poisson rouge à un test de mémoire."
 
 # game/code/d11/d11s05.rpy:55
 translate french d11s05_ba2a0138:
@@ -46,7 +46,7 @@ translate french d11s05_ba2a0138:
 translate french d11s05_41974f88:
 
     # mct "I {i}think{/i} it was MissingVixens."
-    mct "{i}pense{/i}"
+    mct "Je {i}pense{/i} que c'était MissingVixens."
 
 # game/code/d11/d11s05.rpy:60
 translate french d11s05_9580ec53:
@@ -58,7 +58,7 @@ translate french d11s05_9580ec53:
 translate french d11s05_6bff88dd:
 
     # mct "MissingVixens? The hell does that even mean?"
-    mct "Des Renardes disparues ? Qu'est-ce que ça veut dire ?"
+    mct "MissingVixens ? Qu'est-ce que ça veut dire ?"
 
 # game/code/d11/d11s05.rpy:65
 translate french d11s05_6ce2c0c1:
@@ -142,7 +142,7 @@ translate french d11s05_780ad7ac:
 translate french d11s05_11b34958:
 
     # mct "Wait.{w}..can I?"
-    mct "Attends.{w}..puis-je ?"
+    mct "Attends.{w}..."
 
 # game/code/d11/d11s05.rpy:150
 translate french d11s05_02761ca0:
@@ -226,13 +226,13 @@ translate french d11s05_68abdbfc:
 translate french d11s05_f5abed2d:
 
     # mct "...\"Welcome to the Fetish Locator VIP Program!\""
-    mct "...\"Welcome to the Fetish Locator VIP Program!\""
+    mct "...\"Bienvenue dans le programme VIP du Fetish Locator !\""
 
 # game/code/d11/d11s05.rpy:187
 translate french d11s05_1aed24ed:
 
     # mct "...\"Welcome to the Fetish Locator Retention Program!\""
-    mct "...\"Welcome to the Fetish Locator Retention Program!\""
+    mct "...\"Bienvenue dans le programme de rétention du Fetish Locator !\""
 
 # game/code/d11/d11s05.rpy:190
 translate french d11s05_cb745021:
@@ -280,7 +280,7 @@ translate french d11s05_6f39133f:
 translate french d11s05_dd804b60:
 
     # hr "Huh? [mcname]? Why are you...?{w} Oh. Yes, yeah, I remember you."
-    hr "Hein? [nommc] ? Pourquoi es-tu... ?{w} Oh. Oui, ouais, je me souviens de toi."
+    hr "Hein? [mcname] ? Pourquoi es-tu... ?{w} Oh. Oui, ouais, je me souviens de toi."
 
 # game/code/d11/d11s05.rpy:223
 translate french d11s05_4938da2e:
@@ -292,13 +292,13 @@ translate french d11s05_4938da2e:
 translate french d11s05_44d5fb34:
 
     # mc "I just remembered those amazing...{i}things{/i} you showed me at that party!"
-    mc "{i}des choses{/i}"
+    mc "Je viens de me rappeler les étonnantes... {i}choses{/i} que tu m'as montrées lors de cette soirée !"
 
 # game/code/d11/d11s05.rpy:230
 translate french d11s05_b7a240ef:
 
     # mct "\"Things\"!?"
-    mct "\"Things\"!?"
+    mct "\"choses\"!?"
 
 # game/code/d11/d11s05.rpy:233
 translate french d11s05_82bead1d:
@@ -328,7 +328,7 @@ translate french d11s05_80c6bb73:
 translate french d11s05_91752f3f:
 
     # mc "Great! So how about we meet up at Numa Trove?"
-    mc "Super! Alors, que diriez-vous de nous retrouver à Numa Trove ?"
+    mc "Super! Alors, que dis-tu de nous retrouver à Numa Trove ?"
 
 # game/code/d11/d11s05.rpy:246
 translate french d11s05_bda1d96f:
@@ -364,7 +364,7 @@ translate french d11s05_dbeee67f:
 translate french d11s05_1f025218:
 
     # mc "Alright, sure. {w}What do you have planned?"
-    mc "Très bien, bien sûr. {w}Qu'avez-vous prévu ?"
+    mc "Très bien, bien sûr. {w}Qu'as-tu prévu ?"
 
 # game/code/d11/d11s05.rpy:267
 translate french d11s05_88d2d8e8:
@@ -392,6 +392,6 @@ translate french strings:
 
     # game/code/d11/d11s05.rpy:171
     old "Do it. Find out the truth"
-    new "Do it. Find out the truth"
+    new "Fais le. découvre la vérité"
 
 
