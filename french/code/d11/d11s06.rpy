@@ -100,31 +100,31 @@ translate french replay_d11s06_de760107:
 translate french replay_d11s06_b0c97cb6:
 
     # pw "Show me what?"
-    pw "Montrez-moi ce que?"
+    pw "Me montrer quoi?"
 
 # game/code/d11/d11s06.rpy:139
 translate french replay_d11s06_51ef5cb5:
 
     # mc "You'll see, just go to that back room. I'll be right behind you."
-    mc "Vous verrez, allez dans cette arrière-salle. Je serai juste derrière toi."
+    mc "Tu veras, va dans cette arrière-salle. Je serai juste derrière toi."
 
 # game/code/d11/d11s06.rpy:142
 translate french replay_d11s06_5f62acb6:
 
     # pw "Going into a random backroom with a dude while nobody is around takes a lot of trust."
-    pw "Entrer dans une backroom au hasard avec un mec alors qu’il n’y a personne demande beaucoup de confiance."
+    pw "Entrer dans une arrière-salle au hasard avec un mec alors qu’il n’y a personne demande beaucoup de confiance."
 
 # game/code/d11/d11s06.rpy:146
 translate french replay_d11s06_ac7c8773:
 
     # pw "Don't blame me if I kick your balls in if something sketchy happens."
-    pw "Ne me blâmez pas si je vous donne un coup de pied dans les couilles si quelque chose de flou se produit."
+    pw "Ne me blâmes pas si je te donne un coup de pied dans les couilles si quelque chose de flou se produit."
 
 # game/code/d11/d11s06.rpy:149
 translate french replay_d11s06_671ade0b:
 
     # mc "Well... True enough. But the only thing you'll find in there is the fun and {i}consensual{/i} kind of sketchy."
-    mc "{i}consensuel{/i}"
+    mc "Eh bien... C'est vrai. Mais la seule chose que tu trouveras là-dedans, c'est le genre amusant et {i}consensuel{/i} de l'esquisse."
 
 # game/code/d11/d11s06.rpy:153
 translate french replay_d11s06_2c37a722:
@@ -136,13 +136,13 @@ translate french replay_d11s06_2c37a722:
 translate french replay_d11s06_d0d11bdc:
 
     # nk "Hey, {i}blind date{/i}, remember me?"
-    nk "{i}rendez-vous à l'aveugle{/i}"
+    nk "Hey,{i}blind date{/i}, tu te souviens de moi?"
 
 # game/code/d11/d11s06.rpy:167
 translate french replay_d11s06_925b317b:
 
     # mc "Everything is alright. You're safe. Just go with it."
-    mc "Tout va bien. Tu es en sécurité. Allez-y."
+    mc "Tout va bien. Tu es en sécurité. Va-y."
 
 # game/code/d11/d11s06.rpy:170
 translate french replay_d11s06_2d38dd5d:
@@ -172,7 +172,7 @@ translate french replay_d11s06_6f3dc119:
 translate french replay_d11s06_34005327:
 
     # nk "Strip. Now."
-    nk "Bande. Maintenant."
+    nk "A poil. Maintenant."
 
 # game/code/d11/d11s06.rpy:188
 translate french replay_d11s06_ec23f09c:
@@ -196,7 +196,7 @@ translate french replay_d11s06_964451ef:
 translate french replay_d11s06_494f4d61:
 
     # nk "Kneel, get down on your knees and suck me."
-    nk "Agenouillez-vous, mettez-vous à genoux et sucez-moi."
+    nk "Agenouille-toi, mets-toi à genoux et suce-moi.."
 
 # game/code/d11/d11s06.rpy:201
 translate french replay_d11s06_15310a01:
@@ -238,7 +238,7 @@ translate french replay_d11s06_0a60e60a:
 translate french replay_d11s06_706fb1fd:
 
     # nk "Now, I want you to turn around and crawl over to [mcname], take his cock out, and slobber on it like you—"
-    nk "Maintenant, je veux que tu te retournes et que tu rampes vers [mcname], que tu lui retires sa queue et que tu bave dessus comme toi—"
+    nk "Maintenant, je veux que tu te retournes et que tu rampes vers [mcname], que tu lui retires sa queue et que tu bave dessus comme—"
 
 # game/code/d11/d11s06.rpy:268
 translate french replay_d11s06_0a2deeb9:
@@ -262,13 +262,13 @@ translate french replay_d11s06_e4836ed7:
 translate french replay_d11s06_84b85878:
 
     # nk "But I think Princess is ready for this bad boy."
-    nk "Mais je pense que Princess est prête pour ce mauvais garçon."
+    nk "Mais je pense que Princesse est prête pour ce mauvais garçon."
 
 # game/code/d11/d11s06.rpy:281
 translate french replay_d11s06_67e1b453:
 
     # nk "Lay down, on the floor. Facing up."
-    nk "Allongez-vous, sur le sol. Vers le haut."
+    nk "Allongez-vous, sur le sol. Le visage vers le ciel."
 
 # game/code/d11/d11s06.rpy:310
 translate french replay_d11s06_5f2992b8:
@@ -280,7 +280,7 @@ translate french replay_d11s06_5f2992b8:
 translate french replay_d11s06_33d905ad:
 
     # nk "[mcname]! Get on top of her and sit on her face!"
-    nk "[nommc] ! Mettez-vous sur elle et asseyez-vous sur son visage !"
+    nk "[nommc] ! Monte sur elle et assieds-toi sur son visage !"
 
 # game/code/d11/d11s06.rpy:328
 translate french replay_d11s06_649786fd:
@@ -334,19 +334,19 @@ translate french replay_d11s06_a7778080:
 translate french replay_d11s06_35c84412:
 
     # nk "Get her up and take her to the front."
-    nk "Relevez-la et emmenez-la devant."
+    nk "Releve-la et emmene-la devant."
 
 # game/code/d11/d11s06.rpy:463
 translate french replay_d11s06_d0e23ece:
 
     # nk "Put her on the floor."
-    nk "Mettez-la par terre."
+    nk "Met-la par terre."
 
 # game/code/d11/d11s06.rpy:470
 translate french replay_d11s06_3f082f18:
 
     # nk "Hold it steady."
-    nk "Tenez-le stable."
+    nk "Tiens-ça fermement."
 
 # game/code/d11/d11s06.rpy:506
 translate french replay_d11s06_d45e7c91_1:
@@ -370,13 +370,13 @@ translate french replay_d11s06_5e7fa98c:
 translate french replay_d11s06_a0f10498:
 
     # nk "...Well, I guess you deserve a little reward for that."
-    nk "...Eh bien, je suppose que vous méritez une petite récompense pour cela."
+    nk "...Eh bien, je suppose que tu mérites une petite récompense pour cela."
 
 # game/code/d11/d11s06.rpy:540
 translate french replay_d11s06_c3efbb29:
 
     # pw "Your cum doesn't taste bad—with enough coffee."
-    pw "Votre sperme n'a pas mauvais goût, avec suffisamment de café."
+    pw "Ton sperme n'a pas mauvais goût, avec suffisamment de café."
 
 # game/code/d11/d11s06.rpy:546
 translate french replay_d11s06_f82a247b:
@@ -406,13 +406,13 @@ translate french replay_d11s06_01b93319:
 translate french replay_d11s06_50e0494f:
 
     # mc "It was."
-    mc "C'était."
+    mc "Ouais."
 
 # game/code/d11/d11s06.rpy:572
 translate french replay_d11s06_ee4aa368:
 
     # pw "The jig is up I guess."
-    pw "Le gabarit est en place, je suppose."
+    pw "Je pense que le jeu est fait."
 
 # game/code/d11/d11s06.rpy:575
 translate french replay_d11s06_a8533818:
@@ -448,7 +448,7 @@ translate french replay_d11s06_2b35b6fe:
 translate french replay_d11s06_e9d0af5e:
 
     # nk "...But my dumbass decided to go and like it, so yeah. Whatever. {w}All is forgiven I guess."
-    nk "...Mais mon idiot a décidé d'y aller et d'aimer ça, alors ouais. Peu importe. {w}Tout est pardonné, je suppose."
+    nk "...Mais mon idiot a décidé d'y aller et d'aimer ça, alors ouais. Peu importe. {w}Tout est pardonné."
 
 # game/code/d11/d11s06.rpy:593
 translate french replay_d11s06_c0680056:
