@@ -4,19 +4,19 @@
 translate french d11s07_a362d45b:
 
     # "Later at AmRose's house"
-    "Later at AmRose's house"
+    "Plus tard, chez AmRose"
 
 # game/code/d11/d11s07.rpy:67
 translate french d11s07_f6e37b8c:
 
     # arj "I'm going to slip into something more cozy, but don't worry - I'll be back."
-    arj "Je vais me glisser dans quelque chose de plus confortable, mais ne vous inquiétez pas, je reviendrai."
+    arj "Je vais me glisser dans quelque chose de plus confortable, mais ne t'inquietes pas, je reviendrai."
 
 # game/code/d11/d11s07.rpy:69
 translate french d11s07_30689b53:
 
     # mc "Take your time. It's getting late. I should give Lydia a call."
-    mc "Prenez votre temps. Il se fait tard. Je devrais appeler Lydia."
+    mc "Prends ton temps. Il se fait tard. Je devrais appeler Lydia."
 
 # game/code/d11/d11s07.rpy:72
 translate french d11s07_a0fac5e2:
@@ -34,13 +34,13 @@ translate french d11s07_bf8f6abe:
 translate french d11s07_0a2dd2f0:
 
     # arj "Okay, I'll take a little extra time and let you enjoy her voice before-"
-    arj "D'accord, je vais prendre un peu plus de temps et vous laisser apprécier sa voix avant..."
+    arj "D'accord, je vais prendre un peu plus de temps et te laisser apprécier sa voix avant..."
 
 # game/code/d11/d11s07.rpy:80
 translate french d11s07_37b8f89c:
 
     # mc "Oh! Speaking of which, Lydia is calling me."
-    mc "Oh! En parlant de ça, Lydia m'appelle."
+    mc "Oh ! en parlant de ça, Lydia m'appelle."
 
 # game/code/d11/d11s07.rpy:83
 translate french d11s07_02289b2e:
@@ -58,7 +58,7 @@ translate french d11s07_11455b53:
 translate french d11s07_2d7fc32b:
 
     # mc "Hey there, Lady Love. How's my best girl?"
-    mc "Salut, Lady Love. Comment va ma meilleure fille ?"
+    mc "Bonjour, mon amour. Comment va ma meilleure nana ?"
 
 # game/code/d11/d11s07.rpy:96
 translate french d11s07_8d26e22b:
@@ -70,7 +70,7 @@ translate french d11s07_8d26e22b:
 translate french d11s07_4b9805d6:
 
     # lc "Chilling out by the pool. Thinking about you. {w}What about you?"
-    lc "Se détendre au bord de la piscine. Pensant à toi. {w}Et vous ?"
+    lc "Se détendre au bord de la piscine. Pensant à toi. {w}Et toi ?"
 
 # game/code/d11/d11s07.rpy:107
 translate french d11s07_7805cbbb:
@@ -136,7 +136,7 @@ translate french d11s07_6a9f48bb:
 translate french d11s07_5bc7fad5:
 
     # mc "Oh, well, I guess that's up to you. I didn't have any plans to tell anyone else about that part of our relationship."
-    mc "Oh, eh bien, je suppose que cela dépend de vous. Je n’avais pas l’intention de parler à quelqu’un d’autre de cette partie de notre relation."
+    mc "Oh, eh bien, je suppose que cela dépend de toi. Je n’avais pas l’intention de parler à quelqu’un d’autre de cette partie de notre relation."
 
 # game/code/d11/d11s07.rpy:146
 translate french d11s07_9223c6be:
@@ -160,13 +160,13 @@ translate french d11s07_7ca509a6:
 translate french d11s07_3dac43a7:
 
     # mc "Maybe. {w}Did you want to hear about the Main Event?"
-    mc "Peut être. {w}Voulez-vous en savoir plus sur le Main Event ?"
+    mc "Peut être. {w}Tu veux en savoir plus sur l'événement principal ?"
 
 # game/code/d11/d11s07.rpy:155
 translate french d11s07_f5e5c079:
 
     # lc "Were you involved?"
-    lc "Étiez-vous impliqué ?"
+    lc "Tu étais impliqué ?"
 
 # game/code/d11/d11s07.rpy:157
 translate french d11s07_2fef8237:
@@ -238,7 +238,7 @@ translate french d11s07_15d4a291:
 translate french d11s07_7656589d:
 
     # lc "I guess we've learned what \"Squizzle\" means."
-    lc "Je suppose que nous avons appris quoi \"Squizzle\" means."
+    lc "Je suppose que nous avons appris qu'est ce que \"Squizzle\" signifie."
 
 # game/code/d11/d11s07.rpy:193
 translate french d11s07_4abf3937:
@@ -262,13 +262,13 @@ translate french d11s07_25ede9e0:
 translate french d11s07_59fd6eec:
 
     # lc "Yeah. That."
-    lc "Ouais. Que."
+    lc "Ouais. ça."
 
 # game/code/d11/d11s07.rpy:200
 translate french d11s07_1806aa9b:
 
     # mc "Did Min tell you about this?"
-    mc "Est-ce que Min vous en a parlé ?"
+    mc "Est-ce que Min t'en a parlé ?"
 
 # game/code/d11/d11s07.rpy:206
 translate french d11s07_fd0a6312:
@@ -286,13 +286,13 @@ translate french d11s07_3a23943e:
 translate french d11s07_b6ce03f3:
 
     # mc "Damn. I hope it isn't my fault that they broke up."
-    mc "Condamner. J'espère que ce n'est pas de ma faute s'ils ont rompu."
+    mc "Merde. J'espère que ce n'est pas de ma faute s'ils ont rompu."
 
 # game/code/d11/d11s07.rpy:211
 translate french d11s07_87e0a508:
 
     # lc "If it wasn't that, it would have been something else. Don't worry about it."
-    lc "Si ce n'était pas ça, ça aurait été autre chose. Ne vous inquiétez pas."
+    lc "Si ce n'était pas ça, ça aurait été autre chose. Ne t'inquiétes pas."
 
 # game/code/d11/d11s07.rpy:212
 translate french d11s07_2bc82720:
@@ -304,7 +304,7 @@ translate french d11s07_2bc82720:
 translate french d11s07_5aa894a5:
 
     # lc "Of course! I love hearing your sex stories."
-    lc "Bien sûr! J'adore entendre vos histoires de sexe."
+    lc "Bien sûr! J'adore entendre tes histoires de sexe."
 
 # game/code/d11/d11s07.rpy:215
 translate french d11s07_7c65f708:
@@ -334,7 +334,7 @@ translate french d11s07_a87609bc:
 translate french d11s07_2324819a:
 
     # lc "Also, you should not tell me about these things before it happens."
-    lc "De plus, vous ne devriez pas me parler de ces choses avant que cela n’arrive."
+    lc "De plus, tu ne devrais pas me parler de ces choses avant que cela n’arrive."
 
 # game/code/d11/d11s07.rpy:230
 translate french d11s07_46540ae8:
@@ -346,13 +346,13 @@ translate french d11s07_46540ae8:
 translate french d11s07_15ba0dbf:
 
     # lc "Anyway, please continue."
-    lc "Quoi qu'il en soit, continuez s'il vous plaît."
+    lc "Quoi qu'il en soit, continue s'il vous plaît."
 
 # game/code/d11/d11s07.rpy:233
 translate french d11s07_8383e1c2:
 
     # mc "So, first of all Allison and I pulled \"Squizzle\" into the limelight..."
-    mc "Donc, tout d'abord, Allison et moi avons tiré \"Squizzle\" into the limelight..."
+    mc "Donc, tout d'abord, Allison et moi avons mis  \"Squizzle\" sous les projecteurs..."
 
 # game/code/d11/d11s07.rpy:235
 translate french d11s07_88ee3957:
@@ -388,7 +388,7 @@ translate french d11s07_2c5c525f:
 translate french d11s07_4b81a709:
 
     # mc "Just the watersports. I hadn't had sex with her until last night. And she had a very strict rule that \"Squizzle\" was not \"Min\"."
-    mc "Juste les sports nautiques. Je n'avais pas couché avec elle jusqu'à hier soir. Et elle avait une règle très stricte selon laquelle \"Squizzle\" was not \"Min\"."
+    mc "Juste les sports nautiques. Je n'avais pas couché avec elle jusqu'à hier soir. Et elle avait une règle très stricte selon laquelle \"Squizzle\" n'étais pas \"Min\"."
 
 # game/code/d11/d11s07.rpy:252
 translate french d11s07_081ed8f7:
@@ -424,7 +424,7 @@ translate french d11s07_6d76c5cb:
 translate french d11s07_dd985d2a:
 
     # mc "I forget the order. It was all kinda a crazy blur of threesome."
-    mc "J'oublie la commande. C'était un peu un fou flou de plan à trois."
+    mc "J'ai oublié l'ordre. C'était un peu flou de plan fou à trois."
 
 # game/code/d11/d11s07.rpy:265
 translate french d11s07_6e2f07ea:
@@ -436,7 +436,7 @@ translate french d11s07_6e2f07ea:
 translate french d11s07_1a3ce239:
 
     # mc "Pretty much."
-    mc "Plutôt."
+    mc "Ouais."
 
 # game/code/d11/d11s07.rpy:279
 translate french replay_d11s07_bd75958a:
@@ -448,13 +448,13 @@ translate french replay_d11s07_bd75958a:
 translate french replay_d11s07_1530360d:
 
     # lc "Wow. Are you at a loss for words thinking about it?"
-    lc "Ouah. Êtes-vous à court de mots en y pensant ?"
+    lc "Ouah. Es-tu à court de mots en y pensant ?"
 
 # game/code/d11/d11s07.rpy:293
 translate french replay_d11s07_fbeffde4:
 
     # mc "You could say that."
-    mc "Tu pourrais dire ça."
+    mc "On pourrait dire ça."
 
 # game/code/d11/d11s07.rpy:294
 translate french replay_d11s07_b052d6b2:
@@ -550,7 +550,7 @@ translate french replay_d11s07_04be7e1e:
 translate french replay_d11s07_3558d353:
 
     # lc "But please, continue the story. You were telling me about the main event."
-    lc "Mais s'il vous plaît, continuez l'histoire. Vous me parliez de l'événement principal."
+    lc "Mais s'il vous plaît, continue l'histoire. Tu me parlais de l'événement principal."
 
 # game/code/d11/d11s07.rpy:352
 translate french replay_d11s07_6b34db27:
@@ -568,13 +568,13 @@ translate french replay_d11s07_29c9c118:
 translate french replay_d11s07_89f15581:
 
     # lc "You didn't!"
-    lc "Vous ne l'avez pas fait !"
+    lc "Tu ne l'as pas fait !"
 
 # game/code/d11/d11s07.rpy:359
 translate french replay_d11s07_b131317d:
 
     # mc "I totally did. Only a couple of women came forward, but they groped, fondled, and kissed Allison while we were hot & heavy."
-    mc "Je l’ai totalement fait. Seules quelques femmes se sont manifestées, mais elles ont peloté, caressé et embrassé Allison pendant que nous étions chauds et lourds."
+    mc "Je l’ai totalement fait. Seules quelques femmes se sont manifestées, mais elles ont peloté, caressé et embrassé Allison pendant que nous étions chauds et humides."
 
 # game/code/d11/d11s07.rpy:366
 translate french replay_d11s07_6622bbab:
@@ -586,7 +586,7 @@ translate french replay_d11s07_6622bbab:
 translate french replay_d11s07_c49d34c6:
 
     # mc "I can't tell you how many times I was about ready to blow my load.{w}.. but she just changed her pace or position and kept me edging for the audience."
-    mc "Je ne peux pas vous dire combien de fois j'étais sur le point d'exploser ma charge.{w}.. mais elle a juste changé de rythme ou de position et m'a permis de rester à l'avant-garde du public."
+    mc "Je ne peux pas te dire combien de fois j'étais sur le point d'exploser ma charge.{w}.. mais elle a juste changé de rythme ou de position et m'a permis de rester au top pour le public."
 
 # game/code/d11/d11s07.rpy:374
 translate french replay_d11s07_57175832:
@@ -610,7 +610,7 @@ translate french replay_d11s07_7671e3c2:
 translate french replay_d11s07_24e9175d:
 
     # lc "Tell me about the... what-do-you-call-it? The finale. The money changer or whatever."
-    lc "Parlez-moi de...comment l'appelez-vous ? La finale. Le changeur d'argent ou autre."
+    lc "Parlez-moi de...comment l'appeles-tu ? Le grand final. Le changeur d'argent ou..."
 
 # game/code/d11/d11s07.rpy:385
 translate french replay_d11s07_e3756f77:
@@ -622,7 +622,7 @@ translate french replay_d11s07_e3756f77:
 translate french replay_d11s07_9e7b179c:
 
     # lc "Yes! That!"
-    lc "Oui! Que!"
+    lc "Oui! ça!"
 
 # game/code/d11/d11s07.rpy:390
 translate french replay_d11s07_f0b8e73d:
@@ -730,19 +730,19 @@ translate french replay_d11s07_33dbdab8:
 translate french replay_d11s07_fb0e434d:
 
     # mc "Oh really? Well, you're going to get it."
-    mc "Oh vraiment? Eh bien, vous allez l'obtenir."
+    mc "Oh vraiment? Eh bien, tu va le savoir."
 
 # game/code/d11/d11s07.rpy:441
 translate french replay_d11s07_5cf5bb0c:
 
     # arj "Please do."
-    arj "Je vous en prie."
+    arj "Je t'en prie."
 
 # game/code/d11/d11s07.rpy:445
 translate french replay_d11s07_9e268a00:
 
     # mc "You are so very much going to get this hard dick..."
-    mc "Vous allez tellement avoir cette bite dure..."
+    mc "Tu vas tellement avoir cette bite dure..."
 
 # game/code/d11/d11s07.rpy:448
 translate french replay_d11s07_d0326d78:
@@ -778,7 +778,7 @@ translate french replay_d11s07_ff64e386:
 translate french replay_d11s07_472a0d52:
 
     # arj "You can fuck anyone you want. You can date anyone you want. But I'll always want you."
-    arj "Tu peux baiser qui tu veux. Vous pouvez sortir avec qui vous voulez. Mais je te voudrai toujours."
+    arj "Tu peux baiser qui tu veux. Tu veux sortir avec qui tu veux. Mais je te voudrai toujours."
 
 # game/code/d11/d11s07.rpy:461
 translate french replay_d11s07_30fa2419:
@@ -790,7 +790,7 @@ translate french replay_d11s07_30fa2419:
 translate french replay_d11s07_56683ec0:
 
     # arj "I will never tell you \"No\" or \"Not right now.\""
-    arj "Je ne te le dirai jamais \"No\" or \"Not right now.\""
+    arj "Je ne te le dirai jamais \"Non\" or \"Pas maintenant\""
 
 # game/code/d11/d11s07.rpy:463
 translate french replay_d11s07_033fdd3d:
@@ -844,7 +844,7 @@ translate french replay_d11s07_f962bb7e:
 translate french replay_d11s07_e3e3486f:
 
     # arj "YES! Fuck that twat!"
-    arj "OUI! J'emmerde cette connasse !"
+    arj "OUI ! Baise cette salope !"
 
 # game/code/d11/d11s07.rpy:484
 translate french replay_d11s07_6fc57749:
@@ -880,13 +880,13 @@ translate french replay_d11s07_25bfd9c7:
 translate french replay_d11s07_f41beb9b:
 
     # arj "And if you want to do even nastier things - I'm yours to use!"
-    arj "Et si vous voulez faire des choses encore plus méchantes, je suis à vous !"
+    arj "Et si tu veux faire des choses encore plus méchantes, je suis à toi !"
 
 # game/code/d11/d11s07.rpy:495
 translate french replay_d11s07_ce2a4f36:
 
     # arj "Anything you want to do to me - or want me to do to you - that is my fetish!"
-    arj "Tout ce que vous voulez me faire - ou voulez que je vous fasse - c'est mon fétiche !"
+    arj "Tout ce que tu veux me faire - ou veux que je te fasse - c'est mon fétiche !"
 
 # game/code/d11/d11s07.rpy:496
 translate french replay_d11s07_a51b2a3e:
@@ -916,13 +916,13 @@ translate french replay_d11s07_779c051a:
 translate french replay_d11s07_5f19f4ce:
 
     # arj "Hold on just one second!"
-    arj "Attendez juste une seconde!"
+    arj "Attend juste une seconde!"
 
 # game/code/d11/d11s07.rpy:518
 translate french replay_d11s07_de7d2014:
 
     # arj "Fucking cum on this for me!"
-    arj "Putain de sperme là-dessus pour moi !"
+    arj "Putain, sperme là-dessus pour moi !"
 
 # game/code/d11/d11s07.rpy:519
 translate french replay_d11s07_32757cc3:
@@ -976,7 +976,7 @@ translate french replay_d11s07_a0251157:
 translate french replay_d11s07_57392357:
 
     # mc "You know I do."
-    mc "Vous le savez."
+    mc "Tu le sais."
 
 # game/code/d11/d11s07.rpy:576
 translate french replay_d11s07_e38604df:
@@ -988,13 +988,13 @@ translate french replay_d11s07_e38604df:
 translate french replay_d11s07_d3a78310:
 
     # mc "Time for your reward."
-    mc "C'est l'heure de votre récompense."
+    mc "C'est l'heure de ta récompense."
 
 # game/code/d11/d11s07.rpy:608
 translate french replay_d11s07_aab216cf:
 
     # arj "OHHHHH YESSSSsss!!!"
-    arj "OHHHHH OUISSsss !!!"
+    arj "OHHHHH OUIIIIIii !!!"
 
 # game/code/d11/d11s07.rpy:611
 translate french replay_d11s07_8afdf11c:
@@ -1058,6 +1058,6 @@ translate french strings:
 
     # game/code/d11/d11s07.rpy:578
     old "Kiss AmRose on the Neck"
-    new "Kiss AmRose on the Neck"
+    new "Embrasser AmRose sur la Nuque"
 
 
