@@ -4,7 +4,7 @@
 translate french d11s03b_d02856eb:
 
     # "After a short walk"
-    "Après une petite promenade"
+    "Après une petite marche"
 
 # game/code/d11/extended/d11s03b.rpy:19
 translate french d11s03b_699878f6:
@@ -34,7 +34,7 @@ translate french d11s03b_f2565dcc:
 translate french d11s03b_1c0e4f40:
 
     # mc "Oh! Then I won't keep you any longer! You look like you could use some breakfast!"
-    mc "Oh! Alors je ne te garderai plus ! On dirait que tu aurais besoin d'un petit-déjeuner !"
+    mc "Oh! Alors je ne te garderai plus longtemps! On dirait que tu aurais besoin d'un petit-déjeuner !"
 
 # game/code/d11/extended/d11s03b.rpy:34
 translate french d11s03b_51d8eede:
@@ -64,13 +64,13 @@ translate french d11s03b_572f0e82:
 translate french d11s03b_98df89b7:
 
     # aw "Worried about your public performance?"
-    aw "Inquiet de votre performance publique ?"
+    aw "Inquiet de ta performance publique ?"
 
 # game/code/d11/extended/d11s03b.rpy:49
 translate french d11s03b_9077c770:
 
     # mc "Nah.{w}.. Wait, should I be?"
-    mc "Non.{w}.. Attends, devrais-je le faire ?"
+    mc "Non.{w}.. Attends, devrais-je l'être ?"
 
 # game/code/d11/extended/d11s03b.rpy:52
 translate french d11s03b_1872433f:
@@ -100,13 +100,13 @@ translate french d11s03b_953cb93f:
 translate french d11s03b_1a3ce239:
 
     # mc "Pretty much."
-    mc "Plutôt."
+    mc "c'est ça."
 
 # game/code/d11/extended/d11s03b.rpy:65
 translate french d11s03b_8240cfea:
 
     # aw "Let me tell you a story..."
-    aw "Laissez-moi vous raconter une histoire..."
+    aw "Laisse-moi te raconter une histoire..."
 
 # game/code/d11/extended/d11s03b.rpy:76
 translate french replay_d11s03b_0738a4fb:
@@ -136,7 +136,7 @@ translate french replay_d11s03b_dff309e8:
 translate french replay_d11s03b_fd146de5:
 
     # mh "Oh? There's a \"but\"?"
-    mh "Oh? Il y a un \"but\"?"
+    mh "Oh? Il y a un \"mais\"?"
 
 # game/code/d11/extended/d11s03b.rpy:95
 translate french replay_d11s03b_8f841cc0:
@@ -178,7 +178,7 @@ translate french replay_d11s03b_2484807d:
 translate french replay_d11s03b_99f0f7d2:
 
     # aw "Will you bring me here every time you win a big case?"
-    aw "M'amènerez-vous ici à chaque fois que vous gagnerez une grosse affaire ?"
+    aw "M'amèneres-tu ici à chaque fois que tu gagneres une grosse affaire ?"
 
 # game/code/d11/extended/d11s03b.rpy:124
 translate french replay_d11s03b_96834bb5:
@@ -238,7 +238,7 @@ translate french replay_d11s03b_95b0f216:
 translate french replay_d11s03b_b0a0afd1:
 
     # mh "You have no idea what a pervert I am!"
-    mh "Vous n'imaginez pas à quel point je suis pervers !"
+    mh "Tu n'imagines pas à quel point je suis pervers !"
 
 # game/code/d11/extended/d11s03b.rpy:186
 translate french replay_d11s03b_a7a96934:
@@ -280,7 +280,7 @@ translate french replay_d11s03b_32eb005a:
 translate french replay_d11s03b_14f9c877:
 
     # mc "Of course. Maybe she'll tell me someday. I imagine you two had a lot of private moments like that."
-    mc "Bien sûr. Peut-être qu'elle me le dira un jour. J'imagine que vous avez vécu beaucoup de moments privés comme celui-là."
+    mc "Bien sûr. Peut-être qu'elle me le dira un jour. J'imagine que tu as vécu beaucoup de moments privés comme celui-là."
 
 # game/code/d11/extended/d11s03b.rpy:250
 translate french replay_d11s03b_273c258d:
@@ -316,13 +316,13 @@ translate french replay_d11s03b_640ad48e:
 translate french replay_d11s03b_51e0217a:
 
     # aw "I see my story had a significant effect on you."
-    aw "Je vois que mon histoire a eu un effet significatif sur vous."
+    aw "Je vois que mon histoire a eu un effet significatif sur toi."
 
 # game/code/d11/extended/d11s03b.rpy:265
 translate french replay_d11s03b_2bdae27a:
 
     # aw "Why don't you take a little chillout break here for a while. I didn't mean to set your head spinning."
-    aw "Pourquoi ne pas faire une petite pause détente ici pendant un moment. Je ne voulais pas vous faire tourner la tête."
+    aw "Pourquoi ne pas faire une petite pause détente ici pendant un moment. Je ne voulais pas te faire tourner la tête."
 
 # game/code/d11/extended/d11s03b.rpy:268
 translate french replay_d11s03b_bd02c4c5:
