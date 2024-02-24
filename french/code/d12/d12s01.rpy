@@ -22,19 +22,19 @@ translate french d12s01_88a50e80:
 translate french d12s01_f1b6e695:
 
     # fl "Easy to fake, but you can't beat the real thing."
-    fl "Facile à simuler, mais vous ne pouvez pas battre la réalité."
+    fl "Facile à imiter, mais il n'y a pas mieux que le vrai."
 
 # game/code/d12/d12s01.rpy:82
 translate french d12s01_80ddb740:
 
     # fl "Lady parts only. No bonus points for distance."
-    fl "Pièces féminines uniquement. Aucun point bonus pour la distance."
+    fl "Parties féminines uniquement. Pas de points bonus pour la distance."
 
 # game/code/d12/d12s01.rpy:83
 translate french d12s01_eb882746:
 
     # fl "Fetish of the Day - Squirting."
-    fl "Fétiche du jour - Jouir."
+    fl "Fétiche du jour - Squirt."
 
 # game/code/d12/d12s01.rpy:101
 translate french d12s01_d845b343:
@@ -58,7 +58,7 @@ translate french d12s01_cc6d8384:
 translate french d12s01_471ad49c:
 
     # arj "Relax. {w}Relax. {w}It was gym class today, and it was cancelled."
-    arj "Se détendre. {w}Détendez-vous. {w}C'était un cours de gym aujourd'hui et il a été annulé."
+    arj "Relax. {w}Relax. {w}C'était un cours de gym aujourd'hui et il a été annulé."
 
 # game/code/d12/d12s01.rpy:113
 translate french d12s01_dd1c268b:
@@ -112,13 +112,13 @@ translate french d12s01_d778ae26:
 translate french d12s01_1a843fa8:
 
     # mc "Oh. {w}That's very responsible of you."
-    mc "Oh. {w}C'est très responsable de votre part."
+    mc "Oh. {w}C'est très responsable de ta part."
 
 # game/code/d12/d12s01.rpy:135
 translate french d12s01_845b7c89:
 
     # arj "You're going to love it. {w}We're just figuring out her outfit now."
-    arj "Vous allez adorer. {w}Nous sommes en train de trouver sa tenue en ce moment."
+    arj "Tu vas adorer. {w}Nous sommes en train de trouver sa tenue en ce moment."
 
 # game/code/d12/d12s01.rpy:137
 translate french d12s01_fcc9012d:
@@ -142,7 +142,7 @@ translate french d12s01_7ff55a29:
 translate french d12s01_0993dee3:
 
     # mc "Exactly what I mean. Half the time you can't stand her. The other half she's following you around like a puppy."
-    mc "Exactement ce que je veux dire. La moitié du temps, tu ne peux pas la supporter. L'autre moitié, elle vous suit partout comme un chiot."
+    mc "Exactement ce que je veux dire. La moitié du temps, tu ne peux pas la supporter. L'autre moitié, elle te suit partout comme un chiot."
 
 # game/code/d12/d12s01.rpy:147
 translate french d12s01_6200e3e4:
@@ -166,25 +166,25 @@ translate french d12s01_8e1f940a:
 translate french d12s01_9a4c0782:
 
     # arj "She's just... I dunno... {w}She lusts after me, but more than that she's a follower."
-    arj "Elle est juste... Je ne sais pas... {w}Elle me convoite, mais plus que ça, elle est une adepte."
+    arj "Elle est juste... Je ne sais pas... {w}Elle me convoite, mais plus que ça, elle est une suiveuse."
 
 # game/code/d12/d12s01.rpy:157
 translate french d12s01_53f2c681:
 
     # mc "A follower?"
-    mc "Un adepte ?"
+    mc "Une suiveuse ?"
 
 # game/code/d12/d12s01.rpy:159
 translate french d12s01_b9524fe9:
 
     # arj "Some people lead, some people are just part of the group, and some people are followers. Maria is a follower."
-    arj "Certaines personnes dirigent, d’autres font simplement partie du groupe et d’autres encore suivent. Maria est une adepte."
+    arj "Certaines personnes dirigent, d’autres font simplement partie du groupe et d’autres encore suivent. Maria est une suiveuse."
 
 # game/code/d12/d12s01.rpy:162
 translate french d12s01_c3243810:
 
     # mc "Does that make you the leader?"
-    mc "Est-ce que cela fait de vous le leader ?"
+    mc "Est-ce que cela fait de toi la leader ?"
 
 # game/code/d12/d12s01.rpy:164
 translate french d12s01_d3870517:
@@ -202,13 +202,13 @@ translate french d12s01_35ab8f09:
 translate french d12s01_dcb5316b:
 
     # arj "Well, you know. I'm yours. You're my master, and I'll do anything you want."
-    arj "Bon tu sais. Je suis à vous. Tu es mon maître et je ferai tout ce que tu veux."
+    arj "Bon tu sais. Je suis à toi. Tu es mon maître et je ferai tout ce que tu veux."
 
 # game/code/d12/d12s01.rpy:170
 translate french d12s01_716019b8:
 
     # mc "Right."
-    mc "Droite."
+    mc "d'accord."
 
 # game/code/d12/d12s01.rpy:172
 translate french d12s01_a3b8c090:
@@ -256,19 +256,19 @@ translate french d12s01_50fa55c3:
 translate french d12s01_5cc418b2:
 
     # arj "But, anything you want her to do, I'll be happy to tell her to do for me."
-    arj "Mais tout ce que vous voulez qu’elle fasse, je serai heureux de lui dire de le faire pour moi."
+    arj "Mais tout ce que tu veux qu’elle fasse, je serai heureux de lui dire de le faire pour moi."
 
 # game/code/d12/d12s01.rpy:193
 translate french d12s01_7129dea6:
 
     # mc "Nice."
-    mc "Bon."
+    mc "Bien."
 
 # game/code/d12/d12s01.rpy:197
 translate french d12s01_7e62625a:
 
     # arj "Do you mind if I ask you some personal questions? It's about your challenge."
-    arj "Cela vous dérange-t-il si je vous pose des questions personnelles ? Il s'agit de votre défi."
+    arj "Cela te dérange-t-il si je te pose des questions personnelles ? Il s'agit de ton défi."
 
 # game/code/d12/d12s01.rpy:199
 translate french d12s01_bcf9b8d1:
@@ -292,7 +292,7 @@ translate french d12s01_9b0e1c2d:
 translate french d12s01_0e77e11d:
 
     # arj "So, she's probably not going to help you out with this challenge?"
-    arj "Alors, elle ne va probablement pas vous aider à relever ce défi ?"
+    arj "Alors, elle ne va probablement pas t'aider à relever ce défi ?"
 
 # game/code/d12/d12s01.rpy:206
 translate french d12s01_dcdac24d:
@@ -316,7 +316,7 @@ translate french d12s01_1b23596c:
 translate french d12s01_afe62041:
 
     # arj "Last night, it sounded like she at least knew about the Fetish Party."
-    arj "Hier soir, on aurait dit qu'elle était au moins au courant de la Fetish Party."
+    arj "Hier soir, on aurait dit qu'elle était au moins au courant de la Fête fétiche."
 
 # game/code/d12/d12s01.rpy:215
 translate french d12s01_2ccde66f:
@@ -358,7 +358,7 @@ translate french d12s01_ed666fc8:
 translate french d12s01_0e82bcc3:
 
     # mc "You mean like how you've involved Stacy?"
-    mc "Tu veux dire comment tu as impliqué Stacy ?"
+    mc "Tu veux dire comme quand tu as impliqué Stacy ?"
 
 # game/code/d12/d12s01.rpy:232
 translate french d12s01_aa67627f:
@@ -418,7 +418,7 @@ translate french d12s01_d846ad9b:
 translate french d12s01_2a88f511:
 
     # arj "Okay. Just don't wait too long."
-    arj "D'accord. N'attendez pas trop longtemps."
+    arj "D'accord. N'attend pas trop longtemps."
 
 # game/code/d12/d12s01.rpy:253
 translate french d12s01_522253b5:
@@ -430,7 +430,7 @@ translate french d12s01_522253b5:
 translate french d12s01_33def34f:
 
     # arj "Anyway. How many women do you think you could... ya'know, for this challenge?"
-    arj "De toute façon. Combien de femmes pensez-vous pouvoir... vous savez, pour ce défi ?"
+    arj "De toute façon. Combien de femmes penses-tu pouvoir... tu sais, pour ce défi ?"
 
 # game/code/d12/d12s01.rpy:258
 translate french d12s01_c8bd53e1:
@@ -448,7 +448,7 @@ translate french d12s01_83991a96:
 translate french d12s01_11f60e5c:
 
     # arj "Although what?"
-    arj "Mais quoi ?"
+    arj "Bien que quoi ?"
 
 # game/code/d12/d12s01.rpy:264
 translate french d12s01_26337c55:
@@ -502,7 +502,7 @@ translate french d12s01_db581ccd:
 translate french d12s01_ce377403:
 
     # mc "Too high to too low?"
-    mc "Trop haut ou trop bas ?"
+    mc "Trop ou pas asssez ?"
 
 # game/code/d12/d12s01.rpy:288
 translate french d12s01_a5c7a3de:
@@ -532,7 +532,7 @@ translate french d12s01_bb54adc5:
 translate french d12s01_a82c8b8a:
 
     # arj "Well, it's my job to help you. We're in this together, right?"
-    arj "Eh bien, c'est mon travail de vous aider. Nous sommes dans le même bateau, n'est-ce pas ?"
+    arj "Eh bien, c'est mon travail de t'aider. Nous sommes dans le même bateau, n'est-ce pas ?"
 
 # game/code/d12/d12s01.rpy:303
 translate french d12s01_8cc105c3:
@@ -550,7 +550,7 @@ translate french d12s01_63202d87:
 translate french d12s01_6604131b:
 
     # arj "So, we're going to need to find more people you can fuck."
-    arj "Donc, nous allons devoir trouver plus de gens avec qui vous pouvez baiser."
+    arj "Donc, nous allons devoir trouver plus de gens avec qui tu pourais baiser."
 
 # game/code/d12/d12s01.rpy:310
 translate french d12s01_9e0cd0fa:
@@ -592,7 +592,7 @@ translate french d12s01_7cf3277a:
 translate french d12s01_f473ab2c:
 
     # arj "Wow, okay. So, would you say that she's likely for this challenge?"
-    arj "Waouh, d'accord. Alors, diriez-vous qu'elle est susceptible de relever ce défi ?"
+    arj "Waouh, d'accord. Alors, dirais-tu qu'elle est susceptible de relever ce défi ?"
 
 # game/code/d12/d12s01.rpy:328
 translate french d12s01_c951392b:
@@ -604,7 +604,7 @@ translate french d12s01_c951392b:
 translate french d12s01_97eeb6c7:
 
     # arj "So, we're going to need to find more women you can fuck."
-    arj "Donc, nous allons devoir trouver plus de femmes que vous pouvez baiser."
+    arj "Donc, nous allons devoir trouver plus de femmes que tu pourais baiser."
 
 # game/code/d12/d12s01.rpy:334
 translate french d12s01_9c31bece:
@@ -616,7 +616,7 @@ translate french d12s01_9c31bece:
 translate french d12s01_135ca930:
 
     # arj "Have you ever triggered a blitz challenge?"
-    arj "Avez-vous déjà déclenché un défi blitz ?"
+    arj "As-tu déjà déclenché un défi blitz ?"
 
 # game/code/d12/d12s01.rpy:338
 translate french d12s01_4b61fe43:
@@ -628,7 +628,7 @@ translate french d12s01_4b61fe43:
 translate french d12s01_840d1e48:
 
     # arj "Well, they're only [d12_cost_of_blitz] points. If a situation comes up where it might get you another fuck-"
-    arj "Eh bien, ce ne sont que [d12_cost_of_blitz] points. Si une situation survient où cela pourrait vous valoir une autre baise-"
+    arj "Eh bien, ce ne sont que [d12_cost_of_blitz] points. Si une situation survient où cela pourrait te valoir une autre baise-"
 
 # game/code/d12/d12s01.rpy:340
 translate french d12s01_c56d29b1:
@@ -754,7 +754,7 @@ translate french d12s01_mk_sex_1cf291e0:
 translate french d12s01_mk_sex_dadad4dd:
 
     # arj "Last chance. Did you want to back out?"
-    arj "Dernière chance. Vouliez-vous vous retirer ?"
+    arj "Dernière chance. Tu veux partir ?"
 
 # game/code/d12/d12s01.rpy:403
 translate french d12s01_mk_sex_bff87c10:
@@ -886,7 +886,7 @@ translate french d12s01_mk_sex_1e6f4225:
 translate french d12s01_mk_sex_41c86799:
 
     # arj "Maria, why don't we do it right here. You can lay down on the bed."
-    arj "Maria, pourquoi ne pas le faire ici. Vous pouvez vous allonger sur le lit."
+    arj "Maria, pourquoi ne pas le faire ici. Tu peux t'allonger sur le lit."
 
 # game/code/d12/d12s01.rpy:466
 translate french d12s01_mk_sex_7f82879c:
@@ -1042,7 +1042,7 @@ translate french d12s01_mk_sex_07eef455:
 translate french d12s01_mk_sex_3bcfe77b:
 
     # arj "Let's make it even more enjoyable for you, Maria."
-    arj "Rendons cela encore plus agréable pour vous, Maria."
+    arj "Rendons cela encore plus agréable pour toi, Maria."
 
 # game/code/d12/d12s01.rpy:546
 translate french d12s01_mk_sex_5d836265:
@@ -1102,7 +1102,7 @@ translate french d12s01_arj_mouth_b29c3bbc:
 translate french d12s01_arj_mouth_64fc2003:
 
     # mc "ATM For The Win!"
-    mc "ATM pour la victoire !"
+    mc " pour la victoire !"
 
 # game/code/d12/d12s01.rpy:710
 translate french d12s01_arj_mouth_20f60587:
@@ -1240,7 +1240,7 @@ translate french d12s01_arj_cum_f08c690d:
 translate french d12s01_arj_cum_0ad6b079:
 
     # arj "Oh, right. There's someone else you need to serve."
-    arj "Oh, c'est vrai. Il y a quelqu'un d'autre que vous devez servir."
+    arj "Oh, c'est vrai. Il y a quelqu'un d'autre que tu dois servir."
 
 # game/code/d12/d12s01.rpy:838
 translate french d12s01_arj_cum_8e9f4fca:
@@ -1252,7 +1252,7 @@ translate french d12s01_arj_cum_8e9f4fca:
 translate french d12s01_arj_cum_ca8dff0b:
 
     # arj "I know your feelings about that, and you're going to have to get over them."
-    arj "Je connais vos sentiments à ce sujet, et vous allez devoir les surmonter."
+    arj "Je connais tes sentiments à ce sujet, et tu vas devoir les surmonter."
 
 # game/code/d12/d12s01.rpy:842
 translate french d12s01_arj_cum_edf8438d:
@@ -1270,7 +1270,7 @@ translate french d12s01_arj_cum_f779edd9:
 translate french d12s01_arj_cum_c213ef2f:
 
     # arj "Consider this another test of your devotion. {w}Kinda like you did in the Coffee House bathroom last week."
-    arj "Considérez ceci comme un autre test de votre dévouement. {w}Un peu comme vous l'avez fait dans les toilettes du Coffee House la semaine dernière."
+    arj "Considérez ceci comme un autre test de ton dévouement. {w}Un peu comme tu l'as fait dans les toilettes du Coffee House la semaine dernière."
 
 # game/code/d12/d12s01.rpy:847
 translate french d12s01_arj_cum_065c2d47:
@@ -1282,19 +1282,19 @@ translate french d12s01_arj_cum_065c2d47:
 translate french d12s01_arj_cum_066551b2:
 
     # mc "You're going to meet someone at a location. I'll text you the details."
-    mc "Vous allez rencontrer quelqu'un à un endroit. Je t'enverrai les détails par SMS."
+    mc "Tu vas rencontrer quelqu'un à un endroit. Je t'enverrai les détails par SMS."
 
 # game/code/d12/d12s01.rpy:852
 translate french d12s01_arj_cum_9f370b24:
 
     # mk "Seriously? Who? What am I supposed to do?"
-    mk "Sérieusement? OMS? Qu'est-ce que je suis supposé faire?"
+    mk "Sérieusement? qui? Qu'est-ce que je suis supposé faire?"
 
 # game/code/d12/d12s01.rpy:855
 translate french d12s01_arj_cum_013aadc2:
 
     # arj "Whatever [mcname] tells you to do in the text message."
-    arj "Tout ce que [mcname] vous dit de faire dans le message texte."
+    arj "Tout ce que [mcname] te dit de faire dans le message texte."
 
 # game/code/d12/d12s01.rpy:856
 translate french d12s01_arj_cum_59b5e351:
@@ -1306,13 +1306,13 @@ translate french d12s01_arj_cum_59b5e351:
 translate french d12s01_arj_cum_49cffe4b:
 
     # mc "Don't forget your coat."
-    mc "N'oubliez pas votre manteau."
+    mc "N'oubliez pas ton manteau."
 
 # game/code/d12/d12s01.rpy:863
 translate french d12s01_arj_cum_9d6b25b2:
 
     # mk "Very funny. {w}Do you want pictures this time?"
-    mk "Très drôle. {w}Voulez-vous des photos cette fois ?"
+    mk "Très drôle. {w}veux-tu des photos cette fois ?"
 
 # game/code/d12/d12s01.rpy:868
 translate french d12s01_arj_cum_c951392b:
@@ -1360,7 +1360,7 @@ translate french d12s01_arj_cum_25e5c5c9:
 translate french d12s01_arj_cum_f8e90c76:
 
     # arj "You can use your mouth, but don't let any cocks penetrate your pussy or butthole except for [mcname]'s."
-    arj "Vous pouvez utiliser votre bouche, mais ne laissez aucune bite pénétrer votre chatte ou votre trou du cul, à l'exception de celle de [mcname]."
+    arj "Tu peux utiliser ta bouche, mais ne laisse aucune bite pénétrer ta chatte ou ton trou du cul, à l'exception de celle de [mcname]."
 
 # game/code/d12/d12s01.rpy:903
 translate french d12s01_arj_cum_be1736ba:
@@ -1372,13 +1372,13 @@ translate french d12s01_arj_cum_be1736ba:
 translate french d12s01_arj_cum_954166ca:
 
     # arj "That includes dildos and vibrators - even your own - until I say otherwise."
-    arj "Cela inclut les godes et les vibromasseurs – même les vôtres – jusqu'à ce que je dise le contraire."
+    arj "Cela inclut les godes et les vibromasseurs – même les tiens – jusqu'à ce que je dise le contraire."
 
 # game/code/d12/d12s01.rpy:907
 translate french d12s01_arj_cum_d45fdabd:
 
     # arj "I will contact you when we plan to do some exercise together.{w} I will stay in touch."
-    arj "Je vous contacterai lorsque nous prévoyons de faire de l'exercice ensemble.{w} Je resterai en contact."
+    arj "Je te contacterai lorsque nous prévoyons de faire de l'exercice ensemble.{w} Je resterai en contact."
 
 # game/code/d12/d12s01.rpy:908
 translate french d12s01_arj_cum_225af483:
@@ -1390,13 +1390,13 @@ translate french d12s01_arj_cum_225af483:
 translate french d12s01_arj_cum_15be55ec:
 
     # mc "You enjoyed that?"
-    mc "Ça vous a plu ?"
+    mc "Ça t'a plu ?"
 
 # game/code/d12/d12s01.rpy:914
 translate french d12s01_arj_cum_fab547a6:
 
     # arj "This is a lot of fun.{w} I feel important. Like your personal secretary."
-    arj "C'est très amusant.{w} Je me sens important. Comme votre secrétaire personnelle."
+    arj "C'est très amusant.{w} Je me sens important. Comme ta secrétaire personnelle."
 
 # game/code/d12/d12s01.rpy:917
 translate french d12s01_arj_cum_18595a2e:
@@ -1408,7 +1408,7 @@ translate french d12s01_arj_cum_18595a2e:
 translate french d12s01_arj_cum_25946d91:
 
     # mc "Good slave."
-    mc "Bon esclave."
+    mc "Bonne esclave."
 
 # game/code/d12/d12s01.rpy:923
 translate french d12s01_arj_cum_63202d87:
@@ -1444,7 +1444,7 @@ translate french d12s01_end_fd91e49b:
 translate french d12s01_end_e2d0b56a:
 
     # mc "It's not my usual style, but it is comfortable. {w}Where did you get it?"
-    mc "Ce n'est pas mon style habituel, mais il est confortable. {w}Où l'avez-vous obtenu ?"
+    mc "Ce n'est pas mon style habituel, mais il est confortable. {w}Où l'as-tu obtenu ?"
 
 # game/code/d12/d12s01.rpy:948
 translate french d12s01_end_b62850e2:
@@ -1462,7 +1462,7 @@ translate french d12s01_end_e21467fd:
 translate french d12s01_end_2b6ac8dc:
 
     # arj "No, it was just outside. {w}There was a note on it saying it was for you."
-    arj "Non, c'était juste dehors. {w}Il y avait une note dessus disant que c'était pour vous."
+    arj "Non, c'était juste dehors. {w}Il y avait une note dessus disant que c'était pour toi."
 
 # game/code/d12/d12s01.rpy:953
 translate french d12s01_end_cdde180a:
@@ -1474,13 +1474,13 @@ translate french d12s01_end_cdde180a:
 translate french d12s01_end_c2ef74fc:
 
     # mc "Who would even know I was here? {w}Or send me a shirt like this?"
-    mc "Qui saurait même que j'étais ici ? {w}Ou envoyez-moi une chemise comme celle-ci ?"
+    mc "Qui saurait même que j'étais ici ? {w}Ou m'envoye une chemise comme celle-ci ?"
 
 # game/code/d12/d12s01.rpy:957
 translate french d12s01_end_7fd11cca:
 
     # arj "Fetish Locator."
-    arj "Localisateur de fétichisme."
+    arj "Fetish Locator"
 
 # game/code/d12/d12s01.rpy:959
 translate french d12s01_end_da66531a:
@@ -1498,7 +1498,7 @@ translate french d12s01_end_630ee83e:
 translate french d12s01_end_3cebdbdd:
 
     # mc "Fetish Locator sent me a shirt to wear - and sent it to your house?"
-    mc "Fetish Locator m'a envoyé une chemise à porter - et l'a envoyée chez vous ?"
+    mc "Fetish Locator m'a envoyé une chemise à porter - et l'a envoyée chez toi ?"
 
 # game/code/d12/d12s01.rpy:964
 translate french d12s01_end_dae15876:
@@ -1510,13 +1510,13 @@ translate french d12s01_end_dae15876:
 translate french d12s01_end_11980709:
 
     # mc "Did you keep the note?"
-    mc "Avez-vous gardé la note ?"
+    mc "As-tu gardé la note ?"
 
 # game/code/d12/d12s01.rpy:968
 translate french d12s01_end_a848045a:
 
     # arj "No. I threw it in the trash. {w}Did you want me to dig it out?"
-    arj "Non, je l'ai jeté à la poubelle. {w}Voulez-vous que je le déterre ?"
+    arj "Non, je l'ai jeté à la poubelle. {w}Veux-tu que je le récupère ?"
 
 # game/code/d12/d12s01.rpy:971
 translate french d12s01_end_857c3c4b:
@@ -1540,7 +1540,7 @@ translate french d12s01_end_6b2ea4c5:
 translate french d12s01_end_f81c98fd:
 
     # arj "Did you want some head before you head out?"
-    arj "Vouliez-vous un peu de tête avant de partir ?"
+    arj "Veux-tu une petite pipe avant de partir ?"
 
 # game/code/d12/d12s01.rpy:978
 translate french d12s01_end_0771d895:
@@ -1576,7 +1576,7 @@ translate french d12s01_end_2004f966:
 translate french d12s01_end_e2fd31b6:
 
     # arj "Well, then. Business first. Get going!"
-    arj "Eh bien. Les affaires d’abord. Allez-y !"
+    arj "Eh bien. Les affaires d’abord. Va-y !"
 
 # game/code/d12/d12s01.rpy:993
 translate french d12s01_end_5c7420ae:
@@ -1592,34 +1592,34 @@ translate french strings:
 
     # game/code/d12/d12s01.rpy:84
     old "Decline - Not interested"
-    new "Decline - Not interested"
+    new "Déclin - Pas intéressé"
 
 
     old "Deflower Maria's Pussy"
-    new "Deflower Maria's Pussy"
+    new "Déflorer la chatte de Maria"
 
     # game/code/d12/d12s01.rpy:574
     old "Fuck Maria's Virgin Ass"
-    new "0"
+    new "Baiser le cul vierge de Maria"
 
     # game/code/d12/d12s01.rpy:628
     old "Creampie Maria's Pussy"
-    new "Creampie Maria's Pussy"
+    new "Creampie la chatte de Maria"
 
 
     old "Cum in AmRose's Mouth"
-    new "Cum in AmRose's Mouth"
+    new "Éjaculer dans la bouche d'AmRose"
 
     # game/code/d12/d12s01.rpy:687
     old "Creampie Maria's Ass"
-    new "0"
+    new "Creampie Le cul de Maria"
 
     # game/code/d12/d12s01.rpy:864
     old "I want to see the photos"
-    new "I want to see the photos"
+    new "Je veux voir les photos"
 
 
     old "No photos"
-    new "No photos"
+    new "Pas de photos"
 
 
