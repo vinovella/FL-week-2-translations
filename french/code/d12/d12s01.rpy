@@ -1594,7 +1594,7 @@ translate french strings:
     old "Decline - Not interested"
     new "Déclin - Pas intéressé"
 
-
+    # game/code/d12/d12s01.rpy:574
     old "Deflower Maria's Pussy"
     new "Déflorer la chatte de Maria"
 
@@ -1606,7 +1606,7 @@ translate french strings:
     old "Creampie Maria's Pussy"
     new "Creampie la chatte de Maria"
 
-
+    # game/code/d12/d12s01.rpy:628
     old "Cum in AmRose's Mouth"
     new "Éjaculer dans la bouche d'AmRose"
 
@@ -1618,7 +1618,7 @@ translate french strings:
     old "I want to see the photos"
     new "Je veux voir les photos"
 
-
+    # game/code/d12/d12s01.rpy:864
     old "No photos"
     new "Pas de photos"
 
