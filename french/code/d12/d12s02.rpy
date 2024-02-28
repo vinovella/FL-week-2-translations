@@ -22,19 +22,19 @@ translate french d12s02_382a8b6a:
 translate french d12s02_c57a25d0:
 
     # mct "Caller Unknown?"
-    mct "Appelant inconnu ?"
+    mct "Numéro masqué ?"
 
 # game/code/d12/d12s02.rpy:55
 translate french d12s02_4e85cb4d:
 
     # mc "Hello?"
-    mc "Bonjour?"
+    mc "Allo?"
 
 # game/code/d12/d12s02.rpy:56
 translate french d12s02_875c4a29:
 
     # "Mysterious Woman" "Hello, [mcname]."
-    "Femme mystérieuse" "Hello, [mcname]."
+    "Femme mystérieuse" "Bonjour, [mcname]."
 
 # game/code/d12/d12s02.rpy:59
 translate french d12s02_3accf656:
@@ -46,25 +46,25 @@ translate french d12s02_3accf656:
 translate french d12s02_e19d21b2:
 
     # "Mysterious Woman" "After what you did to me, you don't even remember me?"
-    "Femme mystérieuse" "After what you did to me, you don't even remember me?"
+    "Femme mystérieuse" "Après ce que tu m'as fait, tu ne te souviens même pas de moi ?"
 
 # game/code/d12/d12s02.rpy:63
 translate french d12s02_414f63c3:
 
     # mc "Who are you?"
-    mc "Qui es-tu?"
+    mc "Qui êtes-vous?"
 
 # game/code/d12/d12s02.rpy:64
 translate french d12s02_abe22177:
 
     # "Mysterious Woman" "Maybe you remember having your way with a certain helpless woman a couple of days back?"
-    "Femme mystérieuse" "Maybe you remember having your way with a certain helpless woman a couple of days back?"
+    "Femme mystérieuse" "Peut-être te souviens-tu avoir fait ton affaire avec une certaine femme sans défense il y a quelques jours ?"
 
 # game/code/d12/d12s02.rpy:88
 translate french d12s02_c832bcf4:
 
     # "Mysterious Woman" "Maybe that jogged your mind a little?"
-    "Femme mystérieuse" "Maybe that jogged your mind a little?"
+    "Femme mystérieuse" "Peut-être que cela t'a un peu rafraîchi l'esprit ?"
 
 # game/code/d12/d12s02.rpy:90
 translate french d12s02_080d9677:
@@ -76,19 +76,19 @@ translate french d12s02_080d9677:
 translate french d12s02_0b4fc516:
 
     # "Mysterious Woman" "Oh please, don't give me that bullshit. Do you honestly think that I don't have my ways to find somebody if I wanted to?"
-    "Femme mystérieuse" "Oh please, don't give me that bullshit. Do you honestly think that I don't have my ways to find somebody if I wanted to?"
+    "Femme mystérieuse" "Oh, s'il te plaît, ne me raconte pas de conneries. Penses-tu honnêtement que je n'ai pas les moyens de trouver quelqu'un si je le veux ?"
 
 # game/code/d12/d12s02.rpy:93
 translate french d12s02_281c8952:
 
     # "Mysterious Woman" "Anyway. You don't have to worry about anything. Well, not if you do as I say."
-    "Femme mystérieuse" "Anyway. You don't have to worry about anything. Well, not if you do as I say."
+    "Femme mystérieuse" "Quoi qu'il en soit. Tu n'as pas à t'inquiéter de quoi que ce soit. Enfin, si tu fais ce que je te dis."
 
 # game/code/d12/d12s02.rpy:95
 translate french d12s02_d5023dd3:
 
     # "Mysterious Woman" "Our...\"mutual friend\" gave me your number."
-    "Femme mystérieuse" "Our...\"mutual friend\" gave me your number."
+    "Femme mystérieuse" "Notre... \"ami commun\" m'a donné ton numéro."
 
 # game/code/d12/d12s02.rpy:98
 translate french d12s02_8d8b28fe:
@@ -100,13 +100,13 @@ translate french d12s02_8d8b28fe:
 translate french d12s02_12ed7df1:
 
     # "Mysterious Woman" "Anyway. You don't have to worry about anything."
-    "Femme mystérieuse" "Anyway. You don't have to worry about anything."
+    "Femme mystérieuse" "Quoi qu'il en soit. Tu n'as pas à t'inquiéter."
 
 # game/code/d12/d12s02.rpy:101
 translate french d12s02_a201c0d9:
 
     # "Mysterious Woman" "As soon as possible. I want you to find me again. Preferably when I'm presiding over a case."
-    "Femme mystérieuse" "As soon as possible. I want you to find me again. Preferably when I'm presiding over a case."
+    "Femme mystérieuse" "Dès que possible. Je veux que tu me retrouves. De préférence quand je préside une audience."
 
 # game/code/d12/d12s02.rpy:105
 translate french d12s02_0b5f9a57:
@@ -118,31 +118,31 @@ translate french d12s02_0b5f9a57:
 translate french d12s02_bc38c889:
 
     # mc "Case? What? How the hell am I supposed to do that!?"
-    mc "Cas? Quoi? Comment diable suis-je censé faire ça !?"
+    mc "Une audience? Quoi? Comment diable suis-je censé faire ça !?"
 
 # game/code/d12/d12s02.rpy:110
 translate french d12s02_389fe0a5:
 
     # "Mysterious Woman" "Come to the courthouse. I'm sure you can find your way around."
-    "Femme mystérieuse" "Come to the courthouse. I'm sure you can find your way around."
+    "Femme mystérieuse" "Venez au palais de justice. Je suis sûr que tu sauras t'y retrouver."
 
 # game/code/d12/d12s02.rpy:111
 translate french d12s02_9ce9007a:
 
     # "Mysterious Woman" "You better show up if you don't want to go in for a long, long time what you did."
-    "Femme mystérieuse" "You better show up if you don't want to go in for a long, long time what you did."
+    "Femme mystérieuse" "Tu ferais mieux de te montrer si tu ne veux pas avoir à subir pendant très longtemps ce que tu as fait."
 
 # game/code/d12/d12s02.rpy:113
 translate french d12s02_5fe1c124:
 
     # "Mysterious Woman" "Oh, I'm sure you have your ways."
-    "Femme mystérieuse" "Oh, I'm sure you have your ways."
+    "Femme mystérieuse" "Oh, je suis sûr que tu as tes entrées."
 
 # game/code/d12/d12s02.rpy:114
 translate french d12s02_18a8ed6b:
 
     # "Mysterious Woman" "Come find me, I'll be waiting."
-    "Femme mystérieuse" "Come find me, I'll be waiting."
+    "Femme mystérieuse" "Viens me trouver, je t'attendrai."
 
 # game/code/d12/d12s02.rpy:118
 translate french d12s02_13ea9606:
@@ -202,7 +202,7 @@ translate french d12s02_957895e4:
 translate french d12s02_a6cbcc62:
 
     # mc "It's alright. It wasn't too late."
-    mc "C'est d'accord. Il n'était pas trop tard."
+    mc "C'est bon. Il n'était pas trop tard."
 
 # game/code/d12/d12s02.rpy:151
 translate french d12s02_fc011c2a:
@@ -214,19 +214,19 @@ translate french d12s02_fc011c2a:
 translate french d12s02_418d1483:
 
     # "Pete?"
-    "Pierre ?"
+    "Pete ?"
 
 # game/code/d12/d12s02.rpy:160
 translate french d12s02_3e1f15cc:
 
     # mc "It's nice meeting you again."
-    mc "C'est un plaisir de vous revoir."
+    mc "C'est un plaisir de te revoir."
 
 # game/code/d12/d12s02.rpy:163
 translate french d12s02_64867a1e:
 
     # hr "Same here [mcname]."
-    hr "Pareil ici [mcname]."
+    hr "Pareil [mcname]."
 
 # game/code/d12/d12s02.rpy:166
 translate french d12s02_a525eb25:
@@ -244,7 +244,7 @@ translate french d12s02_5bd4c850:
 translate french d12s02_6d4f429e:
 
     # hr "Oh? You seemed confident enough at the party."
-    hr "Oh? Vous sembliez assez confiant à la fête."
+    hr "Oh? Tu semblais assez confiant à la fête."
 
 # game/code/d12/d12s02.rpy:177
 translate french d12s02_69f02c1b:
@@ -268,7 +268,7 @@ translate french d12s02_f141243b:
 translate french d12s02_b4d4c4e5:
 
     # mc "Heh, alcohol does that to you."
-    mc "Hé, l'alcool te fait ça."
+    mc "Hé, l'alcool fait ça."
 
 # game/code/d12/d12s02.rpy:188
 translate french d12s02_7f8b786c:
@@ -280,7 +280,7 @@ translate french d12s02_7f8b786c:
 translate french d12s02_c0636618:
 
     # mc "Um... Excuse me!"
-    mc "Euh...Excusez-moi !"
+    mc "Euh...Excuse-moi !"
 
 # game/code/d12/d12s02.rpy:194
 translate french d12s02_ebce6a45:
@@ -304,7 +304,7 @@ translate french d12s02_caf3ce28:
 translate french d12s02_1e300456:
 
     # "Waitress" "Today's special seems to be popular."
-    "Serveuse" "Today's special seems to be popular."
+    "Serveuse" "L'offre spéciale d'aujourd'hui semble être populaire."
 
 # game/code/d12/d12s02.rpy:205
 translate french d12s02_21f218e2:
@@ -316,7 +316,7 @@ translate french d12s02_21f218e2:
 translate french d12s02_97f9cb19:
 
     # "Waitress" "Great."
-    "Serveuse" "Great."
+    "Serveuse" "Super."
 
 # game/code/d12/d12s02.rpy:210
 translate french d12s02_2b948d27:
@@ -340,13 +340,13 @@ translate french d12s02_b91db70d:
 translate french d12s02_eb012abc:
 
     # mct "He just bought FL pics. Nothing more."
-    mct "Il vient d'acheter des photos de FL. Rien de plus."
+    mct "Il a juste acheter des photos de FL. Rien de plus."
 
 # game/code/d12/d12s02.rpy:221
 translate french d12s02_1910ad44:
 
     # mc "Same ol', same ol'. Just recently went to another one of those parties a couple of days back."
-    mc "Même vieux, même vieux. Je suis récemment allé à une autre de ces soirées il y a quelques jours."
+    mc "Que du vieux, Que du vieux. Je suis récemment allé à une autre de ces soirées il y a quelques jours."
 
 # game/code/d12/d12s02.rpy:224
 translate french d12s02_685d1647:
@@ -412,13 +412,13 @@ translate french d12s02_fd92423d:
 translate french d12s02_e166535d:
 
     # hr "So you're the knight in shining armor that came to her rescue?"
-    hr "Alors vous êtes le chevalier en armure étincelante qui est venu à son secours ?"
+    hr "Alors tu es le chevalier en armure étincelante qui est venu à son secours ?"
 
 # game/code/d12/d12s02.rpy:268
 translate french d12s02_687b8b66:
 
     # mc "Your and/or her words, not mine."
-    mc "Vos mots et/ou ses mots, pas les miens."
+    mc "Tes mots et/ou ses mots, pas les miens."
 
 # game/code/d12/d12s02.rpy:271
 translate french d12s02_af5dc8a8:
@@ -436,7 +436,7 @@ translate french d12s02_168e5abf:
 translate french d12s02_ca140a85:
 
     # mc "Don't worry about it. It was nothing."
-    mc "Ne vous inquiétez pas. Ce n'était rien."
+    mc "Ne t'inquiétes pas. Ce n'était rien."
 
 # game/code/d12/d12s02.rpy:278
 translate french d12s02_40daa0ca:
@@ -520,19 +520,19 @@ translate french d12s02_52f7b26f:
 translate french d12s02_7d3293ea:
 
     # mct "New retention challenge. Fuck 20 girls by Sun. If failed, \"cock taken away\"."
-    mct "Nouveau défi de rétention. Baiser 20 filles par Sun. En cas d'échec, \"cock taken away\"."
+    mct "Nouveau défi de rétention. Baiser 20 filles d'ici dimanche. En cas d'échec, \"plus de bite\"."
 
 # game/code/d12/d12s02.rpy:331
 translate french d12s02_a16e83c3:
 
     # "Waitress" "Here is your cocktail, mam."
-    "Serveuse" "Here is your cocktail, mam."
+    "Serveuse" "Voici votre cocktail, madame."
 
 # game/code/d12/d12s02.rpy:334
 translate french d12s02_1c1178fd:
 
     # "Waitress" "Here is your coke, sir."
-    "Serveuse" "Here is your coke, sir."
+    "Serveuse" "Voici votre coca, monsieur."
 
 # game/code/d12/d12s02.rpy:336
 translate french d12s02_bb0eeaf4:
@@ -556,7 +556,7 @@ translate french d12s02_d0d7aba8:
 translate french d12s02_fa858424:
 
     # hr "Oh, I don't think I've told you, but I'm a journalism major."
-    hr "Oh, je ne pense pas vous l'avoir dit, mais je suis étudiant en journalisme."
+    hr "Oh, je ne pense pas te l'avoir dit, mais je suis étudiant en journalisme."
 
 # game/code/d12/d12s02.rpy:350
 translate french d12s02_facf8920:
@@ -604,7 +604,7 @@ translate french d12s02_74f84834:
 translate french d12s02_03a9df17:
 
     # hr "Please give me a moment. I need to take this call."
-    hr "S'il vous plaît, donnez-moi un moment. Je dois prendre cet appel."
+    hr "S'il vous plaît, donne-moi un moment. Je dois prendre cet appel."
 
 # game/code/d12/d12s02.rpy:373
 translate french d12s02_c202eb56:
@@ -622,7 +622,7 @@ translate french d12s02_9a170402:
 translate french d12s02_d0cacf16:
 
     # mct "Would she go for it?"
-    mct "Est-ce qu'elle s'y lancerait ?"
+    mct "Est-ce qu'elle se lancerait ?"
 
 # game/code/d12/d12s02.rpy:379
 translate french d12s02_376320a3:
@@ -736,7 +736,7 @@ translate french d12s02_1d9b9775:
 translate french d12s02_blitz_38ae3e38:
 
     # hr "You know the drill, come on. We don't have much time."
-    hr "Vous connaissez le principe, allez. Nous n'avons pas beaucoup de temps."
+    hr "Tu connais le principe, allez. Nous n'avons pas beaucoup de temps."
 
 # game/code/d12/d12s02.rpy:465
 translate french d12s02_blitz_d9f03be7:
@@ -796,7 +796,7 @@ translate french d12s02_end_7920076d:
 translate french d12s02_end_9f7469fb:
 
     # hr "Damn, looks like I gotta run."
-    hr "Bon sang, on dirait que je dois fuir."
+    hr "Bon sang, on dirait que je dois y aller."
 
 # game/code/d12/d12s02.rpy:583
 translate french d12s02_end_a24f1b2d:
@@ -814,7 +814,7 @@ translate french d12s02_end_b57b5c1b:
 translate french d12s02_end_7a1ea615:
 
     # hr "Don't be a stranger. Hit me up whenever."
-    hr "Ne soyez pas un étranger. Appelez-moi à tout moment."
+    hr "Ne soyez pas un étranger. Appele-moi à tout moment."
 
 # game/code/d12/d12s02.rpy:591
 translate french d12s02_end_fc9ca1ae:
@@ -832,7 +832,7 @@ translate french strings:
 
     # game/code/d12/d12s02.rpy:237
     old "Tell her about putting Pete into the Retention Program"
-    new "Parlez-lui de l'inclusion de Pete dans le programme de rétention."
+    new "Parle-lui de l'interagration de Pete dans le programme de rétention."
 
     # game/code/d12/d12s02.rpy:295
     old "Give her the password"
