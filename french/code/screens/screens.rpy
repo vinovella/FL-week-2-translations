@@ -4,15 +4,15 @@ translate french strings:
 
     # game/code/screens/screens.rpy:272
     old "Back"
-    new "Back"
+    new "Arrière"
 
     # game/code/screens/screens.rpy:273
     old "History"
-    new "History"
+    new "Histoire"
 
     # game/code/screens/screens.rpy:274
     old "Skip"
-    new "Skip"
+    new "Passer"
 
     # game/code/screens/screens.rpy:275
     old "Auto"
@@ -20,15 +20,15 @@ translate french strings:
 
     # game/code/screens/screens.rpy:276
     old "Save"
-    new "Save"
+    new "Sauve"
 
     # game/code/screens/screens.rpy:277
     old "Q.Save"
-    new "Q.Save"
+    new "Q.Sauve"
 
     # game/code/screens/screens.rpy:278
     old "Q.Load"
-    new "Q.Load"
+    new "Q.charger"
 
     # game/code/screens/screens.rpy:279
     old "Prefs"
@@ -36,19 +36,19 @@ translate french strings:
 
     # game/code/screens/screens.rpy:318
     old "Continue from week [FLSS.week.prev]"
-    new "Continue from week [FLSS.week.prev]"
+    new "Continuer à partir de la semaine [FLSS.week.prev]"
 
     # game/code/screens/screens.rpy:322
     old "Start"
-    new "Start"
+    new "début"
 
     # game/code/screens/screens.rpy:328
     old "Main Menu"
-    new "Main Menu"
+    new "Menu Principal"
 
     # game/code/screens/screens.rpy:340
     old "Load"
-    new "Load"
+    new "Charger"
 
     # game/code/screens/screens.rpy:349
     old "Preferences"
@@ -56,51 +56,51 @@ translate french strings:
 
     # game/code/screens/screens.rpy:354
     old "Support on Patreon"
-    new "Support on Patreon"
+    new "Patreon"
 
     # game/code/screens/screens.rpy:358
     old "Join Discord"
-    new "Join Discord"
+    new "Discord"
 
     # game/code/screens/screens.rpy:369
     old "Character Gallery"
-    new "Character Gallery"
+    new "Galerie de personnages"
 
     # game/code/screens/screens.rpy:383
     old "End Replay"
-    new "End Replay"
+    new "Fin Replay"
 
     # game/code/screens/screens.rpy:392
     old "Help"
-    new "Help"
+    new "Aide"
 
     # game/code/screens/screens.rpy:399
     old "About"
-    new "About"
+    new "à Propos"
 
     # game/code/screens/screens.rpy:404
     old "Quit"
-    new "Quit"
+    new "Quitter"
 
     # game/code/screens/screens.rpy:789
     old "Game"
-    new "Game"
+    new "Jeu"
 
     # game/code/screens/screens.rpy:791
     old "Sound Effects"
-    new "Sound Effects"
+    new "Effets sonores"
 
     # game/code/screens/screens.rpy:793
     old "Soundtracks"
-    new "Soundtracks"
+    new "Bandes sonores"
 
     # game/code/screens/screens.rpy:795
     old "Other Sounds"
-    new "Other Sounds"
+    new "Autres sons"
 
     # game/code/screens/screens.rpy:796
     old "Others"
-    new "Others"
+    new "Autres"
 
     # game/code/screens/screens.rpy:846
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]\n"
@@ -108,15 +108,15 @@ translate french strings:
 
     # game/code/screens/screens.rpy:995
     old "Naming save file:"
-    new "Naming save file:"
+    new "Nommer le fichier de sauvegarde:"
 
     # game/code/screens/screens.rpy:999
     old "Enabled"
-    new "Enabled"
+    new "Activer"
 
     # game/code/screens/screens.rpy:1003
     old "Disabled"
-    new "Disabled"
+    new "Déactiver"
 
     # game/code/screens/screens.rpy:1030
     old "{#file_time}%A, %B %d %Y, %H:%M"
@@ -124,7 +124,7 @@ translate french strings:
 
     # game/code/screens/screens.rpy:1030
     old "empty slot"
-    new "empty slot"
+    new "espace vide"
 
     # game/code/screens/screens.rpy:1050
     old "«"
@@ -144,35 +144,35 @@ translate french strings:
 
     # game/code/screens/screens.rpy:1118
     old "Display"
-    new "Display"
+    new "Affichage"
 
     # game/code/screens/screens.rpy:1119
     old "Window"
-    new "Window"
+    new "Fenêtre"
 
     # game/code/screens/screens.rpy:1120
     old "Fullscreen"
-    new "Fullscreen"
+    new "Plein écran"
 
     # game/code/screens/screens.rpy:1124
     old "Rollback Side"
-    new "Rollback Side"
+    new "retour mollette"
 
     # game/code/screens/screens.rpy:1126
     old "Left"
-    new "Left"
+    new "gauche"
 
     # game/code/screens/screens.rpy:1127
     old "Right"
-    new "Right"
+    new "droite"
 
     # game/code/screens/screens.rpy:1132
     old "Unseen Text"
-    new "Unseen Text"
+    new "non lui"
 
     # game/code/screens/screens.rpy:1133
     old "After Choices"
-    new "After Choices"
+    new "Apres les Choix"
 
     # game/code/screens/screens.rpy:1134
     old "Transitions"
@@ -184,7 +184,7 @@ translate french strings:
 
     # game/code/screens/screens.rpy:1151
     old "Text Speed"
-    new "Text Speed"
+    new "vitesse du texte""
 
     # game/code/screens/screens.rpy:1155
     old "Auto-Forward Time"
@@ -212,19 +212,19 @@ translate french strings:
 
     # game/code/screens/screens.rpy:1317
     old "The dialogue history is empty."
-    new "The dialogue history is empty."
+    new "L'historique des dialogues est vide."
 
     # game/code/screens/screens.rpy:1386
     old "Keyboard"
-    new "Keyboard"
+    new "Clavier"
 
     # game/code/screens/screens.rpy:1387
     old "Mouse"
-    new "Mouse"
+    new "Souris"
 
     # game/code/screens/screens.rpy:1390
     old "Gamepad"
-    new "Gamepad"
+    new "Menette"
 
     # game/code/screens/screens.rpy:1402
     old "Enter"
@@ -232,23 +232,23 @@ translate french strings:
 
     # game/code/screens/screens.rpy:1403
     old "Advances dialogue and activates the interface."
-    new "Advances dialogue and activates the interface."
+    new "Avance le dialogue et active l’interface."
 
     # game/code/screens/screens.rpy:1406
     old "Space"
-    new "Space"
+    new "eSpace"
 
     # game/code/screens/screens.rpy:1407
     old "Advances dialogue without selecting choices."
-    new "Advances dialogue without selecting choices."
+    new "Avance le dialogue sans sélectionner de choix."
 
     # game/code/screens/screens.rpy:1410
     old "Arrow Keys"
-    new "Arrow Keys"
+    new "Touches directionnelles"
 
     # game/code/screens/screens.rpy:1411
     old "Navigate the interface."
-    new "Navigate the interface."
+    new "Navigater the interface."
 
     # game/code/screens/screens.rpy:1414
     old "Escape"
@@ -364,9 +364,9 @@ translate french strings:
 
     # game/code/screens/screens.rpy:653
     old "Wishlist Taboo University in Steam"
-    new "Wishlist Taboo University in Steam"
+    new "Liste de souhaits Taboo University sur Steam"
 
     # game/code/screens/screens.rpy:656
     old "Try our new game Taboo University"
-    new "Try our new game Taboo University"
+    new "Essayez notre nouveau jeu Taboo University"
 
