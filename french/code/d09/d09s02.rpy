@@ -1072,7 +1072,7 @@ translate french d09s02_choice_ae45ad01:
 translate french d09s02_choice_94bb6f3b:
 
     # sb "That's a weird condition, but alright. I thought you were gonna say no sounding or something, but you do you I suppose."
-    sb "C'est une condition étrange, mais bon. Je pensais que tu allais dire "pas de sonde" ou un truc du genre, mais c'est le cas, je suppose."
+    sb "C'est une condition étrange, mais bon. Je pensais que tu allais dire \"pas de sonde\" ou un truc du genre, mais c'est le cas, je suppose."
 
 # game/code/d09/d09s02.rpy:538
 translate french d09s02_choice_075d2b64:

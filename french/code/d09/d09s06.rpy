@@ -172,7 +172,7 @@ translate french replay_d09s06_404fd795:
 translate french replay_d09s06_ffccc631:
 
     # mesfl "Fuck me! {w}No, I don't mean fuck me.{w} Gah. Fuck!"
-    mesfl "Baise-moi ! {w}Non, je ne veux pas dire "baise-moi".{w} Gah. Putain !"
+    mesfl "Baise-moi ! {w}Non, je ne veux pas dire \"baise-moi\".{w} Gah. Putain !"
 
 # game/code/d09/d09s06.rpy:89
 translate french replay_d09s06_002835a3:

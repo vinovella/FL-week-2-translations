@@ -514,7 +514,7 @@ translate french replay_d09s04_40bdfe55:
 translate french replay_d09s04_c558aba5:
 
     # vw "Yes. You started this, you'll finish it, mister."
-    vw "Oui. Vous avez commencé, vous le finirez, monsieur. »
+    vw "Oui. Vous avez commencé, vous le finirez, monsieur."
 
 # game/code/d09/d09s04.rpy:259
 translate french replay_d09s04_4689d278:
@@ -586,7 +586,7 @@ translate french replay_d09s04_a5fa4569:
 translate french replay_d09s04_6070d9ce:
 
     # mc "Hey, It's okay... {w}It's alright... {w}It will be okay..."
-    mc "Hé, tout va bien... {avec}Tout va bien... {avec}Ça ira..."
+    mc "Hé, tout va bien... {w}Tout va bien... {w}Ça ira..."
 
 # game/code/d09/d09s04.rpy:340
 translate french replay_d09s04_b70cdc63:

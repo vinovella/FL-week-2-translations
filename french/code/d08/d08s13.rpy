@@ -994,7 +994,7 @@ translate french d08s13_good_a6c45db0:
 translate french d08s13_good_38370fbd:
 
     # nk "Oh, okay.{w} It was lovely meeting you!"
-    nk "Oh, d'accord. {avec} C'était un plaisir de te rencontrer !"
+    nk "Oh, d'accord. {w} C'était un plaisir de te rencontrer !"
 
 # game/code/d08/d08s13.rpy:514
 translate french d08s13_good_90e17638:

@@ -100,7 +100,7 @@ translate french d08s02_62ab079c:
 translate french d08s02_3c06cb72:
 
     # mc "*cough* What?!"
-    mc *toux* Quoi ?!
+    mc "*toux* Quoi ?!"
 
 # game/code/d08/d08s02.rpy:53
 translate french d08s02_76080da4:

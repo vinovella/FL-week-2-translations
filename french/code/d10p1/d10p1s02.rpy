@@ -22,7 +22,7 @@ translate french d10p1s02_35fb5360:
 translate french d10p1s02_dcecb4bb:
 
     # mc "Nope. I'm good. {w}Though, I {i}was{/i} wondering if you knew anything about the events?"
-    mc "Non. C'est bon. {w}En revanche, je me demandais si tu savais quelque chose à propos des événements ?
+    mc "Non. C'est bon. {w}En revanche, je me demandais si tu savais quelque chose à propos des événements ?"
 
 # game/code/d10p1/d10p1s02.rpy:47
 translate french d10p1s02_ea6f5c02:
@@ -454,7 +454,7 @@ translate french d10p1s02_51a9adcf:
 translate french d10p1s02_d2cacc93:
 
     # aw "Why not? And so what? If they want to go somewhere, we let them. This {i}is{/i} a fetish party after all, they must've expected to see some action here and there. So why not here?"
-    aw "Pourquoi pas ? Et alors ? S'ils veulent aller quelque part, on les laisse faire. C'est {i}une{i} fête fétichiste après tout, ils devaient s'attendre à voir de l'action ici et là. Alors pourquoi pas ici ?"
+    aw "Pourquoi pas ? Et alors ? S'ils veulent aller quelque part, on les laisse faire. C'est {i}une{/i} fête fétichiste après tout, ils devaient s'attendre à voir de l'action ici et là. Alors pourquoi pas ici ?"
 
 # game/code/d10p1/d10p1s02.rpy:190
 translate french d10p1s02_a5589ad2:

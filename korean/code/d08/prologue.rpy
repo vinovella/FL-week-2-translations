@@ -46,7 +46,7 @@ translate korean prologue_fresh_start_36fcdd97:
 translate korean prologue_fetishes_7bc3a4e5:
 
     # "It's time to choose your preferences.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many as you want and press \"Done\"."
-    "{size=30}이제 당신의 취향을 고를 때입니다.\n가장 좋아하는 성벽이 목록에 없다고 해서 걱정하지 마세요: 페티시 로케이터는 막 시작되었으니까요!\n원하는 만큼 고르신 후 \"완료\"를 누르세요.{size=30}"
+    "{size=30}이제 당신의 취향을 고를 때입니다.\n가장 좋아하는 성벽이 목록에 없다고 해서 걱정하지 마세요: 페티시 로케이터는 막 시작되었으니까요!\n원하는 만큼 고르신 후 \"완료\"를 누르세요.{/size}"
 
 # game/code/d08/prologue.rpy:131
 translate korean prologue_girls_set_1_3502c4fc:

@@ -16,11 +16,11 @@ translate french strings:
 
     # game/code/screens/extended/screens_fl.rpy:30
     old "Hints on"
-    new "Indices actifs"
+    new "Indices\nactifs"
 
     # game/code/screens/extended/screens_fl.rpy:30
     old "Hints off"
-    new Indices déactivé"
+    new "Indices\ndéactivé"
 
     # game/code/screens/extended/screens_fl.rpy:46
     old "Page [page]"

@@ -142,7 +142,7 @@ translate french d09s03_7c75e95b:
 translate french d09s03_2d0ecf0e:
 
     # mc "From the way business is going at that coffee shop after one appearance from you, I'd say you are well on your way."
-    mc "avec ce qui s"est passé au café, après un seul concert, je dirais que c"est qu'une question de temps."
+    mc "avec ce qui s'est passé au café, après un seul concert, je dirais que c'est qu'une question de temps."
 
 # game/code/d09/d09s03.rpy:112
 translate french d09s03_4c416ddd:

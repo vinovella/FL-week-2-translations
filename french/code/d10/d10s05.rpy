@@ -1132,7 +1132,7 @@ translate french d10s05_replay_7e1c4671:
 translate french d10s05_replay_e93e4ce9:
 
     # ir "*Sigh* You know what? Fine. {i}Fine{/i}. If that's gonna keep you from getting on my case, fine."
-    ir ""*Soupir* Tu sais quoi ? Bien. {i}Bien{/i}. Si ça peut t'empêcher de t'occuper de mon cas, très bien.""
+    ir "*Soupir* Tu sais quoi ? Bien. {i}Bien{/i}. Si ça peut t'empêcher de t'occuper de mon cas, très bien."
 
 # game/code/d10/d10s05.rpy:487
 translate french d10s05_replay_473709e8:
@@ -1390,7 +1390,7 @@ translate french d10s05_replay_a1ad1b96:
 translate french d10s05_replay_4281c3dc:
 
     # mc "Yeah, it's the first time she's been out on her own, and knowing her, she probably spent countless hours going through \"What you should do when you rent your first apartment!\" articles and is now going to do them."
-    mc Oui, c'est la première fois qu'elle est seule, et la connaissant, elle a probablement passé d'innombrables heures à lire les articles."Ce qu'il faut faire quand on loue son premier appartement !\" et elle va maintenant le faire."
+    mc "Oui, c'est la première fois qu'elle est seule, et la connaissant, elle a probablement passé d'innombrables heures à lire les articles. \"Ce qu'il faut faire quand on loue son premier appartement !\" et elle va maintenant le faire."
 
 # game/code/d10/d10s05.rpy:585
 translate french d10s05_replay_b69d0ed5:

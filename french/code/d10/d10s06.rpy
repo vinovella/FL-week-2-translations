@@ -1,5 +1,8 @@
 ﻿# TODO: Translation updated at 2023-07-31 15:26
 
+# game/code/d10/d10s06.rpy:6
+translate french d10s06_3797c0e5:
+
     # "Arriving at Nora's"
     "Au café de Nora."
 
@@ -181,7 +184,7 @@ translate french d10s06_e008cc01:
 translate french d10s06_25e373f4:
 
     # nk "She's been trying to show me \"what a woman can do\" for ages now. I've always told her no, but I guess she found out a way to get into my pants regardless."
-    nk "Elle essaie de me montrer "ce qu'une femme peut faire" depuis longtemps. Je lui ai toujours dit non, mais je suppose qu'elle a trouvé un moyen d'entrer dans mon pantalon malgré tout."
+    nk "Elle essaie de me montrer \"ce qu'une femme peut faire\" depuis longtemps. Je lui ai toujours dit non, mais je suppose qu'elle a trouvé un moyen d'entrer dans mon pantalon malgré tout."
 
 # game/code/d10/d10s06.rpy:83
 translate french d10s06_ae98f407:

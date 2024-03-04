@@ -4,7 +4,7 @@
 translate french d08s08_e8de1932:
 
     # "01:30 PM"
-    "13h30
+    "13h30"
 
 # game/code/d08/d08s08.rpy:9
 translate french d08s08_04c732d3:
@@ -22,7 +22,7 @@ translate french d08s08_3098df80:
 translate french d08s08_79de6eca:
 
     # mct "\"Hi... I'm kinda sorta your boyfriend, but I'll boink anything I can.\""
-    mct "\""Salut... Je suis un peu ton petit ami, mais je dois être capable de baiser n'importe quoi.\""
+    mct "\"Salut... Je suis un peu ton petit ami, mais je dois être capable de baiser n'importe quoi.\""
 
 # game/code/d08/d08s08.rpy:14
 translate french d08s08_553cc969:
@@ -268,7 +268,7 @@ translate french d08s08_997e8b7f:
 translate french d08s08_deb64b11:
 
     # pb "It was over in this super rich community."
-    pb "j"ai fini dans cette communauté super riche."
+    pb "j'ai fini dans cette communauté super riche."
 
 # game/code/d08/d08s08.rpy:144
 translate french d08s08_1b0ffc09:
@@ -352,7 +352,7 @@ translate french d08s08_d8fe9612:
 translate french d08s08_bc38e599:
 
     # pb "Then some man's voice came over the speaker phone and ordered them to get rid of me!"
-    pb ""Non... c'est pas grave ! J'ai commencé à dire quelque chose, mais au moment où j'ai prononcé son nom, les deux gardes de sécurité ont sorti leurs armes !"
+    pb "Non... c'est pas grave ! J'ai commencé à dire quelque chose, mais au moment où j'ai prononcé son nom, les deux gardes de sécurité ont sorti leurs armes !"
 
 # game/code/d08/d08s08.rpy:171
 translate french d08s08_2fd2d602:

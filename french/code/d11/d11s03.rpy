@@ -232,7 +232,7 @@ translate french d11s03_742f765c:
 translate french d11s03_b00e57f9:
 
     # cl "I got one too. \"Disgusting slut pig whore\" was used about twenty times."
-    cl "J'en ai un aussi. \"L'expression "dégoûtante salope de pute\" a été utilisée une vingtaine de fois."
+    cl "J'en ai un aussi. \"L'expression dégoûtante salope de pute\" a été utilisée une vingtaine de fois."
 
 # game/code/d11/d11s03.rpy:135
 translate french d11s03_bbd29f6c:

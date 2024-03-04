@@ -22,7 +22,7 @@ translate french d08s09_605e1af7:
 translate french d08s09_83cbdbe2:
 
     # jf "Hey, that was fast... I'll unlock the door, but please wait a minute before you come in.{w}.. Or count to three or something."
-    jf "Hé, t"es déjâ là... Je vais déverrouiller la porte, mais s'il te plaît, attends une minute avant d'entrer.{w}.. Ou compte jusqu'à trois ou quelque chose comme ça."
+    jf "Hé, t'es déjâ là... Je vais déverrouiller la porte, mais s'il te plaît, attends une minute avant d'entrer.{w}.. Ou compte jusqu'à trois ou quelque chose comme ça."
 
 # game/code/d08/extended/d08s09.rpy:51
 translate french d08s09_9959197d:

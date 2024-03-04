@@ -82,7 +82,7 @@ translate french d08s10_40f80967:
 translate french d08s10_5d625c77:
 
     # aw "So what is the matter?"
-    aw "Alors, qu'est-ce qu'il y a ? »
+    aw "Alors, qu'est-ce qu'il y a ?"
 
 # game/code/d08/d08s10.rpy:56
 translate french d08s10_1ca1f381:

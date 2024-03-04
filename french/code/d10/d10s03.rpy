@@ -10,7 +10,7 @@ translate french d10s03_68b91133:
 translate french d10s03_12c7f527:
 
     # "A short while of tolerating public transport later..."
-    Une courte période à tolérer les transports publics plus tard...
+    "Une courte période à tolérer les transports publics plus tard..."
 
 # game/code/d10/d10s03.rpy:34
 translate french d10s03_df7ad144:
@@ -58,7 +58,7 @@ translate french d10s03_a7c88e98:
 translate french d10s03_92574290:
 
     # sb "It's coming."
-    sb "c"est en chemin."
+    sb "c'est en chemin."
 
 # game/code/d10/d10s03.rpy:49
 translate french d10s03_99b69881:
@@ -142,7 +142,7 @@ translate french d10s03_abd8c4c2:
 translate french d10s03_40511e6c:
 
     # "*toc toc*"
-
+    "*toc toc*"
 
 # game/code/d10/d10s03.rpy:78
 translate french d10s03_33995e07:
@@ -160,7 +160,7 @@ translate french d10s03_74a0098e:
 translate french d10s03_fe000143:
 
     # "John" "Suck my dick."
-John" "Suck my dick.
+    "John" "Suck my dick."
 
 # game/code/d10/d10s03.rpy:89
 translate french d10s03_0ff10a6c:
@@ -172,13 +172,13 @@ translate french d10s03_0ff10a6c:
 translate french d10s03_953e7f72:
 
     # "John" "You didn't have any problems sucking my dick for free before you dropped this time bomb on me."
-John" "Tu n'as eu aucun problème à me sucer gratuitement avant de lâcher cette bombe chez moi.
+    "John" "Tu n'as eu aucun problème à me sucer gratuitement avant de lâcher cette bombe chez moi."
 
 # game/code/d10/d10s03.rpy:91
 translate french d10s03_b5bafdd6:
 
     # "John" "How exactly am I supposed to explain this shit to my wife!?"
-John" "Comment suis-je censé expliquer cette merde à ma femme !?
+    "John" "Comment suis-je censé expliquer cette merde à ma femme !?"
 
 # game/code/d10/d10s03.rpy:94
 translate french d10s03_b16ce410:
@@ -190,13 +190,13 @@ translate french d10s03_b16ce410:
 translate french d10s03_31472418:
 
     # "John" "She's been having a fucking meltdown since she found this. Half the fucking neighborhood already knows about this. "
-John" "Elle a fait une putain de crise depuis qu'elle a trouvé ça. La moitié du putain de quartier est déjà au courant." 
+    "John" "Elle a fait une putain de crise depuis qu'elle a trouvé ça. La moitié du putain de quartier est déjà au courant."
 
 # game/code/d10/d10s03.rpy:97
 translate french d10s03_dd8c7580:
 
     # "John" "You completely fucked me, you bitch!"
-John" "Tu m'as complètement baisée, salope !"
+    "John" "Tu m'as complètement baisée, salope !"
 
 # game/code/d10/d10s03.rpy:99
 translate french d10s03_82a541e6:
@@ -208,7 +208,7 @@ translate french d10s03_82a541e6:
 translate french d10s03_976b99de:
 
     # "John" "You...!"
-John" "toi...!
+    "John" "toi...!"
 
 # game/code/d10/d10s03.rpy:114
 translate french d10s03_a9af5f58:
@@ -220,7 +220,7 @@ translate french d10s03_a9af5f58:
 translate french d10s03_ea0c441a:
 
     # "John" "She's filing for divorce! 13 years! 13 FUCKING YEARS!!! And you destroyed it all! MY LIFE IS FUCKED, YOU BITCH!"
-John" "Elle demande le divorce ! 13 ans ! 13 PUTAIN D'ANNÉES ! !! Et tu as tout détruit ! MA VIE EST FOUTUE, SALOPE!
+    "John" "Elle demande le divorce ! 13 ans ! 13 PUTAIN D'ANNÉES ! !! Et tu as tout détruit ! MA VIE EST FOUTUE, SALOPE!"
 
 # game/code/d10/d10s03.rpy:133
 translate french d10s03_762a490a:
@@ -232,19 +232,19 @@ translate french d10s03_762a490a:
 translate french d10s03_333ce1c8:
 
     # "John" "Oh, really?"
-John" "Oh, vraiment?"
+    "John" "Oh, vraiment?"
 
 # game/code/d10/d10s03.rpy:139
 translate french d10s03_b670258b:
 
     # "John" "Maybe I should show you just how I fuck?"
-John" "Je devrais peut-être te montrer comment je baise ?"
+    "John" "Je devrais peut-être te montrer comment je baise ?"
 
 # game/code/d10/d10s03.rpy:141
 translate french d10s03_3c5646a3:
 
     # "John" "When I'm done with you, not even the fucking FBI will be able to find your whore body."
-John" ""Quand j'en aurai fini avec toi, même le putain de FBI ne pourra pas retrouver ton corps de catin."
+    "John" "Quand j'en aurai fini avec toi, même le putain de FBI ne pourra pas retrouver ton corps de catin."
 
 # game/code/d10/d10s03.rpy:144
 translate french d10s03_11fccb14:
@@ -256,13 +256,13 @@ translate french d10s03_11fccb14:
 translate french d10s03_f3116c06:
 
     # "John" "Huh?"
-John" "Hein?
+    "John" "Hein?"
 
 # game/code/d10/d10s03.rpy:156
 translate french d10s03_0e0412e8:
 
     # mct "Fuck!"
-    mct "Putain !"
+    mct "Putain !"
 
 # game/code/d10/d10s03.rpy:159
 translate french d10s03_7fc76222:
@@ -298,7 +298,7 @@ translate french d10s03_de7e28c5:
 translate french d10s03_464eacb8:
 
     # "John" "Wha— What the—"
-John" "Duo— What the—
+    "John" "Duo— What the—"
 
 # game/code/d10/d10s03.rpy:171
 translate french d10s03_00824b0e:
@@ -310,7 +310,7 @@ translate french d10s03_00824b0e:
 translate french d10s03_d18b3399:
 
     # "John" "I—"
-John" "Je—
+    "John" "Je—"
 
 # game/code/d10/d10s03.rpy:196
 translate french d10s03_c00f9352:
@@ -322,13 +322,13 @@ translate french d10s03_c00f9352:
 translate french d10s03_345b86c4:
 
     # sb "*Wack* You *Wack* have the audacity *Wack* to bitch slap {i}{b}me!?!?{/b}{/i}"
-    sb "*coup* Tu *coup* as l'audace *coup* de me gifler!?!?{/b}{/i}"
+    sb "*coup* Tu *coup* as l'audace *coup* de me gifler!?!?"
 
 # game/code/d10/d10s03.rpy:204
 translate french d10s03_1f88f13b:
 
     # sb "*Wack* THAT COSTS EXTRA! *Wack**Wack**Quack*"
-    sb "*coup* C'EST BEAUCOUP PLUS CHER ! *coup**coup**coup*"
+    sb "*coup* C'EST BEAUCOUP PLUS CHER ! *coup**coup**coup*"
 
 # game/code/d10/d10s03.rpy:207
 translate french d10s03_88a2ed26:
@@ -364,13 +364,13 @@ translate french d10s03_93ce4f9c:
 translate french d10s03_63541c6e:
 
     # "John" "Uhhhgh.{w}.. I never want to see any of you cunts ever again."
-John" "Uhhhgh.{w}.. Je ne veux plus jamais voir aucune de vos sales gueules."
+    "John" "Uhhhgh.{w}.. Je ne veux plus jamais voir aucune de vos sales gueules."
 
 # game/code/d10/d10s03.rpy:220
 translate french d10s03_cdda89c9:
 
     # sb "I'LL SKIN YOU ALIVE, MOTHERFUCKER! I'LL CHOP UP YOUR DICK AND STICK IT UP YOUR FUCKING ASS! COME HERE—!"
-    sb "Je t'écorcherai vivant, enfoiré ! Je vais te couper la bite et la coller dans ton putain de cul ! VENEZ ICI-!"
+    sb "Je t'écorcherai vivant, enfoiré ! Je vais te couper la bite et la coller dans ton putain de cul ! VENEZ ICI-!"
 
 # game/code/d10/d10s03.rpy:224
 translate french d10s03_ee1c4819:
@@ -418,7 +418,7 @@ translate french d10s03_a9c29e3d:
 translate french d10s03_21825763:
 
     # pb "What are friends for if not to beat up desperate former husbands with anger issues?"
-    pb "À quoi servent les amis, si ce n’est pour tabasser des ex-maris désespérés et en proie à des problèmes de colère ?"
+    pb "À quoi servent les amis, si ce n'est pour tabasser des ex-maris désespérés et en proie à des problèmes de colère ?"
 
 # game/code/d10/d10s03.rpy:241
 translate french d10s03_369626ac:
@@ -442,7 +442,7 @@ translate french d10s03_68609855:
 translate french d10s03_2443bb27:
 
     # sb "Yeah.{w} Wait, what? Do you know her?"
-    sb "Ouais.{w} Attends, quoi ? Est-ce que tu la connais?"
+    sb "Ouais.{w} Attends, quoi ? Est-ce que tu la connais?"
 
 # game/code/d10/d10s03.rpy:250
 translate french d10s03_122e26b3:
@@ -562,7 +562,7 @@ translate french d10s03_2b35b6fe:
 translate french Peteyboi_5c43caf8:
 
     # mc "Alright, see you at the dorm then!"
-    mc "Très bien, à bientôt au dortoir alors !"
+    mc "Très bien, à bientôt au dortoir alors !"
 
 # game/code/d10/d10s03.rpy:294
 translate french Peteyboi_124e87bb:
@@ -633,7 +633,6 @@ translate french strings:
     # game/code/d10/d10s03.rpy:287
     old "Eh, whatever"
     new "Eh, peu importe"
-
 
     old "Let's go"
     new "Allons-y"

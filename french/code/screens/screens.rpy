@@ -184,7 +184,7 @@ translate french strings:
 
     # game/code/screens/screens.rpy:1151
     old "Text Speed"
-    new "vitesse du texte""
+    new "vitesse du texte"
 
     # game/code/screens/screens.rpy:1155
     old "Auto-Forward Time"

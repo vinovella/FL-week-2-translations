@@ -1414,13 +1414,13 @@ translate french d09s07_sb_talk_bf30aa71:
 translate french d09s07_sb_talk_8d3fb731:
 
     # sb "Shit!{w} Four-Sixty-Nine!"
-    sb "Merde !{w} Quatre-Soixante-Neuf ! »
+    sb "Merde !{w} Quatre-Soixante-Neuf !"
 
 # game/code/d09/extended/d09s07.rpy:927
 translate french d09s07_sb_talk_9968cc10:
 
     # sb "Like you should have been going for sixty nine!"
-    sb "Comme si tu aurais dû y aller depuis soixante-neuf !"
+    sb "Comme si tu aurais dû y aller depuis soixante-neuf !"
 
 # game/code/d09/extended/d09s07.rpy:929
 translate french d09s07_sb_talk_8f9e986b:

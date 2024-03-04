@@ -118,7 +118,7 @@ translate french strings:
 
     # game/code/d08/prologue.rpy:75
     old "What is your nickname in Fetish Locator app?\nIf empty, the game will prepend \"Not_\" to your name: e.g. Not_Mike"
-    new "Quel est votre surnom dans l'application Fetish Locator ?\nS'il vide, le jeu ajoutera "Pas_\" à votre nom : par ex. Pas_Mike"
+    new "Quel est votre surnom dans l'application Fetish Locator ?\nS'il vide, le jeu ajoutera \"Pas_\" à votre nom : par ex. Pas_Mike"
 
     # game/code/d08/prologue.rpy:87
     old "Her face"

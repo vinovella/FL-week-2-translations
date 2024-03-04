@@ -256,7 +256,7 @@ translate french d08s14_3ce3bca2:
 translate french d08s14_fc924438:
 
     # lc "No! No, nothing like that.{w} You're great. It's just...{w} me."
-    lc "Non! Non, c"est pas ça.{w} Tu es génial. C'est juste...{w} moi."
+    lc "Non! Non, c'est pas ça.{w} Tu es génial. C'est juste...{w} moi."
 
 # game/code/d08/d08s14.rpy:89
 translate french d08s14_06f67a61:

@@ -1048,7 +1048,7 @@ translate french d10p1s01_81c5fcf7:
 translate french d10p1s01_80fe0554:
 
     # "{color=#778faa}???{/color}" "Great dress! Are you my waitress?"
-{color=#778faa}???{/color}" "Superbe robe ! Êtes-vous ma serveuse ?
+    "{color=#778faa}???{/color}" "Superbe robe ! Êtes-vous ma serveuse ?"
 
 # game/code/d10p1/d10p1s01.rpy:400
 translate french d10p1s01_5a7a819e:

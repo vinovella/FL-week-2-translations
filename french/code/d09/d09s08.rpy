@@ -490,13 +490,13 @@ translate french d09s08_c7f50562:
 translate french d09s08_4e091378:
 
     # lc "I want to hear about what or who you did at last week's Party."
-    lc "Je veux savoir ce que tu as fait ou qui tu t"es fait à la fête de la semaine dernière."
+    lc "Je veux savoir ce que tu as fait ou qui tu t'es fait à la fête de la semaine dernière."
 
 # game/code/d09/d09s08.rpy:164
 translate french d09s08_79f31cfe:
 
     # lc "I will want to hear about what or who you did at tomorrow's Party."
-    lc "Je veux savoir ce que tu as fait ou qui tu t"es fait à la fête de demain."
+    lc "Je veux savoir ce que tu as fait ou qui tu t'es fait à la fête de demain."
 
 # game/code/d09/d09s08.rpy:166
 translate french d09s08_17d56721:

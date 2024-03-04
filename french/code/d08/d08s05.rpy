@@ -1138,7 +1138,7 @@ translate french d08s05_dw_f4a296e2:
 translate french d08s05_dw_dd5eddfc:
 
     # sy "I'm all ears!"
-    sy "Je suis tout ouïe!
+    sy "Je suis tout ouïe!"
 
 # game/code/d08/d08s05.rpy:522
 translate french d08s05_dw_2f9aed17:

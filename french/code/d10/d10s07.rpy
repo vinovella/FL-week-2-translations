@@ -448,7 +448,7 @@ translate french d10s07_23e53b43:
 translate french d10s07_6031d704:
 
     # arj "Ha! {w}You might discover the best \"Salad\" bar in town!"
-    arj Ha ! {w}Tu pourrais découvrir le meilleur bar à salades de la ville !"
+    arj "Ha ! {w}Tu pourrais découvrir le meilleur bar à salades de la ville !"
 
 # game/code/d10/d10s07.rpy:204
 translate french d10s07_98274296:

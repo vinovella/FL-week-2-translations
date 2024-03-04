@@ -28,7 +28,7 @@ translate french d10p1s03_963c7d6f:
 translate french d10p1s03_c5248142:
 
     # mh "Hm? Oh, [mcname]!"
-    mh "Hein ? Oh, [nommc] !"
+    mh "Hein ? Oh, [nommc] !"
 
 # game/code/d10p1/d10p1s03.rpy:25
 translate french d10p1s03_0a00b0ed:
@@ -448,7 +448,7 @@ translate french d10p1s03_ffc6a815:
 translate french d10p1s03_9b4e6556:
 
     # dd "Hey, [mcname]!"
-    dd "Hé, [mcname] !"
+    dd "Hé, [mcname] !"
 
 # game/code/d10p1/d10p1s03.rpy:218
 translate french d10p1s03_ae637277:
@@ -598,7 +598,7 @@ translate french d10p1s03_f3b49da1:
 translate french d10p1s03_1f4e2c47:
 
     # dd "Noice. {w}Oh, how'd you like my choker by the way?"
-    dd "Bref. {w}Oh, au fait, que penses-tu de mon tour de cou ?"
+    dd "Bref. {w}Oh, au fait, que penses-tu de mon tour de cou ?"
 
 # game/code/d10p1/d10p1s03.rpy:299
 translate french d10p1s03_5791a19e:
@@ -664,7 +664,7 @@ translate french d10p1s03_43404792:
 translate french d10p1s03_2bdd03f8:
 
     # "{color=#f56e56}???{/color}" "Come on! But why!? I've seen like...10 people go in with masks that barely cover their face!"
-{color=#f56e56}???{/color}" "Allons-y ! Mais pourquoi ? J'ai vu environ...10 personnes entrer avec des masques qui couvrent à peine leur visage !"
+    "{color=#f56e56}???{/color}" "Allons-y ! Mais pourquoi ? J'ai vu environ...10 personnes entrer avec des masques qui couvrent à peine leur visage !"
 
 # game/code/d10p1/d10p1s03.rpy:329
 translate french d10p1s03_59e95aff:
@@ -850,7 +850,7 @@ translate french d10p1s03_24353198:
 translate french d10p1s03_bbe51fc4:
 
     # mc "Wait, you {i}are{/i} at least 18, right?"
-    mc "Attendez, vous avez au moins 18 ans, n'est-ce pas ?""
+    mc "Attendez, vous avez au moins 18 ans, n'est-ce pas ?"
 
 # game/code/d10p1/d10p1s03.rpy:417
 translate french d10p1s03_af7078aa:
@@ -982,7 +982,7 @@ translate french d10p1s03_1dc49860:
 translate french d10p1s03_4c518291:
 
     # op "Yeah... So... how do these parties work? Do I just go around and talk to people until something happens?"
-    op "Ouais...Alors...comment fonctionnent ces fêtes ? Est-ce que je me contente de parler aux gens jusqu'à ce que quelque chose se passe ?"
+    op "Ouais...Alors...comment fonctionnent ces fêtes ? Est-ce que je me contente de parler aux gens jusqu'à ce que quelque chose se passe ?"
 
 # game/code/d10p1/d10p1s03.rpy:476
 translate french d10p1s03_8bc37b69:
@@ -1222,7 +1222,7 @@ translate french strings:
     old "Don't bother"
     new "Ne pas s'en préoccuper"
 
-	# game/code/d10p1/d10p1s03.rpy:344
+    # game/code/d10p1/d10p1s03.rpy:344
     old "See what's going on"
     new "Voir ce qui se passe"
 

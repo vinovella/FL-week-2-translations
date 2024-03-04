@@ -124,7 +124,7 @@ translate french d10s04_37c39ee1:
 translate french d10s04_bc74de18:
 
     # vw "Thanks. {w}I want it to feel dangerous, but not be dangerous, understand?"
-    vw "Merci. {w}Je veux que cela semble dangereux, mais pas réellement, compris ?"
+    vw "Merci. {w}Je veux que cela semble dangereux, mais pas réellement, compris ?"
 
 # game/code/d10/d10s04.rpy:130
 translate french d10s04_1e242248:
@@ -190,7 +190,7 @@ translate french d10s04_9ce5a9b0:
 translate french d10s04_f0322620:
 
     # mc "Oh! {w}In a public toilet?"
-    mc "Oh! {w}Dans des toilettes publiques ?"
+    mc "Oh! {w}Dans des toilettes publiques ?"
 
 # game/code/d10/d10s04.rpy:155
 translate french d10s04_672ebc19:
@@ -238,7 +238,7 @@ translate french d10s04_49c7f0db:
 translate french d10s04_21e673d7:
 
     # mc "Woah!"
-    mc "Waouh !"
+    mc "Waouh !"
 
 # game/code/d10/d10s04.rpy:171
 translate french d10s04_ecd83e23:
@@ -310,7 +310,7 @@ translate french d10s04_856ba74e:
 translate french d10s04_58fdbb1a:
 
     # mc "Was this a grocery or a hardware store or?"
-    mc "Était-ce une épicerie ou une quincaillerie ou ?"
+    mc "Était-ce une épicerie ou une quincaillerie ou ?"
 
 # game/code/d10/d10s04.rpy:190
 translate french d10s04_3fd65ed3:
@@ -454,7 +454,7 @@ translate french d10s04_a4630ee5:
 translate french d10s04_bd5286b2:
 
     # mh "Hey [mcname]!"
-    mh "Hé [mcname] !"
+    mh "Hé [mcname] !"
 
 # game/code/d10/d10s04.rpy:246
 translate french d10s04_0456c338:
@@ -496,7 +496,7 @@ translate french d10s04_85887098:
 translate french d10s04_0d828fdd:
 
     # sy "[mcname]! You old coot.{w}.. or something..."
-    sy "[nommc] ! Espèce de vieux fou.{w}.. ou quelque chose comme ça..."
+    sy "[nommc] ! Espèce de vieux fou.{w}.. ou quelque chose comme ça..."
 
 # game/code/d10/d10s04.rpy:261
 translate french d10s04_6435aacb:
@@ -544,7 +544,7 @@ translate french d10s04_8b3637b3:
 translate french d10s04_e764a314:
 
     # mct "Woah! That's unexpected."
-    mct "Waouh ! C'est inattendu."
+    mct "Waouh ! C'est inattendu."
 
 # game/code/d10/d10s04.rpy:284
 translate french d10s04_e332d034:
@@ -628,19 +628,19 @@ translate french d10s04_1dd318ab:
 translate french d10s04_267d3d55:
 
     # sy "What's this? What's this? {w}There's beauty everywhere!"
-    sy "Que vois-je? Que vois-je? {w}Il y a de la beauté partout !"
+    sy "Que vois-je? Que vois-je? {w}Il y a de la beauté partout !"
 
 # game/code/d10/d10s04.rpy:318
 translate french d10s04_6c6894ae:
 
     # sy "What's this? What's this? {w}I even got a chair!"
-    sy "Que vois-je? Que vois-je? {w}J'ai même une chaise !"
+    sy "Que vois-je? Que vois-je? {w}J'ai même une chaise !"
 
 # game/code/d10/d10s04.rpy:319
 translate french d10s04_2a099215:
 
     # sy "What's this? What's this? {w}I can't believe my senses - I must be dreaming!"
-    sy "Que vois-je? Que vois-je? {w}Je n'en crois pas mes sens : je dois rêver !"
+    sy "Que vois-je? Que vois-je? {w}Je n'en crois pas mes sens : je dois rêver !"
 
 # game/code/d10/d10s04.rpy:320
 translate french d10s04_2c5dfc42:
@@ -832,7 +832,7 @@ translate french d10s04_58e1ae3d:
 translate french d10s04_acdf4dfc:
 
     # vw "Oh, young lady came prepared! But that only is if the death happened within last three years."
-    vw "Oh, jeune femme est venue préparée ! Mais ce n'est que si le décès est survenu au cours des trois dernières années."
+    vw "Oh, jeune femme est venue préparée ! Mais ce n'est que si le décès est survenu au cours des trois dernières années."
 
 # game/code/d10/d10s04.rpy:418
 translate french d10s04_ac76ff49:
@@ -850,7 +850,7 @@ translate french d10s04_326a47a1:
 translate french d10s04_a79db8a6:
 
     # vw "Did you study landlord-tenant laws?"
-    vw "Avez-vous étudié les lois sur les propriétaires et les locataires ?"
+    vw "Avez-vous étudié les lois sur les propriétaires et les locataires ?"
 
 # game/code/d10/d10s04.rpy:423
 translate french d10s04_d50e2134:
@@ -874,7 +874,7 @@ translate french d10s04_382eff21:
 translate french d10s04_54f61690:
 
     # sy "Yes, the exception is if someone dies from human immunodeficiency or AIDS. But do you just hide that info is such case?"
-    sy "Oui, sauf si une personne décède d’une immunodéficience humaine ou du SIDA. Mais est-ce que vous cachez simplement que cette information est un tel cas ?"
+    sy "Oui, sauf si une personne décède d’une immunodéficience humaine ou du SIDA. Mais est-ce que vous cachez simplement que cette information est un tel cas ?"
 
 # game/code/d10/d10s04.rpy:433
 translate french d10s04_efbff18b:
@@ -910,7 +910,7 @@ translate french replay_d10s04_b5c8178e:
 translate french replay_d10s04_bad3966e:
 
     # mc "What can I do for you...{w} or possibly to you?"
-    mc "Que puis-je faire pour toi...{w} ou éventuellement avec vous ?"
+    mc "Que puis-je faire pour toi...{w} ou éventuellement avec vous ?"
 
 # game/code/d10/d10s04.rpy:459
 translate french replay_d10s04_84362156:
@@ -1162,19 +1162,19 @@ translate french replay_d10s04_2e9c9cfb:
 translate french replay_d10s04_daf4d840:
 
     # "A little longer than a few minutes later."
-    "Un peu plus que quelques minutes plus tard".
+    "Un peu plus que quelques minutes plus tard."
 
 # game/code/d10/d10s04.rpy:654
 translate french d10s04_cum_d2dbc43c:
 
     # mh "The case is mine now!"
-    mh "L'affaire est à moi maintenant !"
+    mh "L'affaire est à moi maintenant !"
 
 # game/code/d10/d10s04.rpy:659
 translate french d10s04_cum_60a18733:
 
     # mc "Motion denied!"
-    mc "Motion refusée !"
+    mc "Motion refusée !"
 
 # game/code/d10/d10s04.rpy:661
 translate french d10s04_cum_5383ee5c:
@@ -1210,13 +1210,13 @@ translate french d10s04_cum_fef03c5f:
 translate french d10s04_cum_45645c85:
 
     # mc "We shall conclude this case later today!"
-    mc "Nous conclurons cette affaire plus tard dans la journée !"
+    mc "Nous conclurons cette affaire plus tard dans la journée !"
 
 # game/code/d10/d10s04.rpy:675
 translate french d10s04_cum_1bd995e0:
 
     # mc "Would you care to retry your position on this argument?"
-    mc "Voudriez-vous réessayer votre position sur cet argument ?"
+    mc "Voudriez-vous réessayer votre position sur cet argument ?"
 
 # game/code/d10/d10s04.rpy:694
 translate french d10s04_cum_f37d2a56:
@@ -1264,7 +1264,7 @@ translate french d10s04_cum_e9029b89:
 translate french d10s04_cum_0f942b88:
 
     # mct "Hmmm... Why only [d10s04_fl_points]?"
-    mct "Hmmm...Pourquoi seulement [d10s04_fl_points] ?"
+    mct "Hmmm...Pourquoi seulement [d10s04_fl_points] ?"
 
 # game/code/d10/d10s04.rpy:723
 translate french d10s04_cum_c1aa597a:
@@ -1312,7 +1312,7 @@ translate french d10s04_end_2058b688:
 translate french d10s04_end_b4a9a71d:
 
     # vw "Oh yes, [mcname] would you do the honors?"
-    vw "Oh oui, [mcname] feriez-vous les honneurs ?"
+    vw "Oh oui, [mcname] feriez-vous les honneurs ?"
 
 # game/code/d10/d10s04.rpy:747
 translate french d10s04_end_80d8908d:
@@ -1354,7 +1354,7 @@ translate french d10s04_end_e36d666b:
 translate french d10s04_end_8c6d6bf5:
 
     # vw "Well, we won't keep you any longer."
-    vw ""Eh bien, nous ne vous retiendrons pas plus longtemps."
+    vw "Eh bien, nous ne vous retiendrons pas plus longtemps."
 
 # game/code/d10/d10s04.rpy:763
 translate french d10s04_end_fcb1e975:
@@ -1366,13 +1366,13 @@ translate french d10s04_end_fcb1e975:
 translate french d10s04_end_7c1cfe15:
 
     # sy "Going clothes shopping with AmRose!"
-    sy "Faire du shopping avec AmRose !"
+    sy "Faire du shopping avec AmRose !"
 
 # game/code/d10/d10s04.rpy:768
 translate french d10s04_end_b9932ad4:
 
     # mc "Ugh...{w} Why me?"
-    mc "Pouah...{w} Pourquoi moi ?"
+    mc "Pouah...{w} Pourquoi moi ?"
 
 # game/code/d10/d10s04.rpy:770
 translate french d10s04_end_da99fd9b:
