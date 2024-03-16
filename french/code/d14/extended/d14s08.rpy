@@ -454,7 +454,7 @@ translate french d14s08_9dcddcee:
 translate french d14s08_fa154157:
 
     # pw "I want you to make me feel that way again {w}today."
-    pw Je veux que tu me refasses sentir ça {w}Ajourd'hui."
+    pw "Je veux que tu me refasses sentir ça {w}Ajourd'hui."
 
 # game/code/d14/extended/d14s08.rpy:268
 translate french d14s08_24eec0dd:
