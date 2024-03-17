@@ -28,7 +28,7 @@ translate french strings:
 
     # game/code/screens/screens_fl.rpy:176
     old "Unnamed End Game Save"
-    new "Unnamed End Game Save"
+    new "Sauvegarde de fin de partie sans nom"
 
     # game/code/screens/screens_fl.rpy:213
     old "No end game save from week [FLSS.week.prev] has been detected"
@@ -48,7 +48,7 @@ translate french strings:
 
     # game/code/screens/screens_fl.rpy:317
     old "Touch input supported"
-    new "Touch input supported"
+    new "Saisie tactile prise en charge"
 
     # game/code/screens/screens_fl.rpy:318
     old "Navigation"
@@ -56,39 +56,39 @@ translate french strings:
 
     # game/code/screens/screens_fl.rpy:319
     old "Pause Menu"
-    new "Pause Menu"
+    new "Menu Pause"
 
     # game/code/screens/screens_fl.rpy:320
     old "Quick Save"
-    new "Quick Save"
+    new "Sauvegarde Rapide"
 
     # game/code/screens/screens_fl.rpy:322
     old "Roll Back"
-    new "Roll Back"
+    new "Retour Arrière"
 
     # game/code/screens/screens_fl.rpy:325
     old "{b}A{/b} - Select"
-    new "{b}A{/b} - Select"
+    new "{b}A{/b} - Selectionner"
 
     # game/code/screens/screens_fl.rpy:326
     old "{b}B{/b} - Go Back"
-    new "{b}B{/b} - Go Back"
+    new "{b}B{/b} - Retour Arrière"
 
     # game/code/screens/screens_fl.rpy:327
     old "{b}X{/b} - Skip"
-    new "{b}X{/b} - Skip"
+    new "{b}X{/b} - Passer"
 
     # game/code/screens/screens_fl.rpy:328
     old "{b}Y{/b} - Hide UI"
-    new "{b}Y{/b} - Hide UI"
+    new "{b}Y{/b} - Cacher l'UI"
 
     # game/code/screens/screens_fl.rpy:329
     old "Roll Forward"
-    new "Roll Forward"
+    new "Avance rapide"
 
     # game/code/screens/screens_fl.rpy:332
     old "You can find this layout in the {b}Help{/b} menu"
-    new "You can find this layout in the {b}Help{/b} menu"
+    new "Vous pouvez trouver ces informations dans le menu {b}Aide{/b} "
 
     # game/code/screens/screens_fl.rpy:363
     old "points: "
@@ -140,49 +140,49 @@ translate french strings:
 
     # game/code/screens/screens_fl.rpy:868
     old "1. Go to - Settings -> Apps -> Fetish Locator Week [FLSS.week.cur] -> Permissions -> Storage."
-    new "1. Go to - Settings -> Apps -> Fetish Locator Week [FLSS.week.cur] -> Permissions -> Storage."
+    new "1. Aller dans - Paramettres -> Applications -> Fetish Locator Week [FLSS.week.cur] -> Permissions -> Storage."
 
     # game/code/screens/screens_fl.rpy:869
     old "2. Set the permission to -> \"Allow management of all files\"."
-    new "2. Set the permission to -> \"Allow management of all files\"."
+    new "2. Mettez les permissions sur -> \"Allow management of all files\"."
 
     # game/code/screens/screens_fl.rpy:871
     old "Now the game should work."
-    new "Now the game should work."
+    new "Maintenant le jeu devrait marcher."
 
     # game/code/screens/screens_fl.rpy:873
     old "Your device cannot save the game progress through different weeks. Please, follow these instructions to fix this issue."
-    new "Your device cannot save the game progress through different weeks. Please, follow these instructions to fix this issue."
+    new "Votre appareil ne peut pas enregistrer la progression du jeu sur différentes semaines. Veuillez suivre ces instructions pour résoudre ce problème."
 
     # game/code/screens/screens_fl.rpy:875
     old "1. Enable \"Show hidden items\" option in Windows Explorer."
-    new "1. Enable \"Show hidden items\" option in Windows Explorer."
+    new "1. Activez l'option \"Afficher les éléments masqués\" dans l'explorateur Windows."
 
     # game/code/screens/screens_fl.rpy:876
     old "2. Go to - \"C:/Users/username/AppData/Roaming/RenPy/persistent/\" folder."
-    new "2. Go to - \"C:/Users/username/AppData/Roaming/RenPy/persistent/\" folder."
+    new "2. Allez dans le dossier - \"C:/Users/username/AppData/Roaming/RenPy/persistent/\" ."
 
     # game/code/screens/screens_fl.rpy:877
     old "3. Create a backup of the file \"FetishLocator\" and delete it."
-    new "3. Create a backup of the file \"FetishLocator\" and delete it."
+    new "3. Créez une sauvegarde du fichier \"FetishLocator\" et suprimez-le."
 
     # game/code/screens/screens_fl.rpy:879
     old "4. After launching the game once you can put the backed up file back to it's location to get your Week saves back."
-    new "4. After launching the game once you can put the backed up file back to it's location to get your Week saves back."
+    new "4. Après avoir lancé le jeu, vous pouvez remettre le fichier sauvegardé à son emplacement pour récupérer vos sauvegardes."
 
     # game/code/screens/screens_fl.rpy:881
     old "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
-    new "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
+    new "Contactez nous sur {a=https://discord.gg/efmQRNtFks}Discord{/a} si vous avez besoin d'aide."
 
     # game/code/screens/screens_fl.rpy:888
     old "Continue playing"
-    new "Continue playing"
+    new "Continuer le jeu"
 
     # game/code/screens/screens_fl.rpy:888
     old "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
-    new "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
+    new "Si vous décidez de continuer, vos sauvegardes risquent de ne pas fonctionner entre les différentes semaines. Vous ne serez plus averti. Êtes-vous sûr?"
 
     # game/code/screens/screens_fl.rpy:892
     old "Close the game"
-    new "Close the game"
+    new "Fermer le jeu"
 
