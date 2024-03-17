@@ -104,7 +104,7 @@ translate french strings:
 
     # game/code/screens/screens.rpy:846
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]\n"
-    new "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]\n"
+    new "Fait avec {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]\n"
 
     # game/code/screens/screens.rpy:995
     old "Naming save file:"
@@ -168,7 +168,7 @@ translate french strings:
 
     # game/code/screens/screens.rpy:1132
     old "Unseen Text"
-    new "non lui"
+    new "Texte non lu"
 
     # game/code/screens/screens.rpy:1133
     old "After Choices"
@@ -188,19 +188,19 @@ translate french strings:
 
     # game/code/screens/screens.rpy:1155
     old "Auto-Forward Time"
-    new "Auto-Forward Time"
+    new "Temps Avance Auto"
 
     # game/code/screens/screens.rpy:1163
     old "Low Memory Mode"
-    new "Low Memory Mode"
+    new "Mode Basse Mémoire"
 
     # game/code/screens/screens.rpy:1170
     old "Music Volume"
-    new "Music Volume"
+    new "Volume Musique"
 
     # game/code/screens/screens.rpy:1177
     old "Sound Volume"
-    new "Sound Volume"
+    new "Volume Sons"
 
     # game/code/screens/screens.rpy:1183
     old "Test"
@@ -208,7 +208,7 @@ translate french strings:
 
     # game/code/screens/screens.rpy:1198
     old "Mute All"
-    new "Mute All"
+    new "Tous Muets"
 
     # game/code/screens/screens.rpy:1317
     old "The dialogue history is empty."
@@ -224,7 +224,7 @@ translate french strings:
 
     # game/code/screens/screens.rpy:1390
     old "Gamepad"
-    new "Menette"
+    new "Manette"
 
     # game/code/screens/screens.rpy:1402
     old "Enter"
@@ -236,7 +236,7 @@ translate french strings:
 
     # game/code/screens/screens.rpy:1406
     old "Space"
-    new "eSpace"
+    new "Espace"
 
     # game/code/screens/screens.rpy:1407
     old "Advances dialogue without selecting choices."
@@ -248,15 +248,15 @@ translate french strings:
 
     # game/code/screens/screens.rpy:1411
     old "Navigate the interface."
-    new "Navigater the interface."
+    new "Naviger dans l'interface."
 
     # game/code/screens/screens.rpy:1414
     old "Escape"
-    new "Escape"
+    new "Echap"
 
     # game/code/screens/screens.rpy:1415
     old "Accesses the game menu."
-    new "Accesses the game menu."
+    new "Accéder au menu du jeu."
 
     # game/code/screens/screens.rpy:1418
     old "Ctrl"
@@ -264,7 +264,7 @@ translate french strings:
 
     # game/code/screens/screens.rpy:1419
     old "Skips dialogue while held down."
-    new "Skips dialogue while held down."
+    new "Saute le dialogue lorsque vous maintenez le bouton enfoncé."
 
     # game/code/screens/screens.rpy:1422
     old "Tab"
@@ -272,7 +272,7 @@ translate french strings:
 
     # game/code/screens/screens.rpy:1423
     old "Toggles dialogue skipping."
-    new "Toggles dialogue skipping."
+    new "Active/désactive le saut de dialogue."
 
     # game/code/screens/screens.rpy:1426
     old "Page Up"
@@ -280,7 +280,7 @@ translate french strings:
 
     # game/code/screens/screens.rpy:1427
     old "Rolls back to earlier dialogue."
-    new "Rolls back to earlier dialogue."
+    new "Revient au dialogue précédent."
 
     # game/code/screens/screens.rpy:1430
     old "Page Down"
@@ -288,55 +288,55 @@ translate french strings:
 
     # game/code/screens/screens.rpy:1431
     old "Rolls forward to later dialogue."
-    new "Rolls forward to later dialogue."
+    new "Passe au dialogue suivant."
 
     # game/code/screens/screens.rpy:1435
     old "Hides the user interface."
-    new "Hides the user interface."
+    new "Masque l'interface utilisateur."
 
     # game/code/screens/screens.rpy:1439
     old "Takes a screenshot."
-    new "Takes a screenshot."
+    new "Prend une capture d'écran."
 
     # game/code/screens/screens.rpy:1443
     old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
-    new "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
+    new "Active/désactive l'assistance {a=https://www.renpy.org/l/voicing}auto-voix{/a}."
 
     # game/code/screens/screens.rpy:1449
     old "Left Click"
-    new "Left Click"
+    new "Clic gauche"
 
     # game/code/screens/screens.rpy:1453
     old "Middle Click"
-    new "Middle Click"
+    new "Clic molette"
 
     # game/code/screens/screens.rpy:1457
     old "Right Click"
-    new "Right Click"
+    new "Clic droit"
 
     # game/code/screens/screens.rpy:1461
     old "Mouse Wheel Up\nClick Rollback Side"
-    new "Mouse Wheel Up\nClick Rollback Side"
+    new "Molette vers le haut\nClic sur le côté retour arrière"
 
     # game/code/screens/screens.rpy:1465
     old "Mouse Wheel Down"
-    new "Mouse Wheel Down"
+    new "Molette vers le bas"
 
     # game/code/screens/screens.rpy:1472
     old "Right Trigger\nA/Bottom Button"
-    new "Right Trigger\nA/Bottom Button"
+    new "Gâchette droite\nA/Bouton du bas"
 
     # game/code/screens/screens.rpy:1476
     old "Left Trigger\nLeft Shoulder"
-    new "Left Trigger\nLeft Shoulder"
+    new "Gâchette gauche\nBouton gauche"
 
     # game/code/screens/screens.rpy:1480
     old "Right Shoulder"
-    new "Right Shoulder"
+    new "Bouton droit"
 
     # game/code/screens/screens.rpy:1485
     old "D-Pad, Sticks"
-    new "D-Pad, Sticks"
+    new "Croix directionnelle, Joysticks"
 
     # game/code/screens/screens.rpy:1489
     old "Start, Guide"
@@ -344,15 +344,15 @@ translate french strings:
 
     # game/code/screens/screens.rpy:1493
     old "Y/Top Button"
-    new "Y/Top Button"
+    new "Y/Bouton du haut"
 
     # game/code/screens/screens.rpy:1496
     old "Calibrate"
-    new "Calibrate"
+    new "Calibrer"
 
     # game/code/screens/screens.rpy:1608
     old "Skipping"
-    new "Skipping"
+    new "Passer"
 
     # game/code/screens/screens.rpy:1829
     old "Menu"
@@ -364,7 +364,7 @@ translate french strings:
 
     # game/code/screens/screens.rpy:653
     old "Wishlist Taboo University in Steam"
-    new "Liste de souhaits Taboo University sur Steam"
+    new "Ajoutez Taboo University à votre liste de souhaits sur Steam"
 
     # game/code/screens/screens.rpy:656
     old "Try our new game Taboo University"
