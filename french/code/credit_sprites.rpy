@@ -4,7 +4,7 @@ translate french strings:
 
     # game/code/credit_sprites.rpy:29
     old "Story Writing -"
-    new "Story Writing -"
+    new "Écriture -"
 
     # game/code/credit_sprites.rpy:41
     old "Art -"
@@ -12,7 +12,7 @@ translate french strings:
 
     # game/code/credit_sprites.rpy:57
     old "Programming -"
-    new "Programming -"
+    new "Programmation -"
 
     # game/code/credit_sprites.rpy:68
     old "Sound design -"
@@ -20,19 +20,19 @@ translate french strings:
 
     # game/code/credit_sprites.rpy:81
     old "Russian Translation -"
-    new "Russian Translation -"
+    new "Traduction Russe -"
 
     # game/code/credit_sprites.rpy:91
     old "Italian Translation -"
-    new "Italian Translation -"
+    new "Traduction Italienne -"
 
     # game/code/credit_sprites.rpy:101
     old "Malay Translation -"
-    new "Malay Translation -"
+    new "Traduction Malaise -"
 
     # game/code/credit_sprites.rpy:111
     old "Testing & Proofreading -"
-    new "Testing & Proofreading -"
+    new "Tests et relecture -"
 
     # game/code/credit_sprites.rpy:125
     old "This game was only\nmade possible with\nall the support we have\nfrom Patreon\nand SubscribeStar"
