@@ -172,7 +172,7 @@ translate french strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Who's Your Daddy?"
-    new "Who's Your Daddy?"
+    new "C'est qui ton papa ?"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Confirm that you will be a father"
@@ -196,7 +196,7 @@ translate french strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Setec Astronomy"
-    new "Setec Astronomy"
+    new "La voie lactée"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Vanessa's little secret"
