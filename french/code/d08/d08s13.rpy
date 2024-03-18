@@ -304,7 +304,7 @@ translate french d08s13_good_ef364f55:
 translate french d08s13_good_b9595d94:
 
     # nk "Afraid not. I'm sold out of everything until tomorrow's delivery arrives."
-    nk "Afraid not. I'm sold out of everything until tomorrow's delivery arrives."
+    nk "J'ai bien peur que non. Je suis en rupture jusqu'à ce que la livraison de demain arrive."
 
 # game/code/d08/d08s13.rpy:198
 translate french d08s13_good_7a80a7c6:
