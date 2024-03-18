@@ -346,7 +346,7 @@ translate french d08s08_e2e94d37:
 translate french d08s08_d8fe9612:
 
     # mc "WTF?"
-    mc "WTF?"
+    mc "Mais quoi ?"
 
 # game/code/d08/d08s08.rpy:168
 translate french d08s08_bc38e599:
@@ -394,7 +394,7 @@ translate french d08s08_cba2e169:
 translate french d08s08_b6b19f25:
 
     # pb "Sorry, dude. I tried."
-    pb "Sorry, dude. I tried."
+    pb "Désolé mec. J'ai essayé."
 
 # game/code/d08/d08s08.rpy:186
 translate french d08s08_91a2952a:
