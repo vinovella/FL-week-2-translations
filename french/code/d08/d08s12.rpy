@@ -232,7 +232,7 @@ translate french d08s12_06687c3c:
 translate french d08s12_8e0740c1:
 
     # mc "Let me see it!"
-    mc "Let me see it!"
+    mc "Laisse moi voir ça !"
 
 # game/code/d08/d08s12.rpy:171
 translate french d08s12_72ef6f7e:
@@ -676,7 +676,7 @@ translate french d08s12_end_177b5a66:
 translate french d08s12_end_83a0bcf1:
 
     # mc "Um... just a minute?{w} I'm leaving ASAP."
-    mc "Um... just a minute?{w} I'm leaving ASAP."
+    mc "Um... juste une minute ?{w} Je me casse ASAP."
 
 translate french strings:
 
