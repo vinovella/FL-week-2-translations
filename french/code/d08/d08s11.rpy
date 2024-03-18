@@ -196,7 +196,7 @@ translate french d08s11_c7a5fc31:
 translate french d08s11_267a8274:
 
     # mc "What the hell was that about?"
-    mc "What the hell was that about?"
+    mc "De quoi s'agissait-il ?"
 
 # game/code/d08/d08s11.rpy:97
 translate french d08s11_ce982e29:
@@ -418,7 +418,7 @@ translate french d08s11_bc5d0075:
 translate french d08s11_55a9cd99:
 
     # ceo "Yes, your honor."
-    ceo "Yes, your honor."
+    ceo "Oui votre honneur."
 
 # game/code/d08/d08s11.rpy:189
 translate french d08s11_8f621047:
