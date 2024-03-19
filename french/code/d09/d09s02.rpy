@@ -760,7 +760,7 @@ translate french d09s02_luggage_735d1be1:
 translate french d09s02_luggage_8611f061:
 
     # sb "Well, I can't give it to you."
-    sb "Well, I can't give it to you."
+    sb "Eh bien, je ne peux pas te le donner."
 
 # game/code/d09/d09s02.rpy:385
 translate french d09s02_luggage_a3b3c69e:
