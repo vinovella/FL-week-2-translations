@@ -16,19 +16,19 @@ translate french d08s02_38ca337f:
 translate french d08s02_802e8351:
 
     # arj "Good morning, [mcname]! How did you sleep?"
-    arj "Bonjour, [mcname]! As-tu bien dormi?"
+    arj "Bonjour, [mcname]! Tu as bien dormi ?"
 
 # game/code/d08/d08s02.rpy:16
 translate french d08s02_9afbb1ee:
 
     # mct "Terrible. That couch is awful."
-    mct "très mal. Ce canapé est horrible."
+    mct "Très mal. Ce canapé est horrible."
 
 # game/code/d08/d08s02.rpy:18
 translate french d08s02_616fe7f8:
 
     # mc "Terrific! Much better than my dorm bed."
-    mc "Formidable! Bien mieux que mon lit de dortoir."
+    mc "Formidable ! Bien mieux que mon lit de dortoir."
 
 # game/code/d08/d08s02.rpy:21
 translate french d08s02_00eb977b:
@@ -64,7 +64,7 @@ translate french d08s02_d9da64b7:
 translate french d08s02_932a87bd:
 
     # arj "It didn't take years. You're a terrible liar."
-    arj "Cela n'a pas pris des années. Tu es un terrible menteur."
+    arj "Ça n'a pas pris des années. Tu es un piètre menteur."
 
 # game/code/d08/d08s02.rpy:35
 translate french d08s02_3c701cb0:
@@ -76,13 +76,13 @@ translate french d08s02_3c701cb0:
 translate french d08s02_e6c50c5b:
 
     # arj "Well, yeah. I guess it would be worse if you were a good liar, but still..."
-    arj "Ben ouais. Je suppose que ce serait pire si tu étais un bon menteur, mais quand même..."
+    arj "Ben ouais. Je suppose que ça serait pire si tu étais un bon menteur, mais quand même..."
 
 # game/code/d08/d08s02.rpy:40
 translate french d08s02_9f904d03:
 
     # mc "Maybe I just need more practice."
-    mc "Peut-être que j'ai juste besoin de plus d'entrainement."
+    mc "Peut-être que j'ai juste besoin de plus d'entraînement."
 
 # game/code/d08/d08s02.rpy:43
 translate french d08s02_aa573f2e:
@@ -94,7 +94,7 @@ translate french d08s02_aa573f2e:
 translate french d08s02_62ab079c:
 
     # sy "Speaking of practicing, I wanted to ask you something about your porn box."
-    sy "En parlant d'entrainement, je voulais te demander quelque chose à propos de ta boîte de porno."
+    sy "En parlant d'entraînement, je voulais te demander quelque chose à propos de ta boîte à porno."
 
 # game/code/d08/d08s02.rpy:50
 translate french d08s02_3c06cb72:
@@ -106,7 +106,7 @@ translate french d08s02_3c06cb72:
 translate french d08s02_76080da4:
 
     # arj "You've seen his porn box?"
-    arj "Vous avez vu sa boîte de porno ?"
+    arj "Tu as vu sa boite à porno ?"
 
 # game/code/d08/d08s02.rpy:56
 translate french d08s02_02295805:
@@ -118,7 +118,7 @@ translate french d08s02_02295805:
 translate french d08s02_8450eb49:
 
     # arj "I thought a guy's box of porn was like a sacred altar. What's it doing in your bedroom?"
-    arj "Je pensais que la boîte de porno d'un homme était sacré. Qu'est-ce qu'il fait dans ta chambre ?"
+    arj "Je pensais que la boîte à porno d'un homme était sacrée. Qu'est-ce qu'elle fait dans ta chambre ?"
 
 # game/code/d08/d08s02.rpy:60
 translate french d08s02_a2199f42:
@@ -136,67 +136,67 @@ translate french d08s02_e82785ee:
 translate french d08s02_5d256f52:
 
     # arj "Stacy - the porn archaeologist. I'm impressed."
-    arj "Stacy - l'archéologue du porno. Je suis impressionné."
+    arj "Stacy - l'archéologue du porno. Je suis impressionnée."
 
 # game/code/d08/d08s02.rpy:68
 translate french d08s02_965185e4:
 
     # sy "I wanted to ask you... what's with all the extreme object insertion porn?"
-    sy "Je voulais te demander... c'est quoi tout ce porno extrême avec insertion d'objets?"
+    sy "Je voulais te demander... c'est quoi tout ce porno extrême avec des insertions d'objets ?"
 
 # game/code/d08/d08s02.rpy:70
 translate french d08s02_3c06cb72_1:
 
     # mc "*cough* What?!"
-    mc "*toux* quoi?!"
+    mc "*toux* Quoi ?!"
 
 # game/code/d08/d08s02.rpy:73
 translate french d08s02_5f97e86a:
 
     # arj "Extreme insertion what now?"
-    arj "insertion d'objets?"
+    arj "Des insertions d'objets ?"
 
 # game/code/d08/d08s02.rpy:75
 translate french d08s02_4dceb393:
 
     # sy "You know, where girls or guys take massive objects and shove them inside themselves."
-    sy "Tu sais, où les filles ou les gars prennent des objets massifs et les mettent à l'intérieur d'eux-mêmes."
+    sy "Tu sais, où les filles ou les gars prennent des objets massifs et se les enfillent."
 
 # game/code/d08/d08s02.rpy:77
 translate french d08s02_eab76f21:
 
     # arj "I'm not familiar with this. How does it work?"
-    arj "Je ne suis pas familier avec cela. Comment ça fonctionne?"
+    arj "Je ne suis pas familière avec ça. Comment ça fonctionne ?"
 
 # game/code/d08/d08s02.rpy:84
 translate french d08s02_e57e7d5e:
 
     # mct "Aha... Sure. Not Familiar!"
-    mct "Aha... Bien sûr. Pas Familier!"
+    mct "Aha... Bien sûr. Pas Familière !"
 
 # game/code/d08/d08s02.rpy:87
 translate french d08s02_064f115b:
 
     # sy "Well, it usually starts with some food porn."
-    sy "Eh bien, ça commence généralement par du porno culinaire."
+    sy "Eh bien, ça commence généralement par de la pornfood."
 
 # game/code/d08/d08s02.rpy:88
 translate french d08s02_2352cce5:
 
     # arj "I'm guessing you don't mean photos of delicious meals."
-    arj "Je suppose que tu ne parles pas de photos de repas délicieux."
+    arj "Je suppose que tu ne parles pas des photos de repas."
 
 # game/code/d08/d08s02.rpy:91
 translate french d08s02_14ff7ff7:
 
     # sy "No, like if it was a girl, she might start with a large cucumber in her vag..."
-    sy "Non, comme si c'était une fille, elle pourrait commencer avec un gros concombre dans le vag..."
+    sy "Non, genre si c'est une fille, elle pourrait commencer avec un gros concombre dans le vag..."
 
 # game/code/d08/d08s02.rpy:95
 translate french d08s02_7cb49289:
 
     # mc "I'm really not comfortable with this conversation."
-    mc "cette conversation me met vraiment mal à l'aise."
+    mc "Cette conversation me met vraiment mal à l'aise."
 
 # game/code/d08/d08s02.rpy:97
 translate french d08s02_82ccae64:
@@ -220,13 +220,13 @@ translate french d08s02_4d6f365a:
 translate french d08s02_682c2874:
 
     # arj "What?"
-    arj "quoi?"
+    arj "Quoi ?"
 
 # game/code/d08/d08s02.rpy:107
 translate french d08s02_6ca98622:
 
     # mc "Please stop."
-    mc "s'il vous plait, arrêtez."
+    mc "S'il vous plaît, arrêtez."
 
 # game/code/d08/d08s02.rpy:109
 translate french d08s02_29a0c7b1:
@@ -238,19 +238,19 @@ translate french d08s02_29a0c7b1:
 translate french d08s02_61b989fa:
 
     # arj "Okay, I can see that. {w}Well, not see it, but ya'know."
-    arj "ok, je vois. {w}Eh bien, non, je ne vois pas, mais tu comprends."
+    arj "Ok, je vois. {w}Enfin, non, je ne vois pas, mais tu comprends."
 
 # game/code/d08/d08s02.rpy:113
 translate french d08s02_19c97984:
 
     # sy "Then it gets to the part I can't understand. Like softball bats."
-    sy "Ensuite, j'arrive à la partie que je ne comprends pas. Avec des battes de softball."
+    sy "Ensuite, arrive la partie que je ne comprends pas. Avec des battes de softball."
 
 # game/code/d08/d08s02.rpy:116
 translate french d08s02_4c5a51fd:
 
     # arj "Wow! I'm not sure if that's impressive or terrifying."
-    arj "Ouah! Je ne sais pas si c'est impressionnant ou terrifiant."
+    arj "Ouah ! Je ne sais pas si c'est impressionnant ou terrifiant."
 
 # game/code/d08/d08s02.rpy:119
 translate french d08s02_019f8827:
@@ -274,7 +274,7 @@ translate french d08s02_d6a708f5:
 translate french d08s02_0eb195e2:
 
     # sy "So, anyway, I wanted to ask you if you've ever tried it."
-    sy "Bref, je voulais te demander si tu l'avais déjà essayé."
+    sy "Bref, je voulais te demander si tu avais déjà essayé."
 
 # game/code/d08/d08s02.rpy:129
 translate french d08s02_809ed845:
@@ -286,13 +286,13 @@ translate french d08s02_809ed845:
 translate french d08s02_d8d8ed79:
 
     # mc "That's it. I've stopped listening."
-    mc "Voilà. J'écoute plus."
+    mc "Et voilà. J'écoute plus."
 
 # game/code/d08/d08s02.rpy:133
 translate french d08s02_ee84f041:
 
     # sy "Not you. Him."
-    sy "pas toi. lui."
+    sy "Pas toi. Lui."
 
 # game/code/d08/d08s02.rpy:134
 translate french d08s02_c122e1f8:
@@ -316,13 +316,13 @@ translate french d08s02_f1b59e15:
 translate french d08s02_d272b622:
 
     # mc "Fine. What was the question?"
-    mc "Bien. Quelle était la question?"
+    mc "Bien. Quelle était cette question ?"
 
 # game/code/d08/d08s02.rpy:143
 translate french d08s02_8862ea91:
 
     # sy "Did you ever try extreme object insertion?"
-    sy "Avez-vous déjà essayé l'insertion extrême d'objets?"
+    sy "As-tu déjà essayé l'insertion d'objets extrêmes ?"
 
 # game/code/d08/d08s02.rpy:145
 translate french d08s02_9e8acfc2:
@@ -352,7 +352,7 @@ translate french d08s02_1263dd0d:
 translate french d08s02_85d124a2:
 
     # arj "Wait. Are you saying that [mcname]'s box of porn included guys doing... that?"
-    arj "Attend. Est-tu en train de dire que la boîte de porno de [mcname] comprenait des gars qui faisaient... ça?"
+    arj "Attend. Es-tu en train de dire que la boîte à porno de [mcname] comprenait des gars qui faisaient... ça?"
 
 # game/code/d08/d08s02.rpy:157
 translate french d08s02_33bab2a0:
@@ -382,7 +382,7 @@ translate french d08s02_db058ec7:
 translate french d08s02_a6cfe648:
 
     # sy "... scat, pissing midgets, extreme vomiting..."
-    sy "... du scato, pdes nains qui urinent, du vomisemant..."
+    sy "... du scato, des nains qui urinent, vomissement..."
 
 # game/code/d08/d08s02.rpy:169
 translate french d08s02_bc9c825c:
@@ -400,37 +400,37 @@ translate french d08s02_8a0761fa:
 translate french d08s02_d30d9e9c:
 
     # sy "What's so funny?"
-    sy "Qu'est ce qu'il y a de si drôle?"
+    sy "Qu'est ce qu'il y a de si drôle ?"
 
 # game/code/d08/d08s02.rpy:176
 translate french d08s02_c0f56dae:
 
     # arj "I'm sorry. I'm sorry. I shouldn't laugh. It's just-"
-    arj "Je suis désolé. Je suis désolé. Je ne devrais pas rire. C'est juste-"
+    arj "Je suis désolée. Je suis désolée. Je ne devrais pas rire. C'est juste-"
 
 # game/code/d08/d08s02.rpy:178
 translate french d08s02_7c847d41:
 
     # mc "It's just what?"
-    mc "c'est juste quoi?"
+    mc "C'est juste quoi ?"
 
 # game/code/d08/d08s02.rpy:179
 translate french d08s02_39d123f6:
 
     # arj "I mean, you are pretty much the most vanilla guy I've ever met."
-    arj "Je veux dire, tu es à peu près le gars le plus vanille que j'ai jamais rencontré."
+    arj "Je veux dire, tu es, je pense, le gars le plus vanille que j'ai jamais rencontré."
 
 # game/code/d08/d08s02.rpy:180
 translate french d08s02_9a51bc91:
 
     # sy "Seriously?"
-    sy "Sérieux?"
+    sy "Sérieux ?"
 
 # game/code/d08/d08s02.rpy:183
 translate french d08s02_073631f4:
 
     # arj "I watched you fuck my roommate for months and you two never did anything kinky."
-    arj "Je t'ai regardé baiser mon colocataire pendant des mois et vous n'avez jamais rien fait de coquin.."
+    arj "Je t'ai regardé baiser ma colocataire pendant des mois et vous n'avez jamais rien fait de coquin.."
 
 # game/code/d08/d08s02.rpy:185
 translate french d08s02_e9a7efb3:
@@ -448,7 +448,7 @@ translate french d08s02_3d890773:
 translate french d08s02_453decdb:
 
     # arj "That wasn't kinky. They were just oblivious to anyone else around them."
-    arj "Ce n'était pas coquin. Ils étaient tout simplement inconscients de quelqu'un d'autre autour d'eux."
+    arj "Ce n'était pas coquin. Ils ne savaient tout simplement pas que quelqu'un était à côté."
 
 # game/code/d08/d08s02.rpy:192
 translate french d08s02_6a30bcdc:
@@ -460,7 +460,7 @@ translate french d08s02_6a30bcdc:
 translate french d08s02_a8f52312:
 
     # arj "Maybe five or six positions. Blowjob, cunni, missionary, doggy... "
-    arj "Peut-être cinq ou six postes. Fellation, cunni, missionnaire, en chien... "
+    arj "Peut-être cinq ou six positions. Fellation, cunni, missionnaire, doggystyle... "
 
 # game/code/d08/d08s02.rpy:196
 translate french d08s02_71152dd8:
@@ -484,19 +484,19 @@ translate french d08s02_1dca356a:
 translate french d08s02_9b62cf79:
 
     # mc "Sometimes I really hate you guys."
-    mc "Parfois, je vous déteste vraiment, les filles."
+    mc "Parfois, je vous déteste vraiment les filles."
 
 # game/code/d08/d08s02.rpy:202
 translate french d08s02_eb62d547:
 
     # arj "Bullshit."
-    arj "Conneries."
+    arj "N'importe quoi."
 
 # game/code/d08/d08s02.rpy:205
 translate french d08s02_7b440d99:
 
     # sy "You love us."
-    sy "tu nous aimes."
+    sy "Tu nous aimes."
 
 # game/code/d08/d08s02.rpy:207
 translate french d08s02_b5da96bc:
@@ -514,13 +514,13 @@ translate french d08s02_d8649032:
 translate french d08s02_81f95519:
 
     # arj "What's up?"
-    arj "quoi de neuf?"
+    arj "Quoi de neuf ?"
 
 # game/code/d08/d08s02.rpy:218
 translate french d08s02_50f50c7f:
 
     # mc "Lydia wants to get together at lunch in the cafeteria."
-    mc "Lydia veut se retrouver pour déjeuner à la cafétéria."
+    mc "Lydia veut qu'on se retrouve pour le déjeuner à la cafétéria."
 
 # game/code/d08/d08s02.rpy:219
 translate french d08s02_15831298:
@@ -538,13 +538,13 @@ translate french d08s02_e5d30663:
 translate french d08s02_8569eb29:
 
     # mct "Pete said, \"Dude - total failure. No luggage. Talk later.\" {w}Well, fuck..."
-    mct "Pete dit, \"Mec - échec total. pas de bagages. parle plus tard.\" {w}Eh bien, putain..."
+    mct "Pete dit, \"Mec - échec total. Pas de bagages. On se parle plus tard.\" {w}Eh bien, putain..."
 
 # game/code/d08/d08s02.rpy:225
 translate french d08s02_84cbc12d:
 
     # sy "Lydia - is that the virgin you're kinda dating?"
-    sy "Lydia - c'est la vierge avec qui tu sors un peu?"
+    sy "Lydia - c'est la vierge avec qui tu sors un peu ?"
 
 # game/code/d08/d08s02.rpy:227
 translate french d08s02_dcabad5a:
@@ -556,7 +556,7 @@ translate french d08s02_dcabad5a:
 translate french d08s02_88ab3635:
 
     # sy "How many dates?"
-    sy "combien de fois?"
+    sy "Combien de fois ?"
 
 # game/code/d08/d08s02.rpy:229
 translate french d08s02_84e5ec97:
@@ -568,7 +568,7 @@ translate french d08s02_84e5ec97:
 translate french d08s02_98ab720d:
 
     # sy "That fetish game you two are playing?"
-    sy "Ce jeu fétichiste auquel vous jouez tous les deux?"
+    sy "Ce jeu fétichiste auquel vous jouez tous les deux ?"
 
 # game/code/d08/d08s02.rpy:238
 translate french d08s02_3249af37:
@@ -586,19 +586,19 @@ translate french d08s02_f82b7758:
 translate french d08s02_de507adf:
 
     # sy "What does it say?"
-    sy "Ça dit quoi?"
+    sy "Ça dit quoi ?"
 
 # game/code/d08/d08s02.rpy:243
 translate french d08s02_e65e5892:
 
     # flr "New Goal: Attend the Party..."
-    flr "Nouvel objectif : participer à la fête..."
+    flr "Nouvel objectif : Participer à la fête..."
 
 # game/code/d08/d08s02.rpy:245
 translate french d08s02_f1b71d05:
 
     # mct "What Party?"
-    mct "Quel fête?"
+    mct "Quelle fête ?"
 
 # game/code/d08/d08s02.rpy:247
 translate french d08s02_097f0689:
@@ -616,7 +616,7 @@ translate french d08s02_8fdbd92f:
 translate french d08s02_2a2055d6:
 
     # flr "New Goal: Attend the Party AND participate in the Main Event."
-    flr "Nouvel objectif : assister à la fête ET participer à l'Événement Principal."
+    flr "Nouvel objectif : Participer à la fête ET participer à l'Événement Principal."
 
 # game/code/d08/d08s02.rpy:250
 translate french d08s02_e88c3bd3:
@@ -628,7 +628,7 @@ translate french d08s02_e88c3bd3:
 translate french d08s02_873dbba3:
 
     # sy "What are you guys talking about?"
-    sy "vous parlez de quoi?"
+    sy "vous parlez de quoi ?"
 
 # game/code/d08/d08s02.rpy:254
 translate french d08s02_c5b31f4f:
@@ -670,13 +670,13 @@ translate french d08s02_b63f0842:
 translate french d08s02_d60af7b4:
 
     # mc "Sure, what's up?"
-    mc "Bien sûr, quoi de neuf ?"
+    mc "Bien sûr, qu'est-ce qu'il y a ?"
 
 # game/code/d08/d08s02.rpy:273
 translate french d08s02_83d71a26:
 
     # sy "What's the plan for getting my luggage back?"
-    sy "Quel est le plan pour récupérer mes bagages?"
+    sy "Quel est le plan pour récupérer mes bagages ?"
 
 # game/code/d08/d08s02.rpy:275
 translate french d08s02_a8ae42a4:
@@ -700,7 +700,7 @@ translate french d08s02_b43bd301:
 translate french d08s02_0357c851:
 
     # sy "Okay."
-    sy "ok."
+    sy "Ok."
 
 # game/code/d08/d08s02.rpy:280
 translate french d08s02_77ad98b5:
@@ -712,7 +712,7 @@ translate french d08s02_77ad98b5:
 translate french d08s02_589db33a:
 
     # mc "Good thinking. I need to swing by my dorm and get changed."
-    mc "Bien idée. Je dois passer par mon dortoir pour me changer."
+    mc "Bonne idée. Je dois passer par mon dortoir pour me changer."
 
 # game/code/d08/d08s02.rpy:284
 translate french d08s02_d4dcfd6e:
