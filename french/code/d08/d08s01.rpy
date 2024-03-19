@@ -34,7 +34,7 @@ translate french d08s01_edff960a:
 translate french d08s01_c58616dc:
 
     # arj "Your sister."
-    arj " ta soeur."
+    arj " Ta soeur."
 
 # game/code/d08/d08s01.rpy:50
 translate french d08s01_b602ab1e:
@@ -46,19 +46,19 @@ translate french d08s01_b602ab1e:
 translate french d08s01_05500ff6:
 
     # mc "Huh?"
-    mc "hein?"
+    mc "Hein ?"
 
 # game/code/d08/d08s01.rpy:55
 translate french d08s01_abc1875e:
 
     # arj "I was trying to sneak out of bed and spend a little alone time with you, but your sister is awake."
-    arj "J'essayais de me faufiler hors du lit et de passer un peu de temps seul avec toi, mais ta sœur est réveillée."
+    arj "J'essayais de me faufiler hors du lit et de passer un peu de temps seule avec toi, mais ta sœur est réveillée."
 
 # game/code/d08/d08s01.rpy:57
 translate french d08s01_7e8e1557:
 
     # arj "I was trying to sneak out of bed and spend a little alone time with you, but your friend is awake."
-    arj "J'essayais de me faufiler hors du lit et de passer un peu de temps seul avec toi, mais ton amie est réveillée."
+    arj "J'essayais de me faufiler hors du lit et de passer un peu de temps seule avec toi, mais ton amie est réveillée."
 
 # game/code/d08/d08s01.rpy:60
 translate french d08s01_bc4fd44d:
@@ -94,13 +94,13 @@ translate french d08s01_ec65327c:
 translate french d08s01_03517d2d:
 
     # mc "Um, sure. Breakfast would be terrific."
-    mc "Um sûr. Le petit déjeuner serait génial."
+    mc "Hum bien sûr. Le petit déjeuner serait génial."
 
 # game/code/d08/d08s01.rpy:76
 translate french d08s01_1a71f71e:
 
     # arj "Oh... {w}Okay. Breakfast it is!"
-    arj "Oh... {w}D'accord. je prépare le petit déj!"
+    arj "Oh... {w}D'accord. Je prépare le petit déj !"
 
 # game/code/d08/d08s01.rpy:79
 translate french d08s01_0370dbe7:
@@ -118,13 +118,13 @@ translate french d08s01_5ef05107:
 translate french d08s01_fafbfb54:
 
     # mc "Good thinking."
-    mc "bonne idée."
+    mc "Bonne idée."
 
 # game/code/d08/d08s01.rpy:94
 translate french d08s01_912d6106:
 
     # mct "What was that all about?"
-    mct "Qu'est-ce que c'était ça?"
+    mct "Qu'est-ce que c'était ça ?"
 
 # game/code/d08/d08s01.rpy:100
 translate french d08s01_a4b8fb55:
@@ -142,7 +142,7 @@ translate french d08s01_c54b27e8:
 translate french d08s01_fb42a35d:
 
     # mct "I could probably go in the kitchen and get some before she starts cooking..."
-    mct "Je pourrais probablement aller dans la cuisine en chercher avant qu'elle ne commence à cuisiner..."
+    mct "Je pourrais probablement aller dans la cuisine pour rattraper le coup avant qu'elle ne commence à cuisiner..."
 
 # game/code/d08/d08s01.rpy:104
 translate french d08s01_af3d94dd:
@@ -154,7 +154,7 @@ translate french d08s01_af3d94dd:
 translate french replay_d08s01_8a7eb859:
 
     # mct "Speak of the devil and she shall appear."
-    mct "Parlez du diable et elle apparaîtra."
+    mct "En parlant du loup..."
 
 # game/code/d08/d08s01.rpy:118
 translate french replay_d08s01_f74029b7:
@@ -166,13 +166,13 @@ translate french replay_d08s01_f74029b7:
 translate french replay_d08s01_5aa5acd8:
 
     # mct "She is doing it again!"
-    mct "Elle recommence!"
+    mct "Et elle recommence !"
 
 # game/code/d08/d08s01.rpy:133
 translate french replay_d08s01_68bbf00d:
 
     # mct "But this is not back home! AmRose is in the other room!"
-    mct "Mais ce n'est pas chez nous! AmRose est dans l'autre pièce!"
+    mct "Mais ce n'est pas chez nous ! AmRose est dans l'autre pièce!"
 
 # game/code/d08/d08s01.rpy:135
 translate french replay_d08s01_11d1e060:
@@ -184,7 +184,7 @@ translate french replay_d08s01_11d1e060:
 translate french replay_d08s01_96d7486d:
 
     # mc "No, no! Wait your turn. I'll be quick."
-    mc "Non non! Attends ton tour. je serai rapide."
+    mc "Non non! Attends ton tour. Je serai rapide."
 
 # game/code/d08/d08s01.rpy:154
 translate french d08s01_solo_7c561514:
@@ -202,13 +202,13 @@ translate french d08s01_bathe_14b03a2d:
 translate french d08s01_bathe_bea510d1:
 
     # mct "It's not like we've never bathed together before."
-    mct "Ce n'est pas comme si nous n'avions jamais pris de bain ensemble auparavant."
+    mct "Ce n'est pas comme si nous n'avions jamais pris de douche ensemble."
 
 # game/code/d08/d08s01.rpy:168
 translate french d08s01_bathe_69dc8a6b:
 
     # mct "Damn. This is really happening."
-    mct "Merde. Cela arrive vraiment."
+    mct "Merde. Ça va vraiment se passer."
 
 # game/code/d08/d08s01.rpy:170
 translate french d08s01_bathe_a7af89fd:
@@ -226,13 +226,13 @@ translate french d08s01_bathe_17459a78:
 translate french d08s01_bathe_9e97433f:
 
     # mct "What is this hungry look?"
-    mct "C'est quoi ce regard d'affamé?"
+    mct "C'est quoi ce regard d'affamée ?"
 
 # game/code/d08/d08s01.rpy:179
 translate french d08s01_bathe_58227b87:
 
     # sy "Well, are you going to help me into the bath?"
-    sy "Eh bien, tu vas m'aider à entrer dans le bain ?"
+    sy "Eh bien, tu vas m'aider à entrer dans la baignoire ?"
 
 # game/code/d08/d08s01.rpy:182
 translate french d08s01_bathe_8dfc4064:
@@ -268,13 +268,13 @@ translate french d08s01_bathe_6d4e0429:
 translate french d08s01_bathe_b8bd9a8c:
 
     # mct "I can't believe what I am seeing. {w}How is this even possible?"
-    mct "Je n'arrive pas à croire ce que je vois. {w}Comment c'est même possible?"
+    mct "Je n'arrive pas à croire ce que je vois. {w}Comment c'est même possible ?"
 
 # game/code/d08/d08s01.rpy:205
 translate french d08s01_bathe_84a25daa:
 
     # sy "You look good there. All toned and dripping."
-    sy "Tu as l'air bien là. Tout tonique et dégoulinant."
+    sy "T'es pas mal comme ça. Tout tonique et dégoulinant."
 
 # game/code/d08/d08s01.rpy:207
 translate french d08s01_bathe_63a6d232:
@@ -286,7 +286,7 @@ translate french d08s01_bathe_63a6d232:
 translate french d08s01_bathe_50eaf5b5:
 
     # sy "Feels good doesn't it?"
-    sy "Ça fait du bien, n'est-ce pas?"
+    sy "Ça fait du bien, n'est-ce pas ?"
 
 # game/code/d08/d08s01.rpy:233
 translate french d08s01_bathe_c7260dc8:
@@ -346,13 +346,13 @@ translate french d08s01_bathe_e5a4cd9b:
 translate french d08s01_bathe_1850262c:
 
     # sy "If you break her heart, well... {w}I'm sure you can imagine."
-    sy "Si vous lui brisez le cœur, eh bien... {w} Je suis sûr que vous pouvez imaginer."
+    sy "Si tu lui brises le cœur, eh bien... {w} Je suis sûre que tu peux imaginer."
 
 # game/code/d08/d08s01.rpy:254
 translate french d08s01_bathe_3dc90035:
 
     # mct "Oh! She is squeezing my balls!"
-    mct "Oh! Elle me serre mes couilles!"
+    mct "Oh! Elle me serre les couilles !"
 
 # game/code/d08/d08s01.rpy:256
 translate french d08s01_bathe_dd0a5092:
@@ -364,7 +364,7 @@ translate french d08s01_bathe_dd0a5092:
 translate french d08s01_bathe_b4583873:
 
     # sy "You want AmRose to be happy... {w}and so do I."
-    sy "tu veux qu'AmRose soit heureuse... {w}tout comme moi."
+    sy "Tu veux qu'AmRose soit heureuse... {w}tout comme moi."
 
 # game/code/d08/d08s01.rpy:261
 translate french d08s01_bathe_47bbd1e5:
@@ -400,19 +400,19 @@ translate french d08s01_bathe_2373ed51:
 translate french d08s01_bathe_a2cb4da4:
 
     # sy "Pee on your hot, hard, throbbing cock."
-    sy "Piser sur ta bite chaude, dure et palpitante."
+    sy "Pisser sur ta bite chaude, dure et palpitante."
 
 # game/code/d08/d08s01.rpy:280
 translate french d08s01_bathe_92d6aae4:
 
     # sy "Just like this."
-    sy "Comme ça."
+    sy "Juste comme ça."
 
 # game/code/d08/d08s01.rpy:284
 translate french d08s01_bathe_015d20de:
 
     # mct "Wow!"
-    mct "Wow!"
+    mct "Wow !"
 
 # game/code/d08/d08s01.rpy:291
 translate french d08s01_bathe_5a870419:
@@ -424,7 +424,7 @@ translate french d08s01_bathe_5a870419:
 translate french d08s01_bathe_26901e33:
 
     # sy "Do you understand? Your job is to keep AmRose very happy."
-    sy "Est-ce que tu comprends? Ton travail consiste à garder AmRose heureuse."
+    sy "Est-ce que tu comprends ? Ton travail consiste à garder AmRose très heureuse."
 
 # game/code/d08/d08s01.rpy:320
 translate french d08s01_bathe_0c5d2dcb:
@@ -442,13 +442,13 @@ translate french d08s01_bathe_232c3f6d:
 translate french d08s01_bathe_fb970540:
 
     # sy "Tsh-h-h! Not so loud!"
-    sy "Tsh-h-h ! Pas si fort!"
+    sy "Tsh-h-h ! Pas si fort !"
 
 # game/code/d08/d08s01.rpy:339
 translate french d08s01_bathe_b395490b:
 
     # sy "Let me just rinse this off... {w}then you can finish cleaning yourself."
-    sy "Laisse-moi juste rincer ça... {w}puis tu pourras finir de nettoyer toi-même."
+    sy "Laisse-moi juste rincer ça... {w}et puis tu pourras finir de te nettoyer."
 
 translate french strings:
 
@@ -458,5 +458,5 @@ translate french strings:
 
     # game/code/d08/d08s01.rpy:136
     old "Let Stacy bathe with you"
-    new "Laissez Stacy se baigner avec vous"
+    new "Laissez Stacy se laver avec vous"
 
