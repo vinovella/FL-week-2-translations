@@ -244,7 +244,7 @@ translate french d10p2s09_continue_f68b27e6:
 translate french d10p2s09_continue_01785616:
 
     # "Everybody" "Wooo!"
-    "Everybody" "Wooo!"
+    "Tout le monde" "Wooo!"
 
 # game/code/d10p2/d10p2s09.rpy:673
 translate french d10p2s09_continue_767eaf14:
@@ -268,7 +268,7 @@ translate french d10p2s09_continue_60b0e470:
 translate french d10p2s09_continue_01785616_1:
 
     # "Everybody" "Wooo!"
-    "Everybody" "Wooo!"
+    "Tout le monde" "Wooo!"
 
 # game/code/d10p2/d10p2s09.rpy:686
 translate french d10p2s09_continue_767eaf14_1:
