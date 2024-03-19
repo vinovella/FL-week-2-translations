@@ -1148,7 +1148,7 @@ translate french strings:
 
     # game/code/d09/d09s03.rpy:373
     old "Select a Verb"
-    new "Select a Verb"
+    new "Sélectionnez un verbe"
 
     # game/code/d09/d09s03.rpy:373
     old "Cuddle"
@@ -1168,15 +1168,15 @@ translate french strings:
 
     # game/code/d09/d09s03.rpy:380
     old "dance"
-    new "dance"
+    new "dancer"
 
     # game/code/d09/d09s03.rpy:384
     old "fuck"
-    new "baise"
+    new "baiser"
 
     # game/code/d09/d09s03.rpy:388
     old "Choose a Box"
-    new "Choose a boite"
+    new "Choisir une boite"
 
     # game/code/d09/d09s03.rpy:388
     old "Box of Adult Magazines"
