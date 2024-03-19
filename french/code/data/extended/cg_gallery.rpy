@@ -128,7 +128,7 @@ translate french strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Creampie Nora"
-    new "Creampie Nora"
+    new "Creampie sur Nora"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 8: Lydia"
@@ -200,7 +200,7 @@ translate french strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Party 2: Girls"
-    new "Party 2: filles"
+    new "Fête 2: filles"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Cum more than 7 times in the Party"
@@ -208,11 +208,11 @@ translate french strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Party 2: Iona"
-    new "Party 2: Iona"
+    new "Fête 2: Iona"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Party 2: Min"
-    new "Party 2: Min"
+    new "Fête 2: Min"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Safewords are for noobs"
@@ -220,7 +220,7 @@ translate french strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Party 2: Iona - Bar"
-    new "Party 2: Iona - Bar"
+    new "Fête 2: Iona - Bar"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Don't intervene"
@@ -244,7 +244,7 @@ translate french strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Stop Lydia"
-    new "Stop Lydia"
+    new "Arrêter Lydia"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 12: Lydia - Pool"
@@ -272,13 +272,13 @@ translate french strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Party 3: Pool Girls"
-    new "Party 3: Piscine Filles"
+    new "Fête 3: Piscine Filles"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Party 3: Jessie"
-    new "Party 3: Jessie"
+    new "Fête 3: Jessie"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Party 3: Participants"
-    new "Party 3: Participants"
+    new "Fête 3: Participants"
 
