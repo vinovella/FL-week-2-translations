@@ -160,7 +160,7 @@ translate french d10s03_74a0098e:
 translate french d10s03_fe000143:
 
     # "John" "Suck my dick."
-    "John" "Suck my dick."
+    "John" "Suce ma bite."
 
 # game/code/d10/d10s03.rpy:89
 translate french d10s03_0ff10a6c:
