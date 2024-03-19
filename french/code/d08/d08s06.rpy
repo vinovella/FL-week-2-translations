@@ -16,19 +16,19 @@ translate french d08s06_956a405d:
 translate french d08s06_5c678b5b:
 
     # mc "How do you already know Allison?"
-    mc "Comment connais-tu déjà Allison?"
+    mc "Comment connais-tu déjà Allison ?"
 
 # game/code/d08/d08s06.rpy:21
 translate french d08s06_3f2a55b1:
 
     # sy "I met her yesterday. She's pretty awesome."
-    sy "Je l'ai rencontrée hier. elle est vraiment géniale."
+    sy "Je l'ai rencontrée hier. Elle est vraiment géniale."
 
 # game/code/d08/d08s06.rpy:23
 translate french d08s06_a31340dd:
 
     # mc "Really?"
-    mc "Vraiment?"
+    mc "Vraiment ?"
 
 # game/code/d08/d08s06.rpy:25
 translate french d08s06_811c7687:
@@ -40,19 +40,19 @@ translate french d08s06_811c7687:
 translate french d08s06_8c2cb593:
 
     # sy "I'm pretty good at it. I was paddling around on my own in no time!"
-    sy "Je suis assez doué pour ça. J'ai pu pagayer seul en un rien de temps !"
+    sy "Je suis assez douée pour ça. J'ai pu pagayer seule en un rien de temps !"
 
 # game/code/d08/d08s06.rpy:29
 translate french d08s06_25c8a8d8:
 
     # mc "I bet. {w}You probably know her better than I do, then."
-    mc "Je peux deviner. {w}Vous la connaissez probablement mieux que moi, alors."
+    mc "J'en suis sûr. {w}Tu la connais probablement déjà mieux que moi."
 
 # game/code/d08/d08s06.rpy:34
 translate french d08s06_4ae3a6a8:
 
     # sy "You met her at a party last week, right?"
-    sy "Vous l'avez rencontrée à une fête la semaine dernière, n'est-ce pas ?"
+    sy "Tu l'as rencontré à une fête la semaine dernière, c'est ça ?"
 
 # game/code/d08/d08s06.rpy:37
 translate french d08s06_a762c957:
@@ -64,19 +64,19 @@ translate french d08s06_a762c957:
 translate french d08s06_1b59d494:
 
     # "???" "No you don't."
-    "???" "Non, ne la déranger pas."
+    "???" "Non, ne la dérangez pas."
 
 # game/code/d08/d08s06.rpy:45
 translate french d08s06_5ef43fce:
 
     # sy "Huh?"
-    sy "Hein?"
+    sy "Hein ?"
 
 # game/code/d08/d08s06.rpy:47
 translate french d08s06_03cfb98b:
 
     # "???" "I heard you two talking. You want to talk to Allison, but she can't be bothered now."
-    "???" "Je vous ai entendu parler. Tu veux parler à Allison, mais elle ne peut pas faire de pause maintenant."
+    "???" "Je vous ai entendu parler. Vous voulez parler à Allison, mais elle ne peut pas faire de pause maintenant."
 
 # game/code/d08/d08s06.rpy:50
 translate french d08s06_1e980c4b:
@@ -88,7 +88,7 @@ translate french d08s06_1e980c4b:
 translate french d08s06_f8d0380c:
 
     # mc "Oh. Hi. {w}I'm [mcname] and this is Stacy."
-    mc "Oh. Salut. {w}Je m'appelle [mcname] et elle, Stacy."
+    mc "Oh. Salut. {w}Je m'appelle [mcname] et elle c'est Stacy."
 
 # game/code/d08/d08s06.rpy:54
 translate french d08s06_dd7892b6:
@@ -106,7 +106,7 @@ translate french d08s06_0ced3ed9:
 translate french d08s06_40f67880:
 
     # mc "Cool, so why can't we speak to Allison?"
-    mc "Cool, alors pourquoi ne pouvons-nous pas parler à Allison?"
+    mc "Cool, alors pourquoi nous ne pouvons pas parler à Allison ?"
 
 # game/code/d08/d08s06.rpy:60
 translate french d08s06_ded0dfcc:
@@ -154,13 +154,13 @@ translate french d08s06_f1926523:
 translate french d08s06_c8ff4e25:
 
     # sa "She probably said that. I'm saying different."
-    sa "Elle a probablement dit ça. je dis différent."
+    sa "Elle a probablement dit ça. Je dis autre chose."
 
 # game/code/d08/d08s06.rpy:76
 translate french d08s06_b6a1daaa:
 
     # mc "So, you're her coach? I didn't think she'd need a swim coach."
-    mc "Alors tu es son entraîneur ? Je ne pensais pas qu'elle aurait besoin d'un entraîneur de natation."
+    mc "Alors tu es son entraîneur ? Je ne pensais pas qu'elle aurait besoin d'un entraîneur pour la natation."
 
 # game/code/d08/d08s06.rpy:78
 translate french d08s06_f1b13a35:
@@ -184,19 +184,19 @@ translate french d08s06_97d352a0:
 translate french d08s06_16c92f59:
 
     # mc "Like she could be in the Olympics?"
-    mc "Comme si elle pourrait participer aux Jeux olympiques ?"
+    mc "Elle pourrait participer aux Jeux olympiques ?"
 
 # game/code/d08/d08s06.rpy:87
 translate french d08s06_ac74a996:
 
     # sa "If I had met her sooner, sure. Still, she might set some state and regional records..."
-    sa "Si je l’avais rencontré plus tôt, bien sûr. Pourtant, elle pourrait établir des records nationaux et régionaux..."
+    sa "Si je l’avais rencontrée plus tôt, bien sûr. Cependant, elle peut toujours établir des records nationaux et régionaux..."
 
 # game/code/d08/d08s06.rpy:88
 translate french d08s06_4f085d42:
 
     # sy "That sounds really impressive."
-    sy "Cela semble vraiment impressionnant."
+    sy "C'est vraiment impressionnant."
 
 # game/code/d08/d08s06.rpy:90
 translate french d08s06_c4a58898:
@@ -208,7 +208,7 @@ translate french d08s06_c4a58898:
 translate french d08s06_ee87e6f3:
 
     # mc "Oh?"
-    mc "Oh?"
+    mc "Oh ?"
 
 # game/code/d08/d08s06.rpy:93
 translate french d08s06_72a9443d:
@@ -220,13 +220,13 @@ translate french d08s06_72a9443d:
 translate french d08s06_ebd7bb17:
 
     # sa "Probably something to do with her family. It usually does, anyway."
-    sa "Sans doute quelque chose à voir avec sa famille. C'est généralement le cas, de toute façon."
+    sa "Sans doute quelque chose en rapport avec sa famille. C'est souvent le cas, de toute façon."
 
 # game/code/d08/d08s06.rpy:99
 translate french d08s06_50320392:
 
     # sa "Allison has a ton of talent, but no motivation to push herself to win."
-    sa "Allison a beaucoup de talent, mais aucune motivation pour se battre pour gagner."
+    sa "Allison a beaucoup de talent, mais aucune motivation à se battre pour gagner."
 
 # game/code/d08/d08s06.rpy:101
 translate french d08s06_5a122a58:
@@ -244,7 +244,7 @@ translate french d08s06_7feb5c0d:
 translate french d08s06_51c127e0:
 
     # mc "Hey! Rude!"
-    mc "Hé! Grossier !"
+    mc "Hé ! C'est rude !"
 
 # game/code/d08/d08s06.rpy:107
 translate french d08s06_4820d476:
@@ -268,25 +268,25 @@ translate french d08s06_d5ae2301:
 translate french d08s06_4cd714a8:
 
     # sa "Allison wasn't really competing yesterday. She was just \"having fun\"."
-    sa "Allison ne concourait pas vraiment hier. Elle \"s'amuse\" juste."
+    sa "Allison ne concourait pas vraiment hier. Elle \"s'amusait\" juste."
 
 # game/code/d08/d08s06.rpy:114
 translate french d08s06_ab8112cc:
 
     # sy "What's wrong with having fun? You said that like it was profanity."
-    sy "Qu'y a-t-il de mal à s'amuser ? Tu as dit ça comme si c'était un blasphème."
+    sy "Qu'y a-t-il de mal à s'amuser ? Tu as dit ça comme si c'était un problème."
 
 # game/code/d08/d08s06.rpy:116
 translate french d08s06_f50f4a6c:
 
     # mc "I think she meant that when you have a talent like Allison's, you pretty much owe it to the universe to give it your best."
-    mc "Je pense qu'elle voulait dire que quand on a un talent comme celui d'Allison, on doit à l'univers de donner le meilleur de soi-même."
+    mc "Je pense qu'elle voulait dire que quand on a un talent comme celui d'Allison, on se doit de donner le meilleur de soi-même."
 
 # game/code/d08/d08s06.rpy:119
 translate french d08s06_ae2ccf84:
 
     # sa "Yes! Exactly. {w}I'm going to use that."
-    sa "Oui! Précisément. {w}Je vais utiliser ça."
+    sa "Oui ! Précisément. {w}Je vais m'en resservir."
 
 # game/code/d08/d08s06.rpy:120
 translate french d08s06_2e6358fb:
@@ -310,13 +310,13 @@ translate french d08s06_49cfa60c:
 translate french d08s06_fd4fd416:
 
     # sa "It just always seems to involve some family bullshit the girl needs to work through and I can't do that in the gym."
-    sa "Cela semble toujours impliquer des conneries familiales sur lesquelles la fille doit travailler et je ne peux pas faire ça dans la salle de sport."
+    sa "Ça semble toujours impliquer des conneries familiales sur lesquelles elle doit travailler et je ne peux pas faire ça dans un gymnase."
 
 # game/code/d08/d08s06.rpy:128
 translate french d08s06_6d13dbcf:
 
     # mc "So, you need someone outside the gym to help her work those issues out."
-    mc "Donc, vous avez besoin de quelqu'un en dehors du gymnase pour l'aider à résoudre ces problèmes."
+    mc "Donc, vous avez besoin de quelqu'un d'extérieur au gymnase pour l'aider à résoudre ses problèmes."
 
 # game/code/d08/d08s06.rpy:131
 translate french d08s06_8c824619:
@@ -340,13 +340,13 @@ translate french d08s06_ff371cee:
 translate french d08s06_e5db1ae3:
 
     # mct "Well, that's sorta true."
-    mct "Eh bien, c'est en quelque sorte vrai."
+    mct "Enfin, presque."
 
 # game/code/d08/d08s06.rpy:138
 translate french d08s06_dac7a29f:
 
     # mc "... we might be able to figure out what's blocking her motivation and encourage her to take your training more seriously."
-    mc "... nous pourrons peut-être comprendre ce qui bloque sa motivation et l'encourager à prendre votre formation plus au sérieux."
+    mc "... nous pourrions peut-être comprendre ce qui bloque sa motivation et l'encourager à prendre votre formation plus au sérieux."
 
 # game/code/d08/d08s06.rpy:141
 translate french d08s06_3b2b5e52:
@@ -370,7 +370,7 @@ translate french d08s06_d788c6d0:
 translate french d08s06_3ea5d3b8:
 
     # mc "I mean, obviously we all want to have Allison's best interests at heart."
-    mc "Je veux dire, évidemment, nous avons tous à cœur les meilleurs intérêts d'Allison."
+    mc "Je veux dire, évidemment, nous voulons tous le meilleur pour Allison."
 
 # game/code/d08/d08s06.rpy:148
 translate french d08s06_560334a0:
@@ -388,13 +388,13 @@ translate french d08s06_1fe5fc2b:
 translate french d08s06_e6c466cd:
 
     # sa "Good. I'm glad you never showed up in any of the courses I teach."
-    sa "Bien. Je suis content de ne pas être ton prof."
+    sa "Bien. Je suis contente de ne pas être ton prof."
 
 # game/code/d08/d08s06.rpy:154
 translate french d08s06_0d925675:
 
     # sa "But you do make a good point."
-    sa "Mais tu as un bon point."
+    sa "Mais tu marques un point."
 
 # game/code/d08/d08s06.rpy:155
 translate french d08s06_251e0c2a:
@@ -412,25 +412,25 @@ translate french d08s06_cb3704d9:
 translate french d08s06_efc9022a:
 
     # sa "Right. So..."
-    sa "c'est juste. alors..."
+    sa "C'est juste. Alors..."
 
 # game/code/d08/d08s06.rpy:161
 translate french d08s06_258e9ff8:
 
     # sa "Ah, well, it's nothing you couldn't know anyway. Allison should have wrapped up her classes and such by 4pm today."
-    sa "Ah, eh bien, de toute façon, il n'y a rien que vous ne puissiez savoir. Allison aurait dû terminer ses cours et ses entrainements à 16 heures aujourd'hui."
+    sa "Ah, eh bien, de toute façon, il n'y a rien que vous ne puissiez découvrir. Allison devrait avoir fini ses cours et ses entraînements à 16h00."
 
 # game/code/d08/d08s06.rpy:163
 translate french d08s06_e34a34bc:
 
     # sa "So, you might want to drop by her dorm room around then. Before she makes other plans for the evening."
-    sa "Donc, vous pouvez peut-être passer par son dortoir à ce moment-là. Avant qu'elle ne fasse d'autres projets pour la soirée."
+    sa "Donc, vous pouvez peut-être passer à son dortoir à ce moment-là. Avant qu'elle ne fasse d'autres projets pour la soirée."
 
 # game/code/d08/d08s06.rpy:165
 translate french d08s06_09518e22:
 
     # mc "We just need to know how to find her door room."
-    mc "Nous avons juste besoin de savoir comment trouver la porte de sa Chambre."
+    mc "Nous avons juste besoin de savoir où trouver sa chambre."
 
 # game/code/d08/d08s06.rpy:169
 translate french d08s06_0be38e4b:
@@ -454,7 +454,7 @@ translate french d08s06_5f5f8b96:
 translate french d08s06_c7b3473a:
 
     # mc "Thanks! We'll try to figure out what's going on with her family for you."
-    mc "Merci! Nous allons essayer de comprendre pour vous ce qui se passe avec sa famille"
+    mc "Merci ! Nous allons essayer de comprendre pour vous ce qui se passe avec sa famille."
 
 # game/code/d08/d08s06.rpy:200
 translate french d08s06_13b6ff08:
@@ -466,5 +466,5 @@ translate french d08s06_13b6ff08:
 translate french d08s06_ca44a1f9:
 
     # sy "Oh yeah, your lunch \"date\"."
-    sy "Oh ouais, ton « rendez-vous » pour le déjeuner."
+    sy "Oh ouais, ton \"rendez-vous\" pour le déjeuner."
 
