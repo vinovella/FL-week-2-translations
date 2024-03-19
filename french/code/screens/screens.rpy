@@ -52,7 +52,7 @@ translate french strings:
 
     # game/code/screens/screens.rpy:349
     old "Preferences"
-    new "Preferences"
+    new "Préférences"
 
     # game/code/screens/screens.rpy:354
     old "Support on Patreon"
@@ -180,7 +180,7 @@ translate french strings:
 
     # game/code/screens/screens.rpy:1139
     old "Taboo Mode"
-    new "Taboo Mode"
+    new "Mode Tabou"
 
     # game/code/screens/screens.rpy:1151
     old "Text Speed"
