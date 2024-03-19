@@ -1096,7 +1096,7 @@ translate french d09s02_choice_bb704644:
 translate french d09s02_choice_eeb3cedb_1:
 
     # mc "Fine. I'll be your assistant then."
-    mc "Fine. I'll be your assistant then."
+    mc "Très bien. Je serais ton assistant."
 
 # game/code/d09/d09s02.rpy:550
 translate french d09s02_choice_dc8d0fbc_1:
