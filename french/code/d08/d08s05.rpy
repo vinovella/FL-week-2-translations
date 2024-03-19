@@ -16,7 +16,7 @@ translate french d08s05_0c829b89:
 translate french d08s05_f25d77a6:
 
     # mc "It is nice, but our college will look better on your resume after we graduate."
-    mc "C'est bien, mais notre université apparaîtra mieux sur ton CV après avoir obtenu ton diplôme."
+    mc "C'est joli, mais notre école paraîtra mieux sur ton CV après avoir obtenu ton diplôme."
 
 # game/code/d08/d08s05.rpy:17
 translate french d08s05_7bfd3d68:
@@ -28,25 +28,25 @@ translate french d08s05_7bfd3d68:
 translate french d08s05_62eb5652:
 
     # mc "Are you sure you want to go through with this?"
-    mc "Etes-vous sûr de vouloir aller jusqu'au bout ?"
+    mc "Es-tu sûre de vouloir aller jusqu'au bout ?"
 
 # game/code/d08/d08s05.rpy:21
 translate french d08s05_938b7516:
 
     # sy "We wouldn't have come all this way if I wasn't."
-    sy "Nous ne serions pas venus jusqu'ici si c'était pas le cas."
+    sy "On ne serait pas là si c'était pas le cas."
 
 # game/code/d08/d08s05.rpy:22
 translate french d08s05_e74eeec9:
 
     # mc "I told you what Samiya is like - what she did to the Prom King and Prom Queen."
-    mc "Je t'ai dit à quoi ressemble Samiya, ce qu'elle a fait au roi et à la reine du bal."
+    mc "Je t'ai dit de quoi Samiya est capable, ce qu'elle a fait au roi et à la reine du bal."
 
 # game/code/d08/d08s05.rpy:25
 translate french d08s05_7e30384d:
 
     # sy "I just want my stuff back. How are we getting it?"
-    sy "Je veux juste récupérer mes affaires. Comment on fait?"
+    sy "Je veux juste récupérer mes affaires. Comment on fait ?"
 
 # game/code/d08/d08s05.rpy:27
 translate french d08s05_e673201b:
@@ -58,13 +58,13 @@ translate french d08s05_e673201b:
 translate french d08s05_64c9fce9:
 
     # sy "Why do we need her?"
-    sy "Pourquoi avons-nous besoin d'elle?"
+    sy "Pourquoi avons-nous besoin d'elle ?"
 
 # game/code/d08/d08s05.rpy:31
 translate french d08s05_59ce15e9:
 
     # mc "Because she seems to be the one who knows Samiya."
-    mc "Parce que c'est elle qui semble connaître Samiya."
+    mc "Parce qu'il semble que ce soit elle qui connaît Samiya."
 
 # game/code/d08/d08s05.rpy:33
 translate french d08s05_6d30b682:
@@ -76,13 +76,13 @@ translate french d08s05_6d30b682:
 translate french d08s05_880d2687:
 
     # mc "Yes, but remember that according to Dahlia it isn't worth it..."
-    mc "Oui, mais rappeles-tu que selon Dahlia, cela n'en vaut pas la peine..."
+    mc "Oui, mais rappelle-toi que selon Dahlia, ça n'en vaut pas la peine..."
 
 # game/code/d08/d08s05.rpy:38
 translate french d08s05_6bfc74d9:
 
     # sy "What?"
-    sy "Quoi?"
+    sy "Quoi ?"
 
 # game/code/d08/d08s05.rpy:40
 translate french d08s05_dce25133:
@@ -94,31 +94,31 @@ translate french d08s05_dce25133:
 translate french d08s05_d315eb8c:
 
     # sy "If this Samiya stabs you and sets me on fire you have my permission to say, \"I told you so.\""
-    sy "Si cette Samiya te poignarde et me met le feu, tu as ma permission de dire : \"je te l'avais bien dit.\""
+    sy "Si cette Samiya te poignarde et m'immole par le feu, tu as la permission de dire : \"je te l'avais bien dit.\""
 
 # game/code/d08/d08s05.rpy:45
 translate french d08s05_180348a2:
 
     # mc "Let's hope it doesn't come to that."
-    mc "Espérons que cela n'en arrive pas là."
+    mc "Espérons que ça n'aille pas jusque là."
 
 # game/code/d08/d08s05.rpy:47
 translate french d08s05_b4dc6ce9:
 
     # sy "So... What's the plan?"
-    sy "Donc... c'est quoi le plan?"
+    sy "Donc... c'est quoi le plan ?"
 
 # game/code/d08/d08s05.rpy:66
 translate french d08s05_dd_fd8a6781:
 
     # mc "So - see that woman over there? That's Daisy."
-    mc "Alors... tu vois cette femme là-bas ? C'est Daisy."
+    mc "Alors... tu vois cette fille là-bas ? C'est Daisy."
 
 # game/code/d08/d08s05.rpy:68
 translate french d08s05_dd_ba59fc42:
 
     # sy "You know her?"
-    sy "Tu la connais?"
+    sy "Tu la connais ?"
 
 # game/code/d08/d08s05.rpy:70
 translate french d08s05_dd_a87a337b:
@@ -130,19 +130,19 @@ translate french d08s05_dd_a87a337b:
 translate french d08s05_dd_91980308:
 
     # mc "Hi Daisy!"
-    mc "Salut Daisy!"
+    mc "Salut Daisy !"
 
 # game/code/d08/d08s05.rpy:79
 translate french d08s05_dd_6fd4a291:
 
     # dd "Hey there, Little Mister Big Cock! Who's your friend?"
-    dd "Salut, Petit Monsieur Grosse Bite ! Qui est ton ami?"
+    dd "Salut, mon Monsieur Grosse Bite ! Qui est ton amie ?"
 
 # game/code/d08/d08s05.rpy:82
 translate french d08s05_dd_1e6c78c1:
 
     # sy "Little mister big cock?"
-    sy "Petit monsieur grosse bite ?"
+    sy "Monsieur grosse bite ?"
 
 # game/code/d08/d08s05.rpy:85
 translate french d08s05_dd_08d512fc:
@@ -154,13 +154,13 @@ translate french d08s05_dd_08d512fc:
 translate french d08s05_dd_1e653888:
 
     # mc "Daisy, have you met my sister?"
-    mc "Daisy, as-tu rencontré ma sœur?"
+    mc "Daisy, tu as déjà rencontré ma sœur ?"
 
 # game/code/d08/d08s05.rpy:89
 translate french d08s05_dd_ab4a12cd:
 
     # dd "Oh, this is your landlady's youngest tenant?"
-    dd "Oh, c'est le plus jeune locataire de ta propriétaire ?"
+    dd "Oh, c'est la plus jeune locataire de ta propriétaire ?"
 
 # game/code/d08/d08s05.rpy:91
 translate french d08s05_dd_ede96a43:
@@ -172,19 +172,19 @@ translate french d08s05_dd_ede96a43:
 translate french d08s05_dd_7cf82f6d:
 
     # mc "Daisy, this is my best friend from back home."
-    mc "Daisy, voici ma meilleure amie de chez moi."
+    mc "Daisy, voici ma meilleure amie."
 
 # game/code/d08/d08s05.rpy:95
 translate french d08s05_dd_cf7150be:
 
     # dd "Oh! I didn't mean to embarrass you in front of your special lady friend."
-    dd "Oh! Je ne voulais pas te mettre dans l'embarras devant ton amie spéciale."
+    dd "Oh ! Je ne voulais pas te mettre dans l'embarras devant ta copine."
 
 # game/code/d08/d08s05.rpy:97
 translate french d08s05_dd_e9af3fbe:
 
     # mc "She's not my-"
-    mc "Elle n'est pas ma-"
+    mc "Ce n'est pas ma-"
 
 # game/code/d08/d08s05.rpy:99
 translate french d08s05_dd_abae32e1:
@@ -202,7 +202,7 @@ translate french d08s05_dd_9a7079ba:
 translate french d08s05_dd_df4260e7:
 
     # dd "Pleasure to meet you. Are you two touring the campus? Thinking about coming over here for next semester?"
-    dd "C'est un plaisir de te rencontrer. Vous visitez le campus tous les deux ? tu envisages de venir ici pour le semestre prochain ?"
+    dd "C'est un plaisir de te rencontrer. Vous visitez le campus tous les deux ? Tu envisages de venir ici pour le semestre prochain ?"
 
 # game/code/d08/d08s05.rpy:106
 translate french d08s05_dd_03ed6f44:
@@ -220,7 +220,7 @@ translate french d08s05_dd_f0639b31:
 translate french d08s05_dd_5b5f17af:
 
     # dd "You came all the way over here for me? I'm touched."
-    dd "Tu es venu jusqu'ici pour moi ? Je suis touché."
+    dd "Tu es venu jusqu'ici pour moi ? Je suis touchée."
 
 # game/code/d08/d08s05.rpy:113
 translate french d08s05_dd_6c0f74f9:
@@ -232,13 +232,13 @@ translate french d08s05_dd_6c0f74f9:
 translate french d08s05_dd_320ef5c0:
 
     # sy "We're looking for Samiya, or Dahlia to help us finding Samiya."
-    sy "Nous recherchons Samiya, ou Dahlia pour nous aider à retrouver Samiya."
+    sy "Nous cherchons Samiya, ou Dahlia pour nous aider à retrouver Samiya."
 
 # game/code/d08/d08s05.rpy:117
 translate french d08s05_dd_51e70fe8:
 
     # mc "And hoping to find out more about her, or find people who know her."
-    mc "Et en espérant en savoir plus sur elle, ou trouver des personnes qui la connaissent."
+    mc "On espère en savoir plus sur elle, trouver des personnes qui la connaissent."
 
 # game/code/d08/d08s05.rpy:120
 translate french d08s05_dd_a53f1da1:
@@ -262,13 +262,13 @@ translate french d08s05_dd_0b6586b9:
 translate french d08s05_dd_5ef43fce:
 
     # sy "Huh?"
-    sy "Huh?"
+    sy "Huh ?"
 
 # game/code/d08/d08s05.rpy:128
 translate french d08s05_dd_1651f315:
 
     # dd "Yeah, you know how it is. You get to University and make different friends and-"
-    dd "Ouais, tu sais comment ça se passe. Tu vas à l'université, tu te fais différents amis et-"
+    dd "Ouais, tu sais comment ça se passe. Tu vas à l'université, tu te fais de nouveaux amis et-"
 
 # game/code/d08/d08s05.rpy:131
 translate french d08s05_dd_b292b593:
@@ -292,7 +292,7 @@ translate french d08s05_dd_1d7fc9ca:
 translate french d08s05_dd_7aa3a666:
 
     # dd "It's not that weird. Like half the people in our graduating class came here."
-    dd "Ce n'est pas si bizarre. On dirait que la moitié des gens de notre promotion sont venus ici."
+    dd "Ce n'est pas si bizarre. On dirait que la moitié des gens de notre promo sont venus ici."
 
 # game/code/d08/d08s05.rpy:140
 translate french d08s05_dd_2cd36bd2:
@@ -316,37 +316,37 @@ translate french d08s05_dd_a3ea74e4:
 translate french d08s05_dd_ff251ef7:
 
     # dd "Samiya would prank Dahlia, so Dahlia would talk shit about Samiya, so Samiya would prank Dahlia..."
-    dd "Samiya faisait une blague à Dahlia, alors Dahlia disait de la merde à propos de Samiya, alors Samiya faisait une blague à Dahlia.."
+    dd "Samiya faisait une mauvaise blague à Dahlia, alors Dahlia racontait de la merde sur Samiya, alors Samiya faisait une autre blague à Dahlia.."
 
 # game/code/d08/d08s05.rpy:148
 translate french d08s05_dd_3859fa41:
 
     # dd "Meanwhile I was there, friends with both of them, and just like \"Ugh, you're as bad as Batman and the Joker. Just fuck already!\""
-    dd "Pendant ce temps, j'étais là, ami avec eux deux, et je leur disais\"Ugh, vous êtes aussi mauvais que Batman et le Joker. Baiser Putain!\""
+    dd "Pendant ce temps, j'étais là, amie avec elles, et je leur disais\"Ugh, vous êtes aussi mauvaises que Batman et le Joker. Prenez une chambre Putain!\""
 
 # game/code/d08/d08s05.rpy:151
 translate french d08s05_dd_24fb4913:
 
     # sy "What?!"
-    sy "quoi?!"
+    sy "Quoi ?!"
 
 # game/code/d08/d08s05.rpy:154
 translate french d08s05_dd_67db1ff0:
 
     # dd "Batman and the Joker. Harry and Draco? Statler and Waldorf?"
-    dd "Batman et le Joker. Harry et Draco? laurel et hardy?"
+    dd "Batman et le Joker. Harry et Draco ? Laurel et Hardy ?"
 
 # game/code/d08/d08s05.rpy:156
 translate french d08s05_dd_b92a4d87:
 
     # mc "Did they ever...?"
-    mc "Est-ce qu'ils ont déjà...?"
+    mc "Est-ce qu'elles ont déjà...?"
 
 # game/code/d08/d08s05.rpy:159
 translate french d08s05_dd_e57db9cf:
 
     # dd "Gah! No. {w}It got even worse after Dahlia's boyfriend's tires got slashed."
-    dd "Waouh ! Non. {w}C'est encore pire après que les pneus du petit ami de Dahlia se soient fait crever."
+    dd "Waouh ! Non. {w}C'est devenu encore pire après que les pneus du petit ami de Dahlia se soient fait crever."
 
 # game/code/d08/d08s05.rpy:161
 translate french d08s05_dd_a34281ac:
@@ -364,25 +364,25 @@ translate french d08s05_dd_f5eb4f21:
 translate french d08s05_dd_42576e57:
 
     # sy "How's that?"
-    sy "developpe"
+    sy "Developpe"
 
 # game/code/d08/d08s05.rpy:168
 translate french d08s05_dd_136263e1:
 
     # dd "Okay, Dahlia started dating this guy. This whole alpha male sports jock guy. On the football team and everything."
-    dd "D'accord, Dahlia a commencé à sortir avec ce type. Ce genre de mec sportif alpha. Qui est dans l'équipe de football et tout."
+    dd "D'accord, Dahlia a commencé à sortir avec ce type. Un genre de Male Alpha, sportif, dans l'équipe de football et tout le tintouin."
 
 # game/code/d08/d08s05.rpy:170
 translate french d08s05_dd_f1f628d2:
 
     # dd "And so Samiya thought Dahlia was being so phony."
-    dd "Et donc Samiya pensait que Dahlia était si bidon."
+    dd "Et donc Samiya pensait que Dahlia était superficielle."
 
 # game/code/d08/d08s05.rpy:172
 translate french d08s05_dd_560e2665:
 
     # dd "Like, we weren't bad girls, but we weren't trying to be Prom Queen or anything."
-    dd "On n'était pas de mauvaises filles, mais on n'essayait pas d'être la reine du bal ou quoi que ce soit.."
+    dd "On n'était pas de mauvaises filles, mais on essayait pas d'être la reine du bal ou quoi que ce soit.."
 
 # game/code/d08/d08s05.rpy:175
 translate french d08s05_dd_757d136e:
@@ -406,7 +406,7 @@ translate french d08s05_dd_90226541:
 translate french d08s05_dd_df5dcf96:
 
     # dd "I mean, she definitely had someone else do it for her."
-    dd "Je veux dire, elle a définitivement demandé à quelqu'un d'autre de le faire pour elle."
+    dd "Je veux dire, elle a demandé à quelqu'un d'autre de le faire pour elle."
 
 # game/code/d08/d08s05.rpy:184
 translate french d08s05_dd_f9365191:
@@ -430,7 +430,7 @@ translate french d08s05_dd_b15e19b8:
 translate french d08s05_dd_43fe5a5b:
 
     # dd "Then when... What was her name? Britney? Barbie? Brandi? Some popular ditz with a B- name."
-    dd "Et puis quand... Comment s'appelait-elle ? Britney ? Barbie ? Brandi? un nom d'idiote qui commence par un B."
+    dd "Et puis quand... Comment s'appelait-elle ? Britney ? Barbie ? Brandi ? un nom d'idiote qui commence par un B."
 
 # game/code/d08/d08s05.rpy:190
 translate french d08s05_dd_d7e1eca5:
@@ -442,19 +442,19 @@ translate french d08s05_dd_d7e1eca5:
 translate french d08s05_dd_19729ae1:
 
     # dd "Right, so she becomes Prom Queen."
-    dd "C'est vrai, alors elle devient la reine du bal."
+    dd "Oui, alors elle est devenue la reine du bal."
 
 # game/code/d08/d08s05.rpy:195
 translate french d08s05_dd_d58a287d:
 
     # sy "Dahlia?"
-    sy "Dahlia?"
+    sy "Dahlia ?"
 
 # game/code/d08/d08s05.rpy:197
 translate french d08s05_dd_052d4031:
 
     # dd "No, the B-word. And then that bitch had the nerve to really rub it in Dahlia's face."
-    dd "Non, la B. Et puis cette salope a eu le culot de vraiment s'en prendre au visage de Dahlia."
+    dd "Non, la B. Et puis cette salope a eu le culot de s'en prendre directement à Dahlia."
 
 # game/code/d08/d08s05.rpy:200
 translate french d08s05_dd_7238fc03:
@@ -466,19 +466,19 @@ translate french d08s05_dd_7238fc03:
 translate french d08s05_dd_954291b6:
 
     # sy "The Prom Queen got to pick her Prom King?"
-    sy "La reine du bal doit choisir son roi du bal ?"
+    sy "La reine du bal doit choisir son roi ?"
 
 # game/code/d08/d08s05.rpy:202
 translate french d08s05_dd_0fbe898e:
 
     # dd "Yes! So, she picked Dahlia's boy toy. Honestly, I'm not sure how anyone survived that."
-    dd "Oui! Alors, elle a choisi le jouet de Dahlia. Honnêtement, je ne sais pas comment quelqu'un a survécu à ça."
+    dd "Oui ! Alors, elle a choisi le jouet de Dahlia. Honnêtement, je ne sais pas comment quelqu'un a survécu à ça."
 
 # game/code/d08/d08s05.rpy:205
 translate french d08s05_dd_8911c944:
 
     # mc "Yeah, I mean Dahlia must have been crushed."
-    mc "Ouais, je veux dire, Dahlia a dû être dégouté."
+    mc "Ouais, je veux dire, Dahlia a dû être dégoûtée."
 
 # game/code/d08/d08s05.rpy:207
 translate french d08s05_dd_83d7d13c:
@@ -496,19 +496,19 @@ translate french d08s05_dd_170e43ed:
 translate french d08s05_dd_84c724b5:
 
     # mc "You weren't there?"
-    mc "tu n'étais pas là?"
+    mc "tu n'étais pas là ?"
 
 # game/code/d08/d08s05.rpy:214
 translate french d08s05_dd_0bdf3048:
 
     # dd "Nah. I was out partying with Samiya that night. We weren't interested in the prom."
-    dd "Non. Je faisais la fête avec Samiya ce soir-là. Nous n'étions pas intéressés par le bal de fin d'année."
+    dd "Non. Je faisais la fête avec Samiya ce soir-là. Nous n'étions pas intéressées par le bal de fin d'année."
 
 # game/code/d08/d08s05.rpy:215
 translate french d08s05_dd_2058c3a7:
 
     # sy "Makes sense."
-    sy "C'est logique."
+    sy "Logique."
 
 # game/code/d08/d08s05.rpy:217
 translate french d08s05_dd_fbe676e7:
@@ -520,7 +520,7 @@ translate french d08s05_dd_fbe676e7:
 translate french d08s05_dd_978f9da2:
 
     # dd "He goes through the whole story, from how he got picked for Prom King and how after he fucked that B-word and just went on and on..."
-    dd "Il raconte toute l'histoire, depuis comment il a été choisi pour Roi du bal et comment après avoir baisé cette B et a continué encore et encore..."
+    dd "Il raconte toute l'histoire, comment il a été choisi comme Roi du bal, comment il a baisé cette B et il a continué encore et encore..."
 
 # game/code/d08/d08s05.rpy:221
 translate french d08s05_dd_d1d905d4:
@@ -532,7 +532,7 @@ translate french d08s05_dd_d1d905d4:
 translate french d08s05_dd_3f3e8c36:
 
     # dd "Samiya walked up to his drunk ass and asked him what happened to his girlfriend."
-    dd "Samiya s'est approchée de son cul ivre et lui a demandé ce qui était arrivé à sa petite amie."
+    dd "Samiya s'est approchée de cet ivrogne et lui a demandé ce qui était arrivé à sa petite amie."
 
 # game/code/d08/d08s05.rpy:223
 translate french d08s05_dd_5bc70cfb:
@@ -544,7 +544,7 @@ translate french d08s05_dd_5bc70cfb:
 translate french d08s05_dd_9d5a9ec4:
 
     # dd "The dude totally forgot about her. When he remembered, he didn't seem to give a shit."
-    dd "Le mec l'a complètement oubliée. Quand il s'en souvenait, il ne semblait pas s'en soucier."
+    dd "Le mec l'avait complètement oubliée. Quand il s'en est souvenu, il semblait ne pas du tout s'en soucier."
 
 # game/code/d08/d08s05.rpy:226
 translate french d08s05_dd_440ed36e:
@@ -568,25 +568,25 @@ translate french d08s05_dd_698d7569:
 translate french d08s05_dd_0106c1b2:
 
     # dd "You know how I said Samiya never did anything herself? She would get someone else to do it for her?"
-    dd "Tu sais comment j'ai dit que Samiya n'avait jamais rien fait elle-même ? Elle demanderait à quelqu'un d'autre de le faire à sa place ?"
+    dd "Tu sais quand j'ai dit que Samiya n'avait jamais rien fait elle-même ? Qu'elle demanderait à quelqu'un d'autre de le faire à sa place ?"
 
 # game/code/d08/d08s05.rpy:234
 translate french d08s05_dd_00765a01:
 
     # mc "Not really, but sure."
-    mc "Ouais..."
+    mc "Pas vraiment mais oui..."
 
 # game/code/d08/d08s05.rpy:236
 translate french d08s05_dd_1512a6e1:
 
     # dd "Not that night. Samiya and I and a couple guys went over to the gym-"
-    dd "Un autre nuit. Samiya, moi et quelques gars sommes allés à la salle de sport.-"
+    dd "Une autre nuit. Samiya, moi et quelques gars sommes allés à la salle de sport."
 
 # game/code/d08/d08s05.rpy:238
 translate french d08s05_dd_fda4f73e:
 
     # sy "Where Prom had been held?"
-    sy "la nuit du bal?"
+    sy "Là où le bal avait eu lieu ?"
 
 # game/code/d08/d08s05.rpy:241
 translate french d08s05_dd_652f3f87:
@@ -604,7 +604,7 @@ translate french d08s05_dd_c1dff962:
 translate french d08s05_dd_7519b5a8:
 
     # dd "I watched the guys smash up the car for a while, then Samiya lit a roadside flare and threw it through that bitch's windshield."
-    dd "J'ai regardé les gars démolir la voiture pendant un moment, puis Samiya a allumé une fusée éclairante en bordure de la route et l'a lancée à travers le pare-brise de cette salope.."
+    dd "J'ai regardé les gars démolir sa voiture pendant un moment, puis Samiya a allumé une fusée éclairante et l'a jetée au travers du pare-brise de cette salope."
 
 # game/code/d08/d08s05.rpy:246
 translate french d08s05_dd_c1e7f53c:
@@ -616,61 +616,61 @@ translate french d08s05_dd_c1e7f53c:
 translate french d08s05_dd_c28fd025:
 
     # dd "Yeah. The guys ran off after that. Like literally ran away. Samiya and I just sat on the hood of her car watching that bitch's car burn until sunrise."
-    dd "Ouais. Les gars se sont ensuite enfuis. Samiya et moi nous sommes assis sur le capot de sa voiture et avons regardé la voiture de cette salope brûler jusqu'au lever du soleil."
+    dd "Ouais. Les gars se sont ensuite enfuis. Samiya et moi nous sommes assises sur le capot de la voiture de cette pute et l'avons regardé brûler jusqu'au lever du soleil."
 
 # game/code/d08/d08s05.rpy:251
 translate french d08s05_dd_6214cc14:
 
     # mc "Wow. That's some story. {w}Really different from what Dahlia told me the other day."
-    mc "Ouah. Voilà une histoire. {w}Vraiment différent de ce que m'a dit Dahlia l'autre jour."
+    mc "Ouah. Quelle histoire. {w}Vraiment différent de ce que m'a dit Dahlia l'autre jour."
 
 # game/code/d08/d08s05.rpy:254
 translate french d08s05_dd_fd36e2df:
 
     # dd "Yeah, well. You know how it goes. {w}I guess Samiya didn't want anyone messing with Dahlia except for her."
-    dd "Ouais, eh bien. Vous savez comment ça se passe. {w}Je suppose que Samiya ne voulait pas que quelqu'un s'en prenne à Dahlia, à part elle."
+    dd "Ouais, eh bien. Vous savez comment c'est. {w}Je suppose que Samiya ne voulait pas que quelqu'un s'en prenne à Dahlia, à part elle."
 
 # game/code/d08/d08s05.rpy:257
 translate french d08s05_dd_74079c8b:
 
     # sy "Do you know where Samiya is? I kinda need to find her."
-    sy "Savez-vous où est Samiya ? J'ai un peu besoin de la trouver."
+    sy "Tu sais où est Samiya ? J'ai besoin de la trouver."
 
 # game/code/d08/d08s05.rpy:259
 translate french d08s05_dd_d8682bc6:
 
     # dd "Nah. We kinda drifted apart, ya'know? I'm sure she's somewhere around campus."
-    dd "Non. On s'est un peu éloignés, tu sais ? Je suis sûr qu'elle est quelque part autour du campus."
+    dd "Non. On s'est un peu éloignées, tu sais ? Je suis sûre qu'elle est quelque part dans le campus."
 
 # game/code/d08/d08s05.rpy:262
 translate french d08s05_dd_a3efa3a7:
 
     # mc "Do you know anyone she does hang out with? Maybe someone else from your school?"
-    mc "Connaissez-vous quelqu'un avec qui elle traîne ? Peut-être quelqu'un d'autre de votre école ?"
+    mc "Tu connais quelqu'un avec qui elle traîne ? Peut-être quelqu'un d'autre de votre école ?"
 
 # game/code/d08/d08s05.rpy:265
 translate french d08s05_dd_0c802f51:
 
     # dd "Oh, yeah! You were at that Party last week - did you meet Allison?"
-    dd "Oh ouais! Vous étiez à cette fête la semaine dernière - avez-vous rencontré Allison?"
+    dd "Oh ouais! Tu étais à cette fête la semaine dernière - tu as rencontré Allison ?"
 
 # game/code/d08/d08s05.rpy:266
 translate french d08s05_dd_cb22420e:
 
     # mc "Allison?"
-    mc "Allison?"
+    mc "Allison ?"
 
 # game/code/d08/d08s05.rpy:269
 translate french d08s05_dd_133f952e:
 
     # sy "Allison?"
-    sy "Allison?"
+    sy "Allison ?"
 
 # game/code/d08/d08s05.rpy:271
 translate french d08s05_dd_7763faa5:
 
     # mc "Oh right! Allison!"
-    mc "Oh ouais! Allison!"
+    mc "Oh ouais ! Allison !"
 
 # game/code/d08/d08s05.rpy:313
 translate french d08s05_dd_fcbc2278:
@@ -682,19 +682,19 @@ translate french d08s05_dd_fcbc2278:
 translate french d08s05_dd_94ac3014:
 
     # sy "Do you know all the girls in this city?"
-    sy "Connaissez-vous toutes les filles de cette ville?"
+    sy "Tu connais toutes les filles de cette ville ?"
 
 # game/code/d08/d08s05.rpy:318
 translate french d08s05_dd_50a76bc7:
 
     # dd "Allison's a weird one. She didn't know any of us back in school, but she's been tight with Samiya here for some reason."
-    dd "Allison est bizarre. Elle ne connaissait aucun d'entre nous à l'école, mais elle est très proche de Samiya ici pour une raison quelconque."
+    dd "Allison est bizarre. Elle ne connaissait aucun d'entre nous à l'école, mais elle est très proche de Samiya maintenant pour une raison que j'ignore."
 
 # game/code/d08/d08s05.rpy:321
 translate french d08s05_dd_e721cf8a:
 
     # mc "Oh cool. Any idea where I can find Allison?"
-    mc "Ah super. Une idée où je peux trouver Allison?"
+    mc "Ah super. Une idée d'où on peut trouver Allison?"
 
 # game/code/d08/d08s05.rpy:323
 translate french d08s05_dd_3620c7bb:
@@ -706,37 +706,37 @@ translate french d08s05_dd_3620c7bb:
 translate french d08s05_dd_949e911c:
 
     # mc "Thanks a lot!"
-    mc "Merci beaucoup!"
+    mc "Merci beaucoup !"
 
 # game/code/d08/d08s05.rpy:326
 translate french d08s05_dd_e7148371:
 
     # dd "Ciao! And good luck!"
-    dd "Ciao! Et bonne chance!"
+    dd "Ciao ! Et bonne chance !"
 
 # game/code/d08/d08s05.rpy:329
 translate french d08s05_dd_feb0aa65:
 
     # sy "Ok, let's go find another girl..."
-    sy "Ok, allons trouver une autre fille..."
+    sy "Ok, allons trouver cette autre fille..."
 
 # game/code/d08/d08s05.rpy:338
 translate french d08s05_dw_6d1a5426:
 
     # mc "See that woman over there? That's Dahlia."
-    mc "Tu vois cette femme là-bas ? C'est Dahlia."
+    mc "Tu vois cette fille là-bas ? C'est Dahlia."
 
 # game/code/d08/d08s05.rpy:341
 translate french d08s05_dw_0110ec89:
 
     # sy "You said she should be around her. I guess you were right."
-    sy "Tu as dit qu'elle devrait être près d'elle. Je suppose que vous aviez raison."
+    sy "Tu as dit qu'elle devrait être par là. Je suppose que tu avais raison."
 
 # game/code/d08/d08s05.rpy:349
 translate french d08s05_dw_5d822aea:
 
     # mc "Yep. {w}Hey there, Dahlia!"
-    mc "Yep. {w}ici, Dahlia!"
+    mc "Yep. {w}Salut, Dahlia!"
 
 # game/code/d08/d08s05.rpy:351
 translate french d08s05_dw_0a84f66d:
@@ -748,7 +748,7 @@ translate french d08s05_dw_0a84f66d:
 translate french d08s05_dw_8ddece80:
 
     # sy "Did she just call you her slave?"
-    sy "Est-ce qu'elle vient de t'appeler son esclave?"
+    sy "Est-ce qu'elle vient de t'appeler son esclave ?"
 
 # game/code/d08/d08s05.rpy:356
 translate french d08s05_dw_c2ae4ef3:
@@ -760,13 +760,13 @@ translate french d08s05_dw_c2ae4ef3:
 translate french d08s05_dw_2fd7fd8a:
 
     # mct "This might not be as easy as I thought."
-    mct "Cela n'est peut-être pas aussi simple que je le pensais."
+    mct "Ça ne va peut-être pas être aussi simple que j'imaginais."
 
 # game/code/d08/d08s05.rpy:360
 translate french d08s05_dw_61e5b595:
 
     # mc "Dahlia! {w}Have you met my sister, Stacy?"
-    mc "Dahlia! {w}Avez-vous rencontré ma sœur, Stacy?"
+    mc "Dahlia! {w}As-tu rencontrée ma sœur, Stacy ?"
 
 # game/code/d08/d08s05.rpy:362
 translate french d08s05_dw_f867e91d:
@@ -778,49 +778,49 @@ translate french d08s05_dw_f867e91d:
 translate french d08s05_dw_90e89a47:
 
     # dw "Hi Stacy. Would you enjoy a little roleplay?"
-    dw "Salut Stacy. Aimeriez-vous un petit jeu de rôle?"
+    dw "Salut Stacy. Tu aimerais un petit jeu de rôle ?"
 
 # game/code/d08/d08s05.rpy:368
 translate french d08s05_dw_7e8b2165:
 
     # sy "Depends. Are you going to be the Dungeon Master or the Mistress?"
-    sy "Dépend. Allez-vous être le maître du donjon ou la maîtresse ?"
+    sy "Tout dépend. Vas-tu être la maîtresse du jeu ou la maîtresse tout court ?"
 
 # game/code/d08/d08s05.rpy:370
 translate french d08s05_dw_e9f6f6e2:
 
     # dw "Very good. I like her."
-    dw "Très bien. je l'aime bien."
+    dw "Très bien. Je l'aime bien."
 
 # game/code/d08/d08s05.rpy:372
 translate french d08s05_dw_d868b172:
 
     # mc "I'm... glad."
-    mc "Je suis... heureux."
+    mc "Je suis... content."
 
 # game/code/d08/d08s05.rpy:374
 translate french d08s05_dw_f61f66e0:
 
     # dw "Come now, don't tell me you've forgotten how to properly address me."
-    dw "Allez maintenant, ne me dis pas que tu as oublié comment t'adresser correctement.."
+    dw "Allez maintenant, ne me dis pas que tu as oublié comment t'adresser à moi correctement.."
 
 # game/code/d08/d08s05.rpy:377
 translate french d08s05_dw_08f1b822:
 
     # mc "I'd love to play, but we're kinda in a hurry. Right, Stacy?"
-    mc "J'adorerais jouer, mais on est un peu pressés. N'est-ce pas, Stacy?"
+    mc "J'adorerais jouer, mais on est un peu pressés. N'est-ce pas, Stacy ?"
 
 # game/code/d08/d08s05.rpy:380
 translate french d08s05_dw_e0798176:
 
     # sy "Oh no, this sounds like too much fun. I wish I had some popcorn."
-    sy "Oh non, ça a l'air trop amusant. J'aurais aimé avoir du pop-corn."
+    sy "Oh non, ça a l'air beaucoup trop amusant. J'aurais aimé avoir du pop-corn."
 
 # game/code/d08/d08s05.rpy:382
 translate french d08s05_dw_a8a9cf63:
 
     # dw "See? It's unanimous."
-    dw "Voir? C'est unanime."
+    dw "Tu vois ? C'est unanime."
 
 # game/code/d08/d08s05.rpy:385
 translate french d08s05_dw_7458e4ba:
@@ -844,7 +844,7 @@ translate french d08s05_dw_4b5ff222:
 translate french d08s05_dw_cfc5fbfb:
 
     # dw "That's a good start. Now, do it properly. On your knees."
-    dw "C'est un bon début. Maintenant, faites-le correctement. A genoux."
+    dw "C'est un bon début. Maintenant, fais-le correctement. A genoux."
 
 # game/code/d08/d08s05.rpy:399
 translate french d08s05_dw_b5d6a09a:
@@ -856,19 +856,19 @@ translate french d08s05_dw_b5d6a09a:
 translate french d08s05_dw_9baeba78:
 
     # dw "Would you prefer that I make some noise and then spank you in front of a crowd?"
-    dw "Préféreriez-vous que je fasse du bruit et que je vous donne ensuite une fessée devant une foule ?"
+    dw "Tu préfères que je fasse du bruit et que je te donne une fessée devant toute une foule ?"
 
 # game/code/d08/d08s05.rpy:401
 translate french d08s05_dw_766fbcc4:
 
     # mc "What? No!"
-    mc "Quoi? Non"
+    mc "Quoi ? Non !"
 
 # game/code/d08/d08s05.rpy:404
 translate french d08s05_dw_f49c51d0:
 
     # dw "Excuse me?"
-    dw "Pardon?"
+    dw "Pardon ?"
 
 # game/code/d08/d08s05.rpy:405
 translate french d08s05_dw_07dcbcad:
@@ -892,7 +892,7 @@ translate french d08s05_dw_8fe19cec:
 translate french d08s05_dw_e2f9c32f:
 
     # dw "Good, good. Are you enjoying yourself?"
-    dw "Bien bien. Est ce que tu t'amuses?"
+    dw "Bien bien. Est ce que tu t'amuses ?"
 
 # game/code/d08/d08s05.rpy:418
 translate french d08s05_dw_ee2aaa9b:
@@ -904,19 +904,19 @@ translate french d08s05_dw_ee2aaa9b:
 translate french d08s05_dw_6bac721e:
 
     # dw "Stacy, was it? Did you want to be audience or participant?"
-    dw "Stacy, c'est ça ? Vouliez-vous être spectateur ou participant ?"
+    dw "Stacy, c'est ça ? Tu voudrais être spectatrice ou participante ?"
 
 # game/code/d08/d08s05.rpy:423
 translate french d08s05_dw_549e8ea5:
 
     # dw "There's plenty of room here for another slave kneeling before me."
-    dw "Il y a beaucoup de place ici pour un autre esclave agenouillé devant moi."
+    dw "Il y a bien assez de place ici pour un autre esclave agenouillé devant moi."
 
 # game/code/d08/d08s05.rpy:430
 translate french d08s05_dw_e2f543a6:
 
     # sy "Audience. Definitely audience."
-    sy "Public. Certainement public."
+    sy "Spectatrice. Spectatrice suffira."
 
 # game/code/d08/d08s05.rpy:433
 translate french d08s05_dw_999e1c24:
@@ -928,19 +928,19 @@ translate french d08s05_dw_999e1c24:
 translate french d08s05_dw_fbbb0f24:
 
     # dw "So, is my slave to keep me waiting? Tell your Mistress if you are enjoying yourself."
-    dw "Alors, mon esclave va-t-il me faire attendre ? Dites à votre maîtresse si vous vous amusez."
+    dw "Alors, mon esclave va-t-il me faire attendre ? Dis à ta maîtresse si tu t'amuses."
 
 # game/code/d08/d08s05.rpy:438
 translate french d08s05_dw_7fd3a623:
 
     # mc "Yes, Mistress."
-    mc "oui, Mistress."
+    mc "Oui, Maîtresse."
 
 # game/code/d08/d08s05.rpy:439
 translate french d08s05_dw_0965319c:
 
     # dw "I thought so."
-    dw "C'était ce que je pensais."
+    dw "C'est bien ce que je pensais."
 
 # game/code/d08/d08s05.rpy:442
 translate french d08s05_dw_975ccae0:
@@ -952,13 +952,13 @@ translate french d08s05_dw_975ccae0:
 translate french d08s05_dw_c414faf3:
 
     # dw "Yes, yes. Something is definitely not proper about this."
-    dw "Oui oui. Il y a définitivement quelque chose qui ne va pas."
+    dw "Oui oui. Il y a effectivement quelque chose qui ne va pas."
 
 # game/code/d08/d08s05.rpy:445
 translate french d08s05_dw_0ba25fbe:
 
     # dw "Oh, I know what it is! What you're wearing is completely inappropriate."
-    dw "Oh, je sais ce que c'est ! Ce que vous portez est totalement inapproprié."
+    dw "Oh, je sais ce que c'est ! Ce que tu portes est totalement inapproprié."
 
 # game/code/d08/d08s05.rpy:447
 translate french d08s05_dw_4433c6e6:
@@ -994,25 +994,25 @@ translate french d08s05_dw_4cd8fefd:
 translate french d08s05_dw_27bd83cd:
 
     # mct "At least this can't get much more embarrassing... can it?"
-    mct "Au moins, cela ne peut pas devenir beaucoup plus embarrassant... n'est-ce pas ?"
+    mct "Au moins, cela ne peut pas vraiment devenir plus embarrassant... hein ?"
 
 # game/code/d08/d08s05.rpy:460
 translate french d08s05_dw_7fd3a623_1:
 
     # mc "Yes, Mistress."
-    mc "Yes, Maîtresse."
+    mc "Oui, Maîtresse."
 
 # game/code/d08/d08s05.rpy:465
 translate french d08s05_dw_333e1ebd:
 
     # dw "Now slave, think back to our previous interactions. How should you be dressed in front of me?"
-    dw "Maintenant, esclave, repensez à nos interactions précédentes. Comment dois-tu être habillé devant moi ?"
+    dw "Maintenant, esclave, réfléchis à nos précédentes entrevues. Comment dois-tu être habillé devant moi ?"
 
 # game/code/d08/d08s05.rpy:466
 translate french d08s05_dw_ba203ecd:
 
     # mct "What? She can't be serious."
-    mct "Quoi? Elle ne peut pas être sérieuse."
+    mct "Quoi ? Elle ne peut pas être sérieuse."
 
 # game/code/d08/d08s05.rpy:468
 translate french d08s05_dw_2496bc44:
@@ -1030,7 +1030,7 @@ translate french d08s05_dw_7d0f621d:
 translate french d08s05_dw_16fed8ed:
 
     # dw "I doubt that. Well, if you don't know then you may beg me to remind you."
-    dw "Je doute que. Eh bien, si vous ne le savez pas, vous pouvez me supplier de vous le rappeler."
+    dw "J'en doute. Eh bien, si tu ne le sais pas, tu peux me supplier de te le rappeler."
 
 # game/code/d08/d08s05.rpy:475
 translate french d08s05_dw_522460b0:
@@ -1054,19 +1054,19 @@ translate french d08s05_dw_da6a3daa:
 translate french d08s05_dw_662a103c:
 
     # dw "But what?"
-    dw "Mais quoi?"
+    dw "Mais quoi ?"
 
 # game/code/d08/d08s05.rpy:486
 translate french d08s05_dw_953507d0:
 
     # sy "We're actually here to get my stuff back. Do you know where we can find Samiya?"
-    sy "En fait, nous sommes là pour récupérer mes affaires. Savez-vous où on peut trouver Samiya ?"
+    sy "En fait, nous sommes là pour récupérer mes affaires. Sais-tu où on peut trouver Samiya ?"
 
 # game/code/d08/d08s05.rpy:488
 translate french d08s05_dw_4b0fc891:
 
     # dw "Ugh. Her, again?"
-    dw "Ugh. elle, encore"
+    dw "Ugh. Encore elle ?!"
 
 # game/code/d08/d08s05.rpy:491
 translate french d08s05_dw_a0a7a5a7:
@@ -1096,49 +1096,49 @@ translate french d08s05_dw_317588c3:
 translate french d08s05_dw_ebf64c4f:
 
     # dw "Well, first of all, I don't care where that bitch is these days. As long as she stays away from me."
-    dw "Eh bien, tout d'abord, je me fiche de savoir où est cette salope ces jours-ci. Tant qu'elle reste loin de moi."
+    dw "Eh bien, tout d'abord, je me fiche de savoir où est cette salope. Tant qu'elle reste loin de moi."
 
 # game/code/d08/d08s05.rpy:501
 translate french d08s05_dw_ae352a33:
 
     # dw "Second, I wouldn't tell you even if I knew where she was."
-    dw "Deuxièmement, je ne te le dirais pas même si je savais où elle était."
+    dw "Ensuite, je ne te le dirais pas même si je savais où elle était."
 
 # game/code/d08/d08s05.rpy:504
 translate french d08s05_dw_74abaaf7:
 
     # sy "Why not?"
-    sy "Pourquoi pas?"
+    sy "Et pourquoi ça ?"
 
 # game/code/d08/d08s05.rpy:507
 translate french d08s05_dw_882f79fd:
 
     # dw "Don't you get it? She's bad news. Forget about your missing stuff and forget about finding her."
-    dw "Tu ne comprends pas ? C'est une mauvaise. Oubliez vos objets disparus et oubliez de la retrouver."
+    dw "Tu ne comprends pas ? C'est une mauvaise personne. Oublie tes objets disparus et abandonne l'idée de la retrouver."
 
 # game/code/d08/d08s05.rpy:510
 translate french d08s05_dw_9581568c:
 
     # sy "Not gonna happen."
-    sy "Cela n'arrivera pas."
+    sy "Ça n'arrivera pas."
 
 # game/code/d08/d08s05.rpy:512
 translate french d08s05_dw_44fd1839:
 
     # dw "Which brings us to what I am willing to tell you - if you two will listen."
-    dw "Ce qui nous amène à ce que je suis prêt à vous dire - si vous m'écoutez tous les deux."
+    dw "Ce qui nous amène à ce que je suis prête à vous dire - si vous m'écoutez tous les deux."
 
 # game/code/d08/d08s05.rpy:515
 translate french d08s05_dw_f4a296e2:
 
     # mc "Ugh.. Can I..."
-    mc "Ugh.. Puis je..."
+    mc "Ugh.. Puis-je..."
 
 # game/code/d08/d08s05.rpy:519
 translate french d08s05_dw_dd5eddfc:
 
     # sy "I'm all ears!"
-    sy "Je suis tout ouïe!"
+    sy "Je suis tout ouïe !"
 
 # game/code/d08/d08s05.rpy:522
 translate french d08s05_dw_2f9aed17:
@@ -1150,7 +1150,7 @@ translate french d08s05_dw_2f9aed17:
 translate french d08s05_dw_c678c30c:
 
     # mct "I did?"
-    mct "ah bon?"
+    mct "Ah bon ?"
 
 # game/code/d08/d08s05.rpy:524
 translate french d08s05_dw_d661b00b:
@@ -1168,7 +1168,7 @@ translate french d08s05_dw_6d8d2ea3:
 translate french d08s05_dw_9ebf841f:
 
     # sy "Any ideas where we could find her?"
-    sy "Avez-vous une idée d'où nous pourrions la trouver?"
+    sy "Tu as une idée d'où nous pourrions la trouver ?"
 
 # game/code/d08/d08s05.rpy:531
 translate french d08s05_dw_dbaf6043:
@@ -1186,7 +1186,7 @@ translate french d08s05_dw_73f71408:
 translate french d08s05_dw_f73ca9ad:
 
     # sy "We were getting information. It was your plan, wasn't it?"
-    sy "Nous recevions des informations. C'était ton plan, n'est-ce pas ?"
+    sy "On récoltait des informations. C'était ton plan, n'est-ce pas ?"
 
 # game/code/d08/d08s05.rpy:539
 translate french d08s05_dw_8a87e0d1:
@@ -1198,7 +1198,7 @@ translate french d08s05_dw_8a87e0d1:
 translate french d08s05_dw_1e4b29aa:
 
     # sy "I was streamlining the process... it worked, right?"
-    sy "Je rationalisais le processus... ça a fonctionné, n'est-ce pas ?"
+    sy "J'abrégeais le processus... ça a fonctionné, n'est-ce pas ?"
 
 # game/code/d08/d08s05.rpy:543
 translate french d08s05_dw_1d0e9828:
@@ -1210,9 +1210,9 @@ translate french strings:
 
     # game/code/d08/d08s05.rpy:395
     old "In public?!?"
-    new "en public?!?"
+    new "En public?!?"
 
     # game/code/d08/d08s05.rpy:395
     old "Yes, Mistress"
-    new "oui, Maîtresse"
+    new "Oui, Maîtresse"
 
