@@ -1084,13 +1084,13 @@ translate french d08s05_dw_bda7583a:
 translate french d08s05_dw_b3e5d52d:
 
     # sy "Can't you just-"
-    sy "Can't you just-"
+    sy "Tu ne peux pas juste-"
 
 # game/code/d08/d08s05.rpy:498
 translate french d08s05_dw_317588c3:
 
     # mct "What the fuck??"
-    mct "What the fuck??"
+    mct "C'est quoi ce bordel??"
 
 # game/code/d08/d08s05.rpy:500
 translate french d08s05_dw_ebf64c4f:
