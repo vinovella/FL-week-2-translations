@@ -622,7 +622,7 @@ translate french d08s02_2a2055d6:
 translate french d08s02_e88c3bd3:
 
     # mct "What the fuck?"
-    mct "What the fuck?"
+    mct "C'est quoi ce bordel ?"
 
 # game/code/d08/d08s02.rpy:253
 translate french d08s02_873dbba3:
