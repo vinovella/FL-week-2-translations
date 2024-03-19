@@ -358,7 +358,7 @@ translate french replay_d09s05_92d0e1d9:
 translate french replay_d09s05_87653239:
 
     # sb "Aw, that was so cute! It's nice to see that it isn't completely broken. I think I could still have some fun with it—"
-    sb "Aw, that was so cute! It's nice to see that it isn't completely broken. I think I could still have some fun with it—"
+    sb "Oh, c'est trop mignon ! C'est agréable de voir qu'elle n'est pas complètement cassée. Je pense que je pourrais encore m'amuser avec..."
 
 # game/code/d09/d09s05.rpy:202
 translate french replay_d09s05_fef97e57:
