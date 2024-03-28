@@ -10,7 +10,7 @@ translate french d08s09_445aec41:
 translate french d08s09_bfbfe28c:
 
     # mc "This seems weird...{w} When AmRose lived here I always just walked in rather than knocking."
-    mc "bizarre...{w} Quand AmRose vivait ici, j'entrais toujours plutôt que de frapper."
+    mc "Ça fait bizarre...{w} Quand AmRose vivait ici, j'entrais toujours sans frapper."
 
 # game/code/d08/extended/d08s09.rpy:46
 translate french d08s09_605e1af7:
@@ -22,7 +22,7 @@ translate french d08s09_605e1af7:
 translate french d08s09_83cbdbe2:
 
     # jf "Hey, that was fast... I'll unlock the door, but please wait a minute before you come in.{w}.. Or count to three or something."
-    jf "Hé, t'es déjâ là... Je vais déverrouiller la porte, mais s'il te plaît, attends une minute avant d'entrer.{w}.. Ou compte jusqu'à trois ou quelque chose comme ça."
+    jf "Hé, t'es déjà là... Je vais déverrouiller la porte, mais s'il te plaît, attends une minute avant d'entrer.{w}.. Ou compte jusqu'à trois ou quelque chose comme ça."
 
 # game/code/d08/extended/d08s09.rpy:51
 translate french d08s09_9959197d:
@@ -40,7 +40,7 @@ translate french d08s09_00dd2458:
 translate french d08s09_7839b193:
 
     # jf "Please shut the door behind you and don't turn on the lights!"
-    jf "S'il vous plaît, ferme la porte derrière vous et n'allume pas la lumière !"
+    jf "S'il te plaît, ferme la porte derrière toi et n'allume pas la lumière !"
 
 # game/code/d08/extended/d08s09.rpy:65
 translate french replay_d08s09_c6e37160:
@@ -64,13 +64,13 @@ translate french replay_d08s09_acb4aa2d:
 translate french replay_d08s09_24767480:
 
     # mc "I'VE COME TO SPRING YOUR TRAP AND LOCK YOU IN THE GIEDIAN FUCK PITS WHERE YOU BELONG!"
-    mc "JE SUIS VENI POUR DEJOUER TON PIEGE ET T'ENFERMER DANS LES PUTAINS DE FOSSES DE GIEDIAN OU TU APPARTIENS!"
+    mc "JE SUIS VENU POUR DÉJOUER TON PIÈGE ET T'ENFERMER DANS LES PUTAINS DE FOSSES DE GIEDIAN LÀ D'OÙ TU VIENS !"
 
 # game/code/d08/extended/d08s09.rpy:75
 translate french replay_d08s09_3598fd55:
 
     # mct "I'll flip on the lights real quick and before her eyes adjust and just fuckin' bum rush her."
-    mct "Je vais allumer les lumières très vite et avant que ses yeux ne s'ajustent et que je la précipite."
+    mct "Je vais allumer les lumières très vite et avant que ses yeux ne s'adaptent, je lui fonce dessus."
 
 # game/code/d08/extended/d08s09.rpy:84
 translate french replay_d08s09_cda14353:
@@ -82,31 +82,31 @@ translate french replay_d08s09_cda14353:
 translate french replay_d08s09_d5b914bf:
 
     # mc "HA, HA! I didn't think the great Rkil Dvorka could be so easily captured."
-    mc "HA, HA! Je ne pensais pas que la grande Rkil Dvorka pouvait être capturé aussi facilement."
+    mc "HA, HA! Je ne pensais pas que la grande Rkil Dvorka pouvait être capturée aussi facilement."
 
 # game/code/d08/extended/d08s09.rpy:91
 translate french replay_d08s09_be917f4b:
 
     # jf "HA... you OAF! I am not Rkil Dvorka! I am merely her apprentice, Mirim Arotsu!"
-    jf "HA... espèce d'idiot ! Je ne suis pas Rkil Dvorka ! Je ne suis que son apprenti, Mirim Arotsu !"
+    jf "HA... espèce d'idiot ! Je ne suis pas Rkil Dvorka ! Je ne suis que son apprentie, Mirim Arotsu !"
 
 # game/code/d08/extended/d08s09.rpy:94
 translate french replay_d08s09_032e2b63:
 
     # mc "No matter! I shall just have to settle for her apprentice!"
-    mc "Peu importe! Je n'aurai plus qu'à me contenter de son apprentie !"
+    mc "Peu importe ! Je n'ai qu'à me contenter de son apprentie !"
 
 # game/code/d08/extended/d08s09.rpy:99
 translate french replay_d08s09_0a61c394:
 
     # mc "How the fuck do you get into this thing?"
-    mc "Comment peux-tu tenir dans ce truc ?"
+    mc "Comment peux-tu rentrer dans ce truc ?"
 
 # game/code/d08/extended/d08s09.rpy:100
 translate french replay_d08s09_cc3e0617:
 
     # jf "HA... You fool! Do you know nothing? The Laxicore mesh is bonded to my skin! HA HA!"
-    jf "HA... Imbécile ! Tu ne sais rien ? Le mesh Laxicore est collé à ma peau ! HA HA !"
+    jf "HA... Imbécile ! Tu ne sais donc rien ? Le Laxicore est collé à ma peau ! HA HA !"
 
 # game/code/d08/extended/d08s09.rpy:101
 translate french replay_d08s09_67cd26ba:
@@ -124,7 +124,7 @@ translate french replay_d08s09_81f83e2b:
 translate french replay_d08s09_ba8808b6:
 
     # mc "Wait, what? You just pee in your suit?"
-    mc "Attends quoi? Tu pisses dans ton costume ?"
+    mc "Attends quoi ? Tu pisses dans ton costume ?"
 
 # game/code/d08/extended/d08s09.rpy:106
 translate french replay_d08s09_c90d33a0:
@@ -136,13 +136,13 @@ translate french replay_d08s09_c90d33a0:
 translate french replay_d08s09_32b5be8f:
 
     # mc "Well, if it's nutrients your body craves, Mirim Arotsu, it is nutrients you shall have! Kneel before me!"
-    mc "Eh bien, si ce sont des nutriments dont votre corps a besoin, Mirim Arotsu, ce sont des nutriments que vous aurez ! Agenouille-toi devant moi !"
+    mc "Eh bien, si ce sont des nutriments dont ton corps a besoin, Mirim Arotsu, ce sont des nutriments que tu auras ! Agenouille-toi devant moi !"
 
 # game/code/d08/extended/d08s09.rpy:110
 translate french replay_d08s09_715d78cc:
 
     # jf "By the immortal gods! You're dual wielding!"
-    jf "Par les dieux immortels ! Vous êtes à double usage !"
+    jf "Par les dieux immortels ! Tu m'avais caché cette lame !"
 
 # game/code/d08/extended/d08s09.rpy:112
 translate french replay_d08s09_c6c6ccd4:
@@ -154,13 +154,13 @@ translate french replay_d08s09_c6c6ccd4:
 translate french replay_d08s09_1e7beb71:
 
     # jf "Did you just cum down my throat? I didn't even taste it!"
-    jf "Tu viens de jouir dans ma gorge ? Je ne l'ai même pas goûté !"
+    jf "Tu viens de jouir dans ma gorge ? Je n'ai même pas pu y goûter !"
 
 # game/code/d08/extended/d08s09.rpy:194
 translate french replay_d08s09_b5e501a3:
 
     # mc "Did you want to taste it?"
-    mc "Veux-tu le goûter ?"
+    mc "Tu voulais ?"
 
 # game/code/d08/extended/d08s09.rpy:195
 translate french replay_d08s09_195f54ba:
@@ -178,7 +178,7 @@ translate french replay_d08s09_f7cca815:
 translate french replay_d08s09_46a4e279:
 
     # jf "Okay!"
-    jf "OK!"
+    jf "OK !"
 
 # game/code/d08/extended/d08s09.rpy:204
 translate french replay_d08s09_f4ee5460:
@@ -196,7 +196,7 @@ translate french replay_d08s09_1006bf7b:
 translate french replay_d08s09_2c7e8781:
 
     # jf "You know, cosplay isn't a game, per se. Also, it's usually not full contact. Even Larpers don't tackle each other."
-    jf "Vous savez, le cosplay n’est pas un jeu en soi. De plus, il ne s’agit généralement pas d’un contact complet. Même les GN ne s’attaquent pas."
+    jf "Tu sais, le cosplay n’est pas un jeu en soi. De plus, il ne s’agit généralement pas d’un réel contact. Même les rôlistes ne s’attaquent pas."
 
 # game/code/d08/extended/d08s09.rpy:214
 translate french replay_d08s09_91d72008:
@@ -208,13 +208,13 @@ translate french replay_d08s09_91d72008:
 translate french replay_d08s09_35e309ee:
 
     # jf "I think it's fine, but it's not really mine. I was just testing it out."
-    jf "Je pense que c'est bon, mais ce n'est pas vraiment le mien. Je venais juste de le tester."
+    jf "Je pense que c'est bon, mais ce n'est pas vraiment le mien. Je le testais juste."
 
 # game/code/d08/extended/d08s09.rpy:218
 translate french replay_d08s09_f74c6248:
 
     # jf "But a guy from Belgium who had seen my stuff online commissioned the suit... said it was for his girlfriend."
-    jf "Mais un gars de Belgique a vu mes articles en ligne a commandé le costume... disant que c'était pour sa petite amie."
+    jf "Un gars de Belgique a vu mes articles en ligne et a commandé le costume... disant que c'était pour sa petite amie."
 
 # game/code/d08/extended/d08s09.rpy:221
 translate french replay_d08s09_caca7e3b:
@@ -226,19 +226,19 @@ translate french replay_d08s09_caca7e3b:
 translate french replay_d08s09_c84ee45a:
 
     # jf "We agreed up front. It is $3K for the complete costume - outfit, boots and Light sword."
-    jf "Nous nous sommes mis d’accord dès le départ. C'est 3 000 $ pour le costume complet - tenue, bottes et épée légère."
+    jf "Nous nous sommes mis d’accord dès le départ. C'est 3 000 $ pour le costume complet - tenue, bottes et sabre laser."
 
 # game/code/d08/extended/d08s09.rpy:225
 translate french replay_d08s09_65c7376f:
 
     # mc "Holy Shit! That is some bank! Awesome!"
-    mc "Putain de merde ! C'est une énorme somme! Génial!"
+    mc "Putain de merde ! C'est une énorme somme ! Génial !"
 
 # game/code/d08/extended/d08s09.rpy:227
 translate french replay_d08s09_2fb33105:
 
     # jf "Not really... I undercharged on this one. But that is my fault as I wasn't familiar what all the costs would be."
-    jf "Pas vraiment... J'ai sous-facturé celui-ci. Mais c'est de ma faute car je ne savais pas quels seraient tous les coûts.."
+    jf "Pas vraiment... Je l'ai sous-facturé. Mais c'est de ma faute, je ne savais pas quels seraient tous les coûts.."
 
 # game/code/d08/extended/d08s09.rpy:230
 translate french replay_d08s09_337436e1:
@@ -256,13 +256,13 @@ translate french replay_d08s09_e477c1b6:
 translate french replay_d08s09_154edb50:
 
     # jf "I probably have another $500 in materials and hardware. The light sword is from a specialty maker on the east coast. Charges $750 for a light up sword with sound chip. $300 for other materials."
-    jf "J'ai probablement 500 $ supplémentaires en matériaux. L'épée légère provient d'un fabricant spécialisé de la côte est. Facturée à 750 $ pour une épée lumineuse avec puce sonore. 300 $ pour les autres matériaux."
+    jf "J'ai probablement 500 $ supplémentaires en matériaux. Le sabre laser provient d'un fabricant spécialisé de la côte est. Facturée à 750 $ pour le sabre avec puce sonore. 300 $ pour les autres matériaux."
 
 # game/code/d08/extended/d08s09.rpy:235
 translate french replay_d08s09_5393e073:
 
     # mc "Oh shit...yeah, well that is like $2300 in cost! How long did it take you to make?"
-    mc "Oh merde... ouais, eh bien, cela coûte environ 2 300 $ ! Combien de temps as-tu mis pour le faire ?"
+    mc "Oh merde... ouais, eh bien, cela à coûté environ 2 300 $ ! Combien de temps as-tu mis pour le faire ?"
 
 # game/code/d08/extended/d08s09.rpy:236
 translate french replay_d08s09_6fbe7637:
@@ -274,13 +274,13 @@ translate french replay_d08s09_6fbe7637:
 translate french replay_d08s09_eae1129f:
 
     # mc "Yeah, right, that's less than $9 bucks an hour for your time. I see your point."
-    mc "Ouais, c'est vrai, cela représente moins de 9 dollars de l'heure pour votre temps. Je vois ce que tu veux dire."
+    mc "Ouais, c'est vrai, cela représente moins de 9 dollars de l'heure pour ton temps. Je vois ce que tu veux dire."
 
 # game/code/d08/extended/d08s09.rpy:238
 translate french replay_d08s09_70c74f64:
 
     # mc "How do you know it will even fit his girlfriend?"
-    mc "Comment sais-tu qu'il conviendra même à sa petite amie ?"
+    mc "Comment sais-tu qu'il ira à sa petite amie ?"
 
 # game/code/d08/extended/d08s09.rpy:241
 translate french replay_d08s09_32f58415:
@@ -298,7 +298,7 @@ translate french replay_d08s09_fe7c242f:
 translate french replay_d08s09_d266f21f:
 
     # jf "You know how some guys have a used underwear fetish and they spend big money to get girls' panties?"
-    jf "Vous savez, certains hommes sont fétichistes des sous-vêtements usagés et dépensent beaucoup d'argent pour acheter des culottes pour filles ?"
+    jf "Tu sais, certains hommes sont fétichistes des sous-vêtements usagés et dépensent beaucoup d'argent pour acheter des culottes utilisées ?"
 
 # game/code/d08/extended/d08s09.rpy:245
 translate french replay_d08s09_84f16542:
@@ -316,19 +316,19 @@ translate french replay_d08s09_cbdd5c3f:
 translate french replay_d08s09_bdce355a:
 
     # jf "And they get off on pictures of girls wearing the costumes. Their holy grail though is to actually get a costume worn by a \"real\" girl."
-    jf "Et ils prennent leur pied sur des photos de filles portant les costumes. Leur Saint Graal est cependant de faire porter un costume. par une \"vraie\" fille."
+    jf "Et ils prennent leur pied sur des photos de filles portant les costumes. Leur Saint Graal est cependant de faire porter un costume par une \"vraie\" fille."
 
 # game/code/d08/extended/d08s09.rpy:250
 translate french replay_d08s09_45943ecf:
 
     # mc "No shit? So you are saying these guys get off, jerk off to holding a costume you were wearing while looking at a picture of you wearing it?"
-    mc "Non, merde ? Donc tu dis que ces gars prennent leur pied, se branlent avec un costume que tu as portée tout en regardant une photo de toi le portant ?"
+    mc "Non, sérieux ? Donc tu dis que ces gars prennent leur pied, se branlent avec un costume que tu as porté tout en regardant une photo de toi le portant ?"
 
 # game/code/d08/extended/d08s09.rpy:252
 translate french replay_d08s09_ebafc7f4:
 
     # jf "Pretty much... Except they like to try to smell it, lick the crotch, and other stuff..."
-    jf "A peu près... Sauf qu'ils aiment essayer de le sentir, lécher l'entrejambe et d'autres trucs...."
+    jf "A peu près... Sauf qu'ils aiment le sentir, lécher l'entrejambe et d'autres trucs...."
 
 # game/code/d08/extended/d08s09.rpy:253
 translate french replay_d08s09_277e660b:
@@ -340,13 +340,13 @@ translate french replay_d08s09_277e660b:
 translate french replay_d08s09_a3b2e6f3:
 
     # mc "So you think the guy that wants this suit is the same?"
-    mc "Donc tu penses que le gars qui veut ce costume est le même ?"
+    mc "Donc tu penses que le gars qui veut ce costume est comme ça ?"
 
 # game/code/d08/extended/d08s09.rpy:260
 translate french replay_d08s09_3a942c9f:
 
     # jf "Pretty much. All I have to do now is take a couple of pics of me in the suit and ship it out... done!"
-    jf "À peu près. Il ne me reste plus qu'à prendre quelques photos de moi dans le costume et à l'expédier... c'est fait !"
+    jf "À peu près. Il ne me reste plus qu'à prendre quelques photos de moi dans le costume et à l'expédier... et c'est fait !"
 
 # game/code/d08/extended/d08s09.rpy:262
 translate french replay_d08s09_60c65bb7:
@@ -358,79 +358,79 @@ translate french replay_d08s09_60c65bb7:
 translate french replay_d08s09_c8f95901:
 
     # jf "No... I just finished it right before I called you. As a matter of fact, you can help me. Would you take the pictures?"
-    jf "Non... je viens de le terminer juste avant de t'appeler. En fait, tu peux m'aider. Veux-tu prendre les photos ?"
+    jf "Non... je vennais de le terminer juste avant de t'appeler. En fait, tu peux m'aider. Veux-tu prendre les photos ?"
 
 # game/code/d08/extended/d08s09.rpy:266
 translate french replay_d08s09_8456a741:
 
     # mc "The business side of my brain is kicking into overdrive.{w} Are you sure he is into this costume kink thing? Smelling you in the suit and all that shit?"
-    mc "Le côté commercial de mon cerveau passe à la vitesse supérieure.{w} Êtes-vous sûr qu'il est fétichiste des costumes? de Te voir dans ton costume et toutes ces conneries ?"
+    mc "Mon côté commercial prend le dessus.{w} Es-tu sûre qu'il est fétichiste des costumes ? De te voir dans ton costume et toutes ces conneries ?"
 
 # game/code/d08/extended/d08s09.rpy:267
 translate french replay_d08s09_2ab9140f:
 
     # jf "I bet you the coffee drink of your choice that he is."
-    jf "Je te parie la boisson de ton choix.."
+    jf "Je te parie un café que c'est le cas."
 
 # game/code/d08/extended/d08s09.rpy:268
 translate french replay_d08s09_158fbf49:
 
     # mc "Alright... See if he is online. Text him or email him right now."
-    mc "Très bien... Vérifie s'il est en ligne. Envoye-lui un message ou un e-mail dès maintenant."
+    mc "Très bien... Vérifie s'il est en ligne. Envoie-lui un message dès maintenant."
 
 # game/code/d08/extended/d08s09.rpy:270
 translate french replay_d08s09_10cfd855:
 
     # jf "Yeah, he's green. Why?"
-    jf "Ouais, il est là. Pourquoi?"
+    jf "Ouais, il est là. Pourquoi ?"
 
 # game/code/d08/extended/d08s09.rpy:271
 translate french replay_d08s09_207ed096:
 
     # mc "Tell him you have finished the suit and are ready to ship, you just want to confirm the address."
-    mc "Dites-lui que vous avez terminé le costume et que vous êtes prêt à l'expédier, vous voulez juste confirmer l'adresse."
+    mc "Dis-lui que tu as terminé le costume et que tu es prête à l'expédier, tu veux juste confirmer l'adresse."
 
 # game/code/d08/extended/d08s09.rpy:273
 translate french replay_d08s09_9e5811ea:
 
     # mc "Did you do it?"
-    mc "L'as-tu fait?"
+    mc "C'est fait ?"
 
 # game/code/d08/extended/d08s09.rpy:276
 translate french replay_d08s09_e8b6bce4:
 
     # jf "Yes. But I already have his address. It's gonna cost $95 just to ship it to Belgium. He is paying of course."
-    jf "Oui. Mais j'ai déjà son adresse. Ça va coûter 95 $ juste pour l'expédier en Belgique. Il paie évidemment."
+    jf "Oui. Mais j'ai déjà son adresse. Ça va coûter 95 $ juste pour l'expédier en Belgique. Il paie les frais, bien évidemment."
 
 # game/code/d08/extended/d08s09.rpy:278
 translate french replay_d08s09_ef696c14:
 
     # jf "He says he wants to see pictures of me in the costume. See I told you!"
-    jf "Il dit qu'il veut voir des photos de moi dans le costume. Tu vois, je te l'ai dit !"
+    jf "Il dit qu'il veut voir des photos de moi dans le costume. Tu vois, je te l'avais dit !"
 
 # game/code/d08/extended/d08s09.rpy:280
 translate french replay_d08s09_637b8010:
 
     # mc "Great! Give me your phone. I'll take a picture"
-    mc "Super! Donne moi ton telephone. je vais prendre une photo"
+    mc "Super! Donne-moi ton téléphone. Je vais prendre une photo."
 
 # game/code/d08/extended/d08s09.rpy:283
 translate french replay_d08s09_d3368a98:
 
     # jf "What? No... I've got that photo shoot setup over there, and a nice camera, I am not just gonna take pictures of all my hard work with a crappy cell phone."
-    jf "Quoi? Non... J'ai cette configuration de studio photo là-bas avec un bel appareil photo, je ne vais pas juste prendre des photos de tout mon travail acharné avec un téléphone portable merdique."
+    jf "Quoi ? Non... J'ai cette configuration de studio photo là-bas avec un bel appareil photo, je ne vais pas juste prendre des photos de tout ce travail acharné avec un téléphone portable merdique."
 
 # game/code/d08/extended/d08s09.rpy:284
 translate french replay_d08s09_fb0f6a78:
 
     # mc "Jessie, we gotta be quick. Just trust me here for a minute and give me your phone."
-    mc "Jessie, il faut faire vite. Fait-moi confiance une minute et donne-moi ton téléphone."
+    mc "Jessie, il faut faire vite. Fais-moi confiance une minute et donne-moi ton téléphone."
 
 # game/code/d08/extended/d08s09.rpy:286
 translate french replay_d08s09_0d64cd69:
 
     # jf "Trust you? You were supposed to come over today so I could get to know you better."
-    jf "Te faire confiance? Tu étais censé venir aujourd'hui pour que je puisse mieux te connaître."
+    jf "Te faire confiance ? Tu étais censé venir aujourd'hui pour que je puisse mieux te connaître."
 
 # game/code/d08/extended/d08s09.rpy:287
 translate french replay_d08s09_c3f00249:
@@ -442,25 +442,25 @@ translate french replay_d08s09_c3f00249:
 translate french replay_d08s09_d3d62a4c:
 
     # mc "Look, you are already in the red on this project. I think I can help you. I've got an idea..."
-    mc "Ecoute, tu es déjà dans le rouge sur ce projet. Je pense que je peux t'aider. J'ai une idée..."
+    mc "Écoute, tu es déjà dans le rouge sur ce projet. Je pense que je peux t'aider. J'ai une idée..."
 
 # game/code/d08/extended/d08s09.rpy:291
 translate french replay_d08s09_3955f1e0:
 
     # jf "If you screw this up I will punch you in the dick."
-    jf "Si tu foires ça, je te frappe la bite."
+    jf "Si tu foires ça, je t'arrache la bite."
 
 # game/code/d08/extended/d08s09.rpy:292
 translate french replay_d08s09_fa045586:
 
     # mc "Agreed. Just, please give me your phone and do what I...I mean, cooperate with me? Please?"
-    mc "D'accord. S'il te plaît, donne-moi ton téléphone et fais ce que je... je veux dire, coopére avec moi ? S'il te plaît?"
+    mc "D'accord. S'il te plaît, donne-moi ton téléphone et fais ce que je te... je veux dire, coopère avec moi s'il te plaît."
 
 # game/code/d08/extended/d08s09.rpy:294
 translate french replay_d08s09_5d9cdf46:
 
     # mc "OK, we want this to look spontaneous, so we are not going to use your photo studio...yet."
-    mc "OK, nous voulons que cela ait l'air spontané, nous n'allons donc pas utiliser ton studio photo... pour l'instant."
+    mc "OK, nous voulons que ça ait l'air spontané, nous n'allons donc pas utiliser ton studio photo... pour l'instant."
 
 # game/code/d08/extended/d08s09.rpy:296
 translate french replay_d08s09_485c5b3f:
@@ -514,13 +514,13 @@ translate french replay_d08s09_9250fede:
 translate french replay_d08s09_c7a60e24:
 
     # mc "Excellent... Now tell him, your deal was for the costume. The costume is finished and you are ready to ship. Pictures are extra."
-    mc "Excellent... Maintenant, dis-lui que ton marché portait sur le costume. Le costume est terminé et vous êtes prêt à l'expédier. Les photos sont en extra."
+    mc "Excellent... Maintenant, dis-lui que ton marché portait sur le costume. Le costume est terminé et prêt à être expédié. Les photos sont en extra."
 
 # game/code/d08/extended/d08s09.rpy:319
 translate french replay_d08s09_929654c3:
 
     # jf "What? What are you talking about?"
-    jf "Quoi? Qu'est-ce que tu racontes?"
+    jf "Quoi ? Qu'est-ce que tu racontes ?"
 
 # game/code/d08/extended/d08s09.rpy:320
 translate french replay_d08s09_9a89d002:
@@ -532,13 +532,13 @@ translate french replay_d08s09_9a89d002:
 translate french replay_d08s09_e5609f1c:
 
     # jf "Okay...but..."
-    jf "ok...mais..."
+    jf "OK...mais..."
 
 # game/code/d08/extended/d08s09.rpy:324
 translate french replay_d08s09_8e7fa4c2:
 
     # mc "Now, while we wait, go to..."
-    mc "Maintenant, en attendant, allez..."
+    mc "Maintenant, en attendant, on va..."
 
 # game/code/d08/extended/d08s09.rpy:327
 translate french replay_d08s09_d5394d31:
@@ -550,31 +550,31 @@ translate french replay_d08s09_d5394d31:
 translate french replay_d08s09_1abaed75:
 
     # mc "Tell him, \"Different packages, different prices. Standard package is $1K and includes 25 Sexy pictures of me in the costume.\""
-    mc "dit lui, \"Différents forfaits, différents prix. Le forfait standard coûte 1 000 $ et comprend 25 photos sexy de moi en costume.\""
+    mc "Dis-lui, \"Différents forfaits, différents prix. Le forfait standard coûte 1 000 $ et comprend 25 photos sexy de moi en costume.\""
 
 # game/code/d08/extended/d08s09.rpy:332
 translate french replay_d08s09_b55dc74b:
 
     # jf "$1000 for 25 pictures.{w}.. Are you fucking crazy?"
-    jf "1 000 $ pour 25 photos.{w}.. Tu es fou, putain?"
+    jf "1 000 $ pour 25 photos.{w}.. Tu es fou, putain ?"
 
 # game/code/d08/extended/d08s09.rpy:333
 translate french replay_d08s09_ec55f1ad:
 
     # mc "Just type it, and at the end, say, \"And if you want the deluxe package...\""
-    mc "Tape-le simplement et à la fin, dit : « Et si vous voulez le forfait de luxe...\""
+    mc "Écris simplement ça et à la fin, rajoute : \"Et si vous voulez le forfait de luxe...\""
 
 # game/code/d08/extended/d08s09.rpy:336
 translate french replay_d08s09_c2defa8e:
 
     # jf "I hope you know what you are doing. Okay... It's sent."
-    jf "J'espère que tu sais ce que tu fais. Ok... C'est envoyé."
+    jf "J'espère que tu sais ce que tu fais. OK... C'est envoyé."
 
 # game/code/d08/extended/d08s09.rpy:339
 translate french replay_d08s09_99469c6f:
 
     # mc "Now, go to WorldwideExpress and see how much it would be to overnight the costume."
-    mc "Maintenant, va sur WorldwideExpress et vois combien cela coûterait d'envoyer le costume en un 24h."
+    mc "Maintenant, va sur WorldwideExpress et vois combien ça coûterait d'envoyer le costume en 24h."
 
 # game/code/d08/extended/d08s09.rpy:342
 translate french replay_d08s09_0905d529:
@@ -598,7 +598,7 @@ translate french replay_d08s09_d8b4f473:
 translate french replay_d08s09_32e70465:
 
     # mc "Ha! We got him! Hook line and sinker!"
-    mc "Ha! On l'a eu ! Tiens la ligne et tire d'un coup!"
+    mc "Ha! On le tient ! Il à mordu à l'hameçon !"
 
 # game/code/d08/extended/d08s09.rpy:350
 translate french replay_d08s09_c174c775:
@@ -610,19 +610,19 @@ translate french replay_d08s09_c174c775:
 translate french replay_d08s09_9d368df7:
 
     # mc "That means, he is in it for AT LEAST $1000. Otherwise he would have said, \"Just ship it.\", since it is already paid for."
-    mc "Cela signifie qu'il va dépensé en plus AU MOINS 1 000 $. Sinon, il aurait dit : « Expédiez-le simplement. », puisqu'il a déjà payé."
+    mc "Ça signifie qu'il va dépenser AU MOINS 1 000 $ de plus. Sinon, il aurait dit : \"Expédiez-le simplement.\", puisqu'il a déjà payé."
 
 # game/code/d08/extended/d08s09.rpy:352
 translate french replay_d08s09_dffd9cd1:
 
     # jf "You think so?"
-    jf "Tu penses?"
+    jf "Tu penses ?"
 
 # game/code/d08/extended/d08s09.rpy:353
 translate french replay_d08s09_22c3778e:
 
     # mc "I know so... Now, we just gotta think how to make bank on this."
-    mc "ouais... Maintenant, nous devons juste réfléchir à comment avoir plus."
+    mc "Ouais... Maintenant, nous devons juste réfléchir à comment avoir plus."
 
 # game/code/d08/extended/d08s09.rpy:355
 translate french replay_d08s09_b95d1f00:
@@ -640,13 +640,13 @@ translate french replay_d08s09_e33bec1b:
 translate french replay_d08s09_db69d4ae:
 
     # jf "On my knees? What are you up to?"
-    jf "à genoux? pourquoi?"
+    jf "À genoux ? Pourquoi ?"
 
 # game/code/d08/extended/d08s09.rpy:363
 translate french replay_d08s09_52de73c2:
 
     # mc "SUBMIT TO THE DEFILER... I HAVE CONQUERED YOU, AND NOW YOU ARE MY CAPTIVE!"
-    mc "SOUMETS-TOI AU PROFANATEUR... JE T'AI CONQUIS, ET MAINTENANT TU ES MA PRISONNIERE!"
+    mc "SOUMETS-TOI AU PROFANATEUR... JE T'AI CONQUISE, ET MAINTENANT TU ES MA PRISONNIERE!"
 
 # game/code/d08/extended/d08s09.rpy:365
 translate french replay_d08s09_6b7a1bf8:
@@ -664,13 +664,13 @@ translate french replay_d08s09_af806435:
 translate french replay_d08s09_153e20ff:
 
     # mc "Send him that and tell him, \"The Deluxe Package is $5K, and includes 100 photos and a video. I will rigorously test the suit then overnight express it to you\"."
-    mc "Envoie-lui ça et dis-lui, \"Le forfait Deluxe coûte 5 000 $ et comprend 100 photos et une vidéo. Je vais tester rigoureusement le costume puis vous l'exprimer du jour au lendemain\"."
+    mc "Envoie-lui ça et dis-lui, \"Le forfait Deluxe coûte 5 000 $ et comprend 100 photos et une vidéo. Je vais tester rigoureusement le costume puis vous l'expédier en 24h\"."
 
 # game/code/d08/extended/d08s09.rpy:372
 translate french replay_d08s09_be6c771b:
 
     # jf "Holy Shit... $5K... on top of what he already paid me?"
-    jf "Putain de merde... 5 000 $... en plus de ce qu'il m'a déjà payé ?"
+    jf "Putain de merde... 5 000 $... En plus de ce qu'il m'a déjà donné ?"
 
 # game/code/d08/extended/d08s09.rpy:374
 translate french replay_d08s09_9f47a5c2:
@@ -682,19 +682,19 @@ translate french replay_d08s09_9f47a5c2:
 translate french replay_d08s09_b4e40d41:
 
     # mc "Jessie, when does your period start?"
-    mc "Jessie, quand commences ton cycle ?"
+    mc "Jessie, quand commencent tes règles ?"
 
 # game/code/d08/extended/d08s09.rpy:378
 translate french replay_d08s09_4edcfce0:
 
     # jf "Ha! It started this morning."
-    jf "Ha! Elle a commencé ce matin."
+    jf "Ha! Elles ont commencées ce matin."
 
 # game/code/d08/extended/d08s09.rpy:380
 translate french replay_d08s09_3089d35e:
 
     # mc "Tell him, \"If you hurry, I am still on my period\"."
-    mc "Dis-lui, \"Si vous vous dépêchez, j'ai encore mon cycle\"."
+    mc "Dis-lui, \"Si vous vous dépêchez, j'ai encore mes règles\"."
 
 # game/code/d08/extended/d08s09.rpy:383
 translate french replay_d08s09_d9837cd3:
@@ -718,7 +718,7 @@ translate french replay_d08s09_d3c00f78:
 translate french replay_d08s09_0327b230:
 
     # mc "Hard work done. Now we just gotta come through with some pictures and a video."
-    mc "Un dur travail accompli. Il ne nous reste plus qu'à présenter quelques photos et une vidéo."
+    mc "Et voilà le travail ! Il ne nous reste plus qu'à faire quelques photos et une vidéo."
 
 # game/code/d08/extended/d08s09.rpy:391
 translate french replay_d08s09_6bdab792:
