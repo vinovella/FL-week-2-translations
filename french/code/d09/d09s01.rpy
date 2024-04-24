@@ -16,25 +16,25 @@ translate french d09s01_74bc0fd8:
 translate french d09s01_0c6c2c41:
 
     # mc "Not really. I kept having that dream where I'm taking a shower in a room with no drain..."
-    mc "Pas vraiment. Je n'arrêtais pas de faire ce rêve où je prenais une douche dans une pièce sans évacuation..."
+    mc "Pas vraiment. Je fais toujours ce rêve où je prends une douche dans une pièce sans évacuation..."
 
 # game/code/d09/d09s01.rpy:14
 translate french d09s01_9723e90b:
 
     # mc "So, the room keeps filling up with water and I can't shut off the shower..."
-    mc "Du coup, la pièce ne cesse de se remplir d'eau et je ne peux pas fermer la douche..."
+    mc "Du coup, la pièce ne cesse de se remplir d'eau et je ne peux pas couper l'eau..."
 
 # game/code/d09/d09s01.rpy:15
 translate french d09s01_1aa24ed9:
 
     # mc "I scrub myself as clean as possible hoping that will appease whatever put me in this situation..."
-    mc "Je me frotte le plus proprement possible en espérant que cela apaisera ce qui me met dans cette situation..."
+    mc "Je me lave le mieux possible en espérant que ça me sauvera de cette situation..."
 
 # game/code/d09/d09s01.rpy:16
 translate french d09s01_a58d4994:
 
     # mc "But before I know it I'm floating in a room filled with water and trying to take a few last gasps of air before..."
-    mc "Mais avant de m'en rendre compte, je flotte dans une pièce remplie d'eau et j'essaie de prendre quelques dernières bouffées d'air avant..."
+    mc "Mais avant de m'en rendre compte, je flotte dans une pièce remplie d'eau et j'essaie de prendre quelques bouffées d'air avant..."
 
 # game/code/d09/d09s01.rpy:17
 translate french d09s01_51ab4180:
@@ -46,13 +46,13 @@ translate french d09s01_51ab4180:
 translate french d09s01_efd0d0f9:
 
     # mc "Huh. I'm talking to myself. That can't be good."
-    mc "Hein. Je parle à moi-même. Cela ne peut pas être bon."
+    mc "Hein. Je me parle tout seul, ça va pas mieux."
 
 # game/code/d09/d09s01.rpy:22
 translate french d09s01_4cf2d1b7:
 
     # mc "On the other hand, Pete's afk... Now's as good a time as any."
-    mc "D'un autre côté, Pete est afk... C'est le moment le plus opportun."
+    mc "D'un autre côté, Pete n'est pas là... C'est le bon moment pour le faire."
 
 # game/code/d09/d09s01.rpy:25
 translate french d09s01_412b3d09:
@@ -64,7 +64,7 @@ translate french d09s01_412b3d09:
 translate french d09s01_2858cd33:
 
     # mct "I don't want to go in order for some reason."
-    mct "Je ne veux pas y aller dans l'ordre pour une raison quelconque."
+    mct "Je ne veux pas les essayer dans l'ordre."
 
 # game/code/d09/d09s01.rpy:31
 translate french d09s01_743fdfa8:
@@ -106,7 +106,7 @@ translate french d09s01_9f7ad367:
 translate french d09s01_bf31a3de:
 
     # mct "From Min? Why would Min be blowing up my phone in the middle of the night?"
-    mct "De Min? Pourquoi Min ferait-il exploser mon téléphone au milieu de la nuit ?"
+    mct "De Min? Pourquoi Min m'enverrait un message au beau milieu de la nuit ?"
 
 # game/code/d09/d09s01.rpy:44
 translate french d09s01_a9fa17ce:
@@ -118,7 +118,7 @@ translate french d09s01_a9fa17ce:
 translate french d09s01_df8f884d:
 
     # mct "Nothing like some pee play pics to start my day."
-    mct "Rien de tel que des photos de jeux de pipi pour commencer ma journée."
+    mct "Rien de tel que des photos d'ondinisme pour commencer ma journée."
 
 # game/code/d09/d09s01.rpy:57
 translate french d09s01_c9e46179:
@@ -232,5 +232,5 @@ translate french d09s01_df2d2a72:
 translate french d09s01_4bb6af1f:
 
     # mct "I just hope she doesn't shank me or something the moment I bring up the luggage."
-    mct "J'espère juste qu'elle ne me frappera pas ou quelque chose comme ça dès que je monterai les bagages."
+    mct "J'espère juste qu'elle ne me frappera pas ou quelque chose comme ça dès que je parlerai des bagages."
 
