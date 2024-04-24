@@ -4,7 +4,7 @@
 translate french d09s02_d3bd4739:
 
     # "After a short travel by public transport..."
-    "Après un court trajet en transports en commun..."
+    "Après un court trajet de transports en commun..."
 
 # game/code/d09/d09s02.rpy:24
 translate french d09s02_8813c6f4:
@@ -40,13 +40,13 @@ translate french d09s02_47be7110:
 translate french d09s02_34af8ae9:
 
     # mc "Maybe the plumber? \"I'm just here to lay some pipe, little lady.\""
-    mc "Maybe the plumber?  \"Je suis juste là pour poser une pipe, petite dame.\""
+    mc "Ou le plombier?  \"Je suis juste là pour m'occuper de votre tuyauterie ma petite dame.\""
 
 # game/code/d09/d09s02.rpy:43
 translate french d09s02_8cd077ed:
 
     # sb "Who the hell are you?"
-    sb "Qui diable es-tu ?"
+    sb "T'es qui putain ?"
 
 # game/code/d09/d09s02.rpy:46
 translate french d09s02_591cbebe:
@@ -58,7 +58,7 @@ translate french d09s02_591cbebe:
 translate french d09s02_9c27b77f:
 
     # sb "Oh right, sorry. You're the new client. Come on in then."
-    sb "Ah oui, désolé. Vous êtes le nouveau client. Entrez alors."
+    sb "Ah oui, désolée. Tu es le nouveau client. Entre."
 
 # game/code/d09/d09s02.rpy:50
 translate french d09s02_fa45f281:
@@ -70,7 +70,7 @@ translate french d09s02_fa45f281:
 translate french d09s02_8281dd72:
 
     # mct "Interesting place. Doesn't really look lived-in; seems to be pretty rundown actually."
-    mct "Endroit intéressant. Cela n'a pas vraiment l'air habité ; en fait, ça semble assez délabré."
+    mct "Endroit intéressant. Ça n'a pas vraiment l'air habité ; en fait, ça semble assez délabré."
 
 # game/code/d09/d09s02.rpy:55
 translate french d09s02_9908df1a:
@@ -100,7 +100,7 @@ translate french d09s02_34709391:
 translate french d09s02_d9c5f0ad:
 
     # sb "Please, have a seat. Make yourself comfortable."
-    sb "Asseyez-vous, s'il vous plaît. Mettez-vous à l'aise."
+    sb "Je t'en prie, mets-toi à l'aise, assis toi"
 
 # game/code/d09/d09s02.rpy:64
 translate french d09s02_bb0eeaf4:
@@ -112,13 +112,13 @@ translate french d09s02_bb0eeaf4:
 translate french d09s02_2898210a:
 
     # sb "Sorry about earlier. You're much younger than I expected."
-    sb "Désolé pour plus tôt. Vous êtes beaucoup plus jeune que prévu."
+    sb "Désolée pour tout à l'heure. Tu es beaucoup plus jeune que j'imaginais."
 
 # game/code/d09/d09s02.rpy:68
 translate french d09s02_2dc0e5a8:
 
     # mct "Ah. Probably only older men can afford her \"service charge\"."
-    mct "Ah. Probablement, seuls les hommes plus âgés peuvent se permettre ses \"services\"."
+    mct "Ah. J'imagine que seuls les hommes plus âgés peuvent se permettre ses \"services\"."
 
 # game/code/d09/d09s02.rpy:70
 translate french d09s02_b7441607:
@@ -130,13 +130,13 @@ translate french d09s02_b7441607:
 translate french d09s02_606e2d02:
 
     # mc "Sure."
-    mc "Sur."
+    mc "Bien sûr."
 
 # game/code/d09/d09s02.rpy:75
 translate french d09s02_68ed9684:
 
     # sb "Good. So, [mcname], do you want to get into this right away, or are you the type to chit-chat a bit beforehand?"
-    sb "Bien. Alors, [mcname], voulez-vous vous lancer tout de suite, ou êtes-vous du genre à bavarder un peu avant ?"
+    sb "Bien. Alors, [mcname], tu veux t'y mettre tout de suite, ou t'es plus du genre à bavarder un peu avant ?"
 
 # game/code/d09/d09s02.rpy:78
 translate french d09s02_b3ae8984:
@@ -154,13 +154,13 @@ translate french d09s02_11004ae4:
 translate french d09s02_fun_0d28210b:
 
     # mc "I think I'd like to get to it right away if you don't mind."
-    mc "Je pense que j'aimerais y venir tout de suite si cela ne vous dérange pas."
+    mc "Je pense que j'aimerais attaquer tout de suite si ça te va."
 
 # game/code/d09/d09s02.rpy:99
 translate french d09s02_fun_1cf54578:
 
     # sb "No nonsense; I like that in a man."
-    sb "Droit au but ; J'aime cela chez un homme."
+    sb "Droit au but ; J'aime ça chez un homme."
 
 # game/code/d09/d09s02.rpy:101
 translate french d09s02_fun_024eec4f:
@@ -184,19 +184,19 @@ translate french d09s02_fun_59c09040:
 translate french d09s02_fun_2b91cb9f:
 
     # sb "Foreplay? Oh, no, I think you're mistaken. This is what you paid for."
-    sb "Les préliminaires ? Oh non, je pense que tu te trompes. C'est pour cela que vous avez payé."
+    sb "Les préliminaires ? Oh non, je pense que tu te trompes. C'est pour ça que tu as payé."
 
 # game/code/d09/d09s02.rpy:111
 translate french d09s02_fun_8a340642:
 
     # mc "What does that mean?"
-    mc "Qu'est-ce que cela veut dire?"
+    mc "Qu'est-ce que ça veut dire?"
 
 # game/code/d09/d09s02.rpy:112
 translate french d09s02_fun_6967c620:
 
     # sb "Didn't you notice? The package you bought. It was toy play, just toy play."
-    sb "Tu n'as pas remarqué ? Le forfait que vous avez acheté. C’était un jeu de jouets, simplement ça."
+    sb "Tu n'as pas remarqué ? Le forfait que tu as pris. C’était s'amuser avec des jouets, simplement ça."
 
 # game/code/d09/d09s02.rpy:113
 translate french d09s02_fun_fcf8ae74:
@@ -208,31 +208,31 @@ translate french d09s02_fun_fcf8ae74:
 translate french d09s02_fun_282a9582:
 
     # sb "Yep. If you were hoping for something...{i}more{/i}, I'm sorry to say it's also gonna cost you more."
-    sb "c'est ça. Si vous espériez quelque chose...{i}plus{/i}, je suis désolé de vous dire que cela va également vous coûter plus cher."
+    sb "c'est ça. Si tu voulais quelque chose de...{i}plus{/i}, je suis désolée de te dire que ça va te coûter plus cher."
 
 # game/code/d09/d09s02.rpy:119
 translate french d09s02_fun_54a263bf:
 
     # mct "Damn. Her usual clients must be wealthy as fuck!"
-    mct "Mince. Ses clients habituels doivent être riches comme de la merde !"
+    mct "Mince. Ses clients habituels doivent être riches de fou !"
 
 # game/code/d09/d09s02.rpy:121
 translate french d09s02_fun_33463185:
 
     # sb "So what do you say?"
-    sb "Alors, que dis-tu?"
+    sb "Alors, verdict ?"
 
 # game/code/d09/d09s02.rpy:122
 translate french d09s02_fun_1eb7e556:
 
     # mct "You know, it's my fault. I should've known. Might as well get {i}something{/i} out of this then."
-    mct "Tu sais, c'est ma faute. J'aurais dû le savoir. Autant en tirer {i}quelque chose{/i} alors."
+    mct "C'est ma faute. J'aurais dû le savoir. Autant en tirer {i}quelque chose{/i} alors."
 
 # game/code/d09/d09s02.rpy:124
 translate french d09s02_fun_a645e116:
 
     # mc "Sure, sure. Lets do this."
-    mc "Bien sûr, bien sûr. Faisons le."
+    mc "Bien sûr, bien sûr. Faisons ça."
 
 # game/code/d09/d09s02.rpy:130
 translate french d09s02_fun_db0f895e:
@@ -286,25 +286,25 @@ translate french d09s02_fun_1a628644:
 translate french d09s02_fun_1e979772:
 
     # mc "... with a big black monster of a dildo."
-    mc "... avec un gros gode monstre noir."
+    mc "... avec un gros gode monstrueux noir."
 
 # game/code/d09/d09s02.rpy:151
 translate french d09s02_fun_928167b3:
 
     # sb "Oh! It's a vibrator, of a sort. Twist the bottom to turn it on."
-    sb "Oh! C'est en quelque sorte un vibrateur. Tournez le bas pour l'allumer."
+    sb "Oh! C'est en quelque sorte un vibro. Tourne le bas pour l'allumer."
 
 # game/code/d09/d09s02.rpy:153
 translate french d09s02_fun_66db3942:
 
     # mc "I'm afraid to try."
-    mc "j'ai peur d'essayer."
+    mc "J'ai peur d'essayer."
 
 # game/code/d09/d09s02.rpy:155
 translate french d09s02_fun_972c344d:
 
     # sb "Wait until it is fully inside me before you do. It will flail around otherwise."
-    sb "Attendez qu'il soit complètement en moi avant de le faire. Sinon, il s'agitera."
+    sb "Attends qu'il soit complètement en moi avant de le faire. Sinon, il s'agitera."
 
 # game/code/d09/d09s02.rpy:156
 translate french d09s02_fun_099b73ae:
@@ -316,7 +316,7 @@ translate french d09s02_fun_099b73ae:
 translate french d09s02_fun_1620e829:
 
     # sb "Just remember - I can touch you, but you can't touch me."
-    sb "N'oubliez pas : je peux vous toucher, mais vous ne pouvez pas me toucher."
+    sb "N'oublie pas : je peux te toucher, mais toi, tu ne peux pas me toucher."
 
 # game/code/d09/d09s02.rpy:160
 translate french d09s02_fun_86a29086:
@@ -328,7 +328,7 @@ translate french d09s02_fun_86a29086:
 translate french d09s02_fun_ab1ec6e4:
 
     # sb "Yes, my toy can touch me."
-    sb "oui, mon jouet peut me toucher"
+    sb "Oui, mon jouet peut me toucher"
 
 # game/code/d09/d09s02.rpy:165
 translate french d09s02_fun_5fc5b38d:
@@ -346,19 +346,19 @@ translate french d09s02_fun_0e36cf7a:
 translate french d09s02_fun_ad6f2c12:
 
     # mc "What is your opinion on getting sodomized by this massive marital aid?"
-    mc "Quelle est votre opinion sur le fait de se faire sodomiser par cette aide conjugale massive ?"
+    mc "Quel est ton point de vue sur le fait de se faire prendre le cul par cet énorme truc ?"
 
 # game/code/d09/d09s02.rpy:172
 translate french d09s02_fun_7e966eaa:
 
     # sb "Never on the first date."
-    sb "Jamais lors du premier rendez-vous."
+    sb "Jamais la première fois."
 
 # game/code/d09/d09s02.rpy:174
 translate french d09s02_fun_96bbaad7:
 
     # mc "I guess we have something to look forward to, then."
-    mc "Je suppose que nous avons alors quelque chose à espérer."
+    mc "Je suppose que nous savons ce qu'il me reste à faire alors."
 
 # game/code/d09/d09s02.rpy:200
 translate french d09s02_fun_53d0f828:
@@ -394,7 +394,7 @@ translate french d09s02_fun_06339fce:
 translate french d09s02_fun_f95d62fd:
 
     # mc "Anytime"
-    mc "Quand tu veux"
+    mc "Avec plaisir"
 
 # game/code/d09/d09s02.rpy:243
 translate french d09s02_fun_26e82b6b:
@@ -436,7 +436,7 @@ translate french d09s02_luggage_97832c10:
 translate french d09s02_luggage_701eccf2:
 
     # sb "I'm sorry but I told you, you get what you paid for."
-    sb "Je suis désolé mais je te l'ai dit, tu en a eu pour votre argent."
+    sb "Je suis désolée mais je te l'ai dit, tu en as eu pour ton argent."
 
 # game/code/d09/d09s02.rpy:274
 translate french d09s02_luggage_6d11c6cf:
@@ -448,31 +448,31 @@ translate french d09s02_luggage_6d11c6cf:
 translate french d09s02_luggage_5b4d9b41:
 
     # mc "Would you mind sitting down?"
-    mc "Cela te dérangerait-il de t'asseoir ?"
+    mc "Ça te dérangerait de t'asseoir ?"
 
 # game/code/d09/d09s02.rpy:277
 translate french d09s02_luggage_958fd9b6:
 
     # sb "Uh, sure."
-    sb "Uh, sur."
+    sb "Uh, ok."
 
 # game/code/d09/d09s02.rpy:280
 translate french d09s02_luggage_99046ced:
 
     # sb "You aren't a cop or something, are you?"
-    sb "Vous n'êtes pas flic ou quoi, n'est-ce pas ?"
+    sb "T'es pas flic j'espère ?"
 
 # game/code/d09/d09s02.rpy:282
 translate french d09s02_luggage_f0c9b00c:
 
     # mc "Heh, no. I don't think I could've done what I previously did if I was."
-    mc "Hé, non. Je ne pense pas que j'aurais pu faire ce que j'ai fait auparavant si je l'avais fait."
+    mc "Hé, non. Je ne pense pas que j'aurais pu faire ce que j'ai fait auparavant si je l'avais été."
 
 # game/code/d09/d09s02.rpy:284
 translate french d09s02_luggage_a4e232a1:
 
     # sb "Alright then. This is a little unusual. Men prefer to talk before or not at all. You're the first that's ever wanted to talk {i}after{/i} everything."
-    sb "Très bien alors. C'est un peu inhabituel. Les hommes préfèrent parler avant ou pas du tout. Vous êtes le premier à vouloir parler {i}après{/i}."
+    sb "Très bien alors. C'est un peu inhabituel. Les hommes préfèrent parler avant ou pas du tout. Tu es le premier à vouloir parler {i}après{/i}."
 
 # game/code/d09/d09s02.rpy:285
 translate french d09s02_luggage_1dd6e6f5:
@@ -502,13 +502,13 @@ translate french d09s02_luggage_c14c584c:
 translate french d09s02_luggage_05a98f20:
 
     # mct "Alright, [mcname]. This is it. She doesn't seem as crazy as Dahlia made her out to be, but still, don't get shanked."
-    mct "Très bien, [mcname]. Ça y est. Elle ne semble pas aussi folle que Dahlia le prétendait, mais ne vous laissez pas quand même piquer."
+    mct "Très bien, [mcname]. Ça y est. Elle ne semble pas aussi folle que Dahlia le prétendait, mais ne baisse pas ta garde tout de même."
 
 # game/code/d09/d09s02.rpy:297
 translate french d09s02_luggage_ed4c8ef8:
 
     # mc "You don't happen to remember a guy named Pete, do you?"
-    mc "Vous ne vous souvenez pas d'un type nommé Pete, n'est-ce pas ?"
+    mc "Tu te souviens d'un type, Pete ?"
 
 # game/code/d09/d09s02.rpy:300
 translate french d09s02_luggage_dfabb93b:
@@ -574,13 +574,13 @@ translate french d09s02_luggage_49233834:
 translate french d09s02_luggage_5aaf03dc:
 
     # sb "Anyway. What's it to you, huh?"
-    sb "De toute façon. le rapport avec toi, hein ?"
+    sb "Peux importe. Où est ce que tu veux en venir ?"
 
 # game/code/d09/d09s02.rpy:321
 translate french d09s02_luggage_0788f38c:
 
     # sb "Wait just a second."
-    sb "Attends juste une seconde."
+    sb "Une petite seconde !"
 
 # game/code/d09/d09s02.rpy:323
 translate french d09s02_luggage_15164332:
@@ -598,13 +598,13 @@ translate french d09s02_luggage_e52d2726:
 translate french d09s02_luggage_25ac08a9:
 
     # sb "You're his roommate, aren't you? You were sleeping with some chick if I remember correctly."
-    sb "Tu es son colocataire, n'est-ce pas ? Tu couchais avec une fille si je me souviens bien."
+    sb "Tu es son colocataire, c'est ça ? Tu dormais avec une fille si je me souviens bien."
 
 # game/code/d09/d09s02.rpy:329
 translate french d09s02_luggage_21d7ffc3:
 
     # mc "You caught me."
-    mc "Tu m'as attrapé."
+    mc "Démasqué."
 
 # game/code/d09/d09s02.rpy:332
 translate french d09s02_luggage_55fce4c2:
@@ -622,7 +622,7 @@ translate french d09s02_luggage_ac8e2ade:
 translate french d09s02_luggage_f761dab8:
 
     # mc "No! Nothing like that."
-    mc "Non! Rien de tout cela."
+    mc "Non! Rien de tout ça."
 
 # game/code/d09/d09s02.rpy:337
 translate french d09s02_luggage_530c3004:
@@ -646,7 +646,7 @@ translate french d09s02_luggage_50f4004d:
 translate french d09s02_luggage_5e739a28:
 
     # sb "Figured. Unless he's into crossdressing, I'm guessing the bag belonged to the chick you were sleeping with?"
-    sb "j'avais remarqué. À moins qu'il aime se travestir, je suppose que le sac appartenait à la nana avec qui tu couchais ?"
+    sb "j'avais remarqué. À moins qu'il aime se travestir, je suppose que le sac appartenait à la nana avec qui tu dormais ?"
 
 # game/code/d09/d09s02.rpy:346
 translate french d09s02_luggage_61ff3001:
@@ -676,7 +676,7 @@ translate french d09s02_luggage_1a3ce239:
 translate french d09s02_luggage_23de970e:
 
     # sb "And then you came here and was like, \"Welp, might as well get my money's worth\"?"
-    sb "Et puis vous êtes venu ici et vous avez dit : \"Bien, autant en avoir pour mon argent\"?"
+    sb "Et puis tu es venu ici et tu t'es dit : \"Bien, autant en avoir pour mon argent\"?"
 
 # game/code/d09/d09s02.rpy:357
 translate french d09s02_luggage_a87a337b:
@@ -706,13 +706,13 @@ translate french d09s02_luggage_8114a09f:
 translate french d09s02_luggage_8125bad8:
 
     # sb "Sorry—"
-    sb "Désolé—"
+    sb "Désolée—"
 
 # game/code/d09/d09s02.rpy:365
 translate french d09s02_luggage_a20c8060:
 
     # sb "I'm sorry. It's just I find this really funny for some reason."
-    sb "Je suis désolé. C'est juste que je trouve ça vraiment drôle pour une raison quelconque."
+    sb "Je suis désolée. C'est juste que je trouve ça vraiment drôle, je ne sais pas pourquoi."
 
 # game/code/d09/d09s02.rpy:366
 translate french d09s02_luggage_4973c1fc:
@@ -724,13 +724,13 @@ translate french d09s02_luggage_4973c1fc:
 translate french d09s02_luggage_635d056e:
 
     # sb "Oh come on. Don't you think it's just a {i}little{/i} funny?"
-    sb "Oh allez. Ne trouvez-vous pas que c'est juste un {i}un peu{/i} drôle ?"
+    sb "Oh allez. Ne trouves-tu pas que c'est juste {i}un peu{/i} drôle ?"
 
 # game/code/d09/d09s02.rpy:371
 translate french d09s02_luggage_83010160:
 
     # mc "Well, maybe a {i}little{/i}."
-    mc "Eh bien, peut-être un {i}un peu{/i}."
+    mc "Eh bien, peut-être {i}un peu{/i}."
 
 # game/code/d09/d09s02.rpy:372
 translate french d09s02_luggage_5f847c3a:
@@ -742,7 +742,7 @@ translate french d09s02_luggage_5f847c3a:
 translate french d09s02_luggage_dfe65b50:
 
     # sb "Sorry. Anyway, you want the luggage, do you?"
-    sb "Désolé. Quoi qu'il en soit, tu veux les bagages, n'est-ce pas ?"
+    sb "Désolée. Quoi qu'il en soit, tu veux les bagages, n'est-ce pas ?"
 
 # game/code/d09/d09s02.rpy:377
 translate french d09s02_luggage_70c56421:
@@ -754,13 +754,13 @@ translate french d09s02_luggage_70c56421:
 translate french d09s02_luggage_735d1be1:
 
     # sb "Well, I'm sorry, but I can't give it to you."
-    sb "Eh bien, je suis désolé, mais je ne peux pas vous le donner."
+    sb "Eh bien, je suis désolée, mais je ne peux pas te les donner."
 
 # game/code/d09/d09s02.rpy:383
 translate french d09s02_luggage_8611f061:
 
     # sb "Well, I can't give it to you."
-    sb "Eh bien, je ne peux pas te le donner."
+    sb "Eh bien, je ne peux pas te les donner."
 
 # game/code/d09/d09s02.rpy:385
 translate french d09s02_luggage_a3b3c69e:
@@ -772,25 +772,25 @@ translate french d09s02_luggage_a3b3c69e:
 translate french d09s02_luggage_fd38ec25:
 
     # sb "I don't have it."
-    sb "Je l'ai pas."
+    sb "Je ne les ai pas."
 
 # game/code/d09/d09s02.rpy:389
 translate french d09s02_luggage_8751a80e:
 
     # mc "...Okay,{w} then where is it?"
-    mc "...D'accord,{w} alors où est-il ?"
+    mc "...D'accord,{w} alors où sont-ils ?"
 
 # game/code/d09/d09s02.rpy:390
 translate french d09s02_luggage_8d9dc6e5:
 
     # sb "I can't tell you that."
-    sb "Je ne peux pas vous le dire."
+    sb "Je ne peux pas te le dire."
 
 # game/code/d09/d09s02.rpy:393
 translate french d09s02_luggage_27f8fb99:
 
     # mc "Well, why can't you!?"
-    mc "Eh bien, pourquoi ne le pouvez-vous pas !?"
+    mc "Eh bien, pourquoi pas !?"
 
 # game/code/d09/d09s02.rpy:396
 translate french d09s02_luggage_178aa339:
@@ -808,19 +808,19 @@ translate french d09s02_luggage_6f16dc49:
 translate french d09s02_luggage_78f4dc21:
 
     # sb "Alright, good. Then this is how it's gonna work."
-    sb "Très bien, bien. Alors voilà comment ça va fonctionner."
+    sb "Très bien. Alors voilà comment ça va fonctionner."
 
 # game/code/d09/d09s02.rpy:401
 translate french d09s02_luggage_95463ff6:
 
     # sb "You have to do some...tasks for me. And then you get your precious luggage back."
-    sb "Vous devez faire certaines... tâches pour moi. Et vous récupérez ensuite vos précieux bagages."
+    sb "Tu dois d'abord faire quelques...tâches pour moi. Et ensuite tu pourras récupérer tes précieuse affaires."
 
 # game/code/d09/d09s02.rpy:405
 translate french d09s02_luggage_337a4903:
 
     # sb "What do you say?"
-    sb "Quand dis-tu?"
+    sb "Qu'en dis-tu?"
 
 # game/code/d09/d09s02.rpy:406
 translate french d09s02_luggage_2b35b6fe:
@@ -838,25 +838,25 @@ translate french d09s02_luggage_533ba221:
 translate french d09s02_luggage_a5f364c6:
 
     # sb "Jeez, alright, fine. Since you've been such a {i}nice{/i} boy, I'll make it so that it's just one task, and you can pick which one even. What do you say?"
-    sb "Bon sang, d'accord, très bien. Puisque tu es un si {i}gentil{/i} garçon, je vais faire en sorte que ce ne soit qu'une seule tâche, et que tu puisses même choisir laquelle. Que dites-vous?"
+    sb "Bon sang, d'accord, très bien. Puisque tu es un si {i}gentil{/i} garçon, je vais faire en sorte que ce ne soit qu'une seule tâche, et que tu puisses même choisir laquelle. Qu'en dis-tu?"
 
 # game/code/d09/d09s02.rpy:418
 translate french d09s02_luggage_5e05037f:
 
     # sb "Jesus, fine, ya' big baby. I'll make it so that it's just one task, and you can pick which one even. What do you say?"
-    sb "Bon Dieu, très bien, tu es un grand bébé. Je vais faire en sorte que ce ne soit qu'une seule tâche, et vous pourrez même choisir laquelle. Que dis-tu ?"
+    sb "Bon Dieu, très bien, gros bébé. Je vais faire en sorte que ce ne soit qu'une seule tâche, et tu pourras même choisir laquelle. Qu'en dis-tu ?"
 
 # game/code/d09/d09s02.rpy:423
 translate french d09s02_luggage_c56e139a:
 
     # sb "Jeez, alright, fine. Since you've been such a {i}nice{/i} boy, I'll make it so that it's just one task. What do you say?"
-    sb "Bon sang, d'accord, très bien. Puisque tu es un garçon si {i}gentil{/i}, je vais faire en sorte que ce ne soit qu'une seule tâche. Que dites-vous?"
+    sb "Bon sang, d'accord, très bien. Puisque tu es un garçon si {i}gentil{/i}, je vais faire en sorte que ce ne soit qu'une seule tâche. Qu'en dis-tu?"
 
 # game/code/d09/d09s02.rpy:426
 translate french d09s02_luggage_240875bd:
 
     # sb "Jesus, fine, ya' big baby. I'll make it so that it's just one task. What do you say?"
-    sb "Bon Dieu, très bien, tu es un grand bébé. Je vais faire en sorte que ce ne soit qu'une seule tâche. Que dites-vous?"
+    sb "Bon Dieu, très bien, gros bébé. Je vais faire en sorte que ce ne soit qu'une seule tâche. Qu'en dis-tu?"
 
 # game/code/d09/d09s02.rpy:429
 translate french d09s02_luggage_d4ea2584:
@@ -874,13 +874,13 @@ translate french d09s02_luggage_0c64a4d0:
 translate french d09s02_luggage_76312e6c:
 
     # sb "Lemme just get my phone real quick."
-    sb "Laisse-moi récupérer mon téléphone très vite."
+    sb "Laisse-moi prendre mon téléphone."
 
 # game/code/d09/d09s02.rpy:441
 translate french d09s02_luggage_dc175690:
 
     # sb "Alright, task numero uno."
-    sb "Très bien, tâche numéro un."
+    sb "Très bien, tâche numéro une."
 
 # game/code/d09/d09s02.rpy:444
 translate french d09s02_luggage_234b953a:
@@ -928,7 +928,7 @@ translate french d09s02_luggage_ce6d1a29:
 translate french d09s02_luggage_51f5e881:
 
     # sb "On to the next one."
-    sb "Passons au suivant."
+    sb "Passons à la suivante."
 
 # game/code/d09/d09s02.rpy:467
 translate french d09s02_luggage_ebf96e02:
@@ -940,19 +940,19 @@ translate french d09s02_luggage_ebf96e02:
 translate french d09s02_luggage_c27264d5:
 
     # sb "And considering what you've shown me today, I thought you'd be the perfect fit. I'm sure you'd enjoy some more...mature action as well, right?"
-    sb "Et compte tenu de ce que tu m'as montré aujourd'hui, j'ai pensé que tu serais la personne idéale. Je suis sûr que vous apprécierez également une action plus... mature, n'est-ce pas ?"
+    sb "Et compte tenu de ce que tu m'as montré aujourd'hui, j'ai pensé que tu serais la personne idéale. Je suis sûre que tu aprécira un moment plus... mature, n'est-ce pas ?"
 
 # game/code/d09/d09s02.rpy:474
 translate french d09s02_luggage_bb59a71a:
 
     # sb "So, I thought you could be it. You don't look too bad, I'd say pretty handsome even, and I'm sure you'd enjoy some more...mature action, right?"
-    sb "Donc, j'ai pensé que tu pourrais l'être. Tu n'as pas l'air trop mal, je dirais même plutôt beau, et je suis sûr que tu apprécierais une action plus... mature, n'est-ce pas ?"
+    sb "Donc, j'ai pensé que tu pourrais le faire. Tu n'as pas l'air trop mal, je dirais même plutôt beau, et je suis sûre que tu apprécierais une action plus... mature, n'est-ce pas ?"
 
 # game/code/d09/d09s02.rpy:477
 translate french d09s02_luggage_1085199c:
 
     # mc "Lemme get this straight. You want me to be a male escort?"
-    mc "Laissez-moi mettre les choses au clair. Tu veux que je sois un escort masculin ?"
+    mc "Laissez-moi mettre les choses au clair. Tu veux que je sois un escort  ?"
 
 # game/code/d09/d09s02.rpy:480
 translate french d09s02_luggage_4dfada53:
@@ -964,7 +964,7 @@ translate french d09s02_luggage_4dfada53:
 translate french d09s02_luggage_73a9d35a:
 
     # sb "Any problems?"
-    sb "Des problèmes ?"
+    sb "Un problème ?"
 
 # game/code/d09/d09s02.rpy:483
 translate french d09s02_luggage_a55c9a49:
@@ -982,7 +982,7 @@ translate french d09s02_luggage_87a71109:
 translate french d09s02_luggage_e849ff8d:
 
     # sb "It's {i}so{/i} hard doing these things with just little ol' me you know."
-    sb "C'est {i}tellement{/i} difficile de faire ces choses avec juste mon petit vieux moi, tu sais."
+    sb "C'est {i}tellement{/i} difficile de faire ces choses toute seule, tu sais."
 
 # game/code/d09/d09s02.rpy:491
 translate french d09s02_luggage_fdf105da:
@@ -1000,7 +1000,7 @@ translate french d09s02_luggage_d282cb20:
 translate french d09s02_luggage_0bc9c5fb:
 
     # sb "Well... Assistant, boy-toy, bitch-boy, you know the deal. Finer details will come later."
-    sb "Eh bien... Assistant, garçon-jouet, garce-garçon, vous connaissez le problème. Les détails viendront plus tard."
+    sb "Eh bien... Assistant, boy-toy, tu vois le truc. Les détails viendront plus tard."
 
 # game/code/d09/d09s02.rpy:499
 translate french d09s02_luggage_68632e9a:
@@ -1030,19 +1030,19 @@ translate french d09s02_choice_19e09761:
 translate french d09s02_choice_5b7d345d:
 
     # mct "Oh boy, it better be fun. It's like I'm hunting for a long lost artifact or something here. Maybe I should buy a fedora and a whip?"
-    mct "Oh mon Dieu, ça ferait mieux d'être amusant. C'est comme si je cherchais un artefact perdu depuis longtemps ou quelque chose comme ça ici. Peut-être que je devrais acheter un fedora et un fouet ?"
+    mct "Oh mon Dieu, ça ferait mieux d'être amusant. C'est comme si je cherchais un artefact perdu depuis longtemps ou quelque chose comme ça. Peut-être que je devrais acheter un masque et un fouet ?"
 
 # game/code/d09/d09s02.rpy:520
 translate french d09s02_choice_267e17d1:
 
     # mc "I wouldn't mind pranking the, uh...\"M.I.L.F\"."
-    mc "Cela ne me dérangerait pas de faire une blague à la, euh...\"M.I.L.F\"."
+    mc "Ça ne me dérangerait pas de faire une blague à la, euh...\"M.I.L.F\"."
 
 # game/code/d09/d09s02.rpy:523
 translate french d09s02_choice_534a94e6:
 
     # sb "She's got a great set doesn't she?"
-    sb "Elle a un superbe ensemble, n'est-ce pas ?"
+    sb "Elle est bien conservée, hein ?"
 
 # game/code/d09/d09s02.rpy:524
 translate french d09s02_choice_05a42dc8:
@@ -1060,7 +1060,7 @@ translate french d09s02_choice_29637e1a:
 translate french d09s02_choice_548aaf0d:
 
     # sb "They're all escort missions. I'm an escort. I'm assigning you a mission."
-    sb "Ce sont toutes des missions d'escorte. je suis une escorte Je vous confie une mission."
+    sb "Ce sont toutes des missions d'escorte. Je suis une escorte je te confie une mission."
 
 # game/code/d09/d09s02.rpy:533
 translate french d09s02_choice_ae45ad01:
@@ -1072,13 +1072,13 @@ translate french d09s02_choice_ae45ad01:
 translate french d09s02_choice_94bb6f3b:
 
     # sb "That's a weird condition, but alright. I thought you were gonna say no sounding or something, but you do you I suppose."
-    sb "C'est une condition étrange, mais bon. Je pensais que tu allais dire \"pas de sonde\" ou un truc du genre, mais c'est le cas, je suppose."
+    sb "C'est une condition étrange, mais bon. Je pensais que tu allais dire \"pas de sonde\" ou un truc du genre, mais ok."
 
 # game/code/d09/d09s02.rpy:538
 translate french d09s02_choice_075d2b64:
 
     # mc "Sounding?"
-    mc "pas de sonde?"
+    mc "Une sonde?"
 
 # game/code/d09/d09s02.rpy:539
 translate french d09s02_choice_042be473:
@@ -1114,13 +1114,13 @@ translate french d09s02_choice_19e09761_1:
 translate french d09s02_choice_5b7d345d_1:
 
     # mct "Oh boy, it better be fun. It's like I'm hunting for a long lost artifact or something here. Maybe I should buy a fedora and a whip?"
-    mct "Oh mon Dieu, il vaut mieux que ce soit amusant. C'est comme si je cherchais un artefact perdu depuis longtemps ou quelque chose comme ça ici. Peut-être que je devrais acheter un fedora et un fouet ?"
+    mct "Oh mon Dieu, il vaut mieux que ce soit amusant. C'est comme si je cherchais un artefact perdu depuis longtemps ou quelque chose comme ça ici. Peut-être que je devrais acheter un masque et un fouet ?"
 
 translate french strings:
 
     # game/code/d09/d09s02.rpy:80
     old "Mention the luggage first"
-    new "Mentionnez les bagages en premier"
+    new "Les bagages d'abord"
 
     # game/code/d09/d09s02.rpy:80
     old "Let's have some fun first"
