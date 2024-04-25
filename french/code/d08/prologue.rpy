@@ -22,13 +22,13 @@ translate french prologue_fresh_start_ab0acec6:
 translate french prologue_fresh_start_d7ab3300:
 
     # "We see that you have already completed the first chapter. If you want to keep playing with all your game progress intact, open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} or on {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
-    "Nous voyons que vous avez déjà terminé le premier chapitre. Si vous souhaitez continuer à jouer avec toute votre progression de jeu intacte, ouvrez le menu, cliquez sur \"Continuer à partir de la semaine [FLSS.week.prev]\" and load a save.\net charger une sauvegarde.\nSi vous rencontrez un problème, veuillez nous contacter sur {a=https://discord.gg/efmQRNtFks}Discord{/a} ou sur {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
+    "Nous voyons que vous avez déjà terminé le premier chapitre. Si vous souhaitez continuer à jouer avec toute votre progression de jeu intacte, ouvrez le menu, cliquez sur \"Continuer à partir de la semaine [FLSS.week.prev]\" et charger une sauvegarde.\nSi vous rencontrez un problème, veuillez nous contacter sur {a=https://discord.gg/efmQRNtFks}Discord{/a} ou sur {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
 
 # game/code/d08/prologue.rpy:70
 translate french prologue_fresh_start_56a763ee:
 
     # "Now the game will ask you some questions and it will configure your profile.\nFor a better experience, we invite you to play the first chapter of Fetish Locator."
-    "Maintenant, le jeu vous posera quelques questions et configurera votre profil.\nPour une meilleure expérience, nous vous invitons à jouer au premier chapitre de Fetish Locator."
+    "Maintenant, le jeu va vous quelques questions et configurera votre profil.\nPour une meilleure expérience, nous vous invitons à jouer au premier chapitre de Fetish Locator."
 
 # game/code/d08/prologue.rpy:84
 translate french prologue_fresh_start_b5c6b797:
@@ -82,7 +82,7 @@ translate french prologue_girls_set_2_done_61fc0900:
 translate french prologue_girls_set_3_746b6a7f:
 
     # "Last pair: do you prefer a top or a bottom? (Or neither, if they aren't your cup of tea)\nSelect up to one girl and press \"Done\"."
-    "Dernière paire : préférez-vous un haut ou un bas ? (Ou ni l'un ni l'autre, si ce n'est pas votre tasse de thé)\nSélectionnez jusqu'à une fille et appuyez sur \"Terminé\"."
+    "Dernier duo : préférez-vous une soumise ou une dominante ? (Ou ni l'une ni l'autre, si ce n'est pas votre tasse de thé)\nSélectionnez une seule fille et appuyez sur \"Terminé\"."
 
 # game/code/d08/prologue.rpy:180
 translate french prologue_girls_set_3_done_7582b991:
@@ -118,7 +118,7 @@ translate french strings:
 
     # game/code/d08/prologue.rpy:75
     old "What is your nickname in Fetish Locator app?\nIf empty, the game will prepend \"Not_\" to your name: e.g. Not_Mike"
-    new "Quel est votre surnom dans l'application Fetish Locator ?\nS'il vide, le jeu ajoutera \"Pas_\" à votre nom : par ex. Pas_Mike"
+    new "Quel est votre surnom dans l'application Fetish Locator ?\nSi vide, le jeu ajoutera \"Pas_\" à votre nom : par ex. Pas_Mike"
 
     # game/code/d08/prologue.rpy:87
     old "Her face"
@@ -138,7 +138,7 @@ translate french strings:
 
     # game/code/d08/prologue.rpy:98
     old "Classical arias"
-    new "Airs classiques"
+    new "Classique"
 
     # game/code/d08/prologue.rpy:98
     old "Modern Pop/Rock"
@@ -158,7 +158,7 @@ translate french strings:
 
     # game/code/d08/prologue.rpy:160
     old "I am a gentleman (tips fedora)"
-    new "Je suis un gentleman (astuces Fedora)"
+    new "Je suis un gentleman (tips fedora)"
 
     # game/code/d08/prologue.rpy:160
     old "I want to dominate her"
@@ -166,7 +166,7 @@ translate french strings:
 
     # game/code/d08/prologue.rpy:181
     old "Her lovely tits"
-    new "ses beaux seins"
+    new "Ses beaux seins"
 
     # game/code/d08/prologue.rpy:181
     old "Her delicate pussy"
@@ -178,7 +178,7 @@ translate french strings:
 
     # game/code/d08/prologue.rpy:196
     old "Yes, I came in her and got thrown out"
-    new "Oui, j'ai joui en elle et j'ai été expulsé"
+    new "Oui, j'ai joui en elle et elle m'a foutu dehors"
 
     # game/code/d08/prologue.rpy:196
     old "No, I didn't"
