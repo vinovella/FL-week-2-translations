@@ -10,7 +10,7 @@ translate french d08s14_2bbdcd9b:
 translate french d08s14_6d508ba5:
 
     # mct "I swear, this has been the longest day ever."
-    mct "Je le jure, cela a été la journée la plus longue de tous les temps."
+    mct "Je jure, ça a été la journée la plus longue de tous les temps."
 
 # game/code/d08/d08s14.rpy:10
 translate french d08s14_483455c9:
@@ -58,37 +58,37 @@ translate french d08s14_611dd150:
 translate french d08s14_931e2318:
 
     # mct "Huh? Oh, what the fuck is it now?"
-    mct "Hein? Oh, qu'est-ce qu'il y a maintenant ?"
+    mct "Hein? Oh, qu'est-ce que c'est encore ?"
 
 # game/code/d08/d08s14.rpy:27
 translate french d08s14_314814d8:
 
     # mct "Huh. My phone is ringing..."
-    mct "Hein. Mon portable sonne..."
+    mct "Oof. Mon portable sonne..."
 
 # game/code/d08/d08s14.rpy:29
 translate french d08s14_c97c7083:
 
     # mct "Oh! It's Lydia!"
-    mct "Oh! c'est Lydia!"
+    mct "Oh! C'est Lydia !"
 
 # game/code/d08/d08s14.rpy:31
 translate french d08s14_4e85cb4d:
 
     # mc "Hello?"
-    mc "Allo?"
+    mc "Allo ?"
 
 # game/code/d08/d08s14.rpy:36
 translate french d08s14_fbd83197:
 
     # lc "Hey [mcname]... I'm sorry, were you sleeping?"
-    lc "Hey [mcname]... Je suis désolé, tu dormais ?"
+    lc "Coucou [mcname]... Je suis désolée, tu dormais ?"
 
 # game/code/d08/d08s14.rpy:39
 translate french d08s14_0184386f:
 
     # mc "Nah, no. I was just thinking about calling you, but worried it would be too late."
-    mc "Nan non. Je pensais justement t'appeler, mais j'avais peur qu'il soit trop tard."
+    mc "Non non. Je pensais justement t'appeler, mais j'avais peur qu'il soit trop tard."
 
 # game/code/d08/d08s14.rpy:42
 translate french d08s14_af9d0b26:
@@ -106,7 +106,7 @@ translate french d08s14_ffe7c7f6:
 translate french d08s14_061d70f1:
 
     # lc "Is this a good time? I mean, if you're getting ready to sleep I can just wish you a good night..."
-    lc "C'est le bon moment ? Je veux dire, si tu te prépares à dormir, je peux juste te souhaiter une bonne nuit..."
+    lc "C'est un bon moment ? Je veux dire, si tu te prépares à dormir, je peux juste te souhaiter une bonne nuit..."
 
 # game/code/d08/d08s14.rpy:46
 translate french d08s14_e23cc2c8:
@@ -118,7 +118,7 @@ translate french d08s14_e23cc2c8:
 translate french d08s14_1bb2926b:
 
     # lc "Cool. It can get so boring at night when there's no one to talk to."
-    lc "Cool. Cela peut devenir très ennuyeux la nuit quand il n’y a personne à qui parler."
+    lc "Cool. La nuit est vite ennuyeuse quand il n’y a personne à qui parler."
 
 # game/code/d08/d08s14.rpy:48
 translate french d08s14_9296a42a:
@@ -190,13 +190,13 @@ translate french d08s14_f49fff8f:
 translate french d08s14_7b443095:
 
     # lc "Sorry... this is a little hard to say."
-    lc "Désolé... c'est un peu dur à dire."
+    lc "Désolée... c'est un peu dur à dire."
 
 # game/code/d08/d08s14.rpy:72
 translate french d08s14_81030e57:
 
     # mct "Oh fuck... is she breaking up with me already!?!"
-    mct "Oh chiottes... est-ce qu'elle veux déjà rompre avec moi !?!"
+    mct "Oh chiottes... est-ce qu'elle veut déjà rompre avec moi !?!"
 
 # game/code/d08/d08s14.rpy:74
 translate french d08s14_dc9dd842:
@@ -220,13 +220,13 @@ translate french d08s14_05500ff6:
 translate french d08s14_a5bb9100:
 
     # lc "Honesty is important, ya'know? Especially if two people are kinda sorta in a..."
-    lc "L’honnêteté est importante, tu sais? Surtout si deux personnes sont en quelque sorte dans une..."
+    lc "L’honnêteté est importante, tu sais ? Surtout si deux personnes sont en quelque sorte dans une..."
 
 # game/code/d08/d08s14.rpy:79
 translate french d08s14_6f04813f:
 
     # mc "... a relationship?"
-    mc "... une relation?"
+    mc "... Une relation?"
 
 # game/code/d08/d08s14.rpy:80
 translate french d08s14_c7da9593:
@@ -238,7 +238,7 @@ translate french d08s14_c7da9593:
 translate french d08s14_3cdcae77:
 
     # mc "Yeah. True. Honesty, communication, and all that is part of being together."
-    mc "Ouais. C'est vrai. L'honnêteté, la communication et tout le reste fait partie du fait d'être ensemble."
+    mc "Ouais. C'est vrai. L'honnêteté, la communication et tout le reste font partie du fait d'être ensemble."
 
 # game/code/d08/d08s14.rpy:84
 translate french d08s14_1f51feb0:
@@ -268,13 +268,13 @@ translate french d08s14_06f67a61:
 translate french d08s14_fcf296a1:
 
     # lc "See... that's exactly what I don't want. I don't want to lose you."
-    lc "Tu vois... c'est exactement ce que je ne veux pas. Je veux pas te perdre."
+    lc "Tu vois... c'est exactement ce que je ne veux pas. Je ne veux pas te perdre."
 
 # game/code/d08/d08s14.rpy:91
 translate french d08s14_8b86ec66:
 
     # mc "Don't worry... I'm not going anywhere."
-    mc "Ne t'inquiétes pas... je ne vais nulle part."
+    mc "Ne t'inquiètes pas... je ne vais nul part."
 
 # game/code/d08/d08s14.rpy:94
 translate french d08s14_216b9803:
@@ -292,13 +292,13 @@ translate french d08s14_9a63b394:
 translate french d08s14_d19976cd:
 
     # mc "I understand the words you are saying, but I think I'm missing the meaning."
-    mc "Je comprends les mots que vous dites, mais je pense que j'en manque le sens."
+    mc "Je comprends les mots que tu dis mais je pense que j'en manque le sens."
 
 # game/code/d08/d08s14.rpy:98
 translate french d08s14_9b3411c2:
 
     # lc "Look... I'm sure you've heard my reputation."
-    lc "Écoute... je suis sûr que tu as entendu ma réputation."
+    lc "Écoute... je suis sûre que tu as entendu ma réputation."
 
 # game/code/d08/d08s14.rpy:99
 translate french d08s14_ea99eb97:
@@ -310,13 +310,13 @@ translate french d08s14_ea99eb97:
 translate french d08s14_3e57100c:
 
     # lc "That's sweet, but I've got a line of ex-boyfriends that must call me names behind my back. I'm sure you must have heard them all."
-    lc "C'est gentil, mais j'ai une file d'ex-petits amis qui doivent me insulter dans mon dos. Je suis sûr que vous avez dû tous les entendre."
+    lc "C'est gentil, mais j'ai une ribambelle d'ex petits amis qui doivent m'insulter dans mon dos. Je suis sûre que tu as dû tous les entendre."
 
 # game/code/d08/d08s14.rpy:103
 translate french d08s14_b91f2ead:
 
     # mct "A line of ex-boyfriends? I thought she was a virgin!"
-    mct "Une lignée d'ex-petits-amis ? Je croyais qu'elle était vierge !"
+    mct "Une ribambelle d'ex petits amis ? Je croyais qu'elle était vierge !"
 
 # game/code/d08/d08s14.rpy:106
 translate french d08s14_1c4feadb:
@@ -334,43 +334,43 @@ translate french d08s14_0d711ec6:
 translate french d08s14_e4e85d26:
 
     # mct "WTF?"
-    mct "WTF?"
+    mct "Mais quoi ?!"
 
 # game/code/d08/d08s14.rpy:111
 translate french d08s14_e83ddf23:
 
     # mc "What? No... I've never heard anything like that."
-    mc "Quoi? Non... je n'ai jamais rien entendu de pareil."
+    mc "Quoi ? Non... je n'ai jamais rien entendu de pareil."
 
 # game/code/d08/d08s14.rpy:112
 translate french d08s14_99d59feb:
 
     # lc "I don't get close to people... like that. It's just...{w} It just isn't the way I'm wired."
-    lc "Je ne me rapproche pas des gens… comme ça. C'est juste...{w} Ce n'est tout simplement pas la façon dont je suis câblé."
+    lc "Je ne me rapproche pas des gens… comme ça. C'est juste...{w} Ce n'est tout simplement pas la façon dont j'ai été élevée."
 
 # game/code/d08/d08s14.rpy:114
 translate french d08s14_fe978c56:
 
     # mct "AmRose said something like that, but I figured she was just jealous."
-    mct "AmRose a dit quelque chose comme ça, mais j'ai pensé qu'elle était juste jalouse."
+    mct "AmRose a dit quelque chose dans ce goût là, mais j'ai pensé qu'elle était juste jalouse."
 
 # game/code/d08/d08s14.rpy:117
 translate french d08s14_f9d5c70a:
 
     # mc "That's fine. I'm not going to pressure you like that asshat at the Party."
-    mc "C'est parfait. Je ne vais pas te mettre la pression comme ce connard à la fête."
+    mc "Tout va bien. Je ne vais pas te mettre la pression comme l'autre connard à la fête."
 
 # game/code/d08/d08s14.rpy:118
 translate french d08s14_752c03f9:
 
     # lc "Oh, yeah. Jerome.{w} He was never my boyfriend... he was just a friend who happened to be male."
-    lc "Oh ouais. Jérôme.{w} Il n'a jamais été mon petit ami... c'était juste un ami qui se trouvait être un homme."
+    lc "Oh ouais. Jérôme.{w} Il n'a jamais été mon petit ami... c'était juste un ami qui, malheureusement, est un mec."
 
 # game/code/d08/d08s14.rpy:120
 translate french d08s14_b967bda0:
 
     # lc "Yet, even he apparently expected something physical from me."
-    lc "Et pourtant, même lui s’attendait apparemment à quelque chose de physique de ma part."
+    lc "Et pourtant, même lui s’attendait à quelque chose de physique de ma part apparement."
 
 # game/code/d08/d08s14.rpy:121
 translate french d08s14_2917ddf2:
@@ -382,7 +382,7 @@ translate french d08s14_2917ddf2:
 translate french d08s14_43a11443:
 
     # lc "I know, I know...{w} but I can't know, ya'know?"
-    lc "Je sais, je sais...{w} mais je ne peux pas savoir, tu sais ?"
+    lc "Je te crois...{w} mais je ne peux pas savoir, tu vois ?"
 
 # game/code/d08/d08s14.rpy:123
 translate french d08s14_528accdb:
@@ -394,7 +394,7 @@ translate french d08s14_528accdb:
 translate french d08s14_3981883e:
 
     # lc "Min & Antony invited me to that Party. I didn't have to do anything to get in... but you earned your invite another way, right?"
-    lc "Min & Antony m'ont invité à cette soirée. Je n'ai rien eu à faire pour entrer... mais tu as gagné ton invitation d'une autre manière, n'est-ce pas ?"
+    lc "Min & Antony m'ont invitée à cette soirée. Je n'ai rien eu à faire pour entrer... mais tu as gagné ton invitation d'une autre manière, n'est-ce pas ?"
 
 # game/code/d08/d08s14.rpy:127
 translate french d08s14_8d469bfe:
@@ -406,13 +406,13 @@ translate french d08s14_8d469bfe:
 translate french d08s14_1948fd41:
 
     # lc "Which is fine... that doesn't bother me. I need you to know that."
-    lc "C'est bien... ça ne me dérange pas. Il faut que tu le saches."
+    lc "C'est ok... ça ne me dérange pas. Il faut que tu le saches."
 
 # game/code/d08/d08s14.rpy:130
 translate french d08s14_7da50f10:
 
     # mc "That's... good?"
-    mc "C'est... bien?"
+    mc "C'est... ok ?"
 
 # game/code/d08/d08s14.rpy:133
 translate french d08s14_8c50e41c:
@@ -436,7 +436,7 @@ translate french d08s14_6d8b6bdf:
 translate french d08s14_fcb35cc6:
 
     # mc "Thanks, again... I think."
-    mc "Merci encore... je pense."
+    mc "Merci encore... je suppose."
 
 # game/code/d08/d08s14.rpy:138
 translate french d08s14_e934d540:
@@ -448,7 +448,7 @@ translate french d08s14_e934d540:
 translate french d08s14_acb1d4c6:
 
     # mc "Oh.{w} It's really not that big of a deal. I would always choose you over..."
-    mc "Oh.{w} Ce n’est vraiment pas très grave. Je te choisirais toujours..."
+    mc "Oh.{w} C'est vraiment rien. Je te choisirais toujours..."
 
 # game/code/d08/d08s14.rpy:140
 translate french d08s14_3188695b:
@@ -478,7 +478,7 @@ translate french d08s14_f62c81b6:
 translate french d08s14_e5f695cd:
 
     # lc "I want you to be physically satisfied, even if that involves other people... at least until I am ready to explore that stuff with you."
-    lc "Je veux que tu sois physiquement satisfait, même si cela implique d'autres personnes... au moins jusqu'à ce que je sois prêt à explorer ces choses avec toi."
+    lc "Je veux que tu sois physiquement satisfait, même si cela implique d'autres personnes... au moins jusqu'à ce que je sois prête à explorer ces choses avec toi."
 
 # game/code/d08/d08s14.rpy:147
 translate french d08s14_55310c42:
@@ -490,19 +490,19 @@ translate french d08s14_55310c42:
 translate french d08s14_c3ada1a4:
 
     # lc "I just want us to be honest with each other...{w} So, I want you to tell me about it."
-    lc "Je veux juste que nous soyons honnêtes les uns avec les autres...{w} Alors, je veux que tu m'en parles."
+    lc "Je veux juste que nous soyons honnêtes l'un avec l'autre...{w} Alors, je veux que tu m'en parles."
 
 # game/code/d08/d08s14.rpy:150
 translate french d08s14_05500ff6_1:
 
     # mc "Huh?"
-    mc "Hein?"
+    mc "Hein ?"
 
 # game/code/d08/d08s14.rpy:151
 translate french d08s14_5a4cc994:
 
     # lc "I want you to be able... and willing... to talk to me about that other stuff. Even if we can't do it together."
-    lc "Je veux que tu sois capable... et désireux... de me parler de ces autres choses. Même si on ne peut pas le faire ensemble"
+    lc "Je veux que tu sois capable... et envieux... de me parler de ces autres choses. Même si on ne peut pas le faire ensemble"
 
 # game/code/d08/d08s14.rpy:154
 translate french d08s14_6bd19203:
@@ -526,7 +526,7 @@ translate french d08s14_c0b335b9:
 translate french d08s14_3706adfd:
 
     # mc "Something that I did?"
-    mc "quelque chose que j'ai fait ?"
+    mc "Quelque chose que j'ai fait ?"
 
 # game/code/d08/d08s14.rpy:161
 translate french d08s14_fc2e6c9f:
@@ -556,7 +556,7 @@ translate french d08s14_f2b6ae51:
 translate french d08s14_651a3900:
 
     # lc "Fetish Locator? I just know about it from Min."
-    lc "Fetish Locator? C'est Min qui m'en as parlé."
+    lc "Fetish Locator ? C'est Min qui m'en a parlé."
 
 # game/code/d08/d08s14.rpy:173
 translate french d08s14_e4f9c537:
@@ -574,7 +574,7 @@ translate french d08s14_6abdd460:
 translate french d08s14_0424c680:
 
     # lc "Would it bother you if I had been playing that game? If I had gotten to that Party on points rather than by invite?"
-    lc "Est-ce que ça t'aurais dérangerer si j'y avais jouer ? Si j'étais arrivé à cette fête avec des points plutôt que sur invitation?"
+    lc "Est-ce que ça t'aurait dérangé si j'y avais jouer ? Si j'étais arrivé à cette fête avec des points plutôt que sur invitation?"
 
 # game/code/d08/d08s14.rpy:184
 translate french d08s14_950a2e9a:
@@ -586,7 +586,7 @@ translate french d08s14_950a2e9a:
 translate french d08s14_bfb0c73c:
 
     # lc "See, that's exactly what I'm talking about. I don't want to put you in position to lie."
-    lc "Vous voyez, c'est exactement ce dont je parle. Je ne veux pas te mettre dans la position de me mentir."
+    lc "Tu vois, c'est exactement ce dont je parle. Je ne veux pas te mettre dans la position de me mentir."
 
 # game/code/d08/d08s14.rpy:189
 translate french d08s14_9812e149:
@@ -598,13 +598,13 @@ translate french d08s14_9812e149:
 translate french d08s14_d1adc5db:
 
     # mc "Yes, it would bother me..."
-    mc "Yes, oui, ça m'aurais dérangé...."
+    mc "Oui, ça m'aurait dérangé...."
 
 # game/code/d08/d08s14.rpy:199
 translate french d08s14_336ce5e2:
 
     # mc "...But not for the reasons you're thinking of. I'm just not sure it's all it's made out to be."
-    mc "...Mais pas pour les raisons auxquelles tu penses. Je ne suis simplement pas sûr que ce soit tout ce que l'on prétend être."
+    mc "...Mais pas pour les raisons auxquelles tu penses. Je ne suis simplement pas sûr que ce soit exactement ce qu'elle prétend être."
 
 # game/code/d08/d08s14.rpy:201
 translate french d08s14_fdf5e0a2:
@@ -616,13 +616,13 @@ translate french d08s14_fdf5e0a2:
 translate french d08s14_4871923e:
 
     # lc "What do you mean?"
-    lc "Que veux-tu dire?"
+    lc "Que veux-tu dire ?"
 
 # game/code/d08/d08s14.rpy:203
 translate french d08s14_813903a4:
 
     # mc "I don't know. I just get that feeling."
-    mc "Je ne sais pas. Je ressens juste ce sentiment."
+    mc "Je ne sais pas. J'ai juste ce pressentiment."
 
 # game/code/d08/d08s14.rpy:206
 translate french d08s14_f8edf044:
@@ -676,7 +676,7 @@ translate french d08s14_816ea7d3:
 translate french d08s14_d7bc24e6:
 
     # lc "I just want us to be honest with each other. I don't want you to feel like you need to hide things from me, or run around behind my back."
-    lc "Je veux juste que nous soyons honnêtes les uns envers les autres. Je ne veux pas que tu ressentes le besoin de me cacher des choses ou de courir dans mon dos."
+    lc "Je veux juste que nous soyons honnêtes l'un envers l'autre. Je ne veux pas que tu ressentes le besoin de me cacher des choses ou de me faire de cachotteries."
 
 # game/code/d08/d08s14.rpy:227
 translate french d08s14_26d6403b:
@@ -700,13 +700,13 @@ translate french d08s14_4e48c7a2:
 translate french d08s14_cd60b427:
 
     # mc "Anything?"
-    mc "tout?"
+    mc "N'importe quoi ?"
 
 # game/code/d08/d08s14.rpy:234
 translate french d08s14_d54f21f4:
 
     # lc "Whatever comes to mind."
-    lc "Tout ce qui me vient à l'esprit."
+    lc "Tout ce qui te vient à l'esprit."
 
 # game/code/d08/d08s14.rpy:237
 translate french d08s14_5e29bc93:
@@ -724,19 +724,19 @@ translate french d08s14_b3494483:
 translate french d08s14_e888fdd1:
 
     # mct "Something small to test her reaction..."
-    mct "Quelque chose de petit pour tester sa réaction..."
+    mct "Quelque chose de soft pour tester sa réaction..."
 
 # game/code/d08/d08s14.rpy:243
 translate french d08s14_41f14e35:
 
     # mc "Alright, so last week, there was a Fetish Locator cum challenge."
-    mc "D'accord, la semaine dernière, il y a eu un défi de jouissance sur Fetish Locator.."
+    mc "D'accord, la semaine dernière, il y a eu un défi d'éjaculation sur Fetish Locator.."
 
 # game/code/d08/d08s14.rpy:244
 translate french d08s14_d63a9907:
 
     # lc "A cum challenge? Like, you had to make someone else cum?"
-    lc "Un défi de jouissance ? Par exemple, tu devais faire jouir quelqu'un d'autre ?"
+    lc "Un défi d'éjaculation ? Par exemple, tu devais faire jouir quelqu'un d'autre ?"
 
 # game/code/d08/d08s14.rpy:246
 translate french d08s14_cf9df8c9:
@@ -748,7 +748,7 @@ translate french d08s14_cf9df8c9:
 translate french d08s14_457f534c:
 
     # lc "Oh, ew, but okay."
-    lc "Oh, beuh, mais d'accord."
+    lc "Oh, berk, mais d'accord."
 
 # game/code/d08/d08s14.rpy:248
 translate french d08s14_24e7c60c:
@@ -790,13 +790,13 @@ translate french d08s14_4264e0fc:
 translate french d08s14_a3b71dbe:
 
     # mc "Me? I just jerked off."
-    mc "Moi? Je me suis juste branlé."
+    mc "Moi ? Je me suis juste branlé."
 
 # game/code/d08/d08s14.rpy:260
 translate french d08s14_405b0b36:
 
     # lc "That's it?"
-    lc "C'est tout?"
+    lc "C'est tout ?"
 
 # game/code/d08/d08s14.rpy:263
 translate french d08s14_767041f4:
@@ -814,7 +814,7 @@ translate french d08s14_8aa12f51:
 translate french d08s14_f85dfd95:
 
     # lc "What's that?"
-    lc "C'est quoi?"
+    lc "C'est quoi ?"
 
 # game/code/d08/d08s14.rpy:266
 translate french d08s14_3ea7a42e:
@@ -850,13 +850,13 @@ translate french d08s14_4984e080:
 translate french d08s14_d754e274:
 
     # mc "Yeah, I got a few points cumming on my desk."
-    mc "Ouais, j'ai quelques points en éjaculent sur mon bureau."
+    mc "Ouais, j'ai eu quelques points en éjaculant sur mon bureau."
 
 # game/code/d08/d08s14.rpy:282
 translate french d08s14_56a345a8:
 
     # lc "On your desk?"
-    lc "Sur ton bureau?"
+    lc "Sur ton bureau ?"
 
 # game/code/d08/d08s14.rpy:283
 translate french d08s14_e5dbfb6e:
@@ -868,7 +868,7 @@ translate french d08s14_e5dbfb6e:
 translate french d08s14_71898acb:
 
     # lc "What were you thinking about?"
-    lc "À quoi pensais-tu?"
+    lc "À quoi pensais-tu ?"
 
 # game/code/d08/d08s14.rpy:288
 translate french d08s14_d36d79bf:
@@ -880,7 +880,7 @@ translate french d08s14_d36d79bf:
 translate french d08s14_f87ef98f:
 
     # lc "What? Why would I be upset?"
-    lc "Quoi? Pourquoi serais-je contrarié ?"
+    lc "Quoi ? Pourquoi je devrais t'en vouloir ?"
 
 # game/code/d08/d08s14.rpy:291
 translate french d08s14_c533e989:
@@ -916,7 +916,7 @@ translate french d08s14_b14815c5:
 translate french d08s14_8aecd598:
 
     # lc "No, no. I'm sure you're not the first one, but it makes me more certain that you need physical satisfaction somewhere else."
-    lc "Non non. Je suis sûr que vous n'êtes pas le premier, mais cela me rend plus certain que tu as besoin d'interaction physique avec d'autres personnes."
+    lc "Non non. Je suis sûre que tu n'es pas le premier, mais me confirme que tu as besoin d'interactions physiques avec d'autres personnes."
 
 # game/code/d08/d08s14.rpy:305
 translate french d08s14_9fa8cf19:
@@ -934,7 +934,7 @@ translate french d08s14_25c22dc5:
 translate french d08s14_bf84cef9:
 
     # mc "Um, no. A different couple. She gave this guy a handjob during class."
-    mc "Um non. Un autre couple Elle a fait une branlette à ce gars pendant les cours."
+    mc "Um non. Un autre couple, elle a fait une branlette à ce gars pendant les cours."
 
 # game/code/d08/d08s14.rpy:310
 translate french d08s14_c8d4294b:
@@ -958,7 +958,7 @@ translate french d08s14_4f2543b0:
 translate french d08s14_8f0029d8:
 
     # lc "Uh huh. Sure."
-    lc "Euh hein. Bien sûr."
+    lc "Euh hein. Je vois."
 
 # game/code/d08/d08s14.rpy:318
 translate french d08s14_aea48dd1:
@@ -982,7 +982,7 @@ translate french d08s14_de7e848d:
 translate french d08s14_ff765414:
 
     # lc "Who?"
-    lc "Qui?"
+    lc "Qui ?"
 
 # game/code/d08/d08s14.rpy:327
 translate french d08s14_27bd37c8:
@@ -1006,7 +1006,7 @@ translate french d08s14_91395c54:
 translate french d08s14_8ba08faa:
 
     # lc "The one who came on her tits?"
-    lc "Celle qui a joui sur ses seins ?"
+    lc "Celui qui a joui sur ses seins ?"
 
 # game/code/d08/d08s14.rpy:335
 translate french d08s14_78b77d9c:
@@ -1018,7 +1018,7 @@ translate french d08s14_78b77d9c:
 translate french d08s14_5c3e1aa3:
 
     # mc "Yeah, I got some points."
-    mc "Yeah, I got some points."
+    mc "Oui, j'ai eu quelques points."
 
 # game/code/d08/d08s14.rpy:341
 translate french d08s14_0e3db184:
@@ -1030,7 +1030,7 @@ translate french d08s14_0e3db184:
 translate french d08s14_2987695c:
 
     # mc "Okay, but you gotta understand, I'm trusting you on this."
-    mc "D'accord, mais tu dois comprendre, je te fais confiance là-dessus."
+    mc "D'accord, mais tu dois comprendre que je te fais confiance."
 
 # game/code/d08/d08s14.rpy:345
 translate french d08s14_6cd5c564:
@@ -1048,13 +1048,13 @@ translate french d08s14_3e09330c:
 translate french d08s14_4addd406:
 
     # lc "Why, does it involve Min?"
-    lc "Pourquoi, cela implique-t-il Min ?"
+    lc "Pourquoi, ça implique Min ?"
 
 # game/code/d08/d08s14.rpy:350
 translate french d08s14_9ad619e5:
 
     # mc "No! I just know that you two tell each other everything."
-    mc "Non! Je sais juste que vous vous dites tout."
+    mc "Non ! Je sais juste que vous vous dites tout."
 
 # game/code/d08/d08s14.rpy:351
 translate french d08s14_a7d85d7e:
@@ -1072,7 +1072,7 @@ translate french d08s14_076fc7e6:
 translate french d08s14_678b7b83:
 
     # lc "Male friend or female friend?"
-    lc "Ami masculin ou amie féminine ?"
+    lc "Ami ou Amie ?"
 
 # game/code/d08/d08s14.rpy:356
 translate french d08s14_e9708151:
@@ -1096,13 +1096,13 @@ translate french d08s14_d94287a8:
 translate french d08s14_005fab60:
 
     # lc "Tell you in a minute. Please continue."
-    lc "Je te le dirai dans une minute. Continue s'il vous plaît."
+    lc "Je te le dirai dans une minute. Continue s'il te plaît."
 
 # game/code/d08/d08s14.rpy:363
 translate french d08s14_39cfc677:
 
     # mc "So, she was sound asleep when the blitz challenge happened."
-    mc "Donc, elle dormait profondément lorsque le défi blitz a eu lieu."
+    mc "Donc, elle dormait profondément lorsque le défi blitz a commencé."
 
 # game/code/d08/d08s14.rpy:365
 translate french d08s14_56753b50:
@@ -1120,7 +1120,7 @@ translate french d08s14_ec654f3d:
 translate french d08s14_a34542d9:
 
     # mc "What? Nothing. No, I just jerked off in the same room while she was sleeping."
-    mc "Quoi? Rien. Non, je me suis juste branlé dans la même pièce pendant qu'elle dormait."
+    mc "Quoi ? Rien ! Non, je me suis juste branlé dans la même pièce pendant qu'elle dormait."
 
 # game/code/d08/d08s14.rpy:371
 translate french d08s14_1a41a6fa:
@@ -1132,7 +1132,7 @@ translate french d08s14_1a41a6fa:
 translate french d08s14_391e2685:
 
     # mc "What?! No!"
-    mc "Quoi? NON!"
+    mc "Quoi ? NON !"
 
 # game/code/d08/d08s14.rpy:373
 translate french d08s14_d3f383f0:
@@ -1162,7 +1162,7 @@ translate french d08s14_a49ed4f8:
 translate french d08s14_3bed173e:
 
     # lc "You know that \"sleep sex\" porn?"
-    lc "Vous savez que le porno \"sexe endormi\"?"
+    lc "Tu connais les pornos \"sexe endormi\"?"
 
 # game/code/d08/d08s14.rpy:382
 translate french d08s14_dd29bdce:
@@ -1180,7 +1180,7 @@ translate french d08s14_10bdbab7:
 translate french d08s14_c42b05ac:
 
     # mc "And?"
-    mc "et?"
+    mc "Oui et ?"
 
 # game/code/d08/d08s14.rpy:389
 translate french d08s14_11f54918:
@@ -1204,37 +1204,37 @@ translate french d08s14_da3faa75:
 translate french d08s14_bbf6940f:
 
     # lc "Um... maybe?"
-    lc "Euh... peut être?"
+    lc "Euh... peut-être ?"
 
 # game/code/d08/d08s14.rpy:396
 translate french d08s14_d8990863:
 
     # mc "I thought we were being honest with each other here."
-    mc "Je pensais que nous étions honnêtes les uns envers les autres ici."
+    mc "Hey, je pensais qu'on était honnêtes l'un envers l'autre."
 
 # game/code/d08/d08s14.rpy:397
 translate french d08s14_eca8a51b:
 
     # lc "Okay, yes. I watch porn. I don't know what other people do with it, but I like to watch it sometimes."
-    lc "D'accord, oui. Je regarde du porno. Je ne sais pas ce que les autres font, mais j'aime le regarder parfois."
+    lc "C'est vrai, oui. Je regarde du porno. Je ne sais pas ce que les autres font, mais j'aime en regarder parfois."
 
 # game/code/d08/d08s14.rpy:400
 translate french d08s14_1c14b8b5:
 
     # mc "Do you mind if I ask?"
-    mc "Ça te dérange si je demande ?"
+    mc "Ça te dérange si je te pose une question ?"
 
 # game/code/d08/d08s14.rpy:401
 translate french d08s14_b9245508:
 
     # lc "Depends on what you ask."
-    lc "Tout dépend de ce que tu demandes."
+    lc "Tout dépend de la question."
 
 # game/code/d08/d08s14.rpy:402
 translate french d08s14_4a2886da:
 
     # mc "Do you jill off watching it?"
-    mc "tu le fais quand tus regardes ?"
+    mc "Tu le fais quand tu regardes ?"
 
 # game/code/d08/d08s14.rpy:405
 translate french d08s14_78d3b0ec:
@@ -1246,19 +1246,19 @@ translate french d08s14_78d3b0ec:
 translate french d08s14_6ff565c9:
 
     # mc "Why not? I just described to you how I jerked off for points."
-    mc "Pourquoi pas? Je viens de vous décrire comment je me branlais pour gagner des points."
+    mc "Pourquoi pas ? Je viens de te décrire comment je me branlais pour gagner des points."
 
 # game/code/d08/d08s14.rpy:408
 translate french d08s14_d5bc542c:
 
     # lc "Okay, you've got a point there."
-    lc "D'accord, vous avez raison."
+    lc "D'accord, tu as raison."
 
 # game/code/d08/d08s14.rpy:409
 translate french d08s14_b7127e8e:
 
     # lc "Give me a second..."
-    lc "Donne moi un seconde..."
+    lc "Donne moi une seconde..."
 
 # game/code/d08/d08s14.rpy:411
 translate french d08s14_5a3c258d:
@@ -1270,7 +1270,7 @@ translate french d08s14_5a3c258d:
 translate french d08s14_0bc8d14d:
 
     # mc "Sorry, sorry. It's okay. You don't have to tell me."
-    mc "Désolé, désolé. C'est bon. Tu n'es pas obligé de me le dire."
+    mc "Désolé, désolé. C'est bon. Tu n'es pas obligée de me le dire."
 
 # game/code/d08/d08s14.rpy:416
 translate french d08s14_9aec71af:
@@ -1282,7 +1282,7 @@ translate french d08s14_9aec71af:
 translate french d08s14_2ca7fc59:
 
     # lc "I've... touched myself, but I don't think I've ever had an orgasm."
-    lc "Je me suis... déjâ touché, mais je ne pense pas avoir jamais eu d'orgasme."
+    lc "Je me suis... déjà touchée, mais je ne pense pas avoir eu d'orgasme."
 
 # game/code/d08/d08s14.rpy:420
 translate french d08s14_9c755f05:
@@ -1294,7 +1294,7 @@ translate french d08s14_9c755f05:
 translate french d08s14_cd9ab661:
 
     # lc "What do you think?"
-    lc "Qu'en penses-tu?"
+    lc "Qu'en penses-tu ?"
 
 # game/code/d08/d08s14.rpy:425
 translate french d08s14_4f6e4de0:
@@ -1306,25 +1306,25 @@ translate french d08s14_4f6e4de0:
 translate french d08s14_99a0ebc8:
 
     # lc "Do you think less of me?"
-    lc "Pensez-vous moins de moi?"
+    lc "J'ai baissé dans ton estime ?"
 
 # game/code/d08/d08s14.rpy:429
 translate french d08s14_bb021530:
 
     # mc "Not in the slightest. If anything I lo...{w} I like you even more."
-    mc "Pas du tout. Si quelque chose que j'aime...{w} Je t'aime encore plus."
+    mc "Pas du tout. Bien au contraire...{w} Je t'aime encore plus."
 
 # game/code/d08/d08s14.rpy:430
 translate french d08s14_39489d75:
 
     # lc "What does that mean?"
-    lc "Qu'est-ce que ça veut dire?"
+    lc "Qu'est-ce que ça veut dire ?"
 
 # game/code/d08/d08s14.rpy:432
 translate french d08s14_d5f79f88:
 
     # mc "I mean, that must have been really difficult to admit. I'm really honored that you feel safe enough to tell me that."
-    mc "Je veux dire, ça a dû être vraiment difficile à admettre. Je suis vraiment honoré que tu te senties suffisamment en sécurité pour me dire ça."
+    mc "Je veux dire, ça a dû être vraiment difficile à admettre. Je suis vraiment honoré que tu te sois sentie suffisamment en sécurité pour me dire ça."
 
 # game/code/d08/d08s14.rpy:434
 translate french d08s14_1ea58e63:
@@ -1354,7 +1354,7 @@ translate french d08s14_08672ae2:
 translate french d08s14_727d5898:
 
     # mc "Huh. Give me a minute..."
-    mc "Hein. Donne moi une minute..."
+    mc "Oh. Donne moi une minute..."
 
 # game/code/d08/d08s14.rpy:446
 translate french d08s14_8330deb6:
@@ -1382,5 +1382,5 @@ translate french strings:
 
     # game/code/d08/d08s14.rpy:179
     old "Yes, but..."
-    new "Oui, maus..."
+    new "Oui, mais..."
 
