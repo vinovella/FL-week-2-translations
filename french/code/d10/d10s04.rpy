@@ -496,7 +496,7 @@ translate french d10s04_85887098:
 translate french d10s04_0d828fdd:
 
     # sy "[mcname]! You old coot.{w}.. or something..."
-    sy "[nommc] ! Espèce de vieux fou.{w}.. ou quelque chose comme ça..."
+    sy "[mcname] ! Espèce de vieux fou.{w}.. ou quelque chose comme ça..."
 
 # game/code/d10/d10s04.rpy:261
 translate french d10s04_6435aacb:

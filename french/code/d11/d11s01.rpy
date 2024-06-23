@@ -376,7 +376,7 @@ translate french d11s01_ce9e8903:
 translate french d11s01_61e60cda:
 
     # arj "Oh, [mcname]! I was just about to wake you for breakfast!"
-    arj "Oh, [nommc] ! J'étais sur le point de te réveiller pour le petit-déjeuner !"
+    arj "Oh, [mcname] ! J'étais sur le point de te réveiller pour le petit-déjeuner !"
 
 # game/code/d11/d11s01.rpy:194
 translate french d11s01_26f63d21:

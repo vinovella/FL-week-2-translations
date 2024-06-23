@@ -16,7 +16,7 @@ translate french d11s03b_699878f6:
 translate french d11s03b_6e385227:
 
     # aw "Huh? {w}Oh! [mcname]!"
-    aw "Hein? {w}Oh ! [nommc] !"
+    aw "Hein? {w}Oh ! [mcname] !"
 
 # game/code/d11/extended/d11s03b.rpy:25
 translate french d11s03b_38e52425:

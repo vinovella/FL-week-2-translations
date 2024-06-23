@@ -2506,7 +2506,7 @@ translate french d10p2s08_end_4e85cb4d:
 translate french d10p2s08_end_0efd57d9:
 
     # aw "Hey, [mcname]..."
-    aw "Hé, [nommc]..."
+    aw "Hé, [mcname]..."
 
 # game/code/d10p2/d10p2s08.rpy:1194
 translate french d10p2s08_end_16fb6378:

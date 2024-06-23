@@ -958,7 +958,7 @@ translate french d10s05_replay_96b0003a:
 translate french d10s05_replay_8e471b3c:
 
     # hr "[mcname]? Oh, great, you're here as well. I'm guessing you had a nice front-row seat to all that?"
-    hr "[nommc] ? Oh, super, tu es là aussi. Je suppose que tu étais aux premières loges pour tout ça ?"
+    hr "[mcname] ? Oh, super, tu es là aussi. Je suppose que tu étais aux premières loges pour tout ça ?"
 
 # game/code/d10/d10s05.rpy:422
 translate french d10s05_replay_9e59a9c9:

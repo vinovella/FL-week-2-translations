@@ -208,7 +208,7 @@ translate french d08s07_ba0ad214:
 translate french d08s07_bd8755c1:
 
     # mct "Did she just call me sexy?! [mcname] FTW!!!"
-    mct "Est-ce qu'elle vient de m'appeler sexy ?! [nommc] t'es le meilleur !!!"
+    mct "Est-ce qu'elle vient de m'appeler sexy ?! [mcname] t'es le meilleur !!!"
 
 # game/code/d08/d08s07.rpy:95
 translate french d08s07_ccb60c44:

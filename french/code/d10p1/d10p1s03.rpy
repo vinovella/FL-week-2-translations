@@ -28,7 +28,7 @@ translate french d10p1s03_963c7d6f:
 translate french d10p1s03_c5248142:
 
     # mh "Hm? Oh, [mcname]!"
-    mh "Hein ? Oh, [nommc] !"
+    mh "Hein ? Oh, [mcname] !"
 
 # game/code/d10p1/d10p1s03.rpy:25
 translate french d10p1s03_0a00b0ed:
@@ -316,7 +316,7 @@ translate french d10p1s03_94a07da7:
 translate french d10p1s03_18ee9dec:
 
     # dd "Hey, [mcname]."
-    dd "Hé, [nommc]."
+    dd "Hé, [mcname]."
 
 # game/code/d10p1/d10p1s03.rpy:158
 translate french d10p1s03_2a4fa63e_1:

@@ -280,7 +280,7 @@ translate french replay_d11s06_5f2992b8:
 translate french replay_d11s06_33d905ad:
 
     # nk "[mcname]! Get on top of her and sit on her face!"
-    nk "[nommc] ! Monte sur elle et assieds-toi sur son visage !"
+    nk "[mcname] ! Monte sur elle et assieds-toi sur son visage !"
 
 # game/code/d11/d11s06.rpy:328
 translate french replay_d11s06_649786fd:

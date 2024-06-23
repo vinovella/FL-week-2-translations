@@ -892,7 +892,7 @@ translate french d10p2s04_dwmc_end_424f0a67:
 translate french d10p2s04_dwmc_end_b084c50b:
 
     # mesfl "[mcname]? Are you alright?"
-    mesfl "[nommc] ? Est-ce que tu vas bien?"
+    mesfl "[mcname] ? Est-ce que tu vas bien?"
 
 # game/code/d10p2/d10p2s04-dw.rpy:790
 translate french d10p2s04_dwmc_end_b86a4431:
@@ -1090,7 +1090,7 @@ translate french d10p2s04_dw_talk_min_outside_3bdc40ec_1:
 translate french d10p2s04_dwmcmin_safeword_10e90435:
 
     # mesfl "[mcname]! Are you okay!? {w}What's going on here!?"
-    mesfl "[nommc] ! Êtes-vous d'accord!? {w}Que se passe-t-il ici ! ?"
+    mesfl "[mcname] ! Êtes-vous d'accord!? {w}Que se passe-t-il ici ! ?"
 
 # game/code/d10p2/d10p2s04-dw.rpy:909
 translate french d10p2s04_dwmcmin_safeword_6a13c3e3:

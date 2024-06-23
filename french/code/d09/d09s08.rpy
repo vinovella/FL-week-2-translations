@@ -304,7 +304,7 @@ translate french d09s08_556232ab:
 translate french d09s08_05cf4e53:
 
     # vw "Hello, [mcname]. Sorry for calling so late, but I've got some important news."
-    vw "Bonjour, [nommc]. Désolé d'appeler si tard, mais j'ai des nouvelles importantes."
+    vw "Bonjour, [mcname]. Désolé d'appeler si tard, mais j'ai des nouvelles importantes."
 
 # game/code/d09/d09s08.rpy:104
 translate french d09s08_0e1fd7ad:
