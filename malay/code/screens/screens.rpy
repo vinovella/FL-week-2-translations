@@ -417,3 +417,15 @@ translate malay strings:
     old "Try our new game Taboo University"
     new "Try our new game Taboo University"
 
+# TODO: Translation updated at 2024-07-07 21:16
+
+translate malay strings:
+
+    # game/code/screens/screens.rpy:1085
+    old "Ren'Py Save Sync"
+    new "Ren'Py Save Sync"
+
+    # game/code/screens/screens.rpy:1244
+    old "Dialogue Box Opacity"
+    new "Dialogue Box Opacity"
+

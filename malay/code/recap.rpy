@@ -480,11 +480,11 @@ translate malay d08s00_week1synopsis_95f66221:
     # "And even has a taste of him!"
     "Dan juga merasakannya!"
 
-# game/code/recap.rpy:328
-translate malay d08s00_week1synopsis_d8de791e:
+# game/code/recap.rpy:260
+translate malay d08s00_week1synopsis_040936fd:
 
-    # "On Saturday morning, Stacy moved to be closer to campus, where she will be starting classes in Autumn, and decided to stay at MC's dorm temporarily."
-    "Pada pagi Sabtu, Stacy berpindah untuk lebih dekat dengan kampus, tempat dia akan memulakan kelas pada Musim Gugur, dan memutuskan untuk tinggal di asrama MC buat sementara waktu."
+    # "On Saturday morning, Stacy moved to be closer to campus, where she will be starting classes in Autumn, and decided to stay at [mcname]'s dorm temporarily."
+    "Pada pagi Sabtu, Stacy berpindah untuk lebih dekat dengan kampus, tempat dia akan memulakan kelas pada Musim Gugur, dan memutuskan untuk tinggal di asrama [mcname] buat sementara waktu."
 
 # game/code/recap.rpy:331
 translate malay d08s00_week1synopsis_a7b86fb9:
