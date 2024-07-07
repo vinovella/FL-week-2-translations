@@ -504,11 +504,11 @@ translate turkish d08s00_week1synopsis_95f66221:
     # "And even has a taste of him!"
     "Ve hatta ondan bir tadı var!"
 
-# game/code/recap.rpy:338
-translate turkish d08s00_week1synopsis_d8de791e:
+# game/code/recap.rpy:260
+translate turkish d08s00_week1synopsis_040936fd:
 
-    # "On Saturday morning, Stacy moved to be closer to campus, where she will be starting classes in Autumn, and decided to stay at MC's dorm temporarily."
-    "Cumartesi sabahı Stacy, sonbaharda derslere başlayacağı kampüse daha yakın olmak için taşındı ve geçici olarak MC'nin yurdunda kalmaya karar verdi."
+    # "On Saturday morning, Stacy moved to be closer to campus, where she will be starting classes in Autumn, and decided to stay at [mcname]'s dorm temporarily."
+    "Cumartesi sabahı Stacy, sonbaharda derslere başlayacağı kampüse daha yakın olmak için taşındı ve geçici olarak [mcname]'nin yurdunda kalmaya karar verdi."
 
 # game/code/recap.rpy:341
 translate turkish d08s00_week1synopsis_a7b86fb9:

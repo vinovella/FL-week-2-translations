@@ -480,10 +480,10 @@ translate russian d08s00_week1synopsis_95f66221:
     # "And even has a taste of him!"
     "И даже их вкусы совпадали!"
 
-# game/code/recap.rpy:325
-translate russian d08s00_week1synopsis_d8de791e:
+# game/code/recap.rpy:260
+translate russian d08s00_week1synopsis_040936fd:
 
-    # "On Saturday morning, Stacy moved to be closer to campus, where she will be starting classes in Autumn, and decided to stay at MC's dorm temporarily."
+    # "On Saturday morning, Stacy moved to be closer to campus, where she will be starting classes in Autumn, and decided to stay at [mcname]'s dorm temporarily."
     "В субботу утром Стейси переехала из дома поближе к колледжу, где осенью она начнет занятия, и решила временно поселиться в общежитии нашего героя."
 
 # game/code/recap.rpy:328

@@ -480,11 +480,11 @@ translate spanish d08s00_week1synopsis_95f66221:
     # "And even has a taste of him!"
     "¡E incluso tiene una prueba de él!"
 
-# game/code/recap.rpy:328
-translate spanish d08s00_week1synopsis_d8de791e:
+# game/code/recap.rpy:260
+translate spanish d08s00_week1synopsis_040936fd:
 
-    # "On Saturday morning, Stacy moved to be closer to campus, where she will be starting classes in Autumn, and decided to stay at MC's dorm temporarily."
-    "El sábado por la mañana, Stacy se trasladó para estar más cerca del campus, donde empezará las clases en otoño, y decidió quedarse temporalmente en la residencia de MC."
+    # "On Saturday morning, Stacy moved to be closer to campus, where she will be starting classes in Autumn, and decided to stay at [mcname]'s dorm temporarily."
+    "El sábado por la mañana, Stacy se trasladó para estar más cerca del campus, donde empezará las clases en otoño, y decidió quedarse temporalmente en la residencia de [mcname]."
 
 # game/code/recap.rpy:331
 translate spanish d08s00_week1synopsis_a7b86fb9:

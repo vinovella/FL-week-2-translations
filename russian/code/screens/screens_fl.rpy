@@ -212,3 +212,19 @@ translate russian strings:
     old "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
     new "Если вы решите продолжить, ваши сохранения могут не работать между разными неделями. Вы больше не будете получать уведомления. Вы уверены?"
 
+# TODO: Translation updated at 2024-07-07 21:18
+
+translate russian strings:
+
+    # game/code/screens/screens_fl.rpy:918
+    old "Sync your saves using Ren'Py Sync server"
+    new "Sync your saves using Ren'Py Sync server"
+
+    # game/code/screens/screens_fl.rpy:920
+    old "Upload Saves"
+    new "Upload Saves"
+
+    # game/code/screens/screens_fl.rpy:921
+    old "Download Saves"
+    new "Download Saves"
+
