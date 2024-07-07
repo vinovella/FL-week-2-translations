@@ -1226,3 +1226,11 @@ translate french strings:
     old "Retry"
     new "Recommencer"
 
+# TODO: Translation updated at 2024-07-07 20:56
+
+translate french strings:
+
+    # renpy/common/00accessibility.rpy:197
+    old "Self-voicing support is limited when using a touch screen."
+    new "Self-voicing support is limited when using a touch screen."
+

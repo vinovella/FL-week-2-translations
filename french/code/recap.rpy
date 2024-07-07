@@ -504,11 +504,11 @@ translate french d08s00_week1synopsis_95f66221:
     # "And even has a taste of him!"
     "Et a même un avant-goût de lui!"
 
-# game/code/recap.rpy:338
-translate french d08s00_week1synopsis_d8de791e:
+# game/code/recap.rpy:260
+translate french d08s00_week1synopsis_040936fd:
 
-    # "On Saturday morning, Stacy moved to be closer to campus, where she will be starting classes in Autumn, and decided to stay at MC's dorm temporarily."
-    "Samedi matin, Stacy a déménagé pour se rapprocher du campus, où elle commencera les cours à l'automne, et a décidé de rester temporairement dans le dortoir de notre protagoniste."
+    # "On Saturday morning, Stacy moved to be closer to campus, where she will be starting classes in Autumn, and decided to stay at [mcname]'s dorm temporarily."
+    "Samedi matin, Stacy a déménagé pour se rapprocher du campus, où elle commencera les cours à l'automne, et a décidé de rester temporairement dans le dortoir de notre [mcname]."
 
 # game/code/recap.rpy:341
 translate french d08s00_week1synopsis_a7b86fb9:

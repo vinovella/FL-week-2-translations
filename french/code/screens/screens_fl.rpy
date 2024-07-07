@@ -186,3 +186,19 @@ translate french strings:
     old "Close the game"
     new "Fermer le jeu"
 
+# TODO: Translation updated at 2024-07-07 20:56
+
+translate french strings:
+
+    # game/code/screens/screens_fl.rpy:918
+    old "Sync your saves using Ren'Py Sync server"
+    new "Sync your saves using Ren'Py Sync server"
+
+    # game/code/screens/screens_fl.rpy:920
+    old "Upload Saves"
+    new "Upload Saves"
+
+    # game/code/screens/screens_fl.rpy:921
+    old "Download Saves"
+    new "Download Saves"
+
