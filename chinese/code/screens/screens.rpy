@@ -378,17 +378,9 @@ translate chinese strings:
     old "Naming save file:"
     new "命名保存文件："
 
-# TODO: Translation updated at 2021-10-25 01:05
-
-translate chinese strings:
-
     # game/code/screens/screens.rpy:1028
     old "Low Memory Mode"
     new "Low Memory Mode"
-
-# TODO: Translation updated at 2021-11-14 22:59
-
-translate chinese strings:
 
     # game/code/screens/screens.rpy:789
     old "Game"
@@ -410,10 +402,6 @@ translate chinese strings:
     old "Others"
     new "Others"
 
-# TODO: Translation updated at 2023-10-24 14:05
-
-translate chinese strings:
-
     # game/code/screens/screens.rpy:653
     old "Wishlist Taboo University in Steam"
     new "Wishlist Taboo University in Steam"
@@ -421,3 +409,11 @@ translate chinese strings:
     # game/code/screens/screens.rpy:656
     old "Try our new game Taboo University"
     new "Try our new game Taboo University"
+
+    # game/code/screens/screens.rpy:1085
+    old "Ren'Py Save Sync"
+    new "Ren'Py Save Sync"
+
+    # game/code/screens/screens.rpy:1244
+    old "Dialogue Box Opacity"
+    new "Dialogue Box Opacity"

@@ -481,11 +481,11 @@ translate chinese d08s00_week1synopsis_95f66221:
     # "And even has a taste of him!"
     "甚至还尝过他的味道!"
 
-# game/code/recap.rpy:328
-translate chinese d08s00_week1synopsis_d8de791e:
+# game/code/recap.rpy:260
+translate chinese d08s00_week1synopsis_040936fd:
 
-    # "On Saturday morning, Stacy moved to be closer to campus, where she will be starting classes in Autumn, and decided to stay at MC's dorm temporarily."
-    "周六上午，史黛西搬到了离学校更近的地方，她将在秋季开学，决定暂时住在MC宿舍里。"
+    # "On Saturday morning, Stacy moved to be closer to campus, where she will be starting classes in Autumn, and decided to stay at [mcname]'s dorm temporarily."
+    "周六上午，史黛西搬到了离学校更近的地方，她将在秋季开学，决定暂时住在[mcname]宿舍里。"
 
 # game/code/recap.rpy:331
 translate chinese d08s00_week1synopsis_a7b86fb9:
@@ -918,7 +918,6 @@ translate chinese d08s00_week1synopsis_7c59af2b:
 
     # "No more waiting! Let's get into Week 2..."
     "无需等待！让我们即刻开启第二周……"
-# TODO: Translation updated at 2022-11-12 13:18
 
 # game/code/recap.rpy:277
 translate chinese d08s00_week1synopsis_f49a455e:
