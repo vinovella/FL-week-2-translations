@@ -1342,3 +1342,107 @@ translate deutsch strings:
     old "Sync Error"
     new "Sync Error"
 
+# TODO: Translation updated at 2024-07-07 20:53
+
+translate deutsch strings:
+
+    # renpy/common/00accessibility.rpy:120
+    old "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars."
+    new "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars."
+
+    # renpy/common/00accessibility.rpy:197
+    old "Self-voicing support is limited when using a touch screen."
+    new "Self-voicing support is limited when using a touch screen."
+
+    # renpy/common/00director.rpy:1776
+    old "Customize director.transforms to add more transforms."
+    new "Customize director.transforms to add more transforms."
+
+    # renpy/common/00director.rpy:1821
+    old "Click to set."
+    new "Click to set."
+
+    # renpy/common/00director.rpy:1822
+    old "Customize director.transitions to add more transitions."
+    new "Customize director.transitions to add more transitions."
+
+    # renpy/common/00director.rpy:1845
+    old "Customize director.audio_channels to add more channels."
+    new "Customize director.audio_channels to add more channels."
+
+    # renpy/common/00gui.rpy:454
+    old "Are you sure you want to continue where you left off?"
+    new "Are you sure you want to continue where you left off?"
+
+    # renpy/common/00preferences.rpy:438
+    old "self voicing enable"
+    new "self voicing enable"
+
+    # renpy/common/00preferences.rpy:440
+    old "self voicing disable"
+    new "self voicing disable"
+
+    # renpy/common/00preferences.rpy:455
+    old "clipboard voicing enable"
+    new "clipboard voicing enable"
+
+    # renpy/common/00preferences.rpy:457
+    old "clipboard voicing disable"
+    new "clipboard voicing disable"
+
+    # renpy/common/00preferences.rpy:464
+    old "debug voicing enable"
+    new "debug voicing enable"
+
+    # renpy/common/00preferences.rpy:466
+    old "debug voicing disable"
+    new "debug voicing disable"
+
+    # renpy/common/00preferences.rpy:586
+    old "restore window position"
+    new "restore window position"
+
+    # renpy/common/00preferences.rpy:595
+    old "reset"
+    new "reset"
+
+    # renpy/common/00speechbubble.rpy:408
+    old "(clear retained bubbles)"
+    new "(clear retained bubbles)"
+
+    # renpy/common/00updater.rpy:505
+    old "No update methods found."
+    new "No update methods found."
+
+    # renpy/common/00updater.rpy:552
+    old "Could not download file list: "
+    new "Could not download file list: "
+
+    # renpy/common/00updater.rpy:555
+    old "File list digest does not match."
+    new "File list digest does not match."
+
+    # renpy/common/00updater.rpy:2072
+    old "Preparing to download the game data."
+    new "Preparing to download the game data."
+
+    # renpy/common/00updater.rpy:2074
+    old "Downloading the game data."
+    new "Downloading the game data."
+
+    # renpy/common/00updater.rpy:2076
+    old "The game data has been downloaded."
+    new "The game data has been downloaded."
+
+    # renpy/common/00updater.rpy:2078
+    old "An error occured when trying to download game data:"
+    new "An error occured when trying to download game data:"
+
+    # renpy/common/00updater.rpy:2083
+    old "This game cannot be run until the game data has been downloaded."
+    new "This game cannot be run until the game data has been downloaded."
+
+    # renpy/common/00updater.rpy:2090
+    old "Retry"
+    new "Retry"
+

@@ -480,11 +480,11 @@ translate deutsch d08s00_week1synopsis_95f66221:
     # "And even has a taste of him!"
     "Und hatte sogar seinen Geschmack!"
 
-# game/code/recap.rpy:328
-translate deutsch d08s00_week1synopsis_d8de791e:
+# game/code/recap.rpy:260
+translate deutsch d08s00_week1synopsis_040936fd:
 
-    # "On Saturday morning, Stacy moved to be closer to campus, where she will be starting classes in Autumn, and decided to stay at MC's dorm temporarily."
-    "Am Samstagmorgen zog Stacy näher an den Campus, wo sie im Herbst mit dem Unterricht beginnen wird, und beschloss, vorübergehend in MCs Zimmer zu bleiben."
+    # "On Saturday morning, Stacy moved to be closer to campus, where she will be starting classes in Autumn, and decided to stay at [mcname]'s dorm temporarily."
+    "Am Samstagmorgen zog Stacy näher an den Campus, wo sie im Herbst mit dem Unterricht beginnen wird, und beschloss, vorübergehend in [mcname]'s Zimmer zu bleiben."
 
 # game/code/recap.rpy:331
 translate deutsch d08s00_week1synopsis_a7b86fb9:
@@ -948,4 +948,3 @@ translate deutsch d08s00_week1synopsis_1743400f:
 
     # "Hana revealed many things, including the fact that she was investigating Fetish Locator and trying to figure out a way to win the prize. She had only slept with Pete to get access to his phone."
     "Hana revealed many things, including the fact that she was investigating Fetish Locator and trying to figure out a way to win the prize. She had only slept with Pete to get access to his phone."
-
