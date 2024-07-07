@@ -480,11 +480,11 @@ translate portuguese d08s00_week1synopsis_95f66221:
     # "And even has a taste of him!"
     "E até conseguiu um gostinho dele!"
 
-# game/code/recap.rpy:328
-translate portuguese d08s00_week1synopsis_d8de791e:
+# game/code/recap.rpy:260
+translate portuguese d08s00_week1synopsis_040936fd:
 
-    # "On Saturday morning, Stacy moved to be closer to campus, where she will be starting classes in Autumn, and decided to stay at MC's dorm temporarily."
-    "No sábado de manhã, Stacy se mudou para mais perto do campus, onde vai começar a cursar no outono, e decidiu ficar temporariamente no dormitório do MC."
+    # "On Saturday morning, Stacy moved to be closer to campus, where she will be starting classes in Autumn, and decided to stay at [mcname]'s dorm temporarily."
+    "No sábado de manhã, Stacy se mudou para mais perto do campus, onde vai começar a cursar no outono, e decidiu ficar temporariamente no dormitório do [mcname]."
 
 # game/code/recap.rpy:331
 translate portuguese d08s00_week1synopsis_a7b86fb9:
