@@ -202,3 +202,19 @@ translate korean strings:
     old "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
     new "계속 진행하는 경우, 다른 주 사이의 저장 파일이 작동하지 않을 수 있습니다. 다시 경고를 받지 않게 됩니다. 괜찮겠습니까?"
 
+# TODO: Translation updated at 2024-07-07 21:01
+
+translate korean strings:
+
+    # game/code/screens/screens_fl.rpy:918
+    old "Sync your saves using Ren'Py Sync server"
+    new "Sync your saves using Ren'Py Sync server"
+
+    # game/code/screens/screens_fl.rpy:920
+    old "Upload Saves"
+    new "Upload Saves"
+
+    # game/code/screens/screens_fl.rpy:921
+    old "Download Saves"
+    new "Download Saves"
+

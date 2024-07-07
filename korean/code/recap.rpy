@@ -504,10 +504,10 @@ translate korean d08s00_week1synopsis_95f66221:
     # "And even has a taste of him!"
     "게다가 스테이시는 주인공의 맛도 보았다!"
 
-# game/code/recap.rpy:338
-translate korean d08s00_week1synopsis_d8de791e:
+# game/code/recap.rpy:260
+translate korean d08s00_week1synopsis_040936fd:
 
-    # "On Saturday morning, Stacy moved to be closer to campus, where she will be starting classes in Autumn, and decided to stay at MC's dorm temporarily."
+    # "On Saturday morning, Stacy moved to be closer to campus, where she will be starting classes in Autumn, and decided to stay at [mcname]'s dorm temporarily."
     "토요일 아침, 스테이시는 주인공이 다니는 대학이 있는 도시로 왔다. 가을 학기부터 스테이시도 이 대학에 다니기 때문이다. 방을 구하기 전까지 스테이시는 주인공의 기숙사 방에 잠시 머물기로 했다."
 
 # game/code/recap.rpy:341
