@@ -10,7 +10,7 @@ translate french d08s01_a38e2739:
 translate french d08s01_423607e1:
 
     # "Monday"
-    "Lundi"
+    "Mardi"
 
 # game/code/d08/d08s01.rpy:40
 translate french d08s01_f24b841d:
