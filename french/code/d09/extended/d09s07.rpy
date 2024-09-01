@@ -40,7 +40,7 @@ translate french d09s07_876cc8c2:
 translate french d09s07_b3e774b1:
 
     # mc "That doesn't make it any better."
-    mc "Cela ne l'améliore pas du tout."
+    mc "Cela ne change rien, cela reste inacceptable."
 
 # game/code/d09/extended/d09s07.rpy:64
 translate french d09s07_7b218c07:
@@ -52,7 +52,7 @@ translate french d09s07_7b218c07:
 translate french d09s07_004b029a:
 
     # mc "Huh? Someone is paying you to rape... {w}herself?"
-    mc "Hein? Quelqu'un vous paie pour se faire{w} violer..?."
+    mc "Hein ? Quelqu'un vous paie pour se faire{w} violer..?."
 
 # game/code/d09/extended/d09s07.rpy:68
 translate french d09s07_8126f0c0:
@@ -142,7 +142,7 @@ translate french d09s07_9a1a0502:
 translate french d09s07_44b96f72:
 
     # sb "Your goal is simple. Get her to say that \"Popeye is Not Guilty\"."
-    sb "Votre objectif est simple. Fais-lui dire ça \"Popeye n'est pas coupable\"."
+    sb "Ton objectif est simple. Fais-lui dire ça \"Popeye n'est pas coupable\"."
 
 # game/code/d09/extended/d09s07.rpy:97
 translate french d09s07_2689b56d:
@@ -244,7 +244,7 @@ translate french d09s07_e21e0693:
 translate french d09s07_29bc5049:
 
     # "???" "Hello?"
-    "???" "Bonjour?"
+    "???" "Bonjour ?"
 
 # game/code/d09/extended/d09s07.rpy:148
 translate french d09s07_70772979:
@@ -262,7 +262,7 @@ translate french d09s07_87b9fa6e:
 translate french d09s07_9bacafc9:
 
     # mc "Um, hi. {w}You seem familiar. Don't I know you?"
-    mc "Um salut. {w}Vous semblez familier. Je ne te connais pas ?"
+    mc "Um salut. {w}Vous semblez familier. Je ne vous connais pas ?"
 
 # game/code/d09/extended/d09s07.rpy:158
 translate french d09s07_d2edf73e:
@@ -292,13 +292,13 @@ translate french d09s07_95096c0e:
 translate french d09s07_85965887:
 
     # jdg "Oh. I see."
-    jdg "Oh.Je vois"
+    jdg "Oh. Je vois"
 
 # game/code/d09/extended/d09s07.rpy:170
 translate french d09s07_ca96a0b0:
 
     # mc "I assume you know what this is about."
-    mc "Je suppose que tu sais de quoi il s'agit."
+    mc "Je suppose que vous savez de quoi il s'agit."
 
 # game/code/d09/extended/d09s07.rpy:171
 translate french d09s07_f745b958:
@@ -334,7 +334,7 @@ translate french d09s07_46152c0a:
 translate french d09s07_e7811348:
 
     # mc "Not permanently?"
-    mc "pas de maniere permanente?"
+    mc "pas de maniere permanente ?"
 
 # game/code/d09/extended/d09s07.rpy:184
 translate french d09s07_e65f240b:
@@ -352,7 +352,7 @@ translate french d09s07_f5910228:
 translate french d09s07_66953696:
 
     # jdg "Your goal is to get me to say that \"Popeye is not guilty\", preferably without forcing me to say kumquat."
-    jdg "Ton but est de me faire dire \"Popeye n'est pas coupable\",de préférence sans me contraindre à dire kumquat."
+    jdg "Votre objectif est de me faire dire \"Popeye n'est pas coupable\",de préférence sans me contraindre à dire kumquat."
 
 # game/code/d09/extended/d09s07.rpy:189
 translate french d09s07_c7510e07:
@@ -376,7 +376,7 @@ translate french d09s07_b0016dd4:
 translate french d09s07_30a60e90:
 
     # jdg "Good for you. {w}So, are you going to do something or just fucking stand there all night?"
-    jdg "Tant mieux pour toi. {w}Alors, tu vas faire quelque chose ou tu vas juste rester là toute la nuit ?"
+    jdg "Tant mieux pour vous. {w}Alors, vous allez faire quelque chose ou vous allez juste rester là toute la nuit ?"
 
 # game/code/d09/extended/d09s07.rpy:226
 translate french d09s07_part1_44dd89e2:
@@ -412,7 +412,7 @@ translate french d09s07_part1_75274bc4:
 translate french d09s07_part1_fdd96405:
 
     # mc "You know what I want?"
-    mc "Tu sais ce que je veux?"
+    mc "Tu sais ce que je veux ?"
 
 # game/code/d09/extended/d09s07.rpy:256
 translate french d09s07_part1_2b848459:
@@ -496,7 +496,7 @@ translate french d09s07_part1_9b34df49:
 translate french d09s07_part1_626d4ab8:
 
     # mc "I am sure you can't wait to taste it."
-    mc "Je suis sûr que tu as hâte de le goûter."
+    mc "Je suis sûr que tu as hâte de la goûter."
 
 # game/code/d09/extended/d09s07.rpy:326
 translate french d09s07_part1_bc0db522:
@@ -520,13 +520,13 @@ translate french d09s07_bj_bace6fe7:
 translate french d09s07_bj_c17ef8ec:
 
     # mc "What's that?"
-    mc "Qu'est ce qu'il y a?"
+    mc "Qu'est ce qu'il y a ?"
 
 # game/code/d09/extended/d09s07.rpy:350
 translate french d09s07_bj_c2b89c00:
 
     # mc "You can't speak?"
-    mc "Tu ne peux pas parler?"
+    mc "Tu ne peux pas parler ?"
 
 # game/code/d09/extended/d09s07.rpy:351
 translate french d09s07_bj_cbf3bf89:
@@ -544,7 +544,7 @@ translate french d09s07_bj_825653e1:
 translate french d09s07_bj_25441248:
 
     # mc "Sometime before you pass out."
-    mc "Parfois avant de t'évanouir."
+    mc "Avant de t'évanouir."
 
 # game/code/d09/extended/d09s07.rpy:359
 translate french d09s07_bj_83991a96:
@@ -556,13 +556,13 @@ translate french d09s07_bj_83991a96:
 translate french d09s07_bj_aff072e3:
 
     # mc "Oh, fine."
-    mc "Oh, bon."
+    mc "Oh, bien."
 
 # game/code/d09/extended/d09s07.rpy:366
 translate french d09s07_bj_9a762b38:
 
     # jdg "Gah!"
-    jdg "Gah!"
+    jdg "Gah !"
 
 # game/code/d09/extended/d09s07.rpy:367
 translate french d09s07_bj_77b66b1d:
@@ -598,19 +598,19 @@ translate french d09s07_bj_6c3780d7:
 translate french d09s07_bj_ae48211d:
 
     # mc "Have you ever heard of waterboarding?"
-    mc "Avez-vous déjà entendu parler du waterboarding ?"
+    mc "Avez-vous déjà entendu parler du waterboarding (simulacres de noyade) ?"
 
 # game/code/d09/extended/d09s07.rpy:382
 translate french d09s07_bj_6abe67cc:
 
     # mc "It's considered \"Not Torture\" by certain governments."
-    mc "C'est considéré comme \"Pas de la Torture\" par certains gouvernements."
+    mc "Ce n'est pas considéré comme de la \"Torture\" par certains gouvernements."
 
 # game/code/d09/extended/d09s07.rpy:383
 translate french d09s07_bj_41e35daa:
 
     # mc "The idea is that you shove a dirty towel down someone's throat all the way to the point that it fills both of their lungs."
-    mc "L’idée est que vous enfonciez une serviette sale dans la gorge de quelqu’un jusqu’à ce qu’elle remplisse ses deux poumons."
+    mc "L’idée est que vous enfoncez une serviette sale dans la gorge de quelqu’un jusqu’à ce qu’elle remplisse ses deux poumons."
 
 # game/code/d09/extended/d09s07.rpy:388
 translate french d09s07_bj_e077c458:
@@ -658,7 +658,7 @@ translate french d09s07_bj_a3d41786:
 translate french d09s07_bjtorture_8d9ce8b9:
 
     # jdg "No more! No more!"
-    jdg "ça suffit! ça suffit!"
+    jdg "ça suffit ! ça suffit !"
 
 # game/code/d09/extended/d09s07.rpy:420
 translate french d09s07_bjtorture_7118439c:
@@ -688,7 +688,7 @@ translate french d09s07_bjtorture_920af2d7:
 translate french d09s07_bjtorture_a61571ac:
 
     # jdg "Kumquat! Kumquat!"
-    jdg "Kumquat! Kumquat!"
+    jdg "Kumquat ! Kumquat !"
 
 # game/code/d09/extended/d09s07.rpy:446
 translate french d09s07_bjtorture_23b109a2:
@@ -766,19 +766,19 @@ translate french d09s07_part2_30155efe:
 translate french d09s07_sex_66238e65:
 
     # jdg "Aaahhhhh!"
-    jdg "Aaahhhhh!"
+    jdg "Aaahhhhh !"
 
 # game/code/d09/extended/d09s07.rpy:514
 translate french d09s07_sex_3c28788b:
 
     # jdg "Oh fuck yes!"
-    jdg "Oh oui putain!"
+    jdg "Oh oui putain !"
 
 # game/code/d09/extended/d09s07.rpy:515
 translate french d09s07_sex_205806d6:
 
     # jdg "You're raping me!"
-    jdg "Vous me violez!"
+    jdg "Vous me violez !"
 
 # game/code/d09/extended/d09s07.rpy:520
 translate french d09s07_sex_2b76221c:
@@ -808,13 +808,13 @@ translate french d09s07_sex_6cd3adff:
 translate french d09s07_sex_b95e4793:
 
     # jdg "Whatever you do!"
-    jdg "Tout ce que vous vous voulez"
+    jdg "Tout ce que vous vous voulez !"
 
 # game/code/d09/extended/d09s07.rpy:536
 translate french d09s07_sex_3ed0be9b:
 
     # jdg "Don't stop fucking my slutty cunt!"
-    jdg "N'arrête pas de baiser ma chatte de salope!"
+    jdg "N'arrête pas de baiser ma chatte de salope !"
 
 # game/code/d09/extended/d09s07.rpy:545
 translate french d09s07_sex_7889f170:
@@ -838,7 +838,7 @@ translate french d09s07_sex_e850d760:
 translate french d09s07_sex2_eb5a2d8a:
 
     # jdg "What happened?"
-    jdg "Que s'est-il passé?"
+    jdg "Que s'est-il passé ?"
 
 # game/code/d09/extended/d09s07.rpy:577
 translate french d09s07_sex2_e136bacb:
@@ -868,7 +868,7 @@ translate french d09s07_sex2_e3547230:
 translate french d09s07_sex2_1f05afb4:
 
     # jdg "What words?"
-    jdg "Quels mots?"
+    jdg "Quels mots ?"
 
 # game/code/d09/extended/d09s07.rpy:592
 translate french d09s07_sex2_ee4ed6e1:
@@ -880,13 +880,13 @@ translate french d09s07_sex2_ee4ed6e1:
 translate french d09s07_sex2_0cee155d:
 
     # jdg "Popeye Is Not Guilty! Popeye Is Not Guilty!"
-    jdg "Popeye n'est pas coupable! Popeye n'est pas coupable!"
+    jdg "Popeye n'est pas coupable ! Popeye n'est pas coupable !"
 
 # game/code/d09/extended/d09s07.rpy:620
 translate french d09s07_end_91d8a70c:
 
     # mc "You okay?"
-    mc "Ça va?"
+    mc "Ça va ?"
 
 # game/code/d09/extended/d09s07.rpy:625
 translate french d09s07_end_86bd6342:
@@ -928,7 +928,7 @@ translate french d09s07_end_31ef3229:
 translate french d09s07_end_94ad559a:
 
     # jdg "I... what?"
-    jdg "je... Quoi?"
+    jdg "je... Quoi ?"
 
 # game/code/d09/extended/d09s07.rpy:643
 translate french d09s07_end_57a22681:
@@ -940,7 +940,7 @@ translate french d09s07_end_57a22681:
 translate french d09s07_end_e9598030:
 
     # jdg "Roleplay? What are you talking about?"
-    jdg "Un jeu de rôle ? Qu'est-ce que tu racontes?"
+    jdg "Un jeu de rôle ? Qu'est-ce que tu racontes ?"
 
 # game/code/d09/extended/d09s07.rpy:648
 translate french d09s07_end_cbcf6bb4:
@@ -964,7 +964,7 @@ translate french d09s07_end_956a76f8:
 translate french d09s07_end_12442001:
 
     # mc "Fuckfuckfuckfuckfuck"
-    mc "MerdeMerdeMerdeMerdeMerde"
+    mc "Merde Merde Merde Merde Merde"
 
 # game/code/d09/extended/d09s07.rpy:658
 translate french d09s07_end_40777db7:
@@ -976,7 +976,7 @@ translate french d09s07_end_40777db7:
 translate french d09s07_end_3eb6a03b:
 
     # jdg "Hey! Listen to me."
-    jdg "Hey! Écoute moi."
+    jdg "Hey ! Écoute moi."
 
 # game/code/d09/extended/d09s07.rpy:662
 translate french d09s07_end_5718b307:
@@ -988,7 +988,7 @@ translate french d09s07_end_5718b307:
 translate french d09s07_end_b625b180:
 
     # mc "I...{w} huh?"
-    mc "je...{w} huh?"
+    mc "je...{w} huh ?"
 
 # game/code/d09/extended/d09s07.rpy:666
 translate french d09s07_end_923531c6:
@@ -1006,7 +1006,7 @@ translate french d09s07_end_04d36be1:
 translate french d09s07_end_833184ec:
 
     # mc "You're kidding me?"
-    mc "Tu te moques de moi?"
+    mc "Tu te moques de moi ?"
 
 # game/code/d09/extended/d09s07.rpy:672
 translate french d09s07_end_7b4b5982:
@@ -1108,7 +1108,7 @@ translate french d09s07_end_ce4bc81c:
 translate french d09s07_end_bc722708:
 
     # jdg "Okay, well... do you remember who I am?"
-    jdg "Ok, eh bien... tu sais de qui je suis?"
+    jdg "Ok, eh bien... tu sais de qui je suis ?"
 
 # game/code/d09/extended/d09s07.rpy:730
 translate french d09s07_end_e6c6a17d:
@@ -1222,7 +1222,7 @@ translate french d09s07_phone_50a03c0e:
 translate french d09s07_phone_66d746b8:
 
     # mct "Huh? A gold star?"
-    mct "Hein? Une étoile d'or ?"
+    mct "Hein ? Une étoile d'or ?"
 
 # game/code/d09/extended/d09s07.rpy:807
 translate french d09s07_phone_c38dcf53:
@@ -1258,7 +1258,7 @@ translate french d09s07_quit_0ddc9801:
 translate french d09s07_quit_4337adb7:
 
     # jdg "What are you talking about?"
-    jdg "Qu'est-ce que tu racontes?"
+    jdg "Qu'est-ce que tu racontes ?"
 
 # game/code/d09/extended/d09s07.rpy:832
 translate french d09s07_quit_bf726513:
@@ -1270,7 +1270,7 @@ translate french d09s07_quit_bf726513:
 translate french d09s07_quit_fcc10efe:
 
     # jdg "Ok... {w}Get Out!"
-    jdg "Ok... {w}Sortez!"
+    jdg "Ok... {w}Sortez !"
 
 # game/code/d09/extended/d09s07.rpy:838
 translate french d09s07_quit_a58deb7c:
@@ -1282,7 +1282,7 @@ translate french d09s07_quit_a58deb7c:
 translate french d09s07_quit_00459698:
 
     # jdg "What? Really?{w} But it's just some harmless fun."
-    jdg "Quoi? Vraiment ?{w} Mais c'est juste un plaisir inoffensif."
+    jdg "Quoi ? Vraiment ?{w} Mais c'est juste un plaisir inoffensif."
 
 # game/code/d09/extended/d09s07.rpy:844
 translate french d09s07_quit_ce88f116:
@@ -1306,7 +1306,7 @@ translate french d09s07_quit_49e0efee:
 translate french d09s07_sb_talk_fdc68d2b:
 
     # sb "That was quick. What happened?"
-    sb "C'était rapide. Ce qui s'est passé?"
+    sb "C'était rapide. Ce qui s'est passé ?"
 
 # game/code/d09/extended/d09s07.rpy:869
 translate french d09s07_sb_talk_c562eb8a:
@@ -1318,7 +1318,7 @@ translate french d09s07_sb_talk_c562eb8a:
 translate french d09s07_sb_talk_fde64129:
 
     # sb "IT WASN'T RAPE! You just had to pretend!"
-    sb "CE N'ÉTAIT PAS UN VIOL ! Il fallait juste faire semblant!"
+    sb "CE N'ÉTAIT PAS UN VIOL ! Il fallait juste faire semblant !"
 
 # game/code/d09/extended/d09s07.rpy:874
 translate french d09s07_sb_talk_4eef0325:
@@ -1390,7 +1390,7 @@ translate french d09s07_sb_talk_9a4e5461:
 translate french d09s07_sb_talk_59c53f47:
 
     # sb "So, how did it go?"
-    sb "Alors, comment ça s'est passé?"
+    sb "Alors, comment ça s'est passé ?"
 
 # game/code/d09/extended/d09s07.rpy:916
 translate french d09s07_sb_talk_14425d2d:
@@ -1480,7 +1480,7 @@ translate french d09s07_sb_talk_e8c335f5:
 translate french d09s07_sb_talk_39340e8f:
 
     # mc "Strange? Is that enough?"
-    mc "Étrange? Est-ce suffisant?"
+    mc "Étrange ? Est-ce suffisant ?"
 
 # game/code/d09/extended/d09s07.rpy:959
 translate french d09s07_sb_talk_ad79a373:
