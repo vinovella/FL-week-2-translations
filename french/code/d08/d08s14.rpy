@@ -58,7 +58,7 @@ translate french d08s14_611dd150:
 translate french d08s14_931e2318:
 
     # mct "Huh? Oh, what the fuck is it now?"
-    mct "Hein? Oh, qu'est-ce que c'est encore ?"
+    mct "Hein ? Oh, qu'est-ce que c'est encore ?"
 
 # game/code/d08/d08s14.rpy:27
 translate french d08s14_314814d8:
@@ -184,7 +184,7 @@ translate french d08s14_5142227c:
 translate french d08s14_f49fff8f:
 
     # mc "Yeah?"
-    mc "Ouais?"
+    mc "Ouais ?"
 
 # game/code/d08/d08s14.rpy:69
 translate french d08s14_7b443095:
@@ -214,7 +214,7 @@ translate french d08s14_519188bb:
 translate french d08s14_05500ff6:
 
     # mc "Huh?"
-    mc "Euh?"
+    mc "Euh ?"
 
 # game/code/d08/d08s14.rpy:78
 translate french d08s14_a5bb9100:
@@ -226,7 +226,7 @@ translate french d08s14_a5bb9100:
 translate french d08s14_6f04813f:
 
     # mc "... a relationship?"
-    mc "... Une relation?"
+    mc "... Une relation ?"
 
 # game/code/d08/d08s14.rpy:80
 translate french d08s14_c7da9593:
@@ -262,7 +262,7 @@ translate french d08s14_fc924438:
 translate french d08s14_06f67a61:
 
     # mc "Huh? I think you lost me."
-    mc "Hein? Je pense que tu m'as perdu là."
+    mc "Hein ? Je pense que tu m'as perdu là."
 
 # game/code/d08/d08s14.rpy:90
 translate french d08s14_fcf296a1:
@@ -424,7 +424,7 @@ translate french d08s14_8c50e41c:
 translate french d08s14_af788747:
 
     # mc "Thank you?"
-    mc "Mer...ci?"
+    mc "Mer...ci ?"
 
 # game/code/d08/d08s14.rpy:135
 translate french d08s14_6d8b6bdf:
@@ -484,7 +484,7 @@ translate french d08s14_e5f695cd:
 translate french d08s14_55310c42:
 
     # mc "Seriously?"
-    mc "Sérieux?"
+    mc "Sérieux ?"
 
 # game/code/d08/d08s14.rpy:149
 translate french d08s14_c3ada1a4:
@@ -502,7 +502,7 @@ translate french d08s14_05500ff6_1:
 translate french d08s14_5a4cc994:
 
     # lc "I want you to be able... and willing... to talk to me about that other stuff. Even if we can't do it together."
-    lc "Je veux que tu sois capable... et envieux... de me parler de ces autres choses. Même si on ne peut pas le faire ensemble"
+    lc "Je veux que tu sois capable... et disposé... à me parler de ces choses. Même si on ne peut pas le faire ensemble"
 
 # game/code/d08/d08s14.rpy:154
 translate french d08s14_6bd19203:
@@ -586,7 +586,7 @@ translate french d08s14_950a2e9a:
 translate french d08s14_bfb0c73c:
 
     # lc "See, that's exactly what I'm talking about. I don't want to put you in position to lie."
-    lc "Tu vois, c'est exactement ce dont je parle. Je ne veux pas te mettre dans la position de me mentir."
+    lc "Tu vois, c'est exactement ce dont je parle. Je ne veux pas te mettre dans une position pou me mentir."
 
 # game/code/d08/d08s14.rpy:189
 translate french d08s14_9812e149:
@@ -916,7 +916,7 @@ translate french d08s14_b14815c5:
 translate french d08s14_8aecd598:
 
     # lc "No, no. I'm sure you're not the first one, but it makes me more certain that you need physical satisfaction somewhere else."
-    lc "Non non. Je suis sûre que tu n'es pas le premier, mais me confirme que tu as besoin d'interactions physiques avec d'autres personnes."
+    lc "Non non. Je suis sûre que tu n'es pas le premier, mais cela me confirme que tu as besoin d'interactions physiques avec d'autres personnes."
 
 # game/code/d08/d08s14.rpy:305
 translate french d08s14_9fa8cf19:
@@ -1090,7 +1090,7 @@ translate french d08s14_8a81a357:
 translate french d08s14_d94287a8:
 
     # mc "Yeah... why?"
-    mc "Ouais pourquoi?"
+    mc "Ouais pourquoi ?"
 
 # game/code/d08/d08s14.rpy:361
 translate french d08s14_005fab60:
@@ -1168,7 +1168,7 @@ translate french d08s14_3bed173e:
 translate french d08s14_dd29bdce:
 
     # mc "Um, yeah. Where guys have sex with their girlfriends or whatever while the girl pretends to be asleep?"
-    mc "Euh, ouais. Où les mecs couchent avec leurs copines pendant que la fille fait semblant de dormir?"
+    mc "Euh, ouais. Où les mecs couchent avec leurs copines pendant que la fille fait semblant de dormir ?"
 
 # game/code/d08/d08s14.rpy:383
 translate french d08s14_10bdbab7:
