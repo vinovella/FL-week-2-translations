@@ -10,19 +10,19 @@ translate french d08s08_e8de1932:
 translate french d08s08_04c732d3:
 
     # mct "What am I going to tell Lydia?"
-    mct "Qu'est-ce que je vais dire à Lydia?"
+    mct "Qu'est-ce que je vais dire à Lydia ?"
 
 # game/code/d08/d08s08.rpy:11
 translate french d08s08_3098df80:
 
     # mct "\"Hi... I'm kinda, sorta your boyfriend, but I gotta be able to boink anything to win a million dollars.\""
-    mct "\"Salut... Je suis en quelque sorte ton petit-ami, mais je dois être capable de baiser n'importe quoi pour gagner un million de dollars.\""
+    mct "\"Salut... Je suis en quelque sorte ton petit-ami, mais je suis obligé de baiser n'importe qui pour gagner un million de dollars.\""
 
 # game/code/d08/d08s08.rpy:13
 translate french d08s08_79de6eca:
 
     # mct "\"Hi... I'm kinda sorta your boyfriend, but I'll boink anything I can.\""
-    mct "\"Salut... Je suis un peu ton petit ami, mais je dois être capable de baiser n'importe quoi.\""
+    mct "\"Salut... Je suis un peu ton petit ami, mais je suis obligé de baiser n'importe qui.\""
 
 # game/code/d08/d08s08.rpy:14
 translate french d08s08_553cc969:
@@ -40,7 +40,7 @@ translate french d08s08_4ce5619c:
 translate french d08s08_6277b9cc:
 
     # mct "Oh good. Here comes the \"Captain of the SS Nude\" with the codes."
-    mct "Oh super. Voici \"Capitaine du SS à poil\" avec les codes."
+    mct "Oh super. Voici \"Capitaine SS à poil\" avec les codes."
 
 # game/code/d08/d08s08.rpy:23
 translate french d08s08_db500228:
@@ -70,7 +70,7 @@ translate french d08s08_fbea7e49:
 translate french d08s08_f31b480d:
 
     # mct "Feeling like Bond... {w}[mcname] Bond!"
-    mct "Je me sens comme Bond... {w}[mcname] Bond!"
+    mct "Je me sens comme Bond... {w}[mcname] Bond !"
 
 # game/code/d08/d08s08.rpy:48
 translate french d08s08_cd3c7bd4:
@@ -82,7 +82,7 @@ translate french d08s08_cd3c7bd4:
 translate french d08s08_ae5c4de9:
 
     # mct "Good, good. Pete's not here."
-    mct "ouf. Pete est pas là."
+    mct "Ouf. Pete n'est pas là."
 
 # game/code/d08/d08s08.rpy:57
 translate french d08s08_f63add58:
@@ -118,7 +118,7 @@ translate french d08s08_660ab639:
 translate french d08s08_4478f179:
 
     # mct "That's so weird. Pete's too much of a perverteer to be in love with anyone."
-    mct "C'est tres etrange. Pete est trop pervers pour être amoureux de qui que ce soit.."
+    mct "C'est très etrange. Pete est trop pervers pour être amoureux de qui que ce soit.."
 
 # game/code/d08/d08s08.rpy:73
 translate french d08s08_b663e7ad:
@@ -142,13 +142,13 @@ translate french d08s08_bad6a234:
 translate french d08s08_5a83f1cf:
 
     # mc "Huh? Oh, hey Pete. I didn't see you come in."
-    mc "Hein? Oh, salut Pete. Je ne t'ai pas vu entrer."
+    mc "Hein ? Oh, salut Pete. Je ne t'ai pas vu entrer."
 
 # game/code/d08/d08s08.rpy:95
 translate french d08s08_61a1de50:
 
     # pb "DUDE! Are you jerking off on my shit?!"
-    pb "MEC! Tu te branles sur ma chaise ?!"
+    pb "MEC ! Tu te branles sur ma chaise ?!"
 
 # game/code/d08/d08s08.rpy:98
 translate french d08s08_742fc993:
@@ -166,7 +166,7 @@ translate french d08s08_f248cc81:
 translate french d08s08_faa87c46:
 
     # mc "And my chair doesn't spin! So I had to use yours..."
-    mc "Et ma chaise ne tourne pas ! J'ai donc dû utiliser le vôtre.."
+    mc "Mais ma chaise ne tourne pas ! J'ai donc dû utiliser la tienne..."
 
 # game/code/d08/d08s08.rpy:105
 translate french d08s08_d8c25734:
@@ -214,13 +214,13 @@ translate french d08s08_4b815a81:
 translate french d08s08_7d010a14:
 
     # mc "What happened?"
-    mc "Que s'est-il passé?"
+    mc "Que s'est-il passé ?"
 
 # game/code/d08/d08s08.rpy:126
 translate french d08s08_7a98fd7a:
 
     # pb "Well..."
-    pb "eh bien..."
+    pb "Eh bien..."
 
 # game/code/d08/d08s08.rpy:127
 translate french d08s08_f0c6499a:
@@ -238,7 +238,7 @@ translate french d08s08_b46e9e80:
 translate french d08s08_b1569257:
 
     # pb "Okay. So, I woke up late. I thought to myself, \"Where did I meet Samiya last night?\""
-    pb "D'accord. Alors, je me suis réveillé tard. Je me suis dit : « Où ai-je rencontré Samiya hier soir ?\""
+    pb "D'accord. Alors, je me suis réveillé tard. Je me suis dit : \"Où ai-je rencontré Samiya hier soir ?\""
 
 # game/code/d08/d08s08.rpy:134
 translate french d08s08_169eaddc:
@@ -280,31 +280,31 @@ translate french d08s08_1b0ffc09:
 translate french d08s08_5356f74a:
 
     # pb "Madison Estates? Yeah, that was it. You know people there?"
-    pb "Madison Estates? Ouais, c'était ça. Tu connais des gens là-bas?"
+    pb "Madison Estates ? Oui, c'était ça. Tu connais des gens là-bas ?"
 
 # game/code/d08/d08s08.rpy:148
 translate french d08s08_98605955:
 
     # mc "The Mayor lives there. It's like a private neighborhood for the ridiculously wealthy."
-    mc "Le maire habite là. C'est comme un quartier privé pour les ridiculement riches."
+    mc "Le maire habite là. C'est comme un quartier privé pour les très riches."
 
 # game/code/d08/d08s08.rpy:149
 translate french d08s08_01adb396:
 
     # mc "Don't tell me..."
-    mc "ne me dis pas..."
+    mc "Ne me dis pas..."
 
 # game/code/d08/d08s08.rpy:151
 translate french d08s08_5ef7aab8:
 
     # pb "I didn't know that. I just got as far as the gate where I ran into some security guards."
-    pb "Je ne le savais pas. Je viens d'arriver jusqu'au portail où j'ai croisé des gardes de sécurité.."
+    pb "Je ne le savais pas. Je suis arrivé jusqu'au portail où j'ai croisé des gardes de sécurité.."
 
 # game/code/d08/d08s08.rpy:152
 translate french d08s08_8c44193d:
 
     # pb "I told them the address I was going to and they started calling someone. Samiya picked up the phone."
-    pb "Je leur ai dit l'adresse où j'allais et ils ont commencé à appeler quelqu'un. Samiya décrocha le téléphone."
+    pb "Je leur ai dit l'adresse que je cherchais et ils ont commencé à appeler quelqu'un. C'est Samiya qui décrocha le téléphone."
 
 # game/code/d08/d08s08.rpy:153
 translate french d08s08_20dcd295:
@@ -322,7 +322,7 @@ translate french d08s08_d78b1b98:
 translate french d08s08_c6f1be1f:
 
     # pb "She said she didn't know me. So, I was like, \"WTF Girl? We fucked last night!\""
-    pb "Elle a dit qu'elle ne me connaissait pas. Alors, j'étais comme, \"WTF Meuf? On a baisé hier soir !\""
+    pb "Elle a dit qu'elle ne me connaissait pas. Alors, j'étais comme, \"WTF Meuf ? On a baisé hier soir !\""
 
 # game/code/d08/d08s08.rpy:160
 translate french d08s08_1d37e230:
@@ -334,7 +334,7 @@ translate french d08s08_1d37e230:
 translate french d08s08_6679db26:
 
     # mc "So, that's it?"
-    mc "Donc c'est tout?"
+    mc "Donc c'est tout ?"
 
 # game/code/d08/d08s08.rpy:162
 translate french d08s08_e2e94d37:
@@ -358,7 +358,7 @@ translate french d08s08_bc38e599:
 translate french d08s08_2fd2d602:
 
     # mc "Whoa."
-    mc "Whoa."
+    mc "Oh merde."
 
 # game/code/d08/d08s08.rpy:174
 translate french d08s08_593243a6:
@@ -370,19 +370,19 @@ translate french d08s08_593243a6:
 translate french d08s08_e3cdbc1c:
 
     # mc "You probably don't want to go back there... like ever."
-    mc "Tu n'a probablement pas envie d'y retourner... jamais."
+    mc "Tu n'as probablement pas envie d'y retourner... jamais."
 
 # game/code/d08/d08s08.rpy:178
 translate french d08s08_1f9a7706:
 
     # pb "Exactly! I don't have any other ideas for how to get your sister's luggage, though."
-    pb "Exactement! Cependant, je n'ai pas d'autres idées sur la façon de récupérer les bagages de votre sœur."
+    pb "Exactement ! Cependant, je n'ai pas d'autres idées sur la façon de récupérer les bagages de ta sœur."
 
 # game/code/d08/d08s08.rpy:180
 translate french d08s08_1cf92848:
 
     # pb "Exactly! I don't have any other ideas for how to get that luggage back, though."
-    pb "Exactement! Cependant, je n'ai pas d'autres idées sur la manière de récupérer ces bagages."
+    pb "Exactement ! Cependant, je n'ai pas d'autres idées sur la manière de récupérer ses bagages."
 
 # game/code/d08/d08s08.rpy:182
 translate french d08s08_cba2e169:
@@ -472,5 +472,5 @@ translate french d08s08_331ac6bf:
 translate french d08s08_2fff4bf6:
 
     # mc "Take it easy, and hey...{w} Thanks for trying."
-    mc "Va-y doucement, et hé...{w} Merci d'avoir essayé."
+    mc "Vas-y doucement, et...{w} Merci d'avoir essayé."
 
