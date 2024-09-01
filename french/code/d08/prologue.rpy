@@ -28,7 +28,7 @@ translate french prologue_fresh_start_d7ab3300:
 translate french prologue_fresh_start_56a763ee:
 
     # "Now the game will ask you some questions and it will configure your profile.\nFor a better experience, we invite you to play the first chapter of Fetish Locator."
-    "Maintenant, le jeu va vous quelques questions et configurera votre profil.\nPour une meilleure expérience, nous vous invitons à jouer au premier chapitre de Fetish Locator."
+    "Maintenant, le jeu va vous poser quelques questions et configurera votre profil.\nPour une meilleure expérience, nous vous invitons à jouer au premier chapitre de Fetish Locator."
 
 # game/code/d08/prologue.rpy:84
 translate french prologue_fresh_start_b5c6b797:
@@ -154,11 +154,11 @@ translate french strings:
 
     # game/code/d08/prologue.rpy:108
     old "Your sexual slave"
-    new "Ton esclave sexuele"
+    new "Ton esclave sexuel"
 
     # game/code/d08/prologue.rpy:160
     old "I am a gentleman (tips fedora)"
-    new "Je suis un gentleman (tips fedora)"
+    new "Je suis un gentleman"
 
     # game/code/d08/prologue.rpy:160
     old "I want to dominate her"
@@ -170,7 +170,7 @@ translate french strings:
 
     # game/code/d08/prologue.rpy:181
     old "Her delicate pussy"
-    new "Sa délicate chatte"
+    new "Sa chatte délicate"
 
     # game/code/d08/prologue.rpy:181
     old "Her firm ass"
