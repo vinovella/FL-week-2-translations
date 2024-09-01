@@ -16,19 +16,19 @@ translate french d08s10_f366e04b:
 translate french d08s10_570f5a5f:
 
     # "They found the room 316 and knocked."
-    "Ils ont trouvé la chambre 316 et ont frappés."
+    "Ils ont trouvé la chambre 316 et ils ont frappés."
 
 # game/code/d08/d08s10.rpy:15
 translate french d08s10_ffbc2f32:
 
     # aw "Hi?! Oh! [mcname]! Please enter! {w} I need to close the door!"
-    aw "Salut?! Oh! [mcname]! Entrez s'il vous plaît! {w} Il faut que je ferme la porte !"
+    aw "Salut ?! Oh! [mcname]! Entrez s'il vous plaît! {w} Il faut que je ferme la porte !"
 
 # game/code/d08/d08s10.rpy:17
 translate french d08s10_16bd0442:
 
     # mc "Hi Allison!..."
-    mc "Salut Allison!..."
+    mc "Salut Allison !..."
 
 # game/code/d08/d08s10.rpy:19
 translate french d08s10_242e87fc:
@@ -58,7 +58,7 @@ translate french d08s10_7953afce:
 translate french d08s10_8f8a8d86:
 
     # mc "This one?"
-    mc "Celui là ?"
+    mc "Celui-là ?"
 
 # game/code/d08/d08s10.rpy:33
 translate french d08s10_8d111784:
@@ -334,7 +334,7 @@ translate french d08s10_85dbea56:
 translate french d08s10_af6836ed:
 
     # sy "What do you mean by that?"
-    sy "Comment ça?"
+    sy "Comment ça ?"
 
 # game/code/d08/d08s10.rpy:151
 translate french d08s10_3f66154d:
@@ -484,7 +484,7 @@ translate french d08s10_3b1e781d:
 translate french d08s10_1492e670:
 
     # mc "Yes, I would like to meet with you to discuss some things."
-    mc "Oui, j'aimerais vous rencontrer pour discuter de certaines choses."
+    mc "Oui, j'aimerais te voir pour discuter de certaines choses."
 
 # game/code/d08/d08s10.rpy:202
 translate french d08s10_8852e77f:
@@ -652,7 +652,7 @@ translate french d08s10_436e30c4:
 translate french d08s10_05439293:
 
     # mc "No thanks. You can hold your own purses this time."
-    mc "Non merci. Cette fois, tu pouras tenir tes courses toi même."
+    mc "Non merci. Cette fois, tu pouras porter tes courses toi-même."
 
 # game/code/d08/d08s10.rpy:253
 translate french d08s10_0a95bb21:
