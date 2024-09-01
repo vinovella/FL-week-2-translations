@@ -64,7 +64,7 @@ translate french strings:
 
     # renpy/common/00accessibility.rpy:150
     old "Opendyslexic"
-    new "Dyslexique ouverte"
+    new "Opendyslexic"
 
     # renpy/common/00accessibility.rpy:156
     old "Text Size Scaling"
@@ -452,23 +452,23 @@ translate french strings:
 
     # renpy/common/00gui.rpy:446
     old "Are you sure?"
-    new "Vous êtes sûr?"
+    new "Vous êtes sûr ?"
 
     # renpy/common/00gui.rpy:447
     old "Are you sure you want to delete this save?"
-    new "Êtes-vous sûr de vouloir supprimer cette sauvegarde?"
+    new "Êtes-vous sûr de vouloir supprimer cette sauvegarde ?"
 
     # renpy/common/00gui.rpy:448
     old "Are you sure you want to overwrite your save?"
-    new "Voulez-vous vraiment remplacer votre sauvegarde?"
+    new "Voulez-vous vraiment remplacer votre sauvegarde ?"
 
     # renpy/common/00gui.rpy:449
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new "Le chargement perdra les progression non sauvegardés.\nÊtes-vous sûr de vouloir le faire?"
+    new "Le chargement perdra les progression non sauvegardés.\nÊtes-vous sûr de vouloir le faire ?"
 
     # renpy/common/00gui.rpy:450
     old "Are you sure you want to quit?"
-    new "Êtes-vous sûr de vouloir arrêter?"
+    new "Êtes-vous sûr de vouloir arrêter ?"
 
     # renpy/common/00gui.rpy:451
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
@@ -476,23 +476,23 @@ translate french strings:
 
     # renpy/common/00gui.rpy:452
     old "Are you sure you want to end the replay?"
-    new "Êtes-vous sûr de vouloir terminer le replay?"
+    new "Êtes-vous sûr de vouloir terminer le replay ?"
 
     # renpy/common/00gui.rpy:453
     old "Are you sure you want to begin skipping?"
-    new "Voulez-vous vraiment commencer à sauter?"
+    new "Voulez-vous vraiment commencer à sauter ?"
 
     # renpy/common/00gui.rpy:454
     old "Are you sure you want to skip to the next choice?"
-    new "Voulez-vous vraiment passer au choix suivant?"
+    new "Voulez-vous vraiment passer au choix suivant ?"
 
     # renpy/common/00gui.rpy:455
     old "Are you sure you want to skip unseen dialogue to the next choice?"
-    new "Voulez-vous vraiment passer du dialogue non-lu au choix suivant?"
+    new "Voulez-vous vraiment passer du dialogue non-lu au choix suivant ?"
 
     # renpy/common/00gui.rpy:456
     old "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
-    new "Cette sauvegarde a été créée sur un autre appareil. Les fichiers de sauvegarde construits de manière malveillante peuvent endommager votre ordinateur. Faites-vous confiance au créateur de cette sauvegarde et à tous ceux qui auraient pu modifier le fichier?"
+    new "Cette sauvegarde a été créée sur un autre appareil. Les fichiers de sauvegarde construits de manière malveillante peuvent endommager votre ordinateur. Faites-vous confiance au créateur de cette sauvegarde et à tous ceux qui auraient pu modifier le fichier ?"
 
     # renpy/common/00gui.rpy:457
     old "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
