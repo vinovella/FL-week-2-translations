@@ -28,7 +28,7 @@ translate french d08s13_bad_57af39fb:
 translate french d08s13_bad_ee87e6f3:
 
     # mc "Oh?"
-    mc "Oh?"
+    mc "Oh ?"
 
 # game/code/d08/d08s13.rpy:93
 translate french d08s13_bad_7211a50a:
@@ -64,7 +64,7 @@ translate french d08s13_bad_44d0f07b:
 translate french d08s13_bad_dab16e60:
 
     # mc "I admit, that was a shitty thing to do, but..."
-    mc "J'avoue que c'était une chose merdique à faire, mais..."
+    mc "J'avoue que c'était une chose merdique, mais..."
 
 # game/code/d08/d08s13.rpy:101
 translate french d08s13_bad_8600a4d6:
@@ -100,7 +100,7 @@ translate french d08s13_bad_956dc698:
 translate french d08s13_bad_04b89c8c:
 
     # nk "You saw an opportunity to score some points and you took advantage of me."
-    nk "Vous avez vu une opportunité de marquer des points et vous en avez profité."
+    nk "Tu as vu une opportunité de marquer des points et tu en as profité."
 
 # game/code/d08/d08s13.rpy:111
 translate french d08s13_bad_4df952bc:
@@ -112,7 +112,7 @@ translate french d08s13_bad_4df952bc:
 translate french d08s13_bad_6fb0f751:
 
     # nk "Shut your fucking mouth.{w} Do you even remember what the first betrayal was?"
-    nk "Ferme ta putain de gueule.{w} Tu te souviens même de la première trahison ?"
+    nk "Ferme ta putain de gueule.{w} Tu te souviens de la première trahison ?"
 
 # game/code/d08/d08s13.rpy:116
 translate french d08s13_bad_fca52711:
@@ -130,7 +130,7 @@ translate french d08s13_bad_a155200a:
 translate french d08s13_bad_48e127d5:
 
     # nk "She told me that she had explicitly told you that I wasn't interested in her, so you schemed together to trick me into letting her have her way with me."
-    nk "Elle m'a dit qu'elle vous avait explicitement dit qu'elle ne m'intéressait pas, alors vous avez comploté ensemble pour me tromper et la laisser faire ce qu'elle veut avec moi."
+    nk "Elle m'a dit qu'elle t'avait explicitement dit qu'elle ne m'intéressait pas, alors vous avez comploté ensemble pour me tromper et la laisser faire ce qu'elle voulait avec moi."
 
 # game/code/d08/d08s13.rpy:123
 translate french d08s13_bad_924a0fba:
@@ -160,13 +160,13 @@ translate french d08s13_bad_da7eeebc:
 translate french d08s13_bad_5b4dd44c:
 
     # nk "In fact... I'm not going to tell anyone else about any of this. Not for you, but because I don't want myself or my business associated with you."
-    nk "En fait... je ne parlerai de tout ça à personne d'autre. Pas pour vous, mais parce que je ne veux pas que moi-même ou mon entreprise soyons associés à vous."
+    nk "En fait... je ne parlerai de tout ça à personne d'autre. Pas pour toi, mais parce que je ne veux pas que moi-même ou mon entreprise soyons associés à toi."
 
 # game/code/d08/d08s13.rpy:129
 translate french d08s13_bad_8342f3c1:
 
     # nk "We're not friends. I don't trust you. I don't want to see you in here ever again."
-    nk "On n'est pas amis Je ne te crois pas. Je ne veux plus te voir ici."
+    nk "On n'est pas amis. Je ne te crois pas. Je ne veux plus te voir ici."
 
 # game/code/d08/d08s13.rpy:131
 translate french d08s13_bad_4c6d584d:
@@ -178,7 +178,7 @@ translate french d08s13_bad_4c6d584d:
 translate french d08s13_bad_4e037cfe:
 
     # nk "Now, if you'll please leave, I have some cleaning up to do."
-    nk "Maintenant, si vous voulez bien partir, j'ai du ménage à faire."
+    nk "Maintenant, si tu veux bien partir, j'ai du ménage à faire."
 
 # game/code/d08/d08s13.rpy:136
 translate french d08s13_bad_7ac29dd3:
@@ -214,7 +214,7 @@ translate french d08s13_bad_64e977d7:
 translate french d08s13_bad_725d55c4:
 
     # nk "Think about it now.{w} What if you had knocked me up?"
-    nk "Pensez-y maintenant.{w} Et si vous m'aviez mis en cloque ?"
+    nk "Penses-y maintenant.{w} Et si tu m'as mise en cloque ?"
 
 # game/code/d08/d08s13.rpy:152
 translate french d08s13_bad_056ae71d:
@@ -262,7 +262,7 @@ translate french d08s13_bad_7e604e7b:
 translate french d08s13_bad_4fe9e3d9:
 
     # pw "YOU RUINED EVERYTHING!!!"
-    pw "TU AS TOUT GACHÉ!!!"
+    pw "TU AS TOUT GACHÉ !!!"
 
 # game/code/d08/d08s13.rpy:175
 translate french d08s13_bad_b2472b88:
@@ -274,7 +274,7 @@ translate french d08s13_bad_b2472b88:
 translate french d08s13_bad_ab25b77a:
 
     # pw "FUCK OFF! FUCK YOURSELF!! AND STAY THE FUCK AWAY FROM ME!!!"
-    pw "VA TE FAIRE FOUTRE! BAISEZ-VOUS !! ET RESTEZ LOIN DE MOI !!!"
+    pw "VA TE FAIRE FOUTRE! BAISEZ-VOUS !! ET RESTES LOIN DE MOI !!!"
 
 # game/code/d08/d08s13.rpy:191
 translate french d08s13_good_6e9977d0:
@@ -346,7 +346,7 @@ translate french d08s13_good_459dc244:
 translate french d08s13_good_a70f0f27:
 
     # mc "Yeah, so?"
-    mc "Ouais, alors?"
+    mc "Ouais, et alors ?"
 
 # game/code/d08/d08s13.rpy:211
 translate french d08s13_good_7062e275:
@@ -376,13 +376,13 @@ translate french d08s13_good_96e2b4de:
 translate french d08s13_good_880fc799:
 
     # nk "You know the kids in here keep talking about that Fetish Locator app."
-    nk "Vous savez que les enfants ici n'arrêtent pas de parler de cette application Fetish Locator."
+    nk "Tu sais que les gosses d'ici n'arrêtent pas de parler de cette application Fetish Locator."
 
 # game/code/d08/d08s13.rpy:217
 translate french d08s13_good_a31340dd:
 
     # mc "Really?"
-    mc "Vraiment?"
+    mc "Vraiment ?"
 
 # game/code/d08/d08s13.rpy:219
 translate french d08s13_good_75131eef:
@@ -394,7 +394,7 @@ translate french d08s13_good_75131eef:
 translate french d08s13_good_b2aba0e3:
 
     # mc "Like what?"
-    mc "Comme quoi?"
+    mc "Comme quoi ?"
 
 # game/code/d08/d08s13.rpy:223
 translate french d08s13_good_10f23c83:
@@ -418,7 +418,7 @@ translate french d08s13_good_7d0f425e:
 translate french d08s13_good_43393439:
 
     # mc "Did you?"
-    mc "tu as accepté?"
+    mc "tu as accepté ?"
 
 # game/code/d08/d08s13.rpy:227
 translate french d08s13_good_f0d1939d:
@@ -442,7 +442,7 @@ translate french d08s13_good_eefe5415:
 translate french d08s13_good_f7800da2:
 
     # mc "Seriously? These tables wouldn't hide anything."
-    mc "Sérieusement? Ces tables ne cacheraient rien."
+    mc "Sérieusement ? Ces tables ne cacheraient rien."
 
 # game/code/d08/d08s13.rpy:234
 translate french d08s13_good_99f74c0b:
@@ -460,13 +460,13 @@ translate french d08s13_good_41b5f399:
 translate french d08s13_good_63c777b1:
 
     # nk "There must have been five couples that snuck into the bathroom together today."
-    nk "Il a dû y avoir cinq couples qui se sont faufilés ensemble dans la salle de bain aujourd’hui."
+    nk "Il a dû y avoir cinq couples qui se sont faufilés ensemble dans les WC aujourd’hui."
 
 # game/code/d08/d08s13.rpy:237
 translate french d08s13_good_83dbd5f3:
 
     # mc "What's the point of that? The meter high club?"
-    mc "Quel est l'intérêt de ça ? Le club d'un mètre de haut ?"
+    mc "Quel est l'intérêt de tout ça ? C'est comme le club des baiseurs en avion ?"
 
 # game/code/d08/d08s13.rpy:241
 translate french d08s13_good_acfeceaa:
@@ -478,19 +478,19 @@ translate french d08s13_good_acfeceaa:
 translate french d08s13_good_d87a1e31:
 
     # nk "How do I look?"
-    nk "Comment suis-je?"
+    nk "Comment suis-je ?"
 
 # game/code/d08/d08s13.rpy:248
 translate french d08s13_good_f5b95335:
 
     # mc "Damn! Hot and Fresh, just like you!"
-    mc "Mince! Chaud et frais, tout comme vous !"
+    mc "Mince ! C'est chaud et frais, tout comme toi !"
 
 # game/code/d08/d08s13.rpy:250
 translate french d08s13_good_067d6c90:
 
     # nk "Ha! Thanks..."
-    nk "Ha! Merci..."
+    nk "Ha ! Merci..."
 
 # game/code/d08/d08s13.rpy:252
 translate french d08s13_good_2452af63:
@@ -514,7 +514,7 @@ translate french d08s13_good_15d65548:
 translate french d08s13_good_9e7f8494:
 
     # nk "Kinky. I love it."
-    nk "Coquin. Je l'aime."
+    nk "Coquin. J'aime ça."
 
 # game/code/d08/d08s13.rpy:263
 translate french d08s13_good_b5c49d2a:
@@ -526,31 +526,31 @@ translate french d08s13_good_b5c49d2a:
 translate french d08s13_good_09e15fe8:
 
     # nk "Go ahead."
-    nk "Va-y."
+    nk "Vas-y."
 
 # game/code/d08/d08s13.rpy:267
 translate french d08s13_good_6599dc52:
 
     # mc "You are still going to be blindfolded, so I guess we should talk about your safe word."
-    mc "Tu vas toujours avoir les yeux bandés, donc je suppose que nous devrions parler de ton mot de sécurité.."
+    mc "Tu vas toujours avoir les yeux bandés, donc je suppose que nous devrions parler de ton mot de sécurité."
 
 # game/code/d08/d08s13.rpy:268
 translate french d08s13_good_391e9a18:
 
     # nk "Scrumbles."
-    nk "Pedigree."
+    nk "Concombre."
 
 # game/code/d08/d08s13.rpy:270
 translate french d08s13_good_05500ff6:
 
     # mc "Huh?"
-    mc "hein?"
+    mc "hein ?"
 
 # game/code/d08/d08s13.rpy:272
 translate french d08s13_good_182ce646:
 
     # nk "My safe word is Scrumbles."
-    nk "Mon mot de sécurité est Pedigree."
+    nk "Mon mot de sécurité est Concombre."
 
 # game/code/d08/d08s13.rpy:273
 translate french d08s13_good_0e959ed4:
@@ -562,19 +562,19 @@ translate french d08s13_good_0e959ed4:
 translate french d08s13_good_5fd0c4b2:
 
     # nk "Scrumbles is absolutely unforgettable."
-    nk "Pedigree est absolument inoubliable."
+    nk "Concombre est absolument inoubliable."
 
 # game/code/d08/d08s13.rpy:278
 translate french d08s13_good_f5ec0da6:
 
     # mc "Sounds like a story I'd like to hear sometime. Any questions or concerns before we get started."
-    mc "On dirait une histoire que j'aimerais entendre un jour. Si vous avez des questions ou des préoccupations avant de commencer."
+    mc "On dirait une histoire que j'aimerais entendre un jour. Si tu as des questions ou des préoccupations avant de commencer."
 
 # game/code/d08/d08s13.rpy:280
 translate french d08s13_good_bd03378a:
 
     # nk "You're not my blind date, are you?"
-    nk "Vous n'êtes pas mon blind date, n'est-ce pas ?"
+    nk "Tu n'es pas mon blind date, n'est-ce pas ?"
 
 # game/code/d08/d08s13.rpy:282
 translate french d08s13_good_8fbf7722:
@@ -592,13 +592,13 @@ translate french d08s13_good_9302c712:
 translate french d08s13_good_379def79:
 
     # mc "Nope. You'll remain blindfolded... as far as I know."
-    mc "Non. Vous aurez les yeux bandés... autant que je sache."
+    mc "Non. Tu auras les yeux bandés... autant que je sache."
 
 # game/code/d08/d08s13.rpy:285
 translate french d08s13_good_7445519d:
 
     # nk "Fair enough. Make sure he knows not to cum inside me. I'm not on the pill."
-    nk "C'est suffisant. Assurez-vous qu'il sache qu'il ne doit pas jouir en moi. je ne prends pas la pilule."
+    nk "C'est suffisant. Assures-toi qu'il sache qu'il ne doit pas jouir en moi. je ne prends pas la pilule."
 
 # game/code/d08/d08s13.rpy:289
 translate french d08s13_good_8a3cc682:
@@ -616,7 +616,7 @@ translate french d08s13_good_efe5def7:
 translate french d08s13_good_88aff48a:
 
     # mc "Third date might be traditional, but your blind dates aren't very traditional."
-    mc "Le troisième rendez-vous est peut-être traditionnel, mais vos rendez-vous à l’aveugle ne le sont pas très traditionnels."
+    mc "Le troisième rendez-vous est peut-être traditionnel, mais nos rendez-vous à l’aveugle ne le sont pas, traditionnels."
 
 # game/code/d08/d08s13.rpy:293
 translate french d08s13_good_a135b623:
@@ -652,7 +652,7 @@ translate french d08s13_good_b707cc0d:
 translate french d08s13_good_2f02183f:
 
     # nk "Oh! If I can't speak, my safe word is three grunts in a row."
-    nk "Oh! Si je ne peux pas parler, mon mot de passe est trois grognements d'affilée."
+    nk "Oh! Si je ne peux pas parler, mon code de sécurité sera trois grognements d'affilés."
 
 # game/code/d08/d08s13.rpy:305
 translate french d08s13_good_5fb021fa:
@@ -664,19 +664,19 @@ translate french d08s13_good_5fb021fa:
 translate french d08s13_good_4938d1ff:
 
     # nk "Well, you know, if I'm gagged or gagging..."
-    nk "Eh bien, vous savez, si je suis bâillonné ou si j'ai des haut-le-cœur...."
+    nk "Eh bien, tu sais, si je suis bâillonné ou si j'ai des haut-le-cœur...."
 
 # game/code/d08/d08s13.rpy:308
 translate french d08s13_good_ad394c00:
 
     # mc "I can imagine. Let me just signal your date."
-    mc "J'imagine. Laisse-moi juste faire un signal à ton rendez-vous."
+    mc "J'imagine. Laisse-moi juste faire signe à ton rendez-vous."
 
 # game/code/d08/d08s13.rpy:316
 translate french d08s13_good_deeb53d4:
 
     # nk "[mcname]? Is anyone there?"
-    nk "[mcname]? Est-ce que quelqu'un est là?"
+    nk "[mcname]? Est-ce que quelqu'un est là ?"
 
 # game/code/d08/d08s13.rpy:319
 translate french d08s13_good_c36ee90c:
@@ -694,7 +694,7 @@ translate french d08s13_good_4a005e06:
 translate french d08s13_good_12d74fb8:
 
     # nk "Oh..!"
-    nk "Oh..!"
+    nk "Oh.. !"
 
 # game/code/d08/d08s13.rpy:332
 translate french d08s13_good_1b63aa25:
@@ -730,7 +730,7 @@ translate french d08s13_good_bb32039b:
 translate french d08s13_good_4740d846:
 
     # nk "I want it. Please. You must be hard by now."
-    nk "Je le veux. S'il te plaît. Tu dois être dur maintenant."
+    nk "Je la veux. S'il te plaît. Tu dois être dur maintenant."
 
 # game/code/d08/d08s13.rpy:355
 translate french d08s13_good_522cbe58:
@@ -748,7 +748,7 @@ translate french d08s13_good_07276dd3:
 translate french d08s13_good_bdbbc247:
 
     # nk "Mmmm yes, I want to feel it. Please please fuck my throat."
-    nk "Mmmm Oui, je veux le sentir. S'il te plaît, s'il te plaît, baise-moi la gorge."
+    nk "Mmmm Oui, je veux la sentir. S'il te plaît, s'il te plaît, baise-moi la gorge."
 
 # game/code/d08/d08s13.rpy:363
 translate french d08s13_good_77e51390:
@@ -790,7 +790,7 @@ translate french d08s13_good_b02f0623:
 translate french d08s13_good_579399f5:
 
     # mc "Both of you are okay with this?"
-    mc "Cela vous convient tous les deux?"
+    mc "Cela vous convient tous les deux ?"
 
 # game/code/d08/d08s13.rpy:384
 translate french d08s13_good_ae362559:
@@ -826,13 +826,13 @@ translate french d08s13_good_e5ebc67a:
 translate french d08s13_good_95d53ee7:
 
     # nk "Mmm?"
-    nk "Mmm?"
+    nk "Mmm ?"
 
 # game/code/d08/d08s13.rpy:404
 translate french d08s13_good_6fcbc0b0:
 
     # nk "Mmmmph!"
-    nk "Mmmmph!"
+    nk "Mmmmph !"
 
 # game/code/d08/d08s13.rpy:412
 translate french d08s13_good_697a07cf_1:
@@ -844,19 +844,19 @@ translate french d08s13_good_697a07cf_1:
 translate french d08s13_good_95c7633a:
 
     # mc "Are you okay?"
-    mc "Est-ce que ça va?"
+    mc "Est-ce que ça va ?"
 
 # game/code/d08/d08s13.rpy:421
 translate french d08s13_good_73f940e7:
 
     # nk "I feel tits against my back! {w}She's a woman?"
-    nk "Je sens des seins dans mon dos ! {w} C'est une femme ?"
+    nk "Je sens des seins dans mon dos ! {w}C'est une femme ?"
 
 # game/code/d08/d08s13.rpy:424
 translate french d08s13_good_a8f56c49:
 
     # mc "Your blind date? Yes, didn't I mention that before?"
-    mc "Ton rendez-vous à l'aveugle? Oui, je n'en ai pas parlé avant ?"
+    mc "Ton rendez-vous à l'aveugle ? Oui, je n'en ai pas parlé avant ?"
 
 # game/code/d08/d08s13.rpy:426
 translate french d08s13_good_c7445d83:
@@ -868,7 +868,7 @@ translate french d08s13_good_c7445d83:
 translate french d08s13_good_78efd70b:
 
     # mc "Is that a problem? Should we stop or continue?"
-    mc "Est-ce un problème? Devons-nous arrêter ou continuer ?"
+    mc "Est-ce un problème ? Devons-nous arrêter ou continuer ?"
 
 # game/code/d08/d08s13.rpy:428
 translate french d08s13_good_6a960cd4:
@@ -910,25 +910,25 @@ translate french d08s13_good_ef1a7cbb:
 translate french d08s13_good_fd56395c:
 
     # nk "ME TOO!!"
-    nk "MOI AUSSI!!"
+    nk "MOI AUSSI !!"
 
 # game/code/d08/d08s13.rpy:479
 translate french d08s13_good_efb8a03b:
 
     # mc "Where do you want it?"
-    mc "Tu le veux où?"
+    mc "Tu le veux où ?"
 
 # game/code/d08/d08s13.rpy:480
 translate french d08s13_good_98bd8d90:
 
     # nk "HER CHOICE!"
-    nk "SON CHOIX!"
+    nk "SON CHOIX !"
 
 # game/code/d08/d08s13.rpy:484
 translate french d08s13_good_cd20e68f:
 
     # nk "MMMmmmmphh!!!"
-    nk "MMMmmmmphh!!!"
+    nk "MMMmmmmphh !!!"
 
 # game/code/d08/d08s13.rpy:486
 translate french d08s13_good_dadd708b:
@@ -1036,7 +1036,7 @@ translate french d08s13_good_bc666b09:
 translate french d08s13_good_e34099e6:
 
     # nk "Hey [mcname]! One last question!"
-    nk "Hé [mcname] ! Une dernière question!"
+    nk "Hé [mcname] ! Une dernière question !"
 
 # game/code/d08/d08s13.rpy:529
 translate french d08s13_good_12ba8acd:
@@ -1048,13 +1048,13 @@ translate french d08s13_good_12ba8acd:
 translate french d08s13_good_606278d2:
 
     # nk "Was it Lydia?"
-    nk "c'était Lydia?"
+    nk "C'était Lydia ?"
 
 # game/code/d08/d08s13.rpy:535
 translate french d08s13_good_4cbc3a26:
 
     # mc "HA!{w} No, no. It definitely wasn't Lydia."
-    mc "HA!{w} Non non. Ce n'était définitivement pas Lydia.."
+    mc "HA !{w} Non non. Ce n'était définitivement pas Lydia."
 
 # game/code/d08/d08s13.rpy:537
 translate french d08s13_good_0965e5ed:
@@ -1072,7 +1072,7 @@ translate french d08s13_good_7ea6a3fb:
 translate french d08s13_good_02356c2b:
 
     # nk "You too!"
-    nk "Vous aussi!"
+    nk "Vous aussi !"
 
 # game/code/d08/d08s13.rpy:551
 translate french d08s13_good_17a3ec1f:
@@ -1090,7 +1090,7 @@ translate french d08s13_good_43610b8c:
 translate french d08s13_good_6ca743fc:
 
     # mct "Wtf? I didn't make any pictures and got points! How is this fucking possible?!"
-    mct "Wtf? Je n'ai pris aucune photo et j'ai obtenu des points ! Comment est-ce possible, putain ?!"
+    mct "Putain ? Je n'ai pris aucune photo et j'ai obtenu des points ! Comment est-ce possible, putain ?!"
 
 # game/code/d08/d08s13.rpy:558
 translate french d08s13_good_bdd863d8:
