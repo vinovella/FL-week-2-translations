@@ -10,7 +10,7 @@ translate french d08s07_ce6bbf32:
 translate french d08s07_4d20eea3:
 
     # sy "I'm going to grab some food and join AmRose."
-    sy "Je vais prendre de la nourriture et rejoindre AmRose."
+    sy "Je viens prendre de la bouffe et rejoindre AmRose."
 
 # game/code/d08/d08s07.rpy:18
 translate french d08s07_99a6dbdf:
@@ -28,7 +28,7 @@ translate french d08s07_b495adbf:
 translate french d08s07_bcbf67d4:
 
     # sy "Do you sit with your favorite ladies or with that-{w} I mean, with Lydia and her friend?"
-    sy "tes dames préférées ou {w} Lydia et son amie ?"
+    sy "T'assoir avec tes dames préférées ou {w} Lydia et son amie ?"
 
 # game/code/d08/d08s07.rpy:25
 translate french d08s07_3b287fb3:
@@ -58,7 +58,7 @@ translate french d08s07_c15dd178:
 translate french d08s07_be1a7797:
 
     # mct "Damn. Why didn't I see it before? {w}AmRose has been totally jealous of Lydia."
-    mct "Mince. Pourquoi ne l'ai-je pas vu avant ? {w}AmRose été totalement jalouse de Lydia."
+    mct "Mince. Pourquoi ne l'ai-je pas vu avant ? {w}AmRose est totalement jalouse de Lydia."
 
 # game/code/d08/d08s07.rpy:32
 translate french d08s07_461482f0:
@@ -70,7 +70,7 @@ translate french d08s07_461482f0:
 translate french d08s07_a0f35268:
 
     # sy "Hello?! What is going through that head of yours?"
-    sy "Bonjour?! Que se passe-t-il dans ta tête ?"
+    sy "Hey !? Que se passe-t-il dans ta tête ?"
 
 # game/code/d08/d08s07.rpy:37
 translate french d08s07_b22f923e:
@@ -82,13 +82,13 @@ translate french d08s07_b22f923e:
 translate french d08s07_187603fc:
 
     # sy "No kidding. So, I guess you're sitting with your girlfriend instead of us?"
-    sy "Sans blague. Alors, je suppose que tu va t'asseoir avec ta petite amie au lieu qu'avec nous ?"
+    sy "Sans blague. Alors, je suppose que tu vas t'asseoir avec ta petite amie au lieu d'être avec nous ?"
 
 # game/code/d08/d08s07.rpy:39
 translate french d08s07_82c6722a:
 
     # mc "Girlfriend? {w}I don't know if we're there yet, but I hope-"
-    mc "Petite amie? {w}Je ne sais pas si on y est encore, mais j'espère-"
+    mc "Petite amie ? {w}Je ne sais pas si on y est encore, mais j'espère-"
 
 # game/code/d08/d08s07.rpy:40
 translate french d08s07_a1a95727:
@@ -106,7 +106,7 @@ translate french d08s07_19132e6b:
 translate french d08s07_2ab85579:
 
     # sy "You don't think that would be a mixed message?"
-    sy "tu ne pense pas que ce serait un message contradictoire ?"
+    sy "Tu ne pense pas que ce serait un message contradictoire ?"
 
 # game/code/d08/d08s07.rpy:46
 translate french d08s07_dd89b7a0:
@@ -118,7 +118,7 @@ translate french d08s07_dd89b7a0:
 translate french d08s07_9a224ece:
 
     # mc "Okay. See you guys later."
-    mc "ok. À plus tard, les gars."
+    mc "Ok. À plus tard, les gars."
 
 # game/code/d08/d08s07.rpy:51
 translate french d08s07_5f6a7048:
@@ -154,37 +154,37 @@ translate french d08s07_64983e45:
 translate french d08s07_c10a1144:
 
     # mc "Lydia!"
-    mc "Lydia!"
+    mc "Lydia !"
 
 # game/code/d08/d08s07.rpy:74
 translate french d08s07_2e3f9e1a:
 
     # lc "Oh! You're already here! What are you thinking about having for lunch?"
-    lc "Oh! t'es déjà là ! tu vas manger quoi?"
+    lc "Oh! t'es déjà là ! tu vas manger quoi ?"
 
 # game/code/d08/d08s07.rpy:75
 translate french d08s07_e6eab47b:
 
     # mc "Just grab a seat and I'll bring you something. Any preferences?"
-    mc "Assis-tu et je t'apporterai quelque chose. Tu as des préférences ?"
+    mc "Assis-toi et je t'apporterai quelque chose. Tu as des préférences ?"
 
 # game/code/d08/d08s07.rpy:76
 translate french d08s07_e611a3b2:
 
     # lc "Something healthy?"
-    lc "Quelque chose de sain?"
+    lc "Quelque chose de sain ?"
 
 # game/code/d08/d08s07.rpy:77
 translate french d08s07_e10be3c7:
 
     # mc "And you, Min?"
-    mc "Et toi, Min?"
+    mc "Et toi, Min ?"
 
 # game/code/d08/d08s07.rpy:80
 translate french d08s07_2d71f814:
 
     # mes "I'm good."
-    mes "c'est bon."
+    mes "C'est bon."
 
 # game/code/d08/d08s07.rpy:81
 translate french d08s07_521a32f1:
@@ -208,13 +208,13 @@ translate french d08s07_ba0ad214:
 translate french d08s07_bd8755c1:
 
     # mct "Did she just call me sexy?! [mcname] FTW!!!"
-    mct "Est-ce qu'elle vient de m'appeler sexy ?! [mcname] t'es le meilleur !!!"
+    mct "Est-ce qu'elle vient de m'appeler sexy ?! [mcname] T'es le meilleur !!!"
 
 # game/code/d08/d08s07.rpy:95
 translate french d08s07_ccb60c44:
 
     # mes "Awww{w}, you too are so cute together it makes me sick. No love for me?"
-    mes "Awww{w}, vous êtes trognon tout les deux. ça me rend malade. Pas d'amour pour moi ?"
+    mes "Awww{w}, vous êtes trognon tout les deux. Ça me rend malade. Pas d'amour pour moi ?"
 
 # game/code/d08/d08s07.rpy:98
 translate french d08s07_e2229453:
@@ -232,7 +232,7 @@ translate french d08s07_d1fb5534:
 translate french d08s07_efc476ce:
 
     # mc "What can I say? You both look lovely, but Lydia is the girl for me."
-    mc "Que dire? Vous êtes tous les deux ravissants, mais Lydia est la fille qu'il me faut.."
+    mc "Que dire ? Vous êtes tous les deux ravissants, mais Lydia est la fille qu'il me faut.."
 
 # game/code/d08/d08s07.rpy:113
 translate french d08s07_aa5d6a1f:
@@ -256,19 +256,19 @@ translate french d08s07_0d89fc22:
 translate french d08s07_2d9b4af4:
 
     # mes "So, I know when, but you've both been very cagey about how you hooked up."
-    mes "Donc, je sais quand, mais vous m'avez tous les deux pas encore dit comment vous vous êtes rapproché."
+    mes "Donc, je sais quand, mais vous ne m'avez pas encore dit, tous les deux, comment vous vous êtes rapproché."
 
 # game/code/d08/d08s07.rpy:122
 translate french d08s07_f720d270:
 
     # mc "Have we?"
-    mc "ah bon ?"
+    mc "Ah bon ?"
 
 # game/code/d08/d08s07.rpy:125
 translate french d08s07_8f38acde:
 
     # lc "I can't imagine."
-    lc "je ne peux pas imaginer."
+    lc "Je ne peux pas imaginer."
 
 # game/code/d08/d08s07.rpy:126
 translate french d08s07_15899572:
@@ -298,7 +298,7 @@ translate french d08s07_bdf7e02f:
 translate french d08s07_d616bd82:
 
     # mes "*deadpan* Ha. ha. ha.{w} You two are sooooo funny."
-    mes "*impassible* Ha. Ha. ha.{w} Vous êtes tellement drôles tous les deux."
+    mes "*Impassible* Ha. Ha. ha.{w} Vous êtes tellement drôles tous les deux."
 
 # game/code/d08/d08s07.rpy:137
 translate french d08s07_3a0dc39d:
@@ -334,25 +334,25 @@ translate french d08s07_ad941a7e:
 translate french d08s07_109523c0:
 
     # mc "... at a kinky fetish party where-"
-    mc "... à une soirée fétichiste perverse où-"
+    mc "... à une soirée fétichiste perverse ? Ou-"
 
 # game/code/d08/d08s07.rpy:146
 translate french d08s07_b49d04ec:
 
     # lc "... what happens at the Party-"
-    lc "... ce qui s'est passe pendant la fête-"
+    lc "... ce qui s'est passé durant la fête-"
 
 # game/code/d08/d08s07.rpy:147
 translate french d08s07_d633f3d5:
 
     # mc "... stays at the Party?"
-    mc "... reste pendant à la fête?"
+    mc "... reste à la fête ?"
 
 # game/code/d08/d08s07.rpy:150
 translate french d08s07_6606dd1a:
 
     # mes "You realize that you're already finishing each other's sentences?"
-    mes "Vous réalisez que vous êtes déjà en train de finir les phrases de l'autre?"
+    mes "Vous réalisez que vous êtes déjà en train de finir les phrases de l'autre ?"
 
 # game/code/d08/d08s07.rpy:151
 translate french d08s07_c1dff962:
@@ -388,7 +388,7 @@ translate french d08s07_1054764b:
 translate french d08s07_f9c7af75:
 
     # mct "WHAT? Is she talking to me?!?!"
-    mct "QUOI? Est-ce qu'elle me parle ?!?!"
+    mct "QUOI ? Est-ce qu'elle me parle ?!?!"
 
 # game/code/d08/d08s07.rpy:162
 translate french d08s07_6d507bbe:
@@ -412,31 +412,31 @@ translate french d08s07_ffc6aafa:
 translate french d08s07_7b7c4a52:
 
     # mes "But?"
-    mes "Mais?"
+    mes "Mais ?"
 
 # game/code/d08/d08s07.rpy:169
 translate french d08s07_4716b587:
 
     # lc "... but."
-    lc "... but."
+    lc "... mais ..."
 
 # game/code/d08/d08s07.rpy:170
 translate french d08s07_9df49e64:
 
     # mes "Just but?"
-    mes "Mais quoi?"
+    mes "Mais quoi ?"
 
 # game/code/d08/d08s07.rpy:172
 translate french d08s07_e974179c:
 
     # lc "What can I say? It wasn't exactly my kind of party, and..."
-    lc "c'est à dire... Ce n'était pas vraiment mon genre de fête, et..."
+    lc "c'est à dire... Ce n'était pas vraiment mon genre de fête, et ..."
 
 # game/code/d08/d08s07.rpy:173
 translate french d08s07_fc127c96:
 
     # mes "... and?"
-    mes "... et?"
+    mes "... et ?"
 
 # game/code/d08/d08s07.rpy:176
 translate french d08s07_8b042b2e:
@@ -454,13 +454,13 @@ translate french d08s07_9f9024c8:
 translate french d08s07_914c1d52:
 
     # mc "Hey Min, I was wondering? What are you drinking there?"
-    mc "Hé Min, je me demandais ? Qu'est-ce que tu bois là ?"
+    mc "Hé Min, je me demandais ? Qu'est-ce que tu bois-là ?"
 
 # game/code/d08/d08s07.rpy:183
 translate french d08s07_7dcd4ed3:
 
     # mes "Drinking?"
-    mes "Boire?"
+    mes "Ce que je bois ?"
 
 # game/code/d08/d08s07.rpy:188
 translate french d08s07_1ae5fa81:
@@ -472,7 +472,7 @@ translate french d08s07_1ae5fa81:
 translate french d08s07_647774d9:
 
     # mes "I'm doing a cleanse. It's grape juice. It's a health thing."
-    mes "je fais un nettoyage C'est du jus de raisin. C'est sain."
+    mes "je fais une détox. C'est du jus de raisin. C'est sain."
 
 # game/code/d08/d08s07.rpy:192
 translate french d08s07_bc4fd44d:
@@ -484,19 +484,19 @@ translate french d08s07_bc4fd44d:
 translate french d08s07_d7a8a346:
 
     # lc "How does it work?"
-    lc "Comment ça marche?"
+    lc "Comment ça marche ?"
 
 # game/code/d08/d08s07.rpy:195
 translate french d08s07_d1253cde:
 
     # mes "It cleanses you from toxins and improves digestion!"
-    mes "Il vous purifie des toxines et améliore la digestion !"
+    mes "Le jus te purifie des toxines et améliore ta digestion !"
 
 # game/code/d08/d08s07.rpy:197
 translate french d08s07_310f2b61:
 
     # mes "It is very hard to do and requires some preparation, but can give fast health improvement results!"
-    mes "C’est très difficile à faire et nécessite une certaine préparation, mais peut donner des résultats rapides en matière d’amélioration de la santé !"
+    mes "C’est très difficile à faire et nécessite une certaine préparation, mais cela peut donner des résultats rapides en matière de santé !"
 
 # game/code/d08/d08s07.rpy:200
 translate french d08s07_f4d7b849:
@@ -508,7 +508,7 @@ translate french d08s07_f4d7b849:
 translate french d08s07_64017d68:
 
     # mes "No chance! {w}(gulp) (gulp) (gulp)"
-    mes "Aucune chance! {w}(gorgée) (gorgée) (gorgée)"
+    mes "Aucune chance ! {w}(gorgée) (gorgée) (gorgée)"
 
 # game/code/d08/d08s07.rpy:211
 translate french d08s07_d45f9c5b:
@@ -520,25 +520,25 @@ translate french d08s07_d45f9c5b:
 translate french d08s07_48385f32:
 
     # mes "Done!"
-    mes "fini!"
+    mes "Y'en a plus, c'est fini !"
 
 # game/code/d08/d08s07.rpy:218
 translate french d08s07_f2c46bd8:
 
     # lc "Why didn't you let me try?"
-    lc "Pourquoi tu ne m'as pas laissé essayer?"
+    lc "Pourquoi tu ne m'as pas laissé essayer ?"
 
 # game/code/d08/d08s07.rpy:223
 translate french d08s07_482ca548:
 
     # mes "It is my diet! I only drink this! You can eat all your food!"
-    mes "C'est mon régime ! Je ne bois que ça ! Tu peux manger toute ta nourriture !"
+    mes "C'est mon régime ! Je ne bois que ça ! Tu peux manger tout ce que tu veux !"
 
 # game/code/d08/d08s07.rpy:229
 translate french d08s07_ebf2e3b0:
 
     # lc "What was that?"
-    lc "Ca c'était quoi?"
+    lc "Ca c'était quoi ?"
 
 # game/code/d08/d08s07.rpy:231
 translate french d08s07_80b80e77:
@@ -556,19 +556,19 @@ translate french d08s07_f0dc74c5:
 translate french d08s07_c7a4c0ff:
 
     # mc "Min doesn't share food!!!"
-    mc "Min ne partage pas sa nourriture!!!"
+    mc "Min ne partage pas sa nourriture !!!"
 
 # game/code/d08/d08s07.rpy:239
 translate french d08s07_1705b093:
 
     # lc "Ah-ha-ha!"
-    lc "Ah-ha-ha!"
+    lc "Ah-ha-ha !"
 
 # game/code/d08/d08s07.rpy:243
 translate french d08s07_1bb1ba8e:
 
     # mes "*sigh* I'll have to refill that bottle."
-    mes "Je vais devoir remplir cette bouteille."
+    mes "*soupir* Je vais devoir remplir cette bouteille."
 
 # game/code/d08/d08s07.rpy:244
 translate french d08s07_dbc36167:
@@ -598,7 +598,7 @@ translate french d08s07_e7ddb667:
 translate french d08s07_372577f2:
 
     # mh "{i}It was quite good! Have a ton of work today. It was nice to remember our date yesterday!{/i}"
-    mh "{i}C'était plutôt bien! J'ai une tonne de travail aujourd'hui. C'était agréable de se souvenir de notre rendez-vous d'hier !{/i}"
+    mh "{i}C'était plutôt bien ! J'ai une tonne de travail aujourd'hui. C'était agréable de se souvenir de notre rendez-vous d'hier !{/i}"
 
 # game/code/d08/d08s07.rpy:254
 translate french d08s07_cf82b4db:
@@ -616,7 +616,7 @@ translate french d08s07_c3b0119d:
 translate french d08s07_4baac2c4:
 
     # mc "{i}Do you want to meet after that?{/i}"
-    mc "{i}Voulez-vous qu'on se retrouve après ça ?{/i}"
+    mc "{i}Veux-tu qu'on se retrouve après ça ?{/i}"
 
 # game/code/d08/d08s07.rpy:258
 translate french d08s07_10ef6fba:
@@ -640,7 +640,7 @@ translate french d08s07_3edec2c1:
 translate french d08s07_05500ff6:
 
     # mc "Huh?"
-    mc "Hein?"
+    mc "Hein ?"
 
 # game/code/d08/d08s07.rpy:268
 translate french d08s07_5edadef7:
@@ -664,7 +664,7 @@ translate french d08s07_e2ceba09:
 translate french d08s07_f41e0404:
 
     # lc "Really? Why?"
-    lc "Ah bon? Pourquoi?"
+    lc "Ah bon ? Pourquoi ?"
 
 # game/code/d08/d08s07.rpy:274
 translate french d08s07_59a6d556:
@@ -796,13 +796,13 @@ translate french d08s07_b148c30b:
 translate french d08s07_df864758:
 
     # lc "[mcname]? Are you okay?"
-    lc "[mcname]? tu vas bien?"
+    lc "[mcname]? Tu vas bien?"
 
 # game/code/d08/d08s07.rpy:322
 translate french d08s07_eae7ff54:
 
     # mc "Yeah, yeah. Just lost in thought for a moment there."
-    mc "Yeah Yeah. Je suis juste perdu dans mes pensées un instant."
+    mc "Oui oui. Je suis juste perdu dans mes pensées."
 
 # game/code/d08/d08s07.rpy:325
 translate french d08s07_dd52df9e:
@@ -844,13 +844,13 @@ translate french d08s07_ab57b8e3:
 translate french d08s07_6341b83f:
 
     # mes "Huh?"
-    mes "hein?"
+    mes "Hein ?"
 
 # game/code/d08/d08s07.rpy:338
 translate french d08s07_f6a4d3f5:
 
     # lc "Yeah, sorry. All those people and sexual themes and... ya'know."
-    lc "Ouais désolé. Tous ces gens et ces thèmes sexuels et... tu sais."
+    lc "Ouais désolée. Tous ces gens et ces thèmes sexuels et... tu sais."
 
 # game/code/d08/d08s07.rpy:342
 translate french d08s07_62e151ff:
@@ -862,7 +862,7 @@ translate french d08s07_62e151ff:
 translate french d08s07_0f600a9f:
 
     # lc "Don't get me wrong - I'm glad I went, but..."
-    lc "Ne te méprend pas, je suis heureux d'y être allé, mais..."
+    lc "Ne te méprend pas, je suis heureuse d'y être allée, mais..."
 
 # game/code/d08/d08s07.rpy:345
 translate french d08s07_b805585e:
