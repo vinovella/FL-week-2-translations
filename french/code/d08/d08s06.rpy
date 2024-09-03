@@ -118,7 +118,7 @@ translate french d08s06_ded0dfcc:
 translate french d08s06_a2ea6237:
 
     # sy "What about after she finishes practicing?"
-    sy "Et après qu'elle ait fini de s'entraîner ?"
+    sy "Et une fois qu'elle aura fini de s'entraîner ?"
 
 # game/code/d08/d08s06.rpy:64
 translate french d08s06_2f3b6373:
@@ -160,7 +160,7 @@ translate french d08s06_c8ff4e25:
 translate french d08s06_b6a1daaa:
 
     # mc "So, you're her coach? I didn't think she'd need a swim coach."
-    mc "Alors tu es son entraîneur ? Je ne pensais pas qu'elle aurait besoin d'un entraîneur pour la natation."
+    mc "Alors vous êtes son entraîneur ? Je ne pensais pas qu'elle aurait besoin d'un entraîneur pour la natation."
 
 # game/code/d08/d08s06.rpy:78
 translate french d08s06_f1b13a35:
@@ -178,7 +178,7 @@ translate french d08s06_dd428f18:
 translate french d08s06_97d352a0:
 
     # sa "Allison is good at all of them, but she could be great."
-    sa "Allison est bonne dans tous ces domaines, mais elle pourrait être géniale."
+    sa "Allison est bonne dans tous ces domaines, mais elle pourrait être encore meilleure."
 
 # game/code/d08/d08s06.rpy:84
 translate french d08s06_16c92f59:
@@ -226,7 +226,7 @@ translate french d08s06_ebd7bb17:
 translate french d08s06_50320392:
 
     # sa "Allison has a ton of talent, but no motivation to push herself to win."
-    sa "Allison a beaucoup de talent, mais aucune motivation à se battre pour gagner."
+    sa "Allison a beaucoup de talent, mais aucune motivation pour se battre et gagner."
 
 # game/code/d08/d08s06.rpy:101
 translate french d08s06_5a122a58:
@@ -298,7 +298,7 @@ translate french d08s06_2e6358fb:
 translate french d08s06_cb230765:
 
     # sa "Probably. I mean, I don't know anything, but when someone has a talent like that and no motivation..."
-    sa "Probablement. Je veux dire, je ne sais rien, mais quand quelqu'un a un talent comme ça et aucune motivation..."
+    sa "Probablement. Je veux dire, je n'en sais rien, mais quand quelqu'un a un talent comme ça mais aucune motivation..."
 
 # game/code/d08/d08s06.rpy:124
 translate french d08s06_49cfa60c:
@@ -376,7 +376,7 @@ translate french d08s06_3ea5d3b8:
 translate french d08s06_560334a0:
 
     # sa "You're a slippery motherfucker, aren't you? Are all those business admin kids like you?"
-    sa "T'es un petit malin, toi ? Est-ce que tous ces jeunes administrateurs d’entreprise sont comme toi ?"
+    sa "T'es un petit malin, toi ? Est-ce que tous ces jeunes administrateurs d’affaires sont comme toi ?"
 
 # game/code/d08/d08s06.rpy:150
 translate french d08s06_1fe5fc2b:
