@@ -544,7 +544,7 @@ translate french replay_d08s09_8e7fa4c2:
 translate french replay_d08s09_d5394d31:
 
     # jf "Wow, that was fast, he says, \"How much?\""
-    jf "Wow, ça a été rapide, il dit, \"combien?\""
+    jf "Wow, ça a été rapide, il dit, \"combien ?\""
 
 # game/code/d08/extended/d08s09.rpy:328
 translate french replay_d08s09_1abaed75:
