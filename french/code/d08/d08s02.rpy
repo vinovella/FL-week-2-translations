@@ -46,7 +46,7 @@ translate french d08s02_df3ed211:
 translate french d08s02_6321213c:
 
     # mc "Yeah, well... breakfast looks delicious at least."
-    mc "Ouais, eh bien... le petit-déjeuner a au moins l'air délicieux."
+    mc "Ouais, eh bien ... au moins le petit-déjeuner a l'air délicieux."
 
 # game/code/d08/d08s02.rpy:29
 translate french d08s02_9f2e4146:
@@ -160,7 +160,7 @@ translate french d08s02_5f97e86a:
 translate french d08s02_4dceb393:
 
     # sy "You know, where girls or guys take massive objects and shove them inside themselves."
-    sy "Tu sais, où les filles ou les gars prennent des objets massifs et se les enfillent."
+    sy "Tu sais, des pornos où des filles ou des gars s'enfillent de gros objets massifs."
 
 # game/code/d08/d08s02.rpy:77
 translate french d08s02_eab76f21:
@@ -244,7 +244,7 @@ translate french d08s02_61b989fa:
 translate french d08s02_19c97984:
 
     # sy "Then it gets to the part I can't understand. Like softball bats."
-    sy "Ensuite, arrive la partie que je ne comprends pas. Avec des battes de softball."
+    sy "Ensuite, arrive la partie que je ne comprends pas. Avec des battes de baseball."
 
 # game/code/d08/d08s02.rpy:116
 translate french d08s02_4c5a51fd:
@@ -256,7 +256,7 @@ translate french d08s02_4c5a51fd:
 translate french d08s02_019f8827:
 
     # sy "Yeah. I've heard that some of those porn stars can't even orgasm without something larger than a baseball bat inside them anymore."
-    sy "Ouais. J'ai entendu dire que certaines de ces stars du porno ne peuvent même plus avoir d'orgasme sans quelque chose de plus gros qu'une batte de baseball à l'intérieur d'elles."
+    sy "Ouais. J'ai entendu dire que certaines de ces stars du porno ne peuvent même plus avoir d'orgasme sans quelque chose de plus gros qu'une batte de baseball à l'intérieur d'elle."
 
 # game/code/d08/d08s02.rpy:121
 translate french d08s02_213757b7:
@@ -298,13 +298,13 @@ translate french d08s02_ee84f041:
 translate french d08s02_c122e1f8:
 
     # sy "[mcname]?"
-    sy "[mcname]?"
+    sy "[mcname] ?"
 
 # game/code/d08/d08s02.rpy:136
 translate french d08s02_e55c617e:
 
     # mc "Nope, not listening to this."
-    mc "Non, j'écoute pas."
+    mc "Non, je ne t'écoute pas."
 
 # game/code/d08/d08s02.rpy:138
 translate french d08s02_f1b59e15:
@@ -388,7 +388,7 @@ translate french d08s02_a6cfe648:
 translate french d08s02_bc9c825c:
 
     # arj "OMG! Hahahahahaha!"
-    arj "OMG! Hahahahahaha!"
+    arj "Oh Mon Dieu ! Hahahahahaha!"
 
 # game/code/d08/d08s02.rpy:171
 translate french d08s02_8a0761fa:
@@ -430,7 +430,7 @@ translate french d08s02_9a51bc91:
 translate french d08s02_073631f4:
 
     # arj "I watched you fuck my roommate for months and you two never did anything kinky."
-    arj "Je t'ai regardé baiser ma colocataire pendant des mois et vous n'avez jamais rien fait de coquin.."
+    arj "Je t'ai regardé baiser ma colocataire pendant des mois et vous n'avez jamais rien fait de hard."
 
 # game/code/d08/d08s02.rpy:185
 translate french d08s02_e9a7efb3:
@@ -448,7 +448,7 @@ translate french d08s02_3d890773:
 translate french d08s02_453decdb:
 
     # arj "That wasn't kinky. They were just oblivious to anyone else around them."
-    arj "Ce n'était pas coquin. Ils ne savaient tout simplement pas que quelqu'un était à côté."
+    arj "Ce n'était pas hard. Ils ne savaient tout simplement pas que quelqu'un était à côté."
 
 # game/code/d08/d08s02.rpy:192
 translate french d08s02_6a30bcdc:
@@ -460,7 +460,7 @@ translate french d08s02_6a30bcdc:
 translate french d08s02_a8f52312:
 
     # arj "Maybe five or six positions. Blowjob, cunni, missionary, doggy... "
-    arj "Peut-être cinq ou six positions. Fellation, cunni, missionnaire, doggystyle... "
+    arj "Peut-être cinq ou six positions. Fellation, cunni, missionnaire, levrette... "
 
 # game/code/d08/d08s02.rpy:196
 translate french d08s02_71152dd8:
@@ -472,13 +472,13 @@ translate french d08s02_71152dd8:
 translate french d08s02_945e046c:
 
     # sy "There's like 5 different books on the Kama Sutra in his box!"
-    sy "Il y a genre 5 livres différents sur le Kama Sutra dans sa boîte!"
+    sy "Il y a genre 5 livres différents sur le Kama Sutra dans sa boîte !"
 
 # game/code/d08/d08s02.rpy:199
 translate french d08s02_1dca356a:
 
     # arj "Well, maybe he just liked the pictures?"
-    arj "Eh bien, peut-être qu'il a juste aimé les photos?"
+    arj "Eh bien, peut-être qu'il a juste aimé les photos ?"
 
 # game/code/d08/d08s02.rpy:201
 translate french d08s02_9b62cf79:
@@ -604,7 +604,7 @@ translate french d08s02_f1b71d05:
 translate french d08s02_097f0689:
 
     # arj "Do you know anything about..."
-    arj "Savez-vous quelque chose sur..."
+    arj "Savez-vous quelque chose dessus..."
 
 # game/code/d08/d08s02.rpy:248
 translate french d08s02_8fdbd92f:
@@ -688,7 +688,7 @@ translate french d08s02_a8ae42a4:
 translate french d08s02_ae582667:
 
     # sy "Is there a plan?"
-    sy "Y a-t-il un plan?"
+    sy "Il y a un plan?"
 
 # game/code/d08/d08s02.rpy:277
 translate french d08s02_b43bd301:
@@ -706,7 +706,7 @@ translate french d08s02_0357c851:
 translate french d08s02_77ad98b5:
 
     # arj "Speaking of which - you should go if you don't want to wear the same clothes as yesterday."
-    arj "A propos, tu devrais y aller si tu ne veux pas porter les mêmes vêtements qu'hier."
+    arj "A propos, tu devrais bouger si tu ne veux pas porter les mêmes vêtements qu'hier."
 
 # game/code/d08/d08s02.rpy:283
 translate french d08s02_589db33a:
