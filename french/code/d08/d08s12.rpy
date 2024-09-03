@@ -4,7 +4,7 @@
 translate french d08s12_51233532:
 
     # mh "Fuck me! I AM AWESOME!!! {w}Feels great to win!"
-    mh "Baise-moi ! JE SUIS GÉNIAL!!! {w}Ça fait du bien de gagner !"
+    mh "Baise-moi ! JE SUIS GÉNIAL !!! {w}Ça fait du bien de gagner !"
 
 # game/code/d08/d08s12.rpy:50
 translate french d08s12_da2b7ee3:
@@ -28,31 +28,31 @@ translate french d08s12_46664b36:
 translate french d08s12_ebccab4c:
 
     # mh "Get undressed. I need you...now!"
-    mh "Se déshabiller. J'ai besoin de vous, maintenant!"
+    mh "Déshabille-toi. J'ai besoin de toi, maintenant!"
 
 # game/code/d08/d08s12.rpy:61
 translate french d08s12_59e95539:
 
     # mc "Wait a second! Didn't you get mad yesterday for almost exposing you on the beach?"
-    mc "Attends une seconde! Ne t'es-tu pas fâché hier d'avoir failli t'exposer sur la plage ?"
+    mc "Attends une seconde! Tu n'étais pas en colère hier parce qu'on t'avait presque exhibée sur la plage ?"
 
 # game/code/d08/d08s12.rpy:63
 translate french d08s12_1036e3be:
 
     # mh "Huh? Yeah, sorry for my reaction. Things felt out of control yesterday. "
-    mh "Hein? Ouais, désolé pour ma réaction. Hier, les choses semblaient hors de contrôle."
+    mh "Hein ? Ouais, désolée pour ma réaction. Hier, les choses semblaient hors de contrôle."
 
 # game/code/d08/d08s12.rpy:64
 translate french d08s12_71449805:
 
     # mc "And now we're about to do the same thing in your office? What if someone enters?"
-    mc "Et maintenant, nous sommes sur le point de faire la même chose dans votre bureau ? Et si quelqu'un entrait"
+    mc "Et maintenant, nous sommes sur le point de faire la même chose dans votre bureau ? Et si quelqu'un entrait ?"
 
 # game/code/d08/d08s12.rpy:66
 translate french d08s12_16f55d45:
 
     # mh "The door locks and it is very different from being naked on the beach."
-    mh "La porte se ferme et c’est très différent d’être nu sur la plage."
+    mh "La porte se ferme et c’est très différent d’être nue sur la plage."
 
 # game/code/d08/d08s12.rpy:69
 translate french d08s12_1d633005:
@@ -64,7 +64,7 @@ translate french d08s12_1d633005:
 translate french d08s12_a37c2f42:
 
     # mc "Weren't you scared of someone related to your work discovering your penis? And now we are at your work!"
-    mc "N'aviez-vous pas peur qu'une personne liée à votre travail découvre votre pénis ? Et maintenant nous sommes à votre travail !"
+    mc "N'aviez-vous pas peur qu'une personne du bureau découvre votre pénis ? Et maintenant nous sommes à votre travail !"
 
 # game/code/d08/d08s12.rpy:73
 translate french d08s12_d216c43e:
@@ -76,13 +76,13 @@ translate french d08s12_d216c43e:
 translate french d08s12_b6282b98:
 
     # mc "Then... Why?"
-    mc "Alors.. pourquoi?"
+    mc "Alors.. pourquoi ?"
 
 # game/code/d08/d08s12.rpy:78
 translate french d08s12_3a5f18fa:
 
     # mh "I don't want to hit the news with my naked beach sex pictures exposed. Or even get blackmailed by someone who can take pictures of me there."
-    mh "Je ne veux pas faire la une des journaux avec mes photos de sexe nues sur la plage exposées. Ou même me faire chanter par quelqu'un qui peut me prendre en photo là-bas."
+    mh "Je ne veux pas faire la une des journaux avec des photos de mon sexe nu exposé à la plage. Ou de subir une chantage par quelqu'un qui peut me prendre en photo là-bas."
 
 # game/code/d08/d08s12.rpy:83
 translate french d08s12_29638904:
@@ -130,19 +130,19 @@ translate french d08s12_631dfe01:
 translate french d08s12_eff2bc0a:
 
     # mh "Oh, yes mister! I'm all yours!"
-    mh "Oh oui monsieur ! Je suis tout à vous!"
+    mh "Oh oui monsieur ! Je suis toute à vous !"
 
 # game/code/d08/d08s12.rpy:106
 translate french d08s12_f3097708:
 
     # mc "Wow! Did you just get hard from that?"
-    mc "Ouah! Est-ce que tu es devenu dur à cause de ça ?"
+    mc "Ouah! Est-ce que tu es devenue dure à cause de ça ?"
 
 # game/code/d08/d08s12.rpy:109
 translate french d08s12_dcae0c21:
 
     # mh "Oh I certainly did!"
-    mh "Oh, certainement !"
+    mh "Oh, oui !"
 
 # game/code/d08/d08s12.rpy:110
 translate french d08s12_ad3ee5ca:
@@ -154,7 +154,7 @@ translate french d08s12_ad3ee5ca:
 translate french d08s12_bb4d6582:
 
     # mh "My dick is going to tear my skirt! Does that answer your question!?"
-    mh "Ma queue va déchirer ma jupe ! Est-ce que ça répond à votre question!?"
+    mh "Ma queue va déchirer ma jupe ! Est-ce que ça répond à votre question !?"
 
 # game/code/d08/d08s12.rpy:115
 translate french d08s12_8bc120ae:
@@ -172,7 +172,7 @@ translate french d08s12_57bd43f0:
 translate french d08s12_afd1f088:
 
     # mh "What is your plan?"
-    mh "Quel est ton plan?"
+    mh "Quel est ton plan ?"
 
 # game/code/d08/d08s12.rpy:125
 translate french d08s12_c87df3ea:
@@ -184,7 +184,7 @@ translate french d08s12_c87df3ea:
 translate french d08s12_155346cc:
 
     # mh "Come here! I need you!"
-    mh "Venez ici! J'ai besoin de toi!"
+    mh "Viens ici ! J'ai besoin de toi !"
 
 # game/code/d08/d08s12.rpy:139
 translate french d08s12_aa0e2e7d:
@@ -214,19 +214,19 @@ translate french d08s12_8bf30a97:
 translate french d08s12_6ccc0ccd:
 
     # mh "Then help me escape it! Quick!"
-    mh "Alors aide-moi à y échapper ! Rapide!"
+    mh "Alors aide-moi la sortir ! Rapidement !"
 
 # game/code/d08/d08s12.rpy:158
 translate french d08s12_5e4ed7e8:
 
     # mh "Freedom!"
-    mh "Liberté!"
+    mh "Liberté !"
 
 # game/code/d08/d08s12.rpy:161
 translate french d08s12_06687c3c:
 
     # mh "Baby! Are you ready for it?"
-    mh "Bébé! Êtes-vous prêt pour cela?"
+    mh "Bébé! Es-tu prêt pour cela ?"
 
 # game/code/d08/d08s12.rpy:164
 translate french d08s12_8e0740c1:
@@ -238,7 +238,7 @@ translate french d08s12_8e0740c1:
 translate french d08s12_72ef6f7e:
 
     # mh "Would you like to help me with this?..."
-    mh "Voudriez-vous m'aider avec ça ?..."
+    mh "Veux-tu m'aider avec ça ?..."
 
 # game/code/d08/d08s12.rpy:176
 translate french d08s12_ebcb3d18:
@@ -256,19 +256,19 @@ translate french d08s12_e3b6cd7f:
 translate french d08s12_1cb7a1fc:
 
     # mh "{i}God{/i}, your touch feels electric!"
-    mh "{i}Mon Dieu{/i}, votre toucher est électrique !"
+    mh "{i}Mon Dieu{/i}, ton toucher est électrique !"
 
 # game/code/d08/d08s12.rpy:185
 translate french d08s12_447601f0:
 
     # mc "It looks like it might explode from the tension!"
-    mc "On dirait qu'il pourrait exploser à cause de la tension !"
+    mc "On dirait qu'elle pourrait exploser à cause de la tension !"
 
 # game/code/d08/d08s12.rpy:188
 translate french d08s12_aa2dc97a:
 
     # mh "*Moans* It just might when you touch it."
-    mh "*Gémissements* C'est possible lorsque vous le touchez."
+    mh "*Gémissements* C'est possible lorsque vous la touchez."
 
 # game/code/d08/d08s12.rpy:201
 translate french d08s12_pre_mc_action_49089914:
@@ -286,7 +286,7 @@ translate french d08s12_pre_mc_action_1614da67:
 translate french d08s12_pre_mc_action_b17e9733:
 
     # mh "Hey, it's alright. Your touch feels amazing! But I understand if you're not ready—"
-    mh "Hé, ça va. Votre toucher est incroyable ! Mais je comprends que si vous n'êtes pas prêt..."
+    mh "Hé, ça va. Ton toucher est incroyable ! Mais je comprends que si tu n'es pas prêt..."
 
 # game/code/d08/d08s12.rpy:208
 translate french d08s12_pre_mc_action_72a01c1a:
@@ -304,13 +304,13 @@ translate french d08s12_deny_da75052f:
 translate french d08s12_deny_b5e3f444:
 
     # mc "You'd love it if you could touch it right now, wouldn't you?"
-    mc "Vous adoreriez si vous pouviez le toucher maintenant, n'est-ce pas ?"
+    mc "Tu aimerai si tu puvais la toucher maintenant, n'est-ce pas ?"
 
 # game/code/d08/d08s12.rpy:230
 translate french d08s12_deny_fb7cae0f:
 
     # mc "Let it be there! I don't permit you to touch it."
-    mc "Qu'il soit là ! Je ne vous permets pas d'y toucher."
+    mc "Ne te touche pas ! Je ne te permets pas d'y toucher."
 
 # game/code/d08/d08s12.rpy:233
 translate french d08s12_deny_8d2212ba:
@@ -322,31 +322,31 @@ translate french d08s12_deny_8d2212ba:
 translate french d08s12_deny_944d9051:
 
     # mc "I want you to kneel. Get on your knees and kneel."
-    mc "Je veux que tu t'agenouilles. Mettez-vous à genoux et agenouillez-vous."
+    mc "Je veux que tu t'agenouilles. Mets-toi à genoux. Prosterne-toi."
 
 # game/code/d08/d08s12.rpy:244
 translate french d08s12_deny_9c619ea3:
 
     # mc "What are you looking at? Get to work!"
-    mc "Qu'est ce que tu regardes? Mettez-vous au travail !"
+    mc "Qu'est ce que tu regardes? Mets-toi au travail !"
 
 # game/code/d08/d08s12.rpy:247
 translate french d08s12_deny_57bd43f0:
 
     # mh "Yes, sir!"
-    mh "Oui Monsieur!"
+    mh "Oui Monsieur !"
 
 # game/code/d08/d08s12.rpy:250
 translate french d08s12_deny_95675b15:
 
     # mc "Na-a-ah! No touching yourself!"
-    mc "Na-a-ah ! Ne vous touchez pas !"
+    mc "Na-a-ah ! Ne te touche pas !"
 
 # game/code/d08/d08s12.rpy:252
 translate french d08s12_deny_a5a94f12:
 
     # mc "You are not allowed to jerk-off."
-    mc "Vous n'avez pas le droit de vous branler."
+    mc "Tu n'as pas le droit de te branler."
 
 # game/code/d08/d08s12.rpy:253
 translate french d08s12_deny_b3c6b384:
@@ -370,7 +370,7 @@ translate french d08s12_deny_5bc43497:
 translate french d08s12_deny_07662e23:
 
     # mh "Master. Please! Please may I stroke it?"
-    mh "Maître. S'il te plaît! S'il vous plaît, puis-je le caresser ?"
+    mh "Maître. S'il vous plaît ! S'il vous plaît, puis-je la caresser ?"
 
 # game/code/d08/d08s12.rpy:263
 translate french d08s12_deny_8b37064c:
@@ -394,25 +394,25 @@ translate french d08s12_mh_bj_2748c963:
 translate french d08s12_mh_bj_ec8379d7:
 
     # mh "Yes, master! I'll do my best!"
-    mh "Oui Maître! Je ferai de mon mieux!"
+    mh "Oui Maître! Je ferai de mon mieux !"
 
 # game/code/d08/d08s12.rpy:279
 translate french d08s12_mh_bj_9c2541a5:
 
     # mc "Would you suck it for me?"
-    mc "Veux-tu le sucer pour moi ?"
+    mc "Veux-tu la sucer pour moi ?"
 
 # game/code/d08/d08s12.rpy:282
 translate french d08s12_mh_bj_65ed2b87:
 
     # mh "I'll do my best!"
-    mh "Je ferai de mon mieux!"
+    mh "Je ferai de mon mieux !"
 
 # game/code/d08/d08s12.rpy:320
 translate french d08s12_mh_bj_b0a8c6a9:
 
     # mc "Enough foreplay! Get your mouth around it."
-    mc "Assez de préliminaires ! Faites le tour de votre bouche."
+    mc "Assez de préliminaires ! Faites le tour avec votre bouche."
 
 # game/code/d08/d08s12.rpy:322
 translate french d08s12_mh_bj_12b7406e:
@@ -454,7 +454,7 @@ translate french d08s12_mh_bj_2e715e01_2:
 translate french d08s12_mh_bj_c04d767b:
 
     # mh "I love it, sir!"
-    mh "J'adore, monsieur!"
+    mh "J'adore, monsieur !"
 
 # game/code/d08/d08s12.rpy:370
 translate french d08s12_mh_bj_87e26eb2:
@@ -466,13 +466,13 @@ translate french d08s12_mh_bj_87e26eb2:
 translate french d08s12_mh_bj_98845e2c:
 
     # mh "I feel so happy!"
-    mh "Je me sens si heureux!"
+    mh "Je me sens si heureuse !"
 
 # game/code/d08/d08s12.rpy:384
 translate french d08s12_mh_bj_71e06ab5:
 
     # mh "Wow! So good!"
-    mh "Ouah! Si bon!"
+    mh "Ouah ! C'est si bon !"
 
 # game/code/d08/d08s12.rpy:386
 translate french d08s12_mh_bj_f64d6d28:
@@ -484,7 +484,7 @@ translate french d08s12_mh_bj_f64d6d28:
 translate french d08s12_mh_bj_80d9518d:
 
     # mc "Happy to provide!"
-    mc "Heureux de fournir!"
+    mc "Heureux de fournir !"
 
 # game/code/d08/d08s12.rpy:390
 translate french d08s12_mh_bj_efcab3a7:
@@ -502,49 +502,49 @@ translate french d08s12_mc_hj_188a2ddc:
 translate french d08s12_lyssa_cum_80414faf:
 
     # mh "Baby, Baby! I'm..."
-    mh "Bébé bébé! Je suis.."
+    mh "Bébé bébé! Je ..."
 
 # game/code/d08/d08s12.rpy:465
 translate french d08s12_lyssa_cum_d8852cec:
 
     # mh "Cumming!!!"
-    mh "Viensss!!!"
+    mh "Viensss !!!"
 
 # game/code/d08/d08s12.rpy:473
 translate french d08s12_lyssa_cum_a4fcb7ef:
 
     # mc "Oh!"
-    mc "Oh!"
+    mc "Oh !"
 
 # game/code/d08/d08s12.rpy:476
 translate french d08s12_lyssa_cum_93089a5f:
 
     # mh "Oh! I'm sorry!"
-    mh "Oh! Je suis désolé!"
+    mh "Oh ! Je suis désolée !"
 
 # game/code/d08/d08s12.rpy:478
 translate french d08s12_lyssa_cum_d027e52a:
 
     # mh "Looks like I came on you!"
-    mh "On dirait que je suis venu sur toi !"
+    mh "On dirait que je suis venue sur toi !"
 
 # game/code/d08/d08s12.rpy:481
 translate french d08s12_lyssa_cum_292ad45f:
 
     # mh "Again!"
-    mh "Encore!"
+    mh "Encore !"
 
 # game/code/d08/d08s12.rpy:482
 translate french d08s12_lyssa_cum_245049a7:
 
     # mc "Oh right. Two days in a row!"
-    mc "Ah oui. Deux jours de suite!"
+    mc "Ah oui. Deux jours de suite !"
 
 # game/code/d08/d08s12.rpy:485
 translate french d08s12_lyssa_cum_0feed7f8:
 
     # mh "Let me clean this up!"
-    mh "Laisse-moi nettoyer ça!"
+    mh "Laisse-moi nettoyer ça !"
 
 # game/code/d08/d08s12.rpy:491
 translate french d08s12_lyssa_cum_b525b5d5:
@@ -562,7 +562,7 @@ translate french d08s12_lyssa_cum_ee9cb140:
 translate french d08s12_lyssa_cum_7bfd435d:
 
     # mh "I think that's enough for this time. Who knows? Maybe you'll enjoy sampling it yourself someday!"
-    mh "Je pense que c'est suffisant pour cette fois. Qui sait? Peut-être que vous apprécierez le goûter vous-même un jour !"
+    mh "Je pense que c'est suffisant pour cette fois. Qui sait ? Peut-être que tu apprécieras le goûter toi-même un jour !"
 
 # game/code/d08/d08s12.rpy:498
 translate french d08s12_lyssa_cum_e215dda4:
@@ -586,19 +586,19 @@ translate french d08s12_end_0ccbcba5:
 translate french d08s12_end_6c907290:
 
     # mh "Hey, I don't really wanna leave right now, but I gotta run for a thing."
-    mh "Hé, je ne veux pas vraiment partir maintenant, mais je dois courir pour quelque chose."
+    mh "Hé, je ne peux pas vraiment partir maintenant, j'ai des choses à faire."
 
 # game/code/d08/d08s12.rpy:517
 translate french d08s12_end_cfb07b86:
 
     # mc "Okay, cool. I'll get out of your hair."
-    mc "D'accord, cool. Je vais me débarrasser de tes cheveux."
+    mc "Ok, cool. Je vais te lâcher les cheveux - te laisser tranquille."
 
 # game/code/d08/d08s12.rpy:519
 translate french d08s12_end_86d6b291:
 
     # mh "It's not like that. I've got to file a new lawsuit."
-    mh "Ce n'est pas comme ça. Je dois déposer une nouvelle plainte."
+    mh "Ce n'est pas ça. Je dois déposer une nouvelle plainte."
 
 # game/code/d08/d08s12.rpy:522
 translate french d08s12_end_fb6b1ef2:
@@ -616,7 +616,7 @@ translate french d08s12_end_6c5544fb:
 translate french d08s12_end_0b11053a:
 
     # mh "The door will lock on your way out. by the way."
-    mh "La porte se verrouillera à votre sortie. d'ailleurs."
+    mh "La porte se verrouillera à ta sortie. d'ailleurs."
 
 # game/code/d08/d08s12.rpy:526
 translate french d08s12_end_c079e6e2:
@@ -640,7 +640,7 @@ translate french d08s12_end_ce533a29:
 translate french d08s12_end_1497012c:
 
     # mct "Wtf? I didn't take any pictures and got points!"
-    mct "Wtf? Wow ? Je n'ai pris aucune photo et j'ai obtenu des points!"
+    mct "Mince ! Je n'ai pris aucune photo et j'ai obtenu des points!"
 
 # game/code/d08/d08s12.rpy:541
 translate french d08s12_end_8e92a896:
@@ -652,13 +652,13 @@ translate french d08s12_end_8e92a896:
 translate french d08s12_end_ebe54fab:
 
     # mct "Just going to leave her a little warning about FL's privacy issues. She has more to worry about there than me."
-    mct "Je vais juste lui laisser un petit avertissement sur les problèmes de vie privée de FL. Elle a plus de soucis là-bas que moi."
+    mct "Je vais juste lui laisser un petit avertissement sur les problèmes de vie privée de FL. Elle a plus de soucis avec ça que moi."
 
 # game/code/d08/d08s12.rpy:547
 translate french d08s12_end_cfbc9dc7:
 
     # mct "Just going to leave you a little warning about FL. I hope Lyssa isn't going to use it."
-    mct "Je vais juste vous laisser un petit avertissement concernant FL. J'espère que Lyssa ne va pas l'utiliser."
+    mct "Je vais juste lui laisser un petit avertissement concernant FL. J'espère que Lyssa ne va pas l'utiliser."
 
 # game/code/d08/d08s12.rpy:549
 translate french d08s12_end_ebad012e:
@@ -670,7 +670,7 @@ translate french d08s12_end_ebad012e:
 translate french d08s12_end_177b5a66:
 
     # op "Oh, Wow! Sorry!"
-    op "Oh, Wow! Désolé!"
+    op "Oh, Wow ! Désolé !"
 
 # game/code/d08/d08s12.rpy:555
 translate french d08s12_end_83a0bcf1:
