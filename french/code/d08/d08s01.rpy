@@ -94,7 +94,7 @@ translate french d08s01_ec65327c:
 translate french d08s01_03517d2d:
 
     # mc "Um, sure. Breakfast would be terrific."
-    mc "Hum bien sûr. Le petit déjeuner serait génial."
+    mc "Hum bien sûr. Un petit déjeuner serait génial."
 
 # game/code/d08/d08s01.rpy:76
 translate french d08s01_1a71f71e:
@@ -346,7 +346,7 @@ translate french d08s01_bathe_e5a4cd9b:
 translate french d08s01_bathe_1850262c:
 
     # sy "If you break her heart, well... {w}I'm sure you can imagine."
-    sy "Si tu lui brises le cœur, eh bien... {w} Je suis sûre que tu peux imaginer."
+    sy "Si tu lui brises le cœur, eh bien... {w}Je suis sûre que tu peux imaginer."
 
 # game/code/d08/d08s01.rpy:254
 translate french d08s01_bathe_3dc90035:
@@ -376,7 +376,7 @@ translate french d08s01_bathe_47bbd1e5:
 translate french d08s01_bathe_0c7f7b66:
 
     # sy "I know you liked spying on me in the bathroom."
-    sy "Je sais que tu a aimer m'espionner dans la salle de bain."
+    sy "Je sais que tu as aimé m'espionner dans la salle de bain."
 
 # game/code/d08/d08s01.rpy:265
 translate french d08s01_bathe_bfaa8011:
@@ -388,7 +388,7 @@ translate french d08s01_bathe_bfaa8011:
 translate french d08s01_bathe_b5b13864:
 
     # sy "You must have wanted to be this close to me when I did it."
-    sy "Tu devais vouloir être si près de moi quand je l'ai fait."
+    sy "Tu devais vouloir être près de moi quand je l'ai fait."
 
 # game/code/d08/d08s01.rpy:270
 translate french d08s01_bathe_2373ed51:
@@ -424,13 +424,13 @@ translate french d08s01_bathe_5a870419:
 translate french d08s01_bathe_26901e33:
 
     # sy "Do you understand? Your job is to keep AmRose very happy."
-    sy "Est-ce que tu comprends ? Ton travail consiste à garder AmRose très heureuse."
+    sy "Tu comprends ? Ton objectif consiste à garder AmRose très heureuse."
 
 # game/code/d08/d08s01.rpy:320
 translate french d08s01_bathe_0c5d2dcb:
 
     # sy "Cum if you agree."
-    sy "Jouis si tu es d'accord."
+    sy "Jouis si tu veux."
 
 # game/code/d08/d08s01.rpy:325
 translate french d08s01_bathe_232c3f6d:
