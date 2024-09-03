@@ -28,7 +28,7 @@ translate french d08s04_8a677757:
 translate french d08s04_292fdcff:
 
     # mct "It sucks that I need to earn those damn points again..."
-    mct "Ça craint que je doive à nouveau gagner ces maudits points...."
+    mct "Ça craint de devoir à nouveau gagner ces maudits points...."
 
 # game/code/d08/d08s04.rpy:51
 translate french d08s04_6beac8e5:
@@ -46,7 +46,7 @@ translate french d08s04_09e6bb19:
 translate french d08s04_900e258f:
 
     # mct "Still... He can be resourceful when it comes to getting his dick wet. The faster I get this over with, the better."
-    mct "Pourtant... Il peut être inventif quand il s'agit de tremper le biscuit. Plus vite j'en aurai fini avec ça, mieux ce sera."
+    mct "Pourtant... Il peut être inventif quand il s'agit de tremper sa bite. Plus vite j'en aurai fini avec ça, mieux ce sera."
 
 # game/code/d08/d08s04.rpy:56
 translate french d08s04_9e1369a5:
@@ -106,7 +106,7 @@ translate french replay_d08s04_e59544ae:
 translate french replay_d08s04_4887193b:
 
     # mesfl "Well, I didn't cum without pee in my mouth. But not because there was pee; I just didn't cum..."
-    mesfl "Eh bien, je n'ai pas joui sans pisse dans ma bouche. Mais pas à cause de l'urine. Je n'ai tout simplement pas joui..."
+    mesfl "Eh bien, je n'ai pas joui sans pisse dans ma bouche. Mais pas à cause de la pisse. Je n'ai tout simplement pas joui..."
 
 # game/code/d08/d08s04.rpy:107
 translate french replay_d08s04_49cb6cdc:
@@ -160,7 +160,7 @@ translate french replay_d08s04_211dd998:
 translate french replay_d08s04_6e3d33e3:
 
     # mesfl "He likes supernatural things, but the toilet is something base and natural... undernatural?"
-    mesfl "Il aime les choses surnaturelles, mais ce qui touche aux toilettes est basique et naturel... sous-naturel ?"
+    mesfl "Il aime les choses surnaturelles, mais ce qui touche aux toilettes est banal et naturel... sous-naturel ?"
 
 # game/code/d08/d08s04.rpy:136
 translate french replay_d08s04_96ebad8b:
@@ -250,7 +250,7 @@ translate french replay_d08s04_c5dad552:
 translate french replay_d08s04_78a950f9:
 
     # mc "That is also why I asked you to cum only with pee in your mouth. We're building a pleasurable association of this taste & smell."
-    mc "C'est aussi pour ça que je t'ai demandé de jouir uniquement avec de l'urine dans la bouche. Nous construisons une association agréable de ce goût et de cette odeur."
+    mc "C'est aussi pour ça que je t'ai demandé de jouir uniquement avec de la pisse en bouche. Nous construisons une association agréable avec ce goût et cette odeur."
 
 # game/code/d08/d08s04.rpy:166
 translate french replay_d08s04_b7efedb4:
@@ -292,7 +292,7 @@ translate french replay_d08s04_ad7590e1:
 translate french replay_d08s04_25e96f6a:
 
     # mc "Sorry, you need to do this yourself. Next time you need to refill I might not be around!."
-    mc "Désolé, tu dois le faire toi-même. La prochaine fois que tu auras besoin de recharger, je ne serai peut-être pas là !"
+    mc "Désolé, tu dois le faire toi-même. La prochaine fois que tu auras besoin de la recharger, je ne serai peut-être pas là !"
 
 # game/code/d08/d08s04.rpy:181
 translate french replay_d08s04_32ad81e4:
@@ -430,7 +430,7 @@ translate french replay_d08s04_6d4ff1de:
 translate french replay_d08s04_cf6679ac:
 
     # mc "Don't forget to drink normal water as well, and every other time urinate in a toilet. You still want fresh water flowing in your body."
-    mc "Aussi, n'oublies pas de boire de l'eau normale et urine une fois sur deux dans les toilettes. Tu veux toujours de l'eau fraîche dans ton corps."
+    mc "Aussi, n'oublies pas aussi de boire de l'eau normale. Bois de l'urine une fois sur deux aux toilettes. Tu dois toujours avoir de l'eau fraîche dans ton corps."
 
 # game/code/d08/d08s04.rpy:290
 translate french replay_d08s04_083bfd50:
