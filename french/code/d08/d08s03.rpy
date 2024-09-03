@@ -112,13 +112,13 @@ translate french d08s03_c85aafcd:
 translate french d08s03_1acabea5:
 
     # mes "Go out there and earn points just like we do."
-    mes "Va et gagnez des points, comme nous."
+    mes "Va et gagne des points, comme nous."
 
 # game/code/d08/d08s03.rpy:68
 translate french d08s03_9fa7debd:
 
     # mes "Besides, the more people that pay with points, the more money we get from the app, the better the next Party will be."
-    mes "Et puis, plus les gens paient avec leurs points, plus nous recevons d'argent grâce l'application, meilleure sera la prochaine fête."
+    mes "Et puis, plus les gens paient avec leurs points, plus nous recevons d'argent grâce l'application et meilleure sera la prochaine fête."
 
 # game/code/d08/d08s03.rpy:70
 translate french d08s03_8e4d8272:
@@ -190,7 +190,7 @@ translate french d08s03_62169626:
 translate french d08s03_aa721223:
 
     # mc "Are you doing okay? I got a message last night..."
-    mc "Est-ce que tu vas bien? J'ai reçu un message hier soir..."
+    mc "Est-ce que tu vas bien ? J'ai reçu un message hier soir..."
 
 # game/code/d08/d08s03.rpy:100
 translate french d08s03_ccf766c6:
@@ -220,7 +220,7 @@ translate french d08s03_b6668550:
 translate french d08s03_3175ad62:
 
     # arj "What did he say?"
-    arj "Qu'a t'il dit ?"
+    arj "Qu'a-t-il dit ?"
 
 # game/code/d08/d08s03.rpy:109
 translate french d08s03_315dea22:
@@ -316,7 +316,7 @@ translate french d08s03_d661624e:
 translate french d08s03_c18f900e:
 
     # arj "Oh! You can use it like a \"Get out of jail free\" to pass on a goal that you otherwise would have failed."
-    arj "Oh ! Tu peux l'utiliser comme un \"Get out of jail free\" pour réussir un objectif que tu aurais échoué."
+    arj "Oh ! Tu peux l'utiliser comme un \"joker\" pour réussir un objectif que tu as échoué."
 
 # game/code/d08/d08s03.rpy:142
 translate french d08s03_876c474c:
@@ -382,7 +382,7 @@ translate french d08s03_ea9b9792:
 translate french d08s03_87200cb2:
 
     # mc "Hey Kev, how was your weekend?"
-    mc "Salut Kev, comment s'est passé ton week-end ?"
+    mc "Salut Kev, comment c'est passé ton week-end ?"
 
 # game/code/d08/d08s03.rpy:184
 translate french d08s03_2d975032:
@@ -400,7 +400,7 @@ translate french d08s03_9a1c051d:
 translate french d08s03_12d3c264:
 
     # kb "What about you, [mcname]? Good weekend?"
-    kb "Et toi,, [mcname]? Bon weekend?"
+    kb "Et toi,, [mcname]? Bon weekend ?"
 
 # game/code/d08/d08s03.rpy:189
 translate french d08s03_d5222758:
@@ -448,7 +448,7 @@ translate french d08s03_bdaffafe:
 translate french d08s03_7234564e:
 
     # mc "Oh, shit. That's right. {w}I kinda forgot anyone else was there."
-    mc "Oh merde. C'est vrai. {w}J'en ai oublié que nous n'étions pas seuls."
+    mc "Oh merde. C'est vrai. {w}J'avais oublié que nous n'étions pas seuls."
 
 # game/code/d08/d08s03.rpy:201
 translate french d08s03_457ae91c:
@@ -532,13 +532,13 @@ translate french d08s03_51142325:
 translate french d08s03_1d9b9f55:
 
     # mct "blah blah blah"
-    mct "blah blah blah"
+    mct "bla bla bla"
 
 # game/code/d08/d08s03.rpy:241
 translate french d08s03_ed7c6e73:
 
     # mct "Is Maria looking at me again, or has she been staring at me this whole time?"
-    mct "Est-ce que Maria me regarde encore, ou est-ce qu'elle ne m'a pas quitté des yeux ?"
+    mct "Est-ce que Maria me regarde encore ? Elle ne m'a pas quitté des yeux ?"
 
 # game/code/d08/d08s03.rpy:246
 translate french d08s03_c24affd4:
@@ -670,7 +670,7 @@ translate french d08s03_d3a88b30:
 translate french d08s03_87048d51:
 
     # mct "Wow, that was uncomfortable."
-    mct "Wow, c'était pas agréable."
+    mct "Wow, ce n'était pas agréable."
 
 # game/code/d08/d08s03.rpy:306
 translate french d08s03_84949172:
@@ -706,7 +706,7 @@ translate french d08s03_c5c7c1f2:
 translate french d08s03_6a5b7574:
 
     # mct "Okay. Buckling down. Focusing on the lecture."
-    mct "D'accord. Concentrons nous. Focus sur la leçon."
+    mct "D'accord. Concentrons-nous. Focus sur la leçon."
 
 # game/code/d08/d08s03.rpy:317
 translate french replay_d08s03_e3ebb20d:
@@ -718,13 +718,13 @@ translate french replay_d08s03_e3ebb20d:
 translate french replay_d08s03_bd5eaa7b:
 
     # mct "Okay, this is just crazy. What the hell does she want?"
-    mct "D'accord, c'est juste dingue. Qu'est-ce qu'elle me veut?"
+    mct "D'accord, c'est juste dingue. Qu'est-ce qu'elle me veut ?"
 
 # game/code/d08/d08s03.rpy:325
 translate french replay_d08s03_3240527e:
 
     # rn "*blah blah blah*... Wilson's Raid into Georgia...*blah blah blah*"
-    rn "*blah blah blah*... Le raid de Wilson en Géorgie a...*blah blah blah*"
+    rn "*bla bla bla*... Le raid de Wilson en Géorgie a...*bla bla bla*"
 
 # game/code/d08/d08s03.rpy:327
 translate french replay_d08s03_8907d4f5:
@@ -826,7 +826,7 @@ translate french replay_d08s03_37daaa62:
 translate french replay_d08s03_ba026827:
 
     # mc "Maybe I can find someone to help you with that."
-    mc "Je peux peut-être trouver quelqu'un pour t'aider."
+    mc "Je peux trouver quelqu'un pour t'aider."
 
 # game/code/d08/d08s03.rpy:363
 translate french replay_d08s03_2479a251:
@@ -904,13 +904,13 @@ translate french replay_d08s03_7e59b137:
 translate french replay_d08s03_71d54b6e:
 
     # mk "I don't... {w}How?"
-    mk "Je ne... {w}Comment?"
+    mk "Je ne... {w}Comment ?"
 
 # game/code/d08/d08s03.rpy:398
 translate french replay_d08s03_c1c99e06:
 
     # mc "You've played with a dildo, right? You've fucked yourself with toys like that?"
-    mc "Tu as joué avec un gode, n'est-ce pas ? Tu t'es baisé avec des jouets qui lui ressemblent ?"
+    mc "Tu as joué avec un gode, n'est-ce pas ? Tu t'es baisée avec des jouets qui lui ressemblent ?"
 
 # game/code/d08/d08s03.rpy:400
 translate french replay_d08s03_02916c9b:
@@ -1036,7 +1036,7 @@ translate french replay_d08s03_ad69a398:
 translate french replay_d08s03_cdd613b4:
 
     # rn "blah blah blah saber wound to the chest blah blah blah"
-    rn "blah blah blah blessure au sabre à la poitrine blah blah blah"
+    rn "bla bla bla blessure au sabre à la poitrine bla bla bla"
 
 # game/code/d08/d08s03.rpy:488
 translate french replay_d08s03_601170d1:
@@ -1090,7 +1090,7 @@ translate french replay_d08s03_6934998d:
 translate french replay_d08s03_dd68f8a3:
 
     # rn "Why was it that Pemberton mixed up that first tonic of cocaine and caffeine?"
-    rn "Pourquoi Pemberton a-t-il mélangé ce premier tonique à base de cocaïne et de caféine?"
+    rn "Pourquoi Pemberton a-t-il mélangé ce premier tonique de cocaïne et de caféine?"
 
 # game/code/d08/d08s03.rpy:529
 translate french replay_d08s03_cbf695c8:
@@ -1138,7 +1138,7 @@ translate french replay_d08s03_5f4aaeeb:
 translate french replay_d08s03_44d5e6fa:
 
     # mk "Yes, sir. I had just dropped my pen."
-    mk "Oui Monsieur. Je venais de laisser tomber mon stylo."
+    mk "Oui Monsieur. J'ai laissé tomber mon stylo."
 
 # game/code/d08/d08s03.rpy:557
 translate french replay_d08s03_9e26a891:
@@ -1264,7 +1264,7 @@ translate french replay_d08s03_bdb152de:
 translate french d08s03_end_8bac5718:
 
     # "Some time later"
-    "Plus trad"
+    "Plus tard"
 
 # game/code/d08/d08s03.rpy:611
 translate french d08s03_end_2c1cb7ed:
@@ -1276,7 +1276,7 @@ translate french d08s03_end_2c1cb7ed:
 translate french d08s03_end_6bf3ab4e:
 
     # mct "Alright, time to meet Squizzle at the toilet."
-    mct "Très bien, il est temps de rencontrer Squizzle aux toilettes.."
+    mct "Très bien, il est temps de rencontrer Squizzle aux toilettes."
 
 # game/code/d08/d08s03.rpy:617
 translate french d08s03_end_11796383:
