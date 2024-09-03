@@ -136,7 +136,7 @@ translate french d08s05_dd_91980308:
 translate french d08s05_dd_6fd4a291:
 
     # dd "Hey there, Little Mister Big Cock! Who's your friend?"
-    dd "Salut, mon Monsieur Grosse Bite ! Qui est ton amie ?"
+    dd "Salut, Monsieur Grosse Bite ! Qui est ton amie ?"
 
 # game/code/d08/d08s05.rpy:82
 translate french d08s05_dd_1e6c78c1:
@@ -256,7 +256,7 @@ translate french d08s05_dd_14041de3:
 translate french d08s05_dd_0b6586b9:
 
     # dd "I mean, we were close back in high school, but don't really see each other much since we came to University."
-    dd "Je veux dire, nous étions proches au lycée, mais nous ne nous voyons pas beaucoup depuis que nous sommes arrivés à l'université."
+    dd "Je veux dire, nous étions proches au lycée, mais on se voit moins depuis que nous sommes à l'université."
 
 # game/code/d08/d08s05.rpy:126
 translate french d08s05_dd_5ef43fce:
@@ -304,7 +304,7 @@ translate french d08s05_dd_2cd36bd2:
 translate french d08s05_dd_79500dd1:
 
     # dd "Oh sure! {w}Let's see..."
-    dd "Oh bien sûr ! {w} Voyons..."
+    dd "Oh bien sûr ! {w}Voyons..."
 
 # game/code/d08/d08s05.rpy:145
 translate french d08s05_dd_a3ea74e4:
@@ -316,7 +316,7 @@ translate french d08s05_dd_a3ea74e4:
 translate french d08s05_dd_ff251ef7:
 
     # dd "Samiya would prank Dahlia, so Dahlia would talk shit about Samiya, so Samiya would prank Dahlia..."
-    dd "Samiya faisait une mauvaise blague à Dahlia, alors Dahlia racontait de la merde sur Samiya, alors Samiya faisait une autre blague à Dahlia.."
+    dd "Samiya faisait une mauvaise blague à Dahlia, alors Dahlia racontait de la merde sur Samiya, alors Samiya faisait une autre crasse à Dahlia.."
 
 # game/code/d08/d08s05.rpy:148
 translate french d08s05_dd_3859fa41:
@@ -346,7 +346,7 @@ translate french d08s05_dd_b92a4d87:
 translate french d08s05_dd_e57db9cf:
 
     # dd "Gah! No. {w}It got even worse after Dahlia's boyfriend's tires got slashed."
-    dd "Waouh ! Non. {w}C'est devenu encore pire après que les pneus du petit ami de Dahlia se soient fait crever."
+    dd "Waouh ! Non. {w}C'est devenu encore pire après que les pneus du petit ami de Dahlia aient été crevés."
 
 # game/code/d08/d08s05.rpy:161
 translate french d08s05_dd_a34281ac:
@@ -364,7 +364,7 @@ translate french d08s05_dd_f5eb4f21:
 translate french d08s05_dd_42576e57:
 
     # sy "How's that?"
-    sy "Developpe"
+    sy "Développe"
 
 # game/code/d08/d08s05.rpy:168
 translate french d08s05_dd_136263e1:
@@ -520,7 +520,7 @@ translate french d08s05_dd_fbe676e7:
 translate french d08s05_dd_978f9da2:
 
     # dd "He goes through the whole story, from how he got picked for Prom King and how after he fucked that B-word and just went on and on..."
-    dd "Il raconte toute l'histoire, comment il a été choisi comme Roi du bal, comment il a baisé cette B et il a continué encore et encore..."
+    dd "Il raconte toute l'histoire, comment il a été choisi pour être le Roi du bal, comment il a baisé cette B et il a continué encore et encore..."
 
 # game/code/d08/d08s05.rpy:221
 translate french d08s05_dd_d1d905d4:
@@ -616,7 +616,7 @@ translate french d08s05_dd_c1e7f53c:
 translate french d08s05_dd_c28fd025:
 
     # dd "Yeah. The guys ran off after that. Like literally ran away. Samiya and I just sat on the hood of her car watching that bitch's car burn until sunrise."
-    dd "Ouais. Les gars se sont ensuite enfuis. Samiya et moi nous sommes assises sur le capot de la voiture de cette pute et l'avons regardé brûler jusqu'au lever du soleil."
+    dd "Ouais. Les gars se sont ensuite enfuis. Samiya et moi nous sommes assises sur le capot de sa voiture et nous l'avons regardé brûler jusqu'au lever du soleil."
 
 # game/code/d08/d08s05.rpy:251
 translate french d08s05_dd_6214cc14:
@@ -1036,7 +1036,7 @@ translate french d08s05_dw_16fed8ed:
 translate french d08s05_dw_522460b0:
 
     # mct "Oh crap. She wants me to beg her to tell me to strip naked right here in public while Stacy is watching?"
-    mct "Oh merde. Elle veut que je la supplie de me dire de me déshabiller ici en public pendant que Stacy regarde ?"
+    mct "Oh merde. Elle veut que je la supplie de dire d'être nu, ici en public, pendant que Stacy regarde ?"
 
 # game/code/d08/d08s05.rpy:478
 translate french d08s05_dw_80a5c16f:
@@ -1090,7 +1090,7 @@ translate french d08s05_dw_b3e5d52d:
 translate french d08s05_dw_317588c3:
 
     # mct "What the fuck??"
-    mct "C'est quoi ce bordel??"
+    mct "C'est quoi ce bordel ??"
 
 # game/code/d08/d08s05.rpy:500
 translate french d08s05_dw_ebf64c4f:
@@ -1144,7 +1144,7 @@ translate french d08s05_dw_dd5eddfc:
 translate french d08s05_dw_2f9aed17:
 
     # dw "[mcname] should have met someone last week who would know Samiya's whereabouts."
-    dw "[mcname] a dû rencontrer quelqu'un la semaine dernière qui saurait où se trouve Samiya."
+    dw "[mcname] a dû rencontrer quelqu'un la semaine dernière qui sait où se trouve Samiya."
 
 # game/code/d08/d08s05.rpy:523
 translate french d08s05_dw_c678c30c:
