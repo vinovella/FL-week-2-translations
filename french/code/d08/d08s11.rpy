@@ -22,7 +22,7 @@ translate french d08s11_31204451:
 translate french d08s11_1ab2fa87:
 
     # jdg "Your witness."
-    jdg "Maître."
+    jdg "Votre témoin."
 
 # game/code/d08/d08s11.rpy:20
 translate french d08s11_4c7c1a22:
@@ -118,7 +118,7 @@ translate french d08s11_208eee58:
 translate french d08s11_8a811710:
 
     # ceo "Human beings."
-    ceo "C'est les êtres humains."
+    ceo "Cela désigne les êtres humains."
 
 # game/code/d08/d08s11.rpy:62
 translate french d08s11_c370ea31:
@@ -233,7 +233,7 @@ translate french d08s11_1484fccd:
 translate french d08s11_5adb8aa7:
 
     # ceo "I am not familiar with him...{w} or her? To the best of my knowledge, I do not know the Prime Minister of that country."
-    ceo "Je ne le connais pas... ou elle ? À ma connaissance, je ne connais pas le Premier ministre de ce pays."
+    ceo "Je ne le connais pas...{w} ou elle ? À ma connaissance, je ne connais pas le Premier ministre de ce pays."
 
 # game/code/d08/d08s11.rpy:112
 translate french d08s11_cb9eb17a:
@@ -275,7 +275,7 @@ translate french d08s11_5df3c4ce:
 translate french d08s11_d48f9edc:
 
     # mh "Are you familiar with the term, \"splooshing\"?"
-    mh "Connaissez-vous le terme, \"splooshing\"?"
+    mh "Connaissez-vous le terme, \"sploshing\"?"
 
 # game/code/d08/d08s11.rpy:133
 translate french d08s11_72cd34c6:
@@ -287,7 +287,7 @@ translate french d08s11_72cd34c6:
 translate french d08s11_c078413e:
 
     # mh "Splooshing... are you familiar with the term?"
-    mh "splooshing... connaissez-vous ce terme ?"
+    mh "Sploshing... connaissez-vous ce terme ?"
 
 # game/code/d08/d08s11.rpy:137
 translate french d08s11_93658b66:
@@ -299,7 +299,7 @@ translate french d08s11_93658b66:
 translate french d08s11_294aa195:
 
     # mh "There are numerous references in the defendant's book to you being covered in food and publicly masturbating. Those would be examples of splooshing."
-    mh "Il y a de nombreuses références dans le livre de l'accusé selon lesquelles vous étiez couvert de nourriture vous masturbant en public. Ce seraient des exemples de splooshing."
+    mh "Il y a de nombreuses références dans le livre de l'accusé selon lesquelles vous étiez couvert de nourriture en vous masturbant en public. Ce seraient des exemples de sploshing."
 
 # game/code/d08/d08s11.rpy:143
 translate french d08s11_7c374ee6:
@@ -311,7 +311,7 @@ translate french d08s11_7c374ee6:
 translate french d08s11_1e021388:
 
     # mh "Do you enjoy splooshing?"
-    mh "Aimez-vous le splooshing ?"
+    mh "Aimez-vous le sploshing ?"
 
 # game/code/d08/d08s11.rpy:147
 translate french d08s11_4aedf70c_1:
@@ -329,7 +329,7 @@ translate french d08s11_d7e1996f:
 translate french d08s11_5f7cf9f3:
 
     # ceo "Of course not!"
-    ceo "Bien sûr que non!"
+    ceo "Bien sûr que non !"
 
 # game/code/d08/d08s11.rpy:152
 translate french d08s11_9e8d34da:
@@ -371,7 +371,7 @@ translate french d08s11_cbe12594:
 translate french d08s11_9b59f137:
 
     # ceo "*sigh* Please do."
-    ceo "*soupir* S'il te plaît, faites donc."
+    ceo "*soupir* S'il vous plaît, faites donc."
 
 # game/code/d08/d08s11.rpy:170
 translate french d08s11_82fa1be9:
@@ -389,7 +389,7 @@ translate french d08s11_16642d00:
 translate french d08s11_84f38f06:
 
     # jdg "Order in the court!"
-    jdg "De l'ordre à la cour !"
+    jdg "De l'ordre dans la cour !"
 
 # game/code/d08/d08s11.rpy:180
 translate french d08s11_971b8c8b:
@@ -749,7 +749,7 @@ translate french d08s11_f52d2647:
 translate french d08s11_d1a0d4cc:
 
     # op "Miss Harris!"
-    op "Mlle Harris!"
+    op "Mademoiselle Harris !"
 
 # game/code/d08/d08s11.rpy:329
 translate french d08s11_0cd4518d:
