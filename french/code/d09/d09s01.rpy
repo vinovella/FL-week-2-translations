@@ -10,13 +10,13 @@ translate french d09s01_2910aaa3:
 translate french d09s01_74bc0fd8:
 
     # mc "Good morning, me. Sleep well?"
-    mc "Bonjour, moi. Bien dormi?"
+    mc "Bonjour, moi. Tu as bien dormi ?"
 
 # game/code/d09/d09s01.rpy:13
 translate french d09s01_0c6c2c41:
 
     # mc "Not really. I kept having that dream where I'm taking a shower in a room with no drain..."
-    mc "Pas vraiment. Je fais toujours ce rêve où je prends une douche dans une pièce sans évacuation..."
+    mc "Non, pas vraiment. Je fais toujours ce rêve où je prends une douche dans une pièce sans évacuation..."
 
 # game/code/d09/d09s01.rpy:14
 translate french d09s01_9723e90b:
@@ -46,7 +46,7 @@ translate french d09s01_51ab4180:
 translate french d09s01_efd0d0f9:
 
     # mc "Huh. I'm talking to myself. That can't be good."
-    mc "Hein. Je me parle tout seul, ça va pas mieux."
+    mc "Hein. Je me parle à moi-même, ça va pas mieux."
 
 # game/code/d09/d09s01.rpy:22
 translate french d09s01_4cf2d1b7:
@@ -100,13 +100,13 @@ translate french d09s01_f2b9703f:
 translate french d09s01_9f7ad367:
 
     # mct "Ugh. I got some text messages last night."
-    mct "Pouah. J'ai reçu des SMS hier soir."
+    mct "Ouah. J'ai reçu des SMS hier soir."
 
 # game/code/d09/d09s01.rpy:43
 translate french d09s01_bf31a3de:
 
     # mct "From Min? Why would Min be blowing up my phone in the middle of the night?"
-    mct "De Min? Pourquoi Min m'enverrait un message au beau milieu de la nuit ?"
+    mct "De Min ? Pourquoi Min m'enverrait un message au beau milieu de la nuit ?"
 
 # game/code/d09/d09s01.rpy:44
 translate french d09s01_a9fa17ce:
@@ -136,7 +136,7 @@ translate french d09s01_428e0f7d:
 translate french d09s01_70cc201d:
 
     # mct "Fetish Locator? Already?"
-    mct "Fetish Locator? Déjâ?"
+    mct "Fetish Locator? Déjâ ?"
 
 # game/code/d09/d09s01.rpy:69
 translate french d09s01_ec9db6c5:
@@ -148,7 +148,7 @@ translate french d09s01_ec9db6c5:
 translate french d09s01_939dbfc5:
 
     # mct "Vibrators and dildos. Huh."
-    mct "Vibros et godes. Hein."
+    mct "Vibros et godes. Ok."
 
 # game/code/d09/d09s01.rpy:71
 translate french d09s01_f1b0a377:
@@ -214,7 +214,7 @@ translate french d09s01_24c9d171:
 translate french d09s01_02f62bc7:
 
     # mct "I need to go this place, that Samiya sent me. Let's hope she is more reasonable than what others think about her."
-    mct "Je dois aller à cet endroit que Samiya m'a envoyé. Espérons qu'elle soit plus raisonnable que ce que les autres pensent d'elle."
+    mct "Je dois aller à l'endroit que Samiya m'a signalé. Espérons qu'elle soit plus raisonnable que ce que les autres pensent d'elle."
 
 # game/code/d09/d09s01.rpy:88
 translate french d09s01_61e6906b:
