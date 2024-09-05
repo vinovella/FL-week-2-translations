@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-29 21:58
 
 # game/code/d10/d10s05.rpy:7
 translate italian d10s05_be2623d1:
@@ -1392,7 +1391,6 @@ translate italian d10s05_replay_69fd61bb:
     # arj "Yep!"
     arj "Sì!"
 
-# TODO: Translation updated at 2022-11-12 13:27
 
 # game/code/d10/d10s05.rpy:364
 translate italian d10s05_replay_95bf8394:

@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-04-10 22:40
 
 # game/code/d10p2/d10p2s05.rpy:65
 translate spanish d10p2s05_255d6989:

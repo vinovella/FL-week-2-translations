@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2020-12-30 22:51
 
 # game/code/d10p1/d10p1s06.rpy:25
 translate italian d10p1s06_d17c010b:
@@ -592,7 +591,6 @@ translate italian strings:
     old "I don't want to see this"
     new "Non vuoi vedere oltre"
 
-# TODO: Translation updated at 2021-05-16 23:55
 
 # game/code/d10p1/d10p1s06.rpy:115
 translate italian d10p1s06_part_2_28802472:

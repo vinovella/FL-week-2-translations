@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/d14/d14s05.rpy:8
 translate russian d14s05_2bf3d221:
@@ -2080,7 +2079,6 @@ translate russian strings:
     old "Let Stacy Win"
     new "Пусть Стейси победит"
 
-# TODO: Translation updated at 2022-11-12 13:38
 
 # game/code/d14/d14s05.rpy:802
 translate russian d14s05_e89e3635:

@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-09-15 21:23
 
 translate portuguese strings:
 
@@ -362,7 +361,6 @@ translate portuguese strings:
     old "Menu"
     new "Menu"
 
-# TODO: Translation updated at 2021-10-13 01:40
 
 translate portuguese strings:
 
@@ -370,7 +368,6 @@ translate portuguese strings:
     old "Naming save file:"
     new "Dar nome aos saves:"
 
-# TODO: Translation updated at 2021-10-25 01:03
 
 translate portuguese strings:
 
@@ -378,7 +375,6 @@ translate portuguese strings:
     old "Low Memory Mode"
     new "Modo de Baixa Memória"
 
-# TODO: Translation updated at 2021-11-14 23:02
 
 translate portuguese strings:
 
@@ -401,7 +397,6 @@ translate portuguese strings:
     # game/code/screens/screens.rpy:796
     old "Others"
     new "Others"
-# TODO: Translation updated at 2023-10-24 14:09
 
 translate portuguese strings:
 
@@ -413,7 +408,6 @@ translate portuguese strings:
     old "Try our new game Taboo University"
     new "Try our new game Taboo University"
 
-# TODO: Translation updated at 2024-07-07 21:17
 
 translate portuguese strings:
 

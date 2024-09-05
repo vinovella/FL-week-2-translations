@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-05-17 00:14
 
 # game/code/d12/d12s01.rpy:61
 translate italian d12s01_43701264:
@@ -1610,7 +1609,6 @@ translate italian strings:
     old "No photos"
     new "Niente foto"
 
-# TODO: Translation updated at 2022-11-12 13:27
 
 # game/code/d12/d12s01.rpy:235
 translate italian d12s01_1b9a042d:

@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-08-23 21:59
 
 # game/code/d13/extended/d13s02.rpy:36
 translate italian d13s02_acea7575:

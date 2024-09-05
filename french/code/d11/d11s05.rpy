@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2023-07-31 15:26
 
 # game/code/d11/d11s05.rpy:25
 translate french d11s05_d53e0c53:

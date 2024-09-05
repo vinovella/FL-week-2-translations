@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-09-29 22:26
 
 # game/code/d14p2/d14s19_sy.rpy:135
 translate malay d14s19_sy_2c3af789:
@@ -927,7 +926,6 @@ translate malay strings:
     # game/code/d14p2/d14s19_sy.rpy:956
     old "I enjoyed the sex, but..."
     new "Aku menikmati seksnya, tapi..."
-# TODO: Translation updated at 2021-10-03 23:34
 
 # game/code/d14p2/d14s19_sy.rpy:164
 translate malay d14s19_sy_a0433917:

@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/d13/d13s05.rpy:37
 translate russian d13s05_67dfdc05:

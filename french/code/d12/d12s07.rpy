@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2023-07-31 15:26
 
 # game/code/d12/d12s07.rpy:4
 translate french d12s07_296981ed:

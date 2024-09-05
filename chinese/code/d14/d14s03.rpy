@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-08-07 22:56
 
 # game/code/d14/d14s03.rpy:5
 translate chinese d14s03_e0ad0b38:
@@ -1386,7 +1385,6 @@ translate chinese strings:
     old "Kiss her"
     new "吻她"
 
-# TODO: Translation updated at 2022-11-12 13:18
 
 # game/code/d14/d14s03.rpy:198
 translate chinese d14s03_5f1c483b:

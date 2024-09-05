@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-07-17 00:18
 
 # game/code/labels.rpy:209
 translate malay buzz_4377a2f7:
@@ -11,7 +10,6 @@ translate malay knockknock_a3fe61f9:
 
     # "Knock knock"
     "Ketuk Ketuk"
-# TODO: Translation updated at 2021-10-03 23:34
 
 # game/code/labels.rpy:104
 translate malay after_credits_4092fc7e:
@@ -253,7 +251,6 @@ translate malay after_credits_c7e3ca6c:
     # sy "But don't forget to support us! We will bring you more awesome stuff!"
     sy "Tetapi jangan lupa untuk menyokong kami! Kami akan membawakan anda lebih banyak aksi yang hebat!"
 
-# TODO: Translation updated at 2021-10-19 22:24
 
 # game/code/labels.rpy:191
 translate malay after_credits_e29ad5fa:

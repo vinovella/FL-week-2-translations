@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/d12/d12s06.rpy:88
 translate russian d12s06_b479bc74:

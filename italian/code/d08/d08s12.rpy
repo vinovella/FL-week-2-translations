@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-28 02:38
 
 # game/code/d08/d08s12.rpy:43
 translate italian d08s12_51233532:
@@ -682,7 +681,6 @@ translate italian strings:
     old "It is your turn now"
     new "Adesso tocca a te"
     
-# TODO: Translation updated at 2021-01-19 00:11
 
 # game/code/d08/d08s12.rpy:191
 translate italian d08s12_deny_b5e3f444:
@@ -713,7 +711,6 @@ translate italian d08s12_end_6c5544fb:
 
     # mh "Heh, I can't wait to see you again!."
     mh "Eh, non vedo l'ora di rivederti!"
-# TODO: Translation updated at 2022-11-12 13:27
 
 # game/code/d08/d08s12.rpy:545
 translate italian d08s12_end_ebe54fab:

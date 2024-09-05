@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-05-17 00:14
 
 # game/code/d12/d12s04.rpy:32
 translate italian d12s04_29002f0b:
@@ -828,7 +827,6 @@ translate italian strings:
     old "Take the plunge; be a considerate lover"
     new "Fai il grande passo: ti comporti da amante premuroso"
 
-# TODO: Translation updated at 2021-08-23 21:59
 
 # game/code/d12/d12s04.rpy:207
 translate italian replay_d12s04_f874a4ed:
@@ -879,7 +877,6 @@ translate italian replay_d12s04_faf75cbc:
     mh "Oh. Comunque non sapevo che saresti passato oggi. Da quanto sei qui? Perché non mi hai chiamato?"
     
     
-# TODO: Translation updated at 2022-11-12 13:27
 
 # game/code/d12/d12s04.rpy:34
 translate italian d12s04_8cc9a922:

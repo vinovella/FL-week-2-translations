@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2020-07-30 07:39
 
 translate italian strings:
 
@@ -110,7 +109,6 @@ translate italian strings:
     old "Scat"
     new "Scat"
 
-# TODO: Translation updated at 2020-08-10 14:27
 
 translate italian strings:
 
@@ -122,7 +120,6 @@ translate italian strings:
     old "The close childhood friend"
     new "L'amica d'infanzia"
 
-# TODO: Translation updated at 2022-02-04 00:03
 
 translate italian strings:
 

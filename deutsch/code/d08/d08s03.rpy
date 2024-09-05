@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2020-07-30 07:17
 
 # game/code/d08/d08s03.rpy:19
 translate deutsch d08s03_4ee8cc8f:
@@ -716,7 +715,6 @@ translate deutsch strings:
     old "It was an accident"
     new "Es war ein Unfall"
 
-# TODO: Translation updated at 2020-11-10 12:16
 
 # game/code/d08/d08s03.rpy:38
 translate deutsch d08s03_20ef59dd:
@@ -1306,7 +1304,6 @@ translate deutsch d08s03_end_6bf3ab4e:
 
     # mct "Alright, time to meet Squizzle at the toilet."
     mct "In Ordnung, es wird Zeit Squizzle in der Toilette zu besuchen."
-# TODO: Translation updated at 2022-11-12 13:25
 
 # game/code/d08/d08s03.rpy:122
 translate deutsch d08s03_3a9860c7:

@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-08-07 22:56
 
 # game/code/d12/d12s02.rpy:20
 translate chinese d12s02_6690416a:
@@ -818,7 +817,6 @@ translate chinese strings:
     old "Do it (spend [d12_cost_of_blitz] points)"
     new "行动(花[d12_cost_of_blitz]点)"
 
-# TODO: Translation updated at 2022-11-12 13:18
 
 # game/code/d12/d12s02.rpy:327
 translate chinese d12s02_52f7b26f:

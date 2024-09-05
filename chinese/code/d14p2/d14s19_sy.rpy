@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-09-29 22:18
 
 # game/code/d14p2/d14s19_sy.rpy:135
 translate chinese d14s19_sy_2c3af789:
@@ -928,7 +927,6 @@ translate chinese strings:
     old "I enjoyed the sex, but..."
     new "我很享受性关系，但是……"
 
-# TODO: Translation updated at 2021-10-03 23:25
 
 # game/code/d14p2/d14s19_sy.rpy:164
 translate chinese d14s19_sy_a0433917:

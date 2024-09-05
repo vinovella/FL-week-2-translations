@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-09-29 22:25
 
 # game/code/d14p2/d14s13.rpy:6
 translate deutsch d14s13_d2c80bad:
@@ -479,7 +478,6 @@ translate deutsch d14s13_5af089f0:
 
     # hr "*Chuckles* You really remind me of my girlfriend."
     hr "*lächelt* Du erinnerst mich sehr an meine Freundin."
-# TODO: Translation updated at 2022-11-12 13:25
 
 # game/code/d14p2/d14s13.rpy:99
 translate deutsch d14s13_2abde1da:

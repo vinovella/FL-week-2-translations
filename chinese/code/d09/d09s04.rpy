@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-02 23:31
 
 # game/code/d09/d09s04.rpy:31
 translate chinese d09s04_e24786fb:
@@ -684,7 +683,6 @@ translate chinese replay_d09s04_e4163433:
     # mct "I guess zucchini counts as dildo..."
     mct "我猜西葫芦也算假阳具吧……"
 
-# TODO: Translation updated at 2021-05-16 23:32
 
 # game/code/d09/d09s04.rpy:27
 translate chinese d09s04_1629e8ef:

@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2020-06-09 02:20
 
 translate deutsch strings:
 
@@ -26,14 +25,12 @@ translate deutsch strings:
     old "The game will try to replay the scene\naccording to your current playthrough"
     new "Das Spiel wird die Szene noch einmal spielen \n aufgrund deines jetzigen Abspielens"
 
-# TODO: Translation updated at 2021-05-16 23:52
 
 translate deutsch strings:
 
     # game/code/functions.rpy:16
     old "New character unlocked in the pool"
     new "Neuer Charakter im Pool freigeschaltet"
-# TODO: Translation updated at 2022-11-12 13:25
 
 translate deutsch strings:
 

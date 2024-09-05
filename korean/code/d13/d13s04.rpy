@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2022-09-01 22:00
 
 # game/code/d13/d13s04.rpy:8
 translate korean d13s04_0bef8c27:

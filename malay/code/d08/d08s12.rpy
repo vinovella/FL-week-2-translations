@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-07-15 10:22
 
 # game/code/d08/d08s12.rpy:46
 translate malay d08s12_51233532:
@@ -705,7 +704,6 @@ translate malay strings:
     # game/code/d08/d08s12.rpy:480
     old "It is your turn now"
     new "Sekarang giliran kau pula"
-# TODO: Translation updated at 2022-11-12 13:32
 
 # game/code/d08/d08s12.rpy:545
 translate malay d08s12_end_ebe54fab:

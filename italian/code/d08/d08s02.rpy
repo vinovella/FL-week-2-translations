@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2020-07-30 07:39
 
 # game/code/d08/d08s02.rpy:7
 translate italian d08s02_7ed15712:

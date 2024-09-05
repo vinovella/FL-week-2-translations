@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-07-15 10:22
 
 translate malay strings:
 
@@ -358,7 +357,6 @@ translate malay strings:
     old "Menu"
     new "Menu"
 
-# TODO: Translation updated at 2021-08-23 21:56
 
 translate malay strings:
 
@@ -366,7 +364,6 @@ translate malay strings:
     old "Character Gallery"
     new "Galeri Watak"
 
-# TODO: Translation updated at 2021-10-13 01:40
 
 translate malay strings:
 
@@ -374,7 +371,6 @@ translate malay strings:
     old "Naming save file:"
     new "Menamakan fail simpanan:"
 
-# TODO: Translation updated at 2021-10-25 01:15
 
 translate malay strings:
 
@@ -382,7 +378,6 @@ translate malay strings:
     old "Low Memory Mode"
     new "Mod Memori Rendah"
 
-# TODO: Translation updated at 2021-11-14 23:01
 
 translate malay strings:
 
@@ -405,7 +400,6 @@ translate malay strings:
     # game/code/screens/screens.rpy:796
     old "Others"
     new "Lain"
-# TODO: Translation updated at 2023-10-24 14:09
 
 translate malay strings:
 
@@ -417,7 +411,6 @@ translate malay strings:
     old "Try our new game Taboo University"
     new "Try our new game Taboo University"
 
-# TODO: Translation updated at 2024-07-07 21:16
 
 translate malay strings:
 

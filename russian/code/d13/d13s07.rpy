@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/d13/d13s07.rpy:7
 translate russian d13s07_cd8be750:

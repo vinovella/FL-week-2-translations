@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/d08/d08s08.rpy:4
 translate russian d08s08_e8de1932:
@@ -468,7 +467,6 @@ translate russian d08s08_2fff4bf6:
     # mc "Take it easy, and hey...{w} Thanks for trying."
     mc "Успокойся, и эй... {w}Спасибо за попытку."
 
-# TODO: Translation updated at 2022-11-12 13:38
 
 # game/code/d08/d08s08.rpy:11
 translate russian d08s08_3098df80:

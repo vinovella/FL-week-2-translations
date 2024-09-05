@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2020-07-30 07:17
 
 # game/code/d08/d08s01.rpy:16
 translate deutsch d08s01_a38e2739:
@@ -388,7 +387,6 @@ translate deutsch strings:
     old "Let Stacy bathe with you"
     new "Lass Stacy mit dir baden"
 
-# TODO: Translation updated at 2020-11-10 12:16
 
 # game/code/d08/d08s01.rpy:36
 translate deutsch d08s01_b602ab1e:

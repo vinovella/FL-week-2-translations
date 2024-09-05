@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-08-23 21:58
 
 # game/code/d14/d14s07.rpy:75
 translate deutsch d14s07_01bc9165:

@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2020-06-09 02:20
 
 translate deutsch strings:
 
@@ -242,7 +241,6 @@ translate deutsch strings:
     old "Day 7: AmRose"
     new "Tag 7: AmRose"
 
-# TODO: Translation updated at 2020-06-27 22:20
 
 translate deutsch strings:
 
@@ -258,7 +256,6 @@ translate deutsch strings:
     old "Enjoy the rimjob"
     new "Genieße den Rimjob"
 
-# TODO: Translation updated at 2020-06-28 12:40
 
 translate deutsch strings:
 
@@ -266,7 +263,6 @@ translate deutsch strings:
     old "Day 5: URLittlePony"
     new "Tag 5: URLittlePony"
 
-# TODO: Translation updated at 2020-07-30 07:17
 
 translate deutsch strings:
 
@@ -286,7 +282,6 @@ translate deutsch strings:
     old "Take a picture of AmRose's foot"
     new "Mach ein Foto von AmRose's Fuß"
 
-# TODO: Translation updated at 2020-11-10 12:16
 
 translate deutsch strings:
 
@@ -326,7 +321,6 @@ translate deutsch strings:
     old "Dominate Lyssa"
     new "Dominiere Lyssa"
 
-# TODO: Translation updated at 2021-08-23 21:58
 
 translate deutsch strings:
 
@@ -502,7 +496,6 @@ translate deutsch strings:
     old "Day 13: Stacy"
     new "Tag 13: Stacy"
 
-# TODO: Translation updated at 2021-10-25 01:16
 
 translate deutsch strings:
 

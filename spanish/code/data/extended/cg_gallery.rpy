@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-01 14:31
 
 translate spanish strings:
 
@@ -138,7 +137,6 @@ translate spanish strings:
     old "Don't lie to Lydia"
     new "No le mientas a Lydia"
 
-# TODO: Translation updated at 2021-08-23 22:22
 
 translate spanish strings:
 
@@ -290,7 +288,6 @@ translate spanish strings:
     old "Day 13: Vanessa"
     new "Día 13: Vanessa"
 
-# TODO: Translation updated at 2021-09-29 22:22
 
 translate spanish strings:
 
@@ -298,7 +295,6 @@ translate spanish strings:
     old "Safewords are for noobs"
     new "Las palabras de seguridad son para los novatos"
 
-# TODO: Translation updated at 2021-10-25 01:12
 
 translate spanish strings:
 

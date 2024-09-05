@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-09-15 21:23
 
 # game/code/d10p2/d10p2s01.rpy:59
 translate portuguese d10p2s01_c52271c1:

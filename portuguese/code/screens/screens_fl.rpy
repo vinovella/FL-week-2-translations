@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-09-15 21:23
 
 translate portuguese strings:
 
@@ -42,7 +41,6 @@ translate portuguese strings:
     old "X-RAY"
     new "RAIO-X"
 
-# TODO: Translation updated at 2021-09-26 22:37
 
 translate portuguese strings:
 
@@ -66,7 +64,6 @@ translate portuguese strings:
     old "SAVE"
     new "SALVAR"
 
-# TODO: Translation updated at 2021-10-13 01:40
 
 translate portuguese strings:
 
@@ -86,7 +83,6 @@ translate portuguese strings:
     old "{u}Fill the questionnaire to play week [FLSS.week.cur] without loading a save{/u}"
     new "{u}Preencha o questionário para jogar a semana [FLSS.week.cur] sem carregar um save{/u}"
 
-# TODO: Translation updated at 2021-10-18 00:48
 
 translate portuguese strings:
 
@@ -94,7 +90,6 @@ translate portuguese strings:
     old "SKIP RECAP"
     new "PULAR"
 
-# TODO: Translation updated at 2021-10-23 00:15
 
 translate portuguese strings:
 
@@ -102,14 +97,12 @@ translate portuguese strings:
     old "SKIP"
     new "PULAR"
 
-# TODO: Translation updated at 2021-10-25 01:03
 
 translate portuguese strings:
 
     # game/code/screens/screens_fl.rpy:232
     old "Unnamed End Game Save"
     new "Save de Fim de Jogo Sem Nome"
-# TODO: Translation updated at 2022-02-07 23:00
 
 translate portuguese strings:
 
@@ -121,7 +114,6 @@ translate portuguese strings:
     old "Go back and enable {b}Trans Content{/b} to be able to select Lyssa"
     new "Go back and enable {b}Trans Content{/b} to be able to select Lyssa"
 
-# TODO: Translation updated at 2022-11-12 13:34
 
 translate portuguese strings:
 
@@ -221,7 +213,6 @@ translate portuguese strings:
     old "Confirm"
     new "Confirm"
 
-# TODO: Translation updated at 2023-06-01 13:47
 
 translate portuguese strings:
 
@@ -233,7 +224,6 @@ translate portuguese strings:
     old "Close the game"
     new "Feche o jogo"
 
-# TODO: Translation updated at 2023-06-09 02:00
 
 translate portuguese strings:
 
@@ -245,7 +235,6 @@ translate portuguese strings:
     old "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
     new "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
 
-# TODO: Translation updated at 2024-07-07 21:17
 
 translate portuguese strings:
 

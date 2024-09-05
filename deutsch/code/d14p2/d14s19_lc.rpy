@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-09-29 22:25
 
 # game/code/d14p2/d14s19_lc.rpy:30
 translate deutsch d14s19_lc_f6f3315d:

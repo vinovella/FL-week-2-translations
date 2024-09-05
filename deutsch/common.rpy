@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2020-07-30 07:17
 
 translate deutsch strings:
 
@@ -958,7 +957,6 @@ translate deutsch strings:
     old "Copies the errors.txt file to the clipboard as Markdown for Discord."
     new "Kopiert die errors.txt Datei auf das Clipboard als Markdown für Discord."
 
-# TODO: Translation updated at 2020-11-10 12:16
 
 translate deutsch strings:
 
@@ -1130,7 +1128,6 @@ translate deutsch strings:
     old "q"
     new "q"
 
-# TODO: Translation updated at 2021-11-16 22:43
 
 translate deutsch strings:
 
@@ -1210,7 +1207,6 @@ translate deutsch strings:
     old "Press or move the '[control!s]' [kind]."
     new "Drücke oder bewege '[control!s]' [kind]."
 
-# TODO: Translation updated at 2023-05-23 16:04
 
 translate deutsch strings:
 
@@ -1230,7 +1226,6 @@ translate deutsch strings:
     old "mute main"
     new "mute main"
 
-# TODO: Translation updated at 2023-06-01 13:43
 
 translate deutsch strings:
 
@@ -1342,7 +1337,6 @@ translate deutsch strings:
     old "Sync Error"
     new "Sync Error"
 
-# TODO: Translation updated at 2024-07-07 20:53
 
 translate deutsch strings:
 

@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-09-15 21:23
 
 # game/code/d11/extended/d11s03b.rpy:10
 translate portuguese d11s03b_d02856eb:

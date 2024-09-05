@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-08-07 22:56
 
 # game/code/d13/d13s07.rpy:7
 translate chinese d13s07_cd8be750:
@@ -726,7 +725,6 @@ translate chinese d13s07_9b0423ef:
     # mc "Good night."
     mc "晚安。"
 
-# TODO: Translation updated at 2021-08-23 21:48
 
 # game/code/d13/d13s07.rpy:123
 translate chinese d13s07_f7adbeb5:

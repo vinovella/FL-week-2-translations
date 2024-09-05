@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2022-09-01 22:00
 
 # game/code/d08/d08s06.rpy:6
 translate korean d08s06_026f7b87:

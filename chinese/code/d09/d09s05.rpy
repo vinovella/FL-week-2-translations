@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-02 23:31
 
 # game/code/d09/d09s05.rpy:39
 translate chinese d09s05_57f407bc:
@@ -800,7 +799,6 @@ translate chinese strings:
     old "Cover the whore"
     new "射这婊子身上"
 
-# TODO: Translation updated at 2021-05-16 23:32
 
 # game/code/d09/d09s05.rpy:32
 translate chinese d09s05_ef5e49b3:

@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-09-29 22:25
 
 # game/code/d14p2/d14s14.rpy:39
 translate deutsch d14s14_be2623d1:
@@ -929,7 +928,6 @@ translate deutsch strings:
     # game/code/d14p2/d14s14.rpy:425
     old "I Like This Feeling!!!"
     new "Ich mag dieses Gefühl!!!"
-# TODO: Translation updated at 2022-11-12 13:25
 
 # game/code/d14p2/d14s14.rpy:117
 translate deutsch d14s14_e6e632d2:

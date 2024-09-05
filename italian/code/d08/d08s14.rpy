@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-28 02:38
 
 # game/code/d08/d08s14.rpy:4
 translate italian d08s14_2bbdcd9b:
@@ -1378,7 +1377,6 @@ translate italian strings:
     old "Yes, but..."
     new "Sì, ma..."
 
-# TODO: Translation updated at 2022-11-12 13:27
 
 # game/code/d08/d08s14.rpy:199
 translate italian d08s14_336ce5e2:

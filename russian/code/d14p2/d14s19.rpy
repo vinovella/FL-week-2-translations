@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/d14p2/d14s19.rpy:23
 translate russian d14s19_9870cd87:

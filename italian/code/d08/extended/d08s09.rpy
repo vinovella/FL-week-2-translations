@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-05-16 23:55
 
 
 # game/code/d08/extended/d08s09.rpy:37

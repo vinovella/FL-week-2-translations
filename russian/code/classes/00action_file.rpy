@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-04 21:11
 
 translate russian strings:
 

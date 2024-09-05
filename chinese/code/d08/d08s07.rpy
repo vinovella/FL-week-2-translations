@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-02 23:31
 
 # game/code/d08/d08s07.rpy:6
 translate chinese d08s07_ce6bbf32:
@@ -927,7 +926,6 @@ translate chinese strings:
     # game/code/d08/d08s07.rpy:88
     old "You're both beautiful"
     new "你们两个都很漂亮"
-# TODO: Translation updated at 2022-11-12 13:18
 
 # game/code/d08/d08s07.rpy:310
 translate chinese d08s07_f9a4640e:

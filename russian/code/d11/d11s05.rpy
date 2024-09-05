@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/d11/d11s05.rpy:25
 translate russian d11s05_d53e0c53:
@@ -358,7 +357,6 @@ translate russian strings:
     old "Do it. Find out the truth"
     new "Сделай это. Узнай правду"
 
-# TODO: Translation updated at 2022-11-12 13:38
 
 # game/code/d11/d11s05.rpy:140
 translate russian d11s05_791d313d:

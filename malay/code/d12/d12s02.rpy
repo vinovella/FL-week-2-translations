@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-07-15 10:22
 
 # game/code/d12/d12s02.rpy:20
 translate malay d12s02_6690416a:
@@ -1261,7 +1260,6 @@ translate malay strings:
     # game/code/d12/d12s02.rpy:343
     old "Do it (spend [d12_cost_of_blitz] points)"
     new "Lakukan (belanjakan  [d12_cost_of_blitz] mata)"
-# TODO: Translation updated at 2022-11-12 13:32
 
 # game/code/d12/d12s02.rpy:327
 translate malay d12s02_52f7b26f:

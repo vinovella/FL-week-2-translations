@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-15 22:22
 
 translate chinese strings:
 
@@ -350,7 +349,6 @@ translate chinese strings:
     old "Menu"
     new "菜单"
 
-# TODO: Translation updated at 2021-05-20 00:15
 
 translate chinese strings:
 
@@ -362,7 +360,6 @@ translate chinese strings:
     old "No"
     new "否"
 
-# TODO: Translation updated at 2021-08-23 21:48
 
 translate chinese strings:
 
@@ -370,7 +367,6 @@ translate chinese strings:
     old "Character Gallery"
     new "角色图库"
 
-# TODO: Translation updated at 2021-10-13 01:38
 
 translate chinese strings:
 

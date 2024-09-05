@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-04-10 22:40
 
 # game/code/d11/d11s05.rpy:25
 translate spanish d11s05_d53e0c53:
@@ -357,7 +356,6 @@ translate spanish strings:
     # game/code/d11/d11s05.rpy:141
     old "Do it. Find out the truth"
     new "Hazlo. Averigua la verdad"
-# TODO: Translation updated at 2022-11-12 13:40
 
 # game/code/d11/d11s05.rpy:140
 translate spanish d11s05_791d313d:

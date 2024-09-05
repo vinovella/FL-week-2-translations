@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/d11/d11s03.rpy:6
 translate russian d11s03_3d1dc366:
@@ -1654,7 +1653,6 @@ translate russian strings:
     old "Laugh in Her Face"
     new "Рассмеяться ей в лицо"
 
-# TODO: Translation updated at 2022-11-12 13:38
 
 # game/code/d11/d11s03.rpy:282
 translate russian d11s03_4a1f60c6:

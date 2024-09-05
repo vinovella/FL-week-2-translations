@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-10-20 10:25
 
 # game/code/d14/extended/d14s08.rpy:47
 translate deutsch d14s08_383c46ec:
@@ -842,7 +841,6 @@ translate deutsch strings:
     # game/code/d14/extended/d14s08.rpy:327
     old "That's Enough"
     new "Das reicht"
-# TODO: Translation updated at 2022-11-12 13:25
 
 # game/code/d14/extended/d14s08.rpy:228
 translate deutsch d14s08_65d3d366:

@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2020-11-29 22:04
 
 # game/code/d09/d09s05.rpy:37
 translate deutsch d09s05_57f407bc:
@@ -800,7 +799,6 @@ translate deutsch strings:
     old "Cover the whore"
     new "Mal' die Hure an"
 
-# TODO: Translation updated at 2021-05-16 23:52
 
 # game/code/d09/d09s05.rpy:32
 translate deutsch d09s05_ef5e49b3:

@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-28 02:38
 
 # game/code/d08/d08s08.rpy:4
 translate italian d08s08_e8de1932:
@@ -468,7 +467,6 @@ translate italian d08s08_2fff4bf6:
     # mc "Take it easy, and hey...{w} Thanks for trying."
     mc "Crepi e...{w} grazie di averci provato."
 
-# TODO: Translation updated at 2022-11-12 13:27
 
 # game/code/d08/d08s08.rpy:11
 translate italian d08s08_3098df80:

@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-09-15 21:23
 
 # game/code/d08/d08s07.rpy:6
 translate portuguese d08s07_ce6bbf32:
@@ -928,7 +927,6 @@ translate portuguese strings:
     old "You're both beautiful"
     new "Vocês duas são lindas"
 
-# TODO: Translation updated at 2022-11-12 13:34
 
 # game/code/d08/d08s07.rpy:310
 translate portuguese d08s07_f9a4640e:

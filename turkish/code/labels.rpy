@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-05 20:18
 
 # game/code/labels.rpy:100
 translate turkish after_credits_4092fc7e:

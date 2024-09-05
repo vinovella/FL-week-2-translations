@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-02 23:31
 
 # game/code/d08/d08s06.rpy:11
 translate chinese d08s06_026f7b87:

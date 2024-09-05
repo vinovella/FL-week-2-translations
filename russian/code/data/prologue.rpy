@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-10-15 09:58
 
 translate russian strings:
 
@@ -118,7 +117,6 @@ translate russian strings:
     old "Not_Mike"
     new "Не_Майк"
 
-# TODO: Translation updated at 2022-02-07 22:55
 
 translate russian strings:
 

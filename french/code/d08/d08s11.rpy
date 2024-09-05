@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2023-07-31 15:26
 
 # game/code/d08/d08s11.rpy:7
 translate french d08s11_2fc7f19d:

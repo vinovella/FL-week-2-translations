@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-10-15 17:59
 
 # game/code/recap.rpy:53
 translate spanish d08s00_week1synopsis_9b6483a6:
@@ -917,7 +916,6 @@ translate spanish d08s00_week1synopsis_7c59af2b:
 
     # "No more waiting! Let's get into Week 2..."
     "¡Se acabó la espera! Entremos en la segunda semana..."
-# TODO: Translation updated at 2022-11-12 13:40
 
 # game/code/recap.rpy:277
 translate spanish d08s00_week1synopsis_f49a455e:

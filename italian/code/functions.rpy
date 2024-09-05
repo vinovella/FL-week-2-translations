@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2020-05-21 23:41
 
 translate italian strings:
 
@@ -34,7 +33,6 @@ translate italian strings:
     old "The game will try to replay the scene\naccording to your current playthrough"
     new "La scena sarà replicata cercando\ndi rispettare le tue scelte nel gioco"
 
-# TODO: Translation updated at 2021-05-16 23:55
 
 translate italian strings:
 
@@ -42,7 +40,6 @@ translate italian strings:
     old "New character unlocked in the pool"
     new "Nuovo personaggio sbloccato in piscina"
 
-# TODO: Translation updated at 2022-11-12 13:27
 
 translate italian strings:
 

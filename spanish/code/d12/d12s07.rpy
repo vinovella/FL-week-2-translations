@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-08-23 22:22
 
 # game/code/d12/d12s07.rpy:4
 translate spanish d12s07_296981ed:

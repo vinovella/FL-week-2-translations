@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-04-10 22:31
 
 # game/code/d10p2/d10p2s09.rpy:94
 translate deutsch d10p2s09_9a54df39:

@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-08-07 22:56
 
 # game/code/d13/d13s06.rpy:36
 translate chinese d13s06_80586a78:

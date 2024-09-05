@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/d13/d13s04.rpy:8
 translate russian d13s04_0bef8c27:

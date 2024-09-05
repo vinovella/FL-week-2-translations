@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-01 14:31
 
 translate spanish strings:
 
@@ -6,7 +5,6 @@ translate spanish strings:
     old "Day 8: AmRose"
     new "Día 8: AmRose"
 
-# TODO: Translation updated at 2021-08-23 22:22
 
 translate spanish strings:
 
@@ -14,7 +12,6 @@ translate spanish strings:
     old "Day 9: Squizzle - Selfie"
     new "Día 9: Squizzle - Selfie"
 
-# TODO: Translation updated at 2021-10-13 01:42
 
 translate spanish strings:
 

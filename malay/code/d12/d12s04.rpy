@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-07-15 10:22
 
 # game/code/d12/d12s04.rpy:32
 translate malay d12s04_29002f0b:
@@ -828,7 +827,6 @@ translate malay strings:
     old "Take the plunge; be a considerate lover"
     new "Ambil risiko; jadi kekasih yang bertimbang rasa "
 
-# TODO: Translation updated at 2021-08-23 21:56
 
 # game/code/d12/d12s04.rpy:207
 translate malay replay_d12s04_f874a4ed:
@@ -877,7 +875,6 @@ translate malay replay_d12s04_faf75cbc:
 
     # mh "Huh. Still, I didn't know that you were gonna come by today. How long have you been here? Why didn't you call me?"
     mh "Huh. Namun, aku tak tahu yang kau akan datang hari ini. Sudah berapa lama kau ada di sini? Kenapa kau tak telefon aku?"
-# TODO: Translation updated at 2022-11-12 13:32
 
 # game/code/d12/d12s04.rpy:34
 translate malay d12s04_8cc9a922:

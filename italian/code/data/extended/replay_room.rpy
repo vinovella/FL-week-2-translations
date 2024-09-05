@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2020-05-23 02:30
 
 translate italian strings:
 
@@ -314,7 +313,6 @@ translate italian strings:
     old "Take a picture of AmRose's foot"
     new "Scatta una foto al piede di AmRose"
 
-# TODO: Translation updated at 2021-01-19 00:11
 
 translate italian strings:
 
@@ -354,7 +352,6 @@ translate italian strings:
     old "Dominate Lyssa"
     new "Domina Lyssa"
 
-# TODO: Translation updated at 2021-07-23 23:31
 
 translate italian strings:
 
@@ -442,7 +439,6 @@ translate italian strings:
     old "Party 2: Allison and Squizzle"
     new "Party 2: Allison e Squizzle"
 
-# TODO: Translation updated at 2021-08-23 21:59
 
 translate italian strings:
 
@@ -534,7 +530,6 @@ translate italian strings:
     old "Day 13: Stacy"
     new "13° giorno: Stacy"
 
-# TODO: Translation updated at 2021-10-25 01:06
 
 translate italian strings:
 

@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-07-15 10:22
 
 # game/code/d10/d10s05.rpy:7
 translate malay d10s05_be2623d1:
@@ -1391,7 +1390,6 @@ translate malay d10s05_replay_69fd61bb:
 
     # arj "Yep!"
     arj "Yep!"
-# TODO: Translation updated at 2022-11-12 13:32
 
 # game/code/d10/d10s05.rpy:364
 translate malay d10s05_replay_95bf8394:

@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-09-15 21:23
 
 # game/code/d08/extended/d08s09.rpy:37
 translate portuguese d08s09_445aec41:

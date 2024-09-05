@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-01 14:31
 
 translate spanish strings:
 

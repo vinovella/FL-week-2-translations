@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2020-08-10 14:27
 
 # game/code/d08/d08s07.rpy:6
 translate italian d08s07_ce6bbf32:
@@ -910,7 +909,6 @@ translate italian strings:
     old "You're both beautiful"
     new "Siete entrambe bellissime"
 
-# TODO: Translation updated at 2021-01-19 00:11
 
 # game/code/d08/d08s07.rpy:172
 translate italian d08s07_482ca548:
@@ -929,7 +927,6 @@ translate italian d08s07_9aa5dd7c:
 
     # mc "Last week was awesome. I had a lot of fun, but best of all... I got to talk with you."
     mc "La scorsa settimana è stata fantastica. Mi sono divertito un mondo, ma soprattutto... sono riuscito a parlare con te."
-# TODO: Translation updated at 2022-11-12 13:27
 
 # game/code/d08/d08s07.rpy:310
 translate italian d08s07_f9a4640e:

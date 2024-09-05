@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2020-07-30 07:17
 
 # game/code/d08/prologue.rpy:57
 translate deutsch prologue_fresh_start_4063ae17:
@@ -128,7 +127,6 @@ translate deutsch strings:
     old "Her firm ass"
     new "Ihr fester Hintern"
 
-# TODO: Translation updated at 2020-11-10 12:16
 
 # game/code/d08/prologue.rpy:114
 translate deutsch prologue_girls_set_1_3502c4fc:
@@ -154,7 +152,6 @@ translate deutsch prologue_girls_set_3_746b6a7f:
     # "Last pair: do you prefer a top or a bottom? (Or neither, if they aren't your cup of tea)\nSelect up to one girl and press \"Done\"."
     "Letztes Paar: bevorzugst du ein Oberteil oder ein Unterteil? (Oder keins von beidem, wenn sie nicht dein Ding sind)\nWähle bis zu einem Mädchen aus und drücke auf \"Fertig\"."
 
-# TODO: Translation updated at 2021-10-19 22:16
 
 # game/code/d08/prologue.rpy:184
 translate deutsch prologue_nora_creampie_fcd0a635:
@@ -172,7 +169,6 @@ translate deutsch strings:
     old "No, I didn't"
     new "Nein, habe ich nicht."
 
-# TODO: Translation updated at 2022-02-07 22:57
 
 # game/code/d08/prologue.rpy:121
 translate deutsch prologue_fetishes_7bc3a4e5:
@@ -185,7 +181,6 @@ translate deutsch strings:
     # game/code/d08/prologue.rpy:4
     old "Mike"
     new "Mike"
-# TODO: Translation updated at 2022-11-12 13:25
 
 # game/code/d08/prologue.rpy:67
 translate deutsch prologue_fresh_start_ab0acec6:

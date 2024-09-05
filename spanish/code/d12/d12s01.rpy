@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-08-23 22:22
 
 # game/code/d12/d12s01.rpy:61
 translate spanish d12s01_43701264:
@@ -1609,7 +1608,6 @@ translate spanish strings:
     # game/code/d12/d12s01.rpy:855
     old "No photos"
     new "No hay fotos"
-# TODO: Translation updated at 2022-11-12 13:40
 
 # game/code/d12/d12s01.rpy:235
 translate spanish d12s01_1b9a042d:

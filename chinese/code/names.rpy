@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2020-03-13 00:36
 
 translate chinese strings:
 

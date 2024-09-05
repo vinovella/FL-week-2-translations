@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-10 12:16
 
 # game/code/d08/d08s07.rpy:6
 translate deutsch d08s07_ce6bbf32:
@@ -928,7 +927,6 @@ translate deutsch strings:
     old "You're both beautiful"
     new "Ihr seid beide hübsch "
 
-# TODO: Translation updated at 2022-11-12 13:25
 
 # game/code/d08/d08s07.rpy:310
 translate deutsch d08s07_f9a4640e:

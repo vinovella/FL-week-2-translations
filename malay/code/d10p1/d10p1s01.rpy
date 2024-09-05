@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-07-15 10:22
 
 # game/code/d10p1/d10p1s01.rpy:8
 translate malay d10p1s01_27b48bcf:
@@ -1274,7 +1273,6 @@ translate malay strings:
     old "Apples"
     new "Epal"
 
-# TODO: Translation updated at 2022-11-12 13:32
 
 # game/code/d10p1/d10p1s01.rpy:375
 translate malay d10p1s01_427f0b81:

@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-09-15 21:23
 
 # game/code/d14/d14s01.rpy:6
 translate portuguese d14s01_09b2c302:
@@ -270,7 +269,6 @@ translate portuguese d14s01_2835e914:
     # sb "In your dreams! Hahahahaha..."
     sb "Nos seus sonhos! Hahahahaha..."
 
-# TODO: Translation updated at 2022-11-12 13:34
 
 # game/code/d14/d14s01.rpy:91
 translate portuguese d14s01_79ee7a04:

@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-05-17 00:04
 
 # game/code/d09/extended/d09s07.rpy:54
 translate spanish d09s07_e733d4b9:

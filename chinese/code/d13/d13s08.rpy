@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-08-07 22:56
 
 # game/code/d13/d13s08.rpy:55
 translate chinese d13s08_1ea101fb:
@@ -544,7 +543,6 @@ translate chinese strings:
     old "Have her wear it later"
     new "让她晚点穿"
 
-# TODO: Translation updated at 2021-08-23 21:48
 
 # game/code/d13/d13s08.rpy:481
 translate chinese replay_d13s08_1b18d17e:

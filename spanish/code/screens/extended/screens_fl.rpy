@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-01 14:31
 
 translate spanish strings:
 
@@ -34,7 +33,6 @@ translate spanish strings:
     old ">"
     new ">"
 
-# TODO: Translation updated at 2021-05-17 00:04
 
 translate spanish strings:
 

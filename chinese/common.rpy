@@ -1140,7 +1140,6 @@ translate chinese strings:
     old "Copies the errors.txt file to the clipboard as Markdown for Discord."
     new "将errors.txt文件复制到剪贴板，作为 Discord 的 Markdown。"
 
-# TODO: Translation updated at 2021-11-16 22:33
 
 translate chinese strings:
 
@@ -1220,7 +1219,6 @@ translate chinese strings:
     old "Press or move the '[control!s]' [kind]."
     new "Press or move the '[control!s]' [kind]."
 
-# TODO: Translation updated at 2023-05-23 16:03
 
 translate chinese strings:
 
@@ -1240,7 +1238,6 @@ translate chinese strings:
     old "mute main"
     new "mute main"
 
-# TODO: Translation updated at 2023-06-01 13:41
 
 translate chinese strings:
 
@@ -1352,7 +1349,6 @@ translate chinese strings:
     old "Sync Error"
     new "Sync Error"
 
-# TODO: Translation updated at 2024-07-07 20:51
 
 translate chinese strings:
 

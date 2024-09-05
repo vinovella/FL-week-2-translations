@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-02 23:31
 
 # game/code/d10/d10s02.rpy:7
 translate chinese d10s02_f28413eb:
@@ -922,7 +921,6 @@ translate chinese strings:
     old "Ask her if she wants to earn some points"
     new "问她想不想赚点数"
 
-# TODO: Translation updated at 2022-11-12 13:18
 
 # game/code/d10/d10s02.rpy:253
 translate chinese d10s02_warning_dbc3fbdf:

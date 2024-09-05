@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-08-23 22:22
 
 # game/code/d12/d12s04.rpy:32
 translate spanish d12s04_29002f0b:
@@ -875,7 +874,6 @@ translate spanish strings:
     # game/code/d12/d12s04.rpy:496
     old "Take the plunge; be a considerate lover"
     new "Date el paso, sé un amante considerado"
-# TODO: Translation updated at 2022-11-12 13:40
 
 # game/code/d12/d12s04.rpy:34
 translate spanish d12s04_8cc9a922:

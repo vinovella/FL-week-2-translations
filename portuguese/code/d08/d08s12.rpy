@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-09-15 21:23
 
 # game/code/d08/d08s12.rpy:46
 translate portuguese d08s12_51233532:
@@ -706,7 +705,6 @@ translate portuguese strings:
     old "It is your turn now"
     new "Sua vez agora"
 
-# TODO: Translation updated at 2022-11-12 13:34
 
 # game/code/d08/d08s12.rpy:545
 translate portuguese d08s12_end_ebe54fab:

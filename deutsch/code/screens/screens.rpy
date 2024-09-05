@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2020-06-09 02:20
 
 translate deutsch strings:
 
@@ -26,7 +25,6 @@ translate deutsch strings:
     old "»"
     new "»"
 
-# TODO: Translation updated at 2020-07-30 07:17
 
 translate deutsch strings:
 
@@ -46,7 +44,6 @@ translate deutsch strings:
     old "Disabled"
     new "Deaktiviert"
 
-# TODO: Translation updated at 2021-08-23 21:58
 
 translate deutsch strings:
 
@@ -54,7 +51,6 @@ translate deutsch strings:
     old "Character Gallery"
     new "Character Gallerie"
 
-# TODO: Translation updated at 2021-10-13 01:39
 
 translate deutsch strings:
 
@@ -62,7 +58,6 @@ translate deutsch strings:
     old "Naming save file:"
     new "Benenne Speicherstand:"
 
-# TODO: Translation updated at 2021-10-25 01:16
 
 translate deutsch strings:
 
@@ -70,7 +65,6 @@ translate deutsch strings:
     old "Low Memory Mode"
     new "Low Memory Modus"
 
-# TODO: Translation updated at 2021-11-14 23:05
 
 translate deutsch strings:
 
@@ -94,7 +88,6 @@ translate deutsch strings:
     old "Others"
     new "Andere"
 
-# TODO: Translation updated at 2023-10-24 14:06
 
 translate deutsch strings:
 
@@ -105,7 +98,6 @@ translate deutsch strings:
     # game/code/screens/screens.rpy:656
     old "Try our new game Taboo University"
     new "Try our new game Taboo University"
-# TODO: Translation updated at 2024-07-07 20:53
 
 translate deutsch strings:
 

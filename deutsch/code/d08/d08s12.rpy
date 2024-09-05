@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2020-12-30 20:21
 
 # game/code/d08/d08s12.rpy:43
 translate deutsch d08s12_51233532:
@@ -694,7 +693,6 @@ translate deutsch strings:
     old "It is your turn now"
     new "Du bist an der Reihe"
 
-# TODO: Translation updated at 2021-01-19 00:10
 
 # game/code/d08/d08s12.rpy:166
 translate deutsch d08s12_pre_mc_action_1614da67:
@@ -708,7 +706,6 @@ translate deutsch d08s12_deny_8b37064c:
     # mc "Nope... Be a good girl and make me cum."
     mc "Nope... Sei ein gutes Mädchen und lass mich kommen."
 
-# TODO: Translation updated at 2022-11-12 13:25
 
 # game/code/d08/d08s12.rpy:545
 translate deutsch d08s12_end_ebe54fab:

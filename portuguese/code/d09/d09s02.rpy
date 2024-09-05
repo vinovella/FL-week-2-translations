@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-09-15 21:23
 
 # game/code/d09/d09s02.rpy:22
 translate portuguese d09s02_d3bd4739:

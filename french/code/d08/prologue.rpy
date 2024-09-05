@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2023-07-31 15:26
 
 # game/code/d08/prologue.rpy:63
 translate french prologue_fresh_start_4063ae17:

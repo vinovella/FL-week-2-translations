@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-11-14 23:02
 
 translate portuguese strings:
 
@@ -630,7 +629,6 @@ translate portuguese strings:
     old "No hints available."
     new "Não há dicas disponíveis."
 
-# TODO: Translation updated at 2021-11-16 22:42
 
 translate portuguese strings:
 

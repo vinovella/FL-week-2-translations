@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-11-14 14:09
 
 translate russian strings:
 
@@ -374,7 +373,6 @@ translate russian strings:
     old "Menu"
     new "Меню"
 
-# TODO: Translation updated at 2023-10-24 14:10
 
 translate russian strings:
 
@@ -386,7 +384,6 @@ translate russian strings:
     old "Try our new game Taboo University"
     new "Try our new game Taboo University"
 
-# TODO: Translation updated at 2024-07-07 21:18
 
 translate russian strings:
 

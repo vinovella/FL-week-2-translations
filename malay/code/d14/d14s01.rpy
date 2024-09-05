@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-08-23 21:56
 
 # game/code/d14/d14s01.rpy:6
 translate malay d14s01_09b2c302:
@@ -270,7 +269,6 @@ translate malay d14s01_2835e914:
     # sb "In your dreams! Hahahahaha..."
     sb "Jangan beranganlah! Hahahahaha..."
 
-# TODO: Translation updated at 2022-11-12 13:32
 
 # game/code/d14/d14s01.rpy:91
 translate malay d14s01_79ee7a04:

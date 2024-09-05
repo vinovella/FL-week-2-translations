@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-09-15 21:23
 
 # game/code/d10/d10s07.rpy:13
 translate portuguese d10s07_fad11a7d:

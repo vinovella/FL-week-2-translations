@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2022-09-01 22:00
 
 translate korean strings:
 
@@ -1154,7 +1153,6 @@ translate korean strings:
     old "Parsing the script failed."
     new "스크립트 분석 실패."
 
-# TODO: Translation updated at 2023-05-23 16:02
 
 translate korean strings:
 
@@ -1174,7 +1172,6 @@ translate korean strings:
     old "mute main"
     new "주 음소거"
 
-# TODO: Translation updated at 2023-06-01 13:45
 
 translate korean strings:
 

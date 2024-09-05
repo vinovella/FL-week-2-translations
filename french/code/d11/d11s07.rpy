@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2023-07-31 15:26
 
 # game/code/d11/d11s07.rpy:50
 translate french d11s07_a362d45b:

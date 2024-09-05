@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2023-07-31 15:26
 
 # game/code/d13/d13s08.rpy:53
 translate french d13s08_1ea101fb:

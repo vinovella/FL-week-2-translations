@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-11-14 22:59
 
 translate chinese strings:
 
@@ -630,7 +629,6 @@ translate chinese strings:
     old "No hints available."
     new "无可用提示。"
 
-# TODO: Translation updated at 2021-11-16 22:33
 
 translate chinese strings:
 

@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-05 20:18
 
 translate turkish strings:
 
@@ -1170,7 +1169,6 @@ translate turkish strings:
     old "Parsing the script failed."
     new "Komut dosyası ayrıştırılamadı."
 
-# TODO: Translation updated at 2023-06-01 13:51
 
 translate turkish strings:
 
@@ -1285,7 +1283,6 @@ translate turkish strings:
     # renpy/common/00sync.rpy:541
     old "No"
     new "Hayır"
-# TODO: Translation updated at 2024-07-07 21:20
 
 translate turkish strings:
 

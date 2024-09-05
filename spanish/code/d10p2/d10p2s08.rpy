@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-04-10 22:40
 
 # game/code/d10p2/d10p2s08.rpy:29
 translate spanish d10p2s08_42ace476:
@@ -2418,7 +2417,6 @@ translate spanish strings:
     old "Blowjob from AmRose"
     new "Mamada de AmRose"
 
-# TODO: Translation updated at 2021-04-20 23:53
 
 # game/code/d10p2/d10p2s08.rpy:710
 translate spanish d10p2s08_mh_part3_4f2cc688:
@@ -2438,7 +2436,6 @@ translate spanish d10p2s08_mh_part3_20d947bf:
     # lc "Please tell me it was Lyssa."
     lc "Por favor, dime que fue Lyssa."
 
-# TODO: Translation updated at 2021-05-17 00:04
 
 # game/code/d10p2/d10p2s08.rpy:957
 translate spanish d10p2s08_jf_part3_b49a9044:
@@ -2589,7 +2586,6 @@ translate spanish d10p2s08_jf_part5_6e27356e:
 
     # mc "URLittlePony was rewarded with a drink from the Trough of Ultimate Sexual Deviancy."
     mc "TuPequeñoPony fue recompensada con un trago del abrevadero de la máxima desviación sexual."
-# TODO: Translation updated at 2022-11-12 13:40
 
 # game/code/d10p2/d10p2s08.rpy:120
 translate spanish d10p2s08_47b69fbd:

@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-09-29 22:25
 
 # game/code/d14p2/d14s19_sy.rpy:135
 translate deutsch d14s19_sy_2c3af789:
@@ -928,7 +927,6 @@ translate deutsch strings:
     old "I enjoyed the sex, but..."
     new "Ich mochte den Sex, aber..."
 
-# TODO: Translation updated at 2021-10-03 23:28
 
 # game/code/d14p2/d14s19_sy.rpy:164
 translate deutsch d14s19_sy_a0433917:

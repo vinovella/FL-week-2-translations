@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-29 22:08
 
 # game/code/d10/d10s04.rpy:80
 translate spanish d10s04_0d4d03ce:

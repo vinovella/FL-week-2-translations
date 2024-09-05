@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2023-07-31 15:26
 
 # game/code/d10/d10s04.rpy:82
 translate french d10s04_0d4d03ce:

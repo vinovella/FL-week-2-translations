@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-28 02:38
 
 # game/code/d09/d09s02.rpy:22
 translate italian d09s02_d3bd4739:
@@ -1146,7 +1145,6 @@ translate italian strings:
     old "Nah, that's enough."
     new "No, basta così."
 
-# TODO: Translation updated at 2021-05-16 23:55
 
 translate italian strings:
 

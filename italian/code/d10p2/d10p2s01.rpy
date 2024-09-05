@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-02-18 10:52
 
 # game/code/d10p2/d10p2s01.rpy:57
 translate italian d10p2s01_c52271c1:
@@ -760,7 +759,6 @@ translate italian d10p2s01_6112aeb1:
     # dd "Terrific! See you."
     dd "Ottimo! Ci vediamo."
 
-# TODO: Translation updated at 2021-05-17 01:13
 
 # game/code/d10p2/d10p2s01.rpy:113
 translate italian d10p2s01_a55c5cb4:

@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2020-02-22 11:57
 
 translate italian strings:
 
@@ -38,7 +37,6 @@ translate italian strings:
     old "Undo"
     new "Annulla"
 
-# TODO: Translation updated at 2020-07-30 07:39
 
 translate italian strings:
 
@@ -46,7 +44,6 @@ translate italian strings:
     old "Fetish Locator is intended for a mature audience\nof 18 years or older. Please abide by your local laws.\nAll characters are 18 years or older. No exceptions.\nThe characters in Fetish Locator explore relationships and their sexuality in both healthy and unhealthy ways. Some of these may be offensive to some players. Viewer discretion is advised. To that end, much of the content is optional and often there are alternative paths available. This is necessary to the story. The content explored should not be treated as an endorsement of particular fetishes, kinks, or patterns of behaviour. Please explore your own relationships and sexuality responsibly.\n\nEnjoy!"
     new "Fetish Locator è destinato ad un pubblico di persone adulte, di età pari o superiore a 18 anni. Si prega di rispettare le leggi locali. Tutti i personaggi di Fetish Locator, senza eccezione, hanno almeno 18 anni. Essi hanno relazioni ed esplorano pratiche sessuali talora sicure per la salute, talora no. Alcuni giocatori potrebbero ritenerle offensive. Proprio per questo, la maggior parte del contenuto del gioco è opzionale e spesso sono disponibili percorsi alternativi. Questo è necessario per lo svolgimento della storia. Il contenuto esplorato non si deve intendere come apologetico di particolari fetish, perversioni o comportamenti. Per favore, esplorate le relazioni e la vostra sessualità responsabilmente.\n\nBuon divertimento!"
 
-# TODO: Translation updated at 2021-07-23 23:31
 
 translate italian strings:
 
@@ -54,7 +51,6 @@ translate italian strings:
     old "X-RAY"
     new "Raggi X"
 
-# TODO: Translation updated at 2021-09-29 22:24
 
 translate italian strings:
 
@@ -78,7 +74,6 @@ translate italian strings:
     old "SAVE"
     new "SALVA"
 
-# TODO: Translation updated at 2021-10-13 01:39
 
 translate italian strings:
 
@@ -98,7 +93,6 @@ translate italian strings:
     old "{u}Fill the questionnaire to play week [FLSS.week.cur] without loading a save{/u}"
     new "{u}Compila il questionario per giocare la [FLSS.week.cur] settimana senza caricare un salvataggio{/u}"
 
-# TODO: Translation updated at 2021-10-18 00:45
 
 translate italian strings:
 
@@ -106,7 +100,6 @@ translate italian strings:
     old "SKIP RECAP"
     new "SALTA RECAP"
 
-# TODO: Translation updated at 2021-10-23 00:18
 
 translate italian strings:
 
@@ -114,7 +107,6 @@ translate italian strings:
     old "SKIP"
     new "SALTA"
 
-# TODO: Translation updated at 2021-10-25 01:06
 
 translate italian strings:
 
@@ -122,7 +114,6 @@ translate italian strings:
     old "Unnamed End Game Save"
     new "Salvataggio di fine partita senza nome"
 
-# TODO: Translation updated at 2022-02-07 22:58
 
 translate italian strings:
 
@@ -133,7 +124,6 @@ translate italian strings:
     # game/code/screens/screens_fl.rpy:570
     old "Go back and enable {b}Trans Content{/b} to be able to select Lyssa"
     new "Go back and enable {b}Trans Content{/b} to be able to select Lyssa"
-# TODO: Translation updated at 2022-11-12 13:27
 
 translate italian strings:
 
@@ -233,7 +223,6 @@ translate italian strings:
     old "Confirm"
     new "Confirm"
 
-# TODO: Translation updated at 2023-06-01 13:44
 
 translate italian strings:
 
@@ -245,7 +234,6 @@ translate italian strings:
     old "Close the game"
     new "Chiudi il gioco"
 
-# TODO: Translation updated at 2023-06-09 01:58
 
 translate italian strings:
 
@@ -257,7 +245,6 @@ translate italian strings:
     old "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
     new "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
 
-# TODO: Translation updated at 2024-07-07 20:57
 
 translate italian strings:
 

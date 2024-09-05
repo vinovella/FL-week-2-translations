@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-10-20 10:24
 
 # game/code/d14/extended/d14s08.rpy:47
 translate chinese d14s08_383c46ec:
@@ -843,7 +842,6 @@ translate chinese strings:
     # game/code/d14/extended/d14s08.rpy:327
     old "That's Enough"
     new "够了"
-# TODO: Translation updated at 2022-11-12 13:18
 
 # game/code/d14/extended/d14s08.rpy:228
 translate chinese d14s08_65d3d366:

@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/d14/d14s03.rpy:6
 translate russian d14s03_e0ad0b38:
@@ -1386,7 +1385,6 @@ translate russian strings:
     old "Kiss her"
     new "Поцеловать ее"
 
-# TODO: Translation updated at 2022-11-12 13:38
 
 # game/code/d14/d14s03.rpy:198
 translate russian d14s03_5f1c483b:

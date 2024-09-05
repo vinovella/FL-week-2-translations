@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-09-15 21:23
 
 # game/code/d13/d13s06.rpy:36
 translate portuguese d13s06_80586a78:

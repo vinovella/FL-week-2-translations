@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-11-14 23:01
 
 translate malay strings:
 
@@ -630,7 +629,6 @@ translate malay strings:
     old "No hints available."
     new "Tiada petunjuk tersedia."
 
-# TODO: Translation updated at 2021-11-16 22:41
 
 translate malay strings:
 

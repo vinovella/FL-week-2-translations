@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-02 23:31
 
 # game/code/d10/d10s04.rpy:80
 translate chinese d10s04_0d4d03ce:

@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-07-15 10:22
 
 # game/code/d10/d10s01.rpy:5
 translate malay d10s01_c266f695:
@@ -258,7 +257,6 @@ translate malay d10s01_f1fb4a66:
     # mc "Exactly. Good morning and good night."
     mc "Tepat sekali. Selamat pagi dan selamat malam."
 
-# TODO: Translation updated at 2022-11-12 13:32
 
 # game/code/d10/d10s01.rpy:38
 translate malay d10s01_58c63989:

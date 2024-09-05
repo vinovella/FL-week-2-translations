@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-03-29 20:53
 
 # game/code/labels.rpy:209
 translate italian buzz_4377a2f7:
@@ -12,7 +11,6 @@ translate italian knockknock_a3fe61f9:
     # "Knock knock"
     "Toc toc"
 
-# TODO: Translation updated at 2021-10-03 23:33
 
 # game/code/labels.rpy:104
 translate italian after_credits_4092fc7e:
@@ -254,7 +252,6 @@ translate italian after_credits_c7e3ca6c:
     # sy "But don't forget to support us! We will bring you more awesome stuff!"
     sy "Ma non dimenticarti di sostenerci! Faremo altre cose fantastiche!"
 
-# TODO: Translation updated at 2021-10-18 00:45
 
 # game/code/labels.rpy:191
 translate italian after_credits_e29ad5fa:

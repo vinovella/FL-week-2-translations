@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-11-14 23:05
 
 translate deutsch strings:
 
@@ -630,7 +629,6 @@ translate deutsch strings:
     old "No hints available."
     new "Keine Tipps verfügbar."
 
-# TODO: Translation updated at 2021-11-16 22:43
 
 translate deutsch strings:
 

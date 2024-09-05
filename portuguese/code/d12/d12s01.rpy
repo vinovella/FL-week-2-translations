@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-09-15 21:23
 
 # game/code/d12/d12s01.rpy:61
 translate portuguese d12s01_43701264:
@@ -1610,7 +1609,6 @@ translate portuguese strings:
     old "No photos"
     new "Sem fotos"
 
-# TODO: Translation updated at 2022-11-12 13:34
 
 # game/code/d12/d12s01.rpy:235
 translate portuguese d12s01_1b9a042d:

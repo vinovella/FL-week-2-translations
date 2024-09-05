@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/d09/d09s04.rpy:27
 translate russian d09s04_1629e8ef:

@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-07-15 10:22
 
 # game/code/d12/d12s05.rpy:17
 translate malay d12s05_1758d1cc:

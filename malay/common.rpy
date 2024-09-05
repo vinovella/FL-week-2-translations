@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-07-16 23:50
 
 translate malay strings:
 
@@ -1141,7 +1140,6 @@ translate malay strings:
     # renpy/common/_errorhandling.rpym:687
     old "Copies the errors.txt file to the clipboard as Markdown for Discord."
     new "Menyalin fail errors.txt file ke papan klip sebagai Markdown untuk Discord."
-# TODO: Translation updated at 2022-01-24 02:09
 
 translate malay strings:
 
@@ -1225,7 +1223,6 @@ translate malay strings:
     old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
     new ""
 
-# TODO: Translation updated at 2023-05-03 19:38
 
 translate malay strings:
 
@@ -1245,7 +1242,6 @@ translate malay strings:
     old "mute main"
     new "mute main"
 
-# TODO: Translation updated at 2023-06-01 13:46
 
 translate malay strings:
 
@@ -1357,7 +1353,6 @@ translate malay strings:
     old "Sync Error"
     new "Sync Error"
 
-# TODO: Translation updated at 2024-07-07 21:16
 
 translate malay strings:
 

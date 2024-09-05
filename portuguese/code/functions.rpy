@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-09-15 21:23
 
 translate portuguese strings:
 
@@ -26,7 +25,6 @@ translate portuguese strings:
     old "The game will try to replay the scene\naccording to your current playthrough"
     new "O jogo tentará repetir a cena\nde acordo com sua campanha atual"
 
-# TODO: Translation updated at 2022-11-12 13:34
 
 translate portuguese strings:
 

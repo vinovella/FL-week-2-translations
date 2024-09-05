@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-08-07 22:56
 
 # game/code/d14/d14s05.rpy:8
 translate chinese d14s05_2bf3d221:
@@ -2068,7 +2067,6 @@ translate chinese strings:
     old "Let Stacy Win"
     new "让史黛西赢"
 
-# TODO: Translation updated at 2021-08-25 23:20
 
 # game/code/d14/d14s05.rpy:267
 translate chinese d14s05_e5c14757:
@@ -2082,7 +2080,6 @@ translate chinese d14s05_c2eb53da:
     # mc "Of course not."
     mc "当然不是。"
 
-# TODO: Translation updated at 2022-11-12 13:18
 
 # game/code/d14/d14s05.rpy:802
 translate chinese d14s05_e89e3635:

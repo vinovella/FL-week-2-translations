@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-04-10 22:31
 
 # game/code/d10p2/d10p2s04-dw.rpy:51
 translate deutsch d10p2s04_dw_dbf77d44:
@@ -1182,7 +1181,6 @@ translate deutsch strings:
     old "Hold stronger"
     new "Halte länger durch"
 
-# TODO: Translation updated at 2021-04-20 23:55
 
 # game/code/d10p2/d10p2s04-dw.rpy:594
 translate deutsch d10p2s04_dwmc_dickslap_66332944:

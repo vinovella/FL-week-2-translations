@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-08-07 22:56
 
 # game/code/d14/d14s07.rpy:74
 translate chinese d14s07_01bc9165:

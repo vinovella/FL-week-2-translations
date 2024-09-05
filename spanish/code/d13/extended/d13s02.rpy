@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-08-23 22:22
 
 # game/code/d13/extended/d13s02.rpy:36
 translate spanish d13s02_acea7575:

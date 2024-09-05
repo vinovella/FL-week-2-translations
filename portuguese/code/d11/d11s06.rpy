@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-09-15 21:23
 
 # game/code/d11/d11s06.rpy:62
 translate portuguese d11s06_d2790112:

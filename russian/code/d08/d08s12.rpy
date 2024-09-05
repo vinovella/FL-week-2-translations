@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/d08/d08s12.rpy:49
 translate russian d08s12_51233532:
@@ -706,7 +705,6 @@ translate russian strings:
     old "It is your turn now"
     new "Теперь твоя очередь"
 
-# TODO: Translation updated at 2022-11-12 13:38
 
 # game/code/d08/d08s12.rpy:545
 translate russian d08s12_end_ebe54fab:

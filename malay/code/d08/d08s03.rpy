@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-07-15 10:22
 
 # game/code/d08/d08s03.rpy:16
 translate malay d08s03_4ee8cc8f:
@@ -1304,7 +1303,6 @@ translate malay strings:
     old "It was an accident"
     new "Ia adalah satu kemalangan"
 
-# TODO: Translation updated at 2022-11-12 13:32
 
 # game/code/d08/d08s03.rpy:122
 translate malay d08s03_3a9860c7:

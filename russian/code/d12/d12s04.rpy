@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/d12/d12s04.rpy:32
 translate russian d12s04_29002f0b:
@@ -876,7 +875,6 @@ translate russian strings:
     old "Take the plunge; be a considerate lover"
     new "Принять решение; быть внимательным любовником"
 
-# TODO: Translation updated at 2022-11-12 13:38
 
 # game/code/d12/d12s04.rpy:34
 translate russian d12s04_8cc9a922:

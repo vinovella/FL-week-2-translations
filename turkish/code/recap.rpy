@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-05 20:18
 
 # game/code/recap.rpy:49
 translate turkish d08s00_week1synopsis_9b6483a6:

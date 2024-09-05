@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-02-11 22:49
 
 # game/code/d10p1/d10p1s01.rpy:8
 translate spanish d10p1s01_27b48bcf:
@@ -1268,14 +1267,12 @@ translate spanish strings:
     old "Apples"
     new "Manzanas"
 
-# TODO: Translation updated at 2021-04-20 23:53
 
 # game/code/d10p1/d10p1s01.rpy:312
 translate spanish d10p1s01_7e7578d2:
 
     # mc "Yep. I can remember [mc_safeword!t]..."
     mc "Sí. Puedo recordar [mc_safeword!t]..."
-# TODO: Translation updated at 2022-11-12 13:40
 
 # game/code/d10p1/d10p1s01.rpy:375
 translate spanish d10p1s01_427f0b81:

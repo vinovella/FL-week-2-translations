@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-08-23 22:22
 
 # game/code/d12/d12s02.rpy:21
 translate spanish d12s02_6690416a:
@@ -817,7 +816,6 @@ translate spanish strings:
     # game/code/d12/d12s02.rpy:363
     old "Do it (spend [d12_cost_of_blitz] points)"
     new "Hacerlo (gastar [d12_cost_of_blitz] puntos)"
-# TODO: Translation updated at 2022-11-12 13:40
 
 # game/code/d12/d12s02.rpy:327
 translate spanish d12s02_52f7b26f:

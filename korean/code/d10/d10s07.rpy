@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2022-09-01 22:00
 
 # game/code/d10/d10s07.rpy:13
 translate korean d10s07_fad11a7d:

@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-09-15 21:23
 
 # game/code/d12/d12s04.rpy:32
 translate portuguese d12s04_29002f0b:
@@ -876,7 +875,6 @@ translate portuguese strings:
     old "Take the plunge; be a considerate lover"
     new "Mandar ver; ser um amante atencioso"
 
-# TODO: Translation updated at 2022-11-12 13:34
 
 # game/code/d12/d12s04.rpy:34
 translate portuguese d12s04_8cc9a922:

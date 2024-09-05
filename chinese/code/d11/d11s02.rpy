@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-23 23:20
 
 # game/code/d11/d11s02.rpy:28
 translate chinese d11s02_4ee8cc8f:
@@ -1718,7 +1717,6 @@ translate chinese strings:
     old "Decline. I want nothing more to do with Maria or Terrell"
     new "拒绝。我不想再和玛丽亚或特雷尔有任何瓜葛"
 
-# TODO: Translation updated at 2021-04-20 23:47
 
 # game/code/d11/d11s02.rpy:277
 translate chinese d11s02_76e2bd99:
@@ -1726,7 +1724,6 @@ translate chinese d11s02_76e2bd99:
     # mc "Stop. Tomato Juice. [mc_safeword!t]. Halt."
     mc "停下。番茄汁。[mc_safeword!t]。停。"
 
-# TODO: Translation updated at 2021-08-07 22:56
 
 # game/code/d11/d11s02.rpy:37
 translate chinese d11s02_c8046555:

@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2023-07-31 15:26
 
 # game/code/d12/extended/d12s03.rpy:37
 translate french d12s03_9f358fa6:

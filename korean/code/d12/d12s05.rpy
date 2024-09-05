@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2022-09-01 22:00
 
 # game/code/d12/d12s05.rpy:17
 translate korean d12s05_1758d1cc:

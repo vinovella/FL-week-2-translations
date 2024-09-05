@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-10-15 17:58
 
 # game/code/recap.rpy:53
 translate chinese d08s00_week1synopsis_9b6483a6:

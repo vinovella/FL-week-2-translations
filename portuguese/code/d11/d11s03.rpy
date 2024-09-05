@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-09-15 21:23
 
 # game/code/d11/d11s03.rpy:6
 translate portuguese d11s03_3d1dc366:
@@ -1654,7 +1653,6 @@ translate portuguese strings:
     old "Laugh in Her Face"
     new "Rir na Cara Dela"
 
-# TODO: Translation updated at 2022-11-12 13:34
 
 # game/code/d11/d11s03.rpy:282
 translate portuguese d11s03_4a1f60c6:

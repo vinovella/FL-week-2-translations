@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-02 23:31
 
 # game/code/d08/d08s14.rpy:5
 translate chinese d08s14_2bbdcd9b:
@@ -1378,7 +1377,6 @@ translate chinese strings:
     old "Yes, but..."
     new "是，但是……"
 
-# TODO: Translation updated at 2022-11-12 13:18
 
 # game/code/d08/d08s14.rpy:199
 translate chinese d08s14_336ce5e2:

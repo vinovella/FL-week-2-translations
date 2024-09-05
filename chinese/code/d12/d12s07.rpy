@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-08-07 22:56
 
 # game/code/d12/d12s07.rpy:4
 translate chinese d12s07_296981ed:

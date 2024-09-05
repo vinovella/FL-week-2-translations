@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2020-12-30 22:51
 
 # game/code/d10p1/d10p1s03.rpy:8
 translate italian d10p1s03_2a4fa63e:
@@ -1234,7 +1233,6 @@ translate italian strings:
     old "Don't"
     new "No"
 
-# TODO: Translation updated at 2021-05-17 02:25
 
 translate italian strings:
 

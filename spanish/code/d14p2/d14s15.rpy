@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-09-29 22:22
 
 # game/code/d14p2/d14s15.rpy:13
 translate spanish d14s15_fc6e4a25:
@@ -607,7 +606,6 @@ translate spanish strings:
     # game/code/d14p2/d14s15.rpy:221
     old "Maybe"
     new "Quizás"
-# TODO: Translation updated at 2023-06-11 15:29
 
 translate spanish strings:
 

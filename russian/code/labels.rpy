@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/labels.rpy:108
 translate russian after_credits_4092fc7e:

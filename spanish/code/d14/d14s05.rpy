@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-08-23 22:22
 
 # game/code/d14/d14s05.rpy:8
 translate spanish d14s05_2bf3d221:
@@ -2068,7 +2067,6 @@ translate spanish strings:
     old "Let Stacy Win"
     new "Deja que Stacy gane"
 
-# TODO: Translation updated at 2021-08-25 23:23
 
 # game/code/d14/d14s05.rpy:267
 translate spanish d14s05_e5c14757:
@@ -2081,7 +2079,6 @@ translate spanish d14s05_c2eb53da:
 
     # mc "Of course not."
     mc "Por supuesto que no."
-# TODO: Translation updated at 2022-11-12 13:40
 
 # game/code/d14/d14s05.rpy:802
 translate spanish d14s05_e89e3635:

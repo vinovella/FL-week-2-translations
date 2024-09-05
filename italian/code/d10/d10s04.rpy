@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-29 21:58
 
 # game/code/d10/d10s04.rpy:80
 translate italian d10s04_0d4d03ce:
@@ -1396,4 +1395,3 @@ translate italian strings:
     old "Not my thing"
     new "Non fa per me"
 
-# TODO: Translation updated at 2021-01-19 00:11

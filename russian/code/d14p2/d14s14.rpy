@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/d14p2/d14s14.rpy:39
 translate russian d14s14_be2623d1:
@@ -929,7 +928,6 @@ translate russian strings:
     # game/code/d14p2/d14s14.rpy:588
     old "I Like This Feeling!!!"
     new "Мне нравится это чувство!!!"
-# TODO: Translation updated at 2022-11-12 13:38
 
 # game/code/d14p2/d14s14.rpy:117
 translate russian d14s14_e6e632d2:

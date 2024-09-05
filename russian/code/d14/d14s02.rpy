@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/d14/d14s02.rpy:44
 translate russian d14s02_2affa5f6:
@@ -390,7 +389,6 @@ translate russian d14s02_09879994:
     # sy "Aarghhh..."
     sy "Ааргххх..."
 
-# TODO: Translation updated at 2022-11-12 13:38
 
 # game/code/d14/d14s02.rpy:105
 translate russian d14s02_6869e014:

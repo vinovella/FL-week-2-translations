@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-29 22:08
 
 # game/code/d09/d09s05.rpy:37
 translate spanish d09s05_57f407bc:
@@ -800,7 +799,6 @@ translate spanish strings:
     old "Cover the whore"
     new "Cubre la puta"
 
-# TODO: Translation updated at 2021-05-17 00:04
 
 # game/code/d09/d09s05.rpy:32
 translate spanish d09s05_ef5e49b3:

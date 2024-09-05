@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-01 14:31
 
 translate spanish strings:
 
@@ -37,7 +36,6 @@ translate spanish strings:
     old "Fetish Locator is intended for a mature audience\nof 18 years or older. Please abide by your local laws.\nAll characters are 18 years or older. No exceptions.\nThe characters in Fetish Locator explore relationships and their sexuality in both healthy and unhealthy ways. Some of these may be offensive to some players. Viewer discretion is advised. To that end, much of the content is optional and often there are alternative paths available. This is necessary to the story. The content explored should not be treated as an endorsement of particular fetishes, kinks, or patterns of behaviour. Please explore your own relationships and sexuality responsibly.\n\nEnjoy!"
     new "Fetish Locator está dirigido a un público\nmaduro de 18 años o más. Por favor, respete las leyes locales.\nTodos los personajes son mayores de 18 años. Sin excepciones.\nLos personajes de Fetish Locator exploran las relaciones y su sexualidad tanto de forma sana como insana. Algunas de ellas pueden resultar ofensivas para algunos jugadores. Se recomienda la discreción del espectador. Para ello, gran parte del contenido es opcional y a menudo hay caminos alternativos disponibles. Esto es necesario para la historia. El contenido explorado no debe ser tratado como una aprobación de determinados fetiches, perversiones o patrones de comportamiento. Por favor, explora tus propias relaciones y tu sexualidad de forma responsable.\n\n¡Disfruta!"
 
-# TODO: Translation updated at 2021-08-23 22:22
 
 translate spanish strings:
 
@@ -45,7 +43,6 @@ translate spanish strings:
     old "X-RAY"
     new "RAYOS X"
 
-# TODO: Translation updated at 2021-09-29 22:22
 
 translate spanish strings:
 
@@ -69,7 +66,6 @@ translate spanish strings:
     old "SAVE"
     new "GUARDAR"
 
-# TODO: Translation updated at 2021-10-13 01:42
 
 translate spanish strings:
 
@@ -89,7 +85,6 @@ translate spanish strings:
     old "{u}Fill the questionnaire to play week [FLSS.week.cur] without loading a save{/u}"
     new "{u}Rellena el cuestionario para jugar a la semana [FLSS.week.cur] sin cargar un guardado{/u}"
 
-# TODO: Translation updated at 2021-10-18 00:44
 
 translate spanish strings:
 
@@ -97,7 +92,6 @@ translate spanish strings:
     old "SKIP RECAP"
     new "OMITIR"
 
-# TODO: Translation updated at 2021-10-23 00:17
 
 translate spanish strings:
 
@@ -105,7 +99,6 @@ translate spanish strings:
     old "SKIP"
     new "OMITIR"
 
-# TODO: Translation updated at 2021-10-25 01:12
 
 translate spanish strings:
 
@@ -113,7 +106,6 @@ translate spanish strings:
     old "Unnamed End Game Save"
     new "Unnamed End Game Save"
 
-# TODO: Translation updated at 2022-02-07 22:59
 
 translate spanish strings:
 
@@ -124,7 +116,6 @@ translate spanish strings:
     # game/code/screens/screens_fl.rpy:570
     old "Go back and enable {b}Trans Content{/b} to be able to select Lyssa"
     new "Go back and enable {b}Trans Content{/b} to be able to select Lyssa"
-# TODO: Translation updated at 2022-11-12 13:40
 
 translate spanish strings:
 
@@ -224,7 +215,6 @@ translate spanish strings:
     old "Confirm"
     new "Confirm"
 
-# TODO: Translation updated at 2023-06-01 13:50
 
 translate spanish strings:
 
@@ -236,7 +226,6 @@ translate spanish strings:
     old "Close the game"
     new "Cerrar el juego"
 
-# TODO: Translation updated at 2023-06-09 02:02
 
 translate spanish strings:
 
@@ -248,7 +237,6 @@ translate spanish strings:
     old "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
     new "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
 
-# TODO: Translation updated at 2024-07-07 21:19
 
 translate spanish strings:
 

@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2020-11-29 22:04
 
 # game/code/d10/d10s01.rpy:4
 translate deutsch d10s01_c266f695:
@@ -258,7 +257,6 @@ translate deutsch d10s01_f1fb4a66:
     # mc "Exactly. Good morning and good night."
     mc "Genau. Guten Morgen und gute Nacht."
 
-# TODO: Translation updated at 2022-11-12 13:25
 
 # game/code/d10/d10s01.rpy:38
 translate deutsch d10s01_58c63989:

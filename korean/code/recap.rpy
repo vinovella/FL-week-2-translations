@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2022-09-01 22:00
 
 # game/code/recap.rpy:49
 translate korean d08s00_week1synopsis_9b6483a6:

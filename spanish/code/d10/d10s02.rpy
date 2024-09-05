@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-29 22:08
 
 # game/code/d10/d10s02.rpy:7
 translate spanish d10s02_f28413eb:
@@ -921,7 +920,6 @@ translate spanish strings:
     # game/code/d10/d10s02.rpy:137
     old "Ask her if she wants to earn some points"
     new "Pregúntale si quiere ganar algunos puntos"
-# TODO: Translation updated at 2022-11-12 13:40
 
 # game/code/d10/d10s02.rpy:253
 translate spanish d10s02_warning_dbc3fbdf:

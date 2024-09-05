@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2019-12-10 12:02
 
 translate deutsch strings:
 

@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-02-11 22:50
 
 # game/code/d10p1/d10p1s06.rpy:25
 translate deutsch d10p1s06_d17c010b:
@@ -592,7 +591,6 @@ translate deutsch strings:
     old "I don't want to see this"
     new "Ich will das nicht sehen"
 
-# TODO: Translation updated at 2021-05-16 23:52
 
 # game/code/d10p1/d10p1s06.rpy:115
 translate deutsch d10p1s06_part_2_28802472:

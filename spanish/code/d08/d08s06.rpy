@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-29 22:08
 
 # game/code/d08/d08s06.rpy:9
 translate spanish d08s06_026f7b87:

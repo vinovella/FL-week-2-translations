@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-05-17 00:14
 
 # game/code/d12/d12s07.rpy:4
 translate italian d12s07_296981ed:

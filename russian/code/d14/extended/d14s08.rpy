@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/d14/extended/d14s08.rpy:50
 translate russian d14s08_383c46ec:
@@ -844,7 +843,6 @@ translate russian strings:
     old "That's Enough"
     new "Этого достаточно"
 
-# TODO: Translation updated at 2022-11-12 13:38
 
 # game/code/d14/extended/d14s08.rpy:228
 translate russian d14s08_65d3d366:

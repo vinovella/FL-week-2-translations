@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2020-06-09 02:20
 
 translate deutsch strings:
 
@@ -18,7 +17,6 @@ translate deutsch strings:
     old "No save from week [FLSS.week.prev] has been detected"
     new "Es wurde von Woche [FLSS.week.prev] keine Speicherstand erkannt"
 
-# TODO: Translation updated at 2020-07-30 07:17
 
 translate deutsch strings:
 
@@ -34,7 +32,6 @@ translate deutsch strings:
     old "Undo"
     new "Rückgängig"
 
- # TODO: Translation updated at 2020-07-30 07:24
 
 translate deutsch strings:
 
@@ -42,7 +39,6 @@ translate deutsch strings:
     old "Fetish Locator is intended for a mature audience\nof 18 years or older. Please abide by your local laws.\nAll characters are 18 years or older. No exceptions.\nThe characters in Fetish Locator explore relationships and their sexuality in both healthy and unhealthy ways. Some of these may be offensive to some players. Viewer discretion is advised. To that end, much of the content is optional and often there are alternative paths available. This is necessary to the story. The content explored should not be treated as an endorsement of particular fetishes, kinks, or patterns of behaviour. Please explore your own relationships and sexuality responsibly.\n\nEnjoy!"
     new "Fetish Locator ist für Erwachsene ab 18 Jahren konzipiert. Bitte beachten Sie die örtlichen Gesetze. Alle Charaktere sind 18 Jahre alt oder älter. Ohne Ausnahmen. Fetisch-Locator Charaktere erforschen Beziehungen und ihre Sexualität auf gesunde und ungesunde Weise. Einige von ihnen können für einige Spieler beleidigend sein. Dem Betrachter wird geraten, vorsichtig zu sein. Zu diesem Zweck ist der größte Teil des Inhalts optional, und es gibt häufig alternative Pfade. Dies ist für die Handlung notwendig. Der zu recherchierende Inhalt sollte nicht als Unterstützung bestimmter Fetische, Perversionen oder Verhaltensweisen angesehen werden. Bitte recherchieren Sie verantwortungsbewusst Ihre eigenen Beziehungen und Sexualität.\n\nViel Spaß!"
 
-# TODO: Translation updated at 2021-08-23 21:58
 
 translate deutsch strings:
 
@@ -50,7 +46,6 @@ translate deutsch strings:
     old "X-RAY"
     new "Röntgen"
 
-# TODO: Translation updated at 2021-09-29 22:25
 
 translate deutsch strings:
 
@@ -74,7 +69,6 @@ translate deutsch strings:
     old "SAVE"
     new "SPEICHERN"
 
-# TODO: Translation updated at 2021-10-13 01:39
 
 translate deutsch strings:
 
@@ -93,7 +87,6 @@ translate deutsch strings:
     # game/code/screens/screens_fl.rpy:271
     old "{u}Fill the questionnaire to play week [FLSS.week.cur] without loading a save{/u}"
     new "{u}Fülle den Fragenbogen aus um Woche [FLSS.week.cur] ohne einen bestehenden Speicherstand zu spielen{/u}"
-# TODO: Translation updated at 2021-10-19 22:16
 
 translate deutsch strings:
 
@@ -101,7 +94,6 @@ translate deutsch strings:
     old "SKIP RECAP"
     new "ÜBERSPRINGE DEN RÜCKBLICK"
 
-# TODO: Translation updated at 2021-10-23 00:21
 
 translate deutsch strings:
 
@@ -109,7 +101,6 @@ translate deutsch strings:
     old "SKIP"
     new "ÜBERSPRINGEN"
 
-# TODO: Translation updated at 2021-10-25 01:16
 
 translate deutsch strings:
 
@@ -117,7 +108,6 @@ translate deutsch strings:
     old "Unnamed End Game Save"
     new "Unbenannte Speicherung des Endspiels"
 
-# TODO: Translation updated at 2022-02-07 22:57
 
 translate deutsch strings:
 
@@ -129,7 +119,6 @@ translate deutsch strings:
     old "Go back and enable {b}Trans Content{/b} to be able to select Lyssa"
     new "Geh zurück und aktiviere den {b}Trans Inhalte{/b}, um Lyssa wählen zu können"
 
-# TODO: Translation updated at 2022-03-01 03:38
 
 translate deutsch strings:
 
@@ -184,7 +173,6 @@ translate deutsch strings:
     # game/code/screens/screens_fl.rpy:437
     old "points: "
     new "Punkte: "
-# TODO: Translation updated at 2022-11-12 13:25
 
 translate deutsch strings:
 
@@ -236,7 +224,6 @@ translate deutsch strings:
     old "Confirm"
     new "Confirm"
 
-# TODO: Translation updated at 2023-06-01 13:43
 
 translate deutsch strings:
 
@@ -248,7 +235,6 @@ translate deutsch strings:
     old "Close the game"
     new "Schließe das Spiel"
 
-# TODO: Translation updated at 2023-06-09 01:57
 
 translate deutsch strings:
 
@@ -260,7 +246,6 @@ translate deutsch strings:
     old "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
     new "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
 
-# TODO: Translation updated at 2024-07-07 20:53
 
 translate deutsch strings:
 

@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-09 02:01
 
 # game/code/d10p2/d10p2s10.rpy:4
 translate chinese d10p2s10_d0cc5f7f:

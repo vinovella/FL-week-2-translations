@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-07-15 10:22
 
 # game/code/d11/d11s01.rpy:8
 translate malay d11s01_0be1c487:
@@ -534,7 +533,6 @@ translate malay d11s01_536d88bc:
     # mc "Mmm. Coffee."
     mc "Mmm. Kopi."
 
-# TODO: Translation updated at 2022-11-12 13:32
 
 # game/code/d11/d11s01.rpy:35
 translate malay d11s01_95292d25:

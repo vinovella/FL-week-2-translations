@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-09-15 21:23
 
 translate portuguese strings:
 
@@ -262,7 +261,6 @@ translate portuguese strings:
     old "Day 13: Vanessa"
     new "Dia 13: Vanessa"
 
-# TODO: Translation updated at 2021-10-25 01:03
 
 translate portuguese strings:
 

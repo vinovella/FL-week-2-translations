@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/d10p1/d10p1s06.rpy:29
 translate russian d10p1s06_d17c010b:

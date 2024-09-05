@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-01 14:31
 
 translate spanish strings:
 
@@ -1218,7 +1217,6 @@ translate spanish strings:
     old "Press or move the '[control!s]' [kind]."
     new "Press or move the '[control!s]' [kind]."
 
-# TODO: Translation updated at 2023-05-23 16:11
 
 translate spanish strings:
 
@@ -1238,7 +1236,6 @@ translate spanish strings:
     old "mute main"
     new "mute main"
 
-# TODO: Translation updated at 2023-06-01 13:50
 
 translate spanish strings:
 
@@ -1350,7 +1347,6 @@ translate spanish strings:
     old "Sync Error"
     new "Sync Error"
 
-# TODO: Translation updated at 2024-07-07 21:19
 
 translate spanish strings:
 

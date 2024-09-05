@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/d10p2/d10p2s08.rpy:30
 translate russian d10p2s08_42ace476:
@@ -2586,7 +2585,6 @@ translate russian strings:
     old "Blowjob from AmRose"
     new "Минет от АмРоуз"
 
-# TODO: Translation updated at 2022-11-12 13:38
 
 # game/code/d10p2/d10p2s08.rpy:120
 translate russian d10p2s08_47b69fbd:

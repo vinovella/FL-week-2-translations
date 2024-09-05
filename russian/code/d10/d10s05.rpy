@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/d10/d10s05.rpy:7
 translate russian d10s05_be2623d1:
@@ -1392,7 +1391,6 @@ translate russian d10s05_replay_69fd61bb:
     # arj "Yep!"
     arj "Ага!"
 
-# TODO: Translation updated at 2022-11-12 13:38
 
 # game/code/d10/d10s05.rpy:364
 translate russian d10s05_replay_95bf8394:

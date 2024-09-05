@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-09-15 21:23
 
 # game/code/labels.rpy:350
 translate portuguese buzz_4377a2f7:
@@ -11,7 +10,6 @@ translate portuguese knockknock_a3fe61f9:
 
     # "Knock knock"
     "Toc Toc"
-# TODO: Translation updated at 2021-10-03 23:12
 
 # game/code/labels.rpy:104
 translate portuguese after_credits_4092fc7e:
@@ -253,7 +251,6 @@ translate portuguese after_credits_c7e3ca6c:
     # sy "But don't forget to support us! We will bring you more awesome stuff!"
     sy "Mas não esqueça de nos apoiar! Vamos te trazer mais coisas legais!"
 
-# TODO: Translation updated at 2021-10-18 00:48
 
 # game/code/labels.rpy:191
 translate portuguese after_credits_e29ad5fa:

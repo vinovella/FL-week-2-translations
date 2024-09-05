@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-07-15 10:22
 
 # game/code/d10p2/d10p2s08.rpy:30
 translate malay d10p2s08_42ace476:
@@ -2585,7 +2584,6 @@ translate malay strings:
     # game/code/d10p2/d10p2s08.rpy:272
     old "Blowjob from AmRose"
     new "Blowjob dari AmRose "
-# TODO: Translation updated at 2022-11-12 13:32
 
 # game/code/d10p2/d10p2s08.rpy:120
 translate malay d10p2s08_47b69fbd:

@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-09-29 22:24
 
 # game/code/d14p2/d14s17.rpy:44
 translate italian d14s17_59571f7e:

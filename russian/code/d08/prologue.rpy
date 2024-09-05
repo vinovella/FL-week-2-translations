@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/d08/prologue.rpy:58
 translate russian prologue_fresh_start_4063ae17:
@@ -166,7 +165,6 @@ translate russian strings:
     old "No, I didn't"
     new "Нет, я этого не делал"
 
-# TODO: Translation updated at 2022-02-07 22:55
 
 # game/code/d08/prologue.rpy:121
 translate russian prologue_fetishes_7bc3a4e5:
@@ -174,7 +172,6 @@ translate russian prologue_fetishes_7bc3a4e5:
     # "It's time to choose your preferences.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many as you want and press \"Done\"."
     "Пришло время выбрать свои предпочтения.\nНе волнуйтесь, если вашего любимого фетиша нет в списке: Fetish Locator только появился!\nВыбирайте столько, сколько хотите, и нажмите кнопку \"Готово\"."
 
-# TODO: Translation updated at 2022-11-12 13:38
 
 # game/code/d08/prologue.rpy:67
 translate russian prologue_fresh_start_ab0acec6:

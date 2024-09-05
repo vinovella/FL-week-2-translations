@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2020-12-30 22:51
 
 # game/code/d10p1/d10p1s04.rpy:3
 translate italian d10p1s04_4f91c35e:
@@ -630,7 +629,6 @@ translate italian d10p1s04_5702e34b:
     # arjfl "That's a good point..."
     arjfl "Bella domanda..."
 
-# TODO: Translation updated at 2021-05-16 23:55
 
 # game/code/d10p1/d10p1s04.rpy:50
 translate italian d10p1s04_f1a8019a:

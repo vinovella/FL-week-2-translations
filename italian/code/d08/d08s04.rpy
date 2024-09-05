@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2020-07-30 07:39
 
 # game/code/d08/d08s04.rpy:22
 translate italian d08s04_01cc8f65:
@@ -24,7 +23,6 @@ translate italian replay_d08s04_3f8bc07a:
     # mc "You need to see this challenge as a marathon and not a race."
     mc "Devi vedere questa challenge come una maratona, e non una corsetta."
 
-# TODO: Translation updated at 2020-08-10 14:27
 
 # game/code/d08/d08s04.rpy:36
 translate italian d08s04_947e6559:
@@ -532,7 +530,6 @@ translate italian replay_d08s04_606e2d02:
 
     # mc "Sure."
     mc "Certo."
-# TODO: Translation updated at 2022-11-12 13:27
 
 # game/code/d08/d08s04.rpy:53
 translate italian d08s04_09e6bb19:

@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2020-12-30 20:15
 
 # game/code/d08/d08s12.rpy:43
 translate spanish d08s12_51233532:
@@ -694,7 +693,6 @@ translate spanish strings:
     old "It is your turn now"
     new "Ahora es su turno"
 
-# TODO: Translation updated at 2021-01-19 00:12
 
 # game/code/d08/d08s12.rpy:166
 translate spanish d08s12_pre_mc_action_1614da67:
@@ -707,7 +705,6 @@ translate spanish d08s12_deny_8b37064c:
 
     # mc "Nope... Be a good girl and make me cum."
     mc "No... Sé una buena chica y haz que me corra."
-# TODO: Translation updated at 2022-11-12 13:40
 
 # game/code/d08/d08s12.rpy:545
 translate spanish d08s12_end_ebe54fab:

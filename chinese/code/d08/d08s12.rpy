@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-02 23:31
 
 # game/code/d08/d08s12.rpy:46
 translate chinese d08s12_51233532:
@@ -706,7 +705,6 @@ translate chinese strings:
     old "It is your turn now"
     new "现在轮到你了"
 
-# TODO: Translation updated at 2022-11-12 13:18
 
 # game/code/d08/d08s12.rpy:545
 translate chinese d08s12_end_ebe54fab:

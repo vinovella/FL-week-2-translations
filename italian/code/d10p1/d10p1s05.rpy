@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2020-12-30 22:51
 
 # game/code/d10p1/d10p1s05.rpy:29
 translate italian d10p1s05_1cee2083:

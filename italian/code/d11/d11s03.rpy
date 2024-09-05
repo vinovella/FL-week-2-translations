@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-20 12:26
 
 # game/code/d11/d11s03.rpy:6
 translate italian d11s03_3d1dc366:
@@ -1655,7 +1654,6 @@ translate italian strings:
     new "Le sbotti a ridere in faccia"
 
     
-# TODO: Translation updated at 2022-11-12 13:27
 
 # game/code/d11/d11s03.rpy:282
 translate italian d11s03_4a1f60c6:

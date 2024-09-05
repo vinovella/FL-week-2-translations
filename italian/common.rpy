@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2020-02-22 11:57
 
 translate italian strings:
 
@@ -1202,7 +1201,6 @@ translate italian strings:
     old "Press or move the '[control!s]' [kind]."
     new "Press or move the '[control!s]' [kind]."
 
-# TODO: Translation updated at 2023-05-23 16:05
 
 translate italian strings:
 
@@ -1222,7 +1220,6 @@ translate italian strings:
     old "mute main"
     new "mute main"
 
-# TODO: Translation updated at 2023-06-01 13:44
 
 translate italian strings:
 
@@ -1334,7 +1331,6 @@ translate italian strings:
     old "Sync Error"
     new "Sync Error"
 
-# TODO: Translation updated at 2024-07-07 20:58
 
 translate italian strings:
 

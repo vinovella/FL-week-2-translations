@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2023-07-31 15:26
 
 # game/code/d14p2/extended/d14s18.rpy:51
 translate french d14s18_2dcfd52b:

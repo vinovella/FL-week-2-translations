@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-07-15 10:22
 
 # game/code/d12/d12s01.rpy:61
 translate malay d12s01_43701264:
@@ -1609,7 +1608,6 @@ translate malay strings:
     # game/code/d12/d12s01.rpy:852
     old "No photos"
     new "Tak ada gambar"
-# TODO: Translation updated at 2022-11-12 13:32
 
 # game/code/d12/d12s01.rpy:235
 translate malay d12s01_1b9a042d:

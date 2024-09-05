@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2020-11-10 12:16
 
 # game/code/d08/d08s05.rpy:5
 translate deutsch d08s05_06a950b5:
@@ -1207,7 +1206,6 @@ translate deutsch strings:
     old "Yes, Mistress"
     new "Ja, Mistress"
 
-# TODO: Translation updated at 2021-04-10 22:31
 
 # game/code/d08/d08s05.rpy:38
 translate deutsch d08s05_b4dc6ce9:
@@ -1215,7 +1213,6 @@ translate deutsch d08s05_b4dc6ce9:
     # sy "So... What's the plan?"
     sy "Also... Wie lautet der Plan?"
 
-# TODO: Translation updated at 2022-01-14 16:54
 
 # game/code/d08/d08s05.rpy:17
 translate deutsch d08s05_7bfd3d68:

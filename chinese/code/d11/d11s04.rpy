@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-23 23:20
 
 # game/code/d11/d11s04.rpy:7
 translate chinese d11s04_95a7047b:

@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2023-07-31 15:26
 
 # game/code/recap.rpy:49
 translate french d08s00_week1synopsis_9b6483a6:

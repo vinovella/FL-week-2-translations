@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-02 23:31
 
 translate chinese strings:
 
@@ -138,7 +137,6 @@ translate chinese strings:
     old "Don't lie to Lydia"
     new "不对莉迪亚撒谎"
 
-# TODO: Translation updated at 2021-08-07 22:56
 
 translate chinese strings:
 
@@ -242,7 +240,6 @@ translate chinese strings:
     old "Don't intervene"
     new "不要插手"
 
-# TODO: Translation updated at 2021-08-23 21:48
 
 translate chinese strings:
 
@@ -286,7 +283,6 @@ translate chinese strings:
     old "Day 13: Vanessa"
     new "第十三天：瓦妮莎"
 
-# TODO: Translation updated at 2021-09-26 22:36
 
 translate chinese strings:
 
@@ -294,7 +290,6 @@ translate chinese strings:
     old "Safewords are for noobs"
     new "安全词是给新手用的"
 
-# TODO: Translation updated at 2021-10-25 01:05
 
 translate chinese strings:
 

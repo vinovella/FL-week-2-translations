@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-09-15 21:23
 
 # game/code/d10/d10s01.rpy:5
 translate portuguese d10s01_c266f695:
@@ -258,7 +257,6 @@ translate portuguese d10s01_f1fb4a66:
     # mc "Exactly. Good morning and good night."
     mc "Exatamente. Bom dia e boa noite."
 
-# TODO: Translation updated at 2022-11-12 13:34
 
 # game/code/d10/d10s01.rpy:38
 translate portuguese d10s01_58c63989:

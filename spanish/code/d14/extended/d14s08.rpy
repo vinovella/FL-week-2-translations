@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-10-19 22:17
 
 # game/code/d14/extended/d14s08.rpy:47
 translate spanish d14s08_383c46ec:
@@ -784,7 +783,6 @@ translate spanish strings:
     old "That's Enough"
     new "Es Suficiente"
 
-# TODO: Translation updated at 2021-10-20 10:21
 
 # game/code/d14/extended/d14s08.rpy:61
 translate spanish d14s08_a1b3e82d:
@@ -845,7 +843,6 @@ translate spanish d14s08_end_a832b55e:
 
     # pw "Later, [mcname]."
     pw "Más tarde, [mcname]."
-# TODO: Translation updated at 2022-11-12 13:40
 
 # game/code/d14/extended/d14s08.rpy:228
 translate spanish d14s08_65d3d366:

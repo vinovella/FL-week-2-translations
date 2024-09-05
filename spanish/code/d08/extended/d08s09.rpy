@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-05-17 00:04
 
 # game/code/d08/extended/d08s09.rpy:37
 translate spanish d08s09_445aec41:

@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-11-14 14:09
 
 translate russian strings:
 
@@ -70,13 +69,11 @@ translate russian strings:
     old "X-RAY"
     new "Рентген"
 
-# TODO: Translation updated at 2021-10-16 09:34
 
     # game/code/screens/screens_fl.rpy:778
     old "SKIP RECAP"
     new "ПРОПУСТИТЬ"
 
-# TODO: Translation updated at 2022-02-07 22:55
 
 translate russian strings:
 
@@ -88,7 +85,6 @@ translate russian strings:
     old "Go back and enable {b}Trans Content{/b} to be able to select Lyssa"
     new "Вернитесь назад и выберите {b}Транс-контент{/b}, чтобы выбрать Лиссу"
 
-# TODO: Translation updated at 2022-11-12 13:38
 
 translate russian strings:
 
@@ -188,7 +184,6 @@ translate russian strings:
     old "Confirm"
     new "Подтвердить"
 
-# TODO: Translation updated at 2023-06-01 13:49
 
 translate russian strings:
 
@@ -200,7 +195,6 @@ translate russian strings:
     old "Close the game"
     new "Выйти из игры"
 
-# TODO: Translation updated at 2023-06-09 02:01
 
 translate russian strings:
 
@@ -212,7 +206,6 @@ translate russian strings:
     old "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
     new "Если вы решите продолжить, ваши сохранения могут не работать между разными неделями. Вы больше не будете получать уведомления. Вы уверены?"
 
-# TODO: Translation updated at 2024-07-07 21:18
 
 translate russian strings:
 

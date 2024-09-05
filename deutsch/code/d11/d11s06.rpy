@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-04-10 22:31
 
 # game/code/d11/d11s06.rpy:62
 translate deutsch d11s06_d2790112:

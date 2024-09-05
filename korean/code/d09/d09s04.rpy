@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2022-09-01 22:00
 
 # game/code/d09/d09s04.rpy:27
 translate korean d09s04_1629e8ef:

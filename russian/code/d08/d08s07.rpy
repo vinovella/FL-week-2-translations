@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/d08/d08s07.rpy:6
 translate russian d08s07_ce6bbf32:
@@ -928,7 +927,6 @@ translate russian strings:
     old "You're both beautiful"
     new "Вы обе прекрасны"
 
-# TODO: Translation updated at 2022-11-12 13:38
 
 # game/code/d08/d08s07.rpy:310
 translate russian d08s07_f9a4640e:

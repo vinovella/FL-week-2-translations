@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-09-29 22:24
 
 # game/code/d14p2/d14s19_sy.rpy:135
 translate italian d14s19_sy_2c3af789:
@@ -928,7 +927,6 @@ translate italian strings:
     old "I enjoyed the sex, but..."
     new "Mi è piaciuto il sesso, ma..."
 
-# TODO: Translation updated at 2021-10-03 23:33
 
 # game/code/d14p2/d14s19_sy.rpy:164
 translate italian d14s19_sy_a0433917:

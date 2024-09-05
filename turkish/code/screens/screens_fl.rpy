@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-05 20:18
 
 translate turkish strings:
 
@@ -178,7 +177,6 @@ translate turkish strings:
     old "Confirm"
     new "Onayla"
 
-# TODO: Translation updated at 2023-06-01 13:51
 
 translate turkish strings:
 
@@ -190,7 +188,6 @@ translate turkish strings:
     old "Close the game"
     new "Oyunu kapat"
 
-# TODO: Translation updated at 2023-06-09 01:55
 
 translate turkish strings:
 
@@ -202,7 +199,6 @@ translate turkish strings:
     old "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
     new "Devam etmeye karar verirseniz, kayıtlarınız farklı haftalar arasında çalışmayabilir. Size tekrar bildirim gönderilmeyecek. Emin misiniz?"
 
-# TODO: Translation updated at 2024-07-07 21:20
 
 translate turkish strings:
 

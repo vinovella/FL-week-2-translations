@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-09-29 22:56
 
 # game/code/d14p2/d14s12.rpy:58
 translate portuguese d14s12_3528b61a:

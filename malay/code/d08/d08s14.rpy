@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-07-15 10:22
 
 # game/code/d08/d08s14.rpy:5
 translate malay d08s14_2bbdcd9b:
@@ -1378,7 +1377,6 @@ translate malay strings:
     old "Yes, but..."
     new "Ya, tapi..."
 
-# TODO: Translation updated at 2022-11-12 13:32
 
 # game/code/d08/d08s14.rpy:199
 translate malay d08s14_336ce5e2:

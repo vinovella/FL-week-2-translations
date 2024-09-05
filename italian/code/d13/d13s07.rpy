@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-07-23 23:31
 
 # game/code/d13/d13s07.rpy:7
 translate italian d13s07_cd8be750:
@@ -726,7 +725,6 @@ translate italian d13s07_9b0423ef:
     # mc "Good night."
     mc "'notte."
 
-# TODO: Translation updated at 2021-08-23 21:59
 
 # game/code/d13/d13s07.rpy:123
 translate italian d13s07_f7adbeb5:

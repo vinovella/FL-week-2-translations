@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-09-15 21:23
 
 translate portuguese strings:
 
@@ -122,7 +121,6 @@ translate portuguese strings:
     old "Not_Mike"
     new "Not_Mike"
 
-# TODO: Translation updated at 2022-02-07 23:00
 
 translate portuguese strings:
 

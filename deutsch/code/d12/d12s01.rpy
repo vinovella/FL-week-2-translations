@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-08-23 21:58
 
 # game/code/d12/d12s01.rpy:61
 translate deutsch d12s01_43701264:
@@ -1610,7 +1609,6 @@ translate deutsch strings:
     old "No photos"
     new "Keine Fotos"
 
-# TODO: Translation updated at 2022-11-12 13:25
 
 # game/code/d12/d12s01.rpy:235
 translate deutsch d12s01_1b9a042d:

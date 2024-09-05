@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-05 20:18
 
 translate turkish strings:
 
@@ -366,7 +365,6 @@ translate turkish strings:
     old "Menu"
     new "Menü"
 
-# TODO: Translation updated at 2023-10-24 14:11
 
 translate turkish strings:
 
@@ -378,7 +376,6 @@ translate turkish strings:
     old "Try our new game Taboo University"
     new "Try our new game Taboo University"
 
-# TODO: Translation updated at 2024-07-07 21:20
 
 translate turkish strings:
 

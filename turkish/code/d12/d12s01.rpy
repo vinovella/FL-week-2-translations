@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-05 20:18
 
 # game/code/d12/d12s01.rpy:61
 translate turkish d12s01_43701264:

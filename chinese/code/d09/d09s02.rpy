@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-02 23:31
 
 # game/code/d09/d09s02.rpy:23
 translate chinese d09s02_d3bd4739:
@@ -1146,7 +1145,6 @@ translate chinese strings:
     old "Nah, that's enough."
     new "不了，这就够了。"
 
-# TODO: Translation updated at 2021-05-16 23:32
 
 translate chinese strings:
 

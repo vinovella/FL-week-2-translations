@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-05 20:18
 
 # game/code/d09/d09s06.rpy:11
 translate turkish d09s06_fd7a39cb:

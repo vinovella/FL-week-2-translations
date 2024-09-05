@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-09-15 21:23
 
 # game/code/d14/d14s04.rpy:7
 translate portuguese d14s04_30e0b8ff:

@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-02-18 10:52
 
 # game/code/d10p2/d10p2s09.rpy:80
 translate italian d10p2s09_9a54df39:
@@ -376,7 +375,6 @@ translate italian strings:
     old "Cum on her tits"
     new "Le vieni sulle tette"
 
-# TODO: Translation updated at 2021-03-09 01:43
 
 # game/code/d10p2/d10p2s09.rpy:527
 translate italian d10p2s09_continue_688fd16d:
@@ -384,7 +382,6 @@ translate italian d10p2s09_continue_688fd16d:
     # mesfl "*Gulp*"
     mesfl "*Gulp*"
 
-# TODO: Translation updated at 2021-04-10 22:34
 
 # game/code/d10p2/d10p2s09.rpy:680
 translate italian d10p2s09_continue_01785616_1:

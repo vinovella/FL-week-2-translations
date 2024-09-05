@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-09-29 22:26
 
 # game/code/d14p2/d14s15.rpy:13
 translate malay d14s15_fc6e4a25:

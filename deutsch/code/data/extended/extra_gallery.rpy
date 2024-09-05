@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2020-06-27 22:20
 
 translate deutsch strings:
 
@@ -118,7 +117,6 @@ translate deutsch strings:
     old "Day 7: Polly"
     new "Tag 7: Polly"
 
-# TODO: Translation updated at 2020-07-01 23:25
 
 translate deutsch strings:
 
@@ -126,7 +124,6 @@ translate deutsch strings:
     old "You have seen all the possible pictures that Maria can send"
     new "Du hast alle möglichen Fotos gesehen, die Maria gesendet haben kann"
 
-# TODO: Translation updated at 2020-07-30 07:17
 
 translate deutsch strings:
 
@@ -142,7 +139,6 @@ translate deutsch strings:
     old "Make AmRose your secret girlfriend"
     new "Mache AmRose zu deiner geheimen Freundin"
 
-# TODO: Translation updated at 2020-11-10 12:16
 
 translate deutsch strings:
 
@@ -150,7 +146,6 @@ translate deutsch strings:
     old "Day 8: AmRose"
     new "Tag 8: AmRose"
 
-# TODO: Translation updated at 2021-08-23 21:58
 
 translate deutsch strings:
 
@@ -158,7 +153,6 @@ translate deutsch strings:
     old "Day 9: Squizzle - Selfie"
     new "Tag 9: Squizzle - Selfie"
 
-# TODO: Translation updated at 2021-10-13 01:39
 
 translate deutsch strings:
 

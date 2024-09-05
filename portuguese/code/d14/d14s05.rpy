@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-09-15 21:23
 
 # game/code/d14/d14s05.rpy:8
 translate portuguese d14s05_2bf3d221:
@@ -2080,7 +2079,6 @@ translate portuguese strings:
     old "Let Stacy Win"
     new "Deixar Stacy Vencer"
 
-# TODO: Translation updated at 2022-11-12 13:34
 
 # game/code/d14/d14s05.rpy:802
 translate portuguese d14s05_e89e3635:

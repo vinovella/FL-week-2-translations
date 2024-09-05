@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-02-11 22:49
 
 # game/code/d10p1/d10p1s03.rpy:8
 translate spanish d10p1s03_2a4fa63e:
@@ -1240,7 +1239,6 @@ translate spanish strings:
     old "Don't help him"
     new "No lo ayudes"
 
-# TODO: Translation updated at 2021-04-10 22:40
 
 translate spanish strings:
 
@@ -1248,7 +1246,6 @@ translate spanish strings:
     old "Don't"
     new "No lo hagas"
 
-# TODO: Translation updated at 2021-05-17 02:28
 
 translate spanish strings:
 

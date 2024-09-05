@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-02 23:31
 
 # game/code/d09/d09s03.rpy:52
 translate chinese d09s03_79966fa3:

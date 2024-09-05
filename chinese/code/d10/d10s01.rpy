@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-02 23:31
 
 # game/code/d10/d10s01.rpy:4
 translate chinese d10s01_c266f695:
@@ -258,7 +257,6 @@ translate chinese d10s01_f1fb4a66:
     # mc "Exactly. Good morning and good night."
     mc "没错。早上好，顺便也晚安。"
 
-# TODO: Translation updated at 2022-11-12 13:18
 
 # game/code/d10/d10s01.rpy:38
 translate chinese d10s01_58c63989:

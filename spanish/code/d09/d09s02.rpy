@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-29 22:08
 
 # game/code/d09/d09s02.rpy:22
 translate spanish d09s02_d3bd4739:
@@ -1146,7 +1145,6 @@ translate spanish strings:
     old "Nah, that's enough."
     new "No, ya es suficiente."
 
-# TODO: Translation updated at 2021-05-17 00:04
 
 translate spanish strings:
 

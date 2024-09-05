@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-11-14 14:09
 
 translate russian strings:
 
@@ -282,7 +281,6 @@ translate russian strings:
     old "Party 3: Participants"
     new "Вечеринка 3: Участники"
 
-# TODO: Translation updated at 2021-11-14 22:43
 
 translate russian strings:
 

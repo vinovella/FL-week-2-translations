@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-04-10 22:40
 
 # game/code/d11/d11s01.rpy:8
 translate spanish d11s01_0be1c487:
@@ -533,7 +532,6 @@ translate spanish d11s01_536d88bc:
 
     # mc "Mmm. Coffee."
     mc "Mmm. Café."
-# TODO: Translation updated at 2022-11-12 13:40
 
 # game/code/d11/d11s01.rpy:35
 translate spanish d11s01_95292d25:

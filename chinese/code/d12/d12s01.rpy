@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-08-07 22:56
 
 # game/code/d12/d12s01.rpy:61
 translate chinese d12s01_43701264:
@@ -1610,7 +1609,6 @@ translate chinese strings:
     old "No photos"
     new "不要照片"
 
-# TODO: Translation updated at 2022-11-12 13:18
 
 # game/code/d12/d12s01.rpy:235
 translate chinese d12s01_1b9a042d:

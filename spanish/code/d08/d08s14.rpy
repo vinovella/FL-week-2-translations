@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-29 22:08
 
 # game/code/d08/d08s14.rpy:4
 translate spanish d08s14_2bbdcd9b:
@@ -1377,7 +1376,6 @@ translate spanish strings:
     # game/code/d08/d08s14.rpy:152
     old "Yes, but..."
     new "Sí, pero..."
-# TODO: Translation updated at 2022-11-12 13:40
 
 # game/code/d08/d08s14.rpy:199
 translate spanish d08s14_336ce5e2:

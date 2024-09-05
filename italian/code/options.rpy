@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2020-05-21 23:41
 
 translate italian strings:
 
@@ -6,7 +5,6 @@ translate italian strings:
     old "Fetish Locator"
     new "Fetish Locator"
 
-# TODO: Translation updated at 2020-07-30 07:39
 
 translate italian strings:
 
@@ -14,7 +12,6 @@ translate italian strings:
     old "Fetish Locator Week 2"
     new "Fetish Locator 2 Settimana"
 
-# TODO: Translation updated at 2021-11-14 23:00
 
 translate italian strings:
 

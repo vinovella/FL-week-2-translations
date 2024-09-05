@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-05 20:18
 
 # game/code/d13/extended/d13s02.rpy:36
 translate turkish d13s02_acea7575:

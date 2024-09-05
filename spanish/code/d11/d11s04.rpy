@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-04-10 22:40
 
 # game/code/d11/d11s04.rpy:7
 translate spanish d11s04_95a7047b:

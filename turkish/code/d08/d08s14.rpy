@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-05 20:18
 
 # game/code/d08/d08s14.rpy:5
 translate turkish d08s14_2bbdcd9b:

@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-07-15 10:22
 
 # game/code/d13/d13s05.rpy:37
 translate malay d13s05_67dfdc05:

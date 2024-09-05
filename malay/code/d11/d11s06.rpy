@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-07-15 10:22
 
 # game/code/d11/d11s06.rpy:62
 translate malay d11s06_d2790112:

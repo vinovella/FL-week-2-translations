@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-04-10 22:31
 
 # game/code/d11/d11s02.rpy:28
 translate deutsch d11s02_4ee8cc8f:
@@ -1718,7 +1717,6 @@ translate deutsch strings:
     old "Decline. I want nothing more to do with Maria or Terrell"
     new "Lehne ab. Ich will nichts mehr mit Maria oder Terrell zu tun habe"
 
-# TODO: Translation updated at 2021-04-20 23:55
 
 # game/code/d11/d11s02.rpy:277
 translate deutsch d11s02_76e2bd99:
@@ -1726,7 +1724,6 @@ translate deutsch d11s02_76e2bd99:
     # mc "Stop. Tomato Juice. [mc_safeword!t]. Halt."
     mc "Stop. Tomatensaft. [mc_safeword!t]. Halt."
 
-# TODO: Translation updated at 2021-08-23 21:58
 
 # game/code/d11/d11s02.rpy:37
 translate deutsch d11s02_c8046555:

@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-01 14:31
 
 translate spanish strings:
 
@@ -42,7 +41,6 @@ translate spanish strings:
     old "Don't creampie Nora"
     new "No hacerle chorrear a Nora"
 
-# TODO: Translation updated at 2021-08-23 22:22
 
 translate spanish strings:
 
@@ -218,7 +216,6 @@ translate spanish strings:
     old "Day 13: Stacy"
     new "Día 13: Stacy"
 
-# TODO: Translation updated at 2021-10-25 01:12
 
 translate spanish strings:
 

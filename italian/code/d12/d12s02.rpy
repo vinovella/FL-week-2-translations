@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-05-17 00:14
 
 # game/code/d12/d12s02.rpy:20
 translate italian d12s02_6690416a:
@@ -817,7 +816,6 @@ translate italian strings:
     # game/code/d12/d12s02.rpy:278
     old "Do it (spend [d12_cost_of_blitz] points)"
     new "Lo fai (consumi [d12_cost_of_blitz] punti)"
-# TODO: Translation updated at 2022-11-12 13:27
 
 # game/code/d12/d12s02.rpy:327
 translate italian d12s02_52f7b26f:

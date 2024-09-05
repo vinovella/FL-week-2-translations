@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-05 20:18
 
 # game/code/d10/d10s05.rpy:7
 translate turkish d10s05_be2623d1:

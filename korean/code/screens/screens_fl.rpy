@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2022-09-01 22:00
 
 translate korean strings:
 
@@ -178,7 +177,6 @@ translate korean strings:
     old "Confirm"
     new "확인"
     
-# TODO: Translation updated at 2023-06-01 13:45
 
 translate korean strings:
 
@@ -190,7 +188,6 @@ translate korean strings:
     old "Close the game"
     new "게임 종료"
 
-# TODO: Translation updated at 2023-06-09 01:59
 
 translate korean strings:
 
@@ -202,7 +199,6 @@ translate korean strings:
     old "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
     new "계속 진행하는 경우, 다른 주 사이의 저장 파일이 작동하지 않을 수 있습니다. 다시 경고를 받지 않게 됩니다. 괜찮겠습니까?"
 
-# TODO: Translation updated at 2024-07-07 21:01
 
 translate korean strings:
 

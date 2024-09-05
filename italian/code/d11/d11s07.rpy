@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-23 23:20
 
 # game/code/d11/d11s07.rpy:50
 translate italian d11s07_a362d45b:

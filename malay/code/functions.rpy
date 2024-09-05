@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-07-17 00:19
 
 translate malay strings:
 
@@ -26,7 +25,6 @@ translate malay strings:
     old "The game will try to replay the scene\naccording to your current playthrough"
     new "Permainan ini akan cuba memainkan semula adegan\nmengikut perkembangan permainan anda"
 
-# TODO: Translation updated at 2022-11-12 13:32
 
 translate malay strings:
 

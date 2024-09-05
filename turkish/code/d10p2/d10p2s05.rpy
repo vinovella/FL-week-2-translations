@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-05 20:18
 
 # game/code/d10p2/d10p2s05.rpy:64
 translate turkish d10p2s05_255d6989:

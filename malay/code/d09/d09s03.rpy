@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-07-15 10:22
 
 # game/code/d09/d09s03.rpy:52
 translate malay d09s03_79966fa3:

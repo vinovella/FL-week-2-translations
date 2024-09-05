@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-04-10 22:40
 
 # game/code/d11/d11s03.rpy:6
 translate spanish d11s03_3d1dc366:
@@ -1654,7 +1653,6 @@ translate spanish strings:
     # game/code/d11/d11s03.rpy:213
     old "Laugh in Her Face"
     new "Reírse en su cara"
-# TODO: Translation updated at 2022-11-12 13:40
 
 # game/code/d11/d11s03.rpy:282
 translate spanish d11s03_4a1f60c6:

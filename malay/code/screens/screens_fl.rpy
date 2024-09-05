@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-07-15 10:22
 
 translate malay strings:
 
@@ -42,7 +41,6 @@ translate malay strings:
     old "X-RAY"
     new "Sinar-X"
 
-# TODO: Translation updated at 2021-09-29 22:26
 
 translate malay strings:
 
@@ -66,7 +64,6 @@ translate malay strings:
     old "SAVE"
     new "SIMPAN"
 
-# TODO: Translation updated at 2021-10-13 01:40
 
 translate malay strings:
 
@@ -85,7 +82,6 @@ translate malay strings:
     # game/code/screens/screens_fl.rpy:271
     old "{u}Fill the questionnaire to play week [FLSS.week.cur] without loading a save{/u}"
     new "{u}Isi soal selidik untuk bermain minggu [FLSS.week.cur] tanpa memuatkan simpanan{/u}"
-# TODO: Translation updated at 2021-10-19 22:24
 
 translate malay strings:
 
@@ -93,7 +89,6 @@ translate malay strings:
     old "SKIP RECAP"
     new "LANGKAUI REKAP"
 
-# TODO: Translation updated at 2021-10-23 00:20
 
 translate malay strings:
 
@@ -101,7 +96,6 @@ translate malay strings:
     old "SKIP"
     new "LANGKAUI"
 
-# TODO: Translation updated at 2021-10-25 01:15
 
 translate malay strings:
 
@@ -109,7 +103,6 @@ translate malay strings:
     old "Unnamed End Game Save"
     new "Simpanan Permainan Tamat Tanpa Nama"
 
-# TODO: Translation updated at 2022-02-07 22:59
 
 translate malay strings:
 
@@ -121,7 +114,6 @@ translate malay strings:
     old "Go back and enable {b}Trans Content{/b} to be able to select Lyssa"
     new "Kembali dan dayakan {b}Kandungan Trans{/b} supaya dapat memilih Lyssa"
 
-# TODO: Translation updated at 2022-11-12 13:32
 
 translate malay strings:
 
@@ -221,7 +213,6 @@ translate malay strings:
     old "Confirm"
     new "Sahkan"
 
-# TODO: Translation updated at 2023-06-01 13:46
 
 translate malay strings:
 
@@ -233,7 +224,6 @@ translate malay strings:
     old "Close the game"
     new "Tutup permainan"
 
-# TODO: Translation updated at 2023-06-09 02:00
 
 translate malay strings:
 
@@ -245,7 +235,6 @@ translate malay strings:
     old "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
     new "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
 
-# TODO: Translation updated at 2024-07-07 21:16
 
 translate malay strings:
 

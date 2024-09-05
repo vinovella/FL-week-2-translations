@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-07-23 23:31
 
 # game/code/d13/d13s06.rpy:36
 translate italian d13s06_80586a78:

@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-09-15 21:23
 
 # game/code/d08/d08s14.rpy:5
 translate portuguese d08s14_2bbdcd9b:
@@ -1378,7 +1377,6 @@ translate portuguese strings:
     old "Yes, but..."
     new "Sim, mas..."
 
-# TODO: Translation updated at 2022-11-12 13:34
 
 # game/code/d08/d08s14.rpy:199
 translate portuguese d08s14_336ce5e2:

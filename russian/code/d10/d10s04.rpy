@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/d10/d10s04.rpy:82
 translate russian d10s04_0d4d03ce:

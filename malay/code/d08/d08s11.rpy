@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-07-15 10:22
 
 # game/code/d08/d08s11.rpy:7
 translate malay d08s11_2fc7f19d:

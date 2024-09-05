@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/d08/d08s11.rpy:7
 translate russian d08s11_2fc7f19d:

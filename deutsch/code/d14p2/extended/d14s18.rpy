@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-10-19 22:16
 
 # game/code/d14p2/extended/d14s18.rpy:48
 translate deutsch d14s18_2dcfd52b:

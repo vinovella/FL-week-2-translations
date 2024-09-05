@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-02 23:31
 
 # game/code/d10p1/d10p1s06.rpy:25
 translate chinese d10p1s06_d17c010b:
@@ -592,7 +591,6 @@ translate chinese strings:
     old "I don't want to see this"
     new "我不想看到这个"
 
-# TODO: Translation updated at 2021-04-29 23:41
 
 # game/code/d10p1/d10p1s06.rpy:115
 translate chinese d10p1s06_part_2_28802472:

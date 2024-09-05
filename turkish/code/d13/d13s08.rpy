@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-05 20:18
 
 # game/code/d13/d13s08.rpy:53
 translate turkish d13s08_1ea101fb:

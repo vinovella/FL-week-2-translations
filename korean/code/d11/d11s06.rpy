@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2022-09-01 22:00
 
 # game/code/d11/d11s06.rpy:62
 translate korean d11s06_d2790112:

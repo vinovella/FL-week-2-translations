@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2022-03-01 03:38
 
 translate deutsch strings:
 

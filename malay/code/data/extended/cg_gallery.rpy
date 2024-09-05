@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-07-15 10:22
 
 translate malay strings:
 
@@ -222,7 +221,6 @@ translate malay strings:
     old "Don't intervene"
     new "Jangan masuk campur"
 
-# TODO: Translation updated at 2021-08-23 21:56
 
 translate malay strings:
 
@@ -266,7 +264,6 @@ translate malay strings:
     old "Day 13: Vanessa"
     new "Hari 13: Vanessa"
 
-# TODO: Translation updated at 2021-09-29 22:26
 
 translate malay strings:
 
@@ -274,7 +271,6 @@ translate malay strings:
     old "Safewords are for noobs"
     new "Kata selamat untuk budak lemah"
 
-# TODO: Translation updated at 2021-10-25 01:15
 
 translate malay strings:
 

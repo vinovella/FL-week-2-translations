@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-29 21:58
 
 # game/code/d10/d10s01.rpy:4
 translate italian d10s01_c266f695:
@@ -258,7 +257,6 @@ translate italian d10s01_f1fb4a66:
     # mc "Exactly. Good morning and good night."
     mc "Esattamente. Buona giornata e buona notte."
 
-# TODO: Translation updated at 2022-11-12 13:27
 
 # game/code/d10/d10s01.rpy:38
 translate italian d10s01_58c63989:

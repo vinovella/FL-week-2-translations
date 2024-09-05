@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2022-09-01 22:00
 
 # game/code/d14/d14s07.rpy:76
 translate korean d14s07_01bc9165:

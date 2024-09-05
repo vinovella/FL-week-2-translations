@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-07-15 10:22
 
 # game/code/d11/d11s05.rpy:25
 translate malay d11s05_d53e0c53:
@@ -357,7 +356,6 @@ translate malay strings:
     # game/code/d11/d11s05.rpy:158
     old "Do it. Find out the truth"
     new "Lakukannya. Ketahui kebenarannya"
-# TODO: Translation updated at 2022-11-12 13:32
 
 # game/code/d11/d11s05.rpy:140
 translate malay d11s05_791d313d:

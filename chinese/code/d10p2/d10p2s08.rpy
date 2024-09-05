@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-09 02:01
 
 # game/code/d10p2/d10p2s08.rpy:26
 translate chinese d10p2s08_42ace476:
@@ -2418,7 +2417,6 @@ translate chinese strings:
     old "Blowjob from AmRose"
     new "爱洛丝的口交"
 
-# TODO: Translation updated at 2021-04-20 23:47
 
 # game/code/d10p2/d10p2s08.rpy:710
 translate chinese d10p2s08_mh_part3_4f2cc688:
@@ -2438,7 +2436,6 @@ translate chinese d10p2s08_mh_part3_20d947bf:
     # lc "Please tell me it was Lyssa."
     lc "拜托了，告诉我那是丽莎吧。"
     
-# TODO: Translation updated at 2021-05-16 23:32
 
 # game/code/d10p2/d10p2s08.rpy:957
 translate chinese d10p2s08_jf_part3_b49a9044:
@@ -2589,7 +2586,6 @@ translate chinese d10p2s08_jf_part5_6e27356e:
 
     # mc "URLittlePony was rewarded with a drink from the Trough of Ultimate Sexual Deviancy."
     mc "你的小马驹被奖励了一杯终极性变态谷的喝的。"
-# TODO: Translation updated at 2022-11-12 13:18
 
 # game/code/d10p2/d10p2s08.rpy:120
 translate chinese d10p2s08_47b69fbd:

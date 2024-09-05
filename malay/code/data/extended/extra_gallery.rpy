@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-07-15 10:22
 
 translate malay strings:
 
@@ -6,7 +5,6 @@ translate malay strings:
     old "Day 9: Squizzle - Selfie"
     new "Hari 9: Squizzle - Selfie"
 
-# TODO: Translation updated at 2021-10-13 01:40
 
 translate malay strings:
 

@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-07-15 10:22
 
 # game/code/d10/d10s06.rpy:6
 translate malay d10s06_3797c0e5:

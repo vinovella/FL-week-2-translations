@@ -1,6 +1,4 @@
-# TODO: Translation updated at 2020-06-09 02:20
 
-# TODO: Translation updated at 2020-06-27 22:20
 
 # game/code/labels.rpy:149
 translate deutsch knockknock_a3fe61f9:
@@ -8,9 +6,7 @@ translate deutsch knockknock_a3fe61f9:
     # "Knock, knock"
     "Klopf, Klopf"
 
-# TODO: Translation updated at 2020-07-01 23:25
 
-# TODO: Translation updated at 2021-10-03 23:28
 
 # game/code/labels.rpy:104
 translate deutsch after_credits_4092fc7e:
@@ -258,7 +254,6 @@ translate deutsch after_credits_e29ad5fa:
     # "{color=#ec8664}Unknown Girl 3{/color}" "Zemfira! That is the wrong outfit! Chapter 4 Scene 5 isn't a sex scene! What are you wearing??"
     "{color=#ec8664}Unbekanntes Mädchen 3{/color}" "Zemfira! Das ist das falsche Outfit! Kapitel 4 Szene 5 ist keine Sexszene! Was trägst du da??"
 
-# TODO: Translation updated at 2022-03-01 03:38
 
 # game/code/labels.rpy:454
 translate deutsch buzz_4377a2f7:

@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2020-06-27 22:12
 
 translate italian strings:
 
@@ -18,7 +17,6 @@ translate italian strings:
     old "Bonus Content"
     new "Contenuti sepciali"
 
-# TODO: Translation updated at 2021-05-16 23:55
 
 translate italian strings:
 

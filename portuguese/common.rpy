@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2020-08-05 01:51
 translate portuguese strings:
 
     # renpy/common/00accessibility.rpy:28
@@ -1140,7 +1139,6 @@ translate portuguese strings:
     old "joystick..."
     new "joystick..."
 
-# TODO: Translation updated at 2021-11-16 22:42
 
 translate portuguese strings:
 
@@ -1220,7 +1218,6 @@ translate portuguese strings:
     old "Press or move the '[control!s]' [kind]."
     new "Press or move the '[control!s]' [kind]."
 
-# TODO: Translation updated at 2023-05-23 16:06
 
 translate portuguese strings:
 
@@ -1240,7 +1237,6 @@ translate portuguese strings:
     old "mute main"
     new "mute main"
 
-# TODO: Translation updated at 2023-06-01 13:47
 
 translate portuguese strings:
 
@@ -1352,7 +1348,6 @@ translate portuguese strings:
     old "Sync Error"
     new "Sync Error"
 
-# TODO: Translation updated at 2024-07-07 21:17
 
 translate portuguese strings:
 

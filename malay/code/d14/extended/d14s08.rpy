@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-10-20 10:24
 
 # game/code/d14/extended/d14s08.rpy:47
 translate malay d14s08_383c46ec:
@@ -844,7 +843,6 @@ translate malay strings:
     old "That's Enough"
     new "Cukuplah"
 
-# TODO: Translation updated at 2022-11-12 13:32
 
 # game/code/d14/extended/d14s08.rpy:228
 translate malay d14s08_65d3d366:

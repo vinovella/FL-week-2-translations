@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-10-20 10:22
 
 # game/code/d14/extended/d14s08.rpy:47
 translate portuguese d14s08_383c46ec:
@@ -844,7 +843,6 @@ translate portuguese strings:
     old "That's Enough"
     new "Chega"
 
-# TODO: Translation updated at 2022-11-12 13:34
 
 # game/code/d14/extended/d14s08.rpy:228
 translate portuguese d14s08_65d3d366:

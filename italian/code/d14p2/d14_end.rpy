@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-09-29 22:24
 
 # game/code/d14p2/d14_end.rpy:30
 translate italian d14_end_1b8a9473:
@@ -24,7 +23,6 @@ translate italian d14_end_9443248a:
     # flr "Because you cheated!"
     flr "Perché hai imbrogliato!"
 
-# TODO: Translation updated at 2022-11-12 13:27
 
 # game/code/d14p2/d14_end.rpy:52
 translate italian d14_end_0a1a75cf:

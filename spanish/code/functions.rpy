@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-01 14:31
 
 translate spanish strings:
 
@@ -22,7 +21,6 @@ translate spanish strings:
     old "The game will try to replay the scene\naccording to your current playthrough"
     new "El juego tratará de reproducir la escena\nde acuerdo con tu actual desarrollo"
 
-# TODO: Translation updated at 2021-05-17 00:04
 
 translate spanish strings:
 
@@ -30,7 +28,6 @@ translate spanish strings:
     old "New character unlocked in the pool"
     new "Nuevo personaje desbloqueado en la piscina"
 
-# TODO: Translation updated at 2022-11-12 13:40
 
 translate spanish strings:
 

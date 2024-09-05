@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-07-24 08:57
 
 # game/code/d08/d08s04.rpy:17
 translate malay d08s04_01cc8f65:
@@ -527,7 +526,6 @@ translate malay replay_d08s04_606e2d02:
 
     # mc "Sure."
     mc "Baiklah."
-# TODO: Translation updated at 2022-11-12 13:32
 
 # game/code/d08/d08s04.rpy:53
 translate malay d08s04_09e6bb19:

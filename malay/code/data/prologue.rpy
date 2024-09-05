@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-07-15 10:22
 
 translate malay strings:
 
@@ -122,7 +121,6 @@ translate malay strings:
     old "Not_Mike"
     new "Bukan_Mike"
 
-# TODO: Translation updated at 2022-02-07 22:59
 
 translate malay strings:
 

@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-08-07 22:56
 
 # game/code/d13/d13s03.rpy:41
 translate chinese d13s03_2bf3d221:
@@ -498,7 +497,6 @@ translate chinese d13s03_end_a95fe941:
     # mct "*Sign* Well there goes [d12_cost_of_blitz] points down the drain."
     mct "*叹气* [d12_cost_of_blitz]个点数就这样泡汤了。"
 
-# TODO: Translation updated at 2021-08-23 21:48
 
 # game/code/d13/d13s03.rpy:345
 translate chinese replay_d13s03_2dacc73c:

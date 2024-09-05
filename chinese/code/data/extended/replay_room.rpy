@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-02 23:31
 
 translate chinese strings:
 
@@ -42,7 +41,6 @@ translate chinese strings:
     old "Don't creampie Nora"
     new "不在诺拉体内射精"
 
-# TODO: Translation updated at 2021-05-20 00:15
 
 translate chinese strings:
 
@@ -138,7 +136,6 @@ translate chinese strings:
     old "Party 2: Allison and Squizzle"
     new "派对二：艾莉森和斯奎兹"
 
-# TODO: Translation updated at 2021-08-23 21:48
 
 translate chinese strings:
 
@@ -230,7 +227,6 @@ translate chinese strings:
     old "Day 13: Stacy"
     new "第十三天：史黛西"
 
-# TODO: Translation updated at 2021-10-25 01:05
 
 translate chinese strings:
 

@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2020-08-10 14:27
 
 # game/code/d08/d08s06.rpy:9
 translate italian d08s06_026f7b87:
@@ -462,7 +461,6 @@ translate italian d08s06_ca44a1f9:
     # sy "Oh yeah, your lunch \"date\"."
     sy "Ah, sì, il nostro \"appuntamento\" a pranzo."
 
-# TODO: Translation updated at 2021-01-19 00:11
 
 # game/code/d08/d08s06.rpy:131
 translate italian d08s06_0be38e4b:

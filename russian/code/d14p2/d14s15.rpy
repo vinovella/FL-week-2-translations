@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/d14p2/d14s15.rpy:15
 translate russian d14s15_fc6e4a25:
@@ -608,7 +607,6 @@ translate russian strings:
     old "Maybe"
     new "Возможно"
 
-# TODO: Translation updated at 2023-06-11 15:29
 
 translate russian strings:
 

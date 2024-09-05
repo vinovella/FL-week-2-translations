@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-09-15 21:23
 
 # game/code/d10p2/d10p2s08.rpy:30
 translate portuguese d10p2s08_42ace476:
@@ -2586,7 +2585,6 @@ translate portuguese strings:
     old "Blowjob from AmRose"
     new "Boquete da AmRose"
 
-# TODO: Translation updated at 2022-11-12 13:34
 
 # game/code/d10p2/d10p2s08.rpy:120
 translate portuguese d10p2s08_47b69fbd:

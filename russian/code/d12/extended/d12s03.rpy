@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/d12/extended/d12s03.rpy:37
 translate russian d12s03_9f358fa6:
@@ -1310,7 +1309,6 @@ translate russian strings:
     old "Cum in her Mouth"
     new "Кончить ей в рот"
 
-# TODO: Translation updated at 2022-11-12 13:38
 
 # game/code/d12/extended/d12s03.rpy:235
 translate russian d12s03_f170455d:

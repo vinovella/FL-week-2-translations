@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-07-15 10:22
 
 translate malay strings:
 
@@ -106,7 +105,6 @@ translate malay strings:
     old "Party 2: Allison and Squizzle"
     new "Parti 2: Allison dan Squizzle"
 
-# TODO: Translation updated at 2021-08-23 21:56
 
 translate malay strings:
 
@@ -198,7 +196,6 @@ translate malay strings:
     old "Day 13: Stacy"
     new "Hari 13: Stacy"
 
-# TODO: Translation updated at 2021-10-25 01:15
 
 translate malay strings:
 

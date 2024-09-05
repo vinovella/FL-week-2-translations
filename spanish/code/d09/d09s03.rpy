@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-29 22:08
 
 # game/code/d09/d09s03.rpy:52
 translate spanish d09s03_79966fa3:

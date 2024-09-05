@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-08-23 22:22
 
 # game/code/d14/d14s02.rpy:38
 translate spanish d14s02_2affa5f6:
@@ -389,7 +388,6 @@ translate spanish d14s02_09879994:
 
     # sy "Aarghhh..."
     sy "Aarghhh..."
-# TODO: Translation updated at 2022-11-12 13:40
 
 # game/code/d14/d14s02.rpy:105
 translate spanish d14s02_6869e014:

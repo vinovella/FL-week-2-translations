@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/d12/d12s07.rpy:4
 translate russian d12s07_296981ed:

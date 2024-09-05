@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-07-15 10:22
 
 # game/code/d11/d11s02.rpy:28
 translate malay d11s02_4ee8cc8f:
@@ -1724,7 +1723,6 @@ translate malay strings:
     old "Decline. I want nothing more to do with Maria or Terrell"
     new "Tolak. Aku tak mahu ada kaitan lagi dengan Maria atau Terrell"
 
-# TODO: Translation updated at 2021-08-23 21:56
 
 # game/code/d11/d11s02.rpy:37
 translate malay d11s02_c8046555:

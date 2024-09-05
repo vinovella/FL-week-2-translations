@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-02 23:31
 
 # game/code/d10p1/d10p1s03.rpy:8
 translate chinese d10p1s03_2a4fa63e:
@@ -1234,7 +1233,6 @@ translate chinese strings:
     old "Don't"
     new "不帮"
 
-# TODO: Translation updated at 2021-05-17 02:20
 
 translate chinese strings:
 

@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-10-16 09:33
 
 # game/code/recap.rpy:50
 translate russian d08s00_week1synopsis_9b6483a6:
@@ -918,7 +917,6 @@ translate russian d08s00_week1synopsis_7c59af2b:
     # "No more waiting! Let's get into Week 2..."
     "Но хватит разговоров! Давайте перейдем ко второй неделе..."
 
-# TODO: Translation updated at 2022-11-12 13:38
 
 # game/code/recap.rpy:277
 translate russian d08s00_week1synopsis_f49a455e:

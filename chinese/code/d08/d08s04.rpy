@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-02 23:31
 
 # game/code/d08/d08s04.rpy:17
 translate chinese d08s04_01cc8f65:
@@ -527,7 +526,6 @@ translate chinese replay_d08s04_606e2d02:
 
     # mc "Sure."
     mc "当然可以。"
-# TODO: Translation updated at 2022-11-12 13:18
 
 # game/code/d08/d08s04.rpy:53
 translate chinese d08s04_09e6bb19:

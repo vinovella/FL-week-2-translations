@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-29 22:08
 
 # game/code/d08/d08s04.rpy:17
 translate spanish d08s04_01cc8f65:
@@ -527,7 +526,6 @@ translate spanish replay_d08s04_606e2d02:
 
     # mc "Sure."
     mc "Claro."
-# TODO: Translation updated at 2022-11-12 13:40
 
 # game/code/d08/d08s04.rpy:53
 translate spanish d08s04_09e6bb19:

@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-08-07 22:56
 
 # game/code/d12/d12s04.rpy:32
 translate chinese d12s04_29002f0b:
@@ -828,7 +827,6 @@ translate chinese strings:
     old "Take the plunge; be a considerate lover"
     new "大胆尝试；做个体贴的恋人"
 
-# TODO: Translation updated at 2021-08-23 21:48
 
 # game/code/d12/d12s04.rpy:207
 translate chinese replay_d12s04_f874a4ed:
@@ -877,7 +875,6 @@ translate chinese replay_d12s04_faf75cbc:
 
     # mh "Huh. Still, I didn't know that you were gonna come by today. How long have you been here? Why didn't you call me?"
     mh "行吧。不过，我不知道你今天会来。你在这里呆多久了？为什么不给我打电话？"
-# TODO: Translation updated at 2022-11-12 13:18
 
 # game/code/d12/d12s04.rpy:34
 translate chinese d12s04_8cc9a922:

@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2022-09-01 22:00
 
 # game/code/d14p2/d14s19_lc.rpy:35
 translate korean d14s19_lc_f6f3315d:

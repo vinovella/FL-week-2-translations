@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-08-23 21:58
 
 # game/code/d13/d13s01.rpy:24
 translate deutsch d13s01_b0c8f2b8:

@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-05 20:18
 
 # game/code/d11/d11s07.rpy:50
 translate turkish d11s07_a362d45b:

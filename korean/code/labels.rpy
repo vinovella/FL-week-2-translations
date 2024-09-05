@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2022-09-01 22:00
 
 # game/code/labels.rpy:100
 translate korean after_credits_4092fc7e:

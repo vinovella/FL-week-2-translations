@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2023-07-31 15:26
 
 # game/code/d10/d10s05.rpy:7
 translate french d10s05_be2623d1:

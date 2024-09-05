@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-23 23:20
 
 # game/code/d11/d11s05.rpy:25
 translate italian d11s05_d53e0c53:
@@ -358,7 +357,6 @@ translate italian strings:
     old "Do it. Find out the truth"
     new "Lo fai. Vuoi scoprire la verità"
 
-    # TODO: Translation updated at 2022-11-12 13:27
 
 # game/code/d11/d11s05.rpy:140
 translate italian d11s05_791d313d:

@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-04-10 22:40
 
 # game/code/d11/d11s02.rpy:28
 translate spanish d11s02_4ee8cc8f:
@@ -1718,7 +1717,6 @@ translate spanish strings:
     old "Decline. I want nothing more to do with Maria or Terrell"
     new "Rechazo. No quiero tener nada más que ver con María o Terrell"
 
-# TODO: Translation updated at 2021-04-20 23:53
 
 # game/code/d11/d11s02.rpy:277
 translate spanish d11s02_76e2bd99:
@@ -1726,7 +1724,6 @@ translate spanish d11s02_76e2bd99:
     # mc "Stop. Tomato Juice. [mc_safeword!t]. Halt."
     mc "Alto. Jugo de tomate. [mc_safeword!t]. Alto."
 
-# TODO: Translation updated at 2021-08-23 22:22
 
 # game/code/d11/d11s02.rpy:37
 translate spanish d11s02_c8046555:

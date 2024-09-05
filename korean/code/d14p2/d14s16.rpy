@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2022-09-01 22:00
 
 # game/code/d14p2/d14s16.rpy:15
 translate korean d14s16_d09c5d3d:

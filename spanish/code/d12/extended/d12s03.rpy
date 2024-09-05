@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-08-23 22:22
 
 # game/code/d12/extended/d12s03.rpy:37
 translate spanish d12s03_9f358fa6:
@@ -1309,7 +1308,6 @@ translate spanish strings:
     # game/code/d12/extended/d12s03.rpy:740
     old "Cum in her Mouth"
     new "Correte en la boca"
-# TODO: Translation updated at 2022-11-12 13:40
 
 # game/code/d12/extended/d12s03.rpy:235
 translate spanish d12s03_f170455d:

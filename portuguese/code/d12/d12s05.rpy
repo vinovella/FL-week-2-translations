@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-09-15 21:23
 
 # game/code/d12/d12s05.rpy:17
 translate portuguese d12s05_1758d1cc:

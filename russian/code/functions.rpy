@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-10-15 09:58
 
 translate russian strings:
 
@@ -26,7 +25,6 @@ translate russian strings:
     old "The game will try to replay the scene\naccording to your current playthrough"
     new "Повтор будет воспроизведен как в вашем последнем прохождении"
 
-# TODO: Translation updated at 2022-11-12 13:38
 
 translate russian strings:
 

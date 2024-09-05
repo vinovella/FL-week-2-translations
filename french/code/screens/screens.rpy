@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2023-07-31 15:26
 
 translate french strings:
 
@@ -358,7 +357,6 @@ translate french strings:
     old "Menu"
     new "Menu"
 
-# TODO: Translation updated at 2023-10-24 14:07
 
 translate french strings:
 
@@ -370,7 +368,6 @@ translate french strings:
     old "Try our new game Taboo University"
     new "Essayez notre nouveau jeu Taboo University"
 
-# TODO: Translation updated at 2024-07-07 20:56
 
 translate french strings:
 

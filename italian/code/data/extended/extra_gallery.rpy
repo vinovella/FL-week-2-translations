@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2020-06-27 22:12
 
 translate italian strings:
 
@@ -146,7 +145,6 @@ translate italian strings:
     old "Make AmRose your secret girlfriend"
     new "Accetta AmRose come fidanzata segreta"
 
-# TODO: Translation updated at 2021-01-19 00:11
 
 translate italian strings:
 
@@ -154,7 +152,6 @@ translate italian strings:
     old "Day 8: AmRose"
     new "8° giorno: AmRose"
 
-# TODO: Translation updated at 2021-07-23 23:31
 
 translate italian strings:
 
@@ -162,7 +159,6 @@ translate italian strings:
     old "Day 9: Squizzle - Selfie"
     new "9° giorno: Squizzle - Selfie"
 
-# TODO: Translation updated at 2021-10-13 01:39
 
 translate italian strings:
 

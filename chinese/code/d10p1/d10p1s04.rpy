@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-02 23:31
 
 # game/code/d10p1/d10p1s04.rpy:3
 translate chinese d10p1s04_4f91c35e:
@@ -630,7 +629,6 @@ translate chinese d10p1s04_5702e34b:
     # arjfl "That's a good point..."
     arjfl "说的好……"
 
-# TODO: Translation updated at 2021-04-28 20:51
 
 # game/code/d10p1/d10p1s04.rpy:50
 translate chinese d10p1s04_f1a8019a:

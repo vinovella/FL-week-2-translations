@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-05 20:18
 
 # game/code/d08/prologue.rpy:63
 translate turkish prologue_fresh_start_4063ae17:

@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-02-11 22:49
 
 # game/code/d10p1/d10p1s05.rpy:29
 translate spanish d10p1s05_1cee2083:
@@ -1008,7 +1007,6 @@ translate spanish strings:
     old "ATM FTW"
     new "PEM PLV"
 
-# TODO: Translation updated at 2021-08-23 22:22
 
 # game/code/d10p1/d10p1s05.rpy:491
 translate spanish d10p1s05_end_e8b03348:

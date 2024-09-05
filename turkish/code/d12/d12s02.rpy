@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-05 20:18
 
 # game/code/d12/d12s02.rpy:24
 translate turkish d12s02_6690416a:

@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2022-09-01 22:00
 
 # game/code/d08/prologue.rpy:63
 translate korean prologue_fresh_start_4063ae17:
@@ -172,7 +171,6 @@ translate korean strings:
     old "No, I didn't"
     new "아니다, 그렇게 하지 않았다"
 
-# TODO: Translation updated at 2022-11-12 13:29
 
 # game/code/d08/prologue.rpy:67
 translate korean prologue_fresh_start_ab0acec6:

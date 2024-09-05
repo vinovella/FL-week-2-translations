@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-07-15 10:22
 
 # game/code/d08/d08s08.rpy:4
 translate malay d08s08_e8de1932:
@@ -467,7 +466,6 @@ translate malay d08s08_2fff4bf6:
 
     # mc "Take it easy, and hey...{w} Thanks for trying."
     mc "Bertenanglah dan hey...{w} Terima kasih sebab mencuba."
-# TODO: Translation updated at 2022-11-12 13:32
 
 # game/code/d08/d08s08.rpy:11
 translate malay d08s08_3098df80:

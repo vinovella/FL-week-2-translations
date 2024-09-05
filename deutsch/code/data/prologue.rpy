@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2020-07-30 07:17
 
 translate deutsch strings:
 
@@ -110,7 +109,6 @@ translate deutsch strings:
     old "Scat"
     new "Scat"
 
-# TODO: Translation updated at 2020-11-10 12:16
 
 translate deutsch strings:
 
@@ -122,7 +120,6 @@ translate deutsch strings:
     old "The close childhood friend"
     new "Die enge Kindheitsfreundin"
 
-# TODO: Translation updated at 2022-02-07 22:57
 
 translate deutsch strings:
 

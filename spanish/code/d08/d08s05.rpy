@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-29 22:08
 
 # game/code/d08/d08s05.rpy:5
 translate spanish d08s05_06a950b5:
@@ -1210,7 +1209,6 @@ translate spanish strings:
     old "Yes, Mistress"
     new "Sí, Ama"
 
-# TODO: Translation updated at 2021-04-10 22:40
 
 # game/code/d08/d08s05.rpy:38
 translate spanish d08s05_b4dc6ce9:

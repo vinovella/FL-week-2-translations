@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-08-23 21:58
 
 # game/code/d12/d12s04.rpy:32
 translate deutsch d12s04_29002f0b:
@@ -875,7 +874,6 @@ translate deutsch strings:
     # game/code/d12/d12s04.rpy:496
     old "Take the plunge; be a considerate lover"
     new "Wag' den Sprung; sei ein rücksichtsvoller Liebhaber"
-# TODO: Translation updated at 2022-11-12 13:25
 
 # game/code/d12/d12s04.rpy:34
 translate deutsch d12s04_8cc9a922:

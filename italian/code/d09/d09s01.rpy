@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-28 02:38
 
 # game/code/d09/d09s01.rpy:3
 translate italian d09s01_2910aaa3:

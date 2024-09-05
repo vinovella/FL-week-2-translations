@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-07-15 10:22
 
 # game/code/d08/d08s07.rpy:6
 translate malay d08s07_ce6bbf32:
@@ -928,7 +927,6 @@ translate malay strings:
     old "You're both beautiful"
     new "Korang berdua cantik"
 
-# TODO: Translation updated at 2022-11-12 13:32
 
 # game/code/d08/d08s07.rpy:310
 translate malay d08s07_f9a4640e:

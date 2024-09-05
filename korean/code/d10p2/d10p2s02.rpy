@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2022-09-01 22:00
 
 # game/code/d10p2/d10p2s02.rpy:11
 translate korean d10p2s02_ab6e5f7b:

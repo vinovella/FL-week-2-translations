@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-23 23:20
 
 # game/code/d11/d11s01.rpy:8
 translate chinese d11s01_0be1c487:
@@ -533,7 +532,6 @@ translate chinese d11s01_536d88bc:
 
     # mc "Mmm. Coffee."
     mc "嗯。咖啡啊。"
-# TODO: Translation updated at 2022-11-12 13:18
 
 # game/code/d11/d11s01.rpy:35
 translate chinese d11s01_95292d25:

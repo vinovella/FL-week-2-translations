@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-09-15 21:23
 
 # game/code/d10p1/d10p1s01.rpy:8
 translate portuguese d10p1s01_27b48bcf:
@@ -1274,7 +1273,6 @@ translate portuguese strings:
     old "Apples"
     new "Maçãs"
 
-# TODO: Translation updated at 2022-11-12 13:34
 
 # game/code/d10p1/d10p1s01.rpy:375
 translate portuguese d10p1s01_427f0b81:

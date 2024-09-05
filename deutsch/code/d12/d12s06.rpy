@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-08-23 21:58
 
 # game/code/d12/d12s06.rpy:88
 translate deutsch d12s06_b479bc74:

@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2020-02-22 11:57
 
 translate italian strings:
 
@@ -441,7 +440,6 @@ translate italian strings:
     # game/code/screens/screens.rpy:656
     old "Try our new game Taboo University"
     new "Try our new game Taboo University"
-# TODO: Translation updated at 2024-07-07 20:57
 
 translate italian strings:
 

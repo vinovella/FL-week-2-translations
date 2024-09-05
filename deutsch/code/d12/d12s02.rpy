@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-08-23 21:58
 
 # game/code/d12/d12s02.rpy:21
 translate deutsch d12s02_6690416a:
@@ -818,7 +817,6 @@ translate deutsch strings:
     old "Do it (spend [d12_cost_of_blitz] points)"
     new "Tu es (verbrauche [d12_cost_of_blitz] Punkte)"
 
-# TODO: Translation updated at 2022-11-12 13:25
 
 # game/code/d12/d12s02.rpy:327
 translate deutsch d12s02_52f7b26f:

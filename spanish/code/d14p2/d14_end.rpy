@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-09-29 22:22
 
 # game/code/d14p2/d14_end.rpy:30
 translate spanish d14_end_1b8a9473:
@@ -23,7 +22,6 @@ translate spanish d14_end_9443248a:
 
     # flr "Because you cheated!"
     flr "¡Porque hiciste trampa!"
-# TODO: Translation updated at 2022-11-12 13:40
 
 # game/code/d14p2/d14_end.rpy:52
 translate spanish d14_end_0a1a75cf:

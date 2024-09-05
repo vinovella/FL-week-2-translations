@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-23 23:20
 
 # game/code/d11/d11s05.rpy:25
 translate chinese d11s05_d53e0c53:
@@ -358,7 +357,6 @@ translate chinese strings:
     old "Do it. Find out the truth"
     new "动手吧。找出真相"
 
-# TODO: Translation updated at 2022-11-12 13:18
 
 # game/code/d11/d11s05.rpy:140
 translate chinese d11s05_791d313d:

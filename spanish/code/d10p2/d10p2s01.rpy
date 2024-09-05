@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-04-10 22:40
 
 # game/code/d10p2/d10p2s01.rpy:59
 translate spanish d10p2s01_c52271c1:
@@ -760,7 +759,6 @@ translate spanish strings:
     old "Prepare for Main Event"
     new "Preparar el evento principal"
 
-# TODO: Translation updated at 2021-05-17 01:18
 
 # game/code/d10p2/d10p2s01.rpy:113
 translate spanish d10p2s01_a55c5cb4:

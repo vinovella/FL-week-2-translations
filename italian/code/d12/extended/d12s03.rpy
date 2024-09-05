@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-08-23 21:59
 
 # game/code/d12/extended/d12s03.rpy:37
 translate italian d12s03_9f358fa6:
@@ -1309,7 +1308,6 @@ translate italian strings:
     # game/code/d12/extended/d12s03.rpy:740
     old "Cum in her Mouth"
     new "Vienile in Bocca"
-# TODO: Translation updated at 2022-11-12 13:27
 
 # game/code/d12/extended/d12s03.rpy:235
 translate italian d12s03_f170455d:

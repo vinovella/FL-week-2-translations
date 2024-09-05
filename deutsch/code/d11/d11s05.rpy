@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-04-10 22:31
 
 # game/code/d11/d11s05.rpy:25
 translate deutsch d11s05_d53e0c53:
@@ -358,7 +357,6 @@ translate deutsch strings:
     old "Do it. Find out the truth"
     new "Tu es. Finde die Wahrheit heraus"
 
-# TODO: Translation updated at 2022-11-12 13:25
 
 # game/code/d11/d11s05.rpy:140
 translate deutsch d11s05_791d313d:

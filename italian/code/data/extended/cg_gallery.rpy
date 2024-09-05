@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2020-06-27 22:12
 
 translate italian strings:
 
@@ -226,7 +225,6 @@ translate italian strings:
     old "Flirt with Vanessa"
     new "Flirta con Vanessa"
 
-# TODO: Translation updated at 2021-01-19 00:11
 
 translate italian strings:
 
@@ -358,7 +356,6 @@ translate italian strings:
     old "Don't lie to Lydia"
     new "Non mentire a Lydia"
 
-# TODO: Translation updated at 2021-07-23 23:31
 
 translate italian strings:
 
@@ -470,7 +467,6 @@ translate italian strings:
     old "Don't intervene"
     new "Non intervenire"
 
-# TODO: Translation updated at 2021-08-23 21:59
 
 translate italian strings:
 
@@ -514,7 +510,6 @@ translate italian strings:
     old "Day 13: Vanessa"
     new "13° giorno: Vanessa"
 
-# TODO: Translation updated at 2021-09-29 22:24
 
 translate italian strings:
 
@@ -522,7 +517,6 @@ translate italian strings:
     old "Safewords are for noobs"
     new "Le safeword sono per i novellini"
 
-# TODO: Translation updated at 2021-10-25 01:06
 
 translate italian strings:
 

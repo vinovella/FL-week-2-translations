@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-09-29 22:24
 
 # game/code/d14p2/d14s15.rpy:13
 translate italian d14s15_fc6e4a25:
@@ -607,7 +606,6 @@ translate italian strings:
     # game/code/d14p2/d14s15.rpy:221
     old "Maybe"
     new "Forse"
-# TODO: Translation updated at 2023-06-11 15:27
 
 translate italian strings:
 

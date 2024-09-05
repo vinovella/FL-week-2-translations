@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-02-18 10:52
 
 # game/code/d10p2/d10p2s08.rpy:17
 translate italian d10p2s08_42ace476:
@@ -2418,7 +2417,6 @@ translate italian strings:
     old "Blowjob from AmRose"
     new "Il pompino da parte di AmRose"
 
-# TODO: Translation updated at 2021-04-20 23:56
 
 # game/code/d10p2/d10p2s08.rpy:710
 translate italian d10p2s08_mh_part3_4f2cc688:
@@ -2438,7 +2436,6 @@ translate italian d10p2s08_mh_part3_20d947bf:
     # lc "Please tell me it was Lyssa."
     lc "Ti prego, dimmi che era Lyssa."
 
-# TODO: Translation updated at 2021-05-16 23:55
 
 # game/code/d10p2/d10p2s08.rpy:957
 translate italian d10p2s08_jf_part3_b49a9044:
@@ -2589,7 +2586,6 @@ translate italian d10p2s08_jf_part5_6e27356e:
 
     # mc "URLittlePony was rewarded with a drink from the Trough of Ultimate Sexual Deviancy."
     mc "Come premio URLittlePony aveva ricevuto una bevanda che poteva bere dal Trogolo della Completa Devianza Sessuale."
-# TODO: Translation updated at 2022-11-12 13:27
 
 # game/code/d10p2/d10p2s08.rpy:120
 translate italian d10p2s08_47b69fbd:

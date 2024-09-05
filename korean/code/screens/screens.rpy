@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2022-09-01 22:00
 
 translate korean strings:
 
@@ -366,7 +365,6 @@ translate korean strings:
     old "Menu"
     new "메뉴"
 
-# TODO: Translation updated at 2023-10-24 14:08
 
 translate korean strings:
 
@@ -378,7 +376,6 @@ translate korean strings:
     old "Try our new game Taboo University"
     new "Try our new game Taboo University"
 
-# TODO: Translation updated at 2024-07-07 21:01
 
 translate korean strings:
 

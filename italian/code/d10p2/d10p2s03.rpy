@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-02-18 10:52
 
 # game/code/d10p2/d10p2s03.rpy:43
 translate italian d10p2s03_eac2f02e:

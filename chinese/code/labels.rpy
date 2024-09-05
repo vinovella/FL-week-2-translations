@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-26 20:42
 
 # game/code/labels.rpy:209
 translate chinese buzz_4377a2f7:
@@ -12,7 +11,6 @@ translate chinese knockknock_a3fe61f9:
     # "Knock knock"
     "咚咚咚"
 
-# TODO: Translation updated at 2021-10-03 23:25
 
 # game/code/labels.rpy:104
 translate chinese after_credits_4092fc7e:
@@ -254,7 +252,6 @@ translate chinese after_credits_c7e3ca6c:
     # sy "But don't forget to support us! We will bring you more awesome stuff!"
     sy "但请不要忘了支持我们！我们会为您带来更多精彩后续！"
 
-# TODO: Translation updated at 2021-10-17 22:27
 
 # game/code/labels.rpy:191
 translate chinese after_credits_e29ad5fa:

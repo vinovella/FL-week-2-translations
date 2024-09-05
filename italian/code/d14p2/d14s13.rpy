@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-09-29 22:24
 
 # game/code/d14p2/d14s13.rpy:6
 translate italian d14s13_d2c80bad:
@@ -480,7 +479,6 @@ translate italian d14s13_5af089f0:
     # hr "*Chuckles* You really remind me of my girlfriend."
     hr "*Ridendo* Mi ricordi davvero la mia ragazza."
 
-# TODO: Translation updated at 2022-11-12 13:27
 
 # game/code/d14p2/d14s13.rpy:99
 translate italian d14s13_2abde1da:

@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2020-06-09 02:20
 
 translate deutsch strings:
 
@@ -226,7 +225,6 @@ translate deutsch strings:
     old "Day 7: Evening"
     new "Tag 7: Abend"
 
-# TODO: Translation updated at 2020-06-27 22:20
 
 translate deutsch strings:
 
@@ -250,7 +248,6 @@ translate deutsch strings:
     old "Day 6: Jessie (park)"
     new "Tag 6: Jessie (Park)"
 
-# TODO: Translation updated at 2020-06-28 12:40
 
 translate deutsch strings:
 
@@ -258,7 +255,6 @@ translate deutsch strings:
     old "You must have helped Kevin and respected AmRose privacy"
     new "Du musst Kevin helfen und AmRose's Privatsphäre akzeptieren"
 
-# TODO: Translation updated at 2020-07-30 07:17
 
 translate deutsch strings:
 
@@ -266,7 +262,6 @@ translate deutsch strings:
     old "Flirt with Vanessa"
     new "Flirte mit Vanessa"
 
-# TODO: Translation updated at 2020-11-10 12:16
 
 translate deutsch strings:
 
@@ -398,7 +393,6 @@ translate deutsch strings:
     old "Don't lie to Lydia"
     new "Lüg Lydia nicht an"
 
-# TODO: Translation updated at 2021-08-23 21:58
 
 translate deutsch strings:
 
@@ -550,7 +544,6 @@ translate deutsch strings:
     old "Day 13: Vanessa"
     new "Tag 13: Vanessa"
 
-# TODO: Translation updated at 2021-09-29 22:25
 
 translate deutsch strings:
 
@@ -558,7 +551,6 @@ translate deutsch strings:
     old "Safewords are for noobs"
     new "Safewords sind für Schwächlinge"
 
-# TODO: Translation updated at 2021-10-25 01:16
 
 translate deutsch strings:
 

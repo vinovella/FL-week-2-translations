@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-09-15 21:23
 
 # game/code/d10/d10s05.rpy:7
 translate portuguese d10s05_be2623d1:
@@ -1392,7 +1391,6 @@ translate portuguese d10s05_replay_69fd61bb:
     # arj "Yep!"
     arj "Sim!"
 
-# TODO: Translation updated at 2022-11-12 13:34
 
 # game/code/d10/d10s05.rpy:364
 translate portuguese d10s05_replay_95bf8394:

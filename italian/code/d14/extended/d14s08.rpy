@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-10-20 10:23
 
 # game/code/d14/extended/d14s08.rpy:47
 translate italian d14s08_383c46ec:
@@ -843,7 +842,6 @@ translate italian strings:
     # game/code/d14/extended/d14s08.rpy:327
     old "That's Enough"
     new "È Abbastanza"
-# TODO: Translation updated at 2022-11-12 13:27
 
 # game/code/d14/extended/d14s08.rpy:228
 translate italian d14s08_65d3d366:

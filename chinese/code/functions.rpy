@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-02 23:31
 
 translate chinese strings:
 
@@ -23,14 +22,12 @@ translate chinese strings:
     new "游戏将根据您当前的玩法\n尝试重现场景"
 
 
-# TODO: Translation updated at 2021-05-12 20:24
 
 translate chinese strings:
 
     # game/code/functions.rpy:16
     old "New character unlocked in the pool"
     new "解锁泳池中的新角色"
-# TODO: Translation updated at 2022-11-12 13:18
 
 translate chinese strings:
 

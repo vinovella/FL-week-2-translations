@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/d14p2/d14_end.rpy:42
 translate russian d14_end_1b8a9473:
@@ -24,7 +23,6 @@ translate russian d14_end_9443248a:
     # flr "Because you cheated!"
     flr "Потому что ты жульничал!"
 
-# TODO: Translation updated at 2022-11-12 13:38
 
 # game/code/d14p2/d14_end.rpy:52
 translate russian d14_end_0a1a75cf:

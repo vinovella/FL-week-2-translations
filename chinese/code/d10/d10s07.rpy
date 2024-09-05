@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-02 23:31
 
 # game/code/d10/d10s07.rpy:13
 translate chinese d10s07_fad11a7d:

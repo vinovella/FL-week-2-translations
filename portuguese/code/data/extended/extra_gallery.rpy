@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-09-15 21:23
 
 translate portuguese strings:
 
@@ -6,7 +5,6 @@ translate portuguese strings:
     old "Day 9: Squizzle - Selfie"
     new "Dia 9: Squizzle - Selfie"
 
-# TODO: Translation updated at 2021-10-13 01:40
 
 translate portuguese strings:
 

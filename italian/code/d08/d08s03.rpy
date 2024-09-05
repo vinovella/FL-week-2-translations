@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2020-07-30 07:39
 
 # game/code/d08/d08s03.rpy:19
 translate italian d08s03_4ee8cc8f:
@@ -716,7 +715,6 @@ translate italian strings:
     old "It was an accident"
     new "Era stato un incidente"
 
-# TODO: Translation updated at 2020-08-10 14:27
 
 # game/code/d08/d08s03.rpy:41
 translate italian d08s03_20ef59dd:
@@ -1309,7 +1307,6 @@ translate italian replay_d08s03_bdb152de:
 
     # mk "Shh. Just... shhh."
     mk "Shh. Solo... shhh."
-# TODO: Translation updated at 2022-11-12 13:27
 
 # game/code/d08/d08s03.rpy:122
 translate italian d08s03_3a9860c7:

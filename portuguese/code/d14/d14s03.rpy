@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-09-15 21:23
 
 # game/code/d14/d14s03.rpy:6
 translate portuguese d14s03_e0ad0b38:
@@ -1386,7 +1385,6 @@ translate portuguese strings:
     old "Kiss her"
     new "Beijar ela"
 
-# TODO: Translation updated at 2022-11-12 13:34
 
 # game/code/d14/d14s03.rpy:198
 translate portuguese d14s03_5f1c483b:

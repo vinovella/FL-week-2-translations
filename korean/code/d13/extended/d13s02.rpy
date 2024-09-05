@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2022-09-01 22:00
 
 # game/code/d13/extended/d13s02.rpy:36
 translate korean d13s02_acea7575:

@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-02 23:31
 
 translate chinese strings:
 
@@ -121,7 +120,6 @@ translate chinese strings:
     # game/code/data/prologue.rpy:50
     old "Not_Mike"
     new "不是_迈克"
-# TODO: Translation updated at 2022-02-07 22:56
 
 translate chinese strings:
 

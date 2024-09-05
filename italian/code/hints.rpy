@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-11-14 23:00
 
 translate italian strings:
 
@@ -630,7 +629,6 @@ translate italian strings:
     old "No hints available."
     new "Nessun suggerimento disponibile."
 
-# TODO: Translation updated at 2021-11-16 22:40
 
 translate italian strings:
 

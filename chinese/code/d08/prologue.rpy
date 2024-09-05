@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-02 23:31
 
 # game/code/d08/prologue.rpy:59
 translate chinese prologue_fresh_start_4063ae17:
@@ -160,7 +159,6 @@ translate chinese strings:
     old "Her firm ass"
     new "她紧实的屁股"
 
-# TODO: Translation updated at 2021-10-18 00:35
 
 # game/code/d08/prologue.rpy:184
 translate chinese prologue_nora_creampie_fcd0a635:
@@ -177,7 +175,6 @@ translate chinese strings:
     # game/code/d08/prologue.rpy:186
     old "No, I didn't"
     new "不，并没有"
-# TODO: Translation updated at 2022-02-07 22:56
 
 # game/code/d08/prologue.rpy:121
 translate chinese prologue_fetishes_7bc3a4e5:
@@ -185,7 +182,6 @@ translate chinese prologue_fetishes_7bc3a4e5:
     # "It's time to choose your preferences.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many as you want and press \"Done\"."
     "It's time to choose your preferences.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many as you want and press \"Done\"."
 
-# TODO: Translation updated at 2022-11-12 13:18
 
 # game/code/d08/prologue.rpy:67
 translate chinese prologue_fresh_start_ab0acec6:

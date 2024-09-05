@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/d08/extended/d08s09.rpy:37
 translate russian d08s09_445aec41:

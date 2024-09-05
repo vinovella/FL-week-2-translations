@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-02-11 22:50
 
 # game/code/d10p1/d10p1s01.rpy:8
 translate deutsch d10p1s01_27b48bcf:
@@ -1268,14 +1267,12 @@ translate deutsch strings:
     old "Apples"
     new "Äpfel"
 
-# TODO: Translation updated at 2021-04-20 23:55
 
 # game/code/d10p1/d10p1s01.rpy:312
 translate deutsch d10p1s01_7e7578d2:
 
     # mc "Yep. I can remember [mc_safeword!t]..."
     mc "Jap. Ich kann mir [mc_safeword!t] merken..."
-# TODO: Translation updated at 2022-11-12 13:25
 
 # game/code/d10p1/d10p1s01.rpy:375
 translate deutsch d10p1s01_427f0b81:

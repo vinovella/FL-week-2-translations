@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2020-07-30 07:39
 
 translate italian strings:
 

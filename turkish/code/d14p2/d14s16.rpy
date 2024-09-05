@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-05 20:18
 
 # game/code/d14p2/d14s16.rpy:15
 translate turkish d14s16_d09c5d3d:

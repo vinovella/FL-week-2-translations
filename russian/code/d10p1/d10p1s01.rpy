@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/d10p1/d10p1s01.rpy:8
 translate russian d10p1s01_27b48bcf:
@@ -1274,7 +1273,6 @@ translate russian strings:
     old "Apples"
     new "Яблок"
 
-# TODO: Translation updated at 2022-11-12 13:38
 
 # game/code/d10p1/d10p1s01.rpy:375
 translate russian d10p1s01_427f0b81:

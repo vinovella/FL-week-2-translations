@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-02 23:31
 
 # game/code/d08/d08s08.rpy:4
 translate chinese d08s08_e8de1932:
@@ -468,7 +467,6 @@ translate chinese d08s08_2fff4bf6:
     # mc "Take it easy, and hey...{w} Thanks for trying."
     mc "别紧张，哦对了……{w}谢谢你的努力。"
 
-# TODO: Translation updated at 2022-11-12 13:18
 
 # game/code/d08/d08s08.rpy:11
 translate chinese d08s08_3098df80:

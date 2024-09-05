@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-01 14:31
 
 translate spanish strings:
 
@@ -358,7 +357,6 @@ translate spanish strings:
     old "Menu"
     new "Menú"
 
-# TODO: Translation updated at 2021-08-23 22:22
 
 translate spanish strings:
 
@@ -366,7 +364,6 @@ translate spanish strings:
     old "Character Gallery"
     new "Galería de Personajes"
 
-# TODO: Translation updated at 2021-10-13 01:42
 
 translate spanish strings:
 
@@ -374,7 +371,6 @@ translate spanish strings:
     old "Naming save file:"
     new "Nombrar el archivo de guardado:"
 
-# TODO: Translation updated at 2021-10-25 01:12
 
 translate spanish strings:
 
@@ -382,7 +378,6 @@ translate spanish strings:
     old "Low Memory Mode"
     new "Low Memory Mode"
 
-# TODO: Translation updated at 2021-11-14 23:04
 
 translate spanish strings:
 
@@ -405,7 +400,6 @@ translate spanish strings:
     # game/code/screens/screens.rpy:796
     old "Others"
     new "Others"
-# TODO: Translation updated at 2023-10-24 14:10
 
 translate spanish strings:
 
@@ -417,7 +411,6 @@ translate spanish strings:
     old "Try our new game Taboo University"
     new "Try our new game Taboo University"
 
-# TODO: Translation updated at 2024-07-07 21:19
 
 translate spanish strings:
 

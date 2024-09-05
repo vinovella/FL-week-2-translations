@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-09-15 21:23
 
 # game/code/d08/d08s01.rpy:21
 translate portuguese d08s01_a38e2739:

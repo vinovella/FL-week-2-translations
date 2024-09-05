@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-04-10 22:31
 
 # game/code/d11/d11s04.rpy:7
 translate deutsch d11s04_95a7047b:

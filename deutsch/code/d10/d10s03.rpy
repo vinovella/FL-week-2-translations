@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2020-11-30 13:07
 
 # game/code/d10/d10s03.rpy:26
 translate deutsch d10s03_68b91133:

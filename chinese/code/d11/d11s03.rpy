@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-23 23:20
 
 # game/code/d11/d11s03.rpy:6
 translate chinese d11s03_3d1dc366:
@@ -1653,7 +1652,6 @@ translate chinese strings:
     # game/code/d11/d11s03.rpy:213
     old "Laugh in Her Face"
     new "当面嘲笑她"
-# TODO: Translation updated at 2022-11-12 13:18
 
 # game/code/d11/d11s03.rpy:282
 translate chinese d11s03_4a1f60c6:

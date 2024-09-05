@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2020-11-29 22:04
 
 # game/code/d10/d10s05.rpy:7
 translate deutsch d10s05_be2623d1:
@@ -1392,7 +1391,6 @@ translate deutsch d10s05_replay_69fd61bb:
     # arj "Yep!"
     arj "Jap!"
 
-# TODO: Translation updated at 2022-11-12 13:25
 
 # game/code/d10/d10s05.rpy:364
 translate deutsch d10s05_replay_95bf8394:

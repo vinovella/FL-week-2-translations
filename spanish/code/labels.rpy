@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2020-11-01 14:31
 
 # game/code/labels.rpy:199
 translate spanish knockknock_a3fe61f9:
@@ -6,9 +5,7 @@ translate spanish knockknock_a3fe61f9:
     # "Knock knock"
     "Toc toc"
 
-# TODO: Translation updated at 2021-03-26 12:16
 
-# TODO: Translation updated at 2021-10-03 23:38
 
 # game/code/labels.rpy:104
 translate spanish after_credits_4092fc7e:
@@ -250,7 +247,6 @@ translate spanish after_credits_c7e3ca6c:
     # sy "But don't forget to support us! We will bring you more awesome stuff!"
     sy "¡Pero no te olvides de apoyarnos! ¡Te traeremos más cosas increíbles!"
 
-# TODO: Translation updated at 2021-10-18 00:44
 
 # game/code/labels.rpy:191
 translate spanish after_credits_e29ad5fa:
@@ -258,7 +254,6 @@ translate spanish after_credits_e29ad5fa:
     # "{color=#ec8664}Unknown Girl 3{/color}" "Zemfira! That is the wrong outfit! Chapter 4 Scene 5 isn't a sex scene! What are you wearing??"
     "{color=#ec8664}Chica desconocida 3{/color}" "¡Zemfira! ¡Ese es el traje equivocado! ¡El capítulo 4, escena 5, no es una escena de sexo! ¿¿Qué llevas puesto??"
 
-# TODO: Translation updated at 2023-06-01 14:31
 
 # game/code/labels.rpy:440
 translate spanish buzz_4377a2f7:

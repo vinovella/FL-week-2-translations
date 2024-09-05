@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-09-15 21:23
 
 # game/code/d12/extended/d12s03.rpy:37
 translate portuguese d12s03_9f358fa6:
@@ -1310,7 +1309,6 @@ translate portuguese strings:
     old "Cum in her Mouth"
     new "Gozar na Boca"
 
-# TODO: Translation updated at 2022-11-12 13:34
 
 # game/code/d12/extended/d12s03.rpy:235
 translate portuguese d12s03_f170455d:

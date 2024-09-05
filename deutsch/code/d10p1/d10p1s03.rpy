@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-02-11 22:50
 
 # game/code/d10p1/d10p1s03.rpy:8
 translate deutsch d10p1s03_2a4fa63e:
@@ -1238,7 +1237,6 @@ translate deutsch strings:
     old "Don't help him"
     new "Hilf ihm nicht"
 
-# TODO: Translation updated at 2021-04-10 22:31
 
 translate deutsch strings:
 
@@ -1246,7 +1244,6 @@ translate deutsch strings:
     old "Don't"
     new "Nicht"
 
-# TODO: Translation updated at 2021-05-17 02:24
 
 translate deutsch strings:
 

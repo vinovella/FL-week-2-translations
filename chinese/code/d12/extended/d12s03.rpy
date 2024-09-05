@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-08-23 21:48
 
 # game/code/d12/extended/d12s03.rpy:37
 translate chinese d12s03_9f358fa6:
@@ -1310,7 +1309,6 @@ translate chinese strings:
     old "Cum in her Mouth"
     new "射在她嘴里"
 
-# TODO: Translation updated at 2022-11-12 13:18
 
 # game/code/d12/extended/d12s03.rpy:235
 translate chinese d12s03_f170455d:

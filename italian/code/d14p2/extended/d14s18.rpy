@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-10-18 00:45
 
 # game/code/d14p2/extended/d14s18.rpy:48
 translate italian d14s18_2dcfd52b:
@@ -426,7 +425,6 @@ translate italian replay_d14s18_adb4d09a:
     # mc "I'll be around if you need me."
     mc "Sarò in giro se hai bisogno di me."
 
-# TODO: Translation updated at 2021-10-19 12:33
 
 # game/code/d14p2/extended/d14s18.rpy:142
 translate italian d14s18_f28d21c8:

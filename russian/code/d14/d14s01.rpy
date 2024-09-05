@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-11-14 14:09
 
 # game/code/d14/d14s01.rpy:6
 translate russian d14s01_09b2c302:
@@ -270,7 +269,6 @@ translate russian d14s01_2835e914:
     # sb "In your dreams! Hahahahaha..."
     sb "Это твой сон! Хахахахаха..."
 
-# TODO: Translation updated at 2022-11-12 13:38
 
 # game/code/d14/d14s01.rpy:91
 translate russian d14s01_79ee7a04:

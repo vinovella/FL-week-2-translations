@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-02 23:31
 
 # game/code/d10p1/d10p1s01.rpy:8
 translate chinese d10p1s01_27b48bcf:
@@ -1268,14 +1267,12 @@ translate chinese strings:
     old "Apples"
     new "苹果"
 
-# TODO: Translation updated at 2021-04-20 23:47
 
 # game/code/d10p1/d10p1s01.rpy:312
 translate chinese d10p1s01_7e7578d2:
 
     # mc "Yep. I can remember [mc_safeword!t]..."
     mc "没错，我能记住[mc_safeword!t]……"
-# TODO: Translation updated at 2022-11-12 13:18
 
 # game/code/d10p1/d10p1s01.rpy:375
 translate chinese d10p1s01_427f0b81:

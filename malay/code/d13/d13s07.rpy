@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-07-15 10:22
 
 # game/code/d13/d13s07.rpy:7
 translate malay d13s07_cd8be750:
@@ -726,7 +725,6 @@ translate malay d13s07_9b0423ef:
     # mc "Good night."
     mc "Selamat malam."
 
-# TODO: Translation updated at 2021-08-23 21:56
 
 # game/code/d13/d13s07.rpy:123
 translate malay d13s07_f7adbeb5:

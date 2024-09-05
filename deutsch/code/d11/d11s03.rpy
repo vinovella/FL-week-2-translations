@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2021-04-10 22:31
 
 # game/code/d11/d11s03.rpy:6
 translate deutsch d11s03_3d1dc366:
@@ -1654,7 +1653,6 @@ translate deutsch strings:
     old "Laugh in Her Face"
     new "Lache sie aus"
 
-# TODO: Translation updated at 2022-11-12 13:25
 
 # game/code/d11/d11s03.rpy:282
 translate deutsch d11s03_4a1f60c6:

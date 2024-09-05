@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-07-15 10:22
 
 # game/code/d10p1/extended/d10p1s06b.rpy:14
 translate malay d10p1s06b_542d1ba8:

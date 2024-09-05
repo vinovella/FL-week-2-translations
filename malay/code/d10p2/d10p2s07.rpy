@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-07-15 10:22
 
 # game/code/d10p2/d10p2s07.rpy:11
 translate malay d10p2s07_08f2922a:
@@ -834,7 +833,6 @@ translate malay d10p2s07_aa77db00:
     # mct "Well, I guess I best get ready."
     mct "Lebih baik aku bersedia."
 
-# TODO: Translation updated at 2021-08-23 21:56
 
 # game/code/d10p2/d10p2s07.rpy:7
 translate malay d10p2s07_f239d031:

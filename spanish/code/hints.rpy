@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-11-14 23:04
 
 translate spanish strings:
 
@@ -630,7 +629,6 @@ translate spanish strings:
     old "No hints available."
     new "No hay pistas disponibles."
 
-# TODO: Translation updated at 2021-11-16 22:35
 
 translate spanish strings:
 

@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-08-23 22:22
 
 # game/code/d14/d14s01.rpy:6
 translate spanish d14s01_09b2c302:
@@ -269,7 +268,6 @@ translate spanish d14s01_2835e914:
 
     # sb "In your dreams! Hahahahaha..."
     sb "¡En tus sueños! Jajajajaja..."
-# TODO: Translation updated at 2022-11-12 13:40
 
 # game/code/d14/d14s01.rpy:91
 translate spanish d14s01_79ee7a04:

@@ -1,4 +1,3 @@
-﻿# TODO: Translation updated at 2021-03-09 02:01
 
 # game/code/d10p2/d10p2s01.rpy:57
 translate chinese d10p2s01_c52271c1:
@@ -760,7 +759,6 @@ translate chinese strings:
     old "Prepare for Main Event"
     new "备战主活动"
 
-# TODO: Translation updated at 2021-05-17 01:10
 
 # game/code/d10p2/d10p2s01.rpy:113
 translate chinese d10p2s01_a55c5cb4:
