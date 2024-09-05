@@ -27,19 +27,19 @@ translate french d09s02_7fb62f5f:
 translate french d09s02_2c0fbd5b:
 
     # mc "Oh, should I be the cable guy instead?"
-    mc "Oh, devrais-je être le gars du câble à la place ?"
+    mc "Oh, je peut être le gars du câble à la place ?"
 
 # game/code/d09/d09s02.rpy:39
 translate french d09s02_47be7110:
 
     # sb "Huh?"
-    sb "Hein?"
+    sb "Hein ?"
 
 # game/code/d09/d09s02.rpy:40
 translate french d09s02_34af8ae9:
 
     # mc "Maybe the plumber? \"I'm just here to lay some pipe, little lady.\""
-    mc "Ou le plombier?  \"Je suis juste là pour m'occuper de votre tuyauterie ma petite dame.\""
+    mc "Ou le plombier ?  \"Je suis juste là pour m'occuper de votre tuyauterie ma petite dame.\""
 
 # game/code/d09/d09s02.rpy:43
 translate french d09s02_8cd077ed:
@@ -171,7 +171,7 @@ translate french d09s02_fun_024eec4f:
 translate french d09s02_fun_babbcd99:
 
     # mc "...Toys?"
-    mc "...Des jouets?"
+    mc "...Des jouets ?"
 
 # game/code/d09/d09s02.rpy:105
 translate french d09s02_fun_59c09040:
@@ -189,7 +189,7 @@ translate french d09s02_fun_2b91cb9f:
 translate french d09s02_fun_8a340642:
 
     # mc "What does that mean?"
-    mc "Qu'est-ce que ça veut dire?"
+    mc "Qu'est-ce que ça veut dire ?"
 
 # game/code/d09/d09s02.rpy:112
 translate french d09s02_fun_6967c620:
@@ -207,7 +207,7 @@ translate french d09s02_fun_fcf8ae74:
 translate french d09s02_fun_282a9582:
 
     # sb "Yep. If you were hoping for something...{i}more{/i}, I'm sorry to say it's also gonna cost you more."
-    sb "c'est ça. Si tu voulais quelque chose de...{i}plus{/i}, je suis désolée de te dire que ça va te coûter plus cher."
+    sb "C'est ça. Si tu voulais quelque chose de...{i}plus{/i}, je suis désolée de te dire que ça va te coûter plus cher."
 
 # game/code/d09/d09s02.rpy:119
 translate french d09s02_fun_54a263bf:
@@ -261,7 +261,7 @@ translate french d09s02_fun_2ea1626a:
 translate french d09s02_fun_9547ad2a:
 
     # mc "What do you mean, \"huh\"?"
-    mc "Que veux-tu dire, \"hein\"?"
+    mc "Que veux-tu dire, \"hein\" ?"
 
 # game/code/d09/d09s02.rpy:142
 translate french d09s02_fun_d646ddb9:
@@ -279,7 +279,7 @@ translate french d09s02_fun_b9edd2de:
 translate french d09s02_fun_1a628644:
 
     # sb "Escort?"
-    sb "Une Escorte?"
+    sb "Une Escorte ?"
 
 # game/code/d09/d09s02.rpy:147
 translate french d09s02_fun_1e979772:
@@ -291,7 +291,7 @@ translate french d09s02_fun_1e979772:
 translate french d09s02_fun_928167b3:
 
     # sb "Oh! It's a vibrator, of a sort. Twist the bottom to turn it on."
-    sb "Oh! C'est en quelque sorte un vibro. Tourne le bas pour l'allumer."
+    sb "Oh ! C'est en quelque sorte un vibro. Tourne le bas pour l'allumer."
 
 # game/code/d09/d09s02.rpy:153
 translate french d09s02_fun_66db3942:
@@ -423,7 +423,7 @@ translate french d09s02_luggage_37b96121:
 translate french d09s02_luggage_1858cd76:
 
     # sb "Oh, you're still here. I thought..."
-    sb "Oh, tu es toujours là. Je pensais…"
+    sb "Oh, tu es toujours là. Je pensais..."
 
 # game/code/d09/d09s02.rpy:271
 translate french d09s02_luggage_97832c10:
@@ -477,7 +477,7 @@ translate french d09s02_luggage_a4e232a1:
 translate french d09s02_luggage_1dd6e6f5:
 
     # sb "So what do you wanna talk about, [mcname]?"
-    sb "Donc de quoi veux-tu parler, [mcname]?"
+    sb "Donc de quoi veux-tu parler, [mcname] ?"
 
 # game/code/d09/d09s02.rpy:288
 translate french d09s02_luggage_6f8d80ac:
@@ -531,7 +531,7 @@ translate french d09s02_luggage_9e4a82c8:
 translate french d09s02_luggage_953d5374:
 
     # sb "Tattoos?"
-    sb "Des tatouages?"
+    sb "Des tatouages ?"
 
 # game/code/d09/d09s02.rpy:307
 translate french d09s02_luggage_cf1adef2:
@@ -561,7 +561,7 @@ translate french d09s02_luggage_42ff87df:
 translate french d09s02_luggage_2c5aa9e0:
 
     # sb "But yeah, if you can call that fucking, then I fucked him the other night."
-    sb "Mais oui, si on peut appeler ça baiser, alors je l'ai baisé l'autre soir.."
+    sb "Mais oui, si on peut appeler ça baiser, alors je l'ai baisé l'autre soir."
 
 # game/code/d09/d09s02.rpy:316
 translate french d09s02_luggage_49233834:
@@ -585,7 +585,7 @@ translate french d09s02_luggage_0788f38c:
 translate french d09s02_luggage_15164332:
 
     # sb "I thought I recognized you!"
-    sb "Je pensais t'avoir reconnu !"
+    sb "Je pense t'avoir reconnu !"
 
 # game/code/d09/d09s02.rpy:324
 translate french d09s02_luggage_e52d2726:
@@ -735,7 +735,7 @@ translate french d09s02_luggage_83010160:
 translate french d09s02_luggage_5f847c3a:
 
     # sb "Exactly!"
-    sb "Exact!"
+    sb "Exact !"
 
 # game/code/d09/d09s02.rpy:375
 translate french d09s02_luggage_dfe65b50:
@@ -765,7 +765,7 @@ translate french d09s02_luggage_8611f061:
 translate french d09s02_luggage_a3b3c69e:
 
     # mc "What? Why?"
-    mc "Quoi? Pourquoi?"
+    mc "Quoi ? Pourquoi ?"
 
 # game/code/d09/d09s02.rpy:387
 translate french d09s02_luggage_fd38ec25:
@@ -819,7 +819,7 @@ translate french d09s02_luggage_95463ff6:
 translate french d09s02_luggage_337a4903:
 
     # sb "What do you say?"
-    sb "Qu'en dis-tu?"
+    sb "Qu'en dis-tu ?"
 
 # game/code/d09/d09s02.rpy:406
 translate french d09s02_luggage_2b35b6fe:
@@ -849,13 +849,13 @@ translate french d09s02_luggage_5e05037f:
 translate french d09s02_luggage_c56e139a:
 
     # sb "Jeez, alright, fine. Since you've been such a {i}nice{/i} boy, I'll make it so that it's just one task. What do you say?"
-    sb "Bon sang, d'accord, très bien. Puisque tu es un garçon si {i}gentil{/i}, je vais faire en sorte que ce ne soit qu'une seule tâche. Qu'en dis-tu?"
+    sb "Bon sang, d'accord, très bien. Puisque tu es un garçon si {i}gentil{/i}, je vais faire en sorte que ce ne soit qu'une seule tâche. Qu'en dis-tu ?"
 
 # game/code/d09/d09s02.rpy:426
 translate french d09s02_luggage_240875bd:
 
     # sb "Jesus, fine, ya' big baby. I'll make it so that it's just one task. What do you say?"
-    sb "Bon Dieu, très bien, gros bébé. Je vais faire en sorte que ce ne soit qu'une seule tâche. Qu'en dis-tu?"
+    sb "Bon Dieu, très bien, gros bébé. Je vais faire en sorte que ce ne soit qu'une seule tâche. Qu'en dis-tu ?"
 
 # game/code/d09/d09s02.rpy:429
 translate french d09s02_luggage_d4ea2584:
@@ -897,13 +897,13 @@ translate french d09s02_luggage_0aa8076c:
 translate french d09s02_luggage_9721eb8c:
 
     # sb "Hm? From your expression, I feel like you know her. Do you?"
-    sb "Hein ? D'après ton expression, j'ai l'impression que tu la connais. Est-ce le cas?"
+    sb "Hein ? D'après ton expression, j'ai l'impression que tu la connais. Est-ce le cas ?"
 
 # game/code/d09/d09s02.rpy:453
 translate french d09s02_luggage_c604c6c5:
 
     # mc "Well, I'm not sure if I \"know\" her, but I {i}have{/i} met her."
-    mc "Eh bien, je ne suis pas sûr de la\"connaître\" , mais je {i}l'ai{/i} rencontrée."
+    mc "Eh bien, je ne pas dire que je la \"connaîs\" , mais je {i}l'ai{/i} déjà rencontrée."
 
 # game/code/d09/d09s02.rpy:455
 translate french d09s02_luggage_a70d4618:
@@ -915,7 +915,7 @@ translate french d09s02_luggage_a70d4618:
 translate french d09s02_luggage_903fb435:
 
     # mc "What exactly do you mean by \"prank\"?"
-    mc "Que veux-tu dire exactement par \"farce\"?"
+    mc "Que veux-tu dire exactement par \"farce\" ?"
 
 # game/code/d09/d09s02.rpy:461
 translate french d09s02_luggage_ce6d1a29:
@@ -939,13 +939,13 @@ translate french d09s02_luggage_ebf96e02:
 translate french d09s02_luggage_c27264d5:
 
     # sb "And considering what you've shown me today, I thought you'd be the perfect fit. I'm sure you'd enjoy some more...mature action as well, right?"
-    sb "Et compte tenu de ce que tu m'as montré aujourd'hui, j'ai pensé que tu serais la personne idéale. Je suis sûre que tu aprécira un moment plus... mature, n'est-ce pas ?"
+    sb "Et compte tenu de ce que tu m'as montré aujourd'hui, j'ai pensé que tu serais la personne idéale. Je suis sûre que tu apprécieras une femme plus... mature, n'est-ce pas ?"
 
 # game/code/d09/d09s02.rpy:474
 translate french d09s02_luggage_bb59a71a:
 
     # sb "So, I thought you could be it. You don't look too bad, I'd say pretty handsome even, and I'm sure you'd enjoy some more...mature action, right?"
-    sb "Donc, j'ai pensé que tu pourrais le faire. Tu n'as pas l'air trop mal, je dirais même plutôt beau, et je suis sûre que tu apprécierais une action plus... mature, n'est-ce pas ?"
+    sb "Donc, j'ai pensé que tu pourrais le faire. Tu n'as pas l'air trop mal, je dirais même plutôt beau, et je suis sûre que tu apprécieras une femme plus... mature, n'est-ce pas ?"
 
 # game/code/d09/d09s02.rpy:477
 translate french d09s02_luggage_1085199c:
@@ -957,7 +957,7 @@ translate french d09s02_luggage_1085199c:
 translate french d09s02_luggage_4dfada53:
 
     # sb "For one night, but yes."
-    sb "Pour une nuit, mais oui."
+    sb "Pour une nuit, oui."
 
 # game/code/d09/d09s02.rpy:481
 translate french d09s02_luggage_73a9d35a:
@@ -1065,7 +1065,7 @@ translate french d09s02_choice_548aaf0d:
 translate french d09s02_choice_ae45ad01:
 
     # mc "The rich & powerful woman... {w}But no dancing!"
-    mc "La femme riche et puissante... {w}Mais pas de danse!"
+    mc "La femme riche et puissante... {w}Mais pas de danse !"
 
 # game/code/d09/d09s02.rpy:536
 translate french d09s02_choice_94bb6f3b:
@@ -1077,7 +1077,7 @@ translate french d09s02_choice_94bb6f3b:
 translate french d09s02_choice_075d2b64:
 
     # mc "Sounding?"
-    mc "Une sonde?"
+    mc "Une sonde ?"
 
 # game/code/d09/d09s02.rpy:539
 translate french d09s02_choice_042be473:
@@ -1131,7 +1131,7 @@ translate french strings:
 
     # game/code/d09/d09s02.rpy:504
     old "Today! On \"Prank a M.I.L.F.\""
-    new "Aujourd'hui! on \"Prank une M.I.L.F.\""
+    new "Aujourd'hui! sur \"Surprends une M.I.L.F.\""
 
     # game/code/d09/d09s02.rpy:504
     old "Be a gigolo for a day"
