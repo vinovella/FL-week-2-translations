@@ -56,13 +56,13 @@ translate french d09s03_865c1f30:
 translate french d09s03_c0f38968:
 
     # lc "No acid spraying from their flowers burning your skin?"
-    lc "Aucune pulvérisation d'acide provenant de tes fleurs ne brûle ta peau ?"
+    lc "Aucun jet d'acide issue de leur fleur ne brûle ta peau ?"
 
 # game/code/d09/d09s03.rpy:78
 translate french d09s03_d81e1343:
 
     # mc "I don't think I've ever had that one."
-    mc "Je ne pense pas avoir jamais eu celui-là."
+    mc "Je ne pense pas avoir déjà eu celui-là."
 
 # game/code/d09/d09s03.rpy:80
 translate french d09s03_50e522dc:
@@ -92,7 +92,7 @@ translate french d09s03_a4e5a95b:
 translate french d09s03_1e1ddf9c:
 
     # mc "The aperitif?"
-    mc "L'apéro?"
+    mc "L'apéro ?"
 
 # game/code/d09/d09s03.rpy:93
 translate french d09s03_70ee68e3:
@@ -134,25 +134,25 @@ translate french d09s03_8110a01d:
 translate french d09s03_7c75e95b:
 
     # lc "They're wealthy. I'm just a useless trust fund kiddie until I make a name for myself."
-    lc "Ils sont riches. Je ne suis qu'un enfant inutile de fonds fiduciaires jusqu'à ce que je me fasse un nom."
+    lc "Ils sont riches. Je ne suis qu'un enfant inutile sans fonds fiduciaires jusqu'à ce que je me fasse un nom."
 
 # game/code/d09/d09s03.rpy:109
 translate french d09s03_2d0ecf0e:
 
     # mc "From the way business is going at that coffee shop after one appearance from you, I'd say you are well on your way."
-    mc "avec ce qui s'est passé au café, après un seul concert, je dirais que c'est qu'une question de temps."
+    mc "avec ce qui s'est passé au café, après un seul concert, je dirais que ce n'est qu'une question de temps."
 
 # game/code/d09/d09s03.rpy:112
 translate french d09s03_4c416ddd:
 
     # lc "You think so? {w}I keep thinking back on it and feeling embarrassed."
-    lc "Tu le crois ? {w}J'y repense sans cesse et je me sens gêné."
+    lc "Tu le crois ? {w}J'y repense sans cesse et je me sens gênée."
 
 # game/code/d09/d09s03.rpy:113
 translate french d09s03_f4314603:
 
     # mc "Embarrassed? You were phenomenal!"
-    mc "Gêné? Tu étais phénoménale !"
+    mc "Gênée ? Tu étais phénoménale !"
 
 # game/code/d09/d09s03.rpy:115
 translate french d09s03_11a5f90e:
@@ -170,7 +170,7 @@ translate french d09s03_34344b45:
 translate french d09s03_c17ef8ec:
 
     # mc "What's that?"
-    mc "Qu'est ce que c'est?"
+    mc "De quoi ?"
 
 # game/code/d09/d09s03.rpy:121
 translate french d09s03_369cfb49:
@@ -182,7 +182,7 @@ translate french d09s03_369cfb49:
 translate french d09s03_85d475fe:
 
     # mc "Of course!"
-    mc "Bien entendu!"
+    mc "Bien sûr !"
 
 # game/code/d09/d09s03.rpy:126
 translate french d09s03_044e7292:
@@ -200,13 +200,13 @@ translate french d09s03_a3ce470e:
 translate french d09s03_607f7c5b:
 
     # lc "Excusez-moi, je dois poudrer mon nez."
-    lc "Excusez-moi, je dois poudrer mon nez."
+    lc "Excusez-moi, je dois me repoudrer le nez."
 
 # game/code/d09/d09s03.rpy:134
 translate french d09s03_05500ff6:
 
     # mc "Huh?"
-    mc "Hein?"
+    mc "Hein ?"
 
 # game/code/d09/d09s03.rpy:136
 translate french d09s03_3a0d12d2:
@@ -272,7 +272,7 @@ translate french d09s03_e6fba0ba:
 translate french d09s03_59f5b92b:
 
     # mc "AmRose?"
-    mc "AmRose?"
+    mc "AmRose ?"
 
 # game/code/d09/d09s03.rpy:167
 translate french d09s03_d3dfc95c:
@@ -290,7 +290,7 @@ translate french d09s03_6a0b0629:
 translate french d09s03_5aaf5347:
 
     # mc "AmRose.{w}.. What are you doing here?"
-    mc "AmRose.{w}.. Que fais-tu ici?"
+    mc "AmRose.{w}.. Que fais-tu ici ?"
 
 # game/code/d09/d09s03.rpy:183
 translate french d09s03_81d0ece7:
@@ -302,25 +302,25 @@ translate french d09s03_81d0ece7:
 translate french d09s03_0e9013c7:
 
     # mc "Why is that?"
-    mc "Pourquoi?"
+    mc "Pourquoi ?"
 
 # game/code/d09/d09s03.rpy:186
 translate french d09s03_4fcf5f4f:
 
     # arj "Because it will sound like I'm insanely jealous and stalking you two on your date."
-    arj "Parce que j'aurai l'air incroyablement jaloux et que je vous traque à votre rendez-vous."
+    arj "Parce que j'aurai l'air incroyablement jalouse de te traquer à ton rendez-vous."
 
 # game/code/d09/d09s03.rpy:188
 translate french d09s03_c42b05ac:
 
     # mc "And?"
-    mc "Et?"
+    mc "Donc ?"
 
 # game/code/d09/d09s03.rpy:191
 translate french d09s03_042a5cd1:
 
     # arj "I don't want you to think that I'm jealous or stalking you two..."
-    arj "Je ne veux pas que tu penses que je suis jaloux ou que je vous traque tous les deux..."
+    arj "Je ne veux pas que tu penses que je suis jalouse ou que je vous traque tous les deux..."
 
 # game/code/d09/d09s03.rpy:192
 translate french d09s03_c446cecb:
@@ -338,7 +338,7 @@ translate french d09s03_20f49147:
 translate french d09s03_25f5fcf0:
 
     # mc "So, you actually are insanely jealous and stalking us on our date."
-    mc "Donc, en fait, tu es incroyablement jaloux et tu nous traques à notre rendez-vous."
+    mc "Donc, en fait, tu es incroyablement jalouse et tu nous traques jusqu'à notre rendez-vous."
 
 # game/code/d09/d09s03.rpy:198
 translate french d09s03_47fc2d1f:
@@ -350,7 +350,7 @@ translate french d09s03_47fc2d1f:
 translate french d09s03_e24f98aa:
 
     # arj "I'm sorry. I'm sorry. I don't mean to be crazy. It's just..."
-    arj "Désolé. Je suis désolé. Je ne veux pas être fou. C'est juste..."
+    arj "Désolé. Je suis désolé. Je ne veux pas être importune. C'est juste..."
 
 # game/code/d09/d09s03.rpy:203
 translate french d09s03_66b8bdb1:
@@ -386,7 +386,7 @@ translate french d09s03_6df11091:
 translate french d09s03_f1ca834c:
 
     # mc "Um, AmRose?"
-    mc "Um, AmRose?"
+    mc "Um, AmRose ?"
 
 # game/code/d09/d09s03.rpy:218
 translate french d09s03_827ca850:
@@ -398,13 +398,13 @@ translate french d09s03_827ca850:
 translate french replay_d09s03_6f6aecba:
 
     # mc "AmRose!"
-    mc "AmRose!"
+    mc "AmRose !"
 
 # game/code/d09/d09s03.rpy:230
 translate french replay_d09s03_ba2263c4:
 
     # arj "Yes, [mcname]?"
-    arj "Oui, [mcname]?"
+    arj "Oui, [mcname] ?"
 
 # game/code/d09/d09s03.rpy:232
 translate french replay_d09s03_4c900d01:
@@ -416,7 +416,7 @@ translate french replay_d09s03_4c900d01:
 translate french replay_d09s03_bfb293c3:
 
     # arj "What???{w} Oh shit oh shit oh shit."
-    arj "Quoi???{w} Oh merde, oh merde, oh merde."
+    arj "Quoi ???{w} Oh merde, oh merde, oh merde."
 
 # game/code/d09/d09s03.rpy:237
 translate french replay_d09s03_fe98d218:
@@ -428,7 +428,7 @@ translate french replay_d09s03_fe98d218:
 translate french replay_d09s03_a591804a:
 
     # arj "Hide! I must hide!"
-    arj "Cacher! Je dois me cacher !"
+    arj "Cacher ! Je dois me cacher !"
 
 # game/code/d09/d09s03.rpy:241
 translate french replay_d09s03_322265cb:
@@ -440,13 +440,13 @@ translate french replay_d09s03_322265cb:
 translate french replay_d09s03_919f7e4b:
 
     # arj "Ack! Panic!"
-    arj "Ack! Je panique!"
+    arj "Ahh ! Je panique !"
 
 # game/code/d09/d09s03.rpy:245
 translate french replay_d09s03_8098284d:
 
     # arj "Shhh... I'm hidden.{w} She can't see me."
-    arj "Voila... Je suis caché.{w} Elle ne peut pas me voir."
+    arj "Voila... Je suis cachée.{w} Elle ne peut pas me voir."
 
 # game/code/d09/d09s03.rpy:246
 translate french replay_d09s03_5ca3596d:
@@ -458,7 +458,7 @@ translate french replay_d09s03_5ca3596d:
 translate french replay_d09s03_ebae5473:
 
     # mc "*whisper* Slave! Listen to me!"
-    mc "*chuchote* Esclave ! Écoute moi!"
+    mc "*chuchote* Esclave ! Écoute moi !"
 
 # game/code/d09/d09s03.rpy:252
 translate french replay_d09s03_c50a4aed:
@@ -476,7 +476,7 @@ translate french replay_d09s03_5fe52325:
 translate french replay_d09s03_13fb859e:
 
     # arj "Panicpanicpanic"
-    arj "Je paniqueJe paniqueJe panique"
+    arj "Panique panique panique"
 
 # game/code/d09/d09s03.rpy:265
 translate french replay_d09s03_c7bd9eb1:
@@ -488,7 +488,7 @@ translate french replay_d09s03_c7bd9eb1:
 translate french replay_d09s03_8bb7829e:
 
     # arj "Ah ha!"
-    arj "Ah ha!"
+    arj "Ah ha !"
 
 # game/code/d09/d09s03.rpy:272
 translate french replay_d09s03_05d91e2c:
@@ -518,7 +518,7 @@ translate french replay_d09s03_f10d5bcb:
 translate french replay_d09s03_41794eca:
 
     # mc "I couldn't bear another minute without you."
-    mc "Je ne pourrais pas supporter une minute de plus sans toi."
+    mc "Je ne pouvais pas supporter une minute de plus sans toi."
 
 # game/code/d09/d09s03.rpy:291
 translate french replay_d09s03_7d25a7b3:
@@ -590,13 +590,13 @@ translate french replay_d09s03_94e52d59:
 translate french replay_d09s03_a5efac77:
 
     # mc "What? Here? In public?"
-    mc "Quoi? Ici? En public?"
+    mc "Quoi ? Ici ? En public ?"
 
 # game/code/d09/d09s03.rpy:338
 translate french replay_d09s03_c8529399:
 
     # lc "Loosen up... nobody can hear us..."
-    lc "Détendez-vous... personne ne peut nous entendre..."
+    lc "Détends-toi... personne ne peut nous entendre..."
 
 # game/code/d09/d09s03.rpy:348
 translate french replay_d09s03_e6799d34:
@@ -728,13 +728,13 @@ translate french replay_d09s03_54c1e44f:
 translate french replay_d09s03_970ea76c:
 
     # lc "What was it?"
-    lc "Qu'est-ce que c'était?"
+    lc "Qu'est-ce que c'était ?"
 
 # game/code/d09/d09s03.rpy:451
 translate french replay_d09s03_1069da09:
 
     # mc "At the bottom of the hole was this box. Someone must have buried it."
-    mc "Au fond du trou se trouvait cette boîte. Quelqu'un a dû l'enterrer."
+    mc "Au fond du trou se trouvait cette boîte. Quelqu'un avait dû l'enterrer."
 
 # game/code/d09/d09s03.rpy:452
 translate french replay_d09s03_89287b87:
@@ -758,13 +758,13 @@ translate french replay_d09s03_7591f9b5:
 translate french replay_d09s03_0a63f09c:
 
     # mc "That box weighed maybe 20 lbs. It took me all afternoon to dig it out of that hole and drag it someplace safe."
-    mc "Cette boîte pesait peut-être 10  killos. Il m'a fallu tout l'après-midi pour le sortir de ce trou et le transporter dans un endroit sûr."
+    mc "Cette boîte pesait peut-être 10 killos. Il m'a fallu tout l'après-midi pour la sortir de ce trou et la transporter dans un endroit sûr."
 
 # game/code/d09/d09s03.rpy:459
 translate french replay_d09s03_738a3d14:
 
     # lc "Why would you do that?"
-    lc "Pourquoi tu ferais ça?"
+    lc "Pourquoi tu ferais ça ?"
 
 # game/code/d09/d09s03.rpy:461
 translate french replay_d09s03_30ccb6cb:
@@ -818,13 +818,13 @@ translate french replay_d09s03_922484ca:
 translate french replay_d09s03_98daf7d3:
 
     # mc "And we build a foxhole with a little wall to prevent anyone seeing us from the road or their backyard."
-    mc "Et nous construisons un terrier avec un petit mur pour empêcher quiconque de nous voir depuis la route ou depuis son jardin."
+    mc "Et nous avons construit un terrier avec un petit mur pour empêcher quiconque de nous voir depuis la route ou depuis son jardin."
 
 # game/code/d09/d09s03.rpy:482
 translate french replay_d09s03_b02f9f89:
 
     # mc "And of course, pretty soon word got around and there were always a few of us \"playing\" in the woods looking at [d09s03_object!t]..."
-    mc "Et bien sûr, très vite, la nouvelle s'est répandue et nous étions toujours quelques-uns à \"jouer\" dans les bois à regarder [d09s03_object!t]..."
+    mc "Et bien sûr, très vite, la nouvelle s'est répandue et ils étaient toujours quelques-uns à \"jouer\" dans les bois à regarder [d09s03_object!t]..."
 
 # game/code/d09/d09s03.rpy:486
 translate french replay_d09s03_9da7b9fc:
@@ -848,7 +848,7 @@ translate french replay_d09s03_c45e770c:
 translate french replay_d09s03_3e2f7ebc:
 
     # mc "Like the kind where we all sat home playing board games by candlelight."
-    mc "le genre où nous étions tous assis à la maison et jouions à des jeux de société aux chandelles.."
+    mc "Nous étions tous assis à la maison et jouions à des jeux de société aux chandelles.."
 
 # game/code/d09/d09s03.rpy:492
 translate french replay_d09s03_3442f570:
@@ -866,19 +866,19 @@ translate french replay_d09s03_4bf39568:
 translate french replay_d09s03_6bf6bb9f:
 
     # lc "Maybe improvements to the electricity infrastructure?"
-    lc "Peut-être des améliorations aux infrastructures électriques ?"
+    lc "Peut-être des améliorations des infrastructures électriques ?"
 
 # game/code/d09/d09s03.rpy:500
 translate french replay_d09s03_4483d594:
 
     # mc "Maybe. The treehouse survived it, but the box of [d09s03_object!t] didn't. It somehow got knocked over in the wind and the contents were scattered all over the forest."
-    mc "Peut être. La cabane dans les arbres a survécu, mais pas la boîte de [d09s03_object!t]. D'une manière ou d'une autre, il a été renversé par le vent et son contenu a été dispersé partout dans la forêt."
+    mc "Peut être. La cabane dans les arbres a survécu, mais pas la boîte de [d09s03_object!t]. D'une manière ou d'une autre, elle a été renversée par le vent et son contenu a été dispersé partout dans la forêt."
 
 # game/code/d09/d09s03.rpy:501
 translate french replay_d09s03_a805dba6:
 
     # mc "And I do mean all over. Like the distance of a football field at least... [d09s03_object!t], all wet and soggy, covered in dirt and torn to shreds... they covered the forest floor like pornographic leaves."
-    mc "Et je veux dire partout. Au moins comme la distance d'un terrain de football... [d09s03_object!t], tout mouillés et détrempés, couverts de terre et déchirés en lambeaux... ils couvraient le sol de la forêt comme des feuilles pornographiques."
+    mc "Et je veux dire vraiment partout. Au moins sur la distance d'un terrain de football... les [d09s03_object!t] étaient toutes mouillées et détrempées, couvertes de terre et déchirées, en lambeaux... elles couvraient le sol de la forêt comme des feuilles pornographiques."
 
 # game/code/d09/d09s03.rpy:502
 translate french replay_d09s03_36058333:
@@ -968,13 +968,13 @@ translate french replay_d09s03_67f7cad6:
 translate french replay_d09s03_6c12bac9:
 
     # mc "I guess I'm not used to drinking.{w}.. vine."
-    mc "Je suppose que je n'ai pas l'habitude de boire.{w}.. vine."
+    mc "Je suppose que je n'ai pas l'habitude de boire.{w}.. du vin."
 
 # game/code/d09/d09s03.rpy:547
 translate french replay_d09s03_cf01fdc7:
 
     # lc "Are you trying for a cheesy Transylvanian accent?"
-    lc "Essayez-vous un accent ringard de Transylvanie ?"
+    lc "Essaye-tu un accent ringard de Transylvanie ?"
 
 # game/code/d09/d09s03.rpy:550
 translate french replay_d09s03_7eb713e6:
@@ -1016,25 +1016,25 @@ translate french replay_d09s03_0db5cf2d:
 translate french replay_d09s03_66734d9d:
 
     # mc "Maybe 90%% real memory mixed with 10%% nostalgic fantasy?"
-    mc "Peut-être 90%% de vrai souvenir mélangé à 10%% de fantasy nostalgique?"
+    mc "Peut-être 90%% de vrai souvenir mélangé à 10%% de fantasy nostalgique ?"
 
 # game/code/d09/d09s03.rpy:576
 translate french replay_d09s03_99a47f7a:
 
     # mc "Maybe 80%% real memory mixed with 20%% nostalgic fantasy?"
-    mc "Peut-être 80%% de vrai souvenir mélangé à 20%% de fantasy nostalgique?"
+    mc "Peut-être 80%% de vrai souvenir mélangé à 20%% de fantasy nostalgique ?"
 
 # game/code/d09/d09s03.rpy:578
 translate french replay_d09s03_d73c2203:
 
     # mc "Maybe 70%% real memory mixed with 30%% inebriated fantasy?"
-    mc "Peut-être 70%% de vrai souvenir mélangé à 30%% de fantasme en état d'ébriété?"
+    mc "Peut-être 70%% de vrai souvenir mélangé à 30%% de fantasme en état d'ébriété ?"
 
 # game/code/d09/d09s03.rpy:580
 translate french replay_d09s03_332841e7:
 
     # mc "Maybe 60%% real memory mixed with 40%% inebriated fantasy?"
-    mc "Peut-être 60%% de vrai souvenir mélangé à 40%% de fantasme en état d'ébriété?"
+    mc "Peut-être 60%% de vrai souvenir mélangé à 40%% de fantasme en état d'ébriété ?"
 
 # game/code/d09/d09s03.rpy:583
 translate french replay_d09s03_1505a571:
@@ -1058,7 +1058,7 @@ translate french replay_d09s03_2d541934:
 translate french replay_d09s03_13977be6:
 
     # mc "Perfect. Shall we go?"
-    mc "Parfait. On y va?"
+    mc "Parfait. On y va ?"
 
 # game/code/d09/d09s03.rpy:590
 translate french replay_d09s03_18ce0546:
@@ -1076,19 +1076,19 @@ translate french replay_d09s03_41739002:
 translate french replay_d09s03_4fc30be0:
 
     # lc "Have you ever tried spoken word poetry or gone to a storytelling contest?"
-    lc "Avez-vous déjà essayé la poésie orale ou participé à un concours de contes ?"
+    lc "As-tu déjà essayé la poésie orale ou participé à un concours de contes ?"
 
 # game/code/d09/d09s03.rpy:597
 translate french replay_d09s03_dd9fdea2:
 
     # lc "Have you ever considered painting abstract art or avant-garde poetry contests?"
-    lc "Avez-vous déjà pensé à peindre de l'art abstrait ou à participer à des concours de poésie d'avant-garde ?"
+    lc "As-tu déjà pensé à peindre de l'art abstrait ou à participer à des concours de poésie d'avant-garde ?"
 
 # game/code/d09/d09s03.rpy:599
 translate french replay_d09s03_84928f52:
 
     # mc "No, why?"
-    mc "Non, pourquoi?"
+    mc "Non, pourquoi ?"
 
 # game/code/d09/d09s03.rpy:600
 translate french replay_d09s03_48e333d9:
@@ -1118,7 +1118,7 @@ translate french strings:
 
     # game/code/d09/d09s03.rpy:358
     old "Pick a Pet"
-    new "Choisissez un animal de compagnie"
+    new "Choisis un animal de compagnie"
 
     # game/code/d09/d09s03.rpy:358
     old "Dog"
