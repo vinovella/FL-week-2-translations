@@ -1,4 +1,3 @@
-
 # game/code/d14p2/d14s19_sy.rpy:135
 translate spanish d14s19_sy_2c3af789:
 
@@ -927,7 +926,6 @@ translate spanish strings:
     old "I enjoyed the sex, but..."
     new "Disfruté del sexo, pero..."
 
-
 # game/code/d14p2/d14s19_sy.rpy:164
 translate spanish d14s19_sy_a0433917:
 
@@ -1203,3 +1201,4 @@ translate spanish d14s19_sy_end_4285d841:
 
     # sy "Also, now I imagine that AmRose is the bridesmaid wearing red."
     sy "Además, ahora me imagino que AmRose es la dama de honor vestida de rojo."
+

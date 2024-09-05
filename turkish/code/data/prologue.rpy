@@ -1,4 +1,3 @@
-
 translate turkish strings:
 
     # game/code/data/prologue.rpy:16

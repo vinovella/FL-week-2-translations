@@ -1,4 +1,3 @@
-
 # game/code/d12/d12s04.rpy:32
 translate malay d12s04_29002f0b:
 
@@ -826,7 +825,6 @@ translate malay strings:
     # game/code/d12/d12s04.rpy:476
     old "Take the plunge; be a considerate lover"
     new "Ambil risiko; jadi kekasih yang bertimbang rasa "
-
 
 # game/code/d12/d12s04.rpy:207
 translate malay replay_d12s04_f874a4ed:

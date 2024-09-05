@@ -1,4 +1,3 @@
-
 # game/code/d11/d11s05.rpy:25
 translate italian d11s05_d53e0c53:
 
@@ -356,7 +355,6 @@ translate italian strings:
     # game/code/d11/d11s05.rpy:141
     old "Do it. Find out the truth"
     new "Lo fai. Vuoi scoprire la verità"
-
 
 # game/code/d11/d11s05.rpy:140
 translate italian d11s05_791d313d:

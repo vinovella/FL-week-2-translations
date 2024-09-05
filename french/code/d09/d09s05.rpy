@@ -1,4 +1,3 @@
-
 # game/code/d09/d09s05.rpy:24
 translate french d09s05_ef5e49b3:
 

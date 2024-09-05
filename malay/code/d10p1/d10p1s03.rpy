@@ -1,4 +1,3 @@
-
 # game/code/d10p1/d10p1s03.rpy:11
 translate malay d10p1s03_2a4fa63e:
 
@@ -1236,3 +1235,4 @@ translate malay strings:
     # game/code/d10p1/d10p1s03.rpy:441
     old "Don't"
     new "Jangan"
+

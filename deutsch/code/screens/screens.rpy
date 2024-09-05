@@ -1,4 +1,3 @@
-
 translate deutsch strings:
 
     # game/code/screens/screens.rpy:331
@@ -25,7 +24,6 @@ translate deutsch strings:
     old "»"
     new "»"
 
-
 translate deutsch strings:
 
     # game/code/screens/screens.rpy:660
@@ -44,13 +42,11 @@ translate deutsch strings:
     old "Disabled"
     new "Deaktiviert"
 
-
 translate deutsch strings:
 
     # game/code/screens/screens.rpy:486
     old "Character Gallery"
     new "Character Gallerie"
-
 
 translate deutsch strings:
 
@@ -58,13 +54,11 @@ translate deutsch strings:
     old "Naming save file:"
     new "Benenne Speicherstand:"
 
-
 translate deutsch strings:
 
     # game/code/screens/screens.rpy:1028
     old "Low Memory Mode"
     new "Low Memory Modus"
-
 
 translate deutsch strings:
 
@@ -87,7 +81,6 @@ translate deutsch strings:
     # game/code/screens/screens.rpy:796
     old "Others"
     new "Andere"
-
 
 translate deutsch strings:
 

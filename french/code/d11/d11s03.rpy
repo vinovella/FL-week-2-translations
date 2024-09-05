@@ -1,4 +1,3 @@
-
 # game/code/d11/d11s03.rpy:6
 translate french d11s03_3d1dc366:
 
@@ -1670,5 +1669,4 @@ translate french strings:
     # game/code/d11/d11s03.rpy:317
     old "Laugh in Her Face"
     new "Lui rire au visage"
-
 

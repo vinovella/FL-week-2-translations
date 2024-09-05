@@ -1,4 +1,3 @@
-
 # game/code/d14/d14s03.rpy:5
 translate italian d14s03_e0ad0b38:
 
@@ -1384,7 +1383,6 @@ translate italian strings:
     # game/code/d14/d14s03.rpy:363
     old "Kiss her"
     new "La baci"
-
 
 # game/code/d14/d14s03.rpy:198
 translate italian d14s03_5f1c483b:

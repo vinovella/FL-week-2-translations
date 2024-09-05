@@ -1,4 +1,3 @@
-
 # game/code/d14p2/d14s15.rpy:13
 translate chinese d14s15_fc6e4a25:
 
@@ -610,3 +609,4 @@ translate chinese strings:
     # game/code/d14p2/d14s15.rpy:311
     old "No {#d14s15}"
     new "否 {#d14s15}"
+

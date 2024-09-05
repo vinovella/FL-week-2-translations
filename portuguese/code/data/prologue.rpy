@@ -1,4 +1,3 @@
-
 translate portuguese strings:
 
     # game/code/data/prologue.rpy:16
@@ -120,7 +119,6 @@ translate portuguese strings:
     # game/code/data/prologue.rpy:50
     old "Not_Mike"
     new "Not_Mike"
-
 
 translate portuguese strings:
 

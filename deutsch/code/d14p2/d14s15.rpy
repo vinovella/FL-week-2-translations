@@ -1,4 +1,3 @@
-
 # game/code/d14p2/d14s15.rpy:13
 translate deutsch d14s15_fc6e4a25:
 
@@ -606,7 +605,6 @@ translate deutsch strings:
     # game/code/d14p2/d14s15.rpy:221
     old "Maybe"
     new "Vielleicht"
-
 
 translate deutsch strings:
 

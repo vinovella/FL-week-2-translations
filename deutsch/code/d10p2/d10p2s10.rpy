@@ -1,4 +1,3 @@
-
 # game/code/d10p2/d10p2s10.rpy:5
 translate deutsch d10p2s10_d0cc5f7f:
 

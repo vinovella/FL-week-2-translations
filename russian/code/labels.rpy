@@ -1,4 +1,3 @@
-
 # game/code/labels.rpy:108
 translate russian after_credits_4092fc7e:
 

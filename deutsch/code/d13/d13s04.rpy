@@ -1,4 +1,3 @@
-
 # game/code/d13/d13s04.rpy:8
 translate deutsch d13s04_0bef8c27:
 
@@ -1010,3 +1009,4 @@ translate deutsch strings:
     # game/code/d13/d13s04.rpy:31
     old "No. I'm not a father"
     new "Nein. Ich bin kein Vater"
+

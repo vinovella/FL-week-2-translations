@@ -1,4 +1,3 @@
-
 # game/code/recap.rpy:53
 translate chinese d08s00_week1synopsis_9b6483a6:
 
@@ -358,7 +357,6 @@ translate chinese d08s00_week1synopsis_bb3abcff:
 
     # "Unfortunately, his coffee date with the love of his life was interrupted by AmRose..."
     "不幸的是，他与爱人的咖啡之约被爱洛丝打断了……"
-
 
 # game/code/recap.rpy:268
 translate chinese d08s00_week1synopsis_81d877e5:

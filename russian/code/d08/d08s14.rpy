@@ -1,4 +1,3 @@
-
 # game/code/d08/d08s14.rpy:5
 translate russian d08s14_2bbdcd9b:
 
@@ -1376,7 +1375,6 @@ translate russian strings:
     # game/code/d08/d08s14.rpy:178
     old "Yes, but..."
     new "Да, но..."
-
 
 # game/code/d08/d08s14.rpy:199
 translate russian d08s14_336ce5e2:

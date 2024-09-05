@@ -1,4 +1,3 @@
-
 # game/code/d09/extended/d09s07.rpy:54
 translate chinese d09s07_e733d4b9:
 

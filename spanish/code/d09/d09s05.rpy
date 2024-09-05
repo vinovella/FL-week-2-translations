@@ -1,4 +1,3 @@
-
 # game/code/d09/d09s05.rpy:37
 translate spanish d09s05_57f407bc:
 
@@ -799,7 +798,6 @@ translate spanish strings:
     old "Cover the whore"
     new "Cubre la puta"
 
-
 # game/code/d09/d09s05.rpy:32
 translate spanish d09s05_ef5e49b3:
 
@@ -841,3 +839,4 @@ translate spanish strings:
     # game/code/d09/d09s05.rpy:537
     old "\"Prank a M.I.L.F.\""
     new "\"Broma a la M.A.D.U.R.I.T.A.\""
+

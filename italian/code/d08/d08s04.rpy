@@ -1,4 +1,3 @@
-
 # game/code/d08/d08s04.rpy:22
 translate italian d08s04_01cc8f65:
 
@@ -22,7 +21,6 @@ translate italian replay_d08s04_3f8bc07a:
 
     # mc "You need to see this challenge as a marathon and not a race."
     mc "Devi vedere questa challenge come una maratona, e non una corsetta."
-
 
 # game/code/d08/d08s04.rpy:36
 translate italian d08s04_947e6559:
@@ -53,7 +51,6 @@ translate italian d08s04_673e9068:
 
     # mct "After all Hana is only interested in figuring out this situation - not scapegoating innocent people."
     mct "Dopotutto Hana è solo interessata a capire questa situazione, e non a incolpare persone innocenti."
-
 
 # Replay Label Lines ########################################################################
 

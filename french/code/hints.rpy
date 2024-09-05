@@ -1,4 +1,3 @@
-
 translate french strings:
 
     # game/code/hints.rpy:5

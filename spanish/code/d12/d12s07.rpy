@@ -1,4 +1,3 @@
-
 # game/code/d12/d12s07.rpy:4
 translate spanish d12s07_296981ed:
 
@@ -316,3 +315,4 @@ translate spanish d12s07_a8cbc9d9:
 
     # mc "We were in a crowded coffee shop and she got on stage to sing an amazing song just for me..."
     mc "Estábamos en una cafetería llena de gente y se subió al escenario para cantar una canción increíble sólo para mí..."
+

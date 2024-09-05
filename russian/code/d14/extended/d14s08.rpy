@@ -1,4 +1,3 @@
-
 # game/code/d14/extended/d14s08.rpy:50
 translate russian d14s08_383c46ec:
 
@@ -842,7 +841,6 @@ translate russian strings:
     # game/code/d14/extended/d14s08.rpy:433
     old "That's Enough"
     new "Этого достаточно"
-
 
 # game/code/d14/extended/d14s08.rpy:228
 translate russian d14s08_65d3d366:

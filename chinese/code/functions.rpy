@@ -1,4 +1,3 @@
-
 translate chinese strings:
 
     # game/code/functions.rpy:104
@@ -20,8 +19,6 @@ translate chinese strings:
     # game/code/functions.rpy:131
     old "The game will try to replay the scene\naccording to your current playthrough"
     new "游戏将根据您当前的玩法\n尝试重现场景"
-
-
 
 translate chinese strings:
 

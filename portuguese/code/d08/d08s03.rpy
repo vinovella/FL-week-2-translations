@@ -1,4 +1,3 @@
-
 # game/code/d08/d08s03.rpy:16
 translate portuguese d08s03_4ee8cc8f:
 
@@ -1302,7 +1301,6 @@ translate portuguese strings:
     # game/code/d08/d08s03.rpy:478
     old "It was an accident"
     new "Foi um acidente"
-
 
 # game/code/d08/d08s03.rpy:122
 translate portuguese d08s03_3a9860c7:

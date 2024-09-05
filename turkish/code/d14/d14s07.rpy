@@ -1,4 +1,3 @@
-
 # game/code/d14/d14s07.rpy:76
 translate turkish d14s07_01bc9165:
 

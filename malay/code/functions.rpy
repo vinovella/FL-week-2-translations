@@ -1,4 +1,3 @@
-
 translate malay strings:
 
     # game/code/functions.rpy:24
@@ -24,7 +23,6 @@ translate malay strings:
     # game/code/functions.rpy:156
     old "The game will try to replay the scene\naccording to your current playthrough"
     new "Permainan ini akan cuba memainkan semula adegan\nmengikut perkembangan permainan anda"
-
 
 translate malay strings:
 

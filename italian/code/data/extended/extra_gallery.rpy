@@ -1,4 +1,3 @@
-
 translate italian strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
@@ -145,20 +144,17 @@ translate italian strings:
     old "Make AmRose your secret girlfriend"
     new "Accetta AmRose come fidanzata segreta"
 
-
 translate italian strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Day 8: AmRose"
     new "8° giorno: AmRose"
 
-
 translate italian strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Day 9: Squizzle - Selfie"
     new "9° giorno: Squizzle - Selfie"
-
 
 translate italian strings:
 
@@ -465,3 +461,4 @@ translate italian strings:
     # game/code/data/extended/extra_gallery.rpy:15
     old "Be with the fewest number of people by the end of the week"
     new "Ritrovati con il minor numero di persone entro la fine della settimana"
+

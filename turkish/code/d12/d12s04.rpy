@@ -1,4 +1,3 @@
-
 # game/code/d12/d12s04.rpy:32
 translate turkish d12s04_29002f0b:
 

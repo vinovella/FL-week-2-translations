@@ -1,4 +1,3 @@
-
 translate deutsch strings:
 
     # game/code/data/extended/extra.rpy:15

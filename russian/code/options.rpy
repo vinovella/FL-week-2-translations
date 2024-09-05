@@ -1,4 +1,3 @@
-
 translate russian strings:
 
     # game/code/options.rpy:15

@@ -1,4 +1,3 @@
-
 # game/code/d14/d14s07.rpy:75
 translate malay d14s07_01bc9165:
 

@@ -1,4 +1,3 @@
-
 # game/code/d08/d08s14.rpy:4
 translate spanish d08s14_2bbdcd9b:
 

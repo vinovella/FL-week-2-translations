@@ -1,4 +1,3 @@
-
 # game/code/d12/d12s01.rpy:61
 translate spanish d12s01_43701264:
 

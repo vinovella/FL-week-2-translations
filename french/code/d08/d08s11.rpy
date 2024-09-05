@@ -1,4 +1,3 @@
-
 # game/code/d08/d08s11.rpy:7
 translate french d08s11_2fc7f19d:
 
@@ -179,7 +178,6 @@ translate french d08s11_77f2810e:
     # ceo "I am 100%% human, with a proper mother and father."
     ceo "Je suis 100%% humain, avec ma propre mère et mon propre père."
     
-
 # game/code/d08/d08s11.rpy:89
 translate french d08s11_379774b1:
 

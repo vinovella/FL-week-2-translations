@@ -1,4 +1,3 @@
-
 # game/code/d11/d11s05.rpy:25
 translate french d11s05_d53e0c53:
 
@@ -392,5 +391,4 @@ translate french strings:
     # game/code/d11/d11s05.rpy:171
     old "Do it. Find out the truth"
     new "Fais le. découvre la vérité"
-
 

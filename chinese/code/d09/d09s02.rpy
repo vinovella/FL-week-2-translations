@@ -1,4 +1,3 @@
-
 # game/code/d09/d09s02.rpy:23
 translate chinese d09s02_d3bd4739:
 
@@ -1145,7 +1144,6 @@ translate chinese strings:
     old "Nah, that's enough."
     new "不了，这就够了。"
 
-
 translate chinese strings:
 
     # game/code/d09/d09s02.rpy:469
@@ -1155,3 +1153,4 @@ translate chinese strings:
     # game/code/d09/d09s02.rpy:469
     old "Be a gigolo for a day"
     new "做一天牛郎"
+

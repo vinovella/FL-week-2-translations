@@ -1,4 +1,3 @@
-
 # game/code/d10p1/d10p1s03.rpy:11
 translate french d10p1s03_2a4fa63e:
 
@@ -1236,5 +1235,4 @@ translate french strings:
     # game/code/d10p1/d10p1s03.rpy:447
     old "Don't"
     new "ne pas aider"
-
 

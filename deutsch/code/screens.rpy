@@ -1,4 +1,3 @@
-
 translate deutsch_hidden strings:
 
     # game/screens.rpy:256
@@ -643,9 +642,9 @@ translate deutsch strings:
     old "Menu"
     new "Menü"
     
-
 translate deutsch strings:
 
     # game/screens.rpy:322
     old "Gallery"
     new "Gallerie"
+

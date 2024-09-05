@@ -1,4 +1,3 @@
-
 # game/code/d08/d08s06.rpy:9
 translate italian d08s06_026f7b87:
 
@@ -461,9 +460,9 @@ translate italian d08s06_ca44a1f9:
     # sy "Oh yeah, your lunch \"date\"."
     sy "Ah, sì, il nostro \"appuntamento\" a pranzo."
 
-
 # game/code/d08/d08s06.rpy:131
 translate italian d08s06_0be38e4b:
 
     # sa "Didn't you say that you are friends?"
     sa "Ma non avevate detto di essere suoi amici?"
+

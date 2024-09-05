@@ -1,4 +1,3 @@
-
 # game/code/d14/d14s07.rpy:75
 translate spanish d14s07_01bc9165:
 
@@ -718,3 +717,4 @@ translate spanish strings:
     # game/code/d14/d14s07.rpy:323
     old "Creampie Her Ass As Requested"
     new "Chorréale Su Culo Como Lo Pidió"
+

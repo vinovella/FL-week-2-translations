@@ -1,4 +1,3 @@
-
 # game/code/d14p2/d14s17.rpy:44
 translate deutsch d14s17_59571f7e:
 
@@ -472,3 +471,4 @@ translate deutsch strings:
     # game/code/d14p2/d14s17.rpy:271
     old "I don't have a phone with me"
     new "Ich habe kein Handy dabei"
+

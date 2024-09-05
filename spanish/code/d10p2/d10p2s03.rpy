@@ -1,4 +1,3 @@
-
 # game/code/d10p2/d10p2s03.rpy:53
 translate spanish d10p2s03_eac2f02e:
 
@@ -412,3 +411,4 @@ translate spanish d10p2s03_12bcd7f9:
 
     # tm "{i}That{/i}, well... Can't tell. It's a secret."
     tm "{i}Eso{/i}, bueno... No puedo decirlo. Es un secreto."
+

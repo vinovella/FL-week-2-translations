@@ -1,4 +1,3 @@
-
 # game/code/d14/d14s05.rpy:8
 translate italian d14s05_2bf3d221:
 
@@ -2066,7 +2065,6 @@ translate italian strings:
     # game/code/d14/d14s05.rpy:96
     old "Let Stacy Win"
     new "Lasci vincere Stacy"
-
 
 # game/code/d14/d14s05.rpy:267
 translate italian d14s05_e5c14757:

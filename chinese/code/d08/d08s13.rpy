@@ -1,4 +1,3 @@
-
 # game/code/d08/d08s13.rpy:72
 translate chinese d08s13_1b5ba849:
 
@@ -1106,3 +1105,4 @@ translate chinese strings:
     # game/code/d08/d08s13.rpy:141
     old "We would have to decide what to do about that"
     new "我们必须考虑下怎么处理这个问题"
+

@@ -1,4 +1,3 @@
-
 # game/code/d14/d14s01.rpy:6
 translate deutsch d14s01_09b2c302:
 
@@ -268,7 +267,6 @@ translate deutsch d14s01_2835e914:
 
     # sb "In your dreams! Hahahahaha..."
     sb "In deinen Träumen! Hahahahaha..."
-
 
 # game/code/d14/d14s01.rpy:91
 translate deutsch d14s01_79ee7a04:

@@ -1,4 +1,3 @@
-
 # game/code/d10/d10s05.rpy:7
 translate chinese d10s05_be2623d1:
 
@@ -1390,7 +1389,6 @@ translate chinese d10s05_replay_69fd61bb:
 
     # arj "Yep!"
     arj "好啊！"
-
 
 # game/code/d10/d10s05.rpy:364
 translate chinese d10s05_replay_95bf8394:

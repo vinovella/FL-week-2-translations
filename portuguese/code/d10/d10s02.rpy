@@ -1,4 +1,3 @@
-
 # game/code/d10/d10s02.rpy:11
 translate portuguese d10s02_f28413eb:
 
@@ -920,7 +919,6 @@ translate portuguese strings:
     # game/code/d10/d10s02.rpy:187
     old "Ask her if she wants to earn some points"
     new "Perguntar se ela quer uns pontos"
-
 
 # game/code/d10/d10s02.rpy:253
 translate portuguese d10s02_warning_dbc3fbdf:

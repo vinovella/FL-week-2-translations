@@ -1,4 +1,3 @@
-
 # game/code/d14/d14s03.rpy:5
 translate malay d14s03_e0ad0b38:
 
@@ -1384,7 +1383,6 @@ translate malay strings:
     # game/code/d14/d14s03.rpy:363
     old "Kiss her"
     new "Cium dia"
-
 
 # game/code/d14/d14s03.rpy:198
 translate malay d14s03_5f1c483b:

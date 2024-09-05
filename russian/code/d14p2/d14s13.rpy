@@ -1,4 +1,3 @@
-
 # game/code/d14p2/d14s13.rpy:7
 translate russian d14s13_d2c80bad:
 
@@ -478,7 +477,6 @@ translate russian d14s13_5af089f0:
 
     # hr "*Chuckles* You really remind me of my girlfriend."
     hr "*посмеиваясь* Ты напоминаешь мне мою подругу."
-
 
 # game/code/d14p2/d14s13.rpy:99
 translate russian d14s13_2abde1da:

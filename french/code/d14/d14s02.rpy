@@ -1,4 +1,3 @@
-
 # game/code/d14/d14s02.rpy:44
 translate french d14s02_2affa5f6:
 

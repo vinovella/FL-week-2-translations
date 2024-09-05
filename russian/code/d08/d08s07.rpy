@@ -1,4 +1,3 @@
-
 # game/code/d08/d08s07.rpy:6
 translate russian d08s07_ce6bbf32:
 
@@ -926,7 +925,6 @@ translate russian strings:
     # game/code/d08/d08s07.rpy:99
     old "You're both beautiful"
     new "Вы обе прекрасны"
-
 
 # game/code/d08/d08s07.rpy:310
 translate russian d08s07_f9a4640e:

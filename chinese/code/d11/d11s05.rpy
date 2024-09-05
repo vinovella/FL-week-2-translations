@@ -1,4 +1,3 @@
-
 # game/code/d11/d11s05.rpy:25
 translate chinese d11s05_d53e0c53:
 
@@ -356,7 +355,6 @@ translate chinese strings:
     # game/code/d11/d11s05.rpy:141
     old "Do it. Find out the truth"
     new "动手吧。找出真相"
-
 
 # game/code/d11/d11s05.rpy:140
 translate chinese d11s05_791d313d:

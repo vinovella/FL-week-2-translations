@@ -1,4 +1,3 @@
-
 # game/code/d11/d11s06.rpy:62
 translate spanish d11s06_d2790112:
 
@@ -454,3 +453,4 @@ translate spanish replay_d11s06_c0680056:
 
     # pw "...Thank you."
     pw "...Gracias."
+

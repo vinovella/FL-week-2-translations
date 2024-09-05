@@ -1,4 +1,3 @@
-
 # game/code/d08/d08s03.rpy:16
 translate chinese d08s03_4ee8cc8f:
 
@@ -1302,7 +1301,6 @@ translate chinese strings:
     # game/code/d08/d08s03.rpy:478
     old "It was an accident"
     new "这纯属意外吧"
-
 
 # game/code/d08/d08s03.rpy:122
 translate chinese d08s03_3a9860c7:

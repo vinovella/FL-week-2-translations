@@ -1,4 +1,3 @@
-
 # game/code/d10p1/d10p1s07.rpy:11
 translate portuguese d10p1s07_26261cfb:
 

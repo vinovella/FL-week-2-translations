@@ -1,4 +1,3 @@
-
 # game/code/d10p2/d10p2s04-dd.rpy:117
 translate french d10p2s04_dd_2cc05c46:
 
@@ -1674,5 +1673,4 @@ translate french strings:
     # game/code/d10p2/d10p2s04-dd.rpy:797
     old "Hold even more"
     new "Tenir encore plus"
-
 

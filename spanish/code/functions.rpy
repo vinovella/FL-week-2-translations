@@ -1,4 +1,3 @@
-
 translate spanish strings:
 
     # game/code/functions.rpy:97
@@ -21,13 +20,11 @@ translate spanish strings:
     old "The game will try to replay the scene\naccording to your current playthrough"
     new "El juego tratará de reproducir la escena\nde acuerdo con tu actual desarrollo"
 
-
 translate spanish strings:
 
     # game/code/functions.rpy:16
     old "New character unlocked in the pool"
     new "Nuevo personaje desbloqueado en la piscina"
-
 
 translate spanish strings:
 

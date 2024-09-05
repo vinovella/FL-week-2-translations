@@ -1,4 +1,3 @@
-
 # game/code/d10/d10s03.rpy:26
 translate french d10s03_68b91133:
 
@@ -635,3 +634,4 @@ translate french strings:
 
     old "Let's go"
     new "Allons-y"
+

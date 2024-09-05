@@ -1,4 +1,3 @@
-
 # game/code/d11/d11s02.rpy:28
 translate portuguese d11s02_4ee8cc8f:
 
@@ -1729,4 +1728,3 @@ translate portuguese strings:
     old "Decline. I want nothing more to do with Maria or Terrell"
     new "Recusar. Não quero mais nada com Maria ou Terrell"
 
-    

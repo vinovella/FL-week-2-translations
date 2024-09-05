@@ -1,4 +1,3 @@
-
 # game/code/d08/d08s06.rpy:11
 translate portuguese d08s06_026f7b87:
 

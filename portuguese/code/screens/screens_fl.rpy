@@ -1,4 +1,3 @@
-
 translate portuguese strings:
 
     # game/code/screens/screens_fl.rpy:99
@@ -41,7 +40,6 @@ translate portuguese strings:
     old "X-RAY"
     new "RAIO-X"
 
-
 translate portuguese strings:
 
     # game/code/screens/screens_fl.rpy:16
@@ -64,7 +62,6 @@ translate portuguese strings:
     old "SAVE"
     new "SALVAR"
 
-
 translate portuguese strings:
 
     # game/code/screens/screens_fl.rpy:245
@@ -83,20 +80,17 @@ translate portuguese strings:
     old "{u}Fill the questionnaire to play week [FLSS.week.cur] without loading a save{/u}"
     new "{u}Preencha o questionário para jogar a semana [FLSS.week.cur] sem carregar um save{/u}"
 
-
 translate portuguese strings:
 
     # game/code/screens/screens_fl.rpy:535
     old "SKIP RECAP"
     new "PULAR"
 
-
 translate portuguese strings:
 
     # game/code/screens/screens_fl.rpy:786
     old "SKIP"
     new "PULAR"
-
 
 translate portuguese strings:
 
@@ -113,7 +107,6 @@ translate portuguese strings:
     # game/code/screens/screens_fl.rpy:570
     old "Go back and enable {b}Trans Content{/b} to be able to select Lyssa"
     new "Go back and enable {b}Trans Content{/b} to be able to select Lyssa"
-
 
 translate portuguese strings:
 
@@ -213,7 +206,6 @@ translate portuguese strings:
     old "Confirm"
     new "Confirm"
 
-
 translate portuguese strings:
 
     # game/code/screens/screens_fl.rpy:884
@@ -224,7 +216,6 @@ translate portuguese strings:
     old "Close the game"
     new "Feche o jogo"
 
-
 translate portuguese strings:
 
     # game/code/screens/screens_fl.rpy:590
@@ -234,7 +225,6 @@ translate portuguese strings:
     # game/code/screens/screens_fl.rpy:888
     old "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
     new "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
-
 
 translate portuguese strings:
 

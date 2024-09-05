@@ -1,4 +1,3 @@
-
 # game/code/d08/d08s14.rpy:4
 translate deutsch d08s14_2bbdcd9b:
 
@@ -1376,7 +1375,6 @@ translate deutsch strings:
     # game/code/d08/d08s14.rpy:152
     old "Yes, but..."
     new "Ja, aber..."
-
 
 # game/code/d08/d08s14.rpy:199
 translate deutsch d08s14_336ce5e2:

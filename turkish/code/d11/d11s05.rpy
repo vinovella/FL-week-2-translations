@@ -1,4 +1,3 @@
-
 # game/code/d11/d11s05.rpy:25
 translate turkish d11s05_d53e0c53:
 

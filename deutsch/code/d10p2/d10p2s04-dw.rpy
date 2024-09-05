@@ -1,4 +1,3 @@
-
 # game/code/d10p2/d10p2s04-dw.rpy:51
 translate deutsch d10p2s04_dw_dbf77d44:
 
@@ -1181,9 +1180,9 @@ translate deutsch strings:
     old "Hold stronger"
     new "Halte länger durch"
 
-
 # game/code/d10p2/d10p2s04-dw.rpy:594
 translate deutsch d10p2s04_dwmc_dickslap_66332944:
 
     # mc "[mc_safeword!t]!"
     mc "[mc_safeword!t]!"
+

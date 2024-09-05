@@ -1,4 +1,3 @@
-
 # game/code/d08/prologue.rpy:63
 translate french prologue_fresh_start_4063ae17:
 

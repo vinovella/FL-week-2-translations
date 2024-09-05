@@ -1,4 +1,3 @@
-
 # game/code/d08/d08s08.rpy:4
 translate deutsch d08s08_e8de1932:
 
@@ -466,7 +465,6 @@ translate deutsch d08s08_2fff4bf6:
 
     # mc "Take it easy, and hey...{w} Thanks for trying."
     mc "Geh es einfach an und hey...{w} Danke fürs Probieren."
-
 
 # game/code/d08/d08s08.rpy:11
 translate deutsch d08s08_3098df80:

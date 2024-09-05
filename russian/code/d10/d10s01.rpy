@@ -1,4 +1,3 @@
-
 # game/code/d10/d10s01.rpy:5
 translate russian d10s01_c266f695:
 
@@ -256,7 +255,6 @@ translate russian d10s01_f1fb4a66:
 
     # mc "Exactly. Good morning and good night."
     mc "Вот именно. Доброе утро и спокойной ночи."
-
 
 # game/code/d10/d10s01.rpy:38
 translate russian d10s01_58c63989:

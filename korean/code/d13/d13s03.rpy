@@ -1,4 +1,3 @@
-
 # game/code/d13/d13s03.rpy:41
 translate korean d13s03_2bf3d221:
 

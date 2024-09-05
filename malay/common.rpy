@@ -1,4 +1,3 @@
-
 translate malay strings:
 
     # renpy/common/00accessibility.rpy:28
@@ -1223,7 +1222,6 @@ translate malay strings:
     old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
     new ""
 
-
 translate malay strings:
 
     # renpy/common/00action_other.rpy:703
@@ -1241,7 +1239,6 @@ translate malay strings:
     # renpy/common/00preferences.rpy:531
     old "mute main"
     new "mute main"
-
 
 translate malay strings:
 
@@ -1352,7 +1349,6 @@ translate malay strings:
     # renpy/common/00sync.rpy:631
     old "Sync Error"
     new "Sync Error"
-
 
 translate malay strings:
 

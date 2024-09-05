@@ -1,4 +1,3 @@
-
 # game/code/d12/d12s06.rpy:88
 translate turkish d12s06_b479bc74:
 

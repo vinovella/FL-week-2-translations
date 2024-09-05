@@ -1,4 +1,3 @@
-
 translate korean strings:
 
     # renpy/common/00accessibility.rpy:28
@@ -1153,7 +1152,6 @@ translate korean strings:
     old "Parsing the script failed."
     new "스크립트 분석 실패."
 
-
 translate korean strings:
 
     # renpy/common/00action_other.rpy:703
@@ -1171,7 +1169,6 @@ translate korean strings:
     # renpy/common/00preferences.rpy:531
     old "mute main"
     new "주 음소거"
-
 
 translate korean strings:
 
@@ -1286,3 +1283,4 @@ translate korean strings:
     # renpy/common/00sync.rpy:541
     old "No"
     new "아니오"
+

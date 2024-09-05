@@ -1,4 +1,3 @@
-
 # game/code/d12/d12s01.rpy:61
 translate italian d12s01_43701264:
 
@@ -1608,7 +1607,6 @@ translate italian strings:
     # game/code/d12/d12s01.rpy:650
     old "No photos"
     new "Niente foto"
-
 
 # game/code/d12/d12s01.rpy:235
 translate italian d12s01_1b9a042d:

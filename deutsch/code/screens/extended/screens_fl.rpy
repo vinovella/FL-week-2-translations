@@ -1,4 +1,3 @@
-
 translate deutsch strings:
 
     # game/code/screens/extended/screens_fl.rpy:11
@@ -25,16 +24,15 @@ translate deutsch strings:
     old "Page [page]"
     new "Seite [page]"
 
-
 translate deutsch strings:
 
     # game/code/screens/extended/screens_fl.rpy:23
     old "Bonus Content"
     new "Bonus Inhalt"
 
-
 translate deutsch strings:
 
     # game/code/screens/extended/screens_fl.rpy:46
     old "CLOSE"
     new "SCHLIEßEN"
+

@@ -1,4 +1,3 @@
-
 # game/code/d08/d08s14.rpy:5
 translate chinese d08s14_2bbdcd9b:
 
@@ -1376,7 +1375,6 @@ translate chinese strings:
     # game/code/d08/d08s14.rpy:168
     old "Yes, but..."
     new "是，但是……"
-
 
 # game/code/d08/d08s14.rpy:199
 translate chinese d08s14_336ce5e2:

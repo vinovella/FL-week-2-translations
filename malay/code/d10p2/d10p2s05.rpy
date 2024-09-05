@@ -1,4 +1,3 @@
-
 # game/code/d10p2/d10p2s05.rpy:65
 translate malay d10p2s05_255d6989:
 

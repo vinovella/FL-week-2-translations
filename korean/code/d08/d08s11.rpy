@@ -1,4 +1,3 @@
-
 # game/code/d08/d08s11.rpy:7
 translate korean d08s11_2fc7f19d:
 

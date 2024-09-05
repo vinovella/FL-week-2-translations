@@ -1,4 +1,3 @@
-
 translate spanish strings:
 
     # game/code/screens/screens.rpy:260
@@ -357,13 +356,11 @@ translate spanish strings:
     old "Menu"
     new "Menú"
 
-
 translate spanish strings:
 
     # game/code/screens/screens.rpy:486
     old "Character Gallery"
     new "Galería de Personajes"
-
 
 translate spanish strings:
 
@@ -371,13 +368,11 @@ translate spanish strings:
     old "Naming save file:"
     new "Nombrar el archivo de guardado:"
 
-
 translate spanish strings:
 
     # game/code/screens/screens.rpy:1028
     old "Low Memory Mode"
     new "Low Memory Mode"
-
 
 translate spanish strings:
 
@@ -410,7 +405,6 @@ translate spanish strings:
     # game/code/screens/screens.rpy:656
     old "Try our new game Taboo University"
     new "Try our new game Taboo University"
-
 
 translate spanish strings:
 

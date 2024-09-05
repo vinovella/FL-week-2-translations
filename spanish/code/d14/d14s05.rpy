@@ -1,4 +1,3 @@
-
 # game/code/d14/d14s05.rpy:8
 translate spanish d14s05_2bf3d221:
 
@@ -2066,7 +2065,6 @@ translate spanish strings:
     # game/code/d14/d14s05.rpy:96
     old "Let Stacy Win"
     new "Deja que Stacy gane"
-
 
 # game/code/d14/d14s05.rpy:267
 translate spanish d14s05_e5c14757:

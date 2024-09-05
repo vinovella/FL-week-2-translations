@@ -1,4 +1,3 @@
-
 translate russian strings:
 
     # game/code/d10p2/d10p2_free_roam.rpy:6

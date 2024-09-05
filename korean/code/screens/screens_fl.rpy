@@ -1,4 +1,3 @@
-
 translate korean strings:
 
     # game/code/screens/screens_fl.rpy:55
@@ -177,7 +176,6 @@ translate korean strings:
     old "Confirm"
     new "확인"
     
-
 translate korean strings:
 
     # game/code/screens/screens_fl.rpy:884
@@ -188,7 +186,6 @@ translate korean strings:
     old "Close the game"
     new "게임 종료"
 
-
 translate korean strings:
 
     # game/code/screens/screens_fl.rpy:590
@@ -198,7 +195,6 @@ translate korean strings:
     # game/code/screens/screens_fl.rpy:888
     old "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
     new "계속 진행하는 경우, 다른 주 사이의 저장 파일이 작동하지 않을 수 있습니다. 다시 경고를 받지 않게 됩니다. 괜찮겠습니까?"
-
 
 translate korean strings:
 

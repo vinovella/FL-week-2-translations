@@ -1,4 +1,3 @@
-
 # game/code/d08/prologue.rpy:57
 translate deutsch prologue_fresh_start_4063ae17:
 
@@ -127,7 +126,6 @@ translate deutsch strings:
     old "Her firm ass"
     new "Ihr fester Hintern"
 
-
 # game/code/d08/prologue.rpy:114
 translate deutsch prologue_girls_set_1_3502c4fc:
 
@@ -152,7 +150,6 @@ translate deutsch prologue_girls_set_3_746b6a7f:
     # "Last pair: do you prefer a top or a bottom? (Or neither, if they aren't your cup of tea)\nSelect up to one girl and press \"Done\"."
     "Letztes Paar: bevorzugst du ein Oberteil oder ein Unterteil? (Oder keins von beidem, wenn sie nicht dein Ding sind)\nWähle bis zu einem Mädchen aus und drücke auf \"Fertig\"."
 
-
 # game/code/d08/prologue.rpy:184
 translate deutsch prologue_nora_creampie_fcd0a635:
 
@@ -168,7 +165,6 @@ translate deutsch strings:
     # game/code/d08/prologue.rpy:186
     old "No, I didn't"
     new "Nein, habe ich nicht."
-
 
 # game/code/d08/prologue.rpy:121
 translate deutsch prologue_fetishes_7bc3a4e5:
@@ -193,3 +189,4 @@ translate deutsch prologue_fresh_start_d7ab3300:
 
     # "We see that you have already completed the first chapter. If you want to keep playing with all your game progress intact, open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} or on {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
     "Wir sehen, dass Sie das erste Kapitel bereits abgeschlossen haben. Wenn Sie mit Ihrem gesamten Spielfortschritt weiterspielen möchten, öffnen Sie das Menü, klicken Sie auf \"Weitermachen ab Woche [FLSS.week.prev]\" und Spielstand laden.\nIf wenn du ein Problem hast, kontaktiere uns bitte unter  {a=https://discord.gg/efmQRNtFks}Discord{/a} oder auf {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
+

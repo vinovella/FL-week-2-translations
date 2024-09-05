@@ -1,4 +1,3 @@
-
 # game/code/d11/d11s07.rpy:50
 translate malay d11s07_a362d45b:
 

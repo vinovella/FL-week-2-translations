@@ -1,4 +1,3 @@
-
 # game/code/d14p2/d14s11.rpy:23
 translate deutsch d14s11_68347417:
 
@@ -898,3 +897,4 @@ translate deutsch strings:
     # game/code/d14p2/d14s11.rpy:331
     old "Don't go with Allison"
     new "Folge Allison nicht"
+

@@ -1,4 +1,3 @@
-
 # game/code/d10p1/d10p1s04.rpy:3
 translate spanish d10p1s04_4f91c35e:
 
@@ -634,3 +633,4 @@ translate spanish d10p1s04_5702e34b:
 
     # arjfl "That's a good point..."
     arjfl "Ese es un buen punto..."
+

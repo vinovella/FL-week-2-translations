@@ -1,4 +1,3 @@
-
 # game/code/d08/d08s05.rpy:5
 translate spanish d08s05_06a950b5:
 
@@ -1209,9 +1208,9 @@ translate spanish strings:
     old "Yes, Mistress"
     new "Sí, Ama"
 
-
 # game/code/d08/d08s05.rpy:38
 translate spanish d08s05_b4dc6ce9:
 
     # sy "So... What's the plan?"
     sy "Entonces... ¿Cuál es el plan?"
+

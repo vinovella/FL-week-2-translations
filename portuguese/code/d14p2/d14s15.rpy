@@ -1,4 +1,3 @@
-
 # game/code/d14p2/d14s15.rpy:13
 translate portuguese d14s15_fc6e4a25:
 
@@ -607,9 +606,9 @@ translate portuguese strings:
     old "Maybe"
     new "Talvez"
 
-
 translate portuguese strings:
 
     # game/code/d14p2/d14s15.rpy:311
     old "No {#d14s15}"
     new "Não {#d14s15}"
+

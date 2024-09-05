@@ -1,4 +1,3 @@
-
 # game/code/d14p2/d14s15.rpy:13
 translate italian d14s15_fc6e4a25:
 

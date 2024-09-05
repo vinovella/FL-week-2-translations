@@ -1,4 +1,3 @@
-
 # game/code/d14/d14s05.rpy:8
 translate deutsch d14s05_2bf3d221:
 
@@ -1058,7 +1057,6 @@ translate deutsch d14s05_90fb96ff:
 # game/code/d14/d14s05.rpy:371
 translate deutsch d14s05_c801639f:
 
-
     # mc "I'm happy to see you again."
     mc "Ich freue mich, dich wiederzusehen."
 
@@ -2067,7 +2065,6 @@ translate deutsch strings:
     # game/code/d14/d14s05.rpy:96
     old "Let Stacy Win"
     new "Lass Stacy gewinnen"
-
 
 # game/code/d14/d14s05.rpy:267
 translate deutsch d14s05_e5c14757:

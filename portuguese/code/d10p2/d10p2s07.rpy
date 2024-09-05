@@ -1,4 +1,3 @@
-
 # game/code/d10p2/d10p2s07.rpy:7
 translate portuguese d10p2s07_f239d031:
 

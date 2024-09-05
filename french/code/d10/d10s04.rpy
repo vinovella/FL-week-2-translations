@@ -1,4 +1,3 @@
-
 # game/code/d10/d10s04.rpy:82
 translate french d10s04_0d4d03ce:
 
@@ -1394,5 +1393,4 @@ translate french strings:
     # game/code/d10/d10s04.rpy:553
     old "Not my thing"
     new "Pas mon truc"
-
 

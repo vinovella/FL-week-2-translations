@@ -1,4 +1,3 @@
-
 translate italian strings:
 
     # game/code/functions.rpy:109
@@ -33,13 +32,11 @@ translate italian strings:
     old "The game will try to replay the scene\naccording to your current playthrough"
     new "La scena sarà replicata cercando\ndi rispettare le tue scelte nel gioco"
 
-
 translate italian strings:
 
     # game/code/functions.rpy:16
     old "New character unlocked in the pool"
     new "Nuovo personaggio sbloccato in piscina"
-
 
 translate italian strings:
 

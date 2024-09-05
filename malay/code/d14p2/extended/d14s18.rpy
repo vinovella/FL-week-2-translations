@@ -1,4 +1,3 @@
-
 # game/code/d14p2/extended/d14s18.rpy:48
 translate malay d14s18_2dcfd52b:
 

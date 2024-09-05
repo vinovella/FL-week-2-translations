@@ -1,4 +1,3 @@
-
 # game/code/d08/d08s01.rpy:16
 translate italian d08s01_a38e2739:
 
@@ -439,7 +438,6 @@ translate italian replay_d08s01_96d7486d:
     # mc "No, no! Wait your turn. I'll be quick."
     mc "No, no! Aspetta il tuo turno. Faccio in fretta."
 
-
 translate italian strings:
 
     # game/code/d08/d08s01.rpy:87
@@ -450,7 +448,6 @@ translate italian strings:
     old "Let Stacy bathe with you"
     new "Fai fare a Stacy la doccia con te"
     
-
 # game/code/d08/d08s01.rpy:56
 translate italian d08s01_0370dbe7:
 
@@ -462,3 +459,4 @@ translate italian d08s01_bathe_b4583873:
 
     # sy "You want AmRose to be happy... {w}and so do I."
     sy "Vuoi rendere felice AmRose...{w} e anch'io lo voglio."
+

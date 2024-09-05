@@ -1,4 +1,3 @@
-
 translate korean strings:
 
     # game/code/functions.rpy:59

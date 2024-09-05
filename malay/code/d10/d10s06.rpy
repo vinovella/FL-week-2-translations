@@ -1,4 +1,3 @@
-
 # game/code/d10/d10s06.rpy:6
 translate malay d10s06_3797c0e5:
 
@@ -304,3 +303,4 @@ translate malay d10s06_38cf5d59:
 
     # mc "Right? That woman sure knows how to make a good cup of Joe."
     mc "Kan? Dia memang pandai kalau bab kopi."
+

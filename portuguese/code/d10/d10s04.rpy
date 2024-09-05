@@ -1,4 +1,3 @@
-
 # game/code/d10/d10s04.rpy:82
 translate portuguese d10s04_0d4d03ce:
 

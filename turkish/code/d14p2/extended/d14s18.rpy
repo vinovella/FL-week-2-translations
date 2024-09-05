@@ -1,4 +1,3 @@
-
 # game/code/d14p2/extended/d14s18.rpy:51
 translate turkish d14s18_2dcfd52b:
 

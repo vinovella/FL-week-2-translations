@@ -1,4 +1,3 @@
-
 translate russian strings:
 
     # game/code/functions.rpy:24
@@ -24,7 +23,6 @@ translate russian strings:
     # game/code/functions.rpy:160
     old "The game will try to replay the scene\naccording to your current playthrough"
     new "Повтор будет воспроизведен как в вашем последнем прохождении"
-
 
 translate russian strings:
 

@@ -1,4 +1,3 @@
-
 # game/code/d08/d08s01.rpy:16
 translate deutsch d08s01_a38e2739:
 
@@ -387,7 +386,6 @@ translate deutsch strings:
     old "Let Stacy bathe with you"
     new "Lass Stacy mit dir baden"
 
-
 # game/code/d08/d08s01.rpy:36
 translate deutsch d08s01_b602ab1e:
 
@@ -459,3 +457,4 @@ translate deutsch d08s01_bathe_b4583873:
 
     # sy "You want AmRose to be happy... {w}and so do I."
     sy "Du möchtest AmRose glücklich machen... {w}und das will ich auch."
+

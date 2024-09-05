@@ -1,4 +1,3 @@
-
 # game/code/d08/d08s07.rpy:6
 translate malay d08s07_ce6bbf32:
 
@@ -926,7 +925,6 @@ translate malay strings:
     # game/code/d08/d08s07.rpy:88
     old "You're both beautiful"
     new "Korang berdua cantik"
-
 
 # game/code/d08/d08s07.rpy:310
 translate malay d08s07_f9a4640e:

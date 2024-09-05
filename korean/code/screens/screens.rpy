@@ -1,4 +1,3 @@
-
 translate korean strings:
 
     # game/code/screens/screens.rpy:272
@@ -365,7 +364,6 @@ translate korean strings:
     old "Menu"
     new "메뉴"
 
-
 translate korean strings:
 
     # game/code/screens/screens.rpy:653
@@ -375,7 +373,6 @@ translate korean strings:
     # game/code/screens/screens.rpy:656
     old "Try our new game Taboo University"
     new "Try our new game Taboo University"
-
 
 translate korean strings:
 

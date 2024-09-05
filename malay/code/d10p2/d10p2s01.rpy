@@ -1,4 +1,3 @@
-
 # game/code/d10p2/d10p2s01.rpy:59
 translate malay d10p2s01_c52271c1:
 
@@ -764,3 +763,4 @@ translate malay strings:
     # game/code/d10p2/d10p2s01.rpy:140
     old "Prepare for Main Event"
     new "Bersedia untuk acara utama"
+

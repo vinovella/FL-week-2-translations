@@ -1,4 +1,3 @@
-
 # game/code/d11/d11s07.rpy:50
 translate chinese d11s07_a362d45b:
 

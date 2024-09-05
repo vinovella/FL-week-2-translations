@@ -1,4 +1,3 @@
-
 translate korean strings:
 
     old "Fetish Locator"
@@ -174,3 +173,4 @@ translate korean strings:
 
     old "Judge"
     new "판사"
+

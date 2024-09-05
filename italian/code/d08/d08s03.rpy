@@ -1,4 +1,3 @@
-
 # game/code/d08/d08s03.rpy:19
 translate italian d08s03_4ee8cc8f:
 
@@ -715,7 +714,6 @@ translate italian strings:
     old "It was an accident"
     new "Era stato un incidente"
 
-
 # game/code/d08/d08s03.rpy:41
 translate italian d08s03_20ef59dd:
 
@@ -752,9 +750,7 @@ translate italian d08s03_end_6bf3ab4e:
     # mct "Alright, time to meet Squizzle at the toilet."
     mct "Va bene, devo andare in bagno con Squizzle."
 
-
 # Replay Label Lines ###################################################################################
-
 
 # game/code/d08/d08s03.rpy:272
 translate italian replay_d08s03_e3ebb20d:

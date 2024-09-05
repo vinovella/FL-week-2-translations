@@ -1,4 +1,3 @@
-
 # game/code/d08/d08s02.rpy:7
 translate spanish d08s02_7ed15712:
 
@@ -718,3 +717,4 @@ translate spanish d08s02_d4dcfd6e:
 
     # arj "I'll see you in class."
     arj "Te veré en clases."
+

@@ -1,4 +1,3 @@
-
 # game/code/d10p2/d10p2s04.rpy:34
 translate chinese d10p2s04_adc829f6:
 

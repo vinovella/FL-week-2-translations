@@ -1,4 +1,3 @@
-
 # game/code/d10p2/d10p2s01.rpy:59
 translate deutsch d10p2s01_c52271c1:
 
@@ -759,9 +758,9 @@ translate deutsch strings:
     old "Prepare for Main Event"
     new "Bereite dich auf das Hauptevent vor"
 
-
 # game/code/d10p2/d10p2s01.rpy:113
 translate deutsch d10p2s01_a55c5cb4:
 
     # dd "Just come outside. We will be waiting for you there!"
     dd "Komm einfach raus. Wir werden da auf dich warten!"
+

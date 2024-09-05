@@ -1,4 +1,3 @@
-
 translate chinese strings:
 
     # game/code/hints.rpy:5
@@ -628,7 +627,6 @@ translate chinese strings:
     # game/code/hints.rpy:5
     old "No hints available."
     new "无可用提示。"
-
 
 translate chinese strings:
 

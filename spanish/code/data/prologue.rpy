@@ -1,4 +1,3 @@
-
 translate spanish strings:
 
     # game/code/data/prologue.rpy:16

@@ -1,4 +1,3 @@
-
 # game/code/d10/d10s05.rpy:7
 translate korean d10s05_be2623d1:
 

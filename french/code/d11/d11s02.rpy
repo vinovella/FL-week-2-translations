@@ -1,4 +1,3 @@
-
 # game/code/d11/d11s02.rpy:27
 translate french d11s02_4ee8cc8f:
 
@@ -1728,5 +1727,4 @@ translate french strings:
     # game/code/d11/d11s02.rpy:654
     old "Decline. I want nothing more to do with Maria or Terrell"
     new "refuser. Je ne veux plus rien avoir à faire avec Maria ou Terrell"
-
 

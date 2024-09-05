@@ -1,4 +1,3 @@
-
 translate malay strings:
 
     # game/code/screens/screens.rpy:260
@@ -357,13 +356,11 @@ translate malay strings:
     old "Menu"
     new "Menu"
 
-
 translate malay strings:
 
     # game/code/screens/screens.rpy:486
     old "Character Gallery"
     new "Galeri Watak"
-
 
 translate malay strings:
 
@@ -371,13 +368,11 @@ translate malay strings:
     old "Naming save file:"
     new "Menamakan fail simpanan:"
 
-
 translate malay strings:
 
     # game/code/screens/screens.rpy:1028
     old "Low Memory Mode"
     new "Mod Memori Rendah"
-
 
 translate malay strings:
 
@@ -410,7 +405,6 @@ translate malay strings:
     # game/code/screens/screens.rpy:656
     old "Try our new game Taboo University"
     new "Try our new game Taboo University"
-
 
 translate malay strings:
 

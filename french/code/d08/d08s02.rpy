@@ -1,4 +1,3 @@
-
 # game/code/d08/d08s02.rpy:10
 translate french d08s02_7ed15712:
 

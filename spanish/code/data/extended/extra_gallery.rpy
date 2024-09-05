@@ -1,17 +1,14 @@
-
 translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Day 8: AmRose"
     new "Día 8: AmRose"
 
-
 translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Day 9: Squizzle - Selfie"
     new "Día 9: Squizzle - Selfie"
-
 
 translate spanish strings:
 
@@ -318,3 +315,4 @@ translate spanish strings:
     # game/code/data/extended/extra_gallery.rpy:15
     old "Be with the fewest number of people by the end of the week"
     new "Estar con el menor número de personas al final de la semana"
+

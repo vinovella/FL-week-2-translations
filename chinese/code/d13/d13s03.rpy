@@ -1,4 +1,3 @@
-
 # game/code/d13/d13s03.rpy:41
 translate chinese d13s03_2bf3d221:
 
@@ -497,9 +496,9 @@ translate chinese d13s03_end_a95fe941:
     # mct "*Sign* Well there goes [d12_cost_of_blitz] points down the drain."
     mct "*叹气* [d12_cost_of_blitz]个点数就这样泡汤了。"
 
-
 # game/code/d13/d13s03.rpy:345
 translate chinese replay_d13s03_2dacc73c:
 
     # ir "But I want you to cum several times in my panties next time. That is...{w} That turns me on!"
     ir "但我希望下次你能在我内裤里多来几发。那感觉真是……{w}我会很兴奋的！"
+

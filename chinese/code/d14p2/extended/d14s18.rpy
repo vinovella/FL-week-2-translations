@@ -1,4 +1,3 @@
-
 # game/code/d14p2/extended/d14s18.rpy:48
 translate chinese d14s18_2dcfd52b:
 
@@ -424,7 +423,6 @@ translate chinese replay_d14s18_adb4d09a:
 
     # mc "I'll be around if you need me."
     mc "有需要就叫我，我会在附近的。"
-
 
 # game/code/d14p2/extended/d14s18.rpy:142
 translate chinese d14s18_f28d21c8:

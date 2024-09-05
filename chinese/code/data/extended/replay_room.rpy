@@ -1,4 +1,3 @@
-
 translate chinese strings:
 
     # game/code/data/extended/replay_room.rpy:15
@@ -40,7 +39,6 @@ translate chinese strings:
     # game/code/data/extended/replay_room.rpy:15
     old "Don't creampie Nora"
     new "不在诺拉体内射精"
-
 
 translate chinese strings:
 
@@ -136,7 +134,6 @@ translate chinese strings:
     old "Party 2: Allison and Squizzle"
     new "派对二：艾莉森和斯奎兹"
 
-
 translate chinese strings:
 
     # game/code/data/extended/replay_room.rpy:15
@@ -226,7 +223,6 @@ translate chinese strings:
     # game/code/data/extended/replay_room.rpy:15
     old "Day 13: Stacy"
     new "第十三天：史黛西"
-
 
 translate chinese strings:
 

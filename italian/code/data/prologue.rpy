@@ -1,4 +1,3 @@
-
 translate italian strings:
 
     # game/code/data/prologue.rpy:14
@@ -109,7 +108,6 @@ translate italian strings:
     old "Scat"
     new "Scat"
 
-
 translate italian strings:
 
     # game/code/data/prologue.rpy:16
@@ -119,7 +117,6 @@ translate italian strings:
     # game/code/data/prologue.rpy:16
     old "The close childhood friend"
     new "L'amica d'infanzia"
-
 
 translate italian strings:
 

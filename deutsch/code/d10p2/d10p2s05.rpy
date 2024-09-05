@@ -1,4 +1,3 @@
-
 # game/code/d10p2/d10p2s05.rpy:65
 translate deutsch d10p2s05_255d6989:
 
@@ -1068,3 +1067,4 @@ translate deutsch strings:
     # game/code/d10p2/d10p2s05.rpy:868
     old "Outside"
     new "Auf ihr"
+

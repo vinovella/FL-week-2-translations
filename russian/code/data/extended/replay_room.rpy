@@ -1,4 +1,3 @@
-
 translate russian strings:
 
     # game/code/data/extended/replay_room.rpy:15

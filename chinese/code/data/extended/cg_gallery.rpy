@@ -1,4 +1,3 @@
-
 translate chinese strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
@@ -137,7 +136,6 @@ translate chinese strings:
     old "Don't lie to Lydia"
     new "不对莉迪亚撒谎"
 
-
 translate chinese strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
@@ -240,7 +238,6 @@ translate chinese strings:
     old "Don't intervene"
     new "不要插手"
 
-
 translate chinese strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
@@ -283,13 +280,11 @@ translate chinese strings:
     old "Day 13: Vanessa"
     new "第十三天：瓦妮莎"
 
-
 translate chinese strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Safewords are for noobs"
     new "安全词是给新手用的"
-
 
 translate chinese strings:
 

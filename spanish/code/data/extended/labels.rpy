@@ -1,4 +1,3 @@
-
 translate spanish strings:
 
     # game/code/data/extended/labels.rpy:7

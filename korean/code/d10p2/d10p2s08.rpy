@@ -1,4 +1,3 @@
-
 # game/code/d10p2/d10p2s08.rpy:30
 translate korean d10p2s08_42ace476:
 

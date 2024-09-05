@@ -1,4 +1,3 @@
-
 # game/code/d14p2/d14s15.rpy:15
 translate korean d14s15_fc6e4a25:
 
@@ -607,9 +606,9 @@ translate korean strings:
     old "Maybe"
     new "아마도"
 
-
 translate korean strings:
 
     # game/code/d14p2/d14s15.rpy:311
     old "No {#d14s15}"
     new "아니다 {#d14s15}"
+

@@ -1,4 +1,3 @@
-
 # game/code/d12/d12s01.rpy:61
 translate portuguese d12s01_43701264:
 
@@ -1608,7 +1607,6 @@ translate portuguese strings:
     # game/code/d12/d12s01.rpy:855
     old "No photos"
     new "Sem fotos"
-
 
 # game/code/d12/d12s01.rpy:235
 translate portuguese d12s01_1b9a042d:

@@ -1,4 +1,3 @@
-
 translate italian strings:
 
     # game/code/data/replay_room.rpy:12
@@ -313,7 +312,6 @@ translate italian strings:
     old "Take a picture of AmRose's foot"
     new "Scatta una foto al piede di AmRose"
 
-
 translate italian strings:
 
     # game/code/data/extended/replay_room.rpy:15
@@ -351,7 +349,6 @@ translate italian strings:
     # game/code/data/extended/replay_room.rpy:15
     old "Dominate Lyssa"
     new "Domina Lyssa"
-
 
 translate italian strings:
 
@@ -438,7 +435,6 @@ translate italian strings:
     # game/code/data/extended/replay_room.rpy:15
     old "Party 2: Allison and Squizzle"
     new "Party 2: Allison e Squizzle"
-
 
 translate italian strings:
 
@@ -529,7 +525,6 @@ translate italian strings:
     # game/code/data/extended/replay_room.rpy:15
     old "Day 13: Stacy"
     new "13° giorno: Stacy"
-
 
 translate italian strings:
 

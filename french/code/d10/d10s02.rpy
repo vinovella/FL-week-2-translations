@@ -1,4 +1,3 @@
-
 # game/code/d10/d10s02.rpy:11
 translate french d10s02_f28413eb:
 
@@ -926,3 +925,4 @@ translate french strings:
     # game/code/d10/d10s02.rpy:201
     old "Ask her if she wants to earn some points"
     new "Demandez-lui si elle veut gagner quelques points"
+

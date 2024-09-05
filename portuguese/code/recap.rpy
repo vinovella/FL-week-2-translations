@@ -1,4 +1,3 @@
-
 # game/code/recap.rpy:53
 translate portuguese d08s00_week1synopsis_9b6483a6:
 
@@ -916,7 +915,6 @@ translate portuguese d08s00_week1synopsis_7c59af2b:
 
     # "No more waiting! Let's get into Week 2..."
     "Sem mais espera! Vamos começar a segunda semana..."
-
 
 # game/code/recap.rpy:277
 translate portuguese d08s00_week1synopsis_f49a455e:

@@ -1,4 +1,3 @@
-
 # game/code/d13/extended/d13s02.rpy:36
 translate turkish d13s02_acea7575:
 

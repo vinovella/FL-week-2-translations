@@ -1,4 +1,3 @@
-
 # game/code/d10p2/d10p2s01.rpy:59
 translate spanish d10p2s01_c52271c1:
 
@@ -759,9 +758,9 @@ translate spanish strings:
     old "Prepare for Main Event"
     new "Preparar el evento principal"
 
-
 # game/code/d10p2/d10p2s01.rpy:113
 translate spanish d10p2s01_a55c5cb4:
 
     # dd "Just come outside. We will be waiting for you there!"
     dd "Sólo tienes que salir a la calle. Te estaremos esperando allí."
+

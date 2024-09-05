@@ -1,4 +1,3 @@
-
 translate deutsch strings:
 
     # game/code/data/extended/cg_gallery.rpy:15
@@ -225,7 +224,6 @@ translate deutsch strings:
     old "Day 7: Evening"
     new "Tag 7: Abend"
 
-
 translate deutsch strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
@@ -248,20 +246,17 @@ translate deutsch strings:
     old "Day 6: Jessie (park)"
     new "Tag 6: Jessie (Park)"
 
-
 translate deutsch strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "You must have helped Kevin and respected AmRose privacy"
     new "Du musst Kevin helfen und AmRose's Privatsphäre akzeptieren"
 
-
 translate deutsch strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Flirt with Vanessa"
     new "Flirte mit Vanessa"
-
 
 translate deutsch strings:
 
@@ -392,7 +387,6 @@ translate deutsch strings:
     # game/code/data/extended/cg_gallery.rpy:21
     old "Don't lie to Lydia"
     new "Lüg Lydia nicht an"
-
 
 translate deutsch strings:
 
@@ -544,13 +538,11 @@ translate deutsch strings:
     old "Day 13: Vanessa"
     new "Tag 13: Vanessa"
 
-
 translate deutsch strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Safewords are for noobs"
     new "Safewords sind für Schwächlinge"
-
 
 translate deutsch strings:
 
@@ -573,3 +565,4 @@ translate deutsch strings:
     # game/code/data/extended/cg_gallery.rpy:21
     old "Party 3: Participants"
     new "Party 3: Teilnehmer"
+

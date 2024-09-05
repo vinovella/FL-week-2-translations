@@ -1,4 +1,3 @@
-
 translate italian strings:
 
     # game/code/data/extended/labels.rpy:12

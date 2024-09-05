@@ -1,4 +1,3 @@
-
 translate malay strings:
 
     # game/code/credit_sprites.rpy:7

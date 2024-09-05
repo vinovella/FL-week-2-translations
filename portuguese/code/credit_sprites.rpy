@@ -1,4 +1,3 @@
-
 translate portuguese strings:
 
     # game/code/credit_sprites.rpy:7

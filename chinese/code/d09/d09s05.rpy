@@ -1,4 +1,3 @@
-
 # game/code/d09/d09s05.rpy:39
 translate chinese d09s05_57f407bc:
 
@@ -799,7 +798,6 @@ translate chinese strings:
     old "Cover the whore"
     new "射这婊子身上"
 
-
 # game/code/d09/d09s05.rpy:32
 translate chinese d09s05_ef5e49b3:
 
@@ -841,3 +839,4 @@ translate chinese strings:
     # game/code/d09/d09s05.rpy:537
     old "\"Prank a M.I.L.F.\""
     new "\"整蛊性感少妇\""
+

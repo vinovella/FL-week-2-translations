@@ -1,4 +1,3 @@
-
 # game/code/d13/d13s07.rpy:7
 translate italian d13s07_cd8be750:
 
@@ -724,7 +723,6 @@ translate italian d13s07_9b0423ef:
 
     # mc "Good night."
     mc "'notte."
-
 
 # game/code/d13/d13s07.rpy:123
 translate italian d13s07_f7adbeb5:

@@ -1,4 +1,3 @@
-
 # game/code/d10p2/d10p2s07.rpy:11
 translate deutsch d10p2s07_08f2922a:
 
@@ -832,7 +831,6 @@ translate deutsch d10p2s07_aa77db00:
 
     # mct "Well, I guess I best get ready."
     mct "Gut, dann sollte ich mich besser fertig machen."
-
 
 # game/code/d10p2/d10p2s07.rpy:7
 translate deutsch d10p2s07_f239d031:

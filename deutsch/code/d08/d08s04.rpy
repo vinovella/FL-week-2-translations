@@ -1,4 +1,3 @@
-
 # game/code/d08/d08s04.rpy:22
 translate deutsch d08s04_01cc8f65:
 
@@ -16,7 +15,6 @@ translate deutsch d08s04_8a677757:
 
     # mct "On one side it is good to get points... But on the other side it is more and more creepy..."
     mct "Einerseits ist es gut, Punkte zu bekommen... Aber andererseits wird es immer gruseliger..."
-
 
 # game/code/d08/d08s04.rpy:31
 translate deutsch d08s04_947e6559:
@@ -521,7 +519,6 @@ translate deutsch replay_d08s04_606e2d02:
 
     # mc "Sure."
     mc "Sicher."
-
 
 # game/code/d08/d08s04.rpy:141
 translate deutsch replay_d08s04_3f8bc07a:

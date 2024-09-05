@@ -1,17 +1,14 @@
-
 translate chinese strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Day 8: AmRose"
     new "第八天：爱洛丝"
 
-
 translate chinese strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Day 9: Squizzle - Selfie"
     new "第九天：斯奎兹--自拍"
-
 
 translate chinese strings:
 

@@ -1,4 +1,3 @@
-
 translate deutsch strings:
 
     # game/code/data/extended/labels.rpy:12
@@ -8,3 +7,4 @@ translate deutsch strings:
     # game/code/data/extended/labels.rpy:12
     old "Continue as it is"
     new "Mache einfach weiter"
+

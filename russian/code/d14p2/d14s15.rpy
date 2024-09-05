@@ -1,4 +1,3 @@
-
 # game/code/d14p2/d14s15.rpy:15
 translate russian d14s15_fc6e4a25:
 
@@ -607,9 +606,9 @@ translate russian strings:
     old "Maybe"
     new "Возможно"
 
-
 translate russian strings:
 
     # game/code/d14p2/d14s15.rpy:311
     old "No {#d14s15}"
     new "Нет {#d14s15}"
+

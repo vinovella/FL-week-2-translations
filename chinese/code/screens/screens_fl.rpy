@@ -36,13 +36,11 @@ translate chinese strings:
     old "Fetish Locator is intended for a mature audience\nof 18 years or older. Please abide by your local laws.\nAll characters are 18 years or older. No exceptions.\nThe characters in Fetish Locator explore relationships and their sexuality in both healthy and unhealthy ways. Some of these may be offensive to some players. Viewer discretion is advised. To that end, much of the content is optional and often there are alternative paths available. This is necessary to the story. The content explored should not be treated as an endorsement of particular fetishes, kinks, or patterns of behaviour. Please explore your own relationships and sexuality responsibly.\n\nEnjoy!"
     new "本游戏性趣探测器适合\n18岁或以上人士。请遵守当地法律。\n所有游戏人物均为18岁或以上年龄，无一例外。\n性趣探测器中的游戏人物探索两性关系和性行为的方式，有健康的，也有不健康的。其中有些内容可能会对某些玩家造成冒犯。建议观众谨慎观看。为此，游戏许多内容都是可选的，且往往有多种路径可供选择。这对剧情来说是必要的。游戏中探讨的内容不应被视为对特定性癖、嗜好或行为模式的认可。请您负责任地探索自己的两性关系和性行为。\n\n祝您玩得愉快！"
 
-
 translate chinese strings:
 
     # game/code/screens/screens_fl.rpy:485
     old "X-RAY"
     new "X射线"
-
 
 translate chinese strings:
 
@@ -66,7 +64,6 @@ translate chinese strings:
     old "SAVE"
     new "保存"
 
-
 translate chinese strings:
 
     # game/code/screens/screens_fl.rpy:245
@@ -85,20 +82,17 @@ translate chinese strings:
     old "{u}Fill the questionnaire to play week [FLSS.week.cur] without loading a save{/u}"
     new "{u}填写调查问卷，无需加载保存即可进入周[FLSS.week.cur]{/u}"
 
-
 translate chinese strings:
 
     # game/code/screens/screens_fl.rpy:535
     old "SKIP RECAP"
     new "跳过回顾"
 
-
 translate chinese strings:
 
     # game/code/screens/screens_fl.rpy:786
     old "SKIP"
     new "跳过"
-
 
 translate chinese strings:
 
@@ -115,7 +109,6 @@ translate chinese strings:
     # game/code/screens/screens_fl.rpy:570
     old "Go back and enable {b}Trans Content{/b} to be able to select Lyssa"
     new "Go back and enable {b}Trans Content{/b} to be able to select Lyssa"
-
 
 translate chinese strings:
 
@@ -215,7 +208,6 @@ translate chinese strings:
     old "Confirm"
     new "Confirm"
 
-
 translate chinese strings:
 
     # game/code/screens/screens_fl.rpy:884
@@ -226,7 +218,6 @@ translate chinese strings:
     old "Close the game"
     new "关闭游戏"
 
-
 translate chinese strings:
 
     # game/code/screens/screens_fl.rpy:590
@@ -236,7 +227,6 @@ translate chinese strings:
     # game/code/screens/screens_fl.rpy:888
     old "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
     new "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
-
 
 translate chinese strings:
 

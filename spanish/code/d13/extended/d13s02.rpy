@@ -1,4 +1,3 @@
-
 # game/code/d13/extended/d13s02.rpy:36
 translate spanish d13s02_acea7575:
 
@@ -286,3 +285,4 @@ translate spanish replay_d13s02_78ed1a5b:
 
     # mc "That was fun. But I should be going."
     mc "Eso fue divertido. Pero debería irme."
+

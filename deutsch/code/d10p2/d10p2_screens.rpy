@@ -1,4 +1,3 @@
-
 translate deutsch strings:
 
     # game/code/d10p2/d10p2_screens.rpy:6
@@ -180,3 +179,4 @@ translate deutsch strings:
     # game/code/d10p2/d10p2_screens.rpy:951
     old "Continue to the final scene"
     new "Fahre bis zur finalen Szene fort"
+

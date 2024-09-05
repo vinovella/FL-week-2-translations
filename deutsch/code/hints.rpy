@@ -1,4 +1,3 @@
-
 translate deutsch strings:
 
     # game/code/hints.rpy:5
@@ -628,7 +627,6 @@ translate deutsch strings:
     # game/code/hints.rpy:5
     old "No hints available."
     new "Keine Tipps verfügbar."
-
 
 translate deutsch strings:
 

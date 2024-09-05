@@ -1,4 +1,3 @@
-
 # game/code/d10p2/d10p2s09.rpy:96
 translate korean d10p2s09_9a54df39:
 

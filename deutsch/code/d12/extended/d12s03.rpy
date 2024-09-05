@@ -1,4 +1,3 @@
-
 # game/code/d12/extended/d12s03.rpy:37
 translate deutsch d12s03_9f358fa6:
 
@@ -1308,7 +1307,6 @@ translate deutsch strings:
     # game/code/d12/extended/d12s03.rpy:740
     old "Cum in her Mouth"
     new "Komm in ihren Mund"
-
 
 # game/code/d12/extended/d12s03.rpy:235
 translate deutsch d12s03_f170455d:

@@ -1,4 +1,3 @@
-
 # game/code/d11/d11s07.rpy:50
 translate spanish d11s07_a362d45b:
 
@@ -1058,3 +1057,4 @@ translate spanish strings:
     # game/code/d11/d11s07.rpy:362
     old "Kiss AmRose on the Neck"
     new "Beso a AmRose en el cuello"
+

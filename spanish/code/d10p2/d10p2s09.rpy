@@ -1,4 +1,3 @@
-
 # game/code/d10p2/d10p2s09.rpy:94
 translate spanish d10p2s09_9a54df39:
 
@@ -380,3 +379,4 @@ translate spanish strings:
     # game/code/d10p2/d10p2s09.rpy:788
     old "Cum on her tits"
     new "Eyacular en sus tetas"
+

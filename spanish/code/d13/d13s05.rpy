@@ -1,4 +1,3 @@
-
 # game/code/d13/d13s05.rpy:37
 translate spanish d13s05_67dfdc05:
 
@@ -692,3 +691,4 @@ translate spanish strings:
     # game/code/d13/d13s05.rpy:154
     old "Chase"
     new "Perseguida"
+

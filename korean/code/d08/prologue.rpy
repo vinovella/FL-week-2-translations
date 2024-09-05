@@ -1,4 +1,3 @@
-
 # game/code/d08/prologue.rpy:63
 translate korean prologue_fresh_start_4063ae17:
 
@@ -171,7 +170,6 @@ translate korean strings:
     old "No, I didn't"
     new "아니다, 그렇게 하지 않았다"
 
-
 # game/code/d08/prologue.rpy:67
 translate korean prologue_fresh_start_ab0acec6:
 
@@ -183,3 +181,4 @@ translate korean prologue_fresh_start_d7ab3300:
 
     # "We see that you have already completed the first chapter. If you want to keep playing with all your game progress intact, open the menu, click \"Continue from week [FLSS.week.prev]\" and load a save.\nIf you experience any issue, please contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} or on {a=https://www.patreon.com/fetishlocator}Patreon{/a}."
     "{size=29}첫 번째 장을 마치셨다는 걸 압니다. 게임 진행 사항을 이어서 플레이 하고 싶으시다면, 메뉴를 열고, \"[FLSS.week.prev] 이어하기\"를 클릭하여 첫째 주 엔딩 저장 파일을 불러오십시오.\n이 과정에서 문제를 경험하셨다면, {a=https://discord.gg/efmQRNtFks}Discord{/a} 또는 {a=https://www.patreon.com/fetishlocator}Patreon{/a}를 통해 저희에게 연락을 주십시오.{/size}"
+

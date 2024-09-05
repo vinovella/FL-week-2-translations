@@ -1,4 +1,3 @@
-
 # game/code/d08/extended/d08s09.rpy:37
 translate spanish d08s09_445aec41:
 
@@ -365,7 +364,6 @@ translate spanish replay_d08s09_8456a741:
     # mc "The business side of my brain is kicking into overdrive.{w} Are you sure he is into this costume kink thing? Smelling you in the suit and all that shit?"
     mc "El lado de los negocios de mi cerebro se está acelerando.{w} ¿Segura que le gusta esto de los disfraces? ¿Olerte con el traje y toda esa mierda?"
 
-
 # game/code/d08/extended/d08s09.rpy:262
 translate spanish replay_d08s09_2ab9140f:
 
@@ -725,3 +723,4 @@ translate spanish replay_d08s09_6bdab792:
 
     # jf "Okay, but were using my camera for this. No more cell phone pics!"
     jf "Okey, pero para esto se va a usar mi cámara. Se acabaron las fotos con el móvil."
+

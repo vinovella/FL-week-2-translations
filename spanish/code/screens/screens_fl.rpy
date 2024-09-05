@@ -1,4 +1,3 @@
-
 translate spanish strings:
 
     # game/code/screens/screens_fl.rpy:93
@@ -36,13 +35,11 @@ translate spanish strings:
     old "Fetish Locator is intended for a mature audience\nof 18 years or older. Please abide by your local laws.\nAll characters are 18 years or older. No exceptions.\nThe characters in Fetish Locator explore relationships and their sexuality in both healthy and unhealthy ways. Some of these may be offensive to some players. Viewer discretion is advised. To that end, much of the content is optional and often there are alternative paths available. This is necessary to the story. The content explored should not be treated as an endorsement of particular fetishes, kinks, or patterns of behaviour. Please explore your own relationships and sexuality responsibly.\n\nEnjoy!"
     new "Fetish Locator está dirigido a un público\nmaduro de 18 años o más. Por favor, respete las leyes locales.\nTodos los personajes son mayores de 18 años. Sin excepciones.\nLos personajes de Fetish Locator exploran las relaciones y su sexualidad tanto de forma sana como insana. Algunas de ellas pueden resultar ofensivas para algunos jugadores. Se recomienda la discreción del espectador. Para ello, gran parte del contenido es opcional y a menudo hay caminos alternativos disponibles. Esto es necesario para la historia. El contenido explorado no debe ser tratado como una aprobación de determinados fetiches, perversiones o patrones de comportamiento. Por favor, explora tus propias relaciones y tu sexualidad de forma responsable.\n\n¡Disfruta!"
 
-
 translate spanish strings:
 
     # game/code/screens/screens_fl.rpy:485
     old "X-RAY"
     new "RAYOS X"
-
 
 translate spanish strings:
 
@@ -66,7 +63,6 @@ translate spanish strings:
     old "SAVE"
     new "GUARDAR"
 
-
 translate spanish strings:
 
     # game/code/screens/screens_fl.rpy:245
@@ -85,13 +81,11 @@ translate spanish strings:
     old "{u}Fill the questionnaire to play week [FLSS.week.cur] without loading a save{/u}"
     new "{u}Rellena el cuestionario para jugar a la semana [FLSS.week.cur] sin cargar un guardado{/u}"
 
-
 translate spanish strings:
 
     # game/code/screens/screens_fl.rpy:535
     old "SKIP RECAP"
     new "OMITIR"
-
 
 translate spanish strings:
 
@@ -99,13 +93,11 @@ translate spanish strings:
     old "SKIP"
     new "OMITIR"
 
-
 translate spanish strings:
 
     # game/code/screens/screens_fl.rpy:232
     old "Unnamed End Game Save"
     new "Unnamed End Game Save"
-
 
 translate spanish strings:
 
@@ -215,7 +207,6 @@ translate spanish strings:
     old "Confirm"
     new "Confirm"
 
-
 translate spanish strings:
 
     # game/code/screens/screens_fl.rpy:884
@@ -226,7 +217,6 @@ translate spanish strings:
     old "Close the game"
     new "Cerrar el juego"
 
-
 translate spanish strings:
 
     # game/code/screens/screens_fl.rpy:590
@@ -236,7 +226,6 @@ translate spanish strings:
     # game/code/screens/screens_fl.rpy:888
     old "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
     new "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
-
 
 translate spanish strings:
 

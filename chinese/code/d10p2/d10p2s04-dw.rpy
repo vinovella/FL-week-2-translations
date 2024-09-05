@@ -1,4 +1,3 @@
-
 # game/code/d10p2/d10p2s04-dw.rpy:46
 translate chinese d10p2s04_dw_dbf77d44:
 
@@ -1180,7 +1179,6 @@ translate chinese strings:
     # game/code/d10p2/d10p2s04-dw.rpy:549
     old "Hold stronger"
     new "用力坚持住"
-
 
 # game/code/d10p2/d10p2s04-dw.rpy:594
 translate chinese d10p2s04_dwmc_dickslap_66332944:

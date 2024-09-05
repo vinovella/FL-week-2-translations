@@ -1,4 +1,3 @@
-
 translate italian strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
@@ -225,7 +224,6 @@ translate italian strings:
     old "Flirt with Vanessa"
     new "Flirta con Vanessa"
 
-
 translate italian strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
@@ -356,7 +354,6 @@ translate italian strings:
     old "Don't lie to Lydia"
     new "Non mentire a Lydia"
 
-
 translate italian strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
@@ -467,7 +464,6 @@ translate italian strings:
     old "Don't intervene"
     new "Non intervenire"
 
-
 translate italian strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
@@ -510,13 +506,11 @@ translate italian strings:
     old "Day 13: Vanessa"
     new "13° giorno: Vanessa"
 
-
 translate italian strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Safewords are for noobs"
     new "Le safeword sono per i novellini"
-
 
 translate italian strings:
 
@@ -539,3 +533,4 @@ translate italian strings:
     # game/code/data/extended/cg_gallery.rpy:21
     old "Party 3: Participants"
     new "Party 3: Partecipanti"
+

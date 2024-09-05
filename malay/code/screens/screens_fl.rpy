@@ -1,4 +1,3 @@
-
 translate malay strings:
 
     # game/code/screens/screens_fl.rpy:99
@@ -41,7 +40,6 @@ translate malay strings:
     old "X-RAY"
     new "Sinar-X"
 
-
 translate malay strings:
 
     # game/code/screens/screens_fl.rpy:16
@@ -63,7 +61,6 @@ translate malay strings:
     # game/code/screens/screens_fl.rpy:93
     old "SAVE"
     new "SIMPAN"
-
 
 translate malay strings:
 
@@ -89,20 +86,17 @@ translate malay strings:
     old "SKIP RECAP"
     new "LANGKAUI REKAP"
 
-
 translate malay strings:
 
     # game/code/screens/screens_fl.rpy:786
     old "SKIP"
     new "LANGKAUI"
 
-
 translate malay strings:
 
     # game/code/screens/screens_fl.rpy:232
     old "Unnamed End Game Save"
     new "Simpanan Permainan Tamat Tanpa Nama"
-
 
 translate malay strings:
 
@@ -113,7 +107,6 @@ translate malay strings:
     # game/code/screens/screens_fl.rpy:570
     old "Go back and enable {b}Trans Content{/b} to be able to select Lyssa"
     new "Kembali dan dayakan {b}Kandungan Trans{/b} supaya dapat memilih Lyssa"
-
 
 translate malay strings:
 
@@ -213,7 +206,6 @@ translate malay strings:
     old "Confirm"
     new "Sahkan"
 
-
 translate malay strings:
 
     # game/code/screens/screens_fl.rpy:884
@@ -224,7 +216,6 @@ translate malay strings:
     old "Close the game"
     new "Tutup permainan"
 
-
 translate malay strings:
 
     # game/code/screens/screens_fl.rpy:590
@@ -234,7 +225,6 @@ translate malay strings:
     # game/code/screens/screens_fl.rpy:888
     old "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
     new "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
-
 
 translate malay strings:
 

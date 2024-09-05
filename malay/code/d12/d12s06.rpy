@@ -1,4 +1,3 @@
-
 # game/code/d12/d12s06.rpy:88
 translate malay d12s06_b479bc74:
 
@@ -850,3 +849,4 @@ translate malay replay_d12s06_dd_0817892e:
 
     # mc "Always."
     mc "Aku akan selalu disampingmu."
+

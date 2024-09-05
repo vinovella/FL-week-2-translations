@@ -1,4 +1,3 @@
-
 translate deutsch strings:
 
     old "Girl"
@@ -18,3 +17,4 @@ translate deutsch strings:
 
     old "What is your name in Fetish Locator app?"
     new "Wie heißt du in der Fetish Locator App?"
+

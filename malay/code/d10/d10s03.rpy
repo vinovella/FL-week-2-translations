@@ -1,4 +1,3 @@
-
 # game/code/d10/d10s03.rpy:26
 translate malay d10s03_68b91133:
 

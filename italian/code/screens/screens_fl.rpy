@@ -1,4 +1,3 @@
-
 translate italian strings:
 
     # game/screens.rpy:103
@@ -37,20 +36,17 @@ translate italian strings:
     old "Undo"
     new "Annulla"
 
-
 translate italian strings:
 
     # game/code/screens/screens_fl.rpy:375
     old "Fetish Locator is intended for a mature audience\nof 18 years or older. Please abide by your local laws.\nAll characters are 18 years or older. No exceptions.\nThe characters in Fetish Locator explore relationships and their sexuality in both healthy and unhealthy ways. Some of these may be offensive to some players. Viewer discretion is advised. To that end, much of the content is optional and often there are alternative paths available. This is necessary to the story. The content explored should not be treated as an endorsement of particular fetishes, kinks, or patterns of behaviour. Please explore your own relationships and sexuality responsibly.\n\nEnjoy!"
     new "Fetish Locator è destinato ad un pubblico di persone adulte, di età pari o superiore a 18 anni. Si prega di rispettare le leggi locali. Tutti i personaggi di Fetish Locator, senza eccezione, hanno almeno 18 anni. Essi hanno relazioni ed esplorano pratiche sessuali talora sicure per la salute, talora no. Alcuni giocatori potrebbero ritenerle offensive. Proprio per questo, la maggior parte del contenuto del gioco è opzionale e spesso sono disponibili percorsi alternativi. Questo è necessario per lo svolgimento della storia. Il contenuto esplorato non si deve intendere come apologetico di particolari fetish, perversioni o comportamenti. Per favore, esplorate le relazioni e la vostra sessualità responsabilmente.\n\nBuon divertimento!"
 
-
 translate italian strings:
 
     # game/code/screens/screens_fl.rpy:485
     old "X-RAY"
     new "Raggi X"
-
 
 translate italian strings:
 
@@ -74,7 +70,6 @@ translate italian strings:
     old "SAVE"
     new "SALVA"
 
-
 translate italian strings:
 
     # game/code/screens/screens_fl.rpy:245
@@ -93,13 +88,11 @@ translate italian strings:
     old "{u}Fill the questionnaire to play week [FLSS.week.cur] without loading a save{/u}"
     new "{u}Compila il questionario per giocare la [FLSS.week.cur] settimana senza caricare un salvataggio{/u}"
 
-
 translate italian strings:
 
     # game/code/screens/screens_fl.rpy:535
     old "SKIP RECAP"
     new "SALTA RECAP"
-
 
 translate italian strings:
 
@@ -107,13 +100,11 @@ translate italian strings:
     old "SKIP"
     new "SALTA"
 
-
 translate italian strings:
 
     # game/code/screens/screens_fl.rpy:232
     old "Unnamed End Game Save"
     new "Salvataggio di fine partita senza nome"
-
 
 translate italian strings:
 
@@ -223,7 +214,6 @@ translate italian strings:
     old "Confirm"
     new "Confirm"
 
-
 translate italian strings:
 
     # game/code/screens/screens_fl.rpy:884
@@ -234,7 +224,6 @@ translate italian strings:
     old "Close the game"
     new "Chiudi il gioco"
 
-
 translate italian strings:
 
     # game/code/screens/screens_fl.rpy:590
@@ -244,7 +233,6 @@ translate italian strings:
     # game/code/screens/screens_fl.rpy:888
     old "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
     new "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
-
 
 translate italian strings:
 

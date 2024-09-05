@@ -1,4 +1,3 @@
-
 # game/code/d13/d13s06.rpy:36
 translate spanish d13s06_80586a78:
 
@@ -328,7 +327,6 @@ translate spanish replay_d13s06_2b6a288d:
     # ah "I don't see what he sees in her. But he talks like she will give him wings."
     ah "No veo lo que él ve en ella. Pero habla como si ella le diera alas."
 
-
 # game/code/d13/d13s06.rpy:446
 translate spanish replay_d13s06_b42f1213:
 
@@ -394,3 +392,4 @@ translate spanish replay_d13s06_9a9ab7ca:
 
     # mc "Unless you have more in mind, then yes. That's the deal done."
     mc "A menos que tengas más en mente, entonces sí. Ese es el trato hecho."
+

@@ -1,4 +1,3 @@
-
 # game/code/d11/d11s04.rpy:7
 translate spanish d11s04_95a7047b:
 
@@ -478,3 +477,4 @@ translate spanish d11s04_af70887d:
 
     # mc "It's okay. I'm here. Everything's gonna be alright."
     mc "No pasa nada. Estoy aquí. Todo va a estar bien."
+

@@ -1,4 +1,3 @@
-
 # game/code/d13/extended/d13s02.rpy:36
 translate deutsch d13s02_acea7575:
 

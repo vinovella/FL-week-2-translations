@@ -1,4 +1,3 @@
-
 # game/code/d10p2/d10p2s04-dw.rpy:51
 translate korean d10p2s04_dw_dbf77d44:
 
@@ -1186,3 +1185,4 @@ translate korean strings:
     # game/code/d10p2/d10p2s04-dw.rpy:706
     old "Hold stronger"
     new "더 굳건히 버틴다"
+

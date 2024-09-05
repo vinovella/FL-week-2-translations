@@ -1,4 +1,3 @@
-
 translate french strings:
 
     # renpy/common/00accessibility.rpy:28
@@ -1125,7 +1124,6 @@ translate french strings:
     old "Parsing the script failed."
     new "L’analyse du script a échoué."
 
-
 translate french strings:
 
     # renpy/common/00accessibility.rpy:120
@@ -1223,7 +1221,6 @@ translate french strings:
     # renpy/common/00updater.rpy:2089
     old "Retry"
     new "Recommencer"
-
 
 translate french strings:
 

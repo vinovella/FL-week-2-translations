@@ -1,4 +1,3 @@
-
 translate spanish strings:
 
     # game/code/d14p2/d14s19_menu.rpy:10
@@ -24,3 +23,4 @@ translate spanish strings:
     # game/code/d14p2/d14s19_menu.rpy:51
     old "Climax with Stacy"
     new "Clímax con Stacy"
+

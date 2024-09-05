@@ -1,4 +1,3 @@
-
 translate deutsch strings:
 
     # game/code/data/prologue.rpy:14
@@ -109,7 +108,6 @@ translate deutsch strings:
     old "Scat"
     new "Scat"
 
-
 translate deutsch strings:
 
     # game/code/data/prologue.rpy:16
@@ -120,9 +118,9 @@ translate deutsch strings:
     old "The close childhood friend"
     new "Die enge Kindheitsfreundin"
 
-
 translate deutsch strings:
 
     # game/code/data/prologue.rpy:34
     old "Trans Content"
     new "Trans Inhalte"
+

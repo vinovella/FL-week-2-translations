@@ -1,4 +1,3 @@
-
 translate french strings:
 
     # game/code/screens/extended/pool.rpy:311

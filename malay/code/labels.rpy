@@ -1,4 +1,3 @@
-
 # game/code/labels.rpy:209
 translate malay buzz_4377a2f7:
 
@@ -250,7 +249,6 @@ translate malay after_credits_c7e3ca6c:
 
     # sy "But don't forget to support us! We will bring you more awesome stuff!"
     sy "Tetapi jangan lupa untuk menyokong kami! Kami akan membawakan anda lebih banyak aksi yang hebat!"
-
 
 # game/code/labels.rpy:191
 translate malay after_credits_e29ad5fa:

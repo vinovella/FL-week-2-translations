@@ -1,4 +1,3 @@
-
 # game/code/d14p2/d14s19_sy.rpy:135
 translate malay d14s19_sy_2c3af789:
 

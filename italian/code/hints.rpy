@@ -1,4 +1,3 @@
-
 translate italian strings:
 
     # game/code/hints.rpy:5
@@ -629,9 +628,9 @@ translate italian strings:
     old "No hints available."
     new "Nessun suggerimento disponibile."
 
-
 translate italian strings:
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Squizzle develops - This will end Min's path."
     new "Questa è una scelta importante che cambia il modo in cui si sviluppa la tua relazione con Squizzle – Si chiuderà l’arco di Min."
+

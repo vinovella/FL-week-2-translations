@@ -1,4 +1,3 @@
-
 translate portuguese strings:
 
     # game/code/classes/00action_file.rpy:59

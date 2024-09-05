@@ -1,4 +1,3 @@
-
 # game/code/d12/d12s02.rpy:24
 translate french d12s02_6690416a:
 
@@ -840,3 +839,4 @@ translate french strings:
     # game/code/d12/d12s02.rpy:384
     old "Do it (spend [d12_cost_of_blitz] points)"
     new "Faites-le (dépensez [d12_cost_of_blitz] points)"
+

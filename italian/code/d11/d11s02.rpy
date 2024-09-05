@@ -1,4 +1,3 @@
-
 # game/code/d11/d11s02.rpy:28
 translate italian d11s02_4ee8cc8f:
 
@@ -754,7 +753,6 @@ translate italian d11s02_76e2bd99:
 
     # mc "Stop. Tomato Juice. [mc_safeword!t]. Halt."
     mc "Stop. Succo di pomodoro. [mc_safeword!t]. Halt."
-
 
 # game/code/d11/d11s02.rpy:279
 translate italian d11s02_05977308:
@@ -1724,9 +1722,9 @@ translate italian strings:
     old "Decline. I want nothing more to do with Maria or Terrell"
     new "Rifiuti. Non vuoi avere più niente a che fare con Maria o Terrell"
 
-
 # game/code/d11/d11s02.rpy:37
 translate italian d11s02_c8046555:
 
     # arj "Just a few more days... finals are coming soon."
     arj "Qualche giorno ancora... tra poco ci saranno gli esami."
+

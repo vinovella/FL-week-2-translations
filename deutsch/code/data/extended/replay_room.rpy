@@ -1,4 +1,3 @@
-
 translate deutsch strings:
 
     # game/code/data/extended/replay_room.rpy:15
@@ -241,7 +240,6 @@ translate deutsch strings:
     old "Day 7: AmRose"
     new "Tag 7: AmRose"
 
-
 translate deutsch strings:
 
     # game/code/data/extended/replay_room.rpy:15
@@ -256,13 +254,11 @@ translate deutsch strings:
     old "Enjoy the rimjob"
     new "Genieße den Rimjob"
 
-
 translate deutsch strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 5: URLittlePony"
     new "Tag 5: URLittlePony"
-
 
 translate deutsch strings:
 
@@ -281,7 +277,6 @@ translate deutsch strings:
     # game/code/data/extended/replay_room.rpy:15
     old "Take a picture of AmRose's foot"
     new "Mach ein Foto von AmRose's Fuß"
-
 
 translate deutsch strings:
 
@@ -320,7 +315,6 @@ translate deutsch strings:
     # game/code/data/extended/replay_room.rpy:15
     old "Dominate Lyssa"
     new "Dominiere Lyssa"
-
 
 translate deutsch strings:
 
@@ -496,7 +490,6 @@ translate deutsch strings:
     old "Day 13: Stacy"
     new "Tag 13: Stacy"
 
-
 translate deutsch strings:
 
     # game/code/data/extended/replay_room.rpy:15
@@ -550,3 +543,4 @@ translate deutsch strings:
     # game/code/data/extended/replay_room.rpy:15
     old "Day 14: Stacy"
     new "Tag 14: Stacy"
+

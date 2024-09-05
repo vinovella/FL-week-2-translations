@@ -1,4 +1,3 @@
-
 # game/code/d14p2/d14s17.rpy:50
 translate french d14s17_59571f7e:
 

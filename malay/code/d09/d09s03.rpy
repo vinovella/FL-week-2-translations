@@ -1,4 +1,3 @@
-
 # game/code/d09/d09s03.rpy:52
 translate malay d09s03_79966fa3:
 
@@ -1200,3 +1199,4 @@ translate malay strings:
     # game/code/d09/d09s03.rpy:375
     old "soiled condoms"
     new "kondom kotor"
+

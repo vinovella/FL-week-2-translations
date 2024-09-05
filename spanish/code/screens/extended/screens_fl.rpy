@@ -1,4 +1,3 @@
-
 translate spanish strings:
 
     # game/code/screens/extended/screens_fl.rpy:11
@@ -33,9 +32,9 @@ translate spanish strings:
     old ">"
     new ">"
 
-
 translate spanish strings:
 
     # game/code/screens/extended/screens_fl.rpy:46
     old "CLOSE"
     new "CERRAR"
+

@@ -1,4 +1,3 @@
-
 # game/code/labels.rpy:350
 translate portuguese buzz_4377a2f7:
 
@@ -250,7 +249,6 @@ translate portuguese after_credits_c7e3ca6c:
 
     # sy "But don't forget to support us! We will bring you more awesome stuff!"
     sy "Mas não esqueça de nos apoiar! Vamos te trazer mais coisas legais!"
-
 
 # game/code/labels.rpy:191
 translate portuguese after_credits_e29ad5fa:

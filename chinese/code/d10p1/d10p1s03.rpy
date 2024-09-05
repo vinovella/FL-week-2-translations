@@ -1,4 +1,3 @@
-
 # game/code/d10p1/d10p1s03.rpy:8
 translate chinese d10p1s03_2a4fa63e:
 
@@ -1233,9 +1232,9 @@ translate chinese strings:
     old "Don't"
     new "不帮"
 
-
 translate chinese strings:
 
     # game/code/d10p1/d10p1s03.rpy:441
     old "Help{#d10p1s03}"
     new "帮忙{#d10p1s03}"
+

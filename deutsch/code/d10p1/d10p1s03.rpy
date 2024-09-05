@@ -1,4 +1,3 @@
-
 # game/code/d10p1/d10p1s03.rpy:8
 translate deutsch d10p1s03_2a4fa63e:
 
@@ -1237,16 +1236,15 @@ translate deutsch strings:
     old "Don't help him"
     new "Hilf ihm nicht"
 
-
 translate deutsch strings:
 
     # game/code/d10p1/d10p1s03.rpy:442
     old "Don't"
     new "Nicht"
 
-
 translate deutsch strings:
 
     # game/code/d10p1/d10p1s03.rpy:441
     old "Help{#d10p1s03}"
     new "Hilfe{#d10p1s03}"
+

@@ -1,4 +1,3 @@
-
 translate malay strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
@@ -221,7 +220,6 @@ translate malay strings:
     old "Don't intervene"
     new "Jangan masuk campur"
 
-
 translate malay strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
@@ -264,13 +262,11 @@ translate malay strings:
     old "Day 13: Vanessa"
     new "Hari 13: Vanessa"
 
-
 translate malay strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Safewords are for noobs"
     new "Kata selamat untuk budak lemah"
-
 
 translate malay strings:
 

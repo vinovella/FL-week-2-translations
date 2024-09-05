@@ -1,4 +1,3 @@
-
 translate portuguese strings:
 
     # game/code/screens/screens.rpy:260
@@ -361,20 +360,17 @@ translate portuguese strings:
     old "Menu"
     new "Menu"
 
-
 translate portuguese strings:
 
     # game/code/screens/screens.rpy:847
     old "Naming save file:"
     new "Dar nome aos saves:"
 
-
 translate portuguese strings:
 
     # game/code/screens/screens.rpy:1028
     old "Low Memory Mode"
     new "Modo de Baixa Memória"
-
 
 translate portuguese strings:
 
@@ -407,7 +403,6 @@ translate portuguese strings:
     # game/code/screens/screens.rpy:656
     old "Try our new game Taboo University"
     new "Try our new game Taboo University"
-
 
 translate portuguese strings:
 

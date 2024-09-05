@@ -1,4 +1,3 @@
-
 translate french strings:
 
     # game/code/functions.rpy:74
@@ -32,3 +31,4 @@ translate french strings:
     # game/code/functions.rpy:286
     old "You can only select one out of Daisy and Dahlia"
     new "Vous ne pouvez en sélectionner qu'une parmi Daisy et Dahlia"
+

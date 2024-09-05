@@ -1,4 +1,3 @@
-
 # game/code/d10p2/d10p2s04-dw.rpy:51
 translate russian d10p2s04_dw_dbf77d44:
 

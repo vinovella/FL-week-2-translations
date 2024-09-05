@@ -1,4 +1,3 @@
-
 # game/code/d14p2/d14s19.rpy:23
 translate turkish d14s19_9870cd87:
 

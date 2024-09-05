@@ -1,4 +1,3 @@
-
 # game/code/d13/d13s08.rpy:53
 translate spanish d13s08_1ea101fb:
 
@@ -548,3 +547,4 @@ translate spanish strings:
     # game/code/d13/d13s08.rpy:457
     old "Have her wear it later"
     new "Haz que se lo ponga después"
+

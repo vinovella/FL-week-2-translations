@@ -1,4 +1,3 @@
-
 # game/code/d09/d09s02.rpy:22
 translate deutsch d09s02_d3bd4739:
 
@@ -1144,7 +1143,6 @@ translate deutsch strings:
     # game/code/d09/d09s02.rpy:406
     old "Nah, that's enough."
     new "Nein, das ist genug."
-
 
 translate deutsch strings:
 

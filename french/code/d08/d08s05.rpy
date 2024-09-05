@@ -1,4 +1,3 @@
-
 # game/code/d08/d08s05.rpy:5
 translate french d08s05_06a950b5:
 

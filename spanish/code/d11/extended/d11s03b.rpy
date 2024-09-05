@@ -1,4 +1,3 @@
-
 # game/code/d11/extended/d11s03b.rpy:10
 translate spanish d11s03b_d02856eb:
 
@@ -334,3 +333,4 @@ translate spanish replay_d11s03b_e27f958a:
 
     # aw "Yes, I am."
     aw "Sí, así es."
+

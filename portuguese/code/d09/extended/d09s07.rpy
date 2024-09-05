@@ -1,4 +1,3 @@
-
 # game/code/d09/extended/d09s07.rpy:54
 translate portuguese d09s07_e733d4b9:
 
@@ -1528,3 +1527,4 @@ translate portuguese strings:
     # game/code/d09/extended/d09s07.rpy:555
     old "Flip her over"
     new "Virar ela"
+

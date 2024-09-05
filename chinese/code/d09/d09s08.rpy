@@ -1,4 +1,3 @@
-
 # game/code/d09/d09s08.rpy:4
 translate chinese d09s08_339cfe9f:
 

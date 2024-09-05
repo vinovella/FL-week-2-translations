@@ -1,4 +1,3 @@
-
 # game/code/d10p2/d10p2s08.rpy:26
 translate chinese d10p2s08_42ace476:
 
@@ -2417,7 +2416,6 @@ translate chinese strings:
     old "Blowjob from AmRose"
     new "爱洛丝的口交"
 
-
 # game/code/d10p2/d10p2s08.rpy:710
 translate chinese d10p2s08_mh_part3_4f2cc688:
 
@@ -2436,7 +2434,6 @@ translate chinese d10p2s08_mh_part3_20d947bf:
     # lc "Please tell me it was Lyssa."
     lc "拜托了，告诉我那是丽莎吧。"
     
-
 # game/code/d10p2/d10p2s08.rpy:957
 translate chinese d10p2s08_jf_part3_b49a9044:
 

@@ -1,4 +1,3 @@
-
 # game/code/d10p1/d10p1s03.rpy:8
 translate spanish d10p1s03_2a4fa63e:
 
@@ -1239,16 +1238,15 @@ translate spanish strings:
     old "Don't help him"
     new "No lo ayudes"
 
-
 translate spanish strings:
 
     # game/code/d10p1/d10p1s03.rpy:442
     old "Don't"
     new "No lo hagas"
 
-
 translate spanish strings:
 
     # game/code/d10p1/d10p1s03.rpy:441
     old "Help{#d10p1s03}"
     new "Ayuda{#d10p1s03}"
+

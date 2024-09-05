@@ -1,4 +1,3 @@
-
 # game/code/d10p1/d10p1s01.rpy:8
 translate spanish d10p1s01_27b48bcf:
 
@@ -1266,7 +1265,6 @@ translate spanish strings:
     # game/code/d10p1/d10p1s01.rpy:222
     old "Apples"
     new "Manzanas"
-
 
 # game/code/d10p1/d10p1s01.rpy:312
 translate spanish d10p1s01_7e7578d2:

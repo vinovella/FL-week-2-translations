@@ -1,4 +1,3 @@
-
 # game/code/d08/d08s03.rpy:19
 translate deutsch d08s03_4ee8cc8f:
 
@@ -715,7 +714,6 @@ translate deutsch strings:
     old "It was an accident"
     new "Es war ein Unfall"
 
-
 # game/code/d08/d08s03.rpy:38
 translate deutsch d08s03_20ef59dd:
 
@@ -733,7 +731,6 @@ translate deutsch d08s03_254d4ec2:
 
     # mct "Weird. Maria is staring at me with crazy stalker eyes."
     mct "Seltsam. Maria starrt mich mit iihren verrückten Stalker Augen an."
-
 
 # game/code/d08/d08s03.rpy:233
 translate deutsch d08s03_da13a8f7:

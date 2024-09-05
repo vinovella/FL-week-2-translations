@@ -1,4 +1,3 @@
-
 # game/code/d09/d09s04.rpy:25
 translate italian d09s04_e24786fb:
 
@@ -682,7 +681,6 @@ translate italian replay_d09s04_e4163433:
 
     # mct "I guess zucchini counts as dildo..."
     mct "Immagino che una zucchina valga come un fallo finto..."
-
 
 # game/code/d09/d09s04.rpy:27
 translate italian d09s04_1629e8ef:

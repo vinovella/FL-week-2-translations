@@ -1,4 +1,3 @@
-
 # game/code/d09/d09s03.rpy:52
 translate italian d09s03_79966fa3:
 

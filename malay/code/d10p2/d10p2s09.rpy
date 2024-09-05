@@ -1,4 +1,3 @@
-
 # game/code/d10p2/d10p2s09.rpy:96
 translate malay d10p2s09_9a54df39:
 
@@ -380,3 +379,4 @@ translate malay strings:
     # game/code/d10p2/d10p2s09.rpy:791
     old "Cum on her tits"
     new "Pancut di teteknya"
+

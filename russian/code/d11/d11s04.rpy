@@ -1,4 +1,3 @@
-
 # game/code/d11/d11s04.rpy:7
 translate russian d11s04_95a7047b:
 

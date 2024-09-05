@@ -1,4 +1,3 @@
-
 # game/code/d09/d09s02.rpy:22
 translate spanish d09s02_d3bd4739:
 
@@ -1145,7 +1144,6 @@ translate spanish strings:
     old "Nah, that's enough."
     new "No, ya es suficiente."
 
-
 translate spanish strings:
 
     # game/code/d09/d09s02.rpy:469
@@ -1155,3 +1153,4 @@ translate spanish strings:
     # game/code/d09/d09s02.rpy:469
     old "Be a gigolo for a day"
     new "Sé un gigoló por un día"
+

@@ -1,4 +1,3 @@
-
 translate spanish strings:
 
     # renpy/common/00accessibility.rpy:28
@@ -1217,7 +1216,6 @@ translate spanish strings:
     old "Press or move the '[control!s]' [kind]."
     new "Press or move the '[control!s]' [kind]."
 
-
 translate spanish strings:
 
     # renpy/common/00action_other.rpy:703
@@ -1235,7 +1233,6 @@ translate spanish strings:
     # renpy/common/00preferences.rpy:531
     old "mute main"
     new "mute main"
-
 
 translate spanish strings:
 
@@ -1346,7 +1343,6 @@ translate spanish strings:
     # renpy/common/00sync.rpy:631
     old "Sync Error"
     new "Sync Error"
-
 
 translate spanish strings:
 

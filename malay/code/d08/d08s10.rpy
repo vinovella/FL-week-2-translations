@@ -1,4 +1,3 @@
-
 # game/code/d08/d08s10.rpy:3
 translate malay d08s10_56849fdc:
 
@@ -694,3 +693,4 @@ translate malay d08s10_606e2d02:
 
     # mc "Sure."
     mc "Baiklah."
+

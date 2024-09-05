@@ -1,4 +1,3 @@
-
 # game/code/d11/d11s03.rpy:6
 translate malay d11s03_3d1dc366:
 
@@ -1652,7 +1651,6 @@ translate malay strings:
     # game/code/d11/d11s03.rpy:307
     old "Laugh in Her Face"
     new "Ketawa di Mukanya"
-
 
 # game/code/d11/d11s03.rpy:282
 translate malay d11s03_4a1f60c6:

@@ -1,4 +1,3 @@
-
 # game/code/d10p1/d10p1s06.rpy:29
 translate french d10p1s06_d17c010b:
 

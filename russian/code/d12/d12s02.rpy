@@ -1,4 +1,3 @@
-
 # game/code/d12/d12s02.rpy:21
 translate russian d12s02_6690416a:
 
@@ -816,7 +815,6 @@ translate russian strings:
     # game/code/d12/d12s02.rpy:366
     old "Do it (spend [d12_cost_of_blitz] points)"
     new "Сделать это (потратьте [d12_cost_of_blitz] очков)"
-
 
 # game/code/d12/d12s02.rpy:327
 translate russian d12s02_52f7b26f:

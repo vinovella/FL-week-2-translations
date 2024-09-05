@@ -1,4 +1,3 @@
-
 translate turkish strings:
 
     # game/code/screens/screens.rpy:272
@@ -365,7 +364,6 @@ translate turkish strings:
     old "Menu"
     new "Menü"
 
-
 translate turkish strings:
 
     # game/code/screens/screens.rpy:653
@@ -375,7 +373,6 @@ translate turkish strings:
     # game/code/screens/screens.rpy:656
     old "Try our new game Taboo University"
     new "Try our new game Taboo University"
-
 
 translate turkish strings:
 

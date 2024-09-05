@@ -1,4 +1,3 @@
-
 translate italian strings:
 
     # game/code/credit_sprites.rpy:7

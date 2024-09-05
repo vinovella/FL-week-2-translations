@@ -1,4 +1,3 @@
-
 # game/code/d12/d12s01.rpy:61
 translate french d12s01_43701264:
 
@@ -1620,5 +1619,4 @@ translate french strings:
     # game/code/d12/d12s01.rpy:864
     old "No photos"
     new "Pas de photos"
-
 

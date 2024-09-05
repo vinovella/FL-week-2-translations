@@ -1,4 +1,3 @@
-
 # game/code/d12/d12s02.rpy:21
 translate portuguese d12s02_6690416a:
 
@@ -816,7 +815,6 @@ translate portuguese strings:
     # game/code/d12/d12s02.rpy:363
     old "Do it (spend [d12_cost_of_blitz] points)"
     new "Pagar (gasta [d12_cost_of_blitz] pontos)"
-
 
 # game/code/d12/d12s02.rpy:327
 translate portuguese d12s02_52f7b26f:

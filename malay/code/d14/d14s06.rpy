@@ -1,4 +1,3 @@
-
 # game/code/d14/d14s06.rpy:45
 translate malay d14s06_855cf0f8:
 
@@ -598,3 +597,4 @@ translate malay d14s06_0bc1e557:
 
     # mc "That's a good idea."
     mc "Bagus juda ideanya."
+

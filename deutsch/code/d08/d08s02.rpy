@@ -1,4 +1,3 @@
-
 # game/code/d08/d08s02.rpy:10
 translate deutsch d08s02_802e8351:
 
@@ -683,7 +682,6 @@ translate deutsch d08s02_77ad98b5:
     # arj "Speaking of which - you should go if you don't want to wear the same clothes as yesterday."
     arj "Wo wir davon reden - Ihr solltet gehen, wenn ihr nicht die gleichen Klamotten wie gestern zum Unterricht tragen wollt."
 
-
 # game/code/d08/d08s02.rpy:7
 translate deutsch d08s02_7ed15712:
 
@@ -719,3 +717,4 @@ translate deutsch d08s02_d4dcfd6e:
 
     # arj "I'll see you in class."
     arj "Ich sehe dich dann im Unterricht."
+

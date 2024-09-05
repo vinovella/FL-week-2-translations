@@ -1,4 +1,3 @@
-
 # game/code/d14p2/d14s12.rpy:58
 translate spanish d14s12_3528b61a:
 
@@ -658,3 +657,4 @@ translate spanish d14s12_vw_caught_6d5f8951:
 
     # mc "Don't mention it."
     mc "Ni lo menciones."
+

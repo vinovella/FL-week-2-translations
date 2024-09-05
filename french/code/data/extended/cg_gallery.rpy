@@ -1,4 +1,3 @@
-
 translate french strings:
 
     # game/code/data/extended/cg_gallery.rpy:21

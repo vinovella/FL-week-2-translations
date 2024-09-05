@@ -1,4 +1,3 @@
-
 # game/code/d11/d11s01.rpy:8
 translate russian d11s01_0be1c487:
 
@@ -532,7 +531,6 @@ translate russian d11s01_536d88bc:
 
     # mc "Mmm. Coffee."
     mc "Ммм. Кофе."
-
 
 # game/code/d11/d11s01.rpy:35
 translate russian d11s01_95292d25:

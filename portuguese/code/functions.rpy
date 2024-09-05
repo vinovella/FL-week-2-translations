@@ -1,4 +1,3 @@
-
 translate portuguese strings:
 
     # game/code/functions.rpy:24
@@ -24,7 +23,6 @@ translate portuguese strings:
     # game/code/functions.rpy:156
     old "The game will try to replay the scene\naccording to your current playthrough"
     new "O jogo tentará repetir a cena\nde acordo com sua campanha atual"
-
 
 translate portuguese strings:
 

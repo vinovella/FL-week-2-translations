@@ -1,4 +1,3 @@
-
 # game/code/d13/d13s09.rpy:19
 translate malay d13s09_60af0d4f:
 

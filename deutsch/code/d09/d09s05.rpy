@@ -1,4 +1,3 @@
-
 # game/code/d09/d09s05.rpy:37
 translate deutsch d09s05_57f407bc:
 
@@ -799,7 +798,6 @@ translate deutsch strings:
     old "Cover the whore"
     new "Mal' die Hure an"
 
-
 # game/code/d09/d09s05.rpy:32
 translate deutsch d09s05_ef5e49b3:
 
@@ -841,3 +839,4 @@ translate deutsch strings:
     # game/code/d09/d09s05.rpy:537
     old "\"Prank a M.I.L.F.\""
     new "\"Verarsche eine M.I.L.F.\""
+

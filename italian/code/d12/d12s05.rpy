@@ -1,4 +1,3 @@
-
 # game/code/d12/d12s05.rpy:17
 translate italian d12s05_1758d1cc:
 
@@ -1210,3 +1209,4 @@ translate italian strings:
     # game/code/d12/d12s05.rpy:437
     old "Stop Lydia Before You Cum"
     new "Fermi Lydia prima di venire"
+

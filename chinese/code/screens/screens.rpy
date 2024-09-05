@@ -1,4 +1,3 @@
-
 translate chinese strings:
 
     # game/code/screens/screens.rpy:260
@@ -349,7 +348,6 @@ translate chinese strings:
     old "Menu"
     new "菜单"
 
-
 translate chinese strings:
 
     # game/code/screens/screens.rpy:1503
@@ -360,13 +358,11 @@ translate chinese strings:
     old "No"
     new "否"
 
-
 translate chinese strings:
 
     # game/code/screens/screens.rpy:486
     old "Character Gallery"
     new "角色图库"
-
 
 translate chinese strings:
 
@@ -413,3 +409,4 @@ translate chinese strings:
     # game/code/screens/screens.rpy:1244
     old "Dialogue Box Opacity"
     new "Dialogue Box Opacity"
+

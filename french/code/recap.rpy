@@ -1,4 +1,3 @@
-
 # game/code/recap.rpy:49
 translate french d08s00_week1synopsis_9b6483a6:
 

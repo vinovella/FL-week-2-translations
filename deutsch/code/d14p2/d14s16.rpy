@@ -1,4 +1,3 @@
-
 # game/code/d14p2/d14s16.rpy:8
 translate deutsch d14s16_d09c5d3d:
 

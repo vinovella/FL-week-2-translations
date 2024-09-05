@@ -1,4 +1,3 @@
-
 # game/code/d13/d13s07.rpy:7
 translate spanish d13s07_cd8be750:
 
@@ -730,3 +729,4 @@ translate spanish d13s07_9b0423ef:
 
     # mc "Good night."
     mc "Buenas noches"
+

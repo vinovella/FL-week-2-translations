@@ -1,4 +1,3 @@
-
 # game/code/d10p1/d10p1s06.rpy:29
 translate malay d10p1s06_d17c010b:
 
@@ -632,3 +631,4 @@ translate malay strings:
     # game/code/d10p1/d10p1s06.rpy:232
     old "I don't want to see this"
     new "Aku Tak NAk Tengok"
+

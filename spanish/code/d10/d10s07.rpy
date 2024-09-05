@@ -1,4 +1,3 @@
-
 # game/code/d10/d10s07.rpy:13
 translate spanish d10s07_fad11a7d:
 
@@ -538,3 +537,4 @@ translate spanish d10s07_ab1d44c5:
 
     # mc "A-a-and 50 points for ticket are gone."
     mc "A-a-y 50 puntos para el billete se han ido."
+

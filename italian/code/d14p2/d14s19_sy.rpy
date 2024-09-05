@@ -1,4 +1,3 @@
-
 # game/code/d14p2/d14s19_sy.rpy:135
 translate italian d14s19_sy_2c3af789:
 
@@ -927,7 +926,6 @@ translate italian strings:
     old "I enjoyed the sex, but..."
     new "Mi è piaciuto il sesso, ma..."
 
-
 # game/code/d14p2/d14s19_sy.rpy:164
 translate italian d14s19_sy_a0433917:
 
@@ -1203,3 +1201,4 @@ translate italian d14s19_sy_end_4285d841:
 
     # sy "Also, now I imagine that AmRose is the bridesmaid wearing red."
     sy "E ora mi immagino che AmRose sia la damigella che indossa il rosso."
+

@@ -1,4 +1,3 @@
-
 # game/code/d10p1/d10p1s01.rpy:7
 translate italian d10p1s01_27b48bcf:
 
@@ -1267,7 +1266,6 @@ translate italian strings:
     old "Apples"
     new "Mele"
     
-
 # game/code/d10p1/d10p1s01.rpy:312
 translate italian d10p1s01_7e7578d2:
 

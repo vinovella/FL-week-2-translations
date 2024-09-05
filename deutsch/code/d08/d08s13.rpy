@@ -1,4 +1,3 @@
-
 # game/code/d08/d08s13.rpy:72
 translate deutsch d08s13_1b5ba849:
 
@@ -1106,3 +1105,4 @@ translate deutsch strings:
     # game/code/d08/d08s13.rpy:130
     old "We would have to decide what to do about that"
     new "Wir müssten entscheiden, was zu tun ist"
+

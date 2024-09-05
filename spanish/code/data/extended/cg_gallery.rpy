@@ -1,4 +1,3 @@
-
 translate spanish strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
@@ -136,7 +135,6 @@ translate spanish strings:
     # game/code/data/extended/cg_gallery.rpy:21
     old "Don't lie to Lydia"
     new "No le mientas a Lydia"
-
 
 translate spanish strings:
 
@@ -288,13 +286,11 @@ translate spanish strings:
     old "Day 13: Vanessa"
     new "Día 13: Vanessa"
 
-
 translate spanish strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Safewords are for noobs"
     new "Las palabras de seguridad son para los novatos"
-
 
 translate spanish strings:
 
@@ -317,3 +313,4 @@ translate spanish strings:
     # game/code/data/extended/cg_gallery.rpy:21
     old "Party 3: Participants"
     new "Party 3: Participants"
+

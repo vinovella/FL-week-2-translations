@@ -1,4 +1,3 @@
-
 # game/code/d14p2/d14s19_sy.rpy:141
 translate french d14s19_sy_2c3af789:
 
@@ -1202,3 +1201,4 @@ translate french strings:
     # game/code/d14p2/d14s19_sy.rpy:1138
     old "I enjoyed the sex, but..."
     new "J'ai aimé le sexe, mais..."
+

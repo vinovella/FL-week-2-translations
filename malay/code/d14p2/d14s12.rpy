@@ -1,4 +1,3 @@
-
 # game/code/d14p2/d14s12.rpy:58
 translate malay d14s12_3528b61a:
 

@@ -1,4 +1,3 @@
-
 # game/code/d12/d12s04.rpy:32
 translate portuguese d12s04_29002f0b:
 
@@ -874,7 +873,6 @@ translate portuguese strings:
     # game/code/d12/d12s04.rpy:496
     old "Take the plunge; be a considerate lover"
     new "Mandar ver; ser um amante atencioso"
-
 
 # game/code/d12/d12s04.rpy:34
 translate portuguese d12s04_8cc9a922:

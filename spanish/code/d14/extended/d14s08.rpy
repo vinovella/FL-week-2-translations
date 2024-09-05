@@ -1,4 +1,3 @@
-
 # game/code/d14/extended/d14s08.rpy:47
 translate spanish d14s08_383c46ec:
 
@@ -782,7 +781,6 @@ translate spanish strings:
     # game/code/d14/extended/d14s08.rpy:327
     old "That's Enough"
     new "Es Suficiente"
-
 
 # game/code/d14/extended/d14s08.rpy:61
 translate spanish d14s08_a1b3e82d:

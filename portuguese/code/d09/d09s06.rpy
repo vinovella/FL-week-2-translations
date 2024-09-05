@@ -1,4 +1,3 @@
-
 # game/code/d09/d09s06.rpy:11
 translate portuguese d09s06_fd7a39cb:
 

@@ -1,4 +1,3 @@
-
 # game/code/d10/d10s06.rpy:6
 translate spanish d10s06_3797c0e5:
 
@@ -185,7 +184,6 @@ translate spanish d10s06_25e373f4:
     # nk "She's been trying to show me \"what a woman can do\" for ages now. I've always told her no, but I guess she found out a way to get into my pants regardless."
     nk "Ella ha estado tratando de mostrarme \"lo que una mujer puede hacer\" desde hace años. Siempre le he dicho que no, pero supongo que ha encontrado la manera de meterse en mis pantalones a pesar de todo."
       
-
 # game/code/d10/d10s06.rpy:57
 translate spanish d10s06_ae98f407:
 
@@ -305,3 +303,4 @@ translate spanish d10s06_38cf5d59:
 
     # mc "Right? That woman sure knows how to make a good cup of Joe."
     mc "¿Verdad? Esa mujer sí que sabe hacer una buena taza de café."
+

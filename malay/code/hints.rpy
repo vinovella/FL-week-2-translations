@@ -1,4 +1,3 @@
-
 translate malay strings:
 
     # game/code/hints.rpy:5
@@ -629,9 +628,9 @@ translate malay strings:
     old "No hints available."
     new "Tiada petunjuk tersedia."
 
-
 translate malay strings:
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Squizzle develops - This will end Min's path."
     new "Ini ialah pilihan penting yang mengubah cara perhubungan anda dengan Squizzle berkembang - Ini akan menamatkan laluan Min."
+

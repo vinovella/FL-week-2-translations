@@ -1,4 +1,3 @@
-
 # game/code/d10/d10s02.rpy:11
 translate malay d10s02_f28413eb:
 
@@ -920,7 +919,6 @@ translate malay strings:
     # game/code/d10/d10s02.rpy:187
     old "Ask her if she wants to earn some points"
     new "Tanya kepadanya jika dia mahu mendapatkan beberapa mata"
-
 
 # game/code/d10/d10s02.rpy:253
 translate malay d10s02_warning_dbc3fbdf:

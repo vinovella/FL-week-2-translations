@@ -1,4 +1,3 @@
-
 # game/code/d11/d11s07.rpy:50
 translate deutsch d11s07_a362d45b:
 
@@ -1058,3 +1057,4 @@ translate deutsch strings:
     # game/code/d11/d11s07.rpy:362
     old "Kiss AmRose on the Neck"
     new "Küss' AmRose auf den Nacken"
+

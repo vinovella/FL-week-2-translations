@@ -1,4 +1,3 @@
-
 translate chinese strings:
 
     # game/code/d14p2/d14s19_menu.rpy:10

@@ -1,4 +1,3 @@
-
 # game/code/d08/d08s12.rpy:47
 translate turkish d08s12_51233532:
 

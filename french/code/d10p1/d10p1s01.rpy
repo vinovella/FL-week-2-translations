@@ -1,4 +1,3 @@
-
 # game/code/d10p1/d10p1s01.rpy:8
 translate french d10p1s01_27b48bcf:
 
@@ -1263,7 +1262,6 @@ translate french strings:
     old "FLÜGGÅӘNKб€ČHIŒßØLĮÊN"
     new "FLÜGGÅӘNKб€ČHIŒßØLĮÊN"
 
-
     old "Samurai"
     new "Samurai"
 
@@ -1275,8 +1273,6 @@ translate french strings:
     old "Please enter a safe word!"
     new "Veuillez saisir un mot de sécurité !"
 
-
     old "Apples"
     new "Pommes"
-
 

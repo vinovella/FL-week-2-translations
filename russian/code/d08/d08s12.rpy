@@ -1,4 +1,3 @@
-
 # game/code/d08/d08s12.rpy:49
 translate russian d08s12_51233532:
 
@@ -704,7 +703,6 @@ translate russian strings:
     # game/code/d08/d08s12.rpy:503
     old "It is your turn now"
     new "Теперь твоя очередь"
-
 
 # game/code/d08/d08s12.rpy:545
 translate russian d08s12_end_ebe54fab:

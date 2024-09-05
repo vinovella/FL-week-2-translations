@@ -1,4 +1,3 @@
-
 # game/code/d08/d08s12.rpy:43
 translate italian d08s12_51233532:
 
@@ -681,7 +680,6 @@ translate italian strings:
     old "It is your turn now"
     new "Adesso tocca a te"
     
-
 # game/code/d08/d08s12.rpy:191
 translate italian d08s12_deny_b5e3f444:
 

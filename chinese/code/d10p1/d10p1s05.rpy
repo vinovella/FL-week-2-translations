@@ -1,4 +1,3 @@
-
 # game/code/d10p1/d10p1s05.rpy:29
 translate chinese d10p1s05_1cee2083:
 
@@ -1012,3 +1011,4 @@ translate chinese strings:
     # game/code/d10p1/d10p1s05.rpy:257
     old "ATM FTW"
     new "射她嘴里"
+

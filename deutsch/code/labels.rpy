@@ -1,12 +1,8 @@
-
-
 # game/code/labels.rpy:149
 translate deutsch knockknock_a3fe61f9:
 
     # "Knock, knock"
     "Klopf, Klopf"
-
-
 
 # game/code/labels.rpy:104
 translate deutsch after_credits_4092fc7e:
@@ -254,9 +250,9 @@ translate deutsch after_credits_e29ad5fa:
     # "{color=#ec8664}Unknown Girl 3{/color}" "Zemfira! That is the wrong outfit! Chapter 4 Scene 5 isn't a sex scene! What are you wearing??"
     "{color=#ec8664}Unbekanntes Mädchen 3{/color}" "Zemfira! Das ist das falsche Outfit! Kapitel 4 Szene 5 ist keine Sexszene! Was trägst du da??"
 
-
 # game/code/labels.rpy:454
 translate deutsch buzz_4377a2f7:
 
     # "Bzzzzz" with hpunch
     "Bzzzzz" with hpunch
+

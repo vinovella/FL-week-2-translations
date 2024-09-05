@@ -1,4 +1,3 @@
-
 # game/code/d10p1/d10p1s06.rpy:25
 translate spanish d10p1s06_d17c010b:
 
@@ -632,3 +631,4 @@ translate spanish strings:
     # game/code/d10p1/d10p1s06.rpy:160
     old "I don't want to see this"
     new "No quiero ver esto"
+

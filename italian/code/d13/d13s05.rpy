@@ -1,4 +1,3 @@
-
 # game/code/d13/d13s05.rpy:37
 translate italian d13s05_67dfdc05:
 
@@ -693,4 +692,3 @@ translate italian strings:
     old "Chase"
     new "Imma"
 
-    

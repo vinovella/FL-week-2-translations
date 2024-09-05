@@ -1,4 +1,3 @@
-
 translate korean strings:
 
     # game/code/screens/extended/pool.rpy:311

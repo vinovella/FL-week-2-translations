@@ -1,4 +1,3 @@
-
 translate russian strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
@@ -280,7 +279,6 @@ translate russian strings:
     # game/code/data/extended/cg_gallery.rpy:21
     old "Party 3: Participants"
     new "Вечеринка 3: Участники"
-
 
 translate russian strings:
 

@@ -1,4 +1,3 @@
-
 # game/code/d14/extended/d14s08.rpy:47
 translate deutsch d14s08_383c46ec:
 

@@ -1,4 +1,3 @@
-
 # game/code/d08/d08s13.rpy:72
 translate spanish d08s13_1b5ba849:
 
@@ -1106,3 +1105,4 @@ translate spanish strings:
     # game/code/d08/d08s13.rpy:130
     old "We would have to decide what to do about that"
     new "Tendríamos que decidir qué hacer al respecto"
+

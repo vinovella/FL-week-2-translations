@@ -1,4 +1,3 @@
-
 # game/code/d14p2/d14s15.rpy:15
 translate turkish d14s15_fc6e4a25:
 
@@ -607,9 +606,9 @@ translate turkish strings:
     old "Maybe"
     new "Belki"
 
-
 translate turkish strings:
 
     # game/code/d14p2/d14s15.rpy:311
     old "No {#d14s15}"
     new "Hayır {#d14s15}"
+

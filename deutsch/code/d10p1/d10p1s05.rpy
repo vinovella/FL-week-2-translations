@@ -1,4 +1,3 @@
-
 # game/code/d10p1/d10p1s05.rpy:29
 translate deutsch d10p1s05_1cee2083:
 
@@ -1007,9 +1006,9 @@ translate deutsch strings:
     old "ATM FTW"
     new "ATM FTW"
 
-
 # game/code/d10p1/d10p1s05.rpy:491
 translate deutsch d10p1s05_end_e8b03348:
 
     # mc "So, she spat piss all over him?"
     mc "Also hat sie ihn überall mit Pisse bespritzt?"
+

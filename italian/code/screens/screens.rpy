@@ -1,4 +1,3 @@
-
 translate italian strings:
 
     # game/screens.rpy:256

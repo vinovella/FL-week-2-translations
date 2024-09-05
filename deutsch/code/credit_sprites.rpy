@@ -1,4 +1,3 @@
-
 translate deutsch strings:
 
     # game/code/credit_sprites.rpy:7
@@ -48,3 +47,4 @@ translate deutsch strings:
     # game/code/credit_sprites.rpy:74
     old "Huge thanks to\nall of our fans\nand everyone who\nsupported us and\nhelped to bring\nthis story to life"
     new "Ein großes Dankeschön an\nall unsere Fans\nund jeden, der\nuns unterstützt und\nund geholfen hat\ndiese Geschichte zum Leben zu erwecken"
+

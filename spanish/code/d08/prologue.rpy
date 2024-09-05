@@ -1,4 +1,3 @@
-
 # game/code/d08/prologue.rpy:57
 translate spanish prologue_fresh_start_4063ae17:
 
@@ -159,7 +158,6 @@ translate spanish strings:
     old "Her firm ass"
     new "Su firme trasero"
 
-
 # game/code/d08/prologue.rpy:184
 translate spanish prologue_nora_creampie_fcd0a635:
 
@@ -181,7 +179,6 @@ translate spanish prologue_fetishes_7bc3a4e5:
 
     # "It's time to choose your preferences.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many as you want and press \"Done\"."
     "It's time to choose your preferences.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many as you want and press \"Done\"."
-
 
 # game/code/d08/prologue.rpy:67
 translate spanish prologue_fresh_start_ab0acec6:

@@ -1,4 +1,3 @@
-
 # game/code/d10p1/d10p1s03.rpy:8
 translate italian d10p1s03_2a4fa63e:
 
@@ -1233,9 +1232,9 @@ translate italian strings:
     old "Don't"
     new "No"
 
-
 translate italian strings:
 
     # game/code/d10p1/d10p1s03.rpy:441
     old "Help{#d10p1s03}"
     new "Aiutalo{#d10p1s03}"
+

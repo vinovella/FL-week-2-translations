@@ -1,4 +1,3 @@
-
 # game/code/d10p2/d10p2s04.rpy:39
 translate spanish d10p2s04_adc829f6:
 
@@ -220,3 +219,4 @@ translate spanish d10p2s04_5a122271:
 
     # mc "Welp, I got nothing to lose."
     mc "Bueno, no tengo nada que perder."
+

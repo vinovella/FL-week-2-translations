@@ -1,4 +1,3 @@
-
 translate french strings:
 
     # game/code/screens/screens.rpy:272
@@ -357,7 +356,6 @@ translate french strings:
     old "Menu"
     new "Menu"
 
-
 translate french strings:
 
     # game/code/screens/screens.rpy:653
@@ -367,7 +365,6 @@ translate french strings:
     # game/code/screens/screens.rpy:656
     old "Try our new game Taboo University"
     new "Essayez notre nouveau jeu Taboo University"
-
 
 translate french strings:
 

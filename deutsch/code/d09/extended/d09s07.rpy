@@ -1,4 +1,3 @@
-
 # game/code/d09/extended/d09s07.rpy:54
 translate deutsch d09s07_e733d4b9:
 
@@ -1528,3 +1527,4 @@ translate deutsch strings:
     # game/code/d09/extended/d09s07.rpy:416
     old "Flip her over"
     new "Dreh sie um"
+

@@ -1,4 +1,3 @@
-
 # game/code/d11/d11s03.rpy:6
 translate spanish d11s03_3d1dc366:
 
@@ -1547,7 +1546,6 @@ translate spanish d11s03_cdbcb035:
     # arj "Sure, but, I mean - how would we get people to come there?"
     arj "Claro, pero, quiero decir - ¿cómo vamos a conseguir que la gente vaya allí?"
     
-
 # game/code/d11/d11s03.rpy:479
 translate spanish d11s03_8d4359e9:
 

@@ -1,4 +1,3 @@
-
 # game/code/d13/d13s04.rpy:8
 translate chinese d13s04_0bef8c27:
 

@@ -1,4 +1,3 @@
-
 translate italian strings:
 
     # game/script.rpy:23

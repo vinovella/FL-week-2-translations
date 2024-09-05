@@ -1,4 +1,3 @@
-
 # game/code/d12/d12s05.rpy:17
 translate deutsch d12s05_1758d1cc:
 

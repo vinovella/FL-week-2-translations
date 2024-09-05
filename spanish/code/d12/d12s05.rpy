@@ -1,4 +1,3 @@
-
 # game/code/d12/d12s05.rpy:17
 translate spanish d12s05_1758d1cc:
 
@@ -1210,3 +1209,4 @@ translate spanish strings:
     # game/code/d12/d12s05.rpy:569
     old "Stop Lydia Before You Cum"
     new "Detén a Lydia antes de que te corras"
+

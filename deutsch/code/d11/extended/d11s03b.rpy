@@ -1,4 +1,3 @@
-
 # game/code/d11/extended/d11s03b.rpy:10
 translate deutsch d11s03b_d02856eb:
 

@@ -1,4 +1,3 @@
-
 translate deutsch strings:
 
     # renpy/common/00accessibility.rpy:28
@@ -957,7 +956,6 @@ translate deutsch strings:
     old "Copies the errors.txt file to the clipboard as Markdown for Discord."
     new "Kopiert die errors.txt Datei auf das Clipboard als Markdown für Discord."
 
-
 translate deutsch strings:
 
     # renpy/common/_compat/gamemenu.rpym:198
@@ -1128,7 +1126,6 @@ translate deutsch strings:
     old "q"
     new "q"
 
-
 translate deutsch strings:
 
     # renpy/common/00accessibility.rpy:180
@@ -1207,7 +1204,6 @@ translate deutsch strings:
     old "Press or move the '[control!s]' [kind]."
     new "Drücke oder bewege '[control!s]' [kind]."
 
-
 translate deutsch strings:
 
     # renpy/common/00action_other.rpy:703
@@ -1225,7 +1221,6 @@ translate deutsch strings:
     # renpy/common/00preferences.rpy:531
     old "mute main"
     new "mute main"
-
 
 translate deutsch strings:
 
@@ -1336,7 +1331,6 @@ translate deutsch strings:
     # renpy/common/00sync.rpy:631
     old "Sync Error"
     new "Sync Error"
-
 
 translate deutsch strings:
 

@@ -1,4 +1,3 @@
-
 # game/code/d14/d14s03.rpy:5
 translate deutsch d14s03_e0ad0b38:
 

@@ -1,4 +1,3 @@
-
 translate korean strings:
 
     # game/code/data/prologue.rpy:16

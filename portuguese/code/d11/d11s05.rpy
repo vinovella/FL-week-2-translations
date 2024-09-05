@@ -1,4 +1,3 @@
-
 # game/code/d11/d11s05.rpy:25
 translate portuguese d11s05_d53e0c53:
 
@@ -356,7 +355,6 @@ translate portuguese strings:
     # game/code/d11/d11s05.rpy:158
     old "Do it. Find out the truth"
     new "Vá em frente. Descubra a verdade"
-
 
 # game/code/d11/d11s05.rpy:140
 translate portuguese d11s05_791d313d:

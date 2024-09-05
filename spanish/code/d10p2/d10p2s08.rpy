@@ -1,4 +1,3 @@
-
 # game/code/d10p2/d10p2s08.rpy:29
 translate spanish d10p2s08_42ace476:
 
@@ -2417,7 +2416,6 @@ translate spanish strings:
     old "Blowjob from AmRose"
     new "Mamada de AmRose"
 
-
 # game/code/d10p2/d10p2s08.rpy:710
 translate spanish d10p2s08_mh_part3_4f2cc688:
 
@@ -2435,7 +2433,6 @@ translate spanish d10p2s08_mh_part3_20d947bf:
 
     # lc "Please tell me it was Lyssa."
     lc "Por favor, dime que fue Lyssa."
-
 
 # game/code/d10p2/d10p2s08.rpy:957
 translate spanish d10p2s08_jf_part3_b49a9044:

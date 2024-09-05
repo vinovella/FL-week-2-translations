@@ -1,4 +1,3 @@
-
 # game/code/d13/d13s06.rpy:36
 translate malay d13s06_80586a78:
 
@@ -394,3 +393,4 @@ translate malay replay_d13s06_9a9ab7ca:
 
     # mc "Unless you have more in mind, then yes. That's the deal done."
     mc "Melainkan jika kau ada idea yang lain, maka ya. Ianya dah dilakukan."
+

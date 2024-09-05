@@ -1,4 +1,3 @@
-
 translate portuguese strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
@@ -261,7 +260,6 @@ translate portuguese strings:
     old "Day 13: Vanessa"
     new "Dia 13: Vanessa"
 
-
 translate portuguese strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
@@ -283,3 +281,4 @@ translate portuguese strings:
     # game/code/data/extended/cg_gallery.rpy:21
     old "Party 3: Participants"
     new "Festa 3: Participantes"
+

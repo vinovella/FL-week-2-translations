@@ -1,4 +1,3 @@
-
 translate deutsch_hidden strings:
 
     # 00library.rpy:142
@@ -84,3 +83,4 @@ translate deutsch_hidden strings:
     # 00gallery.rpy:586
     old "return"
     new "zurück"
+

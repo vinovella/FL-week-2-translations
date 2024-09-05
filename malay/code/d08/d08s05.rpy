@@ -1,4 +1,3 @@
-
 # game/code/d08/d08s05.rpy:5
 translate malay d08s05_06a950b5:
 
@@ -1214,3 +1213,4 @@ translate malay strings:
     # game/code/d08/d08s05.rpy:351
     old "Yes, Mistress"
     new "Ya, Puan."
+

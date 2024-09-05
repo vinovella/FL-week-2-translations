@@ -1,4 +1,3 @@
-
 # game/code/d10p2/d10p2s07.rpy:7
 translate french d10p2s07_f239d031:
 
@@ -838,5 +837,4 @@ translate french d10p2s07_aa77db00:
 
     # mct "Well, I guess I best get ready."
     mct "Eh bien, je suppose que je ferais mieux de me préparer."
-
 

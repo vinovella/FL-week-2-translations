@@ -1,4 +1,3 @@
-
 translate portuguese strings:
 
     # game/code/debug.rpy:31

@@ -1,4 +1,3 @@
-
 translate french strings:
 
     # game/code/screens/screens_fl.rpy:55
@@ -184,7 +183,6 @@ translate french strings:
     # game/code/screens/screens_fl.rpy:892
     old "Close the game"
     new "Fermer le jeu"
-
 
 translate french strings:
 

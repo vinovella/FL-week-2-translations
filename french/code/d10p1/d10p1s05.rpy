@@ -1,4 +1,3 @@
-
 # game/code/d10p1/d10p1s05.rpy:32
 translate french d10p1s05_1cee2083:
 
@@ -1012,5 +1011,4 @@ translate french strings:
     # game/code/d10p1/d10p1s05.rpy:343
     old "ATM FTW"
     new "lui laissez une haleine \"fraiche\""
-
 

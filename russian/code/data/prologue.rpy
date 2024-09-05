@@ -1,4 +1,3 @@
-
 translate russian strings:
 
     # game/code/data/prologue.rpy:16
@@ -116,7 +115,6 @@ translate russian strings:
     # game/code/data/prologue.rpy:50
     old "Not_Mike"
     new "Не_Майк"
-
 
 translate russian strings:
 

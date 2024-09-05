@@ -1,4 +1,3 @@
-
 # game/code/d13/d13s01.rpy:24
 translate korean d13s01_b0c8f2b8:
 

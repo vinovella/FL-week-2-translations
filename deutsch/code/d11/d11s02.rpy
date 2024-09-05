@@ -1,4 +1,3 @@
-
 # game/code/d11/d11s02.rpy:28
 translate deutsch d11s02_4ee8cc8f:
 
@@ -1717,16 +1716,15 @@ translate deutsch strings:
     old "Decline. I want nothing more to do with Maria or Terrell"
     new "Lehne ab. Ich will nichts mehr mit Maria oder Terrell zu tun habe"
 
-
 # game/code/d11/d11s02.rpy:277
 translate deutsch d11s02_76e2bd99:
 
     # mc "Stop. Tomato Juice. [mc_safeword!t]. Halt."
     mc "Stop. Tomatensaft. [mc_safeword!t]. Halt."
 
-
 # game/code/d11/d11s02.rpy:37
 translate deutsch d11s02_c8046555:
 
     # arj "Just a few more days... finals are coming soon."
     arj "Nur noch ein paar Tage... bald kommt der Abschluss."
+

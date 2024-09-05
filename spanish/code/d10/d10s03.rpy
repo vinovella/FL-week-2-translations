@@ -1,4 +1,3 @@
-
 # game/code/d10/d10s03.rpy:26
 translate spanish d10s03_68b91133:
 
@@ -636,3 +635,4 @@ translate spanish strings:
     # game/code/d10/d10s03.rpy:193
     old "Let's go"
     new "Vamos."
+

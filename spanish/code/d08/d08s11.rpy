@@ -1,4 +1,3 @@
-
 # game/code/d08/d08s11.rpy:7
 translate spanish d08s11_2fc7f19d:
 
@@ -778,3 +777,4 @@ translate spanish d08s11_802969c8:
 
     # op "Oh... okay..."
     op "Oh... está bien..."
+

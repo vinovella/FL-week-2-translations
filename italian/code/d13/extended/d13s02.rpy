@@ -1,4 +1,3 @@
-
 # game/code/d13/extended/d13s02.rpy:36
 translate italian d13s02_acea7575:
 
@@ -286,3 +285,4 @@ translate italian replay_d13s02_78ed1a5b:
 
     # mc "That was fun. But I should be going."
     mc "È stato divertente. Ma ora dovrei andare."
+

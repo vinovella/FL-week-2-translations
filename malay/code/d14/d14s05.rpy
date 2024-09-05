@@ -1,4 +1,3 @@
-
 # game/code/d14/d14s05.rpy:8
 translate malay d14s05_2bf3d221:
 
@@ -2067,7 +2066,6 @@ translate malay strings:
     old "Let Stacy Win"
     new "Biarkan Stacy Menang"
 
-
 # game/code/d14/d14s05.rpy:267
 translate malay d14s05_e5c14757:
 
@@ -2079,7 +2077,6 @@ translate malay d14s05_c2eb53da:
 
     # mc "Of course not."
     mc "Mestilah tak."
-
 
 # game/code/d14/d14s05.rpy:802
 translate malay d14s05_e89e3635:

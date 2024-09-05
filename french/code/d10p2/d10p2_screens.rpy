@@ -1,4 +1,3 @@
-
 translate french strings:
 
     # game/code/d10p2/d10p2_screens.rpy:6
@@ -180,5 +179,4 @@ translate french strings:
     # game/code/d10p2/d10p2_screens.rpy:1070
     old "Continue to the final scene"
     new "Continuez vers la scène finale"
-
 

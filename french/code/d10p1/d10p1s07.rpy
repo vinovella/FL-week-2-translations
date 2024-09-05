@@ -1,4 +1,3 @@
-
 # game/code/d10p1/d10p1s07.rpy:11
 translate french d10p1s07_26261cfb:
 
@@ -388,3 +387,4 @@ translate french d10p1s07_5aeb09ec:
 
     # arjfl "Just look right here!"
     arjfl "Regardez ici !"
+

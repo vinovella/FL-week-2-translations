@@ -1,4 +1,3 @@
-
 # game/code/d14p2/d14_end.rpy:42
 translate turkish d14_end_1b8a9473:
 

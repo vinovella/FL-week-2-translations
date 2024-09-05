@@ -1,4 +1,3 @@
-
 # game/code/d08/d08s12.rpy:43
 translate deutsch d08s12_51233532:
 
@@ -693,7 +692,6 @@ translate deutsch strings:
     old "It is your turn now"
     new "Du bist an der Reihe"
 
-
 # game/code/d08/d08s12.rpy:166
 translate deutsch d08s12_pre_mc_action_1614da67:
 
@@ -705,7 +703,6 @@ translate deutsch d08s12_deny_8b37064c:
 
     # mc "Nope... Be a good girl and make me cum."
     mc "Nope... Sei ein gutes Mädchen und lass mich kommen."
-
 
 # game/code/d08/d08s12.rpy:545
 translate deutsch d08s12_end_ebe54fab:

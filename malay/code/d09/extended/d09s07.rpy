@@ -1,4 +1,3 @@
-
 # game/code/d09/extended/d09s07.rpy:54
 translate malay d09s07_e733d4b9:
 
@@ -1528,3 +1527,4 @@ translate malay strings:
     # game/code/d09/extended/d09s07.rpy:555
     old "Flip her over"
     new "Terbalikkan dia"
+

@@ -1,4 +1,3 @@
-
 # game/code/d13/d13s05.rpy:37
 translate chinese d13s05_67dfdc05:
 
@@ -692,3 +691,4 @@ translate chinese strings:
     # game/code/d13/d13s05.rpy:146
     old "Chase"
     new "小贞"
+

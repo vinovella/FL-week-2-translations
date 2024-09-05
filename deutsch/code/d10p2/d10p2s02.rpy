@@ -1,4 +1,3 @@
-
 # game/code/d10p2/d10p2s02.rpy:11
 translate deutsch d10p2s02_ab6e5f7b:
 
@@ -910,3 +909,4 @@ translate deutsch strings:
     # game/code/d10p2/d10p2s02.rpy:142
     old "Came to his rescue"
     new "Zu seiner Rettung gekommen"
+

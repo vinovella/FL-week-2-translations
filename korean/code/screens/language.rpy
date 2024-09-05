@@ -1,4 +1,3 @@
-
 translate korean strings:
 
     # game/code/screens/language.rpy:22

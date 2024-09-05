@@ -1,4 +1,3 @@
-
 # game/code/d14p2/d14s13.rpy:6
 translate chinese d14s13_d2c80bad:
 
@@ -478,7 +477,6 @@ translate chinese d14s13_5af089f0:
 
     # hr "*Chuckles* You really remind me of my girlfriend."
     hr "*咯咯笑* 你让我想起了我女朋友。"
-
 
 # game/code/d14p2/d14s13.rpy:99
 translate chinese d14s13_2abde1da:

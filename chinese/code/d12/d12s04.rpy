@@ -1,4 +1,3 @@
-
 # game/code/d12/d12s04.rpy:32
 translate chinese d12s04_29002f0b:
 
@@ -826,7 +825,6 @@ translate chinese strings:
     # game/code/d12/d12s04.rpy:476
     old "Take the plunge; be a considerate lover"
     new "大胆尝试；做个体贴的恋人"
-
 
 # game/code/d12/d12s04.rpy:207
 translate chinese replay_d12s04_f874a4ed:

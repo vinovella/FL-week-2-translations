@@ -1,4 +1,3 @@
-
 # game/code/d10p1/d10p1s06.rpy:25
 translate chinese d10p1s06_d17c010b:
 
@@ -591,7 +590,6 @@ translate chinese strings:
     old "I don't want to see this"
     new "我不想看到这个"
 
-
 # game/code/d10p1/d10p1s06.rpy:115
 translate chinese d10p1s06_part_2_28802472:
 
@@ -633,3 +631,4 @@ translate chinese d10p1s06_part_2_7e37ff87:
 
     # mc "Same. Later, Iona."
     mc "我也是。回头见，欧娜。"
+

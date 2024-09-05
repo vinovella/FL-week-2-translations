@@ -1,4 +1,3 @@
-
 # game/code/d10p1/d10p1s01.rpy:8
 translate portuguese d10p1s01_27b48bcf:
 
@@ -1272,7 +1271,6 @@ translate portuguese strings:
     # game/code/d10p1/d10p1s01.rpy:302
     old "Apples"
     new "Maçãs"
-
 
 # game/code/d10p1/d10p1s01.rpy:375
 translate portuguese d10p1s01_427f0b81:

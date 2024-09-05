@@ -1,4 +1,3 @@
-
 translate malay strings:
 
     # game/code/data/extended/replay_room.rpy:15
@@ -105,7 +104,6 @@ translate malay strings:
     old "Party 2: Allison and Squizzle"
     new "Parti 2: Allison dan Squizzle"
 
-
 translate malay strings:
 
     # game/code/data/extended/replay_room.rpy:15
@@ -195,7 +193,6 @@ translate malay strings:
     # game/code/data/extended/replay_room.rpy:15
     old "Day 13: Stacy"
     new "Hari 13: Stacy"
-
 
 translate malay strings:
 

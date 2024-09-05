@@ -1,4 +1,3 @@
-
 # game/code/d12/d12s01.rpy:61
 translate russian d12s01_43701264:
 
@@ -1608,7 +1607,6 @@ translate russian strings:
     # game/code/d12/d12s01.rpy:857
     old "No photos"
     new "Никаких фотографий"
-
 
 # game/code/d12/d12s01.rpy:235
 translate russian d12s01_1b9a042d:

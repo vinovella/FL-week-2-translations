@@ -1,4 +1,3 @@
-
 # game/code/d08/d08s12.rpy:43
 translate spanish d08s12_51233532:
 
@@ -692,7 +691,6 @@ translate spanish strings:
     # game/code/d08/d08s12.rpy:400
     old "It is your turn now"
     new "Ahora es su turno"
-
 
 # game/code/d08/d08s12.rpy:166
 translate spanish d08s12_pre_mc_action_1614da67:

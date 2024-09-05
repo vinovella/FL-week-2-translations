@@ -1,4 +1,3 @@
-
 # game/code/d09/d09s04.rpy:25
 translate spanish d09s04_e24786fb:
 
@@ -683,7 +682,6 @@ translate spanish replay_d09s04_e4163433:
     # mct "I guess zucchini counts as dildo..."
     mct "Supongo que el calabacín cuenta como consolador..."
 
-
 # game/code/d09/d09s04.rpy:27
 translate spanish d09s04_1629e8ef:
 
@@ -759,3 +757,4 @@ translate spanish strings:
     # game/code/d09/d09s04.rpy:88
     old "Be a gigolo"
     new "Ser un gigoló"
+

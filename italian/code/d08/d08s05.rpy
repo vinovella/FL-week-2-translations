@@ -1,4 +1,3 @@
-
 # game/code/d08/d08s05.rpy:5
 translate italian d08s05_06a950b5:
 
@@ -1196,7 +1195,6 @@ translate italian strings:
     # game/code/d08/d08s05.rpy:298
     old "Yes, Mistress"
     new "Sì, Padrona"
-
 
 # game/code/d08/d08s05.rpy:87
 translate italian d08s05_dd_320ef5c0:

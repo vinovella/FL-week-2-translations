@@ -1,4 +1,3 @@
-
 translate russian strings:
 
     # script.rpy:11
@@ -205,3 +204,4 @@ translate russian strings:
 
     old "Fetish Locator"
     new "Фетиш Локатор"
+

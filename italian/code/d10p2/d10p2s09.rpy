@@ -1,4 +1,3 @@
-
 # game/code/d10p2/d10p2s09.rpy:80
 translate italian d10p2s09_9a54df39:
 
@@ -375,16 +374,15 @@ translate italian strings:
     old "Cum on her tits"
     new "Le vieni sulle tette"
 
-
 # game/code/d10p2/d10p2s09.rpy:527
 translate italian d10p2s09_continue_688fd16d:
 
     # mesfl "*Gulp*"
     mesfl "*Gulp*"
 
-
 # game/code/d10p2/d10p2s09.rpy:680
 translate italian d10p2s09_continue_01785616_1:
 
     # "Everybody" "Wooo!"
     "Tutti" "Wooo!"
+

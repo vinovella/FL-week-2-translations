@@ -1,4 +1,3 @@
-
 # game/code/d14/d14s02.rpy:38
 translate italian d14s02_2affa5f6:
 
@@ -388,7 +387,6 @@ translate italian d14s02_09879994:
 
     # sy "Aarghhh..."
     sy "Aarghhh..."
-
 
 # game/code/d14/d14s02.rpy:105
 translate italian d14s02_6869e014:

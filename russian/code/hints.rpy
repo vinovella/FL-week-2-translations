@@ -1,4 +1,3 @@
-
 translate russian strings:
 
     # game/code/hints.rpy:5
@@ -628,3 +627,4 @@ translate russian strings:
     # game/code/hints.rpy:5
     old "No hints available."
     new "Подсказок нет"
+

@@ -1,4 +1,3 @@
-
 # game/code/d10p1/d10p1s02.rpy:36
 translate malay d10p1s02_216924c4:
 
@@ -754,3 +753,4 @@ translate malay replay_d10p1s02_596b4c4a:
 
     # mc "We'll see."
     mc "Kita tengoklah nanti."
+

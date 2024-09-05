@@ -1,4 +1,3 @@
-
 # game/code/d08/d08s07.rpy:6
 translate italian d08s07_ce6bbf32:
 
@@ -908,7 +907,6 @@ translate italian strings:
     # game/code/d08/d08s07.rpy:76
     old "You're both beautiful"
     new "Siete entrambe bellissime"
-
 
 # game/code/d08/d08s07.rpy:172
 translate italian d08s07_482ca548:

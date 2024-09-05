@@ -1,4 +1,3 @@
-
 translate chinese strings:
 
     # game/code/data/prologue.rpy:16

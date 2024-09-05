@@ -1,4 +1,3 @@
-
 # game/code/d10/d10s04.rpy:80
 translate spanish d10s04_0d4d03ce:
 
@@ -1394,3 +1393,4 @@ translate spanish strings:
     # game/code/d10/d10s04.rpy:400
     old "Not my thing"
     new "No es lo mío"
+

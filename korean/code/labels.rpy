@@ -1,4 +1,3 @@
-
 # game/code/labels.rpy:100
 translate korean after_credits_4092fc7e:
 

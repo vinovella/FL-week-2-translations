@@ -1,4 +1,3 @@
-
 # game/code/d08/d08s08.rpy:4
 translate portuguese d08s08_e8de1932:
 
@@ -466,7 +465,6 @@ translate portuguese d08s08_2fff4bf6:
 
     # mc "Take it easy, and hey...{w} Thanks for trying."
     mc "Suave, e olha... {w}Valeu por tentar."
-
 
 # game/code/d08/d08s08.rpy:11
 translate portuguese d08s08_3098df80:

@@ -1,4 +1,3 @@
-
 # game/code/d11/d11s07.rpy:50
 translate italian d11s07_a362d45b:
 
@@ -1059,4 +1058,3 @@ translate italian strings:
     old "Kiss AmRose on the Neck"
     new "Baci AmRose sul collo"
 
-    

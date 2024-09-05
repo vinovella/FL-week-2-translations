@@ -1,4 +1,3 @@
-
 # game/code/d10/d10s02.rpy:7
 translate deutsch d10s02_f28413eb:
 

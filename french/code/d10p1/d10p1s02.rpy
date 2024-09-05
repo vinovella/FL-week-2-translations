@@ -1,4 +1,3 @@
-
 # game/code/d10p1/d10p1s02.rpy:36
 translate french d10p1s02_216924c4:
 
@@ -754,5 +753,4 @@ translate french replay_d10p1s02_596b4c4a:
 
     # mc "We'll see."
     mc "Nous verrons ça."
-
 

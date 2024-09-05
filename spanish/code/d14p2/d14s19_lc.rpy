@@ -1,4 +1,3 @@
-
 # game/code/d14p2/d14s19_lc.rpy:30
 translate spanish d14s19_lc_f6f3315d:
 
@@ -430,3 +429,4 @@ translate spanish d14s19_lc_2f67d1a0:
 
     # mct "...idea."
     mct "...idea."
+

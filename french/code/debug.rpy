@@ -1,4 +1,3 @@
-
 translate french strings:
 
     # game/code/debug.rpy:31

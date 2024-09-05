@@ -1,4 +1,3 @@
-
 # game/code/d11/extended/d11s03b.rpy:10
 translate french d11s03b_d02856eb:
 
@@ -334,5 +333,4 @@ translate french replay_d11s03b_e27f958a:
 
     # aw "Yes, I am."
     aw "Oui je suis."
-
 

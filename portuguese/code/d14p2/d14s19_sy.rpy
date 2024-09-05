@@ -1,4 +1,3 @@
-
 # game/code/d14p2/d14s19_sy.rpy:135
 translate portuguese d14s19_sy_2c3af789:
 
@@ -926,7 +925,6 @@ translate portuguese strings:
     # game/code/d14p2/d14s19_sy.rpy:956
     old "I enjoyed the sex, but..."
     new "Adorei o sexo, mas..."
-
 
 # game/code/d14p2/d14s19_sy.rpy:164
 translate portuguese d14s19_sy_a0433917:

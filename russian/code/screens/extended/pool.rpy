@@ -1,4 +1,3 @@
-
 translate russian strings:
 
     # game/code/screens/extended/pool.rpy:291

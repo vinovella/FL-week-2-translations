@@ -1,4 +1,3 @@
-
 # game/code/d09/d09s03.rpy:52
 translate spanish d09s03_79966fa3:
 
@@ -1200,3 +1199,4 @@ translate spanish strings:
     # game/code/d09/d09s03.rpy:314
     old "soiled condoms"
     new "condones sucios"
+

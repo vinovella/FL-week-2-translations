@@ -1,4 +1,3 @@
-
 # game/code/d09/d09s05.rpy:37
 translate italian d09s05_57f407bc:
 
@@ -798,7 +797,6 @@ translate italian strings:
     # game/code/d09/d09s05.rpy:376
     old "Cover the whore"
     new "Le sborri addosso"
-
 
 # game/code/d09/d09s05.rpy:32
 translate italian d09s05_ef5e49b3:

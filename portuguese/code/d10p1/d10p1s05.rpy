@@ -1,4 +1,3 @@
-
 # game/code/d10p1/d10p1s05.rpy:32
 translate portuguese d10p1s05_1cee2083:
 

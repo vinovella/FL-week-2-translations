@@ -1,4 +1,3 @@
-
 # game/code/d14/d14s04.rpy:7
 translate spanish d14s04_30e0b8ff:
 
@@ -1150,3 +1149,4 @@ translate spanish d14s04_4fc90834:
 
     # sy "We will! Gotta run! Byeee!"
     sy "¡Lo haremos! ¡Tenemos que correr! ¡Adiós!"
+

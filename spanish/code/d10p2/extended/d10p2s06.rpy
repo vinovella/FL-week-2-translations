@@ -1,4 +1,3 @@
-
 # game/code/d10p2/extended/d10p2s06.rpy:37
 translate spanish d10p2s06_aca5d234:
 
@@ -388,3 +387,4 @@ translate spanish replay_d10p2s06_2794fd31:
 
     # "Everybody" "*Chuckles*"
     "Todo el mundo" "*Risas*"
+

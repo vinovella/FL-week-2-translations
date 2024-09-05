@@ -1,4 +1,3 @@
-
 # game/code/d08/d08s13.rpy:72
 translate korean d08s13_1b5ba849:
 

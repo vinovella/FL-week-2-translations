@@ -1,4 +1,3 @@
-
 # game/code/d14p2/d14s17.rpy:44
 translate spanish d14s17_59571f7e:
 
@@ -472,3 +471,4 @@ translate spanish strings:
     # game/code/d14p2/d14s17.rpy:271
     old "I don't have a phone with me"
     new "No tengo un teléfono conmigo"
+

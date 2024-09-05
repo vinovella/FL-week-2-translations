@@ -1,4 +1,3 @@
-
 translate russian strings:
 
     # game/code/screens/screens.rpy:270
@@ -373,7 +372,6 @@ translate russian strings:
     old "Menu"
     new "Меню"
 
-
 translate russian strings:
 
     # game/code/screens/screens.rpy:653
@@ -383,7 +381,6 @@ translate russian strings:
     # game/code/screens/screens.rpy:656
     old "Try our new game Taboo University"
     new "Try our new game Taboo University"
-
 
 translate russian strings:
 

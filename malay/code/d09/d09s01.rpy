@@ -1,4 +1,3 @@
-
 # game/code/d09/d09s01.rpy:4
 translate malay d09s01_2910aaa3:
 

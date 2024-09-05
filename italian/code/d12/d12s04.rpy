@@ -1,4 +1,3 @@
-
 # game/code/d12/d12s04.rpy:32
 translate italian d12s04_29002f0b:
 
@@ -827,7 +826,6 @@ translate italian strings:
     old "Take the plunge; be a considerate lover"
     new "Fai il grande passo: ti comporti da amante premuroso"
 
-
 # game/code/d12/d12s04.rpy:207
 translate italian replay_d12s04_f874a4ed:
 
@@ -876,8 +874,6 @@ translate italian replay_d12s04_faf75cbc:
     # mh "Huh. Still, I didn't know that you were gonna come by today. How long have you been here? Why didn't you call me?"
     mh "Oh. Comunque non sapevo che saresti passato oggi. Da quanto sei qui? Perché non mi hai chiamato?"
     
-    
-
 # game/code/d12/d12s04.rpy:34
 translate italian d12s04_8cc9a922:
 

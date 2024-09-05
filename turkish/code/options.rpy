@@ -1,4 +1,3 @@
-
 translate turkish strings:
 
     # game/code/options.rpy:18

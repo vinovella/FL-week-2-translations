@@ -1,4 +1,3 @@
-
 translate korean strings:
 
     # game/code/hints.rpy:5

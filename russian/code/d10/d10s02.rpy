@@ -1,4 +1,3 @@
-
 # game/code/d10/d10s02.rpy:11
 translate russian d10s02_f28413eb:
 
@@ -920,7 +919,6 @@ translate russian strings:
     # game/code/d10/d10s02.rpy:199
     old "Ask her if she wants to earn some points"
     new "Спроси ее, не хочет ли она заработать несколько очков?"
-
 
 # game/code/d10/d10s02.rpy:253
 translate russian d10s02_warning_dbc3fbdf:

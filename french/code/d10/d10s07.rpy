@@ -1,4 +1,3 @@
-
 # game/code/d10/d10s07.rpy:13
 translate french d10s07_fad11a7d:
 
@@ -538,5 +537,4 @@ translate french d10s07_ab1d44c5:
 
     # mc "A-a-and 50 points for ticket are gone."
     mc "E-e-et 50 points pour le ticket ont disparu."
-
 

@@ -1,4 +1,3 @@
-
 translate korean strings:
 
     # game/code/credit_sprites.rpy:29
@@ -52,3 +51,4 @@ translate korean strings:
     # game/code/credit_sprites.rpy:171
     old "We'll see you in Week Three!"
     new "3주차에서 뵙겠습니다!"
+

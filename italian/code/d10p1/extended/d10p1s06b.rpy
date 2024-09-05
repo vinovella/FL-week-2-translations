@@ -1,4 +1,3 @@
-
 # game/code/d10p1/extended/d10p1s06b.rpy:14
 translate italian d10p1s06b_542d1ba8:
 
@@ -124,3 +123,4 @@ translate italian d10p1s06b_1e1f356b:
 
     # mc "Well, that's what you need to protect everybody from pervy pricks I guess."
     mc "Beh, potrebbe essere utile per proteggere tutti dai cazzoni pervertiti, immagino."
+

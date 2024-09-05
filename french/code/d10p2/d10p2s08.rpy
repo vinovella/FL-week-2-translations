@@ -1,4 +1,3 @@
-
 # game/code/d10p2/d10p2s08.rpy:30
 translate french d10p2s08_42ace476:
 
@@ -2590,5 +2589,4 @@ translate french strings:
     # game/code/d10p2/d10p2s08.rpy:275
     old "Blowjob from AmRose"
     new "Fellation d'AmRose"
-
 

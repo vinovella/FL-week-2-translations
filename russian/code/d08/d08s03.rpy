@@ -1,4 +1,3 @@
-
 # game/code/d08/d08s03.rpy:16
 translate russian d08s03_4ee8cc8f:
 
@@ -1302,7 +1301,6 @@ translate russian strings:
     # game/code/d08/d08s03.rpy:526
     old "It was an accident"
     new "Это был несчастный случай"
-
 
 # game/code/d08/d08s03.rpy:122
 translate russian d08s03_3a9860c7:

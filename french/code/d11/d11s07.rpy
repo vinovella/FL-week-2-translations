@@ -1,4 +1,3 @@
-
 # game/code/d11/d11s07.rpy:50
 translate french d11s07_a362d45b:
 
@@ -1058,5 +1057,4 @@ translate french strings:
     # game/code/d11/d11s07.rpy:578
     old "Kiss AmRose on the Neck"
     new "Embrasser AmRose sur la Nuque"
-
 

@@ -1,4 +1,3 @@
-
 translate chinese strings:
 
     # game/code/debug.rpy:31

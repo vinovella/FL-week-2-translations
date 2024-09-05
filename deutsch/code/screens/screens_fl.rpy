@@ -1,4 +1,3 @@
-
 translate deutsch strings:
 
     # game/code/screens/screens_fl.rpy:82
@@ -17,7 +16,6 @@ translate deutsch strings:
     old "No save from week [FLSS.week.prev] has been detected"
     new "Es wurde von Woche [FLSS.week.prev] keine Speicherstand erkannt"
 
-
 translate deutsch strings:
 
     # game/code/screens/screens_fl.rpy:333
@@ -32,20 +30,17 @@ translate deutsch strings:
     old "Undo"
     new "Rückgängig"
 
-
 translate deutsch strings:
 
     # game/code/screens/screens_fl.rpy:375
     old "Fetish Locator is intended for a mature audience\nof 18 years or older. Please abide by your local laws.\nAll characters are 18 years or older. No exceptions.\nThe characters in Fetish Locator explore relationships and their sexuality in both healthy and unhealthy ways. Some of these may be offensive to some players. Viewer discretion is advised. To that end, much of the content is optional and often there are alternative paths available. This is necessary to the story. The content explored should not be treated as an endorsement of particular fetishes, kinks, or patterns of behaviour. Please explore your own relationships and sexuality responsibly.\n\nEnjoy!"
     new "Fetish Locator ist für Erwachsene ab 18 Jahren konzipiert. Bitte beachten Sie die örtlichen Gesetze. Alle Charaktere sind 18 Jahre alt oder älter. Ohne Ausnahmen. Fetisch-Locator Charaktere erforschen Beziehungen und ihre Sexualität auf gesunde und ungesunde Weise. Einige von ihnen können für einige Spieler beleidigend sein. Dem Betrachter wird geraten, vorsichtig zu sein. Zu diesem Zweck ist der größte Teil des Inhalts optional, und es gibt häufig alternative Pfade. Dies ist für die Handlung notwendig. Der zu recherchierende Inhalt sollte nicht als Unterstützung bestimmter Fetische, Perversionen oder Verhaltensweisen angesehen werden. Bitte recherchieren Sie verantwortungsbewusst Ihre eigenen Beziehungen und Sexualität.\n\nViel Spaß!"
 
-
 translate deutsch strings:
 
     # game/code/screens/screens_fl.rpy:485
     old "X-RAY"
     new "Röntgen"
-
 
 translate deutsch strings:
 
@@ -68,7 +63,6 @@ translate deutsch strings:
     # game/code/screens/screens_fl.rpy:93
     old "SAVE"
     new "SPEICHERN"
-
 
 translate deutsch strings:
 
@@ -94,20 +88,17 @@ translate deutsch strings:
     old "SKIP RECAP"
     new "ÜBERSPRINGE DEN RÜCKBLICK"
 
-
 translate deutsch strings:
 
     # game/code/screens/screens_fl.rpy:786
     old "SKIP"
     new "ÜBERSPRINGEN"
 
-
 translate deutsch strings:
 
     # game/code/screens/screens_fl.rpy:232
     old "Unnamed End Game Save"
     new "Unbenannte Speicherung des Endspiels"
-
 
 translate deutsch strings:
 
@@ -118,7 +109,6 @@ translate deutsch strings:
     # game/code/screens/screens_fl.rpy:570
     old "Go back and enable {b}Trans Content{/b} to be able to select Lyssa"
     new "Geh zurück und aktiviere den {b}Trans Inhalte{/b}, um Lyssa wählen zu können"
-
 
 translate deutsch strings:
 
@@ -224,7 +214,6 @@ translate deutsch strings:
     old "Confirm"
     new "Confirm"
 
-
 translate deutsch strings:
 
     # game/code/screens/screens_fl.rpy:884
@@ -235,7 +224,6 @@ translate deutsch strings:
     old "Close the game"
     new "Schließe das Spiel"
 
-
 translate deutsch strings:
 
     # game/code/screens/screens_fl.rpy:590
@@ -245,7 +233,6 @@ translate deutsch strings:
     # game/code/screens/screens_fl.rpy:888
     old "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
     new "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
-
 
 translate deutsch strings:
 

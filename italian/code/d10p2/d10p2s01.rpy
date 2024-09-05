@@ -1,4 +1,3 @@
-
 # game/code/d10p2/d10p2s01.rpy:57
 translate italian d10p2s01_c52271c1:
 
@@ -759,9 +758,9 @@ translate italian d10p2s01_6112aeb1:
     # dd "Terrific! See you."
     dd "Ottimo! Ci vediamo."
 
-
 # game/code/d10p2/d10p2s01.rpy:113
 translate italian d10p2s01_a55c5cb4:
 
     # dd "Just come outside. We will be waiting for you there!"
     dd "Vieni fuori e basta. Ti aspettiamo lì!"
+

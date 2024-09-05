@@ -1,4 +1,3 @@
-
 translate russian strings:
 
     # game/code/credit_sprites.rpy:29

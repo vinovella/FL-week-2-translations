@@ -1,4 +1,3 @@
-
 # game/code/d10p1/d10p1s05.rpy:29
 translate spanish d10p1s05_1cee2083:
 
@@ -1007,9 +1006,9 @@ translate spanish strings:
     old "ATM FTW"
     new "PEM PLV"
 
-
 # game/code/d10p1/d10p1s05.rpy:491
 translate spanish d10p1s05_end_e8b03348:
 
     # mc "So, she spat piss all over him?"
     mc "Entonces, ¿ella le escupió todo el pis?"
+

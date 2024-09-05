@@ -1,4 +1,3 @@
-
 # game/code/d14p2/d14s19_sy.rpy:141
 translate russian d14s19_sy_2c3af789:
 

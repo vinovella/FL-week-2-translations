@@ -1,4 +1,3 @@
-
 # game/code/d10p1/d10p1s04.rpy:3
 translate italian d10p1s04_4f91c35e:
 
@@ -629,9 +628,9 @@ translate italian d10p1s04_5702e34b:
     # arjfl "That's a good point..."
     arjfl "Bella domanda..."
 
-
 # game/code/d10p1/d10p1s04.rpy:50
 translate italian d10p1s04_f1a8019a:
 
     # arjfl "Wait, is URLittlePony is that the girl you took a picture of in the trashed place??"
     arjfl "Aspetta, ma URLittlePony non era quella ragazza a cui avevi scattato una foto in quell'immondezzaio?!?"
+

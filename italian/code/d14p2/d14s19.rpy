@@ -1,4 +1,3 @@
-
 # game/code/d14p2/d14s19.rpy:17
 translate italian d14s19_9870cd87:
 
@@ -262,3 +261,4 @@ translate italian d14s19_438935d0:
 
     # mct "I wonder who we're waiting for..."
     mct "Mi chiedo chi stiamo aspettando..."
+

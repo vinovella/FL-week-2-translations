@@ -1,4 +1,3 @@
-
 # game/code/d13/d13s05.rpy:37
 translate portuguese d13s05_67dfdc05:
 

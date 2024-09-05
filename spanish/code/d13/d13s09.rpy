@@ -1,4 +1,3 @@
-
 # game/code/d13/d13s09.rpy:24
 translate spanish d13s09_60af0d4f:
 
@@ -406,3 +405,4 @@ translate spanish replay_d13s09_9fb0e6e2:
 
     # sy "Ok, I'm finished! Who's next?"
     sy "Bien, ¡he terminado! ¿Quién es el siguiente?"
+

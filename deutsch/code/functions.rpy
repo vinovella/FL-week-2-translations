@@ -1,4 +1,3 @@
-
 translate deutsch strings:
 
     # game/code/functions.rpy:103
@@ -24,7 +23,6 @@ translate deutsch strings:
     # game/code/functions.rpy:130
     old "The game will try to replay the scene\naccording to your current playthrough"
     new "Das Spiel wird die Szene noch einmal spielen \n aufgrund deines jetzigen Abspielens"
-
 
 translate deutsch strings:
 

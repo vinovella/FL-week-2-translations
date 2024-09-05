@@ -1,4 +1,3 @@
-
 # game/code/d10p1/d10p1s06.rpy:25
 translate deutsch d10p1s06_d17c010b:
 
@@ -590,7 +589,6 @@ translate deutsch strings:
     # game/code/d10p1/d10p1s06.rpy:160
     old "I don't want to see this"
     new "Ich will das nicht sehen"
-
 
 # game/code/d10p1/d10p1s06.rpy:115
 translate deutsch d10p1s06_part_2_28802472:

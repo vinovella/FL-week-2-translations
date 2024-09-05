@@ -1,4 +1,3 @@
-
 # game/code/d12/d12s07.rpy:4
 translate deutsch d12s07_296981ed:
 

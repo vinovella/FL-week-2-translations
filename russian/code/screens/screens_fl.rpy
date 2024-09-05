@@ -1,4 +1,3 @@
-
 translate russian strings:
 
     # game/code/screens/screens_fl.rpy:53
@@ -69,11 +68,9 @@ translate russian strings:
     old "X-RAY"
     new "Рентген"
 
-
     # game/code/screens/screens_fl.rpy:778
     old "SKIP RECAP"
     new "ПРОПУСТИТЬ"
-
 
 translate russian strings:
 
@@ -84,7 +81,6 @@ translate russian strings:
     # game/code/screens/screens_fl.rpy:570
     old "Go back and enable {b}Trans Content{/b} to be able to select Lyssa"
     new "Вернитесь назад и выберите {b}Транс-контент{/b}, чтобы выбрать Лиссу"
-
 
 translate russian strings:
 
@@ -184,7 +180,6 @@ translate russian strings:
     old "Confirm"
     new "Подтвердить"
 
-
 translate russian strings:
 
     # game/code/screens/screens_fl.rpy:884
@@ -195,7 +190,6 @@ translate russian strings:
     old "Close the game"
     new "Выйти из игры"
 
-
 translate russian strings:
 
     # game/code/screens/screens_fl.rpy:590
@@ -205,7 +199,6 @@ translate russian strings:
     # game/code/screens/screens_fl.rpy:888
     old "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
     new "Если вы решите продолжить, ваши сохранения могут не работать между разными неделями. Вы больше не будете получать уведомления. Вы уверены?"
-
 
 translate russian strings:
 

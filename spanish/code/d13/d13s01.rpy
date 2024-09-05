@@ -1,4 +1,3 @@
-
 # game/code/d13/d13s01.rpy:24
 translate spanish d13s01_b0c8f2b8:
 
@@ -532,3 +531,4 @@ translate spanish strings:
     # game/code/d13/d13s01.rpy:148
     old "Stay and study"
     new "Quédate y estudia"
+

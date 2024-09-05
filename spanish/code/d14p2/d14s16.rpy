@@ -1,4 +1,3 @@
-
 # game/code/d14p2/d14s16.rpy:8
 translate spanish d14s16_d09c5d3d:
 
@@ -680,3 +679,4 @@ translate spanish strings:
     # game/code/d14p2/d14s16.rpy:217
     old "I really like you"
     new "Me gustas mucho"
+

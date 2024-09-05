@@ -1,4 +1,3 @@
-
 # game/code/d11/d11s03.rpy:6
 translate turkish d11s03_3d1dc366:
 

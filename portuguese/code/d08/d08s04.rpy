@@ -1,4 +1,3 @@
-
 # game/code/d08/d08s04.rpy:17
 translate portuguese d08s04_01cc8f65:
 
@@ -526,7 +525,6 @@ translate portuguese replay_d08s04_606e2d02:
 
     # mc "Sure."
     mc "Beleza."
-
 
 # game/code/d08/d08s04.rpy:53
 translate portuguese d08s04_09e6bb19:

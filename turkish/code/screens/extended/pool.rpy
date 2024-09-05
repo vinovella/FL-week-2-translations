@@ -1,4 +1,3 @@
-
 translate turkish strings:
 
     # game/code/screens/extended/pool.rpy:311

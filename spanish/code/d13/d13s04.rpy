@@ -1,4 +1,3 @@
-
 # game/code/d13/d13s04.rpy:8
 translate spanish d13s04_0bef8c27:
 
@@ -1010,3 +1009,4 @@ translate spanish strings:
     # game/code/d13/d13s04.rpy:31
     old "No. I'm not a father"
     new "No. No soy un padre"
+

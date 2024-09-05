@@ -1,4 +1,3 @@
-
 # game/code/d10/d10s07.rpy:13
 translate malay d10s07_fad11a7d:
 

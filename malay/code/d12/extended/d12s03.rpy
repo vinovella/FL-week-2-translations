@@ -1,4 +1,3 @@
-
 # game/code/d12/extended/d12s03.rpy:37
 translate malay d12s03_9f358fa6:
 

@@ -1,4 +1,3 @@
-
 translate french strings:
 
     # game/code/options.rpy:18

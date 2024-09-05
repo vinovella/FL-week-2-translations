@@ -1,4 +1,3 @@
-
 # game/code/d14/d14s05.rpy:8
 translate korean d14s05_2bf3d221:
 

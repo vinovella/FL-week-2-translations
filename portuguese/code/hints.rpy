@@ -1,4 +1,3 @@
-
 translate portuguese strings:
 
     # game/code/hints.rpy:5
@@ -628,7 +627,6 @@ translate portuguese strings:
     # game/code/hints.rpy:5
     old "No hints available."
     new "Não há dicas disponíveis."
-
 
 translate portuguese strings:
 

@@ -1,4 +1,3 @@
-
 # game/code/d10p2/extended/d10p2s06.rpy:37
 translate chinese d10p2s06_aca5d234:
 
@@ -388,3 +387,4 @@ translate chinese replay_d10p2s06_2794fd31:
 
     # "Everybody" "*Chuckles*"
     "所有人" "*咯咯笑*"
+

@@ -1,4 +1,3 @@
-
 translate korean strings:
 
     # game/code/data/extended/extra_gallery.rpy:15

@@ -1,4 +1,3 @@
-
 translate chinese strings:
 
     old "Pete"
@@ -165,3 +164,4 @@ translate chinese strings:
 
     old "Oliver"
     new "奥利弗"
+

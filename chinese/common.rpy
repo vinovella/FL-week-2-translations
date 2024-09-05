@@ -1140,7 +1140,6 @@ translate chinese strings:
     old "Copies the errors.txt file to the clipboard as Markdown for Discord."
     new "将errors.txt文件复制到剪贴板，作为 Discord 的 Markdown。"
 
-
 translate chinese strings:
 
     # renpy/common/00accessibility.rpy:180
@@ -1219,7 +1218,6 @@ translate chinese strings:
     old "Press or move the '[control!s]' [kind]."
     new "Press or move the '[control!s]' [kind]."
 
-
 translate chinese strings:
 
     # renpy/common/00action_other.rpy:703
@@ -1237,7 +1235,6 @@ translate chinese strings:
     # renpy/common/00preferences.rpy:531
     old "mute main"
     new "mute main"
-
 
 translate chinese strings:
 
@@ -1348,7 +1345,6 @@ translate chinese strings:
     # renpy/common/00sync.rpy:631
     old "Sync Error"
     new "Sync Error"
-
 
 translate chinese strings:
 

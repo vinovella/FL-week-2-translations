@@ -1,4 +1,3 @@
-
 # game/code/recap.rpy:53
 translate deutsch d08s00_week1synopsis_9b6483a6:
 
@@ -946,3 +945,4 @@ translate deutsch d08s00_week1synopsis_1743400f:
 
     # "Hana revealed many things, including the fact that she was investigating Fetish Locator and trying to figure out a way to win the prize. She had only slept with Pete to get access to his phone."
     "Hana revealed many things, including the fact that she was investigating Fetish Locator and trying to figure out a way to win the prize. She had only slept with Pete to get access to his phone."
+

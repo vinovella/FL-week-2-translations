@@ -1,4 +1,3 @@
-
 # game/code/d08/d08s10.rpy:3
 translate deutsch d08s10_56849fdc:
 

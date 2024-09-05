@@ -1,4 +1,3 @@
-
 translate portuguese strings:
 
     # game/code/data/extended/replay_room.rpy:15
@@ -193,7 +192,6 @@ translate portuguese strings:
     old "Day 13: Stacy"
     new "Dia 13: Stacy"
 
-
 translate portuguese strings:
 
     # game/code/data/extended/replay_room.rpy:15
@@ -251,3 +249,4 @@ translate portuguese strings:
     # game/code/data/extended/replay_room.rpy:15
     old "Day 14: Stacy"
     new "Dia 14: Stacy"
+

@@ -1,4 +1,3 @@
-
 # game/code/d10p1/d10p1s04.rpy:3
 translate deutsch d10p1s04_4f91c35e:
 
@@ -628,7 +627,6 @@ translate deutsch d10p1s04_5702e34b:
 
     # arjfl "That's a good point..."
     arjfl "Guter Punkt..."
-
 
 # game/code/d10p1/d10p1s04.rpy:50
 translate deutsch d10p1s04_f1a8019a:

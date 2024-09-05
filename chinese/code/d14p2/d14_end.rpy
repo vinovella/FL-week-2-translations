@@ -1,4 +1,3 @@
-
 # game/code/d14p2/d14_end.rpy:30
 translate chinese d14_end_1b8a9473:
 
@@ -22,7 +21,6 @@ translate chinese d14_end_9443248a:
 
     # flr "Because you cheated!"
     flr "因为你作弊了!"
-
 
 # game/code/d14p2/d14_end.rpy:52
 translate chinese d14_end_0a1a75cf:

@@ -1,4 +1,3 @@
-
 translate deutsch strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
@@ -117,13 +116,11 @@ translate deutsch strings:
     old "Day 7: Polly"
     new "Tag 7: Polly"
 
-
 translate deutsch strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "You have seen all the possible pictures that Maria can send"
     new "Du hast alle möglichen Fotos gesehen, die Maria gesendet haben kann"
-
 
 translate deutsch strings:
 
@@ -139,20 +136,17 @@ translate deutsch strings:
     old "Make AmRose your secret girlfriend"
     new "Mache AmRose zu deiner geheimen Freundin"
 
-
 translate deutsch strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Day 8: AmRose"
     new "Tag 8: AmRose"
 
-
 translate deutsch strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Day 9: Squizzle - Selfie"
     new "Tag 9: Squizzle - Selfie"
-
 
 translate deutsch strings:
 
@@ -459,3 +453,4 @@ translate deutsch strings:
     # game/code/data/extended/extra_gallery.rpy:15
     old "Be with the fewest number of people by the end of the week"
     new "Sei mit den wenigsten Leuten bis zum Ende der Woche"
+

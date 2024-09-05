@@ -1,4 +1,3 @@
-
 # game/code/labels.rpy:105
 translate french after_credits_4092fc7e:
 

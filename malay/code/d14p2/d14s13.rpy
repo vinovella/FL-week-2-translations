@@ -1,4 +1,3 @@
-
 # game/code/d14p2/d14s13.rpy:6
 translate malay d14s13_d2c80bad:
 

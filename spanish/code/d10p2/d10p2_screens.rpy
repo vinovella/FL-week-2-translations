@@ -1,4 +1,3 @@
-
 translate spanish strings:
 
     # game/code/d10p2/d10p2_screens.rpy:6
@@ -180,3 +179,4 @@ translate spanish strings:
     # game/code/d10p2/d10p2_screens.rpy:951
     old "Continue to the final scene"
     new "Continuar con la escena final"
+

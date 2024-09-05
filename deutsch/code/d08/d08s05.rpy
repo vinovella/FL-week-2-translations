@@ -1,4 +1,3 @@
-
 # game/code/d08/d08s05.rpy:5
 translate deutsch d08s05_06a950b5:
 
@@ -1206,13 +1205,11 @@ translate deutsch strings:
     old "Yes, Mistress"
     new "Ja, Mistress"
 
-
 # game/code/d08/d08s05.rpy:38
 translate deutsch d08s05_b4dc6ce9:
 
     # sy "So... What's the plan?"
     sy "Also... Wie lautet der Plan?"
-
 
 # game/code/d08/d08s05.rpy:17
 translate deutsch d08s05_7bfd3d68:

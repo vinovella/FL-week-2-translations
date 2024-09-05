@@ -1,4 +1,3 @@
-
 # game/code/d08/d08s01.rpy:16
 translate spanish d08s01_a38e2739:
 
@@ -458,3 +457,4 @@ translate spanish strings:
     # game/code/d08/d08s01.rpy:102
     old "Let Stacy bathe with you"
     new "Deja que Stacy se bañe contigo"
+

@@ -1,4 +1,3 @@
-
 translate malay strings:
 
     # game/code/data/prologue.rpy:16
@@ -120,7 +119,6 @@ translate malay strings:
     # game/code/data/prologue.rpy:50
     old "Not_Mike"
     new "Bukan_Mike"
-
 
 translate malay strings:
 

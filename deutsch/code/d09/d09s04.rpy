@@ -1,4 +1,3 @@
-
 # game/code/d09/d09s04.rpy:25
 translate deutsch d09s04_e24786fb:
 
@@ -683,7 +682,6 @@ translate deutsch replay_d09s04_e4163433:
     # mct "I guess zucchini counts as dildo..."
     mct "Ich nehme an, dass eine Zucchini als Dildo gilt..."
 
-
 # game/code/d09/d09s04.rpy:27
 translate deutsch d09s04_1629e8ef:
 
@@ -759,3 +757,4 @@ translate deutsch strings:
     # game/code/d09/d09s04.rpy:88
     old "Be a gigolo"
     new "Werde ein Gigolo"
+

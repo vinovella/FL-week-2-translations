@@ -1,4 +1,3 @@
-
 translate spanish strings:
 
     # game/code/data/extended/replay_room.rpy:15
@@ -40,7 +39,6 @@ translate spanish strings:
     # game/code/data/extended/replay_room.rpy:15
     old "Don't creampie Nora"
     new "No hacerle chorrear a Nora"
-
 
 translate spanish strings:
 
@@ -216,7 +214,6 @@ translate spanish strings:
     old "Day 13: Stacy"
     new "Día 13: Stacy"
 
-
 translate spanish strings:
 
     # game/code/data/extended/replay_room.rpy:15
@@ -270,3 +267,4 @@ translate spanish strings:
     # game/code/data/extended/replay_room.rpy:15
     old "Day 14: Stacy"
     new "Day 14: Stacy"
+

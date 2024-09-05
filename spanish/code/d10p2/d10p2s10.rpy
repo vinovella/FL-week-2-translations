@@ -1,4 +1,3 @@
-
 # game/code/d10p2/d10p2s10.rpy:5
 translate spanish d10p2s10_d0cc5f7f:
 
@@ -268,3 +267,4 @@ translate spanish d10p2s10_c69e04a5:
 
     # arj "I'll join you."
     arj "Me uniré a ti."
+

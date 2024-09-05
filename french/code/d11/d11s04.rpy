@@ -1,4 +1,3 @@
-
 # game/code/d11/d11s04.rpy:7
 translate french d11s04_95a7047b:
 
@@ -478,6 +477,4 @@ translate french d11s04_af70887d:
 
     # mc "It's okay. I'm here. Everything's gonna be alright."
     mc "C'est bon. Je suis là. Tout ira bien."
-
-
 

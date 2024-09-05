@@ -1,4 +1,3 @@
-
 # game/code/d09/d09s06.rpy:10
 translate spanish d09s06_fd7a39cb:
 
@@ -488,3 +487,4 @@ translate spanish strings:
     # game/code/d09/d09s06.rpy:148
     old "Fill a couple of glasses"
     new "Llena un par de vasos"
+

@@ -1,4 +1,3 @@
-
 # game/code/d10p2/d10p2s01.rpy:60
 translate russian d10p2s01_c52271c1:
 

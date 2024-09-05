@@ -1,4 +1,3 @@
-
 # game/code/d13/d13s06.rpy:36
 translate turkish d13s06_80586a78:
 

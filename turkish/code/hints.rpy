@@ -1,4 +1,3 @@
-
 translate turkish strings:
 
     # game/code/hints.rpy:5

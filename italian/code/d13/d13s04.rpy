@@ -1,4 +1,3 @@
-
 # game/code/d13/d13s04.rpy:8
 translate italian d13s04_0bef8c27:
 
@@ -1011,4 +1010,3 @@ translate italian strings:
     old "No. I'm not a father"
     new "Io? Un padre? No"
 
-    

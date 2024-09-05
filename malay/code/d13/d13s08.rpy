@@ -1,4 +1,3 @@
-
 # game/code/d13/d13s08.rpy:55
 translate malay d13s08_1ea101fb:
 
@@ -542,7 +541,6 @@ translate malay strings:
     # game/code/d13/d13s08.rpy:352
     old "Have her wear it later"
     new "Suruh dia pakai nanti"
-
 
 # game/code/d13/d13s08.rpy:481
 translate malay replay_d13s08_1b18d17e:
