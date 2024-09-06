@@ -20,19 +20,19 @@ translate french d09s08_dcaa0c3f:
 translate french d09s08_aee4f278:
 
     # mc "Hey, beautiful. Good things, I hope."
-    mc "Salut beauté. En bien, j'espère."
+    mc "Salut beauté. En bien, c'est cool."
 
 # game/code/d09/d09s08.rpy:16
 translate french d09s08_8cc631b8:
 
     # lc "I finished reviewing my Sociology notes and wanted to hear your voice. Then I did."
-    lc "J'ai fini de réviser mes notes de sociologie et je voulais entendre ta voix. Ensuite, mon portable a sonné."
+    lc "J'ai fini de réviser mes notes de sociologie et je voulais entendre ta voix. Et hop, mon portable a sonné."
 
 # game/code/d09/d09s08.rpy:19
 translate french d09s08_18f90106:
 
     # mc "Well, you know what they say. Speak of the devil and he shall appear."
-    mc "Eh bien, vous savez ce qu'on dit. parle du diable et il apparaîtra."
+    mc "Eh bien, tu sais ce qu'on dit. parle du diable et il apparaîtra."
 
 # game/code/d09/d09s08.rpy:20
 translate french d09s08_168fb27a:
@@ -74,7 +74,7 @@ translate french d09s08_14092ade:
 translate french d09s08_eafe110a:
 
     # lc "What's up?"
-    lc "Qu'est ce qu'il y a?"
+    lc "Qu'est ce qu'il y a ?"
 
 # game/code/d09/d09s08.rpy:34
 translate french d09s08_6bf95e6e:
@@ -128,7 +128,7 @@ translate french d09s08_7c3fefd7:
 translate french d09s08_52914d50:
 
     # mc "Business?"
-    mc "Une affaire?"
+    mc "Une affaire ?"
 
 # game/code/d09/d09s08.rpy:51
 translate french d09s08_d4b35f36:
@@ -140,7 +140,7 @@ translate french d09s08_d4b35f36:
 translate french d09s08_f439d8d9:
 
     # mc "Oh! Yeah, Stacy's apartment. I almost forgot."
-    mc "Oh! Ouais, l'appartement de Stacy. J'avais presque oublié."
+    mc "Oh ! Ouais, l'appartement de Stacy. J'avais presque oublié."
 
 # game/code/d09/d09s08.rpy:55
 translate french d09s08_74de506c:
@@ -158,7 +158,7 @@ translate french d09s08_a158eefa:
 translate french d09s08_2d4bdcef:
 
     # mh "Cool. Give me a call tomorrow and we can meet there - fill out the contract, hand over the keys, etc."
-    mh "Cool. Appelez-moi demain et nous nous retrouverons là-bas - pour remplir le contrat, la remise des clés, etc."
+    mh "Cool. Appele-moi demain et nous nous retrouverons là-bas - pour remplir le contrat, la remise des clés, etc."
 
 # game/code/d09/d09s08.rpy:60
 translate french d09s08_c6a52e0b:
@@ -218,13 +218,13 @@ translate french d09s08_70c4c5e6:
 translate french d09s08_c7796975:
 
     # mc "Hey sexy mama. Want to kill all humans?"
-    mc "Hé, maman sexy. Vous voulez tuer tous les humains ?"
+    mc "Hé, maman sexy. Tu veux tuer tous les humains ?"
 
 # game/code/d09/d09s08.rpy:78
 translate french d09s08_ca93ab6b:
 
     # vw "Huh?"
-    vw "Hien?"
+    vw "Hein ?"
 
 # game/code/d09/d09s08.rpy:81
 translate french d09s08_f34bb55a:
@@ -248,25 +248,25 @@ translate french d09s08_069ec8d2:
 translate french d09s08_da92c621:
 
     # vw "I'll text you the info. Ms. Harris will be ready with the keys and the contract anytime tomorrow."
-    vw "Je t'enverrai l'info par texto. Mme Harris sera prête avec les clés et le contrat à tout moment dés demain."
+    vw "Je t'enverrai l'info par texto. Mme Harris sera prête avec les clés et le contrat à tout moment dès demain."
 
 # game/code/d09/d09s08.rpy:87
 translate french d09s08_110bbe39:
 
     # mc "Ms. Harris? Oh, yeah. Lyssa. {w}Sorry, I guess I'm a little tired."
-    mc "Mme Harris? Oh ouais. Lyssa. {w}Désolé, je crois que je suis un peu fatigué."
+    mc "Mme Harris ? Oh oui. Lyssa. {w}Désolé, je crois que je suis un peu fatigué."
 
 # game/code/d09/d09s08.rpy:88
 translate french d09s08_b66280e8:
 
     # vw "You will, of course, need to bring a check or money order for two months' rent."
-    vw "Bien entendu, vous devrez vous munir d'un chèque ou d'un mandat correspondant à deux mois de loyer."
+    vw "Bien entendu, tu dois te munir d'un chèque ou d'un mandat correspondant à deux mois de loyer."
 
 # game/code/d09/d09s08.rpy:91
 translate french d09s08_a22d7ea0:
 
     # mc "Two months?"
-    mc "Deux mois?"
+    mc "Deux mois ?"
 
 # game/code/d09/d09s08.rpy:92
 translate french d09s08_e21e8e6d:
@@ -284,7 +284,7 @@ translate french d09s08_c0d83a02:
 translate french d09s08_48cb168e:
 
     # vw "Like I said - I'll text you all the info. You get some sleep."
-    vw "Comme je l'ai dit, je vous enverrai toutes les informations par SMS. Va dormir."
+    vw "Comme je te l'ai dit, je t'enverrai toutes les informations par SMS. Va dormir."
 
 # game/code/d09/d09s08.rpy:98
 translate french d09s08_5714bdef:
@@ -296,7 +296,7 @@ translate french d09s08_5714bdef:
 translate french d09s08_556232ab:
 
     # vw "I'll see you again soon. Good night!"
-    vw "Je te reverrai bientôt. Bonne nuit!"
+    vw "Je te revois bientôt. Bonne nuit !"
 
 # game/code/d09/d09s08.rpy:102
 translate french d09s08_05cf4e53:
@@ -332,19 +332,19 @@ translate french d09s08_da92c621_1:
 translate french d09s08_24b24091:
 
     # mc "Ms. Harris?{w} Oh, yeah. Lyssa. Sorry, I guess I'm a little tired."
-    mc "Mme Harris? Oh ouais. Lyssa. {w}Désolé, je crois que je suis un peu fatigué."
+    mc "Mme Harris ? Oh ouais. Lyssa. {w}Désolé, je crois que je suis un peu fatigué."
 
 # game/code/d09/d09s08.rpy:112
 translate french d09s08_82b47c2c:
 
     # vw "You will just need to bring a check or money order for two months' rent."
-    vw "vous devrez juste vous munir d'un chèque ou d'un mandat correspondant à deux mois de loyer."
+    vw "Tu dois juste te munir d'un chèque ou d'un mandat correspondant à deux mois de loyer."
 
 # game/code/d09/d09s08.rpy:115
 translate french d09s08_a22d7ea0_1:
 
     # mc "Two months?"
-    mc "Deux mois?"
+    mc "Deux mois ?"
 
 # game/code/d09/d09s08.rpy:116
 translate french d09s08_e21e8e6d_1:
@@ -362,19 +362,19 @@ translate french d09s08_c0d83a02_1:
 translate french d09s08_30e4d590:
 
     # vw "Like I said - I'll text you all the info. Have a good night's sleep."
-    vw "Comme je l'ai dit, je vous enverrai toutes les informations par SMS. Passez une bonne nuit de sommeil."
+    vw "Comme je l'ai dit, je t'enverrai toutes les informations par SMS. Passez une bonne nuit de sommeil."
 
 # game/code/d09/d09s08.rpy:122
 translate french d09s08_ab0ddfca:
 
     # mc "Thanks! You too, bye."
-    mc "Merci! Toi aussi, au revoir."
+    mc "Merci ! Toi aussi, au revoir."
 
 # game/code/d09/d09s08.rpy:126
 translate french d09s08_d897712b:
 
     # mc "You still there?"
-    mc "Toujours là?"
+    mc "Toujours là ?"
 
 # game/code/d09/d09s08.rpy:129
 translate french d09s08_258f1f2f:
@@ -416,7 +416,7 @@ translate french d09s08_14ae7c06:
 translate french d09s08_0f964681:
 
     # lc "So... {w}about tomorrow. Do you mind if we discuss the Party?"
-    lc "Alors... {w}à propos de demain. Cela te dérange si nous discutons de la fête?"
+    lc "Alors... {w}à propos de demain. Cela te dérange si nous discutons de la fête ?"
 
 # game/code/d09/d09s08.rpy:145
 translate french d09s08_a931b031:
@@ -440,7 +440,7 @@ translate french d09s08_11a09cb2:
 translate french d09s08_a31340dd:
 
     # mc "Really?"
-    mc "Vraiment?"
+    mc "Vraiment ?"
 
 # game/code/d09/d09s08.rpy:153
 translate french d09s08_fccb439d:
@@ -524,7 +524,7 @@ translate french d09s08_f46c00b3:
 translate french d09s08_3ca9e0dd:
 
     # lc "But if you hook up with another girl and tell me about it, I would feel like you trust me and it would make me very happy."
-    lc "Mais si tu rencontres une autre fille et que tu m'en parles, j'aurais l'impression que tu me fais confiance et cela me rendrait très heureux."
+    lc "Mais si tu rencontres une autre fille et que tu m'en parles, j'aurais l'impression que tu me fais confiance et cela me rendrait très heureuse."
 
 # game/code/d09/d09s08.rpy:175
 translate french d09s08_29bd6c63:
@@ -536,7 +536,7 @@ translate french d09s08_29bd6c63:
 translate french d09s08_54d5500a:
 
     # lc "Really?"
-    lc "Vraiment?"
+    lc "Vraiment ?"
 
 # game/code/d09/d09s08.rpy:179
 translate french d09s08_d4059a9e:
@@ -560,7 +560,7 @@ translate french d09s08_da22f1f9:
 translate french d09s08_d64da203:
 
     # mc "Ha! That's one way to look at it."
-    mc "Ha! C'est une façon de le dire"
+    mc "Ha! C'est une façon de le dire."
 
 # game/code/d09/d09s08.rpy:186
 translate french d09s08_a619a907:
@@ -584,13 +584,13 @@ translate french d09s08_61ad2bd5:
 translate french d09s08_94f202e3:
 
     # mc "That's kinda insane."
-    mc "C'est plutôt fou"
+    mc "C'est plutôt dingue."
 
 # game/code/d09/d09s08.rpy:192
 translate french d09s08_538f852d:
 
     # lc "Is that a problem?"
-    lc "Est-ce un problème?"
+    lc "Est-ce un problème ?"
 
 # game/code/d09/d09s08.rpy:194
 translate french d09s08_abcaf173:
@@ -614,7 +614,7 @@ translate french d09s08_6a189cd4:
 translate french d09s08_78e7d43d:
 
     # lc "Ha! Exactly!"
-    lc "Ha! Exactement!"
+    lc "Ha ! Exactement !"
 
 # game/code/d09/d09s08.rpy:200
 translate french d09s08_63de190a:
@@ -626,7 +626,7 @@ translate french d09s08_63de190a:
 translate french d09s08_d6856833:
 
     # mc "Cool. So we're on the same page."
-    mc "Cool. Nous sommes donc sur la la même page.."
+    mc "Cool. Nous sommes donc sur la la même longueur d'onde, sur la même page."
 
 # game/code/d09/d09s08.rpy:204
 translate french d09s08_6e0b201a:
@@ -650,7 +650,7 @@ translate french d09s08_42fb5cd6:
 translate french d09s08_a983a9ea:
 
     # mc "Huh? Oh, yeah. The one who left the next morning for a religious retreat."
-    mc "Hein? Oh, ouais. Ceelle qui est parti le lendemain matin pour une retraite religieuse."
+    mc "Hein ? Oh, ouais. Celle qui est parti le lendemain matin pour une retraite religieuse."
 
 # game/code/d09/d09s08.rpy:213
 translate french d09s08_98d46825:
