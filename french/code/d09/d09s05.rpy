@@ -26,7 +26,7 @@ translate french d09s05_679d860c:
 translate french d09s05_bbc3c28e:
 
     # mc "I'm literally five minutes {i}early{/i}. What are you talking about?"
-    mc "J'ai littéralement cinq minutes {i}d'avance {/i}. De quoi parles-tu?"
+    mc "J'ai littéralement cinq minutes {i}d'avance {/i}. De quoi parles-tu ?"
 
 # game/code/d09/d09s05.rpy:37
 translate french d09s05_77f8b437:
@@ -38,31 +38,31 @@ translate french d09s05_77f8b437:
 translate french d09s05_1c50dcab:
 
     # sb "By the way, you didn't happen to clean out the ol' poop chute before coming here did you?"
-    sb "Au fait, tu n'as pas nettoyé le vieux vide-crottes avant de venir ici, n'est-ce pas ?"
+    sb "Au fait, tu n'as pas nettoyé ton vieux vide-crottes avant de venir ici, n'est-ce pas ?"
 
 # game/code/d09/d09s05.rpy:40
 translate french d09s05_67fa67e1:
 
     # mc "Clean the what?"
-    mc "nettoyé le Quoi?"
+    mc "Nettoyé le quoi ?"
 
 # game/code/d09/d09s05.rpy:43
 translate french d09s05_8e8c7f8f:
 
     # sb "Poop chute. Try to keep up please."
-    sb "Chute à crottes. Essaye de suivre s'il te plaît."
+    sb "Ton trou balle. Essaye de suivre s'il te plaît."
 
 # game/code/d09/d09s05.rpy:44
 translate french d09s05_6663c911:
 
     # sb "Did you or did you not have an enema clean before coming here?"
-    sb "Avez-vous ou n'avez-vous pas fait un lavement avant de venir ici ?"
+    sb "As-tu fais ou non un lavement avant de venir ?"
 
 # game/code/d09/d09s05.rpy:46
 translate french d09s05_0554c136:
 
     # mc "What? No, I didn't. You didn't mention squat about an enema."
-    mc "Quoi? Non, je ne l'ai pas fait. Vous n'avez pas parlé quoi ce soit à propos d'un lavement."
+    mc "Quoi ? Non, je n'ai pas fait ça. Tu ne m'avais pas parlé de quoi que ce soit à propos d'un lavement."
 
 # game/code/d09/d09s05.rpy:48
 translate french d09s05_3ec63a24:
@@ -74,7 +74,7 @@ translate french d09s05_3ec63a24:
 translate french d09s05_1f9b3387:
 
     # sb "You should probably think about getting one before we get started."
-    sb "Tu aurais du probablement penser à en obtenir un avant de commencer."
+    sb "Tu aurais du probablement penser à t'en faire un avant de commencer."
 
 # game/code/d09/d09s05.rpy:52
 translate french d09s05_69f7331c:
@@ -86,7 +86,7 @@ translate french d09s05_69f7331c:
 translate french d09s05_785171d8:
 
     # mc "Second of all, why the hell would I even need one!?"
-    mc "Deuxièmement, pourquoi diable en aurais-je besoin ? !"
+    mc "Deuxièmement, pourquoi diable en aurais-je besoin ?!"
 
 # game/code/d09/d09s05.rpy:54
 translate french d09s05_f9be13c1:
@@ -104,7 +104,7 @@ translate french d09s05_b7cb9fc7:
 translate french d09s05_050a2f60:
 
     # mc "That tells me exactly nothing you know."
-    mc "Cela ne me dit exactement rien, tu sais."
+    mc "Cela ne me dit rien, tu sais."
 
 # game/code/d09/d09s05.rpy:61
 translate french d09s05_95214561:
@@ -122,19 +122,19 @@ translate french d09s05_40511e6c:
 translate french d09s05_e87ba7fb:
 
     # sb "That's gotta be him."
-    sb "ça doit être lui."
+    sb "Ça doit être lui."
 
 # game/code/d09/d09s05.rpy:67
 translate french d09s05_df98e88b:
 
     # sb "Quick! Hide. Get behind that shelf."
-    sb "Rapide! Cache-toi. Met-toi derrière cette étagère."
+    sb "Rapide ! Cache-toi. Met-toi derrière cette étagère."
 
 # game/code/d09/d09s05.rpy:69
 translate french d09s05_44052c51:
 
     # mc "Why—"
-    mc "Pourquoi—"
+    mc "Pourquoi ?"
 
 # game/code/d09/d09s05.rpy:71
 translate french d09s05_5f170cc6:
@@ -146,13 +146,13 @@ translate french d09s05_5f170cc6:
 translate french d09s05_2756c089:
 
     # mc "Okay! Okay!"
-    mc "Ok! Ok!"
+    mc "Ok ! Ok !"
 
 # game/code/d09/d09s05.rpy:80
 translate french d09s05_82054c5f:
 
     # sb "Mr. Melville! Right on time as always! Please, come in."
-    sb "M. Melville! Exactement à l'heure comme toujours ! S'il vous plaît, entrez."
+    sb "M. Melville ! Exactement à l'heure comme toujours ! S'il vous plaît, entrez."
 
 # game/code/d09/d09s05.rpy:82
 translate french d09s05_deb3848f:
@@ -170,13 +170,13 @@ translate french d09s05_a78909da:
 translate french d09s05_e5988d37:
 
     # mct "Holy fuck! That is the \"Mister Moneybags\" who was crushed in the court yesterday by Lyssa!"
-    mct "Putain de merde ! C'est le \"Monsieur Plein-au-ass\" qui a été écrasé au tribunal hier par Lyssa !"
+    mct "Putain de merde ! C'est le \"Monsieur Plein-aux-as\" qui a été humilié  par Lyssa au tribunal hier !"
 
 # game/code/d09/d09s05.rpy:95
 translate french d09s05_2bc8f657:
 
     # mct "At least I'm sure that I was far back in the room for him to remember me."
-    mct "Au moins, je suis sûr que j'étais loin dans la pièce pour qu'il se souvienne de moi."
+    mct "Au moins, je suis sûr que j'étais trop loin dans la pièce pour qu'il se souvienne de moi."
 
 # game/code/d09/d09s05.rpy:97
 translate french d09s05_488903b7:
@@ -212,7 +212,7 @@ translate french d09s05_c7a89450:
 translate french replay_d09s05_953b4071:
 
     # mc "Hey!—"
-    mc "Hé!—"
+    mc "Hé !—"
 
 # game/code/d09/d09s05.rpy:120
 translate french replay_d09s05_bc71c2ac:
@@ -236,13 +236,13 @@ translate french replay_d09s05_41734239:
 translate french replay_d09s05_ce3c8190:
 
     # sb "Come on, strip. We gotta show Mr. Melville here what you're made of."
-    sb "Allez, déshabille-toi. Nous devons montrer à M. Melville de quoi vous êtes fait."
+    sb "Allez, déshabille-toi. Nous devons montrer à M. Melville comment tu es fait."
 
 # game/code/d09/d09s05.rpy:136
 translate french replay_d09s05_67422079:
 
     # sb "Isn't his tiny little dick cute, Mr. Melville? I think he's the perfect little sissy for you."
-    sb "Sa petite bite n'est-elle pas mignonne, M. Melville ? Je pense qu'il est la petite poule mouillée parfaite pour toi."
+    sb "Sa petite bite n'est-elle pas mignonne, M. Melville ? Je pense qu'il est la petite sissy parfaite pour toi."
 
 # game/code/d09/d09s05.rpy:140
 translate french replay_d09s05_ac4b9c2d:
@@ -254,13 +254,13 @@ translate french replay_d09s05_ac4b9c2d:
 translate french replay_d09s05_5ca1ecbf:
 
     # sb "That is great idea sir!"
-    sb "C'est une excellente idée monsieur!"
+    sb "C'est une excellente idée monsieur !"
 
 # game/code/d09/d09s05.rpy:147
 translate french replay_d09s05_6cded9f0:
 
     # sb "Here, sissy. Pick one."
-    sb "Tiens, poule mouillée. Choisis-en un."
+    sb "Tiens, sissy. Choisis-en un."
 
 # game/code/d09/d09s05.rpy:150
 translate french replay_d09s05_31eff69d:
@@ -272,19 +272,19 @@ translate french replay_d09s05_31eff69d:
 translate french replay_d09s05_5eca2efb:
 
     # sb "Actually. I think this gold one could look cute in your tight little ass. Don't you think so, Mr. Melville?"
-    sb "En fait. Je pense que celui-ci en or pourrait être mignon dans ton petit cul serré. Vous ne le pensez pas, M. Melville ?"
+    sb "En fait. Je pense que celui en or pourrait être mignon dans ton petit cul serré. Vous ne le pensez pas, M. Melville ?"
 
 # game/code/d09/d09s05.rpy:155
 translate french replay_d09s05_39a5eba3:
 
     # ceo "You are the expert in this!"
-    ceo "Vous êtes l'expert en la matière !"
+    ceo "Vous êtes l'experte en la matière !"
 
 # game/code/d09/d09s05.rpy:158
 translate french replay_d09s05_0a0db569:
 
     # sb "Come on. Come here. {w}I want you to get on that bed on all fours and put your ass out to me. Do you understand, little sissy?"
-    sb "Allez. Viens ici. {w}Je veux que tu te mettes à quatre pattes sur ce lit et que tu me tendes le cul. Tu comprends, petite poule mouillée ?"
+    sb "Allez. Viens ici. {w}Je veux que tu te mettes à quatre pattes sur ce lit et que tu me tendes le cul. Tu comprends, petite salope de sissy ?"
 
 # game/code/d09/d09s05.rpy:160
 translate french replay_d09s05_2b35b6fe:
@@ -302,7 +302,7 @@ translate french replay_d09s05_0df01d5d:
 translate french replay_d09s05_6cdcdeaa:
 
     # sb "Do you understand, {i}little{/i} {b}{i}sissy{/i}{/b}?"
-    sb "Tu comprends, {i}petite{/i} {b}{i}poule mouillée{/i}{/b} ?"
+    sb "Tu comprends, {i}petite{/i} {b}{i}salope{/i}{/b} ?"
 
 # game/code/d09/d09s05.rpy:166
 translate french replay_d09s05_529fb3e1:
@@ -314,7 +314,7 @@ translate french replay_d09s05_529fb3e1:
 translate french replay_d09s05_b6a6f08d:
 
     # sb "Good, boy. {w}Come on now; get on the bed."
-    sb "Bien, mon garçon. {w}Allez maintenant ; va sur le lit."
+    sb "Bien, mon garçon. {w}Allez maintenant, va sur le lit."
 
 # game/code/d09/d09s05.rpy:174
 translate french replay_d09s05_1c42b6b2:
@@ -332,7 +332,7 @@ translate french replay_d09s05_fdff678e:
 translate french replay_d09s05_c9a69762:
 
     # mc "Woah! Bad touch!"
-    mc "Waouh ! Mauvais toucher !"
+    mc "Waouh ! Mauvais contact !"
 
 # game/code/d09/d09s05.rpy:186
 translate french replay_d09s05_0e064a03:
@@ -344,7 +344,7 @@ translate french replay_d09s05_0e064a03:
 translate french replay_d09s05_9c8e807a:
 
     # sb "Look at how easily that went in! We just might be able to make an ass whore out of you yet!"
-    sb "Regardez avec quelle facilité cela est entré ! Nous pourrions peut-être encore faire de toi une pute !"
+    sb "Regardez avec quelle facilité il est entré ! Nous pourrions peut-être encore faire de toi une pute !"
 
 # game/code/d09/d09s05.rpy:194
 translate french replay_d09s05_92d0e1d9:
@@ -392,7 +392,7 @@ translate french replay_d09s05_d1510d5e:
 translate french replay_d09s05_3e65d91d:
 
     # ceo "You, boy. What should I call you?"
-    ceo "Toi, mon garçon. Comment dois-je vous appeler?"
+    ceo "Toi, mon garçon. Comment dois-je t'appeler ?"
 
 # game/code/d09/d09s05.rpy:226
 translate french replay_d09s05_831c5cc4:
@@ -404,13 +404,13 @@ translate french replay_d09s05_831c5cc4:
 translate french replay_d09s05_285334ab:
 
     # ceo "[mcname], you're a good sissy. Very good indeed. But tell me..."
-    ceo "[mcname],tu es une bonne poule mouillée. Vraiment très bien. Mais dis moi..."
+    ceo "[mcname],tu es une bonne sissy. Vraiment très bien. Mais dis moi..."
 
 # game/code/d09/d09s05.rpy:230
 translate french replay_d09s05_46432ae5:
 
     # ceo "You're pretending aren't you? And hey, that's alright. Being a sissy isn't for everybody. But you have to be honest with me."
-    ceo "Vous faites semblant, n'est-ce pas ? Et hé, c'est bon. Être une poule mouillée n'est pas pour tout le monde. Mais tu dois être honnête avec moi."
+    ceo "Vous faites semblant, n'est-ce pas ? Et hé, c'est bon. Être une sissy n'est pas pour tout le monde. Mais tu dois être honnête avec moi."
 
 # game/code/d09/d09s05.rpy:231
 translate french replay_d09s05_2b35b6fe_1:
@@ -428,7 +428,7 @@ translate french replay_d09s05_4911dfaf:
 translate french replay_d09s05_ac0dc4d5:
 
     # ceo "{i}You{/i}, can either take control and put this little bitch sucking my fingers in her place, {i}or{/i} you can be a good little sissy and let her do what she pleases with you."
-    ceo "{i}Toi{/i}, tu peux soit prendre le contrôle et mettre cette petite salope qui me suce les doigts à sa place, {i}ou{/i} tu peux être une bonne petite poule mouillée et la laisser faire ce qu'elle veut de toi."
+    ceo "{i}Toi{/i}, tu peux soit prendre le contrôle et remettre cette petite pute qui me suce les doigts à sa place, {i}ou{/i} tu peux être une bonne petite sissy et la laisser faire ce qu'elle veut de toi."
 
 # game/code/d09/d09s05.rpy:236
 translate french replay_d09s05_2b35b6fe_2:
@@ -440,31 +440,31 @@ translate french replay_d09s05_2b35b6fe_2:
 translate french replay_d09s05_f4f632ae:
 
     # ceo "I'm a man of my word. There's no hidden agenda here. You can choose whatever you want. I benefit either way, so I don't rightly care."
-    ceo "Je suis un homme de parole. Il n'y a pas d'intentions cachées ici. Tu peux choisir ce que tu veux J'en profite d'une manière ou d'une autre, donc je m'en fiche à juste titre."
+    ceo "Je suis un homme de parole. Il n'y a pas d'intentions cachées ici. Tu peux choisir ce que tu veux. J'en profite d'une manière ou d'une autre, donc je m'en fiche à juste titre."
 
 # game/code/d09/d09s05.rpy:258
 translate french d09s05_fucked_82e55831:
 
     # mc "I...I can be a sissy."
-    mc "Je... je peux être une poule mouillée."
+    mc "Je... je peux être une sissy."
 
 # game/code/d09/d09s05.rpy:261
 translate french d09s05_fucked_f9e1de33:
 
     # ceo "...Really now? Color me surprised. Samiya."
-    ceo "...Vraiment maintenant? Colorie-moi surpris. Samiya."
+    ceo "...Vraiment maintenant ? Je suis surpris. Samiya."
 
 # game/code/d09/d09s05.rpy:265
 translate french d09s05_fucked_fbd62c10:
 
     # sb "Yes, Mr. Melville?"
-    sb "Oui, Mr. Melville?"
+    sb "Oui, Mr. Melville ?"
 
 # game/code/d09/d09s05.rpy:266
 translate french d09s05_fucked_171b49f2:
 
     # ceo "You heard him. Get to work."
-    ceo "Vous l'avez entendu. Mettez-vous au travail."
+    ceo "Tu l'as entendu. Mets-toi au travail."
 
 # game/code/d09/d09s05.rpy:268
 translate french d09s05_fucked_e9bd92c8:
@@ -482,7 +482,7 @@ translate french d09s05_fucked_290dcde1:
 translate french d09s05_fucked_bbc28d01:
 
     # sb "Come on, horsie! You've got a tongue, don't you? Use it!"
-    sb "Allez, cheval ! Tu as une langue, n'est-ce pas ? Utilise le!"
+    sb "Allez, cheval ! Tu as une langue, n'est-ce pas ? Utilise la !"
 
 # game/code/d09/d09s05.rpy:286
 translate french d09s05_fucked_386eec18:
@@ -500,13 +500,13 @@ translate french d09s05_fucked_2219670f:
 translate french d09s05_fucked_20e23667:
 
     # sb "Oooh, yeah, fuck. Everything else about you might be a little underwhelming, but at least you know how to use that dirty little tongue of yours decently."
-    sb "Oooh, ouais, putain. Tout le reste chez vous est peut-être un peu décevant, mais au moins vous savez comment utiliser décemment votre sale petite langue."
+    sb "Oooh, ouais, putain. Tout le reste chez toi est peut-être décevant, mais au moins tu sais comment utiliser décemment ta sale petite langue."
 
 # game/code/d09/d09s05.rpy:300
 translate french d09s05_fucked_5e27c775:
 
     # sb "Aw, look at that! Isn't that cute, Mr. Melville? Looks like you were right! [mcname] is a natural sissy."
-    sb "Oh, regarde ça ! N'est-ce pas mignon, M. Melville ? On dirait que tu avais raison ! [mcname] est une poule mouillée naturelle."
+    sb "Oh, regardez ça ! N'est-ce pas mignon, M. Melville ? On dirait que vous avez raison ! [mcname] est une sissy naturelle."
 
 # game/code/d09/d09s05.rpy:307
 translate french d09s05_fucked_87d10429:
@@ -524,7 +524,7 @@ translate french d09s05_fucked_f088a78a:
 translate french d09s05_fucked_07b23071:
 
     # sb "*Heaves*"
-    sb "*Soulevé*"
+    sb "*Souleve*"
 
 # game/code/d09/d09s05.rpy:344
 translate french d09s05_fucks_b7ad11b2:
@@ -578,7 +578,7 @@ translate french d09s05_fucks_3456a650:
 translate french d09s05_fucks_abaefc7f:
 
     # mc "You know how they saying that the girl's best friend is gold?"
-    mc "tu sais comment on dit que le meilleur ami des filles est l'or ?"
+    mc "tu sais comment on dit : le meilleur ami des filles, c'est l'or ?"
 
 # game/code/d09/d09s05.rpy:373
 translate french d09s05_fucks_02b7770f:
@@ -626,7 +626,7 @@ translate french d09s05_fucks_c4977a56:
 translate french d09s05_fucks_ecf7f29b:
 
     # mc "Open your mouth!"
-    mc "Ouvre la bouche!"
+    mc "Ouvre la bouche !"
 
 # game/code/d09/d09s05.rpy:394
 translate french d09s05_fucks_c18a143c:
@@ -638,31 +638,31 @@ translate french d09s05_fucks_c18a143c:
 translate french d09s05_fucks_74ed38be:
 
     # sb "M-m-mhf!"
-    sb "M-m-mhf!"
+    sb "M-m-mhf !"
 
 # game/code/d09/d09s05.rpy:403
 translate french d09s05_fucks_bc76d2f6:
 
     # mc "You look great! Now it's time to fuck!"
-    mc "Ça te va bien! Maintenant, il est temps de baiser !"
+    mc "Ça te va bien ! Maintenant, il est temps de baiser !"
 
 # game/code/d09/d09s05.rpy:411
 translate french d09s05_fucks_cff70bfb:
 
     # sb "Aaah!"
-    sb "Aaah!"
+    sb "Aaah !"
 
 # game/code/d09/d09s05.rpy:414
 translate french d09s05_fucks_e15bbd20:
 
     # sb "M-m-mh-h-hf!"
-    sb "M-m-mh-h-hf!"
+    sb "M-m-mh-h-hf !"
 
 # game/code/d09/d09s05.rpy:424
 translate french d09s05_fucks_5b20c5be:
 
     # mc "You know if you would be able to speak you could've said me now \"I was right!\""
-    mc "Tu sais, si tu étais capable de parler tu aurais pu me le dire maintenant \"j'avais raison!\""
+    mc "Tu sais, si tu étais capable de parler tu aurais pu me le dire maintenant \"j'avais raison !\""
 
 # game/code/d09/d09s05.rpy:435
 translate french d09s05_fucks_b42a3e42:
@@ -686,7 +686,7 @@ translate french d09s05_fucks_e6fbf8f7:
 translate french d09s05_fucks_c9a2fb48:
 
     # sb "*Heaves* Thank you."
-    sb "*Housse* Merci."
+    sb "*Hoquet* Merci."
 
 # game/code/d09/d09s05.rpy:511
 translate french d09s05_end_6401c851:
@@ -746,7 +746,7 @@ translate french d09s05_end_5a0bbf84:
 translate french d09s05_end_814f1c85:
 
     # sb "Now get out of here. I got shit to do. And as much fun as it is having a hot piece of ass prancing around, I need to be alone for a bit."
-    sb "Maintenant, sors d'ici. J'ai des trucs à faire. Et même si c'est amusant d'avoir un beau cul caracolant, j'ai besoin d'être seul un moment."
+    sb "Maintenant, sors d'ici. J'ai des trucs à faire. Et même si c'est amusant d'avoir un beau cul, j'ai besoin d'être seul un moment."
 
 # game/code/d09/d09s05.rpy:538
 translate french d09s05_end_8c499776:
@@ -758,13 +758,13 @@ translate french d09s05_end_8c499776:
 translate french d09s05_end_3e6c6c1e:
 
     # sb "You really think you've earned it?"
-    sb "Ytu penses vraiment que tu l'as mérité ?"
+    sb "Tu penses vraiment que tu l'as mérité ?"
 
 # game/code/d09/d09s05.rpy:543
 translate french d09s05_end_0017e17d:
 
     # sb "You are going to work better."
-    sb "Vous allez mieux travailler."
+    sb "Tu vas mieux travailler."
 
 # game/code/d09/d09s05.rpy:545
 translate french d09s05_end_19b8090f:
@@ -782,13 +782,13 @@ translate french d09s05_end_dfdba905:
 translate french d09s05_end_3ad4bc9c:
 
     # mc "I'll go with the escort mission then."
-    mc "Je vais alors partir avec la mission d'escorte."
+    mc "Je vais me diriger vers la mission d'escorte."
 
 # game/code/d09/d09s05.rpy:562
 translate french d09s05_end_feff4f24:
 
     # sb "Check your text messages tomorrow, and get the fuck out of here."
-    sb "Vérifiez vos SMS demain et foutez le camp d'ici."
+    sb "Vérifie tes SMS demain et fous le camp d'ici."
 
 # game/code/d09/d09s05.rpy:564
 translate french d09s05_end_95d96455:
@@ -812,11 +812,11 @@ translate french strings:
 
     # game/code/d09/d09s05.rpy:241
     old "What should I do?"
-    new "Que dois-je faire?"
+    new "Que dois-je faire ?"
 
     # game/code/d09/d09s05.rpy:241
     old "Be a sissy, sissy"
-    new "Sois une poule mouillée, poule mouillée"
+    new "Sois une sissy, un salope de sissy"
 
     # game/code/d09/d09s05.rpy:241
     old "Fuck that bitch"
