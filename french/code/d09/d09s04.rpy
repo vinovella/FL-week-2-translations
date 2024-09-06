@@ -32,25 +32,25 @@ translate french d09s04_a8bfa83a:
 translate french d09s04_98d1e8d0:
 
     # mc "How am I supposed to—?"
-    mc "Que suis-je censé—?"
+    mc "Que suis-je censé — ?"
 
 # game/code/d09/d09s04.rpy:42
 translate french d09s04_4cd4e2d4:
 
     # sb "Here's what you have to do."
-    sb "Voici ce que vous devez faire."
+    sb "Voici ce que tu dois faire."
 
 # game/code/d09/d09s04.rpy:43
 translate french d09s04_cb1e70aa:
 
     # sb "I want you steal her clothes—"
-    sb "Je veux que tu voles ses vêtements—"
+    sb "Je veux que tu voles ses vêtements —"
 
 # game/code/d09/d09s04.rpy:44
 translate french d09s04_13db56fa:
 
     # sb "—and leave her ass naked somewhere in here. Preferably around a lot of people."
-    sb "—et laisse-la nue quelque part ici. De préférence en présence de beaucoup de monde."
+    sb "— et laisse-la nue quelque part ici. De préférence en présence de beaucoup de monde."
 
 # game/code/d09/d09s04.rpy:46
 translate french d09s04_b2829d57:
@@ -62,13 +62,13 @@ translate french d09s04_b2829d57:
 translate french d09s04_5c2b6844:
 
     # sb "How am I supposed to know? That's why I brought your big brains along. Think something up!"
-    sb "Comment suis-je censé le savoir ? C'est pour ça que j'ai amené ton gros cerveau avec moi. Imaginez quelque chose !"
+    sb "Comment suis-je censé le savoir ? C'est pour ça que j'ai amené ton gros cerveau avec moi. Imagine quelque chose !"
 
 # game/code/d09/d09s04.rpy:50
 translate french d09s04_c2019964:
 
     # mc "Look, alright, how about this? A counter proposal."
-    mc "Écoute, d'accord, et ça ? Une contre proposition"
+    mc "Écoute, d'accord ? J'ai autre chose à te proposer."
 
 # game/code/d09/d09s04.rpy:51
 translate french d09s04_b5757e72:
@@ -92,7 +92,7 @@ translate french d09s04_23528c81:
 translate french d09s04_96156ece:
 
     # sb "...In public?"
-    sb "...En public?"
+    sb "...En public ?"
 
 # game/code/d09/d09s04.rpy:59
 translate french d09s04_cf1adef2:
@@ -104,13 +104,13 @@ translate french d09s04_cf1adef2:
 translate french d09s04_bb6198b8:
 
     # sb "So, you want to fuck her instead of just doing the easier thing and stealing her clothes?"
-    sb "Alors, tu veux la baiser au lieu de faire le plus simple et de lui voler ses vêtements ?"
+    sb "Alors, tu veux la baiser au lieu de faire plus simple en lui volant ses vêtements ?"
 
 # game/code/d09/d09s04.rpy:62
 translate french d09s04_54173d94:
 
     # mc "How the hell would that be easier!? I can't just snap her clothes away."
-    mc "Comment diable cela serait-il plus facile ? ! Je ne peux pas simplement lui arracher ses vêtements."
+    mc "Comment diable cela serait-il plus facile ?! Je ne peux pas simplement lui arracher ses vêtements."
 
 # game/code/d09/d09s04.rpy:64
 translate french d09s04_411e8c05:
@@ -122,19 +122,19 @@ translate french d09s04_411e8c05:
 translate french d09s04_169c84e9:
 
     # mc "And I can't just forcefully undress a woman in the middle of the day in a packed store and just walk away all willy-nilly without getting tackled by 5 - 6 guys before I lay one foot in front of the other."
-    mc "Et je ne peux pas déshabiller de force une femme en pleine journée dans un magasin bondé et m'en aller bon gré mal gré sans me faire aborder par 5 à 6 mecs avant de poser un pied devant l'autre."
+    mc "Et je ne peux pas déshabiller de force une femme en pleine journée dans un magasin bondé et m'en aller bon gré mal gré sans me faire aborder par 5 à 6 mecs avant d'avoir posé un pied devant l'autre."
 
 # game/code/d09/d09s04.rpy:67
 translate french d09s04_b15242d2:
 
     # sb "...Alright, I'll give you that one. That's a good point."
-    sb "...Très bien, je vais te donner celui-là. C'est un bon point."
+    sb "...Très bien, je te le concède. Un bon point."
 
 # game/code/d09/d09s04.rpy:68
 translate french d09s04_77b03bc0:
 
     # sb "You can do your suggestion then; you can fuck her. But make it someplace with people."
-    sb "je peux affiner votre suggestion ; tu peux la baiser. Mais faites en sorte que ce soit un endroit avec des gens."
+    sb "je peux affiner ta suggestion. Tu peux la baiser, mais fais en sorte que ce soit dans un endroit avec des gens."
 
 # game/code/d09/d09s04.rpy:71
 translate french d09s04_ca6a0f6e:
@@ -164,7 +164,7 @@ translate french d09s04_8dca5345:
 translate french d09s04_ebcffca4:
 
     # sb "Chicken much, huh?"
-    sb "trop de poulet, hein ?"
+    sb "Poule mouillée, hein ?"
 
 # game/code/d09/d09s04.rpy:89
 translate french d09s04_3fe53486:
@@ -188,7 +188,7 @@ translate french d09s04_eeb3cedb:
 translate french d09s04_4cf5fee8:
 
     # sb "Good.{w} Meet me back at my place after 30 minutes."
-    sb "Bien.{w} Retrouve-moi chez moi après 30 minutes."
+    sb "Bien.{w} Retrouve-moi chez moi dans 30 minutes."
 
 # game/code/d09/d09s04.rpy:104
 translate french d09s04_813a3b04:
@@ -200,7 +200,7 @@ translate french d09s04_813a3b04:
 translate french d09s04_19f675b4:
 
     # sb "Jesus, you're heavy. What are you? 250?"
-    sb "Jésus, tu es lourd. tu pèses ? 120kg ?"
+    sb "Jésus, tu es lourd. tu pèses ? 120 kg ?"
 
 # game/code/d09/d09s04.rpy:117
 translate french d09s04_8a8ad37a:
@@ -212,7 +212,7 @@ translate french d09s04_8a8ad37a:
 translate french d09s04_41da771c:
 
     # sb "Anyway. That's who I want you to...{i}prank{/i}."
-    sb "De toute façon. C'est à cela que je veux que vous l'a... {i}prank{/i}."
+    sb "De toute façon. C'est elle que je veux que tu... {i}ridiculise{/i}."
 
 # game/code/d09/d09s04.rpy:123
 translate french d09s04_7cfe6739:
@@ -242,25 +242,25 @@ translate french d09s04_21541250:
 translate french replay_d09s04_c1f56aaa:
 
     # mc "Vanessa?"
-    mc "Vanessa?"
+    mc "Vanessa ?"
 
 # game/code/d09/d09s04.rpy:144
 translate french replay_d09s04_1b5870fc:
 
     # vw "[mcname]? Oh my gosh! How are you?"
-    vw "[mcname]? Mon Dieu! Comment ça va?"
+    vw "[mcname] ? Mon Dieu ! Comment ça va ?"
 
 # game/code/d09/d09s04.rpy:145
 translate french replay_d09s04_1bea2db7:
 
     # mc "Well enough. Grocery shopping I see."
-    mc "bien. tu fais les courses, à ce que je vois."
+    mc "Bien. tu fais les courses, à ce que je vois."
 
 # game/code/d09/d09s04.rpy:146
 translate french replay_d09s04_cfa275f1:
 
     # vw "Oh, yeah. I found this recipe I wanted to try and— Anyway. It's not important. What are {i}you{/i} doing here?"
-    vw "Oh, ouais. J'ai trouvé cette recette que je voulais essayer et… Bref. Ce n'est pas important. Que fais-tu ici ?"
+    vw "Oh, ouais. J'ai trouvé cette recette que je voulais essayer et ... Bref. Ce n'est pas important. Que fais-tu ici ?"
 
 # game/code/d09/d09s04.rpy:148
 translate french replay_d09s04_8025d5a5:
@@ -272,13 +272,13 @@ translate french replay_d09s04_8025d5a5:
 translate french replay_d09s04_d08db075:
 
     # vw "Really now? Good for you. I swear, less and less kids these days even know how to cook. It's all ramen and whatnot. That stuff's really bad for you know. I read about it somewhere."
-    vw "Vraiment maintenant? Bien pour vous. Je le jure, de nos jours, de moins en moins d’enfants savent même cuisiner. C'est uniquement des ramen et tout le reste. Ce genre de choses est vraiment mauvais pour toi, tu sais. J'ai lu quelque part à ce sujet."
+    vw "Vraiment maintenant ? Bien. Je te jure, de nos jours, ya de moins en moins d’enfants qui savent cuisiner. C'est uniquement des ramens et tout le reste. Ce genre de choses est vraiment mauvais pour toi, tu sais. J'ai lu ça quelque part à ce sujet."
 
 # game/code/d09/d09s04.rpy:152
 translate french replay_d09s04_89211be3:
 
     # vw "Sorry. I'm just blabbering on."
-    vw "Pardon. Je bavarde."
+    vw "Pardon. Je suis bavarde."
 
 # game/code/d09/d09s04.rpy:154
 translate french replay_d09s04_522c89e2:
@@ -314,7 +314,7 @@ translate french replay_d09s04_81a6d986:
 translate french replay_d09s04_e4c72208:
 
     # vw "Counter proposal? I didn't know you were studying to be a lawyer."
-    vw "Contre-proposition? Je ne savais pas que tu étudiais pour devenir avocat."
+    vw "Contre-proposition ? Je ne savais pas que tu étudiais pour devenir avocat."
 
 # game/code/d09/d09s04.rpy:168
 translate french replay_d09s04_93ba993d:
@@ -458,7 +458,7 @@ translate french replay_d09s04_c7a2eace:
 translate french replay_d09s04_bc33b676:
 
     # mc "Of course not! I'm just saying that you're no virgin."
-    mc "Bien sûr que non! Je dis juste que tu n'es pas vierge."
+    mc "Bien sûr que non ! Je dis juste que tu n'es pas vierge."
 
 # game/code/d09/d09s04.rpy:232
 translate french replay_d09s04_ae32eb0b:
@@ -470,19 +470,19 @@ translate french replay_d09s04_ae32eb0b:
 translate french replay_d09s04_bc0bbdd1:
 
     # vw "What are you doing!? Right here!?"
-    vw "Que fais-tu!? Juste ici !?"
+    vw "Que fais-tu !? Juste ici !?"
 
 # game/code/d09/d09s04.rpy:237
 translate french replay_d09s04_d06d733e:
 
     # mc "Where else? It's fine, there's nobody else around. Just concentrate on me."
-    mc "Où d'autre? C'est bon, il n'y a personne d'autre aux alentours. Concentre-toi juste sur moi."
+    mc "Où cela ? C'est bon, il n'y a personne d'autre aux alentours. Concentre-toi juste sur moi."
 
 # game/code/d09/d09s04.rpy:244
 translate french replay_d09s04_545e6afe:
 
     # vw "God, I can't believe you're doing this {i}right{/i} {i}{b}here{/b}{/i}."
-    vw "Mon Dieu, je n'arrive pas à croire que tu fasses ça {i}bien{/i} {i}{b}ici{/b}{/i}."
+    vw "Mon Dieu, je n'arrive pas à croire que tu fasses ça si {i}bien{/i} {i}{b}ici{/b}{/i}."
 
 # game/code/d09/d09s04.rpy:248
 translate french replay_d09s04_109970c0:
@@ -506,13 +506,13 @@ translate french replay_d09s04_403a2e1b:
 translate french replay_d09s04_40bdfe55:
 
     # mc "...At the same time?"
-    mc "...En même temps?"
+    mc "...En même temps ?"
 
 # game/code/d09/d09s04.rpy:258
 translate french replay_d09s04_c558aba5:
 
     # vw "Yes. You started this, you'll finish it, mister."
-    vw "Oui. Vous avez commencé, vous le finirez, monsieur."
+    vw "Oui. Tu as commencé, tu finis, monsieur."
 
 # game/code/d09/d09s04.rpy:259
 translate french replay_d09s04_4689d278:
@@ -536,7 +536,7 @@ translate french replay_d09s04_20f4e427:
 translate french replay_d09s04_40e69828:
 
     # vw "Fuck me! {w}Fuck Yes!!!"
-    vw "Baise-moi! {w}Putain Oui !!!"
+    vw "Baise-moi ! {w}Putain Oui !!!"
 
 # game/code/d09/d09s04.rpy:319
 translate french replay_d09s04_637d7e45:
@@ -548,25 +548,25 @@ translate french replay_d09s04_637d7e45:
 translate french replay_d09s04_c362ebd5:
 
     # vw "What? Samiya!?!?!"
-    vw "Quoi? Samiya!?!?!"
+    vw "Quoi ? Samiya !?!?!"
 
 # game/code/d09/d09s04.rpy:322
 translate french replay_d09s04_8b5095fb:
 
     # sb "You are such a hypocrite - shaming others, yet fucking in public like this!!!"
-    sb "Vous êtes tellement hypocrite – vous faites honte aux autres, mais vous baisez en public comme ça !!!"
+    sb "Tu  es tellement hypocrite – Tu fais honte à tout le monde, tu baises en public comme ça !!!"
 
 # game/code/d09/d09s04.rpy:328
 translate french replay_d09s04_1c809109:
 
     # vw "What's happening here? [mcname]?"
-    vw "Que se passe-t-il ici ? [mcname]?"
+    vw "Que se passe-t-il ici ? [mcname] ?"
 
 # game/code/d09/d09s04.rpy:331
 translate french replay_d09s04_05500ff6:
 
     # mc "Huh?"
-    mc "Hein?"
+    mc "Hein ?"
 
 # game/code/d09/d09s04.rpy:332
 translate french replay_d09s04_882990b3:
@@ -578,7 +578,7 @@ translate french replay_d09s04_882990b3:
 translate french replay_d09s04_a5fa4569:
 
     # mc "Wait, what? I didn't pay—"
-    mc "Attends quoi? j'ai pas payé—"
+    mc "Attends quoi ? j'ai pas payé —"
 
 # game/code/d09/d09s04.rpy:338
 translate french replay_d09s04_6070d9ce:
@@ -662,7 +662,7 @@ translate french replay_d09s04_0d26ee44:
 translate french replay_d09s04_c87bc9b1:
 
     # "Store Manager" "That is some top shelf M.I.L.F, dude! {w}Good for you."
-    "Directeur de magasin" "C'est une M.I.L.F de haut niveau, mec ! {w} Tant mieux pour vous."
+    "Directeur de magasin" "C'est une M.I.L.F de haut niveau, mec ! {w}Tant mieux pour vous."
 
 # game/code/d09/d09s04.rpy:390
 translate french replay_d09s04_f4d4703f:
@@ -680,13 +680,13 @@ translate french replay_d09s04_64f9bb7f:
 translate french replay_d09s04_11455b53:
 
     # mc "What?"
-    mc "Quoi?"
+    mc "Quoi ?"
 
 # game/code/d09/d09s04.rpy:398
 translate french replay_d09s04_c9599622:
 
     # "Store Manager" "I mean, I can't have you doing anything in the aisles like this again, but there's a back room..."
-    "Responsable du magasin" "Je veux dire, je ne peux plus vous laisser faire quelque chose comme ça dans les allées, mais il y a une arrière-boutique..."
+    "Responsable du magasin" "Je veux dire, je ne peux plus vous laisser faire quelque chose comme ça dans les allées, mais il y a une arrière-boutique ..."
 
 # game/code/d09/d09s04.rpy:400
 translate french replay_d09s04_ac214db4:
@@ -710,7 +710,7 @@ translate french replay_d09s04_709a0d2d:
 translate french replay_d09s04_8e97e1e2:
 
     # "Store Manager" "How do you do it? You just walk up to girl and—"
-    "Responsable de magasin" "Comment faites-vous ? Tu t'approches juste de la fille et—"
+    "Responsable de magasin" "Comment faites-vous ? Vous approchez juste la fille et —"
 
 # game/code/d09/d09s04.rpy:407
 translate french replay_d09s04_a9c82ec4:
@@ -734,7 +734,7 @@ translate french replay_d09s04_310bfe5c:
 translate french replay_d09s04_56f59087:
 
     # "Store Manager" "Yes! Of course! Thank you! Come again!"
-    "Responsable de magasin" "Oui ! Bien sûr! Merci! Revenez!"
+    "Responsable de magasin" "Oui ! Bien sûr ! Merci ! Revenez !"
 
 # game/code/d09/d09s04.rpy:421
 translate french replay_d09s04_f7c446ab:
@@ -752,7 +752,7 @@ translate french strings:
 
     # game/code/d09/d09s04.rpy:75
     old "Bail Out"
-    new "sortir d'affaire"
+    new "Sortir d'affaire"
 
     # game/code/d09/d09s04.rpy:93
     old "Be a gigolo"
