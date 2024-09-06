@@ -2,7 +2,7 @@
 translate french d09s06_fd7a39cb:
 
     # mct "This would be a good time to visit Min."
-    mct "Ce serait un bon moment pour rendre visite à Min."
+    mct "Ce serait le bon moment pour rendre visite à Min."
 
 # game/code/d09/d09s06.rpy:12
 translate french d09s06_7399c8c0:
@@ -14,7 +14,7 @@ translate french d09s06_7399c8c0:
 translate french d09s06_d260313d:
 
     # mc "Hey Squizzle. What's shaking?"
-    mc "Salut Squizzle. Quoi de neuf?"
+    mc "Salut Squizzle. Quoi de neuf ?"
 
 # game/code/d09/d09s06.rpy:24
 translate french d09s06_35e1f4cb:
@@ -56,7 +56,7 @@ translate french replay_d09s06_c3ae3cde:
 translate french replay_d09s06_a794642b:
 
     # mc "Outdoors? Kinky."
-    mc "En extérieur ? Coquin."
+    mc "En extérieur ? Coquine."
 
 # game/code/d09/d09s06.rpy:45
 translate french replay_d09s06_3bdd5b8a:
@@ -68,7 +68,7 @@ translate french replay_d09s06_3bdd5b8a:
 translate french replay_d09s06_8931ea8f:
 
     # mesfl "I assume that today's lesson is going to get.{w}.. messy."
-    mesfl "Je suppose que la leçon d'aujourd'hui va devenir.{w}.. salissante."
+    mesfl "Je suppose que la leçon d'aujourd'hui va être.{w}.. salissante."
 
 # game/code/d09/d09s06.rpy:49
 translate french replay_d09s06_ae5726da:
@@ -110,19 +110,19 @@ translate french replay_d09s06_f9bd4c48:
 translate french replay_d09s06_fa129b7b:
 
     # mc "You haven't cum with pee in your mouth?"
-    mc "Tu n'as pas joui avec du pipi dans la bouche ?"
+    mc "Tu n'as pas joui avec de la pisse dans la bouche ?"
 
 # game/code/d09/d09s06.rpy:61
 translate french replay_d09s06_0b8951e4:
 
     # mesfl "No! And Mr. D1cky knows when I fake it, so he's been trying hard to get me off!"
-    mesfl "Non! Et M. D1cky sait quand je simule, alors il a fait de gros efforts pour me faire jouir !"
+    mesfl "Non ! Et M. D1cky sait quand je simule, alors il a fait de gros efforts pour me faire jouir !"
 
 # game/code/d09/d09s06.rpy:63
 translate french replay_d09s06_9134c7dc:
 
     # mc "But he won't try watersports?"
-    mc "Mais il ne veut pas essayer les sports nautiques ?"
+    mc "Mais il ne veut pas essayer l'ondinisme, non ?"
 
 # game/code/d09/d09s06.rpy:65
 translate french replay_d09s06_b8584585:
@@ -146,13 +146,13 @@ translate french replay_d09s06_19a37822:
 translate french replay_d09s06_dd7a39a4:
 
     # mesfl "Hold on... I want to get this on camera."
-    mesfl "Attendez... Je veux filmer ça."
+    mesfl "Attend... Je veux filmer ça."
 
 # game/code/d09/d09s06.rpy:75
 translate french replay_d09s06_59f69b57:
 
     # mc "For Fetish Locator?"
-    mc "Pour Fetish Locator?"
+    mc "Pour Fetish Locator ?"
 
 # game/code/d09/d09s06.rpy:78
 translate french replay_d09s06_92d6c8ce:
@@ -164,7 +164,7 @@ translate french replay_d09s06_92d6c8ce:
 translate french replay_d09s06_404fd795:
 
     # mc "All set?"
-    mc "Prêt ?"
+    mc "Prête ?"
 
 # game/code/d09/d09s06.rpy:86
 translate french replay_d09s06_ffccc631:
@@ -182,7 +182,7 @@ translate french replay_d09s06_002835a3:
 translate french replay_d09s06_7f40b48b:
 
     # mesfl "Gladly!"
-    mesfl "Avec plaisir!"
+    mesfl "Avec plaisir !"
 
 # game/code/d09/d09s06.rpy:96
 translate french replay_d09s06_ccbc40df:
@@ -212,25 +212,25 @@ translate french replay_d09s06_78288731:
 translate french replay_d09s06_771ae1c2:
 
     # mesfl "What? I still need to pee!"
-    mesfl "Quoi? J'ai encore besoin de pisser!"
+    mesfl "Quoi ? J'ai encore besoin de pisser !"
 
 # game/code/d09/d09s06.rpy:107
 translate french replay_d09s06_fd6af0b2:
 
     # mc "Hold it. Just a little bit longer."
-    mc "Tiens-le. Encore un peu."
+    mc "Retiens-toi. Encore un peu."
 
 # game/code/d09/d09s06.rpy:110
 translate french replay_d09s06_245be633:
 
     # mc "How does this look?"
-    mc "A quoi ça ressemble?"
+    mc "A quoi ça ressemble ?"
 
 # game/code/d09/d09s06.rpy:112
 translate french replay_d09s06_a8bf2d0c:
 
     # mesfl "Honestly? It still looks like piss, but.{w}.. tasty?"
-    mesfl "Honnêtement? Ça ressemble toujours à de la pisse, mais.{w}.. c'est savoureux ?"
+    mesfl "Honnêtement ? Ça ressemble toujours à de la pisse, mais.{w}.. c'est savoureux ?"
 
 # game/code/d09/d09s06.rpy:115
 translate french replay_d09s06_2d9c9ead:
@@ -248,7 +248,7 @@ translate french replay_d09s06_d596c549:
 translate french replay_d09s06_d14c2780:
 
     # mc "Just hold it in your mouth."
-    mc "Tiens-le simplement dans ta bouche."
+    mc "Garde-la simplement dans ta bouche."
 
 # game/code/d09/d09s06.rpy:130
 translate french replay_d09s06_359d6f85:
@@ -260,7 +260,7 @@ translate french replay_d09s06_359d6f85:
 translate french replay_d09s06_b6a26a23:
 
     # mc "A vibrator? A rabbit? A personal massager? Something like that?"
-    mc "Un vibromasseur ? Un canard? Un masseur personnel ? Un truc comme ça ?"
+    mc "Un vibromasseur ? Un canard ? Un masseur personnel ? Un truc comme ça ?"
 
 # game/code/d09/d09s06.rpy:133
 translate french replay_d09s06_1216b688:
@@ -278,7 +278,7 @@ translate french replay_d09s06_585a7bf3:
 translate french replay_d09s06_a5479778:
 
     # mc "I bet you have another one that plugs directly into the wall socket, but this should do nicely."
-    mc "Je parie que vous en avez un autre qui se branche directement sur la prise murale, mais celui-ci devrait bien faire l'affaire."
+    mc "Je parie que tu en as un autre qui se branche directement sur la prise murale, mais celui-ci devrait bien faire l'affaire."
 
 # game/code/d09/d09s06.rpy:150
 translate french replay_d09s06_daad21d1:
@@ -296,13 +296,13 @@ translate french replay_d09s06_be0faacf:
 translate french replay_d09s06_81a41d31:
 
     # mc "How does that feel? Is that the spot?"
-    mc "Qu'est-ce que ça fait? Est-ce l'endroit idéal ?"
+    mc "Qu'est-ce que ça fait ? Est-ce l'endroit idéal ?"
 
 # game/code/d09/d09s06.rpy:172
 translate french replay_d09s06_973fab43:
 
     # mc "It's nice talking to you, but you're so cute when your mouth is full!"
-    mc "C'est agréable de parler avec toi, mais tu es si mignone quand tu as la bouche pleine!"
+    mc "C'est agréable de parler avec toi, mais tu es si mignone quand tu as la bouche pleine !"
 
 # game/code/d09/d09s06.rpy:176
 translate french replay_d09s06_b2ab7142:
@@ -332,19 +332,19 @@ translate french replay_d09s06_6d698224:
 translate french replay_d09s06_6854c853:
 
     # mesfl "YESSSSSSSSS!!!"
-    mesfl "OUIIIII!!!"
+    mesfl "OUIIIII !!!"
 
 # game/code/d09/d09s06.rpy:201
 translate french replay_d09s06_6d817346:
 
     # mesfl "RELEASE!!!"
-    mesfl "JE JOUIS!!!"
+    mesfl "JE JOUIS !!!"
 
 # game/code/d09/d09s06.rpy:209
 translate french replay_d09s06_581823aa:
 
     # mesfl "OH FUCK YESS!!!"
-    mesfl "OH FUCK OUII!!!"
+    mesfl "OH FUCK OUII !!!"
 
 # game/code/d09/d09s06.rpy:212
 translate french replay_d09s06_23c20478:
@@ -368,7 +368,7 @@ translate french d09s06_tap_a7a92e8f:
 translate french d09s06_tap_469abb36:
 
     # mesfl "Hmm. It looks like you need a little attention too."
-    mesfl "Hmm. On dirait que tu a aussi besoin d’un peu d’attention."
+    mesfl "Hmm. On dirait que tu as aussi besoin d’un peu d’attention."
 
 # game/code/d09/d09s06.rpy:287
 translate french d09s06_glasses_6e0317d7:
@@ -386,7 +386,7 @@ translate french d09s06_glasses_a7a92e8f:
 translate french d09s06_glasses_f5f21a65:
 
     # mesfl "More glasses? I hope you're not planning on Round 2 already."
-    mesfl "Plus de verrres? J'espère que tu ne prévoyes pas déjà le deuxième tour."
+    mesfl "Plus de verres? J'espère que tu ne prévoyes pas déjà le deuxième tour."
 
 # game/code/d09/d09s06.rpy:297
 translate french d09s06_glasses_28d16051:
@@ -422,7 +422,7 @@ translate french d09s06_glasses_1e098a17:
 translate french d09s06_glasses_068582fd:
 
     # mc "What do you have in mind?"
-    mc "Qu'as-tu en tête?"
+    mc "Qu'as-tu en tête ?"
 
 # game/code/d09/d09s06.rpy:320
 translate french d09s06_glasses_f6890ae0:
