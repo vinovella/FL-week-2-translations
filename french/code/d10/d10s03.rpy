@@ -56,25 +56,25 @@ translate french d10s03_a7c88e98:
 translate french d10s03_92574290:
 
     # sb "It's coming."
-    sb "c'est en chemin."
+    sb "C'est en route."
 
 # game/code/d10/d10s03.rpy:49
 translate french d10s03_99b69881:
 
     # mc "\"Coming\"?"
-    mc "\"Chemin\"?"
+    mc "\"Route\"?"
 
 # game/code/d10/d10s03.rpy:50
 translate french d10s03_c0c7cbc6:
 
     # sb "The guy I told you about is delivering it."
-    sb "Le gars dont je t'ai parlé le livre."
+    sb "Le gars dont je t'ai parlé l'amène."
 
 # game/code/d10/d10s03.rpy:51
 translate french d10s03_858dfe21:
 
     # mc "This is the first time I've heard of this guy."
-    mc "C'est la première fois que j'entends parler d'un gars."
+    mc "C'est la première fois que j'entends parler de ce gars."
 
 # game/code/d10/d10s03.rpy:54
 translate french d10s03_d7b597ba:
@@ -86,7 +86,7 @@ translate french d10s03_d7b597ba:
 translate french d10s03_ce3e5f4f:
 
     # sb "The gist of it is that I maybe kinda sorta lost it at a client's house."
-    sb "L'essentiel est que je l'ai peut-être un peu perdu chez un client."
+    sb "En fait c'est que je l'ai peut-être un peu \"perdu\" chez un client."
 
 # game/code/d10/d10s03.rpy:57
 translate french d10s03_06ed5f2a:
@@ -98,7 +98,7 @@ translate french d10s03_06ed5f2a:
 translate french d10s03_c279f581:
 
     # sb "You can thank your friend for that. "
-    sb "tu peux remercier yon ami pour cela."
+    sb "Tu peux remercier ton ami pour cela."
 
 # game/code/d10/d10s03.rpy:61
 translate french d10s03_bf7f7c99:
@@ -110,7 +110,7 @@ translate french d10s03_bf7f7c99:
 translate french d10s03_940b5dfb:
 
     # sb "Why are you smiling? What's so funny?"
-    sb "Pourquoi souriez-vous? Qu'est ce qu'il y a de si drôle?"
+    sb "Pourquoi souris-tu ? Qu'est ce qu'il y a de si drôle ?"
 
 # game/code/d10/d10s03.rpy:65
 translate french d10s03_36c28553:
@@ -122,7 +122,7 @@ translate french d10s03_36c28553:
 translate french d10s03_a884bbae:
 
     # sb "It's not funny."
-    sb "Ce n'est pas drole."
+    sb "Ce n'est pas drôle."
 
 # game/code/d10/d10s03.rpy:71
 translate french d10s03_7d5a6f3e:
@@ -182,7 +182,7 @@ translate french d10s03_b5bafdd6:
 translate french d10s03_b16ce410:
 
     # sb "John, baby, come on. Your wife's a dumb bitch. She won't question a thing."
-    sb "John, bébé, allez. ta femme est une conne. Elle ne remettra rien en question."
+    sb "John, bébé, allez. Ta femme est une conne. Elle ne remettra rien en question."
 
 # game/code/d10/d10s03.rpy:96
 translate french d10s03_31472418:
@@ -200,25 +200,25 @@ translate french d10s03_dd8c7580:
 translate french d10s03_82a541e6:
 
     # sb "Well, it's not my fucking fault that your dumbass couldn't hide a fucking bag to save his life."
-    sb "Eh bien, ce n'est pas ma putain de faute si ton idiot n'a pas pu cacher un putain de sac pour lui sauver la vie."
+    sb "Eh bien, ce n'est pas ma putain de faute si un idiot n'a pas pu cacher un putain de sac pour sauver sa vie."
 
 # game/code/d10/d10s03.rpy:107
 translate french d10s03_976b99de:
 
     # "John" "You...!"
-    "John" "toi...!"
+    "John" "toi... !"
 
 # game/code/d10/d10s03.rpy:114
 translate french d10s03_a9af5f58:
 
     # mc "HEY!"
-    mc "HÉ!"
+    mc "HÉ !"
 
 # game/code/d10/d10s03.rpy:130
 translate french d10s03_ea0c441a:
 
     # "John" "She's filing for divorce! 13 years! 13 FUCKING YEARS!!! And you destroyed it all! MY LIFE IS FUCKED, YOU BITCH!"
-    "John" "Elle demande le divorce ! 13 ans ! 13 PUTAIN D'ANNÉES ! !! Et tu as tout détruit ! MA VIE EST FOUTUE, SALOPE!"
+    "John" "Elle demande le divorce ! 13 ans ! 13 PUTAIN D'ANNÉES ! !! Et tu as tout détruit ! MA VIE EST FOUTUE, SALOPE !"
 
 # game/code/d10/d10s03.rpy:133
 translate french d10s03_762a490a:
@@ -230,7 +230,7 @@ translate french d10s03_762a490a:
 translate french d10s03_333ce1c8:
 
     # "John" "Oh, really?"
-    "John" "Oh, vraiment?"
+    "John" "Oh, vraiment ?"
 
 # game/code/d10/d10s03.rpy:139
 translate french d10s03_b670258b:
@@ -248,13 +248,13 @@ translate french d10s03_3c5646a3:
 translate french d10s03_11fccb14:
 
     # pb "P—P—P—Peeersonal Foul!"
-    pb "H-H-H-Hé connard "
+    pb "H-H-H-Hé connard !"
 
 # game/code/d10/d10s03.rpy:147
 translate french d10s03_f3116c06:
 
     # "John" "Huh?"
-    "John" "Hein?"
+    "John" "Hein ?"
 
 # game/code/d10/d10s03.rpy:156
 translate french d10s03_0e0412e8:
@@ -296,13 +296,13 @@ translate french d10s03_de7e28c5:
 translate french d10s03_464eacb8:
 
     # "John" "Wha— What the—"
-    "John" "Duo— What the—"
+    "John" "Que— Que le—"
 
 # game/code/d10/d10s03.rpy:171
 translate french d10s03_00824b0e:
 
     # pb "Say what again, motherfucker. I dare you, I double dog dare you. Say what one more goddamn time."
-    pb "Dis quoi encore, enfoiré. Je te défie, je te défie double chien. Dis quoi encore une putain de fois."
+    pb "Dis-le encore, enfoiré. Je te défie, je te défie chien. Dis-le encore une putain de fois."
 
 # game/code/d10/d10s03.rpy:173
 translate french d10s03_d18b3399:
@@ -320,13 +320,13 @@ translate french d10s03_c00f9352:
 translate french d10s03_345b86c4:
 
     # sb "*Wack* You *Wack* have the audacity *Wack* to bitch slap {i}{b}me!?!?{/b}{/i}"
-    sb "*coup* Tu *coup* as l'audace *coup* de me gifler!?!?"
+    sb "*coup* Tu *coup* as l'audace *coup* de me gifler !?!?"
 
 # game/code/d10/d10s03.rpy:204
 translate french d10s03_1f88f13b:
 
     # sb "*Wack* THAT COSTS EXTRA! *Wack**Wack**Quack*"
-    sb "*coup* C'EST BEAUCOUP PLUS CHER ! *coup**coup**coup*"
+    sb "*coup* C'EST BEAUCOUP PLUS CHER ! *coup* *coup* *coup*"
 
 # game/code/d10/d10s03.rpy:207
 translate french d10s03_88a2ed26:
@@ -374,7 +374,7 @@ translate french d10s03_cdda89c9:
 translate french d10s03_ee1c4819:
 
     # pb "Goodman. Come on now, give us the luggage and fuck off before I let her loose on you."
-    pb "Homme bon. Allez, donne-nous les bagages et va te faire foutre avant que je la lâche sur toi."
+    pb "Bonhomme. Allez, donne-nous les bagages et va te faire foutre avant que je la lâche sur toi."
 
 # game/code/d10/d10s03.rpy:227
 translate french d10s03_294dc17d:
@@ -398,7 +398,7 @@ translate french d10s03_e1dfe628:
 translate french d10s03_2876efd9:
 
     # mc "Why?"
-    mc "Pourquoi?"
+    mc "Pourquoi ?"
 
 # game/code/d10/d10s03.rpy:234
 translate french d10s03_554adaac:
@@ -428,7 +428,7 @@ translate french d10s03_369626ac:
 translate french d10s03_d3606882:
 
     # sb "Oh, and uh, I gave a swimsuit from there to a friend of mine. Sorry about that."
-    sb "Oh, et euh, j'ai offert un maillot de bain de là-bas à un de mes amis. Désolé pour ça."
+    sb "Oh, et euh, j'ai offert un maillot de bain de là-bas à une de mes amies. Désolé pour ça."
 
 # game/code/d10/d10s03.rpy:246
 translate french d10s03_68609855:
@@ -440,7 +440,7 @@ translate french d10s03_68609855:
 translate french d10s03_2443bb27:
 
     # sb "Yeah.{w} Wait, what? Do you know her?"
-    sb "Ouais.{w} Attends, quoi ? Est-ce que tu la connais?"
+    sb "Ouais.{w} Attends, quoi ? Est-ce que tu la connais ?"
 
 # game/code/d10/d10s03.rpy:250
 translate french d10s03_122e26b3:
@@ -458,7 +458,7 @@ translate french d10s03_b3b9bed3:
 translate french d10s03_5415045c:
 
     # pb "How did you even have time to pass around swimsuits?"
-    pb "Comment avez-vous même eu le temps de faire circuler des maillots de bain ?"
+    pb "Comment as-tu eu le temps de refiler un maillot de bain ?"
 
 # game/code/d10/d10s03.rpy:256
 translate french d10s03_92053b7b:
@@ -476,7 +476,7 @@ translate french d10s03_05782900:
 translate french d10s03_1f72a9c8:
 
     # sb "{i}Good{/i} dick is hard to come by."
-    sb "{i}Bien{/i}Une bonne bite est difficile à trouver"
+    sb "{i}Ben{/i} une bonne bite, c'est difficile à trouver"
 
 # game/code/d10/d10s03.rpy:260
 translate french d10s03_5f3fd43f:
@@ -494,19 +494,19 @@ translate french d10s03_487f07fa:
 translate french d10s03_91d93607:
 
     # pb "Nice!"
-    pb "Bon!"
+    pb "Bien !"
 
 # game/code/d10/d10s03.rpy:267
 translate french d10s03_e29efacf:
 
     # sb "Great. Now can you two fuck off? I need to go home and take a long ass bubble bath after that shit. "
-    sb "Super. Maintenant, vous pouvez vous faire foutre tous les deux ? Je dois rentrer à la maison et prendre un long bain moussant après cette merde."
+    sb "Super. Maintenant, vous pouvez aller vous faire foutre tous les deux ? Je dois rentrer à la maison et prendre un long bain moussant après cette merde."
 
 # game/code/d10/d10s03.rpy:270
 translate french d10s03_3565dc13:
 
     # pb "You don't live here?"
-    pb "Vous n'habitez pas ici ?"
+    pb "Tu n'habites pas ici ?"
 
 # game/code/d10/d10s03.rpy:273
 translate french d10s03_24921a97:
@@ -548,7 +548,7 @@ translate french d10s03_dc156aed:
 translate french d10s03_e1581dd1:
 
     # sb "Really?"
-    sb "Vraiment?"
+    sb "Vraiment ?"
 
 # game/code/d10/d10s03.rpy:286
 translate french d10s03_2b35b6fe:
@@ -560,13 +560,13 @@ translate french d10s03_2b35b6fe:
 translate french Peteyboi_5c43caf8:
 
     # mc "Alright, see you at the dorm then!"
-    mc "Très bien, à bientôt au dortoir alors !"
+    mc "Très bien, à bientôt à l'appart alors !"
 
 # game/code/d10/d10s03.rpy:294
 translate french Peteyboi_124e87bb:
 
     # pb "Sure!"
-    pb "Bien sûr!"
+    pb "Bien sûr !"
 
 # game/code/d10/d10s03.rpy:296
 translate french Peteyboi_c67bd21c:
@@ -584,7 +584,7 @@ translate french Peteyboi_bfb6b18e:
 translate french Peteyboi_bfeaf973:
 
     # mc "Dude, let's go, come on."
-    mc "Mec, allons-y, allez."
+    mc "Mec, vas-y, barre-toi."
 
 # game/code/d10/d10s03.rpy:305
 translate french Peteyboi_d021047f:
@@ -608,7 +608,7 @@ translate french Peteyboi_a47ab9b4:
 translate french Peteyboi_d5292b31:
 
     # mc "Let's go before you mysteriously end up unconscious and naked in a dumpster."
-    mc "Allons-y avant que vous ne vous retrouviez mystérieusement inconscient et nu dans une benne à ordures."
+    mc "Vas-y avant que tu ne te retrouves mystérieusement inconscient et nu dans une benne à ordures."
 
 # game/code/d10/d10s03.rpy:314
 translate french Peteyboi_6ad42bc9:
@@ -620,13 +620,13 @@ translate french Peteyboi_6ad42bc9:
 translate french Peteyboi_a23673d6:
 
     # pb "Alright..."
-    pb "Bien..."
+    pb "Bien ..."
 
 translate french strings:
 
     # game/code/d10/d10s03.rpy:287
     old "Drag Pete out with you?"
-    new "Traîner Pete avec toi ?"
+    new "Amène Pete avec toi ?"
 
     # game/code/d10/d10s03.rpy:287
     old "Eh, whatever"
