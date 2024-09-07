@@ -80,7 +80,7 @@ translate french d10p1s02_dc8a1a32:
 translate french d10p1s02_feec4d56:
 
     # mc "Oh? Something BDSM related then, I'm guessing?"
-    mc "Oh? Quelque chose lié au BDSM alors, je suppose ?"
+    mc "Oh ? Quelque chose lié au BDSM alors, je suppose ?"
 
 # game/code/d10p1/d10p1s02.rpy:66
 translate french d10p1s02_1f2ca2dc:
@@ -104,7 +104,7 @@ translate french d10p1s02_547108ee:
 translate french d10p1s02_2e373a56:
 
     # aw "Oh! I also heard that there might be an event or something with these tracker thingies."
-    aw "Oh! J'ai aussi entendu dire qu'il pourrait y avoir un événement ou quelque chose du genre avec ces trucs de traqueurs."
+    aw "Oh ! J'ai aussi entendu dire qu'il pourrait y avoir un événement ou quelque chose du genre avec ces trucs de traqueurs."
 
 # game/code/d10p1/d10p1s02.rpy:72
 translate french d10p1s02_5ec7b19f:
@@ -134,13 +134,13 @@ translate french d10p1s02_ba98ed6c:
 translate french d10p1s02_0dd93717:
 
     # mc "Why's that?"
-    mc "Pourquoi?"
+    mc "Pourquoi ?"
 
 # game/code/d10p1/d10p1s02.rpy:84
 translate french d10p1s02_fe95c526:
 
     # aw "I can cum like crazy."
-    aw "Je peux jouir comme un fou."
+    aw "Je peux jouir comme une folle."
 
 # game/code/d10p1/d10p1s02.rpy:86
 translate french d10p1s02_20376a72:
@@ -206,7 +206,7 @@ translate french d10p1s02_85d20467:
 translate french d10p1s02_53c7baa1:
 
     # mc "You're like those cam girls that fake an orgasm after like 2 minutes of getting off and quivers like they're experiencing a sudden world-shattering earthquake localized entirely between their legs, except real."
-    mc "tu es comme ces cam girls qui simulent un orgasme après environ 2 minutes de jouissance et frémissent comme si elles subissaient un tremblement de terre soudain et bouleversant, entièrement localisé entre leurs jambes, sauf réel."
+    mc "tu es comme ces cam girls qui simulent un orgasme après environ 2 minutes de plaisir et qui frémissent comme si elles subissaient un tremblement de terre bouleversant, entièrement localisé entre leurs jambes, inconcevable."
 
 # game/code/d10p1/d10p1s02.rpy:112
 translate french d10p1s02_078de239:
@@ -224,19 +224,19 @@ translate french d10p1s02_8c69429c:
 translate french d10p1s02_6b6ef30f:
 
     # aw "And as hilarious as that description is, there's a very valid reason they do that y'know."
-    aw "Et aussi hilarante que soit cette description, il y a une raison très valable pour laquelle ils font cela, vous savez."
+    aw "Et aussi hilarante que soit cette description, il y a une raison très valable pour laquelle elles font cela, tu sais."
 
 # game/code/d10p1/d10p1s02.rpy:118
 translate french d10p1s02_037848a5:
 
     # aw "Donations go way up after you edge 'em on for a bit and then cum like crazy. Doesn't matter if it's real or not."
-    aw "Les dons augmentent considérablement après que tu les as fait jouir un peu et qu'elles ont joui comme des folles. Peu importe que ce soit réel ou non."
+    aw "Les dons augmentent considérablement après qu'elles aient joui et encore plus lorsqu'elles ont joui comme des folles. Peu importe que ce soit réel ou non."
 
 # game/code/d10p1/d10p1s02.rpy:119
 translate french d10p1s02_61353d4c:
 
     # aw "Add in some roleplay from time to time to make it seem like it's a one on one special thing even when they haven't paid for one and one, and boom. You'll be swimming in cash."
-    aw "Ajoutez un peu de jeu de rôle de temps en temps pour donner l'impression que c'est une chose spéciale en tête-à-tête, même s'ils n'ont pas payé pour un face-à-face, et boum. Vous nagerez dans l'argent."
+    aw "Ajoutez un peu de jeu de rôle de temps en temps pour donner l'impression que c'est une chose spéciale en tête-à-tête, même s'ils n'ont pas payé pour un face-à-face, et boum. Vous nagez dans l'argent."
 
 # game/code/d10p1/d10p1s02.rpy:122
 translate french d10p1s02_15d16df5:
@@ -254,13 +254,13 @@ translate french d10p1s02_8793732e:
 translate french d10p1s02_7ed659f5:
 
     # aw "Totally straight guys that are not gay at all and would never even consider being gay but is just camming for the \"community\" also make bank from gay guys that are into the \"straight turned gay\" stuff."
-    aw "Des mecs totalement hétéros qui ne sont pas du tout gay et n'envisageraient même jamais de l'être,mais ils font de la cam pour la \"communauté \" et se font aussi de l'argent avec les gays qui sont dans le truc du \"hétéro devenue gay\"."
+    aw "Il y a des mecs totalement hétéros qui ne sont pas du tout gay, et n'envisageraient même jamais de l'être, bin ils font de la cam pour la \"communauté \" et se font aussi de l'argent avec les gays qui sont dans le truc du \"hétéro devenue gay\"."
 
 # game/code/d10p1/d10p1s02.rpy:127
 translate french d10p1s02_31251cce:
 
     # aw "If that's not your cup of tea, you can also be a sissy. Or a fake transgender woman. Or a real transgender woman if that's who you are, I don't judge."
-    aw "Si ce n'est pas votre tasse de thé, vous pouvez aussi être une poule mouillée. Ou une fausse femme transgenre. Ou une vraie femme transgenre si c'est ce que vous êtes, je ne juge pas."
+    aw "Si ce n'est pas ta tasse de thé, tu peux aussi être une sissy. Ou une fausse femme transgenre. Ou une vraie femme transgenre si c'est ce que tu es, je ne juge pas."
 
 # game/code/d10p1/d10p1s02.rpy:128
 translate french d10p1s02_a385d7f5:
@@ -272,7 +272,7 @@ translate french d10p1s02_a385d7f5:
 translate french d10p1s02_35df6966:
 
     # aw "Not to mention, get found out and you're probably gonna get some very creatively written emails about your gruesome demise."
-    aw "De plus, si vous êtes découvert, vous recevrez probablement des courriels très créatifs sur votre mort atroce."
+    aw "De plus, si tu es découvert, tu recevras probablement des courriels très créatifs de menace de mort atroce."
 
 # game/code/d10p1/d10p1s02.rpy:132
 translate french d10p1s02_f236ec5a:
@@ -302,7 +302,7 @@ translate french d10p1s02_4a4f859a:
 translate french d10p1s02_6a886e41:
 
     # mc "But nowadays you don't need much help getting cum on your back?"
-    mc "Mais de nos jours, tu n'as besoin pas d'aide pour te faire éjaculer dans le dos ?"
+    mc "Mais de nos jours, tu n'as pas besoin d'aide pour te faire éjaculer dans le dos ?"
 
 # game/code/d10p1/d10p1s02.rpy:140
 translate french d10p1s02_d426bf93:
@@ -320,7 +320,7 @@ translate french d10p1s02_221100a5:
 translate french d10p1s02_772de083:
 
     # mc "Really? I could probably throw a dart in here right now with my eyes closed and somehow hit five guys that'd absolutely love to help you out with that."
-    mc "Vraiment? Je pourrais probablement lancer une fléchette ici maintenant, les yeux fermés, et toucher cinq gars qui adoreraient t'aider avec ça."
+    mc "Vraiment ? Je pourrais probablement lancer une fléchette ici maintenant, les yeux fermés, et toucher cinq gars qui adoreraient t'aider avec ça."
 
 # game/code/d10p1/d10p1s02.rpy:147
 translate french d10p1s02_ecf33e86:
@@ -338,7 +338,7 @@ translate french d10p1s02_dfa440c0:
 translate french d10p1s02_a06801b0:
 
     # aw "Not saying that you're not normal, just that lots of people out there generally tend to look down on our kind. Even {i}if{/i} they secretly wish that they could have what we have."
-    aw "Je ne dis pas que vous n'êtes pas normal, mais beaucoup de gens ont tendance à mépriser les gens de notre espèce. Même {i}si{/i} ils souhaitent secrètement avoir ce que nous avons."
+    aw "Je ne dis pas que tu n'es pas normal, mais beaucoup de gens ont tendance à mépriser les gens de notre espèce. Même {i}s'ils{/i} souhaitent secrètement avoir ce que nous avons."
 
 # game/code/d10p1/d10p1s02.rpy:153
 translate french d10p1s02_1f426f2d:
@@ -380,7 +380,7 @@ translate french d10p1s02_72254f8d:
 translate french d10p1s02_6f587f2f:
 
     # aw "Haha, yeah. Sorry. Get me talking about this stuff and I can go on for ages."
-    aw "Haha, ouais. Désolé. Faites-moi parler de ce genre de choses et je pourrai continuer pendant des heures."
+    aw "Haha, ouais. Désolé. Fais-moi parler de ce genre de choses et je pourrai continuer pendant des heures."
 
 # game/code/d10p1/d10p1s02.rpy:164
 translate french d10p1s02_b3154631:
@@ -392,7 +392,7 @@ translate french d10p1s02_b3154631:
 translate french d10p1s02_26355bf9:
 
     # aw "Yeah. {w}So anyway. Like I said, I'm {i}pretty{/i} sure I'm gonna ace this thing."
-    aw "Ouais. {w}Bref. Comme je l'ai dit, je suis {i}presque{/i} sûr que je vais réussir ce truc."
+    aw "Ouais. {w}Bref. Comme je l'ai dit, je suis {i}presque{/i} sûre que je vais réussir ce truc."
 
 # game/code/d10p1/d10p1s02.rpy:169
 translate french d10p1s02_23f7b300:
@@ -410,7 +410,7 @@ translate french d10p1s02_c7075b4f:
 translate french d10p1s02_3f9df27f:
 
     # mc "...What?"
-    mc "...Quoi?"
+    mc "...Quoi ?"
 
 # game/code/d10p1/d10p1s02.rpy:174
 translate french d10p1s02_4947cec5:
@@ -428,7 +428,7 @@ translate french d10p1s02_1c86622f:
 translate french d10p1s02_018e0d09:
 
     # aw "Yeah, why not?"
-    aw "Ouais pourquoi pas?"
+    aw "Ouais pourquoi pas ?"
 
 # game/code/d10p1/d10p1s02.rpy:181
 translate french d10p1s02_b8fbb3ac:
@@ -470,7 +470,7 @@ translate french replay_d10p1s02_6c0d68ca:
 translate french replay_d10p1s02_70b629c2:
 
     # aw "Alright. How about this? "
-    aw "Bien. Que dis-tu de ça?"
+    aw "Bien. Que dis-tu de ça ?"
 
 # game/code/d10p1/d10p1s02.rpy:203
 translate french replay_d10p1s02_6c27e7b8:
@@ -500,7 +500,7 @@ translate french replay_d10p1s02_af78c9ee:
 translate french replay_d10p1s02_4860c3ce:
 
     # mc "I— Wha—? Of course I have! {w}I just...I just wanted to know what the boundaries were."
-    mc "Je...Quoi...? Bien sûr que j'ai! {w}Je...je voulais juste savoir quelles étaient les limites."
+    mc "Je...Quoi...? Bien sûr que j'ai ! {w}Je...je voulais juste savoir quelles étaient les limites."
 
 # game/code/d10p1/d10p1s02.rpy:214
 translate french replay_d10p1s02_f1002963:
@@ -638,7 +638,7 @@ translate french replay_d10p1s02_d6b4322d:
 translate french replay_d10p1s02_34092cce:
 
     # aw "Huh? Oh, yeah. Forgot that thing was even there."
-    aw "Hein? Oh ouais. J'avais oublié que cette chose était là."
+    aw "Hein ? Oh ouais. J'avais oublié que cette chose était là."
 
 # game/code/d10p1/d10p1s02.rpy:333
 translate french replay_d10p1s02_fcb5400b:
@@ -698,13 +698,13 @@ translate french replay_d10p1s02_0fd86965:
 translate french replay_d10p1s02_2834e9a9:
 
     # aw "Thank you! "
-    aw "Merci!"
+    aw "Merci !"
 
 # game/code/d10p1/d10p1s02.rpy:351
 translate french replay_d10p1s02_0d83c812:
 
     # aw "Oh, uh, mind getting me some tissues, [mcname]? You kinda Pollocked my back there."
-    aw "Oh, euh, ça te dérangerait de m'apporter des mouchoirs, [mcname] ? Vous m'avez en quelque sorte fait un coup de Monnet dans le dos."
+    aw "Oh, euh, ça te dérangerait de m'apporter des mouchoirs, [mcname] ? Tu m'as barbouillé le dos."
 
 # game/code/d10p1/d10p1s02.rpy:354
 translate french replay_d10p1s02_4325d4e8:
@@ -746,7 +746,7 @@ translate french replay_d10p1s02_5d927d17:
 translate french replay_d10p1s02_de01b574:
 
     # aw "Oh? That confident, huh? I like it. I'm sure a guy like you can get close to the top spot.{w} Don't count on beating me though."
-    aw "Oh? C'est si confiant, hein ? J'aime ça. Je suis sûr qu'un gars comme toi peut se rapprocher de la première place.{w} Mais ne compte pas me battre."
+    aw "Oh? Tu es si confiant, hein ? J'aime ça. Je suis sûr qu'un gars comme toi peut se rapprocher de la première place.{w} Mais ne compte pas me battre."
 
 # game/code/d10p1/d10p1s02.rpy:376
 translate french replay_d10p1s02_596b4c4a:
