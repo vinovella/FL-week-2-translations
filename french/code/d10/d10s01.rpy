@@ -2,7 +2,7 @@
 translate french d10s01_c266f695:
 
     # "Wednesday. Day-10."
-    "Mercridi. Jour 10."
+    "Mercredi. Jour 10."
 
 # game/code/d10/d10s01.rpy:11
 translate french d10s01_8a61ec7e:
@@ -44,7 +44,7 @@ translate french d10s01_09e9fe23:
 translate french d10s01_7f7f9162:
 
     # mct "Where is the sun? I'm so used to a nice weather, that moody dull sky like this makes me all depressed..."
-    mct "Où est le soleil? Je suis tellement habitué au beau temps que ce ciel maussade et terne comme celui-ci me déprime..."
+    mct "Où est le soleil ? Je suis tellement habitué au beau temps que ce ciel maussade et terne comme celui-ci me déprime..."
 
 # game/code/d10/d10s01.rpy:28
 translate french d10s01_546c02ee:
@@ -146,7 +146,7 @@ translate french d10s01_a9e0ee93:
 translate french d10s01_0eec42b0:
 
     # mct "Boobjobs, thighjobs, grinding, lapdances... {w}I guess that could be fun."
-    mct "Branlette espagnole, frotter la cuisse, les parties intimes, faire des lapdances...{w}Je suppose que ça pourrait être amusant."
+    mct "frotter sa queue entre des seins, sur des fesses, sur de cuisse, lapdances...{w}Je suppose que ça pourrait être amusant."
 
 # game/code/d10/d10s01.rpy:63
 translate french d10s01_e4dcf492:
@@ -164,13 +164,13 @@ translate french d10s01_c4040c42:
 translate french d10s01_614a6563:
 
     # mct "I wonder what Pete's dreaming about. {w}Something lewd, probably."
-    mct "Je me demande de quoi rêve Pete. {w}Quelque chose d'obscène, probablement."
+    mct "Je me demande de quoi Pete rêve. {w}Quelque chose d'obscène, probablement."
 
 # game/code/d10/d10s01.rpy:73
 translate french d10s01_6abdaeb8:
 
     # mct "Nope. That's not the password to his laptop either."
-    mct "Non. Ce n'est pas non plus le mot de passe de son ordinateur portable."
+    mct "Non. Ce n'est pas non plus le mot de passe de son ordinateur."
 
 # game/code/d10/d10s01.rpy:74
 translate french d10s01_2908b7fa:
@@ -212,7 +212,7 @@ translate french d10s01_48cae3f6:
 translate french d10s01_c17180b4:
 
     # mc "Hey Sis! Good news!"
-    mc "Hé ma sœur ! Bonnes nouvelles!"
+    mc "Hé ma sœur ! Bonnes nouvelles !"
 
 # game/code/d10/d10s01.rpy:91
 translate french d10s01_06da6a9d:
@@ -242,7 +242,7 @@ translate french d10s01_997779d4:
 translate french d10s01_5feffd2e:
 
     # mc "Yes, yes! {w}Calm down - you're going to wake AmRose."
-    mc "Oui oui! {w}Calme-toi, tu vas réveiller AmRose."
+    mc "Oui oui ! {w}Calme-toi, tu vas réveiller AmRose."
 
 # game/code/d10/d10s01.rpy:98
 translate french d10s01_9dd9b6ee:
@@ -254,7 +254,7 @@ translate french d10s01_9dd9b6ee:
 translate french d10s01_40921b7b:
 
     # mc "See you then. Love ya'"
-    mc "À plus tard. Je t'aime'"
+    mc "À plus tard. Je t'aime"
 
 # game/code/d10/d10s01.rpy:103
 translate french d10s01_1ac40f5e:
