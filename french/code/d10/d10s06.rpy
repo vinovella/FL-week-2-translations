@@ -38,7 +38,7 @@ translate french d10s06_64c3a576:
 translate french d10s06_76a88bce:
 
     # mc "Really? Perish the thought."
-    mc "Vraiment? n'y pense pas."
+    mc "Vraiment ? N'y pense pas."
 
 # game/code/d10/d10s06.rpy:29
 translate french d10s06_bc9e70b7:
@@ -62,7 +62,7 @@ translate french d10s06_9e04144e:
 translate french d10s06_4fb2d7dd:
 
     # nk "Nice to meet you! [mcname] here is always bringing interesting people around. But I ain't complaining! He is practically the reason I am still open today!"
-    nk "Ravi de vous rencontrer! [mcname] ici amène toujours des gens intéressants. Mais je ne me plains pas ! C'est pratiquement la raison pour laquelle je suis encore ouvert aujourd'hui !"
+    nk "Ravi de te rencontrer ! [mcname] amène toujours des gens intéressants. Mais je ne me plains pas ! C'est pratiquement la raison pour laquelle je suis encore ouvert aujourd'hui !"
 
 # game/code/d10/d10s06.rpy:39
 translate french d10s06_96fb0672:
@@ -98,7 +98,7 @@ translate french d10s06_606e2d02:
 translate french d10s06_dfd014ed:
 
     # nk "You bring in all the hotties, huh? You need to bring in more sexy hunks too."
-    nk "Tu amènes toutes tes filles, hein ? Vous devez également faire venir des mecs plus sexy."
+    nk "Tu amènes toutes tes filles, hein ? Tu devrais également faire venir des mecs plus sexy."
 
 # game/code/d10/d10s06.rpy:51
 translate french d10s06_41bfbbb5:
@@ -140,25 +140,25 @@ translate french d10s06_79875089:
 translate french d10s06_720aae3e:
 
     # nk "You know... I've been thinking."
-    nk "Vous savez...j'ai réfléchi."
+    nk "Tu sais ... j'ai réfléchi."
 
 # game/code/d10/d10s06.rpy:65
 translate french d10s06_eaa8ee47:
 
     # mc "About what?"
-    mc "À propos de quoi?"
+    mc "À propos de quoi ?"
 
 # game/code/d10/d10s06.rpy:68
 translate french d10s06_edbdf43d:
 
     # nk "Our little...\"nighttime activities.\""
-    nk "Nos petit...\"activités nocturnes.\""
+    nk "Nos petites ...\"activités nocturnes.\""
 
 # game/code/d10/d10s06.rpy:72
 translate french d10s06_c42b05ac:
 
     # mc "And?"
-    mc "Et?"
+    mc "Et ?"
 
 # game/code/d10/d10s06.rpy:75
 translate french d10s06_b1261d0a:
@@ -182,7 +182,7 @@ translate french d10s06_e008cc01:
 translate french d10s06_25e373f4:
 
     # nk "She's been trying to show me \"what a woman can do\" for ages now. I've always told her no, but I guess she found out a way to get into my pants regardless."
-    nk "Elle essaie de me montrer \"ce qu'une femme peut faire\" depuis longtemps. Je lui ai toujours dit non, mais je suppose qu'elle a trouvé un moyen d'entrer dans mon pantalon malgré tout."
+    nk "Elle essaie de me montrer \"ce qu'une femme peut faire\" depuis longtemps. Je lui ai toujours dit non, mais je suppose qu'elle a trouvé un moyen d'entrer dans ma culotte malgré tout."
 
 # game/code/d10/d10s06.rpy:83
 translate french d10s06_ae98f407:
@@ -194,7 +194,7 @@ translate french d10s06_ae98f407:
 translate french d10s06_1de7e246:
 
     # nk "No, it's alright. I...I think I actually kinda like it. I dunno, maybe."
-    nk "Non, tout va bien. Je...je crois que j'aime plutôt ça. Je ne sais pas, peut-être."
+    nk "Non, tout va bien. Je ... je crois que j'aime plutôt ça. Je ne sais pas, peut-être."
 
 # game/code/d10/d10s06.rpy:88
 translate french d10s06_1001fb96:
@@ -224,7 +224,7 @@ translate french d10s06_0bd5d7dd:
 translate french d10s06_068582fd:
 
     # mc "What do you have in mind?"
-    mc "À quoi penses-tu?"
+    mc "À quoi penses-tu ?"
 
 # game/code/d10/d10s06.rpy:101
 translate french d10s06_c67b7b21:
@@ -236,7 +236,7 @@ translate french d10s06_c67b7b21:
 translate french d10s06_674c5ea2:
 
     # nk "Hey! Great timing. Here's your mocha. Oh, and your cappuccino, [mcname]."
-    nk "Hé! Excellent timing. Voici votre moka. Oh, et ton cappuccino, [mcname]."
+    nk "Hé ! Excellent timing. Voici votre moka. Oh, et ton cappuccino, [mcname]."
 
 # game/code/d10/d10s06.rpy:105
 translate french d10s06_809feca8:
@@ -254,7 +254,7 @@ translate french d10s06_8fc88ecc:
 translate french d10s06_ac382d2a:
 
     # nk "Exactly!"
-    nk "Exactement!"
+    nk "Exactement !"
 
 # game/code/d10/d10s06.rpy:110
 translate french d10s06_d9775ec0:
@@ -272,7 +272,7 @@ translate french d10s06_cde8573f:
 translate french d10s06_5225a0f4:
 
     # nk "See you later! And make sure to come again!"
-    nk "À plus tard! Et assurez-vous de revenir !"
+    nk "À plus tard! Et n'hésites pas à revenir !"
 
 # game/code/d10/d10s06.rpy:116
 translate french d10s06_059091eb:
@@ -290,17 +290,17 @@ translate french d10s06_559e21c3:
 translate french d10s06_e4e17269:
 
     # mc "She just wants to pull a little prank on someone and wanted my help."
-    mc "Elle veut juste faire une petite farce à quelqu'un et voulait mon aide."
+    mc "Elle veut juste faire une petite farce à quelqu'un et veut mon aide."
 
 # game/code/d10/d10s06.rpy:122
 translate french d10s06_c2734c44:
 
     # arj "Oh, who— Woah, this is really good."
-    arj "Oh, qui...Woah, c'est vraiment bon."
+    arj "Oh, qui ... Woah, c'est vraiment bon."
 
 # game/code/d10/d10s06.rpy:124
 translate french d10s06_38cf5d59:
 
     # mc "Right? That woman sure knows how to make a good cup of Joe."
-    mc "T'as vu? Cette femme sait vraiment comment préparer une bonne tasse de café."
+    mc "T'as vu ? Cette femme sait vraiment comment préparer une bonne tasse de café."
 
