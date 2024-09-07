@@ -80,7 +80,7 @@ translate french d10s02_eb9942ce:
 translate french d10s02_ab43aa78:
 
     # mc "Seriously? You realize this is the men's locker room, right?"
-    mc "Sérieusement? Vous réalisez que c'est le vestiaire des hommes, n'est-ce pas ?"
+    mc "Sérieusement ? Tu réalise que c'est le vestiaire des hommes, n'est-ce pas ?"
 
 # game/code/d10/d10s02.rpy:52
 translate french d10s02_ef20e346:
@@ -104,7 +104,7 @@ translate french d10s02_144e2bc6:
 translate french d10s02_6af22161:
 
     # mc "Never can tell. I certainly wasn't expecting to see you here."
-    mc "Je ne peux jamais le dire. Je ne m'attendais certainement pas à vous voir ici."
+    mc "Je ne peux jamais le dire. Je ne m'attendais certainement pas à te voir ici."
 
 # game/code/d10/d10s02.rpy:61
 translate french d10s02_4e68a7d1:
@@ -236,19 +236,19 @@ translate french d10s02_da0fffbf:
 translate french d10s02_8fb7b2f8:
 
     # mc "Ha ha. Good point. {w}So what did you think?"
-    mc "Ha ha. Bon point. {w}Alors, qu'en avez-vous pensé ?"
+    mc "Ha ha. Bon point. {w}Alors, qu'en as-tu pensé ?"
 
 # game/code/d10/d10s02.rpy:116
 translate french d10s02_ff2fc156:
 
     # mk "I think I'm... {w}You might have noticed over the years that I'm kinda-"
-    mk "Je pense que je suis...{w}Vous avez peut-être remarqué au fil des années que je suis un peu-"
+    mk "Je pense que je suis...{w}Tu as peut-être remarqué au fil des années que je suis un peu-"
 
 # game/code/d10/d10s02.rpy:119
 translate french d10s02_14dae2dc:
 
     # mc "Obsessive?"
-    mc "Obsessionnel?"
+    mc "Obsessionnelle ?"
 
 # game/code/d10/d10s02.rpy:122
 translate french d10s02_14f69c20:
@@ -260,25 +260,25 @@ translate french d10s02_14f69c20:
 translate french d10s02_46fba101:
 
     # mc "I would say it was your defining trait."
-    mc "Je dirais que c’était votre trait déterminant."
+    mc "Je dirais que c’est ton trait prédominant."
 
 # game/code/d10/d10s02.rpy:128
 translate french d10s02_8cc76770:
 
     # mk "Really? I never really thought that about myself before."
-    mk "Vraiment? Je n’avais jamais vraiment pensé cela à moi-même auparavant."
+    mk "Vraiment ? Je n’avais jamais vraiment pensé cela de moi-même auparavant."
 
 # game/code/d10/d10s02.rpy:129
 translate french d10s02_d9af6597:
 
     # mc "No?"
-    mc "Non?"
+    mc "Non ?"
 
 # game/code/d10/d10s02.rpy:131
 translate french d10s02_e0356146:
 
     # mk "I mean, I know I was passionate. Strong-willed. Determined."
-    mk "Je veux dire, je sais que j'étais passionné. Volontaire. Déterminé."
+    mk "Je veux dire, je sais que j'étais passionnée. Volontaire. Déterminée."
 
 # game/code/d10/d10s02.rpy:132
 translate french d10s02_42d0b5c5:
@@ -290,7 +290,7 @@ translate french d10s02_42d0b5c5:
 translate french d10s02_19b28bf0:
 
     # mk "I just didn't realize until recently how obsessive I can be.{w}.. and have been."
-    mk "Je n'ai tout simplement pas réalisé jusqu'à récemment à quel point je pouvais être aussi obsessionnel.{w}.. que ça."
+    mk "Je n'ai tout simplement pas réalisé jusqu'à récemment à quel point je pouvais être aussi obsessionnelle.{w}.. que ça."
 
 # game/code/d10/d10s02.rpy:136
 translate french d10s02_b4d0fab4:
@@ -308,7 +308,7 @@ translate french d10s02_e09228f4:
 translate french d10s02_fc8b26f5:
 
     # mc "Yet, that same single-minded determination makes you ignore other people's feelings."
-    mc "Pourtant, cette même détermination résolue te fait ignorer les sentiments des autres."
+    mc "Pourtant, cette même détermination te fait ignorer les sentiments des autres."
 
 # game/code/d10/d10s02.rpy:145
 translate french d10s02_6c3d0411:
@@ -332,13 +332,13 @@ translate french d10s02_aa9af602:
 translate french d10s02_8b975684:
 
     # mc "How do you mean?"
-    mc "Comment veux-tu dire?"
+    mc "Que veux-tu dire ?"
 
 # game/code/d10/d10s02.rpy:154
 translate french d10s02_37c52f30:
 
     # mk "Never take \"No\" for an answer. Do whatever it takes to win. Never give up."
-    mk "Ne prenez jamais \"No\" pour une réponse. Faites tout ce qu'il faut pour gagner. Ne jamais abandonner."
+    mk "Ne jamais prendre \"Non\" comme une réponse. Faire tout ce qu'il faut pour gagner. Ne jamais abandonner."
 
 # game/code/d10/d10s02.rpy:156
 translate french d10s02_3db42fa6:
@@ -350,7 +350,7 @@ translate french d10s02_3db42fa6:
 translate french d10s02_9d3053c7:
 
     # mk "And it's worse being a girl - from the time I was like 12 every guy I've met has hit on me."
-    mk "Et c'est pire d'être une fille : depuis que j'ai 12 ans, tous les hommes que j'ai rencontrés m'ont draguée."
+    mk "Et c'est pire d'être une fille : Depuis que j'ai 12 ans, tous les hommes que j'ai rencontrés m'ont draguée."
 
 # game/code/d10/d10s02.rpy:160
 translate french d10s02_9e4b7fc4:
@@ -374,7 +374,7 @@ translate french d10s02_24d5d0c0:
 translate french d10s02_6b1e84da:
 
     # mk "\"You just haven't been fucked by the right man yet.\" or whatever, ya'know?"
-    mk "\"Tu n'as pas encore été baisée par le bon mec.\" or quelque chose de ce genre, tu sais?"
+    mk "\"Tu n'as pas encore été baisée par le bon mec.\" or quelque chose de ce genre, tu vois ?"
 
 # game/code/d10/d10s02.rpy:169
 translate french d10s02_d55f61cb:
@@ -398,7 +398,7 @@ translate french d10s02_041bd08f:
 translate french d10s02_ba455893:
 
     # mk "Ha! Yeah, I guess so."
-    mk "Ha! Ouais, je suppose."
+    mk "Ha ! Ouais, je suppose."
 
 # game/code/d10/d10s02.rpy:178
 translate french d10s02_a6da3384:
@@ -446,7 +446,7 @@ translate french d10s02_c185f39a:
 translate french d10s02_bc92c19b:
 
     # mc "Antony will probably do another vision quest or whatever..."
-    mc "Antony fera probablement une autre quête de vision ou autre..."
+    mc "Antony partagera probablement une autre \"vision de révélation\" ou autre chose du genre..."
 
 # game/code/d10/d10s02.rpy:193
 translate french d10s02_5ec601c5:
@@ -470,7 +470,7 @@ translate french d10s02_8fea2db2:
 translate french d10s02_b1cb0459:
 
     # mk "What's up? You sound like you're not saying something, but you're thinking very loudly."
-    mk "Quoi de neuf? On dirait que vous ne dites rien, mais vous réfléchissez très fort."
+    mk "Quoi de neuf ? On dirait que tu ne dis rien, mais que tu réfléchis très fort."
 
 # game/code/d10/d10s02.rpy:212
 translate french d10s02_warning_1791daf4:
@@ -488,7 +488,7 @@ translate french d10s02_warning_c92d1130:
 translate french d10s02_warning_b2e6ad87:
 
     # mk "Yeah? I mean, yeah. {w}It can take pics, access memory..."
-    mk "Ouais? Je veux dire, ouais. {w}Il peut prendre des photos, accéder à la mémoire..."
+    mk "Ouais ? Je veux dire, ouais. {w}Il peut prendre des photos, accéder à la mémoire..."
 
 # game/code/d10/d10s02.rpy:221
 translate french d10s02_warning_868ce79a:
@@ -500,7 +500,7 @@ translate french d10s02_warning_868ce79a:
 translate french d10s02_warning_3701dec0:
 
     # mk "You sound kinda paranoid, but it kinda makes sense."
-    mk "Vous avez l’air un peu paranoïaque, mais c’est plutôt logique."
+    mk "Tu as l’air un peu paranoïaque, mais c’est plutôt logique."
 
 # game/code/d10/d10s02.rpy:227
 translate french d10s02_warning_2989bcb4:
@@ -542,7 +542,7 @@ translate french d10s02_warning_7fbffa41:
 translate french d10s02_warning_886c974c:
 
     # mc "I'm serious. That special program is no joke."
-    mc "Je suis sérieux. Ce programme spécial n’est pas une blague."
+    mc "Je suis sérieuse. Ce programme spécial n’est pas une blague."
 
 # game/code/d10/d10s02.rpy:242
 translate french d10s02_warning_f6165446:
@@ -590,7 +590,7 @@ translate french d10s02_warning_d75100ce:
 translate french d10s02_for_points_d85f3ebf:
 
     # mc "I guess I was wondering if you had enough points-"
-    mc "Je suppose que je me demandais si tu avais assez de points..."
+    mc "Je me demandais si tu avais assez de points..."
 
 # game/code/d10/d10s02.rpy:265
 translate french d10s02_for_points_7b2a4b75:
@@ -602,7 +602,7 @@ translate french d10s02_for_points_7b2a4b75:
 translate french d10s02_for_points_a31340dd:
 
     # mc "Really?"
-    mc "Vraiment?"
+    mc "Vraiment ?"
 
 # game/code/d10/d10s02.rpy:268
 translate french d10s02_for_points_9ef80b95:
@@ -632,7 +632,7 @@ translate french d10s02_for_points_6714a429:
 translate french d10s02_for_points_916dbe79:
 
     # mk "Why do you ask? Did you have an idea for more points?"
-    mk "Pourquoi demandez-vous? Avez-vous une idée pour plus de points ?"
+    mk "Pourquoi demandes-tu ? As-tu une idée pour plus de points ?"
 
 # game/code/d10/d10s02.rpy:283
 translate french d10s02_for_points_9a00c033:
@@ -662,7 +662,7 @@ translate french d10s02_for_points_c45552ed:
 translate french d10s02_for_points_e76191df:
 
     # mc "Fair enough... {w}What about bagpiping?"
-    mc "Très bien...{w}Et la cornemuse ?"
+    mc "Très bien...{w}Et la pipe ?"
 
 # game/code/d10/d10s02.rpy:295
 translate french d10s02_for_points_aa8f9493:
@@ -698,7 +698,7 @@ translate french d10s02_for_points_ab60551b:
 translate french d10s02_for_points_bdb57506:
 
     # mk "Don't count on it. Like I said, I've got an overabundance of points right now."
-    mk "Ne comptez pas là-dessus. Comme je l'ai dit, j'ai une surabondance de points en ce moment."
+    mk "Ne comptes pas là-dessus. Comme je l'ai dit, j'ai une surabondance de points en ce moment."
 
 # game/code/d10/d10s02.rpy:310
 translate french d10s02_end_cf922843:
@@ -722,7 +722,7 @@ translate french d10s02_end_614cd1aa:
 translate french d10s02_end_42393567:
 
     # mk "That wasn't what you were going to ask, was it?"
-    mk "Ce n'était pas ce que vous alliez demander, n'est-ce pas ?"
+    mk "Ce n'était pas ce que tu allais demander, n'est-ce pas ?"
 
 # game/code/d10/d10s02.rpy:322
 translate french d10s02_end_3f668ae3:
@@ -770,7 +770,7 @@ translate french d10s02_end_b13dfa65:
 translate french d10s02_end_f4464b53:
 
     # mc "So, not so militant about intergender play?"
-    mc "Alors, pas si militant en faveur des intergenres ?"
+    mc "Alors, pas si militante en faveur des intergenres ?"
 
 # game/code/d10/d10s02.rpy:344
 translate french d10s02_end_f35928c6:
@@ -794,7 +794,7 @@ translate french d10s02_end_d4a2dfeb:
 translate french d10s02_end_3e96b889:
 
     # mk "I've played with toys, but that vision made me wonder if I'm missing out on something."
-    mk "J'ai utilisé avec des jouets, mais cette vision m'a fait me demander si je ne manquais pas quelque chose."
+    mk "J'ai utilisé des jouets, mais cette vision m'a fait me demander si je ne manquais pas de quelque chose."
 
 # game/code/d10/d10s02.rpy:352
 translate french d10s02_end_f52629c0:
@@ -812,7 +812,7 @@ translate french d10s02_end_09c99df5:
 translate french d10s02_end_519c2d95:
 
     # mk "I don't think it would feel anywhere near as good as being with a girl, but maybe someday my curiosity will get to me."
-    mk "Je ne pense pas que ce serait aussi agréable que d'être avec une fille, mais peut-être qu'un jour ma curiosité m'atteindra."
+    mk "Je ne pense pas que ce serait aussi agréable que d'être avec une fille, mais peut-être qu'un jour ma curiosité l'emportera."
 
 # game/code/d10/d10s02.rpy:359
 translate french d10s02_end_964fcade:
@@ -890,7 +890,7 @@ translate french d10s02_end_66a479d7:
 translate french d10s02_end_bdb4bc3b:
 
     # mc "You're a friend. You're trying to be a better person."
-    mc "Tu es un ami. Vous essayez d'être une meilleure personne."
+    mc "Tu es un ami. Tu essaye d'être une meilleure personne."
 
 # game/code/d10/d10s02.rpy:390
 translate french d10s02_end_9821cad8:
