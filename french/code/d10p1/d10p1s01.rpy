@@ -20,7 +20,7 @@ translate french d10p1s01_0ce0d444:
 translate french d10p1s01_a9c45db1:
 
     # mesfl "Party Time!"
-    mesfl "Elle l'heure de la fête!"
+    mesfl "C'est l'heure de la fête !"
 
 # game/code/d10p1/d10p1s01.rpy:28
 translate french d10p1s01_4e1d671e:
@@ -50,13 +50,13 @@ translate french d10p1s01_4c935e09:
 translate french d10p1s01_113cf047:
 
     # arj "Huh?"
-    arj "Hein?"
+    arj "Hein ?"
 
 # game/code/d10p1/d10p1s01.rpy:40
 translate french d10p1s01_d6c4fbca:
 
     # mc "Most people use their Fetish names here."
-    mc "La plupart des gens utilisent ici leurs noms fétichistes."
+    mc "La plupart des gens utilisent ici leur pseudo fétichiste."
 
 # game/code/d10p1/d10p1s01.rpy:41
 translate french d10p1s01_e784665c:
@@ -134,7 +134,7 @@ translate french d10p1s01_e5c0723c:
 translate french d10p1s01_68c5df9d:
 
     # mc "Um, sure. As far as I remember."
-    mc "Um sûr. Autant que je m'en souvienne."
+    mc "Bien sûr. Autant que je m'en souvienne."
 
 # game/code/d10p1/d10p1s01.rpy:65
 translate french d10p1s01_adb6833d:
@@ -158,13 +158,13 @@ translate french d10p1s01_0f557602:
 translate french d10p1s01_4a215412:
 
     # mc "Let's see. What else? {w}Oh! Clothing is optional, but always keep your mask on."
-    mc "Voyons. Quoi d'autre? {w}Oh ! Les vêtements sont facultatifs, mais gardez toujours votre masque."
+    mc "Voyons. Quoi d'autre? {w}Oh ! Les vêtements sont facultatifs, mais garde toujours ton masque."
 
 # game/code/d10p1/d10p1s01.rpy:73
 translate french d10p1s01_798b90bc:
 
     # arjfl "Really?"
-    arjfl "Vraiment?"
+    arjfl "Vraiment ?"
 
 # game/code/d10p1/d10p1s01.rpy:74
 translate french d10p1s01_890ac7fb:
@@ -200,7 +200,7 @@ translate french d10p1s01_3a7256c3:
 translate french d10p1s01_f1282f88:
 
     # mc "Don't be a dick."
-    mc "Ne fais pas le con."
+    mc "Ne joue pas à la conne."
 
 # game/code/d10p1/d10p1s01.rpy:85
 translate french d10p1s01_d333ffe1:
@@ -248,7 +248,7 @@ translate french d10p1s01_268fd8f6_1:
 translate french d10p1s01_33c68717:
 
     # mesfl "Let me rephrase that last rule slightly from what my counterpart told you last week."
-    mesfl "Permettez-moi de reformuler légèrement cette dernière règle à partir de ce que mon homologue t'a dit la semaine dernière."
+    mesfl "Permet-moi de reformuler légèrement cette dernière règle à partir de ce que mon homologue t'a dit la semaine dernière."
 
 # game/code/d10p1/d10p1s01.rpy:99
 translate french d10p1s01_62ba59f4:
@@ -260,7 +260,7 @@ translate french d10p1s01_62ba59f4:
 translate french d10p1s01_84faec87:
 
     # mesfl "Show respect to others, and ensure their consent in all activities."
-    mesfl "Faites preuve de respect envers les autres et assurez-vous de leur consentement dans toutes les activités."
+    mesfl "Fais preuve de respect envers les autres et assure-toi de leur consentement dans toutes les activités."
 
 # game/code/d10p1/d10p1s01.rpy:101
 translate french d10p1s01_4dd885ab:
@@ -278,7 +278,7 @@ translate french d10p1s01_a1d16746:
 translate french d10p1s01_cbe43492:
 
     # arjfl "Wait a sec- You're Squizzle?!"
-    arjfl "Attendez une seconde. Tu es Squizzle ?!"
+    arjfl "Attends une seconde. Tu es Squizzle ?!"
 
 # game/code/d10p1/d10p1s01.rpy:107
 translate french d10p1s01_dc5c0dbb:
@@ -290,13 +290,13 @@ translate french d10p1s01_dc5c0dbb:
 translate french d10p1s01_2e06ef89:
 
     # arjfl "You Bitch!"
-    arjfl "Espèce de salope !"
+    arjfl "Espèce de pute !"
 
 # game/code/d10p1/d10p1s01.rpy:112
 translate french d10p1s01_91535561:
 
     # mesfl "Excuse me?"
-    mesfl "Excuse-moi?"
+    mesfl "Excuse-moi ?"
 
 # game/code/d10p1/d10p1s01.rpy:115
 translate french d10p1s01_9d47e974:
@@ -362,13 +362,13 @@ translate french d10p1s01_dc0ff26a:
 translate french d10p1s01_2721d4f3:
 
     # arjfl "I just mean... {w}Damn it. Every time I thought I was certain to win..."
-    arjfl "Je veux juste dire...{w}Merde. Chaque fois que je pensais que j'étais certain de gagner..."
+    arjfl "Je veux juste dire...{w}Merde. Chaque fois que je pensais être certaine de gagner..."
 
 # game/code/d10p1/d10p1s01.rpy:138
 translate french d10p1s01_103f343f:
 
     # mesfl "Oh, I see."
-    mesfl "Oh je vois."
+    mesfl "Ah je vois."
 
 # game/code/d10p1/d10p1s01.rpy:139
 translate french d10p1s01_f3308ba7:
@@ -380,19 +380,19 @@ translate french d10p1s01_f3308ba7:
 translate french d10p1s01_b3a061e6:
 
     # mesfl "Well, I guess you'll just have to step up your game."
-    mesfl "Eh bien, je suppose que tu dois simplement intensifier ton jeu."
+    mesfl "Eh bien, je suppose que tu dois simplement améliorer ton jeu."
 
 # game/code/d10p1/d10p1s01.rpy:143
 translate french d10p1s01_bc5d41ce:
 
     # mc "Squizzle?! What the hell?"
-    mc "Squizzle ?! Que diable?"
+    mc "Squizzle ?! Que diable ?"
 
 # game/code/d10p1/d10p1s01.rpy:145
 translate french d10p1s01_c17d0644:
 
     # mesfl "What? You expect me to apologize for doing well?"
-    mesfl "Quoi? Vous attendez-vous à ce que je m'excuse d'avoir bien fait ?"
+    mesfl "Quoi ? Vous attendez-vous à ce que je m'excuse d'avoir bien fait ?"
 
 # game/code/d10p1/d10p1s01.rpy:148
 translate french d10p1s01_4a54c6f3:
@@ -410,13 +410,13 @@ translate french d10p1s01_54dfd22a:
 translate french d10p1s01_68482a54:
 
     # mesfl "What? Are you going to call me a bitch again?"
-    mesfl "Quoi? Tu vas encore me traiter de garce ?"
+    mesfl "Quoi ? Tu vas encore me traiter de pute ?"
 
 # game/code/d10p1/d10p1s01.rpy:155
 translate french d10p1s01_aea12ebe:
 
     # mesfl "Anyway. This is a Fetish Tracker. Among other things, it will track the number of orgasms you experience tonight."
-    mesfl "De toute façon. Ceci est un traqueur fétichiste. Entre autres choses, il suivra le nombre d’orgasmes que vous ressentez ce soir."
+    mesfl "De toute façon. Ceci est un traqueur fétichiste. Entre autres choses, il suivra le nombre d’orgasmes que vous ressentirez ce soir."
 
 # game/code/d10p1/d10p1s01.rpy:156
 translate french d10p1s01_63db9bb4:
@@ -530,7 +530,7 @@ translate french d10p1s01_8b00f324:
 translate french d10p1s01_be32eb9e:
 
     # mesfl "Huh?"
-    mesfl "Hein?"
+    mesfl "Hein ?"
 
 # game/code/d10p1/d10p1s01.rpy:193
 translate french d10p1s01_c6be8562:
@@ -548,7 +548,7 @@ translate french d10p1s01_7288b39c:
 translate french d10p1s01_556b0b48:
 
     # arjfl "Who?"
-    arjfl "Qui?"
+    arjfl "Qui ?"
 
 # game/code/d10p1/d10p1s01.rpy:200
 translate french d10p1s01_c94c6141:
@@ -584,7 +584,7 @@ translate french d10p1s01_c404b244:
 translate french d10p1s01_05500ff6:
 
     # mc "Huh?"
-    mc "Hein?"
+    mc "Hein ?"
 
 # game/code/d10p1/d10p1s01.rpy:211
 translate french d10p1s01_871db131:
@@ -626,7 +626,7 @@ translate french d10p1s01_64211d2b:
 translate french d10p1s01_1321a6d4:
 
     # arjfl "Just that?"
-    arjfl "Juste ça?"
+    arjfl "Juste ça ?"
 
 # game/code/d10p1/d10p1s01.rpy:224
 translate french d10p1s01_9c3486e6:
@@ -710,7 +710,7 @@ translate french d10p1s01_e068e5a6:
 translate french d10p1s01_02b55b96:
 
     # mct "\"And though she be but little, she is fierce.\""
-    mct "\"Et bien qu'elle soit petite, elle est féroce.\""
+    mct "\"Bien qu'elle soit petite, elle est féroce.\""
 
 # game/code/d10p1/d10p1s01.rpy:251
 translate french d10p1s01_c2b051d4:
@@ -740,7 +740,7 @@ translate french d10p1s01_51a8bb20:
 translate french d10p1s01_c7bc2bc1:
 
     # mesfl "Your safe word is \"Meatloaf\"?"
-    mesfl "Votre mot de sécurité est \"Pain de viande\"?"
+    mesfl "Votre mot de sécurité est \"Meatloaf\"?"
 
 # game/code/d10p1/d10p1s01.rpy:265
 translate french d10p1s01_861f45ac:
@@ -806,7 +806,7 @@ translate french d10p1s01_370b3517:
 translate french d10p1s01_9c63ea6e:
 
     # arjfl "Huh?"
-    arjfl "Hein?"
+    arjfl "Hein ?"
 
 # game/code/d10p1/d10p1s01.rpy:293
 translate french d10p1s01_7a0df018:
@@ -824,13 +824,13 @@ translate french d10p1s01_9b3de287:
 translate french d10p1s01_911a1208:
 
     # arjfl "What?"
-    arjfl "Quoi?"
+    arjfl "Quoi ?"
 
 # game/code/d10p1/d10p1s01.rpy:306
 translate french d10p1s01_b68b4815:
 
     # mesfl "Nothing? Will set there Apples. Remember it."
-    mesfl "Rien? Y mettrai des pommes. Souviens toi."
+    mesfl "Rien ? Je vais prendre \"Pommes\". Souviens-toi."
 
 # game/code/d10p1/d10p1s01.rpy:310
 translate french d10p1s01_02d93ac8:
@@ -884,13 +884,13 @@ translate french d10p1s01_17f6797e:
 translate french d10p1s01_2a1a8f43:
 
     # mc "Do you feel better now? You get to serve drinks and enjoy the Party."
-    mc "Te sens-tu mieux maintenant? Vous pouvez servir des boissons et profiter de la fête."
+    mc "Te sens-tu mieux maintenant? Tu peux servir des boissons et profiter de la fête."
 
 # game/code/d10p1/d10p1s01.rpy:338
 translate french d10p1s01_9a1cd338:
 
     # arjfl "Oh sure, it's all serving drinks and safe words for now..."
-    arjfl "Oh, bien sûr, pour l'instant, il ne s'agit que de servir des boissons et de mots de sécurité..."
+    arjfl "Oh, bien sûr, pour l'instant, il ne s'agit que de servir des boissons et des mots de sécurité..."
 
 # game/code/d10p1/d10p1s01.rpy:342
 translate french d10p1s01_2d66de35:
@@ -902,19 +902,19 @@ translate french d10p1s01_2d66de35:
 translate french d10p1s01_c8c90534:
 
     # arjfl "I really didn't mean to call her a bitch."
-    arjfl "Je ne voulais vraiment pas la traiter de garce."
+    arjfl "Je ne voulais vraiment pas la traiter de pute."
 
 # game/code/d10p1/d10p1s01.rpy:346
 translate french d10p1s01_3870843e:
 
     # arjfl "...but do you think she'll forgive me for my faux pas?"
-    arjfl "...mais tu penses qu'elle me pardonnera mon faux pas ?"
+    arjfl "... tu penses qu'elle pardonnera mon faux pas ?"
 
 # game/code/d10p1/d10p1s01.rpy:348
 translate french d10p1s01_584bab29:
 
     # mc "Faux pas? {w}You mean when you called Squizzle a bitch?"
-    mc "Faux pas? {w}Tu veux dire quand tu as traité Squizzle de salope ?"
+    mc "Faux pas ? {w}Tu veux dire quand tu as traité Squizzle de pute ?"
 
 # game/code/d10p1/d10p1s01.rpy:352
 translate french d10p1s01_41e55930:
@@ -926,7 +926,7 @@ translate french d10p1s01_41e55930:
 translate french d10p1s01_d4d7bad1:
 
     # mc "You know you're going to have to be punished for this lack of self control."
-    mc "Vous savez que vous allez devoir être puni pour ce manque de maîtrise de soi."
+    mc "Tu sais que tu vas devoir être puni pour ce manque de maîtrise de toi."
 
 # game/code/d10p1/d10p1s01.rpy:356
 translate french d10p1s01_aa36fa63:
@@ -938,13 +938,13 @@ translate french d10p1s01_aa36fa63:
 translate french d10p1s01_5cb8619b:
 
     # mc "Well, it seems to me there's only one thing you can do."
-    mc "Eh bien, il me semble que vous ne pouvez faire qu'une seule chose."
+    mc "Eh bien, il me semble que tu ne peux faire qu'une seule chose."
 
 # game/code/d10p1/d10p1s01.rpy:362
 translate french d10p1s01_351f8c90:
 
     # arjfl "What do you have in mind?"
-    arjfl "À quoi penses-tu?"
+    arjfl "À quoi penses-tu ?"
 
 # game/code/d10p1/d10p1s01.rpy:363
 translate french d10p1s01_c545bfca:
@@ -956,13 +956,13 @@ translate french d10p1s01_c545bfca:
 translate french d10p1s01_6bc0e159:
 
     # arjfl "What's that?"
-    arjfl "Qu'est ce que c'est?"
+    arjfl "Qu'est ce que c'est ?"
 
 # game/code/d10p1/d10p1s01.rpy:367
 translate french d10p1s01_bfa61b42:
 
     # mc "You'll have to do something nice to make it up to her."
-    mc "Vous devrez faire quelque chose de gentil pour vous rattraper."
+    mc "Tu devra faire quelque chose de gentil pour te rattraper."
 
 # game/code/d10p1/d10p1s01.rpy:368
 translate french d10p1s01_028acc27:
@@ -1004,7 +1004,7 @@ translate french d10p1s01_476b6604:
 translate french d10p1s01_7f7e464c:
 
     # mc "Does that outfit look familiar?"
-    mc "Cette tenue vous semble-t-elle familière ?"
+    mc "Cette tenue ne te semble-t-elle pas familière ?"
 
 # game/code/d10p1/d10p1s01.rpy:380
 translate french d10p1s01_2d91ba4e:
@@ -1016,13 +1016,13 @@ translate french d10p1s01_2d91ba4e:
 translate french d10p1s01_84a19406:
 
     # mc "You think she is also...? {w}Like us?"
-    mc "Vous pensez qu'elle est aussi...? {w}Comme nous ?"
+    mc "Tu penses qu'elle est aussi...? {w}Comme nous ?"
 
 # game/code/d10p1/d10p1s01.rpy:385
 translate french d10p1s01_95a207f7:
 
     # arjfl "Most likely. Although she could just think it's a nice fetish outfit?"
-    arjfl "Le plus probable. Même si elle pourrait simplement penser que c'est une jolie tenue fétiche ?"
+    arjfl "Le plus probable. Même si il est possible qu'elle pense simplement que c'est une jolie tenue fétiche ?"
 
 # game/code/d10p1/d10p1s01.rpy:387
 translate french d10p1s01_372b72c4:
@@ -1040,7 +1040,7 @@ translate french d10p1s01_c2a59c5a:
 translate french d10p1s01_81c5fcf7:
 
     # arjfl "Oh, um... {w}Hi! Are you the bartender?"
-    arjfl "Oh, euh...{w}Salut ! Êtes-vous le barman?"
+    arjfl "Oh, euh...{w}Salut ! Êtes-vous le barman ?"
 
 # game/code/d10p1/d10p1s01.rpy:398
 translate french d10p1s01_80fe0554:
@@ -1070,7 +1070,7 @@ translate french d10p1s01_5ca26ab3:
 translate french d10p1s01_b42c63dc:
 
     # mc "Thank goodness?"
-    mc "Dieu merci?"
+    mc "Dieu merc i?"
 
 # game/code/d10p1/d10p1s01.rpy:409
 translate french d10p1s01_97c93d1e:
@@ -1214,7 +1214,7 @@ translate french d10p1s01_28d03956:
 translate french d10p1s01_410524f7:
 
     # mc "Not unless you want it."
-    mc "Pas à moins que vous le vouliez."
+    mc "Non, à moins que vous le vouliez."
 
 # game/code/d10p1/d10p1s01.rpy:464
 translate french d10p1s01_075b3a07:
@@ -1244,7 +1244,7 @@ translate french d10p1s01_40c6b232:
 translate french d10p1s01_0f9ae113:
 
     # irfl "Follow me!"
-    irfl "Suis-moi!"
+    irfl "Suis-moi !"
 
 # game/code/d10p1/d10p1s01.rpy:482
 translate french d10p1s01_4d5cdf81:
@@ -1256,7 +1256,7 @@ translate french strings:
 
     # game/code/d10p1/d10p1s01.rpy:257
     old "Meatloaf"
-    new "Pain de viande"
+    new "Meatloaf"
 
     # game/code/d10p1/d10p1s01.rpy:257
     old "FLÜGGÅӘNKб€ČHIŒßØLĮÊN"
