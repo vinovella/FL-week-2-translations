@@ -8,13 +8,13 @@ translate french d10s05_be2623d1:
 translate french d10s05_c19773ab:
 
     # arj "Hey, guys! This is the place."
-    arj "Salut les gars! C'est ici."
+    arj "Salut les gars ! C'est ici."
 
 # game/code/d10/d10s05.rpy:13
 translate french d10s05_f0ee8f65:
 
     # sy "What is this place? It looks really... Normal."
-    sy "Quel est cet endroit? Ça a l'air vraiment...Normal."
+    sy "Quel est cet endroit ? Ça a l'air vraiment ... Banal."
 
 # game/code/d10/d10s05.rpy:15
 translate french d10s05_f714dc5b:
@@ -50,7 +50,7 @@ translate french d10s05_16f8af1b:
 translate french d10s05_caec537b:
 
     # arj "Exactly! You can walk in here and buy whatever you want and leave without having to feel embarrassed."
-    arj "Exactement! Vous pouvez entrer ici, acheter ce que vous voulez et repartir sans vous sentir gêné."
+    arj "Exactement ! Tu peux entrer ici, acheter ce que tu veux et repartir sans te sentir gêné."
 
 # game/code/d10/d10s05.rpy:28
 translate french d10s05_1862ac48:
@@ -68,7 +68,7 @@ translate french d10s05_6e668ae1:
 translate french d10s05_320432c6:
 
     # sy "Wow, Am, I didn't know you were such a fetish connoisseuse."
-    sy "Wow, Am, je ne savais pas que tu étais un tel connaisseur de fétichisme."
+    sy "Wow, Am, je ne savais pas que tu étais une telle connaisseuse en fétichisme."
 
 # game/code/d10/d10s05.rpy:34
 translate french d10s05_ce0a38b4:
@@ -92,7 +92,7 @@ translate french d10s05_7f5d804e:
 translate french d10s05_84273d2d:
 
     # arj "You can just browse all you want without a care in the world. They mind their business; you mind yours. I love it!"
-    arj "Vous pouvez simplement parcourir tout ce que vous voulez sans vous soucier du monde. Ils s'occupent de leurs affaires ; tu t'occupes du tien. Je l'adore!"
+    arj "Vous pouvez simplement parcourir tout ce que vous voulez sans vous soucier du monde. Ils s'occupent de leurs affaires ; tu t'occupes du tien. Je l'adore !"
 
 # game/code/d10/d10s05.rpy:43
 translate french d10s05_9fe69540:
@@ -134,13 +134,13 @@ translate french d10s05_7967b1e2:
 translate french d10s05_c84a8ae8:
 
     # mc "I'm not messing with her! I'm making some very good points here."
-    mc "Je ne plaisante pas avec elle ! Je fais valoir ici de très bons points."
+    mc "Je ne plaisante pas avec elle ! Je fais valoir ici de très bons arguments."
 
 # game/code/d10/d10s05.rpy:56
 translate french d10s05_bd5ab4ea:
 
     # mc "You're not supposed to sputter and break down in a debate, you should hit back with a killer counter-argument."
-    mc "Vous n'êtes pas censé bafouiller et vous effondrer au cours d'un débat, vous devriez riposter avec un contre-argument meurtrier."
+    mc "Tu n'es pas censé bafouiller et t'effondrer au cours du débat, tu dois riposter avec un contre-argument meurtrier."
 
 # game/code/d10/d10s05.rpy:59
 translate french d10s05_c85f18c5:
@@ -194,13 +194,13 @@ translate french d10s05_f650e03f:
 translate french d10s05_07a0cc00:
 
     # mc "In that case, I could've just come here and gotten something without having to bother you two. Not that I'm complaining, of course."
-    mc "Dans ce cas, j'aurais pu venir ici et acheter quelque chose sans avoir à vous déranger tous les deux. Ce n’est pas que je m’en plaigne, bien sûr."
+    mc "Dans ce cas, j'aurais pu venir ici et acheter quelque chose sans avoir à vous déranger toutes les deux. Ce n’est pas que je m’en plaigne, bien sûr."
 
 # game/code/d10/d10s05.rpy:80
 translate french d10s05_4cec53b5:
 
     # arj "You wouldn't be able to pick anything without us being here. Your entire wardrobe consists of like 3 shirts and a pair of civil war era jeans."
-    arj "Vous ne pourriez rien choisir sans notre présence. Toute votre garde-robe se compose de 3 chemises et d’une paire de jeans datant de la guerre civile."
+    arj "Tu ne pourrais rien choisir sans notre présence. L'ensemble ta garde-robe se compose de 3 chemises et d’une paire de jeans datant de la guerre civile."
 
 # game/code/d10/d10s05.rpy:81
 translate french d10s05_51a670b6:
@@ -230,7 +230,7 @@ translate french d10s05_f3e2d7f4:
 translate french d10s05_457ce25a:
 
     # mc "Hey! I have like...5 shirts, and that's more than enough. We have to think of the environment, people!"
-    mc "Hé! J'ai genre...5 chemises, et c'est plus que suffisant. Il faut penser à l'environnement, les gens !"
+    mc "Hé! J'ai genre ... 5 chemises, et c'est plus que suffisant. Il faut penser à l'environnement, les gars !"
 
 # game/code/d10/d10s05.rpy:94
 translate french d10s05_6a72b46c:
@@ -242,7 +242,7 @@ translate french d10s05_6a72b46c:
 translate french d10s05_01c44ea6:
 
     # arj "What do you think of this?"
-    arj "Que penses-tu de cela?"
+    arj "Que penses-tu de cela ?"
 
 # game/code/d10/d10s05.rpy:98
 translate french d10s05_04e983cd:
@@ -266,7 +266,7 @@ translate french d10s05_ee527b89:
 translate french d10s05_40b9eeb4:
 
     # arj "Says here that it's -\n\n{size=26}\"Madewithallnaturalingredientsfreerangeglutenfreenutfreeknowntocausecancerinthestateofcalifornia...\"{/size}"
-    arj "Il est dit ici que c'est -\n\n{size=26}\"Fabriquéavecdesingrédientsnaturelssansmélangesansglutensansarachidesanscariesanscancerdansl'étatdeCalifornie...\"{/size}"
+    arj "Il est dit ici que c'est -\n\n{size=26}\"Fabriqué avec des ingrédients naturels sans mélange sans gluten sans arachide sans carie sans cancer dans l'état de Californie...\"{/size}"
 
 # game/code/d10/d10s05.rpy:107
 translate french d10s05_a53b37b1:
@@ -332,13 +332,13 @@ translate french d10s05_347fd61c:
 translate french d10s05_5c07cd10:
 
     # mc "Seriously? Is this what you two think I should wear to the party?"
-    mc "Sérieusement? Est-ce que c'est ce que vous pensez que je devrais porter à la fête ?"
+    mc "Sérieusement ? Est-ce que c'est ce que vous pensez que je devrais porter à la fête ?"
 
 # game/code/d10/d10s05.rpy:135
 translate french d10s05_7cf35f29:
 
     # arj "Do you want to go to the party in a mankini?"
-    arj "Voulez-vous aller à la fête en mankini ?"
+    arj "Voulez-vous aller à la fête en mankini ? (string à bretelle à la Borat)"
 
 # game/code/d10/d10s05.rpy:138
 translate french d10s05_34219f28:
@@ -440,13 +440,13 @@ translate french d10s05_replay_4769afa3:
 translate french d10s05_replay_10880304:
 
     # sy "They're gonna have bigger problems than us sneaking in here if they have hidden cameras near the changing area."
-    sy "Ils auront plus de problèmes que nous à nous faufiler ici s'ils ont des caméras cachées près du vestiaire."
+    sy "Ils auront plus de problèmes que nous à nous espionner ici s'ils ont des caméras cachées dans les vestiaires."
 
 # game/code/d10/d10s05.rpy:197
 translate french d10s05_replay_570f40bb:
 
     # mc "What about AmRose? Won't she wonder where you've gone?"
-    mc "Et AmRose ? Ne va-t-elle pas se demander où tu es allé ?"
+    mc "Et AmRose ? Ne va-t-elle pas se demander où tu es partie ?"
 
 # game/code/d10/d10s05.rpy:202
 translate french d10s05_replay_e015decc:
@@ -500,7 +500,7 @@ translate french d10s05_replay_91adebd6:
 translate french d10s05_replay_8033e123:
 
     # mc "Alright, you win."
-    mc "Très bien, vous gagnez."
+    mc "Très bien, tu gagnes."
 
 # game/code/d10/d10s05.rpy:225
 translate french d10s05_replay_7568fcfa:
@@ -512,7 +512,7 @@ translate french d10s05_replay_7568fcfa:
 translate french d10s05_replay_11455b53:
 
     # mc "What?"
-    mc "Quoi?"
+    mc "Quoi ?"
 
 # game/code/d10/d10s05.rpy:228
 translate french d10s05_replay_71ca7ce8:
@@ -530,25 +530,25 @@ translate french d10s05_replay_492dabb3:
 translate french d10s05_replay_c95e99bc:
 
     # sy "Why not? If you and AmRose can go, why can't I?"
-    sy "Pourquoi pas? Si toi et AmRose pouvez y aller, pourquoi pas moi ?"
+    sy "Pourquoi pas ? Si toi et AmRose pouvez y aller, pourquoi pas moi ?"
 
 # game/code/d10/d10s05.rpy:235
 translate french d10s05_replay_80e505d9:
 
     # mc "I can't tell you this right now."
-    mc "Je ne peux pas vous le dire pour le moment."
+    mc "Je ne peux pas te le dire pour le moment."
 
 # game/code/d10/d10s05.rpy:238
 translate french d10s05_replay_c62638bf:
 
     # sy "Why?"
-    sy "Pourquoi?"
+    sy "Pourquoi ?"
 
 # game/code/d10/d10s05.rpy:241
 translate french d10s05_replay_f39a8212:
 
     # mc "I can't tell you that either."
-    mc "Je ne peux pas tu le dire non plus."
+    mc "Je ne peux pas te le dire non plus."
 
 # game/code/d10/d10s05.rpy:243
 translate french d10s05_replay_ed1346cd:
@@ -566,7 +566,7 @@ translate french d10s05_replay_69c5dbde:
 translate french d10s05_replay_d1cf065e:
 
     # mc "Stacy, if it was any ordinary party, I'd totally be for it, but not this one. And I can't tell you why either. I'm sorry."
-    mc "Stacy, si c'était une fête ordinaire, je serais totalement d'accord, mais pas celle-là. Et je ne peux pas non plus vous dire pourquoi. Je suis désolé."
+    mc "Stacy, si c'était une fête ordinaire, je serais totalement d'accord, mais pas celle-là. Et je ne peux pas non plus te dire pourquoi. Je suis désolé."
 
 # game/code/d10/d10s05.rpy:251
 translate french d10s05_replay_2af86f2b:
@@ -578,7 +578,7 @@ translate french d10s05_replay_2af86f2b:
 translate french d10s05_replay_75165a63:
 
     # mc "I don't know. But please, there's a reason I'm doing this. I need you to trust me on this one."
-    mc "Je ne sais pas. Mais s'il vous plaît, il y a une raison pour laquelle je fais ça. J'ai besoin que tu me fasses confiance sur ce point."
+    mc "Je ne sais pas. Mais s'il te plaît, il y a une raison pour laquelle je fais ça. J'ai besoin que tu me fasses confiance sur ce point."
 
 # game/code/d10/d10s05.rpy:256
 translate french d10s05_replay_b1c74c71:
@@ -656,7 +656,7 @@ translate french d10s05_replay_355b98c1:
 translate french d10s05_replay_f98ecf73:
 
     # sy "What? Why?"
-    sy "Quoi? Pourquoi?"
+    sy "Quoi ? Pourquoi ?"
 
 # game/code/d10/d10s05.rpy:287
 translate french d10s05_replay_15fcb023:
@@ -698,7 +698,7 @@ translate french d10s05_replay_7568fcfa_1:
 translate french d10s05_replay_11455b53_1:
 
     # mc "What?"
-    mc "Quoi?"
+    mc "Quoi ?"
 
 # game/code/d10/d10s05.rpy:311
 translate french d10s05_replay_71ca7ce8_1:
@@ -716,7 +716,7 @@ translate french d10s05_replay_492dabb3_1:
 translate french d10s05_replay_c95e99bc_1:
 
     # sy "Why not? If you and AmRose can go, why can't I?"
-    sy "Pourquoi pas? Si toi et AmRose pouvez y aller, pourquoi pas moi ?"
+    sy "Pourquoi pas ? Si toi et AmRose pouvez y aller, pourquoi pas moi ?"
 
 # game/code/d10/d10s05.rpy:317
 translate french d10s05_replay_0aad374e:
@@ -728,7 +728,7 @@ translate french d10s05_replay_0aad374e:
 translate french d10s05_replay_c62638bf_1:
 
     # sy "Why?"
-    sy "Pourquoi?"
+    sy "Pourquoi ?"
 
 # game/code/d10/d10s05.rpy:320
 translate french d10s05_replay_2a077dba:
@@ -782,7 +782,7 @@ translate french d10s05_replay_355b98c1_1:
 translate french d10s05_replay_f98ecf73_1:
 
     # sy "What? Why?"
-    sy "Quoi? Pourquoi?"
+    sy "Quoi ? Pourquoi ?"
 
 # game/code/d10/d10s05.rpy:338
 translate french d10s05_replay_15fcb023_1:
@@ -842,7 +842,7 @@ translate french d10s05_replay_fab05cbd:
 translate french d10s05_replay_51a990b3:
 
     # hr "Ehm-hm, of course you can. Just like you did back then."
-    hr "Ehm-hm, bien sûr que vous pouvez. Tout comme tu le faisais à l’époque."
+    hr "Ehm-hm, bien sûr que tu peux. Tout comme tu le faisais à l’époque."
 
 # game/code/d10/d10s05.rpy:373
 translate french d10s05_replay_c4e80cd9:
@@ -914,7 +914,7 @@ translate french d10s05_replay_17587ac1:
 translate french d10s05_replay_7650b0d4:
 
     # hr "It's not just some app, Iona. I've explained this to you already."
-    hr "Ce n'est pas juste une application, Iona. Je vous l'ai déjà expliqué."
+    hr "Ce n'est pas juste une application, Iona. Je te l'ai déjà expliqué."
 
 # game/code/d10/d10s05.rpy:402
 translate french d10s05_replay_c0d74915:
@@ -968,7 +968,7 @@ translate french d10s05_replay_9e59a9c9:
 translate french d10s05_replay_84dc0ecd:
 
     # hr "*Sigh* Look, it's just... Can I ask you for a favor?"
-    hr "*Soupir* Écoute, c'est juste...Puis-je te demander une faveur ?"
+    hr "*Soupir* Écoute, c'est juste... Puis-je te demander une faveur ?"
 
 # game/code/d10/d10s05.rpy:426
 translate french d10s05_replay_0434e9be:
@@ -1016,13 +1016,13 @@ translate french d10s05_replay_fae40d28:
 translate french d10s05_replay_b2b9e19d:
 
     # mc "What do you mean?"
-    mc "Que veux-tu dire?"
+    mc "Que veux-tu dire ?"
 
 # game/code/d10/d10s05.rpy:445
 translate french d10s05_replay_96234936:
 
     # hr "Just, make sure that she doesn't get into any trouble and that nobody messes with her."
-    hr "Assurez-vous simplement qu'elle n'a pas d'ennuis et que personne ne la dérange."
+    hr "Assures-toi simplement qu'elle n'a pas d'ennuis et que personne ne la dérange."
 
 # game/code/d10/d10s05.rpy:447
 translate french d10s05_replay_a16788ca:
@@ -1046,7 +1046,7 @@ translate french d10s05_replay_8e042165:
 translate french d10s05_replay_41dae5b4:
 
     # hr "That's fine. Just, make sure that she's safe and doesn't get into anything that she can't handle. She's... prickly, at times."
-    hr "C'est très bien. Assurez-vous simplement qu'elle est en sécurité et qu'elle ne se lance pas dans quelque chose qu'elle ne peut pas gérer. Elle est...piquante, parfois."
+    hr "C'est très bien. Assure-toi simplement qu'elle est en sécurité et qu'elle ne se lance pas dans quelque chose qu'elle ne peut pas gérer. Elle est...piquante, parfois."
 
 # game/code/d10/d10s05.rpy:456
 translate french d10s05_replay_3df311b7:
@@ -1106,7 +1106,7 @@ translate french d10s05_replay_5f7e2877:
 translate french d10s05_replay_95e65495:
 
     # ir "What?"
-    ir "Quoi?"
+    ir "Quoi ?"
 
 # game/code/d10/d10s05.rpy:479
 translate french d10s05_replay_936df8a6:
@@ -1148,7 +1148,7 @@ translate french d10s05_replay_d6a064cf:
 translate french d10s05_replay_ca3648a9:
 
     # ir "Ah, yes, of course. That was totally believable. I totally believe you right now."
-    ir "Ah oui, bien sûr. C'était tout à fait crédible. Je te crois totalement en ce moment."
+    ir "Ah oui, bien sûr. C'était tout à fait crédible. Je suis en totale confiance en ce moment."
 
 # game/code/d10/d10s05.rpy:493
 translate french d10s05_replay_1b4215e7:
@@ -1166,7 +1166,7 @@ translate french d10s05_replay_14f09fb6:
 translate french d10s05_replay_955e81f0:
 
     # hr "Iona, he's the best I got. Work with me here."
-    hr "Iona, c'est le meilleur que j'ai. Travaillez avec moi ici."
+    hr "Iona, c'est le meilleur parti que j'ai. Il travaille avec moi ici."
 
 # game/code/d10/d10s05.rpy:498
 translate french d10s05_replay_3700fb95:
@@ -1274,7 +1274,7 @@ translate french d10s05_replay_58d58f92:
 translate french d10s05_replay_ac6612c8:
 
     # arj "Right? That top we looked at looked amazing on you!"
-    arj "T'as vu? Le haut que nous avons regardé te va à merveille !"
+    arj "T'as vu ? Le haut que nous avons regardé te va à merveille !"
 
 # game/code/d10/d10s05.rpy:537
 translate french d10s05_replay_c31f7db1:
@@ -1298,7 +1298,7 @@ translate french d10s05_replay_c9d84c97:
 translate french d10s05_replay_b5e390b2:
 
     # mc "I'm sure I will, not in any way I want though."
-    mc "Je suis sûr que je le ferai, mais pas comme je le souhaite."
+    mc "Je suis sûr que oui, mais pas comme je le souhaite."
 
 # game/code/d10/d10s05.rpy:545
 translate french d10s05_replay_bdfef045:
@@ -1334,19 +1334,19 @@ translate french d10s05_replay_a7d4b58c:
 translate french d10s05_replay_89ff9325:
 
     # arj "Are you sure? It probably won't take that long."
-    arj "Es-tu sûr? Cela ne prendra probablement pas si longtemps."
+    arj "Es-tu sûre ? Cela ne prendra probablement pas si longtemps."
 
 # game/code/d10/d10s05.rpy:557
 translate french d10s05_replay_e130d642:
 
     # sy "Yeah, you two go on ahead. My place is only a hop and skip away from here anyway. Oh, and Am, make sure to give me live updates on all the juiciest bits of the party!"
-    sy "Ouais, vous deux, continuez. De toute façon, ma place n'est qu'à quelques pas d'ici. Oh, et Am, assurez-vous de me donner des mises à jour en direct sur tous les moments les plus juteux de la fête !"
+    sy "Ouais, vous deux, continuez. De toute façon, mon appart  n'est qu'à quelques pas d'ici. Oh, et Am, assurez-vous de me donner des mises à jour en direct sur tous les moments les plus juteux de la fête !"
 
 # game/code/d10/d10s05.rpy:560
 translate french d10s05_replay_a599dae6:
 
     # arj "I'll try!"
-    arj "J'essaierai!"
+    arj "J'essaierai !"
 
 # game/code/d10/d10s05.rpy:562
 translate french d10s05_replay_3edd00c6:
@@ -1364,7 +1364,7 @@ translate french d10s05_replay_fafac30b:
 translate french d10s05_replay_874e58f7:
 
     # arj "Bye, Stacy!"
-    arj "Au revoir, Stacy!"
+    arj "Au revoir, Stacy !"
 
 # game/code/d10/d10s05.rpy:575
 translate french d10s05_replay_b66b119e:
@@ -1376,7 +1376,7 @@ translate french d10s05_replay_b66b119e:
 translate french d10s05_replay_2e698c36:
 
     # mct "What the fuck? Did I just got points for her rubbing my dick??"
-    mct "C'est quoi ce bordel ? Est-ce que je viens d'avoir des points de son frottement de ma bite ??"
+    mct "C'est quoi ce bordel ? Est-ce que je viens d'avoir des points pour son frottement de ma bite ??"
 
 # game/code/d10/d10s05.rpy:579
 translate french d10s05_replay_a1ad1b96:
@@ -1400,7 +1400,7 @@ translate french d10s05_replay_b69d0ed5:
 translate french d10s05_replay_48dab64f:
 
     # mc "There you go."
-    mc "Bingo!."
+    mc "Bingo !."
 
 # game/code/d10/d10s05.rpy:590
 translate french d10s05_replay_ec6ff410:
@@ -1412,5 +1412,5 @@ translate french d10s05_replay_ec6ff410:
 translate french d10s05_replay_69fd61bb:
 
     # arj "Yep!"
-    arj "Ouais!"
+    arj "Ouais !"
 
