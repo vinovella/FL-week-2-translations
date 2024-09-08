@@ -8,7 +8,7 @@ translate french d10p1s05_1cee2083:
 translate french d10p1s05_93aed3e7:
 
     # mct "Clearly I need to put on my best James Bond act"
-    mct "Il est clair que je dois faire mon meilleur acte de James Bond"
+    mct "Il est clair que je dois faire ma meilleure prestation de James Bond"
 
 # game/code/d10p1/d10p1s05.rpy:36
 translate french d10p1s05_248e335c:
@@ -32,7 +32,7 @@ translate french d10p1s05_128c9971:
 translate french d10p1s05_9818d7c3:
 
     # mct "You're just some Canadian dude down here on business... And..."
-    mct "Vous n'êtes qu'un Canadien ici en voyage d'affaires...Et..."
+    mct "Vous n'êtes qu'un Canadien en voyage d'affaires ici...Et..."
 
 # game/code/d10p1/d10p1s05.rpy:54
 translate french d10p1s05_f98c0ae3:
@@ -50,7 +50,7 @@ translate french d10p1s05_e133c2d5:
 translate french d10p1s05_4d2cf5e9:
 
     # mct "The package is in the clear. Now's my chance!"
-    mct "Le paquet est dégagé. C'est maintenant ma chance !"
+    mct "Le paquet est dégagé. C'est maintenant ou jamais !"
 
 # game/code/d10p1/d10p1s05.rpy:65
 translate french d10p1s05_5528ead1:
@@ -62,7 +62,7 @@ translate french d10p1s05_5528ead1:
 translate french d10p1s05_05500ff6:
 
     # mc "Huh?"
-    mc "Hein?"
+    mc "Hein ?"
 
 # game/code/d10p1/d10p1s05.rpy:73
 translate french d10p1s05_c601092a:
@@ -86,7 +86,7 @@ translate french d10p1s05_528accdb:
 translate french d10p1s05_f0f63d18:
 
     # cl "You should have been issued a blue tracker, but here you are wearing black."
-    cl "Vous auriez dû recevoir un tracker bleu, mais ici vous portez du noir."
+    cl "Tu aurais dû recevoir un tracker bleu, mais tu en portes un noir."
 
 # game/code/d10p1/d10p1s05.rpy:84
 translate french d10p1s05_779e1d67:
@@ -128,7 +128,7 @@ translate french d10p1s05_6c940a2b:
 translate french d10p1s05_fe2e612b:
 
     # cl "It's stuffy in there, huh? This is much better."
-    cl "C'est étouffant là-dedans, hein ? Ceci est vraiment mieux."
+    cl "C'est étouffant là-dedans, hein ? C'est vraiment mieux."
 
 # game/code/d10p1/d10p1s05.rpy:118
 translate french d10p1s05_07235a8d:
@@ -146,13 +146,13 @@ translate french d10p1s05_e60ddb89:
 translate french d10p1s05_701b8250:
 
     # cl "You could say that. I didn't see much of her there."
-    cl "Tu pourrais dire ça. Je ne l'ai pas beaucoup vue là-bas."
+    cl "On peut dire ça. Mais, je ne l'ai pas beaucoup vue là-bas."
 
 # game/code/d10p1/d10p1s05.rpy:124
 translate french d10p1s05_ee87e6f3:
 
     # mc "Oh?"
-    mc "Oh?"
+    mc "Oh ?"
 
 # game/code/d10p1/d10p1s05.rpy:127
 translate french d10p1s05_dfbc63bc:
@@ -230,7 +230,7 @@ translate french d10p1s05_c6fab90d:
 translate french d10p1s05_e2b7485a:
 
     # mc "The master?"
-    mc "Le maître?"
+    mc "Le maître ?"
 
 # game/code/d10p1/d10p1s05.rpy:153
 translate french d10p1s05_039f6a2a:
@@ -242,7 +242,7 @@ translate french d10p1s05_039f6a2a:
 translate french d10p1s05_d932449d:
 
     # cl "The master is a real man. You could be a master."
-    cl "Le maître est un vrai homme. Vous pourriez être un maître."
+    cl "Le maître est un vrai homme. Tu pourrai être un maître."
 
 # game/code/d10p1/d10p1s05.rpy:157
 translate french d10p1s05_4c877593:
@@ -290,7 +290,7 @@ translate french d10p1s05_dab7447b:
 translate french d10p1s05_569e9d92:
 
     # cl "Wow!"
-    cl "Ouah!"
+    cl "Ouah !"
 
 # game/code/d10p1/d10p1s05.rpy:180
 translate french d10p1s05_579490a1:
@@ -356,19 +356,19 @@ translate french d10p1s05_replay_c872847d:
 translate french d10p1s05_replay_203397c4:
 
     # mc "Are you planning to refresh your virginity again soon?"
-    mc "Envisagez-vous de rafraîchir à nouveau votre virginité bientôt ?"
+    mc "Envisage-tu de rafraîchir à nouveau ta virginité bientôt ?"
 
 # game/code/d10p1/d10p1s05.rpy:216
 translate french d10p1s05_replay_814b4faa:
 
     # cl "My secret of secrets is hidden away awaiting the touch of my only beloved, but there is a loophole."
-    cl "Mon secret de secrets est caché en attendant le contact de mon unique bien-aimé, mais il y a une faille."
+    cl "Mon intimité la plus secrète est cachée en attendant la rencontre avec mon unique bien-aimé, mais il y a une faille."
 
 # game/code/d10p1/d10p1s05.rpy:218
 translate french d10p1s05_replay_38d0e822:
 
     # mc "Marriage?"
-    mc "Mariage?"
+    mc "Mariage ?"
 
 # game/code/d10p1/d10p1s05.rpy:221
 translate french d10p1s05_replay_6dd03204:
@@ -380,13 +380,13 @@ translate french d10p1s05_replay_6dd03204:
 translate french d10p1s05_replay_ee87e6f3:
 
     # mc "Oh?"
-    mc "Oh?"
+    mc "Oh ?"
 
 # game/code/d10p1/d10p1s05.rpy:226
 translate french d10p1s05_replay_8be18e48:
 
     # cl "Everything but."
-    cl "Tout sauf."
+    cl "Tout sauf ça."
 
 # game/code/d10p1/d10p1s05.rpy:227
 translate french d10p1s05_replay_6ff4d278:
@@ -410,7 +410,7 @@ translate french d10p1s05_replay_f27635e5:
 translate french d10p1s05_replay_ba4a9dc8:
 
     # cl "You may fill my loophole with your firm manhood, if it pleases you."
-    cl "tu peux combler ma faille avec ta ferme virilité, si cela te plaît."
+    cl "Tu peux combler ma faille avec ta virilité bien ferme, si cela te plaît."
 
 # game/code/d10p1/d10p1s05.rpy:243
 translate french d10p1s05_replay_f98f12af:
@@ -452,7 +452,7 @@ translate french d10p1s05_replay_121ecdca:
 translate french d10p1s05_replay_40bc8ebb:
 
     # cl "Seriously!? You're going to walk away from THIS?"
-    cl "Sérieusement!? tu va t'éloigner de CELA ?"
+    cl "Sérieusement !? tu ne vas pas accepter ma proposition ?"
 
 # game/code/d10p1/d10p1s05.rpy:264
 translate french d10p1s05_replay_91d04bee:
@@ -488,7 +488,7 @@ translate french d10p1s05_sex_e07ed4ed:
 translate french d10p1s05_sex_e84fe212:
 
     # cl "Take me as I am, my master!"
-    cl "Prends-moi tel que je suis, mon maître !"
+    cl "Prends-moi telle que je suis, mon maître !"
 
 # game/code/d10p1/d10p1s05.rpy:281
 translate french d10p1s05_sex_e40109b3:
@@ -500,7 +500,7 @@ translate french d10p1s05_sex_e40109b3:
 translate french d10p1s05_sex_e3e30314:
 
     # cl "Yes! {w}Become my master, even if only for a little while."
-    cl "Oui! {w}Devenez mon maître, ne serait-ce que pour un petit moment."
+    cl "Oui! {w}Deviens mon maître, ne serait-ce que pour un petit moment."
 
 # game/code/d10p1/d10p1s05.rpy:292
 translate french d10p1s05_sex_7d1dacd1:
@@ -512,7 +512,7 @@ translate french d10p1s05_sex_7d1dacd1:
 translate french d10p1s05_sex_c17734a4:
 
     # cl "Plow my acres with your furious oxen."
-    cl "Labourez mes acres avec vos bœufs furieux."
+    cl "Labourez moi comme un taureau furieux."
 
 # game/code/d10p1/d10p1s05.rpy:299
 translate french d10p1s05_sex_37c23512:
@@ -530,7 +530,7 @@ translate french d10p1s05_sex_fef968e5:
 translate french d10p1s05_sex_728b8a30:
 
     # cl "Yes! Press your vine deep in my cask and extract the wine of my lust."
-    cl "Oui! Enfoncez votre vigne au fond de mon tonneau et extrayez le vin de ma convoitise."
+    cl "Oui! Enfoncez votre noeud au fond de mon tonneau et faites couler le vin de ma luxure."
 
 # game/code/d10p1/d10p1s05.rpy:311
 translate french d10p1s05_sex_f5e7976f:
@@ -542,7 +542,7 @@ translate french d10p1s05_sex_f5e7976f:
 translate french d10p1s05_sex_fcfade92:
 
     # cl "Thrust your might into my belligerent cavern."
-    cl "Déposez votre puissance dans ma caverne belliqueuse."
+    cl "Déposez votre puissance dans ma caverne furieuse."
 
 # game/code/d10p1/d10p1s05.rpy:317
 translate french d10p1s05_sex_60a8bb97:
@@ -566,13 +566,13 @@ translate french d10p1s05_sex_95672ec5:
 translate french d10p1s05_sex_3d76e6e4:
 
     # cl "Have I driven your oxen to the precipice of ecstasy?"
-    cl "Ai-je conduit vos bœufs au précipice de l'extase ?"
+    cl "Vous ai-je conduit au précipice de l'extase ?"
 
 # game/code/d10p1/d10p1s05.rpy:334
 translate french d10p1s05_sex_107b2116:
 
     # mc "Yes indeed! How do you want it?"
-    mc "Oui en effet! Comment tu le veux?"
+    mc "Oui en effet ! Comment tu le veux ?"
 
 # game/code/d10p1/d10p1s05.rpy:337
 translate french d10p1s05_sex_1766dedf:
@@ -614,7 +614,7 @@ translate french d10p1s05_creampie_1dc069a8:
 translate french d10p1s05_creampie_89c7eca6:
 
     # mc "TAKE IT ALL!!"
-    mc "PRENDS TOUT!!"
+    mc "PRENDS TOUT !!"
 
 # game/code/d10p1/d10p1s05.rpy:362
 translate french d10p1s05_creampie_b8491933:
@@ -632,13 +632,13 @@ translate french d10p1s05_asstomouth_0194df77:
 translate french d10p1s05_asstomouth_89c7eca6:
 
     # mc "TAKE IT ALL!!"
-    mc "PRENDS TOUT!!"
+    mc "PRENDS TOUT !!"
 
 # game/code/d10p1/d10p1s05.rpy:395
 translate french d10p1s05_asstomouth_2a731110:
 
     # mc "Well done. Now finish it."
-    mc "Bien joué. Maintenant, avalle."
+    mc "Bien joué. Maintenant, avale."
 
 # game/code/d10p1/d10p1s05.rpy:401
 translate french d10p1s05_asstomouth_bca94606:
@@ -650,7 +650,7 @@ translate french d10p1s05_asstomouth_bca94606:
 translate french d10p1s05_afterglow_95c7633a:
 
     # mc "Are you okay?"
-    mc "Tu vas bien?"
+    mc "Tu vas bien ?"
 
 # game/code/d10p1/d10p1s05.rpy:416
 translate french d10p1s05_afterglow_4c894df9:
@@ -668,7 +668,7 @@ translate french d10p1s05_afterglow_57184c13:
 translate french d10p1s05_afterglow_312465ba:
 
     # cl "Ha! Well cum indeed."
-    cl "Ha! Eh bien,Ha ! Bien joué vraiment."
+    cl "Ha! Bien joué vraiment."
 
 # game/code/d10p1/d10p1s05.rpy:422
 translate french d10p1s05_afterglow_8c9dfa6a:
@@ -746,7 +746,7 @@ translate french d10p1s05_afterglow_a84fc661:
 translate french d10p1s05_afterglow_3030e60b:
 
     # cl "You go ahead. I'm just going to catch my breath for a little while..."
-    cl "Va-y. Je vais juste reprendre mon souffle un petit moment..."
+    cl "Vas-y. Je vais juste reprendre mon souffle un petit moment..."
 
 # game/code/d10p1/d10p1s05.rpy:447
 translate french d10p1s05_afterglow_0f90bee5:
@@ -854,7 +854,7 @@ translate french d10p1s05_end_da2fe9dc:
 translate french d10p1s05_end_7c3fa1ae:
 
     # mc "He found out?"
-    mc "Il a découvert?"
+    mc "Il a découvert ?"
 
 # game/code/d10p1/d10p1s05.rpy:495
 translate french d10p1s05_end_21738bba:
@@ -920,13 +920,13 @@ translate french d10p1s05_end_bcfa8da9:
 translate french d10p1s05_end_1ac6d9aa:
 
     # mesfl "Don't make things worse by getting involved."
-    mesfl "N'aggraves pas les choses en vous impliquant."
+    mesfl "N'aggraves pas les choses en t'impliquant."
 
 # game/code/d10p1/d10p1s05.rpy:513
 translate french d10p1s05_end_66c67459:
 
     # mesfl "You set the rules, but I agreed to them."
-    mesfl "Tu as fixé les règles, mais je les ai acceptées."
+    mesfl "Tu as fixé les règles, et je les ai acceptées."
 
 # game/code/d10p1/d10p1s05.rpy:514
 translate french d10p1s05_end_b435fc9e:
@@ -968,7 +968,7 @@ translate french d10p1s05_end_b85a959a:
 translate french d10p1s05_end_4bc8de66:
 
     # mesfl "It's all good. Don't worry about it."
-    mesfl "C'est parfait. Ne vous inquiétez pas."
+    mesfl "C'est parfait. Ne t'inquiéte pas."
 
 # game/code/d10p1/d10p1s05.rpy:529
 translate french d10p1s05_end_cc32b9f5:
@@ -998,7 +998,7 @@ translate french strings:
 
     # game/code/d10p1/d10p1s05.rpy:250
     old "Tap That Ass"
-    new "Appuyez sur ce cul"
+    new "Frappe ce cul"
 
     # game/code/d10p1/d10p1s05.rpy:250
     old "Walk Away"
@@ -1006,7 +1006,7 @@ translate french strings:
 
     # game/code/d10p1/d10p1s05.rpy:343
     old "Creampie her ass"
-    new "Creampie son cul"
+    new "Envoi la crème sur son cul"
 
     # game/code/d10p1/d10p1s05.rpy:343
     old "ATM FTW"
