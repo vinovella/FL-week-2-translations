@@ -2,13 +2,13 @@
 translate french d10p1s04_4f91c35e:
 
     # arjfl "Good evening, Master. Would you care for a beverage?"
-    arjfl "Bonsoir, Maître. Voudriez-vous une boisson ?"
+    arjfl "Bonsoir, Maître. Voulez-vous une boisson ?"
 
 # game/code/d10p1/d10p1s04.rpy:12
 translate french d10p1s04_17bdc912:
 
     # mc "Master? I like the sound of that."
-    mc "Maître? J'aime bien cette idée."
+    mc "Maître ? J'aime bien cette idée."
 
 # game/code/d10p1/d10p1s04.rpy:14
 translate french d10p1s04_7268c69d:
@@ -56,7 +56,7 @@ translate french d10p1s04_48c1fa7c:
 translate french d10p1s04_a06e2a49:
 
     # mc "Right now? Just watching people and waiting to see what happens next."
-    mc " la Tout de suite? Je regarde simplement les gens et j'attends de voir ce qui se passera ensuite."
+    mc " la Tout de suite ? Je regarde simplement les gens et j'attends de voir ce qui se passera ensuite."
 
 # game/code/d10p1/d10p1s04.rpy:41
 translate french d10p1s04_8267daa9:
@@ -74,7 +74,7 @@ translate french d10p1s04_69ab248e:
 translate french d10p1s04_60d37630:
 
     # arjfl "You know her?"
-    arjfl "Tu la connais?"
+    arjfl "Tu la connais ?"
 
 # game/code/d10p1/d10p1s04.rpy:49
 translate french d10p1s04_ad6e8ae0:
@@ -92,7 +92,7 @@ translate french d10p1s04_7562a9cf:
 translate french d10p1s04_f1a8019a:
 
     # arjfl "Wait, is URLittlePony is that the girl you took a picture of in the trashed place??"
-    arjfl "Attendez, est-ce qu'URLittlePony est la fille que tu as prise en photo dans l'endroit saccagé ??"
+    arjfl "Attendez, est-ce qu'URLittlePony est la fille dont tu as prise en photo dans cet endroit en ruine ??"
 
 # game/code/d10p1/d10p1s04.rpy:53
 translate french d10p1s04_b2582b86:
@@ -152,7 +152,7 @@ translate french d10p1s04_3dc7d791:
 translate french d10p1s04_469d5c25:
 
     # mc "What the fuck?! What is she doing here???"
-    mc "C'est quoi ce bordel ?! Qu'est ce qu'elle fait ici???"
+    mc "C'est quoi ce bordel ?! Qu'est ce qu'elle fait ici ???"
 
 # game/code/d10p1/d10p1s04.rpy:76
 translate french d10p1s04_9babc492:
@@ -164,7 +164,7 @@ translate french d10p1s04_9babc492:
 translate french d10p1s04_b2b9e19d:
 
     # mc "What do you mean?"
-    mc "Que veux-tu dire?"
+    mc "Que veux-tu dire ?"
 
 # game/code/d10p1/d10p1s04.rpy:81
 translate french d10p1s04_8c23429d:
@@ -176,7 +176,7 @@ translate french d10p1s04_8c23429d:
 translate french d10p1s04_7e9f731b:
 
     # mc "Son of a bitch. As if it wasn't bad enough that she's here at all..."
-    mc "Fils de pute. Comme si ce n'était pas déjà assez grave qu'elle soit là..."
+    mc "Sa mère la pute. Comme si ce n'était pas déjà assez grave qu'elle soit là..."
 
 # game/code/d10p1/d10p1s04.rpy:87
 translate french d10p1s04_17eb6eed:
@@ -194,7 +194,7 @@ translate french d10p1s04_a0f3b783:
 translate french d10p1s04_5e92b34c:
 
     # mc "Cut the bullshit. Do you have any idea how much trouble you're in?!"
-    mc "Arrêtes les conneries. As tu une idée des ennuis dans lesquels tu te trouves ?!"
+    mc "Arrêtes les conneries. As-tu une idée des ennuis dans lesquels tu te trouves ?!"
 
 # game/code/d10p1/d10p1s04.rpy:96
 translate french d10p1s04_5b64d878:
@@ -206,7 +206,7 @@ translate french d10p1s04_5b64d878:
 translate french d10p1s04_34f8262b:
 
     # mc "The hell it is! This is a private Party - and you don't have an invite!"
-    mc "Bon sang ! Il s'agit d'une soirée privée - et tu n'aves pas d'invitation !"
+    mc "Bon sang ! Il s'agit d'une soirée privée - et tu n'as pas d'invitation !"
 
 # game/code/d10p1/d10p1s04.rpy:103
 translate french d10p1s04_29bde9ae:
@@ -218,19 +218,19 @@ translate french d10p1s04_29bde9ae:
 translate french d10p1s04_3328d3b9:
 
     # arjfl "Actually, they will."
-    arjfl "En fait, ils le seront."
+    arjfl "En fait, ils le sauront."
 
 # game/code/d10p1/d10p1s04.rpy:109
 translate french d10p1s04_5d0c156a:
 
     # syfl "Huh?"
-    syfl "Hein?"
+    syfl "Hein ?"
 
 # game/code/d10p1/d10p1s04.rpy:113
 translate french d10p1s04_c4ea8802:
 
     # mc "You're not wearing a tracker. It doesn't look like you're even carrying your phone..."
-    mc "T ne portes pas de tracker. On ne dirait même pas que tu as ton téléphone sur toi..."
+    mc "Tu ne portes pas de tracker. On ne dirait même que tu as ton téléphone sur toi..."
 
 # game/code/d10p1/d10p1s04.rpy:115
 translate french d10p1s04_45658ec4:
@@ -242,7 +242,7 @@ translate french d10p1s04_45658ec4:
 translate french d10p1s04_bd75f0df:
 
     # mc "Fucking shit, girl! WHERE ARE YOUR CLOTHES?!?!"
-    mc "Putain de merde, meuf ! OÙ SONT TES VÊTEMENTS?!?!"
+    mc "Putain de merde, meuf ! OÙ SONT TES VÊTEMENTS ?!?!"
 
 # game/code/d10p1/d10p1s04.rpy:122
 translate french d10p1s04_4e81e693:
@@ -278,7 +278,7 @@ translate french d10p1s04_e29ed2e2:
 translate french d10p1s04_5b99d0e8:
 
     # mct "Please say, \"No.\" Please say, \"No.\""
-    mct "S'il te plaît dis, \"Non.\"S'il te plaît dis, \"Non.\""
+    mct "S'il te plaît dis, \"Non.\" S'il te plaît dis, \"Non.\""
 
 # game/code/d10p1/d10p1s04.rpy:138
 translate french d10p1s04_8290631b:
@@ -296,13 +296,13 @@ translate french d10p1s04_8958d0fb:
 translate french d10p1s04_213f93f9:
 
     # arjfl "SexyMinx? Is that what your username is?"
-    arjfl "SexyMinx? Est-ce que c'est ton nom d'utilisateur ?"
+    arjfl "SexyMinx ? Est-ce que c'est ton nom d'utilisateur ?"
 
 # game/code/d10p1/d10p1s04.rpy:147
 translate french d10p1s04_ce2f02cd:
 
     # syfl "Correct. {w}Where were you hiding that?"
-    syfl "Correct. {w}Où cachies-tu cela ?"
+    syfl "Correct. {w}Où cachais-tu cela ?"
 
 # game/code/d10p1/d10p1s04.rpy:149
 translate french d10p1s04_68105385:
@@ -332,7 +332,7 @@ translate french d10p1s04_8fb1d0bb:
 translate french d10p1s04_f446ce2d:
 
     # arjfl "You were thinking loudly."
-    arjfl "Vous réfléchissiez fort."
+    arjfl "Tu réfléchis fort."
 
 # game/code/d10p1/d10p1s04.rpy:160
 translate french d10p1s04_22035108:
@@ -368,7 +368,7 @@ translate french d10p1s04_c88fc3ff:
 translate french d10p1s04_fdc12775:
 
     # syfl "Get off your high horse! I have every right to be here just like you!"
-    syfl "Descend de tes grands chevaux! J'ai parfaitement le droit d'être ici, tout comme toi !"
+    syfl "Descend de tes grands chevaux ! J'ai parfaitement le droit d'être ici, tout comme toi !"
 
 # game/code/d10p1/d10p1s04.rpy:179
 translate french d10p1s04_9ffaad47:
@@ -380,7 +380,7 @@ translate french d10p1s04_9ffaad47:
 translate french d10p1s04_ec895df3:
 
     # syfl "*whispers* W.T.F.?"
-    syfl "*chuchote* WTF ?"
+    syfl "*chuchote* C'est quoi ce bordel ?"
 
 # game/code/d10p1/d10p1s04.rpy:187
 translate french d10p1s04_c01e6c34:
@@ -410,7 +410,7 @@ translate french d10p1s04_b0f77c5a:
 translate french d10p1s04_d9b1f078:
 
     # arjfl "*whispers* Both of you. {w}I'm taking charge here."
-    arjfl "*chuchote* Vous deux. {w}Je prends les commandes ici."
+    arjfl "*chuchote* Hey Vous deux. {w}Je prends les commandes ici."
 
 # game/code/d10p1/d10p1s04.rpy:196
 translate french d10p1s04_bed2cafd:
@@ -452,7 +452,7 @@ translate french d10p1s04_fcfa0089:
 translate french d10p1s04_deead39e:
 
     # arjfl "[mcname] - you are going to sneak downstairs and get her a Fetish Tracker so nobody else questions what she is doing here."
-    arjfl "[mcname] - tu va te faufiler en bas et lui procurer un Fetish Tracker pour que personne d'autre ne se demande ce qu'elle fait ici."
+    arjfl "[mcname] - tu vas te faufiler en bas et lui procurer un Fetish Tracker pour que personne d'autre ne se demande ce qu'elle fait ici."
 
 # game/code/d10p1/d10p1s04.rpy:216
 translate french d10p1s04_0d66afe2:
@@ -512,7 +512,7 @@ translate french d10p1s04_da2430ed:
 translate french d10p1s04_dc326e55:
 
     # syfl "Seriously?!"
-    syfl "Sérieusement?!"
+    syfl "Sérieusement ?!"
 
 # game/code/d10p1/d10p1s04.rpy:240
 translate french d10p1s04_c26b8300:
@@ -548,7 +548,7 @@ translate french d10p1s04_2ed88851:
 translate french d10p1s04_8fd5e331:
 
     # mc "What? Why me?"
-    mc "Quoi? Pourquoi moi?"
+    mc "Quoi ? Pourquoi moi ?"
 
 # game/code/d10p1/d10p1s04.rpy:255
 translate french d10p1s04_f9a41f68:
