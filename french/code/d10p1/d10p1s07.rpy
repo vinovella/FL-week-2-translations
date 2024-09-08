@@ -14,7 +14,7 @@ translate french d10p1s07_54318564:
 translate french d10p1s07_e7baf7a6:
 
     # mc "Hey! Have you seen... EricaRed?"
-    mc "Hé! Avez-vous vu...EricaRed ?"
+    mc "Hé! As-tu vu...EricaRed ?"
 
 # game/code/d10p1/d10p1s07.rpy:17
 translate french d10p1s07_57228e4d:
@@ -44,7 +44,7 @@ translate french d10p1s07_d62f8a3d:
 translate french d10p1s07_4f91c35e:
 
     # arjfl "Good evening, Master. Would you care for a beverage?"
-    arjfl "Bonsoir, Maître. Voudriez-vous une boisson ?"
+    arjfl "Bonsoir, Maître. Voulez-vous une boisson ?"
 
 # game/code/d10p1/d10p1s07.rpy:27
 translate french d10p1s07_f0e80d54:
@@ -74,19 +74,19 @@ translate french d10p1s07_84c81437:
 translate french d10p1s07_37d534cf:
 
     # arjfl "Oh, yeah. Stacy-"
-    arjfl "Oh ouais. Stacy-"
+    arjfl "Ah oui. Stacy-"
 
 # game/code/d10p1/d10p1s07.rpy:37
 translate french d10p1s07_7c927b78:
 
     # mc "Yes?"
-    mc "Oui?"
+    mc "Oui ?"
 
 # game/code/d10p1/d10p1s07.rpy:40
 translate french d10p1s07_91c7e217:
 
     # arjfl "She seemed so happy in that gangbang, I didn't have the heart to drag all those boys off her."
-    arjfl "Elle avait l'air si heureuse dans ce gangbang que je n'avais pas le cœur de lui arracher tous ces garçons."
+    arjfl "Elle avait l'air si heureuse dans ce gangbang que je n'avais pas le cœur de l'arracher de tous ces garçons."
 
 # game/code/d10p1/d10p1s07.rpy:42
 translate french d10p1s07_8b945479:
@@ -104,19 +104,19 @@ translate french d10p1s07_f0645b96:
 translate french d10p1s07_c4890b1a:
 
     # irfl "You look tense, [mcname]. Have a drink!"
-    irfl "Tu as l'air tendu, [mcname]. Prend un verre!"
+    irfl "Tu as l'air tendu, [mcname]. Prend un verre !"
 
 # game/code/d10p1/d10p1s07.rpy:49
 translate french d10p1s07_1bf6b1d3:
 
     # mc "Fine. Whenever you're ready to tell me, I'll be here pounding scotch."
-    mc "Bien. Dès que tu seras prêt à me le dire, je serai là en train de marteler du scotch."
+    mc "Bien. Dès que tu seras prêt à me le dire, je serai là en train de me saouler au scotch."
 
 # game/code/d10p1/d10p1s07.rpy:50
 translate french d10p1s07_dfb01463:
 
     # mc "But, do you know how much trouble she could get into here?"
-    mc "Mais savez-vous à quel point elle pourrait avoir des ennuis ici ?"
+    mc "Mais sais-tu à quel point elle pourrait avoir des ennuis ici ?"
 
 # game/code/d10p1/d10p1s07.rpy:51
 translate french d10p1s07_be577ab2:
@@ -158,19 +158,19 @@ translate french d10p1s07_d4b80a61:
 translate french d10p1s07_7336a02f:
 
     # mc "I'm worried about what she will want to do here!"
-    mc "Je m'inquiète de ce qu'elle voudra faire ici !"
+    mc "Je m'inquiète de ce qu'elle voudrai faire ici !"
 
 # game/code/d10p1/d10p1s07.rpy:65
 translate french d10p1s07_5ee76e8c:
 
     # arjfl "Wow."
-    arjfl "Ouah."
+    arjfl "Ah Oui."
 
 # game/code/d10p1/d10p1s07.rpy:67
 translate french d10p1s07_30de2d60:
 
     # mc "That didn't come out right. {w}I just mean that she's young and immature."
-    mc "Cela ne s’est pas sorti comme je voulais. {w}Je veux juste dire qu'elle est jeune et immature."
+    mc "Cela ne s’est pas goupillé comme je voulais. {w}Je veux juste dire qu'elle est jeune et immature."
 
 # game/code/d10p1/d10p1s07.rpy:70
 translate french d10p1s07_2278c7f0:
@@ -188,7 +188,7 @@ translate french d10p1s07_8d679de7:
 translate french d10p1s07_52ecc938:
 
     # mc "She could easily get in over her head doing things that she thinks she's ready for, but she isn't-"
-    mc "Elle pourrait facilement s'énerver en faisant des choses pour lesquelles elle pense être prête, mais elle ne l'est pas..."
+    mc "Elle pourrait facilement s'énerver en faisant des choses pour lesquelles elle pense être prête, mais dont ce n'est pas le cas ..."
 
 # game/code/d10p1/d10p1s07.rpy:77
 translate french d10p1s07_152dd4ea:
@@ -200,13 +200,13 @@ translate french d10p1s07_152dd4ea:
 translate french d10p1s07_79bfb159:
 
     # mc "What's your point?"
-    mc "À quoi veux-tu en venir?"
+    mc "À quoi veux-tu en venir ?"
 
 # game/code/d10p1/d10p1s07.rpy:81
 translate french d10p1s07_e8032ed5:
 
     # arjfl "When you were coating Karen in your semen... you were how much older than Stacy is now?"
-    arjfl "Quand tu enduisais Karen de ton sperme...tu étais combien plus âgée que Stacy l'est maintenant ?"
+    arjfl "Quand tu enduisais Karen de ton sperme...tu avais combien d'années de plus que Stacy par rapport à maintenant ?"
 
 # game/code/d10p1/d10p1s07.rpy:82
 translate french d10p1s07_c11ca86a:
@@ -242,7 +242,7 @@ translate french d10p1s07_47be1ef0:
 translate french d10p1s07_94f0695b:
 
     # arjfl "For her to hook up with some guy that treats her as a cumrag because he doesn't know any better?"
-    arjfl "Pour qu'elle sorte avec un gars qui la traite de connard parce qu'il ne sait pas faire mieux ?"
+    arjfl "Pour qu'elle sorte avec un gars qui la traite comme une serpillière à sperme parce qu'il ne sait pas faire mieux ?"
 
 # game/code/d10p1/d10p1s07.rpy:94
 translate french d10p1s07_20ed5c19:
@@ -272,13 +272,13 @@ translate french d10p1s07_60cb4f19:
 translate french d10p1s07_2b1fe9a0:
 
     # arjfl "Stacy is not your property."
-    arjfl "Stacy n'est pas votre propriété."
+    arjfl "Stacy n'est pas ta propriété."
 
 # game/code/d10p1/d10p1s07.rpy:102
 translate french d10p1s07_25154780:
 
     # arjfl "Stacy is not your daughter."
-    arjfl "Stacy n'est pas votre fille."
+    arjfl "Stacy n'est pas ta fille."
 
 # game/code/d10p1/d10p1s07.rpy:103
 translate french d10p1s07_51238975:
@@ -314,13 +314,13 @@ translate french d10p1s07_50cf5f91:
 translate french d10p1s07_848f98b7:
 
     # arjfl "I'll give you a hint. {w}She's not involved in a gangbang."
-    arjfl "Je vais vous donner un indice. {w}Elle n'est pas impliquée dans un gangbang."
+    arjfl "Je vais te donner un indice. {w}Elle n'est pas dans un gangbang."
 
 # game/code/d10p1/d10p1s07.rpy:114
 translate french d10p1s07_143d7aae:
 
     # mc "You're enjoying this."
-    mc "Vous appréciez ça."
+    mc "Tu aimes ça."
 
 # game/code/d10p1/d10p1s07.rpy:117
 translate french d10p1s07_879af533:
@@ -338,13 +338,13 @@ translate french d10p1s07_f66f6736:
 translate french d10p1s07_ac00b0ba:
 
     # arjfl "And one last hint. {w}She's not in this very room dancing around that stripper pole."
-    arjfl "Et un dernier indice. {w}Elle n'est pas dans cette pièce en train de danser autour de ce poteau de strip-teaseuse."
+    arjfl "Et un dernier indice. {w}Elle n'est pas dans la pièce en train de danser autour de ce poteau de strip-teaseuse."
 
 # game/code/d10p1/d10p1s07.rpy:122
 translate french d10p1s07_268e35dc:
 
     # mc "...{w} You're so incredibly helpful."
-    mc "...{w} Vous êtes incroyablement utile."
+    mc "...{w} Tu es incroyablement utile."
 
 # game/code/d10p1/d10p1s07.rpy:124
 translate french d10p1s07_de236ef9:
@@ -368,7 +368,7 @@ translate french d10p1s07_7014de65:
 translate french d10p1s07_2f068911:
 
     # mc "I do."
-    mc "Je fais."
+    mc "Oui"
 
 # game/code/d10p1/d10p1s07.rpy:142
 translate french d10p1s07_1794b08f:
