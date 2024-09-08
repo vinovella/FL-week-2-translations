@@ -2,7 +2,7 @@
 translate french d10p1s03_2a4fa63e:
 
     # mesfl "...how many times you've orgasmed."
-    mesfl "...combien de fois tu as eu un orgasme."
+    mesfl "...combien d'orgasmes as-tu eu ?"
 
 # game/code/d10p1/d10p1s03.rpy:13
 translate french d10p1s03_df31967b:
@@ -38,7 +38,7 @@ translate french d10p1s03_0a00b0ed:
 translate french d10p1s03_ce50da1f:
 
     # mc "Oh? Did you miss me?"
-    mc "Oh? Est-ce que je t'ai manqué?"
+    mc "Oh ? Est-ce que je t'ai manqué ?"
 
 # game/code/d10p1/d10p1s03.rpy:31
 translate french d10p1s03_78b19a05:
@@ -50,7 +50,7 @@ translate french d10p1s03_78b19a05:
 translate french d10p1s03_fa7cdc9b:
 
     # mc "How much?"
-    mc "Combien?"
+    mc "Beaucoup ?"
 
 # game/code/d10p1/d10p1s03.rpy:46
 translate french d10p1s03_d3f6dc50:
@@ -80,7 +80,7 @@ translate french d10p1s03_30633c33:
 translate french d10p1s03_ad02b196:
 
     # mc "How about \"Injunction\"? Or maybe \"Objection!\"?"
-    mc "Que diriez-vous \"Injunction\"? Or maybe \"Objection!\"?"
+    mc "Que diriez-vous \"Injonction\"? ou peut-être \"Objection !\"?"
 
 # game/code/d10p1/d10p1s03.rpy:59
 translate french d10p1s03_225ad5f9:
@@ -92,7 +92,7 @@ translate french d10p1s03_225ad5f9:
 translate french d10p1s03_046bf349:
 
     # mesfl "I...don't see why not. Sure."
-    mesfl "Je ne vois pas pourquoi pas. Bien sûr."
+    mesfl "Pourquoi pas. Bien sûr."
 
 # game/code/d10p1/d10p1s03.rpy:63
 translate french d10p1s03_5fe5057f:
@@ -110,7 +110,7 @@ translate french d10p1s03_5099b30a:
 translate french d10p1s03_2d8c54a2:
 
     # mc "I think so. Seems like they modified some fitness trackers to make them."
-    mc "Je pense que oui. On dirait qu'ils ont modifié certains trackers de fitness pour les fabriquer."
+    mc "Je pense que oui. On dirait qu'ils ont modifié certains trackers de fitness pour les adapter."
 
 # game/code/d10p1/d10p1s03.rpy:69
 translate french d10p1s03_3cee355d:
@@ -134,7 +134,7 @@ translate french d10p1s03_2f534521:
 translate french d10p1s03_0cff88d8:
 
     # mc "How...much was it?"
-    mc "C'était combien?"
+    mc "C'était combien ?"
 
 # game/code/d10p1/d10p1s03.rpy:81
 translate french d10p1s03_01a9543c:
@@ -158,7 +158,7 @@ translate french d10p1s03_f9c63d43:
 translate french d10p1s03_13e47b11:
 
     # mh "My half-starving collage self would probably have a heart attack if she heard that I spent that much on a dress for a party."
-    mh "Mon collage à moitié affamé aurait probablement une crise cardiaque si elle apprenait que j'avais dépensé autant pour une robe de soirée."
+    mh "/"Ma moitié affamé/" aurait probablement une crise cardiaque si elle apprenait que j'avais dépensé autant pour une robe de soirée."
 
 # game/code/d10p1/d10p1s03.rpy:92
 translate french d10p1s03_a5df7ecc:
@@ -176,7 +176,7 @@ translate french d10p1s03_7afc7319:
 translate french d10p1s03_209f145d:
 
     # mh "I'm finally at the place that I dreamed to be back then."
-    mh "Je suis enfin à l'endroit où je rêvais d'être à l'époque."
+    mh "Je suis enfin à l'endroit où je rêvais de revenir."
 
 # game/code/d10p1/d10p1s03.rpy:97
 translate french d10p1s03_12725267:
@@ -188,13 +188,13 @@ translate french d10p1s03_12725267:
 translate french d10p1s03_7ae98621:
 
     # mc "Honestly, after I saw your case with that Mr. Moneybags that you absolutely annihilated, I just about thought that you'd get recruited by the Devil."
-    mc "Honnêtement, après avoir vu votre cas avec ce M. Plein-au-ass que vous avez complètement anéanti, j'ai presque pensé que tu serais recruté par le Diable."
+    mc "Honnêtement, après avoir vu ton cas avec ce M. Plein-aux-as que vous avez complètement anéanti, j'ai presque pensé que tu serais recruté par le Diable."
 
 # game/code/d10p1/d10p1s03.rpy:100
 translate french d10p1s03_da004acd:
 
     # mh "Half crazed Al Pacino has yet to contact me sadly, but who knows? Maybe one day."
-    mh "Al Pacino, à moitié fou, ne m'a malheureusement pas encore contacté, mais qui sait ? Peut-être un jour."
+    mh "Le Al Pacino à moitié fou ne m'a malheureusement pas encore contacté, mais qui sait ? Peut-être un jour."
 
 # game/code/d10p1/d10p1s03.rpy:103
 translate french d10p1s03_940bae53:
@@ -206,13 +206,13 @@ translate french d10p1s03_940bae53:
 translate french d10p1s03_5dc5965f:
 
     # mh "In that case, it's gonna be a while before Mr. The Devil and I will meet it seems."
-    mh "Dans ce cas, il faudra un certain temps avant que M. Le Diable et moi nous rencontrions, semble-t-il."
+    mh "Dans ce cas, il faudra un certain temps avant que M. Le Diable et moi nous nous rencontrions, semble-t-il."
 
 # game/code/d10p1/d10p1s03.rpy:110
 translate french d10p1s03_baac6b57:
 
     # mc "Actually... Speaking of Mr. Moneybags."
-    mc "En fait...En parlant de M. Plein-au-ass."
+    mc "En fait...En parlant de M. Plein-au-as."
 
 # game/code/d10p1/d10p1s03.rpy:111
 translate french d10p1s03_4eef7533:
@@ -224,7 +224,7 @@ translate french d10p1s03_4eef7533:
 translate french d10p1s03_690dd988:
 
     # mh "Huh? What do you mean?"
-    mh "Hein? Que veux-tu dire?"
+    mh "Hein ? Que veux-tu dire ?"
 
 # game/code/d10p1/d10p1s03.rpy:116
 translate french d10p1s03_b6d56f98:
@@ -236,13 +236,13 @@ translate french d10p1s03_b6d56f98:
 translate french d10p1s03_dafaca6d:
 
     # mc "It's just...a friend of mine is in the \"escorting\" business, and she told me some interesting things about him."
-    mc "C'est juste...un de mes amis est dans le business \"de l'escorte\" , et elle m'a raconté des choses intéressantes sur lui."
+    mc "C'est juste...une de mes amies dans le business \"de l'escorte\" qui m'a raconté des choses intéressantes sur lui."
 
 # game/code/d10p1/d10p1s03.rpy:121
 translate french d10p1s03_8eba44e0:
 
     # mh "Oh, yeah. Those rich douchebags are always up to some crazy stuff. {w}I guess after you've experienced everything a normal person can only dream of, you crave stuff a little more...\"out there.\""
-    mh "Oh ouais. Ces riches connards préparent toujours des trucs fous. {w}Je suppose qu'après avoir vécu tout ce dont une personne normale ne peut que rêver, vous avez un peu plus envie de choses...\"anormales.\""
+    mh "Ah ouais. Ces riches connards préparent toujours des trucs fous. {w}Je suppose qu'après avoir vécu tout ce dont une personne normale peut rêver, vous avez un peu plus envie de choses...\"pas banales.\""
 
 # game/code/d10p1/d10p1s03.rpy:122
 translate french d10p1s03_03f92c12:
@@ -260,13 +260,13 @@ translate french d10p1s03_d9acb304:
 translate french d10p1s03_d7d0256e:
 
     # mh "You look like Batman's younger cousin, Batlad."
-    mh "Vous ressemblez à Batlad, le jeune cousin de Batman."
+    mh "Vous ressemblez à Batboy, le jeune cousin de Batman."
 
 # game/code/d10p1/d10p1s03.rpy:128
 translate french d10p1s03_0f3df541:
 
     # mc "Right!? Honestly, I think I look like I'm about ready to go to a German gay orgy."
-    mc "c'est ça!? Honnêtement, je pense que j'ai l'air d'être sur le point d'aller à une orgie gay allemande."
+    mc "c'est ça !? Honnêtement, je pense que j'ai l'air d'être sur le point d'aller à une orgie gay allemande."
 
 # game/code/d10p1/d10p1s03.rpy:131
 translate french d10p1s03_e0252dc9:
@@ -290,7 +290,7 @@ translate french d10p1s03_fd5a97c4:
 translate french d10p1s03_b2aba0e3:
 
     # mc "Like what?"
-    mc "Comme quoi?"
+    mc "Comme quoi ?"
 
 # game/code/d10p1/d10p1s03.rpy:144
 translate french d10p1s03_58d338ed:
@@ -320,7 +320,7 @@ translate french d10p1s03_18ee9dec:
 translate french d10p1s03_2a4fa63e_1:
 
     # mesfl "...how many times you've orgasmed."
-    mesfl "...combien de fois tu as eu un orgasme."
+    mesfl "...combien d'orgasmes as-tu eu ?"
 
 # game/code/d10p1/d10p1s03.rpy:160
 translate french d10p1s03_df31967b_1:
@@ -392,7 +392,7 @@ translate french d10p1s03_5099b30a_1:
 translate french d10p1s03_2d8c54a2_1:
 
     # mc "I think so. Seems like they modified some fitness trackers to make them."
-    mc "Je pense que oui. On dirait qu'ils ont modifié certains trackers de fitness pour les fabriquer."
+    mc "Je pense que oui. On dirait qu'ils ont modifié certains trackers de fitness pour les adapter."
 
 # game/code/d10p1/d10p1s03.rpy:191
 translate french d10p1s03_7fdb9e20:
@@ -464,7 +464,7 @@ translate french d10p1s03_a4a0b9ae:
 translate french d10p1s03_4dcdfd08:
 
     # mh "Yes, we did. But nice to meet you again."
-    mh "Oui. Mais ravi de vous revoir."
+    mh "Oui. Mais ravi de te revoir."
 
 # game/code/d10p1/d10p1s03.rpy:227
 translate french d10p1s03_ffce4833:
@@ -542,7 +542,7 @@ translate french d10p1s03_199b076b:
 translate french d10p1s03_ecb40e7d:
 
     # mc "A kiss?"
-    mc "Un bisou?"
+    mc "Un bisou ?"
 
 # game/code/d10p1/d10p1s03.rpy:272
 translate french d10p1s03_2b223a48:
@@ -560,7 +560,7 @@ translate french d10p1s03_35447d22:
 translate french d10p1s03_d0009695:
 
     # dd "Didn't say weird. But come on, anyone with a functional pair of eyes could see that there was something more there. Shit, even one functioning eye would do."
-    dd "ne dis pas bizarre. Mais allez, toute personne possédant une paire d’yeux fonctionnels pourrait voir qu’il y avait quelque chose de plus là-bas. Merde, même un seul œil fonctionnel ferait l’affaire."
+    dd "Je ne dirai pas bizarre. Mais allez, toute personne possédant une paire d’yeux fonctionnels pourrait voir qu’il y avait quelque chose de plus là-bas. Merde, même un seul œil fonctionnel ferait l’affaire."
 
 # game/code/d10p1/d10p1s03.rpy:281
 translate french d10p1s03_c68afd25:
@@ -578,7 +578,7 @@ translate french d10p1s03_3f09f30d:
 translate french d10p1s03_1959afd2:
 
     # mc "Heh, alright, you horny demon, she's taken, so cool it."
-    mc "Hé, d'accord, espèce de démon excité, elle est prise, alors calme-toi."
+    mc "Hé, d'accord, espèce de démone excitée, elle est prise, alors calme-toi."
 
 # game/code/d10p1/d10p1s03.rpy:290
 translate french d10p1s03_99dc04c0:
@@ -626,13 +626,13 @@ translate french d10p1s03_50eba4e4:
 translate french d10p1s03_0df85c65:
 
     # dd "It doesn't hurt to \"{i}peruse{/i}\" what's available, right?"
-    dd "Cela ne fait pas de mal d'utiliser ce qui est disponible, n'est-ce pas ?"
+    dd "Cela ne fait pas de mal de \"{i}regarder{/i}\" ce qui est disponible, n'est-ce pas ?"
 
 # game/code/d10p1/d10p1s03.rpy:310
 translate french d10p1s03_94183ee9:
 
     # dd "And lemme know if you ever get yourself into more... \"drinking competitions.\""
-    dd "Et laissez-moi savoir si jamais vous vous lancez dans plus...\"concours de boisson.\""
+    dd "Et laisse-moi savoir si jamais tu te lance dans plus de...\"concours de boisson.\""
 
 # game/code/d10p1/d10p1s03.rpy:313
 translate french d10p1s03_57a5abb7:
@@ -644,7 +644,7 @@ translate french d10p1s03_57a5abb7:
 translate french d10p1s03_a379f5cd:
 
     # dd "Later, gator."
-    dd "Plus tard, alligator."
+    dd "À plus tard, alligator."
 
 # game/code/d10p1/d10p1s03.rpy:317
 translate french d10p1s03_0419d335:
@@ -842,19 +842,19 @@ translate french d10p1s03_ca1324b9:
 translate french d10p1s03_24353198:
 
     # mc "Why wouldn't want her to know that you're here? She's your boss, not your mother. If she can go to places like this, why can't you?"
-    mc "Pourquoi ne voudrais-tu pas qu'elle sache que tu es là ? C'est ta patronne, pas ta mère. Si elle peut aller dans des endroits comme celui-ci, pourquoi pas vous ?"
+    mc "Pourquoi ne voudrais-tu pas qu'elle sache que tu es là ? C'est ta patronne, pas ta mère. Si elle peut aller dans des endroits comme celui-ci, pourquoi pas toi ?"
 
 # game/code/d10p1/d10p1s03.rpy:416
 translate french d10p1s03_bbe51fc4:
 
     # mc "Wait, you {i}are{/i} at least 18, right?"
-    mc "Attendez, vous avez au moins 18 ans, n'est-ce pas ?"
+    mc "Attendez, tu as au moins 18 ans, n'est-ce pas ?"
 
 # game/code/d10p1/d10p1s03.rpy:417
 translate french d10p1s03_af7078aa:
 
     # op "Of course! I'm 19!"
-    op "Bien sûr! J'ai 19 ans!"
+    op "Bien sûr! J'ai 19 ans !"
 
 # game/code/d10p1/d10p1s03.rpy:419
 translate french d10p1s03_b1812402:
@@ -968,7 +968,7 @@ translate french d10p1s03_25db55a2:
 translate french d10p1s03_077656e0:
 
     # op "Yes! Of course! I don't know what to say. Thank you so much!"
-    op "Oui! Bien sûr! Je ne sais pas quoi dire. Merci beaucoup!"
+    op "Oui! Bien sûr! Je ne sais pas quoi dire. Merci beaucoup !"
 
 # game/code/d10p1/d10p1s03.rpy:471
 translate french d10p1s03_1dc49860:
@@ -998,7 +998,7 @@ translate french d10p1s03_555071df:
 translate french d10p1s03_98f582ca:
 
     # op "Anything?"
-    op "Tout?"
+    op "Tout ?"
 
 # game/code/d10p1/d10p1s03.rpy:483
 translate french d10p1s03_dfd42eee:
@@ -1028,7 +1028,7 @@ translate french d10p1s03_83e768e8:
 translate french d10p1s03_8ef5b754:
 
     # op "I'm in!"
-    op "J'y suis!"
+    op "J'y suis !"
 
 # game/code/d10p1/d10p1s03.rpy:497
 translate french d10p1s03_66b1e61e:
@@ -1058,7 +1058,7 @@ translate french d10p1s03_336c7ccf:
 translate french d10p1s03_3656a527:
 
     # mc "You sure?"
-    mc "Vous êtes sûr?"
+    mc "Tu es sûr ?"
 
 # game/code/d10p1/d10p1s03.rpy:509
 translate french d10p1s03_71a700ad:
@@ -1094,7 +1094,7 @@ translate french d10p1s03_82e8b2ce:
 translate french d10p1s03_b4c2d08a:
 
     # op "You too!"
-    op "Toi aussi!"
+    op "Toi aussi !"
 
 # game/code/d10p1/d10p1s03.rpy:527
 translate french d10p1s03_f8b34bb9:
@@ -1178,7 +1178,7 @@ translate french d10p1s03_606e2d02:
 translate french d10p1s03_0563bbae:
 
     # mc "Think I'm gonna go see what's going on upstairs. You coming?"
-    mc "Je pense que je vais aller voir ce qui se passe à l'étage. Tu viens?"
+    mc "Je pense que je vais aller voir ce qui se passe à l'étage. Tu viens ?"
 
 # game/code/d10p1/d10p1s03.rpy:564
 translate french d10p1s03_bb5dfcb5:
