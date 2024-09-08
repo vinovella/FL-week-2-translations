@@ -8,13 +8,13 @@ translate french d10p2s04_dw_dbf77d44:
 translate french d10p2s04_dw_e64fc703:
 
     # mc "Huh, why?"
-    mc "Heu pourquoi?"
+    mc "Heu pourquoi ?"
 
 # game/code/d10p2/d10p2s04-dw.rpy:59
 translate french d10p2s04_dw_8ac490c7:
 
     # mesfl "There's no one here right now. That means you're the Sub."
-    mesfl "Il n'y a personne ici en ce moment. Cela signifie que vous êtes le Soumis."
+    mesfl "Il n'y a personne ici en ce moment. Cela signifie que tu es le Soumis."
 
 # game/code/d10p2/d10p2s04-dw.rpy:60
 translate french d10p2s04_dw_76ab5ad6:
@@ -32,7 +32,7 @@ translate french d10p2s04_dw_22a7f619:
 translate french d10p2s04_dw_d80c2b5c:
 
     # mesfl "Great. You'll need to remove your clothes then."
-    mesfl "Super. Tu dois alors retirer tes vêtements."
+    mesfl "Super. Alors tu dois retirer tes vêtements."
 
 # game/code/d10p2/d10p2s04-dw.rpy:69
 translate french d10p2s04_dw_3484a003:
@@ -44,7 +44,7 @@ translate french d10p2s04_dw_3484a003:
 translate french d10p2s04_dw_15ea08e9:
 
     # mesfl "I need to make sure that you are bound and ready for the next person that comes in here."
-    mesfl "Je dois m'assurer que tu sois attaché et prêt à accueillir la prochaine personne qui viendra ici."
+    mesfl "Je dois m'assurer que tu es attaché et prêt à accueillir la prochaine personne qui viendra ici."
 
 # game/code/d10p2/d10p2s04-dw.rpy:73
 translate french d10p2s04_dw_bfd624c3:
@@ -110,7 +110,7 @@ translate french d10p2s04_dw_7ad9bac7:
 translate french d10p2s04_dw_4e85cb4d:
 
     # mc "Hello?"
-    mc "Bonjour?"
+    mc "Bonjour ?"
 
 # game/code/d10p2/d10p2s04-dw.rpy:151
 translate french d10p2s04_dw_f476ba79:
@@ -128,7 +128,7 @@ translate french d10p2s04_dw_2ac2c61e:
 translate french d10p2s04_dw_6bf81e7b:
 
     # mc "Dahlia!?"
-    mc "Dahlia!?"
+    mc "Dahlia !?"
 
 # game/code/d10p2/d10p2s04-dw.rpy:166
 translate french d10p2s04_dw_dc959ddb:
@@ -152,13 +152,13 @@ translate french d10p2s04_dw_2a569e80:
 translate french d10p2s04_dw_cda5f636:
 
     # mc "Dahlia!"
-    mc "Dahlia!"
+    mc "Dahlia !"
 
 # game/code/d10p2/d10p2s04-dw.rpy:188
 translate french d10p2s04_dw_4c0bfd44:
 
     # mesfl "[mclogin]? Everything alright?"
-    mesfl "[mclogin] ? Tout va bien?"
+    mesfl "[mclogin] ? Tout va bien ?"
 
 # game/code/d10p2/d10p2s04-dw.rpy:191
 translate french d10p2s04_dw_9c4ce180:
@@ -170,7 +170,7 @@ translate french d10p2s04_dw_9c4ce180:
 translate french d10p2s04_dw_b9608272:
 
     # mesfl "What happened?"
-    mesfl "Ce qui s'est passé?"
+    mesfl "Ce qui s'est passé ?"
 
 # game/code/d10p2/d10p2s04-dw.rpy:203
 translate french d10p2s04_dw_ebbafda5:
@@ -242,7 +242,7 @@ translate french d10p2s04_dw_2e806df9:
 translate french d10p2s04_dw_19f9f37b:
 
     # mc "I'll try!"
-    mc "J'essaierai!"
+    mc "J'essaierai !"
 
 # game/code/d10p2/d10p2s04-dw.rpy:247
 translate french d10p2s04_dw_8bd56a42:
@@ -272,7 +272,7 @@ translate french d10p2s04_dw_abd0a5c6:
 translate french d10p2s04_dw_d777e6d5:
 
     # dw "You're not catching feelings are you, pet?"
-    dw "Tu ne captes pas les sentiments, n'est-ce pas, mon animal de compagnie ?"
+    dw "Tu ne captes pas les sentiments, n'est-ce pas, chien ?"
 
 # game/code/d10p2/d10p2s04-dw.rpy:259
 translate french d10p2s04_dw_31eff69d:
@@ -296,7 +296,7 @@ translate french d10p2s04_dw_c9e438ac:
 translate french d10p2s04_dw_d9493875:
 
     # dw "Am I understood, pet?"
-    dw "Me suis-je bien fait comprendre, mon animal de compagnie ?"
+    dw "Me suis-je bien fait comprendre, chien ?"
 
 # game/code/d10p2/d10p2s04-dw.rpy:269
 translate french d10p2s04_dw_1f1991d0:
@@ -326,7 +326,7 @@ translate french d10p2s04_dw_39722ace:
 translate french d10p2s04_dw_08a46240:
 
     # dw "Tell me, pet. {w}Earlier. Didn't you call me by my name?"
-    dw "Dis-moi, animal de compagnie. {w}Plus tôt. Tu ne m'as pas appelé par mon nom ?"
+    dw "Dis-moi, chien. {w}Plus tôt. Tu ne m'as pas appelé par mon nom ?"
 
 # game/code/d10p2/d10p2s04-dw.rpy:290
 translate french d10p2s04_dw_31eff69d_1:
@@ -344,7 +344,7 @@ translate french d10p2s04_dw_abf17486:
 translate french d10p2s04_dw_71732c46:
 
     # dw "I did tell you that, didn't I, pet?"
-    dw "Je te l'ai dit, n'est-ce pas, mon animal ?"
+    dw "Je te l'ai dit, n'est-ce pas, chien ?"
 
 # game/code/d10p2/d10p2s04-dw.rpy:299
 translate french d10p2s04_dw_7fd3a623_1:
@@ -410,7 +410,7 @@ translate french d10p2s04_dw_c0faa0eb:
 translate french d10p2s04_dw_c9bf818c:
 
     # mc "Yes, Mistress!"
-    mc "Oui Maîtresse!"
+    mc "Oui Maîtresse !"
 
 # game/code/d10p2/d10p2s04-dw.rpy:363
 translate french d10p2s04_dw_672b944d:
@@ -452,7 +452,7 @@ translate french d10p2s04_dw_8114a09f:
 translate french d10p2s04_dw_ff2f5317:
 
     # dw "Oh?"
-    dw "Oh?"
+    dw "Oh ?"
 
 # game/code/d10p2/d10p2s04-dw.rpy:396
 translate french d10p2s04_dw_e690eba8:
@@ -464,7 +464,7 @@ translate french d10p2s04_dw_e690eba8:
 translate french d10p2s04_dw_9c98cc46:
 
     # dw "...I'm surprised."
-    dw "...Je suis surpris."
+    dw "...Je suis surprise."
 
 # game/code/d10p2/d10p2s04-dw.rpy:398
 translate french d10p2s04_dw_56055f6f:
@@ -482,7 +482,7 @@ translate french d10p2s04_dw_cfb40a80:
 translate french d10p2s04_dw_ba522918:
 
     # dw "I want you to take this in as far as it'll go, am I understood?"
-    dw "Je veux que tu prennes cela aussi loin que possible, est-ce que j'ai compris ?"
+    dw "Je veux que tu prennes cela aussi loin que possible, est-ce que tu as compris ?"
 
 # game/code/d10p2/d10p2s04-dw.rpy:411
 translate french d10p2s04_dw_2b35b6fe:
@@ -494,7 +494,7 @@ translate french d10p2s04_dw_2b35b6fe:
 translate french d10p2s04_dw_9330f834:
 
     # dw "Am. I. Understood?"
-    dw "Suis. J'ai compris?"
+    dw "Suis. Tu as compris ?"
 
 # game/code/d10p2/d10p2s04-dw.rpy:416
 translate french d10p2s04_dw_dee957ac:
@@ -542,7 +542,7 @@ translate french d10p2s04_dw_06a96800:
 translate french d10p2s04_dw_4cc9742f:
 
     # dw "I'm not satisfied yet, so you better fucking try harder."
-    dw "Je ne suis pas encore satisfait, alors tu ferais mieux d'essayer plus fort."
+    dw "Je ne suis pas encore satisfaite, alors tu ferais mieux d'essayer plus fort."
 
 # game/code/d10p2/d10p2s04-dw.rpy:456
 translate french d10p2s04_dw_c553170f:
@@ -554,7 +554,7 @@ translate french d10p2s04_dw_c553170f:
 translate french d10p2s04_dw_322157ec:
 
     # dw "You got that whole thing in. {w}I'm surprised."
-    dw "Vous avez tout compris. {w}Je suis surpris."
+    dw "Tu as tout pris. {w}Je suis surprise."
 
 # game/code/d10p2/d10p2s04-dw.rpy:486
 translate french d10p2s04_dw_bc3b6f6f:
@@ -584,13 +584,13 @@ translate french d10p2s04_dwmc_dickslap_37cf726c:
 translate french d10p2s04_dwmc_dickslap_a4298254:
 
     # dw "You couldn't even take that simple thing in, but you had the audacity to get hard."
-    dw "Vous ne pouviez même pas comprendre cette chose simple, mais vous aviez l'audace de devenir dur."
+    dw "Tu ne peux même pas comprendre cette chose simple, mais tu as l'audace de devenir dur."
 
 # game/code/d10p2/d10p2s04-dw.rpy:523
 translate french d10p2s04_dwmc_dickslap_8499a712:
 
     # dw "I don't appreciate failure, pet."
-    dw "Je n'apprécie pas l'échec, mon animal."
+    dw "Je n'apprécie pas l'échec, chien."
 
 # game/code/d10p2/d10p2s04-dw.rpy:524
 translate french d10p2s04_dwmc_dickslap_9af42df9:
@@ -620,13 +620,13 @@ translate french d10p2s04_dwmc_dickslap_06efbc8f:
 translate french d10p2s04_dwmc_dickslap_4b0fda76:
 
     # dw "Turning you into a eunuch will be doing you a favor."
-    dw "Faire de vous un eunuque vous rendra service."
+    dw "Faire de toi un eunuque te rendra service."
 
 # game/code/d10p2/d10p2s04-dw.rpy:539
 translate french d10p2s04_dwmc_dickslap_f45fe333:
 
     # dw "Tell me, pet. Do you want me to turn you into a eunuch?"
-    dw "Dis-moi, animal de compagnie. Veux-tu que je te transforme en eunuque ?"
+    dw "Dis-moi, chien. Veux-tu que je te transforme en eunuque ?"
 
 # game/code/d10p2/d10p2s04-dw.rpy:542
 translate french d10p2s04_dwmc_dickslap_cfb40a80:
@@ -644,7 +644,7 @@ translate french d10p2s04_dwmc_dickslap_4132689d:
 translate french d10p2s04_dwmc_dickslap_8499a712_1:
 
     # dw "I don't appreciate failure, pet."
-    dw "Je n'apprécie pas l'échec, mon animal."
+    dw "Je n'apprécie pas l'échec, chien."
 
 # game/code/d10p2/d10p2s04-dw.rpy:550
 translate french d10p2s04_dwmc_dickslap_9af42df9_1:
@@ -680,19 +680,19 @@ translate french d10p2s04_dwmc_dickslap_66332944:
 translate french d10p2s04_dwmc_dickslap_ea46bf5e:
 
     # dw "Oh? Are you crying, pet?"
-    dw "Oh? Tu pleures, mon animal de compagnie ?"
+    dw "Oh? Tu pleures, chien ?"
 
 # game/code/d10p2/d10p2s04-dw.rpy:620
 translate french d10p2s04_dwmc_dickslap_5da156af:
 
     # dw "This wouldn't have happened if you had just done as I said."
-    dw "Cela ne serait pas arrivé si vous aviez fait ce que je vous ai dit."
+    dw "Cela ne serait pas arrivé si tu avais fait ce que je t'avais dit."
 
 # game/code/d10p2/d10p2s04-dw.rpy:621
 translate french d10p2s04_dwmc_dickslap_5e1cba94:
 
     # dw "Do you understand now?"
-    dw "Tu comprends maintenant?"
+    dw "Tu comprends maintenant ?"
 
 # game/code/d10p2/d10p2s04-dw.rpy:622
 translate french d10p2s04_dwmc_dickslap_2b35b6fe:
@@ -734,13 +734,13 @@ translate french d10p2s04_dwmc_dickslap_9566cc04:
 translate french d10p2s04_dwmc_dickslap_b386a7ab:
 
     # dw "You're twitching. "
-    dw "Vous tremblez."
+    dw "Tu trembles."
 
 # game/code/d10p2/d10p2s04-dw.rpy:648
 translate french d10p2s04_dwmc_dickslap_1f74aecd:
 
     # dw "Does this sad little thing want to cum, pet?"
-    dw "Est-ce que cette triste petite chose a envie de jouir, mon animal de compagnie ?"
+    dw "Est-ce que cette triste petite chose a envie de jouir, chien ?"
 
 # game/code/d10p2/d10p2s04-dw.rpy:649
 translate french d10p2s04_dwmc_dickslap_f5c87a2c:
@@ -752,7 +752,7 @@ translate french d10p2s04_dwmc_dickslap_f5c87a2c:
 translate french d10p2s04_dwmc_dickslap_c54a5290:
 
     # mc "Yes, Mistress. Please."
-    mc "Oui Maîtresse. S'il te plaît."
+    mc "Oui Maîtresse. S'il vous plaît."
 
 # game/code/d10p2/d10p2s04-dw.rpy:653
 translate french d10p2s04_dwmc_dickslap_e5d87735:
@@ -776,7 +776,7 @@ translate french d10p2s04_dwmc_dickslap_0de5ced9:
 translate french d10p2s04_dwmc_dickslap_e98e0f78:
 
     # dw "I've had my fun, and the time limit should be up any minute now."
-    dw "Je me suis bien amusé et le temps imparti devrait être écoulé d'une minute à l'autre."
+    dw "Je me suis bien amusée et le temps imparti devrait être écoulé d'une minute à l'autre."
 
 # game/code/d10p2/d10p2s04-dw.rpy:667
 translate french d10p2s04_dwmc_dickslap_5163ddd2:
@@ -794,13 +794,13 @@ translate french d10p2s04_dwmc_dickslap_8d49635c:
 translate french d10p2s04_dwmc_dickslap_10026784:
 
     # dw "Already?"
-    dw "Déjà?"
+    dw "Déjà ?"
 
 # game/code/d10p2/d10p2s04-dw.rpy:692
 translate french d10p2s04_dwmc_dickslap_a9afdb2a:
 
     # dw "*Sigh* You really are the bottom of the barrel aren't you?"
-    dw "*Soupir* Vous êtes vraiment au fond du baril, n'est-ce pas ?"
+    dw "*Soupir* Tu es vraiment au bord, n'est-ce pas ?"
 
 # game/code/d10p2/d10p2s04-dw.rpy:710
 translate french d10p2s04_dwmc_dickslap_8d49635c_1:
@@ -836,43 +836,43 @@ translate french d10p2s04_dwmc_dickslap_9024958a:
 translate french d10p2s04_dwmc_dickslap_05500ff6:
 
     # mc "Huh?"
-    mc "Hein?"
+    mc "Hein ?"
 
 # game/code/d10p2/d10p2s04-dw.rpy:750
 translate french d10p2s04_dwmc_dickslap_1b4eec75:
 
     # mc "Mistress!?"
-    mc "Maîtresse!?"
+    mc "Maîtresse !?"
 
 # game/code/d10p2/d10p2s04-dw.rpy:760
 translate french d10p2s04_dwmc_end_986b73a4:
 
     # mc "Mistress!"
-    mc "Maîtresse!"
+    mc "Maîtresse !"
 
 # game/code/d10p2/d10p2s04-dw.rpy:766
 translate french d10p2s04_dwmc_end_5f30d071:
 
     # dw "Look at the mess you've made."
-    dw "Regardez le gâchis que vous avez fait."
+    dw "Regardez le gâchis que tu as fait."
 
 # game/code/d10p2/d10p2s04-dw.rpy:768
 translate french d10p2s04_dwmc_end_73bfec23:
 
     # dw "I'm sure what's her face out there will help you. {w}I have better places to be."
-    dw "Je suis sûr que son visage vous aidera. {w}J'ai de meilleurs endroits où être."
+    dw "Je suis sûr que son visage vous aidera. {w}J'ai de meilleurs endroits où aller."
 
 # game/code/d10p2/d10p2s04-dw.rpy:770
 translate french d10p2s04_dwmc_end_dc0f44e7:
 
     # dw "Until next time, pet."
-    dw "Jusqu'à la prochaine fois, mon animal de compagnie."
+    dw "Jusqu'à la prochaine fois, chien."
 
 # game/code/d10p2/d10p2s04-dw.rpy:775
 translate french d10p2s04_dwmc_end_7f6bfff6:
 
     # mc "Mistress?"
-    mc "Maîtresse?"
+    mc "Maîtresse ?"
 
 # game/code/d10p2/d10p2s04-dw.rpy:776
 translate french d10p2s04_dwmc_end_89e30b4c:
@@ -890,19 +890,19 @@ translate french d10p2s04_dwmc_end_424f0a67:
 translate french d10p2s04_dwmc_end_b084c50b:
 
     # mesfl "[mcname]? Are you alright?"
-    mesfl "[mcname] ? Est-ce que tu vas bien?"
+    mesfl "[mcname] ? Est-ce que tu vas bien ?"
 
 # game/code/d10p2/d10p2s04-dw.rpy:790
 translate french d10p2s04_dwmc_end_b86a4431:
 
     # mesfl "Do you need some help?"
-    mesfl "Avez-vous besoin d'aide?"
+    mesfl "As-tu besoin d'aide ?"
 
 # game/code/d10p2/d10p2s04-dw.rpy:793
 translate french d10p2s04_dwmc_end_ebc6bc94:
 
     # mesfl "[mclogin]? You alright?"
-    mesfl "[mclogin] ? Tu as raison?"
+    mesfl "[mclogin] ? Tu as raison ?"
 
 # game/code/d10p2/d10p2s04-dw.rpy:797
 translate french d10p2s04_dwmc_end_50f098c2:
@@ -932,7 +932,7 @@ translate french d10p2s04_dwmc_end_33861e56:
 translate french d10p2s04_dwmc_end_b3b4643c:
 
     # mesfl "Here, let me get you out."
-    mesfl "Tiens, laisse-moi te sortir."
+    mesfl "Tiens, laisse-moi t'aider à sortir."
 
 # game/code/d10p2/d10p2s04-dw.rpy:812
 translate french d10p2s04_dwmc_end_fa45f281:
@@ -1022,7 +1022,7 @@ translate french d10p2s04_dw_talk_min_outside_3bdc40ec:
 translate french d10p2s04_dw_talk_min_outside_899d816b:
 
     # mesfl "I'm sorry that you didn't have a good time in there."
-    mesfl "Je suis désolé que vous n'ayez pas passé un bon moment là-bas."
+    mesfl "Je suis désolé que tu n'as pas passé un bon moment là-bas."
 
 # game/code/d10p2/d10p2s04-dw.rpy:876
 translate french d10p2s04_dw_talk_min_outside_f211005a:
@@ -1088,13 +1088,13 @@ translate french d10p2s04_dw_talk_min_outside_3bdc40ec_1:
 translate french d10p2s04_dwmcmin_safeword_10e90435:
 
     # mesfl "[mcname]! Are you okay!? {w}What's going on here!?"
-    mesfl "[mcname] ! Êtes-vous d'accord!? {w}Que se passe-t-il ici ! ?"
+    mesfl "[mcname] ! Es-tu d'accord !? {w}Que se passe-t-il ici !?"
 
 # game/code/d10p2/d10p2s04-dw.rpy:909
 translate french d10p2s04_dwmcmin_safeword_6a13c3e3:
 
     # mesfl "[mclogin]? What's going on here!?"
-    mesfl "[mclogin] ? Que se passe t-il ici!?"
+    mesfl "[mclogin] ? Que se passe t-il ici !?"
 
 # game/code/d10p2/d10p2s04-dw.rpy:915
 translate french d10p2s04_dwmcmin_safeword_c18af217:
@@ -1118,7 +1118,7 @@ translate french d10p2s04_dwmcmin_safeword_8de4b36b:
 translate french d10p2s04_dwmcmin_safeword_1c7e54a2:
 
     # dw "Well, pet..."
-    dw "Eh bien, mon animal de compagnie..."
+    dw "Eh bien, chien..."
 
 # game/code/d10p2/d10p2s04-dw.rpy:929
 translate french d10p2s04_dwmcmin_safeword_4b2e58bc:
@@ -1130,7 +1130,7 @@ translate french d10p2s04_dwmcmin_safeword_4b2e58bc:
 translate french d10p2s04_dwmcmin_safeword_20f1b09a:
 
     # mesfl "Here, let me get you out of there."
-    mesfl "Tiens, laisse-moi te sortir de là."
+    mesfl "Tiens, laisse-moi t'aider à sortir de là."
 
 # game/code/d10p2/d10p2s04-dw.rpy:938
 translate french d10p2s04_dwmcmin_safeword_fa45f281:
@@ -1148,7 +1148,7 @@ translate french strings:
 
     # game/code/d10p2/d10p2s04-dw.rpy:159
     old "Abort mission!"
-    new "Abandonner la mission!"
+    new "Abandonner la mission !"
 
     # game/code/d10p2/d10p2s04-dw.rpy:159
     old "Stay and see what happens"
@@ -1156,11 +1156,11 @@ translate french strings:
 
     # game/code/d10p2/d10p2s04-dw.rpy:329
     old "Let go; get hard"
-    new "Lâcher; devenir difficile"
+    new "Lâcher ; devenir dur"
 
     # game/code/d10p2/d10p2s04-dw.rpy:329
     old "Control yourself; don't"
-    new "Contrôle-toi; ne le faites pas"
+    new "Contrôle-toi ; ne le faites pas"
 
     # game/code/d10p2/d10p2s04-dw.rpy:463
     old "Try to take it all in"
