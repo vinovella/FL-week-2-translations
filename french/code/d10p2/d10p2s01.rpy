@@ -8,13 +8,13 @@ translate french d10p2s01_c52271c1:
 translate french d10p2s01_81b3b0ab:
 
     # sy "Did I miss something?"
-    sy "Ai-je manqué quelque chose?"
+    sy "Ai-je manqué quelque chose ?"
 
 # game/code/d10p2/d10p2s01.rpy:63
 translate french d10p2s01_15111b24:
 
     # mc "Yes. {w}Where were you?"
-    mc "Oui. {w}T'étais où?"
+    mc "Oui. {w}T'étais où ?"
 
 # game/code/d10p2/d10p2s01.rpy:66
 translate french d10p2s01_c10d8e8c:
@@ -26,7 +26,7 @@ translate french d10p2s01_c10d8e8c:
 translate french d10p2s01_bbeeb44e:
 
     # mc "What's that supposed to mean?"
-    mc "Qu'est ce que c'est censé vouloir dire?"
+    mc "Qu'est ce que c'est censé vouloir dire ?"
 
 # game/code/d10p2/d10p2s01.rpy:70
 translate french d10p2s01_c630a4e6:
@@ -116,7 +116,7 @@ translate french d10p2s01_e865c1bd:
 translate french d10p2s01_e18e21f8:
 
     # mc "Oh, hey Daisy. What's up?"
-    mc "Oh, salut Daisy. Quoi de neuf?"
+    mc "Oh, salut Daisy. Quoi de neuf ?"
 
 # game/code/d10p2/d10p2s01.rpy:110
 translate french d10p2s01_5f9730d0:
@@ -128,7 +128,7 @@ translate french d10p2s01_5f9730d0:
 translate french d10p2s01_5705689d:
 
     # mc "Uh, what?"
-    mc "Euh quoi?"
+    mc "Euh quoi ?"
 
 # game/code/d10p2/d10p2s01.rpy:114
 translate french d10p2s01_a55c5cb4:
@@ -146,7 +146,7 @@ translate french d10p2s01_76cbe5f4:
 translate french d10p2s01_6112aeb1:
 
     # dd "Terrific! See you."
-    dd "Formidable! À bientôt."
+    dd "Formidable ! À bientôt."
 
 # game/code/d10p2/d10p2s01.rpy:142
 translate french d10p2s01_event_menu_f4e55bee:
@@ -170,7 +170,7 @@ translate french replay_d10p2s01_e9dd73b4:
 translate french replay_d10p2s01_bf43530c:
 
     # arjfl "Excuse me?"
-    arjfl "Excuse-moi?"
+    arjfl "Excuse-moi ?"
 
 # game/code/d10p2/d10p2s01.rpy:205
 translate french replay_d10p2s01_75ae8e55:
@@ -248,7 +248,7 @@ translate french replay_d10p2s01_39beab30:
 translate french replay_d10p2s01_e53e671f:
 
     # mc "Awesome!"
-    mc "Génial!"
+    mc "Génial !"
 
 # game/code/d10p2/d10p2s01.rpy:241
 translate french replay_d10p2s01_2eb14c28:
@@ -266,7 +266,7 @@ translate french replay_d10p2s01_bb4aacb6:
 translate french replay_d10p2s01_76bf39dd:
 
     # arjfl "ErikaRed!"
-    arjfl "ErikaRed!"
+    arjfl "ErikaRed !"
 
 # game/code/d10p2/d10p2s01.rpy:249
 translate french replay_d10p2s01_5549b1ae:
@@ -290,7 +290,7 @@ translate french replay_d10p2s01_b8904bb3:
 translate french replay_d10p2s01_e32fa69a:
 
     # mc "Hey Terrell. What can I do for you?"
-    mc "Salut Terrell. Que puis-je faire pour vous?"
+    mc "Salut Terrell. Que puis-je faire pour toi ?"
 
 # game/code/d10p2/d10p2s01.rpy:270
 translate french replay_d10p2s01_bc74a8ad:
@@ -302,7 +302,7 @@ translate french replay_d10p2s01_bc74a8ad:
 translate french replay_d10p2s01_e4f8604b:
 
     # mc "Sorry, did you want to stay and watch?"
-    mc "Désolé, vouliez-vous rester et regarder ?"
+    mc "Désolé, veux-tu rester et regarder ?"
 
 # game/code/d10p2/d10p2s01.rpy:280
 translate french replay_d10p2s01_29045c5b:
@@ -320,13 +320,13 @@ translate french replay_d10p2s01_c63ab54b:
 translate french replay_d10p2s01_7ae3411c:
 
     # mct "This is fucking fantastic."
-    mct "C'est putain de fantastique."
+    mct "C'est fantastique putain..."
 
 # game/code/d10p2/d10p2s01.rpy:286
 translate french replay_d10p2s01_9c9d823e:
 
     # mc "It's a good time for me. What about you, ErikaRed? Do you mind if Terrell and I shoot the shit while you work?"
-    mc "C'est un bon moment pour moi. Et toi, ErikaRed ? Ça te dérange si Terrell et moi tirons le bout de gras pendant que tu travailles ?"
+    mc "C'est un bon moment pour moi. Et toi, ErikaRed ? Ça te dérange si Terrell et moi discutons le bout de gras pendant que tu travailles ?"
 
 # game/code/d10p2/d10p2s01.rpy:290
 translate french replay_d10p2s01_343b485e:
@@ -344,7 +344,7 @@ translate french replay_d10p2s01_19a5396b:
 translate french replay_d10p2s01_5b33f47f:
 
     # tr "Damn, man. How do you do it?"
-    tr "Putain mec. Comment fait-tu?"
+    tr "Putain mec. Comment fais-tu ?"
 
 # game/code/d10p2/d10p2s01.rpy:299
 translate french replay_d10p2s01_f1411890:
@@ -362,7 +362,7 @@ translate french replay_d10p2s01_c1d3b347:
 translate french replay_d10p2s01_7c78e8ea:
 
     # mc "Ha! Yeah, we even got caught by Nordin in the middle of the lecture."
-    mc "Ha! Ouais, nous nous sommes même fait surprendre par Nordin au milieu de la conférence."
+    mc "Ha ! Ouais, nous nous sommes même fait surprendre par Nordin au milieu de la conférence."
 
 # game/code/d10p2/d10p2s01.rpy:307
 translate french replay_d10p2s01_9ebb09e1:
@@ -386,19 +386,19 @@ translate french replay_d10p2s01_cd0d2056:
 translate french replay_d10p2s01_11455b53:
 
     # mc "What?"
-    mc "Quoi?"
+    mc "Quoi ?"
 
 # game/code/d10p2/d10p2s01.rpy:317
 translate french replay_d10p2s01_209d1fbe:
 
     # tr "Do you think you could arrange something like that again? For me, I mean. With Maria."
-    tr "Pensez-vous que tu pourraid organiser à nouveau quelque chose comme ça ? Pour moi, je veux dire. Avec Maria."
+    tr "Penses-tu que tu pourrais organiser à nouveau quelque chose comme ça ? Pour moi, je veux dire. Avec Maria."
 
 # game/code/d10p2/d10p2s01.rpy:319
 translate french replay_d10p2s01_8278dce4:
 
     # mct "Huh. Maria was pretty crazy and suggestible for about a week there."
-    mct "Hein. Maria était plutôt folle et influençable pendant environ une semaine là-bas."
+    mct "Hein. Maria était plutôt folle et influençable pendant cette semaine là."
 
 # game/code/d10p2/d10p2s01.rpy:320
 translate french replay_d10p2s01_bea91a5f:
@@ -410,7 +410,7 @@ translate french replay_d10p2s01_bea91a5f:
 translate french replay_d10p2s01_c6e83769:
 
     # mct "But Maria seems to be coming to her senses and..."
-    mct "Mais Maria semble reprendre ses esprits et..."
+    mct "Mais Maria semble avoir repris ses esprits et..."
 
 # game/code/d10p2/d10p2s01.rpy:322
 translate french replay_d10p2s01_c6f3c262:
@@ -434,7 +434,7 @@ translate french replay_d10p2s01_0e86ce48:
 translate french replay_d10p2s01_4a6b3611:
 
     # tr "Yeah?"
-    tr "Ouais?"
+    tr "Ouais ?"
 
 # game/code/d10p2/d10p2s01.rpy:332
 translate french replay_d10p2s01_9adf5502:
@@ -470,7 +470,7 @@ translate french replay_d10p2s01_343b485e_1:
 translate french replay_d10p2s01_845c4c57:
 
     # mc "What was that?"
-    mc "Ca c'était quoi?"
+    mc "Ca c'était quoi ?"
 
 # game/code/d10p2/d10p2s01.rpy:349
 translate french replay_d10p2s01_9e645d5a:
@@ -488,13 +488,13 @@ translate french replay_d10p2s01_35ab8f09:
 translate french replay_d10p2s01_f27a2e8a:
 
     # arjfl "Trust me. We could get Maria to do just about anything or anyone."
-    arjfl "Fais-moi confiance. Nous pourrions demander à Maria de faire à peu près n'importe quoi ou n'importe qui."
+    arjfl "Fais-moi confiance. Nous pourrions demander à Maria de faire à peu près n'importe quoi avec n'importe qui."
 
 # game/code/d10p2/d10p2s01.rpy:356
 translate french replay_d10p2s01_daa7373d:
 
     # tr "Really? That would be awesome!"
-    tr "Vraiment? Ce serait génial!"
+    tr "Vraiment? Ce serait génial !"
 
 # game/code/d10p2/d10p2s01.rpy:359
 translate french replay_d10p2s01_5d3098b9:
@@ -536,7 +536,7 @@ translate french replay_d10p2s01_ef287759:
 translate french replay_d10p2s01_93b0e28d:
 
     # mct "This is such a weird request. AmRose thinks we could do it, but should I even try?"
-    mct "C'est une demande tellement étrange. AmRose pense que nous pourrions le faire, mais devrais-je même essayer ?"
+    mct "C'est une demande tellement étrange. AmRose pense que nous pourrions le faire, mais devrais-je quand même essayer ?"
 
 # game/code/d10p2/d10p2s01.rpy:370
 translate french replay_d10p2s01_50004a0f:
@@ -554,7 +554,7 @@ translate french replay_d10p2s01_690ed523:
 translate french replay_d10p2s01_1999dada:
 
     # tr "Cool! You're the best! {w}Do you think you could talk to her tonight?"
-    tr "Cool! Tu es le meilleur! {w}Penses-tu que vous pourais lui parler ce soir ?"
+    tr "Cool ! Tu es le meilleur ! {w}Penses-tu que vous pourais lui parler ce soir ?"
 
 # game/code/d10p2/d10p2s01.rpy:380
 translate french replay_d10p2s01_84ab5901:
@@ -578,7 +578,7 @@ translate french replay_d10p2s01_e8813225:
 translate french replay_d10p2s01_c9bfbfc8:
 
     # mc "Not much longer now. {w}Did you want to stick around for the cumshot?"
-    mc "Il n’y en a plus pour longtemps maintenant. {w}Vouliez-vous rester pour l'éjaculation ?"
+    mc "Il n’y en a plus pour longtemps maintenant. {w}Veux-tu rester pour l'éjaculation ?"
 
 # game/code/d10p2/d10p2s01.rpy:389
 translate french replay_d10p2s01_9bfaaf14:
@@ -632,7 +632,7 @@ translate french replay_d10p2s01_df5b5dce:
 translate french replay_d10p2s01_779c051a:
 
     # mc "Yes!"
-    mc "Oui!"
+    mc "Oui !"
 
 # game/code/d10p2/d10p2s01.rpy:441
 translate french replay_d10p2s01_cac01cae:
@@ -662,13 +662,13 @@ translate french replay_d10p2s01_6c4b47fa:
 translate french replay_d10p2s01_32ba8f31:
 
     # arjfl "You mean, you want me to go back to serving drinks while my face is painted with your cum?"
-    arjfl "Tu veux dire, tu veux que je retourne servir des boissons pendant que mon visage est peint de ton sperme ?"
+    arjfl "Tu veux dire, que tu veux que je retourne servir des boissons pendant que mon visage est couvert de ton sperme ?"
 
 # game/code/d10p2/d10p2s01.rpy:453
 translate french replay_d10p2s01_d61051ad:
 
     # mc "Indeed. {w}What do you say?"
-    mc "En effet. {w}Qu'en dites-vous ?"
+    mc "En effet. {w}Qu'en dis-tu ?"
 
 # game/code/d10p2/d10p2s01.rpy:454
 translate french replay_d10p2s01_ffa1e9f7:
@@ -722,7 +722,7 @@ translate french replay_d10p2s01_5bc8d254:
 translate french replay_d10p2s01_07eef455:
 
     # mc "Wow!"
-    mc "Ouah!"
+    mc "Ouah !"
 
 # game/code/d10p2/d10p2s01.rpy:474
 translate french replay_d10p2s01_cfbcc1b5:
@@ -734,13 +734,13 @@ translate french replay_d10p2s01_cfbcc1b5:
 translate french replay_d10p2s01_3451f5b8:
 
     # mc "Oh, yeah. Definitely go wash up first."
-    mc "Oh ouais. va certainement te laver d'abord."
+    mc "Oh ouais. Va te laver d'abord."
 
 # game/code/d10p2/d10p2s01.rpy:477
 translate french replay_d10p2s01_00377d23:
 
     # arjfl "Will do!"
-    arjfl "Ça marche!"
+    arjfl "Ça marche !"
 
 translate french strings:
 
