@@ -2,7 +2,7 @@
 translate french d10p2s02_ab6e5f7b:
 
     # mct "Huh, what's going on?"
-    mct "Hein, qu'est qui se passe?"
+    mct "Hein, qu'est qui se passe ?"
 
 # game/code/d10p2/d10p2s02.rpy:13
 translate french d10p2s02_ddaa4f68:
@@ -32,7 +32,7 @@ translate french d10p2s02_f58ecce3:
 translate french d10p2s02_e024a92a:
 
     # "{color=#374980}???{/color}" "I'm so drunk I don't know if my dick is hard or I just need to pee."
-    "{color=#374980}???{/color}" "Je suis tellement bourré que je ne sais pas si ma bite est dure ou si j'ai juste envie de faire pipi."
+    "{color=#374980}???{/color}" "Je suis tellement bourré que je ne sais pas si ma bite est dure ou si j'ai juste envie de pisser."
 
 # game/code/d10p2/d10p2s02.rpy:22
 translate french d10p2s02_94fed64c:
@@ -44,13 +44,13 @@ translate french d10p2s02_94fed64c:
 translate french d10p2s02_f70a6396:
 
     # "{color=#374980}???{/color}" "I just know that I want myself deep inside you."
-    "{color=#374980}???{/color}" "Je sais juste que je me veux au plus profond de toi."
+    "{color=#374980}???{/color}" "Je sais juste que je veux être au plus profond de toi."
 
 # game/code/d10p2/d10p2s02.rpy:24
 translate french d10p2s02_29a87e2d:
 
     # "{color=#374980}???{/color}" "Pumping deep with some kind of liquid."
-    "{color=#374980}???{/color}" "Remplir de liquide une partie profonde de ce corps."
+    "{color=#374980}???{/color}" "Remplir de liquide une partie profonde de ton corps."
 
 # game/code/d10p2/d10p2s02.rpy:27
 translate french d10p2s02_0aab0a84:
@@ -110,7 +110,7 @@ translate french d10p2s02_4b6d1b61:
 translate french d10p2s02_7eac653c:
 
     # "{color=#374980}???{/color}" "Huh?"
-    "{color=#374980}???{/color}" "Hein?"
+    "{color=#374980}???{/color}" "Hein ?"
 
 # game/code/d10p2/d10p2s02.rpy:49
 translate french d10p2s02_ad96c68c:
@@ -158,7 +158,7 @@ translate french d10p2s02_2fa3fcbf:
 translate french d10p2s01_intervene_a9af5f58:
 
     # mc "HEY!"
-    mc "HÉ!"
+    mc "HÉ !"
 
 # game/code/d10p2/d10p2s02.rpy:74
 translate french d10p2s01_intervene_1e811f61:
@@ -200,7 +200,7 @@ translate french d10p2s01_intervene_827731e3:
 translate french d10p2s01_intervene_d3fdf7c0:
 
     # mc "Huh? What do you mean?"
-    mc "Hein? Que veux-tu dire?"
+    mc "Hein ? Que veux-tu dire ?"
 
 # game/code/d10p2/d10p2s02.rpy:91
 translate french d10p2s01_intervene_afa073d8:
@@ -212,7 +212,7 @@ translate french d10p2s01_intervene_afa073d8:
 translate french d10p2s01_intervene_2b7d2e32:
 
     # mc "Um, sure. Do you have any Stoli?"
-    mc "Um sûr. As-tu des Stoli ?"
+    mc "Um sûr. As-tu de la Żoubrówskya ?"
 
 # game/code/d10p2/d10p2s02.rpy:97
 translate french d10p2s01_intervene_1d40ff77:
@@ -248,7 +248,7 @@ translate french d10p2s01_intervene_ec88fd23:
 translate french d10p2s01_intervene_2065a7f6:
 
     # mc "Do you know how to make a Vesper martini?"
-    mc "Savez-vous comment faire un martini Vesper ?"
+    mc "Savez-vous comment faire un Vesper (vodka, gin, Lillet et citron) à la James Bond ?"
 
 # game/code/d10p2/d10p2s02.rpy:112
 translate french d10p2s01_intervene_71e826ad:
@@ -290,7 +290,7 @@ translate french d10p2s01_intervene_10830140:
 translate french d10p2s01_intervene_47b34c46:
 
     # irfl "No? You weren't the guy I saw outside the changing rooms? The one she asked to look after me?"
-    irfl "Non? Vous n'étiez pas le gars que j'ai vu à l'extérieur des vestiaires ? Celui à qui elle a demandé de s'occuper de moi ?"
+    irfl "Non ? Vous n'étiez pas le gars que j'ai vu à l'extérieur des vestiaires ? Celui à qui elle a demandé de s'occuper de moi ?"
 
 # game/code/d10p2/d10p2s02.rpy:133
 translate french d10p2s01_intervene_210ea22d:
@@ -314,7 +314,7 @@ translate french d10p2s01_intervene_bf1c39d8:
 translate french d10p2s01_intervene_acff4c12:
 
     # irfl "And what is that?"
-    irfl "Et qu'est ce que c'est que ça?"
+    irfl "Et qu'est ce que c'est que ça ?"
 
 # game/code/d10p2/d10p2s02.rpy:148
 translate french d10p2s01_intervene_8b72cdde:
@@ -410,7 +410,7 @@ translate french d10p2s01_watch_1b17a359:
 translate french d10p2s01_watch_d029d58f:
 
     # "{color=#374980}???{/color}" "You know you- {w}AAAAAAAHHHHHHHHHH!!!!"
-    "{color=#374980}???{/color}" "Tu sais que tu... {w}AAAAAAAHHHHHHHHHH!!!!"
+    "{color=#374980}???{/color}" "Tu sais que tu... {w}AAAAAAAHHHHHHHHHH !!!!"
 
 # game/code/d10p2/d10p2s02.rpy:195
 translate french d10p2s01_watch_3247af26:
@@ -536,7 +536,7 @@ translate french d10p2s01_watch_e0649255:
 translate french d10p2s01_watch_05500ff6:
 
     # mc "Huh?"
-    mc "Hein?"
+    mc "Hein ?"
 
 # game/code/d10p2/d10p2s02.rpy:246
 translate french d10p2s01_watch_557c0d5e:
@@ -602,7 +602,7 @@ translate french d10p2s01_watch_33b372a9:
 translate french d10p2s01_end_a7174c62:
 
     # mesfl "What happened? Where?"
-    mesfl "Ce qui s'est passé? Où?"
+    mesfl "Ce qui s'est passé ? Où ?"
 
 # game/code/d10p2/d10p2s02.rpy:284
 translate french d10p2s01_end_6bb3ef10:
@@ -620,7 +620,7 @@ translate french d10p2s01_end_4d1d4185:
 translate french d10p2s01_end_b627dc1f:
 
     # mesfl "Who was it? What was he wearing?"
-    mesfl "Qui était-ce? Qu'est-ce qu'il portait?"
+    mesfl "Qui était-ce ? Qu'est-ce qu'il portait ?"
 
 # game/code/d10p2/d10p2s02.rpy:292
 translate french d10p2s01_end_17c4690e:
@@ -638,7 +638,7 @@ translate french d10p2s01_end_b348cfd3:
 translate french d10p2s01_end_81b964e8:
 
     # mc "Jerome? That guy that-"
-    mc "Jérôme? Ce type qui..."
+    mc "Jérôme? Le type qui..."
 
 # game/code/d10p2/d10p2s02.rpy:299
 translate french d10p2s01_end_947da040:
@@ -668,7 +668,7 @@ translate french d10p2s01_end_38a6fc25:
 translate french d10p2s01_end_8a019f0f:
 
     # mc "Did you see that?"
-    mc "As-tu vu ça?"
+    mc "As-tu vu ça ?"
 
 # game/code/d10p2/d10p2s02.rpy:311
 translate french d10p2s01_end_459f105a:
@@ -686,7 +686,7 @@ translate french d10p2s01_end_05e3be0d:
 translate french d10p2s01_end_233dfe3c:
 
     # irfl "What do you mean?"
-    irfl "Que veux-tu dire?"
+    irfl "Que veux-tu dire ?"
 
 # game/code/d10p2/d10p2s02.rpy:320
 translate french d10p2s01_end_e7b4dea6:
@@ -710,7 +710,7 @@ translate french d10p2s01_end_dc9a27a5:
 translate french d10p2s01_end_0f20687d:
 
     # irfl "For real?"
-    irfl "Pour de vrai?"
+    irfl "Pour de vrai ?"
 
 # game/code/d10p2/d10p2s02.rpy:332
 translate french d10p2s01_end_69c25b65:
@@ -746,7 +746,7 @@ translate french d10p2s01_end_1974dc6e:
 translate french d10p2s01_end_dc20875f:
 
     # mc "How about a drink?"
-    mc "Un verre te tente?"
+    mc "Un verre te tente ?"
 
 # game/code/d10p2/d10p2s02.rpy:352
 translate french d10p2s01_end_2059d363:
