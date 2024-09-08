@@ -86,7 +86,7 @@ translate french d10p2s04_6b85ac7f:
 translate french d10p2s04_abc32293:
 
     # mesfl "If you don't like the person or the role, you can back out, but you can never enter again."
-    mesfl "Si tu n'aimes pas la personne ou le rôle, tu veux te retirer, mais tu ne pourras plus jamais participer."
+    mesfl "Si tu n'aimes pas la personne ou le rôle, tu peux te retirer, mais tu ne pourras plus jamais participer."
 
 # game/code/d10p2/d10p2s04.rpy:71
 translate french d10p2s04_c4161797:
