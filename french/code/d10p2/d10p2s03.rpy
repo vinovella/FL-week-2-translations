@@ -8,7 +8,7 @@ translate french d10p2s03_eac2f02e:
 translate french d10p2s03_4e85cb4d:
 
     # mc "Hello?"
-    mc "Bonjour?"
+    mc "Bonjour ?"
 
 # game/code/d10p2/d10p2s03.rpy:60
 translate french d10p2s03_2439ea59:
@@ -20,7 +20,7 @@ translate french d10p2s03_2439ea59:
 translate french d10p2s03_a55ced76:
 
     # mc "JESUS FUCK!"
-    mc "PUTIN DE MERDE !"
+    mc "PUTAIN DE MERDE !"
 
 # game/code/d10p2/d10p2s03.rpy:71
 translate french d10p2s03_89115a40:
@@ -38,7 +38,7 @@ translate french d10p2s03_2f801461:
 translate french d10p2s03_eb51ab78:
 
     # amfl "Are you ready to defy that which holds you bound to this realm and venture out into a realm of the beyond?"
-    amfl "Es-tu prêt à défier ce qui tu lie à ce royaume et à t'aventurer dans un royaume de l’au-delà ?"
+    amfl "Es-tu prêt à défier ce qui te lie à ce royaume et à t'aventurer dans un royaume de l’au-delà ?"
 
 # game/code/d10p2/d10p2s03.rpy:79
 translate french d10p2s03_4614cc15:
@@ -182,7 +182,7 @@ translate french d10p2s03_2099d686:
 translate french d10p2s03_6b40ae3a:
 
     # tm "Yar, matey."
-    tm "Oy, camarade."
+    tm "Yo, camarade."
 
 # game/code/d10p2/d10p2s03.rpy:162
 translate french d10p2s03_50063e57:
@@ -338,7 +338,7 @@ translate french d10p2s03_22a09868:
 translate french d10p2s03_9cdd96d9:
 
     # tm "On my face!"
-    tm "Sur mon visage!"
+    tm "Sur mon visage !"
 
 # game/code/d10p2/d10p2s03.rpy:290
 translate french d10p2s03_1abc4bd9:
@@ -350,7 +350,7 @@ translate french d10p2s03_1abc4bd9:
 translate french d10p2s03_8f16add8:
 
     # tm "I'm covered!"
-    tm "J'en suis couvert!"
+    tm "J'en suis couverte !"
 
 # game/code/d10p2/d10p2s03.rpy:294
 translate french d10p2s03_9d306309:
@@ -368,13 +368,13 @@ translate french d10p2s03_d32fa665:
 translate french d10p2s03_b21e32a1:
 
     # tm "Adios!"
-    tm "Adios!"
+    tm "Adios !"
 
 # game/code/d10p2/d10p2s03.rpy:301
 translate french d10p2s03_699878f6:
 
     # mc "Hey!"
-    mc "Hé!"
+    mc "Hé !"
 
 # game/code/d10p2/d10p2s03.rpy:326
 translate french d10p2s03_8b56008a:
@@ -386,13 +386,13 @@ translate french d10p2s03_8b56008a:
 translate french d10p2s03_0a972ed9:
 
     # mc "*Heaves* What the *Heaves* fuck *Heaves* was that!?"
-    mc "*Heaves* C'était *Souffle* quoi *Souffle* ce bordel !?"
+    mc "*Souffle* C'était *Souffle* quoi *Souffle* ce bordel !?"
 
 # game/code/d10p2/d10p2s03.rpy:333
 translate french d10p2s03_ca7e65c6:
 
     # tm "What was that?"
-    tm " c'est quoi Ca?"
+    tm " c'est quoi Ca ?"
 
 # game/code/d10p2/d10p2s03.rpy:335
 translate french d10p2s03_668d52f4:
