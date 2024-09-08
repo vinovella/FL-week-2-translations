@@ -2,19 +2,19 @@
 translate french d10p1s06b_542d1ba8:
 
     # mc "Why are you naked?!"
-    mc "Pourquoi est tu nue?!"
+    mc "Pourquoi est tu nue ?!"
 
 # game/code/d10p1/extended/d10p1s06b.rpy:17
 translate french d10p1s06b_4047bb40:
 
     # tm "Why are you screaming?!"
-    tm "Pourquoi cries tu?!"
+    tm "Pourquoi cries-tu ?!"
 
 # game/code/d10p1/extended/d10p1s06b.rpy:19
 translate french d10p1s06b_aed1f60e:
 
     # mk "Why are you holding a dildo?!"
-    mk "Pourquoi tenez-vous un dildo ?!"
+    mk "Pourquoi as-tu un dildo ?!"
 
 # game/code/d10p1/extended/d10p1s06b.rpy:22
 translate french d10p1s06b_27205fc7:
@@ -26,7 +26,7 @@ translate french d10p1s06b_27205fc7:
 translate french d10p1s06b_51f0a106:
 
     # ir "Why are you holding a God damn battleaxe?!"
-    ir "Pourquoi tenez-vous une foutue hache de guerre ?!"
+    ir "Pourquoi tien-tu une foutue hache de guerre ?!"
 
 # game/code/d10p1/extended/d10p1s06b.rpy:27
 translate french d10p1s06b_d52959db:
@@ -38,7 +38,7 @@ translate french d10p1s06b_d52959db:
 translate french d10p1s06b_09892da5:
 
     # mc "I did?!"
-    mc "ah bon?!"
+    mc "ah bon ?!"
 
 # game/code/d10p1/extended/d10p1s06b.rpy:33
 translate french d10p1s06b_59089334:
@@ -50,7 +50,7 @@ translate french d10p1s06b_59089334:
 translate french d10p1s06b_fba4f0cf:
 
     # mc "Okay?! But why the hell are you naked?"
-    mc "D'accord ? ! Mais pourquoi diable es-tu nue ?"
+    mc "D'accord ?! Mais pourquoi diable es-tu nue ?"
 
 # game/code/d10p1/extended/d10p1s06b.rpy:38
 translate french d10p1s06b_a89e559e:
@@ -104,7 +104,7 @@ translate french d10p1s06b_20e7c97b:
 translate french d10p1s06b_ed4f16f7:
 
     # mc "I guess we have a real valkyrie protecting the party."
-    mc "Je pense que nous avons une vraie valkyrie qui protège la fête.."
+    mc "Je pense que nous avons une vraie valkyrie qui protège la fête."
 
 # game/code/d10p1/extended/d10p1s06b.rpy:65
 translate french d10p1s06b_df55c86e:
@@ -122,5 +122,5 @@ translate french d10p1s06b_a994bd91:
 translate french d10p1s06b_1e1f356b:
 
     # mc "Well, that's what you need to protect everybody from pervy pricks I guess."
-    mc "C'est ce qu'il faut pour protéger tout le monde des pervers, je suppose."
+    mc "C'est ce qu'il faut pour tous nous protéger des pervers, je suppose."
 
