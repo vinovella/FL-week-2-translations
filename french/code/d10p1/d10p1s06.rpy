@@ -32,25 +32,25 @@ translate french d10p1s06_376b70e3:
 translate french d10p1s06_d4333dc8:
 
     # mc "Actually, no. The party's young. Don't wanna get blasted early and miss on the rest of it."
-    mc "En fait non. La fête est encore jeune. Je ne veux pas me faire exploser plus tôt et rater le reste."
+    mc "En fait non. Il est encore tôt. Je ne veux pas être exploser trop tôt et rater le reste."
 
 # game/code/d10p1/d10p1s06.rpy:41
 translate french d10p1s06_f5635ae3:
 
     # irfl "True, true. Though, that hasn't exactly stopped other people."
-    irfl "Vrai vrai. Cependant, cela n’a pas vraiment arrêté les autres."
+    irfl "Vrai. Cependant, cela n’a pas vraiment arrêté les autres."
 
 # game/code/d10p1/d10p1s06.rpy:42
 translate french d10p1s06_604cfe07:
 
     # irfl "So, where are you headed then? {w}Aw, did you come to check up on little ol' me?"
-    irfl "Alors, où vas-tu alors ? {w}Oh, es-tu venu voir mon petit vieux ?"
+    irfl "Et donc, où vas-tu alors ? {w}Oh, es-tu venu voir mon petit vieux ?"
 
 # game/code/d10p1/d10p1s06.rpy:45
 translate french d10p1s06_c7ac1552:
 
     # mc "I like the view from the top floor. Helps me relax."
-    mc "J'aime la vue depuis le dernier étage. ça M'aide à me détendre."
+    mc "J'aime la vue depuis le dernier étage. ça m'aide à me détendre."
 
 # game/code/d10p1/d10p1s06.rpy:46
 translate french d10p1s06_8d418061:
@@ -80,13 +80,13 @@ translate french d10p1s06_c679c7c6:
 translate french d10p1s06_c54fb455:
 
     # mc "Heh, more so if this was a normal party. {w}I'd bet more than half the women here would probably be down to flash their tits if you asked nicely enough."
-    mc "Hé, encore plus que si c'était une fête normale. {w}Je parierais que plus de la moitié des femmes ici seraient probablement prêtes à montrer leurs seins si tu le leur demandes gentiment."
+    mc "Hé, encore plus que si c'était une fête normale. {w}Je parierais que plus de la moitié des femmes ici seraient probablement prêtes à montrer leurs seins si tu le leur demandais gentiment."
 
 # game/code/d10p1/d10p1s06.rpy:57
 translate french d10p1s06_bc01e6a2:
 
     # mc "So it kinda loses that thrill a bit. {w}Not that getting flashed by a pair of nice tits is ever {i}not{/i} fun."
-    mc "Cela perd donc un peu de son intérêt.{w}Non {i}pas{/i} qu'il soit toujours amusant de se faire éblouir par une paire de jolis nichons."
+    mc "Cela perd donc un peu de son intérêt.{w}Non {i}pas{/i} qu'il soit toujours amusant de se faire éblouir par une jolie paire de seins."
 
 # game/code/d10p1/d10p1s06.rpy:60
 translate french d10p1s06_23b35e01:
@@ -104,7 +104,7 @@ translate french d10p1s06_af29dfbe:
 translate french d10p1s06_60bf28e5:
 
     # irfl "Well, don't let me keep you then. I'm sure there are tons of girls running over themselves to flash you."
-    irfl "Eh bien, ne me laisse pas te garder alors. Je suis sûr qu'il y a des tonnes de filles qui se précipitent pour te les montrer."
+    irfl "Eh bien, ne me laisse pas te garder alors. Je suis sûr qu'il y a des tonnes de filles qui se précipiteront pour te les montrer."
 
 # game/code/d10p1/d10p1s06.rpy:66
 translate french d10p1s06_8e67e622:
@@ -122,7 +122,7 @@ translate french d10p1s06_c2810b49:
 translate french d10p1s06_78088978:
 
     # mc "Yeah... Y'know, I really want to shout out my name for some reason right now."
-    mc "Ouais...Tu sais, j'ai vraiment envie de crier mon nom pour une raison quelconque en ce moment."
+    mc "Ouais...Tu sais, j'ai vraiment envie de crier mon nom pour n'importe quoi en ce moment."
 
 # game/code/d10p1/d10p1s06.rpy:72
 translate french d10p1s06_d070388f:
@@ -140,7 +140,7 @@ translate french d10p1s06_d885e5e5:
 translate french d10p1s06_3656a527:
 
     # mc "You sure?"
-    mc "Tu es sûr?"
+    mc "Tu es sûr ?"
 
 # game/code/d10p1/d10p1s06.rpy:80
 translate french d10p1s06_1bf2ce4e:
@@ -164,19 +164,19 @@ translate french d10p1s06_12d8f1eb:
 translate french d10p1s06_e200d8eb:
 
     # mc "Yeah... But every batch has a couple bad apples here and there. {w}Don't go being too carefree now."
-    mc "Ouais...Mais chaque lot contient quelques pommes pourries ici et là. {w}Ne soyez pas trop insouciant maintenant."
+    mc "Ouais...Mais chaque lot contient quelques pommes pourries ici et là. {w}Ne soyez pas trop insouciante maintenant."
 
 # game/code/d10p1/d10p1s06.rpy:90
 translate french d10p1s06_58cd849d:
 
     # ir "Oh jeez, what are you? My sister?"
-    ir "Oh mon Dieu, qu'est-ce que tu es ? Ma sœur?"
+    ir "Oh mon Dieu, qui es-tu ? Ma sœur?"
 
 # game/code/d10p1/d10p1s06.rpy:92
 translate french d10p1s06_b45cbb55:
 
     # ir "Oh jeez, what are you? My mother?"
-    ir "Oh mon Dieu, qu'est-ce que tu es ? Ma mère?"
+    ir "Oh mon Dieu, qu'est-ce que tu es ? Ma mère ?"
 
 # game/code/d10p1/d10p1s06.rpy:93
 translate french d10p1s06_604993e9:
@@ -206,7 +206,7 @@ translate french d10p1s06_98b91328:
 translate french d10p1s06_461ece48:
 
     # ir "But man, their faces when you tell them to stick it up their collective asses, is just..."
-    ir "Mais mec, leurs visages quand tu leur dis de se le mettre dans le cul collectif, c'est juste..."
+    ir "Mais mec, leurs visages quand tu leur dis de se le mettre dans le cul, c'est juste..."
 
 # game/code/d10p1/d10p1s06.rpy:102
 translate french d10p1s06_4d125c49:
@@ -236,7 +236,7 @@ translate french d10p1s06_part_2_228e2917:
 translate french d10p1s06_part_2_4cee5ab5:
 
     # ir "...{i}Exactly{/i}. It's not like you come across girls {i}this{/i} cute every day, right? {w}So would you mind helping me ou—?"
-    ir "{i}Exactement{/i}. Ce n'est pas comme si tu rencontries des filles aussi mignonnes tous les jours, n'est-ce pas ? {w}Alors, pourriez-vous m'aider à... ?"
+    ir "{i}Exactement{/i}. Ce n'est pas comme si tu rencontrais des filles aussi mignonnes tous les jours, n'est-ce pas ? {w}Alors, peux-tu m'aider à ... ?"
 
 # game/code/d10p1/d10p1s06.rpy:121
 translate french d10p1s06_part_2_71e9a5f2:
@@ -290,7 +290,7 @@ translate french replay_d10p1s06_a62ad5f9:
 translate french replay_d10p1s06_28452cf4:
 
     # mc "What's going on!? Why's your dick out?"
-    mc "Que se passe-t-il!? Pourquoi ta bite est sortie ?"
+    mc "Que se passe-t-il! ? Pourquoi ta bite est sortie ?"
 
 # game/code/d10p1/d10p1s06.rpy:161
 translate french replay_d10p1s06_296e54b2:
@@ -356,7 +356,7 @@ translate french replay_d10p1s06_5b7242e6:
 translate french replay_d10p1s06_41e9c306:
 
     # mc "Huh? Oh, oh! Uh, yeah, sure. Be my guest."
-    mc "Hein? Oh, oh ! Euh, ouais, bien sûr. Soit mon invité."
+    mc "Hein ? Oh, oh ! Euh, ouais, bien sûr. Soit mon invité."
 
 # game/code/d10p1/d10p1s06.rpy:198
 translate french replay_d10p1s06_ac189ac2:
@@ -368,7 +368,7 @@ translate french replay_d10p1s06_ac189ac2:
 translate french replay_d10p1s06_2dc751de:
 
     # mct "Huh? What's that sound?"
-    mct "Hein? Quel est ce son?"
+    mct "Hein ? Quel est ce son ?"
 
 # game/code/d10p1/d10p1s06.rpy:216
 translate french replay_d10p1s06_a5a77981:
@@ -386,7 +386,7 @@ translate french replay_d10p1s06_4a50c700:
 translate french replay_d10p1s06_d0730712:
 
     # am "What are you, you worthless piece of shit!?"
-    am "Qu'est-ce que tu es, espèce de merde sans valeur !?"
+    am "Qu'est-ce que tu es, espèce de sous-merde !?"
 
 # game/code/d10p1/d10p1s06.rpy:230
 translate french replay_d10p1s06_91475172:
@@ -398,7 +398,7 @@ translate french replay_d10p1s06_91475172:
 translate french replay_d10p1s06_42558740:
 
     # am "Louder!"
-    am "Plus fort!"
+    am "Plus fort !"
 
 # game/code/d10p1/d10p1s06.rpy:236
 translate french replay_d10p1s06_a7a6cf94:
@@ -422,13 +422,13 @@ translate french replay_d10p1s06_eb6de25b:
 translate french d10p1s06_watch_152cb5d3:
 
     # am "You're my cum dumpster slut, and that's all you'll ever be. Understood!?"
-    am "Tu es ma salope de poubelle à sperme, et c'est tout ce que tu seras jamais. Compris!?"
+    am "Tu es ma salope, ma poubelle à foutre, et c'est tout ce que tu seras jamais. Compris !?"
 
 # game/code/d10p1/d10p1s06.rpy:264
 translate french d10p1s06_watch_79dd0e86:
 
     # cb "Yes! Yes!!!"
-    cb "Oui! Oui!!!"
+    cb "Oui ! Oui !!!"
 
 # game/code/d10p1/d10p1s06.rpy:283
 translate french d10p1s06_watch_bad95faa:
@@ -494,7 +494,7 @@ translate french d10p1s06_watch_bdc869c8:
 translate french d10p1s06_watch_f3ffe386:
 
     # cb "I want you to cum down my throat! Please! I need it!"
-    cb "Je veux que tu jouisses dans ma gorge ! S'il te plaît! J'en ai besoin!"
+    cb "Je veux que tu jouisses dans ma gorge ! S'il te plaît ! J'en ai besoin !"
 
 # game/code/d10p1/d10p1s06.rpy:329
 translate french d10p1s06_watch_8f0330f5:
@@ -566,7 +566,7 @@ translate french d10p1s06_watch_again_c7aee2da:
 translate french d10p1s06_watch_again_9156a544:
 
     # kb "Are you okay!?"
-    kb "Êtes-vous d'accord!?"
+    kb "Êtes-vous d'accord !?"
 
 # game/code/d10p1/d10p1s06.rpy:392
 translate french d10p1s06_watch_again_50731436:
@@ -596,7 +596,7 @@ translate french d10p1s06_watch_again_c7aee2da_1:
 translate french d10p1s06_watch_again_165bfd11:
 
     # mc "Hey, are you okay?"
-    mc "Hey, vous allez bien?"
+    mc "Hey, Tu vas bien ?"
 
 # game/code/d10p1/d10p1s06.rpy:409
 translate french d10p1s06_watch_again_7032aa08:
@@ -614,7 +614,7 @@ translate french d10p1s06_watch_again_54f24ad2:
 translate french d10p1s06_watch_again_04d60d75:
 
     # cb "*Sniff* Thank you."
-    cb "*Renif* Merci."
+    cb "*Sniff* Merci."
 
 # game/code/d10p1/d10p1s06.rpy:413
 translate french d10p1s06_watch_again_5dab5e2c_1:
@@ -630,5 +630,5 @@ translate french strings:
 
     # game/code/d10p1/d10p1s06.rpy:237
     old "I don't want to see this"
-    new "Je veux pas voir ça"
+    new "Je ne veux pas voir ça"
 
