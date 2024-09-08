@@ -2,7 +2,7 @@
 translate french d10p2s04_dd_2cc05c46:
 
     # mct "Daisy?"
-    mct "Daisy?"
+    mct "Daisy ?"
 
 # game/code/d10p2/d10p2s04-dd.rpy:120
 translate french d10p2s04_dd_b0b47224:
@@ -14,7 +14,7 @@ translate french d10p2s04_dd_b0b47224:
 translate french d10p2s04_dd_be0ac6e8:
 
     # mesfl "Back so soon?"
-    mesfl "déjà de retour?"
+    mesfl "déjà de retour ?"
 
 # game/code/d10p2/d10p2s04-dd.rpy:134
 translate french d10p2s04_dd_8c9dfa6a:
@@ -86,7 +86,7 @@ translate french d10p2s04_dd_91fd55e8:
 translate french d10p2s04_dd_aca5d234:
 
     # mc "Daisy?"
-    mc "Daisy?"
+    mc "Daisy ?"
 
 # game/code/d10p2/d10p2s04-dd.rpy:186
 translate french d10p2s04_dd_796d479a:
@@ -182,7 +182,7 @@ translate french d10p2s04_dd_81fdd5e1:
 translate french d10p2s04_dd_bf9cae10:
 
     # dd "I trust you a hell of a lot more than some rando that might come in here and do God knows what to me at least."
-    dd "Je te fais bien plus confiance qu'à un quelconque random qui pourrait venir ici et me faire Dieu sait quoi."
+    dd "Je te fais bien plus confiance qu'à un quiconque qui pourrait venir ici et me faire Dieu sait quoi."
 
 # game/code/d10p2/d10p2s04-dd.rpy:223
 translate french d10p2s04_dd_96f6ea80:
@@ -200,7 +200,7 @@ translate french d10p2s04_dd_21c16306:
 translate french d10p2s04_dd_4aceaa99:
 
     # dd "Sounds good!"
-    dd "Ça a l'air bien!"
+    dd "Ça a l'air bien !"
 
 # game/code/d10p2/d10p2s04-dd.rpy:230
 translate french d10p2s04_dd_f8bde0c4:
@@ -212,13 +212,13 @@ translate french d10p2s04_dd_f8bde0c4:
 translate french d10p2s04_dd_b4d747de:
 
     # mc "How oh how will I ever pick something?"
-    mc "Comment, oh, comment vais-je un jour choisir quelque chose ?"
+    mc "Comment, oh, comment vais-je faire pour choisir quelque chose ?"
 
 # game/code/d10p2/d10p2s04-dd.rpy:235
 translate french d10p2s04_dd_1fa328fc:
 
     # mc "I'm in a spanking mood. And you can pick what I'll use."
-    mc "Je suis d'humeur à donner la fessée. Et vous pouvez choisir ce que j'utiliserai."
+    mc "Je suis d'humeur à donner la fessée. Et tu peux choisir ce que j'utiliserai."
 
 # game/code/d10p2/d10p2s04-dd.rpy:238
 translate french d10p2s04_dd_708e9439:
@@ -242,7 +242,7 @@ translate french d10p2s04_dd_1ac07a93:
 translate french d10p2s04_dd_71b7dc74:
 
     # mc "I guess you'll just have to wait and see. Or feel, in this case."
-    mc "Je suppose que tu as simplement attendre et voir. Ou ressentir, dans ce cas."
+    mc "Je suppose que tu as simplement à attendre et voir. Ou ressentir, dans ce cas."
 
 # game/code/d10p2/d10p2s04-dd.rpy:272
 translate french d10p2s04_dd_44faa513:
@@ -266,13 +266,13 @@ translate french d10p2s04_dd_92aba49b:
 translate french d10p2s04_dd_fe1667d9:
 
     # dd "What is it? What did you pick?"
-    dd "Qu'est-ce que c'est? Qu'as-tu choisi ?"
+    dd "Qu'est-ce que c'est ? Qu'as-tu choisi ?"
 
 # game/code/d10p2/d10p2s04-dd.rpy:286
 translate french d10p2s04_dd_3ce4410b:
 
     # mc "...A paddle."
-    mc "...Une pagaie."
+    mc "...Le paddle (pagaie)."
 
 # game/code/d10p2/d10p2s04-dd.rpy:288
 translate french d10p2s04_dd_28a91139:
@@ -320,13 +320,13 @@ translate french d10p2s04_dd_17e61a09:
 translate french d10p2s04_dd_e0711a20:
 
     # dd "What? Why? What did you pick?"
-    dd "Quoi? Pourquoi? Qu'as-tu choisi ?"
+    dd "Quoi ? Pourquoi ? Qu'as-tu choisi ?"
 
 # game/code/d10p2/d10p2s04-dd.rpy:308
 translate french d10p2s04_dd_325cf6fa:
 
     # mc "Oh, you know, just some sticks."
-    mc "Oh, tu sais, juste quelques bâtons."
+    mc "Oh, tu sais, juste quelques badines."
 
 # game/code/d10p2/d10p2s04-dd.rpy:310
 translate french d10p2s04_dd_79a31e9b:
@@ -338,7 +338,7 @@ translate french d10p2s04_dd_79a31e9b:
 translate french d10p2s04_dd_9580692b:
 
     # dd "Fuck. Maybe I should've picked instead of being a smartass."
-    dd "Putain. Peut-être que j'aurais dû choisir au lieu d'faire la maline."
+    dd "Putain. Peut-être que j'aurais dû choisir au lieu de faire la maline."
 
 # game/code/d10p2/d10p2s04-dd.rpy:312
 translate french d10p2s04_dd_d2e553a0:
@@ -380,7 +380,7 @@ translate french d10p2s04_dd_40fdcc69:
 translate french d10p2s04_dd_27384ce1:
 
     # mc "Eh, I wouldn't get my hopes up."
-    mc "Eh, je n'aurais pas d'espoir."
+    mc "Eh, je ne te donnerai pas de faux espoir."
 
 # game/code/d10p2/d10p2s04-dd.rpy:328
 translate french d10p2s04_dd_aa3c6a58_1:
@@ -404,13 +404,13 @@ translate french d10p2s04_dd_46492726:
 translate french d10p2s04_dd_979d0919:
 
     # mc "Ah, alright. It's just that I can't exactly gauge your reactions from your ass sadly."
-    mc "Ah, d'accord. C'est juste que je ne peux malheureusement pas évaluer exactement tes réactions depuis ton cul."
+    mc "Ah, d'accord. C'est juste que je ne peux malheureusement pas évaluer exactement tes réactions, juste avec ton cul."
 
 # game/code/d10p2/d10p2s04-dd.rpy:336
 translate french d10p2s04_dd_9f589531:
 
     # dd "Really? I'm told that I have a very expressive ass."
-    dd "Vraiment? On me dit que j'ai un cul très expressif."
+    dd "Vraiment ? Pourtant on m'a dit que j'avai un cul très expressif."
 
 # game/code/d10p2/d10p2s04-dd.rpy:343
 translate french d10p2s04_dd_79056125:
@@ -452,7 +452,7 @@ translate french d10p2s04_dd_18556c09:
 translate french d10p2s04_dd_3a09b5b6:
 
     # dd "*Dramatic whimpering*"
-    dd "*Gémit dramatique*"
+    dd "*Gémissement dramatique*"
 
 # game/code/d10p2/d10p2s04-dd.rpy:377
 translate french d10p2s04_dd_46c81d36:
@@ -494,7 +494,7 @@ translate french d10p2s04_dd_78f2ae67:
 translate french d10p2s04_dd_789759c6:
 
     # dd "God, my ass is killing me."
-    dd "Mon Dieu, mon cul me tue."
+    dd "Mon Dieu, mon cul me brûle."
 
 # game/code/d10p2/d10p2s04-dd.rpy:398
 translate french d10p2s04_dd_2b58bf41:
@@ -548,7 +548,7 @@ translate french d10p2s04_dd_c8c513ff:
 translate french d10p2s04_dd_4b2a224a:
 
     # dd "But at the same time. Hurry up and pick something already!"
-    dd "Mais en même temps. Dépêche-toi et choisisses déjà quelque chose !"
+    dd "Mais en même temps. Dépêche-toi et choisis déjà quelque chose !"
 
 # game/code/d10p2/d10p2s04-dd.rpy:413
 translate french d10p2s04_dd_20a555f4:
@@ -566,7 +566,7 @@ translate french d10p2s04_dd_bf08d2e2:
 translate french d10p2s04_dd_8913147b:
 
     # dd "*Indistinct grumbling* Will you at least fuck me already?"
-    dd "*Grognon indistinct* Veux-tu au moins me baiser déjà ?"
+    dd "*Grognement indistinct* Veux-tu au moins me baiser déjà ?"
 
 # game/code/d10p2/d10p2s04-dd.rpy:421
 translate french d10p2s04_dd_45e4c203:
@@ -578,7 +578,7 @@ translate french d10p2s04_dd_45e4c203:
 translate french d10p2s04_dd_6c646709:
 
     # dd "{i}Gaaawd{/i}, fine! [mcname], will you please fuck me?"
-    dd "{i}Gaaawd{/i}, très bien !tu veux bien me baiser, s'il te plâit ?"
+    dd "{i}Gaaawd{/i}, très bien ! Tu veux bien me baiser, s'il te plâit ?"
 
 # game/code/d10p2/d10p2s04-dd.rpy:426
 translate french d10p2s04_dd_0ca933e1:
@@ -644,7 +644,7 @@ translate french d10p2s04_dd_fdb808e5:
 translate french d10p2s04_dd_075e7c16:
 
     # dd "Fill me up!"
-    dd "Remplis-moi!"
+    dd "Remplis-moi !"
 
 # game/code/d10p2/d10p2s04-dd.rpy:491
 translate french d10p2s04_dd_a09b6886:
@@ -692,7 +692,7 @@ translate french d10p2s04_dd_11c32863:
 translate french d10p2s04_dd_bf038d39:
 
     # dd "Wait, why'd you take it out? Are you cumming?"
-    dd "Attends, pourquoi tu l'as retiré ? Est-ce que tu jouis ?"
+    dd "Attends, pourquoi tu l'as retiré ? Est-ce que tu as jouis ?"
 
 # game/code/d10p2/d10p2s04-dd.rpy:533
 translate french d10p2s04_dd_91abd116:
@@ -716,13 +716,13 @@ translate french d10p2s04_dd_5a78bf42:
 translate french d10p2s04_dd_1cc4851f:
 
     # dd "No, why?"
-    dd "Non pourquoi?"
+    dd "Non pourquoi ?"
 
 # game/code/d10p2/d10p2s04-dd.rpy:544
 translate french d10p2s04_dd_903396b3:
 
     # mc "Do you want to?"
-    mc "Veux-tu?"
+    mc "Veux-tu ?"
 
 # game/code/d10p2/d10p2s04-dd.rpy:546
 translate french d10p2s04_dd_8f97e6ba:
@@ -740,7 +740,7 @@ translate french d10p2s04_dd_267fbfde:
 translate french d10p2s04_dd_0add53c4:
 
     # dd "Hey!"
-    dd "Hé!"
+    dd "Hé !"
 
 # game/code/d10p2/d10p2s04-dd.rpy:560
 translate french d10p2s04_dd_65eaaeed:
@@ -866,7 +866,7 @@ translate french d10p2s04_dd_3013c1e7:
 translate french d10p2s04_dd_675c8f0c:
 
     # mc "Where?"
-    mc "Où?"
+    mc "Où ?"
 
 # game/code/d10p2/d10p2s04-dd.rpy:658
 translate french d10p2s04_dd_b1906e51:
@@ -890,13 +890,13 @@ translate french d10p2s04_dd_f8edddd9_1:
 translate french d10p2s04_dd_17379567:
 
     # dd "Okay... {i}That{/i} was great!"
-    dd "ok.. C'était génial "
+    dd "ok.. C'était génial !"
 
 # game/code/d10p2/d10p2s04-dd.rpy:705
 translate french d10p2s04_dd_8991d7de:
 
     # mc "Oh? Found a new kink?"
-    mc "Oh? Vous avez trouvé un nouveau kink ?"
+    mc "Oh ? Vous avez trouvé un nouveau kink ?"
 
 # game/code/d10p2/d10p2s04-dd.rpy:708
 translate french d10p2s04_dd_46a4ecef:
@@ -908,13 +908,13 @@ translate french d10p2s04_dd_46a4ecef:
 translate french d10p2s04_dd_14a72362:
 
     # mc "You know, you could {i}try{/i} to act along with it at least."
-    mc "Vous savez, vous pourriez {i}essayer{/i} de faire comme si de rien n'était."
+    mc "Vous savez, vous pourriez {i}essayer{/i} de faire comme si rien n'avait eut lieu."
 
 # game/code/d10p2/d10p2s04-dd.rpy:714
 translate french d10p2s04_dd_b0033fd7:
 
     # dd "I know! I'm sorry."
-    dd "Je sais! Je suis désolé."
+    dd "Je sais ! Je suis désolé."
 
 # game/code/d10p2/d10p2s04-dd.rpy:715
 translate french d10p2s04_dd_09db4471:
@@ -974,7 +974,7 @@ translate french d10p2s04_dd_ffd63fc6:
 translate french d10p2s04_dd_f39634b7:
 
     # mc "\"I'm running late for my appointment\"?"
-    mc "\"Je suis en retard à mon rendez-vous\"?"
+    mc "\"Je suis en retard à mon rendez-vous\" ?"
 
 # game/code/d10p2/d10p2s04-dd.rpy:755
 translate french d10p2s04_dd_26177977:
@@ -998,13 +998,13 @@ translate french d10p2s04_dd_bd6ea9fe:
 translate french d10p2s04_dd_a93396fc:
 
     # dd "So I'm willing to do {i}{b}anything{/b}{/i} to get out of here, Mister Guard Man."
-    dd "Je suis donc prêt à faire {i}{b}n'importe quoi{/b}{/i} pour sortir d'ici, Monsieur le gardien."
+    dd "Je suis donc prête à faire {i}{b}n'importe quoi{/b}{/i} pour sortir d'ici, Monsieur le gardien."
 
 # game/code/d10p2/d10p2s04-dd.rpy:764
 translate french d10p2s04_dd_463625ef:
 
     # mc "\"Anything\"?"
-    mc "\"N'importe quoi\"?"
+    mc "\"N'importe quoi\" ?"
 
 # game/code/d10p2/d10p2s04-dd.rpy:766
 translate french d10p2s04_dd_aee11050:
@@ -1034,7 +1034,7 @@ translate french d10p2s04_dd_0ab0f2cb:
 translate french d10p2s04_dd_2aa9e65f:
 
     # dd "Faster!"
-    dd "Plus rapide!"
+    dd "Plus vite !"
 
 # game/code/d10p2/d10p2s04-dd.rpy:800
 translate french d10p2s04_dd_bafdd082_1:
@@ -1070,7 +1070,7 @@ translate french d10p2s04_dd_50e0494f:
 translate french d10p2s04_dd_564855e8:
 
     # dd "I'm completely covered!"
-    dd "Je suis complètement couvert !"
+    dd "Je suis complètement couverte !"
 
 # game/code/d10p2/d10p2s04-dd.rpy:840
 translate french d10p2s04_dd_62113f99:
@@ -1088,7 +1088,7 @@ translate french d10p2s04_dd_11c32863_1:
 translate french d10p2s04_dd_485eb729:
 
     # dd "Fuck my mouth at last!!"
-    dd "Baise-moi enfin la gueule !!"
+    dd "Baise-moi enfin la bouche !!"
 
 # game/code/d10p2/d10p2s04-dd.rpy:889
 translate french d10p2s04_dd_6308abe3:
@@ -1118,7 +1118,7 @@ translate french d10p2s04_dd_64dc9de4:
 translate french d10p2s04_dd_f28b3ab9:
 
     # mc "Are you alright?"
-    mc "Est-ce que tu vas bien?"
+    mc "Est-ce que tu vas bien ?"
 
 # game/code/d10p2/d10p2s04-dd.rpy:908
 translate french d10p2s04_dd_f01fc3a8:
@@ -1166,13 +1166,13 @@ translate french d10p2s04_ddmc_end_21fcf20f:
 translate french d10p2s04_ddmc_end_45a482a2:
 
     # dd "Except for paddles. You don't get any paddles anymore."
-    dd "Sauf pour les pagaies. Vous n'avez plus de pagaies."
+    dd "Sauf pour les pagaies. Vous n'utiliserez plus de pagaies."
 
 # game/code/d10p2/d10p2s04-dd.rpy:953
 translate french d10p2s04_ddmc_end_7e753d54:
 
     # dd "Except for sticks. You don't get any sticks anymore."
-    dd "Sauf pour les bâtons. Vous ne recevez plus de bâtons."
+    dd "Sauf pour les bâtons. Vous n'utiliserez plus de badine."
 
 # game/code/d10p2/d10p2s04-dd.rpy:958
 translate french d10p2s04_ddmc_end_54845d5b:
@@ -1208,7 +1208,7 @@ translate french d10p2s04_minmc_dw_dd_endtalk_b811fd5a:
 translate french d10p2s04_minmc_dw_dd_endtalk_d816f890:
 
     # dd "Yeah! Lucked out on the dom and got someone I know."
-    dd "Ouais! J'ai eu de la chance sur le dom et j'ai trouvé quelqu'un que je connais."
+    dd "Ouais ! J'ai eu de la chance sur le dom et j'ai trouvé quelqu'un que je connais."
 
 # game/code/d10p2/d10p2s04-dd.rpy:989
 translate french d10p2s04_minmc_dw_dd_endtalk_551b8412:
@@ -1232,13 +1232,13 @@ translate french d10p2s04_minmc_dw_dd_endtalk_6d8ec4a2:
 translate french d10p2s04_minmc_dw_dd_endtalk_03d6efb2:
 
     # mesfl "Yeah... The more I think about it, the more I dislike it."
-    mesfl "Ouais...Plus j'y pense, plus je ne l'aime pas."
+    mesfl "Ouais...Plus j'y pense, plus je n'aime pas ça."
 
 # game/code/d10p2/d10p2s04-dd.rpy:998
 translate french d10p2s04_minmc_dw_dd_endtalk_ae15a75f:
 
     # mesfl "I actually wanted it to be something where you can come with a partner and do stuff or use stuff that you couldn't do in your own places."
-    mesfl "En fait, je voulais que ce soit quelque chose où tu peux venir avec un partenaire et faire des choses ou utiliser des choses que tu ne pourais pas faire chez toi."
+    mesfl "En fait, je voulais que ce soit quelque chose où tu peux venir avec un partenaire et faire des choses ou utiliser des choses que tu ne pourrais pas faire chez toi."
 
 # game/code/d10p2/d10p2s04-dd.rpy:1001
 translate french d10p2s04_minmc_dw_dd_endtalk_cb0da065:
@@ -1322,25 +1322,25 @@ translate french d10p2s04_minmc_dw_dd_endtalk_606e2d02:
 translate french d10p2s04_minmc_dw_dd_endtalk_8e73603b:
 
     # mc "Daisy!!"
-    mc "Daisy!!"
+    mc "Daisy !!"
 
 # game/code/d10p2/d10p2s04-dd.rpy:1057
 translate french d10p2s04_minmc_dw_dd_endtalk_dfd9b715:
 
     # mc "Daisy? What's going on? Are you alright?"
-    mc "Daisy? Que se passe-t-il? Est-ce que tu vas bien?"
+    mc "Daisy ? Que se passe-t-il ? Est-ce que tu vas bien ?"
 
 # game/code/d10p2/d10p2s04-dd.rpy:1061
 translate french d10p2s04_minmc_dw_dd_endtalk_84e8295b:
 
     # dd "Sorry, it's just I feel a little light...he—head—"
-    dd "Désolé, c'est juste que je me sens un peu léger...ma—tête—"
+    dd "Désolé, c'est juste que je me sens un peu légère ... ma—tête—"
 
 # game/code/d10p2/d10p2s04-dd.rpy:1064
 translate french d10p2s04_minmc_dw_dd_endtalk_c05d4c32:
 
     # mc "Daisy!?"
-    mc "Daisy!?"
+    mc "Daisy !?"
 
 # game/code/d10p2/d10p2s04-dd.rpy:1073
 translate french d10p2s04_minmc_dw_dd_endtalk_1e3fd640:
@@ -1352,31 +1352,31 @@ translate french d10p2s04_minmc_dw_dd_endtalk_1e3fd640:
 translate french d10p2s04_minmc_dw_dd_endtalk_aca5d234:
 
     # mc "Daisy?"
-    mc "Daisy?"
+    mc "Daisy ?"
 
 # game/code/d10p2/d10p2s04-dd.rpy:1078
 translate french d10p2s04_minmc_dw_dd_endtalk_0474e74b:
 
     # dd "What happened?"
-    dd "Ce qui s'est passé?"
+    dd "Ce qui s'est passé ?"
 
 # game/code/d10p2/d10p2s04-dd.rpy:1079
 translate french d10p2s04_minmc_dw_dd_endtalk_8dd99027:
 
     # mc "You passed out on the stairs."
-    mc "Vous vous êtes évanoui dans les escaliers."
+    mc "Tu t'es évanouie dans les escaliers."
 
 # game/code/d10p2/d10p2s04-dd.rpy:1081
 translate french d10p2s04_minmc_dw_dd_endtalk_8b0ccff2:
 
     # dd "I did? Damn."
-    dd "Je l'ai fait? Merde."
+    dd "J'ai fait ça ? Merde."
 
 # game/code/d10p2/d10p2s04-dd.rpy:1082
 translate french d10p2s04_minmc_dw_dd_endtalk_d4edbc70:
 
     # mc "Are you feeling alright?"
-    mc "Est-ce que tu te sens bien?"
+    mc "Est-ce que tu te sens bien ?"
 
 # game/code/d10p2/d10p2s04-dd.rpy:1084
 translate french d10p2s04_minmc_dw_dd_endtalk_22e61e20:
@@ -1394,7 +1394,7 @@ translate french d10p2s04_minmc_dw_dd_endtalk_0c15a34d:
 translate french d10p2s04_minmc_dw_dd_endtalk_c11c5901:
 
     # mc "You should rest!"
-    mc "Tu dois te reposer!"
+    mc "Tu dois te reposer !"
 
 # game/code/d10p2/d10p2s04-dd.rpy:1091
 translate french d10p2s04_minmc_dw_dd_endtalk_6dd0b009:
@@ -1412,7 +1412,7 @@ translate french d10p2s04_minmc_dw_dd_endtalk_f1cce811:
 translate french d10p2s04_minmc_dw_dd_endtalk_a4eaba57:
 
     # mc "What are you doing? You should rest up a bit!"
-    mc "Que fais-tu? Tu devrais te reposer un peu !"
+    mc "Que fais-tu ? Tu devrais te reposer un peu !"
 
 # game/code/d10p2/d10p2s04-dd.rpy:1097
 translate french d10p2s04_minmc_dw_dd_endtalk_679ac3b2:
@@ -1448,7 +1448,7 @@ translate french d10p2s04_minmc_dw_dd_endtalk_55605c35:
 translate french d10p2s04_minmc_dw_dd_endtalk_d9adb6d4:
 
     # mc "That's not the point!"
-    mc "Ce n'est pas le propos!"
+    mc "Ce n'est pas le propos !"
 
 # game/code/d10p2/d10p2s04-dd.rpy:1109
 translate french d10p2s04_minmc_dw_dd_endtalk_ac4a1868:
@@ -1472,7 +1472,7 @@ translate french d10p2s04_minmc_dw_dd_endtalk_d7d8537e:
 translate french d10p2s04_minmc_dw_dd_endtalk_56c3991c:
 
     # mc "Why not?"
-    mc "Pourquoi pas?"
+    mc "Pourquoi pas ?"
 
 # game/code/d10p2/d10p2s04-dd.rpy:1116
 translate french d10p2s04_minmc_dw_dd_endtalk_12fb3bbb:
@@ -1484,7 +1484,7 @@ translate french d10p2s04_minmc_dw_dd_endtalk_12fb3bbb:
 translate french d10p2s04_minmc_dw_dd_endtalk_843ec6ca:
 
     # mc "Seriously!? How long has this been happening?"
-    mc "Sérieusement!? Depuis combien de temps cela se produit-il ?"
+    mc "Sérieusement !? Depuis combien de temps cela se produit-il ?"
 
 # game/code/d10p2/d10p2s04-dd.rpy:1122
 translate french d10p2s04_minmc_dw_dd_endtalk_9a117ed7:
@@ -1520,7 +1520,7 @@ translate french d10p2s04_minmc_dw_dd_endtalk_64a2de96:
 translate french d10p2s04_minmc_dw_dd_endtalk_643a9826:
 
     # mc "Uh-uh, you're going to a doctor. And I'm going with you."
-    mc "Euh-euh, tu vas chez un médecin. Et je pars avec toi."
+    mc "Euh-euh, tu vas chez un médecin. Et je vais avec toi."
 
 # game/code/d10p2/d10p2s04-dd.rpy:1134
 translate french d10p2s04_minmc_dw_dd_endtalk_f4908fc7:
@@ -1604,7 +1604,7 @@ translate french d10p2s04_minmc_dw_dd_endtalk_06067d88:
 translate french d10p2s04_minmc_dw_dd_endtalk_2fbca3c9:
 
     # mc "Great. See? That wasn't so hard. {w}Now let's go get that drink."
-    mc "Super.tu Vois? Ce n'était pas si difficile. {w}Maintenant, allons chercher ce verre."
+    mc "Super. Tu Vois ? Ce n'était pas si difficile. {w}Maintenant, allons chercher ce verre."
 
 # game/code/d10p2/d10p2s04-dd.rpy:1163
 translate french d10p2s04_minmc_dw_dd_endtalk_37ba6bd5:
@@ -1616,11 +1616,11 @@ translate french strings:
 
     # game/code/d10p2/d10p2s04-dd.rpy:123
     old "Bail"
-    new "s'es aller"
+    new "Caution"
 
     # game/code/d10p2/d10p2s04-dd.rpy:123
     old "Go check up on her"
-    new "aller la voir"
+    new "Aller la voir"
 
     # game/code/d10p2/d10p2s04-dd.rpy:163
     old "Fondle her"
@@ -1636,11 +1636,11 @@ translate french strings:
 
     # game/code/d10p2/d10p2s04-dd.rpy:256
     old "Use the sticks"
-    new "Utilisez les bâtons"
+    new "Utilisez les badines"
 
     # game/code/d10p2/d10p2s04-dd.rpy:462
     old "Cum"
-    new "Ejaculer"
+    new "Éjaculer"
 
     # game/code/d10p2/d10p2s04-dd.rpy:462
     old "Hold on"
@@ -1660,7 +1660,7 @@ translate french strings:
 
     # game/code/d10p2/d10p2s04-dd.rpy:652
     old "Cum now"
-    new "Jouis maintenant"
+    new "Jouir maintenant"
 
     # game/code/d10p2/d10p2s04-dd.rpy:652
     old "Hold longer"
