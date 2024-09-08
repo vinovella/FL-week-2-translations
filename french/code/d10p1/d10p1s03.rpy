@@ -158,7 +158,7 @@ translate french d10p1s03_f9c63d43:
 translate french d10p1s03_13e47b11:
 
     # mh "My half-starving collage self would probably have a heart attack if she heard that I spent that much on a dress for a party."
-    mh "/"Ma moitié affamé/" aurait probablement une crise cardiaque si elle apprenait que j'avais dépensé autant pour une robe de soirée."
+    mh "\"Ma moitié affamé\" aurait probablement une crise cardiaque si elle apprenait que j'avais dépensé autant pour une robe de soirée."
 
 # game/code/d10p1/d10p1s03.rpy:92
 translate french d10p1s03_a5df7ecc:
