@@ -2,7 +2,7 @@ translate french strings:
 
     # game/code/d10p2/d10p2_screens.rpy:6
     old "Give up!"
-    new "Abandonner!"
+    new "Abandonner !"
 
     # game/code/d10p2/d10p2_screens.rpy:11
     old "Stop searching"
