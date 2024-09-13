@@ -482,7 +482,7 @@ translate french replay_d10p2s05_72894bdb:
 translate french replay_d10p2s05_2313fda2:
 
     # mc "It says we won... But how? You didn't cum!"
-    mc "Il est dit que nous avons gagné... Mais comment ? Tu n'as pas joui !"
+    mc "Il est dit que nous avons gagné... Mais comment ? Tu n'as pas jouie !"
 
 # game/code/d10p2/d10p2s05.rpy:603
 translate french replay_d10p2s05_82310c3e:
@@ -800,7 +800,7 @@ translate french replay_d10p2s05_776540c5:
 translate french replay_d10p2s05_e7e2b355:
 
     # mh "It can't wait to be stretched by you!"
-    mh "Il a hâte d'être élargi par vous !"
+    mh "Il a hâte d'être élargi par toi !"
 
 # game/code/d10p2/d10p2s05.rpy:776
 translate french replay_d10p2s05_dcd935c5:
@@ -812,7 +812,7 @@ translate french replay_d10p2s05_dcd935c5:
 translate french replay_d10p2s05_ff1e3fa6:
 
     # mh "Nah, I prefer the real thing right away!"
-    mh "Nan, je préfère votre vrai queue tout de suite !"
+    mh "Nan, je préfère ta vraie queue tout de suite !"
 
 # game/code/d10p2/d10p2s05.rpy:782
 translate french replay_d10p2s05_7e88f8d1:
@@ -824,7 +824,7 @@ translate french replay_d10p2s05_7e88f8d1:
 translate french replay_d10p2s05_abd5be76:
 
     # mh "You can start moving."
-    mh "Vous pouvez commencer à bouger."
+    mh "Tu peux commencer à bouger."
 
 # game/code/d10p2/d10p2s05.rpy:789
 translate french replay_d10p2s05_fed67299:
@@ -848,7 +848,7 @@ translate french replay_d10p2s05_3bd00545:
 translate french replay_d10p2s05_1bb47070:
 
     # mh "Your... {w} Dick... {w} Even better!"
-    mh "Votre...{w} Bite...{w} Est encore mieux !"
+    mh "Ta...{w} Bite...{w} Est encore mieux !"
 
 # game/code/d10p2/d10p2s05.rpy:806
 translate french replay_d10p2s05_b007b238:
@@ -968,13 +968,13 @@ translate french replay_d10p2s05_14435632:
 translate french replay_d10p2s05_72eb8b58:
 
     # mc "We need to do that again sometime. {w}Without a time restriction hanging over us next time."
-    mc "Nous devrons refaire ça un jour. {w}Sans qu'une restriction de temps ne pèse sur nous la prochaine fois."
+    mc "Nous devrons refaire ça un jour. {w}Sans qu'une contrainte de temps ne pèse sur nous la prochaine fois."
 
 # game/code/d10p2/d10p2s05.rpy:932
 translate french replay_d10p2s05_b2c84e9c:
 
     # mh "Heh, I'll be looking forward to it."
-    mh "Hé, je suis impatience."
+    mh "Hé, je suis impatiente."
 
 # game/code/d10p2/d10p2s05.rpy:935
 translate french replay_d10p2s05_08134e06:
