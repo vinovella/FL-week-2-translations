@@ -2,7 +2,7 @@
 translate french d10p2s09_9a54df39:
 
     # mesfl "And now for what you've all been waiting for!"
-    mesfl "Et maintenant, ce que vous attendez tous!"
+    mesfl "Et maintenant, ce que vous attendez tous !"
 
 # game/code/d10p2/d10p2s09.rpy:97
 translate french d10p2s09_4c67f438:
@@ -122,7 +122,7 @@ translate french d10p2s09_continue_07452a8a:
 translate french d10p2s09_continue_700e6051:
 
     # mc "You alright?"
-    mc "ça va?"
+    mc "Ça va ?"
 
 # game/code/d10p2/d10p2s09.rpy:567
 translate french d10p2s09_continue_03d32b06:
@@ -140,7 +140,7 @@ translate french d10p2s09_continue_a368cbf7:
 translate french d10p2s09_continue_c91d145e:
 
     # aw "Oh, honey... We can help you with that!"
-    aw "Oh, chérie... Nous pouvons t'aider!"
+    aw "Oh, chérie... Nous pouvons t'aider !"
 
 # game/code/d10p2/d10p2s09.rpy:572
 translate french d10p2s09_continue_ea942305:
@@ -152,13 +152,13 @@ translate french d10p2s09_continue_ea942305:
 translate french d10p2s09_continue_8b63c9a4:
 
     # mc "You ready?"
-    mc "Tu est prês?"
+    mc "Tu es prês ?"
 
 # game/code/d10p2/d10p2s09.rpy:582
 translate french d10p2s09_continue_4170e6a6:
 
     # mesfl "...Yes."
-    mesfl "...oui."
+    mesfl "... Oui."
 
 # game/code/d10p2/d10p2s09.rpy:600
 translate french d10p2s09_continue_e817b770:
@@ -218,7 +218,7 @@ translate french d10p2s09_continue_0451feed:
 translate french d10p2s09_continue_6808dfa0:
 
     # mc "Alright, let's get you up.{w} That's enough grape juice for you."
-    mc "D'accord, on va te lever.{w}  C'est assez de jus de raisin pour toi.."
+    mc "D'accord, on va te lever.{w}  Tu as eut assez de jus de raisin pour toi.."
 
 # game/code/d10p2/d10p2s09.rpy:661
 translate french d10p2s09_continue_4b8b262f:
@@ -242,7 +242,7 @@ translate french d10p2s09_continue_f68b27e6:
 translate french d10p2s09_continue_01785616:
 
     # "Everybody" "Wooo!"
-    "Tout le monde" "Wooo!"
+    "Tout le monde" "Wooo !"
 
 # game/code/d10p2/d10p2s09.rpy:673
 translate french d10p2s09_continue_767eaf14:
@@ -266,7 +266,7 @@ translate french d10p2s09_continue_60b0e470:
 translate french d10p2s09_continue_01785616_1:
 
     # "Everybody" "Wooo!"
-    "Tout le monde" "Wooo!"
+    "Tout le monde" "Wooo !"
 
 # game/code/d10p2/d10p2s09.rpy:686
 translate french d10p2s09_continue_767eaf14_1:
@@ -296,7 +296,7 @@ translate french d10p2s09_continue_d0fa42b3:
 translate french d10p2s09_continue_c2773da4:
 
     # mh "Allison?"
-    mh "Allison?"
+    mh "Allison ?"
 
 # game/code/d10p2/d10p2s09.rpy:719
 translate french d10p2s09_continue_945d60d4:
