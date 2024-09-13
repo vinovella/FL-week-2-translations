@@ -38,13 +38,13 @@ translate french d10p2s10_2335f3f0:
 translate french d10p2s10_f0003e97:
 
     # mc "Hey Squizzle. What's going on?"
-    mc "Salut Squizzle. Que se passe-t-il?"
+    mc "Salut Squizzle. Que se passe-t-il ?"
 
 # game/code/d10p2/d10p2s10.rpy:32
 translate french d10p2s10_901a24dd:
 
     # mesfl "Oh, the Party is just wrapping up. Most of the guests have gone home. You?"
-    mesfl "Oh, la fête vient juste de se terminer. La plupart des invités sont rentrés chez eux. Et Toi?"
+    mesfl "Oh, la fête vient juste de se terminer. La plupart des invités sont rentrés chez eux. Et Toi ?"
 
 # game/code/d10p2/d10p2s10.rpy:35
 translate french d10p2s10_88249c1e:
@@ -68,13 +68,13 @@ translate french d10p2s10_d46ff9a4:
 translate french d10p2s10_350b13d2:
 
     # mesfl "Don't misunderstand what we have here. You're dating Min's best friend."
-    mesfl "Ne te méprenes pas sur ce que nous avons ici. Tu sors avec le meilleur ami de Min."
+    mesfl "ne te méprends pas sur ce que nous avons ici. Tu sors avec le meilleur ami de Min."
 
 # game/code/d10p2/d10p2s10.rpy:55
 translate french d10p2s10_6dd5c660:
 
     # syfl "There he is!"
-    syfl "Le voilà!"
+    syfl "Le voilà !"
 
 # game/code/d10p2/d10p2s10.rpy:57
 translate french d10p2s10_9f7cd556:
@@ -104,7 +104,7 @@ translate french d10p2s10_55852ff5:
 translate french d10p2s10_5b2900a9:
 
     # syfl "It was awesome!"
-    syfl "C'était génial!"
+    syfl "C'était génial !"
 
 # game/code/d10p2/d10p2s10.rpy:69
 translate french d10p2s10_530f8e71:
@@ -146,7 +146,7 @@ translate french d10p2s10_23f714c8:
 translate french d10p2s10_5e66388a:
 
     # sy "Yes, mood killer! My hymen is just as intact as it was before the Party."
-    sy "Oui, tue l'humeur ! Mon hymen est aussi intact qu’avant la fête."
+    sy "Oui, rabat-joie ! Mon hymen est aussi intact qu’avant la fête."
 
 # game/code/d10p2/d10p2s10.rpy:90
 translate french d10p2s10_21e673d7:
@@ -188,7 +188,7 @@ translate french d10p2s10_9e65001e:
 translate french d10p2s10_af6cf4d6:
 
     # sy "No thanks! I want to enjoy my first night in my own bed."
-    sy "Non merci! Je veux profiter de ma première nuit dans mon propre lit."
+    sy "Non merci ! Je veux profiter de ma première nuit dans mon propre lit."
 
 # game/code/d10p2/d10p2s10.rpy:110
 translate french d10p2s10_5e03a744:
@@ -242,7 +242,7 @@ translate french d10p2s10_b4544e87:
 translate french d10p2s10_3656a527:
 
     # mc "You sure?"
-    mc "Tu es sûr?"
+    mc "Tu es sûr ?"
 
 # game/code/d10p2/d10p2s10.rpy:134
 translate french d10p2s10_434f4662:
