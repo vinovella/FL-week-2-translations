@@ -2,13 +2,13 @@
 translate french d10p2s08_42ace476:
 
     # mct "Damn. {w}She said I would feel more confident naked, but..."
-    mct "Merde. {w}Elle a dit que je me sentirais plus en confiance nue, mais..."
+    mct "Merde. {w}Elle a dit que je me sentirais plus en confiance nu, mais..."
 
 # game/code/d10p2/d10p2s08.rpy:31
 translate french d10p2s08_b991534f:
 
     # mct "Either things are different for women, or she expects me to have a 24/7 erection."
-    mct "Soit les choses sont différentes pour les femmes, soit elle s'attend à ce que j'aie une érection 24h/24 et 7j/7."
+    mct "Soit les choses sont différentes pour les femmes, soit elle s'attend à ce que j'ai une érection 24h/24 et 7j/7."
 
 # game/code/d10p2/d10p2s08.rpy:32
 translate french d10p2s08_b4551764:
@@ -44,7 +44,7 @@ translate french d10p2s08_ce641ccb:
 translate french d10p2s08_ee87e6f3:
 
     # mc "Oh?"
-    mc "Oh?"
+    mc "Oh ?"
 
 # game/code/d10p2/d10p2s08.rpy:52
 translate french d10p2s08_94efb0d0:
@@ -134,13 +134,13 @@ translate french d10p2s08_35ab8f09:
 translate french d10p2s08_2d2f2bd5:
 
     # lc "The rules - I'm not sure if I'm supposed to be jealous or not."
-    lc "Les règles – je ne sais pas si je suis censé être jaloux ou non."
+    lc "Les règles – je ne sais pas si je suis censée être jalouse ou non."
 
 # game/code/d10p2/d10p2s08.rpy:81
 translate french d10p2s08_c1a10b87:
 
     # lc "I mean, according to the rules I shouldn't be jealous, because I said I wouldn't be."
-    lc "Je veux dire, selon les règles, je ne devrais pas être jaloux, parce que j'ai dit que je ne le serais pas."
+    lc "Je veux dire, selon les règles, je ne devrais pas être jalouse, parce que j'ai dit que je ne le serais pas."
 
 # game/code/d10p2/d10p2s08.rpy:82
 translate french d10p2s08_e2babb55:
@@ -152,7 +152,7 @@ translate french d10p2s08_e2babb55:
 translate french d10p2s08_43090e47:
 
     # mc "So... are you jealous or not?"
-    mc "Alors...tu es jaloux ou pas ?"
+    mc "Alors...tu es jalouse ou pas ?"
 
 # game/code/d10p2/d10p2s08.rpy:86
 translate french d10p2s08_0bace671:
@@ -170,13 +170,13 @@ translate french d10p2s08_6d696924:
 translate french d10p2s08_4ac5680d:
 
     # lc "I don't know. You?"
-    lc "Je ne sais pas. Toi?"
+    lc "Je ne sais pas. Toi ?"
 
 # game/code/d10p2/d10p2s08.rpy:89
 translate french d10p2s08_50b680f2:
 
     # mc "Lydia, listen. I care about you. You believe that?"
-    mc "Lydia, écoute. Je me soucie de toi. Tu crois ça?"
+    mc "Lydia, écoute. Je me soucie de toi. Tu crois ça ?"
 
 # game/code/d10p2/d10p2s08.rpy:92
 translate french d10p2s08_c117bfaa:
@@ -188,13 +188,13 @@ translate french d10p2s08_c117bfaa:
 translate french d10p2s08_6bd4a674:
 
     # mc "So, I care whether you are feeling jealous or not, but I don't care whether you should be or not."
-    mc "Donc, je me soucie de savoir si tu te sentes jaloux ou non, mais je m'en fiche de savoir si tu doit l'être ou pas."
+    mc "Donc, je me soucie de savoir si tu te sens jalouse ou non, mais je m'en fiche de savoir si tu doit l'être ou pas."
 
 # game/code/d10p2/d10p2s08.rpy:94
 translate french d10p2s08_b50a2be6:
 
     # mc "Does that make sense?"
-    mc "Cela a-t-il du sens?"
+    mc "Cela a-t-il du sens ?"
 
 # game/code/d10p2/d10p2s08.rpy:95
 translate french d10p2s08_8355c76a:
@@ -206,13 +206,13 @@ translate french d10p2s08_8355c76a:
 translate french d10p2s08_2ae1cc5f:
 
     # lc "Like, will you think less of me and our relationship if I don't get jealous about this?"
-    lc "Genre, penseras-tu moins de moi et de notre relation si je ne suis pas jaloux de ça ?"
+    lc "Genre, penseras-tu moins de moi et de notre relation si je ne suis pas jalouse de ça ?"
 
 # game/code/d10p2/d10p2s08.rpy:98
 translate french d10p2s08_e699cd10:
 
     # lc "Or will it drive us apart if I do get jealous about this?"
-    lc "Ou est-ce que cela nous séparera si je deviens jaloux à ce sujet ?"
+    lc "Ou est-ce que cela nous séparera si je deviens jalouse à ce sujet ?"
 
 # game/code/d10p2/d10p2s08.rpy:99
 translate french d10p2s08_67b56329:
@@ -230,7 +230,7 @@ translate french d10p2s08_2f6655f9:
 translate french d10p2s08_44e2aeeb:
 
     # mc "Give me a second. {w}I'm trying to figure out how to say this."
-    mc "Donne-moi une seconde. {w}J'essaie de comprendre comment dire ça."
+    mc "Donne-moi une seconde. {w}J'essaie de voir comment dire ça."
 
 # game/code/d10p2/d10p2s08.rpy:105
 translate french d10p2s08_427fad1e:
@@ -242,19 +242,19 @@ translate french d10p2s08_427fad1e:
 translate french d10p2s08_16cf56e7:
 
     # lc "Huh?"
-    lc "Hein?"
+    lc "Hein ?"
 
 # game/code/d10p2/d10p2s08.rpy:107
 translate french d10p2s08_4177c4fa:
 
     # mc "You are perfect to me; and you are perfect for me. There is no part of me with second guesses."
-    mc "Tu es parfait pour moi. Aucune partie de moi n’a de doutes."
+    mc "Tu es parfaite pour moi. Aucune partie de moi n’a de doutes."
 
 # game/code/d10p2/d10p2s08.rpy:110
 translate french d10p2s08_846ab252:
 
     # mc "I literally, physically, emotionally, and in all other ways... {w}I am incapable of thinking that you could possibly be anything less than perfect for me."
-    mc "Littéralement, physiquement, émotionnellement et de toutes les autres manières...{w}Je suis incapable de penser que tu pourrais être quelque chose de moins que parfait pour moi."
+    mc "Littéralement, physiquement, émotionnellement et de toutes les autres manières...{w}Je suis incapable de penser que tu pourrais être quelque chose de moins que parfaite pour moi."
 
 # game/code/d10p2/d10p2s08.rpy:112
 translate french d10p2s08_8515f081:
@@ -284,7 +284,7 @@ translate french d10p2s08_7583e939:
 translate french d10p2s08_47b69fbd:
 
     # mct "Even knowing that I'd basically be leaving AmRose and Stacy stranded, and giving up on a million dollars?"
-    mct "Même en sachant que je laisserais AmRose et Stacy bloqués et que je renoncerais à un million de dollars ?"
+    mct "Même en sachant que je laisserais AmRose et Stacy bloquées et que je renoncerais à un million de dollars ?"
 
 # game/code/d10p2/d10p2s08.rpy:122
 translate french d10p2s08_156d1b0e:
@@ -320,7 +320,7 @@ translate french d10p2s08_bbd740a6_1:
 translate french d10p2s08_b293fead:
 
     # mc "If anything I say or do would cause you pain... {w}or risk our relationship together... {w}... I would do anything to avoid that."
-    mc "Si quelque chose que je dis ou fais te cause de la douleur...{w}ou risque notre relation ensemble...{w}...Je ferais n'importe quoi pour éviter cela."
+    mc "Si quelque chose que je dis ou fais te cause de la douleur...{w}ou met en péril notre relation ...{w}...Je ferais n'importe quoi pour éviter cela."
 
 # game/code/d10p2/d10p2s08.rpy:132
 translate french d10p2s08_9fda5a00:
@@ -344,25 +344,25 @@ translate french d10p2s08_634b198d:
 translate french d10p2s08_b04d2141:
 
     # lc "Let me finish. {w}On that same hand, I really enjoy hearing your stories about your sexual adventures."
-    lc "Laissez-moi finir. {w}De la même manière, j'aime vraiment entendre tes histoires sur tes aventures sexuelles."
+    lc "Laisse-moi finir. {w}De la même manière, j'aime vraiment entendre tes histoires sur tes aventures sexuelles."
 
 # game/code/d10p2/d10p2s08.rpy:138
 translate french d10p2s08_a31340dd:
 
     # mc "Really?"
-    mc "Vraiment?"
+    mc "Vraiment ?"
 
 # game/code/d10p2/d10p2s08.rpy:139
 translate french d10p2s08_bace1b36:
 
     # lc "Really. {w}I was attracted to you before, but there's just something about-"
-    lc "Vraiment. {w}J'étais attiré par toi avant, mais il y a juste quelque chose à propos de-"
+    lc "Vraiment. {w}J'étais attirée par toi avant, mais il y a juste quelque chose à propos de-"
 
 # game/code/d10p2/d10p2s08.rpy:140
 translate french d10p2s08_016bb478:
 
     # mc "About? {w}You kinda trailed off there."
-    mc "À propos de? {w}Tu t'es un peu éloigné du sujet."
+    mc "À propos de ? {w}Tu t'es un peu éloigné du sujet."
 
 # game/code/d10p2/d10p2s08.rpy:143
 translate french d10p2s08_05e9ae08:
@@ -410,7 +410,7 @@ translate french d10p2s08_4c9fb934:
 translate french d10p2s08_3877b344:
 
     # lc "I think I've just been a trophy to be won, and when they realized that I wouldn't put out, then the rest was inevitable."
-    lc "Je pense que j'étais juste un trophée à gagner, et quand ils ont compris que je ne reviendrais pas là-dessus, la suite était inévitable."
+    lc "Je pense que j'étais juste un trophé à gagner, et quand ils ont compris que je ne reviendrais pas là-dessus, la suite était inévitable."
 
 # game/code/d10p2/d10p2s08.rpy:155
 translate french d10p2s08_23f67d7d:
@@ -446,13 +446,13 @@ translate french d10p2s08_e1d16706:
 translate french d10p2s08_5f3824cb:
 
     # mc "Like you? {w}Lydia, you should realize something important here."
-    mc "Comme toi? {w}Lydia, tu devrais réaliser quelque chose d'important ici."
+    mc "Comme toi ? {w}Lydia, tu devrais réaliser quelque chose d'important ici."
 
 # game/code/d10p2/d10p2s08.rpy:173
 translate french d10p2s08_f85dfd95:
 
     # lc "What's that?"
-    lc "Qu'est ce que c'est?"
+    lc "Qu'est ce que c'est ?"
 
 # game/code/d10p2/d10p2s08.rpy:175
 translate french d10p2s08_83078e78:
@@ -560,7 +560,7 @@ translate french d10p2s08_aed2a9ac:
 translate french d10p2s08_45526ba1:
 
     # lc "Are you okay?"
-    lc "Tu es d'accord?"
+    lc "Tu es d'accord ?"
 
 # game/code/d10p2/d10p2s08.rpy:211
 translate french d10p2s08_baac7e9e:
@@ -590,19 +590,19 @@ translate french d10p2s08_f04cce78:
 translate french d10p2s08_c89ad3ee:
 
     # mc "Well, it's safe to say that I've cum more than once so far tonight."
-    mc "Eh bien, on peut dire sans se tromper que j'ai joui plus d'une fois jusqu'à présent ce soir."
+    mc "Eh bien, on peut dire sans se tromper que j'ai joui plus d'une fois ce soir."
 
 # game/code/d10p2/d10p2s08.rpy:222
 translate french d10p2s08_b0bc3719:
 
     # mc "Well, it's safe to say that I've cum at least once so far tonight."
-    mc "Eh bien, on peut dire sans se tromper que j'ai joui au moins une fois jusqu'à présent ce soir."
+    mc "Eh bien, on peut dire sans se tromper que j'ai joui au moins une fois ce soir."
 
 # game/code/d10p2/d10p2s08.rpy:225
 translate french d10p2s08_23717984:
 
     # lc "Cum? You mean, you had orgasms? Or does that mean you ejaculated."
-    lc "joui? Tu veux dire, tu as eu des orgasmes ? Ou est-ce que ça veut dire que tu as éjaculé."
+    lc "joui ? Tu veux dire, tu as eu des orgasmes ? Ou est-ce que ça veut dire que tu as éjaculé."
 
 # game/code/d10p2/d10p2s08.rpy:226
 translate french d10p2s08_6ad229c1:
@@ -626,7 +626,7 @@ translate french d10p2s08_e5c21743:
 translate french d10p2s08_de770e09:
 
     # mc "I think so?"
-    mc "Je pense que oui?"
+    mc "Je pense que oui ?"
 
 # game/code/d10p2/d10p2s08.rpy:233
 translate french d10p2s08_b4761b00:
@@ -650,7 +650,7 @@ translate french d10p2s08_11b77c6a:
 translate french d10p2s08_a05338dd:
 
     # mc "Not really. I either cum or I don't. I haven't broken it down into separate components."
-    mc "Pas vraiment. Soit je jouis, soit je ne jouis pas. Je ne l'ai pas divisé en composants distincts."
+    mc "Pas vraiment. Soit je jouis, soit je ne jouis pas. Je ne l'ai pas divisé en deux choses distinctes."
 
 # game/code/d10p2/d10p2s08.rpy:240
 translate french d10p2s08_d07ace23:
@@ -680,19 +680,19 @@ translate french d10p2s08_e28ded28:
 translate french d10p2s08_fcf45ba9:
 
     # lc "I promise not to be jealous."
-    lc "Je promets de ne pas être jaloux."
+    lc "Je promets de ne pas être jalouse."
 
 # game/code/d10p2/d10p2s08.rpy:248
 translate french d10p2s08_21104677:
 
     # mc "Prove it."
-    mc "Prouve le."
+    mc "Prouve-le."
 
 # game/code/d10p2/d10p2s08.rpy:251
 translate french d10p2s08_4a6fc931:
 
     # lc "Okay, I will. {w}Tell me about something tonight and I'll prove that I'm not jealous."
-    lc "D'accord. {w}Parlez-moi de quelque chose ce soir et je prouverai que je ne suis pas jaloux."
+    lc "D'accord. {w}Parle-moi de quelque chose ce soir et je prouverai que je ne suis pas jalouse."
 
 # game/code/d10p2/d10p2s08.rpy:252
 translate french d10p2s08_670c568c:
@@ -716,19 +716,19 @@ translate french d10p2s08_7356e81b:
 translate french d10p2s08_c374725f:
 
     # mc "Something to prove that you're not jealous and still trust me."
-    mc "Quelque chose pour prouver que tu n'es pas jaloux et que tu me fais toujours confiance."
+    mc "Quelque chose pour prouver que tu n'es pas jalouse et que tu me fais toujours confiance."
 
 # game/code/d10p2/d10p2s08.rpy:259
 translate french d10p2s08_8a81a357:
 
     # lc "Oh, really?"
-    lc "Oh vraiment?"
+    lc "Oh vraiment ?"
 
 # game/code/d10p2/d10p2s08.rpy:260
 translate french d10p2s08_218cc949:
 
     # mc "Is that too much to ask? {w}Wouldn't that prove that you're not jealous, not angry at me, and want to keep my attention?"
-    mc "Est-ce trop demander ? {w}Cela ne prouverait-il pas que tu n'es pas jaloux, que tu n'es pas en colère contre moi et que tu souhaites garder mon attention ?"
+    mc "Est-ce trop demander ? {w}Cela ne prouverait-il pas que tu n'es pas jalouse, que tu n'es pas en colère contre moi et que tu souhaites garder mon attention ?"
 
 # game/code/d10p2/d10p2s08.rpy:263
 translate french d10p2s08_67ca84a7:
@@ -794,7 +794,7 @@ translate french d10p2s08_aw_part1_e66e52e8:
 translate french d10p2s08_aw_part1_f6165728:
 
     # lc "With Min? We've been besties since childhood."
-    lc "Avec Min ? Nous sommes meilleurs amis depuis l'enfance."
+    lc "Avec Min ? Nous sommes meilleures amies depuis l'enfance."
 
 # game/code/d10p2/d10p2s08.rpy:323
 translate french d10p2s08_aw_part1_e7dfc78e:
@@ -806,7 +806,7 @@ translate french d10p2s08_aw_part1_e7dfc78e:
 translate french d10p2s08_aw_part1_334d06af:
 
     # lc "Oh, no. We're friends by proxy, but really just kinda acquaintances."
-    lc "Oh non. Nous sommes amis par procuration, mais en réalité, ce sont juste des connaissances."
+    lc "Oh non. Nous sommes amies par procuration, mais en réalité, c'est juste une connaissance."
 
 # game/code/d10p2/d10p2s08.rpy:327
 translate french d10p2s08_aw_part1_2e811485:
@@ -860,7 +860,7 @@ translate french d10p2s08_cl_part1_8d0a3934:
 translate french d10p2s08_cl_part1_896a3304:
 
     # lc "It's okay. I'm prepared. {w}Nothing you could say could shock me."
-    lc "C'est bon. Je suis préparé. {w}Rien de ce que tu pourais dire ne pourrait me choquer."
+    lc "C'est bon. Je suis préparée. {w}Rien de ce que tu pourais dire ne pourrait me choquer."
 
 # game/code/d10p2/d10p2s08.rpy:349
 translate french d10p2s08_cl_part1_a1c662e6:
@@ -884,13 +884,13 @@ translate french d10p2s08_cl_part1_182f1a6e:
 translate french d10p2s08_cl_part1_b0a28448:
 
     # lc "Dude?! She's one of my close friends."
-    lc "Mec?! C'est une de mes amies proches."
+    lc "Mec ?! C'est une de mes amies proches."
 
 # game/code/d10p2/d10p2s08.rpy:357
 translate french d10p2s08_cl_part1_f2f9d1cd:
 
     # mc "Shit. Do you hate me?"
-    mc "Merde. Me hais-tu?"
+    mc "Merde. Me hais-tu ?"
 
 # game/code/d10p2/d10p2s08.rpy:360
 translate french d10p2s08_cl_part1_8b5e105b:
@@ -902,25 +902,25 @@ translate french d10p2s08_cl_part1_8b5e105b:
 translate french d10p2s08_cl_part1_b2aba0e3:
 
     # mc "Like what?"
-    mc "Comme quoi?"
+    mc "Comme quoi ?"
 
 # game/code/d10p2/d10p2s08.rpy:364
 translate french d10p2s08_cl_part1_a68e7dff:
 
     # lc "I don't know, like you had sex outdoors, or went to the back door... not that you slept with someone I know."
-    lc "Je ne sais pas, comme si tu avais fait l'amour dehors, ou si tu étais allé par la porte arrière...pas que tu aies couché avec quelqu'un que je connais."
+    lc "Je ne sais pas, comme si tu avais fait l'amour dehors, ou que tu avais baisé par arrière ... pas que tu aies couché avec quelqu'un que je connais."
 
 # game/code/d10p2/d10p2s08.rpy:365
 translate french d10p2s08_cl_part1_c14c584c:
 
     # mc "Well..."
-    mc "Et Bien..."
+    mc "Et Bien ..."
 
 # game/code/d10p2/d10p2s08.rpy:367
 translate french d10p2s08_cl_part1_5954cad8:
 
     # lc "Well?! What do you mean, \"Well\"?!"
-    lc "Et Bien?! Que veux-tu dire par \"Et bien\"?!"
+    lc "Et Bien ?! Que veux-tu dire par \"Et bien\"?!"
 
 # game/code/d10p2/d10p2s08.rpy:373
 translate french d10p2s08_mh_part1_e3a0e5bc:
@@ -962,7 +962,7 @@ translate french d10p2s08_mh_part1_03ad7afa:
 translate french d10p2s08_mh_part1_98bcc197:
 
     # mc "But?"
-    mc "Mais?"
+    mc "Mais ?"
 
 # game/code/d10p2/d10p2s08.rpy:387
 translate french d10p2s08_mh_part1_bc890ad2:
@@ -974,7 +974,7 @@ translate french d10p2s08_mh_part1_bc890ad2:
 translate french d10p2s08_mh_part1_b2aba0e3:
 
     # mc "Like what?"
-    mc "Comme quoi?"
+    mc "Comme quoi ?"
 
 # game/code/d10p2/d10p2s08.rpy:390
 translate french d10p2s08_mh_part1_84a7ce3a:
@@ -1040,13 +1040,13 @@ translate french d10p2s08_tm_part1_6abf0f80:
 translate french d10p2s08_tm_part1_11455b53:
 
     # mc "What?"
-    mc "Quoi?"
+    mc "Quoi ?"
 
 # game/code/d10p2/d10p2s08.rpy:415
 translate french d10p2s08_tm_part1_15c726d4:
 
     # lc "Mah Nà Mah Nà!"
-    lc "Mah Nà Mah Nà!"
+    lc "Mah Nà Mah Nà !"
 
 # game/code/d10p2/d10p2s08.rpy:416
 translate french d10p2s08_tm_part1_c14aacbc:
@@ -1076,7 +1076,7 @@ translate french d10p2s08_tm_part1_59836a33:
 translate french d10p2s08_dw_part1_4d2fd69f:
 
     # mc "Do you trust me?"
-    mc "Me fais-tu confiance?"
+    mc "Me fais-tu confiance ?"
 
 # game/code/d10p2/d10p2s08.rpy:432
 translate french d10p2s08_dw_part1_1518d02d:
@@ -1106,13 +1106,13 @@ translate french d10p2s08_dw_part1_1d130707:
 translate french d10p2s08_dw_part1_513204ac:
 
     # mc "No! Definitely not. {w}I'm just worried you might think less of me..."
-    mc "Non! Définitivement pas. {w}J'ai juste peur que tu penses moins de moi..."
+    mc "Non! Absolument pas. {w}J'ai juste peur que tu penses moins à moi..."
 
 # game/code/d10p2/d10p2s08.rpy:440
 translate french d10p2s08_dw_part1_38ee88b2:
 
     # lc "I don't understand. What are you trying to tell me?"
-    lc "Je ne comprends pas. Qu'est-ce que tu essayes de me dire?"
+    lc "Je ne comprends pas. Qu'est-ce que tu essayes de me dire ?"
 
 # game/code/d10p2/d10p2s08.rpy:441
 translate french d10p2s08_dw_part1_b7ae6748:
@@ -1142,7 +1142,7 @@ translate french d10p2s08_dw_part1_7e419cf5:
 translate french d10p2s08_dw_part1_265cc565:
 
     # mc "I hope you don't think less of me."
-    mc "J'espère que vous ne pensez pas moins à moi."
+    mc "J'espère que tu ne penses pas moins à moi."
 
 # game/code/d10p2/d10p2s08.rpy:452
 translate french d10p2s08_dw_part1_864e84b0:
@@ -1166,7 +1166,7 @@ translate french d10p2s08_dd_part1_9c31692a:
 translate french d10p2s08_dd_part1_cb617cfa:
 
     # lc "I don't know? At the beginning?"
-    lc "Je ne sais pas? Au début?"
+    lc "Je ne sais pas ? Au début ?"
 
 # game/code/d10p2/d10p2s08.rpy:463
 translate french d10p2s08_dd_part1_0d65bbef:
@@ -1178,13 +1178,13 @@ translate french d10p2s08_dd_part1_0d65bbef:
 translate french d10p2s08_dd_part1_92989312:
 
     # lc "What does that mean? Sounds disgusting."
-    lc "Qu'est-ce que cela signifie? Cela semble dégoûtant."
+    lc "Qu'est-ce que cela signifie ? Cela semble dégoûtant."
 
 # game/code/d10p2/d10p2s08.rpy:467
 translate french d10p2s08_dd_part1_39e6f156:
 
     # mc "It's a BDSM room, but you don't know if you're going to be dominated or submitting until you get in there."
-    mc "C'est une salle BDSM, mais vous ne savez pas si vous allez être dominé ou soumis jusqu'à ce que vous y entriez."
+    mc "C'est une salle BDSM, mais tu ne sais pas si tu vas être dominé ou soumis jusqu'à ce que tu y entres."
 
 # game/code/d10p2/d10p2s08.rpy:470
 translate french d10p2s08_dd_part1_aed8461a:
@@ -1220,25 +1220,25 @@ translate french d10p2s08_dd_part1_5dae87c9:
 translate french d10p2s08_dd_part1_a6be913e:
 
     # mc "So?"
-    mc "Donc?"
+    mc "Donc ?"
 
 # game/code/d10p2/d10p2s08.rpy:482
 translate french d10p2s08_dd_part1_99e6d468:
 
     # lc "So, like, at a sex party... room full of unprotected sex, with the chances of STDs or pregnancy?"
-    lc "Alors, comme lors d'une soirée sexe...une salle pleine de rapports sexuels non protégés, avec des risques de MST ou de grossesse ?"
+    lc "Alors, comme lors d'une soirée sexe ... une salle pleine de rapports sexuels non protégés, avec des risques de MST ou de grossesse ?"
 
 # game/code/d10p2/d10p2s08.rpy:483
 translate french d10p2s08_dd_part1_6322f5f0:
 
     # mc "No! Definitely not."
-    mc "Non! Définitivement pas."
+    mc "Non ! Définitivement pas."
 
 # game/code/d10p2/d10p2s08.rpy:484
 translate french d10p2s08_dd_part1_4fa50cda:
 
     # lc "I mean, it'd be low risk if you're up on all your vaccines and-"
-    lc "Je veux dire, ce serait faible si tu étais au courant de tous tes vaccins et..."
+    lc "Je veux dire, le risque est faible si tu es à jour dans tous tes vaccins et..."
 
 # game/code/d10p2/d10p2s08.rpy:490
 translate french d10p2s08_jf_part1_4f295302:
@@ -1352,7 +1352,7 @@ translate french d10p2s08_arj_part1_aad3f0f9:
 translate french d10p2s08_arj_part1_e53c735e:
 
     # lc "You've had some fun tonight, haven't you?"
-    lc "Vous vous êtes bien amusé ce soir, n'est-ce pas ?"
+    lc "Tu t'es bien amusé ce soir, n'est-ce pas ?"
 
 # game/code/d10p2/d10p2s08.rpy:530
 translate french d10p2s08_arj_part1_7174a36b:
@@ -1382,7 +1382,7 @@ translate french d10p2s08_part2_d0f2ac6d:
 translate french d10p2s08_part2_b2b9e19d:
 
     # mc "What do you mean?"
-    mc "Que veux-tu dire?"
+    mc "Que veux-tu dire ?"
 
 # game/code/d10p2/d10p2s08.rpy:548
 translate french d10p2s08_part2_f39c71a0:
@@ -1412,19 +1412,19 @@ translate french d10p2s08_part2_860626d0:
 translate french d10p2s08_part2_e85103c4:
 
     # lc "No!{w} I mean, no. Please continue."
-    lc "Non !{w} Je veux dire, non. Continue s'il vous plaît."
+    lc "Non !{w} Je veux dire, non. Continue s'il te plaîs."
 
 # game/code/d10p2/d10p2s08.rpy:557
 translate french d10p2s08_part2_cfce055e:
 
     # mc "Are you sure?"
-    mc "Es-tu sûr?"
+    mc "Es-tu sûr ?"
 
 # game/code/d10p2/d10p2s08.rpy:560
 translate french d10p2s08_part2_2e74387c:
 
     # lc "Yes, I'm certain. I want to hear more."
-    lc "Oui, j'en suis certain. Je veux en savoir plus."
+    lc "Oui, j'en suis certaine. Je veux en savoir plus."
 
 # game/code/d10p2/d10p2s08.rpy:561
 translate french d10p2s08_part2_84f16542:
@@ -1454,7 +1454,7 @@ translate french d10p2s08_aw_part3_765219bd:
 translate french d10p2s08_aw_part3_7dc663e5:
 
     # mc "I think she wanted people to see us. You know what she does for a living, right?"
-    mc "Je pense qu'elle voulait que les gens nous voient. Vous savez ce qu'elle fait dans la vie, n'est-ce pas ?"
+    mc "Je pense qu'elle voulait que les gens nous voient. Tu sais ce qu'elle fait dans la vie, n'est-ce pas ?"
 
 # game/code/d10p2/d10p2s08.rpy:596
 translate french d10p2s08_aw_part3_96e8ed3a:
@@ -1508,19 +1508,19 @@ translate french d10p2s08_aw_part3_399fa741:
 translate french d10p2s08_aw_part3_67dc2863:
 
     # lc "No kidding?!"
-    lc "Sans blague?!"
+    lc "Sans blague ?!"
 
 # game/code/d10p2/d10p2s08.rpy:621
 translate french d10p2s08_aw_part3_efc00b62:
 
     # mc "Apparently, she can basically cum on command. I would've guessed that she was faking it, but we have these fitness trackers that record our heart rates and such."
-    mc "Apparemment, elle peut jouir sur commande. J'aurais deviné qu'elle faisait semblant, mais nous avons ces trackers de fitness qui enregistrent notre fréquence cardiaque et autres."
+    mc "Apparemment, elle peut jouir sur commande. J'aurais pensé qu'elle faisait semblant, mais nous avons ces trackers de fitness qui enregistrent notre fréquence cardiaque et autres."
 
 # game/code/d10p2/d10p2s08.rpy:626
 translate french d10p2s08_aw_part3_6558b405:
 
     # lc "I'm somewhere between envious and terrified at the idea of that."
-    lc "Je suis quelque part entre envieux et terrifié à l'idée de ça."
+    lc "Je suis quelque part entre envieuse et terrifiée à l'idée de ça."
 
 # game/code/d10p2/d10p2s08.rpy:630
 translate french d10p2s08_aw_part3_febb782a:
@@ -1544,7 +1544,7 @@ translate french d10p2s08_aw_part3_b97a3411:
 translate french d10p2s08_aw_part3_8458ca18:
 
     # mc "Allison and I ignored her and kept masturbating each other as they walked by..."
-    mc "Allison et moi l'avons ignorée et avons continué à nous masturber pendant qu'ils passaient..."
+    mc "Allison et moi l'avons ignoré et avons continué à nous masturber pendant qu'ils passaient..."
 
 # game/code/d10p2/d10p2s08.rpy:647
 translate french d10p2s08_cl_part3_8762c772:
@@ -1556,7 +1556,7 @@ translate french d10p2s08_cl_part3_8762c772:
 translate french d10p2s08_cl_part3_e07bd2e7:
 
     # lc "You're serious?"
-    lc "T'es sérieux?"
+    lc "T'es sérieux ?"
 
 # game/code/d10p2/d10p2s08.rpy:652
 translate french d10p2s08_cl_part3_68797e0d:
@@ -1592,7 +1592,7 @@ translate french d10p2s08_cl_part3_df638fe9:
 translate french d10p2s08_cl_part3_c9a10ab4:
 
     # lc "Are you saying-"
-    lc "Êtes-vous en train de dire-"
+    lc "Es-tu en train de dire-"
 
 # game/code/d10p2/d10p2s08.rpy:667
 translate french d10p2s08_cl_part3_963236c9:
@@ -1604,7 +1604,7 @@ translate french d10p2s08_cl_part3_963236c9:
 translate french d10p2s08_cl_part3_052a0a5e:
 
     # lc "Woah! Really?"
-    lc "Waouh ! Vraiment?"
+    lc "Waouh ! Vraiment ?"
 
 # game/code/d10p2/d10p2s08.rpy:674
 translate french d10p2s08_cl_part3_6637fff4:
@@ -1616,19 +1616,19 @@ translate french d10p2s08_cl_part3_6637fff4:
 translate french d10p2s08_cl_part3_309e99a2:
 
     # mc "You know that little outdoor shower?"
-    mc "Vous connaissez cette petite douche extérieure ?"
+    mc "Tu connais ces petites douches extérieures ?"
 
 # game/code/d10p2/d10p2s08.rpy:683
 translate french d10p2s08_cl_part3_0c38c0b6:
 
     # lc "The one for people to wash the chlorine off when they use the pool, before they come back inside?"
-    lc "Celui qui permet aux gens d'éliminer le chlore lorsqu'ils utilisent la piscine, avant d'y retourner ?"
+    lc "Celle qui permet aux gens d'éliminer le chlore lorsqu'ils utilisent la piscine, avant d'y retourner ?"
 
 # game/code/d10p2/d10p2s08.rpy:687
 translate french d10p2s08_cl_part3_48c3c6fd:
 
     # mc "That's the one. Cynthia stepped into that shower and spread her ass for me."
-    mc "C'est celui-là. Cynthia est entrée dans la douche et a écarté ses fesses pour moi."
+    mc "C'est çà. Cynthia est entrée dans la douche et a écarté ses fesses pour moi."
 
 # game/code/d10p2/d10p2s08.rpy:691
 translate french d10p2s08_cl_part3_cf122cf1:
@@ -1652,7 +1652,7 @@ translate french d10p2s08_mh_part3_46bbbfcf:
 translate french d10p2s08_mh_part3_006b2c13:
 
     # lc "How does that work?"
-    lc "Comment ça marche?"
+    lc "Comment ça marche ?"
 
 # game/code/d10p2/d10p2s08.rpy:705
 translate french d10p2s08_mh_part3_601a5d84:
@@ -1664,7 +1664,7 @@ translate french d10p2s08_mh_part3_601a5d84:
 translate french d10p2s08_mh_part3_4576a09c:
 
     # lc "Did you find your special person?"
-    lc "As-tu trouvé ta personne spéciale?"
+    lc "As-tu trouvé ta personne spéciale ?"
 
 # game/code/d10p2/d10p2s08.rpy:709
 translate french d10p2s08_mh_part3_35647414:
@@ -1694,13 +1694,13 @@ translate french d10p2s08_mh_part3_cfc2f32a:
 translate french d10p2s08_mh_part3_20d947bf:
 
     # lc "Please tell me it was Lyssa."
-    lc "S'il vous plaît, dites-moi que c'était Lyssa."
+    lc "S'il te plaît, dis-moi que c'était Lyssa."
 
 # game/code/d10p2/d10p2s08.rpy:720
 translate french d10p2s08_mh_part3_2f95b562:
 
     # mc "Because you find her attractive or because you don't want it to be Squizzle?"
-    mc "Parce que vous la trouvez attirante ou parce que vous ne voulez pas que ce soit Squizzle ?"
+    mc "Parce que tu la trouvez attirante ou parce que tu ne veux pas que ce soit Squizzle ?"
 
 # game/code/d10p2/d10p2s08.rpy:721
 translate french d10p2s08_mh_part3_1b5a97d9:
@@ -1712,7 +1712,7 @@ translate french d10p2s08_mh_part3_1b5a97d9:
 translate french d10p2s08_mh_part3_5407d716:
 
     # mc "Well, you're right. It was Lyssa."
-    mc "Eh bien, vous avez raison. C'était Lyssa."
+    mc "Eh bien, tu as raison. C'était Lyssa."
 
 # game/code/d10p2/d10p2s08.rpy:727
 translate french d10p2s08_mh_part3_6db0b50e:
@@ -1736,7 +1736,7 @@ translate french d10p2s08_mh_part3_7fe4784a:
 translate french d10p2s08_mh_part3_4c467c98:
 
     # mc "Yes, but also... just for fun. Is that okay?"
-    mc "Oui, mais aussi...juste pour le plaisir. Est-ce OK?"
+    mc "Oui, mais aussi...juste pour le plaisir. Est-ce OK ?"
 
 # game/code/d10p2/d10p2s08.rpy:740
 translate french d10p2s08_mh_part3_8ca6f686:
@@ -1760,19 +1760,19 @@ translate french d10p2s08_mh_part3_5814c2c5:
 translate french d10p2s08_mh_part3_399e035e:
 
     # mc "She's amazing at giving head. She knows her way around a cock in a way- {w}Well, I've never met anyone as talented as she is."
-    mc "Elle est incroyable pour sucer. Elle s'y connaît en quelque sorte avec une bite...{w}Eh bien, je n'ai jamais rencontré quelqu'un d'aussi talentueux qu'elle."
+    mc "Elle est incroyable pour sucer. Elle s'y connaît en quelque sorte en bite...{w}Eh bien, je n'ai jamais rencontré quelqu'un d'aussi talentueux qu'elle."
 
 # game/code/d10p2/d10p2s08.rpy:750
 translate french d10p2s08_mh_part3_c3c0ebe8:
 
     # mc "But this time, she undressed and spread herself out on the bed waiting for me to plunder her back passage."
-    mc "Mais cette fois, elle s'est déshabillée et s'est étalée sur le lit en attendant que je lui pille son passage arrière."
+    mc "Mais cette fois, elle s'est déshabillée et s'est étalée sur le lit en attendant que je lui pile son passage arrière."
 
 # game/code/d10p2/d10p2s08.rpy:754
 translate french d10p2s08_mh_part3_afa95f8d:
 
     # mc "We took it very slow, savoring every minute, and by the time I fully penetrated her we were both ready to explode."
-    mc "Nous l'avons pris très lentement, savourant chaque minute, et au moment où je l'ai complètement pénétrée, nous étions tous les deux prêts à exploser."
+    mc "Nous l'avons prise très lentement, savourant chaque minute, et au moment où je l'ai complètement pénétrée, nous étions tous les deux prêts à exploser."
 
 # game/code/d10p2/d10p2s08.rpy:759
 translate french d10p2s08_mh_part3_6ac5ff14:
@@ -1850,13 +1850,13 @@ translate french d10p2s08_tm_part3_4975e668:
 translate french d10p2s08_tm_part3_49b0ae75:
 
     # lc "Did you drop some acid or something?"
-    lc "Tu as laissé tomber de l'acide ou quoi ?"
+    lc "Tu as pris de l'acide ou quoi ?"
 
 # game/code/d10p2/d10p2s08.rpy:801
 translate french d10p2s08_tm_part3_8f530e94:
 
     # mc "I was wondering that too, because next thing I knew I was sinking into the water and the pool was like the size of an ocean."
-    mc "Je me le demandais aussi, car la prochaine chose que je savais, c'était que je m'enfonçais dans l'eau et que la piscine avait la taille d'un océan."
+    mc "Je me le demande aussi, car la suite des choses furent que je m'enfonçais dans l'eau et que la piscine avait la taille d'un océan."
 
 # game/code/d10p2/d10p2s08.rpy:803
 translate french d10p2s08_tm_part3_09b48071:
@@ -1874,19 +1874,19 @@ translate french d10p2s08_tm_part3_f59a89e9:
 translate french d10p2s08_tm_part3_2f4a1e96:
 
     # lc "Who was it?"
-    lc "Qui était-ce?"
+    lc "Qui était-ce ?"
 
 # game/code/d10p2/d10p2s08.rpy:809
 translate french d10p2s08_tm_part3_84a374db:
 
     # mc "I forget her name. I think it was Talia? I'm not sure if that's her real name or username."
-    mc "J'oublie son nom. Je pense que c'était Talia ? Je ne sais pas si c'est son vrai nom ou son nom d'utilisateur."
+    mc "J'ai oublié son nom. Je pense que c'était Talia ? Je ne sais pas si c'est son vrai nom ou son nom d'utilisateur."
 
 # game/code/d10p2/d10p2s08.rpy:810
 translate french d10p2s08_tm_part3_6a7837a6:
 
     # mc "I climbed up onto the ship and stood before her. That's when I realized I was naked."
-    mc "Je suis monté sur le navire et me suis tenu devant elle. C'est à ce moment-là que j'ai réalisé que j'étais nue."
+    mc "Je suis monté sur le navire et me suis tenu devant elle. C'est à ce moment-là que j'ai réalisé que j'étais nu."
 
 # game/code/d10p2/d10p2s08.rpy:812
 translate french d10p2s08_tm_part3_acb838f3:
@@ -1958,7 +1958,7 @@ translate french d10p2s08_dw_part3_b391f5b4:
 translate french d10p2s08_dw_part3_6f279e8c:
 
     # lc "So, you were basically tied-up face-down, with your penis and... {w}your anus on full display?"
-    lc "Donc, vous étiez essentiellement ligoté face contre terre, avec votre pénis et...{w} votre anus bien visible ?"
+    lc "Donc, tu étais ligoté face contre terre, avec ton pénis et...{w} ton anus bien visible ?"
 
 # game/code/d10p2/d10p2s08.rpy:853
 translate french d10p2s08_dw_part3_5f9285bd:
@@ -1982,13 +1982,13 @@ translate french d10p2s08_dw_part3_92fcd23d:
 translate french d10p2s08_dw_part3_d6c28a21:
 
     # mc "I was almost thankful when it turned out to be my Mistress. Then I remembered that she can be somewhat... {w}scary."
-    mc "J'étais presque reconnaissant quand il s'est avéré que c'était ma maîtresse. Puis je me suis souvenu qu'elle pouvait être un peu...{w}effrayante."
+    mc "J'étais presque reconnaissant quand il s'est avéré que c'était ma Maîtresse. Puis je me suis souvenu qu'elle pouvait être un peu...{w}effrayante."
 
 # game/code/d10p2/d10p2s08.rpy:863
 translate french d10p2s08_dw_part3_b3b0b7da:
 
     # lc "I don't think you've told me about your Mistress."
-    lc "Je ne pense pas que tu m'as parlé de ta maîtresse."
+    lc "Je ne pense pas que tu m'as parlé de ta Maîtresse."
 
 # game/code/d10p2/d10p2s08.rpy:867
 translate french d10p2s08_dw_part3_1d7bd82c:
@@ -2012,7 +2012,7 @@ translate french d10p2s08_dw_part3_c98ae7a9:
 translate french d10p2s08_dw_part3_b72af981:
 
     # mc "Then she proceeded to beat my ass red."
-    mc "Puis elle a commencé à me battre le cul en rouge."
+    mc "Puis elle a commencé à me battre le cul au rouge."
 
 # game/code/d10p2/d10p2s08.rpy:885
 translate french d10p2s08_dw_part3_cb16c600:
@@ -2042,7 +2042,7 @@ translate french d10p2s08_dw_part3_83af1e88:
 translate french d10p2s08_dd_part3_b663fcc3:
 
     # mc "So, I stepped into the room and DoubleD was bound doggystyle facing away from me."
-    mc "Alors, je suis entré dans la pièce et DoubleD était attaché en levrette, face à moi."
+    mc "Alors, je suis entré dans la pièce et DoubleD était attachée en levrette, face à moi."
 
 # game/code/d10p2/d10p2s08.rpy:905
 translate french d10p2s08_dd_part3_cf01f117:
@@ -2078,7 +2078,7 @@ translate french d10p2s08_dd_part3_edb2aaac:
 translate french d10p2s08_dd_part3_5e0896e1:
 
     # lc "Instruments? What do you mean?"
-    lc "Instruments? Que veux-tu dire?"
+    lc "Instruments ? Que veux-tu dire ?"
 
 # game/code/d10p2/d10p2s08.rpy:920
 translate french d10p2s08_dd_part3_a30d0a90:
@@ -2090,13 +2090,13 @@ translate french d10p2s08_dd_part3_a30d0a90:
 translate french d10p2s08_dd_part3_9a57fedd:
 
     # lc "Ah, I think you meant implements."
-    lc "Ah, je pense que tu voulais dire des outils."
+    lc "Ah, je pense que tu voulais dire des ustensils."
 
 # game/code/d10p2/d10p2s08.rpy:924
 translate french d10p2s08_dd_part3_9679c8c4:
 
     # mc "Correct. Implements of pleasure and pain."
-    mc "Correct. Des instruments de plaisir et de douleur."
+    mc "Correct. Des ustensils de plaisir et de douleur."
 
 # game/code/d10p2/d10p2s08.rpy:929
 translate french d10p2s08_dd_part3_87a9b000:
@@ -2138,13 +2138,13 @@ translate french d10p2s08_dd_part3_5e2fed4d:
 translate french d10p2s08_dd_part3_4cd9147e:
 
     # mc "After burning her ass red she was begging me to fuck her."
-    mc "Après s'être brûlé le cul en rouge, elle me suppliait de la baiser."
+    mc "Après s'être fait brûlé le cul en rouge, elle me suppliait de la baiser."
 
 # game/code/d10p2/d10p2s08.rpy:955
 translate french d10p2s08_dd_part3_c5ba1368:
 
     # mc "Her outfit was designed for easy access, so I didn't even have to unbind her before I stuck my cock deep inside her warm, inviting pussy."
-    mc "Sa tenue était conçue pour être facile d'accès, si bien que je n'ai même pas eu besoin de la détacher avant d'enfoncer ma bite au plus profond de sa chatte chaude et invitante"
+    mc "Sa tenue était conçue pour être facile d'accès, si bien que je n'ai même pas eu besoin de la détacher avant d'enfoncer ma bite au plus profond de sa chatte chaude et humide."
 
 # game/code/d10p2/d10p2s08.rpy:961
 translate french d10p2s08_jf_part3_b49a9044:
@@ -2156,13 +2156,13 @@ translate french d10p2s08_jf_part3_b49a9044:
 translate french d10p2s08_jf_part3_4dc101f1:
 
     # lc "Aren't jockeys for full sized real horses like half your size? Who was your horse???"
-    lc "Les jockeys pour vrais chevaux de taille normale ne font-ils pas la moitié de votre taille ? Qui était ton cheval ???"
+    lc "Les jockeys, les vrais, pour les chevaux de taille normale, ne font-ils pas la moitié de ta taille ? Qui était ton cheval ???"
 
 # game/code/d10p2/d10p2s08.rpy:966
 translate french d10p2s08_jf_part3_010f7e48:
 
     # mc "URLittlePony. Cute girl. Does cosplay. She made her own horse costume with hooves and everything."
-    mc "URLPetitPony. Jolie fille. Fait du cosplay. Elle a confectionné son propre costume de cheval avec des sabots et tout."
+    mc "URLPetitPony. Jolie fille. Qui fait du cosplay. Elle a confectionné son propre costume de cheval avec des sabots et tout."
 
 # game/code/d10p2/d10p2s08.rpy:969
 translate french d10p2s08_jf_part3_14e8620e:
@@ -2318,7 +2318,7 @@ translate french d10p2s08_cl_part5_f7feac20:
 translate french d10p2s08_cl_part5_4fadbf48:
 
     # mc "I could either creampie her dirty asshole or she could clean my cock with her mouth..."
-    mc "Je pourrais soit crémer son sale trou du cul, soit elle pourrait nettoyer ma bite avec sa bouche..."
+    mc "Je pouvais soit crémer son sale trou du cul, soit elle pouvait nettoyer ma bite avec sa bouche..."
 
 # game/code/d10p2/d10p2s08.rpy:1094
 translate french d10p2s08_mh_part5_9e70f021:
@@ -2384,7 +2384,7 @@ translate french d10p2s08_tm_part5_5506694a:
 translate french d10p2s08_dw_part5_06d98cb2:
 
     # mc "Where was I? Oh yeah."
-    mc "Où étais-je? Oh ouais."
+    mc "Où étais-je ? Oh ouais."
 
 # game/code/d10p2/d10p2s08.rpy:1127
 translate french d10p2s08_dw_part5_1422c373:
@@ -2420,7 +2420,7 @@ translate french d10p2s08_dw_part5_0178cab7:
 translate french d10p2s08_dw_part5_93282b67:
 
     # mc "The next thing I knew I was alone in the room and then Squizzle was undoing my bindings."
-    mc "La prochaine chose que j'ai su, c'est que j'étais seul dans la pièce, puis Squizzle était en train de défaire mes attaches."
+    mc "La prochaine chose que j'ai vu, c'est que j'étais seul dans la pièce, puis Squizzle était en train de défaire mes attaches."
 
 # game/code/d10p2/d10p2s08.rpy:1145
 translate french d10p2s08_dd_part5_f80050e4:
@@ -2438,7 +2438,7 @@ translate french d10p2s08_dd_part5_f7365378:
 translate french d10p2s08_dd_part5_fce961c7:
 
     # mc "After that I removed her bindings and helped her get feeling back."
-    mc "Après cela, j'ai retiré ses fixations et je l'ai aidée à se sentir à nouveau."
+    mc "Après cela, j'ai retiré ses fixations et je l'ai aidée à se mouvoir à nouveau."
 
 # game/code/d10p2/d10p2s08.rpy:1152
 translate french d10p2s08_dd_part5_31fe8f1b:
@@ -2450,7 +2450,7 @@ translate french d10p2s08_dd_part5_31fe8f1b:
 translate french d10p2s08_dd_part5_fce961c7_1:
 
     # mc "After that I removed her bindings and helped her get feeling back."
-    mc "Après cela, j'ai retiré ses fixations et je l'ai aidée à se sentir à nouveau."
+    mc "Après cela, j'ai retiré ses fixations et je l'ai aidée à se mouvoir à nouveau."
 
 # game/code/d10p2/d10p2s08.rpy:1157
 translate french d10p2s08_dd_part5_6160408b:
@@ -2498,13 +2498,13 @@ translate french d10p2s08_end_fbf01f78:
 translate french d10p2s08_end_4e85cb4d:
 
     # mc "Hello?"
-    mc "Bonjour?"
+    mc "Bonjour ?"
 
 # game/code/d10p2/d10p2s08.rpy:1193
 translate french d10p2s08_end_0efd57d9:
 
     # aw "Hey, [mcname]..."
-    aw "Hé, [mcname]..."
+    aw "Hé, [mcname] ... "
 
 # game/code/d10p2/d10p2s08.rpy:1194
 translate french d10p2s08_end_16fb6378:
