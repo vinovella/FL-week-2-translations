@@ -2,7 +2,7 @@
 translate french d11s06_d2790112:
 
     # "After a short walk to Nora's Café"
-    "Après une courte marche, Le café de Nora"
+    "Après une courte marche, au café de Nora"
 
 # game/code/d11/d11s06.rpy:73
 translate french d11s06_6153070d:
@@ -14,7 +14,7 @@ translate french d11s06_6153070d:
 translate french d11s06_df5397d4:
 
     # nk "Oh, hey! You're here!"
-    nk "Oh hey! Vous êtes ici!"
+    nk "Oh hey ! Tu es ici !"
 
 # game/code/d11/d11s06.rpy:81
 translate french d11s06_9b3ab300:
@@ -32,7 +32,7 @@ translate french d11s06_f2be3240:
 translate french d11s06_6f1debbd:
 
     # nk "I get anxious when I get too much time to think."
-    nk "Je deviens anxieux quand j'ai trop de temps pour réfléchir."
+    nk "Je deviens anxieuse quand j'ai trop de temps pour réfléchir."
 
 # game/code/d11/d11s06.rpy:88
 translate french d11s06_bc8e7f6c:
@@ -44,19 +44,19 @@ translate french d11s06_bc8e7f6c:
 translate french d11s06_6b9975b2:
 
     # nk "Follow me, I'd rather show you."
-    nk "Suivez-moi, je préfère vous montrer."
+    nk "Suis-moi, je préfère te montrer."
 
 # game/code/d11/d11s06.rpy:103
 translate french d11s06_7d2a27e5:
 
     # nk "So?"
-    nk "Donc?"
+    nk "Donc ?"
 
 # game/code/d11/d11s06.rpy:106
 translate french d11s06_0d078045:
 
     # mc "So what's the plan?"
-    mc "Alors quel est le plan?"
+    mc "Alors quel est le plan ?"
 
 # game/code/d11/d11s06.rpy:117
 translate french replay_d11s06_64df56e3:
@@ -98,7 +98,7 @@ translate french replay_d11s06_de760107:
 translate french replay_d11s06_b0c97cb6:
 
     # pw "Show me what?"
-    pw "Me montrer quoi?"
+    pw "Me montrer quoi ?"
 
 # game/code/d11/d11s06.rpy:139
 translate french replay_d11s06_51ef5cb5:
@@ -122,7 +122,7 @@ translate french replay_d11s06_ac7c8773:
 translate french replay_d11s06_671ade0b:
 
     # mc "Well... True enough. But the only thing you'll find in there is the fun and {i}consensual{/i} kind of sketchy."
-    mc "Eh bien... C'est vrai. Mais la seule chose que tu trouveras là-dedans, c'est le genre amusant et {i}consensuel{/i} de l'esquisse."
+    mc "Eh bien... C'est vrai. Mais la seule chose que tu trouveras là-dedans, c'est une discussion amusante et {i}consensuelle{/i}."
 
 # game/code/d11/d11s06.rpy:153
 translate french replay_d11s06_2c37a722:
@@ -134,13 +134,13 @@ translate french replay_d11s06_2c37a722:
 translate french replay_d11s06_d0d11bdc:
 
     # nk "Hey, {i}blind date{/i}, remember me?"
-    nk "Hey,{i}blind date{/i}, tu te souviens de moi?"
+    nk "Hey, {i}blind date{/i}, tu te souviens de moi ?"
 
 # game/code/d11/d11s06.rpy:167
 translate french replay_d11s06_925b317b:
 
     # mc "Everything is alright. You're safe. Just go with it."
-    mc "Tout va bien. Tu es en sécurité. Va-y."
+    mc "Tout va bien. Tu es en sécurité. Vas-y."
 
 # game/code/d11/d11s06.rpy:170
 translate french replay_d11s06_2d38dd5d:
@@ -164,13 +164,13 @@ translate french replay_d11s06_1851a091:
 translate french replay_d11s06_6f3dc119:
 
     # nk "Oh, wait, no, I'm still fucking pissed, so I'm gonna make you understand what it's like to be someone else's toy for a day."
-    nk "Oh, attends, non, je suis toujours énervé, alors je vais te faire comprendre ce que ça fait d'être le jouet de quelqu'un d'autre pendant une journée."
+    nk "Oh, attends, non, je suis toujours énervée, alors je vais te faire comprendre ce que ça fait d'être le jouet de quelqu'un d'autre pendant une journée."
 
 # game/code/d11/d11s06.rpy:182
 translate french replay_d11s06_34005327:
 
     # nk "Strip. Now."
-    nk "A poil. Maintenant."
+    nk "À poil. Maintenant."
 
 # game/code/d11/d11s06.rpy:188
 translate french replay_d11s06_ec23f09c:
@@ -182,7 +182,7 @@ translate french replay_d11s06_ec23f09c:
 translate french replay_d11s06_3d677c68:
 
     # nk "You had your way with me, and now I'm practically doing what you wanted all along."
-    nk "Tu as fait ce que tu voulais avec moi, et maintenant je fais pratiquement ce que tu voulais depuis le début."
+    nk "Tu as fait ce que tu voulais avec moi, et maintenant je vais faire ce que tu voulais depuis le début."
 
 # game/code/d11/d11s06.rpy:195
 translate french replay_d11s06_964451ef:
@@ -194,7 +194,7 @@ translate french replay_d11s06_964451ef:
 translate french replay_d11s06_494f4d61:
 
     # nk "Kneel, get down on your knees and suck me."
-    nk "Agenouille-toi, mets-toi à genoux et suce-moi.."
+    nk "Agenouille-toi, mets-toi à genoux et suce-moi."
 
 # game/code/d11/d11s06.rpy:201
 translate french replay_d11s06_15310a01:
@@ -206,7 +206,7 @@ translate french replay_d11s06_15310a01:
 translate french replay_d11s06_3ffa32c1:
 
     # nk "What?"
-    nk "Quoi?"
+    nk "Quoi ?"
 
 # game/code/d11/d11s06.rpy:207
 translate french replay_d11s06_2dfa861d:
@@ -236,7 +236,7 @@ translate french replay_d11s06_0a60e60a:
 translate french replay_d11s06_706fb1fd:
 
     # nk "Now, I want you to turn around and crawl over to [mcname], take his cock out, and slobber on it like you—"
-    nk "Maintenant, je veux que tu te retournes et que tu rampes vers [mcname], que tu lui retires sa queue et que tu bave dessus comme—"
+    nk "Maintenant, je veux que tu te retournes et que tu rampes vers [mcname], que tu lui prennes sa queue et que tu bave dessus comme—"
 
 # game/code/d11/d11s06.rpy:268
 translate french replay_d11s06_0a2deeb9:
@@ -266,13 +266,13 @@ translate french replay_d11s06_84b85878:
 translate french replay_d11s06_67e1b453:
 
     # nk "Lay down, on the floor. Facing up."
-    nk "Allongez-vous, sur le sol. Le visage vers le ciel."
+    nk "Allonges-toi, sur le sol. Le visage vers le ciel."
 
 # game/code/d11/d11s06.rpy:310
 translate french replay_d11s06_5f2992b8:
 
     # pw "*Moans* Yes! Yes! *Moans*"
-    pw "*Gémissements* Oui ! Oui! *Gémissements*"
+    pw "*Gémissements* Oui ! Oui ! *Gémissements*"
 
 # game/code/d11/d11s06.rpy:324
 translate french replay_d11s06_33d905ad:
@@ -284,7 +284,7 @@ translate french replay_d11s06_33d905ad:
 translate french replay_d11s06_649786fd:
 
     # mc "Oh? Don't mind if I do."
-    mc "Oh? Cela ne me dérange pas si je le fais."
+    mc "Oh ? Cela ne me dérange pas si je le fais."
 
 # game/code/d11/d11s06.rpy:335
 translate french replay_d11s06_421ba0c7:
@@ -314,7 +314,7 @@ translate french replay_d11s06_c9f36a1e:
 translate french replay_d11s06_d45e7c91:
 
     # nk "Are you close?"
-    nk "Es-tu proche?"
+    nk "Es-tu proche ?"
 
 # game/code/d11/d11s06.rpy:450
 translate french replay_d11s06_3ab4cbd2:
@@ -350,13 +350,13 @@ translate french replay_d11s06_3f082f18:
 translate french replay_d11s06_d45e7c91_1:
 
     # nk "Are you close?"
-    nk "Es-tu proche?"
+    nk "Es-tu proche ?"
 
 # game/code/d11/d11s06.rpy:508
 translate french replay_d11s06_779c051a:
 
     # mc "Yes!"
-    mc "Oui!"
+    mc "Oui !"
 
 # game/code/d11/d11s06.rpy:520
 translate french replay_d11s06_5e7fa98c:
@@ -416,7 +416,7 @@ translate french replay_d11s06_ee4aa368:
 translate french replay_d11s06_a8533818:
 
     # pw "Hey, uh... Look, I'm sorry that I tricked you like that."
-    pw "Hé, euh...Écoute, je suis désolé de t'avoir trompé comme ça."
+    pw "Hé, euh...Écoute, je suis désolée de t'avoir trompée comme ça."
 
 # game/code/d11/d11s06.rpy:578
 translate french replay_d11s06_011b9371:
