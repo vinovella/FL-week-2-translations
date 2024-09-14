@@ -26,7 +26,7 @@ translate french d12s03_974b759d:
 translate french d12s03_07152a1f:
 
     # jdg "Hold on just a minute."
-    jdg "Un petite minute."
+    jdg "Une petite minute."
 
 # game/code/d12/extended/d12s03.rpy:54
 translate french d12s03_9753b269:
@@ -44,7 +44,7 @@ translate french d12s03_a6c766ff:
 translate french d12s03_75f5ba38:
 
     # mct "Hopefully I'm not about to be arrested here."
-    mct "J'espère que ne vais pas me faire arrêter"
+    mct "J'espère que ne vais pas me faire arrêter."
 
 # game/code/d12/extended/d12s03.rpy:68
 translate french d12s03_23a583af:
@@ -80,13 +80,13 @@ translate french d12s03_10a9fcb0:
 translate french d12s03_2552805b:
 
     # jdg "You were rather difficult to track down. {w}You didn't leave many clues behind."
-    jdg "Tu étais plutôt difficile à retrouver. {w}Tu n'as pas laissé beaucoup d'indices derrière toi."
+    jdg "Tu as été plutôt difficile à retrouver. {w}Tu n'as pas laissé beaucoup d'indices derrière toi."
 
 # game/code/d12/extended/d12s03.rpy:90
 translate french d12s03_503fb64e:
 
     # jdg "You were rather difficult to track down. {w}Samiya didn't want to give me your name."
-    jdg "Tu étais plutôt difficile à retrouver. {w}Samiya ne voulait pas me donner ton nom."
+    jdg "Tu as été plutôt difficile à retrouver. {w}Samiya ne voulait pas me donner ton nom."
 
 # game/code/d12/extended/d12s03.rpy:92
 translate french d12s03_6c75a323:
@@ -98,7 +98,7 @@ translate french d12s03_6c75a323:
 translate french d12s03_0b639f71:
 
     # mc "Samiya is in prison?"
-    mc "Samiya est en prison?"
+    mc "Samiya est en prison ?"
 
 # game/code/d12/extended/d12s03.rpy:97
 translate french d12s03_e268cce7:
@@ -140,7 +140,7 @@ translate french d12s03_2727171b:
 translate french d12s03_391e2685:
 
     # mc "What?! No!"
-    mc "Quoi?! Non!"
+    mc "Quoi ?! Non !"
 
 # game/code/d12/extended/d12s03.rpy:120
 translate french d12s03_71d05eda:
@@ -152,7 +152,7 @@ translate french d12s03_71d05eda:
 translate french d12s03_efd8a202:
 
     # mc "To be perfectly honest, I don't know what happened. I was hired for some roleplay and..."
-    mc "Pour être tout à fait honnête, je ne sais pas ce qu'il c'est passé. J'ai été embauché pour un jeu de rôle et..."
+    mc "Pour être tout à fait honnête, je ne sais pas ce qu'il s'est passé. J'ai été embauché pour un jeu de rôle et..."
 
 # game/code/d12/extended/d12s03.rpy:125
 translate french d12s03_35bda94f:
@@ -182,7 +182,7 @@ translate french d12s03_9502ff4a:
 translate french d12s03_eba93069:
 
     # mc "Only once in my entire life."
-    mc "Une seule fois dans toute ma vie."
+    mc "La seule fois dans toute ma vie."
 
 # game/code/d12/extended/d12s03.rpy:141
 translate french d12s03_af4b921f:
@@ -320,7 +320,7 @@ translate french d12s03_43542b23:
 translate french d12s03_4521b309:
 
     # mc "So, I just give you a surprise fuck once a month for as long as I'm in college?"
-    mc "Donc, j'ai juste à vous faire une baise surprise une fois par mois le temps de mes études ?"
+    mc "Donc, j'ai juste à vous baiser par surprise une fois par mois le temps de mes études ?"
 
 # game/code/d12/extended/d12s03.rpy:206
 translate french d12s03_1212f526:
@@ -332,7 +332,7 @@ translate french d12s03_1212f526:
 translate french d12s03_a6229877:
 
     # jdg "Of course, I would require that you show me what you can do - here & now."
-    jdg "Biensûr, j’aurais besoin que tu me montres ce que tu peux faire - Ici et maintenant."
+    jdg "Bien sûr, j’aurais besoin que tu me montres ce que tu peux faire - Ici et maintenant."
 
 # game/code/d12/extended/d12s03.rpy:211
 translate french d12s03_54dca20f:
@@ -350,7 +350,7 @@ translate french d12s03_3cc4d8a4:
 translate french d12s03_0a2b5735:
 
     # mc "How certain are you?"
-    mc "À quel point en êtes-vous certaine ?"
+    mc "À quel point voulez-vous en être certaine ?"
 
 # game/code/d12/extended/d12s03.rpy:220
 translate french d12s03_993834bb:
@@ -560,7 +560,7 @@ translate french d12s03_fake_rape_6eb5c71f:
 translate french d12s03_fake_rape_f8d6864c:
 
     # jdg "The faraday cage is being installed next month."
-    jdg "La cage de Faraday sera installée le mois prochain."
+    jdg "La cage de Faraday a été installée le mois dernier."
 
 # game/code/d12/extended/d12s03.rpy:347
 translate french d12s03_fake_rape_cb70afb1:
@@ -626,7 +626,7 @@ translate french d12s03_fake_rape_623d5188:
 translate french d12s03_fake_rape_df5bad3f:
 
     # jdg "So, \"No\", \"Help\", \"Stop\"?"
-    jdg "So, \"Non\", \"À l'aide\", \"Stop\"?"
+    jdg "Donc pas \"Non\", \"À l'aide\", \"Stop\" ?"
 
 # game/code/d12/extended/d12s03.rpy:382
 translate french d12s03_fake_rape_4952a4cb:
@@ -644,7 +644,7 @@ translate french d12s03_fake_rape_19aab3c0:
 translate french d12s03_fake_rape_b283d9ee:
 
     # mc "The usual safe words are \"Yellow\" for stop this particular event & regroup, or \"Red\" for stop this event & I never want to see you again."
-    mc "Les mots de sécurité habituels sont \"Jaune\" pour arrêter cet événement particulier et se regrouper, ou \"Rouge\" pour arrêter cet événement et je ne veux plus jamais vous revoir."
+    mc "Les mots de sécurité habituels sont \"Jaune\" pour arrêter l'acte en cours et se réconforter, ou \"Rouge\" pour arrêter l'acte en cours et ne plus aller si loin."
 
 # game/code/d12/extended/d12s03.rpy:391
 translate french d12s03_fake_rape_3247635a:
@@ -692,7 +692,7 @@ translate french d12s03_fake_rape_31f9a2f9:
 translate french d12s03_fake_rape_f30c76e8:
 
     # mc "Are you serious?"
-    mc "Serieusement?"
+    mc "Serieusement ?"
 
 # game/code/d12/extended/d12s03.rpy:415
 translate french d12s03_fake_rape_7dda404c:
@@ -782,13 +782,13 @@ translate french d12s03_sex_dab251e4:
 translate french d12s03_sex_d7f59f32:
 
     # jdg "My clothes! {w}You destroyed them!"
-    jdg "Mes vêtements! {w}tu les à détruits !"
+    jdg "Mes vêtements! {w}tu les a détruits !"
 
 # game/code/d12/extended/d12s03.rpy:500
 translate french d12s03_sex_5ba3c6c2:
 
     # mc "Of course, I did. {w}What did you expect?"
-    mc "Biensûr que je l'ai fait. {w}Tu t'attendais à quoi ?"
+    mc "Bien sûr que je l'ai fait. {w}Tu t'attendais à quoi ?"
 
 # game/code/d12/extended/d12s03.rpy:507
 translate french d12s03_sex_366409be:
@@ -800,7 +800,7 @@ translate french d12s03_sex_366409be:
 translate french d12s03_sex_21104677:
 
     # mc "Prove it."
-    mc "Prouve le."
+    mc "Prouve-le."
 
 # game/code/d12/extended/d12s03.rpy:523
 translate french d12s03_sex_c9c84a12:
@@ -812,7 +812,7 @@ translate french d12s03_sex_c9c84a12:
 translate french d12s03_sex_ca15484f:
 
     # jdg "No! {w}Oh god, no!"
-    jdg "Non! {w}Mon dieu, non!"
+    jdg "Non ! {w}Mon dieu, non !"
 
 # game/code/d12/extended/d12s03.rpy:533
 translate french d12s03_sex_399e4ca1:
@@ -824,7 +824,7 @@ translate french d12s03_sex_399e4ca1:
 translate french d12s03_sex_21530341:
 
     # jdg "No! {w}Anything but that!"
-    jdg "Non! {w}Tout mais pas ça !"
+    jdg "Non ! {w}Tout mais pas ça !"
 
 # game/code/d12/extended/d12s03.rpy:543
 translate french d12s03_sex_4ba7a1e3:
@@ -842,25 +842,25 @@ translate french d12s03_sex_65876492:
 translate french d12s03_sex_desk_9e19dbdd:
 
     # jdg "Lube! {w}Please! Lube!"
-    jdg "Lubrifie! {w}S'il te plaît ! Lubrifie!"
+    jdg "Lubrifie ! {w}S'il te plaît ! Lubrifie !"
 
 # game/code/d12/extended/d12s03.rpy:563
 translate french d12s03_sex_desk_ba2de42e:
 
     # jdg "Ahhhh!!!"
-    jdg "Ahhhh!!!"
+    jdg "Ahhhh !!!"
 
 # game/code/d12/extended/d12s03.rpy:579
 translate french d12s03_sex_desk_84e6ea5d:
 
     # mc "Isn't this what you wanted?"
-    mc "Ce n'est pas ce que tu voulais?"
+    mc "Ce n'est pas ce que tu voulais ?"
 
 # game/code/d12/extended/d12s03.rpy:582
 translate french d12s03_sex_desk_6abbc89a:
 
     # jdg "Yes, Sir! {w}But, please - LUBE!"
-    jdg "Oui monsieur! {w}Mais, par pitié - LUBRIFIE!"
+    jdg "Oui monsieur ! {w}Mais, par pitié - LUBRIFIE !"
 
 # game/code/d12/extended/d12s03.rpy:588
 translate french d12s03_sex_desk_bcb95cf0:
@@ -884,19 +884,19 @@ translate french d12s03_sex_desk_7ffb2e27:
 translate french d12s03_sex_desk_366d7f63:
 
     # jdg "YES!!!"
-    jdg "OUI!!!"
+    jdg "OUI !!!"
 
 # game/code/d12/extended/d12s03.rpy:596
 translate french d12s03_sex_desk_a3ef5b48:
 
     # mc "Okay!"
-    mc "Ok!"
+    mc "Ok !"
 
 # game/code/d12/extended/d12s03.rpy:609
 translate french d12s03_sex_floor_4e572274:
 
     # jdg "Oh fuck yes! {w}Fuck my twat you vile beast!"
-    jdg "Oh putain oui! {w}Baise ma chatte comme un bête.!"
+    jdg "Oh putain oui ! {w}Baise ma chatte comme un bête !"
 
 # game/code/d12/extended/d12s03.rpy:610
 translate french d12s03_sex_floor_0b565ab6:
@@ -908,37 +908,37 @@ translate french d12s03_sex_floor_0b565ab6:
 translate french d12s03_sex_floor_59d86c08:
 
     # jdg "Yes! {w}Fuck me! {w}Bring your friends!"
-    jdg "Oui! {w}Baise moi! {w}Amène tes potes !"
+    jdg "Oui ! {w}Baise moi ! {w}Amène tes potes !"
 
 # game/code/d12/extended/d12s03.rpy:619
 translate french d12s03_sex_floor_ef9ff2a0:
 
     # mc "You are such a dirty cockslut. {w}I'm going to fuck the whore out of you!"
-    mc "Tu es un vrai petite salope. {w}Je vais te baiser comme la pute que tu es!"
+    mc "Tu es un vrai petite chienne à bite. {w}Je vais te baiser comme la pute que tu es !"
 
 # game/code/d12/extended/d12s03.rpy:640
 translate french d12s03_sex_floor_e63c2153:
 
     # jdg "YESSS!!!"
-    jdg "OUI!!!"
+    jdg "OUI !!!"
 
 # game/code/d12/extended/d12s03.rpy:641
 translate french d12s03_sex_floor_02f1e672:
 
     # mc "Time to clean your cunt off my cock, slut!"
-    mc "C'est le moment de laver ma bite de ta chatte, salope!"
+    mc "C'est le moment de laver ma bite, salope !"
 
 # game/code/d12/extended/d12s03.rpy:651
 translate french d12s03_risingaction_bdf73357:
 
     # mc "Clean it up! {w}Lube it with your mouth!"
-    mc "Nettoie ça! {w}Lubrifie avec ta bouche!"
+    mc "Nettoie ça ! {w}Lubrifie avec ta bouche !"
 
 # game/code/d12/extended/d12s03.rpy:653
 translate french d12s03_risingaction_71e540f7:
 
     # mc "Clean it! {w}Suck your fuckhole's taste off my cock!"
-    mc "Nettoie ça! {w}Goûte ton trou de balle grâce à ma bite."
+    mc "Nettoie ça ! {w}Goûte ton trou de balle grâce à ma bite."
 
 # game/code/d12/extended/d12s03.rpy:654
 translate french d12s03_risingaction_2a75a0aa:
@@ -950,7 +950,7 @@ translate french d12s03_risingaction_2a75a0aa:
 translate french d12s03_risingaction_ca3e1591:
 
     # jdg "Please! {w}Are you going to cum already?"
-    jdg "Pitié! {w}Es-tu prêt jouir ?"
+    jdg "Pitié ! {w}Es-tu prêt jouir ?"
 
 # game/code/d12/extended/d12s03.rpy:679
 translate french d12s03_risingaction_d7222d97:
@@ -962,7 +962,7 @@ translate french d12s03_risingaction_d7222d97:
 translate french d12s03_risingaction_b01efe29:
 
     # jdg "Do it! {w}Cum on my face! {w}Coat my eyes and shoot it up my nose!"
-    jdg "Fais-le! {w}Joui sur mon visage ! {w}Enduis mes yeux, crache dans mon nez!"
+    jdg "Fais-le ! {w}Joui sur mon visage ! {w}Enduis mes yeux, crache dans mon nez !"
 
 # game/code/d12/extended/d12s03.rpy:685
 translate french d12s03_risingaction_3c752607:
@@ -974,7 +974,7 @@ translate french d12s03_risingaction_3c752607:
 translate french d12s03_risingaction_7d5fd7f6:
 
     # mc "You know, you're ugly as fuck."
-    mc "Tu sais, tu es vraiment moche."
+    mc "Tu sais que tu es vraiment moche."
 
 # game/code/d12/extended/d12s03.rpy:696
 translate french d12s03_risingaction_9887ac68:
@@ -992,7 +992,7 @@ translate french d12s03_risingaction_e8de8e0f:
 translate french d12s03_risingaction_e31c524c:
 
     # jdg "What?! {w}OHHhhhh!!"
-    jdg "Quoi?! {w}OHHhhhh!!"
+    jdg "Quoi ?! {w}OHHhhhh !!"
 
 # game/code/d12/extended/d12s03.rpy:729
 translate french d12s03_risingaction_9c608650:
@@ -1022,7 +1022,7 @@ translate french d12s03_risingaction_4a79705e:
 translate french d12s03_cum_mouth_8fd0098f:
 
     # mc "Suck it, Fuckmeat!"
-    mc "Suce, bouche à pipe!"
+    mc "Suce, bouche à pipe !"
 
 # game/code/d12/extended/d12s03.rpy:801
 translate french d12s03_cum_mouth_e71a3293:
@@ -1052,7 +1052,7 @@ translate french d12s03_cum_mouth_95814a33:
 translate french d12s03_cum_mouth_3a88717b:
 
     # mct "Seriously? Damn."
-    mct "Sérieusement? Putain."
+    mct "Sérieusement ? Putain."
 
 # game/code/d12/extended/d12s03.rpy:849
 translate french d12s03_end_69ede8cd:
@@ -1088,13 +1088,13 @@ translate french d12s03_end_523d5b5d:
 translate french d12s03_end_b2f83b8c:
 
     # mc "So, what happens now?"
-    mc "Qu'est-ce-qu'on fait maintenant?"
+    mc "Qu'est-ce-qu'on fait maintenant ?"
 
 # game/code/d12/extended/d12s03.rpy:878
 translate french d12s03_end_03d80ec7:
 
     # jdg "What do you think?"
-    jdg "Qu'en penses-tu?"
+    jdg "Qu'en penses-tu ?"
 
 # game/code/d12/extended/d12s03.rpy:881
 translate french d12s03_end_52b10334:
@@ -1106,13 +1106,13 @@ translate french d12s03_end_52b10334:
 translate french d12s03_end_ee7512df:
 
     # jdg "Ha! {w}That's something we'll have to..."
-    jdg "Ha! {w}C'est quelque chose que nous devrons..."
+    jdg "Ha ! {w}C'est quelque chose que nous devrons..."
 
 # game/code/d12/extended/d12s03.rpy:890
 translate french d12s03_end_05500ff6:
 
     # mc "Huh?"
-    mc "Hein?"
+    mc "Hein ?"
 
 # game/code/d12/extended/d12s03.rpy:896
 translate french d12s03_end_2151802a:
@@ -1178,7 +1178,7 @@ translate french d12s03_end_b29a4a55:
 translate french d12s03_end_7d3d8ebc:
 
     # mc "Huh? What is this about?"
-    mc "Hein? Qu'est ce que c'est?"
+    mc "Hein ? Qu'est ce que c'est ?"
 
 # game/code/d12/extended/d12s03.rpy:947
 translate french d12s03_end_c9748f2e:
@@ -1202,13 +1202,13 @@ translate french d12s03_end_7ebdad4a:
 translate french d12s03_end_de0b7579:
 
     # mc "Is this legal?"
-    mc "C'est officiel?"
+    mc "C'est officiel ?"
 
 # game/code/d12/extended/d12s03.rpy:959
 translate french d12s03_end_d5a34e18:
 
     # jdg "Of course."
-    jdg "Biensûr."
+    jdg "Bien sûr."
 
 # game/code/d12/extended/d12s03.rpy:962
 translate french d12s03_end_b57eb0b1:
@@ -1304,7 +1304,7 @@ translate french strings:
 
     # game/code/d12/extended/d12s03.rpy:248
     old "Take the Deal"
-    new "Acceptez l'offre"
+    new "Accepter l'offre"
 
     # game/code/d12/extended/d12s03.rpy:248
     old "Reject Her"
@@ -1324,5 +1324,5 @@ translate french strings:
 
     # game/code/d12/extended/d12s03.rpy:748
     old "Cum in her Mouth"
-    new "Jour dans sa bouche"
+    new "Jouir dans sa bouche"
 
