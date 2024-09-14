@@ -98,7 +98,7 @@ translate french d11s02_baca4730:
 translate french d11s02_b4a6fabe:
 
     # mc "Ha! No pills for me, just a healthy breakfast and I'm good to go."
-    mc "Ha! Pas de pilules pour moi, juste un petit-déjeuner sain et je suis prêt à partir."
+    mc "Ha ! Pas de pilules pour moi, juste un petit-déjeuner sain et je suis prêt à partir."
 
 # game/code/d11/d11s02.rpy:75
 translate french d11s02_bc9fdddc:
@@ -110,7 +110,7 @@ translate french d11s02_bc9fdddc:
 translate french d11s02_4e3eb2a5:
 
     # mc "Ha!"
-    mc "Ha!"
+    mc "Ha !"
 
 # game/code/d11/d11s02.rpy:79
 translate french d11s02_79c1dbd4:
@@ -128,7 +128,7 @@ translate french d11s02_ccffe6f9:
 translate french d11s02_bb54adc5:
 
     # mc "We?"
-    mc "Nous?"
+    mc "Nous ?"
 
 # game/code/d11/d11s02.rpy:87
 translate french d11s02_cc438063:
@@ -140,7 +140,7 @@ translate french d11s02_cc438063:
 translate french d11s02_df2f2f6c:
 
     # mc "Why am I not surprised?"
-    mc "Pourquoi je ne suis pas surpris?"
+    mc "Pourquoi je ne suis pas surpris ?"
 
 # game/code/d11/d11s02.rpy:91
 translate french d11s02_21d13bc6:
@@ -170,13 +170,13 @@ translate french d11s02_e0544c1b:
 translate french d11s02_f7c7e624:
 
     # kb "Huh? {w}Oh, hey [mcname]."
-    kb "Hein? {w}Oh, hé [mcname]."
+    kb "Hein ? {w}Oh, hé [mcname]."
 
 # game/code/d11/d11s02.rpy:102
 translate french d11s02_f2231fa9:
 
     # mc "What's up with you? Did someone piss in your breakfast cereal?"
-    mc "Quoi de neuf? Quelqu'un a pissé dans tes céréales du petit-déj ?"
+    mc "Quoi de neuf ? Quelqu'un a pissé dans tes céréales du petit-déj ?"
 
 # game/code/d11/d11s02.rpy:105
 translate french d11s02_d070332d:
@@ -218,7 +218,7 @@ translate french d11s02_a86ca51f:
 translate french d11s02_c17ef8ec:
 
     # mc "What's that?"
-    mc "Qu'est ce que c'est?"
+    mc "Qu'est ce que c'est ?"
 
 # game/code/d11/d11s02.rpy:119
 translate french d11s02_60ca8c66:
@@ -242,7 +242,7 @@ translate french d11s02_4fd365ae:
 translate french d11s02_7e02bf55:
 
     # mc "What makes you say that?"
-    mc "Qu'est-ce qui te fait dire ça?"
+    mc "Qu'est-ce qui te fait dire ça ?"
 
 # game/code/d11/d11s02.rpy:130
 translate french d11s02_62bb9945:
@@ -302,7 +302,7 @@ translate french d11s02_98626d25:
 translate french d11s02_e1a76e20:
 
     # kb "Could be worse. At least you don't have to DIY."
-    kb "Pourrait être pire. Au moins, vous n'avez pas besoin de bricoler."
+    kb "Ça pourrait être pire. Au moins, vous n'avez pas besoin de bricoler."
 
 # game/code/d11/d11s02.rpy:148
 translate french d11s02_6a81eda9:
@@ -326,7 +326,7 @@ translate french d11s02_c8ffdf13:
 translate french d11s02_c5cb2ffc:
 
     # mct "awwww Skeet skeet skeet skeet."
-    mct "awwww Skeet Skeet Skeet Skeet."
+    mct "awwww pan pan pan pan."
 
 # game/code/d11/d11s02.rpy:182
 translate french d11s02_a7992be4:
@@ -338,7 +338,7 @@ translate french d11s02_a7992be4:
 translate french d11s02_c0029e2c:
 
     # mct "Not on a chip, not in a dip."
-    mct "Pas sur une puce, pas dans une trempette."
+    mct "Pas sur une chip, pas dans une dip."
 
 # game/code/d11/d11s02.rpy:187
 translate french d11s02_d992ef21:
@@ -356,7 +356,7 @@ translate french d11s02_dcfa8045:
 translate french d11s02_05500ff6:
 
     # mc "Huh?"
-    mc "Hein?"
+    mc "Hein ?"
 
 # game/code/d11/d11s02.rpy:195
 translate french d11s02_9ee15366:
@@ -386,7 +386,7 @@ translate french d11s02_be341467:
 translate french d11s02_f2ca3c0c:
 
     # mc "Well, I didn't get back to my dorm yet. I made due with what I had."
-    mc "Eh bien, je ne suis pas encore retourné à mon dortoir. J'ai fait ce que j'avais avec ce que j'avais."
+    mc "Eh bien, je ne suis pas encore retourné à mon dortoir. J'ai fait avec ce que j'avais."
 
 # game/code/d11/d11s02.rpy:204
 translate french d11s02_1aca5ac4:
@@ -416,7 +416,7 @@ translate french d11s02_e929e133:
 translate french d11s02_ed7a75f8:
 
     # kb "You know, Chloe is interested..."
-    kb "Tu sais, Chloé est intéressée..."
+    kb "Tu sais, Chloé est intéressée ..."
 
 # game/code/d11/d11s02.rpy:220
 translate french d11s02_2659894c:
@@ -428,7 +428,7 @@ translate french d11s02_2659894c:
 translate french d11s02_75b51a8b:
 
     # mc "Yeah? I'll keep that in mind."
-    mc "Ouais? Je garderai ça à l'esprit."
+    mc "Ouais ? Je garderai ça à l'esprit."
 
 # game/code/d11/d11s02.rpy:226
 translate french d11s02_ce7c76c0:
@@ -506,7 +506,7 @@ translate french d11s02_770d9825:
 translate french d11s02_ec28bd90:
 
     # mes "Hey [mcname] & Kevin. Would you mind scooching over a seat so I can have the aisle?"
-    mes "Salut [mcname] et Kevin. Cela vous dérangerait-il de vous décaler d'un siège pour que je puisse avoir le couloir ?"
+    mes "Salut [mcname], salut Kevin. Cela vous dérangerait-il de vous décaler d'un siège pour que je puisse avoir le couloir ?"
 
 # game/code/d11/d11s02.rpy:261
 translate french d11s02_bdc6c613:
@@ -548,7 +548,7 @@ translate french d11s02_7144ce4a:
 translate french d11s02_230fdb06:
 
     # mc "So, we're just your rebound aisle?"
-    mc "Alors, nous sommes juste ton allée de asile ?"
+    mc "Alors, nous sommes juste ton allée d'asile ?"
 
 # game/code/d11/d11s02.rpy:279
 translate french d11s02_f863fe12:
@@ -578,13 +578,13 @@ translate french d11s02_638521ac:
 translate french d11s02_187ae454:
 
     # rn "Shall we begin? Good."
-    rn "Allons-nous commencer? Bien."
+    rn "Allons-nous commencer ? Bien."
 
 # game/code/d11/d11s02.rpy:291
 translate french d11s02_10b31616:
 
     # rn "Anyone know what this says?"
-    rn "Quelqu'un sait ce que cela dit ?"
+    rn "Quelqu'un sait de quoi ça parle ?"
 
 # game/code/d11/d11s02.rpy:292
 translate french d11s02_ed3085d9:
@@ -602,7 +602,7 @@ translate french d11s02_28ebe237:
 translate french d11s02_8e287b19:
 
     # rn "Anyone?"
-    rn "N'importe qui?"
+    rn "N'importe qui ?"
 
 # game/code/d11/d11s02.rpy:296
 translate french d11s02_28af0a1b:
@@ -644,7 +644,7 @@ translate french d11s02_ed1d5071:
 translate french d11s02_61d31e6d:
 
     # mc "You know I will."
-    mc "tu sais que je le ferai."
+    mc "Tu sais que je le ferai."
 
 # game/code/d11/d11s02.rpy:313
 translate french d11s02_6dafa517:
@@ -692,7 +692,7 @@ translate french d11s02_5ec5de8e:
 translate french d11s02_02f0e7bc:
 
     # mesfl "Are you sure?"
-    mesfl "Es-tu sûr?"
+    mesfl "Es-tu sûr ?"
 
 # game/code/d11/d11s02.rpy:335
 translate french d11s02_569a3833:
@@ -746,7 +746,7 @@ translate french d11s02_1d8e111f:
 translate french d11s02_3812ec01:
 
     # mc "Something? Not someone?"
-    mc "Quelque chose? Pas quelqu'un ?"
+    mc "Quelque chose ? Pas quelqu'un ?"
 
 # game/code/d11/d11s02.rpy:355
 translate french d11s02_6583f6b1:
@@ -764,7 +764,7 @@ translate french d11s02_76e2bd99:
 translate french d11s02_05977308:
 
     # mes "What? What's wrong?"
-    mes "Quoi? Qu'est-ce qui ne va pas?"
+    mes "Quoi ? Qu'est-ce qui ne va pas ?"
 
 # game/code/d11/d11s02.rpy:361
 translate french d11s02_2dc7eb8f:
@@ -782,7 +782,7 @@ translate french d11s02_616980be:
 translate french d11s02_0f8415c3:
 
     # mes "Do you think I'm playing around? Antony and I broke up last night."
-    mes "Penses-tu que je joue? Antony et moi avons rompu hier soir."
+    mes "Penses-tu que je joue ? Antony et moi avons rompu hier soir."
 
 # game/code/d11/d11s02.rpy:366
 translate french d11s02_f709eb9e:
@@ -800,19 +800,19 @@ translate french d11s02_dc53d513:
 translate french d11s02_cfa57957:
 
     # mc "I'm not rejecting you. Quite the opposite."
-    mc "Je ne te rejette pas. Plutôt l'inverse."
+    mc "Je ne te rejette pas. C'est plutôt l'inverse."
 
 # game/code/d11/d11s02.rpy:374
 translate french d11s02_7bc3c7bc:
 
     # mes "Tell me I'm attractive. Please."
-    mes "Dis-moi que je suis attirant. S'il te plaît."
+    mes "Dis-moi que je suis attirante. S'il te plaît."
 
 # game/code/d11/d11s02.rpy:376
 translate french d11s02_ef4a6ea9:
 
     # mc "You are fucking awesome. I could spend the rest of my days having sex with you in different creative ways."
-    mc "Tu es putain de génial. Je pourrais passer le reste de mes journées à coucher avec toi de différentes manières créatives."
+    mc "Tu es géniale et fantastique. Je pourrais passer le reste de mes journées à coucher avec toi de différentes manières créatives."
 
 # game/code/d11/d11s02.rpy:379
 translate french d11s02_768323c7:
@@ -824,7 +824,7 @@ translate french d11s02_768323c7:
 translate french d11s02_f6691097:
 
     # mc "More than just attractive. I don't just want to fuck you - I want to really know you."
-    mc "Plus qu’attrayant. Je ne veux pas seulement te baiser, je veux vraiment te connaître."
+    mc "Plus qu’attrayante. Je ne veux pas seulement te baiser, je veux vraiment te connaître."
 
 # game/code/d11/d11s02.rpy:384
 translate french d11s02_182aecd9:
@@ -842,7 +842,7 @@ translate french d11s02_87c30772:
 translate french d11s02_b8824d4a:
 
     # mes "Wait - where are you going?"
-    mes "Attends, où est-ce que tu vas?"
+    mes "Attends, où est-ce que tu vas ?"
 
 # game/code/d11/d11s02.rpy:393
 translate french d11s02_6645dfc0:
@@ -854,13 +854,13 @@ translate french d11s02_6645dfc0:
 translate french d11s02_245a526e:
 
     # mes "I didn't really consider... {w}Squizzle just seemed so safe."
-    mes "Je n'ai pas vraiment pensé...{w}Squizzle semblait tellement sûr."
+    mes "Je n'ai pas vraiment pensé...{w}Squizzle semblait tellement sûre."
 
 # game/code/d11/d11s02.rpy:397
 translate french d11s02_c47caa20:
 
     # mes "Squizzle could do whatever she wanted - whoever she wanted."
-    mes "Squizzle pouvait faire ce qu'elle voulait – qui elle voulait."
+    mes "Squizzle pouvait faire ce qu'elle voulait avec qui elle voulait."
 
 # game/code/d11/d11s02.rpy:398
 translate french d11s02_3c17d39a:
@@ -890,7 +890,7 @@ translate french d11s02_29bbf171:
 translate french d11s02_6912186a:
 
     # mes "I don't know what to say. What do you need to know?"
-    mes "Je ne sais pas quoi dire. Qu'as-tu besoin de savoir?"
+    mes "Je ne sais pas quoi dire. Qu'as-tu besoin de savoir ?"
 
 # game/code/d11/d11s02.rpy:407
 translate french d11s02_b2d49175:
@@ -902,7 +902,7 @@ translate french d11s02_b2d49175:
 translate french d11s02_17b4c5f0:
 
     # mes "Like what?"
-    mes "Comme quoi?"
+    mes "Comme quoi ?"
 
 # game/code/d11/d11s02.rpy:412
 translate french d11s02_6cd8888a:
@@ -914,13 +914,13 @@ translate french d11s02_6cd8888a:
 translate french d11s02_1e1d10ae:
 
     # mes "Because of Antony. We would be passionate and together, and then he would cheat on me."
-    mes "À cause d'Antony. Nous serions passionnés et ensemble, et puis il me tromperait."
+    mes "À cause d'Antony. Nous étions passionnés et ensemble, et puis il m'a trompé."
 
 # game/code/d11/d11s02.rpy:415
 translate french d11s02_13d8872b:
 
     # mes "We'd break up. We'd be unhappy. We'd get back together for a while. Then he'd cheat on me again."
-    mes "Nous nous séparerions. Nous serions mécontents. Nous nous remettrions ensemble pendant un moment. Et puis il me tromperait encore."
+    mes "Nous nous séparerions. Nous étions mécontents. Nous nous remettions ensemble pendant un moment. Et puis il me trompait à nouveau."
 
 # game/code/d11/d11s02.rpy:418
 translate french d11s02_300e47b4:
@@ -944,7 +944,7 @@ translate french d11s02_f810a0b4:
 translate french d11s02_50b652c8:
 
     # mes "I wouldn't call it my nature. I'm competitive, sure, but that's just part of being the best."
-    mes "Je n'appellerais pas ça ma nature. Je suis compétitif, bien sûr, mais cela fait partie du fait d'être le meilleur."
+    mes "Je n'appellerais pas ça ma nature. Je suis compétitive, bien sûr, mais cela fait partie du fait d'être la meilleure."
 
 # game/code/d11/d11s02.rpy:425
 translate french d11s02_faf615d0:
@@ -962,7 +962,7 @@ translate french d11s02_d61a05b4:
 translate french d11s02_b17858ba:
 
     # mc "Why do you have to be the best? What makes you so competitive?"
-    mc "Pourquoi faut-il être le meilleur ? Qu’est-ce qui vous rend si compétitif ?"
+    mc "Pourquoi faut-il être la meilleure ? Qu’est-ce qui vous rend si compétitive ?"
 
 # game/code/d11/d11s02.rpy:433
 translate french d11s02_ac2b6558:
@@ -1010,7 +1010,7 @@ translate french d11s02_dcdac24d:
 translate french d11s02_55ed42cd:
 
     # mes "You shouldn't. He's worked hard for decades to become..."
-    mes "tu ne devrais pas. Il a travaillé dur pendant des décennies pour devenir..."
+    mes "tu ne devrais pas. Il a travaillé dur pendant des décennies pour le devenir..."
 
 # game/code/d11/d11s02.rpy:447
 translate french d11s02_e955763d:
@@ -1058,7 +1058,7 @@ translate french d11s02_4e6ac679:
 translate french d11s02_82358055:
 
     # mes "He broke up with me in a text message. You believe that? I can't believe I ever saw anything in such a weak person."
-    mes "Il a rompu avec moi par SMS. Tu crois ça? Je n'arrive pas à croire que j'ai jamais vu quoi que ce soit chez une personne aussi faible."
+    mes "Il a rompu avec moi par SMS. Tu crois ça ? Je n'arrive pas à croire que j'ai jamais vu quoi que ce soit chez une personne aussi faible."
 
 # game/code/d11/d11s02.rpy:466
 translate french d11s02_dd16e008:
@@ -1082,7 +1082,7 @@ translate french d11s02_9ece899b:
 translate french d11s02_a9047516:
 
     # mes "What does that say about me? That I could be such a poor judge of character and settle for such a cheap pile of crap?"
-    mes "Qu'est-ce que cela dit à mon sujet? Que je pourrais être un si mauvais juge de caractère et me contenter d’un tas de conneries aussi bon marché ?"
+    mes "Qu'est-ce que cela dit à mon sujet ? Que je pourrais être un si mauvais juge de caractère et me contenter d’un tas de conneries aussi bon marché ?"
 
 # game/code/d11/d11s02.rpy:474
 translate french d11s02_a4d1d345:
@@ -1136,7 +1136,7 @@ translate french d11s02_f71aa26f:
 translate french d11s02_e8d8f60b:
 
     # mc "I don't want to piss around with Squizzle. I want to get to know Min."
-    mc "Je ne veux pas déconner avec Squizzle. Je veux faire connaissance avec Min."
+    mc "Je ne veux pas baiser avec Squizzle. Je veux faire connaissance avec Min."
 
 # game/code/d11/d11s02.rpy:498
 translate french d11s02_5b5e374e:
@@ -1154,7 +1154,7 @@ translate french d11s02_68a4eef8:
 translate french d11s02_fb64773a:
 
     # mc "Look, if I wasn't already dating Lydia, I'd be lucky to snatch up Min while I could."
-    mc "Écoute, si je ne sortais pas déjà avec Lydia, j'aurais de la chance d'attraper Min tant que je le peux."
+    mc "Écoute, si je ne sortais pas déjà avec Lydia, j'aurais tenté ma chance avec Min tant que je le peux."
 
 # game/code/d11/d11s02.rpy:516
 translate french d11s02_90f2c4a0:
@@ -1166,7 +1166,7 @@ translate french d11s02_90f2c4a0:
 translate french d11s02_04de3111:
 
     # mc "I don't just want something casual with Squizzle, but I can't really do something serious with Min."
-    mc "Je ne veux pas seulement quelque chose de décontracté avec Squizzle, mais je ne peux pas vraiment faire quelque chose de sérieux avec Min."
+    mc "Je ne veux pas seulement quelque chose de cool avec Squizzle, mais je ne peux pas vraiment faire quelque chose de sérieux avec Min."
 
 # game/code/d11/d11s02.rpy:519
 translate french d11s02_fb3ba701:
@@ -1184,7 +1184,7 @@ translate french d11s02_2c1078db:
 translate french d11s02_97d9537e:
 
     # mc "Well, he's hurting like that now. Maybe he didn't realize how important you are to him before."
-    mc "Eh bien, il souffre comme ça maintenant. Peut-être qu'il n'a pas réalisé à quel point vous êtes important pour lui auparavant."
+    mc "Eh bien, il souffre comme ça maintenant. Peut-être qu'il n'a pas réalisé à quel point tu es importante pour lui auparavant."
 
 # game/code/d11/d11s02.rpy:524
 translate french d11s02_3a758626:
@@ -1196,7 +1196,7 @@ translate french d11s02_3a758626:
 translate french d11s02_e4c868b7:
 
     # mes "You think?"
-    mes "Tu penses?"
+    mes "Tu penses ?"
 
 # game/code/d11/d11s02.rpy:529
 translate french d11s02_57300e30:
@@ -1292,13 +1292,13 @@ translate french d11s02_8ffa8ae1:
 translate french d11s02_a77e9b17:
 
     # tr "What took you so long?"
-    tr "Qu'est-ce qui t'a pris autant de temps?"
+    tr "Qu'est-ce qui t'a pris autant de temps ?"
 
 # game/code/d11/d11s02.rpy:599
 translate french d11s02_b2b9e19d:
 
     # mc "What do you mean?"
-    mc "Que veux-tu dire?"
+    mc "Que veux-tu dire ?"
 
 # game/code/d11/d11s02.rpy:602
 translate french d11s02_bb4a610f:
@@ -1334,7 +1334,7 @@ translate french d11s02_389f9e77:
 translate french d11s02_5b7aaafb:
 
     # mc "Heya Terrell. How's life treating you?"
-    mc "Salut Terrell. Comment te traite la vie ?"
+    mc "Salut Terrell. Comment va la vie ?"
 
 # game/code/d11/d11s02.rpy:616
 translate french d11s02_da1969eb:
@@ -1370,7 +1370,7 @@ translate french d11s02_951e2246:
 translate french d11s02_27d6a438:
 
     # mc "Huh? Oh, Maria. {w}No, sorry dude. It completely slipped my mind."
-    mc "Hein? Ah, Maria. {w}Non, désolé mec. Cela m’a complètement sorti de l’esprit."
+    mc "Hein ? Ah, Maria. {w}Non, désolé mec. Cela m’a complètement sorti de l’esprit."
 
 # game/code/d11/d11s02.rpy:629
 translate french d11s02_889acdb5:
@@ -1418,7 +1418,7 @@ translate french d11s02_1e6093a9:
 translate french d11s02_be21e205:
 
     # mc "Obsess much?"
-    mc "obsédé ?"
+    mc "Obsédé ?"
 
 # game/code/d11/d11s02.rpy:643
 translate french d11s02_e85c472f:
@@ -1490,7 +1490,7 @@ translate french d11s02_423c4291:
 translate french d11s02_3031ed06:
 
     # mc "I'll tell you what. If you can arrange someone for me, I'll talk to Maria for you."
-    mc "Je vais te dire ce que. Si tu peux trouver quelqu'un pour moi, je parlerai à Maria pour toi."
+    mc "Je vais te dire quoi. Si tu peux trouver quelqu'un pour moi, je parlerai à Maria pour toi."
 
 # game/code/d11/d11s02.rpy:670
 translate french d11s02_2e858d5c:
@@ -1514,7 +1514,7 @@ translate french d11s02_fa428fe5:
 translate french d11s02_dab18eff:
 
     # mc "Really? I thought we'd have to negotiate and compromise."
-    mc "Vraiment? Je pensais que nous devions négocier et faire des compromis."
+    mc "Vraiment ? Je pensais que nous devions négocier et faire des compromis."
 
 # game/code/d11/d11s02.rpy:680
 translate french d11s02_2ea66bcf:
@@ -1544,7 +1544,7 @@ translate french d11s02_d0d94cf0:
 translate french d11s02_bc2eb42d:
 
     # tr "Why's that?"
-    tr "Pourquoi ça?"
+    tr "Pourquoi ça ?"
 
 # game/code/d11/d11s02.rpy:690
 translate french d11s02_5dd690c9:
@@ -1574,7 +1574,7 @@ translate french d11s02_03bbe631:
 translate french d11s02_7133d66d:
 
     # tr "What? Why not?"
-    tr "Quoi? Pourquoi pas?"
+    tr "Quoi ? Pourquoi pas ?"
 
 # game/code/d11/d11s02.rpy:709
 translate french d11s02_f8514f4d:
@@ -1604,7 +1604,7 @@ translate french d11s02_c5d00df8:
 translate french d11s02_e127b111:
 
     # mc "Yeah, I guess so. {w}No hard feelings?"
-    mc "Ouais, je suppose. {w}sans rancune ?"
+    mc "Ouais, je suppose. {w}Sans rancune ?"
 
 # game/code/d11/d11s02.rpy:721
 translate french d11s02_58f63225:
@@ -1616,7 +1616,7 @@ translate french d11s02_58f63225:
 translate french d11s02_5311e148:
 
     # tr "No hard feelings."
-    tr "sans rancune."
+    tr "Sans rancune."
 
 # game/code/d11/d11s02.rpy:725
 translate french d11s02_770c2aa7:
@@ -1646,7 +1646,7 @@ translate french d11s02_03bbe631_1:
 translate french d11s02_7133d66d_1:
 
     # tr "What? Why not?"
-    tr "Quoi? Pourquoi pas?"
+    tr "Quoi ? Pourquoi pas ?"
 
 # game/code/d11/d11s02.rpy:742
 translate french d11s02_6722ed2c:
@@ -1694,15 +1694,15 @@ translate french strings:
 
     # game/code/d11/d11s02.rpy:150
     old "Do you like Cum garnish fetish?"
-    new "Aimez-vous Fétiche de garniture de sperme?"
+    new "Aimez-vous le Fétichisme de garniture de sperme ?"
 
     # game/code/d11/d11s02.rpy:150
     old "Accept - I'm down for that"
-    new "Acceptez - je suis partant pour ça"
+    new "Accepter - je suis partant pour ça"
 
     # game/code/d11/d11s02.rpy:150
     old "Accept - as long as I don't have to eat it myself"
-    new "Accepte - tant que je n'ai pas à le manger moi-même"
+    new "Accepter - tant que je n'ai pas à le manger moi-même"
 
     # game/code/d11/d11s02.rpy:150
     old "Decline - Reject this Fetish"
@@ -1722,9 +1722,9 @@ translate french strings:
 
     # game/code/d11/d11s02.rpy:654
     old "Decline. I think I'll keep Maria for myself"
-    new "refuser. Je pense que je vais garder Maria pour moi"
+    new "Refuser. Je pense que je vais garder Maria pour moi"
 
     # game/code/d11/d11s02.rpy:654
     old "Decline. I want nothing more to do with Maria or Terrell"
-    new "refuser. Je ne veux plus rien avoir à faire avec Maria ou Terrell"
+    new "Refuser. Je ne veux plus rien avoir à faire avec Maria ou Terrell"
 
