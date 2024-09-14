@@ -8,7 +8,7 @@ translate french d11s03b_d02856eb:
 translate french d11s03b_699878f6:
 
     # mc "Hey!"
-    mc "Hé!"
+    mc "Hé !"
 
 # game/code/d11/extended/d11s03b.rpy:22
 translate french d11s03b_6e385227:
@@ -20,7 +20,7 @@ translate french d11s03b_6e385227:
 translate french d11s03b_38e52425:
 
     # mc "You look tired!"
-    mc "Tu as l'air fatigué!"
+    mc "Tu as l'air fatiguée !"
 
 # game/code/d11/extended/d11s03b.rpy:28
 translate french d11s03b_f2565dcc:
@@ -32,7 +32,7 @@ translate french d11s03b_f2565dcc:
 translate french d11s03b_1c0e4f40:
 
     # mc "Oh! Then I won't keep you any longer! You look like you could use some breakfast!"
-    mc "Oh! Alors je ne te garderai plus longtemps! On dirait que tu aurais besoin d'un petit-déjeuner !"
+    mc "Oh ! Alors je ne te retiendrai pas plus longtemps ! On dirait que tu as besoin d'un petit-déjeuner !"
 
 # game/code/d11/extended/d11s03b.rpy:34
 translate french d11s03b_51d8eede:
@@ -44,19 +44,19 @@ translate french d11s03b_51d8eede:
 translate french d11s03b_4363cc93:
 
     # mc "I'm sorry! It might've come out wrong. I just meant..."
-    mc "Je suis désolé! Cela aurait pu mal se passer. Je voulais juste dire..."
+    mc "Je suis désolé ! Cela aurait pu mal se passer. Je voulais juste dire..."
 
 # game/code/d11/extended/d11s03b.rpy:40
 translate french d11s03b_374c5246:
 
     # aw "I'm kidding! But stick around. You look like you have something to say."
-    aw "Je plaisante! Mais restez dans les parages. On dirait que tu as quelque chose à dire."
+    aw "Je plaisante ! Mais reste dans les parages. On dirait que tu as quelque chose à dire."
 
 # game/code/d11/extended/d11s03b.rpy:43
 translate french d11s03b_572f0e82:
 
     # mc "Sure, yeah. {w}I guess there has been something on my mind..."
-    mc "Bien sûr, ouais. {w}Je suppose que j'ai quelque chose en tête..."
+    mc "Bien sûr, oui. {w}Je suppose que j'ai quelque chose en tête..."
 
 # game/code/d11/extended/d11s03b.rpy:46
 translate french d11s03b_98df89b7:
@@ -74,7 +74,7 @@ translate french d11s03b_9077c770:
 translate french d11s03b_1872433f:
 
     # aw "Not in the slightest. So, what's up?"
-    aw "Pas du tout. Alors quoi de neuf?"
+    aw "Pas du tout. Alors quoi de neuf ?"
 
 # game/code/d11/extended/d11s03b.rpy:55
 translate french d11s03b_af756eba:
@@ -98,7 +98,7 @@ translate french d11s03b_953cb93f:
 translate french d11s03b_1a3ce239:
 
     # mc "Pretty much."
-    mc "c'est ça."
+    mc "C'est ça."
 
 # game/code/d11/extended/d11s03b.rpy:65
 translate french d11s03b_8240cfea:
@@ -116,13 +116,13 @@ translate french replay_d11s03b_0738a4fb:
 translate french replay_d11s03b_7a64b3e8:
 
     # aw "You're telling me! I must have cum more than a dozen times!"
-    aw "Tu me dîs! J'ai dû jouir plus d'une douzaine de fois !"
+    aw "Tu me dîs ! J'ai dû jouir plus d'une douzaine de fois !"
 
 # game/code/d11/extended/d11s03b.rpy:84
 translate french replay_d11s03b_4a668329:
 
     # mh "Which one is better?"
-    mh "Quel est le meilleur?"
+    mh "Quel est le meilleur ?"
 
 # game/code/d11/extended/d11s03b.rpy:86
 translate french replay_d11s03b_dff309e8:
@@ -134,7 +134,7 @@ translate french replay_d11s03b_dff309e8:
 translate french replay_d11s03b_fd146de5:
 
     # mh "Oh? There's a \"but\"?"
-    mh "Oh? Il y a un \"mais\"?"
+    mh "Oh ? Il y a un \"mais\" ?"
 
 # game/code/d11/extended/d11s03b.rpy:95
 translate french replay_d11s03b_8f841cc0:
@@ -152,7 +152,7 @@ translate french replay_d11s03b_79a3d003:
 translate french replay_d11s03b_5cd531c4:
 
     # aw "True that. I want both together, but I need a chillout break. My head is spinning!"
-    aw "Vrai que. Je veux les deux ensemble, mais j'ai besoin d'une pause détente. J'ai la tête qui tourne!"
+    aw "Vrai que. Je veux les deux ensemble, mais j'ai besoin d'une pause détente. J'ai la tête qui tourne !"
 
 # game/code/d11/extended/d11s03b.rpy:112
 translate french replay_d11s03b_87a31310:
@@ -170,7 +170,7 @@ translate french replay_d11s03b_d75c40a1:
 translate french replay_d11s03b_2484807d:
 
     # mh "Yeah! This hotel room is worth every cent!"
-    mh "Ouais! Cette chambre d'hôtel vaut chaque centime !"
+    mh "Ouais ! Cette chambre d'hôtel vaut chaque centime !"
 
 # game/code/d11/extended/d11s03b.rpy:121
 translate french replay_d11s03b_99f0f7d2:
@@ -188,7 +188,7 @@ translate french replay_d11s03b_96834bb5:
 translate french replay_d11s03b_c7dbd577:
 
     # aw "Oh! How about this?"
-    aw "Oh! Que dis-tu de ça?"
+    aw "Oh ! Que dis-tu de ça ?"
 
 # game/code/d11/extended/d11s03b.rpy:137
 translate french replay_d11s03b_05ca98fe:
@@ -206,13 +206,13 @@ translate french replay_d11s03b_b3992718:
 translate french replay_d11s03b_226e3906:
 
     # mh "Surprise me!"
-    mh "Surprends-moi!"
+    mh "Surprends-moi !"
 
 # game/code/d11/extended/d11s03b.rpy:154
 translate french replay_d11s03b_85b9d9b4:
 
     # mh "Wow! How?!"
-    mh "Ouah! Comment?!"
+    mh "Ouah ! Comment ?!"
 
 # game/code/d11/extended/d11s03b.rpy:164
 translate french replay_d11s03b_515e3292:
@@ -224,19 +224,19 @@ translate french replay_d11s03b_515e3292:
 translate french replay_d11s03b_808caa4e:
 
     # aw "Hmm?"
-    aw "Hmm?"
+    aw "Hmm ?"
 
 # game/code/d11/extended/d11s03b.rpy:176
 translate french replay_d11s03b_95b0f216:
 
     # aw "Wow! I didn't expect that from such a respectful lawyer!"
-    aw "Ouah! Je ne m'attendais pas à cela de la part d'un avocat aussi respectueux !"
+    aw "Ouah ! Je ne m'attendais pas à cela de la part d'une avocate aussi respectueuse !"
 
 # game/code/d11/extended/d11s03b.rpy:182
 translate french replay_d11s03b_b0a0afd1:
 
     # mh "You have no idea what a pervert I am!"
-    mh "Tu n'imagines pas à quel point je suis pervers !"
+    mh "Tu n'imagines pas à quel point je suis perverse !"
 
 # game/code/d11/extended/d11s03b.rpy:186
 translate french replay_d11s03b_a7a96934:
@@ -260,19 +260,19 @@ translate french replay_d11s03b_ab6b4b5a:
 translate french replay_d11s03b_ddcbdec4:
 
     # aw "So, what do you think?"
-    aw "Alors qu'est-ce que tu en penses?"
+    aw "Alors qu'est-ce que tu en penses ?"
 
 # game/code/d11/extended/d11s03b.rpy:242
 translate french replay_d11s03b_a01a0f08:
 
     # mc "Wow! That is some story!"
-    mc "Ouah! C'est une histoire !"
+    mc "Ouah ! C'est une histoire !"
 
 # game/code/d11/extended/d11s03b.rpy:245
 translate french replay_d11s03b_32eb005a:
 
     # aw "Oh! Don't mention that story to Lyssa. She might be upset that I told anyone - even you."
-    aw "Oh! Ne parlez pas de cette histoire à Lyssa. Elle pourrait être contrariée que je l'ai dit à quelqu'un, même à toi."
+    aw "Oh ! Ne parlez pas de cette histoire à Lyssa. Elle pourrait être contrariée que je l'ai dit à quelqu'un, même à toi."
 
 # game/code/d11/extended/d11s03b.rpy:248
 translate french replay_d11s03b_14f9c877:
