@@ -68,7 +68,7 @@ translate french d12s05_03640fae:
 translate french d12s05_c2477e2d:
 
     # mct "I still have trouble believing that she's not jealous or angry that I'm messing around with other women."
-    mct "J'ai encore du mal à croire qu'elle n'est pas jalouse ou en colère parce que je m'amuse avec d'autres femmes."
+    mct "J'ai encore du mal à croire qu'elle ne soit pas jalouse ou en colère parce que je m'amuse avec d'autres femmes."
 
 # game/code/d12/d12s05.rpy:60
 translate french d12s05_615e9d5b:
@@ -116,7 +116,7 @@ translate french d12s05_aab7ba59:
 translate french d12s05_d6750a6a:
 
     # lc "[mcname]! I'm so glad you made it!"
-    lc "[mcname]! Je suis tellement contente que tu sois venu !"
+    lc "[mcname] ! Je suis tellement contente que tu sois venu !"
 
 # game/code/d12/d12s05.rpy:104
 translate french d12s05_13366b94:
@@ -128,7 +128,7 @@ translate french d12s05_13366b94:
 translate french d12s05_a40e3b14:
 
     # nk "Aww. You two are too sweet."
-    nk "Aww. Vous êtes trop mignons."
+    nk "Aww. Vous êtes trop mignons tous les deux."
 
 # game/code/d12/d12s05.rpy:111
 translate french d12s05_862d3374:
@@ -146,7 +146,7 @@ translate french d12s05_0ff377c2:
 translate french d12s05_02c6cb87:
 
     # mc "Hey Nora. How's business?"
-    mc "Salut Nora. Comment vont les affaires?"
+    mc "Salut Nora. Comment vont les affaires ?"
 
 # game/code/d12/d12s05.rpy:120
 translate french d12s05_9a932d26:
@@ -164,7 +164,7 @@ translate french d12s05_78e24719:
 translate french d12s05_b019de83:
 
     # lc "Oh! [mcname]! You'll never guess!"
-    lc "Oh! [mcname]! Tu ne devineras jamais !"
+    lc "Oh ! [mcname]! Tu ne devineras jamais !"
 
 # game/code/d12/d12s05.rpy:129
 translate french d12s05_c17ef8ec:
@@ -284,13 +284,13 @@ translate french d12s05_3980ae64:
 translate french d12s05_d262cb86:
 
     # lc "Oh maybe then, no I know then."
-    lc "Peut-être que ça arrivera, ça arrivera bien."
+    lc "Oh peut-être alors, non je sais alors."
 
 # game/code/d12/d12s05.rpy:177
 translate french d12s05_9c96fc53:
 
     # lc "I'll convince you to stay for a while."
-    lc "Je te ferais rester à moi."
+    lc "Je vais te convaincre de rester un moment."
 
 # game/code/d12/d12s05.rpy:184
 translate french d12s05_a654d771:
@@ -326,7 +326,7 @@ translate french d12s05_6b737af1:
 translate french d12s05_4b0bb92e:
 
     # mc "You... what?"
-    mc "Tu as.... quoi?"
+    mc "Tu as.... quoi ?"
 
 # game/code/d12/d12s05.rpy:206
 translate french d12s05_ceb11587:
@@ -596,7 +596,7 @@ translate french d12s05_part2_eb5b81ed:
 translate french d12s05_part2_d4df9412:
 
     # mc "Really? I didn't know you could even do that."
-    mc "Vraiment? Je ne savais même pas que tu pouvais faire ça."
+    mc "Vraiment ? Je ne savais même pas que tu pouvais faire ça."
 
 # game/code/d12/d12s05.rpy:362
 translate french d12s05_part2_9ac0b13c:
@@ -626,7 +626,7 @@ translate french d12s05_part2_f988d2dd:
 translate french d12s05_part2_63ed7a36:
 
     # lc "I thought that the perfect film for us to watch together would be \"Grease\"!"
-    lc "Je pensais que le film parfait à regarder ensemble serait \"Grease\"!"
+    lc "Je pensais que le film parfait à regarder ensemble serait \"Grease\" !"
 
 # game/code/d12/d12s05.rpy:371
 translate french d12s05_part2_acb54a85:
@@ -788,7 +788,7 @@ translate french d12s05_part2_b44b4685:
 translate french d12s05_part2_2e55f623:
 
     # mc "Of course. {w}You're allowed to enjoy yourself."
-    mc "Bien sûr. {w}Tu as le droit de vous amuser."
+    mc "Bien sûr. {w}Tu as le droit de t'amuser."
 
 # game/code/d12/d12s05.rpy:444
 translate french d12s05_part2_9f58b072:
@@ -866,7 +866,7 @@ translate french d12s05_part2_f7f6822d:
 translate french d12s05_part2_b5231666:
 
     # lc "Are you? {w}Does it feel like an addiction or compulsion?"
-    lc "l'es-tu? {w}Est-ce que cela ressemble à une dépendance ou à une compulsion ?"
+    lc "l'es-tu ? {w}Est-ce que cela ressemble à une dépendance ou à une compulsion ?"
 
 # game/code/d12/d12s05.rpy:469
 translate french d12s05_part2_4b7209f6:
@@ -896,7 +896,7 @@ translate french d12s05_part2_16cf56e7:
 translate french d12s05_part2_08acb59f:
 
     # mc "Like with video games, or a school project. I get very focused and obsess to accomplish a goal. It's useful."
-    mc "Comme avec les jeux vidéo, ou un projet scolaire. Je suis très concentré et obsédé par l’atteinte d’un objectif. C'est utile."
+    mc "Comme avec les jeux vidéo, ou un projet scolaire. Je suis très concentré et obsédé pour atteinte un objectif. C'est utile."
 
 # game/code/d12/d12s05.rpy:481
 translate french d12s05_part2_6bc3b2a9:
@@ -950,7 +950,7 @@ translate french d12s05_part2_721ddb12:
 translate french d12s05_part2_aa01654b:
 
     # lc "Ha! {w}Oh! The movie is starting."
-    lc "Ha! {w}Oh! Le film commence."
+    lc "Ha ! {w}Oh ! Le film commence."
 
 # game/code/d12/d12s05.rpy:505
 translate french d12s05_part2_9f358fa6:
@@ -1052,7 +1052,7 @@ translate french d12s05_hjcum_844b458e:
 translate french d12s05_hjcum_f7d3cdb3:
 
     # mc "That makes sense."
-    mc "Je comprend."
+    mc "Je comprends."
 
 # game/code/d12/d12s05.rpy:620
 translate french d12s05_hjcum_2ba1596b:
@@ -1166,7 +1166,7 @@ translate french d12s05_end_5fd416f6:
 translate french d12s05_end_2fd0ff4a:
 
     # mct "Dahlia?"
-    mct "Dahlia?"
+    mct "Dahlia ?"
 
 # game/code/d12/d12s05.rpy:706
 translate french d12s05_end_a67acd13:
