@@ -32,7 +32,7 @@ translate french d12s04_2e006842:
 translate french d12s04_713f1cc6:
 
     # op "Hey!"
-    op "Hey!"
+    op "Hey !"
 
 # game/code/d12/d12s04.rpy:62
 translate french d12s04_efea2d05:
@@ -194,7 +194,7 @@ translate french d12s04_b2b9e19d:
 translate french d12s04_2a54acd0:
 
     # mc "\"Forced to\"? What do you mean?"
-    mc "\"Forcé\"? Que veux tu dire ?"
+    mc "\"Obligé\" ? Que veux tu dire ?"
 
 # game/code/d12/d12s04.rpy:145
 translate french d12s04_1dbc95fd:
@@ -218,7 +218,7 @@ translate french d12s04_5a3765d8:
 translate french d12s04_c406367b:
 
     # op "Guess you do."
-    op "Je supose que oui."
+    op "Je suppose que oui."
 
 # game/code/d12/d12s04.rpy:157
 translate french d12s04_991a5a6e:
@@ -290,7 +290,7 @@ translate french d12s04_2cf52e98:
 translate french d12s04_e068d95b:
 
     # op "Sorry. I have to go for a bit."
-    op "Désolé. Je m'absenter un moment."
+    op "Désolé. Je dois m'absenter un moment."
 
 # game/code/d12/d12s04.rpy:196
 translate french d12s04_24d2f6cb:
@@ -302,7 +302,7 @@ translate french d12s04_24d2f6cb:
 translate french d12s04_606e2d02:
 
     # mc "Sure."
-    mc "Biensûr."
+    mc "Bien sûr."
 
 # game/code/d12/d12s04.rpy:200
 translate french d12s04_b6c19f2e:
@@ -338,7 +338,7 @@ translate french replay_d12s04_98f67cdc:
 translate french replay_d12s04_eaa95fad:
 
     # mc "I wanted to come see you, but had some stuff I need to clear up with the judge."
-    mc "Je voulais venir te voir, mais j'avais des choses à clarifier avec le juge."
+    mc "Je voulais venir te voir, mais j'avais des choses à clarifier avec la juge."
 
 # game/code/d12/d12s04.rpy:237
 translate french replay_d12s04_4eaa0254:
@@ -368,7 +368,7 @@ translate french replay_d12s04_faf75cbc:
 translate french replay_d12s04_c7cf2826:
 
     # mh "[mcname]?"
-    mh "[mcname]?"
+    mh "[mcname] ?"
 
 # game/code/d12/d12s04.rpy:253
 translate french replay_d12s04_9a08bcff:
@@ -380,7 +380,7 @@ translate french replay_d12s04_9a08bcff:
 translate french replay_d12s04_47b31a42:
 
     # mh "I didn't know that you were gonna come by today. How long have you been here? Why didn't you call me?"
-    mh "Je ne savais pas que tu viendrais aujourd'hui. Depuis combien de temps es-tu ici ? Pourquoi tu ne m'as pas appelé ?"
+    mh "Je ne savais pas que tu viendrais aujourd'hui. Depuis combien de temps es-tu ici ? Pourquoi tu ne m'as pas appelée ?"
 
 # game/code/d12/d12s04.rpy:260
 translate french replay_d12s04_4eb824bf:
@@ -410,7 +410,7 @@ translate french replay_d12s04_1e53b24c:
 translate french replay_d12s04_195b8108:
 
     # mc "Interesting thing for a woman with the biggest surprise around to say."
-    mc "Fait intéressant, venant d'une femme qui à la plus grosse surprise."
+    mc "Fait intéressant, venant d'une femme qui à la plus grosse des surprises."
 
 # game/code/d12/d12s04.rpy:277
 translate french replay_d12s04_a757acf5:
@@ -440,13 +440,13 @@ translate french replay_d12s04_2bb79aeb:
 translate french replay_d12s04_70f69f38:
 
     # mc "What's in there?"
-    mc "Qu'est-ce qu'il y à là dedans?"
+    mc "Qu'est-ce qu'il y à là dedans ?"
 
 # game/code/d12/d12s04.rpy:290
 translate french replay_d12s04_e815ffca:
 
     # mh "Hm? Oh, a client left it. Bit of a klutz, that one."
-    mh "Hum? Oh, un client l'a laissé là. Quelle tête en l'aire celui-ci."
+    mh "Hum ? Oh, un client l'a laissé là. Quelle tête en l'air celui-ci."
 
 # game/code/d12/d12s04.rpy:291
 translate french replay_d12s04_e26c64f9:
@@ -548,7 +548,7 @@ translate french replay_d12s04_e1eaa9a1:
 translate french replay_d12s04_ba6c8fe5:
 
     # mh "You will treat an officer of the law with the due respect she deserves, am I clear?"
-    mh "Vous allez traiter un officier de justice avec le respect qu'elle mérite, suis-je clair ?"
+    mh "Vous allez traiter l'officier de justice avec le respect qu'elle mérite, suis-je claire ?"
 
 # game/code/d12/d12s04.rpy:383
 translate french replay_d12s04_db0b6b56:
@@ -590,7 +590,7 @@ translate french replay_d12s04_fa4f09e4:
 translate french replay_d12s04_03752cd7:
 
     # mh "Oh, really? Well then, I have to pat you down just to make sure."
-    mh "Oh vraiment? Eh bien, je dois vous palper juste pour être sûre."
+    mh "Oh vraiment ? Eh bien, je dois vous palper juste pour être sûre."
 
 # game/code/d12/d12s04.rpy:405
 translate french replay_d12s04_455784e8:
@@ -710,7 +710,7 @@ translate french replay_d12s04_e46b3853:
 translate french replay_d12s04_de945cd3:
 
     # mh "What happened?"
-    mh "Qu'est-ce qu'il s'est passé?"
+    mh "Qu'est-ce qu'il s'est passé ?"
 
 # game/code/d12/d12s04.rpy:542
 translate french d12s04_mhmc_69_2bd6dbab:
@@ -746,13 +746,13 @@ translate french d12s04_mhmc_69_5dc56ff4:
 translate french d12s04_mhmc_hj_762ea443:
 
     # mc "I need you to stand up."
-    mc "Lève toi"
+    mc "Lève-toi"
 
 # game/code/d12/d12s04.rpy:620
 translate french d12s04_mhmc_hj_2bd6dbab:
 
     # mh "What are you doing?"
-    mh "Qu'est-ce que tu fais?"
+    mh "Qu'est-ce que tu fais ?"
 
 # game/code/d12/d12s04.rpy:622
 translate french d12s04_mhmc_hj_8fb5f75b:
@@ -770,7 +770,7 @@ translate french d12s04_mhmc_hj_50a1cf59:
 translate french d12s04_mhmc_hj_4da19a50:
 
     # mh "God, yes!"
-    mh "Putain, oui!"
+    mh "Putain, oui !"
 
 # game/code/d12/d12s04.rpy:630
 translate french d12s04_mhmc_hj_d1ce15c4:
@@ -788,7 +788,7 @@ translate french d12s04_mhmc_hj_129b906d:
 translate french d12s04_mhmc_hj_f95e3804:
 
     # mc "I bet you would like that."
-    mc "Je parie que tu va aimer ça."
+    mc "Je parie que tu vas aimer ça."
 
 # game/code/d12/d12s04.rpy:642
 translate french d12s04_mhmc_hj_39f8f8d4:
@@ -818,7 +818,7 @@ translate french d12s04_mhmc_hj_63487642:
 translate french d12s04_mhmc_hj_d9590eed:
 
     # mh "Wow!"
-    mh "Wow!"
+    mh "Wow !"
 
 # game/code/d12/d12s04.rpy:708
 translate french d12s04_mhmc_hj_9b4fcc8d:
@@ -860,7 +860,7 @@ translate french d12s04_end_cc09cb78:
 translate french d12s04_end_a2671411:
 
     # mc "Like at the beach?"
-    mc "Comme à la plage?"
+    mc "Comme à la plage ?"
 
 # game/code/d12/d12s04.rpy:754
 translate french d12s04_end_53b61577:
