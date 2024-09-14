@@ -32,7 +32,7 @@ translate french d12s06_dw_25e88b7f:
 translate french d12s06_dw_57a687ae:
 
     # mct "Is that...Dahlia?"
-    mct "Est-ce que c'est...Dahlia?"
+    mct "Est-ce que c'est...Dahlia ?"
 
 # game/code/d12/d12s06.rpy:122
 translate french d12s06_dw_cdab1cd5:
@@ -62,7 +62,7 @@ translate french d12s06_dw_5adb7423:
 translate french d12s06_dw_8c25079a:
 
     # mc "Why did you text me? What's going on?"
-    mc "Pourquoi m'as-tu envoyé un texto ? Que se passe-t-il?"
+    mc "Pourquoi m'as-tu envoyé un texto ? Que se passe-t-il ?"
 
 # game/code/d12/d12s06.rpy:142
 translate french d12s06_dw_631b2afd:
@@ -134,7 +134,7 @@ translate french d12s06_dw_5aacb5cc:
 translate french d12s06_dw_eb9027ea:
 
     # dw "Heh, you'll just have to find out, won't you pet?{w} Now strip!"
-    dw "Hé, tu vera bien, c'est ce que tu veux chien ?{w} Maintenant, déshabille-toi !"
+    dw "Hé, tu verras bien, c'est ce que tu veux chien ?{w} Maintenant, déshabille-toi !"
 
 # game/code/d12/d12s06.rpy:181
 translate french d12s06_dw_720f74b7:
@@ -206,7 +206,7 @@ translate french d12s06_dw_bdf7c96f:
 translate french d12s06_dw_6f6091c4:
 
     # dd "Don't. You could get a UTI."
-    dd "Tu ne devrais pas, tu va chopper une IVU."
+    dd "Tu ne devrais pas, tu vas chopper une IST."
 
 # game/code/d12/d12s06.rpy:210
 translate french d12s06_dw_4f88f07d:
@@ -224,19 +224,19 @@ translate french d12s06_dw_8848736c:
 translate french d12s06_dw_ea1dc3bf:
 
     # dw "I actually wanna fucking cum today, so I guess I'll put off turning you into my little toilet for now."
-    dw "En fait, j'ai envie de jouir aujourd'hui, alors je suppose que je vais attendre avant de te transformer en mes toilettes personnelles."
+    dw "En fait, j'ai envie de jouir aujourd'hui, alors je suppose que je vais attendre avant de te transformer en toilettes personnelles."
 
 # game/code/d12/d12s06.rpy:219
 translate french d12s06_dw_780fe623:
 
     # dw "I want you to put that sissy tongue to use, you hear me?"
-    dw "Je veux que tu utilises cette langue de poule mouillée, tu m'entends?"
+    dw "Je veux que tu utilises cette langue de poule mouillée, tu m'entends ?"
 
 # game/code/d12/d12s06.rpy:223
 translate french d12s06_dw_c9bf818c:
 
     # mc "Yes, Mistress!"
-    mc "Oui, Maîtresse!"
+    mc "Oui, Maîtresse !"
 
 # game/code/d12/d12s06.rpy:242
 translate french d12s06_dw_01ecba4c:
@@ -278,7 +278,7 @@ translate french d12s06_dw_ad7a716b:
 translate french d12s06_dw_4ac1e460:
 
     # mc "Mmmmhh!"
-    mc "Mmmmhh!"
+    mc "Mmmmhh !"
 
 # game/code/d12/d12s06.rpy:289
 translate french d12s06_dw_01ecba4c_1:
@@ -326,13 +326,13 @@ translate french d12s06_dw_9a82c3cd:
 translate french d12s06_dw_d4ec5f10:
 
     # mc "AHH!"
-    mc "AHH!"
+    mc "AHH !"
 
 # game/code/d12/d12s06.rpy:349
 translate french d12s06_dw_d4ec5f10_1:
 
     # mc "AHH!"
-    mc "AHH!"
+    mc "AHH !"
 
 # game/code/d12/d12s06.rpy:355
 translate french d12s06_dw_ad350b54:
@@ -344,7 +344,7 @@ translate french d12s06_dw_ad350b54:
 translate french d12s06_dw_f06d2704:
 
     # mc "I couldn't breathe!"
-    mc "Je ne pouvais plus respirer!"
+    mc "Je ne pouvais plus respirer !"
 
 # game/code/d12/d12s06.rpy:361
 translate french d12s06_dw_d3651657:
@@ -380,7 +380,7 @@ translate french d12s06_dw_5adb7423_1:
 translate french d12s06_dw_a5eed78e:
 
     # mct "She could've fucking killed me! And all she could say was \"Give it a rest\"!?"
-    mct "Elle aurait pu me tuer ! Et tout ce qu'elle à pu dire c'est \"Laisse tomber\"!?"
+    mct "Elle aurait pu me tuer ! Et tout ce qu'elle à pu dire c'est \"Laisse tomber\" !?"
 
 # game/code/d12/d12s06.rpy:399
 translate french d12s06_dw_3cdd0f94:
@@ -398,7 +398,7 @@ translate french d12s06_dw_f7f5801a:
 translate french d12s06_dd_d97f7387:
 
     # mc "Hey, are you alright? What happened?"
-    mc "Hé, tu vas bien ? Qu'est-ce qu'il c'est passé?"
+    mc "Hé, tu vas bien ? Qu'est-ce qu'il c'est passé ?"
 
 # game/code/d12/d12s06.rpy:418
 translate french d12s06_dd_b2168da6:
@@ -422,7 +422,7 @@ translate french d12s06_dd_4906f4a5:
 translate french d12s06_dd_e8524816:
 
     # mct "\"For now\"?"
-    mct "\"Pour l'instant\"?"
+    mct "\"Pour l'instant\" ?"
 
 # game/code/d12/d12s06.rpy:427
 translate french d12s06_dd_ba81e7e3:
@@ -494,7 +494,7 @@ translate french d12s06_dd_e816e406:
 translate french d12s06_dd_cf7b216a:
 
     # mc "What did they say? Is there a treatment for this?"
-    mc "Qu'ont-ils dit? Existe-t-il un traitement pour ça ?"
+    mc "Qu'ont-ils dit ? Existe-t-il un traitement pour ça ?"
 
 # game/code/d12/d12s06.rpy:468
 translate french d12s06_dd_f4c00891:
@@ -530,7 +530,7 @@ translate french d12s06_dd_1806ef9a:
 translate french d12s06_dd_dac16979:
 
     # mc "I will."
-    mc "Biensûr."
+    mc "Bien sûr."
 
 # game/code/d12/d12s06.rpy:489
 translate french d12s06_dd_677550c9:
@@ -626,7 +626,7 @@ translate french replay_d12s06_dd_81c9248a:
 translate french replay_d12s06_dd_486da775:
 
     # mc "What did you mean by \"when Dahlia's gone\"? {w}Are you two not—"
-    mc "Que veux-tu dire par \"Quand Dahlia n'est pas là\"? {w}Vous deux n'êtes pas..."
+    mc "Que veux-tu dire par \"Quand Dahlia n'est pas là\" ? {w}Vous deux n'êtes pas..."
 
 # game/code/d12/d12s06.rpy:556
 translate french replay_d12s06_dd_6d050fae:
@@ -776,7 +776,7 @@ translate french replay_d12s06_dd_2aa9e65f:
 translate french replay_d12s06_dd_43c2ae4c:
 
     # dd "Ooohh!"
-    dd "Ooohh!"
+    dd "Ooohh !"
 
 # game/code/d12/d12s06.rpy:677
 translate french replay_d12s06_dd_767ef7b6:
