@@ -26,7 +26,7 @@ translate french d12s02_c57a25d0:
 translate french d12s02_4e85cb4d:
 
     # mc "Hello?"
-    mc "Allo?"
+    mc "Allo ?"
 
 # game/code/d12/d12s02.rpy:56
 translate french d12s02_875c4a29:
@@ -38,7 +38,7 @@ translate french d12s02_875c4a29:
 translate french d12s02_3accf656:
 
     # mc "Yes? Who is this?"
-    mc "Oui? Qui est-ce?"
+    mc "Oui ? Qui est-ce ?"
 
 # game/code/d12/d12s02.rpy:60
 translate french d12s02_e19d21b2:
@@ -50,7 +50,7 @@ translate french d12s02_e19d21b2:
 translate french d12s02_414f63c3:
 
     # mc "Who are you?"
-    mc "Qui êtes-vous?"
+    mc "Qui êtes-vous ?"
 
 # game/code/d12/d12s02.rpy:64
 translate french d12s02_abe22177:
@@ -110,19 +110,19 @@ translate french d12s02_a201c0d9:
 translate french d12s02_0b5f9a57:
 
     # mc "What? How the hell am I supposed to do that!?"
-    mc "Quoi? Comment diable suis-je censé faire ça !?"
+    mc "Quoi ? Comment diable suis-je censé faire ça !?"
 
 # game/code/d12/d12s02.rpy:107
 translate french d12s02_bc38c889:
 
     # mc "Case? What? How the hell am I supposed to do that!?"
-    mc "Une audience? Quoi? Comment diable suis-je censé faire ça !?"
+    mc "Une audience ? Quoi ? Comment diable suis-je censé faire ça !?"
 
 # game/code/d12/d12s02.rpy:110
 translate french d12s02_389fe0a5:
 
     # "Mysterious Woman" "Come to the courthouse. I'm sure you can find your way around."
-    "Femme mystérieuse" "Venez au palais de justice. Je suis sûr que tu sauras t'y retrouver."
+    "Femme mystérieuse" "Viens au palais de justice. Je suis sûr que tu sauras t'y retrouver."
 
 # game/code/d12/d12s02.rpy:111
 translate french d12s02_9ce9007a:
@@ -194,7 +194,7 @@ translate french d12s02_6eff7f44:
 translate french d12s02_957895e4:
 
     # hr "Sorry I was a bit late. Traffic."
-    hr "Désolé, j'étais un peu en retard. Trafic."
+    hr "Désolé, j'étais un peu en retard. Le trafic."
 
 # game/code/d12/d12s02.rpy:148
 translate french d12s02_a6cbcc62:
@@ -242,19 +242,19 @@ translate french d12s02_5bd4c850:
 translate french d12s02_6d4f429e:
 
     # hr "Oh? You seemed confident enough at the party."
-    hr "Oh? Tu semblais assez confiant à la fête."
+    hr "Oh ? Tu semblais assez confiant à la fête."
 
 # game/code/d12/d12s02.rpy:177
 translate french d12s02_69f02c1b:
 
-    # hr "So, what happened?"
-    hr "Alors, qu'est-ce-qu'il s'est passé?"
+    # hr "So, what happened ?"
+    hr "Alors, qu'est-ce-qu'il s'est passé ?"
 
 # game/code/d12/d12s02.rpy:179
 translate french d12s02_8562fd08:
 
     # "Password?"
-    "Mot de passe?"
+    "Mot de passe ?"
 
 # game/code/d12/d12s02.rpy:182
 translate french d12s02_f141243b:
@@ -332,7 +332,7 @@ translate french d12s02_62973e69:
 translate french d12s02_b91db70d:
 
     # "Yes! So?"
-    "Oui! Donc?"
+    "Oui ! Donc ?"
 
 # game/code/d12/d12s02.rpy:217
 translate french d12s02_eb012abc:
@@ -368,7 +368,7 @@ translate french d12s02_e8bc5252:
 translate french d12s02_ab314285:
 
     # "Nothing? Fuck. Maybe he's smarter than I thought. Did you look everywhere?"
-    "Rien? Putain. Peut-être qu'il est plus intelligent que je ne le pensais. As-tu regardé partout ?"
+    "Rien ? Putain. Peut-être qu'il est plus intelligent que je ne le pensais. As-tu regardé partout ?"
 
 # game/code/d12/d12s02.rpy:241
 translate french d12s02_18e1cfec:
@@ -506,7 +506,7 @@ translate french d12s02_18f3dd9d:
 translate french d12s02_981aada3:
 
     # "Is that it? Anything else?"
-    "Est-ce que c'est ça? Rien d'autre?"
+    "Est-ce que c'est ça ? Rien d'autre ?"
 
 # game/code/d12/d12s02.rpy:327
 translate french d12s02_52f7b26f:
@@ -560,13 +560,13 @@ translate french d12s02_fa858424:
 translate french d12s02_facf8920:
 
     # "Really? How many so far?"
-    "Vraiment? Combien jusqu’à présent ?"
+    "Vraiment ? Combien jusqu’à présent ?"
 
 # game/code/d12/d12s02.rpy:352
 translate french d12s02_184d94d1:
 
     # "Really? Didn't say how? How many now?"
-    "Vraiment? Vous n'avez pas dit comment ? Combien maintenant ?"
+    "Vraiment ? Vous n'avez pas dit comment ? Combien maintenant ?"
 
 # game/code/d12/d12s02.rpy:356
 translate french d12s02_5e5a4749:
@@ -632,13 +632,13 @@ translate french d12s02_376320a3:
 translate french d12s02_9f1369a3:
 
     # mct "Should I? If Hana goes for it, that'll be plus one fuck for the retention challenge."
-    mct "Devrais-je? Si Hana se lance, ce sera un putain de plus pour le défi de rétention."
+    mct "Devrais-je ? Si Hana se lance, ce sera un putain de plus pour le défi de rétention."
 
 # game/code/d12/d12s02.rpy:389
 translate french d12s02_83642fbb:
 
     # hr "Huh? Fuck."
-    hr "Hein? Putain."
+    hr "Hein ? Putain."
 
 # game/code/d12/d12s02.rpy:392
 translate french d12s02_a2140666:
@@ -704,7 +704,7 @@ translate french d12s02_12439406:
 translate french d12s02_f4947972:
 
     # "Anything else?"
-    "Rien d'autre?"
+    "Rien d'autre ?"
 
 # game/code/d12/d12s02.rpy:433
 translate french d12s02_dc073020:
@@ -770,7 +770,7 @@ translate french d12s02_blitz_a933923a:
 translate french d12s02_blitz_ce5b5a99:
 
     # hr "What? I don't want the poor janitor here to deal with that."
-    hr "Quoi? Je ne veux pas que le pauvre concierge ici s'occupe de ça."
+    hr "Quoi ? Je ne veux pas que le pauvre concierge ici s'occupe de ça."
 
 # game/code/d12/d12s02.rpy:540
 translate french d12s02_blitz_52c2aab6:
