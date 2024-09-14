@@ -1226,5 +1226,5 @@ translate french strings:
 
     # renpy/common/00accessibility.rpy:197
     old "Self-voicing support is limited when using a touch screen."
-    new "Self-voicing support is limited when using a touch screen."
+    new "La prise en charge de l'auto-voix est limitée lors de l'utilisation d'un écran tactile."
 
