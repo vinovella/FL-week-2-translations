@@ -80,7 +80,7 @@ translate french d11s01_33e12c70:
 translate french d11s01_6c435a1d:
 
     # flr "Your task is to have sex with 20 different people by the end of Sunday."
-    flr "Votre tâche est d'avoir des relations sexuelles avec 20 personnes différentes d'ici la fin du dimanche."
+    flr "Votre tâche est d'avoir des relations sexuelles avec 20 personnes différentes d'ici dimanche soir."
 
 # game/code/d11/d11s01.rpy:48
 translate french d11s01_28ed97c8:
@@ -176,7 +176,7 @@ translate french d11s01_7adaf980:
 translate french d11s01_dc72b30a:
 
     # mct "I will be eligible? Does that mean I get the grand prize or not?"
-    mct "serai-je éligible ? Est-ce que cela signifie que j'obtiens le grand prix ou non ?"
+    mct "Serai-je éligible ? Est-ce que cela signifie que j'obtiens le grand prix ou non ?"
 
 # game/code/d11/d11s01.rpy:88
 translate french d11s01_de950b47:
@@ -236,7 +236,7 @@ translate french d11s01_858655b1:
 translate french d11s01_d6110b85:
 
     # mct "Is that even possible?"
-    mct "Est-ce que c'est possible?"
+    mct "Est-ce que c'est possible ?"
 
 # game/code/d11/d11s01.rpy:101
 translate french d11s01_a62f38f6:
@@ -302,7 +302,7 @@ translate french d11s01_e4127198:
 translate french d11s01_3d19e378:
 
     # mct "Vanessa is a hot M.I.L.F. who definitely wants my D."
-    mct "Vanessa est une MILF chaude qui veut vraiment Ma B."
+    mct "Vanessa est une MILF chaude qui veut vraiment Ma Bite."
 
 # game/code/d11/d11s01.rpy:153
 translate french d11s01_936514ac:
@@ -392,25 +392,25 @@ translate french d11s01_8bac87f1:
 translate french d11s01_e0584415:
 
     # mc "You seem rather chipper this morning."
-    mc "Tu sembles plutôt joyeux ce matin."
+    mc "Tu sembles plutôt joyeuse ce matin."
 
 # game/code/d11/d11s01.rpy:203
 translate french d11s01_6a10466d:
 
     # arj "I am! It's going to be a great day!"
-    arj "Je suis! Ça va être une belle journée !"
+    arj "Je le suis ! Ça va être une belle journée !"
 
 # game/code/d11/d11s01.rpy:206
 translate french d11s01_3a3ccdfb:
 
     # mc "Why???"
-    mc "Pourquoi???"
+    mc "Pourquoi ???"
 
 # game/code/d11/d11s01.rpy:210
 translate french d11s01_9fa7ca11:
 
     # arj "First, drink your coffee. That's the second best way to start the day!"
-    arj "Tout d’abord, boit votre café. C'est la deuxième meilleure façon de commencer la journée !"
+    arj "Tout d’abord, boit ton café. C'est la deuxième meilleure façon de commencer la journée !"
 
 # game/code/d11/d11s01.rpy:213
 translate french d11s01_332539e9:
@@ -422,7 +422,7 @@ translate french d11s01_332539e9:
 translate french d11s01_94c4ba03:
 
     # arj "See this?"
-    arj "Regarde ça?"
+    arj "Regarde ça ?"
 
 # game/code/d11/d11s01.rpy:219
 translate french d11s01_d83b4b7b:
@@ -434,13 +434,13 @@ translate french d11s01_d83b4b7b:
 translate french d11s01_c07210b1:
 
     # arj "First time it is something good!"
-    arj "La première fois, c'est quelque chose de bien !"
+    arj "Pour la première fois, c'est quelque chose de bien !"
 
 # game/code/d11/d11s01.rpy:223
 translate french d11s01_3883d00c:
 
     # arj "I'm ready to do anything with you!"
-    arj "Je suis prêt à tout faire avec toi !"
+    arj "Je suis prête à tout faire avec toi !"
 
 # game/code/d11/d11s01.rpy:226
 translate french d11s01_17db443b:
@@ -452,7 +452,7 @@ translate french d11s01_17db443b:
 translate french d11s01_6c435a1d_1:
 
     # flr "Your task is to have sex with 20 different people by the end of Sunday."
-    flr "Votre tâche est d'avoir des relations sexuelles avec 20 personnes différentes d'ici la fin du dimanche."
+    flr "Votre tâche est d'avoir des relations sexuelles avec 20 personnes différentes d'ici dimanche soir."
 
 # game/code/d11/d11s01.rpy:241
 translate french d11s01_a1b21b5a:
@@ -476,7 +476,7 @@ translate french d11s01_28ed97c8_1:
 translate french d11s01_f88846ef:
 
     # mc "Keep going... Read about the punishment..."
-    mc "Continue...Lise à propos de la punition..."
+    mc "Continue...Lis la punition..."
 
 # game/code/d11/d11s01.rpy:247
 translate french d11s01_cc233338_1:
@@ -494,13 +494,13 @@ translate french d11s01_4829437f:
 translate french d11s01_9f9c26f3:
 
     # arj "What the fuck?? How is that??"
-    arj "C'est quoi ce bordel ?? Qu'est que c'est??"
+    arj "C'est quoi ce bordel ?? Qu'est que c'est ??"
 
 # game/code/d11/d11s01.rpy:256
 translate french d11s01_771be156:
 
     # arj "Let's go!"
-    arj "Allons-y!"
+    arj "Allons-y !"
 
 # game/code/d11/d11s01.rpy:259
 translate french d11s01_fef72443:
@@ -512,19 +512,19 @@ translate french d11s01_fef72443:
 translate french d11s01_b6115818:
 
     # arj "You can fuck me! Now! Please!"
-    arj "Tu peux me baiser ! Maintenant! S'il te plaît!"
+    arj "Tu peux me baiser ! Maintenant! S'il te plaît !"
 
 # game/code/d11/d11s01.rpy:264
 translate french d11s01_d9909d16:
 
     # mc "Are you saying that's a better way to start the day than coffee?"
-    mc "Êtes-vous en train de dire que c'est une meilleure façon de commencer la journée que le café ?"
+    mc "Es-tu en train de dire que c'est une meilleure façon de commencer la journée que le café ?"
 
 # game/code/d11/d11s01.rpy:267
 translate french d11s01_7183937e:
 
     # arj "What the hell! Didn't you read? You need to fuck me!"
-    arj "Que diable! Tu n'as pas lu ? Tu dois me baiser !"
+    arj "Que diable ! Tu n'as pas lu ? Tu dois me baiser !"
 
 # game/code/d11/d11s01.rpy:269
 translate french d11s01_c892ab9e:
@@ -536,7 +536,7 @@ translate french d11s01_c892ab9e:
 translate french d11s01_5ba2b867:
 
     # arj "Please! I want to be your number one!"
-    arj "S'il te plaît! Je veux être ton numéro un !"
+    arj "S'il te plaît ! Je veux être ton numéro un !"
 
 # game/code/d11/d11s01.rpy:274
 translate french d11s01_125681c2:
@@ -560,7 +560,7 @@ translate french d11s01_bb9cc54d:
 translate french d11s01_0efdab50:
 
     # arj "Oh... I'm sorry..."
-    arj "Oh je suis désolé..."
+    arj "Oh je suis désolée..."
 
 # game/code/d11/d11s01.rpy:284
 translate french d11s01_1182af04:
@@ -578,13 +578,13 @@ translate french d11s01_0c9c167a:
 translate french d11s01_f349599f:
 
     # mc "But we get together tonight and have a fucking nice time. Ok?"
-    mc "Mais on se retrouve ce soir et on passe un putain de bon moment. D'accord?"
+    mc "Mais on se retrouve ce soir et on passe un putain de bon moment. D'accord ?"
 
 # game/code/d11/d11s01.rpy:289
 translate french d11s01_812abc04:
 
     # arj "Sure! Okay!"
-    arj "Bien sûr! D'accord!"
+    arj "Bien sûr ! D'accord !"
 
 # game/code/d11/d11s01.rpy:292
 translate french d11s01_9696cc87:
