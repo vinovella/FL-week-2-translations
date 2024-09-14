@@ -32,7 +32,7 @@ translate french d11s05_75470d74:
 translate french d11s05_1318af3e:
 
     # mct "Mixen? Dixen? Pixen? God, I'd lose to a Goldfish on a memory test."
-    mct "Mixen ? Dixen? Pixen ? Mon Dieu, je perdrais contre un poisson rouge à un test de mémoire."
+    mct "Mixen ? Dixen ? Pixen ? Mon Dieu, je perdrais contre un poisson rouge à un test de mémoire."
 
 # game/code/d11/d11s05.rpy:55
 translate french d11s05_ba2a0138:
@@ -92,7 +92,7 @@ translate french d11s05_f94b4ed4:
 translate french d11s05_f41a9575:
 
     # mct "*Relieved sigh* Well, on one hand, Pete most likely isn't the head honcho of Fetish Locator."
-    mct "*Soupir soulagé* Eh bien, d'un côté, Pete n'est probablement pas le grand patron de Fetish Locator."
+    mct "*Soupir de soulagement* Eh bien, d'un côté, Pete n'est probablement pas le grand patron de Fetish Locator."
 
 # game/code/d11/d11s05.rpy:133
 translate french d11s05_711685eb:
@@ -254,7 +254,7 @@ translate french d11s05_a341148f:
 translate french d11s05_89187c1d:
 
     # hr "Hello?"
-    hr "Bonjour?"
+    hr "Bonjour ?"
 
 # game/code/d11/d11s05.rpy:214
 translate french d11s05_05788526:
@@ -266,19 +266,19 @@ translate french d11s05_05788526:
 translate french d11s05_a77fd7d6:
 
     # mct "Oh shit!"
-    mct "Oh merde!"
+    mct "Oh merde !"
 
 # game/code/d11/d11s05.rpy:218
 translate french d11s05_6f39133f:
 
     # mc "Hey! This is [mcname], we met at the FL party.{w} Do you remember me?"
-    mc "Hé! Ici [mcname], nous nous sommes rencontrés à la soirée FL.{w} Vous vous souvenez de moi ?"
+    mc "Hé ! Ici [mcname], nous nous sommes rencontrés à la soirée FL.{w} Tu te souviens de moi ?"
 
 # game/code/d11/d11s05.rpy:221
 translate french d11s05_dd804b60:
 
     # hr "Huh? [mcname]? Why are you...?{w} Oh. Yes, yeah, I remember you."
-    hr "Hein? [mcname] ? Pourquoi es-tu... ?{w} Oh. Oui, ouais, je me souviens de toi."
+    hr "Hein ? [mcname] ? Pourquoi es-tu... ?{w} Oh. Oui, ouais, je me souviens de toi."
 
 # game/code/d11/d11s05.rpy:223
 translate french d11s05_4938da2e:
@@ -296,7 +296,7 @@ translate french d11s05_44d5fb34:
 translate french d11s05_b7a240ef:
 
     # mct "\"Things\"!?"
-    mct "\"choses\"!?"
+    mct "\"choses\" !?"
 
 # game/code/d11/d11s05.rpy:233
 translate french d11s05_82bead1d:
@@ -308,7 +308,7 @@ translate french d11s05_82bead1d:
 translate french d11s05_c61a710f:
 
     # hr "Oh, wow! Just like that? I like a direct guy."
-    hr "Oh wow! Juste comme ça? J'aime les gars directs."
+    hr "Oh wow ! Juste comme ça ? J'aime les gars directs."
 
 # game/code/d11/d11s05.rpy:239
 translate french d11s05_07e72b60:
@@ -338,7 +338,7 @@ translate french d11s05_bda1d96f:
 translate french d11s05_bdc51227:
 
     # mct "Huh! Nora?"
-    mct "Hein! Nora?"
+    mct "Hein ! Nora ?"
 
 # game/code/d11/d11s05.rpy:255
 translate french d11s05_8737dff3:
@@ -350,7 +350,7 @@ translate french d11s05_8737dff3:
 translate french d11s05_61db58ee:
 
     # mc "Right now?"
-    mc "Tout de suite?"
+    mc "Tout de suite ?"
 
 # game/code/d11/d11s05.rpy:261
 translate french d11s05_dbeee67f:
@@ -386,7 +386,7 @@ translate french strings:
 
     # game/code/d11/d11s05.rpy:171
     old "Don't do it. Trust your friend"
-    new "Ne le fais pas. Faites confiance à votre ami"
+    new "Ne le fais pas. Faire confiance à votre ami"
 
     # game/code/d11/d11s05.rpy:171
     old "Do it. Find out the truth"
