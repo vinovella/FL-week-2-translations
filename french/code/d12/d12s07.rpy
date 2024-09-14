@@ -134,7 +134,7 @@ translate french d12s07_7a342a2c:
 translate french d12s07_cb0c8e2b:
 
     # lc "You're even more competitive than Min with that thing."
-    lc "YTu es encore plus compétitif que Min avec ce truc."
+    lc "Tu es encore plus compétitif que Min avec ce truc."
 
 # game/code/d12/d12s07.rpy:90
 translate french d12s07_d0593de2:
@@ -260,7 +260,7 @@ translate french d12s07_f41dffc4:
 translate french d12s07_6c269e6a:
 
     # lc "Can you do me a favor? {w}Just a little something before we both go to sleep?"
-    lc "Peut tu me rendre un service? {w}Juste un petit quelque chose avant qu'on s'endorme tous les deux ?"
+    lc "Peux-tu me rendre un service ? {w}Juste un petit quelque chose avant qu'on s'endorme tous les deux ?"
 
 # game/code/d12/d12s07.rpy:149
 translate french d12s07_e59abd2a:
@@ -278,7 +278,7 @@ translate french d12s07_050c9195:
 translate french d12s07_aec0b0fe:
 
     # mc "Sure, but you were there."
-    mc "Biensûr, mais tu sais que tu étais là ?"
+    mc "Bien sûr, mais tu sais que tu étais là ?"
 
 # game/code/d12/d12s07.rpy:156
 translate french d12s07_36f87373:
