@@ -68,7 +68,7 @@ translate french d11s04_40ef45ef:
 translate french d11s04_4a7a5d5d:
 
     # dd "There's a reason why I hate doctors and hospitals, you know."
-    dd "Il y a une raison pour laquelle je déteste les docteurs et les hôpitaux, vous savez."
+    dd "Il y a une raison pour laquelle je déteste les docteurs et les hôpitaux, tu sais."
 
 # game/code/d11/d11s04.rpy:76
 translate french d11s04_b7a8e8ee:
@@ -122,13 +122,13 @@ translate french d11s04_a50f4007:
 translate french d11s04_fd2c30c1:
 
     # dd "All of a sudden, this mountain of a man just clutches his chest and falls to his knees."
-    dd "Tout d’un coup, cette montagne d’homme se saisit simplement de la poitrine et tombe à genoux."
+    dd "Soudainement, cette montagne d’homme s'est saisi la poitrine et est tombé à genoux."
 
 # game/code/d11/d11s04.rpy:97
 translate french d11s04_7fd10915:
 
     # dd "We took him to seven God-damn, shit-fucking doctors, and not {i}{b}one{/b}{/i} knew what was wrong with him before it was too late."
-    dd "Nous l'avons emmené chez sept putains de docteurs, mais {i}{b}aucun{/b}{/i} n'a su ce qui n'allait pas avant qu'il ne soit trop tard."
+    dd "Il a vu 7 putains de docteurs, mais {i}{b}aucun{/b}{/i} n'a su ce qui n'allait pas avant qu'il ne soit trop tard."
 
 # game/code/d11/d11s04.rpy:99
 translate french d11s04_ad36558e_2:
@@ -146,13 +146,13 @@ translate french d11s04_bbe50918:
 translate french d11s04_0129323d:
 
     # dd "Sorry for being a downer."
-    dd "Désolé d'être déprimant."
+    dd "Désolé d'être déprimante."
 
 # game/code/d11/d11s04.rpy:109
 translate french d11s04_7efbcade:
 
     # mc "Don't say that. It's alright. Thank you for telling me about him."
-    mc "Ne dis pas ça. C'est d'accord. Merci de m'avoir parlé de lui."
+    mc "Ne dis pas ça. C'est ok. Merci de m'avoir parlé de lui."
 
 # game/code/d11/d11s04.rpy:112
 translate french d11s04_110ed781:
@@ -200,7 +200,7 @@ translate french d11s04_25dd5181:
 translate french d11s04_86b8b43a:
 
     # "Doctor" "So, Daisy was it? {w}What can I do for you today?"
-    "Docteur" "Alors, Daisy, c'était ça ? {w}Que puis-je faire pour vous aujourd'hui ?"
+    "Docteur" "Alors, Daisy, c'est ça ? {w}Que puis-je faire pour vous aujourd'hui ?"
 
 # game/code/d11/d11s04.rpy:156
 translate french d11s04_70ff2547:
@@ -218,13 +218,13 @@ translate french d11s04_c55aeb3d:
 translate french d11s04_f828709d:
 
     # dd "Well, I haven't exactly kept track of it. But usually when I do something, I dunno, intense, or high energy."
-    dd "Eh bien, je n'en ai pas exactement suivi. Mais généralement, quand je fais quelque chose, je ne sais pas, d'intense ou très énergique."
+    dd "Eh bien, je ne sais pas exactement. Mais généralement, quand je fais quelque chose, je ne sais pas, d'intense ou très énergique."
 
 # game/code/d11/d11s04.rpy:162
 translate french d11s04_9dacab18:
 
     # dd "I feel light-headed, and I feel like I can't breathe before fainting."
-    dd "Je me sens étourdi et j'ai l'impression de ne pas pouvoir respirer avant de m'évanouir."
+    dd "Je me sens étourdie et j'ai l'impression de ne pas pouvoir respirer avant de m'évanouir."
 
 # game/code/d11/d11s04.rpy:164
 translate french d11s04_3d5dbb23:
@@ -242,7 +242,7 @@ translate french d11s04_b8f49847:
 translate french d11s04_80eacc17:
 
     # dd "I...I don't know. {w}I've always felt a little light-headed if I jump around too much, but like...a couple months back, I guess? Felt more nauseous than usual and just...dropped."
-    dd "Je...je ne sais pas. {w}Je me suis toujours senti un peu étourdi si je sautais trop, mais genre...il y a quelques mois, je suppose ? Je me suis senti plus nauséeux que d'habitude et j'ai juste...fait un malaise."
+    dd "Je...je ne sais pas. {w}Je me suis toujours senti un peu étourdie si je sautais trop, mais genre...il y a quelques mois, je suppose ? Je me suis senti plus nauséeuse que d'habitude et j'ai juste...fait un malaise."
 
 # game/code/d11/d11s04.rpy:172
 translate french d11s04_951ef747:
@@ -314,7 +314,7 @@ translate french d11s04_9abb9fb7_1:
 translate french d11s04_378b102b:
 
     # "Doctor" "Would you mind taking off your sweater dress?"
-    "Docteur" "Pourriez-vous enlever votre robe?"
+    "Docteur" "Pourriez-vous enlever votre robe ?"
 
 # game/code/d11/d11s04.rpy:211
 translate french d11s04_4425326e:
@@ -338,7 +338,7 @@ translate french d11s04_994c904d:
 translate french d11s04_fb17ed4f:
 
     # mct "...Partner?"
-    mct "...Partenaire?"
+    mct "...Partenaire ?"
 
 # game/code/d11/d11s04.rpy:223
 translate french d11s04_8a6a3e15:
@@ -362,7 +362,7 @@ translate french d11s04_f27aa13b:
 translate french d11s04_cdf55147:
 
     # dd "So? How is it?"
-    dd "Donc? Comment c'est?"
+    dd "Donc ? Qu'est que c'est ?"
 
 # game/code/d11/d11s04.rpy:251
 translate french d11s04_9330d28c:
