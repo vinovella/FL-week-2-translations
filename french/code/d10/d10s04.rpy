@@ -692,7 +692,7 @@ translate french d10s04_d66803cd:
 translate french d10s04_34d29bf1:
 
     # mh "Mute."
-    mh "Mute."
+    mh "Muet."
 
 # game/code/d10/d10s04.rpy:347
 translate french d10s04_e762b77e:
