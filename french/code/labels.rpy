@@ -2,37 +2,37 @@
 translate french after_credits_4092fc7e:
 
     # dd "Stacy!"
-    dd "Stacy!"
+    dd "Stacy !"
 
 # game/code/labels.rpy:108
 translate french after_credits_b41e5758:
 
     # sy "Oh Daisy! Why are we dressed like that?"
-    sy "Oh Daisy! Pourquoi sommes-nous habillés comme ça?"
+    sy "Oh Daisy ! Pourquoi sommes-nous habillés comme ça ?"
 
 # game/code/labels.rpy:111
 translate french after_credits_656f6347:
 
     # dd "Because it is a new post-credit scene!"
-    dd "Parce que c'est une nouvelle scène post-crédit!"
+    dd "Parce que c'est une nouvelle scène post-crédit !"
 
 # game/code/labels.rpy:114
 translate french after_credits_106f2eed:
 
     # sy "Huh! I see! But what are we supposed to say?"
-    sy "ah! Je vois! Mais que sommes-nous censés dire?"
+    sy "ah ! Je vois ! Mais que sommes-nous censés dire ?"
 
 # game/code/labels.rpy:117
 translate french after_credits_a1c8617a:
 
     # dd "Oh. I didn't get the memo... Maybe we just pose sexy?"
-    dd "eh... Je n'ai pas reçu le mémo... Peut-être qu'on pose juste de manière sexy?"
+    dd "eh... Je n'ai pas reçu le mémo... Peut-être qu'on pose juste de manière sexy ?"
 
 # game/code/labels.rpy:120
 translate french after_credits_b53b874d:
 
     # sy "That's it?"
-    sy "C'est tout?"
+    sy "C'est tout ?"
 
 # game/code/labels.rpy:123
 translate french after_credits_b79379d6:
@@ -44,13 +44,13 @@ translate french after_credits_b79379d6:
 translate french after_credits_71dcf8e7:
 
     # sy "Whaaat? But that isn't canon!"
-    sy "Quuuoi ? Mais ce n'est pas canon!"
+    sy "Quuuoi ? Mais ce n'est pas canon !"
 
 # game/code/labels.rpy:129
 translate french after_credits_6dc8b0bc:
 
     # dd "Who cares about the canon! It is a post-credits scene! We are free!"
-    dd "Peu importe le canon! C'est une scène post-générique! Nous sommes libres!"
+    dd "Peu importe le canon! C'est une scène post-générique! Nous sommes libres !"
 
 # game/code/labels.rpy:132
 translate french after_credits_793416c7:
@@ -68,7 +68,7 @@ translate french after_credits_800a01f9:
 translate french after_credits_e29fec6e:
 
     # dd "Oh! Right! Should we open it?"
-    dd "Oh! c'est vrai! Devons-nous l'ouvrir?"
+    dd "Oh ! c'est vrai ! Devons-nous l'ouvrir ?"
 
 # game/code/labels.rpy:176
 translate french after_credits_b745d2c8:
@@ -86,19 +86,19 @@ translate french after_credits_04bc41f8:
 translate french after_credits_9b5218fa:
 
     # sy "Oh hi!"
-    sy "Oh salut!"
+    sy "Oh salut !"
 
 # game/code/labels.rpy:205
 translate french after_credits_9e887ff2:
 
     # "{color=#ba50f3}Unknown Girl 2{/color}" "Who is there?"
-    "{color=#ba50f3}Fille inconnue 2{/color}" "Qui est là?"
+    "{color=#ba50f3}Fille inconnue 2{/color}" "Qui est là ?"
 
 # game/code/labels.rpy:208
 translate french after_credits_f940c803:
 
     # "{color=#ba50f3}Unknown Girl 2{/color}" "Whom are you talking to?"
-    "{color=#ba50f3}Fille inconnue 2{/color}" "A qui parles-tu?"
+    "{color=#ba50f3}Fille inconnue 2{/color}" "A qui parles-tu ?"
 
 # game/code/labels.rpy:210
 translate french after_credits_2d991197:
@@ -116,19 +116,19 @@ translate french after_credits_e5b76018:
 translate french after_credits_3e0c140e:
 
     # "{color=#ba50f3}Unknown Girl 2{/color}" "Oh Daisy, Stacy!"
-    "{color=#ba50f3}Fille inconnue 2{/color}" "Oh Daisy, Stacy!"
+    "{color=#ba50f3}Fille inconnue 2{/color}" "Oh Daisy, Stacy !"
 
 # game/code/labels.rpy:219
 translate french after_credits_2124ac9d:
 
     # "{color=#ba50f3}Unknown Girl 2{/color}" "You are early!"
-    "{color=#ba50f3}Fille inconnue 2{/color}" "Vous êtes en avance!"
+    "{color=#ba50f3}Fille inconnue 2{/color}" "Vous êtes en avance !"
 
 # game/code/labels.rpy:224
 translate french after_credits_8e51ee0d:
 
     # "{color=#ec8664}Unknown Girl 3{/color}" "Girls! Whom are you talking to??"
-    "{color=#ec8664}Fille inconnue 3{/color}" "Les filles! À qui parlez-vous ??"
+    "{color=#ec8664}Fille inconnue 3{/color}" "Les filles ! À qui parlez-vous ??"
 
 # game/code/labels.rpy:227
 translate french after_credits_7e6fe4d2:
@@ -140,13 +140,13 @@ translate french after_credits_7e6fe4d2:
 translate french after_credits_a6f9597e:
 
     # "{color=#ec8664}Unknown Girl 3{/color}" "I told you - we aren't ready!"
-    "{color=#ec8664}Fille inconnue 3{/color}" "Je vous l'ai dit, nous ne sommes pas prêtes!"
+    "{color=#ec8664}Fille inconnue 3{/color}" "Je vous l'ai dit, nous ne sommes pas prêtes !"
 
 # game/code/labels.rpy:232
 translate french after_credits_d16b822a:
 
     # "{color=#ba50f3}Unknown Girl 2{/color}" "Sorry!"
-    "{color=#ba50f3}Fille inconnue 2{/color}" "Désolée!"
+    "{color=#ba50f3}Fille inconnue 2{/color}" "Désolée !"
 
 # game/code/labels.rpy:235
 translate french after_credits_38b8e047:
@@ -158,19 +158,19 @@ translate french after_credits_38b8e047:
 translate french after_credits_ec4dc5c9:
 
     # "{color=#ec8664}Unknown Girl 3{/color}" "Hey! Now is not a good time! We aren't ready yet!"
-    "{color=#ec8664}Fille inconnue 3{/color}" "Hé! Ce n’est pas le bon moment ! Nous ne sommes pas encore prêts !"
+    "{color=#ec8664}Fille inconnue 3{/color}" "Hé ! Ce n’est pas le bon moment ! Nous ne sommes pas encore prêts !"
 
 # game/code/labels.rpy:241
 translate french after_credits_e29ad5fa:
 
     # "{color=#ec8664}Unknown Girl 3{/color}" "Zemfira! That is the wrong outfit! Chapter 4 Scene 5 isn't a sex scene! What are you wearing??"
-    "{color=#ec8664}Fille inconnue 3{/color}" "Zemfira! Ce n'est pas la bonne tenue! La scène 5 du chapitre 4 n'est pas une scène de sexe! Que portes-tu??"
+    "{color=#ec8664}Fille inconnue 3{/color}" "Zemfira ! Ce n'est pas la bonne tenue ! La scène 5 du chapitre 4 n'est pas une scène de sexe ! Que portes-tu ??"
 
 # game/code/labels.rpy:244
 translate french after_credits_d749c296:
 
     # "{color=#f93737}Zemfira{/color}" "Hey, I was just changing when they opened... And stop bossing us around! We aren't on your volleyball team!"
-    "{color=#f93737}Zemfira{/color}" "Hé, j'étais justement en train de me changer quand ils ont ouvert... Et arrête de nous diriger ! Nous ne faisons pas partie de ton équipe de volley-ball!"
+    "{color=#f93737}Zemfira{/color}" "Hé, j'étais justement en train de me changer quand ils ont ouvert... Et arrête de nous diriger ! Nous ne faisons pas partie de ton équipe de volley-ball !"
 
 # game/code/labels.rpy:247
 translate french after_credits_d6e2149b:
@@ -182,7 +182,7 @@ translate french after_credits_d6e2149b:
 translate french after_credits_bf117a95:
 
     # "{color=#ec8664}Unknown Girl 3{/color}" "Let's call it our secret and pretend you never opened the door!"
-    "{color=#ec8664}Fille inconnue 3{/color}" "Appelons ça notre secret et prétendons que tu n'as jamais ouvert la porte!"
+    "{color=#ec8664}Fille inconnue 3{/color}" "Appelons ça notre secret et prétendons que tu n'as jamais ouvert la porte !"
 
 # game/code/labels.rpy:253
 translate french after_credits_b7af7f44:
@@ -194,13 +194,13 @@ translate french after_credits_b7af7f44:
 translate french after_credits_4244eb77:
 
     # sy "Give us something! I'm dying from curiosity!"
-    sy "Donnez-nous quelque chose! je meurs de curiosité!"
+    sy "Donnez-nous quelque chose ! je meurs de curiosité !"
 
 # game/code/labels.rpy:259
 translate french after_credits_db5b7cd2:
 
     # "{color=#ba50f3}Unknown Girl 2{/color}" "Support the ViNovella team so they can share our story sooner!"
-    "{color=#ba50f3}Fille inconnue 2{/color}" "Soutenez l'équipe ViNovella afin qu'elle puisse partager notre histoire plus tôt!"
+    "{color=#ba50f3}Fille inconnue 2{/color}" "Soutenez l'équipe ViNovella afin qu'elle puisse partager notre histoire plus tôt !"
 
 # game/code/labels.rpy:272
 translate french after_credits_1aef1189:
@@ -212,13 +212,13 @@ translate french after_credits_1aef1189:
 translate french after_credits_48896586:
 
     # dd "I have no idea... Come here!"
-    dd "Je n'en ai aucune idée... Viens ici!"
+    dd "Je n'en ai aucune idée... Viens ici !"
 
 # game/code/labels.rpy:278
 translate french after_credits_f5cfef90:
 
     # sy "Wait but that was huge! Do you know what it could mean?!"
-    sy "Attends mais c'était énorme ! Savez-vous ce que cela pourrait signifier?!"
+    sy "Attends mais c'était énorme ! Savez-vous ce que cela pourrait signifier ?!"
 
 # game/code/labels.rpy:281
 translate french after_credits_dc4bfcb4:
@@ -242,7 +242,7 @@ translate french after_credits_395b12fe:
 translate french after_credits_c7e3ca6c:
 
     # sy "But don't forget to support us! We will bring you more awesome stuff!"
-    sy "Mais n'oubliez pas de nous soutenir ! Nous vous apporterons d'autres contenus géniaux!"
+    sy "Mais n'oubliez pas de nous soutenir ! Nous vous apporterons d'autres contenus géniaux !"
 
 # game/code/labels.rpy:445
 translate french buzz_4377a2f7:
