@@ -154,15 +154,15 @@ translate french strings:
 
     # game/code/screens/screens.rpy:1124
     old "Rollback Side"
-    new "retour mollette"
+    new "Retour mollette"
 
     # game/code/screens/screens.rpy:1126
     old "Left"
-    new "gauche"
+    new "Gauche"
 
     # game/code/screens/screens.rpy:1127
     old "Right"
-    new "droite"
+    new "Droite"
 
     # game/code/screens/screens.rpy:1132
     old "Unseen Text"
@@ -170,7 +170,7 @@ translate french strings:
 
     # game/code/screens/screens.rpy:1133
     old "After Choices"
-    new "Apres les Choix"
+    new "Après les Choix"
 
     # game/code/screens/screens.rpy:1134
     old "Transitions"
@@ -182,7 +182,7 @@ translate french strings:
 
     # game/code/screens/screens.rpy:1151
     old "Text Speed"
-    new "vitesse du texte"
+    new "Vitesse du texte"
 
     # game/code/screens/screens.rpy:1155
     old "Auto-Forward Time"
@@ -226,7 +226,7 @@ translate french strings:
 
     # game/code/screens/screens.rpy:1402
     old "Enter"
-    new "Enter"
+    new "Entrer"
 
     # game/code/screens/screens.rpy:1403
     old "Advances dialogue and activates the interface."
@@ -238,7 +238,7 @@ translate french strings:
 
     # game/code/screens/screens.rpy:1407
     old "Advances dialogue without selecting choices."
-    new "Avance le dialogue sans sélectionner de choix."
+    new "Avancer le dialogue sans sélectionner de choix."
 
     # game/code/screens/screens.rpy:1410
     old "Arrow Keys"
