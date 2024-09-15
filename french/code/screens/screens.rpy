@@ -38,7 +38,7 @@ translate french strings:
 
     # game/code/screens/screens.rpy:322
     old "Start"
-    new "début"
+    new "Commencer à jouer"
 
     # game/code/screens/screens.rpy:328
     old "Main Menu"
