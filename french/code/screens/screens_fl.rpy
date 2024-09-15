@@ -14,7 +14,7 @@ translate french strings:
 
     # game/code/screens/screens_fl.rpy:103
     old "SAVE"
-    new "Enregistrer"
+    new "SAUVEGARDER"
 
     # game/code/screens/screens_fl.rpy:160
     old "NAME"
@@ -122,11 +122,11 @@ translate french strings:
 
     # game/code/screens/screens_fl.rpy:806
     old "X-RAY"
-    new "X-RAY"
+    new "Rayon X"
 
     # game/code/screens/screens_fl.rpy:843
     old "SKIP RECAP"
-    new "passer RECAP"
+    new "passer le RECAP"
 
     # game/code/screens/screens_fl.rpy:865
     old "Your device cannot save the game progress through different weeks. Please, allow FL App to write on the external storage."
@@ -138,11 +138,11 @@ translate french strings:
 
     # game/code/screens/screens_fl.rpy:868
     old "1. Go to - Settings -> Apps -> Fetish Locator Week [FLSS.week.cur] -> Permissions -> Storage."
-    new "1. Aller dans - Paramettres -> Applications -> Fetish Locator Week [FLSS.week.cur] -> Permissions -> Storage."
+    new "1. Aller dans - Paramètres -> Applications -> Fetish Locator Week [FLSS.week.cur] -> Permissions -> Storage."
 
     # game/code/screens/screens_fl.rpy:869
     old "2. Set the permission to -> \"Allow management of all files\"."
-    new "2. Mettez les permissions sur -> \"Allow management of all files\"."
+    new "2. Mettez les permissions sur -> \"Autoriser la gestion de tous les fichiers\"."
 
     # game/code/screens/screens_fl.rpy:871
     old "Now the game should work."
@@ -188,13 +188,13 @@ translate french strings:
 
     # game/code/screens/screens_fl.rpy:918
     old "Sync your saves using Ren'Py Sync server"
-    new "Sync your saves using Ren'Py Sync server"
+    new "Synchronisez vos sauvegardes à l'aide du serveur Ren'Py Sync"
 
     # game/code/screens/screens_fl.rpy:920
     old "Upload Saves"
-    new "Upload Saves"
+    new "Uploader les sauvegardes"
 
     # game/code/screens/screens_fl.rpy:921
     old "Download Saves"
-    new "Download Saves"
+    new "Downloader les sauvegardes"
 
