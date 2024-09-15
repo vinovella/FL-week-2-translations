@@ -14,7 +14,7 @@ translate french strings:
 
     # game/code/credit_sprites.rpy:68
     old "Sound design -"
-    new "Sound design -"
+    new "Conception sonore -"
 
     # game/code/credit_sprites.rpy:81
     old "Russian Translation -"
@@ -26,7 +26,7 @@ translate french strings:
 
     # game/code/credit_sprites.rpy:101
     old "Malay Translation -"
-    new "Traduction Malaise -"
+    new "Traduction Malaisienne -"
 
     # game/code/credit_sprites.rpy:111
     old "Testing & Proofreading -"
