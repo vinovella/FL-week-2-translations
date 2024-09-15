@@ -6,7 +6,7 @@ translate french strings:
 
     # game/code/screens/extended/screens_fl.rpy:17
     old "Replay Room"
-    new "Salle Replay"
+    new "Salle de revisionnage"
 
     # game/code/screens/extended/screens_fl.rpy:23
     old "Bonus Content"
@@ -18,7 +18,7 @@ translate french strings:
 
     # game/code/screens/extended/screens_fl.rpy:30
     old "Hints off"
-    new "Indices\ndéactivé"
+    new "Indices\ndéactivés"
 
     # game/code/screens/extended/screens_fl.rpy:46
     old "Page [page]"
