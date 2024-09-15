@@ -518,7 +518,7 @@ translate french d09s05_fucked_87d10429:
 translate french d09s05_fucked_f088a78a:
 
     # sb "Oh, oh yeeah."
-    sb "Oh, oh yeeah."
+    sb "Oh, oh ouiiii."
 
 # game/code/d09/d09s05.rpy:323
 translate french d09s05_fucked_07b23071:
