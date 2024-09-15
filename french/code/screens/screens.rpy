@@ -370,9 +370,9 @@ translate french strings:
 
     # game/code/screens/screens.rpy:1085
     old "Ren'Py Save Sync"
-    new "Ren'Py Save Sync"
+    new "Synchronisation de sauvegarde de Ren'Py"
 
     # game/code/screens/screens.rpy:1244
     old "Dialogue Box Opacity"
-    new "Dialogue Box Opacity"
+    new "Opacité de la boîte de dialogue"
 
