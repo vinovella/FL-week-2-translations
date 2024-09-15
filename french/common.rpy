@@ -18,7 +18,7 @@ translate french strings:
 
     # renpy/common/00accessibility.rpy:33
     old "selected"
-    new "selectionner"
+    new "sélectionner"
 
     # renpy/common/00accessibility.rpy:34
     old "viewport"
@@ -54,7 +54,7 @@ translate french strings:
 
     # renpy/common/00accessibility.rpy:142
     old "Default"
-    new "Defaut"
+    new "Défaut"
 
     # renpy/common/00accessibility.rpy:146
     old "DejaVu Sans"
@@ -90,11 +90,11 @@ translate french strings:
 
     # renpy/common/00accessibility.rpy:193
     old "Self-Voicing"
-    new "voix auto"
+    new "Voix auto"
 
     # renpy/common/00accessibility.rpy:197
     old "Off"
-    new "Enlever"
+    new "Désactiver"
 
     # renpy/common/00accessibility.rpy:201
     old "Text-to-speech"
@@ -102,7 +102,7 @@ translate french strings:
 
     # renpy/common/00accessibility.rpy:205
     old "Clipboard"
-    new "Presse-papiers"
+    new "Presse-papier"
 
     # renpy/common/00accessibility.rpy:209
     old "Debug"
@@ -114,7 +114,7 @@ translate french strings:
 
     # renpy/common/00accessibility.rpy:223
     old "Self-Voicing Volume Drop"
-    new "baisse du volume de la voix-auto"
+    new "Baisse du volume de la voix-auto"
 
     # renpy/common/00accessibility.rpy:234
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
@@ -286,11 +286,11 @@ translate french strings:
 
     # renpy/common/00action_file.rpy:461
     old "Load slot %s: [text]"
-    new "Charger sauvegarde %s: [text]"
+    new "Chargement de la sauvegarde %s: [text]"
 
     # renpy/common/00action_file.rpy:514
     old "Delete slot [text]"
-    new "Effacer sauvegarde [text]"
+    new "Suppression de la sauvegarde [text]"
 
     # renpy/common/00action_file.rpy:593
     old "File page auto"
@@ -402,11 +402,11 @@ translate french strings:
 
     # renpy/common/00director.rpy:1662
     old "Remove"
-    new "Enlever"
+    new "Supprimer"
 
     # renpy/common/00director.rpy:1697
     old "Statement:"
-    new "Etat:"
+    new "État:"
 
     # renpy/common/00director.rpy:1718
     old "Tag:"
@@ -446,7 +446,7 @@ translate french strings:
 
     # renpy/common/00director.rpy:1837
     old "Audio Filename:"
-    new "Nom de fichier audio::"
+    new "Nom de fichier audio:"
 
     # renpy/common/00gui.rpy:446
     old "Are you sure?"
@@ -526,7 +526,7 @@ translate french strings:
 
     # renpy/common/00preferences.rpy:294
     old "video sprites"
-    new "video sprites"
+    new "sprites vidéo"
 
     # renpy/common/00preferences.rpy:303
     old "show empty window"
@@ -538,7 +538,7 @@ translate french strings:
 
     # renpy/common/00preferences.rpy:320
     old "joystick"
-    new "joystick"
+    new "manette"
 
     # renpy/common/00preferences.rpy:320
     old "joystick..."
@@ -550,7 +550,7 @@ translate french strings:
 
     # renpy/common/00preferences.rpy:330
     old "skip unseen [text]"
-    new "Passer non-lu [text]"
+    new "Passer sans voir [text]"
 
     # renpy/common/00preferences.rpy:335
     old "skip unseen text"
@@ -574,11 +574,11 @@ translate french strings:
 
     # renpy/common/00preferences.rpy:364
     old "auto-forward"
-    new "automatique"
+    new "avance automatique"
 
     # renpy/common/00preferences.rpy:371
     old "Auto forward"
-    new "automatique"
+    new "Avance automatique"
 
     # renpy/common/00preferences.rpy:374
     old "auto-forward after click"
@@ -694,7 +694,7 @@ translate french strings:
 
     # renpy/common/00preferences.rpy:575
     old "mute main"
-    new "muet principal"
+    new "son principal muet"
 
     # renpy/common/00preferences.rpy:576
     old "mute music"
@@ -850,11 +850,11 @@ translate french strings:
 
     # renpy/common/00updater.rpy:1252
     old "While unpacking {}, unknown type {}."
-    new "While unpacking {}, unknown type {}."
+    new "Lors du déballage de {}, type inconnu {}."
 
     # renpy/common/00updater.rpy:1624
     old "Updater"
-    new "Updater"
+    new "Mettre à jour"
 
     # renpy/common/00updater.rpy:1631
     old "An error has occured:"
@@ -1220,7 +1220,7 @@ translate french strings:
 
     # renpy/common/00updater.rpy:2089
     old "Retry"
-    new "Recommencer"
+    new "Réessayer"
 
 translate french strings:
 
