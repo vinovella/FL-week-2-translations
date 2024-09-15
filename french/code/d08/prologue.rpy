@@ -112,7 +112,7 @@ translate french strings:
 
     # game/code/d08/prologue.rpy:72
     old "What is your name? (Default name - Mike)"
-    new "Quel est ton nom? (Default name - Mike)"
+    new "Quel est ton nom ? (Nom par défaut - Mike)"
 
     # game/code/d08/prologue.rpy:75
     old "What is your nickname in Fetish Locator app?\nIf empty, the game will prepend \"Not_\" to your name: e.g. Not_Mike"
