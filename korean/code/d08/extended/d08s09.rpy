@@ -20,7 +20,7 @@ translate korean d08s09_605e1af7:
 translate korean d08s09_83cbdbe2:
 
     # jf "Hey, that was fast... I'll unlock the door, but please wait a minute before you come in.{w}.. Or count to three or something."
-    jf "안녕, 빨리 왔네... 문 열게, 그런데 들어오기 전에 잠깐 기다려 줘.{w}.. 아니다. 셋까지 세. 아님 다른 걸 세구."
+    jf "안녕, 빨리 왔네... 문 열게, 그런데 들어오기 전에 잠깐 기다려 줘.{w}.. 아니면 셋까지 세든가."
 
 # game/code/d08/extended/d08s09.rpy:51
 translate korean d08s09_9959197d:
@@ -38,7 +38,7 @@ translate korean d08s09_00dd2458:
 translate korean d08s09_7839b193:
 
     # jf "Please shut the door behind you and don't turn on the lights!"
-    jf "네 뒤에 있는 문은 닫아 줘 그리고 불은 켜지 마!"
+    jf "들어오면서 문 닫아 줘. 그리고 불은 켜지 마!"
 
 # game/code/d08/extended/d08s09.rpy:65
 translate korean replay_d08s09_c6e37160:
@@ -50,25 +50,25 @@ translate korean replay_d08s09_c6e37160:
 translate korean replay_d08s09_ea71cb25:
 
     # jf "FOOL!!! WHO HAS FALLEN INTO THE TRAP OF RKIL DVORKA?!"
-    jf "어리석구나!!! 킬 드보카의 함정에 빠진 너의 이름은 무엇이냐?!"
+    jf "어리석은 놈!!! 킬 드보카의 함정에 걸려든 자가 누구냐?!"
 
 # game/code/d08/extended/d08s09.rpy:71
 translate korean replay_d08s09_acb4aa2d:
 
     # mc "...IT IS I, [mcname] The DEFILER!"
-    mc "...그러니까 난, 더럽히는 자 [mcname]!"
+    mc "...바로 나다, 더럽히는 자 [mcname]!"
 
 # game/code/d08/extended/d08s09.rpy:74
 translate korean replay_d08s09_24767480:
 
     # mc "I'VE COME TO SPRING YOUR TRAP AND LOCK YOU IN THE GIEDIAN FUCK PITS WHERE YOU BELONG!"
-    mc "난 네 함정에서 빠져나왔다. 그리고 넌 기디언의 사창굴에 갖혔다! 너에게 어울리는 곳이구나."
+    mc "네 함정을 부수고 네년이 마땅히 있어야 할 곳, 기디언의 사창굴에 가두러 왔다!"
 
 # game/code/d08/extended/d08s09.rpy:75
 translate korean replay_d08s09_3598fd55:
 
     # mct "I'll flip on the lights real quick and before her eyes adjust and just fuckin' bum rush her."
-    mct "제시 눈이 적응하기 전에 진짜 빠르게 불을 켜고 내가 맡은 놈이 달려드는 거야."
+    mct "불을 확 켜고 제시의 눈이 적응하기 전에 냅다 덮치는 거야."
 
 # game/code/d08/extended/d08s09.rpy:84
 translate korean replay_d08s09_cda14353:
@@ -86,7 +86,7 @@ translate korean replay_d08s09_d5b914bf:
 translate korean replay_d08s09_be917f4b:
 
     # jf "HA... you OAF! I am not Rkil Dvorka! I am merely her apprentice, Mirim Arotsu!"
-    jf "하... 바보 녀석! 난 킬 드보카가 아냐! 그 분의 제자인, 미림 아로츠다!"
+    jf "하... 바보 녀석! 난 킬 드보카가 아냐! 그분의 제자인, 미림 아로츠다!"
 
 # game/code/d08/extended/d08s09.rpy:94
 translate korean replay_d08s09_032e2b63:
@@ -98,7 +98,7 @@ translate korean replay_d08s09_032e2b63:
 translate korean replay_d08s09_0a61c394:
 
     # mc "How the fuck do you get into this thing?"
-    mc "네년이 어떻게 이것을 손에 넣게 되었지?"
+    mc "씨발, 이 옷은 어떻게 벗기는 거야?"
 
 # game/code/d08/extended/d08s09.rpy:100
 translate korean replay_d08s09_cc3e0617:
@@ -116,25 +116,25 @@ translate korean replay_d08s09_67cd26ba:
 translate korean replay_d08s09_81f83e2b:
 
     # jf "Our Technology is superior! Our suit takes our waste and turns it into water and nutrients that are absorbed back into our bodies!"
-    jf "우리의 기술은 우월하다! 우리의 옷은 노폐물을 취해 물과 영양분으로 바꾸고 다시 몸으로 흡수되게 한다!"
+    jf "우리의 기술은 우월하다! 우리의 의복은 노폐물을 취해 물과 영양분으로 바꿔 다시 몸으로 흡수되게 한다!"
 
 # game/code/d08/extended/d08s09.rpy:105
 translate korean replay_d08s09_ba8808b6:
 
     # mc "Wait, what? You just pee in your suit?"
-    mc "잠깐만, 뭐야? 너 지금 그 옷 입고 오줌 싼 거야?"
+    mc "잠깐만, 뭐야? 그냥 그 옷을 입은 채로 오줌을 싼다고?"
 
 # game/code/d08/extended/d08s09.rpy:106
 translate korean replay_d08s09_c90d33a0:
 
     # jf "Of course you idiot."
-    jf "당연하지 등신 녀석."
+    jf "당연하지, 등신 녀석."
 
 # game/code/d08/extended/d08s09.rpy:107
 translate korean replay_d08s09_32b5be8f:
 
     # mc "Well, if it's nutrients your body craves, Mirim Arotsu, it is nutrients you shall have! Kneel before me!"
-    mc "흠, 네 몸이 갈망하는 영양분이 이것이냐, 미림 아로츠, 그럼 받아들여라! 내 앞에 무릎 꿇어라!"
+    mc "흠, 네 몸이 갈망하는 영양분이라면, 미림 아로츠, 그 영양분을 하사하마! 내 앞에 무릎 꿇어라!"
 
 # game/code/d08/extended/d08s09.rpy:110
 translate korean replay_d08s09_715d78cc:
@@ -146,7 +146,7 @@ translate korean replay_d08s09_715d78cc:
 translate korean replay_d08s09_c6c6ccd4:
 
     # jf "This is so fucking hot, get out your camera and takes some pictures!"
-    jf "아, 존나 꼴려. 네 걸로 사진 몇 장 찍으라구!"
+    jf "아, 존나 꼴려. 카메라 꺼내서 사진 몇 장 찍어 봐!"
 
 # game/code/d08/extended/d08s09.rpy:192
 translate korean replay_d08s09_1e7beb71:
@@ -188,19 +188,19 @@ translate korean replay_d08s09_f4ee5460:
 translate korean replay_d08s09_1006bf7b:
 
     # mc "Did I tell you that you are looking out-fucking-standing. Maybe when I have more time, we can play more Star Wars or whatever together..."
-    mc "내가 분장이 쩔었다고 말했나. 시간이 좀 있었으면, 우리 같이 스타워즈든 뭐든 할 수 있을 텐데..."
+    mc "내가 오늘 코스프레 존나 끝내 준다고 말했던가. 다음에 시간이 더 있을 때 스타워즈 놀이든 뭐든 같이 더 하자..."
 
 # game/code/d08/extended/d08s09.rpy:212
 translate korean replay_d08s09_2c7e8781:
 
     # jf "You know, cosplay isn't a game, per se. Also, it's usually not full contact. Even Larpers don't tackle each other."
-    jf "있지, 코스프레 그 자체는 게임이 아냐. 또, 보통은 신체 접촉도 안 되고. 현실 롤플레잉을 하는 사람들도 서로 넘어뜨리는 건 안 해."
+    jf "있지, 코스프레 그 자체는 게임이 아냐. 또, 보통은 이렇게 격하게 몸을 부딪치지도 않고. 현실 롤플레잉을 하는 사람들도 서로 넘어뜨리는 건 안 해."
 
 # game/code/d08/extended/d08s09.rpy:214
 translate korean replay_d08s09_91d72008:
 
     # mc "Oops? I just saw an opportunity and took it. {w}Is the costume okay?"
-    mc "이런? 그냥 기회를 보고 취한 것 뿐이었는데. {w}의상은 괜찮아?"
+    mc "이런? 그냥 기회가 보여서 냉큼 잡았을 뿐인데. {w}의상은 괜찮아?"
 
 # game/code/d08/extended/d08s09.rpy:217
 translate korean replay_d08s09_35e309ee:
@@ -212,7 +212,7 @@ translate korean replay_d08s09_35e309ee:
 translate korean replay_d08s09_f74c6248:
 
     # jf "But a guy from Belgium who had seen my stuff online commissioned the suit... said it was for his girlfriend."
-    jf "벨기에에 사는 어떤 남자가 인터넷에서 내 자료를 보고는 이 의상을 의뢰했어... 말로는 자기 여자 친구를 위한 옷이라구 하더라."
+    jf "벨기에 남자가 온라인에서 내 작품을 보고 이 의상을 의뢰했어... 말로는 자기 여자 친구를 위한 옷이라고 하더라."
 
 # game/code/d08/extended/d08s09.rpy:221
 translate korean replay_d08s09_caca7e3b:
@@ -224,7 +224,7 @@ translate korean replay_d08s09_caca7e3b:
 translate korean replay_d08s09_c84ee45a:
 
     # jf "We agreed up front. It is $3K for the complete costume - outfit, boots and Light sword."
-    jf "선불로 받았어. 전부에 삼 천 달러. 의상, 신발, 광선검 포함으로."
+    jf "처음부터 금액을 합의했어. 전부에 3천 달러. 의상, 신발, 광선검 포함으로."
 
 # game/code/d08/extended/d08s09.rpy:225
 translate korean replay_d08s09_65c7376f:
@@ -236,7 +236,7 @@ translate korean replay_d08s09_65c7376f:
 translate korean replay_d08s09_2fb33105:
 
     # jf "Not really... I undercharged on this one. But that is my fault as I wasn't familiar what all the costs would be."
-    jf "실은 아냐... 적게 받은 거야. 비용 어림에 익숙치 않아서 이렇게 된 거니까. 내 잘못이지만."
+    jf "실은 아냐... 적게 받은 거야. 총비용이 얼마나 들지 제대로 몰라서 이렇게 된 거니까. 내 잘못이지만."
 
 # game/code/d08/extended/d08s09.rpy:230
 translate korean replay_d08s09_337436e1:
@@ -248,19 +248,19 @@ translate korean replay_d08s09_337436e1:
 translate korean replay_d08s09_e477c1b6:
 
     # jf "Well, I couldn't make the boots, so I had to buy them from another maker, and that was $800 for the pair."
-    jf "음, 신발은 못 만드니까, 다른 제작자로부터 사야 했어, 그래서 이 한 켤레에 팔백 달러."
+    jf "음, 신발은 만들 수 없어서 다른 제작자에게 샀는데, 한 켤레에 800 달러였지."
 
 # game/code/d08/extended/d08s09.rpy:232
 translate korean replay_d08s09_154edb50:
 
     # jf "I probably have another $500 in materials and hardware. The light sword is from a specialty maker on the east coast. Charges $750 for a light up sword with sound chip. $300 for other materials."
-    jf "재료와 장비에 또 오백 달러 정도. 광선검은 동부에 사는 특수 제작자에게 구했어. 소리도 나고 불도 들어오는 광선검 비용으로 칠백 오십 달러. 다른 재료에 삼백 달러."
+    jf "재료와 장비에 또 500 달러 정도. 광선검은 동부에 사는 특수 제작자에게 구했어. 소리도 나고 불도 들어오는 광선검 비용으로 750 달러. 다른 재료에 300 달러."
 
 # game/code/d08/extended/d08s09.rpy:235
 translate korean replay_d08s09_5393e073:
 
     # mc "Oh shit...yeah, well that is like $2300 in cost! How long did it take you to make?"
-    mc "와 젠장...그래, 그러면 비용으로 벌써 이천 삼백 달러잖아! 만드는데 시간은 얼마나 들었어?"
+    mc "와 젠장...그래, 그러면 비용으로 벌써 이천 삼백 달러잖아! 만드는 데 시간은 얼마나 들었어?"
 
 # game/code/d08/extended/d08s09.rpy:236
 translate korean replay_d08s09_6fbe7637:
@@ -272,13 +272,13 @@ translate korean replay_d08s09_6fbe7637:
 translate korean replay_d08s09_eae1129f:
 
     # mc "Yeah, right, that's less than $9 bucks an hour for your time. I see your point."
-    mc "그럼, 그렇지, 한 시간에 9달러도 받지 못했다는 거잖아. 네 말이 맞네."
+    mc "그럼, 그렇지, 한 시간에 9 달러도 받지 못했다는 거잖아. 네 말이 맞네."
 
 # game/code/d08/extended/d08s09.rpy:238
 translate korean replay_d08s09_70c74f64:
 
     # mc "How do you know it will even fit his girlfriend?"
-    mc "이 옷이 그 남자 여자 친구한테 맞을지는 어떻게 아는 거야?"
+    mc "이 옷이 그 남자의 여자 친구한테 맞을지는 어떻게 아는 거야?"
 
 # game/code/d08/extended/d08s09.rpy:241
 translate korean replay_d08s09_32f58415:
@@ -296,7 +296,7 @@ translate korean replay_d08s09_fe7c242f:
 translate korean replay_d08s09_d266f21f:
 
     # jf "You know how some guys have a used underwear fetish and they spend big money to get girls' panties?"
-    jf "입었던 속옷에 대한 성벽을 가지고 있는 사람들이 있잖아. 그리고 그런 성벽이 있는 사람은 여자 팬티에 큰 돈을 쓰잖아?"
+    jf "중고 속옷에 대한 성적 집착을 가지고 있는 사람들이 있잖아. 그리고 그런 성벽이 있는 사람은 여자 팬티를 사려고 큰돈을 쓰잖아?"
 
 # game/code/d08/extended/d08s09.rpy:245
 translate korean replay_d08s09_84f16542:
@@ -308,13 +308,13 @@ translate korean replay_d08s09_84f16542:
 translate korean replay_d08s09_cbdd5c3f:
 
     # jf "A lot of these guys have a thing for the girls in comics, superhero movies, games...whatever"
-    jf "만화나, 슈퍼 히어로 영화, 게임... 이런 거에 나오는 여자를 엄청 좋아하는 사람도 있고."
+    jf "만화, 슈퍼히어로 영화, 게임... 그런 작품에 나오는 여자 캐릭터에 성적 끌림을 가진 사람도 많으니까."
 
 # game/code/d08/extended/d08s09.rpy:248
 translate korean replay_d08s09_bdce355a:
 
     # jf "And they get off on pictures of girls wearing the costumes. Their holy grail though is to actually get a costume worn by a \"real\" girl."
-    jf "그런 사람들은 그 의상을 입은 여자에게 흥분하는 거야. \"진짜\" 여자가 입은 의상이 그 사람들에겐 일종의 성배 같은 거지."
+    jf "그런 사람들은 그 의상을 입은 여자 사진을 보고 흥분하는 거야. \"진짜\" 여자가 입은 의상은 그 사람들에겐 일종의 성배 같은 거지."
 
 # game/code/d08/extended/d08s09.rpy:250
 translate korean replay_d08s09_45943ecf:
@@ -326,13 +326,13 @@ translate korean replay_d08s09_45943ecf:
 translate korean replay_d08s09_ebafc7f4:
 
     # jf "Pretty much... Except they like to try to smell it, lick the crotch, and other stuff..."
-    jf "그렇다고 할 수 있지... 냄새도 맡아 보고, 가랑이에 닿았던 부분을 핥고, 다른 짓도 하겠지만..."
+    jf "그렇다고 할 수 있지... 냄새도 맡아 보고, 가랑이에 닿았던 부분을 핥고, 다른 짓도 할 테니까..."
 
 # game/code/d08/extended/d08s09.rpy:253
 translate korean replay_d08s09_277e660b:
 
     # mc "Huh. That's weird, but not the weirdest thing I've ever heard of."
-    mc "허. 그건 이상하네. 이상하다고 하면 더 이상한 일도 많겠지만."
+    mc "허. 이상하긴 한데, 내가 들어본 것 중에 제일 별난 건 아니네."
 
 # game/code/d08/extended/d08s09.rpy:258
 translate korean replay_d08s09_a3b2e6f3:
@@ -356,7 +356,7 @@ translate korean replay_d08s09_60c65bb7:
 translate korean replay_d08s09_c8f95901:
 
     # jf "No... I just finished it right before I called you. As a matter of fact, you can help me. Would you take the pictures?"
-    jf "응... 네가 오기 직전에 완성했어. 사실은, 네가 날 도와줘야 끝나. 사진 찍어 줄 수 있어?"
+    jf "응... 네가 오기 직전에 완성했어. 마침 네가 도와줄 일이 있어. 사진 찍어 줄 수 있니?"
 
 # game/code/d08/extended/d08s09.rpy:266
 translate korean replay_d08s09_8456a741:
@@ -368,7 +368,7 @@ translate korean replay_d08s09_8456a741:
 translate korean replay_d08s09_2ab9140f:
 
     # jf "I bet you the coffee drink of your choice that he is."
-    jf "아니면 네가 원하는 걸로 커피 한 잔 살 게."
+    jf "틀림없이 그럴걸? 아니면 네가 좋아하는 커피 사주기 내기라도 할까?"
 
 # game/code/d08/extended/d08s09.rpy:268
 translate korean replay_d08s09_158fbf49:
@@ -380,7 +380,7 @@ translate korean replay_d08s09_158fbf49:
 translate korean replay_d08s09_10cfd855:
 
     # jf "Yeah, he's green. Why?"
-    jf "응, 녹색이네. 왜?"
+    jf "응, 접속 중이라고 뜨네. 왜?"
 
 # game/code/d08/extended/d08s09.rpy:271
 translate korean replay_d08s09_207ed096:
@@ -410,7 +410,7 @@ translate korean replay_d08s09_ef696c14:
 translate korean replay_d08s09_637b8010:
 
     # mc "Great! Give me your phone. I'll take a picture"
-    mc "좋았어! 폰 줘 봐. 사진 찍을 게."
+    mc "좋았어! 폰 줘 봐. 사진 찍을게."
 
 # game/code/d08/extended/d08s09.rpy:283
 translate korean replay_d08s09_d3368a98:
@@ -428,7 +428,7 @@ translate korean replay_d08s09_fb0f6a78:
 translate korean replay_d08s09_0d64cd69:
 
     # jf "Trust you? You were supposed to come over today so I could get to know you better."
-    jf "널 믿으라구? 오늘 네가 어떤 사람인지 알아 보려고 너랑 보는 건데."
+    jf "널 믿으라구? 오늘은 널 더 잘 알아보려고 만나기로 한 거잖아."
 
 # game/code/d08/extended/d08s09.rpy:287
 translate korean replay_d08s09_c3f00249:
@@ -452,19 +452,19 @@ translate korean replay_d08s09_3955f1e0:
 translate korean replay_d08s09_fa045586:
 
     # mc "Agreed. Just, please give me your phone and do what I...I mean, cooperate with me? Please?"
-    mc "동의. 그냥, 나한테 폰 주고 내가...내 말은, 나한테 협력하라고? 제발?"
+    mc "동의. 그냥, 나한테 폰 주고 내가 하라는 대로... 아니, 나한테 협조해 줄래?"
 
 # game/code/d08/extended/d08s09.rpy:294
 translate korean replay_d08s09_5d9cdf46:
 
     # mc "OK, we want this to look spontaneous, so we are not going to use your photo studio...yet."
-    mc "좋아, 자연스럽게 보여야 하니까, 네 사진관을 이용하진 않을 거야... 아직은."
+    mc "좋아, 자연스럽게 보여야 하니까, 네 촬영 공간은 쓰지 않을 거야... 아직은."
 
 # game/code/d08/extended/d08s09.rpy:296
 translate korean replay_d08s09_485c5b3f:
 
     # mc "Give me your best \"I'm a baddass sith queen\" pose."
-    mc "최선을 다해서 \"난 터프한 시스 여왕이다\" 자세를 취해 봐."
+    mc "네가 할 수 있는 제일 포스 넘치는 \"시스 여왕\" 자세를 취해 봐."
 
 # game/code/d08/extended/d08s09.rpy:298
 translate korean replay_d08s09_afe5b0bd:
@@ -482,7 +482,7 @@ translate korean replay_d08s09_e0ec96d1:
 translate korean replay_d08s09_36534fc1:
 
     # jf "**Sigh** All right, but that is not how this works."
-    jf "**한숨** 알겠지만, 이렇게 일하는 거 아니라구."
+    jf "**한숨** 알겠어. 하지만 원래 이런 식으로 일하는 게 아니라고."
 
 # game/code/d08/extended/d08s09.rpy:307
 translate korean replay_d08s09_c6ceba16:
@@ -500,7 +500,7 @@ translate korean replay_d08s09_30d47b7b:
 translate korean replay_d08s09_f4d83ad5:
 
     # jf "Of course! I couldn't have bought all the materials and props if he didn't. That is why my reputation is so important. People trust me to deliver the goods and I do."
-    jf "그래! 선불로 받지 않았으면 재료나 소품은 사지도 못했을 거야. 그래서 내 이름값이 중요한 거라구. 사람들이 날 믿고 돈이나 물품을 보내는 거지. 그리고 난 그 믿음에 부응하고."
+    jf "그래! 선불로 받지 않았으면 재료나 소품은 사지도 못했을 거야. 그래서 내 이름값이 중요한 거라구. 사람들은 내가 물건을 제대로 납품할 거라고 믿고, 난 실제로 그 믿음에 부응해."
 
 # game/code/d08/extended/d08s09.rpy:313
 translate korean replay_d08s09_9250fede:
@@ -512,7 +512,7 @@ translate korean replay_d08s09_9250fede:
 translate korean replay_d08s09_c7a60e24:
 
     # mc "Excellent... Now tell him, your deal was for the costume. The costume is finished and you are ready to ship. Pictures are extra."
-    mc "훌륭해... 이제 이렇게 말해. 우리 거래는 의상에 관한 겁니다. 의상은 완성되었고 이제 보낼 겁니다. 사진은 별건입니다."
+    mc "훌륭해... 이제 이렇게 말해. 우리 거래는 의상에 관한 겁니다. 의상은 완성되었고 이제 보낼 겁니다. 사진은 별도 요금입니다."
 
 # game/code/d08/extended/d08s09.rpy:319
 translate korean replay_d08s09_929654c3:
@@ -536,7 +536,7 @@ translate korean replay_d08s09_e5609f1c:
 translate korean replay_d08s09_8e7fa4c2:
 
     # mc "Now, while we wait, go to..."
-    mc "이제, 기다리고 있으면, 올 거야..."
+    mc "자, 그럼 기다리는 동안, 사이트로..."
 
 # game/code/d08/extended/d08s09.rpy:327
 translate korean replay_d08s09_d5394d31:
@@ -572,13 +572,13 @@ translate korean replay_d08s09_c2defa8e:
 translate korean replay_d08s09_99469c6f:
 
     # mc "Now, go to WorldwideExpress and see how much it would be to overnight the costume."
-    mc "이제, 월드와이드익스프레스에 가서 의상 익일 배송에 얼마 드는지 알아 봐."
+    mc "이제, 월드와이드익스프레스에 가서 의상 익일 배송에 얼마 드는지 알아봐."
 
 # game/code/d08/extended/d08s09.rpy:342
 translate korean replay_d08s09_0905d529:
 
     # jf "Overnight to Belgium? That is going to be way too expensive."
-    jf "벨기에로 익일 배송? 그러면 엄청 비싼 걸."
+    jf "벨기에로 익일 배송? 그러면 엄청 비쌀걸."
 
 # game/code/d08/extended/d08s09.rpy:343
 translate korean replay_d08s09_4fd3ab1a:
@@ -596,7 +596,7 @@ translate korean replay_d08s09_d8b4f473:
 translate korean replay_d08s09_32e70465:
 
     # mc "Ha! We got him! Hook line and sinker!"
-    mc "하! 잡았어! 바늘에 줄까지 다 삼겼다고!"
+    mc "하! 걸려들었어! 아주 완전히 낚였다고!"
 
 # game/code/d08/extended/d08s09.rpy:350
 translate korean replay_d08s09_c174c775:
@@ -608,7 +608,7 @@ translate korean replay_d08s09_c174c775:
 translate korean replay_d08s09_9d368df7:
 
     # mc "That means, he is in it for AT LEAST $1000. Otherwise he would have said, \"Just ship it.\", since it is already paid for."
-    mc "그러니까 이런 거지. 그 남자는 네 사진에 천 달러를 낼 수 있는 거야. 그렇지 않으면 이렇게 말했겠지. \"그냥 배송해 주세요.\"라고 말이야. 이미 돈을 냈으니까."
+    mc "그러니까 이런 거지. 그 남자는 네 사진에 천 달러는 내려는 거야. 그렇지 않으면 이렇게 말했겠지. \"그냥 배송해 주세요.\"라고 말이야. 이미 돈을 냈으니까."
 
 # game/code/d08/extended/d08s09.rpy:352
 translate korean replay_d08s09_dffd9cd1:
@@ -620,7 +620,7 @@ translate korean replay_d08s09_dffd9cd1:
 translate korean replay_d08s09_22c3778e:
 
     # mc "I know so... Now, we just gotta think how to make bank on this."
-    mc "난 그렇게 생각해... 이제, 이걸로 돈을 벌 방법을 생각하기만 하면 돼."
+    mc "난 확신해... 이제, 이걸로 돈을 벌 방법을 생각하기만 하면 돼."
 
 # game/code/d08/extended/d08s09.rpy:355
 translate korean replay_d08s09_b95d1f00:
@@ -638,7 +638,7 @@ translate korean replay_d08s09_e33bec1b:
 translate korean replay_d08s09_db69d4ae:
 
     # jf "On my knees? What are you up to?"
-    jf "무릎 꿇라구? 넌 뭐하고?"
+    jf "무릎 꿇으라고? 무슨 속셈이야?"
 
 # game/code/d08/extended/d08s09.rpy:363
 translate korean replay_d08s09_52de73c2:
@@ -662,13 +662,13 @@ translate korean replay_d08s09_af806435:
 translate korean replay_d08s09_153e20ff:
 
     # mc "Send him that and tell him, \"The Deluxe Package is $5K, and includes 100 photos and a video. I will rigorously test the suit then overnight express it to you\"."
-    mc "이 사진을 보내고 이렇게 말해, \"추가 구성은 오천 달러입니다. 사진 백 장과 영상 하나가 포함됩니다. 의상을 철저히 시험한 후 익일 배송으로 당신에게 보내겠습니다\"."
+    mc "이 사진을 보내고 이렇게 말해, \"추가 구성은 5천 달러입니다. 사진 100장과 영상 하나가 포함됩니다. 의상을 직접 착용해 철저히 시험해 본 뒤 익일 특송으로 보내드리겠습니다\"."
 
 # game/code/d08/extended/d08s09.rpy:372
 translate korean replay_d08s09_be6c771b:
 
     # jf "Holy Shit... $5K... on top of what he already paid me?"
-    jf "세상에... 오천 달러... 이미 돈을 냈는데도?"
+    jf "세상에... 5천 달러... 이미 돈을 냈는데도?"
 
 # game/code/d08/extended/d08s09.rpy:374
 translate korean replay_d08s09_9f47a5c2:
@@ -716,11 +716,11 @@ translate korean replay_d08s09_d3c00f78:
 translate korean replay_d08s09_0327b230:
 
     # mc "Hard work done. Now we just gotta come through with some pictures and a video."
-    mc "수고했어. 이제 사진이랑 영상만 준비하면 되겠네."
+    mc "어려운 일은 끝났어. 이제 사진이랑 영상만 준비하면 되겠네."
 
 # game/code/d08/extended/d08s09.rpy:391
 translate korean replay_d08s09_6bdab792:
 
     # jf "Okay, but were using my camera for this. No more cell phone pics!"
-    jf "좋아. 하지만 이번엔 내 카메라 쓸 거야. 폰카 사진은 더 이상 안 돼!"
+    jf "좋아. 하지만 이번엔 내 카메라 쓸 거야. 폰카 사진은 이제 끝!"
 
