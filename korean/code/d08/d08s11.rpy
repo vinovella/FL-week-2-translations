@@ -8,7 +8,7 @@ translate korean d08s11_2fc7f19d:
 translate korean d08s11_fe6d4ecd:
 
     # jdg "Please state your name and occupation for the court."
-    jdg "법정 내 모두에게 귀하의 성명과 직업을 밝히세요."
+    jdg "이 법정에 성명과 직업을 밝혀 주길 바랍니다."
 
 # game/code/d08/d08s11.rpy:14
 translate korean d08s11_31204451:
@@ -20,19 +20,19 @@ translate korean d08s11_31204451:
 translate korean d08s11_1ab2fa87:
 
     # jdg "Your witness."
-    jdg "변호인이 요청한 증인이죠."
+    jdg "변호인, 증인을 신문하세요."
 
 # game/code/d08/d08s11.rpy:20
 translate korean d08s11_4c7c1a22:
 
     # mh "Thank you, your honor."
-    mh "그렇습니다. 존경하는 판사님."
+    mh "감사합니다, 존경하는 재판장님."
 
 # game/code/d08/d08s11.rpy:25
 translate korean d08s11_cbebb407:
 
     # mh "Mr. Melville, would you like to tell us a bit about yourself?"
-    mh "멜빌 씨, 당신 자신에 관해 말씀해 주실 수 있겠습니까?"
+    mh "멜빌 씨, 본인에 대해 간단히 말씀해 주시겠습니까?"
 
 # game/code/d08/d08s11.rpy:29
 translate korean d08s11_b119aa85:
@@ -62,13 +62,13 @@ translate korean d08s11_745c4de6:
 translate korean d08s11_6aa0f1ac:
 
     # peon "You see that squirrelly looking pervert over there?"
-    peon "저기 신경 과민증 걸린 것처럼 보이는 변태 보이죠?"
+    peon "저기 수상쩍은 변태 보이죠?"
 
 # game/code/d08/d08s11.rpy:42
 translate korean d08s11_eaed305a:
 
     # mc "The douchebro in the t-shirt and suit jacket?"
-    mc "티셔츠에 양복 상의 입고 있는 등신 같은 친구요?"
+    mc "티셔츠에 양복 상의 입고 있는 등신 같은 양반이요?"
 
 # game/code/d08/d08s11.rpy:44
 translate korean d08s11_4393ed27:
@@ -98,19 +98,19 @@ translate korean d08s11_f800bed0:
 translate korean d08s11_c3f3826b:
 
     # peon "The douchebro wrote a book about him. Hilarious stuff."
-    peon "등신 양반이 졸부 양반에 관한 책을 썼어요. 엄청 웃기는 물건이죠."
+    peon "등신 양반이 졸부 양반에 관한 책을 썼어요. 엄청 웃기는 내용이죠."
 
 # game/code/d08/d08s11.rpy:53
 translate korean d08s11_fdf5e780:
 
     # mc "What kind of stuff?"
-    mc "무슨 물건인데요?"
+    mc "무슨 내용인데요?"
 
 # game/code/d08/d08s11.rpy:57
 translate korean d08s11_208eee58:
 
     # mh "Mr. Melville, are you familiar with the term Homo sapiens?"
-    mh "멜빌 씨 호모 사피엔스라는 용어는 잘 알고 계십니까?"
+    mh "멜빌 씨, 호모 사피엔스라는 용어는 잘 알고 계십니까?"
 
 # game/code/d08/d08s11.rpy:60
 translate korean d08s11_8a811710:
@@ -128,13 +128,13 @@ translate korean d08s11_c370ea31:
 translate korean d08s11_9d797aff:
 
     # ceo "I couldn't tell you the dictionary definition, but sure, I'm familiar with Homo sapiens."
-    ceo "당신에게 사전적 정의를 말할 수는 없겠소만, 그렇소. 호모 사피엔스는 잘 알고 있소."
+    ceo "사전적 정의까지 외워서 말하진 못하겠소만, 그렇소. 호모 사피엔스는 잘 알고 있소."
 
 # game/code/d08/d08s11.rpy:65
 translate korean d08s11_331e7425:
 
     # mh "Would you consider the quote \"unholy offspring of a bear, a goat, three wolves, and a tiger as part of a satanic orgy\" unquote to be a Homo sapiens?"
-    mh "따옴표 열고 \"악마적 난교의 일부로서 만들어진 곰, 염소, 세 마리의 늑대, 호랑이의 불경한 소산\" 따옴표 닫고. 이 문장이 호모 사피엔스를 의미한다고 생각하십니까?"
+    mh "따옴표 열고, \"악마적 난교로 태어난 곰, 염소, 세 마리의 늑대, 호랑이의 불경한 소산\" 따옴표 닫고. 이 문장의 피조물이 호모 사피엔스에 해당한다고 생각하십니까?"
 
 # game/code/d08/d08s11.rpy:73
 translate korean d08s11_62caa963:
@@ -158,7 +158,7 @@ translate korean d08s11_94403617:
 translate korean d08s11_d5536153:
 
     # mh "Are you, yourself, a Homo sapiens?"
-    mh "멜빌 씨 본인은 호모 사피엔스입니까?"
+    mh "멜빌 씨, 본인은 호모 사피엔스입니까?"
 
 # game/code/d08/d08s11.rpy:82
 translate korean d08s11_606b95f2:
@@ -182,7 +182,7 @@ translate korean d08s11_77f2810e:
 translate korean d08s11_379774b1:
 
     # mh "Could you tell the court a bit more about yourself?"
-    mh "법정 내 모두에게 본인의 출신에 관해 말씀해 주실 수 있겠습니까?"
+    mh "이 법정에서 본인에 관해 더 말씀해 주시겠습니까?"
 
 # game/code/d08/d08s11.rpy:91
 translate korean d08s11_c7a5fc31:
@@ -194,19 +194,19 @@ translate korean d08s11_c7a5fc31:
 translate korean d08s11_267a8274:
 
     # mc "What the hell was that about?"
-    mc "망할 이게 다 뭐에 관한 일이에요?"
+    mc "대체 이게 다 무슨 소리예요?"
 
 # game/code/d08/d08s11.rpy:97
 translate korean d08s11_ce982e29:
 
     # peon "Douchebro's book. It's 900 pages about Mister Moneybags... all about how he's the reincarnation of an ancient evil, raises demons from sex orgies, casually sacrifices virgins in his office, etc."
-    peon "등신 양반의 책 때문이죠. 졸부 양반에 관해 900쪽짜리 책을 썼어요... 졸부 양반이 왜 고대 악의 부활이며, 어떻게 난교를 통해 악마를 불러냈고, 자기 사무실에서 이따금 처녀를 받쳤다는 등."
+    peon "등신 양반의 책 때문이죠. 졸부 양반에 관해 900쪽짜리 책을 썼어요... 졸부 양반이 고대 악의 화신이고, 난교를 통해 악마를 불러내며, 자기 사무실에서 아무렇지 않게 처녀를 제물로 바쳤다는 등."
 
 # game/code/d08/d08s11.rpy:98
 translate korean d08s11_3ca73872:
 
     # peon "Mister Moneybags is suing Douchebro for defamation and libel... trying to get the book unpublished or something."
-    peon "졸부는 등신을 명예 훼손으로 고소했죠... 책을 출판되지 못하게 하든 어떻게든 하려고 말이에요."
+    peon "졸부는 등신을 명예 훼손으로 고소했죠... 책이 발간되지 못하게 하든 어떻게든 하려고 말이에요."
 
 # game/code/d08/d08s11.rpy:100
 translate korean d08s11_fd69eb40:
@@ -230,13 +230,13 @@ translate korean d08s11_1484fccd:
 translate korean d08s11_5adb8aa7:
 
     # ceo "I am not familiar with him...{w} or her? To the best of my knowledge, I do not know the Prime Minister of that country."
-    ceo "그 사람은 잘 모르오...{w} 성별도 모르겠는데? 내가 아는 한, 난 그 나라의 총리를 모르오."
+    ceo "그분을 잘 모르오...{w} 성별도 모르겠는데? 내가 아는 한, 난 그 나라의 총리를 알지 못하오."
 
 # game/code/d08/d08s11.rpy:112
 translate korean d08s11_cb9eb17a:
 
     # mh "Are you saying that you do not recall sodomizing the Prime Minister of Luxembourg?"
-    mh "룩셈부르크의 총리와 비역을 했다는 사실이 떠오르지 않는다고 말씀하시는 것입니까?"
+    mh "룩셈부르크 총리와 비역을 한 기억이 없다는 말씀이십니까?"
 
 # game/code/d08/d08s11.rpy:118
 translate korean d08s11_49a4c822:
@@ -248,7 +248,7 @@ translate korean d08s11_49a4c822:
 translate korean d08s11_77e60a00:
 
     # mh "Perhaps it's an honest mistake. Have you sodomized the Prime Minister of another country?"
-    mh "명백한 착오인가 보군요. 타국의 총리와 비역을 하신 일이 있습니까?"
+    mh "단순한 착오인가 보군요. 타국의 총리와 비역을 하신 일이 있습니까?"
 
 # game/code/d08/d08s11.rpy:122
 translate korean d08s11_4aedf70c:
@@ -260,7 +260,7 @@ translate korean d08s11_4aedf70c:
 translate korean d08s11_476f2ac6:
 
     # mh "So you have not, as is stated in my client's book, ever sang lullabies to the Prime Minister while sodomizing him and gently stroking the hairs on his back?"
-    mh "그런 적이 없다고 하신다면, 제 의뢰인의 책에서 언급된 일은 없다고 말씀하시는 거군요. 예의 총리와 비역을 하며 그의 등 뒤에서 머리카락을 쓰다듬고 자장가를 부른 일이 없다는 말씀이십니까?"
+    mh "그렇다면 제 의뢰인의 책에 적힌 것처럼, 룩셈부르크 총리와 비역을 하면서 그의 등 털을 부드럽게 쓰다듬고 자장가를 불러 준 적도 없다는 말씀이십니까?"
 
 # game/code/d08/d08s11.rpy:130
 translate korean d08s11_5df3c4ce:
@@ -272,7 +272,7 @@ translate korean d08s11_5df3c4ce:
 translate korean d08s11_d48f9edc:
 
     # mh "Are you familiar with the term, \"splooshing\"?"
-    mh "증인은 \"스푸싱\"이라는 단어는 잘 알고 계십니까?"
+    mh "증인은 \"스플루싱\"이라는 단어를 잘 알고 계십니까?"
 
 # game/code/d08/d08s11.rpy:133
 translate korean d08s11_72cd34c6:
@@ -284,7 +284,7 @@ translate korean d08s11_72cd34c6:
 translate korean d08s11_c078413e:
 
     # mh "Splooshing... are you familiar with the term?"
-    mh "스푸싱... 이 단어를 잘 알고 계십니까?"
+    mh "스플루싱... 이 단어를 잘 알고 계십니까?"
 
 # game/code/d08/d08s11.rpy:137
 translate korean d08s11_93658b66:
@@ -296,7 +296,7 @@ translate korean d08s11_93658b66:
 translate korean d08s11_294aa195:
 
     # mh "There are numerous references in the defendant's book to you being covered in food and publicly masturbating. Those would be examples of splooshing."
-    mh "피고인의 책에는 증인이 음식에 뒤덮힌 상태에서 공개적으로 자위 행위를 했다는 수많은 언급이 있습니다. 그러한 행위가 스푸싱의 예에 해당합니다."
+    mh "피고인의 책에는 증인이 음식에 뒤덮인 상태에서 공개적으로 자위 행위를 했다는 수많은 언급이 있습니다. 그러한 행위가 스플루싱의 예에 해당합니다."
 
 # game/code/d08/d08s11.rpy:143
 translate korean d08s11_7c374ee6:
@@ -308,7 +308,7 @@ translate korean d08s11_7c374ee6:
 translate korean d08s11_1e021388:
 
     # mh "Do you enjoy splooshing?"
-    mh "증인은 스푸싱을 즐기십니까?"
+    mh "증인은 스플루싱을 즐기십니까?"
 
 # game/code/d08/d08s11.rpy:147
 translate korean d08s11_4aedf70c_1:
@@ -320,13 +320,13 @@ translate korean d08s11_4aedf70c_1:
 translate korean d08s11_d7e1996f:
 
     # mh "So, you don't enjoy publicly masturbating while being covered in food?"
-    mh "그렇다면, 증인은 음식에 뒤덮혀 공개적으로 자위하는 걸 즐기지 않는다는 말씀입니까?"
+    mh "그렇다면, 증인은 음식에 뒤덮여 공개적으로 자위하는 걸 즐기지 않는다는 말씀입니까?"
 
 # game/code/d08/d08s11.rpy:151
 translate korean d08s11_5f7cf9f3:
 
     # ceo "Of course not!"
-    ceo "당연히 아니지!"
+    ceo "당연히 아니오!"
 
 # game/code/d08/d08s11.rpy:152
 translate korean d08s11_9e8d34da:
@@ -344,7 +344,7 @@ translate korean d08s11_9a408f11:
 translate korean d08s11_19234048:
 
     # mh "Oh? So, you privately masturbate while covered in food?"
-    mh "아? 그렇다고 하시면, 사적인 자리에서는 음식에 뒤덮힌 상태로 자위를 하신다는 말이십니까?"
+    mh "아? 그렇다고 하시면, 사적인 자리에서는 음식에 뒤덮인 상태로 자위를 하신다는 말이십니까?"
 
 # game/code/d08/d08s11.rpy:162
 translate korean d08s11_7bfbe613:
@@ -356,7 +356,7 @@ translate korean d08s11_7bfbe613:
 translate korean d08s11_d2db16ef:
 
     # mh "Hmm. This line of questioning is clearly upsetting you."
-    mh "흐음. 이에 관한 질문은 분명히 증인을 흥분하게 하는군요."
+    mh "흐음. 이에 관한 질문은 분명히 증인을 불쾌하고 동요하게 만드는군요."
 
 # game/code/d08/d08s11.rpy:166
 translate korean d08s11_cbe12594:
@@ -374,7 +374,7 @@ translate korean d08s11_9b59f137:
 translate korean d08s11_82fa1be9:
 
     # mh "When was the last time you fellated baby cows while tap dancing and wearing lederhosen?"
-    mh "마지막으로 언제 증인은 레더호젠을 입고 탭 댄스를 하면서 새끼 소에게 구강성교를 해 주셨죠?"
+    mh "증인이 레더호젠을 입고 탭댄스를 추면서 새끼 소에게 구강성교를 한 건 언제였습니까?"
 
 # game/code/d08/d08s11.rpy:173
 translate korean d08s11_16642d00:
@@ -404,7 +404,7 @@ translate korean d08s11_0a606d2a:
 translate korean d08s11_36f592a7:
 
     # jdg "I will be the judge of that. You will provide calm responses to her questions."
-    jdg "그 점은 참작하겠습니다. 증인은 변호인의 질문에 차분히 답하십시오."
+    jdg "그 점은 내가 판단합니다. 증인은 변호인의 질문에 차분히 답하십시오."
 
 # game/code/d08/d08s11.rpy:185
 translate korean d08s11_bc5d0075:
@@ -422,7 +422,7 @@ translate korean d08s11_55a9cd99:
 translate korean d08s11_8f621047:
 
     # jdg "Counsel... I ask you to temper your questions more gingerly in the future. I will not have this courtroom turned into a circus."
-    jdg "변호인... 향후 질문은 진중히 해 주길 바랍니다. 나는 이 법정이 서커스가 되게 두지 않을 겁니다."
+    jdg "변호인... 앞으로는 좀 더 신중하게 질문하기 바랍니다. 나는 이 법정이 서커스가 되게 두지 않을 겁니다."
 
 # game/code/d08/d08s11.rpy:192
 translate korean d08s11_95a64d4a:
@@ -440,7 +440,7 @@ translate korean d08s11_23f7d551:
 translate korean d08s11_3c1f38c8:
 
     # mh "Mr. Melville, are you familiar with the book the defendant wrote about you?"
-    mh "멜빌 씨, 피고인이 당신에 관해 쓴 책은 잘 알고 계십니까?"
+    mh "멜빌 씨, 피고인이 증인에 관해 쓴 책은 잘 알고 계십니까?"
 
 # game/code/d08/d08s11.rpy:199
 translate korean d08s11_d2f5868e:
@@ -482,7 +482,7 @@ translate korean d08s11_a07d29e0:
 translate korean d08s11_3c734434:
 
     # ceo "It is absurd, vulgar, and repugnant. No sane person could read or write such garbage."
-    ceo "부조리하고 천박하고 혐오스러운 내용이지. 제정신이 박힌 사람은 읽을 수도 없고 쓸 수도 없는 그런 쓰레기란 말이외다."
+    ceo "터무니없고 천박하며 혐오스러운 내용이지. 제정신이 박힌 사람은 읽을 수도 없고 쓸 수도 없는 그런 쓰레기란 말이외다."
 
 # game/code/d08/d08s11.rpy:210
 translate korean d08s11_316e6897:
@@ -500,13 +500,13 @@ translate korean d08s11_cad75d00:
 translate korean d08s11_51035295:
 
     # mh "Not a single word? I want to avoid any confusion... could you clarify your position for the court."
-    mh "책의 한 단어도 믿지 않을 거라고 말씀하셨습니까? 법정에서 혼동을 피하기 위해... 본인의 입장을 분명히 말씀해 주실 수 있겠습니까."
+    mh "책의 한 단어도 믿지 않을 거라고 말씀하셨습니까? 혼동을 피하기 위해... 법정에 본인의 입장을 분명히 밝혀 주시겠습니까?"
 
 # game/code/d08/d08s11.rpy:216
 translate korean d08s11_a63b6a24:
 
     # ceo "The person who wrote this book is clearly mentally deranged, and no reasonable person would believe any of what they have written."
-    ceo "이 책을 쓴 사람은 분명히 정신적으로 정상이 아니고, 합리적인 사람은 이 책에 쓰인 내용은 그 무엇도 믿지 않을 거요."
+    ceo "이 책을 쓴 사람은 분명히 정신적으로 정상이 아니고, 합리적인 사람이라면 이 책에 쓰인 내용은 아무것도 믿지 않을 거요."
 
 # game/code/d08/d08s11.rpy:219
 translate korean d08s11_01fc2dc7:
@@ -548,7 +548,7 @@ translate korean d08s11_001991a3:
 translate korean d08s11_bf7b8865:
 
     # ceo "Correct. It is obviously the work of a schizophrenic."
-    ceo "정확히 그렇지. 이 책은 정신 분열증 걸린 사람의 작품이란 말이외다."
+    ceo "정확히 그렇지. 이 책은 조현병에 걸린 자의 작품이란 말이외다."
 
 # game/code/d08/d08s11.rpy:235
 translate korean d08s11_995cd73d:
@@ -566,7 +566,7 @@ translate korean d08s11_5062f140:
 translate korean d08s11_cb67ccba:
 
     # mh "So, when you publicly testify... on the record and under oath... about the defendant's mental state you have some reason to be believed?"
-    mh "그렇다면, 공개적인 증언의 자리에서... 증언이 기록되고 선서 하에 이루어지는 이 자리에서... 피고인의 정신 상태에 관해 그렇게 판단하고 증언하실 만한 근거가 있습니까?"
+    mh "그렇다면, 공개적이고... 기록이 남으며 선서까지 한 법정에서... 피고인의 정신 상태에 대해 하신 그 증언을 사람들이 신뢰할 만한 상당한 이유가 있습니까?"
 
 # game/code/d08/d08s11.rpy:241
 translate korean d08s11_b2b072ac:
@@ -584,7 +584,7 @@ translate korean d08s11_b2f378fc:
 translate korean d08s11_894b8900:
 
     # ceo "It's not like I could have him committed, but yes, it is perfectly clear that he is suffering a mental illness and should be hospitalized or incarcerated."
-    ceo "이 자에게 본인이 하게 할 수 있는 있는 아니겠소만, 이 자는 분명히 정신 질환을 앓고 있소. 입원하거나 투옥되어야 한단 말이지."
+    ceo "내가 이자를 강제로 입원시킬 수야 없겠소만, 이 자는 분명히 정신 질환을 앓고 있소. 입원하거나 투옥되어야 한단 말이지."
 
 # game/code/d08/d08s11.rpy:248
 translate korean d08s11_c676f7f4:
@@ -596,19 +596,19 @@ translate korean d08s11_c676f7f4:
 translate korean d08s11_0c1626af:
 
     # jdg "Counsel. I believe you've made your point. Let's get on with this."
-    jdg "변호인. 당신의 주장이 정당하다고 보입니다. 계속하세요."
+    jdg "변호인. 요지는 충분히 전달된 것 같습니다. 이제 다음으로 넘어가죠."
 
 # game/code/d08/d08s11.rpy:254
 translate korean d08s11_ff80f819:
 
     # ceo "Huh?"
-    ceo "응?"
+    ceo "예?"
 
 # game/code/d08/d08s11.rpy:257
 translate korean d08s11_dc2a5618:
 
     # mh "Thank you, your honor. The defense moves for immediate dismissal of all charges..."
-    mh "감사합니다. 존경하는 판사님. 본 변호인은 모든 혐의에 대한 즉각적인 기각을 요청합니다..."
+    mh "감사합니다. 존경하는 판사님. 피고 측은 모든 청구를 즉시 기각해 주실 것을 요청합니다..."
 
 # game/code/d08/d08s11.rpy:261
 translate korean d08s11_190a7814:
@@ -620,19 +620,19 @@ translate korean d08s11_190a7814:
 translate korean d08s11_6e19cce0:
 
     # peon "The sexy lawyer won a twofer."
-    peon "저 섹시한 변호사가 원 플러스 원 쿠폰을 받아낸 거죠."
+    peon "저 섹시한 변호사가 한 번에 두 가지를 얻어 냈죠."
 
 # game/code/d08/d08s11.rpy:265
 translate korean d08s11_680ede0c:
 
     # mc "I don't know what that means."
-    mc "무슨 의민지 모르겠어요."
+    mc "무슨 의미인지 모르겠어요."
 
 # game/code/d08/d08s11.rpy:266
 translate korean d08s11_aed5f9c2:
 
     # peon "She not only proved that the defendant's book was covered as parody or satire..."
-    peon "피고인의 책이 풍자라는 점을 입증했을 뿐만이 아니라..."
+    peon "피고인의 책이 패러디나 풍자로서 법적 보호를 받는다는 점을 입증했을 뿐 아니라..."
 
 # game/code/d08/d08s11.rpy:269
 translate korean d08s11_e1dfe628:
@@ -644,7 +644,7 @@ translate korean d08s11_e1dfe628:
 translate korean d08s11_1a073c24:
 
     # peon "Yes. The subject of the book is a respected public figure deserving of ridicule, and no reasonable person would believe it."
-    peon "네. 책의 주제는 풍자의 대상이 될 만한 존경받는 공인에 대한 것이고, 합리적인 사람은 그 내용을 믿지 않을 거라는 거죠."
+    peon "네. 책이 다룬 대상은 존경받는 공인이지만 조롱의 대상이 될 만하고, 합리적인 사람은 그 내용을 믿지 않을 거라는 거죠."
 
 # game/code/d08/d08s11.rpy:271
 translate korean d08s11_2689b56d:
@@ -656,7 +656,7 @@ translate korean d08s11_2689b56d:
 translate korean d08s11_2e219ace:
 
     # peon "Nope. She also got Mister Moneybags to commit slander under oath against her client."
-    peon "아뇨. 방금 건 졸부가 증인 선서를 한 자리에서 자기 의뢰인을 비방하게 한 거죠."
+    peon "아뇨. 또 변호사 선생은 그 부자가 선서한 상태에서 자기 의뢰인을 비방하도록 유도한 거죠."
 
 # game/code/d08/d08s11.rpy:274
 translate korean d08s11_35b0dd06:
@@ -668,7 +668,7 @@ translate korean d08s11_35b0dd06:
 translate korean d08s11_223b23ed:
 
     # peon "It's a cornerstone of our freedoms... the right to humiliate pompous asses as long as they're famous enough and the lies are absurd enough."
-    peon "그게 우리 자유의 정초인 거죠... 거만한 등신들이 충분히 유명하고 거짓말이 충분히 터무니없으면 모욕할 권리가 보장되는 거예요."
+    peon "그게 우리 자유의 초석인 거죠... 거만한 등신들이 충분히 유명하고 거짓말이 충분히 터무니없으면 모욕할 권리가 보장되는 거예요."
 
 # game/code/d08/d08s11.rpy:278
 translate korean d08s11_579bbec2:
@@ -680,7 +680,7 @@ translate korean d08s11_579bbec2:
 translate korean d08s11_af6df4b8:
 
     # jdg "Case dismissed. This court is no longer in session."
-    jdg "사건을 기각합니다. 이 법정에서 재판은 더 이상 진행되지 않습니다."
+    jdg "청구를 기각합니다. 폐정합니다."
 
 # game/code/d08/d08s11.rpy:290
 translate korean d08s11_de6c1f1a:
@@ -692,7 +692,7 @@ translate korean d08s11_de6c1f1a:
 translate korean d08s11_92a4b84f:
 
     # ceo "This isn't over!"
-    ceo "끝나지 않았어!"
+    ceo "이건 끝난 게 아니오!"
 
 # game/code/d08/d08s11.rpy:294
 translate korean d08s11_bfddbb16:
@@ -704,7 +704,7 @@ translate korean d08s11_bfddbb16:
 translate korean d08s11_e0b4233a:
 
     # mh "You slandered my client here today. Look forward to our lawsuit."
-    mh "오늘 이 자리에서 제 의뢰인을 비방하셨죠. 소송을 고대하시길."
+    mh "오늘 이 자리에서 제 의뢰인의 명예를 훼손하셨군요. 저희가 제기할 소송을 기대하셔도 좋습니다."
 
 # game/code/d08/d08s11.rpy:298
 translate korean d08s11_e826fb2a:
@@ -716,7 +716,7 @@ translate korean d08s11_e826fb2a:
 translate korean d08s11_f29be997:
 
     # mh "And I highly recommend that you hire a lawyer for that suit. Only a fool represents himself."
-    mh "그리고 그 소송에선 변호사를 고용하시길 강력히 권합니다. 오직 우인만이 스스로를 대변하니까요."
+    mh "그리고 그 소송에서는 꼭 변호사를 선임하시길 권합니다. 자기 자신을 직접 변호하는 건 바보나 하는 짓이니까요."
 
 # game/code/d08/d08s11.rpy:313
 translate korean d08s11_a14e1858:
@@ -734,13 +734,13 @@ translate korean d08s11_61334d86:
 translate korean d08s11_812b1b69:
 
     # mc "Yeah, but it was one ugly puppy."
-    mc "그렇네, 강아지가 추하긴 했지만."
+    mc "그렇긴 해도, 꽤나 밉상인 강아지였지."
 
 # game/code/d08/d08s11.rpy:323
 translate korean d08s11_f52d2647:
 
     # mh "C'mon, I have something for you in my office."
-    mh "와, 사무실에 당신을 위해 준비한 게 있으니."
+    mh "가자, 사무실에 당신을 위해 준비한 게 있으니."
 
 # game/code/d08/d08s11.rpy:326
 translate korean d08s11_d1a0d4cc:
@@ -764,7 +764,7 @@ translate korean d08s11_3ce6c41d:
 translate korean d08s11_ed43201e:
 
     # mh "Just half an hour, Oliver. Don't stress."
-    mh "30분만, 올리버. 채근하지 마."
+    mh "30분만, 올리버. 너무 걱정하지 마."
 
 # game/code/d08/d08s11.rpy:337
 translate korean d08s11_8f3053e5:
