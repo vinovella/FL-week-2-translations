@@ -1380,5 +1380,5 @@ translate chinese strings:
 translate chinese d08s14_336ce5e2:
 
     # mc "...But not for the reasons you're thinking of. I'm just not sure it's all it's made out to be."
-    mc "...But not for the reasons you're thinking of. I'm just not sure it's all it's made out to be."
+    mc "……但不是你想的那些原因。我只是不确定它是不是真有说的那么好。"
 

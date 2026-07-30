@@ -228,53 +228,53 @@ translate chinese strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 14: AmRose"
-    new "Day 14: AmRose"
+    new "第14天：爱洛丝"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 14: Min and Lydia"
-    new "Day 14: Min and Lydia"
+    new "第14天：敏和莉迪亚"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 14: Cynthia"
-    new "Day 14: Cynthia"
+    new "第14天：辛西娅"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Play along"
-    new "Play along"
+    new "配合演出"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 14: Polly"
-    new "Day 14: Polly"
+    new "第14天：波莉"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 14: Allison"
-    new "Day 14: Allison"
+    new "第14天：艾莉森"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Go with her"
-    new "Go with her"
+    new "跟她走"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 14: Samia"
-    new "Day 14: Samia"
+    new "第14天：萨米娅"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 14: Oliver"
-    new "Day 14: Oliver"
+    new "第14天：奥利弗"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Help him out"
-    new "Help him out"
+    new "帮帮他"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 14: Jessie Mermaid"
-    new "Day 14: Jessie Mermaid"
+    new "第14天：杰西美人鱼"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 14: Lydia"
-    new "Day 14: Lydia"
+    new "第14天：莉迪亚"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 14: Stacy"
-    new "Day 14: Stacy"
+    new "第14天：史黛西"
 

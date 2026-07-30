@@ -820,23 +820,23 @@ translate chinese strings:
 translate chinese d12s02_52f7b26f:
 
     # mct "New VIP challenge. Fuck 20 girls by Sunday. If succeed, could win the whole game."
-    mct "New VIP challenge. Fuck 20 girls by Sunday. If succeed, could win the whole game."
+    mct "新的VIP挑战。周日之前干二十个女孩。成功的话，有可能赢下整场游戏。"
 
 # game/code/d12/d12s02.rpy:350
 translate chinese d12s02_facf8920:
 
     # "Really? How many so far?"
-    "Really? How many so far?"
+    "真的？到目前为止多少个了？"
 
 # game/code/d12/d12s02.rpy:356
 translate chinese d12s02_5e5a4749:
 
     # mct "Yes. [fl_w2_sex_count]."
-    mct "Yes. [fl_w2_sex_count]."
+    mct "是的。[fl_w2_sex_count]。"
 
 # game/code/d12/d12s02.rpy:379
 translate chinese d12s02_376320a3:
 
     # mct "Should I? If Hana goes for it, that'll be plus one fuck for the VIP challenge."
-    mct "Should I? If Hana goes for it, that'll be plus one fuck for the VIP challenge."
+    mct "我该不该？如果哈娜愿意，VIP挑战就能再加一次。"
 

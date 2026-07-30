@@ -708,5 +708,5 @@ translate chinese strings:
 translate chinese d08s12_end_ebe54fab:
 
     # mct "Just going to leave her a little warning about FL's privacy issues. She has more to worry about there than me."
-    mct "Just going to leave her a little warning about FL's privacy issues. She has more to worry about there than me."
+    mct "就给她留个关于FL隐私问题的小警告吧。在那方面她比我更该担心。"
 

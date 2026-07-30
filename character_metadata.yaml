@@ -1,0 +1,688 @@
+# Character metadata — source of truth for all localization pipelines.
+# Fields:
+#   source_name : display name as it appears in English source
+#   full_name   : full canonical name (for reference only)
+#   gender      : male | female | non-binary
+#   pronouns    : pronouns to use when referring to this character
+#   role        : short description of character role
+#   names       : per-language display name overrides (token [mcname] stays as-is)
+#   notes       : any extra context useful for translators
+
+characters:
+
+  # ── Main Character / Fetish Locator ──────────────────────────────────────────
+
+  fl:
+    source_name: Fetish Locator
+    full_name: Fetish Locator
+    gender: non-binary
+    pronouns: they/them
+    role: Fetish Locator app
+    names:
+      chinese: 性趣探测器
+      korean: "페티시 로케이터"
+    notes: In-app / system messaging voice.
+
+  flr:
+    source_name: "[flr_name!t]"
+    full_name: Fetish Locator Retention
+    gender: non-binary
+    pronouns: they/them
+    role: Fetish Locator Retention
+    names:
+      chinese: "[flr_name!t]"
+      korean: "[flr_name!t]"
+    notes: Dynamic display name. Fetish Locator Retention. Never translate the [flr_name!t] token. Chinese for "Fetish Locator Retention" is 性趣探测器留存.
+
+  mc:
+    source_name: "[mcname]"
+    full_name: ~
+    gender: male
+    pronouns: he/him
+    role: Main Character
+    names:
+      chinese: "[mcname]"
+      korean: "[mcname]"
+    notes: Player-chosen first name. Never translate the [mcname] token.
+
+  mct:
+    source_name: "[mcname]"
+    full_name: ~
+    gender: male
+    pronouns: he/him
+    role: Main Character (internal thoughts)
+    names:
+      chinese: "[mcname]"
+      korean: "[mcname]"
+    notes: Player-chosen first name. Never translate the [mcname] token.
+
+  mcfl:
+    source_name: "[mclogin]"
+    full_name: ~
+    gender: male
+    pronouns: he/him
+    role: Main Character (Fetish Locator login)
+    names:
+      chinese: "[mclogin]"
+      korean: "[mclogin]"
+    notes: Player Fetish Locator login name. Never translate the [mclogin] token.
+
+  # ── Regular cast ─────────────────────────────────────────────────────────────
+
+  pb:
+    source_name: Pete
+    full_name: Peter Butler
+    gender: male
+    pronouns: he/him
+    role: ~
+    names:
+      chinese: 皮特
+      korean: 피트
+    notes: ~
+
+  hr:
+    source_name: Hana
+    full_name: Hana Rivera
+    gender: female
+    pronouns: she/her
+    role: ~
+    names:
+      chinese: 哈娜
+      korean: 하나
+    notes: ~
+
+  hrfl:
+    source_name: QueenB
+    full_name: Hana Rivera
+    gender: female
+    pronouns: she/her
+    role: Fetish Locator alias
+    names:
+      chinese: 奎恩
+      korean: 퀸비
+    notes: Hana's Fetish Locator username.
+
+  kb:
+    source_name: Kevin
+    full_name: Kevin Bennet
+    gender: male
+    pronouns: he/him
+    role: ~
+    names:
+      chinese: 凯文
+      korean: 케빈
+    notes: ~
+
+  cb:
+    source_name: Chloe
+    full_name: Chloe Bennet
+    gender: female
+    pronouns: she/her
+    role: ~
+    names:
+      chinese: 克洛伊
+      korean: 클로이
+    notes: ~
+
+  mes:
+    source_name: Min
+    full_name: Min Eun-Soo
+    gender: female
+    pronouns: she/her
+    role: ~
+    names:
+      chinese: 明
+      korean: 민
+    notes: ~
+
+  mest:
+    source_name: Min
+    full_name: Min Eun-Soo
+    gender: female
+    pronouns: she/her
+    role: Internal thoughts
+    names:
+      chinese: 明
+      korean: 민
+    notes: ~
+
+  mesfl:
+    source_name: Squizzle
+    full_name: Min Eun-Soo
+    gender: female
+    pronouns: she/her
+    role: Fetish Locator alias
+    names:
+      chinese: 斯奎兹
+      korean: 스퀴즐
+    notes: Min's Fetish Locator username.
+
+  arj:
+    source_name: Amber-Rose
+    full_name: Amber-Rose Jenkins
+    gender: female
+    pronouns: she/her
+    role: ~
+    names:
+      chinese: 爱洛丝
+      korean: 앰버-로즈
+    notes: ~
+
+  arjt:
+    source_name: Amber-Rose
+    full_name: Amber-Rose Jenkins
+    gender: female
+    pronouns: she/her
+    role: Internal thoughts
+    names:
+      chinese: 爱洛丝
+      korean: 앰버-로즈
+    notes: ~
+
+  arjfl:
+    source_name: ErikaRed
+    full_name: Amber-Rose Jenkins
+    gender: female
+    pronouns: she/her
+    role: Fetish Locator alias
+    names:
+      chinese: 红色埃里卡
+      korean: 에리카레드
+    notes: Amber-Rose's Fetish Locator username.
+
+  cth:
+    source_name: CamTubeHelper
+    full_name: CamTubeHelper
+    gender: non-binary
+    pronouns: they/them
+    role: CamTubeHelper App
+    names:
+      chinese: CamTube助手
+      korean: 캠튜브도우미
+    notes: App helper voice.
+
+  am:
+    source_name: Antony
+    full_name: Antony Muir
+    gender: male
+    pronouns: he/him
+    role: ~
+    names:
+      chinese: 安东尼
+      korean: 앤토니
+    notes: ~
+
+  amfl:
+    source_name: Mr.D1cky
+    full_name: Antony Muir
+    gender: male
+    pronouns: he/him
+    role: Fetish Locator alias
+    names:
+      chinese: 迪克先生
+      korean: "미스터 ㄷ1키"
+    notes: Antony's Fetish Locator username.
+
+  sy:
+    source_name: Stacy
+    full_name: Stacy Young
+    gender: female
+    pronouns: she/her
+    role: ~
+    names:
+      chinese: 史黛西
+      korean: 스테이시
+    notes: ~
+
+  syfl:
+    source_name: SexyMinx
+    full_name: Stacy Young
+    gender: female
+    pronouns: she/her
+    role: Fetish Locator alias
+    names:
+      chinese: 性感女郎
+      korean: 섹시밍스
+    notes: Stacy's Fetish Locator username.
+
+  lc:
+    source_name: Lydia
+    full_name: Lydia Cox
+    gender: female
+    pronouns: she/her
+    role: ~
+    names:
+      chinese: 莉迪亚
+      korean: 리디아
+    notes: ~
+
+  pw:
+    source_name: Polly
+    full_name: Polly Wilson
+    gender: female
+    pronouns: she/her
+    role: ~
+    names:
+      chinese: 波莉
+      korean: 폴리
+    notes: ~
+
+  pwt:
+    source_name: Polly
+    full_name: Polly Wilson
+    gender: female
+    pronouns: she/her
+    role: Internal thoughts
+    names:
+      chinese: 波莉
+      korean: 폴리
+    notes: ~
+
+  nk:
+    source_name: Nora
+    full_name: Nora Knight
+    gender: female
+    pronouns: she/her
+    role: ~
+    names:
+      chinese: 诺拉
+      korean: 노라
+    notes: ~
+
+  nkt:
+    source_name: Nora
+    full_name: Nora Knight
+    gender: female
+    pronouns: she/her
+    role: Internal thoughts
+    names:
+      chinese: 诺拉
+      korean: 노라
+    notes: ~
+
+  zw:
+    source_name: Zarah Waller
+    full_name: Zarah Waller
+    gender: female
+    pronouns: she/her
+    role: ~
+    names:
+      chinese: 萨拉·沃勒
+      korean: "자라 월러"
+    notes: ~
+
+  rn:
+    source_name: Ronald Nordin
+    full_name: Ronald Nordin
+    gender: male
+    pronouns: he/him
+    role: ~
+    names:
+      chinese: 罗纳德·诺丁
+      korean: "로널드 노딘"
+    notes: ~
+
+  dr:
+    source_name: Dario
+    full_name: Dario Righetti
+    gender: male
+    pronouns: he/him
+    role: ~
+    names:
+      chinese: 达里奥
+      korean: 다리오
+    notes: ~
+
+  mk:
+    source_name: Maria
+    full_name: Maria Kovalevich
+    gender: female
+    pronouns: she/her
+    role: ~
+    names:
+      chinese: 玛丽亚
+      korean: 마리아
+    notes: ~
+
+  mkfl:
+    source_name: Vesna
+    full_name: Maria Kovalevich
+    gender: female
+    pronouns: she/her
+    role: Fetish Locator alias
+    names:
+      chinese: 维斯纳
+      korean: 베스나
+    notes: Maria's Fetish Locator username.
+
+  zo:
+    source_name: Zach
+    full_name: Zach Olsson
+    gender: male
+    pronouns: he/him
+    role: ~
+    names:
+      chinese: 扎克
+      korean: 자크
+    notes: ~
+
+  dd:
+    source_name: Daisy
+    full_name: Daisy Diamond
+    gender: female
+    pronouns: she/her
+    role: ~
+    names:
+      chinese: 黛西
+      korean: 데이지
+    notes: ~
+
+  dw:
+    source_name: Dahlia
+    full_name: Dahlia West
+    gender: female
+    pronouns: she/her
+    role: ~
+    names:
+      chinese: 黛丽娅
+      korean: 달리아
+    notes: ~
+
+  aw:
+    source_name: Allison
+    full_name: Allison Webb
+    gender: female
+    pronouns: she/her
+    role: ~
+    names:
+      chinese: 艾莉森
+      korean: 앨리슨
+    notes: ~
+
+  mh:
+    source_name: Lyssa
+    full_name: Melissa Harris
+    gender: female
+    pronouns: she/her
+    role: ~
+    names:
+      chinese: 丽莎
+      korean: 리사
+    notes: Trans character (has a penis). Identifies as she/her.
+
+  tm:
+    source_name: Talia
+    full_name: Talia Millar
+    gender: female
+    pronouns: she/her
+    role: ~
+    names:
+      chinese: 塔利亚
+      korean: 탈리아
+    notes: ~
+
+  cl:
+    source_name: Cynthia
+    full_name: Cynthia Lewald
+    gender: female
+    pronouns: she/her
+    role: ~
+    names:
+      chinese: 辛西娅
+      korean: 신시아
+    notes: ~
+
+  js:
+    source_name: Jerome
+    full_name: Jerome S
+    gender: male
+    pronouns: he/him
+    role: ~
+    names:
+      chinese: 杰罗姆
+      korean: Jerome
+    notes: ~
+
+  tr:
+    source_name: Terrell
+    full_name: Terrell Ratliff
+    gender: male
+    pronouns: he/him
+    role: ~
+    names:
+      chinese: 特雷尔
+      korean: 테럴
+    notes: ~
+
+  trfl:
+    source_name: HairyHarry
+    full_name: Terrell Ratliff
+    gender: male
+    pronouns: he/him
+    role: Fetish Locator alias
+    names:
+      chinese: 长毛哈里
+      korean: 헤어리해리
+    notes: Terrell's Fetish Locator username.
+
+  vw:
+    source_name: Vanessa Webb
+    full_name: Vanessa Webb
+    gender: female
+    pronouns: she/her
+    role: ~
+    names:
+      chinese: 瓦妮莎·韦伯
+      korean: "버네사 웹"
+    notes: ~
+
+  jf:
+    source_name: Jessie
+    full_name: Jessie Feeney
+    gender: female
+    pronouns: she/her
+    role: ~
+    names:
+      chinese: 杰西
+      korean: 제시
+    notes: ~
+
+  jfx:
+    source_name: Girl
+    full_name: Jessie Feeney
+    gender: female
+    pronouns: she/her
+    role: Unidentified / disguised appearance
+    names:
+      chinese: 女孩
+      korean: 여자애
+    notes: Jessie when presented as unnamed girl.
+
+  jffl:
+    source_name: URLittlePony
+    full_name: Jessie Feeney
+    gender: female
+    pronouns: she/her
+    role: Fetish Locator alias
+    names:
+      chinese: 你的小马驹
+      korean: 유어리틀포니
+    notes: Jessie's Fetish Locator username.
+
+  sa:
+    source_name: Shontae
+    full_name: Shontae Abel
+    gender: female
+    pronouns: she/her
+    role: ~
+    names:
+      chinese: 尚泰
+      korean: 숀티
+    notes: ~
+
+  ceo:
+    source_name: Mr. Melville
+    full_name: Bryan Xavier Melville
+    gender: male
+    pronouns: he/him
+    role: ~
+    names:
+      chinese: 梅尔维尔先生
+      korean: "멜빌 씨"
+    notes: ~
+
+  jdg:
+    source_name: Judge
+    full_name: Judge
+    gender: female
+    pronouns: she/her
+    role: Lyssa's court judge
+    names:
+      chinese: 法官
+      korean: 판사
+    notes: ~
+
+  peon:
+    source_name: Woman
+    full_name: ~
+    gender: female
+    pronouns: she/her
+    role: Unnamed woman
+    names:
+      chinese: 女人
+      korean: 여성
+    notes: Unnamed character, no canonical name.
+
+  op:
+    source_name: Oliver
+    full_name: Oliver Parra
+    gender: male
+    pronouns: he/him
+    role: ~
+    names:
+      chinese: 奥利弗
+      korean: 올리버
+    notes: ~
+
+  sb:
+    source_name: Samiya
+    full_name: Samiya Byers
+    gender: female
+    pronouns: she/her
+    role: ~
+    names:
+      chinese: 萨米亚
+      korean: 사미야
+    notes: ~
+
+  ir:
+    source_name: Iona
+    full_name: Iona Rivera
+    gender: female
+    pronouns: she/her
+    role: ~
+    names:
+      chinese: 欧娜
+      korean: 아이오나
+    notes: ~
+
+  irfl:
+    source_name: SuperNova
+    full_name: Iona Rivera
+    gender: female
+    pronouns: she/her
+    role: Fetish Locator alias
+    names:
+      chinese: 超诺娃
+      korean: 슈퍼노바
+    notes: Iona's Fetish Locator username.
+
+  nr:
+    source_name: "[nr_name!t]"
+    full_name: Nirmala Riese
+    gender: female
+    pronouns: she/her
+    role: ~
+    names:
+      chinese: "[nr_name!t]"
+      korean: "[nr_name!t]"
+    notes: Dynamic display name. Full name Nirmala Riese. Never translate the [nr_name!t] token.
+
+  ah:
+    source_name: Aaleyah
+    full_name: Aaleyah
+    gender: female
+    pronouns: she/her
+    role: ~
+    names:
+      chinese: 艾蕾亚
+      korean: 알리야
+    notes: First name only; no fuller canonical name in source.
+
+  # ── System / meta speakers ───────────────────────────────────────────────────
+
+  narrator:
+    source_name: Narrator
+    full_name: ~
+    gender: non-binary
+    pronouns: they/them
+    role: Narrator
+    names:
+      chinese: 旁白
+      korean: 해설자
+    notes: Used for unattributed narration lines. No speaker code role in script context.
+
+  phone:
+    source_name: Phone
+    full_name: ~
+    gender: non-binary
+    pronouns: they/them
+    role: Phone (voicemail, automated message, etc)
+    names:
+      chinese: 电话
+      korean: 전화
+    notes: Used for phone dialogue.
+
+  unknown:
+    source_name: ???
+    full_name: ~
+    gender: non-binary
+    pronouns: they/them
+    role: Unidentified speaker
+    names:
+      chinese: "???"
+      korean: "???"
+    notes: Used when speaker is unknown or cannot be identified.
+
+  everyone:
+    source_name: Everyone
+    full_name: ~
+    gender: non-binary
+    pronouns: they/them
+    role: All characters (group lines)
+    names:
+      chinese: 所有人
+      korean: 모두
+    notes: Used for lines spoken by multiple characters at once, or when the speaker is not specified.
+
+  both:
+    source_name: Both
+    full_name: ~
+    gender: non-binary
+    pronouns: they/them
+    role: Two characters (group lines)
+    names:
+      chinese: 两人
+      korean: "둘 다"
+    notes: Used for lines spoken by two characters together, or when the speaker is not specified but it's clear there are two speakers.
+
+  game:
+    source_name: Game
+    full_name: ~
+    gender: non-binary
+    pronouns: they/them
+    role: Game/System (UI text, system messages, etc)
+    names:
+      chinese: 游戏
+      korean: 게임
+    notes: Used for in-game text that is not spoken by any character, such as UI elements, system messages, etc.

@@ -1306,5 +1306,5 @@ translate chinese strings:
 translate chinese d08s03_3a9860c7:
 
     # mc "How are you doing now? You're not still short, are you?"
-    mc "How are you doing now? You're not still short, are you?"
+    mc "你现在感觉怎么样？该不会还是那么矮吧？"
 

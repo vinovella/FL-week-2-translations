@@ -1388,65 +1388,65 @@ translate chinese strings:
 translate chinese d14s03_5f1c483b:
 
     # mc "...for all their gold doubloons?"
-    mc "...for all their gold doubloons?"
+    mc "……就为了他们所有的金币？"
 
 # game/code/d14/d14s03.rpy:259
 translate chinese d14s03_fdd84e06:
 
     # mc "She said that she knew someone in the VIP Program - and that she's found one of the people behind Fetish Locator."
-    mc "She said that she knew someone in the VIP Program - and that she's found one of the people behind Fetish Locator."
+    mc "她说她认识VIP计划里的某个人——而且她已经找到了Fetish Locator背后的人之一。"
 
 # game/code/d14/d14s03.rpy:360
 translate chinese d14s03_2b882098:
 
     # mc "True. But at the same time. She's doing this for someone else that's in the VIP Program—"
-    mc "True. But at the same time. She's doing this for someone else that's in the VIP Program—"
+    mc "没错。但与此同时，她是在为VIP计划里的另一个人做这些——"
 
 # game/code/d14/d14s03.rpy:399
 translate chinese d14s03_34a75aae:
 
     # sy "Oh... Yeah. I remember her, she was cute. So she's in The VIP Program as well?"
-    sy "Oh... Yeah. I remember her, she was cute. So she's in The VIP Program as well?"
+    sy "哦……对。我记得她，挺可爱的。所以她也在VIP计划里？"
 
 # game/code/d14/d14s03.rpy:404
 translate chinese d14s03_630bcee0:
 
     # sy "And Hana is her girlfriend that's trying to win her the Fetish Locator treasure?"
-    sy "And Hana is her girlfriend that's trying to win her the Fetish Locator treasure?"
+    sy "而哈娜是她的女朋友，正试图帮她赢下Fetish Locator的宝藏？"
 
 # game/code/d14/d14s03.rpy:452
 translate chinese d14s03_65c58212:
 
     # mc "Iona is in the VIP Program, so she might be down to help as well."
-    mc "Iona is in the VIP Program, so she might be down to help as well."
+    mc "艾欧娜也在VIP计划里，所以她或许也会愿意帮忙。"
 
 # game/code/d14/d14s03.rpy:467
 translate chinese d14s03_30ed6de8:
 
     # mc "There's one other dude that I know is in the VIP Program."
-    mc "There's one other dude that I know is in the VIP Program."
+    mc "我还知道另一个家伙也在VIP计划里。"
 
 # game/code/d14/d14s03.rpy:487
 translate chinese d14s03_44d99162:
 
     # mc "He told me about the VIP Program."
-    mc "He told me about the VIP Program."
+    mc "是他告诉我VIP计划的。"
 
 # game/code/d14/d14s03.rpy:534
 translate chinese d14s03_44bbf952:
 
     # sy "Then figure out a proper game plan to win everything with her info."
-    sy "Then figure out a proper game plan to win everything with her info."
+    sy "那就根据她的情报，想出一套能赢下一切的正经计划。"
 
 # game/code/d14/d14s03.rpy:550
 translate chinese d14s03_ee15e4de:
 
     # sy "Why are you looking at me like that? This secret, undercover plotting stuff is fun!"
-    sy "Why are you looking at me like that? This secret, undercover plotting stuff is fun!"
+    sy "你干嘛那样看着我？这种秘密卧底密谋的事超好玩！"
 
 # game/code/d14/d14s03.rpy:663
 translate chinese d14s03_91070ee1:
 
     # sy "Well, it's your money now for a chance at a big payoff with the treasure."
-    sy "Well, it's your money now for a chance at a big payoff with the treasure."
+    sy "嗯，现在是你的钱，换取一次冲击宝藏大奖的机会。"
 

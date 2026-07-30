@@ -924,5 +924,5 @@ translate chinese strings:
 translate chinese d10s02_warning_dbc3fbdf:
 
     # mc "Yeah. It's all very suspicious."
-    mc "Yeah. It's all very suspicious."
+    mc "是啊。一切都非常可疑。"
 

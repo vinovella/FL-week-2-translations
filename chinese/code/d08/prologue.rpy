@@ -170,7 +170,7 @@ translate chinese strings:
 translate chinese prologue_fetishes_7bc3a4e5:
 
     # "It's time to choose your preferences.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many as you want and press \"Done\"."
-    "It's time to choose your preferences.\nDon't worry if your favorite kink is not listed: Fetish Locator has only begun!\nPick as many as you want and press \"Done\"."
+    "是时候选择你的偏好了。\n别担心你最爱的癖好不在列表里：Fetish Locator才刚刚起步！\n想选多少就选多少，然后按“完成”。"
 
 # game/code/d08/prologue.rpy:67
 translate chinese prologue_fresh_start_ab0acec6:

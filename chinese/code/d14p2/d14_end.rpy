@@ -26,11 +26,11 @@ translate chinese d14_end_9443248a:
 translate chinese d14_end_0a1a75cf:
 
     # flr "Your next challenge will arrive at dawn."
-    flr "Your next challenge will arrive at dawn."
+    flr "你的下一个挑战将在黎明时到来。"
 
 # game/code/d14p2/d14_end.rpy:59
 translate chinese d14_end_f58a2b9f:
 
     # flr "Cheater."
-    flr "Cheater."
+    flr "作弊者。"
 

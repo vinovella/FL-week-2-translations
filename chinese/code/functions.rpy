@@ -30,9 +30,9 @@ translate chinese strings:
 
     # game/code/functions.rpy:269
     old "You can only select two out of Min, Lyssa and Maria"
-    new "You can only select two out of Min, Lyssa and Maria"
+    new "你只能从敏、丽莎和玛丽亚中选择两人"
 
     # game/code/functions.rpy:271
     old "You can only select one out of Daisy and Dahlia"
-    new "You can only select one out of Daisy and Dahlia"
+    new "你只能从黛西和达丽娅中选择一人"
 

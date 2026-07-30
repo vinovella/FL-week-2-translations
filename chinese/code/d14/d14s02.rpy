@@ -392,29 +392,29 @@ translate chinese d14s02_09879994:
 translate chinese d14s02_6869e014:
 
     # mc "Tells me that I'm gonna fail the challenge, and that the only way to win is to not play."
-    mc "Tells me that I'm gonna fail the challenge, and that the only way to win is to not play."
+    mc "她告诉我我会挑战失败，而且唯一能赢的办法就是不玩。"
 
 # game/code/d14/d14s02.rpy:110
 translate chinese d14s02_bf7c2b0c:
 
     # mc "And then she's like \"You won't lose if I take your dick first muahaha!\" and then brings out this huge fuck off pair of scissors from God knows where and goes to chop off my dick."
-    mc "And then she's like \"You won't lose if I take your dick first muahaha!\" and then brings out this huge fuck off pair of scissors from God knows where and goes to chop off my dick."
+    mc "然后她就像 \"你不会输，如果我先把你的几把拿走的话，唔哈哈哈！\" 接着不知从哪变出一把超大的剪刀，要来砍我的几把。"
 
 # game/code/d14/d14s02.rpy:199
 translate chinese d14s02_5602733c:
 
     # arj "Hey, we're gonna get this prize. And you're gonna complete your challenge."
-    arj "Hey, we're gonna get this prize. And you're gonna complete your challenge."
+    arj "嘿，我们会拿到这个奖的。而且你会完成你的挑战。"
 
 # game/code/d14/d14s02.rpy:200
 translate chinese d14s02_9f898f54:
 
     # arj "If some crazy succubus wants your dick, she will have to go through me first."
-    arj "If some crazy succubus wants your dick, she will have to go through me first."
+    arj "要是哪个疯狂的魅魔想要你的几把，她得先过我这关。"
 
 # game/code/d14/d14s02.rpy:356
 translate chinese d14s02_df770e8e:
 
     # sy "In and out in 5 minutes top 'cause, unlike you, I have a work ethic and a desire to win this thing."
-    sy "In and out in 5 minutes top 'cause, unlike you, I have a work ethic and a desire to win this thing."
+    sy "五分钟内搞定，因为不像你，我有职业道德，也有赢下这玩意儿的欲望。"
 

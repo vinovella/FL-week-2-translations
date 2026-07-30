@@ -470,5 +470,5 @@ translate chinese d08s08_2fff4bf6:
 translate chinese d08s08_3098df80:
 
     # mct "\"Hi... I'm kinda, sorta your boyfriend, but I gotta be able to boink anything to win a million dollars.\""
-    mct "\"Hi... I'm kinda, sorta your boyfriend, but I gotta be able to boink anything to win a million dollars.\""
+    mct "\"嗨……我算是、大概是你男朋友，但为了赢一百万，我得跟谁都能上床。\""
 

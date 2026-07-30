@@ -878,35 +878,35 @@ translate chinese replay_d12s04_faf75cbc:
 translate chinese d12s04_8cc9a922:
 
     # mct "But on the other side, I'd want to see Lyssa even if Fetish Loctator wasn't challenging me."
-    mct "But on the other side, I'd want to see Lyssa even if Fetish Loctator wasn't challenging me."
+    mct "但另一方面，就算没有Fetish Locator的挑战，我也想见丽莎。"
 
 # game/code/d12/d12s04.rpy:133
 translate chinese d12s04_bfdba55d:
 
     # op "I should probably go either way, then."
-    op "I should probably go either way, then."
+    op "那我大概不管怎样都该去了。"
 
 # game/code/d12/d12s04.rpy:139
 translate chinese d12s04_b2b9e19d:
 
     # mc "What do you mean?"
-    mc "What do you mean?"
+    mc "什么意思？"
 
 # game/code/d12/d12s04.rpy:145
 translate chinese d12s04_1dbc95fd:
 
     # op "Do you know about their VIP Program?"
-    op "Do you know about their VIP Program?"
+    op "你知道他们的VIP计划吗？"
 
 # game/code/d12/d12s04.rpy:157
 translate chinese d12s04_991a5a6e:
 
     # mc "Good luck, but I'm afraid I'm going to win."
-    mc "Good luck, but I'm afraid I'm going to win."
+    mc "祝你好运，不过恐怕赢的人会是我。"
 
 # game/code/d12/d12s04.rpy:164
 translate chinese d12s04_70019087:
 
     # op "Thank you. I'm just trying to find myself. I haven't really considered winning the treasure or anything like that."
-    op "Thank you. I'm just trying to find myself. I haven't really considered winning the treasure or anything like that."
+    op "谢谢。我只是想找回自我。我其实没怎么想过要赢得宝藏之类的事。"
 

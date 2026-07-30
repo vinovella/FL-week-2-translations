@@ -1276,5 +1276,5 @@ translate chinese d10p1s01_7e7578d2:
 translate chinese d10p1s01_427f0b81:
 
     # mct "I think I recognize that girl. Is that Hana's girlfriend?"
-    mct "I think I recognize that girl. Is that Hana's girlfriend?"
+    mct "我觉得我认识那个女孩。那是哈娜的女朋友吗？"
 

@@ -482,29 +482,29 @@ translate chinese d14s13_5af089f0:
 translate chinese d14s13_2abde1da:
 
     # arj "What she means is that we're trying to win The VIP Challenge as well."
-    arj "What she means is that we're trying to win The VIP Challenge as well."
+    arj "她的意思是我们也在努力赢下VIP挑战。"
 
 # game/code/d14p2/d14s13.rpy:111
 translate chinese d14s13_f725c244:
 
     # mc "Hana, you want this as much as we do. But the only way we're getting it is if we work together."
-    mc "Hana, you want this as much as we do. But the only way we're getting it is if we work together."
+    mc "哈娜，你跟我们一样想要这个。但我们唯一能得到它的办法就是合作。"
 
 # game/code/d14p2/d14s13.rpy:136
 translate chinese d14s13_884f0583:
 
     # sy "Got any ideas we should hear about?"
-    sy "Got any ideas we should hear about?"
+    sy "有什么该听的主意吗？"
 
 # game/code/d14p2/d14s13.rpy:158
 translate chinese d14s13_152bfbe5:
 
     # hr "Yes."
-    hr "Yes."
+    hr "有。"
 
 # game/code/d14p2/d14s13.rpy:218
 translate chinese d14s13_3bbb3149:
 
     # mc "And I'll try to stay on top of my challenge to not get booted."
-    mc "And I'll try to stay on top of my challenge to not get booted."
+    mc "我会尽量跟上我的挑战，免得被踢出去。"
 

@@ -1312,17 +1312,17 @@ translate chinese strings:
 translate chinese d12s03_f170455d:
 
     # mct "If I do what she says, I might not have to worry about anything ever again."
-    mct "If I do what she says, I might not have to worry about anything ever again."
+    mct "如果我照她说的做，也许以后就再也不用担心任何事了。"
 
 # game/code/d12/extended/d12s03.rpy:240
 translate chinese d12s03_c7f9bfe6:
 
     # mct "If I don't agree, I am certain that I can just walk away without any consequences... as long as I keep my mouth shut."
-    mct "If I don't agree, I am certain that I can just walk away without any consequences... as long as I keep my mouth shut."
+    mct "如果我不同意，我确信自己可以一走了之，不会有任何后果……只要我闭上嘴。"
 
 # game/code/d12/extended/d12s03.rpy:245
 translate chinese d12s03_eda32b67:
 
     # mct "It's a curious choice, but I'm ready to decide."
-    mct "It's a curious choice, but I'm ready to decide."
+    mct "这是个耐人寻味的选择，但我已经准备好做决定了。"
 

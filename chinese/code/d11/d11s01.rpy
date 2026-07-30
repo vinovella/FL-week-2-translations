@@ -536,71 +536,71 @@ translate chinese d11s01_536d88bc:
 translate chinese d11s01_95292d25:
 
     # mct "Unsurprisingly, there's a new mention from Fetish Locator's VIP Program."
-    mct "Unsurprisingly, there's a new mention from Fetish Locator's VIP Program."
+    mct "不出所料，Fetish Locator的VIP计划又有了新通知。"
 
 # game/code/d11/d11s01.rpy:41
 translate chinese d11s01_2ff70196:
 
     # flr "But the potential reward this time also will be different."
-    flr "But the potential reward this time also will be different."
+    flr "不过这次的潜在奖励也会有所不同。"
 
 # game/code/d11/d11s01.rpy:48
 translate chinese d11s01_28ed97c8:
 
     # flr "If you accomplish this you will be eligible for the grand prize of $$1kk."
-    flr "If you accomplish this you will be eligible for the grand prize of $$1kk."
+    flr "如果你完成这个任务，你将有资格获得$$1kk的大奖。"
 
 # game/code/d11/d11s01.rpy:56
 translate chinese d11s01_1d44b4e7:
 
     # flr "Note that Gold Stars CANNOT be used to complete this task."
-    flr "Note that Gold Stars CANNOT be used to complete this task."
+    flr "请注意，金星无法用于完成此任务。"
 
 # game/code/d11/d11s01.rpy:81
 translate chinese d11s01_f0f72b5e:
 
     # mct "What does that reward mean?"
-    mct "What does that reward mean?"
+    mct "那个奖励是什么意思？"
 
 # game/code/d11/d11s01.rpy:87
 translate chinese d11s01_dc72b30a:
 
     # mct "I will be eligible? Does that mean I get the grand prize or not?"
-    mct "I will be eligible? Does that mean I get the grand prize or not?"
+    mct "有资格？那是说我到底拿不拿得到大奖？"
 
 # game/code/d11/d11s01.rpy:88
 translate chinese d11s01_de950b47:
 
     # mct "Or will I still have to complete additional challenges to win the treasure?"
-    mct "Or will I still have to complete additional challenges to win the treasure?"
+    mct "还是说我仍然要完成额外挑战才能赢得宝藏？"
 
 # game/code/d11/d11s01.rpy:89
 translate chinese d11s01_ce442908:
 
     # mct "If I fail am I ineligible for the prize?"
-    mct "If I fail am I ineligible for the prize?"
+    mct "如果我失败了，是不是就没资格拿奖了？"
 
 # game/code/d11/d11s01.rpy:90
 translate chinese d11s01_1a5de442:
 
     # mct "Why can't it be clear and simple?!"
-    mct "Why can't it be clear and simple?!"
+    mct "为什么就不能说清楚、说简单点？！"
 
 # game/code/d11/d11s01.rpy:243
 translate chinese d11s01_38be3a8d:
 
     # mc "Keep going... Read about the reward..."
-    mc "Keep going... Read about the reward..."
+    mc "继续……看看奖励说明……"
 
 # game/code/d11/d11s01.rpy:244
 translate chinese d11s01_28ed97c8_1:
 
     # flr "If you accomplish this you will be eligible for the grand prize of $$1kk."
-    flr "If you accomplish this you will be eligible for the grand prize of $$1kk."
+    flr "如果你完成这个任务，你将有资格获得$$1kk的大奖。"
 
 # game/code/d11/d11s01.rpy:251
 translate chinese d11s01_4829437f:
 
     # arj "What the fuck?? We could win it all?!"
-    arj "What the fuck?? We could win it all?!"
+    arj "什么鬼？？我们有可能全赢？！"
 

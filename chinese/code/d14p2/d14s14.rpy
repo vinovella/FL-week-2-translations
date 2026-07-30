@@ -932,5 +932,5 @@ translate chinese strings:
 translate chinese d14s14_e6e632d2:
 
     # mct "On the other hand, I don't really have to win this. I only need the fuck for my current challenge."
-    mct "On the other hand, I don't really have to win this. I only need the fuck for my current challenge."
+    mct "另一方面，我其实不必赢这个。我只需要为当前挑战来上一次。"
 

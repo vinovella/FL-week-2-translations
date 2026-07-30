@@ -1656,17 +1656,17 @@ translate chinese strings:
 translate chinese d11s03_4a1f60c6:
 
     # cl "That you pinned me against the wall and pounded on my backdoor, then later with Min you alternated between pissing on and pussy pounding."
-    cl "That you pinned me against the wall and pounded on my backdoor, then later with Min you alternated between pissing on and pussy pounding."
+    cl "说你把我按在墙上猛干我的后门，后来又和敏轮流往我身上撒尿、猛干我的小穴。"
 
 # game/code/d11/d11s03.rpy:313
 translate chinese d11s03_f1593ce8:
 
     # mct "This is almost funny. She thinks she can play me."
-    mct "This is almost funny. She thinks she can play me."
+    mct "这几乎有点好笑。她以为自己能玩弄我。"
 
 # game/code/d11/d11s03.rpy:679
 translate chinese d11s03_cb1d4e54:
 
     # mct "Oh crap! Did she say anything about the VIP Program or the potential reward?"
-    mct "Oh crap! Did she say anything about the VIP Program or the potential reward?"
+    mct "糟了！她有没有提到VIP计划或潜在奖励？"
 

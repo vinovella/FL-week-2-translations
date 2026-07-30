@@ -238,20 +238,20 @@ translate chinese strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 12: Lydia - Pool"
-    new "Day 12: Lydia - Pool"
+    new "第12天：莉迪亚 - 泳池"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 14: Dream"
-    new "Day 14: Dream"
+    new "第14天：梦境"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Party 3: Pool Girls"
-    new "Party 3: Pool Girls"
+    new "派对3：泳池女孩们"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Party 3: Jessie"
-    new "Party 3: Jessie"
+    new "派对3：杰西"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Party 3: Participants"
-    new "Party 3: Participants"
+    new "派对3：参与者"

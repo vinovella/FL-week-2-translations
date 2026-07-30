@@ -1612,11 +1612,11 @@ translate chinese strings:
 translate chinese d12s01_1b9a042d:
 
     # mc "And we have a lot to win if I succeed."
-    mc "And we have a lot to win if I succeed."
+    mc "而且如果我成功，我们能赢到很多。"
 
 # game/code/d12/d12s01.rpy:382
 translate chinese d12s01_a2fa2c23:
 
     # mct "Hmm... Is it related to this VIP challenge?"
-    mct "Hmm... Is it related to this VIP challenge?"
+    mct "嗯……这和VIP挑战有关吗？"
 

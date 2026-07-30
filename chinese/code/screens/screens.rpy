@@ -356,32 +356,32 @@ translate chinese strings:
 
     # game/code/screens/screens.rpy:1028
     old "Low Memory Mode"
-    new "Low Memory Mode"
+    new "低内存模式"
 
     # game/code/screens/screens.rpy:789
     old "Game"
-    new "Game"
+    new "游戏"
 
     # game/code/screens/screens.rpy:791
     old "Sound Effects"
-    new "Sound Effects"
+    new "音效"
 
     # game/code/screens/screens.rpy:793
     old "Soundtracks"
-    new "Soundtracks"
+    new "原声音乐"
 
     # game/code/screens/screens.rpy:795
     old "Other Sounds"
-    new "Other Sounds"
+    new "其他声音"
 
     # game/code/screens/screens.rpy:796
     old "Others"
-    new "Others"
+    new "其他"
 
     # game/code/screens/screens.rpy:1085
     old "Ren'Py Save Sync"
-    new "Ren'Py Save Sync"
+    new "Ren'Py存档同步"
 
     # game/code/screens/screens.rpy:1244
     old "Dialogue Box Opacity"
-    new "Dialogue Box Opacity"
+    new "对话框不透明度"

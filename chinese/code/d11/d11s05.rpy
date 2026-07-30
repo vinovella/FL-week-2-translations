@@ -360,35 +360,35 @@ translate chinese strings:
 translate chinese d11s05_791d313d:
 
     # mct "But I really don't know if Pete is involved..."
-    mct "But I really don't know if Pete is involved..."
+    mct "可我真的不确定皮特有没有参与……"
 
 # game/code/d11/d11s05.rpy:152
 translate chinese d11s05_8f94dc42:
 
     # mct "I could use this to put Pete in the VIP program."
-    mct "I could use this to put Pete in the VIP program."
+    mct "我可以用这个把皮特弄进VIP计划。"
 
 # game/code/d11/d11s05.rpy:157
 translate chinese d11s05_c61d471a:
 
     # mct "If Pete is not working for Fetish Locator, he should be eligible."
-    mct "If Pete is not working for Fetish Locator, he should be eligible."
+    mct "如果皮特不是为Fetish Locator做事，他就应该有资格。"
 
 # game/code/d11/d11s05.rpy:167
 translate chinese d11s05_f77136f4:
 
     # mct "It wouldn't help my odds of winning to add Pete to the VIP challenges."
-    mct "It wouldn't help my odds of winning to add Pete to the VIP challenges."
+    mct "把皮特加进VIP挑战对我的胜算没有好处。"
 
 # game/code/d11/d11s05.rpy:179
 translate chinese d11s05_68abdbfc:
 
     # mct "This is a bad idea."
-    mct "This is a bad idea."
+    mct "这是个坏主意。"
 
 # game/code/d11/d11s05.rpy:186
 translate chinese d11s05_f5abed2d:
 
     # mct "...\"Welcome to the Fetish Locator VIP Program!\""
-    mct "...\"Welcome to the Fetish Locator VIP Program!\""
+    mct "...\"欢迎加入Fetish Locator VIP计划！\""
 

@@ -920,29 +920,29 @@ translate chinese d08s00_week1synopsis_7c59af2b:
 translate chinese d08s00_week1synopsis_f49a455e:
 
     # "[mcname] came to her rescue, and in the process, learned that she was put into a secretive \"VIP Fetish Challenge Program\" to win one million dollars."
-    "[mcname] came to her rescue, and in the process, learned that she was put into a secretive \"VIP Fetish Challenge Program\" to win one million dollars."
+    "[mcname]赶来救她，过程中得知她被放进了一个秘密的“VIP恋物挑战计划”，奖金一百万美元。"
 
 # game/code/recap.rpy:286
 translate chinese d08s00_week1synopsis_bb08f530:
 
     # "When he tried to delete the app from his phone, he too got put into the VIP Fetish Challenge Program."
-    "When he tried to delete the app from his phone, he too got put into the VIP Fetish Challenge Program."
+    "当他试图从手机上删除这个应用时，他自己也被放进了VIP恋物挑战计划。"
 
 # game/code/recap.rpy:291
 translate chinese d08s00_week1synopsis_f606ec88:
 
     # "Allured by the prospect of winning the prize, he spent the night learning all he could about the app, the terms and conditions, and this strange challenge."
-    "Allured by the prospect of winning the prize, he spent the night learning all he could about the app, the terms and conditions, and this strange challenge."
+    "被赢得奖金的前景所吸引，他整晚都在尽可能了解这个应用、条款条件，以及这个奇怪的挑战。"
 
 # game/code/recap.rpy:304
 translate chinese d08s00_week1synopsis_cc19b596:
 
     # "A little later that day, he let AmRose know that they were now in the same boat."
-    "A little later that day, he let AmRose know that they were now in the same boat."
+    "那天稍晚些时候，他告诉爱洛丝，他们现在同坐一条船了。"
 
 # game/code/recap.rpy:386
 translate chinese d08s00_week1synopsis_1743400f:
 
     # "Hana revealed many things, including the fact that she was investigating Fetish Locator and trying to figure out a way to win the prize. She had only slept with Pete to get access to his phone."
-    "Hana revealed many things, including the fact that she was investigating Fetish Locator and trying to figure out a way to win the prize. She had only slept with Pete to get access to his phone."
+    "哈娜透露了许多事，包括她正在调查Fetish Locator，并试图想办法赢下奖金。她和皮特上床，只是为了能接触他的手机。"
 

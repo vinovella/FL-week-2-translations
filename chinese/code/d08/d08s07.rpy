@@ -930,5 +930,5 @@ translate chinese strings:
 translate chinese d08s07_f9a4640e:
 
     # mct "I don't want to fuck up my chances with the VIP Challenge, but I don't wanna fuck up my chances with Lydia either..."
-    mct "I don't want to fuck up my chances with the VIP Challenge, but I don't wanna fuck up my chances with Lydia either..."
+    mct "我不想搞砸VIP挑战的机会，可也不想搞砸和莉迪亚的机会……"
 

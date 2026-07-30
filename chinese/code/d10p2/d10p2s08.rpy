@@ -2588,5 +2588,5 @@ translate chinese d10p2s08_jf_part5_6e27356e:
 translate chinese d10p2s08_47b69fbd:
 
     # mct "Even knowing that I'd basically be leaving AmRose and Stacy stranded, and giving up on a million dollars?"
-    mct "Even knowing that I'd basically be leaving AmRose and Stacy stranded, and giving up on a million dollars?"
+    mct "即便明知那样基本上等于把爱洛丝和史黛西晾在一边，还要放弃一百万美元？"
 

@@ -1394,23 +1394,23 @@ translate chinese d10s05_replay_69fd61bb:
 translate chinese d10s05_replay_95bf8394:
 
     # hr "Iona, for the love of God. I'm just trying to help and protect you."
-    hr "Iona, for the love of God. I'm just trying to help and protect you."
+    hr "艾欧娜，看在上帝的份上。我只是想帮你、保护你。"
 
 # game/code/d10/d10s05.rpy:365
 translate chinese d10s05_replay_8d0eaa67:
 
     # hr "I just want to be there for you."
-    hr "I just want to be there for you."
+    hr "我只是想陪在你身边。"
 
 # game/code/d10/d10s05.rpy:388
 translate chinese d10s05_replay_a628f18c:
 
     # hr "I just want to you to be careful with that app and let me help you."
-    hr "I just want to you to be careful with that app and let me help you."
+    hr "我只是希望你对那个应用小心一点，让我帮帮你。"
 
 # game/code/d10/d10s05.rpy:436
 translate chinese d10s05_replay_0e91c7a0:
 
     # mc "Ding, ding, ding. You're right."
-    mc "Ding, ding, ding. You're right."
+    mc "叮，叮，叮。你说得对。"
 

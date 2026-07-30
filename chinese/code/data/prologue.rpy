@@ -124,5 +124,5 @@ translate chinese strings:
 
     # game/code/data/prologue.rpy:34
     old "Trans Content"
-    new "Trans Content"
+    new "跨性别内容"
 

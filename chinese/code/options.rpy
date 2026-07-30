@@ -6,5 +6,5 @@ translate chinese strings:
 
     # game/code/options.rpy:33
     old "Created by ViNovella Games\n\nJoin us on {a=https://discord.gg/efmQRNtFks}Discord{/a}"
-    new "Created by ViNovella Games\n\nJoin us on {a=https://discord.gg/efmQRNtFks}Discord{/a}"
+    new "由ViNovella Games制作\n\n加入我们的{a=https://discord.gg/efmQRNtFks}Discord{/a}"
 

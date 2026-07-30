@@ -1144,321 +1144,321 @@ translate chinese strings:
 
     # renpy/common/00accessibility.rpy:180
     old "High Contrast Text"
-    new "High Contrast Text"
+    new "高对比度文本"
 
     # renpy/common/00accessibility.rpy:215
     old "Self-Voicing Volume Drop"
-    new "Self-Voicing Volume Drop"
+    new "自动朗读音量降低"
 
     # renpy/common/00preferences.rpy:402
     old "self voicing volume drop"
-    new "self voicing volume drop"
+    new "自动朗读音量降低"
 
     # renpy/common/00preferences.rpy:478
     old "system cursor"
-    new "system cursor"
+    new "系统光标"
 
     # renpy/common/00preferences.rpy:487
     old "renderer menu"
-    new "renderer menu"
+    new "渲染器菜单"
 
     # renpy/common/00preferences.rpy:490
     old "accessibility menu"
-    new "accessibility menu"
+    new "无障碍菜单"
 
     # renpy/common/00preferences.rpy:493
     old "high contrast text"
-    new "high contrast text"
+    new "高对比度文本"
 
     # renpy/common/00gltest.rpy:100
     old "Force GL Renderer"
-    new "Force GL Renderer"
+    new "强制GL渲染器"
 
     # renpy/common/00gltest.rpy:105
     old "Force ANGLE Renderer"
-    new "Force ANGLE Renderer"
+    new "强制ANGLE渲染器"
 
     # renpy/common/00gltest.rpy:110
     old "Force GLES Renderer"
-    new "Force GLES Renderer"
+    new "强制GLES渲染器"
 
     # renpy/common/00gltest.rpy:116
     old "Force GL2 Renderer"
-    new "Force GL2 Renderer"
+    new "强制GL2渲染器"
 
     # renpy/common/00gltest.rpy:121
     old "Force ANGLE2 Renderer"
-    new "Force ANGLE2 Renderer"
+    new "强制ANGLE2渲染器"
 
     # renpy/common/00gltest.rpy:126
     old "Force GLES2 Renderer"
-    new "Force GLES2 Renderer"
+    new "强制GLES2渲染器"
 
     # renpy/common/00gltest.rpy:136
     old "Enable (No Blocklist)"
-    new "Enable (No Blocklist)"
+    new "启用（无黑名单）"
 
     # renpy/common/00gltest.rpy:249
     old "This game requires use of GL2 that can't be initialised."
-    new "This game requires use of GL2 that can't be initialised."
+    new "本游戏需要使用无法初始化的GL2。"
 
     # renpy/common/00gltest.rpy:259
     old "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer."
-    new "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer."
+    new "{a=edit:1:log.txt}log.txt{/a}文件可能包含有助于你判断电脑问题的信息。"
 
     # renpy/common/00gltest.rpy:264
     old "More details on how to fix this can be found in the {a=[url]}documentation{/a}."
-    new "More details on how to fix this can be found in the {a=[url]}documentation{/a}."
+    new "有关如何修复此问题的更多详情，请参阅{a=[url]}文档{/a}。"
 
     # renpy/common/00gltest.rpy:281
     old "Change render options"
-    new "Change render options"
+    new "更改渲染选项"
 
     # renpy/common/00gamepad.rpy:58
     old "Press or move the '[control!s]' [kind]."
-    new "Press or move the '[control!s]' [kind]."
+    new "请按下或移动'[control!s]' [kind]。"
 
 translate chinese strings:
 
     # renpy/common/00action_other.rpy:703
     old "Open [text] directory."
-    new "Open [text] directory."
+    new "打开[text]目录。"
 
     # renpy/common/00preferences.rpy:507
     old "audio when minimized"
-    new "audio when minimized"
+    new "最小化时音频"
 
     # renpy/common/00preferences.rpy:527
     old "main volume"
-    new "main volume"
+    new "主音量"
 
     # renpy/common/00preferences.rpy:531
     old "mute main"
-    new "mute main"
+    new "主音量静音"
 
 translate chinese strings:
 
     # renpy/common/00director.rpy:1745
     old "Click to toggle attribute, right click to toggle negative attribute."
-    new "Click to toggle attribute, right click to toggle negative attribute."
+    new "单击切换属性，右键切换否定属性。"
 
     # renpy/common/00director.rpy:1768
     old "Click to set transform, right click to add to transform list."
-    new "Click to set transform, right click to add to transform list."
+    new "单击设置变换，右键添加到变换列表。"
 
     # renpy/common/00director.rpy:1789
     old "Click to set, right click to add to behind list."
-    new "Click to set, right click to add to behind list."
+    new "单击设置，右键添加到behind列表。"
 
     # renpy/common/00gui.rpy:456
     old "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
-    new "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
+    new "此存档创建于其他设备。恶意构造的存档文件可能损害你的电脑。你信任此存档的创建者以及所有可能更改过该文件的人吗？"
 
     # renpy/common/00gui.rpy:457
     old "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
-    new "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
+    new "你信任创建此存档的设备吗？仅当你是该设备的唯一用户时，才应选择是。"
 
     # renpy/common/00preferences.rpy:528
     old "audio when unfocused"
-    new "audio when unfocused"
+    new "失去焦点时音频"
 
     # renpy/common/00preferences.rpy:537
     old "web cache preload"
-    new "web cache preload"
+    new "网页缓存预加载"
 
     # renpy/common/00preferences.rpy:552
     old "voice after game menu"
-    new "voice after game menu"
+    new "游戏菜单后语音"
 
     # renpy/common/00speechbubble.rpy:344
     old "Speech Bubble Editor"
-    new "Speech Bubble Editor"
+    new "对话气泡编辑器"
 
     # renpy/common/00speechbubble.rpy:349
     old "(hide)"
-    new "(hide)"
+    new "（隐藏）"
 
     # renpy/common/00sync.rpy:70
     old "Sync downloaded."
-    new "Sync downloaded."
+    new "同步已下载。"
 
     # renpy/common/00sync.rpy:190
     old "Could not connect to the Ren'Py Sync server."
-    new "Could not connect to the Ren'Py Sync server."
+    new "无法连接到Ren'Py Sync服务器。"
 
     # renpy/common/00sync.rpy:192
     old "The Ren'Py Sync server timed out."
-    new "The Ren'Py Sync server timed out."
+    new "Ren'Py Sync服务器超时。"
 
     # renpy/common/00sync.rpy:194
     old "An unknown error occurred while connecting to the Ren'Py Sync server."
-    new "An unknown error occurred while connecting to the Ren'Py Sync server."
+    new "连接到Ren'Py Sync服务器时发生未知错误。"
 
     # renpy/common/00sync.rpy:267
     old "The Ren'Py Sync server does not have a copy of this sync. The sync ID may be invalid, or it may have timed out."
-    new "The Ren'Py Sync server does not have a copy of this sync. The sync ID may be invalid, or it may have timed out."
+    new "Ren'Py Sync服务器没有此同步的副本。同步ID可能无效，或者可能已超时。"
 
     # renpy/common/00sync.rpy:409
     old "Please enter the sync ID you generated.\nNever enter a sync ID you didn't create yourself."
-    new "Please enter the sync ID you generated.\nNever enter a sync ID you didn't create yourself."
+    new "请输入你生成的同步ID。\n切勿输入非你本人创建的同步ID。"
 
     # renpy/common/00sync.rpy:428
     old "The sync ID is not in the correct format."
-    new "The sync ID is not in the correct format."
+    new "同步ID格式不正确。"
 
     # renpy/common/00sync.rpy:448
     old "The sync could not be decrypted."
-    new "The sync could not be decrypted."
+    new "无法解密同步数据。"
 
     # renpy/common/00sync.rpy:471
     old "The sync belongs to a different game."
-    new "The sync belongs to a different game."
+    new "此同步属于其他游戏。"
 
     # renpy/common/00sync.rpy:476
     old "The sync contains a file with an invalid name."
-    new "The sync contains a file with an invalid name."
+    new "同步包含名称无效的文件。"
 
     # renpy/common/00sync.rpy:529
     old "This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nDo you want to continue?"
-    new "This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nDo you want to continue?"
+    new "这将把你的存档上传到{a=https://sync.renpy.org}Ren'Py Sync服务器{/a}。\n是否继续？"
 
     # renpy/common/00sync.rpy:558
     old "Enter Sync ID"
-    new "Enter Sync ID"
+    new "输入同步ID"
 
     # renpy/common/00sync.rpy:569
     old "This will contact the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}."
-    new "This will contact the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}."
+    new "这将联系{a=https://sync.renpy.org}Ren'Py Sync服务器{/a}。"
 
     # renpy/common/00sync.rpy:596
     old "Sync Success"
-    new "Sync Success"
+    new "同步成功"
 
     # renpy/common/00sync.rpy:599
     old "The Sync ID is:"
-    new "The Sync ID is:"
+    new "同步ID为："
 
     # renpy/common/00sync.rpy:605
     old "You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
-    new "You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
+    new "你可以使用此ID在另一台设备上下载存档。\n此同步将在一小时后过期。\nRen'Py Sync由{a=https://www.renpy.org/sponsors.html}Ren'Py赞助者{/a}支持。"
 
     # renpy/common/00sync.rpy:631
     old "Sync Error"
-    new "Sync Error"
+    new "同步错误"
 
 translate chinese strings:
 
     # renpy/common/00accessibility.rpy:120
     old "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars."
-    new "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars."
+    new "无障碍菜单。使用上下箭头导航，按回车激活按钮和滑条。"
 
     # renpy/common/00accessibility.rpy:197
     old "Self-voicing support is limited when using a touch screen."
-    new "Self-voicing support is limited when using a touch screen."
+    new "使用触摸屏时，自动朗读支持有限。"
 
     # renpy/common/00director.rpy:1776
     old "Customize director.transforms to add more transforms."
-    new "Customize director.transforms to add more transforms."
+    new "自定义director.transforms以添加更多变换。"
 
     # renpy/common/00director.rpy:1821
     old "Click to set."
-    new "Click to set."
+    new "单击以设置。"
 
     # renpy/common/00director.rpy:1822
     old "Customize director.transitions to add more transitions."
-    new "Customize director.transitions to add more transitions."
+    new "自定义director.transitions以添加更多转场。"
 
     # renpy/common/00director.rpy:1845
     old "Customize director.audio_channels to add more channels."
-    new "Customize director.audio_channels to add more channels."
+    new "自定义director.audio_channels以添加更多声道。"
 
     # renpy/common/00gui.rpy:454
     old "Are you sure you want to continue where you left off?"
-    new "Are you sure you want to continue where you left off?"
+    new "确定要从上次离开的地方继续吗？"
 
     # renpy/common/00preferences.rpy:438
     old "self voicing enable"
-    new "self voicing enable"
+    new "启用自动朗读"
 
     # renpy/common/00preferences.rpy:440
     old "self voicing disable"
-    new "self voicing disable"
+    new "禁用自动朗读"
 
     # renpy/common/00preferences.rpy:455
     old "clipboard voicing enable"
-    new "clipboard voicing enable"
+    new "启用剪贴板朗读"
 
     # renpy/common/00preferences.rpy:457
     old "clipboard voicing disable"
-    new "clipboard voicing disable"
+    new "禁用剪贴板朗读"
 
     # renpy/common/00preferences.rpy:464
     old "debug voicing enable"
-    new "debug voicing enable"
+    new "启用调试朗读"
 
     # renpy/common/00preferences.rpy:466
     old "debug voicing disable"
-    new "debug voicing disable"
+    new "禁用调试朗读"
 
     # renpy/common/00preferences.rpy:586
     old "restore window position"
-    new "restore window position"
+    new "恢复窗口位置"
 
     # renpy/common/00preferences.rpy:595
     old "reset"
-    new "reset"
+    new "重置"
 
     # renpy/common/00speechbubble.rpy:408
     old "(clear retained bubbles)"
-    new "(clear retained bubbles)"
+    new "（清除保留的气泡）"
 
     # renpy/common/00updater.rpy:505
     old "No update methods found."
-    new "No update methods found."
+    new "未找到更新方法。"
 
     # renpy/common/00updater.rpy:552
     old "Could not download file list: "
-    new "Could not download file list: "
+    new "无法下载文件列表："
 
     # renpy/common/00updater.rpy:555
     old "File list digest does not match."
-    new "File list digest does not match."
+    new "文件列表摘要不匹配。"
 
     # renpy/common/00updater.rpy:2072
     old "Preparing to download the game data."
-    new "Preparing to download the game data."
+    new "正在准备下载游戏数据。"
 
     # renpy/common/00updater.rpy:2074
     old "Downloading the game data."
-    new "Downloading the game data."
+    new "正在下载游戏数据。"
 
     # renpy/common/00updater.rpy:2076
     old "The game data has been downloaded."
-    new "The game data has been downloaded."
+    new "游戏数据已下载。"
 
     # renpy/common/00updater.rpy:2078
     old "An error occured when trying to download game data:"
-    new "An error occured when trying to download game data:"
+    new "尝试下载游戏数据时发生错误："
 
     # renpy/common/00updater.rpy:2083
     old "This game cannot be run until the game data has been downloaded."
-    new "This game cannot be run until the game data has been downloaded."
+    new "在游戏数据下载完成前，无法运行本游戏。"
 
     # renpy/common/00updater.rpy:2090
     old "Retry"
-    new "Retry"
+    new "重试"
 
 translate chinese strings:
 
     # renpy/common/00translation.rpy:63
     old "Translation identifier: [identifier]"
-    new "Translation identifier: [identifier]"
+    new "翻译标识符：[identifier]"
 
     # renpy/common/00translation.rpy:84
     old " translates [tl.filename]:[tl.linenumber]"
-    new " translates [tl.filename]:[tl.linenumber]"
+    new " 翻译 [tl.filename]:[tl.linenumber]"
 
     # renpy/common/00translation.rpy:101
     old "\n{color=#fff}Copied to clipboard.{/color}"
-    new "\n{color=#fff}Copied to clipboard.{/color}"
+    new "\n{color=#fff}已复制到剪贴板。{/color}"
 

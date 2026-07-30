@@ -260,11 +260,11 @@ translate chinese d10s01_f1fb4a66:
 translate chinese d10s01_58c63989:
 
     # mct "On the other hand, I can't help but feel weird about this either."
-    mct "On the other hand, I can't help but feel weird about this either."
+    mct "另一方面，我对这件事也总觉得怪怪的。"
 
 # game/code/d10/d10s01.rpy:45
 translate chinese d10s01_cc523925:
 
     # mct "I guess I just need to keep going and stop thinking about it too much."
-    mct "I guess I just need to keep going and stop thinking about it too much."
+    mct "我想我只要继续往前走，别想太多就行。"
 

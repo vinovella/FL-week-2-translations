@@ -530,11 +530,11 @@ translate chinese replay_d08s04_606e2d02:
 translate chinese d08s04_09e6bb19:
 
     # mct "There's no way Pete is behind this. Where the hell would he even get a million bucks?"
-    mct "There's no way Pete is behind this. Where the hell would he even get a million bucks?"
+    mct "皮特绝不可能是幕后黑手。他哪来的一百万美金？"
 
 # game/code/d08/d08s04.rpy:54
 translate chinese d08s04_900e258f:
 
     # mct "Still... He can be resourceful when it comes to getting his dick wet. The faster I get this over with, the better."
-    mct "Still... He can be resourceful when it comes to getting his dick wet. The faster I get this over with, the better."
+    mct "不过……一提到搞女人，他倒是挺有办法。这件事越早了结越好。"
 
