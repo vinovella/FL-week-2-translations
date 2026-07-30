@@ -122,14 +122,6 @@ translate italian strings:
     old "Your sexual slave"
     new "La tua schiava sessuale"
 
-    # game/code/d08/prologue.rpy:122
-    old "You co-sign the contract, share the expenses, and live there in autumn (after Stacy moves to a dorm)"
-    new "Firmi anche tu il contratto, dividi l'affitto e vivrai lì in autunno (quando Stacy si sposterà nel dormitorio)"
-
-    # game/code/d08/prologue.rpy:122
-    old "You convince Lyssa to give Stacy a lower rate as a form of advertising"
-    new "Convinci Lyssa a ridurre l'affitto: in cambio Stacy parlerà bene di lei in giro"
-
     # game/code/d08/prologue.rpy:148
     old "I am a gentleman (tips fedora)"
     new "Sono un ragazzo per bene"

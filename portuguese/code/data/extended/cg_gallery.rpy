@@ -241,10 +241,6 @@ translate portuguese strings:
     new "Pare Lydia"
 
     # game/code/data/extended/cg_gallery.rpy:21
-    old "Day 11: Lydia - Pool"
-    new "Dia 11: Lydia - Piscina"
-
-    # game/code/data/extended/cg_gallery.rpy:21
     old "Day 13: The Prostitute"
     new "Dia 13: A Prostituta"
 
@@ -281,4 +277,3 @@ translate portuguese strings:
     # game/code/data/extended/cg_gallery.rpy:21
     old "Party 3: Participants"
     new "Festa 3: Participantes"
-

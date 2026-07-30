@@ -144,10 +144,6 @@ translate french strings:
     old "Display"
     new "Affichage"
 
-    # game/code/screens/screens.rpy:1119
-    old "Window"
-    new "Fenêtre"
-
     # game/code/screens/screens.rpy:1120
     old "Fullscreen"
     new "Plein écran"
@@ -355,17 +351,6 @@ translate french strings:
     # game/code/screens/screens.rpy:1829
     old "Menu"
     new "Menu"
-
-translate french strings:
-
-    # game/code/screens/screens.rpy:653
-    old "Wishlist Taboo University in Steam"
-    new "Ajoutez Taboo University à votre liste de souhaits sur Steam"
-
-    # game/code/screens/screens.rpy:656
-    old "Try our new game Taboo University"
-    new "Essayez notre nouveau jeu Taboo University"
-
 translate french strings:
 
     # game/code/screens/screens.rpy:1085
@@ -375,4 +360,3 @@ translate french strings:
     # game/code/screens/screens.rpy:1244
     old "Dialogue Box Opacity"
     new "Opacité de la boîte de dialogue"
-

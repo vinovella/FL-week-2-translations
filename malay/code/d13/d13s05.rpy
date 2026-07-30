@@ -672,23 +672,6 @@ translate malay d13s05_end_1cd83245:
 
 translate malay strings:
 
-    # game/code/d13/d13s05.rpy:31
-    old "The Prostitute"
-    new "Pelacur "
-
-    # game/code/d13/d13s05.rpy:110
-    old "Call her Chastity"
-    new "Panggil dia Chastity"
-
-    # game/code/d13/d13s05.rpy:110
-    old "Call her Chase"
-    new "Panggil dia Chase"
-
     # game/code/d13/d13s05.rpy:112
     old "Chastity"
     new "Chastity"
-
-    # game/code/d13/d13s05.rpy:116
-    old "Chase"
-    new "Chase"
-

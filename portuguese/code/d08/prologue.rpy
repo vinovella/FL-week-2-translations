@@ -130,14 +130,6 @@ translate portuguese strings:
     old "Your sexual slave"
     new "Sua escrava sexual"
 
-    # game/code/d08/prologue.rpy:120
-    old "You co-sign the contract, share the expenses, and live there in autumn (after Stacy moves to a dorm)"
-    new "Você co-assina o contrato, compartilha despesas, e mora lá no outono (depois que Stacy se mudar para um dormitório)"
-
-    # game/code/d08/prologue.rpy:120
-    old "You convince Lyssa to give Stacy a lower rate as a form of advertising"
-    new "Você convence Lyssa a cobrar menos da Stacy como forma de propaganda"
-
     # game/code/d08/prologue.rpy:142
     old "I am a gentleman (tips fedora)"
     new "Sou um cavalheiro (pega no fedora)"

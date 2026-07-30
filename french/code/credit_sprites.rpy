@@ -52,3 +52,9 @@ translate french strings:
     old "We'll see you in Week Three!"
     new "A bientôt pour la semaine 3!"
 
+translate french strings:
+
+    # game/code/credit_sprites.rpy:111
+    old "French Translation -"
+    new "French Translation -"
+

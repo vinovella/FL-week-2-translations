@@ -48,3 +48,9 @@ translate malay strings:
     old "Huge thanks to\nall of our fans\nand everyone who\nsupported us and\nhelped to bring\nthis story to life"
     new "Segulungan terima kasih\npada semua peminat\ndan semua orang yang\nmenyokong kami dan \ntolong membawakan\nkisah ini kepada kehidupan"
 
+translate malay strings:
+
+    # game/code/credit_sprites.rpy:111
+    old "French Translation -"
+    new "French Translation -"
+

@@ -209,10 +209,6 @@ translate malay strings:
     new "Parti 2: Min"
 
     # game/code/data/extended/cg_gallery.rpy:21
-    old "Safe words are for noobs"
-    new "Kata selamat untuk budak lemah"
-
-    # game/code/data/extended/cg_gallery.rpy:21
     old "Party 2: Iona - Bar"
     new "Parti 2: Iona - Bar"
 
@@ -241,10 +237,6 @@ translate malay strings:
     # game/code/data/extended/cg_gallery.rpy:21
     old "Stop Lydia"
     new "Hentikan Lydia"
-
-    # game/code/data/extended/cg_gallery.rpy:21
-    old "Day 11: Lydia - Pool"
-    new "Hari 11: Lydia - Kolam"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 13: The Prostitute"
@@ -289,4 +281,3 @@ translate malay strings:
     # game/code/data/extended/cg_gallery.rpy:21
     old "Party 3: Participants"
     new "Parti 3: Peserta"
-

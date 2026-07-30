@@ -8,10 +8,6 @@ translate korean strings:
     old "Please type a name for the save file below and click save"
     new "아래에 세이브 파일명을 입력하고 저장을 눌러 주십시오"
 
-    # game/code/screens/screens_fl.rpy:70
-    old "Please click the save button below"
-    new "아래의 저장 단추를 눌러 주십시오"
-
     # game/code/screens/screens_fl.rpy:78
     old "This will allow you to start week 3 without losing your progress"
     new "저장 파일을 통해 진행 사항을 잃지 않고 3주차를 시작할 수 있습니다"
@@ -172,10 +168,6 @@ translate korean strings:
     old "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
     new "도움의 필요한 경우 {a=https://discord.gg/efmQRNtFks}Discord{/a}를 통해 저희에게 연락을 주십시오."
 
-    # game/code/screens/screens_fl.rpy:887
-    old "Confirm"
-    new "확인"
-    
 translate korean strings:
 
     # game/code/screens/screens_fl.rpy:884
@@ -209,4 +201,3 @@ translate korean strings:
     # game/code/screens/screens_fl.rpy:921
     old "Download Saves"
     new "Download Saves"
-

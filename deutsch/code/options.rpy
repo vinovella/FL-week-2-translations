@@ -1,11 +1,5 @@
 translate deutsch strings:
 
-    # game/options.rpy:15
-    old "Fetish Locator"
-    new "Fetish Locator"
-
-translate deutsch strings:
-
     # game/code/options.rpy:15
     old "Fetish Locator Week 2"
     new "Fetish Locator Week 2"

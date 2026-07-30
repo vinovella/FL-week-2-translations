@@ -8,14 +8,6 @@ translate deutsch strings:
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]\n"
     new "Gemacht mit {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]\n"
 
-    # game/code/screens/screens.rpy:656
-    old "(type the save name here)"
-    new "(tippe den Speicherstandsnamen hier ein)"
-
-    # game/code/screens/screens.rpy:686
-    old "Current save name:"
-    new "Speicherstandsname:"
-
     # game/code/screens/screens.rpy:742
     old "«"
     new "«"
@@ -25,10 +17,6 @@ translate deutsch strings:
     new "»"
 
 translate deutsch strings:
-
-    # game/code/screens/screens.rpy:660
-    old "(set a name before saving your progress)"
-    new "(gib einen Namen ein bevor du deinen Fortschritt speicherst)"
 
     # game/code/screens/screens.rpy:828
     old "Taboo Mode"
@@ -81,17 +69,6 @@ translate deutsch strings:
     # game/code/screens/screens.rpy:796
     old "Others"
     new "Andere"
-
-translate deutsch strings:
-
-    # game/code/screens/screens.rpy:653
-    old "Wishlist Taboo University in Steam"
-    new "Wishlist Taboo University in Steam"
-
-    # game/code/screens/screens.rpy:656
-    old "Try our new game Taboo University"
-    new "Try our new game Taboo University"
-
 translate deutsch strings:
 
     # game/code/screens/screens.rpy:1085
@@ -101,4 +78,3 @@ translate deutsch strings:
     # game/code/screens/screens.rpy:1244
     old "Dialogue Box Opacity"
     new "Dialogue Box Opacity"
-

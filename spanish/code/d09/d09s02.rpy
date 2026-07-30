@@ -1125,24 +1125,8 @@ translate spanish strings:
     new "Divirtámonos primero"
 
     # game/code/d09/d09s02.rpy:358
-    old "Tonight! On \"Prank a M.I.L.F.\""
-    new "¡Esta noche! En \"Broma a M.A.D.U.R.I.T.A.\""
-
-    # game/code/d09/d09s02.rpy:358
-    old "Be a gigolo for a night"
-    new "Sé un gigoló por una noche"
-
-    # game/code/d09/d09s02.rpy:358
     old "Be Samiya's assistant"
     new "Ser el asistente de Samiya"
-
-    # game/code/d09/d09s02.rpy:406
-    old "Pick something else as well."
-    new "Elige otra cosa también."
-
-    # game/code/d09/d09s02.rpy:406
-    old "Nah, that's enough."
-    new "No, ya es suficiente."
 
 translate spanish strings:
 
@@ -1153,4 +1137,3 @@ translate spanish strings:
     # game/code/d09/d09s02.rpy:469
     old "Be a gigolo for a day"
     new "Sé un gigoló por un día"
-

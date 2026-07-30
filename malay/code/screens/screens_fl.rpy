@@ -8,14 +8,6 @@ translate malay strings:
     old "DATE"
     new "TARIKH"
 
-    # game/code/screens/screens.rpy:77
-    old "LOAD"
-    new "MUAT"
-
-    # game/code/screens/screens_fl.rpy:138
-    old "No save from week [FLSS.week.prev] has been detected"
-    new "Tiada simpanan dari minggu [FLSS.week.prev] telah dikesan"
-
     # game/code/screens/screens_fl.rpy:204
     old "points: "
     new "mata: "
@@ -41,10 +33,6 @@ translate malay strings:
     new "Sinar-X"
 
 translate malay strings:
-
-    # game/code/screens/screens_fl.rpy:16
-    old "Week 2 Save"
-    new "Simpan Minggu 2"
 
     # game/code/screens/screens_fl.rpy:47
     old "Your second week on Fetish Locator ends here"
@@ -109,10 +97,6 @@ translate malay strings:
     new "Kembali dan dayakan {b}Kandungan Trans{/b} supaya dapat memilih Lyssa"
 
 translate malay strings:
-
-    # game/code/screens/screens_fl.rpy:70
-    old "Please click the save button below"
-    new "Sila klik butang simpan di bawah"
 
     # game/code/screens/screens_fl.rpy:313
     old "Touch input supported"
@@ -202,10 +186,6 @@ translate malay strings:
     old "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
     new "Hubungi kami di {a=https://discord.gg/efmQRNtFks}Discord{/a} jika anda memerlukan bantuan."
 
-    # game/code/screens/screens_fl.rpy:887
-    old "Confirm"
-    new "Sahkan"
-
 translate malay strings:
 
     # game/code/screens/screens_fl.rpy:884
@@ -239,4 +219,3 @@ translate malay strings:
     # game/code/screens/screens_fl.rpy:921
     old "Download Saves"
     new "Download Saves"
-

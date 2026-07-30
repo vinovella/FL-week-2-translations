@@ -8,14 +8,6 @@ translate portuguese strings:
     old "DATE"
     new "DATA"
 
-    # game/code/screens/screens.rpy:77
-    old "LOAD"
-    new "CARREGAR"
-
-    # game/code/screens/screens_fl.rpy:138
-    old "No save from week [FLSS.week.prev] has been detected"
-    new "Nenhum save da semana [FLSS.week.prev] foi detectado"
-
     # game/code/screens/screens_fl.rpy:204
     old "points: "
     new "pontos: "
@@ -41,10 +33,6 @@ translate portuguese strings:
     new "RAIO-X"
 
 translate portuguese strings:
-
-    # game/code/screens/screens_fl.rpy:16
-    old "Week 2 Save"
-    new "Save da Segunda Semana"
 
     # game/code/screens/screens_fl.rpy:47
     old "Your second week on Fetish Locator ends here"
@@ -109,10 +97,6 @@ translate portuguese strings:
     new "Go back and enable {b}Trans Content{/b} to be able to select Lyssa"
 
 translate portuguese strings:
-
-    # game/code/screens/screens_fl.rpy:70
-    old "Please click the save button below"
-    new "Please click the save button below"
 
     # game/code/screens/screens_fl.rpy:313
     old "Touch input supported"
@@ -202,10 +186,6 @@ translate portuguese strings:
     old "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
     new "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
 
-    # game/code/screens/screens_fl.rpy:887
-    old "Confirm"
-    new "Confirm"
-
 translate portuguese strings:
 
     # game/code/screens/screens_fl.rpy:884
@@ -239,4 +219,3 @@ translate portuguese strings:
     # game/code/screens/screens_fl.rpy:921
     old "Download Saves"
     new "Download Saves"
-

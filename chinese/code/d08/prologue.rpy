@@ -130,14 +130,6 @@ translate chinese strings:
     old "Your sexual slave"
     new "你的性奴"
 
-    # game/code/d08/prologue.rpy:120
-    old "You co-sign the contract, share the expenses, and live there in autumn (after Stacy moves to a dorm)"
-    new "你们共同签署合同，共同承担费用，然后在秋天住进去(史黛西搬到宿舍后)"
-
-    # game/code/d08/prologue.rpy:120
-    old "You convince Lyssa to give Stacy a lower rate as a form of advertising"
-    new "你说服丽莎给史黛西降低房租，作为一种广告宣传"
-
     # game/code/d08/prologue.rpy:142
     old "I am a gentleman (tips fedora)"
     new "我是个绅士(大家都懂)"

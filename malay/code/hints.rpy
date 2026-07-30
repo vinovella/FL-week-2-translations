@@ -425,10 +425,6 @@ translate malay strings:
     new "Ini ialah pilihan penting yang mengubah cara hubungan anda dengan Min berkembang - Ini akan memulakan hubungan dengan Min, bukan Squizzle."
 
     # game/code/hints.rpy:5
-    old "This is an important choice that changes the way your relationship with Squizzle develops - This will continue your fuck buddies relationship with Squizzle."
-    new "Ini ialah pilihan penting yang mengubah cara perhubungan anda dengan Squizzle berkembang - Ini akan meneruskan perhubungan rakan kongkek anda dengan Squizzle."
-
-    # game/code/hints.rpy:5
     old "You will get to fuck Terrell's partner while Terrell watches and is humiliated and you'll get to see Maria get humiliated by Terrell."
     new "Anda akan dapat meniduri pasangan Terrell semasa Terrell menonton dan dimalukan dan anda akan dapat melihat Maria dimalukan oleh Terrell."
 
@@ -633,4 +629,3 @@ translate malay strings:
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Squizzle develops - This will end Min's path."
     new "Ini ialah pilihan penting yang mengubah cara perhubungan anda dengan Squizzle berkembang - Ini akan menamatkan laluan Min."
-

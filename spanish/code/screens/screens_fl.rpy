@@ -8,13 +8,6 @@ translate spanish strings:
     old "DATE"
     new "FECHA"
 
-    old "LOAD"
-    new "CARGAR"
-
-    # game/code/screens/screens_fl.rpy:132
-    old "No save from week [FLSS.week.prev] has been detected"
-    new "No se ha detectado ningún guardado de la semana [FLSS.week.prev]"
-
     # game/code/screens/screens_fl.rpy:195
     old "points: "
     new "puntos: "
@@ -42,10 +35,6 @@ translate spanish strings:
     new "RAYOS X"
 
 translate spanish strings:
-
-    # game/code/screens/screens_fl.rpy:16
-    old "Week 2 Save"
-    new "Semana 2 Guardar"
 
     # game/code/screens/screens_fl.rpy:47
     old "Your second week on Fetish Locator ends here"
@@ -110,10 +99,6 @@ translate spanish strings:
     new "Go back and enable {b}Trans Content{/b} to be able to select Lyssa"
 
 translate spanish strings:
-
-    # game/code/screens/screens_fl.rpy:70
-    old "Please click the save button below"
-    new "Please click the save button below"
 
     # game/code/screens/screens_fl.rpy:313
     old "Touch input supported"
@@ -203,10 +188,6 @@ translate spanish strings:
     old "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
     new "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
 
-    # game/code/screens/screens_fl.rpy:887
-    old "Confirm"
-    new "Confirm"
-
 translate spanish strings:
 
     # game/code/screens/screens_fl.rpy:884
@@ -240,4 +221,3 @@ translate spanish strings:
     # game/code/screens/screens_fl.rpy:921
     old "Download Saves"
     new "Download Saves"
-

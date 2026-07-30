@@ -672,23 +672,6 @@ translate chinese d13s05_end_1cd83245:
 
 translate chinese strings:
 
-    # game/code/d13/d13s05.rpy:31
-    old "The Prostitute"
-    new "妓女"
-
-    # game/code/d13/d13s05.rpy:139
-    old "Call her Chastity"
-    new "叫她贞洁"
-
-    # game/code/d13/d13s05.rpy:139
-    old "Call her Chase"
-    new "叫她小贞"
-
     # game/code/d13/d13s05.rpy:141
     old "Chastity"
     new "贞洁"
-
-    # game/code/d13/d13s05.rpy:146
-    old "Chase"
-    new "小贞"
-

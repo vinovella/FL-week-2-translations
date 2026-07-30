@@ -48,3 +48,9 @@ translate italian strings:
     old "Huge thanks to\nall of our fans\nand everyone who\nsupported us and\nhelped to bring\nthis story to life"
     new "Vogliamo ringraziare enormemente\ntutti i nostri fan\ne tutti coloro che\nci hanno supportato e\naiutato a\nportare in vita questa storia"
 
+translate italian strings:
+
+    # game/code/credit_sprites.rpy:111
+    old "French Translation -"
+    new "French Translation -"
+

@@ -80,21 +80,9 @@ translate spanish strings:
     old "Quit"
     new "Dejar"
 
-    # game/code/screens/screens.rpy:610
-    old "Version [config.version!t]\n"
-    new "Versión [config.version!t]\n"
-
     # game/code/screens/screens.rpy:616
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]\n"
     new "Hecho con {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]\n"
-
-    # game/code/screens/screens.rpy:660
-    old "(set a name before saving your progress)"
-    new "(establezca un nombre antes de guardar su progreso)"
-
-    # game/code/screens/screens.rpy:686
-    old "Current save name:"
-    new "Nombre actual de guardado:"
 
     # game/code/screens/screens.rpy:719
     old "{#file_time}%A, %B %d %Y, %H:%M"
@@ -123,10 +111,6 @@ translate spanish strings:
     # game/code/screens/screens.rpy:807
     old "Display"
     new "Mostrar"
-
-    # game/code/screens/screens.rpy:808
-    old "Window"
-    new "Ventana"
 
     # game/code/screens/screens.rpy:809
     old "Fullscreen"
@@ -395,17 +379,6 @@ translate spanish strings:
     # game/code/screens/screens.rpy:796
     old "Others"
     new "Others"
-
-translate spanish strings:
-
-    # game/code/screens/screens.rpy:653
-    old "Wishlist Taboo University in Steam"
-    new "Wishlist Taboo University in Steam"
-
-    # game/code/screens/screens.rpy:656
-    old "Try our new game Taboo University"
-    new "Try our new game Taboo University"
-
 translate spanish strings:
 
     # game/code/screens/screens.rpy:1085
@@ -415,4 +388,3 @@ translate spanish strings:
     # game/code/screens/screens.rpy:1244
     old "Dialogue Box Opacity"
     new "Dialogue Box Opacity"
-

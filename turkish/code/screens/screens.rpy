@@ -144,10 +144,6 @@ translate turkish strings:
     old "Display"
     new "Ekran"
 
-    # game/code/screens/screens.rpy:1161
-    old "Window"
-    new "Pencere"
-
     # game/code/screens/screens.rpy:1162
     old "Fullscreen"
     new "Tam ekran"
@@ -363,17 +359,6 @@ translate turkish strings:
     # game/code/screens/screens.rpy:1876
     old "Menu"
     new "Menü"
-
-translate turkish strings:
-
-    # game/code/screens/screens.rpy:653
-    old "Wishlist Taboo University in Steam"
-    new "Wishlist Taboo University in Steam"
-
-    # game/code/screens/screens.rpy:656
-    old "Try our new game Taboo University"
-    new "Try our new game Taboo University"
-
 translate turkish strings:
 
     # game/code/screens/screens.rpy:1085
@@ -383,4 +368,3 @@ translate turkish strings:
     # game/code/screens/screens.rpy:1244
     old "Dialogue Box Opacity"
     new "Dialogue Box Opacity"
-

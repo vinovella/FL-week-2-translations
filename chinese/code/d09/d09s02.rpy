@@ -1125,24 +1125,8 @@ translate chinese strings:
     new "先找点乐子"
 
     # game/code/d09/d09s02.rpy:470
-    old "Tonight! On \"Prank a M.I.L.F.\""
-    new "今晚！选\"恶搞性感少妇\""
-
-    # game/code/d09/d09s02.rpy:470
-    old "Be a gigolo for a night"
-    new "做一夜牛郎"
-
-    # game/code/d09/d09s02.rpy:470
     old "Be Samiya's assistant"
     new "做萨米亚的助手"
-
-    # game/code/d09/d09s02.rpy:528
-    old "Pick something else as well."
-    new "也选点别的吧。"
-
-    # game/code/d09/d09s02.rpy:528
-    old "Nah, that's enough."
-    new "不了，这就够了。"
 
 translate chinese strings:
 
@@ -1153,4 +1137,3 @@ translate chinese strings:
     # game/code/d09/d09s02.rpy:469
     old "Be a gigolo for a day"
     new "做一天牛郎"
-

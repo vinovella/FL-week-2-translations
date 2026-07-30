@@ -1125,24 +1125,8 @@ translate deutsch strings:
     new "Lass uns erst Spaß haben"
 
     # game/code/d09/d09s02.rpy:358
-    old "Tonight! On \"Prank a M.I.L.F.\""
-    new "Heute Abend! Bei \"Verarsche eine M.I.L.F.\""
-
-    # game/code/d09/d09s02.rpy:358
-    old "Be a gigolo for a night"
-    new "Sei ein Gigolo für eine Nacht"
-
-    # game/code/d09/d09s02.rpy:358
     old "Be Samiya's assistant"
     new "Sei Samiya's Assistent"
-
-    # game/code/d09/d09s02.rpy:406
-    old "Pick something else as well."
-    new "Wähle zusätzlich etwas anderes aus."
-
-    # game/code/d09/d09s02.rpy:406
-    old "Nah, that's enough."
-    new "Nein, das ist genug."
 
 translate deutsch strings:
 
@@ -1153,4 +1137,3 @@ translate deutsch strings:
     # game/code/d09/d09s02.rpy:469
     old "Be a gigolo for a day"
     new "Sei ein Gigolo für eine Nacht"
-

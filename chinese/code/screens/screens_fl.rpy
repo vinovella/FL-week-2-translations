@@ -8,14 +8,6 @@ translate chinese strings:
     old "DATE"
     new "日期"
 
-    # game/code/screens/screens.rpy:331
-    old "LOAD"
-    new "加载"
-
-    # game/code/screens/screens_fl.rpy:140
-    old "No save from week [FLSS.week.prev] has been detected"
-    new "未能检测到从周[FLSS.week.prev]开始的存档"
-
     # game/code/screens/screens_fl.rpy:203
     old "points: "
     new "点数："
@@ -43,10 +35,6 @@ translate chinese strings:
     new "X射线"
 
 translate chinese strings:
-
-    # game/code/screens/screens_fl.rpy:16
-    old "Week 2 Save"
-    new "保存第二周"
 
     # game/code/screens/screens_fl.rpy:47
     old "Your second week on Fetish Locator ends here"
@@ -111,10 +99,6 @@ translate chinese strings:
     new "Go back and enable {b}Trans Content{/b} to be able to select Lyssa"
 
 translate chinese strings:
-
-    # game/code/screens/screens_fl.rpy:70
-    old "Please click the save button below"
-    new "Please click the save button below"
 
     # game/code/screens/screens_fl.rpy:313
     old "Touch input supported"
@@ -204,10 +188,6 @@ translate chinese strings:
     old "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
     new "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
 
-    # game/code/screens/screens_fl.rpy:887
-    old "Confirm"
-    new "Confirm"
-
 translate chinese strings:
 
     # game/code/screens/screens_fl.rpy:884
@@ -241,4 +221,3 @@ translate chinese strings:
     # game/code/screens/screens_fl.rpy:921
     old "Download Saves"
     new "Download Saves"
-

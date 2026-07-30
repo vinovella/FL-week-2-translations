@@ -12,14 +12,6 @@ translate italian strings:
     old "DATE"
     new "DATA"
 
-    # game/code/screens/screens_fl.rpy:77
-    old "LOAD"
-    new "CARICA"
-
-    # game/code/screens/screens_fl.rpy:111
-    old "No save from week [FLSS.week.prev] has been detected"
-    new "Non sono stati rilevati salvataggi dalla settimana [FLSS.week.prev]"
-
     # game/code/screens/screens_fl.rpy:219
     old "Page [page]"
     new "Pagina [page]"
@@ -49,10 +41,6 @@ translate italian strings:
     new "Raggi X"
 
 translate italian strings:
-
-    # game/code/screens/screens_fl.rpy:16
-    old "Week 2 Save"
-    new "Salvataggio della 2 settimana"
 
     # game/code/screens/screens_fl.rpy:47
     old "Your second week on Fetish Locator ends here"
@@ -117,10 +105,6 @@ translate italian strings:
     new "Go back and enable {b}Trans Content{/b} to be able to select Lyssa"
 
 translate italian strings:
-
-    # game/code/screens/screens_fl.rpy:70
-    old "Please click the save button below"
-    new "Please click the save button below"
 
     # game/code/screens/screens_fl.rpy:313
     old "Touch input supported"
@@ -210,10 +194,6 @@ translate italian strings:
     old "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
     new "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
 
-    # game/code/screens/screens_fl.rpy:887
-    old "Confirm"
-    new "Confirm"
-
 translate italian strings:
 
     # game/code/screens/screens_fl.rpy:884
@@ -247,4 +227,3 @@ translate italian strings:
     # game/code/screens/screens_fl.rpy:921
     old "Download Saves"
     new "Download Saves"
-

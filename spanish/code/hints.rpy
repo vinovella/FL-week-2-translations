@@ -425,10 +425,6 @@ translate spanish strings:
     new "Esta es una elección importante que cambia la forma en que se desarrolla tu relación con Min - Esto iniciará una relación con Min, no con Squizzle."
 
     # game/code/hints.rpy:5
-    old "This is an important choice that changes the way your relationship with Squizzle develops - This will continue your fuck buddies relationship with Squizzle."
-    new "Esta es una elección importante que cambia la forma en que se desarrolla tu relación con Squizzle - Esto continuará tu relación de amigos del sexo con Squizzle."
-
-    # game/code/hints.rpy:5
     old "You will get to fuck Terrell's partner while Terrell watches and is humiliated and you'll get to see Maria get humiliated by Terrell."
     new "Conseguirás follarte a la pareja de Terrell mientras éste mira y es humillado y podrás ver a María siendo humillada por Terrell."
 
@@ -633,4 +629,3 @@ translate spanish strings:
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Squizzle develops - This will end Min's path."
     new "This is an important choice that changes the way your relationship with Squizzle develops - This will end Min's path."
-

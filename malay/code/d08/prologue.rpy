@@ -130,14 +130,6 @@ translate malay strings:
     old "Your sexual slave"
     new "Hamba seksual anda"
 
-    # game/code/d08/prologue.rpy:120
-    old "You co-sign the contract, share the expenses, and live there in autumn (after Stacy moves to a dorm)"
-    new "Anda menandatangani kontrak bersama, berkongsi perbelanjaan, dan tinggal di sana pada musim luruh (selepas Stacy berpindah ke asrama)"
-
-    # game/code/d08/prologue.rpy:120
-    old "You convince Lyssa to give Stacy a lower rate as a form of advertising"
-    new "Anda meyakinkan Lyssa untuk memberi Stacy harga yang lebih rendah sebagai bentuk iklan"
-
     # game/code/d08/prologue.rpy:142
     old "I am a gentleman (tips fedora)"
     new "Saya seorang lelaki sejati"

@@ -98,14 +98,6 @@ translate deutsch strings:
     old "Your sexual slave"
     new "Deine Sexsklavin"
 
-    # game/code/d08/prologue.rpy:122
-    old "You co-sign the contract, share the expenses, and live there in autumn (after Stacy moves to a dorm)"
-    new "Du unterschreibst den Vertrag mit, teilst dir die Kosten und wohnst im Herbst dort (nachdem Stacy in ein Wohnheim gezogen ist)"
-
-    # game/code/d08/prologue.rpy:122
-    old "You convince Lyssa to give Stacy a lower rate as a form of advertising"
-    new "Du überzeugst Lyssa davon, Stacy einen niedrigeren Tarif zu geben, als eine Form der Werbung"
-
     # game/code/d08/prologue.rpy:148
     old "I am a gentleman (tips fedora)"
     new "Ich bin ein Gentleman (ziehe den Hut)"

@@ -130,14 +130,6 @@ translate spanish strings:
     old "Your sexual slave"
     new "Tu exclava sexual"
 
-    # game/code/d08/prologue.rpy:118
-    old "You co-sign the contract, share the expenses, and live there in autumn (after Stacy moves to a dorm)"
-    new "Firmas el contrato, compartes los gastos y vives allí en otoño (después de que Stacy se mude a un dormitorio)"
-
-    # game/code/d08/prologue.rpy:118
-    old "You convince Lyssa to give Stacy a lower rate as a form of advertising"
-    new "Convence a Lyssa para que le dé a Stacy una tarifa más baja como forma de publicidad"
-
     # game/code/d08/prologue.rpy:140
     old "I am a gentleman (tips fedora)"
     new "Soy un caballero (tips fedora)"

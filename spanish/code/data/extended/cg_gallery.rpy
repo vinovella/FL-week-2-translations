@@ -1,48 +1,24 @@
 translate spanish strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
-    old "Day 8: AmRose - Wake Up"
-    new "Día 8: AmRose - Despierta"
-
-    # game/code/data/extended/cg_gallery.rpy:21
     old "Transfer some points to ErikaRed"
     new "Transfiere algunos puntos a ErikaRed"
-
-    # game/code/data/extended/cg_gallery.rpy:21
-    old "Day 8: Maria - Class"
-    new "Día 8: Maria - Clase"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Reject Maria"
     new "Rechaza a Maria"
 
     # game/code/data/extended/cg_gallery.rpy:21
-    old "Day 8: Squizzle - Men's Room"
-    new "Día 8: Squizzle - Baño de hombres"
-
-    # game/code/data/extended/cg_gallery.rpy:21
     old "Pee on Squizzle's face"
     new "Orina en la cara de Squizzle"
-
-    # game/code/data/extended/cg_gallery.rpy:21
-    old "Day 8: Stacy - University"
-    new "Día 8: Stacy - Universidad"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Go to university with Stacy"
     new "Ve a la universidad con Stacy"
 
     # game/code/data/extended/cg_gallery.rpy:21
-    old "Day 8: Dahlia - University"
-    new "Día 8: Dahlia - Universidad"
-
-    # game/code/data/extended/cg_gallery.rpy:21
     old "Submit"
     new "Someterte"
-
-    # game/code/data/extended/cg_gallery.rpy:21
-    old "Day 8: Daisy - University"
-    new "Día 8: Daisy - Universidad"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Dominate"
@@ -55,10 +31,6 @@ translate spanish strings:
     # game/code/data/extended/cg_gallery.rpy:21
     old "Find Allison near the pool"
     new "Encuentra a Allison cerca de la piscina"
-
-    # game/code/data/extended/cg_gallery.rpy:21
-    old "Day 8: Shontae - Pool"
-    new "Día 8: Shontae - Piscina"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Talk to Allison's coach"
@@ -81,16 +53,8 @@ translate spanish strings:
     new "Haz que AmRose sea tu novia secreta"
 
     # game/code/data/extended/cg_gallery.rpy:21
-    old "Day 8: Hana - Park"
-    new "Día 8: Hana - Parque"
-
-    # game/code/data/extended/cg_gallery.rpy:21
     old "Meet Hana in the park"
     new "Encuentra a Hana en el parque"
-
-    # game/code/data/extended/cg_gallery.rpy:21
-    old "Day 8: Allison - Dorm"
-    new "Día 8: Allison - Dormitorio"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Visit Allison in her dorm"
@@ -121,16 +85,8 @@ translate spanish strings:
     new "Sé responsable"
 
     # game/code/data/extended/cg_gallery.rpy:21
-    old "Day 8: Polly & Nora - Angry"
-    new "Día 8: Polly y Nora - Enojarla"
-
-    # game/code/data/extended/cg_gallery.rpy:21
     old "Creampie Nora"
     new "Chorrea a Nora"
-
-    # game/code/data/extended/cg_gallery.rpy:21
-    old "Day 8: Lydia - Bedroom"
-    new "Día 8: Lydia - Habitación"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Don't lie to Lydia"
@@ -235,10 +191,6 @@ translate spanish strings:
     new "Fiesta 2: Min"
 
     # game/code/data/extended/cg_gallery.rpy:21
-    old "Safe words are for noobs"
-    new "Las palabras seguras son para los novatos"
-
-    # game/code/data/extended/cg_gallery.rpy:21
     old "Party 2: Iona - Bar"
     new "Fiesta 2: Iona - Bar"
 
@@ -265,10 +217,6 @@ translate spanish strings:
     # game/code/data/extended/cg_gallery.rpy:21
     old "Stop Lydia"
     new "Detener a Lydia"
-
-    # game/code/data/extended/cg_gallery.rpy:21
-    old "Day 11: Lydia - Pool"
-    new "Día 11: Lydia - Piscina"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 13: The Prostitute"
@@ -313,4 +261,3 @@ translate spanish strings:
     # game/code/data/extended/cg_gallery.rpy:21
     old "Party 3: Participants"
     new "Party 3: Participants"
-

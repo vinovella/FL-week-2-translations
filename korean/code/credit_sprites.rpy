@@ -52,3 +52,9 @@ translate korean strings:
     old "We'll see you in Week Three!"
     new "3주차에서 뵙겠습니다!"
 
+translate korean strings:
+
+    # game/code/credit_sprites.rpy:111
+    old "French Translation -"
+    new "French Translation -"
+

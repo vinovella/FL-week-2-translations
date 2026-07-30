@@ -245,10 +245,6 @@ translate russian strings:
     new "Останови Лидию"
 
     # game/code/data/extended/cg_gallery.rpy:21
-    old "Day 11: Lydia - Pool"
-    new "День 11: Лидия - Бассейн"
-
-    # game/code/data/extended/cg_gallery.rpy:21
     old "Day 13: The Prostitute"
     new "День 13: Проститутка"
 
@@ -285,4 +281,3 @@ translate russian strings:
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 12: Lydia - Pool"
     new "День 12: Лидия - Бассейн"
-

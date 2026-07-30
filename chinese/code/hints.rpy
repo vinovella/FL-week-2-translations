@@ -425,10 +425,6 @@ translate chinese strings:
     new "这个选择很重要，它将改变你与明的关系发展--这将开启你与明，而非斯奎兹的关系。"
 
     # game/code/hints.rpy:5
-    old "This is an important choice that changes the way your relationship with Squizzle develops - This will continue your fuck buddies relationship with Squizzle."
-    new "这个选择很重要，它将改变你与斯奎兹的关系发展--你与斯奎兹的炮友关系将继续下去。"
-
-    # game/code/hints.rpy:5
     old "You will get to fuck Terrell's partner while Terrell watches and is humiliated and you'll get to see Maria get humiliated by Terrell."
     new "你可以和特雷尔的搭档上床，而特雷尔只能在旁看着并被羞辱，你还可以看到玛丽亚被特雷尔羞辱。"
 
@@ -633,4 +629,3 @@ translate chinese strings:
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Squizzle develops - This will end Min's path."
     new "这个选择很重要，它将改变你与斯奎兹的关系发展--这将终结通向明的路径。"
-

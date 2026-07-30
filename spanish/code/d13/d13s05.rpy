@@ -672,23 +672,6 @@ translate spanish d13s05_end_1cd83245:
 
 translate spanish strings:
 
-    # game/code/d13/d13s05.rpy:31
-    old "The Prostitute"
-    new "La prostituta"
-
-    # game/code/d13/d13s05.rpy:147
-    old "Call her Chastity"
-    new "Llámala Castidad"
-
-    # game/code/d13/d13s05.rpy:147
-    old "Call her Chase"
-    new "Llámala Perseguida"
-
     # game/code/d13/d13s05.rpy:149
     old "Chastity"
     new "Castidad"
-
-    # game/code/d13/d13s05.rpy:154
-    old "Chase"
-    new "Perseguida"
-

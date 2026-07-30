@@ -148,10 +148,6 @@ translate russian strings:
     old "Display"
     new "Режим экрана"
 
-    # game/code/screens/screens.rpy:1118
-    old "Window"
-    new "Оконный"
-
     # game/code/screens/screens.rpy:1119
     old "Fullscreen"
     new "Полный"
@@ -371,17 +367,6 @@ translate russian strings:
     # game/code/screens/screens.rpy:1831
     old "Menu"
     new "Меню"
-
-translate russian strings:
-
-    # game/code/screens/screens.rpy:653
-    old "Wishlist Taboo University in Steam"
-    new "Wishlist Taboo University in Steam"
-
-    # game/code/screens/screens.rpy:656
-    old "Try our new game Taboo University"
-    new "Try our new game Taboo University"
-
 translate russian strings:
 
     # game/code/screens/screens.rpy:1085
@@ -391,4 +376,3 @@ translate russian strings:
     # game/code/screens/screens.rpy:1244
     old "Dialogue Box Opacity"
     new "Dialogue Box Opacity"
-

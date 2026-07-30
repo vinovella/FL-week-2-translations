@@ -144,10 +144,6 @@ translate korean strings:
     old "Display"
     new "화면"
 
-    # game/code/screens/screens.rpy:1135
-    old "Window"
-    new "창 화면"
-
     # game/code/screens/screens.rpy:1136
     old "Fullscreen"
     new "전체 화면"
@@ -363,17 +359,6 @@ translate korean strings:
     # game/code/screens/screens.rpy:1850
     old "Menu"
     new "메뉴"
-
-translate korean strings:
-
-    # game/code/screens/screens.rpy:653
-    old "Wishlist Taboo University in Steam"
-    new "Wishlist Taboo University in Steam"
-
-    # game/code/screens/screens.rpy:656
-    old "Try our new game Taboo University"
-    new "Try our new game Taboo University"
-
 translate korean strings:
 
     # game/code/screens/screens.rpy:1085
@@ -383,4 +368,3 @@ translate korean strings:
     # game/code/screens/screens.rpy:1244
     old "Dialogue Box Opacity"
     new "Dialogue Box Opacity"
-

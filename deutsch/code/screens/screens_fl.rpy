@@ -8,14 +8,6 @@ translate deutsch strings:
     old "DATE"
     new "DATUM"
 
-    # game/code/screens/screens_fl.rpy:87
-    old "LOAD"
-    new "LADEN"
-
-    # game/code/screens/screens_fl.rpy:121
-    old "No save from week [FLSS.week.prev] has been detected"
-    new "Es wurde von Woche [FLSS.week.prev] keine Speicherstand erkannt"
-
 translate deutsch strings:
 
     # game/code/screens/screens_fl.rpy:333
@@ -43,10 +35,6 @@ translate deutsch strings:
     new "Röntgen"
 
 translate deutsch strings:
-
-    # game/code/screens/screens_fl.rpy:16
-    old "Week 2 Save"
-    new "Woche 2 speichern"
 
     # game/code/screens/screens_fl.rpy:47
     old "Your second week on Fetish Locator ends here"
@@ -111,10 +99,6 @@ translate deutsch strings:
     new "Geh zurück und aktiviere den {b}Trans Inhalte{/b}, um Lyssa wählen zu können"
 
 translate deutsch strings:
-
-    # game/code/screens/screens_fl.rpy:70
-    old "Please click the save button below"
-    new "Bitte drücke den Speicherknopf unten"
 
     # game/code/screens/screens_fl.rpy:391
     old "Touch input supported"
@@ -210,10 +194,6 @@ translate deutsch strings:
     old "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
     new "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
 
-    # game/code/screens/screens_fl.rpy:887
-    old "Confirm"
-    new "Confirm"
-
 translate deutsch strings:
 
     # game/code/screens/screens_fl.rpy:884
@@ -247,4 +227,3 @@ translate deutsch strings:
     # game/code/screens/screens_fl.rpy:921
     old "Download Saves"
     new "Download Saves"
-

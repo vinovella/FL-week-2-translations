@@ -4,10 +4,6 @@ translate russian strings:
     old "Give up!"
     new "Сдаться!"
 
-    # game/code/d10p2/d10p2_free_roam.rpy:13
-    old "Stop Searching"
-    new "Прекратить поиски"
-
     # game/code/d10p2/d10p2_free_roam.rpy:33
     old "Go to the stairs"
     new "Идти к лестнице"
@@ -127,4 +123,3 @@ translate russian strings:
     # game/code/d10p2/d10p2_free_roam.rpy:798
     old "Talk to Cynthia"
     new "Поговорить с Синтией"
-

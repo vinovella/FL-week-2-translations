@@ -672,23 +672,6 @@ translate italian d13s05_end_1cd83245:
 
 translate italian strings:
 
-    # game/code/d13/d13s05.rpy:31
-    old "The Prostitute"
-    new "Prostituta"
-
-    # game/code/d13/d13s05.rpy:139
-    old "Call her Chastity"
-    new "La chiami Immacolata"
-
-    # game/code/d13/d13s05.rpy:139
-    old "Call her Chase"
-    new "La chiami Imma"
-
     # game/code/d13/d13s05.rpy:141
     old "Chastity"
     new "Immacolata"
-
-    # game/code/d13/d13s05.rpy:146
-    old "Chase"
-    new "Imma"
-

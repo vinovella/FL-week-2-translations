@@ -80,21 +80,9 @@ translate chinese strings:
     old "Quit"
     new "退出"
 
-    # game/code/screens/screens.rpy:610
-    old "Version [config.version!t]\n"
-    new "版本[config.version!t]\n"
-
     # game/code/screens/screens.rpy:616
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]\n"
     new "通过下列方式制作 {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]\n"
-
-    # game/code/screens/screens.rpy:660
-    old "(set a name before saving your progress)"
-    new "(在保存进度前，先设定一个名字)"
-
-    # game/code/screens/screens.rpy:686
-    old "Current save name:"
-    new "当前保存名称："
 
     # game/code/screens/screens.rpy:719
     old "{#file_time}%A, %B %d %Y, %H:%M"
@@ -123,10 +111,6 @@ translate chinese strings:
     # game/code/screens/screens.rpy:807
     old "Display"
     new "显示"
-
-    # game/code/screens/screens.rpy:808
-    old "Window"
-    new "窗口"
 
     # game/code/screens/screens.rpy:809
     old "Fullscreen"
@@ -394,14 +378,6 @@ translate chinese strings:
     old "Others"
     new "Others"
 
-    # game/code/screens/screens.rpy:653
-    old "Wishlist Taboo University in Steam"
-    new "Wishlist Taboo University in Steam"
-
-    # game/code/screens/screens.rpy:656
-    old "Try our new game Taboo University"
-    new "Try our new game Taboo University"
-
     # game/code/screens/screens.rpy:1085
     old "Ren'Py Save Sync"
     new "Ren'Py Save Sync"
@@ -409,4 +385,3 @@ translate chinese strings:
     # game/code/screens/screens.rpy:1244
     old "Dialogue Box Opacity"
     new "Dialogue Box Opacity"
-

@@ -52,3 +52,9 @@ translate russian strings:
     old "We'll see you in Week Three!"
     new "Увидимся на третьей неделе!"
 
+translate russian strings:
+
+    # game/code/credit_sprites.rpy:111
+    old "French Translation -"
+    new "French Translation -"
+

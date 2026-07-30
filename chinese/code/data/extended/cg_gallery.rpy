@@ -1,48 +1,24 @@
 translate chinese strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
-    old "Day 8: AmRose - Wake Up"
-    new "第八天：爱洛丝--醒醒"
-
-    # game/code/data/extended/cg_gallery.rpy:21
     old "Transfer some points to ErikaRed"
     new "转点数给红色埃里卡"
-
-    # game/code/data/extended/cg_gallery.rpy:21
-    old "Day 8: Maria - Class"
-    new "第八天：玛利亚--上课"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Reject Maria"
     new "拒绝玛利亚"
 
     # game/code/data/extended/cg_gallery.rpy:21
-    old "Day 8: Squizzle - Men's Room"
-    new "第八天：斯奎兹--男厕所"
-
-    # game/code/data/extended/cg_gallery.rpy:21
     old "Pee on Squizzle's face"
     new "在斯奎兹脸上撒尿"
-
-    # game/code/data/extended/cg_gallery.rpy:21
-    old "Day 8: Stacy - University"
-    new "第八天：史黛西--大学"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Go to university with Stacy"
     new "和史黛西一起上大学"
 
     # game/code/data/extended/cg_gallery.rpy:21
-    old "Day 8: Dahlia - University"
-    new "第八天：黛丽娅--大学"
-
-    # game/code/data/extended/cg_gallery.rpy:21
     old "Submit"
     new "服从"
-
-    # game/code/data/extended/cg_gallery.rpy:21
-    old "Day 8: Daisy - University"
-    new "第八天：黛西--大学"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Dominate"
@@ -55,10 +31,6 @@ translate chinese strings:
     # game/code/data/extended/cg_gallery.rpy:21
     old "Find Allison near the pool"
     new "去泳池附近找艾莉森"
-
-    # game/code/data/extended/cg_gallery.rpy:21
-    old "Day 8: Shontae - Pool"
-    new "第八天：尚泰--泳池"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Talk to Allison's coach"
@@ -81,16 +53,8 @@ translate chinese strings:
     new "让爱洛丝成为你的秘密女友"
 
     # game/code/data/extended/cg_gallery.rpy:21
-    old "Day 8: Hana - Park"
-    new "第八天：哈娜--公园"
-
-    # game/code/data/extended/cg_gallery.rpy:21
     old "Meet Hana in the park"
     new "和哈娜在公园见面"
-
-    # game/code/data/extended/cg_gallery.rpy:21
-    old "Day 8: Allison - Dorm"
-    new "第八天：艾莉森--宿舍"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Visit Allison in her dorm"
@@ -121,16 +85,8 @@ translate chinese strings:
     new "负起责任"
 
     # game/code/data/extended/cg_gallery.rpy:21
-    old "Day 8: Polly & Nora - Angry"
-    new "第八天：波莉和诺拉--生气"
-
-    # game/code/data/extended/cg_gallery.rpy:21
     old "Creampie Nora"
     new "射诺拉体内"
-
-    # game/code/data/extended/cg_gallery.rpy:21
-    old "Day 8: Lydia - Bedroom"
-    new "第八天：莉迪亚--卧室"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Don't lie to Lydia"
@@ -227,10 +183,6 @@ translate chinese strings:
     new "派对二：明"
 
     # game/code/data/extended/cg_gallery.rpy:21
-    old "Safe words are for noobs"
-    new "新手才用安全词"
-
-    # game/code/data/extended/cg_gallery.rpy:21
     old "Party 2: Iona - Bar"
     new "派对二：欧娜--吧台"
 
@@ -259,10 +211,6 @@ translate chinese strings:
     # game/code/data/extended/cg_gallery.rpy:21
     old "Stop Lydia"
     new "阻止莉迪亚"
-
-    # game/code/data/extended/cg_gallery.rpy:21
-    old "Day 11: Lydia - Pool"
-    new "第十一天：莉迪亚--泳池"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 13: The Prostitute"
@@ -307,4 +255,3 @@ translate chinese strings:
     # game/code/data/extended/cg_gallery.rpy:21
     old "Party 3: Participants"
     new "Party 3: Participants"
-

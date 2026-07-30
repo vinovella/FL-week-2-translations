@@ -80,21 +80,9 @@ translate malay strings:
     old "Quit"
     new "Tutup"
 
-    # game/code/screens/screens.rpy:870
-    old "Version [config.version!t]\n"
-    new "Versi [config.version!t]\n"
-
     # game/code/screens/screens.rpy:876
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]\n"
     new "Dibuat dengan {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]\n"
-
-    # game/code/screens/screens.rpy:920
-    old "(set a name before saving your progress)"
-    new "(tetapkan nama sebelum menyimpan progres anda)"
-
-    # game/code/screens/screens.rpy:946
-    old "Current save name:"
-    new "Nama simpanan semasa:"
 
     # game/code/screens/screens.rpy:979
     old "{#file_time}%A, %B %d %Y, %H:%M"
@@ -123,10 +111,6 @@ translate malay strings:
     # game/code/screens/screens.rpy:1067
     old "Display"
     new "Paparan"
-
-    # game/code/screens/screens.rpy:1068
-    old "Window"
-    new "Tetingkap"
 
     # game/code/screens/screens.rpy:1069
     old "Fullscreen"
@@ -395,17 +379,6 @@ translate malay strings:
     # game/code/screens/screens.rpy:796
     old "Others"
     new "Lain"
-
-translate malay strings:
-
-    # game/code/screens/screens.rpy:653
-    old "Wishlist Taboo University in Steam"
-    new "Wishlist Taboo University in Steam"
-
-    # game/code/screens/screens.rpy:656
-    old "Try our new game Taboo University"
-    new "Try our new game Taboo University"
-
 translate malay strings:
 
     # game/code/screens/screens.rpy:1085
@@ -415,4 +388,3 @@ translate malay strings:
     # game/code/screens/screens.rpy:1244
     old "Dialogue Box Opacity"
     new "Dialogue Box Opacity"
-

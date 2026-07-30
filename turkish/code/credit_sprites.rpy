@@ -52,3 +52,9 @@ translate turkish strings:
     old "We'll see you in Week Three!"
     new "Üçüncü Hafta'da görüşürüz!"
 
+translate turkish strings:
+
+    # game/code/credit_sprites.rpy:111
+    old "French Translation -"
+    new "French Translation -"
+

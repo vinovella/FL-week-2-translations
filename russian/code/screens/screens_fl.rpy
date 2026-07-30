@@ -84,10 +84,6 @@ translate russian strings:
 
 translate russian strings:
 
-    # game/code/screens/screens_fl.rpy:70
-    old "Please click the save button below"
-    new "Нажмите на кнопку сохранения ниже"
-
     # game/code/screens/screens_fl.rpy:313
     old "Touch input supported"
     new "Поддерживается сенсорный ввод"
@@ -176,10 +172,6 @@ translate russian strings:
     old "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
     new "Если нужна помощь - заходите в наш {a=https://discord.gg/efmQRNtFks}Discord{/a}."
 
-    # game/code/screens/screens_fl.rpy:887
-    old "Confirm"
-    new "Подтвердить"
-
 translate russian strings:
 
     # game/code/screens/screens_fl.rpy:884
@@ -213,4 +205,3 @@ translate russian strings:
     # game/code/screens/screens_fl.rpy:921
     old "Download Saves"
     new "Download Saves"
-

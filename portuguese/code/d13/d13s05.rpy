@@ -672,23 +672,6 @@ translate portuguese d13s05_end_1cd83245:
 
 translate portuguese strings:
 
-    # game/code/d13/d13s05.rpy:31
-    old "The Prostitute"
-    new "A Prostituta"
-
-    # game/code/d13/d13s05.rpy:147
-    old "Call her Chastity"
-    new "Chamar ela de Chastity"
-
-    # game/code/d13/d13s05.rpy:147
-    old "Call her Chase"
-    new "Chamar ela de Chase"
-
     # game/code/d13/d13s05.rpy:149
     old "Chastity"
     new "Chastity"
-
-    # game/code/d13/d13s05.rpy:154
-    old "Chase"
-    new "Chase"
-

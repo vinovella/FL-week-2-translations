@@ -1125,24 +1125,8 @@ translate italian strings:
     new "Non c'è fretta, tanto vale divertirsi un po'"
 
     # game/code/d09/d09s02.rpy:358
-    old "Tonight! On \"Prank a M.I.L.F.\""
-    new "Sorridi, Vanessa: sei su \"Candid camera!\""
-
-    # game/code/d09/d09s02.rpy:358
-    old "Be a gigolo for a night"
-    new "Fai il gigolo per una \"noche de pasión\""
-
-    # game/code/d09/d09s02.rpy:358
     old "Be Samiya's assistant"
     new "Fai l'assistente di Samiya"
-
-    # game/code/d09/d09s02.rpy:406
-    old "Pick something else as well."
-    new "Scegli qualcos'altro"
-
-    # game/code/d09/d09s02.rpy:406
-    old "Nah, that's enough."
-    new "No, basta così."
 
 translate italian strings:
 
@@ -1153,4 +1137,3 @@ translate italian strings:
     # game/code/d09/d09s02.rpy:469
     old "Be a gigolo for a day"
     new "Fai il gigolo per un giorno"
-

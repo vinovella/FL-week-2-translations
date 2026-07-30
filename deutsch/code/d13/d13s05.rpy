@@ -672,23 +672,6 @@ translate deutsch d13s05_end_1cd83245:
 
 translate deutsch strings:
 
-    # game/code/d13/d13s05.rpy:31
-    old "The Prostitute"
-    new "Die Prostituierte"
-
-    # game/code/d13/d13s05.rpy:147
-    old "Call her Chastity"
-    new "Nenn sie Chastity"
-
-    # game/code/d13/d13s05.rpy:147
-    old "Call her Chase"
-    new "Nenn sie Chase"
-
     # game/code/d13/d13s05.rpy:149
     old "Chastity"
     new "Chastity"
-
-    # game/code/d13/d13s05.rpy:154
-    old "Chase"
-    new "Chase"
-

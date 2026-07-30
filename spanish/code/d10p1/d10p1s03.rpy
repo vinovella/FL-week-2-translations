@@ -1230,13 +1230,6 @@ translate spanish strings:
     old "Should I help him out?"
     new "¿Debo ayudarle?"
 
-    # game/code/d10p1/d10p1s03.rpy:333
-    old "Help him"
-    new "Ayúdalo"
-
-    # game/code/d10p1/d10p1s03.rpy:333
-    old "Don't help him"
-    new "No lo ayudes"
 
 translate spanish strings:
 
@@ -1249,4 +1242,3 @@ translate spanish strings:
     # game/code/d10p1/d10p1s03.rpy:441
     old "Help{#d10p1s03}"
     new "Ayuda{#d10p1s03}"
-

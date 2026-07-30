@@ -8,10 +8,6 @@ translate deutsch strings:
     old "Replay Room"
     new "Replay Raum"
 
-    # game/code/screens/extended/screens_fl.rpy:23
-    old "Achievements"
-    new "Errungenschaften"
-
     # game/code/screens/extended/screens_fl.rpy:30
     old "Hints on"
     new "Hinweise an"
@@ -35,4 +31,3 @@ translate deutsch strings:
     # game/code/screens/extended/screens_fl.rpy:46
     old "CLOSE"
     new "SCHLIEßEN"
-

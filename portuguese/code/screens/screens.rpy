@@ -84,21 +84,9 @@ translate portuguese strings:
     old "Character Gallery"
     new "Galeria de Personagens"
 
-    # game/code/screens/screens.rpy:756
-    old "Version [config.version!t]\n"
-    new "Versão [config.version!t]\n"
-
     # game/code/screens/screens.rpy:762
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]\n"
     new "Feito com {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]\n"
-
-    # game/code/screens/screens.rpy:806
-    old "(set a name before saving your progress)"
-    new "(digite um nome antes de salvar seu progresso)"
-
-    # game/code/screens/screens.rpy:832
-    old "Current save name:"
-    new "Nome atual do save:"
 
     # game/code/screens/screens.rpy:865
     old "{#file_time}%A, %B %d %Y, %H:%M"
@@ -127,10 +115,6 @@ translate portuguese strings:
     # game/code/screens/screens.rpy:953
     old "Display"
     new "Gráficos"
-
-    # game/code/screens/screens.rpy:954
-    old "Window"
-    new "Janela"
 
     # game/code/screens/screens.rpy:955
     old "Fullscreen"
@@ -393,17 +377,6 @@ translate portuguese strings:
     # game/code/screens/screens.rpy:796
     old "Others"
     new "Others"
-
-translate portuguese strings:
-
-    # game/code/screens/screens.rpy:653
-    old "Wishlist Taboo University in Steam"
-    new "Wishlist Taboo University in Steam"
-
-    # game/code/screens/screens.rpy:656
-    old "Try our new game Taboo University"
-    new "Try our new game Taboo University"
-
 translate portuguese strings:
 
     # game/code/screens/screens.rpy:1085
@@ -413,4 +386,3 @@ translate portuguese strings:
     # game/code/screens/screens.rpy:1244
     old "Dialogue Box Opacity"
     new "Dialogue Box Opacity"
-

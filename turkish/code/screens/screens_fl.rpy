@@ -8,10 +8,6 @@ translate turkish strings:
     old "Please type a name for the save file below and click save"
     new "Lütfen aşağıya kaydetme dosyası için bir ad yazın ve kaydet'i tıklayın"
 
-    # game/code/screens/screens_fl.rpy:70
-    old "Please click the save button below"
-    new "Lütfen aşağıdaki kaydet düğmesine tıklayın"
-
     # game/code/screens/screens_fl.rpy:78
     old "This will allow you to start week 3 without losing your progress"
     new "Bu, ilerlemenizi kaybetmeden 3. haftaya başlamanızı sağlayacaktır"
@@ -172,10 +168,6 @@ translate turkish strings:
     old "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
     new "Yardıma ihtiyacınız varsa {a=https://discord.gg/efmQRNtFks} Discord {/a} üzerinden bize ulaşın ."
 
-    # game/code/screens/screens_fl.rpy:887
-    old "Confirm"
-    new "Onayla"
-
 translate turkish strings:
 
     # game/code/screens/screens_fl.rpy:884
@@ -209,4 +201,3 @@ translate turkish strings:
     # game/code/screens/screens_fl.rpy:921
     old "Download Saves"
     new "Download Saves"
-

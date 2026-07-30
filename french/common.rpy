@@ -1228,3 +1228,17 @@ translate french strings:
     old "Self-voicing support is limited when using a touch screen."
     new "La prise en charge de l'auto-voix est limitée lors de l'utilisation d'un écran tactile."
 
+translate french strings:
+
+    # renpy/common/00translation.rpy:63
+    old "Translation identifier: [identifier]"
+    new "Translation identifier: [identifier]"
+
+    # renpy/common/00translation.rpy:84
+    old " translates [tl.filename]:[tl.linenumber]"
+    new " translates [tl.filename]:[tl.linenumber]"
+
+    # renpy/common/00translation.rpy:101
+    old "\n{color=#fff}Copied to clipboard.{/color}"
+    new "\n{color=#fff}Copied to clipboard.{/color}"
+

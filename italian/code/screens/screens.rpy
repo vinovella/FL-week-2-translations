@@ -80,14 +80,6 @@ translate italian strings:
     old "Return"
     new "Indietro"
 
-    # game/screens.rpy:563
-    old "Version [config.version!t]\n"
-    new "Versione [config.version!t]\n"
-
-    # game/screens.rpy:569
-    old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
-    new "Creato con {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
-
     # game/screens.rpy:609
     old "Page {}"
     new "Pagina {}"
@@ -127,10 +119,6 @@ translate italian strings:
     # game/screens.rpy:737
     old "Display"
     new "Modalità video"
-
-    # game/screens.rpy:738
-    old "Window"
-    new "Finestra"
 
     # game/screens.rpy:739
     old "Fullscreen"
@@ -364,14 +352,6 @@ translate italian strings:
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]\n"
     new "Creato con {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
 
-    # game/code/screens/screens.rpy:643
-    old "Current save name:"
-    new "Nome corrente del salvataggio:"
-
-    # game/code/screens/screens.rpy:660
-    old "(set a name before saving your progress)"
-    new "(scegli un nome prima di salvare)"
-
     # game/code/screens/screens.rpy:699
     old "«"
     new "«"
@@ -391,14 +371,6 @@ translate italian strings:
     # game/code/screens/screens.rpy:825
     old "Disabled"
     new "Disattivata"
-
-    # game/code/screens/screens.rpy:829
-    old "Clear Steam Achievements"
-    new "Cancella gli achievement di Steam"
-
-    # game/code/screens/screens.rpy:830
-    old "Delete all"
-    new "Cancella tutto"
 
     # game/code/screens/screens.rpy:486
     old "Character Gallery"
@@ -432,14 +404,6 @@ translate italian strings:
     old "Others"
     new "Altro"
 
-    # game/code/screens/screens.rpy:653
-    old "Wishlist Taboo University in Steam"
-    new "Wishlist Taboo University in Steam"
-
-    # game/code/screens/screens.rpy:656
-    old "Try our new game Taboo University"
-    new "Try our new game Taboo University"
-
 translate italian strings:
 
     # game/code/screens/screens.rpy:1085
@@ -449,4 +413,3 @@ translate italian strings:
     # game/code/screens/screens.rpy:1244
     old "Dialogue Box Opacity"
     new "Dialogue Box Opacity"
-
