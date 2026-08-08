@@ -14,13 +14,13 @@ translate korean d08s08_04c732d3:
 translate korean d08s08_3098df80:
 
     # mct "\"Hi... I'm kinda, sorta your boyfriend, but I gotta be able to boink anything to win a million dollars.\""
-    mct "\"안녕... 난 말하자면, 일종의 네 남자 친구 같은 건데, 백만 달러를 받기 위해서라면 어떻게든 떡방아를 찧을 거야.\""
+    mct "\"안녕... 난 뭐랄까, 네 남자 친구 같은 건데, 백만 달러를 따려면 닥치는 대로 누구하고든 떡을 쳐야 해.\""
 
 # game/code/d08/d08s08.rpy:13
 translate korean d08s08_79de6eca:
 
     # mct "\"Hi... I'm kinda sorta your boyfriend, but I'll boink anything I can.\""
-    mct "\"안녕... 난 말하자면, 일종의 네 남자 친구 같은 건데, 어떻게든 떡방아를 찧을 거야.\""
+    mct "\"안녕... 난 말하자면, 일종의 네 남자 친구 같은 건데, 할 수 있는 상대라면 누구하고든 떡을 칠 거야.\""
 
 # game/code/d08/d08s08.rpy:14
 translate korean d08s08_553cc969:
@@ -38,19 +38,19 @@ translate korean d08s08_4ce5619c:
 translate korean d08s08_6277b9cc:
 
     # mct "Oh good. Here comes the \"Captain of the SS Nude\" with the codes."
-    mct "오 세상에. 암호를 가진 \"잠수함 노출호의 함장\" 오신다."
+    mct "오, 세상에. 암호를 들고 \"노출호의 함장\"께서 오시는군."
 
 # game/code/d08/d08s08.rpy:23
 translate korean d08s08_db500228:
 
     # mct "How are we going to do this exchange discreetly?"
-    mct "리디아랑 내가 이런 대화를 조심스럽게 나눌 수 있는 방법이 있기나 할까?"
+    mct "하나와 어떻게 하면 이걸 눈에 띄지 않게 주고받지?"
 
 # game/code/d08/d08s08.rpy:26
 translate korean d08s08_9377478e:
 
     # mct "I wonder what she has in mind."
-    mct "리디아가 걱정하는 게 뭔지 궁금한데."
+    mct "하나는 무슨 방법을 생각해 둔 걸까."
 
 # game/code/d08/d08s08.rpy:33
 translate korean d08s08_90a7bc8e:
@@ -110,19 +110,19 @@ translate korean d08s08_5e053c9c:
 translate korean d08s08_660ab639:
 
     # mct "Who the fuck is Bella? And why would Pete be in love with her?"
-    mct "씨발 벨라가 누구야? 그리고 피트 녀석은 왜 걔랑 사랑에 빠졌는데?"
+    mct "씨발 벨라는 또 누구야? 그리고 피트 녀석이 왜 걔랑 사랑에 빠진 건데?"
 
 # game/code/d08/d08s08.rpy:71
 translate korean d08s08_4478f179:
 
     # mct "That's so weird. Pete's too much of a perverteer to be in love with anyone."
-    mct "이거 이상하네. 피트는 겁나게 변태라서 누구와도 사랑에 빠질 수 있단 말이지."
+    mct "이거 이상하네. 피트는 너무 심한 변태라 누구를 사랑할 리가 없는데."
 
 # game/code/d08/d08s08.rpy:73
 translate korean d08s08_b663e7ad:
 
     # mct "Maybe that's just one of his secrets, like what the \"F.\" stands for in his middle name."
-    mct "이건 여러 비밀 중 하나일 수도 있어, 어쩌면 피트 녀석의 중간 이름이 \"F.\"라는 게 암시일 수도 있지."
+    mct "이건 여러 비밀 중 하나일 수도 있어, 피트의 중간 이름에 든 \"F.\"가 무엇의 약자인지 같은 비밀 말이야."
 
 # game/code/d08/d08s08.rpy:82
 translate korean d08s08_0c437da8:
@@ -152,7 +152,7 @@ translate korean d08s08_61a1de50:
 translate korean d08s08_742fc993:
 
     # mc "Wups! Sorry, got a little carried away."
-    mc "이런! 미안, 좀 넋이 나가있었네."
+    mc "이런! 미안, 좀 넋이 나가 있었네."
 
 # game/code/d08/d08s08.rpy:99
 translate korean d08s08_f248cc81:
@@ -242,13 +242,13 @@ translate korean d08s08_b1569257:
 translate korean d08s08_169eaddc:
 
     # pb "I had been over at Dahlia's and was coming back from the toilet when I met Samiya, so I figured they knew each other."
-    pb "달리아 방에 들렀고 화장실에서 돌아오는 길에 사미야를 만났어. 그리고 걔 둘이 아는 사이라는 걸 알게 됐어."
+    pb "달리아 방에 들렀다가 화장실에서 돌아오는 길에 사미야를 만났거든. 그래서 둘이 아는 사이겠거니 생각했지."
 
 # game/code/d08/d08s08.rpy:136
 translate korean d08s08_db8c3f5e:
 
     # mc "I'm pretty sure that Dahlia hates Samiya."
-    mc "분명히 달리아는 사미야 엄청 싫어할 텐데."
+    mc "내가 알기로 달리아는 사미야를 엄청 싫어해."
 
 # game/code/d08/d08s08.rpy:139
 translate korean d08s08_4f38a989:
@@ -260,7 +260,7 @@ translate korean d08s08_4f38a989:
 translate korean d08s08_997e8b7f:
 
     # pb "Anyway, so I called Dahlia and asked where Samiya could be. She said something about a SugarDaddy and gave me the address."
-    pb "어쨌든, 그래서 달리아를 불러서 사미야가 있을 만한 곳을 물어봤지. 스폰서 같은 걸 이야기하더니 나한테 주소를 줬어."
+    pb "어쨌든, 그래서 달리아한테 전화해서 사미야가 있을 만한 곳을 물어봤지. 스폰서 같은 걸 이야기하더니 나한테 주소를 줬어."
 
 # game/code/d08/d08s08.rpy:141
 translate korean d08s08_deb64b11:
@@ -278,7 +278,7 @@ translate korean d08s08_1b0ffc09:
 translate korean d08s08_5356f74a:
 
     # pb "Madison Estates? Yeah, that was it. You know people there?"
-    pb "매디슨 지구? 그래, 내가 알아낸 건 이게 다야. 거기에 사는 사람 아냐?"
+    pb "매디슨 지구? 그래, 바로 거기였어. 거기에 사는 사람 아냐?"
 
 # game/code/d08/d08s08.rpy:148
 translate korean d08s08_98605955:
@@ -296,13 +296,13 @@ translate korean d08s08_01adb396:
 translate korean d08s08_5ef7aab8:
 
     # pb "I didn't know that. I just got as far as the gate where I ran into some security guards."
-    pb "난 몰랐지. 갔더니, 관문 같은 곳에 경비가 있더라."
+    pb "난 몰랐지. 정문 입구까지 갔다가 경비원들이랑 마주쳤거든."
 
 # game/code/d08/d08s08.rpy:152
 translate korean d08s08_8c44193d:
 
     # pb "I told them the address I was going to and they started calling someone. Samiya picked up the phone."
-    pb "가려는 곳 주소를 말하니까. 어떤 사람한테 전화를 하더라고. 사미야가 전화를 받았어."
+    pb "내가 가려던 주소를 말하자 경비들이 누군가에게 전화했어. 사미야가 전화를 받았어."
 
 # game/code/d08/d08s08.rpy:153
 translate korean d08s08_20dcd295:
@@ -332,13 +332,13 @@ translate korean d08s08_1d37e230:
 translate korean d08s08_6679db26:
 
     # mc "So, that's it?"
-    mc "그래서, 어떻게 됐는데?"
+    mc "그래서 그게 다야?"
 
 # game/code/d08/d08s08.rpy:162
 translate korean d08s08_e2e94d37:
 
     # pb "No... that's not fucking it! I started to say something, but the moment I said her name both security guards drew their guns!"
-    pb "아니... 세상에 씨발 이런 게 어딨냐! 무슨 말을 하려고 했는데, 사미야 이름을 말하니까 경비 둘이 총을 뽑잖냐!"
+    pb "아니, 씨발, 그게 다가 아니야! 무슨 말을 하려고 했는데, 사미야 이름을 말하니까 경비 둘이 총을 뽑잖냐!"
 
 # game/code/d08/d08s08.rpy:165
 translate korean d08s08_d8fe9612:
@@ -350,7 +350,7 @@ translate korean d08s08_d8fe9612:
 translate korean d08s08_bc38e599:
 
     # pb "Then some man's voice came over the speaker phone and ordered them to get rid of me!"
-    pb "그래고 스피커폰에서 무슨 남자 목소리가 들리는데, 경비한테 날 제거하라고 명령을 하는 거야!"
+    pb "그리고 스피커폰에서 어떤 남자 목소리가 들리는데, 경비한테 날 제거하라고 명령을 하는 거야!"
 
 # game/code/d08/d08s08.rpy:171
 translate korean d08s08_2fd2d602:
@@ -362,7 +362,7 @@ translate korean d08s08_2fd2d602:
 translate korean d08s08_593243a6:
 
     # pb "Yeah, so I didn't stick around to find out what they had in mind. I booked it."
-    pb "그래서 진짜 뻗치다가 총 맞을 일 있냐. 바로 튀었지."
+    pb "그래서 괜히 뻗대다가 총 맞을 일 있냐. 냅다 튀었지."
 
 # game/code/d08/d08s08.rpy:175
 translate korean d08s08_e3cdbc1c:
@@ -386,7 +386,7 @@ translate korean d08s08_1cf92848:
 translate korean d08s08_cba2e169:
 
     # mc "Well, I don't want you getting shot over this. Don't go back there."
-    mc "글쎄다. 나도 총 맞고 싶진 않은데. 가고 싶지도 않고."
+    mc "글쎄다. 이 일 때문에 네가 총을 맞는 건 싫네. 거기는 다시 가지 마라."
 
 # game/code/d08/d08s08.rpy:185
 translate korean d08s08_b6b19f25:
@@ -398,7 +398,7 @@ translate korean d08s08_b6b19f25:
 translate korean d08s08_91a2952a:
 
     # mct "He didn't even learn shit from this.{w} Well, maybe..."
-    mct "이 일을 겪어도 배우는 건 좆도 없긴 하겠지만.{w} 흠, 아마도..."
+    mct "이 녀석은 이번 일에서 알아낸 건 좆도 없네.{w} 흠, 어쩌면..."
 
 # game/code/d08/d08s08.rpy:187
 translate korean d08s08_a219675a:
@@ -410,13 +410,13 @@ translate korean d08s08_a219675a:
 translate korean d08s08_0271b8e6:
 
     # mc "I've got another lead. I'm trying to contact her through one of her friends."
-    mc "다른 실마리가 있어. 걔 친구 중 한 명을 만나려고 하거든."
+    mc "다른 실마리가 있어. 걔 친구 한 명을 통해서 연락해 보려고 하거든."
 
 # game/code/d08/d08s08.rpy:191
 translate korean d08s08_d75430d4:
 
     # pb "From what I saw, that girl is only trouble. What kind of person would be friends with that hellspawn?"
-    pb "이제까지의 경험으로 보면, 걘 그냥 참사야. 어떤 인간 종자가 그 악마랑 친구가 되겠냐?"
+    pb "이제까지의 경험으로 보면, 걘 그냥 골치덩이야. 어떤 인간 종자가 그 악마랑 친구가 되겠냐?"
 
 # game/code/d08/d08s08.rpy:192
 translate korean d08s08_3d69a7dd:
@@ -428,7 +428,7 @@ translate korean d08s08_3d69a7dd:
 translate korean d08s08_964734ef:
 
     # pb "The foxy redhead from that Fetish Locator party?"
-    pb "페티시 로케이터 파티에 왔던 그 여우 같이 섹시한 붉은 머리?"
+    pb "페티시 로케이터 파티에 왔던 그 섹시한 빨간 머리 여자?"
 
 # game/code/d08/d08s08.rpy:195
 translate korean d08s08_64249356:
@@ -440,19 +440,19 @@ translate korean d08s08_64249356:
 translate korean d08s08_be36f5d9:
 
     # pb "You want me to come with you? Some intimidating muscle..."
-    pb "따라가야 하냐? 어깨가 필요하면..."
+    pb "나도 같이 갈까? 어깨가 필요하면..."
 
 # game/code/d08/d08s08.rpy:200
 translate korean d08s08_432221c3:
 
     # mc "Nah. I'm going to try honey rather than vinegar."
-    mc "됐어. 식초보단 꿀이 파리를 잡는데 도움이 되지."
+    mc "됐어. 식초보다는 꿀을 좀 써보려고."
 
 # game/code/d08/d08s08.rpy:202
 translate korean d08s08_47f700c6:
 
     # pb "Huh? Is that some joke about douche?"
-    pb "엉? 무슨 등신에 관한 농담이냐?"
+    pb "엉? 식초로 질 세정이라도 한다는 농담이냐?"
 
 # game/code/d08/d08s08.rpy:204
 translate korean d08s08_75967bc9:
@@ -470,5 +470,5 @@ translate korean d08s08_331ac6bf:
 translate korean d08s08_2fff4bf6:
 
     # mc "Take it easy, and hey...{w} Thanks for trying."
-    mc "걱정 마, 그리고 야...{w} 시도라도 해 줘서 고맙다."
+    mc "잘 지내고, 그리고... 야...{w} 시도라도 해 줘서 고맙다."
 
