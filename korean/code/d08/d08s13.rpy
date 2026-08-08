@@ -44,7 +44,7 @@ translate korean d08s13_bad_40f800f2:
 translate korean d08s13_bad_53e698df:
 
     # nk "It was very interesting. Here I was thinking that you betrayed me only twice, but then I find out you betrayed me at least three times."
-    nk "엄청 흥미로웠지. 여기서 네가 날 배신한 건 두 번 뿐이라고 생각했는데, 사실은 네가 날 적어도 세 번 배신했다는 걸 알게 됐으니까."
+    nk "엄청 흥미로웠지. 난 네가 날 두 번만 배신한 줄 알았는데, 사실은 네가 날 적어도 세 번 배신했다는 걸 알게 됐으니까."
 
 # game/code/d08/d08s13.rpy:98
 translate korean d08s13_bad_8a340642:
@@ -56,19 +56,19 @@ translate korean d08s13_bad_8a340642:
 translate korean d08s13_bad_44d0f07b:
 
     # nk "The second time that you betrayed me was when you came inside me without permission."
-    nk "두 번째 네가 날 배신한 건 허락 없이 내 안에 싼 거지."
+    nk "두 번째 배신은 네가 내 허락도 없이 내 안에 싼 거고."
 
 # game/code/d08/d08s13.rpy:100
 translate korean d08s13_bad_dab16e60:
 
     # mc "I admit, that was a shitty thing to do, but..."
-    mc "인정해요. 그건 정말 병신 같은 짓이었어요, 그래도..."
+    mc "인정해요. 정말 몹쓸 짓을 했어요, 그래도..."
 
 # game/code/d08/d08s13.rpy:101
 translate korean d08s13_bad_8600a4d6:
 
     # nk "But nothing. I trusted you, and you fucked me over. I'm not on the pill."
-    nk "그래도 아무것도 아니게 됐지. 난 널 믿었어, 그런데 넌 날 엿 먹였지. 피임약도 안 먹었는데 말야."
+    nk "그놈의 그래도는. 난 널 믿었는데 넌 날 엿 먹였어. 난 피임약도 안 먹고 있었는데 말이야."
 
 # game/code/d08/d08s13.rpy:103
 translate korean d08s13_bad_c7997e0b:
@@ -80,7 +80,7 @@ translate korean d08s13_bad_c7997e0b:
 translate korean d08s13_bad_3fb3a4f1:
 
     # nk "You didn't ask."
-    nk "묻지도 않았으면서."
+    nk "물어보지도 않았잖아."
 
 # game/code/d08/d08s13.rpy:107
 translate korean d08s13_bad_e3d6fe75:
@@ -98,19 +98,19 @@ translate korean d08s13_bad_956dc698:
 translate korean d08s13_bad_04b89c8c:
 
     # nk "You saw an opportunity to score some points and you took advantage of me."
-    nk "넌 날 점수 몇 점 딸 기회로 보고 날 이용한 거야."
+    nk "넌 날 그저 점수 몇 점 딸 기회로만 보고 이용한 거야."
 
 # game/code/d08/d08s13.rpy:111
 translate korean d08s13_bad_4df952bc:
 
     # mc "I wouldn't say..."
-    mc "할 말이..."
+    mc "전 그렇게까지는..."
 
 # game/code/d08/d08s13.rpy:114
 translate korean d08s13_bad_6fb0f751:
 
     # nk "Shut your fucking mouth.{w} Do you even remember what the first betrayal was?"
-    nk "병신 같은 주둥이 닥쳐.{w} 첫 번째 배신이 뭔지는 기억이나 해?"
+    nk "씨발 아가리 닥쳐.{w} 첫 번째 배신이 뭔지는 기억이나 해?"
 
 # game/code/d08/d08s13.rpy:116
 translate korean d08s13_bad_fca52711:
@@ -122,25 +122,25 @@ translate korean d08s13_bad_fca52711:
 translate korean d08s13_bad_a155200a:
 
     # nk "That's the one that Polly told me about. You know... my blind date."
-    nk "폴리가 나한테 말해 준 거니까, 너도 알겠지... 소개팅."
+    nk "폴리가 나한테 말해 준 거니까, 너도 알겠지... 내 소개팅."
 
 # game/code/d08/d08s13.rpy:121
 translate korean d08s13_bad_48e127d5:
 
     # nk "She told me that she had explicitly told you that I wasn't interested in her, so you schemed together to trick me into letting her have her way with me."
-    nk "폴리가 다 말해 줬어. 폴리는 내가 자기한테 관심이 없다는 걸 너한테 말했지. 그리고 너희 둘은 날 꾀어내서 폴리랑 엮기 위해 음모를 꾸몄고."
+    nk "폴리가 다 말해 줬어. 자기가 너한테 분명히 말했다더라, 내가 자기한테 관심 없다고. 그런데 너희 둘이 짜고 날 속여서 폴리가 날 마음대로 주무르게 만든 거잖아."
 
 # game/code/d08/d08s13.rpy:123
 translate korean d08s13_bad_924a0fba:
 
     # nk "In spite of all that, I'm going to do you a favor."
-    nk "이 모든 짓거리를 참고, 그건 봐주겠어."
+    nk "그 모든 일에도 불구하고, 네게 한 가지 호의를 베풀 거야."
 
 # game/code/d08/d08s13.rpy:124
 translate korean d08s13_bad_c17ef8ec:
 
     # mc "What's that?"
-    mc "그거라뇨?"
+    mc "호의라니요?"
 
 # game/code/d08/d08s13.rpy:125
 translate korean d08s13_bad_b80b0bdd:
@@ -158,19 +158,19 @@ translate korean d08s13_bad_da7eeebc:
 translate korean d08s13_bad_5b4dd44c:
 
     # nk "In fact... I'm not going to tell anyone else about any of this. Not for you, but because I don't want myself or my business associated with you."
-    nk "사실... 이 일에 관해선 누구한테도 말할 생각은 없어. 널 위해서가 아니야. 네가 나나 내 사업에 더 이상 바라지 않기 때문이야."
+    nk "사실... 이 일에 관해선 누구한테도 말할 생각은 없어. 널 위해서가 아니야. 나나 내 가게가 네놈이랑 엮이는 게 싫기 때문이야."
 
 # game/code/d08/d08s13.rpy:129
 translate korean d08s13_bad_8342f3c1:
 
     # nk "We're not friends. I don't trust you. I don't want to see you in here ever again."
-    nk "우린 친구 같은 것도 아냐. 난 널 믿을 수가 없어. 여기에서 다시는 보지 않길 바란다."
+    nk "우린 친구 같은 것도 아냐. 난 널 믿을 수가 없어. 다시는 여기 오지 마."
 
 # game/code/d08/d08s13.rpy:131
 translate korean d08s13_bad_4c6d584d:
 
     # mc "I can do that."
-    mc "그건 할 수 있어요."
+    mc "그렇게 할게요."
 
 # game/code/d08/d08s13.rpy:133
 translate korean d08s13_bad_4e037cfe:
@@ -200,7 +200,7 @@ translate korean d08s13_bad_d878b941:
 translate korean d08s13_bad_e9fdbe40:
 
     # nk "You creampied me without protection or pill. I'm sure I'm not pregnant, but I gotta ask... what if you had knocked me up?"
-    nk "넌 피임도 하지 않고 내 질에 쌌어. 내가 임신하진 않았다고 생각하지만, 이건 물어 봐야겠다... 네가 날 임신시킨 거면 어떻게 할 거야?"
+    nk "넌 피임도 안 하고 내 안에 쌌어. 임신하진 않은 것 같지만 물어나 보자... 내가 임신했으면 어떻게 했을 거야?"
 
 # game/code/d08/d08s13.rpy:142
 translate korean d08s13_bad_64e977d7:
@@ -212,7 +212,7 @@ translate korean d08s13_bad_64e977d7:
 translate korean d08s13_bad_725d55c4:
 
     # nk "Think about it now.{w} What if you had knocked me up?"
-    nk "지금 생각해.{w} 네가 날 임신시켰으면 어떻게 할 거야?"
+    nk "지금 생각해.{w} 내가 임신했으면 어떻게 했을 거냐고."
 
 # game/code/d08/d08s13.rpy:152
 translate korean d08s13_bad_056ae71d:
@@ -242,13 +242,13 @@ translate korean d08s13_bad_5630f8f2:
 translate korean d08s13_bad_d11f678e:
 
     # mc "Hey Polly, I guess..."
-    mc "안녕 폴리, 내 생각엔..."
+    mc "안녕, 폴리, 그게..."
 
 # game/code/d08/d08s13.rpy:169
 translate korean d08s13_bad_52318bd1:
 
     # pw "WHAT THE FUCK IS WRONG WITH YOU!?!?"
-    pw "씨발 자식아 넌 뭐가 문제야!?!?"
+    pw "씨발, 넌 도대체 뭐가 문제야!?!?"
 
 # game/code/d08/d08s13.rpy:170
 translate korean d08s13_bad_7e604e7b:
@@ -260,7 +260,7 @@ translate korean d08s13_bad_7e604e7b:
 translate korean d08s13_bad_4fe9e3d9:
 
     # pw "YOU RUINED EVERYTHING!!!"
-    pw "니가 전부 망쳤잖아!!!"
+    pw "네가 전부 망쳤잖아!!!"
 
 # game/code/d08/d08s13.rpy:175
 translate korean d08s13_bad_b2472b88:
@@ -272,7 +272,7 @@ translate korean d08s13_bad_b2472b88:
 translate korean d08s13_bad_ab25b77a:
 
     # pw "FUCK OFF! FUCK YOURSELF!! AND STAY THE FUCK AWAY FROM ME!!!"
-    pw "꺼져! 좆 까!! 그리고 나한테 다시는 가까이 오지 마 씨발!!!"
+    pw "꺼져! 꺼져 버리라고!! 그리고 씨발 내 근처엔 다신 얼씬도 하지 마!!!"
 
 # game/code/d08/d08s13.rpy:191
 translate korean d08s13_good_6e9977d0:
@@ -320,7 +320,7 @@ translate korean d08s13_good_ebd20eeb:
 translate korean d08s13_good_86607bf1:
 
     # mc "So, I guess we can just get down to business."
-    mc "그럼, 소개팅을 계속할 수 있겠네요."
+    mc "그럼 바로 본론으로 들어가면 되겠네요."
 
 # game/code/d08/d08s13.rpy:204
 translate korean d08s13_good_09c28ec4:
@@ -332,7 +332,7 @@ translate korean d08s13_good_09c28ec4:
 translate korean d08s13_good_168c14c0:
 
     # mc "If you want to... {w}Is everything alright? You seem kinda weird tonight."
-    mc "원하시면... {w}노라 전부 괜찮아요? 오늘 좀 이상해 보이시네요."
+    mc "원하시면... {w}노라, 괜찮아요? 오늘 좀 이상해 보이시네요."
 
 # game/code/d08/d08s13.rpy:206
 translate korean d08s13_good_459dc244:
@@ -350,7 +350,7 @@ translate korean d08s13_good_a70f0f27:
 translate korean d08s13_good_7062e275:
 
     # nk "You know what the third date means."
-    nk "세 번째 데이트가 무슨 의민지 너도 알잖아."
+    nk "세 번째 데이트가 무슨 의미인지 너도 알잖아."
 
 # game/code/d08/d08s13.rpy:213
 translate korean d08s13_good_0822e077:
@@ -386,7 +386,7 @@ translate korean d08s13_good_a31340dd:
 translate korean d08s13_good_75131eef:
 
     # nk "Yeah, you wouldn't believe some of the things..."
-    nk "그래, 그 앱에 관한 일 중엔 정말로 한다고 믿을 수 없을 정도의 일도 있어..."
+    nk "그래, 사람들이 그 앱 때문에 하는 짓을 들으면 믿지 못할걸..."
 
 # game/code/d08/d08s13.rpy:221
 translate korean d08s13_good_b2aba0e3:
@@ -404,13 +404,13 @@ translate korean d08s13_good_10f23c83:
 translate korean d08s13_good_3e1cb133:
 
     # mc "Did anyone try to..."
-    mc "누가 정말로..."
+    mc "누가 노라한테...?"
 
 # game/code/d08/d08s13.rpy:225
 translate korean d08s13_good_7d0f425e:
 
     # nk "That's how I found out about it. A couple of nerds asked if they could spank me for points."
-    nk "그래서 그 앱에 관해 알게 된 거야. 점수 때문에 나보고 자길 찰싹 쳐 달라고 한 덕후 같은 애들만 둘은 있었다니까."
+    nk "그래서 알게 됐지. 웬 덕후 같은 애 둘이 오더니, 점수 좀 벌겠다고 내 엉덩이 좀 때려도 되겠냐고 묻더라."
 
 # game/code/d08/d08s13.rpy:226
 translate korean d08s13_good_43393439:
@@ -422,25 +422,25 @@ translate korean d08s13_good_43393439:
 translate korean d08s13_good_f0d1939d:
 
     # nk "I didn't even consider it. I was too busy to think about that kinda thing."
-    nk "생각도 안 해 봤어. 그런 일 생각하기엔 너무 바빴으니까."
+    nk "고민도 안 해 봤어. 그런 거 생각하기엔 너무 바빴으니까."
 
 # game/code/d08/d08s13.rpy:228
 translate korean d08s13_good_3717aeb9:
 
     # mc "Probably wouldn't be too good for business."
-    mc "그런 일로 붐비는 게 사업에 좋지는 않겠네요."
+    mc "손님이 주인을 때리는 건 장사에 별로 좋지 않긴 하겠네요."
 
 # game/code/d08/d08s13.rpy:231
 translate korean d08s13_good_eefe5415:
 
     # nk "That too.{w} Today I found a girl trying to suck off a guy at one of the tables."
-    nk "그것도 문제지.{w} 오늘은 자리 중 하나에서 여자애가 남자애를 빨려고 하는 것까지 봤다니까."
+    nk "그것도 문제지.{w} 오늘은 테이블 중 하나에서 여자애가 남자애를 빨려고 하는 것까지 봤다니까."
 
 # game/code/d08/d08s13.rpy:233
 translate korean d08s13_good_f7800da2:
 
     # mc "Seriously? These tables wouldn't hide anything."
-    mc "정말로요? 여기 자리에선 뭐 가릴 수 있는 것도 없잖아요."
+    mc "정말로요? 여기 테이블에선 가릴 수 있는 것도 없잖아요."
 
 # game/code/d08/d08s13.rpy:234
 translate korean d08s13_good_99f74c0b:
@@ -458,13 +458,13 @@ translate korean d08s13_good_41b5f399:
 translate korean d08s13_good_63c777b1:
 
     # nk "There must have been five couples that snuck into the bathroom together today."
-    nk "오늘 화장실에 숨어들려고 한 연인만 다섯은 될 거야."
+    nk "화장실로 숨어든 커플만 다섯 쌍은 될 거야."
 
 # game/code/d08/d08s13.rpy:237
 translate korean d08s13_good_83dbd5f3:
 
     # mc "What's the point of that? The meter high club?"
-    mc "왜 그런 걸까요? 화장실이 좋은 건가?"
+    mc "대체 왜 그런 걸까요? 지상 1미터 화장실 클럽이라도 만들 생각인가?"
 
 # game/code/d08/d08s13.rpy:241
 translate korean d08s13_good_acfeceaa:
@@ -506,7 +506,7 @@ translate korean d08s13_good_3a6ba69b:
 translate korean d08s13_good_15d65548:
 
     # mc "Not like that, as far as I know, but I am supposed to tie you up a little."
-    mc "그렇진 않을 거예요. 제가 아는 한 말이에요. 그래도 노라를 약간 묶어야겠네요."
+    mc "제가 알기로는 그런 의미가 아니지만, 오늘은 노라를 조금 묶어야 해요."
 
 # game/code/d08/d08s13.rpy:262
 translate korean d08s13_good_9e7f8494:
@@ -518,7 +518,7 @@ translate korean d08s13_good_9e7f8494:
 translate korean d08s13_good_b5c49d2a:
 
     # mc "Alright, I'm just going to bind your arms behind your back, if that's okay with you."
-    mc "좋아요, 팔을 등 뒤에 놓고 묶을 거예요. 노라가 괜찮다면요."
+    mc "좋아요, 두 팔을 등 뒤로 해서 묶을게요. 노라가 괜찮다면요."
 
 # game/code/d08/d08s13.rpy:264
 translate korean d08s13_good_09e15fe8:
@@ -566,7 +566,7 @@ translate korean d08s13_good_5fd0c4b2:
 translate korean d08s13_good_f5ec0da6:
 
     # mc "Sounds like a story I'd like to hear sometime. Any questions or concerns before we get started."
-    mc "언젠가 그거에 관한 이야기를 듣고 싶네요. 시작하기 전에 궁금한 거나 걱정되는 거 있어요."
+    mc "언젠가 그거에 관한 이야기를 듣고 싶네요. 시작하기 전에 궁금한 거나 걱정되는 거 있어요?"
 
 # game/code/d08/d08s13.rpy:280
 translate korean d08s13_good_bd03378a:
@@ -578,7 +578,7 @@ translate korean d08s13_good_bd03378a:
 translate korean d08s13_good_8fbf7722:
 
     # mc "Nope. Never have been."
-    mc "아니에요. 전에도 그렇고 지금도 그렇구요."
+    mc "아니에요. 전에도 아니었고 지금도 아니고요."
 
 # game/code/d08/d08s13.rpy:283
 translate korean d08s13_good_9302c712:
@@ -590,7 +590,7 @@ translate korean d08s13_good_9302c712:
 translate korean d08s13_good_379def79:
 
     # mc "Nope. You'll remain blindfolded... as far as I know."
-    mc "아뇨. 안대를 쓰고 있을 거예요... 제가 아는 한 말이죠."
+    mc "아뇨. 노라는 안대를 쓰게 될 거예요... 제가 아는 한 말이죠."
 
 # game/code/d08/d08s13.rpy:285
 translate korean d08s13_good_7445519d:
@@ -602,19 +602,19 @@ translate korean d08s13_good_7445519d:
 translate korean d08s13_good_8a3cc682:
 
     # mc "I will definitely mention it, but only if it seems relevant."
-    mc "확실히 전달해 두죠. 그런 일이 일어나는 경우에만요."
+    mc "확실히 전달해 두죠. 성관계까지 갈 것 같으면 꼭 말할게요."
 
 # game/code/d08/d08s13.rpy:291
 translate korean d08s13_good_efe5def7:
 
     # nk "You don't think..."
-    nk "그럴 일 전혀 없을 거란 말투네..."
+    nk "너 설마..."
 
 # game/code/d08/d08s13.rpy:292
 translate korean d08s13_good_88aff48a:
 
     # mc "Third date might be traditional, but your blind dates aren't very traditional."
-    mc "세 번째 데이트에서 벌어지는 일은 전통적이라고 할 수 있지만, 노라의 상대는 아주 전통적이진 않은 사람이라서요."
+    mc "흔히 세 번째 데이트에 섹스한다고는 하지만, 노라의 소개팅들은 평범한 데이트가 아니잖아요."
 
 # game/code/d08/d08s13.rpy:293
 translate korean d08s13_good_a135b623:
@@ -638,19 +638,19 @@ translate korean d08s13_good_bb23bfe6:
 translate korean d08s13_good_7c4609ae:
 
     # mc "Alright, I'm going to blindfold you now."
-    mc "어쨌든, 이제 노라에게 안대를 할 게요."
+    mc "어쨌든, 이제 안대를 씌울게요."
 
 # game/code/d08/d08s13.rpy:300
 translate korean d08s13_good_b707cc0d:
 
     # nk "I trust you."
-    nk "믿고 있으니까."
+    nk "널 믿어."
 
 # game/code/d08/d08s13.rpy:303
 translate korean d08s13_good_2f02183f:
 
     # nk "Oh! If I can't speak, my safe word is three grunts in a row."
-    nk "아! 내가 말할 수 없으면, 내 안전어는 연속으로 세 번 앓는 소리야."
+    nk "아! 말을 못 할 때는 연달아 세 번 끙끙거리는 게 내 안전 신호야."
 
 # game/code/d08/d08s13.rpy:305
 translate korean d08s13_good_5fb021fa:
@@ -662,25 +662,25 @@ translate korean d08s13_good_5fb021fa:
 translate korean d08s13_good_4938d1ff:
 
     # nk "Well, you know, if I'm gagged or gagging..."
-    nk "음, 그러니까, 나한테 재갈이 물리거나..."
+    nk "음, 그러니까, 재갈이 물리거나 목이 막혀 말을 못 할 수도 있으니까..."
 
 # game/code/d08/d08s13.rpy:308
 translate korean d08s13_good_ad394c00:
 
     # mc "I can imagine. Let me just signal your date."
-    mc "상상이 되네요. 노라 데이트 상대한테 알려 두죠."
+    mc "상상이 되네요. 노라의 데이트 상대에게 신호를 보낼게요."
 
 # game/code/d08/d08s13.rpy:316
 translate korean d08s13_good_deeb53d4:
 
     # nk "[mcname]? Is anyone there?"
-    nk "[mcname]? 누구 거기에 있어?"
+    nk "[mcname]? 거기에 누구 있어?"
 
 # game/code/d08/d08s13.rpy:319
 translate korean d08s13_good_c36ee90c:
 
     # mc "I'm still here, and so is your date."
-    mc "저 여기에 있어요, 그리고 노라의 상대두요."
+    mc "저 여기에 있어요, 그리고 데이트 상대도 여기에 있고요."
 
 # game/code/d08/d08s13.rpy:320
 translate korean d08s13_good_4a005e06:
@@ -698,7 +698,7 @@ translate korean d08s13_good_12d74fb8:
 translate korean d08s13_good_1b63aa25:
 
     # nk "You're driving me wild. Please..."
-    nk "당신은 날 미치게 만들어. 제발..."
+    nk "넌 날 미치게 만들어. 제발..."
 
 # game/code/d08/d08s13.rpy:336
 translate korean d08s13_good_510fdab2:
@@ -716,37 +716,37 @@ translate korean d08s13_good_697a07cf:
 translate korean d08s13_good_093552f8:
 
     # nk "Please let me do something for you this time."
-    nk "제발 이번엔 내가 뭐라고 하게 해 줘."
+    nk "제발 이번에는 내가 뭐라도 보답하게 해 줘."
 
 # game/code/d08/d08s13.rpy:351
 translate korean d08s13_good_bb32039b:
 
     # nk "Please... please let me suck your cock."
-    nk "제발... 제발 당신 자지를 빨게 해 줘."
+    nk "제발... 제발 네 자지를 빨게 해 줘."
 
 # game/code/d08/d08s13.rpy:352
 translate korean d08s13_good_4740d846:
 
     # nk "I want it. Please. You must be hard by now."
-    nk "그러고 싶어. 제발. 당신도 지금 분명히 섰잖아."
+    nk "그러고 싶어. 제발. 너도 지금 분명히 섰잖아."
 
 # game/code/d08/d08s13.rpy:355
 translate korean d08s13_good_522cbe58:
 
     # mct "Damn... I'm hard right now and I'm not even the one touching her."
-    mct "젠장... 난 지금 섰는데. 만지고 있는 건 내가 아니니."
+    mct "젠장... 난 손도 대지 않고 있는데 벌써 서 버렸어."
 
 # game/code/d08/d08s13.rpy:359
 translate korean d08s13_good_07276dd3:
 
     # nk "I want to suck your hard massive throbbing dick."
-    nk "당신의 단단하고 육중하고 고동치는 좆을 빨고 싶어."
+    nk "너의 단단하고 거대하고 고동치는 좆을 빨고 싶어."
 
 # game/code/d08/d08s13.rpy:361
 translate korean d08s13_good_bdbbc247:
 
     # nk "Mmmm yes, I want to feel it. Please please fuck my throat."
-    nk "으으으음 맞아, 당신 좆을 느끼고 싶어. 제발 부탁이니까 내 목까지 박아 줘."
+    nk "으으으음 맞아, 네 좆을 느끼고 싶어. 제발 부탁이니까 내 목까지 박아 줘."
 
 # game/code/d08/d08s13.rpy:363
 translate korean d08s13_good_77e51390:
@@ -758,7 +758,7 @@ translate korean d08s13_good_77e51390:
 translate korean d08s13_good_0ee8a712:
 
     # mc "Nora, I don't think your blind date is ready to receive oral from you just yet."
-    mc "노라, 상대방이 지금은 입에 넣은 준비가 되지 않은 거 같네요."
+    mc "노라, 소개팅 상대는 아직 구강 성교를 받아 줄 준비가 안 된 것 같네요."
 
 # game/code/d08/d08s13.rpy:368
 translate korean d08s13_good_7135ef2e:
@@ -782,7 +782,7 @@ translate korean d08s13_good_f806ffa2:
 translate korean d08s13_good_b02f0623:
 
     # nk "Okay. If that's what you want."
-    nk "좋아. 그게 너희가 원하는 거라면."
+    nk "좋아. 내 상대가 원하는 게 그거라면."
 
 # game/code/d08/d08s13.rpy:383
 translate korean d08s13_good_579399f5:
@@ -806,7 +806,7 @@ translate korean d08s13_good_bc4f7606:
 translate korean d08s13_good_4bcbfe2b:
 
     # mc "I'm right here. My penis is just in front of your face... if you want it."
-    mc "저 바로 여기에 있어요. 제 음경은 노라 얼굴 바로 앞에 딱 있구요... 노라가 원했던 거라면 좋겠네요."
+    mc "저 바로 앞에 있어요. 제 성기가 노라 얼굴 바로 앞에 있는데... 원하신다면요."
 
 # game/code/d08/d08s13.rpy:390
 translate korean d08s13_good_6b30a806:
@@ -848,7 +848,7 @@ translate korean d08s13_good_95c7633a:
 translate korean d08s13_good_73f940e7:
 
     # nk "I feel tits against my back! {w}She's a woman?"
-    nk "내 등에서 가슴이 느껴졌어! {w}내 상대가 여자야?"
+    nk "내 등에서 가슴이 느껴져! {w}여자였어?"
 
 # game/code/d08/d08s13.rpy:424
 translate korean d08s13_good_a8f56c49:
@@ -896,7 +896,7 @@ translate korean d08s13_good_6711bd1e:
 translate korean d08s13_good_eeaa4545:
 
     # nk "Yes! Fuck my face like the dirty trickster you both are."
-    nk "그래! 내 얼굴을 박아서 너희가 얼마나 추잡한지 나한테 보여 줘."
+    nk "그래! 이 음탕한 장난꾸러기 두 녀석아, 내 얼굴을 마구 박아 줘."
 
 # game/code/d08/d08s13.rpy:472
 translate korean d08s13_good_ef1a7cbb:
@@ -962,7 +962,7 @@ translate korean d08s13_good_a39054f1:
 translate korean d08s13_good_77c7f2a3:
 
     # nk "You're telling me."
-    nk "나도 그래."
+    nk "말도 마, 진짜 좋았어."
 
 # game/code/d08/d08s13.rpy:504
 translate korean d08s13_good_af6eb2f7:
@@ -980,7 +980,7 @@ translate korean d08s13_good_ca232e4f:
 translate korean d08s13_good_073b2c04:
 
     # nk "No, I mean. You came; I came; but she didn't..."
-    nk "아니, 내 말은. 너도 갔고, 나도 갔어, 그런데 그녀는 못..."
+    nk "아니, 내 말은. 너도 쌌고, 나도 갔어, 그런데 걘 못..."
 
 # game/code/d08/d08s13.rpy:510
 translate korean d08s13_good_a6c45db0:
@@ -992,13 +992,13 @@ translate korean d08s13_good_a6c45db0:
 translate korean d08s13_good_38370fbd:
 
     # nk "Oh, okay.{w} It was lovely meeting you!"
-    nk "아, 좋아.{w} 만나서 정말 좋았어요!"
+    nk "아, 좋아.{w} 만나서 정말 즐거웠어!"
 
 # game/code/d08/d08s13.rpy:514
 translate korean d08s13_good_90e17638:
 
     # mc "Alright, I guess I can remove your bindings and blindfold now."
-    mc "좋아요, 이제 수갑도 풀고 안대도 풀죠."
+    mc "좋아요, 이제 묶은 것도 풀고 안대도 벗겨 줄게요."
 
 # game/code/d08/d08s13.rpy:517
 translate korean d08s13_good_41836f1c:
@@ -1010,13 +1010,13 @@ translate korean d08s13_good_41836f1c:
 translate korean d08s13_good_59f0b332:
 
     # nk "I want to imagine that she's still here... and maybe she still wants to do things to me."
-    nk "내 상대가 아직 여기에 있다고 상상하고 싶은데... 그리고 내 상대도 여전히 나한테 그런 짓을 하고 싶어한다고 말야."
+    nk "내 상대가 아직 여기에 있다고 상상하고 싶은데... 그리고 내 상대도 여전히 나한테 그런 짓을 하고 싶어 한다고 말이야."
 
 # game/code/d08/d08s13.rpy:520
 translate korean d08s13_good_5c121301:
 
     # mc "Dirty girl."
-    mc "추잡하시긴."
+    mc "음탕하시긴."
 
 # game/code/d08/d08s13.rpy:523
 translate korean d08s13_good_fdeff862:
@@ -1028,7 +1028,7 @@ translate korean d08s13_good_fdeff862:
 translate korean d08s13_good_bc666b09:
 
     # mc "Anytime."
-    mc "천만해요."
+    mc "천만에요."
 
 # game/code/d08/d08s13.rpy:527
 translate korean d08s13_good_e34099e6:
@@ -1088,7 +1088,7 @@ translate korean d08s13_good_43610b8c:
 translate korean d08s13_good_6ca743fc:
 
     # mct "Wtf? I didn't make any pictures and got points! How is this fucking possible?!"
-    mct "뭐야 씨? 사진도 없이 점수를 받았다고! 씨발 이게 어떻게 가능한 거야?!"
+    mct "뭐야, 씨발? 사진도 찍지 않았는데 점수를 받았어! 이게 어떻게 가능한 거야?!"
 
 # game/code/d08/d08s13.rpy:558
 translate korean d08s13_good_bdd863d8:
