@@ -2,7 +2,7 @@
 translate korean d09s01_2910aaa3:
 
     # "Tuesday. Day-9."
-    "화요일. 9일차."
+    "화요일. 9일 차."
 
 # game/code/d09/d09s01.rpy:12
 translate korean d09s01_74bc0fd8:
@@ -14,31 +14,31 @@ translate korean d09s01_74bc0fd8:
 translate korean d09s01_0c6c2c41:
 
     # mc "Not really. I kept having that dream where I'm taking a shower in a room with no drain..."
-    mc "아니. 배수구 없는 화장실에서 샤워하는 꿈을 꿨어..."
+    mc "아니. 배수구가 없는 방에서 샤워하는 꿈을 계속 꿨어..."
 
 # game/code/d09/d09s01.rpy:14
 translate korean d09s01_9723e90b:
 
     # mc "So, the room keeps filling up with water and I can't shut off the shower..."
-    mc "그리고 화장실에 물로 차기 시작했지. 난 샤워기를 끌 수가 없었어..."
+    mc "그래서 방에는 물이 계속 차오르는데 샤워기를 잠글 수가 없었어..."
 
 # game/code/d09/d09s01.rpy:15
 translate korean d09s01_1aa24ed9:
 
     # mc "I scrub myself as clean as possible hoping that will appease whatever put me in this situation..."
-    mc "난 날 이런 상황에 집어넣은 존재를 달래기 바라면서 내 몸을 가능한 깨끗하게 문질렀지만..."
+    mc "날 이런 상황에 가둔 존재를 달랠 수 있길 바라며 될 수 있는 한 꼼꼼하게 몸을 문질렀지만..."
 
 # game/code/d09/d09s01.rpy:16
 translate korean d09s01_a58d4994:
 
     # mc "But before I know it I'm floating in a room filled with water and trying to take a few last gasps of air before..."
-    mc "방엔 물이 찼고 내 몸은 떠올랐어. 마지막으로 숨을 들이마실려고 한 순간..."
+    mc "어느새 물로 가득 찬 방에 둥둥 뜬 채로, 마지막 숨을 몰아쉬려고 애쓰다가..."
 
 # game/code/d09/d09s01.rpy:17
 translate korean d09s01_51ab4180:
 
     # mc "Well, before I wake up."
-    mc "흠, 잠에서 깼군."
+    mc "뭐, 그러기 전에 잠에서 깼지만."
 
 # game/code/d09/d09s01.rpy:21
 translate korean d09s01_efd0d0f9:
@@ -50,7 +50,7 @@ translate korean d09s01_efd0d0f9:
 translate korean d09s01_4cf2d1b7:
 
     # mc "On the other hand, Pete's afk... Now's as good a time as any."
-    mc "그래도, 피트가 키보드 앞에 없으니... 좋은 기회로군."
+    mc "그건 그렇고, 피트도 자리를 비웠으니... 지금이 딱 좋은 기회지."
 
 # game/code/d09/d09s01.rpy:25
 translate korean d09s01_412b3d09:
@@ -68,13 +68,13 @@ translate korean d09s01_2858cd33:
 translate korean d09s01_743fdfa8:
 
     # mct "Ah ha! Let's try LancasterBH!"
-    mct "아 하! 랭커스터BH를 해 보자!"
+    mct "아하! 랭커스터BH를 해 보자!"
 
 # game/code/d09/d09s01.rpy:32
 translate korean d09s01_3bfe6a37:
 
     # mct "I know of Lancaster, PA and Lancaster, CA."
-    mct "팬실베이니아 주의 랭커스터랑 캘리포니아 주의 랭커스터는 아는데."
+    mct "펜실베이니아 주의 랭커스터랑 캘리포니아 주의 랭커스터는 아는데."
 
 # game/code/d09/d09s01.rpy:33
 translate korean d09s01_f2e53af5:
@@ -86,43 +86,43 @@ translate korean d09s01_f2e53af5:
 translate korean d09s01_0246bcf5:
 
     # mct "And.{w}.. No access."
-    mct "그리고.{w}.. 접근 불가."
+    mct "결과는.{w}.. 접근 불가."
 
 # game/code/d09/d09s01.rpy:38
 translate korean d09s01_f2b9703f:
 
     # mct "Alright, let's get back to my usual morning rituals."
-    mct "좋았어, 평상시 아침으로 돌아가자."
+    mct "좋았어, 평소 아침 일과로 돌아가자."
 
 # game/code/d09/d09s01.rpy:42
 translate korean d09s01_9f7ad367:
 
     # mct "Ugh. I got some text messages last night."
-    mct "어. 어젯밤에 문자가 왔었네."
+    mct "으. 어젯밤에 문자가 와 있었네."
 
 # game/code/d09/d09s01.rpy:43
 translate korean d09s01_bf31a3de:
 
     # mct "From Min? Why would Min be blowing up my phone in the middle of the night?"
-    mct "민한테? 한밤중에 문자로 폰을 날려버리고 싶었던 건가?"
+    mct "민한테? 민이 왜 한밤중에 문자를 잔뜩 보낸 거지?"
 
 # game/code/d09/d09s01.rpy:44
 translate korean d09s01_a9fa17ce:
 
     # mct "OH! It's yesterday's photos from Squizzle."
-    mct "아! 어제 스퀴즐한테 사진이 온 거구만."
+    mct "아! 스퀴즐이 어제 찍은 사진들이구나."
 
 # game/code/d09/d09s01.rpy:56
 translate korean d09s01_df8f884d:
 
     # mct "Nothing like some pee play pics to start my day."
-    mct "오줌을 마시는 사진만큼 아침을 시작하기 좋은 것도 없지."
+    mct "하루를 시작하는 데 오줌을 즐기는 사진만 한 것도 없지."
 
 # game/code/d09/d09s01.rpy:57
 translate korean d09s01_c9e46179:
 
     # mct "That was hot."
-    mct "핫 한데."
+    mct "핫한데."
 
 # game/code/d09/d09s01.rpy:61
 translate korean d09s01_428e0f7d:
@@ -170,7 +170,7 @@ translate korean d09s01_082cc492:
 translate korean d09s01_9e35d5dd:
 
     # mct "You would think that I..."
-    mct "이런 생각을 하고 있으니 내가..."
+    mct "남들이 들으면 내가..."
 
 # game/code/d09/d09s01.rpy:77
 translate korean d09s01_062d5495:
@@ -182,7 +182,7 @@ translate korean d09s01_062d5495:
 translate korean d09s01_c09274c3:
 
     # mct "Quick quick quick... remember... what did I say?"
-    mct "어서 어서 어서... 떠올려... 무슨 말을 한 거냐, 나?"
+    mct "어서 어서 어서... 떠올려... 내가 무슨 말을 했더라?"
 
 # game/code/d09/d09s01.rpy:81
 translate korean d09s01_ec754de8:
@@ -194,7 +194,7 @@ translate korean d09s01_ec754de8:
 translate korean d09s01_843da6c1:
 
     # mct "Fuck. I think I fell asleep on the phone last night telling Lydia sex stories about my ex-girlfriend."
-    mct "씨발. 리디아한테 내 전 여친이랑 어떻게 섹스를 했었다는 이야기를 하다가 잠에 든 것 같은데."
+    mct "씨발. 어젯밤에 리디아한테 전 여친이랑 떡친 썰 풀다가 통화 중에 잠든 것 같은데."
 
 # game/code/d09/d09s01.rpy:83
 translate korean d09s01_24404a72:
@@ -206,29 +206,29 @@ translate korean d09s01_24404a72:
 translate korean d09s01_24c9d171:
 
     # mct "But first things first. Stacy's luggage."
-    mct "그래도 먼저 할 일이 있잖아. 스테이시의 짐을 찾아야지."
+    mct "하지만 우선 급한 일부터. 스테이시의 짐이 문제니까."
 
 # game/code/d09/d09s01.rpy:86
 translate korean d09s01_02f62bc7:
 
     # mct "I need to go this place, that Samiya sent me. Let's hope she is more reasonable than what others think about her."
-    mct "사미야가 보낸 주소로 가야 돼. 다른 사람들이 말하는 것보단 합리적인 애이길 바라자."
+    mct "사미야가 보낸 장소로 가야겠어. 소문보다는 말이 통하는 애이길 바라야지."
 
 # game/code/d09/d09s01.rpy:88
 translate korean d09s01_61e6906b:
 
     # mct "It's weird. I've fucked...how many chicks now? But something about actually paying for sex, let alone paying {i}this{/i} much, is... odd."
-    mct "어색한데. 내가... 지금까지 몇 명이랑 떡을 친 거지? 이만큼 돈을 낸다는 건 차치하고 섹스를 하려고 돈을 내는 거 자체가... 이상한데."
+    mct "기분 묘하네. 내가 지금까지 몇 명이랑 잤더라? 근데 진짜 돈 주고 섹스를 한다는 건, 그것도 {i}이런 거액{/i}을 주고 하는 건... 기분이 참 묘해."
 
 # game/code/d09/d09s01.rpy:89
 translate korean d09s01_df2d2a72:
 
     # mct "I'm kinda looking forward to it I think."
-    mct "왠지 기대가 되는 걸."
+    mct "왠지 기대가 되는걸."
 
 # game/code/d09/d09s01.rpy:90
 translate korean d09s01_4bb6af1f:
 
     # mct "I just hope she doesn't shank me or something the moment I bring up the luggage."
-    mct "짐을 찾으러 왔다고 정강이든 뭐든 차려고 들진 않겠지."
+    mct "짐 얘기 꺼내자마자 칼빵이나 놓지 않았으면 좋겠는데."
 
