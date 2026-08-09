@@ -26,7 +26,7 @@ translate korean d09s03_08eb0f14:
 translate korean d09s03_a509486c:
 
     # mc "Not really. I don't really-"
-    mc "사실은 반대야. 사실은-"
+    mc "그런 꿈은 아니었어. 내가 꾼 건-"
 
 # game/code/d09/d09s03.rpy:67
 translate korean d09s03_016c8c89:
@@ -44,7 +44,7 @@ translate korean d09s03_3d716781:
 translate korean d09s03_8b2b7759:
 
     # lc "Oh. The one where dozens of scary clowns are standing over you and-"
-    lc "아. 열두 명은 되는 무서운 광대가 널 지켜보고 있고-"
+    lc "아. 수십 명은 되는 무서운 광대가 널 지켜보고 있고-"
 
 # game/code/d09/d09s03.rpy:75
 translate korean d09s03_865c1f30:
@@ -62,7 +62,7 @@ translate korean d09s03_c0f38968:
 translate korean d09s03_d81e1343:
 
     # mc "I don't think I've ever had that one."
-    mc "그런 건 상상해 본 적도 없네."
+    mc "그런 꿈은 한 번도 꿔 본 적이 없는 것 같아."
 
 # game/code/d09/d09s03.rpy:80
 translate korean d09s03_50e522dc:
@@ -74,13 +74,13 @@ translate korean d09s03_50e522dc:
 translate korean d09s03_b4b69a4f:
 
     # "After an exceptionally pleasant meal."
-    "매우 맛있는 식사가 끝난 뒤."
+    "유난히 즐거운 식사를 마친 뒤."
 
 # game/code/d09/d09s03.rpy:88
 translate korean d09s03_6dfc0e82:
 
     # mc "That was delicious. Thank you."
-    mc "맛있는데. 고마워."
+    mc "정말 맛있었어. 고마워."
 
 # game/code/d09/d09s03.rpy:91
 translate korean d09s03_a4e5a95b:
@@ -92,7 +92,7 @@ translate korean d09s03_a4e5a95b:
 translate korean d09s03_1e1ddf9c:
 
     # mc "The aperitif?"
-    mc "어페러티프?"
+    mc "아페리티프?"
 
 # game/code/d09/d09s03.rpy:93
 translate korean d09s03_70ee68e3:
@@ -110,7 +110,7 @@ translate korean d09s03_b6a9d851:
 translate korean d09s03_b20b1ceb:
 
     # lc "An aperitif is the drink before a meal. The digestif is after the meal."
-    lc "어페러티프는 식전 술. 디제스티프는 식후 술."
+    lc "아페리티프는 식전 술. 디제스티프는 식후 술."
 
 # game/code/d09/d09s03.rpy:98
 translate korean d09s03_7143842f:
@@ -122,7 +122,7 @@ translate korean d09s03_7143842f:
 translate korean d09s03_153c4d71:
 
     # lc "Well, there are some benefits to having wealthy and famous parents."
-    lc "음, 부자에 유명한 부모님을 둔 이점이라고 할까."
+    lc "음, 부유하고 유명한 부모님을 둔 이점이라고 할까."
 
 # game/code/d09/d09s03.rpy:103
 translate korean d09s03_8110a01d:
@@ -134,49 +134,49 @@ translate korean d09s03_8110a01d:
 translate korean d09s03_7c75e95b:
 
     # lc "They're wealthy. I'm just a useless trust fund kiddie until I make a name for myself."
-    lc "부모님이 부자인 거야. 난 그저 쓸모없는 신탁 자금 꼬맹이지. 나 스스로 유명해지기 전까진 말야."
+    lc "부모님이 부자인 거야. 난 그저 쓸모없는 금수저 철부지지. 나 스스로 유명해지기 전까진 말야."
 
 # game/code/d09/d09s03.rpy:109
 translate korean d09s03_2d0ecf0e:
 
     # mc "From the way business is going at that coffee shop after one appearance from you, I'd say you are well on your way."
-    mc "네가 공연한 후 커피숍의 사업이 어떻게 되었는지 생각하면, 너도 곧 유명해질 것 같은데."
+    mc "네가 한 번 공연한 다음부터 커피숍 장사가 잘되는 걸 보면, 너도 곧 유명해질 것 같은데."
 
 # game/code/d09/d09s03.rpy:112
 translate korean d09s03_4c416ddd:
 
     # lc "You think so? {w}I keep thinking back on it and feeling embarrassed."
-    lc "그렇게 생각해? {w}난 공연할 때를 다시 생각하면 계속 부끄러워서."
+    lc "그렇게 생각해? {w}난 그 공연이 계속 다시 떠올라. 그리고 그럴 때마다 창피하고."
 
 # game/code/d09/d09s03.rpy:113
 translate korean d09s03_f4314603:
 
     # mc "Embarrassed? You were phenomenal!"
-    mc "부끄럽다구? 넌 놀라웠어!"
+    mc "창피하다고? 넌 놀라웠어!"
 
 # game/code/d09/d09s03.rpy:115
 translate korean d09s03_11a5f90e:
 
     # lc "I sang a half-assed song that I just kinda tossed together on the spot."
-    lc "그 자리에서 내가 부른 노래라고 해 봐야 엉성하게 만든 노래가 다였는 걸."
+    lc "난 그 자리에서 대충 즉석으로 만든 엉성한 노래 하나를 불렀을 뿐인걸."
 
 # game/code/d09/d09s03.rpy:117
 translate korean d09s03_34344b45:
 
     # lc "But at least it convinced me of something."
-    lc "그래도 배운 게 있긴해."
+    lc "그래도 그 일 덕분에 한 가지는 확실해졌어."
 
 # game/code/d09/d09s03.rpy:119
 translate korean d09s03_c17ef8ec:
 
     # mc "What's that?"
-    mc "뭔데?"
+    mc "그게 뭔데?"
 
 # game/code/d09/d09s03.rpy:121
 translate korean d09s03_369cfb49:
 
     # lc "I need to write my own music and sing my own songs."
-    lc "내가 만든 노래를 불러야 한다는 거."
+    lc "직접 내 노래를 쓰고, 내 자신의 노래를 불러야 한다는 거."
 
 # game/code/d09/d09s03.rpy:123
 translate korean d09s03_85d475fe:
@@ -200,7 +200,7 @@ translate korean d09s03_a3ce470e:
 translate korean d09s03_607f7c5b:
 
     # lc "Excusez-moi, je dois poudrer mon nez."
-    lc "엑스큐제-무아, 저 돠 뿌드레 몬 네."
+    lc "엑스퀴제 무아, 주 두아 푸드레 몽 네."
 
 # game/code/d09/d09s03.rpy:134
 translate korean d09s03_05500ff6:
@@ -212,25 +212,25 @@ translate korean d09s03_05500ff6:
 translate korean d09s03_3a0d12d2:
 
     # lc "The digestif is catching up to me. I must visit the refresher."
-    lc "식후 주 때문인지 취기가 오네. 기분이 나아질 곳을 찾아가야겠어."
+    lc "식후주 때문에 취기가 올라오네. 기분 전환 좀 하고 와야겠어."
 
 # game/code/d09/d09s03.rpy:138
 translate korean d09s03_22e6d123:
 
     # mc "Oh, the bathroom."
-    mc "아, 화장실 말이구나."
+    mc "아, 화장실 다녀온다는 거구나."
 
 # game/code/d09/d09s03.rpy:140
 translate korean d09s03_dc175f2e:
 
     # lc "Exactly monsieur. I must make with the tinkle."
-    lc "정확해 무슈. 물방울 소리가 울리도록 해야겠어."
+    lc "정확해요, 무슈. 쉬야를 하고 와야겠어요."
 
 # game/code/d09/d09s03.rpy:143
 translate korean d09s03_fda4f6a7:
 
     # mc "*chuckle* Have fun."
-    mc "*방긋* 좋은 시간 보내."
+    mc "*피식* 잘 다녀와."
 
 # game/code/d09/d09s03.rpy:147
 translate korean d09s03_bf0ad310:
@@ -314,7 +314,7 @@ translate korean d09s03_4fcf5f4f:
 translate korean d09s03_c42b05ac:
 
     # mc "And?"
-    mc "그래서 넌 왜 왔는데?"
+    mc "그래서?"
 
 # game/code/d09/d09s03.rpy:191
 translate korean d09s03_042a5cd1:
@@ -350,7 +350,7 @@ translate korean d09s03_47fc2d1f:
 translate korean d09s03_e24f98aa:
 
     # arj "I'm sorry. I'm sorry. I don't mean to be crazy. It's just..."
-    arj "미안해. 미안해. 내가 정말 정신이 나갔다는 게 아니라. 그냥..."
+    arj "미안해. 미안해. 미친 사람처럼 굴려던 건 아니야. 그냥..."
 
 # game/code/d09/d09s03.rpy:203
 translate korean d09s03_66b8bdb1:
@@ -362,13 +362,13 @@ translate korean d09s03_66b8bdb1:
 translate korean d09s03_76924a7f:
 
     # arj "The rational part of me says to leave it alone and let you two do your thing..."
-    arj "내 이성적인 부분은 너희들이 알아서 하도록 내버려 두라곤 했어..."
+    arj "내 이성적인 부분은 너희 일은 너희끼리 하게 내버려 두라고 했어..."
 
 # game/code/d09/d09s03.rpy:205
 translate korean d09s03_c2101aa4:
 
     # arj "... that your thing doesn't have anything to do with our thing..."
-    arj "... 우리 일과 상관 없은 너희 둘이서 할 수 있는 일을 하도록 말야..."
+    arj "... 너희 관계는 우리 관계와 아무 상관 없다고 말하지..."
 
 # game/code/d09/d09s03.rpy:208
 translate korean d09s03_432c03c4:
@@ -380,7 +380,7 @@ translate korean d09s03_432c03c4:
 translate korean d09s03_6df11091:
 
     # arj "... the rational part of me isn't running the shop right now."
-    arj "... 내 이성적인 부분이 내 몸을 지배하고 있는 게 아니어서."
+    arj "... 그런데 지금은 내 이성이 주도권을 잡고 있지 않아."
 
 # game/code/d09/d09s03.rpy:216
 translate korean d09s03_f1ca834c:
@@ -428,7 +428,7 @@ translate korean replay_d09s03_fe98d218:
 translate korean replay_d09s03_a591804a:
 
     # arj "Hide! I must hide!"
-    arj "숨자! 난 숨어야 돼!"
+    arj "숨어야 해! 당장 숨어야 해!"
 
 # game/code/d09/d09s03.rpy:241
 translate korean replay_d09s03_322265cb:
@@ -440,7 +440,7 @@ translate korean replay_d09s03_322265cb:
 translate korean replay_d09s03_919f7e4b:
 
     # arj "Ack! Panic!"
-    arj "승인! 놀람!"
+    arj "으악! 멘붕!"
 
 # game/code/d09/d09s03.rpy:245
 translate korean replay_d09s03_8098284d:
@@ -464,25 +464,25 @@ translate korean replay_d09s03_ebae5473:
 translate korean replay_d09s03_c50a4aed:
 
     # mc "*whisper* Get under the table right now!"
-    mc "*속삭임* 지금 식탁 아래로 가 당장!"
+    mc "*속삭임* 지금 당장 식탁 밑으로 들어가!"
 
 # game/code/d09/d09s03.rpy:257
 translate korean replay_d09s03_5fe52325:
 
     # mc "*whisper* You can kneel at my feet like a proper slut!"
-    mc "*속삭임* 걸레답게 내 앞에 무릎 꿇어!"
+    mc "*속삭임* 제대로 된 걸레답게 내 발치에 무릎 꿇어!"
 
 # game/code/d09/d09s03.rpy:263
 translate korean replay_d09s03_13fb859e:
 
     # arj "Panicpanicpanic"
-    arj "놀람놀람놀람"
+    arj "멘붕멘붕멘붕"
 
 # game/code/d09/d09s03.rpy:265
 translate korean replay_d09s03_c7bd9eb1:
 
     # mc "Stop saying panic."
-    mc "놀람이라고 그만 말해."
+    mc "멘붕이라고 그만 말해."
 
 # game/code/d09/d09s03.rpy:268
 translate korean replay_d09s03_8bb7829e:
@@ -512,7 +512,7 @@ translate korean replay_d09s03_48b2468f:
 translate korean replay_d09s03_f10d5bcb:
 
     # lc "And I'm back!"
-    lc "그래 나 돌아왔어!"
+    lc "다녀왔어!"
 
 # game/code/d09/d09s03.rpy:288
 translate korean replay_d09s03_41794eca:
@@ -554,7 +554,7 @@ translate korean replay_d09s03_d7fc0734:
 translate korean replay_d09s03_1b4faa7d:
 
     # mct "Fuck... It is a blitz challenge and I even missed what the task is!"
-    mct "씨발... 신속 도전인데 뭔지도 알 수도 없잖아!"
+    mct "씨발... 신속 도전인데, 과제가 뭔지도 못 봤잖아!"
 
 # game/code/d09/d09s03.rpy:326
 translate korean replay_d09s03_84204b43:
@@ -566,7 +566,7 @@ translate korean replay_d09s03_84204b43:
 translate korean replay_d09s03_8cd6acc1:
 
     # mct "Oh my dear and fluffy lord... not now."
-    mct "아 제가 사랑하고 그리고 푹신하신 주여... 지금은 안 됩니다."
+    mct "아, 친애하고 푹신하신 주여... 제발 지금은 안 됩니다."
 
 # game/code/d09/d09s03.rpy:330
 translate korean replay_d09s03_8b806f98:
@@ -584,7 +584,7 @@ translate korean replay_d09s03_27047aaa:
 translate korean replay_d09s03_94e52d59:
 
     # lc "It's either that or paint me like one of your French girls."
-    lc "말하기 싫으면 네 프랑스 여자애들 중 하나처럼 날 칠하든가."
+    lc "말하기 싫으면 네 프랑스 여자들처럼 나를 그려 주든가."
 
 # game/code/d09/d09s03.rpy:337
 translate korean replay_d09s03_a5efac77:
@@ -620,7 +620,7 @@ translate korean replay_d09s03_bd7716bb:
 translate korean replay_d09s03_0fc5bc9d:
 
     # mc "Okay, a story it is. Let me think for just a second..."
-    mc "좋아, 이런 이야기인데. 잠깐 생각 좀 할게..."
+    mc "좋아, 그럼 이야기를 해 줄게. 잠깐 생각 좀 할게..."
 
 # game/code/d09/d09s03.rpy:405
 translate korean replay_d09s03_1fbf5754:
@@ -638,7 +638,7 @@ translate korean replay_d09s03_6b88cf19:
 translate korean replay_d09s03_70d0901c:
 
     # mc "This happened when I was a kid... and it's a little weird... but. {w}.. it a story..."
-    mc "내가 꼬마일 때 일이야... 좀 이상한 이야긴데... 그래도. {w}.. 이런 이야기니까..."
+    mc "내가 어릴 때 일이야... 좀 이상하긴 한데... 그래도. {w}.. 이야기는 이야기니까..."
 
 # game/code/d09/d09s03.rpy:410
 translate korean replay_d09s03_5ea45204:
@@ -650,19 +650,19 @@ translate korean replay_d09s03_5ea45204:
 translate korean replay_d09s03_315e5def:
 
     # mc "So, when I was a kid, I had this [d09s03_pet!t] and we were inseparable."
-    mc "이런 이야기야, 내가 꼬마일 때, 나한테 [d09s03_pet!t] 한 마리가 있었어 나랑은 뗄 수 없는 사이였지."
+    mc "이런 이야기야, 내가 꼬마일 때, 나한테 [d09s03_pet!t] 한 마리가 있었어. 우린 늘 붙어 다녔지."
 
 # game/code/d09/d09s03.rpy:415
 translate korean replay_d09s03_03c62655:
 
     # mc "We would run and play and just have a great time."
-    mc "뛰기도 하고 놀리고 하고 같이 좋은 시간을 보냈어."
+    mc "함께 뛰어다니고 놀면서 즐거운 시간을 보냈어."
 
 # game/code/d09/d09s03.rpy:417
 translate korean replay_d09s03_161f6ecc:
 
     # mc "Every night, my [d09s03_pet!t] and I would climb into bed together and [d09s03_verb!t]!"
-    mc "매일 저녁이 되면 난 [d09s03_pet!t] 녀석이랑 같이 침대에서 [d09s03_verb!t]... 그러니까 좋은 시간을 보냈지!"
+    mc "매일 밤마다 난 내 [d09s03_pet!t] 녀석과 같이 침대에서 [d09s03_verb!t]... 그러니까 좋은 시간을 보냈지!"
 
 # game/code/d09/d09s03.rpy:422
 translate korean replay_d09s03_19f574ef:
@@ -680,7 +680,7 @@ translate korean replay_d09s03_2181fbc7:
 translate korean replay_d09s03_c39bc40d:
 
     # lc "...{w} You and your [d09s03_pet!t] would [d09s03_verb!t] on your bed every night?"
-    lc "...{w} 너랑 네 [d09s03_pet!t]... 둘이서 매일 밤 침대에서 같이... 정말로 그랬다는 말이야?"
+    lc "...{w} 너랑 네 [d09s03_pet!t]... 둘이서 매일 밤 침대에서 같이... [d09s03_verb!t]... 좋은 시간을 보냈다고?"
 
 # game/code/d09/d09s03.rpy:433
 translate korean replay_d09s03_af566bc7:
@@ -698,7 +698,7 @@ translate korean replay_d09s03_849d4e0d:
 translate korean replay_d09s03_3bd52983:
 
     # mc "The house I grew up in was in the suburbs, but only like a block away was the edge of a forest."
-    mc "내가 자란 집은 교외에 있었는데, 숲이랑 가까웠어."
+    mc "내가 자란 집은 교외에 있었는데, 한 블록만 가면 숲 가장자리가 나왔어."
 
 # game/code/d09/d09s03.rpy:441
 translate korean replay_d09s03_abfb037f:
@@ -722,7 +722,7 @@ translate korean replay_d09s03_c7a83ce4:
 translate korean replay_d09s03_54c1e44f:
 
     # mc "Then she found what she was looking for and looked up at me with this proud grin."
-    mc "녀석은 자기가 찾던 걸 찾곤 자랑스러운 웃음을 지으며 날 올려다 봤어."
+    mc "녀석은 자기가 찾던 걸 찾곤 의기양양하게 웃으며 날 올려다봤어."
 
 # game/code/d09/d09s03.rpy:449
 translate korean replay_d09s03_970ea76c:
@@ -746,7 +746,7 @@ translate korean replay_d09s03_89287b87:
 translate korean replay_d09s03_5256147b:
 
     # mc "Sort of. It was just an old cardboard box, filled with [d09s03_object!t]."
-    mc "보물이라고 할 수도 있겠다. 골판지 상자였는데, [d09s03_object!t]로 가득 차있었어."
+    mc "보물이라고 할 수도 있겠다. 골판지 상자였는데, [d09s03_object!t]로 가득 차 있었어."
 
 # game/code/d09/d09s03.rpy:454
 translate korean replay_d09s03_7591f9b5:
@@ -758,7 +758,7 @@ translate korean replay_d09s03_7591f9b5:
 translate korean replay_d09s03_0a63f09c:
 
     # mc "That box weighed maybe 20 lbs. It took me all afternoon to dig it out of that hole and drag it someplace safe."
-    mc "한 9kg 정도되었을 거야. 오후 내내 그 구멍을 마저 파고 그 상자를 끌고 안전한 곳으로 갔어."
+    mc "한 9kg 정도되었을 거야. 그 상자를 구멍에서 파내 안전한 곳으로 끌고 가느라 오후를 다 보냈어."
 
 # game/code/d09/d09s03.rpy:459
 translate korean replay_d09s03_738a3d14:
@@ -782,19 +782,19 @@ translate korean replay_d09s03_1dd280be:
 translate korean replay_d09s03_7d1dc655:
 
     # mc "So, anyway, I didn't want to get caught with it, so I called my friend to the forest."
-    mc "그래서, 어쨌든, 걸리고 싶진 않았어, 그래서 친구를 숲으로 불렀지."
+    mc "그래서, 어쨌든, 그걸 갖고 있다 들키기는 싫어서 친구를 숲으로 불렀지."
 
 # game/code/d09/d09s03.rpy:464
 translate korean replay_d09s03_8047dbeb:
 
     # mc "When I told him about it he totally flipped."
-    mc "걔한테 말하니까 완전히 뒤짚어졌어."
+    mc "내 말을 듣고 걔는 완전히 야단법석이었어."
 
 # game/code/d09/d09s03.rpy:468
 translate korean replay_d09s03_dcf025fb:
 
     # mc "But then we built a treehouse."
-    mc "그래서 거기에서 나무 하나를 찾아 그 위에 요새를 만들었지."
+    mc "그래서 거기에서 나무 하나를 찾아 요새를 만들었지."
 
 # game/code/d09/d09s03.rpy:469
 translate korean replay_d09s03_ac6219f1:
@@ -812,7 +812,7 @@ translate korean replay_d09s03_5f75ce82:
 translate korean replay_d09s03_922484ca:
 
     # mc "We knew more kids would want to check out our treasure of [d09s03_object!t] and didn't want everyone crowding into the treehouse, so we cleared off a nearby patch of ground."
-    mc "[d09s03_object!t]이라는 우리의 보물을 보고 싶어 할 꼬맹이들이 더 있을 거라는 알았지만, 우리 요새에 사람이 붐비는 건 원하지 않았거든. 그래서 땅바닥에서 흔적을 깨끗이 치웠지."
+    mc "[d09s03_object!t]이라는 우리 보물을 구경하고 싶어 하는 아이들이 더 있을 거라는 걸 알았지만... 모두 요새에 붐비는 건 싫어서, 근처의 땅 한쪽을 깨끗이 정리했어."
 
 # game/code/d09/d09s03.rpy:481
 translate korean replay_d09s03_98daf7d3:
@@ -824,7 +824,7 @@ translate korean replay_d09s03_98daf7d3:
 translate korean replay_d09s03_b02f9f89:
 
     # mc "And of course, pretty soon word got around and there were always a few of us \"playing\" in the woods looking at [d09s03_object!t]..."
-    mc "그랬지만 당연히 말이 퍼졌고 그 숲에서 \"놀던\" 우리 중 몇 명은 항상 [d09s03_object!t]을 보게 되었고..."
+    mc "당연히 곧 소문이 퍼져서, 숲에는 언제나 몇 명씩 모여 [d09s03_object!t]을 보며 \"놀고\" 있었어..."
 
 # game/code/d09/d09s03.rpy:486
 translate korean replay_d09s03_9da7b9fc:
@@ -836,25 +836,25 @@ translate korean replay_d09s03_9da7b9fc:
 translate korean replay_d09s03_65729dd1:
 
     # lc "So, what happened?"
-    lc "그래서, 무슨 일라도 일어났어?"
+    lc "그래서 무슨 일이라도 생겼어?"
 
 # game/code/d09/d09s03.rpy:489
 translate korean replay_d09s03_c45e770c:
 
     # mc "It made it through most of the summer, and survived some minor rain, but then one night there was a hell of a thunderstorm."
-    mc "여름이 지나고, 비도 좀 왔어, 그래도 우리의 보물은 살아남았어. 하지만 어느 날 엄청난 천둥과 비바람이 왔지."
+    mc "그 보물은 여름 대부분을 버텼고 약한 비가 몇 번 와도 무사했어. 하지만 어느 날 엄청난 천둥과 비바람이 왔지."
 
 # game/code/d09/d09s03.rpy:490
 translate korean replay_d09s03_3e2f7ebc:
 
     # mc "Like the kind where we all sat home playing board games by candlelight."
-    mc "그때 우린 촛불을 켜고 집에 모여 앉아서 보드 게임을 했어."
+    mc "다들 집에서 촛불을 켜고 보드게임을 해야 할 정도의 폭풍이었어."
 
 # game/code/d09/d09s03.rpy:492
 translate korean replay_d09s03_3442f570:
 
     # lc "Huh. You know... I remember quite a few power outages like that when I was a kid, but nothing like that as a teenager or an adult."
-    lc "어. 그렇지... 내가 꼬마였을 땐 정전이 꽤 있었던 기억이 나네. 십대가 되고 성인이 된 다음엔 겪지 보지 못했지만."
+    lc "어. 그렇지... 내가 꼬마였을 땐 정전이 꽤 있었던 기억이 나네. 십 대가 된 뒤나 성인이 되고서는 그런 일을 겪어 본 적이 없는데."
 
 # game/code/d09/d09s03.rpy:496
 translate korean replay_d09s03_4bf39568:
@@ -872,19 +872,19 @@ translate korean replay_d09s03_6bf6bb9f:
 translate korean replay_d09s03_4483d594:
 
     # mc "Maybe. The treehouse survived it, but the box of [d09s03_object!t] didn't. It somehow got knocked over in the wind and the contents were scattered all over the forest."
-    mc "그랬나 봐. 여하튼 우리 요새는 그 폭풍에서 살아남지만, [d09s03_object!t] 상자는 그러지 못했어. 바람에 쓸렸는지 숲 사방에 쏟아져 있었지."
+    mc "그랬나 봐. 요새는 폭풍을 견뎠지만 [d09s03_object!t] 상자는 아니었어. 바람에 상자가 뒤집혀 내용물이 온 숲에 흩어졌지."
 
 # game/code/d09/d09s03.rpy:501
 translate korean replay_d09s03_a805dba6:
 
     # mc "And I do mean all over. Like the distance of a football field at least... [d09s03_object!t], all wet and soggy, covered in dirt and torn to shreds... they covered the forest floor like pornographic leaves."
-    mc "그리고 그렇게 끝났어. 미식축구 경기장 거리 정도에 흩뿌려진... [d09s03_object!t], 전부 젖고 축축해져선, 흙에 뒤덮히고 갈가리 찢긴 채로... 외설적인 낙엽처럼 숲 바닥을 덮게 된 거야."
+    mc "정말 말 그대로 온 사방에 말이야. 적어도 미식축구장 하나 길이만큼의... [d09s03_object!t], 흠뻑 젖어 흙투성이가 되고 갈가리 찢긴 채... 외설적인 낙엽처럼 숲 바닥 전체를 덮게 된 거야."
 
 # game/code/d09/d09s03.rpy:502
 translate korean replay_d09s03_36058333:
 
     # mct "Oh god... {w}I'm about to cum..."
-    mct "아 세상에... {w}쌀 것 같은 데..."
+    mct "아 세상에... {w}쌀 것 같은데..."
 
 # game/code/d09/d09s03.rpy:504
 translate korean replay_d09s03_9b96df8a:
@@ -902,7 +902,7 @@ translate korean replay_d09s03_ffa0953a:
 translate korean replay_d09s03_f656a38d:
 
     # mc "After that there wasn't much point..."
-    mc "그 일이 있은 뒤론 그렇게 대단한 건 없었어..."
+    mc "그 뒤로는 더 계속할 의미가 별로 없었어..."
 
 # game/code/d09/d09s03.rpy:510
 translate korean replay_d09s03_53dcfb9d:
@@ -920,7 +920,7 @@ translate korean replay_d09s03_e33e2195:
 translate korean replay_d09s03_8503cd6e:
 
     # mct "Hell yeah! Suck every drop you redheaded vixen!"
-    mct "씨발 이거야! 빨강 머리 암여우 년아 한 방울도 남기지 않고 다 빨라고!"
+    mct "씨발 이거야! 빨간 머리 암여우야, 한 방울도 남김없이 다 빨아!"
 
 # game/code/d09/d09s03.rpy:523
 translate korean replay_d09s03_3a4b6978:
@@ -968,7 +968,7 @@ translate korean replay_d09s03_67f7cad6:
 translate korean replay_d09s03_6c12bac9:
 
     # mc "I guess I'm not used to drinking.{w}.. vine."
-    mc "난 잘 맞지 않나 봐.{w}.. 바인이 말야."
+    mc "내가 낮술은 익숙하지 않아서 그런가 봐.{w}.. 바인 말이야."
 
 # game/code/d09/d09s03.rpy:547
 translate korean replay_d09s03_cf01fdc7:
@@ -1004,7 +1004,7 @@ translate korean replay_d09s03_8a529267:
 translate korean replay_d09s03_e1b2241e:
 
     # lc "Was that some dream or.{w}.. what was that?"
-    lc "꿈 같은 거였니.{w}.. 무슨 이야기가 이래?"
+    lc "그건 꿈이야, 아니면.{w}.. 대체 뭐였어?"
 
 # game/code/d09/d09s03.rpy:572
 translate korean replay_d09s03_0db5cf2d:
@@ -1016,25 +1016,25 @@ translate korean replay_d09s03_0db5cf2d:
 translate korean replay_d09s03_66734d9d:
 
     # mc "Maybe 90%% real memory mixed with 10%% nostalgic fantasy?"
-    mc "아마 90%% 정도 실제 기억에 10%% 정도의 향수 어린 환상이 섞였다고 해야 하려나?"
+    mc "아마 90%% 정도 실제 기억에 10%% 정도의 아련한 추억 속 환상이 섞인 걸지도?"
 
 # game/code/d09/d09s03.rpy:576
 translate korean replay_d09s03_99a47f7a:
 
     # mc "Maybe 80%% real memory mixed with 20%% nostalgic fantasy?"
-    mc "아마 80%% 정도 실제 기억에 20%% 정도의 향수 어린 환상이 섞였다고 해야 하려나?"
+    mc "아마 80%% 정도 실제 기억에 20%% 정도의 아련한 추억 속 환상이 섞인 걸지도?"
 
 # game/code/d09/d09s03.rpy:578
 translate korean replay_d09s03_d73c2203:
 
     # mc "Maybe 70%% real memory mixed with 30%% inebriated fantasy?"
-    mc "아마 70%% 정도 실제 기억에 30%% 정도의 취기로 인한 환상이 섞였다고 해야 하려나?"
+    mc "아마 70%% 정도 실제 기억에 30%% 정도는 취해서 만들어 낸 환상이 섞인 걸지도?"
 
 # game/code/d09/d09s03.rpy:580
 translate korean replay_d09s03_332841e7:
 
     # mc "Maybe 60%% real memory mixed with 40%% inebriated fantasy?"
-    mc "아마 60%% 정도 실제 기억에 40%% 정도의 취기로 인한 떠오른 환상이 섞였다고 해야 하려나?"
+    mc "아마 60%% 정도 실제 기억에 40%% 정도는 취해서 만들어 낸 환상이 섞인 걸지도?"
 
 # game/code/d09/d09s03.rpy:583
 translate korean replay_d09s03_1505a571:
@@ -1064,7 +1064,7 @@ translate korean replay_d09s03_13977be6:
 translate korean replay_d09s03_18ce0546:
 
     # lc "Sounds good."
-    lc "좋고 말구요."
+    lc "좋고말고요."
 
 # game/code/d09/d09s03.rpy:593
 translate korean replay_d09s03_41739002:
@@ -1094,13 +1094,13 @@ translate korean replay_d09s03_84928f52:
 translate korean replay_d09s03_48e333d9:
 
     # lc "No reason."
-    lc "별 이윤 없구."
+    lc "별 이유 없어."
 
 # game/code/d09/d09s03.rpy:603
 translate korean replay_d09s03_cf53bf7d:
 
     # lc "That was such a nice time! Thank you so much!"
-    lc "훌륭한 시간이었어! 엄청 고마워!"
+    lc "정말 즐거운 시간이었어! 정말 고마워!"
 
 # game/code/d09/d09s03.rpy:605
 translate korean replay_d09s03_a2a07f79:
@@ -1118,7 +1118,7 @@ translate korean strings:
 
     # game/code/d09/d09s03.rpy:358
     old "Pick a Pet"
-    new "애완동물을 골라라 "
+    new "애완동물을 골라라"
 
     # game/code/d09/d09s03.rpy:358
     old "Dog"
