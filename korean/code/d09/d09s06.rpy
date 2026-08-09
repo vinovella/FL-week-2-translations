@@ -8,31 +8,31 @@ translate korean d09s06_fd7a39cb:
 translate korean d09s06_7399c8c0:
 
     # mct "Let's see how is her training is going."
-    mct "민이 어떻게 훈련을 하고 있는지 보자구."
+    mct "민의 훈련이 어떻게 돼가고 있는지 볼까."
 
 # game/code/d09/d09s06.rpy:22
 translate korean d09s06_d260313d:
 
     # mc "Hey Squizzle. What's shaking?"
-    mc "안녕 스퀴즐. 잘 지냈어?"
+    mc "안녕, 스퀴즐. 왜 그렇게 안절부절못해?"
 
 # game/code/d09/d09s06.rpy:24
 translate korean d09s06_35e1f4cb:
 
     # mesfl "I am. Hurry up."
-    mesfl "그래. 서둘러."
+    mesfl "가야 되서 그런다. 서둘러."
 
 # game/code/d09/d09s06.rpy:25
 translate korean d09s06_962ad0f8:
 
     # mc "I noticed that. What's going on with you today?"
-    mc "좋아 보이네. 오늘은 뭘 하려고?"
+    mc "그건 알겠는데. 오늘 무슨 일 있어?"
 
 # game/code/d09/d09s06.rpy:32
 translate korean replay_d09s06_67f53773:
 
     # mesfl "I need to pee. {w}And I really really need to cum."
-    mesfl "오줌 싸야 해. {w}그리고 정말 진짜로 싸야 된다고."
+    mesfl "오줌 싸야 한다고. {w}그리고 정말 미치도록 가 버리고 싶단 말이야."
 
 # game/code/d09/d09s06.rpy:34
 translate korean replay_d09s06_6cb30a38:
@@ -56,7 +56,7 @@ translate korean replay_d09s06_c3ae3cde:
 translate korean replay_d09s06_a794642b:
 
     # mc "Outdoors? Kinky."
-    mc "밖에서? 변태 같긴."
+    mc "야외에서? 변태 같긴."
 
 # game/code/d09/d09s06.rpy:45
 translate korean replay_d09s06_3bdd5b8a:
@@ -68,7 +68,7 @@ translate korean replay_d09s06_3bdd5b8a:
 translate korean replay_d09s06_8931ea8f:
 
     # mesfl "I assume that today's lesson is going to get.{w}.. messy."
-    mesfl "오늘 연습은 좀.{w}.. 지저분할 거 같다는 생각이 들어서."
+    mesfl "오늘 연습은 좀.{w}.. 지저분해질 것 같거든."
 
 # game/code/d09/d09s06.rpy:49
 translate korean replay_d09s06_ae5726da:
@@ -116,7 +116,7 @@ translate korean replay_d09s06_fa129b7b:
 translate korean replay_d09s06_0b8951e4:
 
     # mesfl "No! And Mr. D1cky knows when I fake it, so he's been trying hard to get me off!"
-    mesfl "그래! 그리고 미스터 ㄷ1키는 절정을 흉내 내는 걸 알아챈다고, 그래서 날 가게 하려고 안달을 낸단 말이야!"
+    mesfl "못했어! 미스터 ㄷ1키는 내가 느끼는 척하면 바로 알아채서, 날 진짜로 가게 하려고 안달이란 말이야!"
 
 # game/code/d09/d09s06.rpy:63
 translate korean replay_d09s06_9134c7dc:
@@ -140,7 +140,7 @@ translate korean replay_d09s06_022e449e:
 translate korean replay_d09s06_19a37822:
 
     # mc "Alright, let's see what we can do about that."
-    mc "알겠어, 같이 뭘 할 수 있는지 보자구."
+    mc "좋아, 그 문제를 어떻게 해결할지 보자."
 
 # game/code/d09/d09s06.rpy:73
 translate korean replay_d09s06_dd7a39a4:
@@ -158,7 +158,7 @@ translate korean replay_d09s06_59f69b57:
 translate korean replay_d09s06_92d6c8ce:
 
     # mesfl "That too. I'll want to watch this by myself later."
-    mesfl "그것도 그렇고. 나중에 나 혼자 할 때 보려고."
+    mesfl "그것도 그렇고. 나중에 혼자 영상으로 다시 보고 싶어서."
 
 # game/code/d09/d09s06.rpy:79
 translate korean replay_d09s06_404fd795:
@@ -170,19 +170,19 @@ translate korean replay_d09s06_404fd795:
 translate korean replay_d09s06_ffccc631:
 
     # mesfl "Fuck me! {w}No, I don't mean fuck me.{w} Gah. Fuck!"
-    mesfl "씹! {w}아니, 씹질하자는 소리는 아냐.{w} 아악. 내 눈!"
+    mesfl "좆 박았냐! {w}아니, 진짜로 좆 박으란 소리는 아냐.{w} 아으, 씨발!"
 
 # game/code/d09/d09s06.rpy:89
 translate korean replay_d09s06_002835a3:
 
     # mc "Alright, step one. Fill this."
-    mc "좋아, 일 단계. 이걸 채워."
+    mc "좋아, 첫 번째 단계. 이걸 채워."
 
 # game/code/d09/d09s06.rpy:91
 translate korean replay_d09s06_7f40b48b:
 
     # mesfl "Gladly!"
-    mesfl "기꺼이!"
+    mesfl "좋아!"
 
 # game/code/d09/d09s06.rpy:96
 translate korean replay_d09s06_ccbc40df:
@@ -200,7 +200,7 @@ translate korean replay_d09s06_fc7a6904:
 translate korean replay_d09s06_dcdaad5b:
 
     # mc "Just fill this glass and then..."
-    mc "걱정 말고 잔을 채워 그리고 나서..."
+    mc "이 잔만 채우고, 그다음에는..."
 
 # game/code/d09/d09s06.rpy:102
 translate korean replay_d09s06_78288731:
@@ -230,19 +230,19 @@ translate korean replay_d09s06_245be633:
 translate korean replay_d09s06_a8bf2d0c:
 
     # mesfl "Honestly? It still looks like piss, but.{w}.. tasty?"
-    mesfl "진심으로? 여전히 오줌 같아 보이지만.{w}.. 맛있어 보이기도?"
+    mesfl "솔직히? 여전히 오줌 같아 보이지만.{w}.. 맛있으려나?"
 
 # game/code/d09/d09s06.rpy:115
 translate korean replay_d09s06_2d9c9ead:
 
     # mc "Excellent. So, I want you to drink this..."
-    mc "훌륭해. 그럼, 이걸 마시면 좋겠는데..."
+    mc "훌륭해. 그럼, 이제 이걸 마셔 줘..."
 
 # game/code/d09/d09s06.rpy:116
 translate korean replay_d09s06_d596c549:
 
     # mc "... but don't swallow."
-    mc "... 그치만 삼키진 말고."
+    mc "... 그치만 삼키진 마."
 
 # game/code/d09/d09s06.rpy:127
 translate korean replay_d09s06_d14c2780:
@@ -260,13 +260,13 @@ translate korean replay_d09s06_359d6f85:
 translate korean replay_d09s06_b6a26a23:
 
     # mc "A vibrator? A rabbit? A personal massager? Something like that?"
-    mc "바이브레이터? 머리 두 개인 거? 개인용 마사지 기계? 그런 거?"
+    mc "바이브레이터? 머리 두 개인 거? 마사지 봉? 그런 거?"
 
 # game/code/d09/d09s06.rpy:133
 translate korean replay_d09s06_1216b688:
 
     # mc "Okay, good. Why don't you go get that now."
-    mc "좋아, 좋아. 어서 가서 가져오라구."
+    mc "좋아, 됐어. 지금 가서 그거 가져와 봐."
 
 # game/code/d09/d09s06.rpy:145
 translate korean replay_d09s06_585a7bf3:
@@ -278,13 +278,13 @@ translate korean replay_d09s06_585a7bf3:
 translate korean replay_d09s06_a5479778:
 
     # mc "I bet you have another one that plugs directly into the wall socket, but this should do nicely."
-    mc "너라면 벽 콘센트에 바로 꽂을 수 있는 것도 있겠지만, 이걸로도 충분하겠지."
+    mc "콘센트에 직접 꽂아 쓰는 유선 진동기 같은 것도 갖고 있겠지만, 지금은 이걸로도 충분하겠네."
 
 # game/code/d09/d09s06.rpy:150
 translate korean replay_d09s06_daad21d1:
 
     # mc "Most girls seem to have a little bullet vibrator or just a dildo."
-    mc "대부분의 여자애들은 조그만 총알 같이 생긴 바이브레이터를 가지고 있거나 아니면 딜도만 가지고 있는 거 같더라."
+    mc "보통 여자애들은 조그만 총알 모양 바이브레이터나 딜도 정도만 갖고 있잖아."
 
 # game/code/d09/d09s06.rpy:153
 translate korean replay_d09s06_be0faacf:
@@ -302,25 +302,25 @@ translate korean replay_d09s06_81a41d31:
 translate korean replay_d09s06_973fab43:
 
     # mc "It's nice talking to you, but you're so cute when your mouth is full!"
-    mc "이런 말을 하니 좋다. 너 입에 가득 머금고 있으니까 정말 귀여워!"
+    mc "너랑 대화하는 것도 좋긴 한데, 입에 가득 물고 있으니까 진짜 귀엽다!"
 
 # game/code/d09/d09s06.rpy:176
 translate korean replay_d09s06_b2ab7142:
 
     # mc "Of course, this can be even more efficient."
-    mc "당연히, 이 방법이 더 효휼적이겠지."
+    mc "당연히, 이 방법이 더 효율적이겠지."
 
 # game/code/d09/d09s06.rpy:178
 translate korean replay_d09s06_bd7dfc35:
 
     # mc "With the added stimulation of my tongue."
-    mc "내 혀로 자극을 더하는 방법말이야."
+    mc "내 혀의 자극까지 더해서 말이야."
 
 # game/code/d09/d09s06.rpy:189
 translate korean replay_d09s06_bdf62385:
 
     # mc "Now cum and swallow!"
-    mc "이제 싸고 삼켜!"
+    mc "이제 가면서 삼켜!"
 
 # game/code/d09/d09s06.rpy:193
 translate korean replay_d09s06_6d698224:
@@ -338,7 +338,7 @@ translate korean replay_d09s06_6854c853:
 translate korean replay_d09s06_6d817346:
 
     # mesfl "RELEASE!!!"
-    mesfl "간다!!!"
+    mesfl "해방이다!!!"
 
 # game/code/d09/d09s06.rpy:209
 translate korean replay_d09s06_581823aa:
@@ -350,7 +350,7 @@ translate korean replay_d09s06_581823aa:
 translate korean replay_d09s06_23c20478:
 
     # mct "That screaming orgasm opened the floodgates."
-    mct "이렇게 소리 지르면서 가니까 수문이 열린 거 같잖아."
+    mct "비명을 지르며 절정에 도달하자 진짜 수문이 열려버렸군."
 
 # game/code/d09/d09s06.rpy:262
 translate korean d09s06_tap_6e0317d7:
@@ -386,13 +386,13 @@ translate korean d09s06_glasses_a7a92e8f:
 translate korean d09s06_glasses_f5f21a65:
 
     # mesfl "More glasses? I hope you're not planning on Round 2 already."
-    mesfl "두 잔 더? 벌써 두 번째 판을 할 계획은 아니겠지."
+    mesfl "잔을 더 가져온 거야? 벌써 2차전 뛸 생각은 아니겠지."
 
 # game/code/d09/d09s06.rpy:297
 translate korean d09s06_glasses_28d16051:
 
     # mc "That is for you to drink!"
-    mc "너 마실 거!"
+    mc "그건 네가 마실 거야!"
 
 # game/code/d09/d09s06.rpy:310
 translate korean d09s06_glasses_d82d3033:
@@ -410,7 +410,7 @@ translate korean d09s06_glasses_af5cea1e:
 translate korean d09s06_glasses_8d5195cf:
 
     # mc "Not, my fault that it is so hot!"
-    mc "네가 너무 핫 한 게 내 잘못은 아니잖아!"
+    mc "방금 그 상황이 너무 꼴렸던 걸 어쩌라고!"
 
 # game/code/d09/d09s06.rpy:317
 translate korean d09s06_glasses_1e098a17:
@@ -452,7 +452,7 @@ translate korean d09s06_end_5e35b889:
 translate korean d09s06_end_9dd4cc4f:
 
     # mct "Now she's back to being Min and all business."
-    mct "다시 민으로 돌아와서 진지해졌어."
+    mct "이제 다시 빈틈없는 민으로 돌아왔네."
 
 # game/code/d09/d09s06.rpy:396
 translate korean d09s06_end_f0e9f019:
@@ -476,7 +476,7 @@ translate korean d09s06_end_e835e02a:
 translate korean d09s06_end_f6b507d4:
 
     # mct "Love comes and goes, but points are keep on coming..."
-    mct "사랑은 오고 가지만, 점수는 계속 오네..."
+    mct "사랑은 오고 가도, 점수는 계속 들어오는군..."
 
 translate korean strings:
 
