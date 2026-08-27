@@ -8,19 +8,19 @@ translate korean d09s08_339cfe9f:
 translate korean d09s08_b2fe1f75:
 
     # mct "Maybe I should be the one to call Lydia tonight."
-    mct "오늘 밤에는 내가 리디아한테 전화를 해야겠지."
+    mct "오늘 밤엔 내가 먼저 리디아한테 전화를 걸어 볼까."
 
 # game/code/d09/d09s08.rpy:14
 translate korean d09s08_dcaa0c3f:
 
     # lc "Hey, sexy man. I was just thinking about you."
-    lc "안녕, 섹시 남. 방금 네 생각하고 있었어."
+    lc "안녕, 섹시한 남자. 방금 네 생각하고 있었어."
 
 # game/code/d09/d09s08.rpy:15
 translate korean d09s08_aee4f278:
 
     # mc "Hey, beautiful. Good things, I hope."
-    mc "안녕, 미인 분. 좋은 생각이었길 바라."
+    mc "안녕, 아름다운 당신. 좋은 생각이었길 바라."
 
 # game/code/d09/d09s08.rpy:16
 translate korean d09s08_8cc631b8:
@@ -32,19 +32,19 @@ translate korean d09s08_8cc631b8:
 translate korean d09s08_18f90106:
 
     # mc "Well, you know what they say. Speak of the devil and he shall appear."
-    mc "흠, 이런 말이 있잖아. 호랑이도 제 말 하면 온다."
+    mc "흠, 말도 있잖아. 악마도 제 말 하면 나타난다고."
 
 # game/code/d09/d09s08.rpy:20
 translate korean d09s08_168fb27a:
 
     # lc "Does that make you a demon?"
-    lc "그래서 호랑이가 된 거야?"
+    lc "그럼 네가 악마라는 거야?"
 
 # game/code/d09/d09s08.rpy:21
 translate korean d09s08_ca91ef59:
 
     # mc "Well, a lesser one. You only got to hear my voice."
-    mc "글쎄, 작은 거라면. 내 목소리만 들려주고 있으니까."
+    mc "글쎄, 하급 악마 정도겠지. 겨우 내 목소리나 들려주는 수준이니까."
 
 # game/code/d09/d09s08.rpy:24
 translate korean d09s08_9cabba75:
@@ -56,13 +56,13 @@ translate korean d09s08_9cabba75:
 translate korean d09s08_e92c9f65:
 
     # mc "Hmm. Maybe I'm moving up in the hierarchy."
-    mc "흐음. 생각만 해도 나타난 걸 보면, 내가 산군 정도는 되고 있나 보네."
+    mc "흐음. 생각만 해도 나타나는 걸 보니, 내 서열이 좀 올라갔나 본데."
 
 # game/code/d09/d09s08.rpy:26
 translate korean d09s08_a41b1409:
 
     # lc "I wouldn't be surprised."
-    lc "그런 거 같네."
+    lc "그렇다고 해도 놀랍지 않겠는데."
 
 # game/code/d09/d09s08.rpy:30
 translate korean d09s08_14092ade:
@@ -104,13 +104,13 @@ translate korean d09s08_9fcec11d:
 translate korean d09s08_393db29a:
 
     # mh "Hello there, [mcname]. I hope I'm not calling too late."
-    mh "안녕, [mcname]. 내가 너무 늦게 전화를 건 게 아니길 바라."
+    mh "안녕, [mcname]. 너무 늦은 시간에 전화한 건 아닌지 모르겠네."
 
 # game/code/d09/d09s08.rpy:45
 translate korean d09s08_f6fcd500:
 
     # mc "It's never too late to hear your voice, but I'm kinda on the other line."
-    mc "네 목소리를 듣는데 늦을 땐 없지. 그런데 지금 다른 사람이랑 통화 중이었어."
+    mc "너랑 통화하는 건 언제든 환영이지. 그런데 내가 지금 다른 전화를 받고 있었거든."
 
 # game/code/d09/d09s08.rpy:46
 translate korean d09s08_8b892276:
@@ -122,7 +122,7 @@ translate korean d09s08_8b892276:
 translate korean d09s08_7c3fefd7:
 
     # mh "No worries. This is just a quick bit of business."
-    mh "별일 아냐. 일 관련해서 간단히 말만 전하면 돼."
+    mh "별일 아냐. 일 관련해서 간단히 전할 말이 있어서."
 
 # game/code/d09/d09s08.rpy:50
 translate korean d09s08_52914d50:
@@ -146,7 +146,7 @@ translate korean d09s08_f439d8d9:
 translate korean d09s08_74de506c:
 
     # mh "Well, I hope she hasn't made other arrangements."
-    mh "음, 스테이시 양이 다른 방을 구한 건 아니면 좋겠네."
+    mh "음, 스테이시 씨가 다른 방을 구한 건 아니면 좋겠네."
 
 # game/code/d09/d09s08.rpy:58
 translate korean d09s08_a158eefa:
@@ -212,13 +212,13 @@ translate korean d09s08_938da661:
 translate korean d09s08_70c4c5e6:
 
     # vw "Hey sexy. Sorry for calling so late, but I've got some important news."
-    vw "안녕 섹시 남. 늦게 전화해서 미안해, 그런데 중요한 소식이 있어서."
+    vw "안녕, 섹시남. 늦게 전화해서 미안해, 그런데 중요한 소식이 있어서."
 
 # game/code/d09/d09s08.rpy:77
 translate korean d09s08_c7796975:
 
     # mc "Hey sexy mama. Want to kill all humans?"
-    mc "안녕하세요. 섹시한 엄마. 모든 인간을 죽이고 싶어진 거에요?"
+    mc "안녕하세요. 섹시 마마. 인간을 전부 죽이고 싶어요?"
 
 # game/code/d09/d09s08.rpy:78
 translate korean d09s08_ca93ab6b:
@@ -248,19 +248,19 @@ translate korean d09s08_069ec8d2:
 translate korean d09s08_da92c621:
 
     # vw "I'll text you the info. Ms. Harris will be ready with the keys and the contract anytime tomorrow."
-    vw "관련 사항은 문자로 보낼게. 내일 언제든지 해리스 선생이 열쇠랑 계약서 준비할 수 있어."
+    vw "관련 사항은 문자로 보낼게. 내일 언제든지 해리스 선생이 열쇠랑 계약서 준비해 두고 기다릴 거야."
 
 # game/code/d09/d09s08.rpy:87
 translate korean d09s08_110bbe39:
 
     # mc "Ms. Harris? Oh, yeah. Lyssa. {w}Sorry, I guess I'm a little tired."
-    mc "해리스 선생이요? 아, 맞아. 리사. {w}죄송해요, 조금 피곤해서 말 실수를 했네요."
+    mc "해리스 선생이요? 아, 맞아. 리사. {w}죄송해요, 제가 좀 피곤해서 깜빡했나 봐요."
 
 # game/code/d09/d09s08.rpy:88
 translate korean d09s08_b66280e8:
 
     # vw "You will, of course, need to bring a check or money order for two months' rent."
-    vw "그렇지, 두 달 치 임차료를 현금이나 수표로 가져와야 해."
+    vw "그렇지, 두 달 치 임차료를 수표나 지급 증서로 가져와야 해."
 
 # game/code/d09/d09s08.rpy:91
 translate korean d09s08_a22d7ea0:
@@ -272,19 +272,19 @@ translate korean d09s08_a22d7ea0:
 translate korean d09s08_e21e8e6d:
 
     # vw "First and last months' rent. It's standard practice."
-    vw "첫 번째 달이랑 마지막 달 임차료. 표준 관행이야."
+    vw "첫 달이랑 마지막 달 월세. 표준 관행이야."
 
 # game/code/d09/d09s08.rpy:95
 translate korean d09s08_c0d83a02:
 
     # mc "Oh, good. {w}Sure, that shouldn't be a problem."
-    mc "아, 좋아요. {w}물론이죠, 문제없을 거에요."
+    mc "아, 좋아요. {w}물론이죠, 문제없을 거예요."
 
 # game/code/d09/d09s08.rpy:96
 translate korean d09s08_48cb168e:
 
     # vw "Like I said - I'll text you all the info. You get some sleep."
-    vw "아까 말한 대로, 모든 사항은 문자로 보낼게. 이제 너도 잠 자야지."
+    vw "아까 말한 대로, 모든 사항은 문자로 보낼게. 이제 너도 좀 자."
 
 # game/code/d09/d09s08.rpy:98
 translate korean d09s08_5714bdef:
@@ -308,7 +308,7 @@ translate korean d09s08_05cf4e53:
 translate korean d09s08_0e1fd7ad:
 
     # mc "Sure. What's going on?"
-    mc "괜찮아요. 무슨 일이라도 생긴 거에요?"
+    mc "물론이죠. 무슨 일이에요?"
 
 # game/code/d09/d09s08.rpy:105
 translate korean d09s08_863cf98e_1:
@@ -326,19 +326,19 @@ translate korean d09s08_069ec8d2_1:
 translate korean d09s08_da92c621_1:
 
     # vw "I'll text you the info. Ms. Harris will be ready with the keys and the contract anytime tomorrow."
-    vw "관련 사항은 문자로 보낼게요. 내일은 언제든지 해리스 선생이 열쇠와 계약서를 준비할 수 있어요."
+    vw "관련 사항은 문자로 보낼게요. 내일 해리스 씨가 열쇠와 계약서를 준비해 두고 언제든 기다리실 거예요."
 
 # game/code/d09/d09s08.rpy:111
 translate korean d09s08_24b24091:
 
     # mc "Ms. Harris?{w} Oh, yeah. Lyssa. Sorry, I guess I'm a little tired."
-    mc "해리스 선생이요?{w} 아, 맞다. 리사. 미안해요, 좀 피곤해서 말실수를 했네요."
+    mc "해리스 선생이요?{w} 아, 맞다. 리사. 미안해요, 피곤해서 바로 생각이 안 났네요."
 
 # game/code/d09/d09s08.rpy:112
 translate korean d09s08_82b47c2c:
 
     # vw "You will just need to bring a check or money order for two months' rent."
-    vw "두 달 치 임차료를 수표나 현금으로 가져와야 해요."
+    vw "두 달 치 임차료를 수표나 지급 증서로 가져와야 해요."
 
 # game/code/d09/d09s08.rpy:115
 translate korean d09s08_a22d7ea0_1:
@@ -350,13 +350,13 @@ translate korean d09s08_a22d7ea0_1:
 translate korean d09s08_e21e8e6d_1:
 
     # vw "First and last months' rent. It's standard practice."
-    vw "첫 번째 달과 마지막 달 임차료에요. 표준 관행이죠."
+    vw "첫 달치와 마지막 달치 월세예요. 표준 관행이죠."
 
 # game/code/d09/d09s08.rpy:119
 translate korean d09s08_c0d83a02_1:
 
     # mc "Oh, good. {w}Sure, that shouldn't be a problem."
-    mc "아, 좋아요. {w}물론이죠, 문제없을 거에요."
+    mc "아, 좋아요. {w}물론이죠, 문제없을 거예요."
 
 # game/code/d09/d09s08.rpy:120
 translate korean d09s08_30e4d590:
@@ -368,7 +368,7 @@ translate korean d09s08_30e4d590:
 translate korean d09s08_ab0ddfca:
 
     # mc "Thanks! You too, bye."
-    mc "고마워요! 웹 씨두요."
+    mc "고마워요! 버네사 씨도요. 끊을게요."
 
 # game/code/d09/d09s08.rpy:126
 translate korean d09s08_d897712b:
@@ -380,13 +380,13 @@ translate korean d09s08_d897712b:
 translate korean d09s08_258f1f2f:
 
     # lc "Where else would I be?"
-    lc "내가 다른 데라도 갈까 봐?"
+    lc "내가 어디 가 있겠어?"
 
 # game/code/d09/d09s08.rpy:130
 translate korean d09s08_2ff5da1a:
 
     # mc "No idea. Maybe on a World Tour with your parents?"
-    mc "모르지. 너희 부모님이랑 세계에 공연이라도 하러 갈 수도 있잖아"
+    mc "모르지. 너희 부모님이랑 전 세계 순회 공연이라도 떠났어?"
 
 # game/code/d09/d09s08.rpy:134
 translate korean d09s08_bb36c5d4:
@@ -404,7 +404,7 @@ translate korean d09s08_49c92780:
 translate korean d09s08_a031c500:
 
     # lc "Yeah, you didn't know that? I think they're in Finland right now."
-    lc "그럼, 몰랐어? 부모님은 지금 핀란드에 계실 걸."
+    lc "그럼, 몰랐어? 부모님은 지금 핀란드에 계실걸."
 
 # game/code/d09/d09s08.rpy:139
 translate korean d09s08_14ae7c06:
@@ -422,13 +422,13 @@ translate korean d09s08_0f964681:
 translate korean d09s08_a931b031:
 
     # mc "Yeah. {w}I mean, nah. It's fine. I don't mind talking about it."
-    mc "아니. {w}내 말은, 응. 괜찮아. 이야기해도 돼."
+    mc "응. {w}아니, 내 말은... 괜찮아. 이야기 나눠도 돼."
 
 # game/code/d09/d09s08.rpy:146
 translate korean d09s08_c0aaaae1:
 
     # mc "I'm just not sure what to say, or how I'm supposed to feel about it."
-    mc "그냥 내가 무슨 말을 해야 할지, 어떻게 생각을 해야 할지는 모르겠지만."
+    mc "그냥 내가 무슨 말을 해야 할지, 이걸 어떻게 받아들여야 할지 모르겠어."
 
 # game/code/d09/d09s08.rpy:149
 translate korean d09s08_11a09cb2:
@@ -446,7 +446,7 @@ translate korean d09s08_a31340dd:
 translate korean d09s08_fccb439d:
 
     # lc "Really. Like... I really liked hearing about them from you."
-    lc "정말. 좋았어... 그런 이야기를 듣고 있으니 정말 좋았어."
+    lc "정말. 좋았어... 너한테 직접 그런 이야기를 들으니까 정말 좋았어."
 
 # game/code/d09/d09s08.rpy:154
 translate korean d09s08_84f16542:
@@ -458,7 +458,7 @@ translate korean d09s08_84f16542:
 translate korean d09s08_cdacf4f7:
 
     # lc "I like hearing about the things you've done. {w}Even about the people you've done."
-    lc "난 네가 한 일을 듣는 게 좋아. {w}너랑 한 사람에 관해서 듣는 것도 좋고."
+    lc "난 네가 한 일을 듣는 게 좋아. {w}네가 함께한 사람들 이야기도 좋아."
 
 # game/code/d09/d09s08.rpy:157
 translate korean d09s08_ad1eaa57:
@@ -470,7 +470,7 @@ translate korean d09s08_ad1eaa57:
 translate korean d09s08_f8131968:
 
     # lc "But, at the same time I know myself. I know that if you told me you were going to fuck someone I would just get filled up with jealousy."
-    lc "하지만, 난 날 알아. 다른 사람이랑 떡 칠 거란 소리를 하면 내가 질투심에 눈이 멀 수도 있어."
+    lc "하지만 난 내 마음을 알아. 네가 다른 여자랑 잘 거라는 말을 미리 들으면 질투심에 휩싸일 것 같거든."
 
 # game/code/d09/d09s08.rpy:159
 translate korean d09s08_0b630021:
@@ -494,7 +494,7 @@ translate korean d09s08_4e091378:
 translate korean d09s08_79f31cfe:
 
     # lc "I will want to hear about what or who you did at tomorrow's Party."
-    lc "지난주 파티에서 네가 누구랑 뭘 했는지 듣고 싶을 거야."
+    lc "내일 파티에서 네가 누구와 무엇을 했는지도 듣고 싶을 거야."
 
 # game/code/d09/d09s08.rpy:166
 translate korean d09s08_17d56721:
@@ -506,31 +506,31 @@ translate korean d09s08_17d56721:
 translate korean d09s08_528accdb:
 
     # mc "I don't understand."
-    mc "이해 못하겠어."
+    mc "무슨 말인지 잘 모르겠어."
 
 # game/code/d09/d09s08.rpy:169
 translate korean d09s08_ae6abb16:
 
     # lc "It's weird. I know. I'm trying to figure it out myself."
-    lc "이상하지. 나도 알아. 나 스스로도 왜 이러는지 고민해 보고 있어."
+    lc "이상하지. 나도 알아. 나도 내가 왜 이러는지 알아내려는 중이야."
 
 # game/code/d09/d09s08.rpy:170
 translate korean d09s08_f46c00b3:
 
     # lc "Let me put it this way - if you knew you were going to hook up with another girl, I would be upset."
-    lc "이렇게 말해 보자. 네가 여자를 낚을 거라는 사실을 알게 되면, 난 화가 날 거야."
+    lc "이렇게 말해 보자. 네가 다른 여자랑 섹스할 거라는 걸 미리 알게 되면, 난 속상할 거야."
 
 # game/code/d09/d09s08.rpy:172
 translate korean d09s08_3ca9e0dd:
 
     # lc "But if you hook up with another girl and tell me about it, I would feel like you trust me and it would make me very happy."
-    lc "하지만 어떤 여자를 낚고 그 사실을 나한테 말한다면, 난 널 믿고 엄청 행복할 거야."
+    lc "하지만 네가 다른 여자랑 섹스하고 나서 나한테 얘기해 준다면, 네가 날 믿어 준다는 느낌이 들어서 정말 기쁠 것 같아."
 
 # game/code/d09/d09s08.rpy:175
 translate korean d09s08_29bd6c63:
 
     # mc "That is weird but I kinda understand."
-    mc "이상하긴 하지만 대충은 알겠어 수 있어."
+    mc "이상하긴 한데, 무슨 말인지는 좀 알 것 같아."
 
 # game/code/d09/d09s08.rpy:176
 translate korean d09s08_54d5500a:
@@ -548,13 +548,13 @@ translate korean d09s08_d4059a9e:
 translate korean d09s08_b9a4278a:
 
     # mc "You want me to have new stories to tell you about, but you don't want me to tell you what is going to happen before it does."
-    mc "내가 한 일을 듣는 건 좋지만, 내가 무슨 일을 할 거라는 건 듣고 싶어하지 않는 거지."
+    mc "넌 내가 새로 들려줄 이야기를 만들어 오길 바라지만, 내가 무슨 일을 할 거라는 건 듣고 싶어하지 않는 거지."
 
 # game/code/d09/d09s08.rpy:181
 translate korean d09s08_da22f1f9:
 
     # lc "Exactly. {w}I guess what I'm saying is \"No Spoilers\"."
-    lc "정확해. {w} \"일러두기 금지\"라고 말할 수 있겠다."
+    lc "정확해. {w} 한마디로 \"일러두기 금지\"라는 거지."
 
 # game/code/d09/d09s08.rpy:183
 translate korean d09s08_d64da203:
@@ -596,19 +596,19 @@ translate korean d09s08_538f852d:
 translate korean d09s08_abcaf173:
 
     # mc "Works for me. So, I won't be going to the Party tomorrow."
-    mc "나한텐 있지. 난 내일 파티에 가지 않을 거니까."
+    mc "난 좋아. 그러면 난 내일 파티에 가지 않을 거야."
 
 # game/code/d09/d09s08.rpy:195
 translate korean d09s08_e2acff14:
 
     # lc "Oh, no. That won't work. Don't lie to me."
-    lc "아, 아냐. 그런 식으로 하는 게 아니라구. 나한텐 거짓말하지 말구."
+    lc "아, 아냐. 그런 식으로 하는 게 아니라고. 나한테 거짓말하면 안 돼."
 
 # game/code/d09/d09s08.rpy:197
 translate korean d09s08_6a189cd4:
 
     # mc "Let me finish - I won't be going to the Party tomorrow, but I will have gone to the Party the night before we talk about it on Thursday."
-    mc "하던 말 마칠게. 난 내일 파티에 가지 않을 거지만, 목요일 밤에 우리가 이야길 하긴 전까진 파티에 갔을 거란 소리야."
+    mc "하던 말 마칠게. 내가 내일 파티에 가는 건 아니지만, 목요일에 우리가 이야기할 때는 전날 밤 파티에 갔다 온 게 되어 있을 거야."
 
 # game/code/d09/d09s08.rpy:198
 translate korean d09s08_78e7d43d:
@@ -626,7 +626,7 @@ translate korean d09s08_63de190a:
 translate korean d09s08_d6856833:
 
     # mc "Cool. So we're on the same page."
-    mc "좋아. 이제 우리 이 책에서 같은 쪽에 있는 거야."
+    mc "좋아. 이제 우리 이 책에서 같은 쪽을 읽고 있는 거네."
 
 # game/code/d09/d09s08.rpy:204
 translate korean d09s08_6e0b201a:
@@ -650,13 +650,13 @@ translate korean d09s08_42fb5cd6:
 translate korean d09s08_a983a9ea:
 
     # mc "Huh? Oh, yeah. The one who left the next morning for a religious retreat."
-    mc "어? 아, 맞아. 종교적 묵상인가 때문에 그 다음날 아침 빠졌지."
+    mc "어? 아, 맞아. 종교적 묵상에 간다며 다음 날 아침 떠난 애."
 
 # game/code/d09/d09s08.rpy:213
 translate korean d09s08_98d46825:
 
     # lc "Yeah, you totally won't believe what she's been up to since she got back..."
-    lc "맞아, 걔가 돌아와서 무슨 일을 하고 있는지 알면 놀랄 걸..."
+    lc "맞아, 걔가 돌아와서 무슨 일을 하고 있는지 알면 놀랄걸..."
 
 # game/code/d09/d09s08.rpy:214
 translate korean d09s08_a20cefa7:
