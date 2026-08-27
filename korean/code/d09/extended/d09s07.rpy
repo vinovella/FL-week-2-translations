@@ -2,13 +2,13 @@
 translate korean d09s07_e733d4b9:
 
     # "After short trip [mcname] and Samiya stop near a hotel's entrance."
-    "짧은 여정 이후 [mcname] 영과 사미야는 한 호텔 입구 근처에 도착한다."
+    "짧은 이동 끝에 어느 호텔 입구 근처에 멈춰 선 사미야와 [mcname]."
 
 # game/code/d09/extended/d09s07.rpy:48
 translate korean d09s07_a349e3dc:
 
     # mct "Now I need to meet Samiya for this strange task... {w}I guess there is no turning back."
-    mct "이제 이놈의 이상한 일 때문에 사미야를 만나야 돼... {w}되돌릴 수 없는 일 같은데."
+    mct "이제 이놈의 이상한 일 때문에 사미야를 만나야 돼... {w}이제는 돌이킬 수도 없겠지."
 
 # game/code/d09/extended/d09s07.rpy:53
 translate korean d09s07_7c2e389c:
@@ -20,7 +20,7 @@ translate korean d09s07_7c2e389c:
 translate korean d09s07_d770a6b1:
 
     # sb "Good news. You get to rape somebody."
-    sb "희소식을 전해 주지. 넌 강간을 할 거야."
+    sb "좋은 소식 하나 알려 줄게. 너한테 강간할 기회가 생겼거든."
 
 # game/code/d09/extended/d09s07.rpy:57
 translate korean d09s07_5d3ca408:
@@ -56,7 +56,7 @@ translate korean d09s07_004b029a:
 translate korean d09s07_8126f0c0:
 
     # sb "Well, she paying me for a guy or guys to rape her. She calls it forced sexual roleplay."
-    sb "그래, 한 명이나 여러 명의 남자한테 강간 당하게 해 달라고 나한테 돈을 냈어. 강제적인 성적 역할극이라고 하더라."
+    sb "글쎄, 자길 강간해 줄 남자 한 명이나 여러 명을 구해 달라고 나한테 돈을 줬거든. 본인은 강제 성관계 역할극이라고 부르더라고."
 
 # game/code/d09/extended/d09s07.rpy:70
 translate korean d09s07_f4bf12ce:
@@ -80,13 +80,13 @@ translate korean d09s07_e0561b49:
 translate korean d09s07_31cee9e7:
 
     # sb "Rape roleplay-ist... {w}and you're still listening."
-    sb "강간 역할극 같은 거지... {w}너도 관심이 있으니까 듣고 있는 거잖아."
+    sb "강간범이 아니라 강간 역할극 배우지... {w}그리고 너도 관심이 있으니까 듣고 있는 거잖아."
 
 # game/code/d09/extended/d09s07.rpy:77
 translate korean d09s07_a949d20e:
 
     # mc "You're sitting in a coffee shop and the guy at the next table starts telling you about his experiences with alien abduction."
-    mc "네가 커피숍에 앉아 있는데 그 옆 탁자에 남자가 갑자기 너한테 말을 걸어서 외계인에게 했다는 말을 한다고 해 봐."
+    mc "네가 커피숍에 앉아 있는데, 옆 탁자에 남자가 갑자기 외계인한테 납치당했던 경험담을 털어놓기 시작한다고 해 봐."
 
 # game/code/d09/extended/d09s07.rpy:78
 translate korean d09s07_df68be80:
@@ -98,7 +98,7 @@ translate korean d09s07_df68be80:
 translate korean d09s07_60c432b3:
 
     # sb "Okay, so let me tell you about this abduction."
-    sb "그렇지. 이제 내가 너한테 이 역할극에 관해서 설명해 줄게."
+    sb "좋아, 그럼 이제 이 납치극에 대해 말해 줄게."
 
 # game/code/d09/extended/d09s07.rpy:83
 translate korean d09s07_51ed2154:
@@ -128,7 +128,7 @@ translate korean d09s07_f1ecb14d:
 translate korean d09s07_3a8bca94:
 
     # mc "So you say. {w}No, I need to hear it from her first."
-    mc "그건 네가 하는 말이고. {w}싫다고, 정말 그런지 해 달라고 한 사람한테 확인을 받아야겠어."
+    mc "그건 네가 하는 말이고. {w}아니, 우선 본인 입으로 직접 들어야겠어."
 
 # game/code/d09/extended/d09s07.rpy:92
 translate korean d09s07_9a1a0502:
@@ -152,7 +152,7 @@ translate korean d09s07_2689b56d:
 translate korean d09s07_d06e2d44:
 
     # sb "Yep. Fuck that pussy, torture her tits, whatever you want. Just get her to say that phrase."
-    sb "그려. 보지에 박고, 젖을 괴롭히고, 하고 싶은 건 뭐든 해. 그 말만 들으면 되니까."
+    sb "그래. 보지에 박고, 젖을 괴롭히고, 하고 싶은 건 뭐든 해. 그 말만 들으면 되니까."
 
 # game/code/d09/extended/d09s07.rpy:102
 translate korean d09s07_ee4ed6e1:
@@ -164,19 +164,19 @@ translate korean d09s07_ee4ed6e1:
 translate korean d09s07_07864c6c:
 
     # sb "Apparently he's been stealing spinach."
-    sb "뽀빠이가 시금치를 훔친 건 맞지만."
+    sb "듣자하니 그 양반이 시금치를 훔친 모양이던데."
 
 # game/code/d09/extended/d09s07.rpy:106
 translate korean d09s07_f538cffe:
 
     # mc "Or maybe lacing those chicken sandwiches with addictive substances."
-    mc "아니면 파파이스가 치킨 샌드위치에 중독 물질을 넣어서 그런 걸 수도 있고."
+    mc "아니면 파파이스가 치킨 샌드위치에 마약이라도 탄 걸지도 모르고."
 
 # game/code/d09/extended/d09s07.rpy:108
 translate korean d09s07_09b1aed0:
 
     # sb "Exactly."
-    sb "그렇지."
+    sb "그렇네."
 
 # game/code/d09/extended/d09s07.rpy:110
 translate korean d09s07_964f5171:
@@ -188,13 +188,13 @@ translate korean d09s07_964f5171:
 translate korean d09s07_f8480dc5:
 
     # sb "Here, I brought a mask for you."
-    sb "여기, 너 주려고 복면 가져왔다."
+    sb "자, 너 주려고 복면 가져왔다."
 
 # game/code/d09/extended/d09s07.rpy:115
 translate korean d09s07_6a38bffb:
 
     # sb "Go knock at room 569 and talk to her. See how you feel about it then."
-    sb "569호실 두드리고 말을 걸어. 그리고 어떤 기분이 드는지 잘 느껴 보시라고."
+    sb "569호실 문 두드리고 직접 이야기해 봐. 그런 다음에 결정해."
 
 # game/code/d09/extended/d09s07.rpy:117
 translate korean d09s07_045ac921:
@@ -212,7 +212,7 @@ translate korean d09s07_8f8d9e8c:
 translate korean d09s07_07dfee0a:
 
     # mct "Terrific.{w} What the hell am I doing?"
-    mct "준비성도 철저하셔.{w} 씨발 내가 뭘 하는 거람?"
+    mct "환장하겠네.{w} 씨발, 내가 지금 뭘 하는 거지?"
 
 # game/code/d09/extended/d09s07.rpy:127
 translate korean d09s07_96c2ca1b:
@@ -254,7 +254,7 @@ translate korean d09s07_70772979:
 translate korean d09s07_87b9fa6e:
 
     # jdg "I am... {w}What's this about?"
-    jdg "저... {w}무슨 일 때문에 그러시죠?"
+    jdg "네, 맞습니다... {w}무슨 일 때문에 그러시죠?"
 
 # game/code/d09/extended/d09s07.rpy:155
 translate korean d09s07_9bacafc9:
@@ -266,7 +266,7 @@ translate korean d09s07_9bacafc9:
 translate korean d09s07_d2edf73e:
 
     # "???" "You've probably seen my posters. I'm up for reelection this year."
-    "???" "제 전단을 보신 모양이네요. 올해 재선을 준비하고 있으니까요."
+    "???" "제 선거 홍보물을 보신 모양이네요. 올해 재선을 준비하고 있거든요."
 
 # game/code/d09/extended/d09s07.rpy:160
 translate korean d09s07_eb2f402d:
@@ -278,7 +278,7 @@ translate korean d09s07_eb2f402d:
 translate korean d09s07_24b3c4de:
 
     # jdg "I am... {w}Do you normally knock on hotel doors without knowing who is there?"
-    jdg "저... {w}누가 있는 줄 모르고 호텔 방문을 두드리시나요?"
+    jdg "네, 맞습니다... {w}누가 있는 줄 모르고 호텔 방문을 두드리시나요?"
 
 # game/code/d09/extended/d09s07.rpy:166
 translate korean d09s07_95096c0e:
@@ -302,7 +302,7 @@ translate korean d09s07_ca96a0b0:
 translate korean d09s07_f745b958:
 
     # jdg "Let me make this perfectly clear."
-    jdg "분명하게 정하고 가죠."
+    jdg "분명히 해 두고 가죠."
 
 # game/code/d09/extended/d09s07.rpy:173
 translate korean d09s07_d98a1a35:
@@ -314,7 +314,7 @@ translate korean d09s07_d98a1a35:
 translate korean d09s07_e1ad7efa:
 
     # jdg "My soft safeword is kumquat.{w} Kumquat. Can you remember that?"
-    jdg "제 일시 안전어는 금귤예요.{w} 금귤. 기억하시겠어요?"
+    jdg "제 일시 정지 안전어는 금귤이에요.{w} 금귤. 기억하시겠어요?"
 
 # game/code/d09/extended/d09s07.rpy:178
 translate korean d09s07_51404530:
@@ -326,7 +326,7 @@ translate korean d09s07_51404530:
 translate korean d09s07_46152c0a:
 
     # jdg "If I say kumquat, then whatever we are doing stops temporarily."
-    jdg "제가 금귤이라고 말하면, 우리가 뭘하고 있든 간에 잠시 멈추는 거에요."
+    jdg "제가 금귤이라고 말하면, 우리가 뭘 하고 있든 잠시 멈추는 거예요."
 
 # game/code/d09/extended/d09s07.rpy:181
 translate korean d09s07_e7811348:
@@ -338,7 +338,7 @@ translate korean d09s07_e7811348:
 translate korean d09s07_e65f240b:
 
     # jdg "No. My hard safeword is a phrase. \"Popeye is not guilty.\" You get me to say that, this game is over."
-    jdg "네. 제 완전 안전어는 \"뽀빠이는 무죄다.\"라는 문장이구요. 제가 그 말을 하게 만들면, 이 놀이는 끝이에요."
+    jdg "네. 제 완전 정지 안전어는 \"뽀빠이는 무죄다.\"라는 문장이고요. 제가 그 말을 하게 만들면, 이 놀이는 끝이에요."
 
 # game/code/d09/extended/d09s07.rpy:186
 translate korean d09s07_f5910228:
@@ -350,7 +350,7 @@ translate korean d09s07_f5910228:
 translate korean d09s07_66953696:
 
     # jdg "Your goal is to get me to say that \"Popeye is not guilty\", preferably without forcing me to say kumquat."
-    jdg "귀하의 목표는 저한테 \"뽀빠이는 무죄다\"라는 문장을 말하게 하는 거고, 제가 금귤을 말하게 할 필욘 없어요."
+    jdg "귀하의 목표는 저한테 \"뽀빠이는 무죄다\"라는 말을 들으시는 겁니다. 가급적 제가 금귤을 외쳐야 할 상황은 만들지 않으시면서요."
 
 # game/code/d09/extended/d09s07.rpy:189
 translate korean d09s07_c7510e07:
@@ -374,7 +374,7 @@ translate korean d09s07_b0016dd4:
 translate korean d09s07_30a60e90:
 
     # jdg "Good for you. {w}So, are you going to do something or just fucking stand there all night?"
-    jdg "잘 됐네요. {w}그럼, 뭐 하고 있어, 언제까지 그렇게 병신처럼 서 있을 거야?"
+    jdg "잘됐군요. {w}그래서, 뭐라도 할 거야, 아니면 밤새도록 멍청하게 거기 서 있기만 할 거야?"
 
 # game/code/d09/extended/d09s07.rpy:226
 translate korean d09s07_part1_44dd89e2:
@@ -410,13 +410,13 @@ translate korean d09s07_part1_75274bc4:
 translate korean d09s07_part1_fdd96405:
 
     # mc "You know what I want?"
-    mc "내가 뭘 할지 알아?"
+    mc "내가 원하는 게 뭔지 알아?"
 
 # game/code/d09/extended/d09s07.rpy:256
 translate korean d09s07_part1_2b848459:
 
     # mc "I don't want your sagging tits!"
-    mc "난 네년의 처진 젖탱이를 원하는 게 아냐!"
+    mc "난 네년의 처진 젖통 따위를 원하는 게 아니야!"
 
 # game/code/d09/extended/d09s07.rpy:262
 translate korean d09s07_part1_723c8655:
@@ -434,7 +434,7 @@ translate korean d09s07_part1_e73ed796:
 translate korean d09s07_part1_4d5f5d74:
 
     # mc "...that sailor is not guilty!"
-    mc "... 그 선원은 무죄라고!"
+    mc "...그 선원은 무죄라고!"
 
 # game/code/d09/extended/d09s07.rpy:275
 translate korean d09s07_part1_f3c26ddb:
@@ -446,13 +446,13 @@ translate korean d09s07_part1_f3c26ddb:
 translate korean d09s07_part1_778be498:
 
     # mc "Lets see how long you can keep this up."
-    mc "얼마나 오래 도도하게 굴 수 있는지 보자고."
+    mc "그렇게 얼마나 버틸 수 있나 보자고."
 
 # game/code/d09/extended/d09s07.rpy:280
 translate korean d09s07_part1_77164c8b:
 
     # jdg "Also, don't bruise my face. It will be difficult to explain."
-    jdg "참, 내 얼굴에 멍은 만들지 마. 설명하기 어려우니까."
+    jdg "참, 내 얼굴에 멍 만들지 마. 변명하기 어려우니까."
 
 # game/code/d09/extended/d09s07.rpy:284
 translate korean d09s07_part1_5a800c67:
@@ -506,7 +506,7 @@ translate korean d09s07_part1_bc0db522:
 translate korean d09s07_bj_80744895:
 
     # mc "That's the last I'm going to hear from you...{w} for a little while"
-    mc "그게 마지막으로 듣는 말이겠는데...{w} 한동안은"
+    mc "이제 네 말을 들을 일이 없겠군...{w} 한동안은."
 
 # game/code/d09/extended/d09s07.rpy:347
 translate korean d09s07_bj_bace6fe7:
@@ -530,13 +530,13 @@ translate korean d09s07_bj_c2b89c00:
 translate korean d09s07_bj_cbf3bf89:
 
     # mc "Is it because my cock is balls deep in your whore mouth?"
-    mc "네년의 창녀 주둥이에 내 좆이 뿌리까지 박혀서 그런가?"
+    mc "네년의 창녀 주둥이에 내 좆이 뿌리까지 처박혀 있어서 그런가?"
 
 # game/code/d09/extended/d09s07.rpy:357
 translate korean d09s07_bj_825653e1:
 
     # mc "Well, I guess I should give you a chance to breathe."
-    mc "흠, 숨실 기회는 줘야겠지."
+    mc "흠, 숨 쉴 기회는 줘야겠지."
 
 # game/code/d09/extended/d09s07.rpy:358
 translate korean d09s07_bj_25441248:
@@ -554,7 +554,7 @@ translate korean d09s07_bj_83991a96:
 translate korean d09s07_bj_aff072e3:
 
     # mc "Oh, fine."
-    mc "아, 좋은데."
+    mc "아, 알았어."
 
 # game/code/d09/extended/d09s07.rpy:366
 translate korean d09s07_bj_9a762b38:
@@ -608,13 +608,13 @@ translate korean d09s07_bj_6abe67cc:
 translate korean d09s07_bj_41e35daa:
 
     # mc "The idea is that you shove a dirty towel down someone's throat all the way to the point that it fills both of their lungs."
-    mc "어떤 사람 목구멍에 더러운 수건을 쑤셔 넣는거야. 폐 두 쪽을 모두 채울 정도로 말야."
+    mc "더러운 수건을 목구멍 깊숙이 쑤셔 넣어서 양쪽 폐를 꽉 막아버리는 거지."
 
 # game/code/d09/extended/d09s07.rpy:388
 translate korean d09s07_bj_e077c458:
 
     # mc "Then you soak the towel in water."
-    mc "그다음엔 수건에 물을 붓는 거지."
+    mc "그다음엔 수건에 물을 붓는 거야."
 
 # game/code/d09/extended/d09s07.rpy:389
 translate korean d09s07_bj_2fa1c866:
@@ -626,7 +626,7 @@ translate korean d09s07_bj_2fa1c866:
 translate korean d09s07_bj_1df29fb5:
 
     # mc "Not just the impression - as far as anyone is concerned, it is basically lung failure."
-    mc "하지만 그냥 느낌만 그런 게 아니지. 기본적으로 폐 부전에 걸리게 되니까. 그래도 걱정하는 사람이 있기나 할지 모르겠지만."
+    mc "단순한 느낌이 아니야. 누가 봐도 사실상 폐가 기능을 멈춘 상태나 마찬가지니까."
 
 # game/code/d09/extended/d09s07.rpy:392
 translate korean d09s07_bj_9660cd0d:
@@ -644,7 +644,7 @@ translate korean d09s07_bj_2f2624b9:
 translate korean d09s07_bj_6d7ac427:
 
     # jdg "That violates the Geneva Convention."
-    jdg "그런 짓은 제네바 협약 위반이야."
+    jdg "그런 짓은 제네바 협약 위반이라고."
 
 # game/code/d09/extended/d09s07.rpy:403
 translate korean d09s07_bj_a3d41786:
@@ -668,19 +668,19 @@ translate korean d09s07_bjtorture_7118439c:
 translate korean d09s07_bjtorture_7b019173:
 
     # mc "Damn! It's like your face was meant for fucking."
-    mc "젠장! 네 얼굴은 박아 달라는 표정이네."
+    mc "젠장! 네 얼굴은 박으라고 있는 것 같군."
 
 # game/code/d09/extended/d09s07.rpy:436
 translate korean d09s07_bjtorture_0797ebd4:
 
     # mc "I've never seen something so inviting as your mouth."
-    mc "네 입처럼 간절하게 바라는 건 본 적이 없어."
+    mc "네 입만큼 날 유혹하는 건 본 적이 없어."
 
 # game/code/d09/extended/d09s07.rpy:437
 translate korean d09s07_bjtorture_920af2d7:
 
     # mc "If I'm not careful, I'm going to drop my first load down your throat."
-    mc "주의하지 않았으면, 네년 목구멍에 첫 발을 쏠 뻔 했어."
+    mc "하마터면 네 목구멍에 첫 발을 쏴 버릴 뻔 했잖아."
 
 # game/code/d09/extended/d09s07.rpy:444
 translate korean d09s07_bjtorture_a61571ac:
@@ -722,7 +722,7 @@ translate korean d09s07_part2_b7e24e8c:
 translate korean d09s07_part2_12734915:
 
     # mc "I wanna see what else you've been hiding."
-    mc "네가 뭘 감추고 있었는지 보실까."
+    mc "또 뭘 숨기고 있었는지 볼까."
 
 # game/code/d09/extended/d09s07.rpy:471
 translate korean d09s07_part2_659f7335:
@@ -740,7 +740,7 @@ translate korean d09s07_part2_0e47dc07:
 translate korean d09s07_part2_3763f71a:
 
     # mc "Well, look what we have here."
-    mc "음, 여기 상황 좀 봐라."
+    mc "이것 봐라. 여기 꽤 볼만한 게 있네."
 
 # game/code/d09/extended/d09s07.rpy:484
 translate korean d09s07_part2_1fee38f0:
@@ -752,7 +752,7 @@ translate korean d09s07_part2_1fee38f0:
 translate korean d09s07_part2_9e39659c:
 
     # mc "... and I have a raging hard-on"
-    mc "... 난 격하게 발기를 하고 있네."
+    mc "...내 물건은 터질 듯이 서 있지."
 
 # game/code/d09/extended/d09s07.rpy:489
 translate korean d09s07_part2_30155efe:
@@ -818,13 +818,13 @@ translate korean d09s07_sex_3ed0be9b:
 translate korean d09s07_sex_7889f170:
 
     # mct "This clearly isn't working"
-    mct "이건 분명히 일이 이상하게 굴러가는데."
+    mct "이래서는 안전어를 말하게 못 하겠어."
 
 # game/code/d09/extended/d09s07.rpy:546
 translate korean d09s07_sex_3af67459:
 
     # mct "On the other hand, she might cum like this."
-    mct "하지만, 이 여자가 이렇게 애걸하면서 가려고 하잖아."
+    mct "반대로, 이대로라면 이 여자가 절정할 수도 있겠어."
 
 # game/code/d09/extended/d09s07.rpy:547
 translate korean d09s07_sex_e850d760:
@@ -848,7 +848,7 @@ translate korean d09s07_sex2_e136bacb:
 translate korean d09s07_sex2_c814e392:
 
     # mc "Lets ramp things up."
-    mc "좀 빠르게 가 보자고."
+    mc "강도를 좀 더 높여 보자고."
 
 # game/code/d09/extended/d09s07.rpy:583
 translate korean d09s07_sex2_c08978be:
@@ -896,7 +896,7 @@ translate korean d09s07_end_86bd6342:
 translate korean d09s07_end_cf68378e:
 
     # mc "Sorry, I guess that was too intense. I've never done this before."
-    mc "미안해요, 너무 세게 간 것 같네요. 이런 건 처음해 봐서요."
+    mc "미안해요, 너무 세게 간 것 같네요. 이런 건 처음 해 봐서요."
 
 # game/code/d09/extended/d09s07.rpy:631
 translate korean d09s07_end_f5e68828:
@@ -920,13 +920,13 @@ translate korean d09s07_end_80fb6ca1:
 translate korean d09s07_end_31ef3229:
 
     # mc "Was it everything you wanted?"
-    mc "원하는 건 전부 한 거죠?"
+    mc "원하는 건 다 한 거죠?"
 
 # game/code/d09/extended/d09s07.rpy:641
 translate korean d09s07_end_94ad559a:
 
     # jdg "I... what?"
-    jdg "내가... 원했다고?"
+    jdg "내가... 뭐?"
 
 # game/code/d09/extended/d09s07.rpy:643
 translate korean d09s07_end_57a22681:
@@ -938,7 +938,7 @@ translate korean d09s07_end_57a22681:
 translate korean d09s07_end_e9598030:
 
     # jdg "Roleplay? What are you talking about?"
-    jdg "역할극? 무슨 소리는 하는 거야?"
+    jdg "역할극? 무슨 소리를 하는 거야?"
 
 # game/code/d09/extended/d09s07.rpy:648
 translate korean d09s07_end_cbcf6bb4:
@@ -950,7 +950,7 @@ translate korean d09s07_end_cbcf6bb4:
 translate korean d09s07_end_57cff260:
 
     # mc "Don't tell me... {w}You requested this, didn't you?"
-    mc "설마 아니죠... {w}이렇게 해 달라고 했잖아요, 그쵸?"
+    mc "설마... {w}이렇게 해 달라고 요청한 거 맞죠?"
 
 # game/code/d09/extended/d09s07.rpy:652
 translate korean d09s07_end_956a76f8:
@@ -968,7 +968,7 @@ translate korean d09s07_end_12442001:
 translate korean d09s07_end_40777db7:
 
     # mc "I'm so sorry. I can't-"
-    mc "정말 죄송합니다. 전 이럴-"
+    mc "정말 죄송합니다. 전 못-"
 
 # game/code/d09/extended/d09s07.rpy:660
 translate korean d09s07_end_3eb6a03b:
@@ -980,7 +980,7 @@ translate korean d09s07_end_3eb6a03b:
 translate korean d09s07_end_5718b307:
 
     # jdg "No one has ever fucked me like that. {w}You were amazing!"
-    jdg "누구도 날 이렇게 박은 적은 없었어. {w}넌 정말 대단했어!"
+    jdg "지금껏 아무도 이런 식으로 박아댄 적은 없었어. {w}너 진짜 끝내주더라!"
 
 # game/code/d09/extended/d09s07.rpy:664
 translate korean d09s07_end_b625b180:
@@ -992,7 +992,7 @@ translate korean d09s07_end_b625b180:
 translate korean d09s07_end_923531c6:
 
     # jdg "I mean, sure, you were raping the shit out of me."
-    jdg "이런 말이야, 맞아, 넌 날 존나게 강간했지."
+    jdg "아니, 물론, 넌 날 존나게 강간했지."
 
 # game/code/d09/extended/d09s07.rpy:667
 translate korean d09s07_end_04d36be1:
@@ -1004,7 +1004,7 @@ translate korean d09s07_end_04d36be1:
 translate korean d09s07_end_833184ec:
 
     # mc "You're kidding me?"
-    mc "진심으로 하는 말이죠?"
+    mc "농담이죠?"
 
 # game/code/d09/extended/d09s07.rpy:672
 translate korean d09s07_end_7b4b5982:
@@ -1016,19 +1016,19 @@ translate korean d09s07_end_7b4b5982:
 translate korean d09s07_end_0336eadd:
 
     # mct "This is so incredibly fucked up."
-    mct "믿을 수 없을 정도로 좆된 거 같은데."
+    mct "이거 상황이 완전히 미쳐 돌아가는데."
 
 # game/code/d09/extended/d09s07.rpy:676
 translate korean d09s07_end_84987fdc:
 
     # mct "For fucks' sake, is she masturbating right now?"
-    mct "세상에 씨발, 지금 자위를 하는 거야?"
+    mct "아니 미친 씨발, 이 여자 지금 자위하는 거야?"
 
 # game/code/d09/extended/d09s07.rpy:678
 translate korean d09s07_end_24bcc69a:
 
     # jdg "I don't suppose you've got another round in you?"
-    jdg "또 쌀 순 없지?"
+    jdg "한 판 더 할 힘은 안 남았겠지?"
 
 # game/code/d09/extended/d09s07.rpy:684
 translate korean d09s07_end_24aca9fb:
@@ -1040,13 +1040,13 @@ translate korean d09s07_end_24aca9fb:
 translate korean d09s07_end_9abf2268:
 
     # mc "Was it everything you were hoping for?"
-    mc "원하는 건 전부 한 거죠?"
+    mc "기대하던 그대로였나요?"
 
 # game/code/d09/extended/d09s07.rpy:692
 translate korean d09s07_end_058a0175:
 
     # jdg "Definitely. Thanks."
-    jdg "다 했어. 고마워."
+    jdg "물론이지. 고마워."
 
 # game/code/d09/extended/d09s07.rpy:693
 translate korean d09s07_end_a898ccb5:
@@ -1076,7 +1076,7 @@ translate korean d09s07_end_2a67fcb3:
 translate korean d09s07_end_2737784e:
 
     # jdg "Do you mind if I jill off here for a bit?"
-    jdg "여기에서 딸 좀 쳐도 괜찮지?"
+    jdg "여기에서 손장난 치고 있어도 괜찮지?"
 
 # game/code/d09/extended/d09s07.rpy:712
 translate korean d09s07_end_efe5a126:
@@ -1118,13 +1118,13 @@ translate korean d09s07_end_e6c6a17d:
 translate korean d09s07_end_6250a6df:
 
     # jdg "Find me again sometime. The more unexpected the better."
-    jdg "가끔 나 찾아와. 예상하지 못할 때 오면 더 좋구."
+    jdg "언제 한번 다시 찾아와. 예상하지 못할수록 더 좋고."
 
 # game/code/d09/extended/d09s07.rpy:734
 translate korean d09s07_end_3bc965e7:
 
     # jdg "Maybe next time you could bring a friend to help you?"
-    jdg "다음 번엔 친구도 데리고 올 수 있니?"
+    jdg "다음번에는 도와줄 친구도 한 명 데려올래?"
 
 # game/code/d09/extended/d09s07.rpy:737
 translate korean d09s07_end_69b0ce1b:
@@ -1160,19 +1160,19 @@ translate korean d09s07_end_812349f3:
 translate korean d09s07_end_10d83445:
 
     # jdg "You know, it doesn't have to always be the same kink.{w} If you prefer, next time we could do something different."
-    jdg "알지, 언제나 같은 변태 짓을 할 필욘 없어.{w} 원하는 게 있으면, 다른 걸 해도 돼."
+    jdg "알지, 언제나 같은 변태 짓을 할 필요는 없어.{w} 네가 원한다면 다음번에는 다른 걸 해도 되고."
 
 # game/code/d09/extended/d09s07.rpy:753
 translate korean d09s07_end_3055c61e:
 
     # mc "Well, like you said, I know who you are. {w}If I'm interested, I'll find you."
-    mc "음, 말씀하신 거처럼, 어떤 분인지 아니까요. {w}관심있으면, 찾아갈게요."
+    mc "음, 말씀하신 거처럼, 어떤 분인지 아니까요. {w}관심 있으면 제가 찾아갈게요."
 
 # game/code/d09/extended/d09s07.rpy:755
 translate korean d09s07_end_06af33c7:
 
     # jdg "That sounds like a threat. You're making me hot."
-    jdg "무슨 협박처럼 들리네. 넌 내 몸이 달게 만들어."
+    jdg "무슨 협박처럼 들리네. 그러니까 흥분되잖아."
 
 # game/code/d09/extended/d09s07.rpy:758
 translate korean d09s07_end_c950e762:
@@ -1190,7 +1190,7 @@ translate korean d09s07_end_680292c8:
 translate korean d09s07_end_552db567:
 
     # mct "That better be enough to get Stacy's luggage back."
-    mct "이 정도면 스테이시 짐 찾기엔 충분하겠지. "
+    mct "이 정도면 스테이시 짐 돌려받기엔 충분하겠지."
 
 # game/code/d09/extended/d09s07.rpy:794
 translate korean d09s07_phone_b91bee09:
@@ -1202,13 +1202,13 @@ translate korean d09s07_phone_b91bee09:
 translate korean d09s07_phone_65be02dd:
 
     # mct "App knows that I raped someone..."
-    mct "앱이 내가 누굴 강간했다는 걸 알고 있잖아..."
+    mct "이 앱은 내가 누구 하나를 강간했다는 것까지 알고 있네..."
 
 # game/code/d09/extended/d09s07.rpy:798
 translate korean d09s07_phone_141291e6:
 
     # mct "I hope it also knows that it was just a roleplay."
-    mct "이게 역할극이었다는 것도 알아야 하는데."
+    mct "이게 그저 역할극이었다는 것도 앱이 알면 좋겠는데."
 
 # game/code/d09/extended/d09s07.rpy:803
 translate korean d09s07_phone_50a03c0e:
@@ -1256,13 +1256,13 @@ translate korean d09s07_quit_0ddc9801:
 translate korean d09s07_quit_4337adb7:
 
     # jdg "What are you talking about?"
-    jdg "무슨 말을 하는 거에요?"
+    jdg "무슨 말을 하는 거예요?"
 
 # game/code/d09/extended/d09s07.rpy:832
 translate korean d09s07_quit_bf726513:
 
     # mc "I'm just going to leave now."
-    mc "전 이제 갈 거에요."
+    mc "전 이제 갈 거예요."
 
 # game/code/d09/extended/d09s07.rpy:834
 translate korean d09s07_quit_fcc10efe:
@@ -1286,25 +1286,25 @@ translate korean d09s07_quit_00459698:
 translate korean d09s07_quit_ce88f116:
 
     # mc "Yes, really. {w}I'm not a rapist. Not even-"
-    mc "예, 그렇겠죠. {w}하지만 전 강간범이 아니에요. 비록-"
+    mc "네, 정말이에요. {w}전 강간범이 아닙니다. 역할극이라 해도—"
 
 # game/code/d09/extended/d09s07.rpy:846
 translate korean d09s07_quit_4fbe6c1d:
 
     # jdg "Whatever. You'll be jerking yourself off fantasizing about this for the rest of your life."
-    jdg "뭐라는 거야. 평생 동안 꿈이나 꾸면서 딸이나 치시지."
+    jdg "뭐라는 거야. 평생 이때 일이나 상상하면서 딸이나 치시지."
 
 # game/code/d09/extended/d09s07.rpy:853
 translate korean d09s07_quit_49e0efee:
 
     # mct "I hope Samiya won't be mad at me for this."
-    mct "사미야가 이 일로 화내지 말아야 하는데."
+    mct "사미야가 이 일로 화내지 않았으면 좋겠는데."
 
 # game/code/d09/extended/d09s07.rpy:867
 translate korean d09s07_sb_talk_fdc68d2b:
 
     # sb "That was quick. What happened?"
-    sb "그거 빠르네. 무슨 일이야?"
+    sb "빨리 끝났네. 어떻게 된 거야?"
 
 # game/code/d09/extended/d09s07.rpy:869
 translate korean d09s07_sb_talk_c562eb8a:
@@ -1322,13 +1322,13 @@ translate korean d09s07_sb_talk_fde64129:
 translate korean d09s07_sb_talk_4eef0325:
 
     # mc "Well, then I guess I'm not a method actor."
-    mc "음, 그럼 내가 메소드 연기를 못하는 거겠네."
+    mc "글쎄, 그렇다면 난 메소드 연기 체질은 아닌가 보네."
 
 # game/code/d09/extended/d09s07.rpy:878
 translate korean d09s07_sb_talk_a962938d:
 
     # sb "You... fucking asshole... Damn it!!!"
-    sb "너... 이 씨발 등신 같은 게... 좆 까!!!"
+    sb "너... 이 씨발 등신 같은 게... 젠장!!!"
 
 # game/code/d09/extended/d09s07.rpy:880
 translate korean d09s07_sb_talk_97d05294:
@@ -1340,7 +1340,7 @@ translate korean d09s07_sb_talk_97d05294:
 translate korean d09s07_sb_talk_7e9764dc:
 
     # mc "I think I will prank the \"M.I.L.F\"."
-    mc "\"밀프\" 놀리는 건 할 수 있어."
+    mc "\"밀프\" 골탕 먹이는 건 할 수 있어."
 
 # game/code/d09/extended/d09s07.rpy:886
 translate korean d09s07_sb_talk_0cc540e6:
@@ -1352,13 +1352,13 @@ translate korean d09s07_sb_talk_0cc540e6:
 translate korean d09s07_sb_talk_8f7053bf:
 
     # mc "I'll be your assistant for the next task."
-    mc "다음 작업에 네 조수가 될 게."
+    mc "다음 작업에 네 조수가 될게."
 
 # game/code/d09/extended/d09s07.rpy:893
 translate korean d09s07_sb_talk_4cf5fee8:
 
     # sb "Good.{w} Meet me back at my place after 30 minutes."
-    sb "좋아.{w} 내 장소에서 30분 뒤에 만나."
+    sb "좋아.{w} 30분 뒤에 내 집에서 다시 만나."
 
 # game/code/d09/extended/d09s07.rpy:898
 translate korean d09s07_sb_talk_fad2299f:
@@ -1376,7 +1376,7 @@ translate korean d09s07_sb_talk_2649b15b:
 translate korean d09s07_sb_talk_3e6c6c1e:
 
     # sb "You really think you've earned it?"
-    sb "정말로 받을 수 있을 거라고 생각한 거야?"
+    sb "그렇게 하고 정말로 받을 수 있을 거라고 생각한 거야?"
 
 # game/code/d09/extended/d09s07.rpy:906
 translate korean d09s07_sb_talk_9a4e5461:
@@ -1400,13 +1400,13 @@ translate korean d09s07_sb_talk_14425d2d:
 translate korean d09s07_sb_talk_1f3cb0fd:
 
     # sb "You what?!{w} I sent you to room 469!!!"
-    sb "네가 뭘 했다고?!{w} 469호실에 가라고 했잖아!!!"
+    sb "네가 뭘 어쨌다고?!{w} 내가 469호실에 가라고 했잖아!!!"
 
 # game/code/d09/extended/d09s07.rpy:921
 translate korean d09s07_sb_talk_bf30aa71:
 
     # mc "No, you told me 569. You sent me to the wrong room and the wrong person!"
-    mc "아닌데, 너 569호실이라고 했어. 네가 날 다른 호실 다른 사람한테 보낸 거라고!"
+    mc "아닌데, 너 569호실이라고 했어. 네가 날 엉뚱한 방에, 엉뚱한 사람한테 보낸 거라고!"
 
 # game/code/d09/extended/d09s07.rpy:924
 translate korean d09s07_sb_talk_8d3fb731:
@@ -1418,55 +1418,55 @@ translate korean d09s07_sb_talk_8d3fb731:
 translate korean d09s07_sb_talk_9968cc10:
 
     # sb "Like you should have been going for sixty nine!"
-    sb "넌 69에 갔어야 했단 말이야!"
+    sb "69 하러 가는 거였잖아! 그렇게 외웠어야지!"
 
 # game/code/d09/extended/d09s07.rpy:929
 translate korean d09s07_sb_talk_8f9e986b:
 
     # mc "Could be, but you said 569."
-    mc "그랬겠지, 그런데 네가 569라고 말했다고."
+    mc "그럴 수도 있는데, 네가 569라고 말했다고."
 
 # game/code/d09/extended/d09s07.rpy:932
 translate korean d09s07_sb_talk_6a27149f:
 
     # sb "Fucking Hell! And you raped her?!"
-    sb "씨발 병신 같은! 그래서 강간을 했다고?!"
+    sb "씨발, 환장하겠네! 그래서 그 판사를 강간했다고?!"
 
 # game/code/d09/extended/d09s07.rpy:934
 translate korean d09s07_sb_talk_0488530e:
 
     # mc "I only found out afterwards it was the wrong person!"
-    mc "끝나고 다른 사람이었다는 걸 알았다고!"
+    mc "끝나고 나서야 번지수가 틀렸다는 걸 알았다고!"
 
 # game/code/d09/extended/d09s07.rpy:937
 translate korean d09s07_sb_talk_01f360d7:
 
     # sb "Fuck!{w} Should we run? Did she call the police?"
-    sb "씨발!{w} 튀야 해? 그 여자가 경찰한테 신고라도 한 거야?"
+    sb "씨발!{w} 우리 튀어야 해? 그 여자가 경찰한테 신고라도 한 거야?"
 
 # game/code/d09/extended/d09s07.rpy:939
 translate korean d09s07_sb_talk_2b0f70c0:
 
     # mc "I explained it to her. She was surprisingly chill about what happened."
-    mc "잘 설명했어. 그런 일이 했는데 엄청 침착하더라."
+    mc "내가 잘 설명했어. 그런 일을 당하고도 놀랄 만큼 태연하던걸."
 
 # game/code/d09/extended/d09s07.rpy:941
 translate korean d09s07_sb_talk_de0b8c9e:
 
     # sb "WTF? No way! How the hell did you manage that?"
-    sb "뭐라고 씹? 말도 안 돼! 썅 어떻게 해결을 한 거야?"
+    sb "뭐라고 썅? 말도 안 돼! 대체 어떻게 해결을 한 거야?"
 
 # game/code/d09/extended/d09s07.rpy:943
 translate korean d09s07_sb_talk_809253e6:
 
     # mc "Don't know. I'm done. You can go rape the woman in 469 if you want."
-    mc "몰라. 그래도 난 시킨 대로 했어. 원하면 469호에 가서 강간이라도 해."
+    mc "몰라. 난 이제 손 뗄 거야. 원하면 네가 직접 469호에 가서 해."
 
 # game/code/d09/extended/d09s07.rpy:946
 translate korean d09s07_sb_talk_e6294543:
 
     # sb "Damn it.{w} Alright, give me the mask. I've got a strap-on in my glove compartment."
-    sb "망할.{w} 좋아, 복면 줘. 글로브 박스에 스트랩-온 챙겨 왔으니까."
+    sb "망할.{w} 됐고, 복면 내놔. 글로브 박스에 스트랩-온 챙겨 왔으니까."
 
 # game/code/d09/extended/d09s07.rpy:954
 translate korean d09s07_sb_talk_e8c335f5:
@@ -1522,7 +1522,7 @@ translate korean strings:
 
     # game/code/d09/extended/d09s07.rpy:551
     old "Creampie the Judge"
-    new "판사를 크림파이 한다"
+    new "판사를 크림파이한다"
 
     # game/code/d09/extended/d09s07.rpy:551
     old "Flip her over"
