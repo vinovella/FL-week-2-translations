@@ -2,7 +2,7 @@
 translate korean d10s07_fad11a7d:
 
     # "After a short walk to AmRose's home..."
-    "앰로즈 집으로 잠깐 걸은 뒤..."
+    "앰로즈의 집으로 조금 걸어간 뒤..."
 
 # game/code/d10/d10s07.rpy:17
 translate korean d10s07_9cc8f245:
@@ -26,25 +26,25 @@ translate korean d10s07_f3b56f1f:
 translate korean d10s07_cf117063:
 
     # mc "What do you think will happen?"
-    mc "무슨 일이라도 있을까?"
+    mc "무슨 일이 있을 것 같은데?"
 
 # game/code/d10/d10s07.rpy:25
 translate korean d10s07_e78655fe:
 
     # arj "I have no idea. You were at the Party last week. Can you tell me about it?"
-    arj "모르지. 넌 지난주 파티에 있었잖아. 나한테 미리 알려줄 거라도 있어?"
+    arj "모르지. 네가 지난주 파티에 있었잖아. 나한테 미리 알려줄 거라도 있어?"
 
 # game/code/d10/d10s07.rpy:26
 translate korean d10s07_1e490821:
 
     # mc "Lots of fun, weird sex games. I don't think I could describe it."
-    mc "재미 잔뜩, 이상한 섹스 놀이 있음. 제대로 설명을 못하겠네."
+    mc "재미 잔뜩, 이상한 섹스 놀이 있음. 말로 다 설명하기 힘드네."
 
 # game/code/d10/d10s07.rpy:29
 translate korean d10s07_55f114fa:
 
     # mc "Mostly it seemed like everyone was conspiring together to edge me."
-    mc "날 못 가게 하려고, 파티에 있는 전부가 작당한 건 아닌가 했다니까."
+    mc "날 못 싸게 하려고, 파티에 있는 전부가 작당한 건 아닌가 했다니까."
 
 # game/code/d10/d10s07.rpy:30
 translate korean d10s07_356acec4:
@@ -56,7 +56,7 @@ translate korean d10s07_356acec4:
 translate korean d10s07_574a13f3:
 
     # mc "No, I think everyone came except for me. Probably just bad luck."
-    mc "그래, 나 말곤 전부 갔을 거야. 운이 나쁜 건가."
+    mc "그렇지, 나 빼곤 다 간 것 같다니까. 그냥 내 운이 나쁜 건가."
 
 # game/code/d10/d10s07.rpy:34
 translate korean d10s07_8ddb965e:
@@ -98,7 +98,7 @@ translate korean d10s07_51f5661f:
 translate korean d10s07_80141f56:
 
     # mc "Is there enough time to take a nap?"
-    mc "잠깐 겉잠이라도 잘 시간이 될까?"
+    mc "잠깐 눈이라도 붙일 시간 있어?"
 
 # game/code/d10/d10s07.rpy:52
 translate korean d10s07_c602983b:
@@ -122,7 +122,7 @@ translate korean d10s07_58032ece:
 translate korean d10s07_6de4f32a:
 
     # mc "Go ahead. I'm good."
-    mc "해. 난 괜찮아."
+    mc "먼저 씻어. 난 됐어."
 
 # game/code/d10/d10s07.rpy:61
 translate korean d10s07_d8a881e2:
@@ -146,7 +146,7 @@ translate korean d10s07_6e955937:
 translate korean d10s07_e544eff7:
 
     # mc "If you find yourself struggling with your duties, just remember that you're mine."
-    mc "곤란하고 힘든 일이 생기면, 넌 네 거라는 사실을 기억해."
+    mc "맡은 일 때문에 힘들 때면, 넌 내 거라는 사실만 기억해."
 
 # game/code/d10/d10s07.rpy:69
 translate korean d10s07_ad09ff19:
@@ -176,7 +176,7 @@ translate korean d10s07_f28fe7ee:
 translate korean d10s07_faba7a70:
 
     # mc "Now you should take a shower to wake up."
-    mc "눈 뜨고 있으려면 샤워라도 해야겠어."
+    mc "너도 잠 깨려면 샤워 좀 해야겠네."
 
 # game/code/d10/d10s07.rpy:79
 translate korean d10s07_24ec5354:
@@ -206,7 +206,7 @@ translate korean d10s07_35186331:
 translate korean d10s07_bec98df3:
 
     # mct "Last week was fascinating, but this week's Party has me nervous."
-    mct "지난 주 파티는 매력적이긴 했지만, 이번 주 파티는 긴장되네."
+    mct "지난주 파티는 매력적이긴 했지만, 이번 주 파티는 긴장되네."
 
 # game/code/d10/d10s07.rpy:87
 translate korean d10s07_d4ee84ca:
@@ -230,13 +230,13 @@ translate korean d10s07_ea56992d:
 translate korean d10s07_9f2e62bb:
 
     # arj "I'm glad you did."
-    arj "기꺼이."
+    arj "들어와 줘서 기쁜걸."
 
 # game/code/d10/d10s07.rpy:101
 translate korean d10s07_b0b77813:
 
     # mc "If I could, I would keep you like this all the time."
-    mc "할 수만 있으면, 널 평생 그대로 두고 싶을 정도네."
+    mc "할 수만 있으면 널 평생 이대로 두고 싶어."
 
 # game/code/d10/d10s07.rpy:104
 translate korean d10s07_a57c82f5:
@@ -254,7 +254,7 @@ translate korean d10s07_f36e5aec:
 translate korean d10s07_8dcbbf31:
 
     # mc "Shit. I still need to buy my invite."
-    mc "젠장. 초대장 사야하지."
+    mc "젠장. 초대장 사야 하지."
 
 # game/code/d10/d10s07.rpy:112
 translate korean d10s07_113cf047:
@@ -278,7 +278,7 @@ translate korean d10s07_9b6bbbfe:
 translate korean d10s07_d12f5f9c:
 
     # mc "Oh. Part of my instructions were to get an invite for myself."
-    mc "아. 내가 받은 지시 사항에는 초대장 스스로 구하라고 하던데."
+    mc "아. 내가 받은 지시 중에 초대장을 직접 구하라는 것도 있었어."
 
 # game/code/d10/d10s07.rpy:121
 translate korean d10s07_a89145b3:
@@ -308,7 +308,7 @@ translate korean d10s07_4e7280bf:
 translate korean d10s07_579aab55:
 
     # mc "I have no idea what it will be this week, but last week Min was assfucked by Antony in front of everyone as a main event."
-    mc "이번 주엔 뭘 할지 몰라. 지난 주 본 행사에서는 모든 사람 앞에서 민이 앤토니한테 엉덩이를 박혔지."
+    mc "이번 주엔 뭘 할지 몰라. 지난주 본 행사에서는 모든 사람 앞에서 민이 앤토니한테 뒤로 박혔지."
 
 # game/code/d10/d10s07.rpy:132
 translate korean d10s07_93bb8cb4:
@@ -320,7 +320,7 @@ translate korean d10s07_93bb8cb4:
 translate korean d10s07_09f8f56f:
 
     # mc "No idea... {w}Hopefully I won't have to get assfucked by Antony."
-    mc "모르지... {w}앤토니한테 엉덩이가 박히는 건 아니면 좋겠네."
+    mc "모르지... {w}앤토니한테 뒤로 박히는 건 아니면 좋겠네."
 
 # game/code/d10/d10s07.rpy:137
 translate korean d10s07_1ef9a628:
@@ -344,7 +344,7 @@ translate korean d10s07_8334e8fa:
 translate korean d10s07_06e92e33:
 
     # mc "They cost 50 points. I only have [fl_points], so I'll need to earn [d10s07_points_needed] more."
-    mc "50점. [fl_points]점 있으니까, [d10s07_points_needed]점 더 벌어야 돼."
+    mc "50점. 지금 [fl_points]점밖에 없어서 [d10s07_points_needed]점 더 벌어야 해."
 
 # game/code/d10/d10s07.rpy:148
 translate korean d10s07_4d25d684:
@@ -386,13 +386,13 @@ translate korean d10s07_c914fd54:
 translate korean d10s07_3f2982de:
 
     # arj "Shush, okay? {w}Don't ask questions you don't want answered."
-    arj "쉿, 알겠어? {w}들을 수 없는 답은 구하지도 말라구."
+    arj "쉿, 알겠어? {w}듣고 감당 못 할 답이면 묻지도 마."
 
 # game/code/d10/d10s07.rpy:166
 translate korean d10s07_83fc1b16:
 
     # mc "I'm not asking something. I'm just saying you must have gotten a lot of points for those camgirl sessions last week."
-    mc "그걸 묻는 건 아니고. 지난 주 몸캠 방송으로 점수 많이 받았을 거란 소리를 하려고 했던 거야."
+    mc "그걸 묻는 건 아니고. 지난주 몸캠 방송으로 점수 많이 받았을 거란 소리를 하려고 했던 거야."
 
 # game/code/d10/d10s07.rpy:168
 translate korean d10s07_40ceab31:
@@ -410,7 +410,7 @@ translate korean d10s07_c9be2db3:
 translate korean d10s07_3291c4b7:
 
     # arj "No, you were right. The camgirl sessions last week. That's how."
-    arj "아냐, 네 말이 맞아. 지난 주 몸캠 방송. 그거야."
+    arj "아냐, 네 말이 맞아. 지난주 몸캠 방송. 그거야."
 
 # game/code/d10/d10s07.rpy:174
 translate korean d10s07_dcea32d2:
@@ -428,7 +428,7 @@ translate korean d10s07_21db13dd:
 translate korean d10s07_68824110:
 
     # mc "Now we can get ready for this shindig."
-    mc "이제 그 놈의 파티 갈 준비나 해야겠다."
+    mc "이제 그놈의 파티 갈 준비나 해야겠다."
 
 # game/code/d10/d10s07.rpy:184
 translate korean d10s07_7e116f76:
@@ -446,13 +446,13 @@ translate korean d10s07_23e53b43:
 translate korean d10s07_6031d704:
 
     # arj "Ha! {w}You might discover the best \"Salad\" bar in town!"
-    arj "하! {w}이 도시에서 가장 훌륭한 \"샐러드\" 바를 찾으실 모양이네요!"
+    arj "하! {w}이 동네 최고의 \"샐러드\" 바를 발견할지도 모르겠네!"
 
 # game/code/d10/d10s07.rpy:204
 translate korean d10s07_98274296:
 
     # mc "Oh yeah. {w}I look ridiculous."
-    mc "아 그래. {w}이 멍청한 모양새 좀 봐라."
+    mc "아, 그래. {w}이 멍청한 모양새 좀 봐라."
 
 # game/code/d10/d10s07.rpy:206
 translate korean d10s07_3d806caa:
@@ -470,7 +470,7 @@ translate korean d10s07_ab46c860:
 translate korean d10s07_14065745:
 
     # arj "It's just necessary to wear contacts tonight... because of the mask."
-    arj "오늘은 콘택트렌즈를 껴야 할 필요가 있으니까... 가면 때문에."
+    arj "오늘 밤엔 렌즈를 낄 수밖에 없잖아... 가면 써야 하니까."
 
 # game/code/d10/d10s07.rpy:212
 translate korean d10s07_876f16e1:
@@ -488,13 +488,13 @@ translate korean d10s07_960ce124:
 translate korean d10s07_0fe433cb:
 
     # mc "Maybe. You just look damn cute in that outfit too."
-    mc "그렇기도 하지. 그리고 그 옷도 입으니까 정말 귀여워."
+    mc "그렇기도 하지. 그리고 그 옷을 입은 모습도 정말 귀여워."
 
 # game/code/d10/d10s07.rpy:219
 translate korean d10s07_56dbef88:
 
     # arj "Um, good. {w}Is there anything else I should know about tonight?"
-    arj "음, 좋아. {w}오늘 저녁에 알아야 둬야 하는 게 더 있어?"
+    arj "음, 좋아. {w}오늘 밤에 더 알아 둬야 할 게 있어?"
 
 # game/code/d10/d10s07.rpy:220
 translate korean d10s07_9ce7b311:
@@ -518,7 +518,7 @@ translate korean d10s07_a48e3706:
 translate korean d10s07_07cae94a:
 
     # arj "Oh, the points you needed... {w}Here you go."
-    arj "아, 너 점수 필요하지... {w}여기 있습니다."
+    arj "아, 너 점수 필요했지... {w}자, 여기."
 
 # game/code/d10/d10s07.rpy:232
 translate korean d10s07_940a0e0d:
@@ -536,5 +536,5 @@ translate korean d10s07_48b721a7:
 translate korean d10s07_ab1d44c5:
 
     # mc "A-a-and 50 points for ticket are gone."
-    mc "그-리-고오 50점으로 티켓을 삽니다."
+    mc "그-리-고 티켓 값으로 50점 증발 완료."
 
