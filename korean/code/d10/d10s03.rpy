@@ -2,7 +2,7 @@
 translate korean d10s03_68b91133:
 
     # mct "Time to finally get Stacy's luggage back!"
-    mct "드디어 스테이시의 짐을 되찾을 순간이로구만!"
+    mct "드디어 스테이시의 짐을 되찾을 순간이로군!"
 
 # game/code/d10/d10s03.rpy:27
 translate korean d10s03_12c7f527:
@@ -26,7 +26,7 @@ translate korean d10s03_42ea8d27:
 translate korean d10s03_218e2c52:
 
     # mc "Ah, I'm never late, nor am I early, I arrive precisely when I mean to."
-    mc "아, 난 절대 늦지도 않았고, 그렇다고 빨리 온 것도 아냐. 정확히 온다고 한 시간에 온 왔다고."
+    mc "아, 난 절대 늦지도, 이르지도 않아. 마법사는 언제나 자신이 의도한 그 시간에 도착하는 법이지."
 
 # game/code/d10/d10s03.rpy:38
 translate korean d10s03_46984ea3:
@@ -38,13 +38,13 @@ translate korean d10s03_46984ea3:
 translate korean d10s03_5d3b591f:
 
     # sb "Alright, Dumbledore, get your ass in here already."
-    sb "그러셔, 덤블도어 교수님, 그 잘난 궁둥짝을 벌써 여기로 들이셨나 봐요."
+    sb "그러셔, 덤블도어 교수님, 그 잘난 궁둥짝 들고 얼른 들어오기나 해."
 
 # game/code/d10/d10s03.rpy:43
 translate korean d10s03_76991a09:
 
     # mc "I—I don't even know how to reply to that."
-    mc "뭐-뭐라고 맞장구를 쳐야 할 지도 모르겠다."
+    mc "어... 뭐라고 대꾸해야 할지도 모르겠네."
 
 # game/code/d10/d10s03.rpy:44
 translate korean d10s03_a7c88e98:
@@ -74,19 +74,19 @@ translate korean d10s03_c0c7cbc6:
 translate korean d10s03_858dfe21:
 
     # mc "This is the first time I've heard of this guy."
-    mc "그 인간이라는 사람에 대해서 처음으로 듣는데."
+    mc "그런 인간 이야긴 지금 처음 듣는데."
 
 # game/code/d10/d10s03.rpy:54
 translate korean d10s03_d7b597ba:
 
     # sb "Did I not tell you? Ah fuck, whatever."
-    sb "내가 말 안했니? 아 씨발, 어쨌든."
+    sb "내가 말 안 했니? 아, 씨발, 어쨌든."
 
 # game/code/d10/d10s03.rpy:55
 translate korean d10s03_ce3e5f4f:
 
     # sb "The gist of it is that I maybe kinda sorta lost it at a client's house."
-    sb "요컨대 내가 그 짐을 고객의 집에 두고 왔을 수도 있다는 그런 소리야."
+    sb "대충 요약하자면 손님 집에 두고 온 것 같다는 소리지."
 
 # game/code/d10/d10s03.rpy:57
 translate korean d10s03_06ed5f2a:
@@ -104,7 +104,7 @@ translate korean d10s03_c279f581:
 translate korean d10s03_bf7f7c99:
 
     # sb "It's 'cause of that two pump chump I had to go find some decent dick at 1 in the fucking morning."
-    sb "방아질도 못 하는 두 병신들 때문에 씨발 새벽 1시에 좀 괜찮은 좆 좀 찾겠다고 뼁이를 쳤다고."
+    sb "몇 번 쑤시다 찍 싸는 그 조루 자식 때문에, 그 망할 새벽 1시에 쓸 만한 좆 찾으러 돌아다녀야 했다고."
 
 # game/code/d10/d10s03.rpy:63
 translate korean d10s03_940b5dfb:
@@ -170,7 +170,7 @@ translate korean d10s03_0ff10a6c:
 translate korean d10s03_953e7f72:
 
     # "John" "You didn't have any problems sucking my dick for free before you dropped this time bomb on me."
-    "존" "이 시한폭탄을 내 집에 두고 가기 전에는 말대꾸 없이 잘 빨았잖아."
+    "존" "이 시한폭탄을 내 집에 두고 가기 전에는 공짜로도 잘 빨았잖아."
 
 # game/code/d10/d10s03.rpy:91
 translate korean d10s03_b5bafdd6:
@@ -188,7 +188,7 @@ translate korean d10s03_b16ce410:
 translate korean d10s03_31472418:
 
     # "John" "She's been having a fucking meltdown since she found this. Half the fucking neighborhood already knows about this. "
-    "존" "이걸 찾고 나서 씨발 무슨 원전 터진 것처럼 터졌다고. 좆 같은 이웃 연놈들 절반은 알고 있다니까."
+    "존" "마누라가 이걸 발견하고 나서 완전 멘탈이 나가서 발광 중이라고! 좆 같은 이웃 연놈들 절반은 이미 다 알게 됐단 말이다!"
 
 # game/code/d10/d10s03.rpy:97
 translate korean d10s03_dd8c7580:
@@ -200,7 +200,7 @@ translate korean d10s03_dd8c7580:
 translate korean d10s03_82a541e6:
 
     # sb "Well, it's not my fucking fault that your dumbass couldn't hide a fucking bag to save his life."
-    sb "글쎄, 너 같은 등신이 좆 같은 가방 숨길 생각을 못해서 일을 키운 게 내 잘못이 아니잖아."
+    sb "가방 하나 제대로 못 숨겨서 인생 말아먹은 등신 주제에 어디서 내 탓을 해?"
 
 # game/code/d10/d10s03.rpy:107
 translate korean d10s03_976b99de:
@@ -218,13 +218,13 @@ translate korean d10s03_a9af5f58:
 translate korean d10s03_ea0c441a:
 
     # "John" "She's filing for divorce! 13 years! 13 FUCKING YEARS!!! And you destroyed it all! MY LIFE IS FUCKED, YOU BITCH!"
-    "존" "그년이 이혼 소장을 내려고 한다고! 13년이야! 씨발 13년이라고!!! 그걸 네년이 망친 거야! 내 삶을 망쳤다고, 이 썅년야!"
+    "존" "그년이 이혼 소장을 내려고 한다고! 13년이야! 씨발 13년이라고!!! 그걸 네년이 망친 거야! 내 인생을 망쳐 놨다고, 이 썅년아!"
 
 # game/code/d10/d10s03.rpy:133
 translate korean d10s03_762a490a:
 
     # sb "Heh, good for her. You fuck like a pussy anyway."
-    sb "헤, 마누라한텐 잘 됐네. 넌 좆도 씹처럼 놀리니까."
+    sb "헤, 마누라한텐 잘 됐네. 어차피 넌 박을 때도 영 맥아리가 없잖아."
 
 # game/code/d10/d10s03.rpy:136
 translate korean d10s03_333ce1c8:
@@ -242,7 +242,7 @@ translate korean d10s03_b670258b:
 translate korean d10s03_3c5646a3:
 
     # "John" "When I'm done with you, not even the fucking FBI will be able to find your whore body."
-    "존" "일이 끝나면, 씨발 FBI라도 네 창녀 몸뚱이를 찾을 수 없을 거니까."
+    "존" "내가 널 다 손보고 나면, 씨발 FBI 할애비가 와도 네 걸레짝 같은 시체는 절대 못 찾을 거다."
 
 # game/code/d10/d10s03.rpy:144
 translate korean d10s03_11fccb14:
@@ -266,7 +266,7 @@ translate korean d10s03_0e0412e8:
 translate korean d10s03_7fc76222:
 
     # pb "Taste ma' fucking fists, motherfucker!"
-    pb "씨발 내 주먹 맛 좀 봐라, 씹쌔끼야!"
+    pb "씨발 내 주먹 맛 좀 봐라, 씹새끼야!"
 
 # game/code/d10/d10s03.rpy:160
 translate korean d10s03_4bcd67c7:
@@ -284,13 +284,13 @@ translate korean d10s03_421bd1b0:
 translate korean d10s03_47dff2ca:
 
     # mct "Let's see how you like this, motherfucker."
-    mct "이걸 얼마나 좋아하는지 보자고, 씹쌔꺄."
+    mct "이것도 어디 한번 맞아 보시지, 개자식아."
 
 # game/code/d10/d10s03.rpy:168
 translate korean d10s03_de7e28c5:
 
     # pb "Who's ya' daddy!?"
-    pb "누가 이런 쌔끼를 낳은 거야!?"
+    pb "누가 형님인지 알겠냐!?"
 
 # game/code/d10/d10s03.rpy:170
 translate korean d10s03_464eacb8:
@@ -302,7 +302,7 @@ translate korean d10s03_464eacb8:
 translate korean d10s03_00824b0e:
 
     # pb "Say what again, motherfucker. I dare you, I double dog dare you. Say what one more goddamn time."
-    pb "다시 뭐라고 말하기만 해 봐, 씹쌔끼야. 내가 경고했어, 개자식아 경고했다고. 한 번만 뭐라도 말해 봐."
+    pb "다시 '뭐?'라고 해 봐라, 씹새끼야. 어디 해 봐, 다시 지껄여 보라고! 한 번만 더 '뭐?'라고 해 보라니까!"
 
 # game/code/d10/d10s03.rpy:173
 translate korean d10s03_d18b3399:
@@ -320,13 +320,13 @@ translate korean d10s03_c00f9352:
 translate korean d10s03_345b86c4:
 
     # sb "*Wack* You *Wack* have the audacity *Wack* to bitch slap {i}{b}me!?!?{/b}{/i}"
-    sb "*푹* 이 새끼가 *푹* 뻔뻔하게 *푹* 때린다고 {i}{b}날!?!?{/b}{/i}"
+    sb "*퍽* 감히 *퍽* 네깟 놈이 *퍽* 내 뺨따귀를 {i}{b}올려붙여!?!?{/b}{/i}"
 
 # game/code/d10/d10s03.rpy:204
 translate korean d10s03_1f88f13b:
 
     # sb "*Wack* THAT COSTS EXTRA! *Wack**Wack**Quack*"
-    sb "*푹* 그건 추가 비용이야! *푹**푹**꽥꽥*"
+    sb "*퍽* 추가금 내놔! *퍽**퍽**삑삑*"
 
 # game/code/d10/d10s03.rpy:207
 translate korean d10s03_88a2ed26:
@@ -338,13 +338,13 @@ translate korean d10s03_88a2ed26:
 translate korean d10s03_48278848:
 
     # sb "If you fuck half as well as you fight, none of this would've happened in the first place."
-    sb "네가 싸우는 것의 절반 만큼이라도 좆 질을 잘 했으면, 이런 일은 처음부터 안 생겼어."
+    sb "네가 주먹질하는 절반만큼이라도 좆질을 잘했으면 애초에 이런 일도 없었어."
 
 # game/code/d10/d10s03.rpy:211
 translate korean d10s03_92574e05:
 
     # pb "Well, we could always try again... See if I got any better... Maybe you could teach me some of that dildo-fu as well."
-    pb "음, 그 일이라면 언제든지 다시 해 볼 수 있으니까... 내가 조금이라도 괜찮게 하면... 상으로 그 딜도로 때리는 것도 알려 줄 수 있을 테고."
+    pb "뭐, 언제든 다시 해 보면 되지... 실력이 늘었는지 확인도 하고... 덤으로 그 딜도 권법도 좀 전수해 주든가."
 
 # game/code/d10/d10s03.rpy:214
 translate korean d10s03_89cd007e:
@@ -362,19 +362,19 @@ translate korean d10s03_93ce4f9c:
 translate korean d10s03_63541c6e:
 
     # "John" "Uhhhgh.{w}.. I never want to see any of you cunts ever again."
-    "존" "어어어어으어.{w}.. 다시는 니 씨발년들 중 누구도 볼 생각 없어."
+    "존" "으으윽.{w}.. 난 좆같은 너희 연놈들 중 누구도 다시 볼 생각 없어."
 
 # game/code/d10/d10s03.rpy:220
 translate korean d10s03_cdda89c9:
 
     # sb "I'LL SKIN YOU ALIVE, MOTHERFUCKER! I'LL CHOP UP YOUR DICK AND STICK IT UP YOUR FUCKING ASS! COME HERE—!"
-    sb "산 채로 가죽을 벗길 거야, 씹새끼야! 좆을 썰어서 니 씨발 후장에 꽂을 거라고! 당장—!"
+    sb "산 채로 가죽을 벗길 거야, 씹새끼야! 좆을 썰어서 씨발 네 후장에 꽂을 거라고! 이리 안 와—!"
 
 # game/code/d10/d10s03.rpy:224
 translate korean d10s03_ee1c4819:
 
     # pb "Goodman. Come on now, give us the luggage and fuck off before I let her loose on you."
-    pb "잘했어. 자 이제, 가방 내놓고 꺼져, 얘가 마음대로 하게 하기 전에."
+    pb "착하지. 자, 이제 가방 넘기고 꺼져. 내가 이 여자 목줄 풀어주기 전에 말이야."
 
 # game/code/d10/d10s03.rpy:227
 translate korean d10s03_294dc17d:
@@ -410,13 +410,13 @@ translate korean d10s03_554adaac:
 translate korean d10s03_a9c29e3d:
 
     # mc "I... Well... Alright. Thank fuck you were here. He caught us both off guard."
-    mc "나... 음... 됐다. 씨발 와 줘서 고맙다. 방심하고 있었는데 죽을 뻔 했네."
+    mc "나... 음... 됐다. 썅 네가 와서 살았어. 우리 둘 다 완전히 방심하고 있었거든."
 
 # game/code/d10/d10s03.rpy:238
 translate korean d10s03_21825763:
 
     # pb "What are friends for if not to beat up desperate former husbands with anger issues?"
-    pb "분노 조절 장애가 있는 절박한 전 남편을 박살내지 않으면 친구라는 게 왜 있겠냐?"
+    pb "분노 조절 장애가 있는 이혼남을 박살 내지 않으면 친구라는 게 왜 있겠냐?"
 
 # game/code/d10/d10s03.rpy:241
 translate korean d10s03_369626ac:
@@ -434,7 +434,7 @@ translate korean d10s03_d3606882:
 translate korean d10s03_68609855:
 
     # mc "Allison? "
-    mc "앨리슨? "
+    mc "앨리슨?"
 
 # game/code/d10/d10s03.rpy:248
 translate korean d10s03_2443bb27:
@@ -464,19 +464,19 @@ translate korean d10s03_5415045c:
 translate korean d10s03_92053b7b:
 
     # sb "I needed a place to crash for a bit till I found some dick. You wouldn't think so, but it's surprisingly hard to come by."
-    sb "좆 좀 찾을 때까지 잠시 있을 곳이 필요했어. 너흰 생각도 못하겠지만, 잠깐 들르는 건 엄청나게 힘들다고."
+    sb "좆 구할 때까지 잠깐 발 뻗고 잘 곳이 필요했어. 쉬울 것 같지? 근데 좆 구하기가 의외로 존나 힘들거든."
 
 # game/code/d10/d10s03.rpy:258
 translate korean d10s03_05782900:
 
     # pb "Now that's a lie."
-    pb "그건 거짓말이네."
+    pb "그건 거짓말이지."
 
 # game/code/d10/d10s03.rpy:259
 translate korean d10s03_1f72a9c8:
 
     # sb "{i}Good{/i} dick is hard to come by."
-    sb "{i}좋은{/i} 좆은 구하기 힘들다고."
+    sb "{i}쓸 만한{/i} 좆은 구하기 힘들단 말이야."
 
 # game/code/d10/d10s03.rpy:260
 translate korean d10s03_5f3fd43f:
@@ -518,7 +518,7 @@ translate korean d10s03_24921a97:
 translate korean d10s03_7d0cf545:
 
     # sb "This place is only for clients. I don't want whackos like that fucker knowing where I live."
-    sb "여긴 그냥 고객 때문에 있는 거야. 아까 그 등신 같은 미친놈들한테 내가 어디에 사는지 알리고 싶진 않거든."
+    sb "여긴 손님 받는 곳일 뿐이야. 아까 그 새끼 같은 미친놈들이 내 진짜 집이 어딘지 알게 두고 싶진 않거든."
 
 # game/code/d10/d10s03.rpy:275
 translate korean d10s03_e8c22a18:
@@ -536,13 +536,13 @@ translate korean d10s03_b3828c1d:
 translate korean d10s03_7ac0e587:
 
     # pb "Sure in a bit."
-    pb "그럼, 그냥 잠깐만."
+    pb "어, 금방 갈게."
 
 # game/code/d10/d10s03.rpy:284
 translate korean d10s03_dc156aed:
 
     # pb "So...what do you do for living?"
-    pb "그래서... 뭘 하면서 사는 거야?"
+    pb "그나저나... 평소엔 무슨 일 해?"
 
 # game/code/d10/d10s03.rpy:285
 translate korean d10s03_e1581dd1:
@@ -584,7 +584,7 @@ translate korean Peteyboi_bfb6b18e:
 translate korean Peteyboi_bfeaf973:
 
     # mc "Dude, let's go, come on."
-    mc "짜씩아, 가자, 좀 제발."
+    mc "인마, 가자 좀, 얼른."
 
 # game/code/d10/d10s03.rpy:305
 translate korean Peteyboi_d021047f:
@@ -608,7 +608,7 @@ translate korean Peteyboi_a47ab9b4:
 translate korean Peteyboi_d5292b31:
 
     # mc "Let's go before you mysteriously end up unconscious and naked in a dumpster."
-    mc "의식 잃은 채로 알몸으로 쓰레기통에서 인생 종치고 싶지 않으면 가자니까."
+    mc "어디 쓰레기통에서 발가벗겨진 채 기절해 있는 꼴 나기 전에 얼른 가자."
 
 # game/code/d10/d10s03.rpy:314
 translate korean Peteyboi_6ad42bc9:
@@ -630,7 +630,7 @@ translate korean strings:
 
     # game/code/d10/d10s03.rpy:287
     old "Eh, whatever"
-    new "에으, 무슨 상관이야"
+    new "에이, 알 게 뭐야"
 
     # game/code/d10/d10s03.rpy:287
     old "Let's go"
