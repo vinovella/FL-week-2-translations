@@ -2,13 +2,13 @@
 translate korean d10s06_3797c0e5:
 
     # "Arriving at Nora's"
-    "노라네에 도착하여"
+    "노라의 커피숍에 도착해서"
 
 # game/code/d10/d10s06.rpy:14
 translate korean d10s06_d4c9c97f:
 
     # nk "Look who's back!"
-    nk "누가 왔나 보게!"
+    nk "어머, 이게 누구야!"
 
 # game/code/d10/d10s06.rpy:18
 translate korean d10s06_70a6f907:
@@ -38,19 +38,19 @@ translate korean d10s06_64c3a576:
 translate korean d10s06_76a88bce:
 
     # mc "Really? Perish the thought."
-    mc "설마요? 가당치도 않죠."
+    mc "설마요? 그럴 리가요."
 
 # game/code/d10/d10s06.rpy:29
 translate korean d10s06_bc9e70b7:
 
     # arj "I'm guessing you two know each other, then?"
-    arj "둘이서 아는 사이인 모양이네?"
+    arj "둘이 아는 사이인 모양이네?"
 
 # game/code/d10/d10s06.rpy:31
 translate korean d10s06_b349536b:
 
     # mc "Oh, yeah, sorry. Am, this is Nora. Nora, AmRose."
-    mc "아, 응, 미안. 앰, 이 분은 노라. 노라, 앰로즈에요."
+    mc "아, 응, 미안. 앰, 이쪽은 노라야. 노라, 이쪽은 앰로즈예요."
 
 # game/code/d10/d10s06.rpy:34
 translate korean d10s06_9e04144e:
@@ -62,19 +62,19 @@ translate korean d10s06_9e04144e:
 translate korean d10s06_4fb2d7dd:
 
     # nk "Nice to meet you! [mcname] here is always bringing interesting people around. But I ain't complaining! He is practically the reason I am still open today!"
-    nk "만나서 반가워요! [mcname], 넌 항상 흥미로운 분들은 모시고 오는구나. 그러니 불평할 수가 없지! 그게 오늘 가게 문을 연 이유이기도 하고 말이야!"
+    nk "만나서 반가워요! [mcname] 이 친구는 항상 흥미로운 사람들을 데려온다니까요. 불평하는 건 아니에요! 사실상 이 친구 덕분에 가게가 지금까지 문을 닫지 않고 버티는걸요!"
 
 # game/code/d10/d10s06.rpy:39
 translate korean d10s06_96fb0672:
 
     # nk "So what can I get ya', hun?"
-    nk "그러면 뭘 드릴까요, 자기?"
+    nk "그래서 손님, 뭘로 드릴까요?"
 
 # game/code/d10/d10s06.rpy:40
 translate korean d10s06_62cf9afd:
 
     # arj "Mocha, please. And uhm, do you have a restroom I could use?"
-    arj "모카, 주세요. 그리고 으흠, 제가 쓸 수 있는 화장실이 있을까요?"
+    arj "모카 한 잔 부탁드려요. 그리고 저, 화장실 좀 이용할 수 있을까요?"
 
 # game/code/d10/d10s06.rpy:42
 translate korean d10s06_5a9fe25e:
@@ -110,25 +110,25 @@ translate korean d10s06_41bfbbb5:
 translate korean d10s06_c3ca19dc:
 
     # nk "You got me. But I can't always have you for myself either. I need some outside eye-candy to tide me over when you're not around."
-    nk "네가 이겼다. 그런데 네가 항상 있는 건 아니잖니. 네가 없을 때 눈요기할 만한 건 있어야지."
+    nk "정곡을 찔렸네. 하지만 네가 항상 내 곁에 있는 건 아니잖니. 네가 없을 때를 버틸 만한 눈요깃거리는 있어야지."
 
 # game/code/d10/d10s06.rpy:56
 translate korean d10s06_c8cf7512:
 
     # mc "No promises, but I'll see what I can do."
-    mc "장담을 드릴 순 없지만, 제가 뭘 할 수 있는지 생각해 볼게요."
+    mc "장담은 못 드리지만, 한번 힘써볼게요."
 
 # game/code/d10/d10s06.rpy:57
 translate korean d10s06_90c5c0d1:
 
     # nk "That's all I can ask for. Anyway, can I get you anything?"
-    nk "묻고 싶은 건 이게 다야. 그런 됐고, 뭐 마실래?"
+    nk "그 말로도 충분해. 그건 그렇고, 뭐 마실래?"
 
 # game/code/d10/d10s06.rpy:58
 translate korean d10s06_306e8d06:
 
     # mc "Yeah, a cappuccino, please."
-    mc "네, 카푸치노, 부탁드려요."
+    mc "네, 카푸치노 한 잔 부탁드려요."
 
 # game/code/d10/d10s06.rpy:60
 translate korean d10s06_79875089:
@@ -146,19 +146,19 @@ translate korean d10s06_720aae3e:
 translate korean d10s06_eaa8ee47:
 
     # mc "About what?"
-    mc "뭐 때문에요?"
+    mc "무슨 생각이요?"
 
 # game/code/d10/d10s06.rpy:68
 translate korean d10s06_edbdf43d:
 
     # nk "Our little...\"nighttime activities.\""
-    nk "우리의 작은...\"야간 활동\" 때문에."
+    nk "우리의 작은...\"야간 활동\" 말이야."
 
 # game/code/d10/d10s06.rpy:72
 translate korean d10s06_c42b05ac:
 
     # mc "And?"
-    mc "그리구요?"
+    mc "그래서요?"
 
 # game/code/d10/d10s06.rpy:75
 translate korean d10s06_b1261d0a:
@@ -176,13 +176,13 @@ translate korean d10s06_2b35b6fe:
 translate korean d10s06_e008cc01:
 
     # nk "Oh, come on. Don't tell me that you didn't think I'd figure it out. There's only one person crazy enough to try something like that, and that's her."
-    nk "오, 제발. 내가 눈치채지도 못할 거라고 생각한 건 아니지. 이런 일을 할 정도로 미친 애는 한 사람밖에 없고, 그러면 폴리야."
+    nk "에이, 설마. 내가 눈치도 못 챌 거라고 생각한 건 아니겠지. 그런 짓을 벌일 만큼 미친 애는 딱 한 사람뿐이잖아. 바로 폴리지."
 
 # game/code/d10/d10s06.rpy:81
 translate korean d10s06_25e373f4:
 
     # nk "She's been trying to show me \"what a woman can do\" for ages now. I've always told her no, but I guess she found out a way to get into my pants regardless."
-    nk "폴리는 나한테 \"여자가 뭘 할 수 있는지\" 보여 주겠다고 한참 전부터 말했단 말이지. 항상 됐다고 하긴 했지만, 내 말이 어떻든 간에 마침내 내 바지 안으로 들어올 방법은 찾은 거겠지."
+    nk "폴리는 전부터 \"여자가 뭘 할 수 있는지\" 보여 주겠다고 안달이었거든. 난 줄곧 거절했지만, 결국 어떻게든 날 건드릴 방법을 찾아낸 모양이야."
 
 # game/code/d10/d10s06.rpy:83
 translate korean d10s06_ae98f407:
@@ -200,25 +200,25 @@ translate korean d10s06_1de7e246:
 translate korean d10s06_1001fb96:
 
     # nk "I'm not a lesbian by any means, but...maybe I'm not as straight as I thought either."
-    nk "난 확실히 동성애자는 아냐. 하지만... 내가 생각하던 거처럼 철두철미한 이성애자도 아닌가 봐."
+    nk "난 절대 동성애자는 아니거든. 하지만... 내가 생각했던 만큼 완전 이성애자도 아닌가 봐."
 
 # game/code/d10/d10s06.rpy:93
 translate korean d10s06_0e310e64:
 
     # mc "Congrats on coming out as bi then I guess."
-    mc "그러면 양성애자가 된 거 축하 드려야겠네요."
+    mc "그러면 양성애자라고 밝힌 걸 축하해 드려야겠네요."
 
 # game/code/d10/d10s06.rpy:95
 translate korean d10s06_d20d3ba5:
 
     # nk "I don't know if I would go that far, but what I do know is that I want to get back at her. I might have enjoyed it, but that doesn't mean I'm not at least a little pissed at her."
-    nk "양성애자로 잘 지낼 수 있을진 모르겠다. 그래도 분명한 건 폴리한테 복수를 하고 싶다는 거야. 즐기긴 했지만, 그렇다고 폴리한테 화가 안 난 건 아니니까."
+    nk "나 스스로도 그렇게 생각할 수 있을진 모르지만, 이거 하나는 분명해. 폴리한테 앙갚음하고 싶어. 내가 즐기긴 했어도 조금은 열받았거든."
 
 # game/code/d10/d10s06.rpy:96
 translate korean d10s06_0bd5d7dd:
 
     # nk "And I want you to help me with it."
-    nk "그리고 네가 날 도와주면 좋겠어."
+    nk "그래서 네가 날 도와주면 좋겠어."
 
 # game/code/d10/d10s06.rpy:98
 translate korean d10s06_068582fd:
@@ -236,7 +236,7 @@ translate korean d10s06_c67b7b21:
 translate korean d10s06_674c5ea2:
 
     # nk "Hey! Great timing. Here's your mocha. Oh, and your cappuccino, [mcname]."
-    nk "이런! 딱 맞추셨네요. 여기 주문하신 모카입니다. 오, 그리고 네 카푸치노, [mcname]."
+    nk "아! 마침 딱 맞게 오셨네요. 여기 주문하신 모카예요. 아, 그리고 네 카푸치노는 여기, [mcname]."
 
 # game/code/d10/d10s06.rpy:105
 translate korean d10s06_809feca8:
@@ -248,19 +248,19 @@ translate korean d10s06_809feca8:
 translate korean d10s06_8fc88ecc:
 
     # mc "Sure. I think it might be pretty fun to reverse the roles a bit."
-    mc "그럼요. 공수를 전환하면 충분히 재미있을 것 같네요."
+    mc "그럼요. 역할을 조금 바꿔보는 것도 꽤 재미있을 것 같네요."
 
 # game/code/d10/d10s06.rpy:109
 translate korean d10s06_ac382d2a:
 
     # nk "Exactly!"
-    nk "정확해!"
+    nk "바로 그거야!"
 
 # game/code/d10/d10s06.rpy:110
 translate korean d10s06_d9775ec0:
 
     # nk "You two probably got places to be, so I'll tell you more about it later."
-    nk "두 분은 가실 곳이 있으신 모양이네요. 자세한 건 나중에 이야기해 줄게."
+    nk "두 사람 다 가야 할 곳이 있는 것 같으니, 자세한 건 나중에 얘기해 줄게."
 
 # game/code/d10/d10s06.rpy:111
 translate korean d10s06_cde8573f:
@@ -272,7 +272,7 @@ translate korean d10s06_cde8573f:
 translate korean d10s06_5225a0f4:
 
     # nk "See you later! And make sure to come again!"
-    nk "또 봐요! 그리고 나중에 또 오시구요!"
+    nk "또 봐요! 나중에 꼭 다시 오시고요!"
 
 # game/code/d10/d10s06.rpy:116
 translate korean d10s06_059091eb:
@@ -284,23 +284,23 @@ translate korean d10s06_059091eb:
 translate korean d10s06_559e21c3:
 
     # arj "She seems nice. What was that with the role reverse thing though?"
-    arj "괜찮은 분이네. 그런데 공수 전환은 무슨 소리야?"
+    arj "괜찮은 분이네. 그런데 역할 바꾸기는 무슨 소리야?"
 
 # game/code/d10/d10s06.rpy:119
 translate korean d10s06_e4e17269:
 
     # mc "She just wants to pull a little prank on someone and wanted my help."
-    mc "노라가 놀라게 해 주고 싶은 사람이 있다고 하시네. 그리고 내 도움이 필요한 건일이고 말이지."
+    mc "누구 좀 골리고 싶다고 나한테 도와달라고 하신 거야."
 
 # game/code/d10/d10s06.rpy:122
 translate korean d10s06_c2734c44:
 
     # arj "Oh, who— Woah, this is really good."
-    arj "오, 누군— 와아, 이 모카 정말 좋다."
+    arj "아, 누구— 와, 이거 진짜 맛있다."
 
 # game/code/d10/d10s06.rpy:124
 translate korean d10s06_38cf5d59:
 
     # mc "Right? That woman sure knows how to make a good cup of Joe."
-    mc "그치? 노라는 취향을 제대로 맞추는 사람이라니까."
+    mc "그치? 노라가 커피 하나는 기가 막히게 내린다니까."
 
