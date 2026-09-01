@@ -8,7 +8,7 @@ translate korean d10s02_f28413eb:
 translate korean d10s02_2e028253:
 
     # mct "Okay, I am done with the gym. I've got some time before I need to meet Samiya."
-    mct "됐다, 오늘 운동을 다했어. 사미야 만나러 가기 전에 시간이 좀 남겠네."
+    mct "좋아, 운동은 다 끝났고. 사미야를 만나기 전까지 시간이 좀 남네."
 
 # game/code/d10/d10s02.rpy:18
 translate korean d10s02_84d81f62:
@@ -26,7 +26,7 @@ translate korean d10s02_285ba1b2:
 translate korean d10s02_a2c3bd88:
 
     # mct "I'm a little short, but should have no problem earning enough points today."
-    mct "약간 부족하긴 하지만, 오늘 안에 부족한 점수는 벌 수 있을 거야."
+    mct "조금 모자라긴 하지만, 오늘 안에 필요한 점수를 다 모으는 데는 문제없을 거야."
 
 # game/code/d10/d10s02.rpy:26
 translate korean d10s02_65a959d6:
@@ -38,7 +38,7 @@ translate korean d10s02_65a959d6:
 translate korean d10s02_46545484:
 
     # mct "Maybe I can convince Antony to invite me."
-    mct "초대해 달라고 앤토니를 설득할 수 있지 않을까."
+    mct "앤토니한테 초대해 달라고 부탁해 볼 수 있을지도 몰라."
 
 # game/code/d10/d10s02.rpy:32
 translate korean d10s02_4856c53e:
@@ -50,13 +50,13 @@ translate korean d10s02_4856c53e:
 translate korean d10s02_d1d08df8:
 
     # mct "Should I just ask Min? Will there be some challenge I have to win to do that?"
-    mct "그냥 민한테 부탁을 해야 하려나? 참석하려면 무슨 도전에서 이겨야 하려나?"
+    mct "그냥 민한테 물어봐야 하나? 참가하려면 무슨 도전에서 이겨야 하려나?"
 
 # game/code/d10/d10s02.rpy:34
 translate korean d10s02_e910581b:
 
     # mct "I hope it's not a raffle."
-    mct "무슨 추점으로 정하는 게 아니면 좋겠는데."
+    mct "무슨 추첨으로 정하는 게 아니면 좋겠는데."
 
 # game/code/d10/d10s02.rpy:36
 translate korean d10s02_4a63be02:
@@ -68,7 +68,7 @@ translate korean d10s02_4a63be02:
 translate korean d10s02_ba634726:
 
     # mct "Shower, then Samiya, then Stacy's apartment, then I can start thinking about the Party again."
-    mct "샤워하고, 그다음엔 사미야, 그다음엔 스테이시의 아파트, 그다음엔 파티에 관해서 다시 생각할 수 있겠지."
+    mct "일단 샤워하고, 사미야 만나고, 스테이시 아파트 들렀다가 파티 생각은 그다음에 하자."
 
 # game/code/d10/d10s02.rpy:49
 translate korean d10s02_eb9942ce:
@@ -86,7 +86,7 @@ translate korean d10s02_ab43aa78:
 translate korean d10s02_ef20e346:
 
     # mk "It seems like you're the only one here. Not that there are many guys in our gym class..."
-    mk "너 혼자 있는 거 같은데. 우리 운동 수업에 남자가 많은 것도 아니잖아..."
+    mk "너 혼자밖에 없는 것 같은데. 애초에 우리 체육 수업에 남자가 많은 편도 아니잖아..."
 
 # game/code/d10/d10s02.rpy:54
 translate korean d10s02_043d2c82:
@@ -98,13 +98,13 @@ translate korean d10s02_043d2c82:
 translate korean d10s02_144e2bc6:
 
     # mk "Huh. Not much chance anyone else shows up now?"
-    mk "허. 지금 다른 얘들이 나타날 가능성이 적다는 거네?"
+    mk "흐음. 그럼 지금 딴 사람이 들어올 가능성은 거의 없겠네?"
 
 # game/code/d10/d10s02.rpy:60
 translate korean d10s02_6af22161:
 
     # mc "Never can tell. I certainly wasn't expecting to see you here."
-    mc "누가 알겠어. 분명한 건 여기서 널 보리라곤 생각도 못했다는 거야."
+    mc "그건 모르는 일이지. 적어도 난 여기서 널 마주칠 거라곤 생각도 못 했다고."
 
 # game/code/d10/d10s02.rpy:61
 translate korean d10s02_4e68a7d1:
@@ -116,19 +116,19 @@ translate korean d10s02_4e68a7d1:
 translate korean d10s02_f32a3e3c:
 
     # mc "Clothed female. Nude male. I was just about to shower."
-    mc "옷을 입은 여성. 벌거벗은 남성. 나 막 샤워하려고 했다고."
+    mc "옷 다 입은 여자에, 알몸인 남자라. 나 막 샤워하려던 참이거든."
 
 # game/code/d10/d10s02.rpy:67
 translate korean d10s02_d8afc7c7:
 
     # mk "Oh, gotcha. I hadn't really noticed. {w}I need to shower too. Mind if I do it here?"
-    mk "아, 맞아. 생각을 못했네. {w}나도 샤워해야 돼. 여기에서 해도 괜찮지?"
+    mk "아, 그렇네. 거기까진 미처 신경 못 썼어. {w}나도 샤워해야 하는데, 여기서 같이 해도 되지?"
 
 # game/code/d10/d10s02.rpy:68
 translate korean d10s02_07ac449c:
 
     # mct "Last time I saw her she sucked my cock in front of the whole class."
-    mct "마지막으로 본 얘 모습이 강의실에서 다른 사람들 다 보는 앞에서 내 좆을 빤 거였지."
+    mct "마지막으로 본 게 강의실에서 애들 다 보는 앞에서 내 좆을 빨아 주던 모습이었는데."
 
 # game/code/d10/d10s02.rpy:69
 translate korean d10s02_ddfe5204:
@@ -140,19 +140,19 @@ translate korean d10s02_ddfe5204:
 translate korean d10s02_e1e0aa1c:
 
     # mc "Sure, go ahead. I'll see you there."
-    mc "좋아, 해. 가서 보자구."
+    mc "그래, 그러든가. 안에서 봐."
 
 # game/code/d10/d10s02.rpy:77
 translate korean d10s02_e3ea8903:
 
     # mct "In that vision/dream thing, she blew me and then we fucked."
-    mct "그 환상인가 꿈인가 안에서, 날 빨았고 같이 떡을 쳤어."
+    mct "그 환상인지 꿈인지 모를 곳에선 날 빨아 주고 섹스까지 했지."
 
 # game/code/d10/d10s02.rpy:78
 translate korean d10s02_5fa26227:
 
     # mct "She already blew me IRL. Maybe she wants to lose her virginity?"
-    mct "현실 속에서 벌써 내 좆을 빨았지. 아마 이제 자기 처녀를 잃고 싶은 건가?"
+    mct "현실에서도 이미 빨아 줬으니, 이번엔 처녀라도 떼고 싶다는 건가?"
 
 # game/code/d10/d10s02.rpy:81
 translate korean d10s02_edafe016:
@@ -164,7 +164,7 @@ translate korean d10s02_edafe016:
 translate korean d10s02_dc9d62bf:
 
     # mct "If she needs my cock in her pussy like that today, maybe I can get something more out of it."
-    mct "그때처럼 내 자지를 자기 보지에 넣고 싶어하는 거면, 내가 얻을 수 있는 건 많겠지."
+    mct "그때처럼 나랑 하고 싶어 하는 거라면, 나도 뭐라도 좀 받아낼 수 있겠어."
 
 # game/code/d10/d10s02.rpy:83
 translate korean d10s02_d8e6aee4:
@@ -182,7 +182,7 @@ translate korean d10s02_f4c5eade:
 translate korean d10s02_7fc4ea04:
 
     # mct "I wonder if she's bisexual now, or just a lesbian with a singular heterosexual attraction."
-    mct "얘가 이제 양성애자가 된 건가, 아니면 하나의 이성애적 끌림을 가지게 된 동성애자가 된 건가."
+    mct "얘가 이제 양성애자가 된 건가, 아니면 단 한 명에게만 이성애적 끌림을 느끼는 레즈비언이 된 건가."
 
 # game/code/d10/d10s02.rpy:90
 translate korean d10s02_99247312:
@@ -194,7 +194,7 @@ translate korean d10s02_99247312:
 translate korean d10s02_2b5a8205:
 
     # mk "You know I'm a lesbian, right?"
-    mk "내가 동성애자인 건 알지?"
+    mk "내가 레즈비언인 건 알지?"
 
 # game/code/d10/d10s02.rpy:96
 translate korean d10s02_95257152:
@@ -224,19 +224,19 @@ translate korean d10s02_3f73daae:
 translate korean d10s02_a154fb7b:
 
     # mc "Try me."
-    mc "해 봐."
+    mc "어디 한번 해 봐."
 
 # game/code/d10/d10s02.rpy:111
 translate korean d10s02_da0fffbf:
 
     # mk "I think I already did."
-    mk "벌써 한 거 같은데."
+    mk "이미 해 본 거 같은데."
 
 # game/code/d10/d10s02.rpy:114
 translate korean d10s02_8fb7b2f8:
 
     # mc "Ha ha. Good point. {w}So what did you think?"
-    mc "하 하. 좋은 지적이야. {w}그래서 무슨 생각이야?"
+    mc "하하, 일리 있네. {w}그래서, 직접 해 보니까 소감이 어때?"
 
 # game/code/d10/d10s02.rpy:116
 translate korean d10s02_ff2fc156:
@@ -254,19 +254,19 @@ translate korean d10s02_14dae2dc:
 translate korean d10s02_14f69c20:
 
     # mk "Yeah. It's that noticeable, huh?"
-    mk "그래. 그렇게 눈에 띄여?"
+    mk "그래. 그런 티 나지?"
 
 # game/code/d10/d10s02.rpy:125
 translate korean d10s02_46fba101:
 
     # mc "I would say it was your defining trait."
-    mc "강박적이란 말이 네 특성을 정의한다고 할 수 있지."
+    mc "강박적이라는 말 빼면 넌 시체지."
 
 # game/code/d10/d10s02.rpy:128
 translate korean d10s02_8cc76770:
 
     # mk "Really? I never really thought that about myself before."
-    mk "정말? 내 스스론 그렇게 생각해 본 적이 한 번도 없어."
+    mk "정말? 나 스스로는 그렇게 생각해 본 적이 한 번도 없어."
 
 # game/code/d10/d10s02.rpy:129
 translate korean d10s02_d9af6597:
@@ -278,31 +278,31 @@ translate korean d10s02_d9af6597:
 translate korean d10s02_e0356146:
 
     # mk "I mean, I know I was passionate. Strong-willed. Determined."
-    mk "그러니까 내 말은, 난 내가 열정적이라고 생각했다는 거야. 의지가 강하다. 단호하다."
+    mk "그러니까 내 말은, 내가 열정적이고, 의지가 강하고, 결단력 있는 사람이라고는 생각했다는 거야."
 
 # game/code/d10/d10s02.rpy:132
 translate korean d10s02_42d0b5c5:
 
     # mk "Those are all positive things."
-    mk "모두 긍정적인 걸로 말야."
+    mk "다 긍정적인 말이지."
 
 # game/code/d10/d10s02.rpy:133
 translate korean d10s02_19b28bf0:
 
     # mk "I just didn't realize until recently how obsessive I can be.{w}.. and have been."
-    mk "얼마 전까지는 내가 이렇게 강박적인 사람이라곤 생각도 못했어.{w}.. 방금 네가 말할 때까지도 의식 못했어."
+    mk "내가 얼마나 집착이 심해질 수 있는지 최근에야 깨달았어.{w}.. 아니, 지금까지 쭉 그래 왔다는 걸."
 
 # game/code/d10/d10s02.rpy:136
 translate korean d10s02_b4d0fab4:
 
     # mc "I guess I can see that. Your passionate determination makes you succeed at things."
-    mc "알겠네. 네 그 열정적인 단호함이 널 성공하게 했겠지."
+    mc "그렇겠네. 네 그 열정적인 단호함이 네가 일을 해내게 해 주기도 하니까."
 
 # game/code/d10/d10s02.rpy:139
 translate korean d10s02_e09228f4:
 
     # mk "Exactly. When I set my mind to something, I get it done."
-    mk "맞아. 결심을 하면, 난 해내니까."
+    mk "그렇지. 결심을 하면, 난 해내니까."
 
 # game/code/d10/d10s02.rpy:142
 translate korean d10s02_fc8b26f5:
@@ -326,7 +326,7 @@ translate korean d10s02_7c2d6a99:
 translate korean d10s02_aa9af602:
 
     # mk "Yeah. That's learned behavior, ya'know?"
-    mk "맞아. 그건 학습 행동이야, 알고 있어?"
+    mk "맞아. 살면서 그렇게 배운 거지, 알잖아?"
 
 # game/code/d10/d10s02.rpy:153
 translate korean d10s02_8b975684:
@@ -338,19 +338,19 @@ translate korean d10s02_8b975684:
 translate korean d10s02_37c52f30:
 
     # mk "Never take \"No\" for an answer. Do whatever it takes to win. Never give up."
-    mk "절대 \"아니오\"라고 대답하지 않는 거야. 이기기 위해선 뭐든지 하고. 절대 포기하지 않는 거야."
+    mk "상대의 \"거절\"은 절대 용납하지 마라. 이기기 위해선 수단과 방법을 가리지 마라. 절대 포기하지 마라, 같은 거."
 
 # game/code/d10/d10s02.rpy:156
 translate korean d10s02_3db42fa6:
 
     # mc "Good for sales, bad for friendships."
-    mc "판매엔 좋겠지만, 우정엔 나쁘겠네."
+    mc "물건을 파는 덴 좋겠지만, 우정을 쌓는 데는 나쁘겠는걸."
 
 # game/code/d10/d10s02.rpy:159
 translate korean d10s02_9d3053c7:
 
     # mk "And it's worse being a girl - from the time I was like 12 every guy I've met has hit on me."
-    mk "여자에겐 더 나쁘지. 내가 12살일 때부터 내가 만났던 모든 남자들은 나한테 수작을 걸었어."
+    mk "여자 입장에서는 더 최악이야. 12살 무렵부터 남자들이 나한테 들이댔으니까."
 
 # game/code/d10/d10s02.rpy:160
 translate korean d10s02_9e4b7fc4:
@@ -368,13 +368,13 @@ translate korean d10s02_f236ec5a:
 translate korean d10s02_24d5d0c0:
 
     # mk "Yeah, and they don't take \"Lesbian\" for an answer. They're determined to change me."
-    mk "그래, 그런 인간들은 \"동성애자\"라는 말을 답이라고 생각하지 않았지. 날 바꾸려고 했어."
+    mk "맞아. 게다가 놈들은 \"레즈비언\"이라는 말을 거절로 받아들이지도 않아. 날 바꿔놓겠다고 안달이었지."
 
 # game/code/d10/d10s02.rpy:166
 translate korean d10s02_6b1e84da:
 
     # mk "\"You just haven't been fucked by the right man yet.\" or whatever, ya'know?"
-    mk "\"네가 아직 좋은 남자한테 박히질 못해서 그래.\" 같은 소리나 했지, 알겠어?"
+    mk "\"제대로 된 놈한테 제대로 안 박혀 봐서 그래.\" 같은 개소리나 지껄이면서 말이야."
 
 # game/code/d10/d10s02.rpy:169
 translate korean d10s02_d55f61cb:
@@ -392,25 +392,25 @@ translate korean d10s02_925b8b39:
 translate korean d10s02_041bd08f:
 
     # mc "And somehow sucking me off during class made you aware of all this?"
-    mc "그리고 왜 그런 건진 모르겠지만, 수업 중에 모두가 보는 앞에서 날 빨았고?"
+    mc "그런데 수업 중에 날 빨아 준 일 때문에 이 모든 걸 깨닫게 된 거야?"
 
 # game/code/d10/d10s02.rpy:177
 translate korean d10s02_ba455893:
 
     # mk "Ha! Yeah, I guess so."
-    mk "하! 맞아, 그렇네."
+    mk "하! 맞아, 그렇다고 할 수 있겠네."
 
 # game/code/d10/d10s02.rpy:178
 translate korean d10s02_a6da3384:
 
     # mk "Something about that dream we all shared at that Party last week just tapped into my obsessive nature."
-    mk "지난주 그 파티에서 우리가 공유했던 꿈에 관한 무언가가 내 강박적인 본성에 닿았어."
+    mk "지난주 그 파티에서 우리가 공유했던 꿈에 관한 무언가가 내 강박적인 본성을 건드렸어."
 
 # game/code/d10/d10s02.rpy:179
 translate korean d10s02_66bfae38:
 
     # mk "I let that obsession consume me until... well, I did something that shook me out of it."
-    mk "난 그 강박이 날 사로잡게 두었고... 글쎄, 나 스스로 나한테 충격을 줄 만한 짓을 했지."
+    mk "난 그 강박에 완전히 사로잡혔다가... 글쎄, 정신이 번쩍 들 만한 일을 저질렀지."
 
 # game/code/d10/d10s02.rpy:181
 translate korean d10s02_1df1e72c:
@@ -422,13 +422,13 @@ translate korean d10s02_1df1e72c:
 translate korean d10s02_2c25907b:
 
     # mk "I've got a lot of bad habits to unlearn. I need to try to be a better person."
-    mk "나한텐 좋지 못한 기벽이 있어. 이걸 고치고 더 나은 사람이 되어야 한다는 생각이 들었지."
+    mk "나한텐 버려야 할 나쁜 습관이 많아. 이걸 고치고 더 나은 사람이 되어야 한다는 생각이 들었지."
 
 # game/code/d10/d10s02.rpy:185
 translate korean d10s02_ca799b43:
 
     # mc "Well, then I'm glad I could help."
-    mc "음, 그랬다면 돕게 되서 기쁘네."
+    mc "음, 도움이 됐다니 기쁘네."
 
 # game/code/d10/d10s02.rpy:188
 translate korean d10s02_edaa18fe:
@@ -446,13 +446,13 @@ translate korean d10s02_c185f39a:
 translate korean d10s02_bc92c19b:
 
     # mc "Antony will probably do another vision quest or whatever..."
-    mc "앤토니는 다른 환상적인 뭔가를 하려고 하겠지..."
+    mc "앤토니는 또 환상 체험 같은 걸 하겠지..."
 
 # game/code/d10/d10s02.rpy:193
 translate korean d10s02_5ec601c5:
 
     # mk "I'm definitely not ready for that. {w}I might go to the Party tonight, but definitely not that event."
-    mk "그걸 할 준비는 확신히 안 됐어. {w}파티에는 가겠지만, 그 행사에는 참가하지 않을 거야."
+    mk "그럴 준비는 확실히 안 됐어. {w}오늘 밤 파티에는 갈지도 모르지만, 그 행사에는 참가하지 않을 거야."
 
 # game/code/d10/d10s02.rpy:195
 translate korean d10s02_e43dc817:
@@ -470,13 +470,13 @@ translate korean d10s02_8fea2db2:
 translate korean d10s02_b1cb0459:
 
     # mk "What's up? You sound like you're not saying something, but you're thinking very loudly."
-    mk "뭐야? 뭘 말하지 않은 소린데, 생각하고 있는 거 다 보인다고."
+    mk "왜 그래? 입으로는 아무 말도 안 해도, 머리 굴리는 티가 나는데."
 
 # game/code/d10/d10s02.rpy:212
 translate korean d10s02_warning_1791daf4:
 
     # mct "Clearly, neither of us has our phone in here."
-    mct "분명한 건, 우리 둘 다 전화기가 없다는 거지."
+    mct "확실한 건, 여기엔 둘 다 휴대폰을 안 들고 들어왔다는 거지."
 
 # game/code/d10/d10s02.rpy:215
 translate korean d10s02_warning_c92d1130:
@@ -494,7 +494,7 @@ translate korean d10s02_warning_b2e6ad87:
 translate korean d10s02_warning_868ce79a:
 
     # mc "Half the time I earn points without even realizing it was taking photos - and I'm pretty sure it listens to my conversations."
-    mc "내가 사진을 찍지도 않았는데 점수를 받을 때가 많아. 그리고 분명히 페티시 로케이터가 내가 하는 대화를 듣고 있고."
+    mc "앱이 사진을 찍는 줄도 몰랐는데 점수를 받을 때가 많아. 그리고 분명히 페티시 로케이터가 내가 하는 대화를 듣고 있고."
 
 # game/code/d10/d10s02.rpy:223
 translate korean d10s02_warning_3701dec0:
@@ -512,7 +512,7 @@ translate korean d10s02_warning_2989bcb4:
 translate korean d10s02_warning_ecb4bae0:
 
     # mk "Especially with that part in the terms & conditions."
-    mk "특히 약관에 관한 부분도 그렇고."
+    mk "특히 약관에 있는 그 부분도 그렇고."
 
 # game/code/d10/d10s02.rpy:233
 translate korean d10s02_warning_9d412054:
@@ -524,7 +524,7 @@ translate korean d10s02_warning_9d412054:
 translate korean d10s02_warning_84a58ec6:
 
     # mk "The special program for people that uninstall the app before-"
-    mk "앱을 삭제한 사람에게 특별 계획이-"
+    mk "그 전에 앱을 삭제한 사람들을 위한 특별 계획이-"
 
 # game/code/d10/d10s02.rpy:237
 translate korean d10s02_warning_38be99ca:
@@ -572,19 +572,19 @@ translate korean d10s02_warning_79537ab5:
 translate korean d10s02_warning_dbc3fbdf:
 
     # mc "Yeah. It's all very suspicious."
-    mc "전부 의심스럽다고."
+    mc "그래, 하나부터 열까지 다 너무 수상해."
 
 # game/code/d10/d10s02.rpy:255
 translate korean d10s02_warning_21e56cb8:
 
     # mc "Okay. Good."
-    mc "좋아. 그래."
+    mc "좋아. 훌륭하군."
 
 # game/code/d10/d10s02.rpy:256
 translate korean d10s02_warning_d75100ce:
 
     # mct "She's getting better, but Maria's still too self-centered to even consider that I might be in that special program."
-    mct "마리아는 나아지고는 있지만, 너무 자기 중심적이라서 내가 특별 계획에 있을 거라는 생각도 하지 않는군."
+    mct "마리아는 나아지고는 있다지만, 여전히 너무 자기중심적이라 내가 그 특별 계획에 포함되어 있을 거라곤 생각조차 못하는군."
 
 # game/code/d10/d10s02.rpy:262
 translate korean d10s02_for_points_d85f3ebf:
@@ -620,7 +620,7 @@ translate korean d10s02_for_points_29e9fe0b:
 translate korean d10s02_for_points_fc9ba782:
 
     # mk "Lesbian going down on a guy while the whole class watched? Tons of points."
-    mk "동성애자가 강의실 전체가 볼 수 있는데 남자한테 머리를 대줬다? 점수 엄청 받지."
+    mk "레즈비언이 강의실 애들이 다 보는 앞에서 남자를 빨아 줬다? 점수 엄청 퍼 주지."
 
 # game/code/d10/d10s02.rpy:277
 translate korean d10s02_for_points_6714a429:
@@ -632,7 +632,7 @@ translate korean d10s02_for_points_6714a429:
 translate korean d10s02_for_points_916dbe79:
 
     # mk "Why do you ask? Did you have an idea for more points?"
-    mk "왜 묻는 거야? 점수 더 벌려고 무슨 생각이라도 했어?"
+    mk "왜 묻는 거야? 점수를 더 벌 방법이라도 생각났어?"
 
 # game/code/d10/d10s02.rpy:283
 translate korean d10s02_for_points_9a00c033:
@@ -644,7 +644,7 @@ translate korean d10s02_for_points_9a00c033:
 translate korean d10s02_for_points_d997833d:
 
     # mk "I'm not letting you fuck my thighs, and I doubt my tits are big enough for a boobjob."
-    mk "허벅지 박게 안 해 줄 거야. 그리고 내 가슴이 붑잡할 정도로 크지도 않고."
+    mk "허벅지에 박게 해 줄 생각 없고, 붑잡을 할 만큼 가슴이 크지도 않아."
 
 # game/code/d10/d10s02.rpy:288
 translate korean d10s02_for_points_b2100bca:
@@ -656,13 +656,13 @@ translate korean d10s02_for_points_b2100bca:
 translate korean d10s02_for_points_c45552ed:
 
     # mk "Pretty sure I don't want your penis that close to my mouth again anyway."
-    mk "무슨 소리를 하든 간에 다시는 내 입에 네 좆을 가까이 하고 싶지 않다는 건 분명해."
+    mk "무슨 소리를 하든 간에 다시는 내 입 가까이 네 좆을 두고 싶지 않다는 건 확실해."
 
 # game/code/d10/d10s02.rpy:292
 translate korean d10s02_for_points_e76191df:
 
     # mc "Fair enough... {w}What about bagpiping?"
-    mc "잘 알았어... {w}겨드랑이로 하는 백파이핑(bagpiping)은 어때?"
+    mc "잘 알았어... {w}백파이핑(bagpiping)은 어때?"
 
 # game/code/d10/d10s02.rpy:295
 translate korean d10s02_for_points_aa8f9493:
@@ -674,19 +674,19 @@ translate korean d10s02_for_points_aa8f9493:
 translate korean d10s02_for_points_965c41c1:
 
     # mk "Anything we would do would involve going back to where our phones are..."
-    mk "어떻게 굴러가는지 생각을 해 봐. 다시 폰이 있는 곳으로 가서..."
+    mk "뭘 하든 간에 폰이 있는 락커룸 쪽으로 다시 나가야 하고..."
 
 # game/code/d10/d10s02.rpy:297
 translate korean d10s02_for_points_073bf7c2:
 
     # mk "... then doing something that makes me all sticky..."
-    mk "... 날 끈쩍하게 만들 어떤 짓을 하고..."
+    mk "... 그러고는 몸을 끈적끈적하게 만들 짓을 한 다음에..."
 
 # game/code/d10/d10s02.rpy:298
 translate korean d10s02_for_points_d8c7ca62:
 
     # mk "... then me coming back here for another shower."
-    mk "... 난 다시 돌아와서 다시 샤워를 하는 거지."
+    mk "... 다시 샤워하러 이리로 들어와야 하잖아."
 
 # game/code/d10/d10s02.rpy:301
 translate korean d10s02_for_points_ab60551b:
@@ -710,7 +710,7 @@ translate korean d10s02_end_cf922843:
 translate korean d10s02_end_467a1019:
 
     # mk "I really really didn't like the taste, but it was easier to swallow it than I had imagined."
-    mk "진심으로 정말로 맛은 좋지 않았지만, 상상한 것보단 삼키긴 쉽더라."
+    mk "진짜 맛은 더럽게 없었지만, 생각했던 것보단 삼키기 쉽더라."
 
 # game/code/d10/d10s02.rpy:316
 translate korean d10s02_end_614cd1aa:
@@ -722,7 +722,7 @@ translate korean d10s02_end_614cd1aa:
 translate korean d10s02_end_42393567:
 
     # mk "That wasn't what you were going to ask, was it?"
-    mk "그걸 물어보려고 했던 거 아냐?"
+    mk "물어보려던 게 이건 아니었지?"
 
 # game/code/d10/d10s02.rpy:322
 translate korean d10s02_end_3f668ae3:
@@ -740,13 +740,13 @@ translate korean d10s02_end_bad4c821:
 translate korean d10s02_end_582f2316:
 
     # mk "I'm still a lesbian. I don't feel any sexual attraction to you. I'm not obsessing over your dick anymore."
-    mk "난 여전히 동성애자야. 너한테 어떤 성적인 끌림도 없어. 네 좆만 생각하고 있지도 않고."
+    mk "난 여전히 레즈비언이야. 너한테 어떤 성적인 끌림도 없어. 네 좆만 생각하고 있지도 않고."
 
 # game/code/d10/d10s02.rpy:329
 translate korean d10s02_end_4452a555:
 
     # mc "Oh, good. I had been wondering about that."
-    mc "아, 다행이네. 그런 게 중금하긴 했어."
+    mc "아, 다행이네. 안 그래도 그게 궁금했거든."
 
 # game/code/d10/d10s02.rpy:331
 translate korean d10s02_end_ba1d3c67:
@@ -764,13 +764,13 @@ translate korean d10s02_end_2186bfdc:
 translate korean d10s02_end_b13dfa65:
 
     # mk "Exactly. I'm not going to let some guy lick my kitty, but I'm going to try not to be such a bitch about it either."
-    mk "바로 그거야. 어떤 자식한테 내 야옹이를 핥게 해 줄 생각은 없지만, 그렇다고 썅년처럼 굴 생각도 없어."
+    mk "바로 그거야. 어떤 놈한테 내 거기를 핥게 둘 생각은 없지만, 그렇다고 유난 떨면서 떽떽거릴 생각도 없다는 거지."
 
 # game/code/d10/d10s02.rpy:342
 translate korean d10s02_end_f4464b53:
 
     # mc "So, not so militant about intergender play?"
-    mc "그러면 이성간 놀이에 너무 강경한 태도를 취하지는 않는다?"
+    mc "그럼 이성이랑 하는 놀이에 그렇게까지 적대적으로 굴지는 않겠다는 거지?"
 
 # game/code/d10/d10s02.rpy:344
 translate korean d10s02_end_f35928c6:
@@ -782,7 +782,7 @@ translate korean d10s02_end_f35928c6:
 translate korean d10s02_end_4783640a:
 
     # mc "No worries there."
-    mc "그 점은 이제 걱정없네."
+    mc "그 점은 걱정 없겠네."
 
 # game/code/d10/d10s02.rpy:349
 translate korean d10s02_end_d4a2dfeb:
@@ -806,19 +806,19 @@ translate korean d10s02_end_f52629c0:
 translate korean d10s02_end_09c99df5:
 
     # mk "I don't want to fuck a guy. I don't even want to fuck you. I just remember that it felt... I dunno, different."
-    mk "남자랑 떡치고 싶은 게 아냐, 너랑 떡치고 싶은 건 더더욱 아니고. 그때의 감각을 기억하고 있긴 한데... 모르겠네, 달라."
+    mk "남자랑 하고 싶은 게 아냐. 너랑 하고 싶다는 건 더더욱 아니고. 그냥 그때 느낌이... 뭐랄까, 색달랐던 기억이 나서."
 
 # game/code/d10/d10s02.rpy:357
 translate korean d10s02_end_519c2d95:
 
     # mk "I don't think it would feel anywhere near as good as being with a girl, but maybe someday my curiosity will get to me."
-    mk "여자랑 같이 있는 것처럼 기분 좋을 거라고 생각하지는 않지만, 언젠간 궁금할 수도 있겠지."
+    mk "여자랑 같이 있는 것처럼 기분 좋을 거라고 생각하지는 않지만, 언젠간 호기심에 못 이길지도 모르지."
 
 # game/code/d10/d10s02.rpy:359
 translate korean d10s02_end_964fcade:
 
     # mk "Or maybe in a few years - when I'm out of college and in a healthy relationship with a woman. Maybe we'll want to have kids."
-    mk "아니면 몇 년 후에. 대학을 나가서 여성과 건강한 관계를 가지고 있을 때. 아이를 가지고 싶을 수도 있겠고."
+    mk "아니면 몇 년 뒤에 대학을 졸업하고 어떤 여자랑 행복하게 사귀고 있을 때, 우리 둘 다 아이를 갖고 싶어질 수도 있잖아."
 
 # game/code/d10/d10s02.rpy:362
 translate korean d10s02_end_e0527b9c:
@@ -836,13 +836,13 @@ translate korean d10s02_end_6c7c79c9:
 translate korean d10s02_end_424dadf4:
 
     # mc "I never would have imagined that about you."
-    mc "그런 네 모습은 상상도 못하겠는데."
+    mc "네가 그러고 싶을 줄은 상상도 못했는데."
 
 # game/code/d10/d10s02.rpy:370
 translate korean d10s02_end_81141d6e:
 
     # mk "Anyway. It'll probably never be an issue. There are other options, but if I ever do decide to put a real penis in me again..."
-    mk "아무튼. 문제없을 거야. 다른 선택지야 있겠지만, 진짜 음경을 넣고 싶어지면..."
+    mk "아무튼 그럴 일은 없겠지만. 다른 방법도 많으니까. 하지만 만에 하나 내가 진짜 음경을 받아들이겠다고 결심한다면..."
 
 # game/code/d10/d10s02.rpy:372
 translate korean d10s02_end_79e9e188:
@@ -860,13 +860,13 @@ translate korean d10s02_end_ebffe84b:
 translate korean d10s02_end_97a45ea1:
 
     # mk "Meh. I'm still feeling all kinds of weird in the head after everything that's happened this past week."
-    mk "으엑. 지난주에 별별 일을 겪고 나니 내 머릿속에서 별 이상한 생각이 든다니까."
+    mk "참나, 지난주에 워낙 별의별 일을 다 겪었더니 머릿속이 아주 복잡해 죽겠네."
 
 # game/code/d10/d10s02.rpy:379
 translate korean d10s02_end_0bb9ed9b:
 
     # mk "By next week I'll probably have forgotten all about this and moved on with my life."
-    mk "다음 주부터는 전부 잊고 내 인생을 살 거야."
+    mk "다음 주쯤이면 아마 전부 잊고 평소대로 살고 있겠지."
 
 # game/code/d10/d10s02.rpy:382
 translate korean d10s02_end_ce346e93:
@@ -896,7 +896,7 @@ translate korean d10s02_end_bdb4bc3b:
 translate korean d10s02_end_9821cad8:
 
     # mc "If there's any way I can help you, even if- {w}No, especially if it doesn't involve my dick, just let me know."
-    mc "내가 도울 줄 있이 있으면, 비록- {w}아니지, 딱히 내 좆에 관한 일이 아니라도, 그냥 말만 해."
+    mc "내가 도와줄 수 있는 일이 있다면 뭐든... {w}아니, 특히 내 거시기랑 상관없는 일이라면 언제든 편하게 말해."
 
 # game/code/d10/d10s02.rpy:393
 translate korean d10s02_end_5923e338:
@@ -908,13 +908,13 @@ translate korean d10s02_end_5923e338:
 translate korean d10s02_end_cdd54cb0:
 
     # mc "Let's get out of here before we're all pruney."
-    mc "쭈글쭈글해지기 전에 나가자구."
+    mc "쭈글쭈글해지기 전에 나가자."
 
 # game/code/d10/d10s02.rpy:398
 translate korean d10s02_end_c44f91e3:
 
     # mk "Totally, I will be out in a minute."
-    mk "전적으로 동의, 난 잠시 후에 나갈게."
+    mk "그래야지. 나도 금방 나갈게."
 
 translate korean strings:
 
