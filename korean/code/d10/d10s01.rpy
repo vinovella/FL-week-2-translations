@@ -2,31 +2,31 @@
 translate korean d10s01_c266f695:
 
     # "Wednesday. Day-10."
-    "수요일. 10일차."
+    "수요일. 10일 차."
 
 # game/code/d10/d10s01.rpy:11
 translate korean d10s01_8a61ec7e:
 
     # mct "Gah! {w}What is that noise?"
-    mct "그악! {w}이게 무슨 요란이야?"
+    mct "으악! {w}이게 무슨 소리야?"
 
 # game/code/d10/d10s01.rpy:12
 translate korean d10s01_5d7065dd:
 
     # mct "It sounds like our building is being demolished."
-    mct "우리 기숙사 건물 철거하는 소린 같은데."
+    mct "우리 기숙사 건물이 철거되는 소리 같은데."
 
 # game/code/d10/d10s01.rpy:13
 translate korean d10s01_7662aec8:
 
     # mct "I don't want to get up. {w}I'll sleep in the rubble."
-    mct "일어나고 싶지 않다. {w}난 잔해 속에서도 잘 수 있어."
+    mct "일어나기 싫은데. {w}그냥 잔해에 깔려서 계속 잘래."
 
 # game/code/d10/d10s01.rpy:17
 translate korean d10s01_d3b778e6:
 
     # mct "Fuck it. I can't sleep hearing this."
-    mct "좆 까라. 이 소리를 들으면서 어떻게 잘 수가 있어."
+    mct "에이 씨, 이 소릴 듣고 어떻게 자."
 
 # game/code/d10/d10s01.rpy:18
 translate korean d10s01_bd4abf4b:
@@ -44,13 +44,13 @@ translate korean d10s01_09e9fe23:
 translate korean d10s01_7f7f9162:
 
     # mct "Where is the sun? I'm so used to a nice weather, that moody dull sky like this makes me all depressed..."
-    mct "해는 어디 간 거야? 좋은 날씨에 너무 익숙해 진 건가. 저 흐릿하고 우중충한 하늘을 보니까 내가 다 우울해 진다..."
+    mct "해는 어디 간 거야? 맑은 날씨에 너무 익숙해졌나, 이런 칙칙하고 우중충한 하늘을 보니 나까지 다 우울해지네..."
 
 # game/code/d10/d10s01.rpy:28
 translate korean d10s01_546c02ee:
 
     # mct "My head hurts. Was I drinking last night?"
-    mct "내 머리가 다 아프네. 어제 술이라도 마셨던가?"
+    mct "머리가 다 아프네. 어제 술이라도 마셨던가?"
 
 # game/code/d10/d10s01.rpy:29
 translate korean d10s01_cb356370:
@@ -62,7 +62,7 @@ translate korean d10s01_cb356370:
 translate korean d10s01_7c834441:
 
     # mct "I mean, it's cool that she wants me to be with other people, but I still can't quite wrap my head around it."
-    mct "리디아는 내가 다른 사람이랑 같이 시간을 보내도 된다고 했어. 이건 멋지긴 해. 그런데, 아직도 이해를 못하겠단 말이야."
+    mct "리디아가 내가 다른 사람들과 만나길 바라는 건 좋긴 한데, 아직도 제대로 이해가 안 된다는 말이지."
 
 # game/code/d10/d10s01.rpy:32
 translate korean d10s01_a5e7c3dc:
@@ -74,7 +74,7 @@ translate korean d10s01_a5e7c3dc:
 translate korean d10s01_833955e6:
 
     # mct "I am having a lot of fun. On the one hand this app is great for my sex life."
-    mct "재미도 많이 보고 있고. 이 앱이 내 성 생활에 엄청 도움은 된단 말이지."
+    mct "재미도 많이 보고 있고. 이 앱이 내 성생활에 엄청 도움은 된단 말이지."
 
 # game/code/d10/d10s01.rpy:38
 translate korean d10s01_58c63989:
@@ -98,13 +98,13 @@ translate korean d10s01_11c36ad7:
 translate korean d10s01_d49216cf:
 
     # mct "Or maybe like Dr. Strangelove. Do I just need to learn to love the bomb?"
-    mct "아니면 닥터 스트레인지러브나. 내가 정말로 이 페티시 로케이터라는 폭탄을 사랑하는 법을 배워야 하는 걸까?"
+    mct "아니면 영화 닥터 스트레인지러브처럼 말이지. 나도 그냥 폭탄을 사랑하는 법을 배워야 하는 건가?"
 
 # game/code/d10/d10s01.rpy:45
 translate korean d10s01_cc523925:
 
     # mct "I guess I just need to keep going and stop thinking about it too much."
-    mct "지나치게 깊게 생각하는 건 그만 두자. 어차피 계속 해야 되잖냐."
+    mct "너무 깊게 생각하지 말고 일단 계속하는 수밖에 없겠어."
 
 # game/code/d10/d10s01.rpy:47
 translate korean d10s01_aedd82bd:
@@ -122,7 +122,7 @@ translate korean d10s01_2dfc5eb7:
 translate korean d10s01_03de972a:
 
     # mct "Did I set my alarm to vibrate this morning?"
-    mct "내가 이렇게 일찍 알람이라도 맞췄던가?"
+    mct "오늘 아침 알람을 진동으로 맞춰 놨던가?"
 
 # game/code/d10/d10s01.rpy:55
 translate korean d10s01_9524b1d6:
@@ -134,31 +134,31 @@ translate korean d10s01_9524b1d6:
 translate korean d10s01_06a67988:
 
     # mct "Fetish Locator? {w}This is really damn early."
-    mct "페티시 로케이터? {w}망할 이렇게 일찍인데."
+    mct "페티시 로케이터? {w}망할, 너무 이르잖아."
 
 # game/code/d10/d10s01.rpy:59
 translate korean d10s01_a9e0ee93:
 
     # mct "Alright, so today's Fetish is... {w}Outercourse?"
-    mct "됐다. 됐어. 그래서 오늘의 페티시는... {w}간접 성교?"
+    mct "좋아, 그럼 오늘의 페티시는... {w}간접 성교?"
 
 # game/code/d10/d10s01.rpy:60
 translate korean d10s01_0eec42b0:
 
     # mct "Boobjobs, thighjobs, grinding, lapdances... {w}I guess that could be fun."
-    mct "붑잡(boobjobs), 따이잡(thightjobs), 그라인딩(grinding), 랩댄스(lapdance)... {w}이건 재미있겠는데."
+    mct "붑잡(boobjobs), 따이잡(thighjobs), 그라인딩(grinding), 랩댄스(lapdance)... {w}이건 재미있겠는데."
 
 # game/code/d10/d10s01.rpy:63
 translate korean d10s01_e4dcf492:
 
     # mct "Pete is out cold. {w}This is kinda stupid, but at least he won't walk in on me by surprise."
-    mct "피트는 완전히 실신 상태구만. {w}바로 옆에서 하는 건 멍청한 짓 한데. 키보드 두드린다고 깰 녀석은 아니니까."
+    mct "피트는 완전히 실신 상태구만. {w}바로 옆에서 하는 건 멍청한 짓이긴 한데. 키보드 두드린다고 깰 녀석은 아니니까."
 
 # game/code/d10/d10s01.rpy:68
 translate korean d10s01_c4040c42:
 
     # mct "Let's try another password. Hmm... Apparition0613. At least that looks like a real password."
-    mct "다른 비밀번호로 해 볼까. 흐음... 유령0613. 이건 적어도 진짜 비밀번호 같네."
+    mct "다른 비밀번호로 해 볼까. 흐음... 유령0613. 적어도 이건 진짜 비밀번호 같네."
 
 # game/code/d10/d10s01.rpy:71
 translate korean d10s01_614a6563:
@@ -188,25 +188,25 @@ translate korean d10s01_4ce96cbf:
 translate korean d10s01_2a5f2605:
 
     # mct "Ah, Samiya. {w}I need to meet her at her place in a few hours."
-    mct "아, 사미야잖아. {w}몇 시간 있다가 걔 장소에서 만나야 돼."
+    mct "아, 사미야네. {w}몇 시간 뒤에 걔네 집에서 만나야 되네."
 
 # game/code/d10/d10s01.rpy:80
 translate korean d10s01_fb7d7273:
 
     # mct "I guess she means her sex apartment, rather than her dorm room."
-    mct "자기 섹스 아파트를 보자는 거겠지. 자기 기숙사 방 같은 곳이 아니라."
+    mct "기숙사 방이 아니라 그 섹스 아파트에서 보자는 뜻이겠지."
 
 # game/code/d10/d10s01.rpy:82
 translate korean d10s01_e395827e:
 
     # mct "Ready for the day. I just need to call Stacy."
-    mct "하루 시작할 준비나 하자. 스테이시한테 전화해야지."
+    mct "하루를 시작할 준비는 됐고. 스테이시한테 전화해야지."
 
 # game/code/d10/d10s01.rpy:84
 translate korean d10s01_48cae3f6:
 
     # mct "Screw it. Pete's still sleeping. It's not going to wake him."
-    mct "대단하네. 피트는 아직도 자잖아. 뭔 짓을 해도 이 녀석을 깨울 순 없겠네."
+    mct "에라 모르겠다. 피트는 아직 자고 있으니까. 뭔 짓을 해도 깨진 않겠지."
 
 # game/code/d10/d10s01.rpy:89
 translate korean d10s01_c17180b4:
@@ -230,7 +230,7 @@ translate korean d10s01_8f637bd1:
 translate korean d10s01_edd119a8:
 
     # mc "Well, I didn't think you would want to wait to hear this."
-    mc "글쎄다. 나중에 듣고 싶은 소식은 아닐 거 같아서."
+    mc "글쎄다. 이 소식을 나중에 듣고 싶지는 않을 것 같은데."
 
 # game/code/d10/d10s01.rpy:94
 translate korean d10s01_997779d4:
@@ -254,17 +254,17 @@ translate korean d10s01_9dd9b6ee:
 translate korean d10s01_40921b7b:
 
     # mc "See you then. Love ya'"
-    mc "그때 보자구. 나도 사랑해."
+    mc "그때 봐. 사랑한다~"
 
 # game/code/d10/d10s01.rpy:103
 translate korean d10s01_1ac40f5e:
 
     # mc "See you then. You can go back to sleep now."
-    mc "그때 보자구. 이제 다시 자도 돼."
+    mc "그때 보자고. 이제 다시 자도 돼."
 
 # game/code/d10/d10s01.rpy:104
 translate korean d10s01_f1fb4a66:
 
     # mc "Exactly. Good morning and good night."
-    mc "됐어. 좋은 아침이고 좋은 밤이 되자구."
+    mc "맞아. 좋은 아침, 그리고 잘 자."
 
