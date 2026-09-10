@@ -20,25 +20,25 @@ translate korean d10s04_5ad93678:
 translate korean d10s04_801e3361:
 
     # vw "Welcome [mcname]. Of course, I was hoping to see you."
-    vw "어서와요, [mcname]. 그럼요, 오길 기다리고 있었어요."
+    vw "어서 와요, [mcname]. 그럼요, 오길 기다리고 있었어요."
 
 # game/code/d10/d10s04.rpy:93
 translate korean d10s04_6f96b443:
 
     # vw "What's with the luggage? I thought it was your..."
-    vw "그 짐은 뭐에요? 누구 건가 궁금했는데..."
+    vw "그 짐은 왜 들고 있어요? 오늘 이사 오는 건 그쪽의..."
 
 # game/code/d10/d10s04.rpy:97
 translate korean d10s04_e3415ada:
 
     # mc "Sister. Stacy is my sister."
-    mc "동생이요. 제 동생 스테이시 거에요."
+    mc "동생이요. 제 동생 스테이시 거예요."
 
 # game/code/d10/d10s04.rpy:99
 translate korean d10s04_57ce7edf:
 
     # mc "Friend. Stacy is my friend."
-    mc "친구요. 제 친구 스테이시 거에요."
+    mc "친구요. 제 친구 스테이시 거예요."
 
 # game/code/d10/d10s04.rpy:100
 translate korean d10s04_63301109:
@@ -50,13 +50,13 @@ translate korean d10s04_63301109:
 translate korean d10s04_9494bf49:
 
     # mc "Correct. Her luggage was lost earlier this week. I got it back for her."
-    mc "맞아요. 주초에 걔 가방이 사라졌거든요. 많은 일이 있었지만 어떻게 찾을 수가 있었죠. 그래서 스테이시에게 돌려주려구요."
+    mc "맞아요. 이번 주 초에 가방을 잃어버렸었거든요. 제가 대신 찾아다 주는 거죠."
 
 # game/code/d10/d10s04.rpy:105
 translate korean d10s04_695bc6dd:
 
     # vw "Oh, nice. Well, don't be a stranger. Come on in!"
-    vw "오, 착하기도 하지. 맞아, 그렇게 멀뚱히 서있지 말구. 어서 들어와요!"
+    vw "오, 착하기도 하지. 맞아, 그렇게 멀뚱히 서 있지 말고. 어서 들어와요!"
 
 # game/code/d10/d10s04.rpy:110
 translate korean d10s04_6abbae4f:
@@ -68,7 +68,7 @@ translate korean d10s04_6abbae4f:
 translate korean d10s04_10523e59:
 
     # mc "Sure. Are you okay?"
-    mc "그럼요. 나쁜 일은 있었던 건 아니죠?"
+    mc "그럼요. 나쁜 일이 있었던 건 아니죠?"
 
 # game/code/d10/d10s04.rpy:113
 translate korean d10s04_8f014988:
@@ -104,13 +104,13 @@ translate korean d10s04_f0322620:
 translate korean d10s04_672ebc19:
 
     # vw "Well, in the ladies room at the store. It wasn't a porta-john or something."
-    vw "음, 매장에 있는 제대로 된 여자 화장실에서 말야. 무슨 이동식 변기 같은 건 아니구."
+    vw "음, 매장에 있는 제대로 된 여자 화장실에서 말야. 무슨 이동식 변기 같은 건 아니고."
 
 # game/code/d10/d10s04.rpy:126
 translate korean d10s04_0cd1477e:
 
     # mc "Still."
-    mc "그래두요."
+    mc "그래도요."
 
 # game/code/d10/d10s04.rpy:127
 translate korean d10s04_7456a197:
@@ -122,31 +122,31 @@ translate korean d10s04_7456a197:
 translate korean d10s04_77b9e678:
 
     # mc "As one does when-"
-    mc "옷을 벗었으면-"
+    mc "뭐, 그럴 때면 으레 그렇게-"
 
 # game/code/d10/d10s04.rpy:131
 translate korean d10s04_1a526bff:
 
     # vw "Will you just listen? {w}I'm just getting warmed up when another woman comes in the bathroom."
-    vw "그냥 좀 듣고 있겠니? {w}그냥 뻐근해진 몸을 풀고 있었는데 다른 여자가 화장실에 들어왔어."
+    vw "말 좀 끝까지 들어볼래? {w}그냥 뻐근해진 몸을 풀려고 했었는데 다른 여자가 화장실에 들어왔어."
 
 # game/code/d10/d10s04.rpy:133
 translate korean d10s04_2ec74fac:
 
     # mc "She came, or she walked into-"
-    mc "들어왔는지도 몰랐는데, 들어오자마자-"
+    mc "들어왔는지도 몰랐어요, 아니면 들어오자마자-"
 
 # game/code/d10/d10s04.rpy:135
 translate korean d10s04_49c7f0db:
 
     # vw "She burst in, stole my clothes, and ran out!"
-    vw "내 칸으로 쳐들어오더니, 내 옷을 훔쳐서 도망 간 거 있지!"
+    vw "내 칸으로 쳐들어오더니, 내 옷을 훔쳐서 도망간 거 있지!"
 
 # game/code/d10/d10s04.rpy:137
 translate korean d10s04_21e673d7:
 
     # mc "Woah!"
-    mc "와 세상에!"
+    mc "세상에!"
 
 # game/code/d10/d10s04.rpy:140
 translate korean d10s04_ecd83e23:
@@ -200,19 +200,19 @@ translate korean d10s04_c357468c:
 translate korean d10s04_71b9e9fc:
 
     # vw "Anyway, so I got myself all warmed up again and just when I was about to release there was a knock at the door."
-    vw "어쨌든, 그래서 혼자서 몸을 풀고 막 해방하려는 순간에 문에서 똑똑 하고 소리가 들리는 거야."
+    vw "어쨌든, 그래서 혼자서 몸을 풀고 막 가버리려는 순간인데 문에서 똑똑 하는 소리가 들리는 거야."
 
 # game/code/d10/d10s04.rpy:154
 translate korean d10s04_b0fee093:
 
     # mc "That sounds frustrating."
-    mc "낙심했겠네요."
+    mc "김샜겠네요."
 
 # game/code/d10/d10s04.rpy:157
 translate korean d10s04_856ba74e:
 
     # vw "You have no idea. Anyway, it was the store manager coming to check if I was alright and needed anything."
-    vw "얼마나 맥이 풀리던지 말로는 다 하지 못할 정도라구. 아무튼, 매장 관리자가 왔어. 내가 괜찮은지 필요한 건 없는지 묻더라."
+    vw "얼마나 김이 새던지 말로는 다 하지 못할 정도였어. 아무튼, 매장 관리자가 왔어. 내가 괜찮은지 필요한 건 없는지 묻더라."
 
 # game/code/d10/d10s04.rpy:158
 translate korean d10s04_58fdbb1a:
@@ -224,7 +224,7 @@ translate korean d10s04_58fdbb1a:
 translate korean d10s04_3fd65ed3:
 
     # vw "Luckily it was a clothing store. That bitch had stolen my clothes, but at least she left me my purse."
-    vw "운 좋게도 옷 가게에 있었어. 그 망할 년이 내 옷은 훔쳤지만, 그래도 지갑은 남겼더라구."
+    vw "운 좋게도 옷 가게에 있었어. 그 망할 년이 내 옷은 훔쳤지만, 그래도 지갑은 남겼더라."
 
 # game/code/d10/d10s04.rpy:160
 translate korean d10s04_054c5ee0:
@@ -242,13 +242,13 @@ translate korean d10s04_800df51b:
 translate korean d10s04_741780f2:
 
     # mc "But he wanted something in return?"
-    mc "그 사람이 대가로 뭐라도 바란 거에요?"
+    mc "그 사람이 대가로 뭐라도 바란 거예요?"
 
 # game/code/d10/d10s04.rpy:166
 translate korean d10s04_0386d7fd:
 
     # vw "Yep. He didn't say it, but he hinted around that I should jerk him off."
-    vw "응. 직접적으로 말은 안하고, 에둘러서 자기를 한 발 빼줘야 한다는 식으로 눈치를 주더라니까."
+    vw "응. 직접적으로 말은 안 하고, 에둘러서 자기를 한 발 빼 줘야 한다는 식으로 눈치를 주더라니까."
 
 # game/code/d10/d10s04.rpy:167
 translate korean d10s04_43393439:
@@ -260,19 +260,19 @@ translate korean d10s04_43393439:
 translate korean d10s04_59f7e088:
 
     # vw "Of course not! What kind of woman do you think I am?"
-    vw "당연히 안했지! 날 무슨 여자라고 생각하는 거니?"
+    vw "당연히 안 했지! 날 무슨 여자라고 생각하는 거니?"
 
 # game/code/d10/d10s04.rpy:173
 translate korean d10s04_493b3a12:
 
     # mc "One that was in a desperate situation and needed clothes?"
-    mc "절박한 상황에서 처해서 옷이 필요했던 여자?"
+    mc "절박한 상황에 처해서 옷이 필요했던 여자?"
 
 # game/code/d10/d10s04.rpy:175
 translate korean d10s04_4a651f4b:
 
     # vw "Bah. I had my phone. I could have called someone like you to help me out."
-    vw "흥. 전화는 있었어. 너처럼 날 도와줄 만한 사람한테 전화할 수도 있있다구."
+    vw "흥. 전화는 있었어. 너처럼 날 도와줄 만한 사람한테 전화할 수도 있었어."
 
 # game/code/d10/d10s04.rpy:178
 translate korean d10s04_2d8a7c65:
@@ -302,7 +302,7 @@ translate korean d10s04_1f9efbd8:
 translate korean d10s04_566beecf:
 
     # mc "Nice deal. {w}Still, it sounds like a stressful experience."
-    mc "그 정도면 괜찮네요. {w}그렇긴 해도, 곤궁한 처지였겠어요."
+    mc "그 정도면 괜찮네요. {w}그렇긴 해도, 정말 곤란한 일이었네요."
 
 # game/code/d10/d10s04.rpy:187
 translate korean d10s04_40511e6c:
@@ -338,7 +338,7 @@ translate korean d10s04_577e9da8:
 translate korean d10s04_f41029aa:
 
     # vw "It was kinda hot."
-    vw "핫 했던 거 같아."
+    vw "핫했던 거 같아."
 
 # game/code/d10/d10s04.rpy:201
 translate korean d10s04_11455b53:
@@ -476,7 +476,7 @@ translate korean d10s04_2c5292c5:
 translate korean d10s04_dc91df57:
 
     # vw "Almost as gorgeous as the one across town, but much easier on the client's budget."
-    vw "도시 건너편 지역 정도로 화려하지만, 고객의 예산엔 더 상냥하잖아."
+    vw "시내 건너편에 있는 매물만큼 근사하면서도 손님 예산 부담은 훨씬 덜하잖아."
 
 # game/code/d10/d10s04.rpy:254
 translate korean d10s04_22411a9c:
@@ -506,7 +506,7 @@ translate korean d10s04_6435aacb:
 translate korean d10s04_a71b5f37:
 
     # mc "Lyssa, Vanessa - this is Stacy. The new tenant."
-    mc "리사, 버네사. 얜 스테이시에요. 새 임차인이죠."
+    mc "리사, 버네사. 얜 스테이시예요. 새 임차인이죠."
 
 # game/code/d10/d10s04.rpy:266
 translate korean d10s04_9d5948cb:
@@ -602,7 +602,7 @@ translate korean d10s04_623f6eb0:
 translate korean d10s04_df4feac5:
 
     # sy "And the girl said..."
-    sy "그리고 소녀는 말로써..."
+    sy "그리고 소녀 가라사대..."
 
 # game/code/d10/d10s04.rpy:307
 translate korean d10s04_cc293a81:
@@ -614,7 +614,7 @@ translate korean d10s04_cc293a81:
 translate korean d10s04_0a95851c:
 
     # sy "...interior lighting!"
-    sy "...비추어라, 실내 조명!"
+    sy "...바로 실내 조명이어라!"
 
 # game/code/d10/d10s04.rpy:313
 translate korean d10s04_1dd318ab:
@@ -626,7 +626,7 @@ translate korean d10s04_1dd318ab:
 translate korean d10s04_267d3d55:
 
     # sy "What's this? What's this? {w}There's beauty everywhere!"
-    sy "이게 뭐람? 이게 뭐람? {w}어디를 봐도 아름다움이 가득해!"
+    sy "이게 뭐람? 이게 뭐람? {w}세상 모든 게 다 아름다워!"
 
 # game/code/d10/d10s04.rpy:318
 translate korean d10s04_6c6894ae:
@@ -662,7 +662,7 @@ translate korean d10s04_24aa2f55:
 translate korean d10s04_b82a1e9f:
 
     # mc "Stacy! Do not fuck with the Mouse!"
-    mc "스테이시! 그 유명한 마우스 씨한텐 장난치면 안 돼!"
+    mc "스테이시! 그 유명한 생쥐네는 건드리면 좆돼!"
 
 # game/code/d10/d10s04.rpy:331
 translate korean d10s04_bb5d7275:
@@ -686,7 +686,7 @@ translate korean d10s04_d1b80a4e:
 translate korean d10s04_d66803cd:
 
     # mc "Enough! You're going to get us-"
-    mc "충분해! 우릴 고소 당하게 할 작정-"
+    mc "그만해! 우릴 고소당하게 할 작정-"
 
 # game/code/d10/d10s04.rpy:346
 translate korean d10s04_34d29bf1:
@@ -740,7 +740,7 @@ translate korean d10s04_7acef5bc:
 translate korean d10s04_7b0c19dd:
 
     # mc "I couldn't even hear my own thoughts."
-    mc "내 생각도 들리지 않을 정도였어요."
+    mc "난 내 생각조차 안 들리더라고요."
 
 # game/code/d10/d10s04.rpy:375
 translate korean d10s04_a244414c:
@@ -788,7 +788,7 @@ translate korean d10s04_2f9caf69:
 translate korean d10s04_237045b5:
 
     # vw "This is your new apartment."
-    vw "여기가 스테이시 양의 새 아파트에요."
+    vw "여기가 스테이시 양의 새 아파트예요."
 
 # game/code/d10/d10s04.rpy:399
 translate korean d10s04_3183f234:
@@ -824,7 +824,7 @@ translate korean d10s04_c7db4701:
 translate korean d10s04_58e1ae3d:
 
     # sy "By law you have to notify me if there there were any violent deaths on the premises!"
-    sy "법에 따라서 부지 내에 사망 사건이 있었을 경우 저에게 알려 주셔야 해요!"
+    sy "법적으로 이 건물에서 흉악한 변사 사건이 일어난 적이 있다면 미리 고지해 주셔야 하잖아요!"
 
 # game/code/d10/d10s04.rpy:416
 translate korean d10s04_acdf4dfc:
@@ -866,19 +866,19 @@ translate korean d10s04_0a2d10cd:
 translate korean d10s04_382eff21:
 
     # vw "No, that is standard form of contract. Such info is given in a form of notice. There are also some exceptions..."
-    vw "아뇨, 이건 표준 양식 계약서라서요. 그런 정보에 관해서는 별도의 고지 양식에 기재가 되요. 다른 예외 사항도 있긴 하지만..."
+    vw "아뇨, 이건 표준 양식 계약서라서요. 그런 정보에 관해서는 별도의 고지 양식에 기재가 돼요. 다른 예외 사항도 있긴 하지만..."
 
 # game/code/d10/d10s04.rpy:431
 translate korean d10s04_54f61690:
 
     # sy "Yes, the exception is if someone dies from human immunodeficiency or AIDS. But do you just hide that info is such case?"
-    sy "참, 예외 사항이라는 게 면역력 결핍이나 에이즈로 죽은 사람의 경우죠. 그런 정보라고 해도 숨겨도 되는 거예요?"
+    sy "참, 예외 사항이라는 게 인체 면역 결핍 바이러스나 에이즈로 죽은 사람의 경우죠. 그런 정보라고 해도 숨겨도 되는 거예요?"
 
 # game/code/d10/d10s04.rpy:433
 translate korean d10s04_efbff18b:
 
     # vw "In such cases it isn't disclosed, but still we can't straight out lie about it either."
-    vw "그런 정보는 공개되지 않아요. 그렇다고 해서 숨길 수는 없지만요."
+    vw "그런 경우는 먼저 공개하지는 않지만, 그렇다고 대놓고 거짓말을 하지는 않아요."
 
 # game/code/d10/d10s04.rpy:435
 translate korean d10s04_3bc907b8:
@@ -920,7 +920,7 @@ translate korean replay_d10s04_84362156:
 translate korean replay_d10s04_f800ff24:
 
     # mc "Is it partially soundproof?"
-    mc "되는 곳이 있고 안 되는 곳이 있는 거야?"
+    mc "어느 정도는 방음이 되는 거야?"
 
 # game/code/d10/d10s04.rpy:465
 translate korean replay_d10s04_0471a9f8:
@@ -956,13 +956,13 @@ translate korean replay_d10s04_47de0419:
 translate korean replay_d10s04_fa906d30:
 
     # mc "So, we just have to make sure we don't take so long they wonder what happened to us."
-    mc "그러면, 우리가 뭘 했는지도 모르게 후딱 해치워야겠네."
+    mc "그러면, 우리가 왜 이렇게 안 오나 싶을 만큼 오래 걸리지만 않으면 되겠네."
 
 # game/code/d10/d10s04.rpy:482
 translate korean replay_d10s04_87c10b71:
 
     # mh "You'd be surprised how long a simple rental contract can be."
-    mh "간단한 임대차 계약이 얼마나 오래 걸리는지 걸 알면 놀랄 걸."
+    mh "간단한 임대차 계약이 얼마나 오래 걸리는지 알면 놀랄걸."
 
 # game/code/d10/d10s04.rpy:485
 translate korean replay_d10s04_41f550cf:
@@ -1004,25 +1004,25 @@ translate korean replay_d10s04_49874b7c:
 translate korean replay_d10s04_c7eab8ba:
 
     # mc "Let's see what I can do about firming up the opposition."
-    mc "반대 변론에 힘을 실으려면 뭘 해야 할까."
+    mc "반대 측을 얼마나 단단하게 세울 수 있는지 한번 볼까."
 
 # game/code/d10/d10s04.rpy:505
 translate korean replay_d10s04_77aecfe2:
 
     # mh "You seem to have a very compelling argument."
-    mh "탄탄한 변론으로 주장을 시작하고 싶나 봐."
+    mh "탄탄한 변론으로 시작하고 싶나 봐."
 
 # game/code/d10/d10s04.rpy:508
 translate korean replay_d10s04_202616cd:
 
     # mc "I wonder if we should begin oral arguments."
-    mc "구두 변론을 해야 하려나."
+    mc "슬슬 구두 변론부터 시작해 볼까 싶은데."
 
 # game/code/d10/d10s04.rpy:511
 translate korean replay_d10s04_42a22b24:
 
     # mh "I was thinking of cross examination..."
-    mh "난 반대 심문을 생각했는데..."
+    mh "난 교차 검증 쪽을 생각하고 있었는데..."
 
 # game/code/d10/d10s04.rpy:514
 translate korean replay_d10s04_4662b390:
@@ -1034,19 +1034,19 @@ translate korean replay_d10s04_4662b390:
 translate korean replay_d10s04_cbdea6da:
 
     # mh "I motion to prolong discovery."
-    mh "아주 긴 발표 요구 수속을 요청하지."
+    mh "증거 개시 절차를 연장할 것을 신청하지."
 
 # game/code/d10/d10s04.rpy:519
 translate korean replay_d10s04_ec5792d5:
 
     # mh "Unless you want to present your rebuttal."
-    mh "당신이 반박을 제시하고 싶지 않다면."
+    mh "당신이 먼저 뒤로 반박을 하고 싶은 게 아니라면."
 
 # game/code/d10/d10s04.rpy:522
 translate korean replay_d10s04_6e7a6c20:
 
     # mh "Although you might make too much noise if my co-counsel tore your arguments apart."
-    mh "내 동료 변호사가 당신 변론을 갈가리 반박한다면 너무 큰 소란이 일어날 수도 있으니까."
+    mh "내 동료 변호사가 당신 논리를 사정없이 반박한다면 너무 큰 소란이 일어날 수도 있으니까."
 
 # game/code/d10/d10s04.rpy:525
 translate korean replay_d10s04_baa587ba:
@@ -1064,7 +1064,7 @@ translate korean replay_d10s04_b611674b:
 translate korean replay_d10s04_6b19e74e:
 
     # mc "I've heard of grabbing the opposition by the balls during a negotiation, but what do you call this?"
-    mc "협상 중에 상대방의 고간을 잡는다는 말은 들어 본 적이 있긴 한데, 이건 뭐라고 해?"
+    mc "협상할 때 상대의 불알을 쥐고 흔든다는 말은 들어 본 적이 있긴 한데, 이건 뭐라고 불러야 해?"
 
 # game/code/d10/d10s04.rpy:542
 translate korean replay_d10s04_1af409cb:
@@ -1112,7 +1112,7 @@ translate korean replay_d10s04_0d246e92:
 translate korean replay_d10s04_457749d3:
 
     # mc "It's not bad, just not doing anything for me."
-    mc "나쁘진 않아, 내가 받는 건 아무것도 없지만."
+    mc "나쁘진 않은데, 나한테는 별 느낌이 안 와서..."
 
 # game/code/d10/d10s04.rpy:586
 translate korean replay_d10s04_3bf94f57:
@@ -1136,7 +1136,7 @@ translate korean replay_d10s04_bb743d53:
 translate korean replay_d10s04_16af6ae1:
 
     # vw "Oh, that's just the image and likeness rights."
-    vw "아, 그건 그저 형상과 모양에 관한 거에요."
+    vw "아, 그건 그저 초상권에 관한 거예요."
 
 # game/code/d10/d10s04.rpy:592
 translate korean replay_d10s04_a85e2897:
@@ -1160,19 +1160,19 @@ translate korean replay_d10s04_2e9c9cfb:
 translate korean replay_d10s04_daf4d840:
 
     # "A little longer than a few minutes later."
-    "몇 분이 지난 뒤."
+    "몇 분보다는 조금 더 지난 뒤."
 
 # game/code/d10/d10s04.rpy:654
 translate korean d10s04_cum_d2dbc43c:
 
     # mh "The case is mine now!"
-    mh "이번은 나의 승소네!"
+    mh "이번 사건은 내가 이겼네!"
 
 # game/code/d10/d10s04.rpy:659
 translate korean d10s04_cum_60a18733:
 
     # mc "Motion denied!"
-    mc "선고 연기!"
+    mc "신청 기각!"
 
 # game/code/d10/d10s04.rpy:661
 translate korean d10s04_cum_5383ee5c:
@@ -1184,13 +1184,13 @@ translate korean d10s04_cum_5383ee5c:
 translate korean d10s04_cum_896f9158:
 
     # mc "This case will be postponed to prevent mistrial!"
-    mc "이 사건은 배심원단의 의견 불일치로 인한 미결정 심리를 막기 위해 연기한다!"
+    mc "심리 무효를 방지하기 위해 이 사건의 공판을 연기하겠다!"
 
 # game/code/d10/d10s04.rpy:666
 translate korean d10s04_cum_92f14344:
 
     # mh "I'm begging for a settlement!"
-    mh "의견 조정을 간청합니다!"
+    mh "합의를 간청합니다!"
 
 # game/code/d10/d10s04.rpy:668
 translate korean d10s04_cum_acece756:
@@ -1202,7 +1202,7 @@ translate korean d10s04_cum_acece756:
 translate korean d10s04_cum_fef03c5f:
 
     # mh "I'm afraid it will lead to a hung jury..."
-    mh "배심원단의 의견 일치에 아주 큰 장애가 될 수 있다는 걱정이 앞섭니다만..."
+    mh "배심원단의 의견 일치에 아주 큰 장애가 생겨 평결 불능이 될까 심히 염려스럽습니다만..."
 
 # game/code/d10/d10s04.rpy:672
 translate korean d10s04_cum_45645c85:
@@ -1214,7 +1214,7 @@ translate korean d10s04_cum_45645c85:
 translate korean d10s04_cum_1bd995e0:
 
     # mc "Would you care to retry your position on this argument?"
-    mc "변호인은 이에 대해 재심을 요청하겠는가?"
+    mc "이 주장에 대한 입장을 다시 검토해 보겠는가?"
 
 # game/code/d10/d10s04.rpy:694
 translate korean d10s04_cum_f37d2a56:
@@ -1226,13 +1226,13 @@ translate korean d10s04_cum_f37d2a56:
 translate korean d10s04_cum_37e35b2a:
 
     # mc "Definitely. Would you care to debate further?"
-    mc "정말 그렇네. 추가적인 논의를 진행할 의향은 있으신가요?"
+    mc "확실히 그렇네. 변론을 더 이어가 보실 의향은 있어?"
 
 # game/code/d10/d10s04.rpy:701
 translate korean d10s04_cum_fbce4aa5:
 
     # mh "I'd love to, but we should get back before they notice we're gone."
-    mh "정말 그러고 싶지만, 우리가 사라진 걸 눈치채기 전에 돌아가야겠네요."
+    mh "정말 그러고 싶지만, 우리가 사라진 걸 눈치채기 전에 돌아가야지."
 
 # game/code/d10/d10s04.rpy:708
 translate korean d10s04_cum_bb743d53:
@@ -1244,7 +1244,7 @@ translate korean d10s04_cum_bb743d53:
 translate korean d10s04_cum_16af6ae1:
 
     # vw "Oh, that's just the image and likeness rights."
-    vw "아, 그건 그저 형상과 모양에 관한 거에요."
+    vw "아, 그건 그저 초상권에 관한 거예요."
 
 # game/code/d10/d10s04.rpy:710
 translate korean d10s04_cum_a85e2897:
@@ -1298,7 +1298,7 @@ translate korean d10s04_end_ddca17bb:
 translate korean d10s04_end_c713ed6b:
 
     # mh "Never between friends."
-    mh "친구 사이엔 안하죠."
+    mh "친구 사이에 그럴 리가요."
 
 # game/code/d10/d10s04.rpy:742
 translate korean d10s04_end_2058b688:
@@ -1310,7 +1310,7 @@ translate korean d10s04_end_2058b688:
 translate korean d10s04_end_b4a9a71d:
 
     # vw "Oh yes, [mcname] would you do the honors?"
-    vw "아 맞다, [mcname] 군도 같이 임차인이 되는 거죠?"
+    vw "아, 참. [mcname] 군이 직접 서명해 주겠어요?"
 
 # game/code/d10/d10s04.rpy:747
 translate korean d10s04_end_80d8908d:
@@ -1328,7 +1328,7 @@ translate korean d10s04_end_a2e7e037:
 translate korean d10s04_end_19bd36f7:
 
     # mc "Alrighty. Let me just scrawl my X on the dotted line."
-    mc "알겠어요. 점선 위에 가위표를 할게요."
+    mc "알겠어요. 점선 위에 대충 서명할게요."
 
 # game/code/d10/d10s04.rpy:755
 translate korean d10s04_end_ab68610b:
